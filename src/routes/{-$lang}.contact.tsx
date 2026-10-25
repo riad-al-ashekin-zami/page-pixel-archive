@@ -98,7 +98,7 @@ const schema = z.object({
   practiceType: z.string().min(1, "practiceType"),
   need: z.string().min(1, "need"),
   message: z.string().trim().max(1000, "message"),
-  consent: z.literal(true, "consent"),
+  consent: z.boolean().refine((v) => v === true, "consent"),
 });
 
 type FormState = {
