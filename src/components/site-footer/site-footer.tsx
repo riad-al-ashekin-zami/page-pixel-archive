@@ -143,7 +143,8 @@ export function SiteFooter({ hideCta = false }: { hideCta?: boolean } = {}) {
         }}
       />
 
-      {/* Hero CTA band */}
+      {/* Hero CTA band (hidden on legal pages) */}
+      {!hideCta && (
       <div className="mx-auto max-w-7xl px-4 pt-10 sm:px-6 sm:pt-12 md:px-8 md:pt-14">
         <div
           className="relative overflow-hidden rounded-2xl border border-white/10 px-5 py-6 sm:px-8 sm:py-7 md:px-10 md:py-8"
@@ -253,6 +254,7 @@ export function SiteFooter({ hideCta = false }: { hideCta?: boolean } = {}) {
           </div>
         </div>
       </div>
+      )}
 
       {/* Main grid */}
       <div className="mx-auto max-w-7xl px-4 pb-10 pt-10 sm:px-6 sm:pt-12 md:px-8">

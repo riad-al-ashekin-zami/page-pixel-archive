@@ -4,7 +4,6 @@ import { buildHreflangLinks } from "@/lib/i18n-routing";
 import { FileText, Scale, Mail, ArrowRight, Cookie } from "lucide-react";
 import { SiteHeader } from "@/components/site-header/site-header";
 import { SiteFooter } from "@/components/site-footer/site-footer";
-import { FaqSnippetSection } from "@/components/sections/faq-snippet-section";
 import { isValidUrlLang } from "@/i18n/languages";
 import { useTranslation } from "react-i18next";
 import { getStaticTranslation } from "@/i18n";
@@ -27,7 +26,7 @@ export const Route = createFileRoute("/{-$lang}/cookie-policy")({
       meta: [
         { title: st?.meta?.title ?? "Cookie Policy — How We Use Cookies" },
         { name: "description", content: st?.meta?.description ?? "" },
-        { name: "robots", content: "index,follow" },
+        { name: "robots", content: "noindex,follow" },
         { property: "og:title", content: st?.meta?.og?.title ?? "" },
         { property: "og:description", content: st?.meta?.og?.description ?? "" },
         { property: "og:type", content: "article" },
@@ -259,8 +258,7 @@ function CookiePolicyPage() {
         </section>
       </main>
 
-      <FaqSnippetSection />
-      <SiteFooter />
+      <SiteFooter hideCta />
     </div>
   );
 }

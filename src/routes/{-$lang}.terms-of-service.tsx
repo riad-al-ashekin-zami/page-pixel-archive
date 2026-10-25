@@ -4,7 +4,6 @@ import { buildHreflangLinks } from "@/lib/i18n-routing";
 import { FileText, Scale, Mail, ArrowRight, Gavel } from "lucide-react";
 import { SiteHeader } from "@/components/site-header/site-header";
 import { SiteFooter } from "@/components/site-footer/site-footer";
-import { FaqSnippetSection } from "@/components/sections/faq-snippet-section";
 import { isValidUrlLang } from "@/i18n/languages";
 import { useTranslation, Trans } from "react-i18next";
 import { getStaticTranslation } from "@/i18n";
@@ -28,7 +27,7 @@ export const Route = createFileRoute("/{-$lang}/terms-of-service")({
       meta: [
         { title: st?.meta?.title ?? "Terms of Service — Website Use & Engagement" },
         { name: "description", content: st?.meta?.description ?? "The terms that govern your use of our website, communications, and any services you engage from our studio." },
-        { name: "robots", content: "index,follow" },
+        { name: "robots", content: "noindex,follow" },
         { property: "og:title", content: st?.meta?.og_title ?? "Terms of Service — Website Use & Engagement" },
         { property: "og:description", content: st?.meta?.og_description ?? "The terms that govern your use of our website, communications, and any services you engage from our studio." },
         { property: "og:type", content: "article" },
@@ -258,8 +257,7 @@ function TermsOfServicePage() {
         </section>
       </main>
 
-      <FaqSnippetSection />
-      <SiteFooter />
+      <SiteFooter hideCta />
     </div>
   );
 }

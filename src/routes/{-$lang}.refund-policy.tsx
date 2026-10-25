@@ -4,7 +4,6 @@ import { buildHreflangLinks } from "@/lib/i18n-routing";
 import { FileText, Scale, Mail, ArrowRight, RefreshCcw } from "lucide-react";
 import { SiteHeader } from "@/components/site-header/site-header";
 import { SiteFooter } from "@/components/site-footer/site-footer";
-import { FaqSnippetSection } from "@/components/sections/faq-snippet-section";
 import { isValidUrlLang } from "@/i18n/languages";
 import { useTranslation } from "react-i18next";
 import { getStaticTranslation } from "@/i18n";
@@ -27,7 +26,7 @@ export const Route = createFileRoute("/{-$lang}/refund-policy")({
       meta: [
         { title: st?.meta?.title ?? "Refund Policy — Deposits, Milestones & Recurring Plans" },
         { name: "description", content: st?.meta?.description ?? "How deposits, milestone payments, and recurring plans are handled if you cancel or aren't satisfied with our services." },
-        { name: "robots", content: "index,follow" },
+        { name: "robots", content: "noindex,follow" },
         { property: "og:title", content: st?.meta?.og?.title ?? "Refund Policy — Deposits, Milestones & Recurring Plans" },
         { property: "og:description", content: st?.meta?.og?.description ?? "How deposits, milestone payments, and recurring plans are handled if you cancel or aren't satisfied with our services." },
         { property: "og:type", content: "article" },
@@ -238,8 +237,7 @@ function RefundPolicyPage() {
         </section>
       </main>
 
-      <FaqSnippetSection />
-      <SiteFooter />
+      <SiteFooter hideCta />
     </div>
   );
 }
