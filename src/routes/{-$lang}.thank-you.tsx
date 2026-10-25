@@ -8,6 +8,7 @@ import { isValidUrlLang } from "@/i18n/languages";
 import { resolveRouteLanguage } from "@/lib/i18n-routing";
 import { useTranslation } from "react-i18next";
 import { getStaticTranslation } from "@/i18n";
+import { robotsContent } from "@/lib/index-allowlist";
 
 export const Route = createFileRoute("/{-$lang}/thank-you")({
   params: {
@@ -25,7 +26,7 @@ export const Route = createFileRoute("/{-$lang}/thank-you")({
     const st = getStaticTranslation(resolveRouteLanguage(params.lang), "contact");
     return {
       meta: [
-        { name: "robots", content: "noindex,follow" },
+        { name: "robots", content: robotsContent(params.lang, "/thank-you") },
         { title: st?.thankYou?.metaTitle ?? "Thank You" },
         {
           name: "description",
@@ -33,6 +34,10 @@ export const Route = createFileRoute("/{-$lang}/thank-you")({
             st?.thankYou?.metaDescription ??
             "We received your audit request. Your free website audit will arrive within 48 hours.",
         },
+        { property: "og:title", content: st?.thankYou?.metaTitle ?? "Audit Request Received — Dermatology Website Design" },
+        { property: "og:description", content: st?.thankYou?.metaDescription ?? "We received your website audit request." },
+        { property: "og:type", content: "website" },
+        { name: "twitter:card", content: "summary" },
       ],
     };
   },
