@@ -224,8 +224,6 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
       { property: "og:description", content: "Dermatology website design agency building HIPAA-aware, SEO-optimized websites for dermatology practices. Transparent pricing. Free audit." },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
-      { name: "twitter:title", content: "Dermatology Website Design | HIPAA-Aware, SEO-Ready Websites" },
-      { name: "twitter:description", content: "Dermatology website design agency building HIPAA-aware, SEO-optimized websites for dermatology practices. Transparent pricing. Free audit." },
       { property: "og:image", content: "https://storage.googleapis.com/gpt-engineer-file-uploads/attachments/og-images/6625be73-cd9f-4bff-8690-cc040752ae00" },
       { name: "twitter:image", content: "https://storage.googleapis.com/gpt-engineer-file-uploads/attachments/og-images/6625be73-cd9f-4bff-8690-cc040752ae00" },
     ],
