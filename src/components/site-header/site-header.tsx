@@ -9,6 +9,7 @@ import { ServicesMega } from "./mega-services";
 import { InsightsMega } from "./mega-insights";
 import { MobileDrawer } from "./mobile-drawer";
 import { LocalLink } from "@/components/local-link";
+import { CTA_I18N_KEY, CTA_LABEL, CTA_URL } from "@/lib/cta";
 
 interface SiteHeaderProps {
   transparentOverHero?: boolean;
