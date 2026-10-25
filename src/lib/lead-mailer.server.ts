@@ -20,6 +20,12 @@ export type LeadEmailPayload = {
   ip_address?: string | null;
   country?: string | null;
   user_agent?: string | null;
+  language?: string | null;
+  utm_source?: string | null;
+  utm_medium?: string | null;
+  utm_campaign?: string | null;
+  utm_term?: string | null;
+  utm_content?: string | null;
   lead_score: string;
 };
 
@@ -55,6 +61,12 @@ function adminHtml(lead: LeadEmailPayload) {
     ${row("IP", lead.ip_address)}
     ${row("Referrer", lead.referrer)}
     ${row("Device", lead.user_agent)}
+    ${row("Language", lead.language)}
+    ${row("UTM source", lead.utm_source)}
+    ${row("UTM medium", lead.utm_medium)}
+    ${row("UTM campaign", lead.utm_campaign)}
+    ${row("UTM term", lead.utm_term)}
+    ${row("UTM content", lead.utm_content)}
   </table>
   <h3 style="margin:20px 0 6px;font-size:14px">Project details</h3>
   <p style="white-space:pre-wrap;font-size:13px;color:#0f172a">${esc(lead.project_details)}</p>
@@ -66,18 +78,14 @@ function adminHtml(lead: LeadEmailPayload) {
 
 function visitorHtml(lead: LeadEmailPayload) {
   return `<div style="font-family:system-ui,-apple-system,Segoe UI,sans-serif;max-width:600px;color:#0f172a">
-  <h2 style="margin:0 0 12px">Thanks for reaching out, ${esc(lead.name)}!</h2>
+  <h2 style="margin:0 0 12px">Thanks, ${esc(lead.name)} — we received your audit request.</h2>
   <p style="font-size:14px;line-height:1.6">
-    We've received your message about your dermatology practice website and a specialist from our
-    team will reply personally within 24 hours (Mon–Fri).
+    Your free, personalized website audit will arrive in your inbox within 48 hours.
+    It will cover SEO, speed and conversion opportunities for your practice website.
   </p>
-  <p style="font-size:14px;line-height:1.6">Here's a copy of what you sent us:</p>
-  <blockquote style="margin:0;padding:12px 16px;background:#f8fafc;border-left:3px solid #0ea5e9;font-size:13px;white-space:pre-wrap">${esc(
-    lead.project_details,
-  )}</blockquote>
   <p style="font-size:14px;line-height:1.6">
-    In the meantime, feel free to browse our
-    <a href="https://dermatologywebsitedesign.com/dermatology-websites-portfolio">recent work</a>.
+    Please do not reply to this email with patient information or protected health
+    information (PHI).
   </p>
   <p style="font-size:13px;color:#64748b;margin-top:24px">
     Dermatology Website Design · ${esc(ADMIN_EMAIL)}
@@ -139,7 +147,7 @@ export async function sendLeadEmails(lead: LeadEmailPayload): Promise<{
   try {
     await sendEmail({
       to: lead.email,
-      subject: "We received your message — Dermatology Website Design",
+      subject: "We received your audit request",
       html: visitorHtml(lead),
       replyTo: ADMIN_EMAIL,
     });
