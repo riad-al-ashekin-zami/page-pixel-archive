@@ -706,12 +706,6 @@ function SocialPage() {
                     >
                       <CtaLabel /> <ArrowRight className="h-4 w-4" />
                     </Link>
-                    <Link
-                      to="/contact"
-                      className={`${ctaBtn} border border-border/70 bg-background/70 text-foreground backdrop-blur hover:border-brand-primary/40 hover:text-brand-primary`}
-                    >
-                      {t("cta.secondary")}
-                    </Link>
                   </div>
                 </div>
               </div>

@@ -415,12 +415,6 @@ function PracticeGrowthPage() {
                 >
                   <CtaLabel /> <ArrowRight className="h-4 w-4" />
                 </Link>
-                <Link
-                  to="/contact"
-                  className={`${ctaBtn} border border-border/70 bg-background/70 text-foreground backdrop-blur hover:border-brand-primary/40 hover:text-brand-primary`}
-                >
-                  {t("cta.secondary")}
-                </Link>
               </div>
             </div>
           </div>
@@ -432,9 +426,6 @@ function PracticeGrowthPage() {
         <div className="pointer-events-auto mx-3 mb-3 rounded-full border border-border/70 bg-background/95 py-3 pl-5 pr-2 shadow-2xl backdrop-blur">
           <div className="flex items-center justify-between gap-3">
             <span className="truncate text-sm font-semibold text-foreground">{t("stickyCta.label")}</span>
-            <Link to="/contact" className="inline-flex items-center gap-1.5 rounded-full bg-brand-primary px-4 py-2 text-xs font-semibold text-brand-primary-foreground">
-              <CtaLabel /> <ArrowRight className="h-3.5 w-3.5" />
-            </Link>
           </div>
         </div>
       </div>

@@ -774,8 +774,7 @@ function EmailMarketingPage() {
                 <h2 id="cta-h" className="text-3xl font-bold tracking-tight text-brand-primary-foreground sm:text-4xl lg:text-5xl">{t("cta.heading")}</h2>
                 <p className="mt-5 max-w-xl text-base leading-relaxed text-brand-primary-foreground/90 sm:text-lg">{t("cta.description")}</p>
                 <div className="mt-8 flex flex-col gap-3 sm:flex-row">
-                  <Link to="/contact" className={`${ctaBtn} bg-background text-brand-primary shadow-lg hover:-translate-y-0.5`}>{t("cta.auditBtn")} <ArrowRight className="h-4 w-4" /></Link>
-                  <Link to="/contact" className={`${ctaBtn} border border-brand-primary-foreground/30 text-brand-primary-foreground hover:bg-brand-primary-foreground/10`}><CtaLabel /></Link>
+                  <Link to="/contact" className={`${ctaBtn} bg-background text-brand-primary shadow-lg hover:-translate-y-0.5`}><CtaLabel /> <ArrowRight className="h-4 w-4" /></Link>
                 </div>
               </div>
             </div>

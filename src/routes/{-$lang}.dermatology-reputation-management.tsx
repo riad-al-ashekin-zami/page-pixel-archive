@@ -692,13 +692,7 @@ function ReputationPage() {
                     to="/contact"
                     className={`${ctaBtn} bg-background text-brand-primary shadow-lg hover:-translate-y-0.5`}
                   >
-                    {t("cta_bottom.cta_audit")} <ArrowRight className="h-4 w-4" />
-                  </Link>
-                  <Link
-                    to="/contact"
-                    className={`${ctaBtn} border border-brand-primary-foreground/30 text-brand-primary-foreground hover:bg-brand-primary-foreground/10`}
-                  >
-                    <CtaLabel />
+                    <CtaLabel /> <ArrowRight className="h-4 w-4" />
                   </Link>
                 </div>
               </div>
