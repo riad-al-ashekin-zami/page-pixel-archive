@@ -1,3 +1,4 @@
-# Roadmap — One CTA, one form, sitewide
+# Roadmap — Formspree audit integration
 
-All tasks complete. Owner inputs pending: RESEND_API_KEY secret (emails), publish to ship.
+- [x] Forward the existing audit form to the owner's Formspree endpoint after saving the lead.
+- [ ] Test forwarding success/failure and verify a real submission is saved and accepted.
