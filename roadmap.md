@@ -1,5 +1,11 @@
 # Roadmap — Formspree audit integration
 
+## Live site media and language
+
+- [ ] Fix external-host image delivery for logos, preloader and all stored images.
+- [ ] Keep English as the default without automatic language redirects.
+- [ ] Verify images, icons and language selection in the browser.
+
 - [x] Forward the existing audit form to the owner's Formspree endpoint after saving the lead.
 - [x] Test forwarding success/failure and verify a real submission is saved and accepted.
 - [x] Remove unverified email-confirmation claims and delete only the test lead.
