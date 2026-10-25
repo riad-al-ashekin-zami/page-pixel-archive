@@ -191,7 +191,7 @@ function FeatureCard({ onNavigate }: { onNavigate?: () => void }) {
           onClick={onNavigate}
           className="mt-3 inline-flex items-center gap-1.5 rounded-full bg-brand-accent px-3 py-1.5 text-[11px] font-semibold text-foreground shadow-lg transition-transform hover:scale-[1.03]"
         >
-          {t("common.getFreeQuote")} <ArrowUpRight className="h-3 w-3" />
+          {t("common.ctaLabel")} <ArrowUpRight className="h-3 w-3" />
         </LocalLink>
       </div>
     </div>

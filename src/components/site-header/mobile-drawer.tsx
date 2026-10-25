@@ -157,7 +157,7 @@ export function MobileDrawer({ open, onClose }: { open: boolean; onClose: () => 
             onClick={onClose}
             className="flex min-h-11 items-center justify-center gap-1.5 rounded-full bg-brand-accent px-5 text-sm font-semibold text-foreground shadow-lg transition-transform active:scale-[0.98]"
           >
-            {t("cta.getFreeQuote")} <ArrowRight className="h-4 w-4" />
+            {t("cta.label")} <ArrowRight className="h-4 w-4" />
           </LocalLink>
           <div className="mt-3 flex items-center justify-center gap-3">
             {[

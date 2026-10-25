@@ -31,7 +31,7 @@ export function InsightsMega({ onNavigate }: { onNavigate?: () => void }) {
           onClick={onNavigate}
           className="mt-4 inline-flex items-center gap-1.5 rounded-full bg-brand-accent px-4 py-2 text-xs font-semibold text-foreground shadow-lg transition-transform hover:scale-[1.03]"
         >
-          {t("common.requestFreeAudit")} <ArrowUpRight className="h-3.5 w-3.5" />
+          {t("common.ctaLabel")} <ArrowUpRight className="h-3.5 w-3.5" />
         </LocalLink>
       </div>
     </div>
