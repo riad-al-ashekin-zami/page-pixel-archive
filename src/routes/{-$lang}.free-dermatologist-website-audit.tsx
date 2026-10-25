@@ -59,7 +59,7 @@ export const Route = createFileRoute("/{-$lang}/free-dermatologist-website-audit
     const st = getStaticTranslation(resolveRouteLanguage(params.lang), "freeAudit");
     return {
       meta: [
-        { title: st?.meta?.title ?? "Free Dermatologist Website Audit — 24-Hour Actionable Report" },
+        { title: st?.meta?.title ?? "Free Dermatologist Website Audit — 48-Hour Actionable Report" },
         {
           name: "description",
           content: st?.meta?.description ?? "Get a free, dermatology-specific website audit. Personalized report on SEO, speed, HIPAA, UX and conversion — delivered within 48 hours.",
