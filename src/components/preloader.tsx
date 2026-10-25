@@ -14,7 +14,7 @@ export function Preloader() {
   const [progress, setProgress] = useState(0);
   const [hydrated, setHydrated] = useState(false);
 
-  const isNavigating = useRouterState({ select: (s) => s.isLoading || s.isTransitioning });
+  const isNavigating = useRouterState({ select: (s) => s.isLoading || s.status === "pending" });
   const showStartRef = useRef<number | null>(null);
   const navDelayTimerRef = useRef<number | null>(null);
   const rafRef = useRef<number | null>(null);
