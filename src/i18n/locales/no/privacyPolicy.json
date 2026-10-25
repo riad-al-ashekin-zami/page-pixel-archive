@@ -1,0 +1,107 @@
+{
+  "meta": {
+    "title": "Personvernerklæring — Slik håndterer vi dine opplysninger",
+    "description": "Slik samler vårt studio inn, bruker, deler og beskytter vi informasjon fra besøkende, potensielle kunder og hudlegepraksiser vi samarbeider med.",
+    "og": {
+      "title": "Personvernerklæring — Slik håndterer vi dine opplysninger",
+      "description": "Slik samler vårt studio inn, bruker, deler og beskytter vi informasjon fra besøkende, potensielle kunder og hudlegepraksiser vi samarbeider med."
+    },
+    "twitter": {
+      "title": "Personvernerklæring — Slik håndterer vi dine opplysninger",
+      "description": "Slik samler vårt studio inn, bruker, deler og beskytter vi informasjon fra besøkende, potensielle kunder og hudlegepraksiser vi samarbeider med."
+    }
+  },
+  "layout": {
+    "skipToContent": "Gå til innhold"
+  },
+  "hero": {
+    "badge": "Juridisk · Personvernerklæring",
+    "title": "Personvernerklæring",
+    "description": "Hvordan vi samler inn, bruker, deler og beskytter informasjon fra besøkende, potensielle kunder og praksisene vi samarbeider med.",
+    "lastUpdated": "Sist oppdatert:",
+    "lastUpdatedDate": "14. juli 2026"
+  },
+  "sections": {
+    "sidebar": {
+      "title": "Innhold",
+      "navAriaLabel": "Seksjonsnavigasjon"
+    },
+    "overview": {
+      "title": "1. Oversikt",
+      "body": "Denne personvernerklæringen forklarer hvordan vårt studio («vi», «oss») samler inn og bruker informasjon når du besøker nettstedet vårt, sender inn et skjema, ber om et tilbud eller engasjerer oss i et prosjekt. Denne siden vedlikeholdes av oss for å besvare vanlige personvernspørsmål om vårt markedsføringsnettsted og våre kundeforhold; den utgjør ikke en sertifisering eller juridisk rådgivning."
+    },
+    "informationWeCollect": {
+      "title": "2. Opplysninger vi samler inn",
+      "items": {
+        "provided": {
+          "label": "Informasjon du gir oss:",
+          "text": "navn, praksisnavn, e-post, telefon, prosjektdetaljer og alt annet du sender via skjemaer, e-post eller bookingsystemer."
+        },
+        "automatic": {
+          "label": "Automatisk innsamling:",
+          "text": "IP-adresse, enhets- og nettlesertype, besøkte sider, henvisnings-URL og omtrentlig lokasjon — samlet inn via informasjonskapsler og analyseverktøy."
+        },
+        "projectData": {
+          "label": "Prosjektdata fra kunder:",
+          "text": "innloggingsdetaljer, merkevareelementer og innhold du deler med oss for at vi skal kunne levere tjenester i samsvar med et signert tilbud."
+        }
+      }
+    },
+    "howWeUse": {
+      "title": "3. Slik bruker vi informasjonen",
+      "items": [
+        "Svare på henvendelser, utarbeide estimater og sende tilbud.",
+        "Levere, fakturere og gi support for tjenestene du kjøper av oss.",
+        "Forbedre nettstedet vårt, innholdet og tjenestene våre.",
+        "Sende sporadiske oppdateringer eller nyhetsbrev når du har samtykket til dette.",
+        "Oppfylle juridiske forpliktelser, skattekrav og krav til arkivering."
+      ]
+    },
+    "noPhi": {
+      "title": "4. Beskyttet helseinformasjon (PHI)",
+      "body": "Dette markedsføringsnettstedet er ikke ment for innsamling av beskyttet helseinformasjon. Vennligst ikke send pasientnavn, journaler eller kliniske detaljer gjennom våre kontaktskjemaer. Der et kundeoppdrag nødvendiggjør håndtering av PHI (eksempelvis pasientportaler eller kliniske inntaksskjemaer), inngår vi en egen databehandleravtale (Business Associate Agreement) før slik funksjonalitet tas i bruk."
+    },
+    "sharing": {
+      "title": "5. Slik deler vi informasjon",
+      "body": "Vi selger ikke personopplysninger. Vi deler dem kun med tjenesteleverandører som hjelper oss med driften — som hosting, e-post, analyse, booking, betalingsbehandling og CRM — og kun i den grad det er nødvendig for å utføre deres oppgaver. Vi kan også utlevere informasjon dersom loven krever det eller for å beskytte våre rettigheter."
+    },
+    "cookies": {
+      "title": "6. Cookies og analyse",
+      "body": "Vi bruker informasjonskapsler (cookies) og lignende teknologier for essensielle funksjoner og for å måle hvordan nettstedet brukes. Du kan kontrollere informasjonskapsler via nettleserinnstillingene dine; blokkering kan påvirke nettstedets funksjonalitet."
+    },
+    "retention": {
+      "title": "7. Datalagring",
+      "body": "Vi oppbevarer informasjon så lenge det er nødvendig for å levere tjenester, overholde juridiske forpliktelser, løse tvister og håndheve våre avtaler. Forespørselsdata fra kontakter som ikke blir kunder, slettes med jevne mellomrom."
+    },
+    "security": {
+      "title": "8. Sikkerhet",
+      "body": "Vi benytter rimelige administrative, tekniske og fysiske sikkerhetstiltak for å beskytte informasjonen vi besitter — inkludert kryptert overføring (HTTPS), tilgangskontroll og vurdering av underleverandører. Ingen metode for overføring eller lagring er 100 % sikker, så vi kan ikke garantere absolutt sikkerhet."
+    },
+    "yourRights": {
+      "title": "9. Dine valg og rettigheter",
+      "body": "Avhengig av hvor du befinner deg, kan du ha rett til innsyn i, korrigering av, sletting av eller portabilitet for dine personopplysninger, samt rett til å protestere mot eller begrense visse typer bruk. For å utøve disse rettighetene, kontakt oss via detaljene nedenfor. Du kan også når som helst melde deg av markedsføringse-poster via lenken i meldingen."
+    },
+    "thirdPartyLinks": {
+      "title": "10. Tredjepartslenker",
+      "body": "Vårt nettsted kan lenke til tredjeparts nettsteder og verktøy. Deres personvernpraksis styres av deres egne retningslinjer — vennligst gjennomgå disse før du sender fra deg informasjon."
+    },
+    "children": {
+      "title": "11. Barns personvern",
+      "body": "Nettstedet vårt er rettet mot et forretningspublikum og er ikke ment for barn under 13 år. Vi samler ikke bevisst inn personopplysninger fra barn."
+    },
+    "changes": {
+      "title": "12. Endringer i denne erklæringen",
+      "body": "Vi kan oppdatere denne personvernerklæringen fra tid til annen. Når vi gjør det, vil vi endre datoen for «Sist oppdatert» øverst på siden. Vesentlige endringer vil bli fremhevet på nettstedet vårt."
+    },
+    "contact": {
+      "title": "13. Kontakt oss",
+      "paragraph": "Har du spørsmål eller forespørsler angående denne erklæringen eller dine opplysninger? Kontakt oss via vår kontaktside, så svarer vi innen rimelig tid.",
+      "link": "kontaktsiden"
+    }
+  },
+  "cta": {
+    "title": "Spørsmål om personvern?",
+    "subtitle": "Vi svarer deg så raskt som mulig.",
+    "buttonLabel": "Kontakt oss"
+  }
+}

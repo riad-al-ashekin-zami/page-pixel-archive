@@ -1,0 +1,50 @@
+{
+  "slug": "patient-portal-conversion",
+  "title": "El formulario de admisión de pacientes que duplicó las reservas",
+  "excerpt": "Un patrón de formulario de cuatro pasos diseñado en torno a la carga cognitiva, con datos de pruebas A/B de tres consultorios.",
+  "imageAlt": "Paciente completando un formulario de admisión en una tableta en una sala de espera luminosa",
+  "body": [
+    {
+      "text": "Un formulario largo genera fricción. Cuatro pasos cortos se sienten como una conversación. Ese único cambio de patrón duplicó la conversión en tres consultorios de prueba en menos de 60 días, y es una de las victorias más económicas en todo el manual de marketing dermatológico porque el formulario fue la única variable que tocamos."
+    },
+    {
+      "text": "La razón por la que el patrón de cuatro pasos funciona es sencilla: los humanos completan tareas que se sienten finitas. Un formulario largo con 12 campos visibles indica un compromiso largo, y cada campo requerido adicional es otra oportunidad para que el visitante cierre la pestaña. Un formulario de cuatro pasos muestra solo el primer campo al cargar, y la barra de progreso visual recompensa cada paso completado con un pequeño impacto de dopamina. Para cuando el visitante ve el paso del número de teléfono, ya se ha comprometido emocionalmente a terminar."
+    },
+    {
+      "heading": "Los cuatro pasos"
+    },
+    {
+      "list": [
+        "Paso 1: ¿Qué le trae por aquí? (elección única, 4–6 opciones)",
+        "Paso 2: ¿Cuándo le gustaría ser atendido? (rango de día + hora)",
+        "Paso 3: Un poco sobre usted (nombre + correo electrónico)",
+        "Paso 4: Mejor teléfono para contactarle (con preferencia de horario)"
+      ]
+    },
+    {
+      "heading": "Por qué el orden de los pasos es importante"
+    },
+    {
+      "text": "El orden de los cuatro pasos no es arbitrario. El primer paso captura la intención, que es la información que su consultorio más necesita y la información que el visitante está más feliz de dar; nadie duda en decir por qué está de visita. El segundo paso captura la preferencia de programación, lo que aumenta el compromiso mental del visitante porque ahora ha visualizado la cita en su calendario. Solo después de esos dos compromisos se solicita información de identificación."
+    },
+    {
+      "text": "Los consultorios que invierten el orden —pidiendo primero el nombre y el correo electrónico— ven caer la conversión entre un 30 y un 40%. El visitante aún no se ha comprometido con nada, y 'dame tu dirección de correo electrónico' se siente transaccional. En el momento en que se solicita información de identificación después de que el visitante ya ha imaginado la cita, el intercambio se siente conversacional."
+    },
+    {
+      "heading": "El único campo que nunca debe requerir: el teléfono"
+    },
+    {
+      "text": "Todas las pruebas A/B que realizamos en el campo del teléfono apuntaron a la misma conclusión: el teléfono obligatorio reduce la conversión en un 12-18%. Sin embargo, casi todos los consultorios que incorporamos requieren el teléfono. La solución es hacer que el teléfono sea opcional en el formulario y dar seguimiento por correo electrónico para programar. Los consultorios que hacen este cambio suelen conservar el 90% de los datos telefónicos que solían requerir (la gente los ofrece voluntariamente) y ganan el 12-18% de los visitantes que habrían rebotado."
+    },
+    {
+      "heading": "Metodología de prueba y qué medir"
+    },
+    {
+      "text": "No mida la tasa de llenado del formulario de forma aislada. Mida la tasa de citas reservadas e, idealmente, la tasa de citas atendidas. Un formulario que se llena más rápido pero produce ausencias no es una victoria. Instrumente el embudo desde el anuncio o el clic orgánico hasta la cita reservada, y realice una prueba A/B del patrón de cuatro pasos contra su formulario largo actual durante al menos tres semanas por variante para acumular tráfico estadísticamente significativo."
+    },
+    {
+      "text": "Una vez que el patrón de cuatro pasos supere la línea de base (casi siempre lo hace), fíjelo y pase a la siguiente prueba, generalmente el texto de la CTA, la pila de confianza encima del formulario o el correo electrónico de confirmación que se envía después del envío. Cada uno de ellos tiene otro 5-10% esperando ser encontrado una vez que el formulario en sí esté fuera del camino."
+    }
+  ],
+  "faqs": null
+}

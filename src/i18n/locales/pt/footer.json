@@ -1,0 +1,99 @@
+{
+  "cta": {
+    "eyebrow": "Auditoria de Site Gratuita",
+    "headingLead": "Pronto para expandir sua",
+    "headingHighlight": "clínica de dermatologia",
+    "headingTailShort": "?",
+    "headingTailLong": " online?",
+    "descriptionShort": "Obtenha uma auditoria de site gratuita e um plano de crescimento personalizado — sem custo.",
+    "descriptionLong": "Obtenha uma auditoria de site gratuita. Analisaremos seu site, identificaremos lacunas de crescimento e elaboraremos um plano — sem custo.",
+    "button": "Receba um Orçamento Gratuito",
+    "trustedBy": "Confiado por dermatologistas em todo o mundo"
+  },
+  "brand": {
+    "logoAlt": "Dermatology Website Design",
+    "homeAria": "Dermatology Website Design — Início",
+    "tagline": "Sites construídos exclusivamente para dermatologistas e clínicas de pele. Sites com foco em conversão, otimizados para SEO e compatíveis com HIPAA, projetados para ajudar as clínicas a crescerem online.",
+    "whatsappLabel": "Converse conosco no WhatsApp",
+    "whatsappCta": "Conversar no WhatsApp",
+    "location": "Atendendo clínicas de dermatologia em todo o mundo"
+  },
+  "columns": {
+    "services": "Serviços",
+    "company": "Empresa",
+    "resources": "Recursos",
+    "legal": "Legal"
+  },
+  "services": {
+    "websiteDesign": "Design de Sites",
+    "websiteRedesign": "Redesign de Sites",
+    "websiteMigration": "Migração de Sites",
+    "websiteManagement": "Gerenciamento de Sites",
+    "ecommerce": "Site de E-Commerce",
+    "socialMedia": "Gerenciamento de Mídias Sociais"
+  },
+  "company": {
+    "about": "Sobre Nós",
+    "process": "Nosso Processo",
+    "caseStudies": "Estudos de Caso",
+    "contact": "Entre em Contato"
+  },
+  "resources": {
+    "blog": "Blog",
+    "faq": "Perguntas Frequentes",
+    "audit": "Auditoria de Site Gratuita",
+    "auditBadge": "GRÁTIS",
+    "checklists": "Listas de Verificação",
+    "patientPortal": "Portal do Paciente",
+    "addOns": "Serviços Adicionais"
+  },
+  "legal": {
+    "serviceAgreement": "Contrato de Serviço",
+    "privacy": "Política de Privacidade",
+    "terms": "Termos de Serviço",
+    "refund": "Política de Reembolso",
+    "cookies": "Política de Cookies"
+  },
+  "hipaaBadge": {
+    "title": "Compatível com HIPAA",
+    "note": "Privacidade e segurança integradas em cada site"
+  },
+  "trustBadges": {
+    "hipaa": {
+      "label": "Compatível com HIPAA",
+      "note": "Design que prioriza a conformidade"
+    },
+    "ada": {
+      "label": "Acessível (ADA)",
+      "note": "Compatível com WCAG 2.1"
+    },
+    "ssl": {
+      "label": "SSL Seguro",
+      "note": "Criptografia de 256 bits"
+    },
+    "seo": {
+      "label": "Otimizado para SEO",
+      "note": "Melhor posição no Google"
+    },
+    "mobile": {
+      "label": "Responsivo em Dispositivos Móveis",
+      "note": "Perfeito em todos os dispositivos"
+    },
+    "speed": {
+      "label": "Carregamento Rápido",
+      "note": "Pontuação Lighthouse 95+"
+    }
+  },
+  "bottom": {
+    "copyright": "© 2026 {{brand}}.",
+    "brand": "Dermatology Website Design",
+    "rights": "Todos os direitos reservados.",
+    "madeWith": "Feito com",
+    "madeFor": "para clínicas de dermatologia",
+    "backToTop": "Voltar ao topo"
+  },
+  "compliance": {
+    "heading": "Aviso de conformidade",
+    "body": "Nós construímos sites compatíveis com HIPAA e implementamos as melhores práticas de segurança. Os clientes são responsáveis por garantir que sua clínica cumpra todas as regulamentações de saúde e requisitos legais aplicáveis, incluindo a obtenção de um Business Associate Agreement (BAA) assinado onde as Informações de Saúde Protegidas (PHI) são processadas. O conteúdo deste site é apenas para fins informativos e não constitui aconselhamento médico, legal ou financeiro. Os resultados de marketing, SEO e serviços de conversão variam de acordo com a clínica, mercado e esforço, e não são garantidos. Todos os nomes, logotipos e marcas comerciais de terceiros pertencem aos seus respectivos proprietários e são usados apenas para identificação."
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "meta": {
+    "title": "Storno podmínky — zálohy, milníky a paušální plány",
+    "description": "Přečtěte si, jak postupujeme u záloh, plateb za jednotlivé fáze projektu a měsíčních balíčků v případě zrušení spolupráce nebo nespokojenosti.",
+    "og": {
+      "title": "Storno podmínky — zálohy, milníky a paušální plány",
+      "description": "Přečtěte si, jak postupujeme u záloh, plateb za jednotlivé fáze projektu a měsíčních balíčků v případě zrušení spolupráce nebo nespokojenosti."
+    },
+    "twitter": {
+      "title": "Storno podmínky — zálohy, milníky a paušální plány",
+      "description": "Přečtěte si, jak postupujeme u záloh, plateb za jednotlivé fáze projektu a měsíčních balíčků v případě zrušení spolupráce nebo nespokojenosti."
+    }
+  },
+  "layout": {
+    "skip_to_content": "Přejít k obsahu"
+  },
+  "hero": {
+    "badge": "Právní náležitosti · Storno podmínky",
+    "title": "Storno podmínky",
+    "description": "Jasná pravidla pro zálohy, platby za milníky a servisní plány – aby vás při změně plánů nic nepřekvapilo.",
+    "last_updated": "Poslední aktualizace:",
+    "date": "14. července 2026"
+  },
+  "sidebar": {
+    "contents_label": "Obsah",
+    "nav_aria_label": "Navigace sekcí"
+  },
+  "sections": {
+    "overview": {
+      "title": "1. Přehled",
+      "body": "Tyto storno podmínky vysvětlují, jak nakládáme s platbami v případě zrušení projektu, jeho pozastavení nebo pokud výsledek neodpovídá vašim očekáváním. Tyto podmínky doplňují naši Smlouvu o poskytování služeb; v případě rozporu má přednost podepsaný návrh projektu nebo zadávací dokumentace (SOW)."
+    },
+    "deposits": {
+      "title": "2. Zálohy",
+      "body": "Zálohy na projekt jsou nevratné. Rezervují nám kapacitu v harmonogramu a pokrývají úvodní analýzu, strategii a počáteční designérské práce, které zahajujeme ihned po vašem schválení."
+    },
+    "milestones": {
+      "title": "3. Platby za milníky",
+      "list_items": [
+        "Platby za milníky pokrývají již dokončenou a schválenou práci. Částky za dodané a odsouhlasené fáze projektu jsou nevratné.",
+        "Pokud projekt zrušíte v jeho průběhu, hradíte práci dokončenou do data zrušení a související vynaložené náklady. Případný přeplatek nad rámec těchto nákladů vám vrátíme do 14 pracovních dnů."
+      ]
+    },
+    "recurring": {
+      "title": "4. Pravidelné plány (správa, hosting, paušály)",
+      "list_items": [
+        "Paušální plány jsou účtovány měsíčně předem a za aktuální měsíc se platba nevrací.",
+        "Službu můžete kdykoli zrušit s 30denní písemnou výpovědní lhůtou. Služba bude poskytována po zbytek uhrazeného období; po uplynutí výpovědní lhůty vám již nebudou účtovány žádné poplatky.",
+        "Nevyužité hodiny v rámci měsíčního paušálu se nepřevádějí do dalšího měsíce a nelze za ně nárokovat vrácení peněz."
+      ]
+    },
+    "third_party": {
+      "title": "5. Poplatky třetím stranám",
+      "body": "Poplatky uhrazené vaším jménem poskytovatelům třetích stran – například za domény, hosting, fotobanky, prémiové pluginy či kredit na reklamu – jsou po zakoupení nevratné, a to bez ohledu na stav projektu."
+    },
+    "chargebacks": {
+      "title": "6. Reklamace plateb (chargebacky)",
+      "body": "Před zahájením formální reklamace platby u banky nás prosím kontaktujte. Budeme se snažit jakýkoliv problém vyřešit k vaší spokojenosti. Chargeback podaný bez předchozího upozornění může vést k okamžitému pozastavení služeb a je považován za podstatné porušení naší smlouvy."
+    },
+    "request": {
+      "title": "7. Jak požádat o vrácení peněz",
+      "body": "Zašlete písemnou žádost prostřednictvím naší kontaktní stránky a uveďte název projektu, číslo faktury a důvod žádosti. Oprávněné vratky jsou zpracovány původní platební metodou do 14 pracovních dnů od schválení."
+    },
+    "changes": {
+      "title": "8. Změny těchto podmínek",
+      "body": "Tyto storno podmínky můžeme průběžně aktualizovat. Aktuální verzi vždy poznáte podle výše uvedeného data „Poslední aktualizace“."
+    }
+  },
+  "cta": {
+    "title": "Potřebujete probrat vrácení platby?",
+    "description": "Napište nám nejdříve – najdeme společné řešení, abychom situaci napravili.",
+    "button": "Kontaktujte nás"
+  }
+}

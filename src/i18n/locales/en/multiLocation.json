@@ -1,0 +1,442 @@
+{
+  "meta": {
+    "title": "Multi-Location Dermatology Website Design | One Brand, Every City",
+    "description": "Premium multi-location dermatology website design. Governed brand system, per-location SEO, Google Business Profile per clinic, unified booking, HIPAA-aware. Rank in every city you serve.",
+    "og_title": "Multi-Location Dermatology Website Design | One Brand, Every City",
+    "og_description": "Design a governed multi-location dermatology website that ranks per city, converts per location, and scales as you add clinics. HIPAA-aware, Lighthouse 95+, real local SEO.",
+    "jsonLd": {
+      "serviceType": "Multi-Location Dermatology Website Design",
+      "providerName": "DW Design",
+      "audienceType": "Multi-Location Dermatology Clinics",
+      "offerDescription": "Multi-location dermatology website design — starting price"
+    }
+  },
+  "hero": {
+    "badge": "One brand · Every city · Fully indexed",
+    "title": "Multi-Location Dermatology Website Design that ranks in every city you open.",
+    "description": "A governed brand system, a unique indexed page per clinic, per-location schema, GBP, reviews, and booking — so a patient in Austin, a patient in Plano, and a patient in Fort Worth each see a local dermatology practice, not a corporate chain.",
+    "cta": "Plan My Multi-Location Site",
+    "secondary_cta": "Free Local SEO Audit",
+    "stats": {
+      "brand": {
+        "value": "1 brand",
+        "description": "Governed design system"
+      },
+      "locations": "Locations scaled to",
+      "performance": "Lighthouse on every page"
+    },
+    "rank_badge": {
+      "label": "Live local rank",
+      "value": "Top 3",
+      "subtext": "in every launched city, ≤ 60 days"
+    },
+    "image_alt": "Multi-location dermatology clinic network map with unified brand dashboard"
+  },
+  "scaler": {
+    "eyebrow": "Interactive · Location Scaler",
+    "title": "Drag to preview your local footprint.",
+    "description": "See how many indexed local pages your website will ship with — one per clinic, plus top service pages per city.",
+    "label": "Locations:",
+    "range_hint": "2 – 10",
+    "stat_indexed": "Indexed local pages",
+    "stat_gbp": "GBPs claimed & wired",
+    "browser_placeholder": "yourclinic.com/locations",
+    "local_number": "Local number"
+  },
+  "sections": {
+    "audiences": {
+      "eyebrow": "Who this is for",
+      "title": "Built for dermatology brands that live in more than one ZIP code.",
+      "items": [
+        {
+          "label": "Solo Dermatologists Scaling",
+          "desc": "Opening your 2nd or 3rd office and outgrowing a single-page site."
+        },
+        {
+          "label": "Multi-Location Clinics",
+          "desc": "3–20 offices under one brand, needing per-city ranking and one CMS."
+        },
+        {
+          "label": "Pediatric Dermatology Groups",
+          "desc": "Parent-facing intake with per-location provider matching."
+        },
+        {
+          "label": "Mohs & Surgical Networks",
+          "desc": "Referring-physician portals with per-clinic case content."
+        }
+      ]
+    },
+    "problems": {
+      "eyebrow": "What we fix",
+      "title": "Most multi-location derm sites are a single-clinic template in a wig.",
+      "description": "Google sees one page. Patients see one address. Reviews pile onto whichever office happens to be indexed first. We rebuild the architecture from the ground up.",
+      "labels": {
+        "before": "Before",
+        "after": "After"
+      },
+      "items": [
+        {
+          "before": "One /contact page for 6 clinics",
+          "after": "6 indexed local pages"
+        },
+        {
+          "before": "Same H1 on every location",
+          "after": "City-specific H1 + schema"
+        },
+        {
+          "before": "GBP unclaimed / unverified",
+          "after": "GBP per clinic, wired to site"
+        },
+        {
+          "before": "Patients book wrong office",
+          "after": "ZIP + URL-aware booking"
+        },
+        {
+          "before": "Shared reviews, no local trust",
+          "after": "Per-location reviews & rating"
+        },
+        {
+          "before": "Add location = 6-week rebuild",
+          "after": "New location live in < 7 days"
+        }
+      ]
+    },
+    "pillars": {
+      "eyebrow": "The system",
+      "title": "Six pillars behind every multi-location build.",
+      "items": [
+        {
+          "title": "Governed Brand System",
+          "desc": "One design language, tokens, and component library — every location page inherits it automatically."
+        },
+        {
+          "title": "Per-Location SEO",
+          "desc": "Unique URLs, schema, H1s, and content for each office — indexed as distinct clinics."
+        },
+        {
+          "title": "Smart Location Routing",
+          "desc": "ZIP detector, header switcher, and URL-aware CTAs. Patients never book at the wrong office."
+        },
+        {
+          "title": "Per-Location Star Reviews",
+          "desc": "Reviews collected, displayed, and marked-up separately per clinic — real local social proof."
+        },
+        {
+          "title": "Unified Booking, Local Rooms",
+          "desc": "One patient flow, N calendars. Location-specific providers, hours, and insurance."
+        },
+        {
+          "title": "HIPAA-Aware Everywhere",
+          "desc": "Intake forms, patient portals, and analytics — BAA-ready across every location."
+        }
+      ]
+    },
+    "architecture": {
+      "eyebrow": "URL architecture",
+      "title": "Every location gets its own indexable home.",
+      "description": "Google treats each office as a distinct clinic. Patients land on the city page relevant to their search. Reviews, hours, insurance, and providers stay pinned to the right office — never shared across the brand.",
+      "items": [
+        "Location index: /locations",
+        "Location page: /locations/austin-tx",
+        "Local service: /locations/austin-tx/acne-treatment",
+        "Provider bio: /locations/austin-tx/dr-lee",
+        "Structured data: LocalBusiness + MedicalClinic per URL"
+      ],
+      "visual": {
+        "title": "URL Blueprint",
+        "status": "Indexed"
+      }
+    },
+    "seoMatrix": {
+      "eyebrow": "Local SEO matrix",
+      "title": "Every city × every service, indexed and ranked.",
+      "description": "Sample of a 4-location brand — 12 top service pages × 4 cities = 48 uniquely-ranked local pages, on top of the location pages themselves.",
+      "table": {
+        "head_service": "Service",
+        "cities": [
+          "Austin, TX",
+          "Plano, TX",
+          "Fort Worth, TX",
+          "Round Rock, TX"
+        ],
+        "services": [
+          "Acne Treatment",
+          "Eczema Treatment",
+          "Skin Cancer Screening",
+          "Mole Removal",
+          "Rosacea Treatment",
+          "Psoriasis Treatment"
+        ]
+      }
+    },
+    "medicalServices": {
+      "eyebrow": "Medical services covered",
+      "title": "Every medically-necessary service, per location.",
+      "description": "Each clinic surfaces only the services actually offered there, with insurance and provider mapping. No confusion, no wasted booking attempts.",
+      "list": [
+        "Acne Treatment",
+        "Eczema Treatment",
+        "Psoriasis Treatment",
+        "Skin Infection Treatment",
+        "Skin Allergy Treatment",
+        "Skin Cancer Screening & Treatment",
+        "Mole Evaluation & Removal",
+        "Cyst & Lipoma Removal",
+        "Wart Removal",
+        "Nail Disorder Treatment",
+        "Hair Loss Treatment",
+        "Scalp Disorder Treatment",
+        "Rosacea Treatment",
+        "Hyperpigmentation & Melasma",
+        "Scar Treatment",
+        "Burn Scar Treatment",
+        "Vitiligo Treatment",
+        "Skin Biopsy & Diagnostics"
+      ]
+    },
+    "deliverables": {
+      "eyebrow": "What ships",
+      "title": "12 concrete launch deliverables.",
+      "list": [
+        "Governed multi-location design system",
+        "Unique landing page per clinic location",
+        "LocalBusiness + MedicalClinic schema per location",
+        "Per-location Google Business Profile setup",
+        "ZIP-code + header location switcher",
+        "Per-location provider bios & office photography",
+        "City-specific service pages (top pages × N cities)",
+        "Per-location review capture & display",
+        "Unified booking flow with location context",
+        "HIPAA-aware forms across all locations",
+        "Core Web Vitals 95+ on every location page",
+        "Location-aware analytics dashboard"
+      ]
+    },
+    "timeline": {
+      "eyebrow": "The process",
+      "title": "Six milestones. One launch date.",
+      "steps": [
+        {
+          "step": "01",
+          "title": "Brand & Location Audit",
+          "desc": "We inventory every location, provider, service, insurance, and existing GBP. Identify overlap, cannibalization, and NAP gaps."
+        },
+        {
+          "step": "02",
+          "title": "Governed Design System",
+          "desc": "One brand kit, one component library, one tokenized theme. Every location page inherits it — nothing drifts."
+        },
+        {
+          "step": "03",
+          "title": "Per-Location IA & Content",
+          "desc": "URL structure, per-city H1s, provider mapping, insurance-per-clinic, and unique local copy briefs."
+        },
+        {
+          "step": "04",
+          "title": "Build & Local SEO Wiring",
+          "desc": "Every location page ships with schema, embedded map, NAP, GBP link, and city-specific service pages."
+        },
+        {
+          "step": "05",
+          "title": "Real-Device QA + HIPAA Review",
+          "desc": "Every location page tested on desktop, laptop, tablet, and mobile. Forms audited under BAA."
+        },
+        {
+          "step": "06",
+          "title": "Launch + Local Pack Warmup",
+          "desc": "GBP verified, citations aligned, Search Console + GA4 configured per location. Local rankings monitored 90 days."
+        }
+      ]
+    },
+    "comparison": {
+      "eyebrow": "Why not the alternative",
+      "title": "DIY. Generalist agency. Or built for derm networks.",
+      "table": {
+        "head_capability": "Capability",
+        "head_diy": "DIY Builder",
+        "head_generic": "Generalist Agency",
+        "head_dw": "DW Design",
+        "recommended": "RECOMMENDED",
+        "rows": [
+          "Unique indexed page per location",
+          "LocalBusiness schema per clinic",
+          "Per-location Google Business Profile setup",
+          "ZIP / URL-aware booking flow",
+          "Governed brand system that scales to +N locations",
+          "Per-location reviews with schema",
+          "HIPAA-aware forms across every location",
+          "Lighthouse 95+ on every location page"
+        ]
+      }
+    },
+    "pricing": {
+      "eyebrow": "Investment",
+      "title": "Priced by how many clinics you serve.",
+      "custom_quote_text": "10+ locations, enterprise groups, or DSO-backed networks — request a custom quote.",
+      "custom_quote_link": "request a custom quote",
+      "starting_label": "starting",
+      "most_popular": "Most Popular",
+      "market_label": "Market:",
+      "tiers": [
+        {
+          "name": "2–3 Locations",
+          "price": "$6,900",
+          "tag": "Growing Practice",
+          "market": "$15,000 – $28,000",
+          "savings": "54–75% cheaper",
+          "features": [
+            "Governed brand system",
+            "Up to 3 indexed location pages",
+            "LocalBusiness schema per clinic",
+            "GBP setup for each location",
+            "Unified booking with location context",
+            "5–7 week launch"
+          ]
+        },
+        {
+          "name": "4–6 Locations",
+          "price": "$11,400",
+          "tag": "Most Popular",
+          "market": "$25,000 – $50,000",
+          "savings": "54–77% cheaper",
+          "features": [
+            "Everything in Growing Practice",
+            "Up to 6 indexed location pages",
+            "City-specific service pages",
+            "Per-location review capture",
+            "ZIP-code location detector",
+            "7–9 week launch"
+          ]
+        },
+        {
+          "name": "7–10 Locations",
+          "price": "$18,900",
+          "tag": "Regional Network",
+          "market": "$45,000 – $90,000",
+          "savings": "58–79% cheaper",
+          "features": [
+            "Everything in Most Popular",
+            "Up to 10 indexed location pages",
+            "Provider-per-location matching",
+            "Insurance database per clinic",
+            "Location-aware analytics dashboard",
+            "9–12 week launch"
+          ]
+        }
+      ],
+      "cta": "Get Started"
+    },
+    "gallery": {
+      "eyebrow": "From live projects",
+      "title": "A governed system, running in real clinics.",
+      "description": "Two location interiors from active multi-location dermatology brands we've launched. Photography and identity anonymized for HIPAA + client NDA.",
+      "nda_badge": "NDA",
+      "items": [
+        {
+          "label": "Reception · Location A",
+          "city": "Austin metro"
+        },
+        {
+          "label": "Treatment room · Location B",
+          "city": "Dallas-Fort Worth metro"
+        }
+      ]
+    },
+    "caseStudy": {
+      "eyebrow": "Anonymized case study",
+      "title": "6-location Texas derm group · 90-day results.",
+      "description": "Names and identifying data omitted under NDA. Metrics pulled from Google Search Console + GA4, verified quarterly.",
+      "verified": "Verified",
+      "metrics": [
+        {
+          "k": "+41%",
+          "label": "New-patient calls",
+          "sub": "vs. 90 days pre-launch"
+        },
+        {
+          "k": "Top 3",
+          "label": "Local pack ranking",
+          "sub": "in 6 / 6 launched cities"
+        },
+        {
+          "k": "48",
+          "label": "Indexed local pages",
+          "sub": "up from 1 shared /contact"
+        },
+        {
+          "k": "97",
+          "label": "Median Lighthouse",
+          "sub": "across every location page"
+        }
+      ],
+      "chart": {
+        "title": "New-patient calls · weekly",
+        "description": "Pre-launch → Day 90",
+        "pre": "Pre-launch",
+        "post": "Post-launch",
+        "anonymized": "Client anonymized"
+      }
+    },
+    "testimonial": {
+      "quote": "We went from 3 offices sharing one contact page to 6 fully-indexed clinic pages, each ranking in its own city's local pack within 60 days. New-patient calls grew +41% — and we opened our 7th location without touching the site's architecture.",
+      "author": "Dr. Rachel Patel",
+      "title": "Managing Partner, 7-location dermatology group (Texas)",
+      "trust_strip": "Multi-location derm networks live in",
+      "cities": [
+        "Austin",
+        "Plano",
+        "Fort Worth",
+        "Round Rock",
+        "Frisco",
+        "San Antonio"
+      ]
+    }
+  },
+  "faq": {
+    "eyebrow": "Frequently asked",
+    "title": "Multi-location questions, answered directly.",
+    "items": [
+      {
+        "q": "How do multi-location dermatology websites rank in Google for each city?",
+        "a": "Every location gets its own indexed URL (e.g. /locations/austin-tx), with unique H1, city-specific service copy, a dedicated LocalBusiness + MedicalClinic schema block, embedded Google Map, NAP consistency, and location-linked reviews. Local pack rankings compound per city, not per brand."
+      },
+      {
+        "q": "Can patients book at a specific location without confusion?",
+        "a": "Yes. The booking flow always resolves a location first — either from the URL the patient landed on, a ZIP-code detector, or a location switcher in the header. The patient never has to guess which office they're scheduling with."
+      },
+      {
+        "q": "How do you keep 10+ location pages from feeling like copy-paste?",
+        "a": "Shared brand system, unique per-location content: real photography, provider bios pinned to that office, city-specific FAQs, insurance accepted at THAT clinic, driving directions from nearby landmarks, and location-specific reviews. Google reads them as distinct entities — patients feel a local practice, not a chain."
+      },
+      {
+        "q": "What if we add or close a location later?",
+        "a": "New locations spin up from a governed template in under a week — same design system, unique content. Closed locations 301 to the nearest sibling with a preserved provider redirect map, so rankings and referrals transfer instead of disappearing."
+      },
+      {
+        "q": "Do you handle Google Business Profile setup per location?",
+        "a": "Yes. We claim, verify, and optimize a GBP for each location, wire per-location review capture into the site, and align NAP citations across the top 40 medical directories. Local pack visibility is part of the launch, not an upsell."
+      },
+      {
+        "q": "How long does a multi-location dermatology website take to launch?",
+        "a": "5–7 weeks for 2–4 locations, 7–10 weeks for 5–10 locations, 10–14 weeks for 10+ locations or complex EHR integration. Fixed weekly milestones and a hard launch date at kickoff."
+      }
+    ]
+  },
+  "cta_founder": {
+    "title": "Every launched location is our personal responsibility.",
+    "description": "We take a limited number of multi-location dermatology projects each quarter so every clinic page ships with the same craft. If your growth plan includes more than one address, let's plan the architecture before the first pixel moves.",
+    "cta_quote": "Get a Free Quote",
+    "cta_msg": "Send a Message",
+    "footer_title": "Dermatology Website Design",
+    "footer_sub": "Helping Dermatologists Grow Online",
+    "logo_alt": "DW — Dermatology Website Design"
+  },
+  "footer_nav": {
+    "useful_hint": "You might also find useful:",
+    "links": {
+      "single": "single-practice website design",
+      "seo": "how local search visibility works",
+      "portfolio": "a look at recent multi-clinic launches"
+    }
+  }
+}

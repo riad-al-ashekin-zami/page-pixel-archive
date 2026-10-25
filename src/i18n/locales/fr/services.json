@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "title": "Services Web pour Dermatologues — Design, SEO et Croissance",
+    "description": "Découvrez nos solutions web conformes aux normes HIPAA : création de sites, SEO, marketing local, portails patients et maintenance pour cabinets de dermatologie modernes.",
+    "ogTitle": "Services de Création Web pour Dermatologues",
+    "ogDescription": "Design web, SEO, publicité payante, gestion de l'e-réputation, portails patients et maintenance continue pour les cabinets de dermatologie.",
+    "schema": {
+      "name": "Services de Sites Web pour Dermatologues",
+      "serviceType": "Design web, SEO et marketing de croissance pour cabinets de dermatologie",
+      "providerName": "Dermatology Website Design"
+    }
+  },
+  "hero": {
+    "eyebrow": "Nos Services",
+    "title": "Des sites web conçus pour transformer vos visiteurs en patients.",
+    "description": "Optez pour un projet à la carte ou un système de croissance complet : design sur mesure, SEO, acquisition de patients, intégrations techniques et maintenance optimisée pour la dermatologie.",
+    "ctaQuote": "Obtenir un devis gratuit",
+    "ctaPricing": "Consulter les tarifs",
+    "proofPoints": {
+      "hipaa": "Implémentation respectueuse des normes HIPAA",
+      "responsive": "Design réactif sur tous les supports",
+      "seo": "Bases SEO on-page incluses",
+      "conversion": "Parcours patients optimisés pour la conversion"
+    }
+  },
+  "sections": {
+    "website": {
+      "label": "Services Web",
+      "eyebrow": "Conception",
+      "description": "Sites sur mesure, refontes, migrations, portails patients et galeries avant/après, le tout axé sur la confiance et la conversion."
+    },
+    "marketing": {
+      "label": "Services Marketing",
+      "eyebrow": "Croissance",
+      "description": "SEO, visibilité locale, campagnes payantes, e-réputation et réseaux sociaux pour attirer une patientèle qualifiée."
+    },
+    "support": {
+      "label": "Services Additionnels",
+      "eyebrow": "Accompagnement",
+      "description": "Hébergement, conformité, analyses de données et création de contenus pour les cabinets qui visent l'excellence après le lancement."
+    }
+  },
+  "cta": {
+    "title": "Quel service correspond le mieux à votre cabinet ?",
+    "description": "Commencez par un audit gratuit : nous identifierons les leviers les plus performants pour votre site, votre visibilité et votre taux de conversion.",
+    "button": "Demander un audit gratuit"
+  }
+}

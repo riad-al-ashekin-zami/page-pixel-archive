@@ -1,0 +1,310 @@
+{
+  "meta": {
+    "title": "Marketing de Redes Sociais para Dermatologia | Instagram, TikTok, Meta Ads",
+    "description": "Marketing de redes sociais para clínicas de dermatologia — Instagram, TikTok, Facebook, YouTube e LinkedIn. Conteúdo seguro (HIPAA), sessões mensais na clínica e social pago focado em consultas agendadas.",
+    "og": {
+      "title": "Marketing de Redes Sociais para Dermatologia — Conteúdo que Agenda Consultas",
+      "description": "Gestão completa de redes sociais para dermatologia — sessões de conteúdo, estratégia de Reels, gestão de mensagens (DMs) e social pago otimizado para agendamentos."
+    },
+    "twitter": {
+      "title": "Serviços de Marketing de Redes Sociais para Dermatologia",
+      "description": "Conteúdo social e campanhas pagas focadas em consultas agendadas para clínicas de dermatologia."
+    }
+  },
+  "jsonLd": {
+    "service": {
+      "name": "Marketing de Redes Sociais para Clínicas de Dermatologia",
+      "provider": "DermatologyWebsiteDesign.com",
+      "description": "Gestão completa de redes sociais, produção de conteúdo e social ads para clínicas de dermatologia, medidos pelo número de consultas agendadas."
+    },
+    "breadcrumbs": {
+      "home": "Início",
+      "services": "Serviços",
+      "social": "Redes Sociais"
+    }
+  },
+  "hero": {
+    "badge": "Redes Sociais para Dermatologia",
+    "heading": "Conteúdo que gera confiança — e agenda consultas.",
+    "description": "Gestão completa de redes sociais para clínicas de dermatologia — Instagram, TikTok, Facebook, YouTube e LinkedIn. Sessões mensais na clínica, legendas seguras (HIPAA), gestão de DMs e social pago focado em consultas agendadas.",
+    "cta": {
+      "audit": "Auditoria social gratuita",
+      "platforms": "Ver plataformas"
+    },
+    "stats": [
+      {
+        "label": "312%",
+        "value": "Crescimento de seguidores"
+      },
+      {
+        "label": "48+",
+        "value": "Consultas / mês"
+      },
+      {
+        "label": "5.4M",
+        "value": "Visualizações Reels/ano"
+      },
+      {
+        "label": "HIPAA",
+        "value": "Conteúdo seguro"
+      }
+    ],
+    "trust": {
+      "imgAlt": "Cliente de dermatologia",
+      "rating": "4.9/5",
+      "subtext": "A confiança de mais de 50 clínicas de dermatologia",
+      "badge": "HIPAA-safe"
+    }
+  },
+  "socialMock": {
+    "handle": "@asuaricaclinica",
+    "status": "Dermatologista Especialista · 24.8k",
+    "live": "direto",
+    "imgAlt": "Pré-visualização do feed de Instagram de uma clínica de dermatologia mostrando conteúdos de skincare",
+    "metrics": {
+      "reach": "Alcance",
+      "dms": "DMs",
+      "booked": "Agendados"
+    },
+    "reels": [
+      {
+        "label": "Reels — Rotina para Acne",
+        "value": "1.2M"
+      },
+      {
+        "label": "Reels — Guia sobre Mohs",
+        "value": "342k"
+      },
+      {
+        "label": "Estático — Intro equipa",
+        "value": "58k"
+      }
+    ],
+    "outcome": "+48 consultas este mês",
+    "timeframe": "30d"
+  },
+  "sections": {
+    "platforms": {
+      "badge": "Canais abrangidos",
+      "heading": "Seis plataformas. Um único objetivo: consultas agendadas.",
+      "description": "Cada plataforma tem o seu formato de conteúdo, ritmo e KPI — nada de posts copiados entre canais.",
+      "items": [
+        {
+          "title": "Crescimento no Instagram",
+          "desc": "Reels-first strategy — before/after carousels, provider spotlights, and DM-to-booking funnels tuned to the derm patient journey."
+        },
+        {
+          "title": "TikTok para Dermatologia",
+          "desc": "Short-form skin-education content that ranks in TikTok search and Google — HIPAA-safe, compliance-reviewed before it ships."
+        },
+        {
+          "title": "Facebook & Meta Ads",
+          "desc": "Local awareness, lookalike patient audiences, and lead-form campaigns priced per booked consult — not per follower."
+        },
+        {
+          "title": "YouTube Shorts & Long-form",
+          "desc": "Procedure explainers, provider Q&As, and evergreen skin-condition videos that rank on Google and YouTube search."
+        },
+        {
+          "title": "LinkedIn para Especialistas",
+          "desc": "Personal-brand LinkedIn for board-certified derms — thought leadership, referrer network, and recruiter-grade profile."
+        },
+        {
+          "title": "Gestão de DMs e Comunidade",
+          "desc": "Trained response templates, 4-hour SLA, PHI-scrubbed replies, and a booked-consult handoff to your front desk."
+        }
+      ]
+    },
+    "outcomes": {
+      "heading": "Resultados mensuráveis",
+      "items": [
+        {
+          "k": "312%",
+          "v": "Crescimento de seguidores em 90 dias"
+        },
+        {
+          "k": "48+",
+          "v": "Consultas agendadas pelo Instagram / mês"
+        },
+        {
+          "k": "5.4M",
+          "v": "Visualizações orgânicas em Reels (média 12 meses)"
+        },
+        {
+          "k": "4.9",
+          "v": "Pontuação média de sentimento da marca"
+        }
+      ],
+      "quote": "\"Passámos de uma publicação por semana para um sistema mensal completo. Os seguidores triplicaram, mas o número que realmente importa — novas consultas via Instagram — subiu de 4 para 48 por mês.\"",
+      "author": "Dr. Priya Anand · Clínica de Dermatologia Individual"
+    },
+    "pillars": {
+      "badge": "Pilares de Conteúdo",
+      "heading": "Seis pilares de conteúdo, todos os meses, em todas as plataformas.",
+      "description": "O seu plano de 90 dias mapeia cada Reel, post estático e template de DM a um serviço e a um objetivo de agendamento. Sem posts aleatórios.",
+      "items": [
+        "Destaque de especialistas e credibilidade clínica",
+        "Educação sobre patologias (acne, eczema, rosácea, psoríase)",
+        "Transformações antes/depois com consentimento assinado",
+        "Reels na clínica — tratamentos, tecnologia e visitas guiadas",
+        "Perguntas dos pacientes e vídeos curtos de 'mitos e verdades'",
+        "Campanhas sazonais de skincare e proteção solar"
+      ]
+    },
+    "audiences": {
+      "badge": "Para quem criamos conteúdo",
+      "heading": "Criado para todos os modelos de dermatologia.",
+      "description": "Seja uma clínica individual, multilocais, pediátrica ou Mohs — a estratégia é adaptada à sua voz e aos seus serviços.",
+      "items": [
+        {
+          "title": "Dermatologistas Individuais",
+          "desc": "Estratégia focada no fundador — o seu rosto, a sua voz. Conteúdo gravado mensalmente e publicado semanalmente."
+        },
+        {
+          "title": "Clínicas Multilocais",
+          "desc": "Um sistema de marca único, calendários por localização e fluxos de conteúdo gerados pela equipa, tudo gerido num único painel."
+        },
+        {
+          "title": "Dermatologia Pediátrica",
+          "desc": "Conteúdo para pais — legendas que transmitem confiança, horários de publicação adaptados à rotina escolar e imagens validadas clinicamente."
+        },
+        {
+          "title": "Cirurgia de Mohs & Cirúrgica",
+          "desc": "Liderança de pensamento no LinkedIn para referenciadores, Reels educativos e fluxos de trabalho antes/depois com foco no consentimento."
+        }
+      ]
+    },
+    "medical_services": {
+      "badge": "Serviços sobre os quais criamos conteúdo",
+      "heading": "Cada condição. Cada tratamento. Cada consulta.",
+      "description": "Cada serviço médico tem o seu próprio pilar de conteúdo e mapa de hashtags — Reels e carrosséis otimizados para a pesquisa do paciente.",
+      "items": [
+        "Tratamento de Acne",
+        "Tratamento de Eczema",
+        "Tratamento de Psoríase",
+        "Tratamento de Infeções Cutâneas",
+        "Tratamento de Alergias de Pele",
+        "Rastreio e Tratamento de Cancro de Pele",
+        "Avaliação de Sinais e Remoção Médica",
+        "Remoção de Quistos e Lipomas",
+        "Remoção de Verrugas",
+        "Tratamento de Doenças das Unhas",
+        "Diagnóstico e Tratamento Médico de Queda de Cabelo",
+        "Tratamento de Doenças do Couro Cabeludo",
+        "Tratamento de Rosácea",
+        "Hiperpigmentação e Melasma (indicação médica)",
+        "Tratamento de Cicatrizes (trauma, cirurgia, doença)",
+        "Tratamento de Cicatrizes de Queimaduras",
+        "Tratamento de Vitiligo",
+        "Biópsias Cutâneas e Procedimentos de Diagnóstico"
+      ]
+    },
+    "workflow": {
+      "badge": "Como funciona",
+      "heading": "Lançamento social de 90 dias. Resultados crescentes depois.",
+      "description": "Etapas transparentes ligadas a consultas agendadas — e não a métricas de vaidade.",
+      "items": [
+        {
+          "step": "01",
+          "phase": "Fase 01",
+          "title": "Auditoria de marca e conteúdo",
+          "desc": "Análise da voz, sistema visual, concorrência e mapa de hashtags. Documento de pilares para 90 dias focado nos seus serviços."
+        },
+        {
+          "step": "02",
+          "phase": "Fase 02",
+          "title": "Sessão mensal de conteúdo",
+          "desc": "Um dia de gravação por mês na clínica — Reels, estáticos e testemunhos. Gravar em lote garante consistência."
+        },
+        {
+          "step": "03",
+          "phase": "Fase 03",
+          "title": "Publicar, interagir e iterar",
+          "desc": "Agendamento nativo em todas as redes. Triagem diária de DMs. Analítica semanal focada em KPIs de agendamento."
+        },
+        {
+          "step": "04",
+          "phase": "Fase 04",
+          "title": "Amplificar com anúncios",
+          "desc": "Os posts orgânicos com melhor performance são promovidos como Meta/TikTok Ads para visitantes do site e públicos novos."
+        }
+      ]
+    },
+    "why_us": {
+      "badge": "Porquê escolher-nos",
+      "heading": "Um parceiro de redes sociais especializado em dermatologia — não uma agência genérica.",
+      "items": [
+        {
+          "title": "Fluxos de trabalho HIPAA-safe",
+          "desc": "Consentimento assinado antes de qualquer post. DMs geridas com templates seguros. Legendas revistas por conformidade."
+        },
+        {
+          "title": "Sessões mensais na clínica",
+          "desc": "Um dia de gravação = 3 a 4 semanas de Reels, posts e testemunhos. Esqueça a pressa de última hora por conteúdo."
+        },
+        {
+          "title": "Design consistente com a marca",
+          "desc": "Um sistema visual único: cores, tipos de letra e capas premium. O seu feed parecerá uma clínica de prestígio, não um template."
+        },
+        {
+          "title": "Estratégia Reels-first",
+          "desc": "O vídeo curto é o motor do crescimento. Cada pilar é primeiro um Reel, depois adaptado para TikTok, Shorts e carrosséis."
+        },
+        {
+          "title": "Gestão de DMs e comunidade",
+          "desc": "Templates de resposta treinados e resposta em 4h. Encaminhamos os leads diretamente para a marcação de consultas."
+        },
+        {
+          "title": "Consultas reais, não apenas gostos",
+          "desc": "Os relatórios mensais ligam o alcance e as DMs a consultas agendadas e faturação por serviço — sem dashboards de vaidade."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "Respostas às perguntas frequentes dos diretores clínicos.",
+    "items": [
+      {
+        "q": "Qual a diferença entre redes sociais e Google Ads para dermatologia?",
+        "a": "O Google Ads captura a procura existente — alguém a pesquisar 'dermatologista perto de mim'. As redes sociais criam procura e confiança. Reels e TikToks constroem a marca que o paciente escolhe quando finalmente pesquisa. As melhores práticas usam ambos; o social baixa o custo por consulta no Google ao 'aquecer' o mercado."
+      },
+      {
+        "q": "Os vossos posts respeitam a privacidade HIPAA?",
+        "a": "Sim. Antes/depois e testemunhos só são publicados após autorização assinada. As DMs são geridas com templates seguros — nunca diagnóstico ou tratamentos via DM, apenas ofertas de agendamento e triagem básica."
+      },
+      {
+        "q": "São vocês que gravam o conteúdo ou somos nós?",
+        "a": "Nós gravamos. Um dia de produção mensal garante conteúdo para o mês inteiro. Para clínicas que já têm um criador interno, podemos passar a um modelo híbrido — editamos e gerimos o material bruto deles."
+      },
+      {
+        "q": "Qual o compromisso mínimo?",
+        "a": "90 dias. Os resultados nas redes sociais são cumulativos; 30 dias não permitem validar a estratégia. Após os primeiros 90 dias, passamos a um contrato mensal renovável que pode cancelar com 30 dias de aviso."
+      },
+      {
+        "q": "Também gerem anúncios pagos (Social Ads)?",
+        "a": "Sim. Campanhas de Meta e TikTok Ads estão incluídas no plano de crescimento — impulsionamos o melhor conteúdo orgânico e corremos anúncios focados em agendamentos diretos."
+      },
+      {
+        "q": "Gerem clínicas com várias localizações?",
+        "a": "Sim — gerimos calendários individuais sob um sistema de marca único, com posts geolocalizados e relatórios por clínica num único painel."
+      }
+    ]
+  },
+  "cta": {
+    "badge": "Auditoria social gratuita",
+    "heading": "Saiba por onde as suas redes sociais estão a perder consultas — em 48 horas.",
+    "description": "Análise de conteúdo, varrimento da concorrência, mapa de pilares, auditoria de funil de DM e plano prioritário de 90 dias para agendar consultas. Gratuito e sem compromisso.",
+    "primary": "Pedir auditoria gratuita",
+    "secondary": "Solicitar proposta"
+  },
+  "sticky_footer": {
+    "label": "Auditoria social gratuita — 48h",
+    "button": "Pedir"
+  },
+  "internal_links": {
+    "prefix": "Também pode interessar: ",
+    "reputation": "gestão de avaliações de cinco estrelas",
+    "email": "nutrição por email para pacientes recorrentes",
+    "gallery": "a sua montra de antes e depois"
+  }
+}

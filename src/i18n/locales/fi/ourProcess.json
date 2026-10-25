@@ -1,0 +1,395 @@
+{
+  "meta": {
+    "title": "Prosessimme — ihotautiklinikan verkkosivujen 7 vaihetta | Suunnittelu → Julkaisu → Kasvu",
+    "description": "7-vaiheinen prosessimme ihotautiklinikoiden verkkosivuille: strategiatyö, SEO-auditointi, design, sisältö, kehitys, julkaisu ja kasvu. Kiinteät aikataulut, HIPAA-valmius ja Lighthouse 95+ takuu.",
+    "ogTitle": "Prosessimme — 7 askelta aloituksesta hallittuun kasvuun",
+    "ogDescription": "Läpinäkyvä ja aikataulutettu prosessi ihotautiklinikoiden verkkosivusuunnitteluun ja hakukoneoptimointiin. Katso miten etenemme viikko viikolta."
+  },
+  "jsonLd": {
+    "breadcrumb": {
+      "home": "Etusivu",
+      "ourProcess": "Prosessimme"
+    },
+    "howTo": {
+      "name": "Ihotautiklinikan verkkosivuston rakennusprosessi",
+      "description": "7-vaiheinen malli suorituskykyisen ihotautisivuston julkaisuun."
+    }
+  },
+  "hero": {
+    "badge": "Prosessimme",
+    "title": "Ensimmäisestä puhelusta ensimmäiseen potilasvaraukseen — ",
+    "titleHighlight": "7-vaiheinen projekti kiinteällä aikataululla.",
+    "description": "Ei hämäryyttä, ei paisuvia kuluja, ei tuntihintaisia yllätyksiä. Jokaisella vaiheella on selkeä tuotos, vastuuhenkilö ja takaraja – tiedät aina mitä tällä viikolla tapahtuu.",
+    "buttons": {
+      "seeSteps": "Tutustu vaiheisiin",
+      "freeQuote": "Pyydä ilmainen tarjous"
+    },
+    "imageAlt": "Kuvitus seitsenvaiheisesta prosessipolusta, jossa hohtavat solmut nousevat kaartuvalla reitillä"
+  },
+  "stats": {
+    "items": [
+      {
+        "num": "7",
+        "suffix": "",
+        "label": "Selkeää vaihetta"
+      },
+      {
+        "num": "6",
+        "suffix": "–10 vk",
+        "label": "Aloituksesta julkaisuun"
+      },
+      {
+        "num": "95",
+        "suffix": "+",
+        "label": "Lighthouse-takuu"
+      },
+      {
+        "num": "48",
+        "suffix": "h",
+        "label": "Keskim. vastausaika"
+      }
+    ]
+  },
+  "sections": {
+    "journeyMap": {
+      "ariaLabel": "Prosessin yleiskuva",
+      "subtitle": "Polun kartta",
+      "title": "Seitsemän vaihetta visuaalisesti."
+    },
+    "steps": {
+      "ariaLabel": "Prosessimme vaihe vaiheelta",
+      "subtitle": "7 vaiheen toteutus",
+      "title": "Selaa projektin kulkua.",
+      "step": "Vaihe",
+      "divider": "/",
+      "total": "07",
+      "bulletSeparator": "·",
+      "labels": {
+        "youProvide": "Sinä toimitat",
+        "weDeliver": "Me toimitamme",
+        "deliverables": "Sisältyvät tuotokset",
+        "items": "kohtaa"
+      },
+      "items": [
+        {
+          "n": "01",
+          "title": "Kartoitus & Strategia",
+          "duration": "3–5 päivää",
+          "tagline": "Ymmärrämme klinikkasi tarpeet ennen kuin koskemme pikseliinkään.",
+          "summary": "60 minuutin strategiapalaveri ja kirjallinen suunnitelma. Auditoimme nykyisen sivustosi, analysoimme kilpailijat ja määritämme potilasprofiilit, palveluprioriteetit sekä konversiotavoitteet ennen suunnittelun aloitusta.",
+          "deliverables": [
+            "60 min strateginen kartoituspalaveri",
+            "Kilpailija- ja avainsana-analyysi",
+            "Potilasprofiili- ja ostopolkukartta",
+            "Kirjallinen projektisuunnitelma (PDF)",
+            "Sivustokartta v1 + sisältörunko"
+          ],
+          "youProvide": [
+            "Brändimateriaalit (mikäli on)",
+            "Pääsy nykyiseen analytiikkaan",
+            "3 kilpailijaa tai suosikkisivustoa"
+          ],
+          "weDeliver": [
+            "Kirjallinen suunnitelma",
+            "Lopullinen projektitarjous",
+            "Aloitusaikataulu"
+          ]
+        },
+        {
+          "n": "02",
+          "title": "SEO & Tekninen auditointi",
+          "duration": "2–3 päivää",
+          "tagline": "Tukitaan vuodot ennen kuin lähdetään vesille.",
+          "summary": "Uudistusprojekteissa teemme nykyisen sivuston täyden tarkastuksen: indeksointi, Core Web Vitals, linkkiprofiili, HIPAA-puutteet ja konversioesteet. Uusille sivustoille luomme avainsana- ja hakukonemahdollisuuksien kartan.",
+          "deliverables": [
+            "Tekninen SEO-auditointiraportti",
+            "Core Web Vitals -pisteytys",
+            "Linkkiprofiilin ja auktoriteetin analyysi",
+            "HIPAA- ja saavutettavuustarkastus",
+            "Uudelleenohjaussuunnitelma vanhoille URLeille"
+          ],
+          "youProvide": [
+            "GSC + GA4 lukuoikeudet",
+            "Nykyisen hallintapaneelin tunnukset"
+          ],
+          "weDeliver": [
+            "Auditointiraportti (PDF)",
+            "Priorisoitu korjauslista",
+            "Uudelleenohjauskartta"
+          ]
+        },
+        {
+          "n": "03",
+          "title": "Design & Prototyyppi",
+          "duration": "1–2 viikkoa",
+          "tagline": "Yksilöllinen ulkoasu, ei valmispohjia, ihotautialalle luotu.",
+          "summary": "Suunnittelemme uniikin visuaalisen ilmeen – värit, typografian, ikonit ja komponentit. Luomme klikattavat Figma-prototyypit jokaisesta avainsivusta. Sisältää kaksi muokkauskierrosta.",
+          "deliverables": [
+            "Uniikki Design System (Figma)",
+            "Etusivu + 3 pohjamallia",
+            "Interaktiivinen, klikattava prototyyppi",
+            "Mobiili-, tabletti- ja työpöytäversiot",
+            "Kaksi muokkauskierrosta"
+          ],
+          "youProvide": [
+            "Palaute 48 tunnin sisällä",
+            "Hyväksynnät Figma-kommentteina"
+          ],
+          "weDeliver": [
+            "Suunnittelujärjestelmä",
+            "Klikattava prototyyppi",
+            "Design-laadunvarmistuslista"
+          ]
+        },
+        {
+          "n": "04",
+          "title": "Sisältö & Copywriting",
+          "duration": "1–2 viikkoa (rinnakkain)",
+          "tagline": "Lääketieteellisesti tarkka. Konversioille hiottu.",
+          "summary": "Lääketieteelliset copywriterimme laativat jokaisen sivun tekstin brändisi äänellä – kliinisesti tarkasti, potilaslähtöisesti ja hakukoneoptimoidusti. Vaihe etenee rinnakkain kehityksen kanssa.",
+          "deliverables": [
+            "SEO-optimoitu tekstisisältö (kaikki sivut)",
+            "Hoitokuvaukset (max 15 sivua)",
+            "Lääkärien esittelyt ja pätevyydet",
+            "Meta-otsikot ja -kuvaukset",
+            "Schema-merkinnät (LocalBusiness, FAQ)"
+          ],
+          "youProvide": [
+            "Lääkärien haastattelut (30 min kpl)",
+            "Tietojen tarkistus ja hyväksyntä"
+          ],
+          "weDeliver": [
+            "Sivuston täysi copy-tiedosto",
+            "SEO-metadatataulukko",
+            "Schema JSON-LD"
+          ]
+        },
+        {
+          "n": "05",
+          "title": "Kehitys & Integraatiot",
+          "duration": "2–4 viikkoa",
+          "tagline": "Käsin koodattu. Nopea. HIPAA-valmis alusta alkaen.",
+          "summary": "Semanttinen HTML, saavutettavat komponentit, kuvien optimointi ja Core Web Vitals kuuluvat perusrakenteeseen. Integraatiot — kuten varausjärjestelmät, potilastietojärjestelmät ja chat — testataan huolellisesti.",
+          "deliverables": [
+            "Tuotantolaatuinen koodi (ei sivunrakennustyökaluja)",
+            "Varausjärjestelmä- & EHR-integraatiot",
+            "GA4 + Search Console -asennukset",
+            "Nopeusoptimointi (Lighthouse 95+)",
+            "Saavutettavuus (WCAG 2.1 AA)"
+          ],
+          "youProvide": [
+            "Rajapinta-avaimet (tarvittaessa)",
+            "Sisältöjen lopullinen hyväksyntä"
+          ],
+          "weDeliver": [
+            "Testisivusto (Staging)",
+            "Testitunnukset",
+            "QA-laadunvarmistuslista"
+          ]
+        },
+        {
+          "n": "06",
+          "title": "Laadunvarmistus & Julkaisu",
+          "duration": "3–5 päivää",
+          "tagline": "Katkeamaton siirto. Dokumentoitu luovutus.",
+          "summary": "300 kohdan tarkastuslista kattaa selaimet, laitteet, lomakkeet ja integraatiot. Nimipalvelinmuutokset tehdään aikataulusi mukaan. Saat opastusvideon ja kirjallisen käyttöoppaan.",
+          "deliverables": [
+            "300 kohdan QA-tarkastuslista",
+            "Selain- ja laitestestaus",
+            "Katkeamaton DNS-siirto",
+            "Uudelleenohjausten testaus",
+            "45 minuutin läpikäynti ja koulutus"
+          ],
+          "youProvide": [
+            "DNS-pääsy",
+            "Vahvistettu julkaisuikkuna"
+          ],
+          "weDeliver": [
+            "Julkaistu sivusto",
+            "Koulutusvideo",
+            "Ylläpito-opas"
+          ]
+        },
+        {
+          "n": "07",
+          "title": "Kasvu & Optimointi",
+          "duration": "Jatkuva (kuukausittainen)",
+          "tagline": "Julkaisu on vasta alku, ei maaliviiva.",
+          "summary": "Kuukausittainen SEO, sisältöpäivitykset ja konversio-optimointi valitsemasi paketin mukaisesti. Neljännesvuosittaiset katsaukset asiakasvastaavan kanssa pitävät kehityksen oikealla uralla.",
+          "deliverables": [
+            "Kuukausittainen SEO- ja sisältötyö",
+            "A/B-testaus ja optimointi",
+            "Näkyvyys- ja konversioraportit",
+            "Strateginen katsaus neljännesvuosittain",
+            "Nimetty asiakasvastaava"
+          ],
+          "youProvide": [
+            "Kuukausittainen 30 min seurantapalaveri",
+            "Strategisten valintojen hyväksyntä"
+          ],
+          "weDeliver": [
+            "Kuukausiraportti",
+            "Analytiikkanäkymä",
+            "Päivitetty kehityssuunnitelma"
+          ]
+        }
+      ]
+    },
+    "principles": {
+      "subtitle": "Prosessin taustalla olevat arvot",
+      "title": "Kuusi sääntöä, joista emme joustaa.",
+      "description": "Nämä lupaukset ohjaavat jokaista työvaihetta ja varmistavat, ettei projektistasi tule yhtä ihotautialan pelottavista epäonnistumistarinoista.",
+      "items": [
+        {
+          "title": "HIPAA-lähtöinen arkkitehtuuri",
+          "desc": "Jokainen lomake ja integraatio tarkistetaan HIPAA-säädösten valossa ennen julkaisua. Ei potilastietoja analytiikkaan."
+        },
+        {
+          "title": "Lighthouse 95+ tai korjaamme ilmaiseksi",
+          "desc": "Suorituskyky on vaatimus, ei lisäominaisuus. Jos emme saavuta tavoitetta, korjaamme sen omalla kustannuksellamme."
+        },
+        {
+          "title": "Yksi yhteyshenkilö",
+          "desc": "Nimetty projektipäällikkö aloituksesta luovutukseen. Ei jatkuvaa vastuuhenkilön vaihtumista."
+        },
+        {
+          "title": "Muokkaukset sisältyvät hintaan",
+          "desc": "Jokaiseen pakettiin kuuluu kaksi muokkauskierrosta designiin ja tekniseen toteutukseen. Ei piilokuluja."
+        },
+        {
+          "title": "Kiinteät aikataulut, viikoittaiset tapaamiset",
+          "desc": "Kirjallinen aikataulu heti alussa. Viikoittaiset päivitykset. Viivästyksistä ilmoitetaan heti, ei deadline-päivänä."
+        },
+        {
+          "title": "Slack-kanava, ei tikettijärjestelmää",
+          "desc": "Suora yhteys tiimiin milloin vain. Vastausaika mitataan tunneissa, ei päivissä."
+        }
+      ]
+    },
+    "comparison": {
+      "subtitle": "Miksi prosessimme voittaa",
+      "title": "Me vs. muut toimistot vs. freelancerit.",
+      "table": {
+        "headers": {
+          "matters": "Merkitsevä tekijä",
+          "us": "Meidän prosessimme",
+          "agency": "Tyypillinen toimisto",
+          "freelance": "Yksittäinen tekijä"
+        },
+        "rows": [
+          {
+            "row": "Uniikki design (ei valmispohjia)",
+            "us": true,
+            "agency": "Toisinaan",
+            "freelance": false
+          },
+          {
+            "row": "Kiinteä hinta ja skooppi etukäteen",
+            "us": true,
+            "agency": "Tuntiveloitus",
+            "freelance": "Epämääräinen"
+          },
+          {
+            "row": "Lääketieteellinen copywriter tiimissä",
+            "us": true,
+            "agency": "Lisämaksu",
+            "freelance": false
+          },
+          {
+            "row": "HIPAA-yhteensopivuuden tarkistus",
+            "us": true,
+            "agency": "Lisämaksu",
+            "freelance": false
+          },
+          {
+            "row": "Lighthouse 95+ takuu",
+            "us": true,
+            "agency": false,
+            "freelance": false
+          },
+          {
+            "row": "Nimetty asiakasvastaava (julkaisun jälkeen)",
+            "us": true,
+            "agency": "Vain suuryrityksille",
+            "freelance": false
+          },
+          {
+            "row": "Slack-yhteys tiimiin",
+            "us": true,
+            "agency": "Vain sähköposti",
+            "freelance": "Toisinaan"
+          },
+          {
+            "row": "Toimitusaika (aloitus → julkaisu)",
+            "us": "6–10 viikkoa",
+            "agency": "3–6 kuukautta",
+            "freelance": "Arvaamaton"
+          }
+        ]
+      }
+    },
+    "testimonial": {
+      "quote": "\"Pelkästään viikoittaiset palaverit olivat hinnan arvoisia. Tiesimme joka maanantai, mitä edellisellä viikolla oli saatu valmiiksi ja mitä seuraavaksi tapahtuu. Ensimmäinen projekti viiteen vuoteen, joka julkaistiin täsmälleen sovittuna päivänä.\"",
+      "author": "Dr. Anika Patel, MD, FAAD",
+      "role": "BH Dermatology · 3 toimipistettä"
+    },
+    "faq": {
+      "subtitle": "Kysymyksiä prosessista",
+      "title": "Usein kysyttyä.",
+      "items": [
+        {
+          "q": "Kuinka kauan koko prosessi kestää?",
+          "a": "Useimmat ihotautisivustot valmistuvat 6–10 viikossa. Yhden sivun Starter-sivustot julkaistaan viikossa, laajat kokonaisuudet 10–14 viikossa. Saat kirjallisen aikataulun heti alussa – ei epämääräisiä lupauksia."
+        },
+        {
+          "q": "Mitä vaaditte meiltä rakennusvaiheessa?",
+          "a": "Noin 3–5 tuntia viikossa: 60 min aloituskonsultaatio, viikoittaiset 30 min tarkistukset, lääkärien lyhyet haastattelut ja hyväksynnät 48 tunnin sisällä. Me hoidamme työn – sinä ohjaat ja vahvistat."
+        },
+        {
+          "q": "Voimmeko aloittaa pelkällä designilla?",
+          "a": "Kyllä. Tarjoamme erillisiä kartoitus- ja design-projekteja (3 900 $), joissa saat Figma-prototyypin ja design-järjestelmän omistukseesi. Voit toteuttaa koodauksen itse, käyttää toista kumppania tai palata myöhemmin meille toteutukseen."
+        },
+        {
+          "q": "Entä jos tarvitsemme muutoksia julkaisun jälkeen?",
+          "a": "Jokaiseen pakettiin kuuluu 30 päivän ilmainen tuki ja korjaukset. Tämän jälkeen muutokset hoituvat kuukausisopimuksella tai erillisveloituksella. Tiedät kustannukset aina etukäteen."
+        },
+        {
+          "q": "Kirjoitatteko te lääketieteellisen sisällön vai me?",
+          "a": "Lääketieteelliset copywriterimme luonnostelevat kaiken, ja asiantuntijanne vain tarkistaa ja hyväksyy ne. Emme koskaan pyydä teitä aloittamaan tyhjältä pöydältä. Jos haluatte kirjoittaa kaiken itse, huomioimme sen hinnassa."
+        },
+        {
+          "q": "Miten huomioitte HIPAA-yhteensopivuuden?",
+          "a": "HIPAA-tietoisuus on sisäänrakennettu: ei potilastietoja analytiikassa, salatut yhteydenottolomakkeet, suojattu ylläpito ja lokien hallinta. Allekirjoitettu BAA-sopimus sisältyy laajempiin palvelupaketteihimme."
+        }
+      ]
+    },
+    "cta": {
+      "badge": "Valmiina kun sinäkin",
+      "title": "Aloita vaiheesta 01 — ilmainen auditointi.",
+      "description": "Maksuton, ei sitoumusta. Saat projektisuunnitelman, alustavan aikataulun ja kiinteän hintatarjouksen — vaikka et valitsisi meitä.",
+      "buttons": {
+        "freeQuote": "Pyydä ilmainen tarjous",
+        "pricing": "Katso hinnasto ensin"
+      }
+    },
+    "footerLinks": {
+      "prefix": "Saatat olla kiinnostunut myös: ",
+      "about": "keitä olemme ja miten toimimme",
+      "comma": ", ",
+      "portfolio": "aiemmat työmme",
+      "or": " tai ",
+      "pricing": "pakettien hinnat",
+      "suffix": "."
+    },
+    "mobileCta": {
+      "subtitle": "Aloita vaiheesta 01",
+      "title": "Ilmainen sivustoanalyysi — ei kuluja.",
+      "button": "Pyydä tarjous"
+    },
+    "progressRail": {
+      "title": "Projektin eteneminen",
+      "step": "Vaihe",
+      "of": "/ 07"
+    }
+  }
+}

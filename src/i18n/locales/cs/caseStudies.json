@@ -1,0 +1,844 @@
+{
+  "meta": {
+    "title": "Případové studie — Výsledky růstu dermatologických webů",
+    "description": "Detailní případové studie webů pro dermatology založené na reálných číslech — objednávky, SEO pozice, rychlost webu a navýšení tržeb pro estetické, lékařské i vícepobočkové praxe.",
+    "keywords": "případové studie dermatologie, výsledky dermatologických webů, SEO pro dermatology případová studie, návratnost investice do webu lékařské praxe",
+    "og": {
+      "title": "Případové studie — Výsledky růstu dermatologických webů",
+      "description": "Detailní případové studie webů pro dermatology založené na reálných číslech — objednávky, SEO pozice, rychlost webu a navýšení tržeb pro estetické, lékařské i vícepobočkové praxe."
+    },
+    "twitter": {
+      "title": "Případové studie — Výsledky růstu dermatologických webů",
+      "description": "Detailní případové studie webů pro dermatology založené na reálných číslech — objednávky, SEO pozice, rychlost webu a navýšení tržeb pro estetické, lékařské i vícepobočkové praxe."
+    },
+    "breadcrumb": {
+      "home": "Domů",
+      "caseStudies": "Případové studie"
+    }
+  },
+  "accessibility": {
+    "skipToContent": "Přeskočit na obsah"
+  },
+  "hero": {
+    "badge": "Případové studie · Reálné dermatologické praxe",
+    "title": "Důkazy místo slibů.",
+    "description": "Každá níže uvedená studie představuje fungující dermatologickou praxi — s přesnými daty o rezervacích, SEO, rychlosti a tržbách před a po naší spolupráci. Žádná vata, žádné prázdné metriky.",
+    "actions": {
+      "contact": "Chci stejné výsledky",
+      "audit": "Audit webu zdarma"
+    },
+    "metrics": [
+      {
+        "label": "Poptávky po konzultaci",
+        "value": "+214 %"
+      },
+      {
+        "label": "Konverze rezervací",
+        "value": "+3,8×"
+      },
+      {
+        "label": "Medián LCP",
+        "value": "0,9 s"
+      },
+      {
+        "label": "Pozice v místních mapách",
+        "value": "#1–3"
+      }
+    ]
+  },
+  "cta": {
+    "badge": "Váš příběh o úspěchu bude další",
+    "title": "Chcete vidět svou praxi na tomto seznamu?",
+    "description": "Pošlete nám svůj web. Do 24 hodin vypracujeme audit zaměřený na SEO, rychlost, HIPAA a konverzní mezery — navíc přidáme i odhad, kolik nových pacientů vám přinese redesign.",
+    "features": [
+      "Audit do 24 hodin bez nutnosti volání",
+      "Projekce rezervací a tržeb",
+      "Návrh s fixní cenou",
+      "Všechna práva zůstávají vám"
+    ],
+    "actions": {
+      "start": "Zahájit projekt",
+      "audit": "Audit zdarma"
+    },
+    "disclaimer": "Bez kreditní karty · Žádné prodejní skripty"
+  },
+  "navigation": {
+    "footerPrompt": "Zajímá vás, co dalšího nabízíme? Podívejte se na:",
+    "portfolioLink": "portfolio našich realizací",
+    "processLink": "průběh realizace krok za krokem",
+    "or": "nebo",
+    "pricingLink": "aktuální balíčky služeb"
+  },
+  "studies": {
+    "central-austin-dermatology": {
+      "tagline": "Praxe Boutique Austin byla přemístěna do centra města pro lékařskou a kosmetickou dermatologii.",
+      "challenge": "Krásná klinika pohřbená za pomalou, generickou šablonou – bez rozdílu od dermatologů z Austinu 30+ a slabého místního hodnocení největších kosmetických klíčových slov.",
+      "solution": "Redakční značkový systém, vyprávění příběhů vedené poskytovatelem, vyhrazené stránky pro aesthetic / výplň / laser a tok poradců pro concierge vyladěný pro konkurenční trh v centru Austinu.",
+      "highlights": [
+        "Redakční fotografie + vlastní typový systém",
+        "Servisní stránky pro každé kosmetické ošetření",
+        "Tok rezervace nových pacientů ve stejný týden",
+        "Schéma LocalBusiness vyladěno pro centrum Austinu"
+      ],
+      "location": "Austin, TX",
+      "duration": "9 týdnů",
+      "metrics": [
+        {
+          "label": "Konzultovat požadavky / měs"
+        },
+        {
+          "label": "Místní hodnost 'Aesthetic Austin'"
+        },
+        {
+          "label": "Mobilní LCP"
+        },
+        {
+          "label": "Konverze rezervace"
+        }
+      ],
+      "quote": {
+        "text": "Stránka konečně odpovídá zkušenostem, které pacienti získávají na klinice. Downtown Austin nyní ví, kam jít.",
+        "author": "Zakládající dermatolog",
+        "role": "Dermatologie centrální Austin"
+      }
+    },
+    "clear-dermatology": {
+      "tagline": "První lékařská praxe ve Scottsdale: přestavěna na základě klinické autority a přístupu pro nové pacienty ve stejný týden.",
+      "challenge": "Silní lékaři, slabý digitální příběh – stránky o stavu se čtou jako z učebnice, žádná jasná cesta ke knize a placené reklamy nesoucí většinu zátěže nových pacientů.",
+      "solution": "Střediska zdravotního stavu autorizovaná lékařem, transparentní informace o pojištění, rezervace jedním klepnutím a systém obsahu, který může lékařský tým aktualizovat bez webmastera.",
+      "highlights": [
+        "Více než 20 stránek o stavu autorů lékaře",
+        "Transparentní pojištění + formuláře pro nové pacienty",
+        "Widget dostupnosti schůzek ve stejný týden",
+        "Redakční CMS pro lékařský tým"
+      ],
+      "location": "Scottsdale, AZ",
+      "duration": "12 týdnů",
+      "metrics": [
+        {
+          "label": "Organické sezení / měs"
+        },
+        {
+          "label": "Nové formuláře pacientů / měs"
+        },
+        {
+          "label": "Zaplaceno CAC"
+        },
+        {
+          "label": "Rychlost stránky (mobil)"
+        }
+      ],
+      "quote": {
+        "text": "Přestali jsme pronajímat pacienty z Google Ads. Organické a přímé rezervace nyní přinášejí více nových rezervací, než kdy byly placené.",
+        "author": "Správce praxe",
+        "role": "Jasná dermatologie"
+      }
+    },
+    "olansky-dermatology": {
+      "tagline": "Vícegenerační kosmetická praxe v Atlantě: starší značka modernizována bez ztráty 30 let důvěry.",
+      "challenge": "Důvěryhodná 30letá značka skrytá za datovaným webem – málo zastoupené kosmetické služby a mladší pacienti nenacházejí praxi na mobilu.",
+      "solution": "Modernizovaný vizuální systém, který ctí starší verzi, kompletní architekturu kosmetických služeb, galerii před/po s pracovním postupem pro získání souhlasu a cestu rezervace na mobilu.",
+      "highlights": [
+        "Obnovená identita ctící 30letý odkaz",
+        "Před/po galerii spravovaný souhlas",
+        "Servisní mega navigace",
+        "Rezervace nejprve konzultujte s mobilem"
+      ],
+      "location": "Atlanta, GA",
+      "duration": "14 týdnů",
+      "metrics": [
+        {
+          "label": "Konzultovat požadavky / měs"
+        },
+        {
+          "label": "Sdílení mobilních rezervací"
+        },
+        {
+          "label": "Organické relace"
+        },
+        {
+          "label": "Prům. konzultovat hodnotu"
+        }
+      ],
+      "quote": {
+        "text": "Naši věrní pacienti nás stále uznávají a poprvé nás nachází zcela nová generace.",
+        "author": "Vedoucí partner",
+        "role": "Olanského dermatologie"
+      }
+    },
+    "dermatology-san-antonio": {
+      "tagline": "Skupina San Antonio s více pobočkami: konsolidovaná značka a odemčené místní vyhledávání na každé klinice.",
+      "challenge": "Mnoho klinik spolu soutěží ve vyhledávání, nekonzistentní branding napříč lokalitami a žádný jediný zdroj pravdy pro služby nebo poskytovatele.",
+      "solution": "Jednotný značkový systém se stránkami autority pro jednotlivé kliniky, schématem LocalBusiness + Physician pro každou lokalitu a centralizovaným redakčním pracovním postupem.",
+      "highlights": [
+        "Stránky autority pro jednotlivé lokality s jedinečnou kopií",
+        "Schéma pro každou kliniku a lékaře",
+        "Sdílená knihovna komponent, místní přepisy",
+        "Centrální rezervace s umístěním směrování"
+      ],
+      "location": "San Antonio, TX",
+      "duration": "16 týdnů",
+      "metrics": [
+        {
+          "label": "Kliniky v balíčku map č. 1–3"
+        },
+        {
+          "label": "Nové formuláře pacientů / měs"
+        },
+        {
+          "label": "Kombinovaný organický provoz"
+        },
+        {
+          "label": "Mobilní LCP"
+        }
+      ],
+      "quote": {
+        "text": "Každá klinika se konečně zařadí podle svých vlastních podmínek a náš marketingový tým místo hašení posílá lodě.",
+        "author": "Marketingový ředitel",
+        "role": "Dermatology Associates of San Antonio"
+      }
+    },
+    "direct-dermatology": {
+      "tagline": "Teledermatologie Store-and-forward: snížení počtu registrací a zdvojnásobení dokončených virtuálních návštěv.",
+      "challenge": "Matoucí příjem, nejasné zprávy o pojištění a 46% odchod z mobilu, než pacienti vůbec nahráli fotku.",
+      "solution": "Stav na jedné obrazovce + volič stavu, transparentní ceny, progresivní nahrávání fotek pro pomalé sítě a přepsání zprávy jako první.",
+      "highlights": [
+        "Vstup na jednu obrazovku nahrazuje 5krokového průvodce",
+        "Progresivní nahrávání fotek pro pomalý mobil",
+        "Pojištění – první zpráva nad okrajem",
+        "HIPAA-auditovaný tok end-to-end"
+      ],
+      "location": "USA · Teledermatologie",
+      "duration": "10 týdnů",
+      "metrics": [
+        {
+          "label": "Dokončení registrace"
+        },
+        {
+          "label": "Mobilní předání"
+        },
+        {
+          "label": "Zahájené návštěvy / den"
+        },
+        {
+          "label": "CAC (placeno)"
+        }
+      ],
+      "quote": {
+        "text": "Odstranění tření nebylo kosmetické – každý náš krok se stal dokončenou návštěvou a skutečným pacientem.",
+        "author": "Produkt VP",
+        "role": "Přímá dermatologie"
+      }
+    },
+    "colorado-dermatology": {
+      "tagline": "Praxe na více místech v Coloradu: jednotné digitální přední dveře napříč celou řadou Front Range.",
+      "challenge": "Oddělené mikrostránky pro každou lokalitu, duplicitní obsah služeb a žádná konzistentní značka – pacienti poskakující mezi weby a Googlem si nejsou jisti, kterou stránku mají ohodnotit.",
+      "solution": "Jediná sjednocená platforma, stránky autority pro jednotlivé kliniky s jedinečnou místní kopií a migrace 301, která během konsolidace zachovala všechna hodnocení.",
+      "highlights": [
+        "Migrace 301 s nulovou ztrátou ze 4 starších webů",
+        "Schéma LocalBusiness podle umístění",
+        "Adresář poskytovatelů s fasetovaným vyhledáváním",
+        "Centralizovaná redakční správa"
+      ],
+      "location": "Colorado · Více umístění",
+      "duration": "18 týdnů",
+      "metrics": [
+        {
+          "label": "Organický provoz (síť)"
+        },
+        {
+          "label": "Umístění na prvních 3 místech"
+        },
+        {
+          "label": "Nové rezervace pacientů / měsíc"
+        },
+        {
+          "label": "Rychlost stránky (mobil)"
+        }
+      ],
+      "quote": {
+        "text": "Konečně mluvíme jedním hlasem napříč Front Range – a čísla ukazují, že si toho pacienti všimli.",
+        "author": "provozní ředitel",
+        "role": "Coloradská dermatologie"
+      }
+    },
+    "skymd-teledermatology": {
+      "tagline": "50stavová teledermatologická platforma: od matoucí registrace až po virtuální návštěvu do 2 minut.",
+      "challenge": "Registrace v 6 krocích, nejasné státní krytí, nejednoznačnost pojištění a 42% odchod z mobilu, než se pacienti vůbec dostanou k pokladně.",
+      "solution": "Výběr stavu na jedné obrazovce + výběr podmínek, transparentní pojištění a ceny, mobilní tok a progresivní nahrávání fotografií, které stále funguje na pomalých venkovských připojeních.",
+      "highlights": [
+        "Stav + volič podmínek na jedné obrazovce",
+        "Transparentní pojištění + nacenění samoplatcem",
+        "Progresivní nahrávání fotografií pro pomalé sítě",
+        "Tok auditovaný HIPAA s hostováním SOC 2"
+      ],
+      "location": "50-státní teledermatologie",
+      "duration": "10 týdnů",
+      "metrics": [
+        {
+          "label": "Dokončení registrace"
+        },
+        {
+          "label": "Odeslání z mobilní pokladny"
+        },
+        {
+          "label": "Zahájené návštěvy / den"
+        },
+        {
+          "label": "CAC (placeno)"
+        }
+      ],
+      "quote": {
+        "text": "Každý opuštěný schod, který jsme odstranili, se ukázal jako rezervovaná návštěva. To nebyl design, ale inženýrství příjmů.",
+        "author": "VP Růst",
+        "role": "SkyMD"
+      }
+    },
+    "cura-clinics": {
+      "tagline": "Plně dvojjazyčná (arabsky první RTL + angličtina) značka dermatologie pro saúdský luxusní trh.",
+      "challenge": "Stávající stránka byla pouze v angličtině s přemyšleným arabským přepínačem, přerušila se na RTL a neměla rezervaci WhatsApp / STC Pay – nástroje, které saúdští pacienti skutečně používají.",
+      "solution": "Systém návrhu RTL v arabštině, nativní dvojjazyčný CMS, rezervace WhatsApp Business, pokladna STC Pay + Mada a místní SEO specifické pro Rijád s arabským schématem.",
+      "highlights": [
+        "Opravdový designový systém RTL (ne zrcadlový flip)",
+        "Postup rezervace WhatsApp Business + STC Pay",
+        "Arabské + anglické schéma pro Google KSA",
+        "Termíny schůzek s ohledem na ramadán"
+      ],
+      "location": "Rijád, Saúdská Arábie",
+      "duration": "12 týdnů",
+      "metrics": [
+        {
+          "label": "Arabské organické sezení"
+        },
+        {
+          "label": "Rezervace WhatsApp / měsíc"
+        },
+        {
+          "label": "Mobilní LCP (3G)"
+        },
+        {
+          "label": "Noví pacienti / měs"
+        }
+      ],
+      "quote": {
+        "text": "Arabská zkušenost se konečně cítí jako původní – nepřeložená. Pacienti nám říkají, že stránka vypadá luxusněji než klinika.",
+        "author": "Ředitel kliniky",
+        "role": "kliniky Cura"
+      }
+    },
+    "galderma": {
+      "tagline": "Globální značka dermatologie: systém podnikového designu sjednocující cesty produktů, HCP a pacientů na více než 90 trzích.",
+      "challenge": "Desítky regionálních webů na různých úrovních, nekonzistentní vyjádření značky mezi HCP a pacienty a pracovní postupy dodržování předpisů, které zpomalovaly každé spuštění.",
+      "solution": "Systém podnikového návrhu s uzamčenými vzory dodržování předpisů, sdílenými komponentami pro cesty HCP a pacienty a redakčními úpravami podle trhu s centrálním řízením.",
+      "highlights": [
+        "Designový systém nasazený na více než 90 trzích",
+        "Oddělené cesty HCP a pacienta, sdílený shell",
+        "Varianty komponent se zajištěním souladu",
+        "Centrální redakční řízení s místními přepisy"
+      ],
+      "location": "Globální · Podniková dermatologie",
+      "duration": "26 týdnů",
+      "metrics": [
+        {
+          "label": "Čas spustit trh"
+        },
+        {
+          "label": "Globální organický provoz"
+        },
+        {
+          "label": "Dokončení HCP portálu"
+        },
+        {
+          "label": "Návrh objemu lístku"
+        }
+      ],
+      "quote": {
+        "text": "Jeden systém, devadesát trhů, nulový posun značky – a uvedení na trh, které dříve trvalo čtvrtinu, se nyní dodávají během týdnů.",
+        "author": "Globální digitální vedoucí",
+        "role": "Galderma"
+      }
+    },
+    "badr-health": {
+      "tagline": "Saudská multioborová skupina: dvojjazyčný pacientský portál a sjednocené rezervace napříč všemi specializacemi.",
+      "challenge": "Starší stránka byla původně v angličtině se slabou arabskou podporou, speciální stránky se četly jako adresář a rezervace vyžadovala telefonát na recepci.",
+      "solution": "První platforma RTL v arabštině, centra pro jednotlivé speciality, WhatsApp + online rezervace se směrováním na kliniku a platební toky Insurance + Mada.",
+      "highlights": [
+        "První platforma RTL v arabštině (nepřeloženo)",
+        "Centrály pro jednotlivé speciality se schématem",
+        "WhatsApp Business + online rezervace",
+        "Integrace pojištění + platby Mada"
+      ],
+      "location": "Saudská Arábie · Multi-specialita",
+      "duration": "14 týdnů",
+      "metrics": [
+        {
+          "label": "Arabské organické sezení"
+        },
+        {
+          "label": "Online rezervace / měs"
+        },
+        {
+          "label": "Mobilní LCP"
+        },
+        {
+          "label": "Příchozí volání do call centra"
+        }
+      ],
+      "quote": {
+        "text": "Pacienti se objednávají v arabštině na svých telefonech – naše call centrum nyní řeší složité případy, nikoli plánování.",
+        "author": "Vedoucí digitálního oddělení",
+        "role": "Badr zdraví"
+      }
+    },
+    "zmmco-medical": {
+      "tagline": "MENA lékařský distributor: B2B katalog a hlavní motor přestavěný pro dermatology + nákupčích estetických zařízení.",
+      "challenge": "Statická stránka s brožurou bez katalogu produktů, bez zachycení olova a lékaři nemohou najít specifikace zařízení – prodejní tým vyřizuje každou otázku e-mailem.",
+      "solution": "Kompletní produktový katalog s fasetovaným vyhledáváním, stránkami autorit pro jednotlivá zařízení s klinickými specifikacemi, dvojjazyčným EN/AR obsahem a formulářem pro kvalifikované zájemce propojeným s prodejním CRM.",
+      "highlights": [
+        "Fazetovaný produktový katalog s klinickými specifikacemi",
+        "Dvojjazyčné stránky oprávnění EN/AR na zařízení",
+        "Získávání kvalifikovaných potenciálních zákazníků do CRM prodeje",
+        "Portál distributora + kliniky s cenovými úrovněmi"
+      ],
+      "location": "MENA · Lékařská distribuce",
+      "duration": "16 týdnů",
+      "metrics": [
+        {
+          "label": "Kvalifikovaní potenciální zákazníci / měs"
+        },
+        {
+          "label": "Organické relace"
+        },
+        {
+          "label": "Délka prodejního cyklu"
+        },
+        {
+          "label": "E-maily podpory / měsíc"
+        }
+      ],
+      "quote": {
+        "text": "Klinici si nyní sami obslouží specifikace zařízení a přicházejí k nám připraveni k nákupu. Naši zástupci se místo vysvětlování zavírají.",
+        "author": "obchodní ředitel",
+        "role": "ZMMCO Medical"
+      }
+    },
+    "naturium": {
+      "tagline": "Dermatology milovaná značka péče o pleť DTC: bezhlavá komerce, která dosáhla osmimístných příjmů.",
+      "challenge": "Legacy Shopify téma, 3,2s LCP na PDP, slabé ingredience a CVR, které stagnovaly navzdory zdvojnásobení placených výdajů.",
+      "solution": "Bezhlavé obchodování na zakázkovém konstrukčním systému, sub-sekundové PDP, vzdělávání o přísadách od dermatologa, tvůrce rutin řízený kvízem a A/B testovaná pokladna.",
+      "highlights": [
+        "Headless Shopify + vlastní designový systém",
+        "Encyklopedie přísad, kterou napsal dermatolog",
+        "Rutinní stavitelský kvíz (37 % dokončení)",
+        "Sub-sekundové PDP na všech produktech"
+      ],
+      "location": "USA · DTC péče o pleť",
+      "duration": "20 týdnů",
+      "metrics": [
+        {
+          "label": "PDP LCP"
+        },
+        {
+          "label": "CVR na celém webu"
+        },
+        {
+          "label": "AOV"
+        },
+        {
+          "label": "Sazba vráceného zákazníka"
+        }
+      ],
+      "quote": {
+        "text": "Stránka se stala naším nejlepším obchodníkem. Každý dolar placené útraty se nyní vrací více a organické tržby se ztrojnásobily.",
+        "author": "Vedoucí elektronického obchodu",
+        "role": "Naturium"
+      }
+    },
+    "skin-and-me": {
+      "tagline": "Služba péče o pleť na předpis ve Spojeném království: kvízový akviziční trychtýř, který proměnil krabici s předplatným na klinickou značku.",
+      "challenge": "Estetika spotřebitelské značky, která skrývala klinickou přísnost, opuštění kvízu při nahrání fotografie a nejasné zprávy s opakovaným předpisem, které přeplňují LTV.",
+      "solution": "Důkazní proužek od dermatologa, progresivní kvíz s okamžitými fotografickými tipy, průhledné odhalování vzorce a uživatelské rozhraní pro správu předplatného, které omezuje odchod.",
+      "highlights": [
+        "Progresivní kvíz s živým fotografickým průvodcem",
+        "Dermatologický proužek na každém kroku",
+        "Transparentní odhalení aktivní složky",
+        "Pozastavení/swap samoobslužného předplatného"
+      ],
+      "location": "Spojené království · Teledermatologie",
+      "duration": "12 týdnů",
+      "metrics": [
+        {
+          "label": "Dokončení kvízu"
+        },
+        {
+          "label": "Odeslání při nahrávání fotografií"
+        },
+        {
+          "label": "Trial → placený CVR"
+        },
+        {
+          "label": "6měsíční LTV předplatitelů"
+        }
+      ],
+      "quote": {
+        "text": "Nálevka nakonec odráží lék za produktem. Zkušební konverze se zdvojnásobila, aniž by se dotkla placených výdajů.",
+        "author": "Vedoucí růstu",
+        "role": "Kůže + já"
+      }
+    },
+    "sydney-dermatology": {
+      "tagline": "Lékařská praxe Sydney CBD: přestavěná na základě úřadu pro rakovinu kůže a přístupu nových pacientů ve stejný týden.",
+      "challenge": "Nádherná klinika skrytá za pomalou šablonou, žádné hodnocení pro klíčová slova zaměřená na rakovinu kůže a doporučení omezená na papírový faxový pracovní postup.",
+      "solution": "Centrum autority pro rakovinu kůže, rezervační widget pro kontrolu krtka, portál doporučení praktického lékaře s e-faxem a místní schéma Sydney zaměřené na východní a vnitřní západní předměstí.",
+      "highlights": [
+        "Centrum úřadu pro rakovinu kůže se schématem",
+        "Widget rezervace pro kontrolu krtka ve stejném týdnu",
+        "Doporučovací portál praktického lékaře s e-faxem",
+        "Místní SEO na úrovni předměstí v Sydney"
+      ],
+      "location": "Sydney, Austrálie",
+      "duration": "11 týdnů",
+      "metrics": [
+        {
+          "label": "Hodnost 'Skin check Sydney'"
+        },
+        {
+          "label": "Nové rezervace pacientů / měsíc"
+        },
+        {
+          "label": "Doporučení praktického lékaře / měs"
+        },
+        {
+          "label": "Mobilní LCP"
+        }
+      ],
+      "quote": {
+        "text": "Kožní kontroly si nyní rezervují sami. Naši praktičtí lékaři milují portál doporučení a pacienti přicházejí již vzdělaní.",
+        "author": "Ředitel praxe",
+        "role": "Sydney dermatologie"
+      }
+    },
+    "dr-haus-dermatology": {
+      "tagline": "Kosmetická klinika Harley Street: redakční rebrand, který posunul tuto praxi na nejvyšší londýnskou estetickou úroveň.",
+      "challenge": "Značka Boutique Harley Street konkurující londýnským řetězcům, bez rozdílu u injekčních přípravků a žádostí o konzultace, které přicházejí na mobil.",
+      "solution": "Redakční vizuální systém, vyprávění příběhů vedené poskytovatelem, architektura léčby na stránku pro injekční aplikace a lasery a tok konzultací concierge vyladěný pro mobilní zařízení.",
+      "highlights": [
+        "Redakční identita + vlastní typografie",
+        "Jedna stránka na injekční a laserovou aplikaci",
+        "Concierge konzultuje rezervaci na mobilu",
+        "Místní schéma Harley Street"
+      ],
+      "location": "Londýn, Velká Británie",
+      "duration": "10 týdnů",
+      "metrics": [
+        {
+          "label": "Konzultovat požadavky / měs"
+        },
+        {
+          "label": "Místní hodnocení 'Aesthetic London'"
+        },
+        {
+          "label": "Prům. konzultovat hodnotu"
+        },
+        {
+          "label": "Mobilní rezervační CVR"
+        }
+      ],
+      "quote": {
+        "text": "Stránka nyní mluví jazykem pacientů, které skutečně chceme. Každá konzultace přichází předem kvalifikovaná.",
+        "author": "zakladatel",
+        "role": "Dermatologie Dr Haus"
+      }
+    },
+    "skincare-by-dr-v": {
+      "tagline": "Globální autorita zaměřená na barvu pleti: výkladní skříň DTC + redakční centrum, které rozšířilo specializovanou praxi po celém světě.",
+      "challenge": "Špičková odbornost v dermatologii barvy kůže uvězněná v pomalém výkladu, slabé vzdělávání o složkách a mezinárodní přeprava zabíjející opakované objednávky.",
+      "solution": "Bezhlavá výloha na zakázkovém designovém systému, redakční centra podle typu pleti, encyklopedie přísad a mezinárodní doprava v místní měně.",
+      "highlights": [
+        "Redakční centra pro pigmentaci a akné",
+        "Encyklopedie přísad podle zájmu",
+        "Mezinárodní pokladna ve více měnách",
+        "Sub-sekundové PDP na všech produktech"
+      ],
+      "location": "Londýn · Globální (barevná kůže)",
+      "duration": "16 týdnů",
+      "metrics": [
+        {
+          "label": "Organické sezení / měs"
+        },
+        {
+          "label": "Mezinárodní podíl na objednávce"
+        },
+        {
+          "label": "PDP LCP"
+        },
+        {
+          "label": "Sazba vráceného zákazníka"
+        }
+      ],
+      "quote": {
+        "text": "Pacienti na třech kontinentech nás nyní najdou přesně pro to, co umíme nejlépe – a nakupují bez třecí stěny.",
+        "author": "Zakladatel a lékařský ředitel",
+        "role": "Péče o pleť od Dr. V"
+      }
+    },
+    "the-derma-co": {
+      "tagline": "Dermatologem formulovaná indická značka DTC: kvíz + přestavba PDP, která odemkla vedoucí postavení v kategorii.",
+      "challenge": "Vzkvétající značka naráží na strop CVR: pomalé PDP na 3G, slabá důvěryhodnost přísad a kvíz, který ztratil 40 % uživatelů při výběru zájmu.",
+      "solution": "Sub-second PDP shell, dermatology-autor koncernových center, kvíz přepracovaný pro jeden palec indické mobilní, a dobírka odstranění tření.",
+      "highlights": [
+        "Sub-sekundové PDP testované na 3G",
+        "Kvíz na prvním místě pro použití jedním palcem",
+        "Stránky s přísadami od dermatologa",
+        "Bez tření na dobírku + pokladna UPI"
+      ],
+      "location": "Indie · DTC péče o pleť",
+      "duration": "18 týdnů",
+      "metrics": [
+        {
+          "label": "PDP LCP (3G)"
+        },
+        {
+          "label": "Dokončení kvízu"
+        },
+        {
+          "label": "CVR na celém webu"
+        },
+        {
+          "label": "Míra opakování nákupu"
+        }
+      ],
+      "quote": {
+        "text": "Stránka drží krok s naším růstem, místo aby jej omezovala. Každý výkonnostní bod se promítl do příjmů.",
+        "author": "VP Digital",
+        "role": "Společnost Derma Co"
+      }
+    },
+    "belfast-skin-clinic": {
+      "tagline": "Přední soukromá dermatologická klinika v Severním Irsku: autorita, která vlastní vyhledávání v Belfastu.",
+      "challenge": "Regionální úřad schovaný za datovanou stránkou, pojištění a samoplatební ceny pohřbeny a poptávka po krtčí kontrole vedená pouze přes telefonickou rezervaci.",
+      "solution": "Kondiční centra od konzultantů, transparentní samo-pay + ceny BUPA, online rezervace pro kontrolu mole a místní schéma Severního Irska.",
+      "highlights": [
+        "Kondiční náboje autorizované konzultantem",
+        "Transparentní BUPA + samoplatitelské ceny",
+        "Online rezervace šeku krtka",
+        "Belfast + místní schéma celé NI"
+      ],
+      "location": "Belfast, Severní Irsko",
+      "duration": "9 týdnů",
+      "metrics": [
+        {
+          "label": "Hodnost 'dermatolog Belfast'"
+        },
+        {
+          "label": "Online rezervace / měs"
+        },
+        {
+          "label": "Organické relace"
+        },
+        {
+          "label": "Zatížení pouze pro telefon"
+        }
+      ],
+      "quote": {
+        "text": "Recepce bývala rezervačním systémem. Nyní to dělá stránka – a pacienti přicházejí již připraveni.",
+        "author": "Ředitel kliniky",
+        "role": "Belfastská kožní klinika"
+      }
+    },
+    "cpso-ontario": {
+      "tagline": "Provinční lékařský regulátor: Adresář 40 000 lékařů + veřejná důvěryhodná stránka přestavěná pro dostupnost a rozsah.",
+      "challenge": "Starší platforma pod veřejným adresářem vyhledávání lékařů, selhání WCAG na celém webu a každý interní tým zadává webmasterovi lístky na úpravy.",
+      "solution": "Systém podnikového designu s komponentami auditovanými AA, fasetovým vyhledáváním lékařů až do 40 000 záznamů, francouzsko/anglickým dvojjazyčným redakčním workflow a samoobslužným publikováním pro interní týmy.",
+      "highlights": [
+        "WCAG 2.1 AA auditovaná knihovna komponent",
+        "Fasetovaný adresář přes 40 tisíc lékařů",
+        "EN/FR dvojjazyčný redakční pracovní postup",
+        "Samoobslužné publikování napříč odděleními"
+      ],
+      "location": "Ontario, Kanada · Regulátor",
+      "duration": "22 týdnů",
+      "metrics": [
+        {
+          "label": "Latence vyhledávání v adresáři"
+        },
+        {
+          "label": "Problémy WCAG otevřeny"
+        },
+        {
+          "label": "Vydávání vstupenek / měs"
+        },
+        {
+          "label": "Mobilní LCP"
+        }
+      ],
+      "quote": {
+        "text": "Ontariani dostanou odpovědi za méně než sekundu a naše týmy publikují bez čekání na IT. To je regulátor, který jsme chtěli být online.",
+        "author": "Ředitel Digital",
+        "role": "CPSO"
+      }
+    },
+    "sunpark-dermatology": {
+      "tagline": "Lékařská + chirurgická dermatologická praxe v Calgary: přestavba úřadu, který vlastní vyhledávání v jižní Albertě.",
+      "challenge": "Silní lékaři, neviditelní online – žádné hodnocení pro termíny chirurgického zákroku s vysokým záměrem, doporučující formuláře uvězněné v PDF a mobilní rychlost poškozující dosah nových pacientů.",
+      "solution": "Chirurgická + lékařská centra vytvořená lékařem, online formulář doporučení pro praktické lékaře, místní schéma pro celou Albertu a sub-sekundový mobilní shell.",
+      "highlights": [
+        "Chirurgická centra od lékaře",
+        "Online doporučení praktického lékaře (už žádné PDF)",
+        "Místní schéma pro celou Albertu",
+        "Podsekundový mobilní plášť"
+      ],
+      "location": "Calgary, Kanada",
+      "duration": "10 týdnů",
+      "metrics": [
+        {
+          "label": "Hodnost 'Mohs chirurgie Calgary'"
+        },
+        {
+          "label": "Doporučení praktického lékaře / měs"
+        },
+        {
+          "label": "Organické relace"
+        },
+        {
+          "label": "Mobilní LCP"
+        }
+      ],
+      "quote": {
+        "text": "Přestali jsme ztrácet doporučení na chirurgii do větších skupin. Stránka nám je nyní vydělává.",
+        "author": "Lékařský ředitel",
+        "role": "Dermatologie Sunpark"
+      }
+    },
+    "norvic-hospital": {
+      "tagline": "Přední nepálská soukromá nemocnice: místo s více odděleními přestavěné tak, aby umožňovalo přístup pacientů a příjem lékařské turistiky.",
+      "challenge": "Desítky oddělení na nekonzistentních stránkách, zdravotně-turistické dotazy ztracené v kontaktním formuláři a mobilní rychlost nepoužitelná na nepálské 3G/4G.",
+      "solution": "Jednotná architektura oddělení, příjem lékařské turistiky se směrováním země + procedury, anglický/nepálský dvojjazyčný obsah a sub-sekundový mobilní shell testovaný na 3G.",
+      "highlights": [
+        "Jednotné oddělení + adresář lékařů",
+        "Léčebně-turistický příjem s trasováním země",
+        "EN/NE dvojjazyčný redakční pracovní postup",
+        "Podsekundový mobilní shell na 3G"
+      ],
+      "location": "Kathmandu, Nepál · Multi-speciální nemocnice",
+      "duration": "20 týdnů",
+      "metrics": [
+        {
+          "label": "Léčebně-turistika vede / měs"
+        },
+        {
+          "label": "Online schůzky / měs"
+        },
+        {
+          "label": "Mobilní LCP (3G)"
+        },
+        {
+          "label": "Oddělení se umístila na 3. místě"
+        }
+      ],
+      "quote": {
+        "text": "Pacienti z celé jižní Asie nás nyní najdou a rezervují v jednom toku. Místo vykonává práci celého přijímacího týmu.",
+        "author": "CIO",
+        "role": "Mezinárodní nemocnice Norvic"
+      }
+    },
+    "st-george-dermatology": {
+      "tagline": "Dermatologická skupina Southern Sydney: autorita zabývající se rakovinou kůže + SEO na úrovni předměstí v regionu St George.",
+      "challenge": "Regionální praxe konkurující řetězcům CBD v Sydney, slabé hodnocení pro vyhledávání na úrovni předměstí a pracovní postup doporučení stále založený na faxu.",
+      "solution": "Stránky úřadů předměstí po předměstích, centra pro léčbu rakoviny kůže a pediatrie, portál pro elektronické doporučení pro praktické lékaře a místní schéma pro celou Austrálii.",
+      "highlights": [
+        "Autoritní stránky na úrovni předměstí",
+        "Centrum dětské dermatologie",
+        "E-referenční portál pro praktické lékaře",
+        "Místní schéma celé AU vyladěné pro St George"
+      ],
+      "location": "Sydney (St George), Austrálie",
+      "duration": "12 týdnů",
+      "metrics": [
+        {
+          "label": "Předměstí v balíčku map č. 1–3"
+        },
+        {
+          "label": "Nové rezervace pacientů / měsíc"
+        },
+        {
+          "label": "Doporučení praktického lékaře / měs"
+        },
+        {
+          "label": "Mobilní LCP"
+        }
+      ],
+      "quote": {
+        "text": "Konečně se objevujeme na každém předměstí, kde obsluhujeme. Pacienti již nedostávají CBD náhodou.",
+        "author": "Vedoucí praxe",
+        "role": "Dermatologie svatého Jiří"
+      }
+    },
+    "the-skin-lab": {
+      "tagline": "Australská estetická klinika: redakční rebrand + architektura ošetření na stránku, která vlastní kosmetické vyhledávání.",
+      "challenge": "Rychle se rozvíjející estetická značka naráží na strop objevů – každé ošetření nacpané na jedné stránce, žádné místní úřady a konzultujte odběr na mobilu.",
+      "solution": "Jedna autoritativní stránka na ošetření, redakční životopis poskytovatele, rezervace první konzultací z mobilu a schéma na úrovni umístění na každé klinice.",
+      "highlights": [
+        "Jedna autoritativní stránka na ošetření",
+        "Vyprávění příběhů vydavatele",
+        "Tok konzultací pro concierge jako první z mobilních zařízení",
+        "Schéma podle umístění v celé AU"
+      ],
+      "location": "Austrálie · Estetika",
+      "duration": "13 týdnů",
+      "metrics": [
+        {
+          "label": "Konzultovat požadavky / měs"
+        },
+        {
+          "label": "Hodnost 'Skin needleling AU'"
+        },
+        {
+          "label": "Mobilní rezervační CVR"
+        },
+        {
+          "label": "Prům. konzultovat hodnotu"
+        }
+      ],
+      "quote": {
+        "text": "Každá léčba má konečně svou vlastní fázi. Pacienti si nás vybírají, protože stránka již odpověděla na jejich otázky.",
+        "author": "zakladatel",
+        "role": "Kožní laboratoř"
+      }
+    }
+  },
+  "categoryLabels": {
+    "aesthetic": "Estetika butiku",
+    "medical": "Lékařská dermatologie",
+    "multiLocation": "Skupina s více místy",
+    "teledermatology": "Teledermatologie",
+    "international": "MENA · bilingvní",
+    "enterprise": "Enterprise · globální značka"
+  },
+  "filters": {
+    "all": "Všechny případové studie",
+    "aesthetic": "Estetické",
+    "medical": "Lékařské",
+    "multiLocation": "Více umístění",
+    "teledermatology": "Teledermatologie",
+    "international": "MENA & mezinárodní",
+    "enterprise": "Enterprise"
+  },
+  "labels": {
+    "challenge": "Výzva",
+    "solution": "Co jsme odeslali"
+  },
+  "actions": {
+    "visitSite": "Navštivte web",
+    "getResults": "Získejte takové výsledky",
+    "viewLive": "Zobrazit živé stránky"
+  },
+  "section": {
+    "eyebrow": "Reálné postupy · Reálná čísla",
+    "headingPre": "Každá případová studie je a",
+    "headingHighlight": "živá dermatologická praxe",
+    "subheading": "Čísla před / po o rezervacích, SEO, rychlosti stránky a tržbách – získané ze skutečných analýz, nikoli z balíčků.",
+    "filter": "Filtr",
+    "empty": "V této kategorii zatím nejsou žádné případové studie."
+  }
+}

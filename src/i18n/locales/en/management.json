@@ -1,0 +1,458 @@
+{
+  "meta": {
+    "title": "Dermatology Website Management Services — Growth-Focused Team",
+    "description": "Full-service dermatology website management: dedicated account manager, monthly content, SEO governance, A/B testing, conversion optimization, and executive reporting. Month-to-month.",
+    "og": {
+      "title": "Dermatology Website Management Services — Your Growth Team",
+      "description": "A dedicated pod runs your dermatology website every week — content, SEO, CRO, campaigns, and reporting. HIPAA-aware. Month-to-month."
+    }
+  },
+  "hero": {
+    "badge": "Dermatology Website Management",
+    "headline": "A growth team that runs your dermatology website — every week.",
+    "subheading": "Strategy, content, SEO, conversion tests, and reporting — owned by a dedicated pod. You stop thinking about the website and start seeing new patients from it.",
+    "cta_primary": "Get a growth plan",
+    "cta_secondary": "Free audit first",
+    "trust": {
+      "account_manager": "Dedicated account manager",
+      "contract": "Month-to-month",
+      "hipaa": "HIPAA-aware"
+    }
+  },
+  "dashboard": {
+    "title": "Growth Dashboard",
+    "status": "Last 30 days · live",
+    "badge": "ON TRACK",
+    "kpis": {
+      "bookings": "Organic bookings",
+      "conversion": "Form conversion",
+      "rankings": "Pages ranking top 10",
+      "session": "Avg. session (s)"
+    },
+    "roadmap": {
+      "title": "This month's roadmap",
+      "progress": "of 5 shipped",
+      "items": [
+        "New Mohs surgery page live",
+        "Homepage CTA A/B test — variant B +18%",
+        "6 acne cluster blog posts published",
+        "Provider bio refresh — in review",
+        "Fall skincare campaign — briefed"
+      ]
+    }
+  },
+  "stats": {
+    "label": "Real numbers",
+    "headline": "9 months with a managed pod.",
+    "description": "Composite results across 24 dermatology clinics we manage.",
+    "items": [
+      {
+        "value": "+214%",
+        "label": "Organic bookings"
+      },
+      {
+        "value": "+3.2×",
+        "label": "Pages ranking top 10"
+      },
+      {
+        "value": "+41%",
+        "label": "Form conversion rate"
+      }
+    ]
+  },
+  "pillars": {
+    "label": "What we manage",
+    "headline": "Six pillars, one dedicated pod.",
+    "subheading": "Not a checklist agency. A cross-functional team that owns your web growth end-to-end.",
+    "items": [
+      {
+        "title": "Strategy & Roadmap",
+        "desc": "Quarterly growth plan tied to your revenue services, new provider hires, and seasonal demand."
+      },
+      {
+        "title": "Content Operations",
+        "desc": "Monthly editorial calendar — condition pages, provider bios, blog, before/after uploads, seasonal offers."
+      },
+      {
+        "title": "Conversion Optimization",
+        "desc": "A/B tests on hero, forms, and CTAs. Every quarter we ship measurable lifts to booking rate."
+      },
+      {
+        "title": "Analytics & Reporting",
+        "desc": "One dashboard — traffic, calls, forms, revenue by service. Monthly review call with your manager."
+      },
+      {
+        "title": "SEO Governance",
+        "desc": "Ongoing on-page SEO, schema, internal linking, and technical hygiene as your site grows."
+      },
+      {
+        "title": "Campaign Execution",
+        "desc": "Launch pages for new services, providers, locations, promos — briefed, built, and live in days."
+      }
+    ]
+  },
+  "pod": {
+    "label": "Meet your pod",
+    "headline": "A dedicated pod — same team every month.",
+    "subheading": "Five specialist roles working on your practice. No account rotations, no hand-offs.",
+    "members": [
+      {
+        "role": "Account Manager",
+        "name": "Jordan R.",
+        "desc": "Owns your roadmap. Single point of contact."
+      },
+      {
+        "role": "Content Strategist",
+        "name": "Priya S.",
+        "desc": "Builds your editorial calendar every month."
+      },
+      {
+        "role": "Medical Writer",
+        "name": "Dr. Alex M.",
+        "desc": "Board-reviewed content for every condition."
+      },
+      {
+        "role": "SEO Lead",
+        "name": "Marcus L.",
+        "desc": "Governs rankings, schema, and site health."
+      },
+      {
+        "role": "Developer",
+        "name": "Sana K.",
+        "desc": "Ships landing pages, tests, and integrations."
+      }
+    ]
+  },
+  "sprint": {
+    "label": "How we work",
+    "headline": "A monthly sprint — predictable, measurable.",
+    "subheading": "Every month follows the same rhythm so you always know what's shipping.",
+    "phases": [
+      {
+        "id": "Week 1",
+        "title": "Review & Prioritize",
+        "items": [
+          "KPI review vs. targets",
+          "Backlog grooming",
+          "Pick 3 priorities"
+        ]
+      },
+      {
+        "id": "Week 2",
+        "title": "Build & Ship",
+        "items": [
+          "Content published",
+          "New pages live",
+          "A/B tests deployed"
+        ]
+      },
+      {
+        "id": "Week 3",
+        "title": "Measure & Learn",
+        "items": [
+          "Traffic + booking data",
+          "Heatmaps reviewed",
+          "Winning variants promoted"
+        ]
+      },
+      {
+        "id": "Week 4",
+        "title": "Report & Plan",
+        "items": [
+          "Executive report",
+          "Strategy session",
+          "Next month roadmap"
+        ]
+      }
+    ]
+  },
+  "deliverables": {
+    "label": "Every month, in your inbox",
+    "headline": "See exactly what you'll get.",
+    "tabs": {
+      "content": {
+        "label": "Content Calendar",
+        "title": "This month's editorial calendar",
+        "desc": "Every piece briefed, medically reviewed, and scheduled.",
+        "items": [
+          {
+            "date": "Oct 03",
+            "text": "Adult Acne — condition page rewrite",
+            "tag": "SEO"
+          },
+          {
+            "date": "Oct 09",
+            "text": "Mohs surgery: what to expect (blog)",
+            "tag": "Trust"
+          },
+          {
+            "date": "Oct 15",
+            "text": "Dr. Chen provider bio + video",
+            "tag": "Bio"
+          },
+          {
+            "date": "Oct 22",
+            "text": "Fall dry-skin campaign landing page",
+            "tag": "Promo"
+          },
+          {
+            "date": "Oct 29",
+            "text": "Pediatric eczema — parent guide",
+            "tag": "SEO"
+          }
+        ]
+      },
+      "seo": {
+        "label": "SEO Governance",
+        "title": "SEO governance in action",
+        "desc": "Ongoing hygiene so rankings compound month over month.",
+        "items": [
+          "24 on-page optimizations shipped",
+          "Schema markup on 6 new pages",
+          "138 internal links added",
+          "12 keyword cannibalizations resolved",
+          "Core Web Vitals: LCP 1.8s → 1.2s"
+        ]
+      },
+      "cro": {
+        "label": "CRO Experiments",
+        "title": "Live A/B experiments",
+        "desc": "Every quarter we ship measurable lifts to booking rate.",
+        "items": [
+          {
+            "test": "Homepage CTA copy",
+            "result": "+18% clicks"
+          },
+          {
+            "test": "Sticky booking bar (mobile)",
+            "result": "+11% form starts"
+          },
+          {
+            "test": "3-step vs 1-page form",
+            "result": "Running · 62%"
+          },
+          {
+            "test": "Provider photo style",
+            "result": "+7% profile depth"
+          }
+        ]
+      },
+      "reports": {
+        "label": "Executive Report",
+        "title": "Executive monthly report",
+        "desc": "One page. What shipped, what moved, what's next.",
+        "items": [
+          "Traffic & source breakdown",
+          "New patient bookings by service",
+          "Ranking gains + losses",
+          "Shipped work with impact",
+          "Next month's priorities"
+        ]
+      }
+    }
+  },
+  "audiences": {
+    "label": "Who we manage for",
+    "headline": "Built for every dermatology practice model.",
+    "items": [
+      {
+        "label": "Solo Dermatologists",
+        "desc": "One dedicated manager who runs your entire web presence like an in-house team."
+      },
+      {
+        "label": "Multi-location Clinics",
+        "desc": "Per-location content calendars, unified brand, one strategic roadmap."
+      },
+      {
+        "label": "Pediatric Dermatology",
+        "desc": "Parent-first content strategy, seasonal campaigns, and family-friendly UX."
+      },
+      {
+        "label": "Mohs & Surgical Dermatology",
+        "desc": "Referral-driven content, surgeon bios, and outcomes-focused case libraries."
+      }
+    ]
+  },
+  "medical_services": {
+    "label": "Every service, every page",
+    "headline": "Medical services we manage content for.",
+    "subheading": "Condition pages, provider bios, treatment guides, and campaign pages — all medically reviewed.",
+    "list": [
+      "Acne Treatment",
+      "Eczema Treatment",
+      "Psoriasis Treatment",
+      "Skin Infection Treatment",
+      "Skin Allergy Treatment",
+      "Skin Cancer Screening & Treatment",
+      "Mole Evaluation & Removal",
+      "Cyst & Lipoma Removal",
+      "Wart Removal",
+      "Nail Disorder Treatment",
+      "Hair Loss Treatment",
+      "Scalp Disorder Treatment",
+      "Rosacea Treatment",
+      "Hyperpigmentation & Melasma",
+      "Scar Treatment",
+      "Burn Scar Treatment",
+      "Vitiligo Treatment",
+      "Skin Biopsy & Diagnostics"
+    ]
+  },
+  "comparison": {
+    "label": "Choose the right level of support",
+    "headline": "Management vs. Maintenance vs. DIY.",
+    "subheading": "Maintenance keeps you online. Management makes you grow.",
+    "headers": {
+      "feature": "Feature",
+      "mgmt": "Management",
+      "maint": "Maintenance",
+      "diy": "DIY"
+    },
+    "rows": [
+      "Dedicated account manager",
+      "24/7 uptime + security patching",
+      "Monthly content + landing pages",
+      "Ongoing SEO governance",
+      "A/B testing & CRO",
+      "Executive monthly report",
+      "Strategy sessions with your pod",
+      "Predictable monthly cost"
+    ],
+    "tags": {
+      "add_on": "add-on",
+      "basic": "basic"
+    },
+    "footer": "Need maintenance too? Bundle it into any Management plan.",
+    "footer_link": "See maintenance →"
+  },
+  "plans": {
+    "label": "Management plans",
+    "headline": "Predictable pricing. Real people. Real output.",
+    "items": [
+      {
+        "name": "Managed",
+        "price": "$799",
+        "term": "/month",
+        "tag": "For solo practices",
+        "market_label": "Market:",
+        "market_value": "$1,500 – $3,500 /mo",
+        "savings": "47–77% cheaper",
+        "features": [
+          "Dedicated account manager",
+          "4 content pieces / month",
+          "2 landing pages / quarter",
+          "Monthly strategy session",
+          "Analytics dashboard",
+          "SEO governance"
+        ],
+        "cta": "Start with Managed"
+      },
+      {
+        "name": "Managed Plus",
+        "price": "$1,499",
+        "term": "/month",
+        "tag": "Most chosen",
+        "market_label": "Market:",
+        "market_value": "$3,000 – $7,000 /mo",
+        "savings": "50–79% cheaper",
+        "features": [
+          "Everything in Managed",
+          "8 content pieces / month",
+          "1 landing page / month",
+          "Bi-weekly strategy sessions",
+          "Quarterly A/B test program",
+          "Conversion optimization",
+          "Priority campaign launches"
+        ],
+        "cta": "Start with Managed Plus"
+      },
+      {
+        "name": "Multi-location",
+        "price": "Custom",
+        "tag": "For 3+ locations",
+        "market_label": "Market:",
+        "market_value": "$6,000+ /mo",
+        "savings": "Up to 60% cheaper",
+        "features": [
+          "Per-location content plan",
+          "Location-level reporting",
+          "Provider content pipeline",
+          "Weekly strategy sync",
+          "Dedicated growth team",
+          "Unlimited campaign pages"
+        ],
+        "cta": "Start with Multi-location"
+      }
+    ]
+  },
+  "testimonials": {
+    "label": "What clinics say",
+    "headline": "Managed like an in-house team.",
+    "items": [
+      {
+        "name": "Dr. Nadia Patel, MD",
+        "role": "NL Dermatology",
+        "quote": "It's like having a marketing director without the salary. Every month we ship something new that actually moves bookings."
+      },
+      {
+        "name": "Dr. Marcus Whitfield, MD",
+        "role": "Whitfield Skin & Mohs",
+        "quote": "In 9 months our organic bookings tripled. Not because of one thing — because someone owns the site every single week."
+      },
+      {
+        "name": "Dr. Serena Kohli, MD",
+        "role": "KP Dermatology · 4 loc.",
+        "quote": "Four locations, four content calendars, one team. I get one dashboard and one number to call. That alone is worth it."
+      }
+    ]
+  },
+  "faq": {
+    "label": "FAQ",
+    "headline": "Questions, answered.",
+    "items": [
+      {
+        "q": "How is management different from maintenance?",
+        "a": "Maintenance keeps your site online, secure, and updated. Management makes your site grow — new content, new pages, ongoing SEO, A/B tests, conversion work, campaign launches, and monthly strategy. Most clinics need both; our plans can bundle maintenance in."
+      },
+      {
+        "q": "Who actually does the work?",
+        "a": "You get a dedicated dermatology-experienced account manager, plus a pod: content strategist, medical writer, designer, developer, and SEO specialist. Same faces every month."
+      },
+      {
+        "q": "How long until we see results?",
+        "a": "Meaningful SEO and booking lifts typically appear between month 3 and month 6. Content, landing pages, and CTA optimizations often show conversion lifts within the first 30–60 days."
+      },
+      {
+        "q": "Do you write medical content?",
+        "a": "Yes — every condition page and blog post is drafted by a medical writer, reviewed against dermatology guidelines, and approved by your team before publishing."
+      },
+      {
+        "q": "Can we pause or cancel?",
+        "a": "Month-to-month, cancel anytime. On offboarding you keep every asset — content, pages, briefs, analytics, and creative files."
+      },
+      {
+        "q": "Do you integrate with our EHR or scheduler?",
+        "a": "Yes. We integrate with the major dermatology EHRs and scheduling platforms (ModMed, Nextech, Athenahealth, Zocdoc, and more) so bookings flow directly into your existing workflow."
+      }
+    ]
+  },
+  "cta_bottom": {
+    "headline": "Ready to hand your website to a team that grows it?",
+    "subheading": "Start with a free audit. If we're a fit, you'll have a dedicated pod within 7 days.",
+    "primary": "Get a growth plan",
+    "secondary": "Free website audit"
+  },
+  "footer_considerations": {
+    "prefix": "You might also consider:",
+    "links": {
+      "maintenance": "routine site upkeep",
+      "support": "issue-based support hours",
+      "full_management": "what full management includes"
+    }
+  },
+  "json_ld": {
+    "service_type": "Dermatology Website Management Services",
+    "provider_name": "DermatologyWebsiteDesign.com",
+    "offer_description": "Dermatology website management — starting price per month"
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "meta": {
+    "title": "Blog — Stratégies de Croissance et Marketing Dermatologique",
+    "description": "Guides pratiques sur le SEO en dermatologie, le design Web, l'acquisition de patients, HIPAA, les avis patients et la publicité payante — conçu pour les cabinets en pleine expansion.",
+    "keywords": "blog dermatologie, SEO dermatologie, marketing dermatologique, croissance cabinet médical, sites internet HIPAA",
+    "og": {
+      "title": "Blog Marketing Dermatologique — Des stratégies pour booster votre cabinet",
+      "description": "Analyses approfondies et tactiques rapides pour les cabinets de dermatologie : SEO, design, publicité, e-réputation et expérience patient."
+    },
+    "twitter": {
+      "title": "Blog Marketing Dermatologique",
+      "description": "Leçons de SEO, design, publicité et expérience patient pour les cabinets de dermatologie."
+    },
+    "jsonLd": {
+      "breadcrumb": {
+        "home": "Accueil",
+        "blog": "Blog"
+      },
+      "blog": {
+        "name": "Blog Marketing Dermatologique",
+        "description": "Stratégies et analyses sur le SEO en dermatologie, la conception Web, la publicité, la réputation et l'acquisition de patients."
+      }
+    }
+  },
+  "hero": {
+    "badge": "Le Journal de la Dermato-Croissance",
+    "title": "Les stratégies des cabinets de dermatologie modernes.",
+    "description": "Des tactiques éprouvées sur le SEO, le design Web, la publicité, la réputation et l'expérience patient — rédigées par l'équipe derrière des centaines de lancements de cabinets.",
+    "search": {
+      "label": "Rechercher des articles",
+      "placeholder": "Chercher SEO, publicité, HIPAA, refonte…",
+      "postCount": "{{count}} articles"
+    },
+    "aside": {
+      "ariaLabel": "Ce mois-ci chez DermGrowth",
+      "issue": "Édition 24 · Été '26",
+      "status": "Ce qui fonctionne actuellement pour la croissance en dermatologie.",
+      "stats": [
+        {
+          "value": "9",
+          "label": "nouveaux articles"
+        },
+        {
+          "value": "68k",
+          "label": "lecteurs mensuels"
+        },
+        {
+          "value": "4.9",
+          "label": "note des lecteurs"
+        }
+      ],
+      "socialProof": "Approuvé par plus de 50 propriétaires et marketeurs en dermatologie"
+    }
+  },
+  "sections": {
+    "featured": {
+      "badge": "À la une",
+      "heading": "L'article incontournable de la semaine",
+      "viewAll": "Voir tous les articles",
+      "ariaRead": "Lire : {{title}}",
+      "statValue": "90.",
+      "statLabel": "Jours pour atteindre la page 1",
+      "readTime": "{{count}} min de lecture",
+      "button": "Lire l'article"
+    },
+    "latest": {
+      "badge": "Derniers articles",
+      "heading": "Filtrez selon vos objectifs",
+      "description": "Chaque article est rédigé pour les propriétaires de cabinets et responsables marketing en quête d'étapes concrètes, sans superflu.",
+      "filterLabel": "Filtrer les articles par catégorie",
+      "empty": {
+        "heading": "Aucun article ne correspond pour le moment.",
+        "description": "Essayez une autre catégorie ou réinitialisez votre recherche.",
+        "button": "Réinitialiser les filtres"
+      },
+      "card": {
+        "ariaRead": "Lire : {{title}}",
+        "readTime": "{{count}} min",
+        "readAction": "Lire"
+      }
+    }
+  },
+  "newsletter": {
+    "badge": "Le Rendez-vous Hebdo",
+    "heading": "Une stratégie de croissance. Chaque mardi.",
+    "description": "Rejoignez plus de 760 propriétaires et marketeurs. Pas de blabla, pas de spam, désabonnement en un clic.",
+    "ariaLabel": "S'abonner à la newsletter",
+    "placeholder": "vous@cabinet.com",
+    "submit": "S'abonner",
+    "submitting": "Inscription…",
+    "success": "Vous êtes inscrit. Prochaine édition mardi à 7h.",
+    "fineprint": "Nous lisons chaque réponse. Votre adresse ne sera jamais partagée.",
+    "features": [
+      {
+        "label": "Analyses",
+        "value": "Dossiers de fond deux fois par mois"
+      },
+      {
+        "label": "Études de cas",
+        "value": "Des chiffres et des résultats réels"
+      },
+      {
+        "label": "Tactiques",
+        "value": "Méthodes prêtes à l'emploi"
+      },
+      {
+        "label": "Note 4.9/5",
+        "value": "Par plus de 50 abonnés"
+      }
+    ]
+  },
+  "footer": {
+    "keepReading": "Continuez votre lecture avec :",
+    "caseStudies": "nos études de cas détaillées",
+    "audit": "un audit de site personnalisé gratuit",
+    "faq": "les questions fréquentes que l'on nous pose"
+  }
+}

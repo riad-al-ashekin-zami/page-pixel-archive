@@ -1,0 +1,89 @@
+{
+  "meta": {
+    "title": "Termini di Servizio — Utilizzo del Sito e Collaborazione",
+    "description": "I termini che regolano l'uso del nostro sito web, le comunicazioni e tutti i servizi offerti dal nostro studio.",
+    "og_title": "Termini di Servizio — Utilizzo del Sito e Collaborazione",
+    "og_description": "I termini che regolano l'uso del nostro sito web, le comunicazioni e tutti i servizi offerti dal nostro studio.",
+    "twitter_title": "Termini di Servizio — Utilizzo del Sito e Collaborazione",
+    "twitter_description": "I termini che regolano l'uso del nostro sito web, le comunicazioni e tutti i servizi offerti dal nostro studio."
+  },
+  "a11y": {
+    "skip_to_content": "Vai al contenuto principale",
+    "section_navigation": "Navigazione della sezione"
+  },
+  "hero": {
+    "badge": "Note Legali · Termini di Servizio",
+    "title": "Termini di Servizio",
+    "description": "Le regole fondamentali per l'utilizzo del nostro sito, per contattarci e per collaborare con il nostro studio. Ti invitiamo a leggerli insieme al nostro <0>Accordo di Servizio</0> e alla <1>Privacy Policy</1>.",
+    "last_updated": "Ultimo aggiornamento: <0>14 luglio 2026</0>"
+  },
+  "sections": {
+    "contents_label": "Indice",
+    "acceptance": {
+      "title": "1. Accettazione dei Termini",
+      "body": "Accedendo o utilizzando questo sito web (\"Sito\"), inviando una richiesta o usufruendo dei nostri servizi, l'utente accetta i presenti Termini di Servizio (\"Termini\"). In caso di mancata accettazione, la preghiamo di interrompere l'utilizzo del Sito."
+    },
+    "eligibility": {
+      "title": "2. Idoneità",
+      "body": "Per utilizzare il Sito o i nostri servizi, è necessario avere almeno 18 anni e possedere la capacità giuridica di sottoscrivere un contratto vincolante. Se agisce per conto di un'organizzazione, dichiara di avere l'autorità necessaria per vincolare tale entità."
+    },
+    "services": {
+      "title": "3. I Nostri Servizi",
+      "body": "Questo Sito contiene principalmente contenuti di marketing. Qualsiasi collaborazione effettiva — sia essa di design, sviluppo, SEO o manutenzione — è regolata da una proposta separata o da un preventivo e dal nostro <0>Accordo di Servizio</0>. In caso di discrepanza tra tali documenti e i presenti Termini, prevarrà l'Accordo di Servizio."
+    },
+    "acceptable_use": {
+      "title": "4. Uso Consentito",
+      "list": [
+        "Non utilizzare impropriamente, interrompere o tentare di violare il Sito o la sua infrastruttura.",
+        "È vietato praticare scraping, crawling o riprodurre i contenuti al di fuori del diritto di citazione per scopi non commerciali.",
+        "Non inviare tramite i moduli di contatto contenuti illegali, dannosi, ingannevoli o che violino diritti altrui.",
+        "Non inviare Informazioni Sanitarie Protette (PHI) tramite moduli pubblici."
+      ]
+    },
+    "ip": {
+      "title": "5. Proprietà Intellettuale",
+      "body": "Tutti i contenuti di questo Sito — testi, grafica, loghi, codice e design — sono di nostra proprietà o dei nostri licenziatari e sono protetti dalle leggi sulla proprietà intellettuale. È consentito visualizzare e condividere link al Sito; non è consentito copiare, modificare o ripubblicare i contenuti senza la nostra autorizzazione scritta."
+    },
+    "submissions": {
+      "title": "6. Invio di Materiali",
+      "body": "Inviandoci feedback, idee o suggerimenti, ci concede una licenza non esclusiva, mondiale e gratuita per utilizzarli senza alcun obbligo. La preghiamo di non inviare informazioni riservate a meno che non sia stato concordato diversamente per iscritto."
+    },
+    "third_party": {
+      "title": "7. Link e Servizi di Terze Parti",
+      "body": "Il Sito può citare siti, strumenti o servizi di terze parti. Non esercitiamo alcun controllo su di essi, non li approviamo e non siamo responsabili del loro contenuto, disponibilità o pratiche."
+    },
+    "disclaimer": {
+      "title": "8. Esclusione di Responsabilità",
+      "body": "Il Sito e i suoi contenuti sono forniti \"così come sono\" e \"secondo disponibilità\", senza garanzie di alcun tipo — esplicite o implicite — incluse commerciabilità, idoneità a uno scopo specifico e non violazione. Nulla sul Sito costituisce consulenza legale, medica o finanziaria."
+    },
+    "liability": {
+      "title": "9. Limitazione di Responsabilità",
+      "body": "Nella misura massima consentita dalla legge, non siamo responsabili per danni indiretti, incidentali, consequenziali o perdita di profitti derivanti dall'uso del Sito. La nostra responsabilità complessiva relativa al Sito è limitata a 100 USD."
+    },
+    "indemnity": {
+      "title": "10. Manleva",
+      "body": "L'utente accetta di difendere e manlevare il nostro studio da qualsiasi reclamo, danno o spesa derivante dall'uso improprio del Sito o dalla violazione dei presenti Termini."
+    },
+    "termination": {
+      "title": "11. Risoluzione",
+      "body": "Ci riserviamo il diritto di sospendere o interrompere l'accesso al Sito in qualsiasi momento, con o senza preavviso, qualora ritenessimo che siano stati violati i presenti Termini o creati rischi per noi o per altri utenti."
+    },
+    "governing_law": {
+      "title": "12. Legge Applicabile",
+      "body": "I presenti Termini sono regolati dalle leggi della giurisdizione indicata nel nostro Accordo di Servizio o, in sua mancanza, dalla giurisdizione in cui ha sede legale il nostro studio, senza riguardo ai principi di conflitto tra leggi."
+    },
+    "changes": {
+      "title": "13. Modifiche ai Termini",
+      "body": "Potremmo aggiornare periodicamente questi Termini. La data di \"Ultimo aggiornamento\" in alto indica la versione corrente. L'uso continuato del Sito dopo le modifiche implica l'accettazione dei Termini aggiornati."
+    },
+    "contact_section": {
+      "title": "14. Contatti",
+      "body": "Domande su questi Termini? Può scriverci tramite la nostra <0>pagina contatti</0>."
+    }
+  },
+  "cta": {
+    "title": "Dubbi su questi Termini?",
+    "description": "Siamo lieti di chiarire ogni punto prima di iniziare a collaborare.",
+    "button": "Contattaci"
+  }
+}

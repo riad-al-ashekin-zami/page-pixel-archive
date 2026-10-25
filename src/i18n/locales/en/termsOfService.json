@@ -1,0 +1,89 @@
+{
+  "meta": {
+    "title": "Terms of Service — Website Use & Engagement",
+    "description": "The terms that govern your use of our website, communications, and any services you engage from our studio.",
+    "og_title": "Terms of Service — Website Use & Engagement",
+    "og_description": "The terms that govern your use of our website, communications, and any services you engage from our studio.",
+    "twitter_title": "Terms of Service — Website Use & Engagement",
+    "twitter_description": "The terms that govern your use of our website, communications, and any services you engage from our studio."
+  },
+  "a11y": {
+    "skip_to_content": "Skip to content",
+    "section_navigation": "Section navigation"
+  },
+  "hero": {
+    "badge": "Legal · Terms of Service",
+    "title": "Terms of Service",
+    "description": "The ground rules for using our website, contacting us, and engaging our studio. Read alongside our <0>Service Agreement</0> and <1>Privacy Policy</1>.",
+    "last_updated": "Last updated: <0>July 14, 2026</0>"
+  },
+  "sections": {
+    "contents_label": "Contents",
+    "acceptance": {
+      "title": "1. Acceptance of Terms",
+      "body": "By accessing or using this website (\"Site\"), submitting an inquiry, or engaging our services, you agree to these Terms of Service (\"Terms\"). If you don't agree, please stop using the Site."
+    },
+    "eligibility": {
+      "title": "2. Eligibility",
+      "body": "You must be at least 18 years old and able to enter into a binding contract to use the Site or engage our services. If you're acting on behalf of an organization, you represent that you have authority to bind it."
+    },
+    "services": {
+      "title": "3. Our Services",
+      "body": "This Site is primarily marketing content. Any actual project engagement — design, development, SEO, or ongoing care — is governed by a separate proposal or statement of work and our <0>Service Agreement</0>. Where those documents conflict with these Terms, the Service Agreement controls."
+    },
+    "acceptable_use": {
+      "title": "4. Acceptable Use",
+      "list": [
+        "Don't misuse, disrupt, or attempt to breach the Site or its infrastructure.",
+        "Don't scrape, crawl, or reproduce content beyond fair, non-commercial reference.",
+        "Don't submit unlawful, infringing, harmful, or misleading content through forms.",
+        "Don't submit Protected Health Information (PHI) via public forms."
+      ]
+    },
+    "ip": {
+      "title": "5. Intellectual Property",
+      "body": "All content on this Site — text, graphics, logos, code, and design — is owned by us or our licensors and protected by intellectual-property laws. You may view and share links to the Site; you may not copy, modify, or republish content without our written permission."
+    },
+    "submissions": {
+      "title": "6. Submissions",
+      "body": "If you send us feedback, ideas, or suggestions, you grant us a non-exclusive, worldwide, royalty-free license to use them without obligation. Don't send anything you consider confidential unless we've agreed otherwise in writing."
+    },
+    "third_party": {
+      "title": "7. Third-Party Links & Services",
+      "body": "The Site may reference third-party sites, tools, or services. We don't control or endorse them and aren't responsible for their content, availability, or practices."
+    },
+    "disclaimer": {
+      "title": "8. Disclaimers",
+      "body": "The Site and its content are provided \"as-is\" and \"as-available,\" without warranties of any kind — express or implied — including merchantability, fitness for a particular purpose, and non-infringement. Nothing on the Site is legal, medical, or financial advice."
+    },
+    "liability": {
+      "title": "9. Limitation of Liability",
+      "body": "To the maximum extent permitted by law, we are not liable for any indirect, incidental, consequential, or lost-profits damages arising from your use of the Site. Our aggregate liability related to the Site is limited to USD $100."
+    },
+    "indemnity": {
+      "title": "10. Indemnification",
+      "body": "You agree to defend and indemnify us against claims, damages, and expenses arising from your misuse of the Site or violation of these Terms."
+    },
+    "termination": {
+      "title": "11. Termination",
+      "body": "We may suspend or terminate access to the Site at any time, with or without notice, if we believe you've violated these Terms or created risk for us or other users."
+    },
+    "governing_law": {
+      "title": "12. Governing Law",
+      "body": "These Terms are governed by the laws of the jurisdiction stated in our Service Agreement or, absent that, the jurisdiction where our studio is registered — without regard to conflict-of-laws principles."
+    },
+    "changes": {
+      "title": "13. Changes to These Terms",
+      "body": "We may update these Terms from time to time. The \"Last updated\" date at the top reflects the current version. Continued use of the Site after changes means you accept the updated Terms."
+    },
+    "contact_section": {
+      "title": "14. Contact",
+      "body": "Questions about these Terms? Reach us through our <0>contact page</0>."
+    }
+  },
+  "cta": {
+    "title": "Questions about these Terms?",
+    "description": "We're happy to clarify anything before you engage.",
+    "button": "Contact us"
+  }
+}

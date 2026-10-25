@@ -1,0 +1,257 @@
+{
+  "meta": {
+    "title": "Dermatologie-Patientenportal: Design & Entwicklung | HIPAA-konform",
+    "description": "Individuelle, HIPAA-konforme Patientenportale für die Dermatologie: Online-Termine, sicheres Messaging, Teledermatologie, E-Formulare, Abrechnung und EHR-Integration. Für Einzelpraxen, MVZs und Mohs-Chirurgie.",
+    "og_title": "Dermatologie-Patientenportal: Design & Entwicklung",
+    "og_description": "HIPAA-konforme Patientenportale, speziell für dermatologische Praxen entwickelt – Buchung, Messaging, Teledermatologie, E-Aufnahme und EHR-Integration.",
+    "twitter_title": "Dermatologie-Patientenportal: Design & Entwicklung",
+    "twitter_description": "HIPAA-konforme Patientenportale, optimiert für dermatologische Praxen.",
+    "jsonLd": {
+      "serviceType": "Dermatologie-Patientenportal Design & Entwicklung",
+      "provider": "DermatologyWebsiteDesign.com",
+      "areaServed": "United States",
+      "description": "HIPAA-konformes Design und Entwicklung von Patientenportalen für dermatologische Kliniken.",
+      "breadcrumb_home": "Startseite",
+      "breadcrumb_services": "Leistungen",
+      "breadcrumb_portal": "Patientenportal"
+    }
+  },
+  "hero": {
+    "badge": "Patientenportal für Dermatologie",
+    "title_start": "Ein Patientenportal, das Ihre Praxis ",
+    "title_highlight": "tatsächlich gerne nutzt.",
+    "description": "Maßgeschneiderte, HIPAA-konforme Portale mit 24/7-Buchung, sicherem Messaging, Teledermatologie, digitaler Aufnahme und tiefer EHR-Integration – für Einzelpraxen, Klinikverbünde und Mohs-Zentren.",
+    "cta_quote": "Kostenloses Angebot anfordern",
+    "cta_features": "Funktionen entdecken",
+    "stats": [
+      {
+        "value": "4–6 Wo",
+        "label": "Launch-Zeit"
+      },
+      {
+        "value": "HIPAA",
+        "label": "Standardmäßig konform"
+      },
+      {
+        "value": "24/7",
+        "label": "Online-Termine"
+      },
+      {
+        "value": "Keine",
+        "label": "Patientengebühren"
+      }
+    ]
+  },
+  "mockPortal": {
+    "header_category": "Patientenportal",
+    "header_greeting": "Guten Tag, Sarah",
+    "status": "Sicher",
+    "items": [
+      {
+        "label": "Hautkrebsvorsorge",
+        "meta": "Fr · 14:30 Uhr · Dr. Patel"
+      },
+      {
+        "label": "Nachricht von Dr. Nguyen",
+        "meta": "Biopsie-Ergebnis — gutartig ✓"
+      },
+      {
+        "label": "Rezept angefordert",
+        "meta": "Tretinoin 0.05% · Apotheke #402"
+      },
+      {
+        "label": "Rechnung offen",
+        "meta": "$48.20 · Per Klick bezahlen"
+      }
+    ],
+    "footer_encryption": "Ende-zu-Ende verschlüsselt",
+    "footer_biometrics": "Face ID aktiviert"
+  },
+  "sections": {
+    "audiences": {
+      "title": "Entwickelt für",
+      "items": [
+        "Niedergelassene Dermatologen",
+        "Dermatologische Klinikverbünde",
+        "Kinderdermatologie",
+        "Mohs & Operative Dermatologie"
+      ]
+    },
+    "medical_services": {
+      "title": "Unterstützung für alle Fachbereiche",
+      "items": [
+        "Akne-Therapie",
+        "Ekzem-Behandlung",
+        "Psoriasis-Therapie",
+        "Hautinfektionen",
+        "Allergologie",
+        "Hautkrebs-Screening & Therapie",
+        "Muttermal-Check & Entfernung",
+        "Zysten- & Lipomentfernung",
+        "Warzenbehandlung",
+        "Nagelerkrankungen",
+        "Haarausfall-Therapie",
+        "Kopfhaut-Erkrankungen",
+        "Rosazea-Behandlung",
+        "Hyperpigmentierung & Melasma",
+        "Narbenbehandlung",
+        "Verbrennungsnarben",
+        "Vitiligo-Therapie",
+        "Hautbiopsien & Diagnostik"
+      ]
+    },
+    "metrics": {
+      "items": [
+        {
+          "value": "38%",
+          "label": "Weniger No-Shows nach Portal-Launch"
+        },
+        {
+          "value": "4.9×",
+          "label": "Schnellere Reaktionszeit am Empfang"
+        },
+        {
+          "value": "22 Std",
+          "label": "Zeitersparnis pro Woche für das Team"
+        }
+      ]
+    },
+    "testimonial": {
+      "quote": "Endlich rufen unsere Patienten nicht mehr ständig an, um Termine zu verschieben. Buchung, Rezepte und Befunde laufen komplett über das Portal – meine Assistenten können sich wieder auf das Wesentliche konzentrieren.",
+      "author": "Dr. Priya Desai, MD",
+      "clinic": "Desai Dermatology · 3 Standorte"
+    },
+    "core_features": {
+      "badge": "Kernfunktionen",
+      "title": "Alles, was Patienten und Ihr Team brauchen.",
+      "description": "Eine einzige, sichere Plattform für Termine, Kommunikation, klinische Abläufe und Zahlungen – statt 5 bis 7 Einzellösungen, die nur Zeit kosten.",
+      "items": [
+        {
+          "title": "Online-Terminbuchung",
+          "desc": "Echtzeit-Kalender, Versicherungs-Check und automatische Bestätigungen – 24/7-Self-Scheduling für eine volle Praxis."
+        },
+        {
+          "title": "Sicheres Patienten-Messaging",
+          "desc": "HIPAA-verschlüsselter Zwei-Wege-Chat zwischen Patienten und Praxis – inklusive Audit-Trails und Lesebestätigungen."
+        },
+        {
+          "title": "Digitale Aufnahme & Einwilligungen",
+          "desc": "Verschlüsselte Anamnese, Krankengeschichte und E-Signaturen – bereits vor dem Besuch erledigt und direkt mit dem EHR synchronisiert."
+        },
+        {
+          "title": "Online-Zahlung & Abrechnung",
+          "desc": "PCI-konforme Zahlungen via Karte, HSA und FSA, Ratenpläne und papierlose Rechnungen – für schnellere Zahlungseingänge ohne Aufwand."
+        },
+        {
+          "title": "Rezeptanforderungen",
+          "desc": "Rezeptwünsche per Klick, direkt an den Behandler geleitet – inklusive Medikamentenhistorie, Allergien und Stammapotheke."
+        },
+        {
+          "title": "Laborergebnisse & Biopsie-Berichte",
+          "desc": "Übermittlung von Pathologie- und Laborbefunden mit verständlichen Zusammenfassungen und ärztlichen Kommentaren."
+        },
+        {
+          "title": "Teledermatologische Visiten",
+          "desc": "Verschlüsseltes HD-Video mit Wartebereich, Bilder-Upload und integrierter Dokumentation – kein separater Drittanbieter nötig."
+        },
+        {
+          "title": "Intelligente Erinnerungen & Recall",
+          "desc": "SMS- und E-Mail-Erinnerungen, jährliche Recall-Intervalle und No-Show-Automatisierungen, die Ertragsverluste um 20–30 % senken."
+        }
+      ]
+    },
+    "security": {
+      "badge": "Sicherheit & Compliance",
+      "title": "HIPAA-konform ab der ersten Zeile Code.",
+      "description": "Sicherheit ist bei uns kein Add-on. Jede Entscheidung bei Hosting, Datenbank, Messaging und Video basiert auf PHI-Schutz und OCR-Audit-Bereitschaft.",
+      "cta": "Compliance-Paket anfordern",
+      "items": [
+        {
+          "title": "HIPAA-konforme Architektur",
+          "desc": "PHI-Verschlüsselung im Ruhezustand (AES-256) und bei Übertragung (TLS 1.3). BAAs mit allen Sub-Prozessoren."
+        },
+        {
+          "title": "Rollenbasierte Zugriffskontrolle",
+          "desc": "Granulare Berechtigungen für Ärzte, Assistenten und Abrechnung – mit vollständiger Protokollierung."
+        },
+        {
+          "title": "MFA & biometrischer Login",
+          "desc": "Passkeys, Face ID und TOTP für Patienten und Personal. Keine Passwort-Resets nötig. Maximaler Phishing-Schutz."
+        },
+        {
+          "title": "Familien- & Betreuerzugang",
+          "desc": "Proxy-Zugriff für Eltern und Angehörige mit automatischer, altersbasierter Deaktivierung."
+        }
+      ]
+    },
+    "workflow": {
+      "badge": "Der Ablauf",
+      "title": "Vom Kickoff zum Portal-Launch in 4–6 Wochen.",
+      "steps": [
+        {
+          "step": "Schritt 01",
+          "title": "Discovery & EHR-Audit",
+          "desc": "Wir analysieren Ihre aktuelle EHR, PMS und Workflows in einer 60-minütigen Strategiesitzung."
+        },
+        {
+          "step": "Schritt 02",
+          "title": "Portal-Design & Branding",
+          "desc": "Individuelle Benutzeroberfläche, die exakt zu Ihrer Praxismarke passt – kein Standard-Template."
+        },
+        {
+          "step": "Schritt 03",
+          "title": "Integration & Migration",
+          "desc": "EHR, E-Rezept, Labor, Zahlung und Telemedizin werden vernetzt. Patientendaten werden sauber migriert."
+        },
+        {
+          "step": "Schritt 04",
+          "title": "Schulung & Live-Gang",
+          "desc": "Live-Training für das Team, Prozessleitfäden und 30 Tage Hypercare-Betreuung nach dem Start."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "badge": "Fragen",
+    "title": "Häufige Fragen zum Patientenportal",
+    "items": [
+      {
+        "q": "Ist das Patientenportal HIPAA-konform?",
+        "a": "Ja. Jede Ebene – Hosting, Datenbank, Messaging, Video und Speicher – ist HIPAA-konform. Wir unterzeichnen ein BAA und liefern ein Compliance-Paket zu Verschlüsselung und Audit-Logs mit."
+      },
+      {
+        "q": "Lässt es sich in meine EHR integrieren?",
+        "a": "Wir integrieren führende dermatologische EHRs (Modernizing Medicine / EMA, Nextech, EZDERM, DrChrono, Athena, eClinicalWorks, Practice Fusion, Epic, Cerner) via HL7, FHIR oder APIs. Nischen-Systeme prüfen wir individuell."
+      },
+      {
+        "q": "Können Patienten ohne Konto buchen?",
+        "a": "Ja. Eine Gastbuchung für Neupatienten ist möglich. Das Portalkonto wird nach der Bestätigung automatisch erstellt und der Patient erhält einen Magic-Link zur Aktivierung."
+      },
+      {
+        "q": "Wie lange dauert die Implementierung?",
+        "a": "Ein Portal für einen Einzelstandort geht in 4–6 Wochen live. Komplexe Migrationen für Klinikverbünde dauern inklusive Schulungsphase ca. 8–12 Wochen."
+      },
+      {
+        "q": "Gehört mir das Portal nach dem Launch?",
+        "a": "Ja. Sie besitzen den Code, die Inhalte, das Branding und die Patientendaten. Es gibt kein Lock-in, keine Gebühr pro Patient und keine langfristigen Knebelverträge."
+      },
+      {
+        "q": "Ist Telemedizin inklusive?",
+        "a": "Ja. HIPAA-konformes HD-Video mit Wartezimmer, Bild-Upload und Dokumentationsfunktion ist fest integriert – ohne Zusatzkosten oder externe Anbieter."
+      }
+    ]
+  },
+  "cta": {
+    "badge": "Startbereit",
+    "title": "Geben Sie Ihren Patienten und Ihrem Team das Portal, das sie verdienen.",
+    "description": "Fordern Sie eine kostenlose Demo an. Wir prüfen Ihr Setup, nennen einen festen Zeitplan und senden Ihnen am selben Tag ein Angebot.",
+    "cta_quote": "Kostenloses Angebot anfordern",
+    "cta_contact": "Kontakt aufnehmen"
+  },
+  "footer_related": {
+    "text": "Diese Seiten könnten Sie auch interessieren: ",
+    "link_website": "Ihre Praxis-Hauptwebsite",
+    "link_multi_location": "Lösungen für Klinikverbünde",
+    "link_packages": "Aktuelle Pakete & Preise"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "slug": "patient-portal-conversion",
+  "title": "Potilaskäyttöönottolomake, joka kaksinkertaisti varaukset",
+  "excerpt": "Nelivaiheinen lomakemalli, joka on suunniteltu kognitiivisen kuormituksen ympärille – mukaan lukien A/B-testidata kolmelta vastaanotolta.",
+  "imageAlt": "Potilas täyttää vastaanottolomaketta tabletilla kirkkaassa odotushuoneessa",
+  "body": [
+    {
+      "text": "Yksi pitkä lomake on hankaluus. Neljä lyhyttä vaihetta tuntuu keskustelulta. Tämä yksittäinen mallimuutos kaksinkertaisti konversion kolmella testivastaanotolla alle 60 päivässä – ja se on yksi halvimmista voitoista koko dermatologian markkinointikirjossa, koska lomake oli ainoa muuttuja, johon koskimme."
+    },
+    {
+      "text": "Syy siihen, miksi nelivaiheinen malli toimii, on yksinkertainen: ihmiset suorittavat tehtäviä, jotka tuntuvat rajallisilta. Pitkä lomake, jossa on 12 näkyvää kenttää, viestii pitkästä sitoumuksesta, ja jokainen ylimääräinen pakollinen kenttä on uusi tilaisuus kävijälle sulkea välilehti. Nelivaiheinen lomake näyttää vain ensimmäisen kentän latauksen yhteydessä, ja visuaalinen edistymispalkki palkitsee jokaisen suoritetun vaiheen pienellä dopamiinipiekillä. Siihen mennessä, kun kävijä näkee puhelinnumerovaiheen, hän on jo tunteellisesti sitoutunut saattamaan sen loppuun."
+    },
+    {
+      "heading": "Neljä vaihetta"
+    },
+    {
+      "list": [
+        "Vaihe 1: Mikä tuo sinut tänne? (yksittäinen valinta, 4–6 vaihtoehtoa)",
+        "Vaihe 2: Milloin haluaisit tulla vastaanotolle? (päivä + aika-alue)",
+        "Vaihe 3: Hieman sinusta (nimi + sähköposti)",
+        "Vaihe 4: Paras puhelinnumero, jolle sinut tavoittaa (ajan toiveella)"
+      ]
+    },
+    {
+      "heading": "Miksi vaiheiden järjestys on tärkeä"
+    },
+    {
+      "text": "Neljän vaiheen järjestys ei ole mielivaltainen. Ensimmäinen vaihe vangitsee aikomuksen, joka on tieto, jota vastaanottosi eniten tarvitsee ja jonka kävijä antaa mielellään – kukaan ei epäröi kertoa, miksi hän vierailee. Toinen vaihe tallentaa ajanvarausehdokkaan, mikä lisää kävijän henkistä sitoutumista, koska hän on nyt visualisoinut ajanvarauksen kalenterissaan. Vasta näiden kahden sitoumuksen jälkeen kysyt tunnistetietoja."
+    },
+    {
+      "text": "Vastaanotot, jotka kääntävät järjestyksen – kysyen nimeä ja sähköpostia ensin – näkevät konversion laskevan 30–40%. Kävijä ei ole vielä sitoutunut mihinkään, ja ’anna minulle sähköpostiosoitteesi’ tuntuu transaktionaaliselta. Kun pyydät tunnistetietoja sen jälkeen, kun kävijä on jo kuvitellut tapaamisen, vaihto tuntuu keskustelevalta."
+    },
+    {
+      "heading": "Yksi kenttä, jota ei koskaan pitäisi vaatia: puhelin"
+    },
+    {
+      "text": "Jokainen A/B-testi, jonka suoritimme puhelinnumero-kentällä, johti samaan johtopäätökseen: pakollinen puhelinnumero pudottaa konversion 12–18%. Silti lähes jokainen vastaanotto, jonka otamme käyttöön, vaatii puhelinnumeron. Korjaus on tehdä puhelinnumerosta valinnainen lomakkeella ja seurata asiaa sähköpostitse ajanvarausta varten. Vastaanotot, jotka tekevät tämän muutoksen, säilyttävät yleensä 90% aiemmin vaatimastaan puhelinnumerodataan (ihmiset antavat sen vapaaehtoisesti) ja saavat ne 12–18% kävijöistä, jotka olisivat muuten poistuneet."
+    },
+    {
+      "heading": "Testimenetelmät ja mitä mitata"
+    },
+    {
+      "text": "Älä mittaa lomakkeen täyttöastetta erikseen. Mittaa varattujen tapaamisten määrää ja ihanteellisesti tapaamisiin saapuneiden määrää. Lomake, joka täyttyy nopeammin mutta tuottaa peruuttamattomia poissaoloja, ei ole voitto. Instrumentoi suppilo mainoksesta tai orgaanisesta klikkausesta varattuun tapaamiseen ja A/B-testaa nelivaiheista mallia nykyiseen pitkään lomakkeeseesi verrattuna vähintään kolmen viikon ajan varianttia kohden, jotta keräät tilastollisesti merkityksellistä liikennettä."
+    },
+    {
+      "text": "Kun nelivaiheinen malli päihittää lähtötason (se lähes aina tekee), lukitse se ja siirry seuraavaan testiin – yleensä CTA-kopioon, lomakkeen yläpuoliseen luottamuspinoon tai lähettämisen jälkeen laukeavaan vahvistussähköpostiin. Jokaisessa niistä on toiset 5–10% löydettävänä, kun itse lomake on poissa tieltä."
+    }
+  ],
+  "faqs": null
+}

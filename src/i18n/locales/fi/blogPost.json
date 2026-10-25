@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "notFoundTitle": "Artikkelia ei löytynyt — DermGrowth-blogi",
+    "titleSuffix": "— DermGrowth-blogi",
+    "keywordsTemplate": "{{category}}, ihotautien markkinointi, {{title}}",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+    "robotsNoindex": "noindex",
+    "ogType": "article",
+    "publisherName": "DermGrowth"
+  },
+  "breadcrumb": {
+    "home": "Etusivu",
+    "blog": "Blogi"
+  },
+  "notFound": {
+    "code": "404",
+    "title": "Artikkelia ei löytynyt.",
+    "description": "Etsimäsi artikkeli on saatettu siirtää tai nimetä uudelleen.",
+    "backButton": "Takaisin blogiin"
+  },
+  "header": {
+    "nav": {
+      "blog": "Blogi"
+    },
+    "meta": {
+      "readTimeSuffix": "min lukuaika"
+    }
+  },
+  "actions": {
+    "allArticles": "Kaikki artikkelit",
+    "share": "Jaa",
+    "shareOnFacebook": "Jaa Facebookissa",
+    "shareOnX": "Jaa X-palvelussa",
+    "shareOnLinkedIn": "Jaa LinkedInissä",
+    "shareOnTumblr": "Jaa Tumblrissa",
+    "openInstagram": "Avaa Instagram"
+  },
+  "faq": {
+    "badge": "UKK",
+    "heading": "Usein kysytyt kysymykset"
+  },
+  "related": {
+    "badge": "Lue lisää",
+    "heading": "Lisää aiheesta {{category}}",
+    "viewAll": "Kaikki artikkelit",
+    "readLabel": "Lue: {{title}}",
+    "readTimeSuffix": "min"
+  },
+  "footerCta": {
+    "prefix": "Jos tästä oli hyötyä, tutustu myös:",
+    "moreArticles": "artikkeleita vastaanoton kasvattamiseen",
+    "caseStudies": "tuloksia asiakasprojekteistamme",
+    "freeAudit": "nykyisen sivustosi maksuton auditointi"
+  }
+}

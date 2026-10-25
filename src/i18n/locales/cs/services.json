@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "title": "Tvorba webových stránek pro dermatologii — design, SEO a růst",
+    "description": "Objevte naše služby pro dermatologické weby v souladu s HIPAA: SEO, lokální marketing, pacientské portály, údržbu a podporu růstu moderních praxí.",
+    "ogTitle": "Služby pro dermatologické weby",
+    "ogDescription": "Webdesign, SEO, placená reklama, správa reputace, portály, galerie a následná péče o weby dermatologických ordinací.",
+    "schema": {
+      "name": "Služby pro dermatologické weby",
+      "serviceType": "Webdesign, SEO a růstový marketing pro dermatologické praxe",
+      "providerName": "Dermatology Website Design"
+    }
+  },
+  "hero": {
+    "eyebrow": "Naše služby",
+    "title": "Dermatologické weby navržené tak, aby měnily návštěvníky v pacienty.",
+    "description": "Zvolte si konkrétní projekt nebo komplexní systém pro růst: od zakázkového webdesignu a SEO až po akvizici pacientů, integrace, údržbu a optimalizaci pro dermatology.",
+    "ctaQuote": "Získat nezávaznou nabídku",
+    "ctaPricing": "Zobrazit ceník",
+    "proofPoints": {
+      "hipaa": "Implementace v souladu s HIPAA",
+      "responsive": "Plně responzivní na každém zařízení",
+      "seo": "Základy on-page SEO",
+      "conversion": "Cesta pacienta zaměřená na konverzi"
+    }
+  },
+  "sections": {
+    "website": {
+      "label": "Webové služby",
+      "eyebrow": "Tvorba",
+      "description": "Weby na míru, redesigny, migrace dat, portály, galerie a plány péče postavené na důvěře pacientů a efektivní konverzi."
+    },
+    "marketing": {
+      "label": "Marketingové služby",
+      "eyebrow": "Růst",
+      "description": "SEO, lokální viditelnost, placená reklama, správa reputace, sociální sítě, e-mailing a CRO systémy, které přivedou nové pacienty."
+    },
+    "support": {
+      "label": "Doplňkové služby",
+      "eyebrow": "Podpora",
+      "description": "Hosting, podpora shody s předpisy, integrace, analytika, tvorba obsahu a průběžné vylepšování pro kliniky, které chtějí růst i po spuštění webu."
+    }
+  },
+  "cta": {
+    "title": "Nejste si jistí, která služba je pro vaši praxi ta pravá?",
+    "description": "Začněte auditem zdarma – navrhneme vám nejefektivnější cestu pro váš web, viditelnost ve vyhledávání i konverzní cestu pacienta.",
+    "button": "Požádat o audit zdarma"
+  }
+}

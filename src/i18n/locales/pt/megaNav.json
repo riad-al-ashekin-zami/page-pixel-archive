@@ -1,0 +1,162 @@
+{
+  "common": {
+    "explore": "Explorar",
+    "featured": "Destaque",
+    "free": "Grátis",
+    "servicesCount_one": "{{count}} serviço",
+    "servicesCount_other": "{{count}} serviços",
+    "needCustomPlan": "Precisa de um plano personalizado?",
+    "customPlanDesc": "Obtenha um orçamento sob medida para sua clínica.",
+    "getFreeQuote": "Obter Orçamento Grátis",
+    "requestFreeAudit": "Solicitar Auditoria Grátis"
+  },
+  "sections": {
+    "website": {
+      "label": "Serviços de Website",
+      "tagline": "Sites bonitos, rápidos e focados em conversão, desenvolvidos para clínicas de dermatologia."
+    },
+    "marketing": {
+      "label": "Serviços de Marketing",
+      "tagline": "Atraia mais pacientes qualificados com SEO, anúncios e sistemas de reputação."
+    },
+    "addons": {
+      "label": "Serviços Adicionais",
+      "tagline": "Cuidado, hospedagem, conteúdo e integrações para manter o crescimento composto.",
+      "ctaLabel": "Ver todos os adicionais"
+    },
+    "insights": {
+      "audit": {
+        "title": "Auditoria de Website Grátis",
+        "description": "Recomendações acionáveis em 24 horas."
+      }
+    }
+  },
+  "website": {
+    "design": {
+      "label": "Design de Website",
+      "description": "Sites de dermatologia focados em conversão."
+    },
+    "redesign": {
+      "label": "Redesign de Website",
+      "description": "Modernize o site existente da sua clínica."
+    },
+    "migration": {
+      "label": "Migração de Website",
+      "description": "Mova seu site com tempo de inatividade zero, sem perda de SEO."
+    },
+    "maintenance": {
+      "label": "Manutenção de Website",
+      "description": "Mantenha seu site seguro, atualizado e rápido."
+    },
+    "management": {
+      "label": "Gestão de Website",
+      "description": "Gestão contínua de website com serviço completo."
+    },
+    "support": {
+      "label": "Suporte de Website",
+      "description": "Suporte especializado sob demanda quando você precisar."
+    },
+    "multiLocation": {
+      "label": "Multi-Localização",
+      "description": "Estrutura escalável para múltiplas clínicas."
+    },
+    "ecommerce": {
+      "label": "E-Commerce",
+      "description": "Venda produtos de cuidados com a pele online."
+    },
+    "patientPortal": {
+      "label": "Portal do Paciente",
+      "description": "Experiência perfeita para o paciente."
+    },
+    "beforeAfter": {
+      "label": "Galeria Antes e Depois",
+      "description": "Mostre resultados lindamente."
+    }
+  },
+  "marketing": {
+    "seo": {
+      "label": "SEO para Dermatologia",
+      "description": "Classifique-se para pesquisas de alta intenção."
+    },
+    "localSeo": {
+      "label": "SEO Local",
+      "description": "Domine sua área de serviço."
+    },
+    "growth": {
+      "label": "Crescimento da Clínica",
+      "description": "Estratégia para crescimento sustentável."
+    },
+    "googleAds": {
+      "label": "Google Ads / PPC",
+      "description": "Aquisição previsível de pacientes."
+    },
+    "socialMedia": {
+      "label": "Mídias Sociais",
+      "description": "Construa autoridade da marca."
+    },
+    "reputation": {
+      "label": "Gestão de Reputação",
+      "description": "Sistemas de avaliação de 5 estrelas."
+    },
+    "email": {
+      "label": "Email Marketing",
+      "description": "Nutrir e reengajar pacientes."
+    },
+    "cro": {
+      "label": "CRO",
+      "description": "Transforme visitantes em agendamentos."
+    }
+  },
+  "addons": {
+    "care": {
+      "label": "Cuidados e Manutenção",
+      "description": "Cuidado contínuo do site, atualizações e monitoramento."
+    },
+    "hosting": {
+      "label": "Hospedagem e Conformidade",
+      "description": "Hospedagem rápida, segura e compatível com HIPAA."
+    },
+    "content": {
+      "label": "Conteúdo e Conversão",
+      "description": "Textos, landing pages e experimentos de CRO."
+    },
+    "analytics": {
+      "label": "SEO e Análises",
+      "description": "Rastreamento, painéis e visibilidade de pesquisa."
+    },
+    "integrations": {
+      "label": "Integrações",
+      "description": "EHR, agendamento, CRM e ferramentas de marketing."
+    },
+    "growth": {
+      "label": "Marketing de Crescimento",
+      "description": "Anúncios, e-mail e programas de reputação."
+    }
+  },
+  "insights": {
+    "process": {
+      "label": "Nosso Processo",
+      "description": "Como entregamos cada projeto."
+    },
+    "about": {
+      "label": "Sobre Nós",
+      "description": "Quem somos e o que acreditamos."
+    },
+    "caseStudies": {
+      "label": "Estudos de Caso",
+      "description": "Resultados reais de clínicas reais."
+    },
+    "blog": {
+      "label": "Blog",
+      "description": "Insights para clínicas em crescimento."
+    },
+    "faq": {
+      "label": "FAQ",
+      "description": "Respostas para perguntas frequentes."
+    },
+    "audit": {
+      "label": "Auditoria de Website Grátis",
+      "description": "Recomendações personalizadas em 24 horas."
+    }
+  }
+}

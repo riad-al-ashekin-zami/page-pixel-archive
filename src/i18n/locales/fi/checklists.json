@@ -1,0 +1,287 @@
+{
+  "meta": {
+    "title": "Ihotautiklinikan verkkosivuston tarkistuslistat — Julkaisu, SEO, HIPAA ja konversio",
+    "description": "Maksuttomat asiantuntijoiden laatimat tarkistuslistat ihotautiklinikoille: julkaisua edeltävä laadunvarmistus, hakukonemuseoptimointi (SEO), HIPAA-yhteensopivuus, saavutettavuus ja Core Web Vitals.",
+    "keywords": "ihotautiklinikan verkkosivuston tarkistuslista, ihotautialan SEO, HIPAA-tarkistuslista, lääkäriaseman sivuprojektin julkaisu, saavutettavuus terveydenhuollossa"
+  },
+  "schema": {
+    "breadcrumb": {
+      "home": "Etusivu",
+      "pageName": "Ihotautiklinikan tarkistuslistat"
+    }
+  },
+  "accessibility": {
+    "skipToContent": "Siirry suoraan sisältöön"
+  },
+  "hero": {
+    "badge": "Maksuton · Ihotautialalle suunniteltu · Tulostettava",
+    "title": "Tarkistuslistat, jotka tekevät ihotautiklinikan sivuston julkaisusta stressitöntä.",
+    "description": "9 kohdennettua kategoriaa. 108 asiantuntijatason tarkistuspistettä. Kaikki mitä moderni ihotautiklinikka tarvitsee julkaisuun, hakukonenäkyvyyteen, tietosuojaan ja konversioihin – yhdessä paikassa.",
+    "actions": {
+      "primary": "Aloita tarkistuslista",
+      "secondary": "Tilaa valmis auditointi"
+    },
+    "stats": [
+      {
+        "label": "Asiantuntijatarkistusta",
+        "value": "108"
+      },
+      {
+        "label": "Täsmäkategoriaa",
+        "value": "9"
+      },
+      {
+        "label": "Lighthouse-tavoite",
+        "value": "95+"
+      }
+    ]
+  },
+  "progress": {
+    "title": "Edistymisesi",
+    "status": "{{doneCount}} / {{totalItems}} valmiina",
+    "howItWorks": [
+      {
+        "title": "Selaa",
+        "desc": "Käy läpi seuraavan julkaisusi kannalta kriittiset kategoriat."
+      },
+      {
+        "title": "Merkitse",
+        "desc": "Seuraa edistymistäsi – tiedot tallentuvat selaimeesi automaattisesti."
+      },
+      {
+        "title": "Tulosta tai jaa",
+        "desc": "Valmis kooste jaettavaksi kehittäjälle, markkinoinnille tai tietosuojavastaavalle."
+      }
+    ],
+    "actions": {
+      "print": "Tulosta / PDF",
+      "reset": "Nollaa",
+      "jump": "Siirry listaan"
+    }
+  },
+  "filter": {
+    "label": "Suodatin",
+    "all": "Kaikki"
+  },
+  "feedback": {
+    "ready": "Sivusto on valmis julkaistavaksi.",
+    "completeDesc": "Jokainen kohta on kuitattu. Pyydä tarjous, jotta vauhti pysyy yllä myös jatkossa.",
+    "quoteCta": "Pyydä maksuton tarjous"
+  },
+  "sections": {
+    "prelaunch": {
+      "title": "Julkaisua edeltävä laadunvarmistus",
+      "short": "Julkaisu",
+      "tagline": "Ei yllätyksiä julkaisupäivänä.",
+      "items": [
+        "Sivujen otsikot (titles) uniikkeja, ≤ 60 merkkiä ja sisältävät pääavainsanan",
+        "Meta-kuvaukset uniikkeja, ≤ 160 merkkiä ja hyötykeskeisiä",
+        "Favicon, Apple touch icon ja some-jakokuva (1200×630) ladattu",
+        "301-uudelleenohjaukset tehty kaikista vanhoista osoitteista uusiin",
+        "XML-sivukartta luotu ja lähetetty Google Search Consoleen",
+        "robots.txt sallii indeksoinnin ja viittaa sivukarttaan",
+        "SSL-sertifikaatti asennettu ja HTTPS pakotettu koko sivustolle",
+        "Lomakkeet testattu: lähetys, vahvistus ja toimitus CRM/potilastietojärjestelmään",
+        "Analytics (GA4) + konversiotapahtumat testattu (puhelut, lomakkeet, varaukset)",
+        "Lakisääteiset sivut julkaistu: Tietosuojaseloste, HIPAA-ilmoitus, ADA-lausunto, Käyttöehdot",
+        "Rikkoutuneet linkit tarkistettu – nolla 404-virhettä sisäisillä sivuilla",
+        "Testisivuston indeksointi estetty (noindex + peruskirjautuminen)"
+      ]
+    },
+    "seo": {
+      "title": "Sivun sisäinen SEO",
+      "short": "SEO",
+      "tagline": "Löydy hauilla, jotka tuovat potilaita.",
+      "items": [
+        "Vain yksi H1-otsikko per sivu – vastaa käyttäjän hakuaikeeseen",
+        "Semanttinen H2/H3-rakenne vastaa potilaiden yleisimpiin kysymyksiin",
+        "Palvelusivut kohdennettu yhdelle pääavainsanalle ja 2–3 tuki-avainsanalle",
+        "Toimipistesivut sisältävät kaupungin, kaupunginosan ja ajo-ohjeet",
+        "Sisäiset linkit blogiartikkeleista myyntisivuille (palvelut, ajanvaraus)",
+        "Kuvaavat alt-tekstit kaikissa muissa paitsi koristekuvissa",
+        "Schema-merkintä: MedicalBusiness, Physician, Service, FAQPage, Review",
+        "Asiantuntijakuvaus ja lääketieteellinen hyvaksyjä artikkeleissa (E-E-A-T)",
+        "Google Business Profile linkitetty, kategoriat asetettu ja aukioloajat oikein",
+        "Paikallinen NAP (nimi, osoite, puhelin) yhtenäinen sivustolla ja muissa lähteissä",
+        "Canonical-tagit jokaisella sivulla – ei sisältötuplia",
+        "Open Graph + Twitter Card -tagit tarkistettu debuggerilla"
+      ]
+    },
+    "hipaa": {
+      "title": "HIPAA-yhteensopivuus",
+      "short": "HIPAA",
+      "tagline": "Suojaa potilastiedot (PHI) jokaisessa lomakkeessa ja pikselissä.",
+      "items": [
+        "BAA-sopimukset allekirjoitettu hosting-, lomake-, sähköposti- ja analytiikkapalveluiden kanssa",
+        "GA4, Meta Pixel tai ulkopuoliset heatmap-työkalut eivät kerää potilastietoja",
+        "Yhteydenottolomakkeet lähettävät tiedot TLS-suojattuna HIPAA-yhteensopivaan päätepisteeseen",
+        "Potilasportaalin kirjautuminen erotettu markkinointisivuston istunnosta",
+        "Istunnon aikakatkaisut ja brute-force-suojaus kaikilla suojatuilla alueilla",
+        "Pääsynhallintalogeja säilytetään tietosuojakäytäntöjen mukaisesti",
+        "Henkilökunta koulutettu lomakkeiden käsittelyyn – ei potilastietoja sähköpostiin",
+        "Evästebanneri kertoo seuraimista ja kunnioittaa kieltäytymistä",
+        "Tietosuojaseloste viittaa HIPAA- ja muihin säädöksiin (kuten CCPA/CMIA)",
+        "Tietomurtosuunnitelma dokumentoitu ja helposti saatavilla",
+        "Chatbotit ja AI-avustajat konfiguroitu kieltäytymään potilastietojen keräämisestä",
+        "Varmuuskopioiden salaus varmistettu ja palautus testattu neljännesvuosittain"
+      ]
+    },
+    "a11y": {
+      "title": "Saavutettavuus (WCAG 2.2 AA)",
+      "short": "A11y",
+      "tagline": "Esteetön kaikille – ja juridisesti vahvalla pohjalla.",
+      "items": [
+        "Värikontrasti ≥ 4.5:1 leipätekstissä, 3:1 suuressa tekstissä ja käyttöliittymässä",
+        "Kaikki interaktiiviset elementit käytettävissä näppäimistöllä",
+        "Selkeä kohdistusosoitin (focus indicator) jokaisessa valittavassa elementissä",
+        "Lomakekentillä on ohjelmallisesti määritetyt selitteet (labels)",
+        "Virheilmoitukset välitetään ruudunlukuohjelmille aria-live-ominaisuudella",
+        "Skip-to-content-linkki jokaisen sivun yläreunassa",
+        "Semanttiset maamerkit: header, nav, main, footer",
+        "Kuvilla merkitykselliset alt-tekstit; koristekuvissa tyhjä alt=\"\"",
+        "Videosisällöissä tekstitys ja tekstivastineet",
+        "Liike-efektit kunnioittavat prefers-reduced-motion-asetusta",
+        "Kosketusalueet ≥ 44×44 CSS-pikseliä mobiilissa",
+        "ADA-saavutettavuusseloste ja toimiva palautekanava löytyvät"
+      ]
+    },
+    "performance": {
+      "title": "Suorituskyky & Core Web Vitals",
+      "short": "Performance",
+      "tagline": "Nopeat sivut sijoittuvat paremmin ja konvertoivat enemmän.",
+      "items": [
+        "LCP < 2.5s mobiili-4G-verkossa (todellinen käyttäjädata)",
+        "INP < 200ms tärkeimmissä toiminnoissa ja valikoissa",
+        "CLS < 0.1 – kuvat, mainokset ja upotukset eivät siirrä sisältöä",
+        "Hero-kuva tarjoillaan WebP/AVIF-muodossa ja oikeassa koossa",
+        "Fontit ladataan itse tai esiladataan font-display: swap -asetuksella",
+        "JavaScript-koodi paloiteltu reiteittäin, kolmannen osapuolen skriptit ladataan viiveellä",
+        "Kuvilla on leveys- ja korkeusmääritteleet taiton vakauttamiseksi",
+        "CDN käytössä staattisille tiedostoille pitkillä välimuistiotsakkeilla",
+        "Kriittinen CSS sijoitettu koodin sisään; estävät resurssit eliminoitu",
+        "Palvelimen vasteaika (TTFB) < 600ms globaalisti",
+        "Tag Managerit eivät lataa tarpeettomia 'fourth-party'-skriptejä",
+        "Lighthouse-mobiilipisteet ≥ 90 kaikissa neljässä kategoriassa"
+      ]
+    },
+    "mobile": {
+      "title": "Mobiili & Käyttökokemus (UX)",
+      "short": "Mobiili",
+      "tagline": "Yli 80 % potilaista käyttää puhelinta.",
+      "items": [
+        "Kiinteä soitto-painike näkyvissä jokaisella mobiilisivulla",
+        "Valikko aukeaa yhdellä napautuksella – ei monimutkaisia hover-valikoita",
+        "Ajanvaraus-CTA saavutettavissa yhdellä peukalon pyyhkäisyllä alusta",
+        "Lomakkeissa käytössä oikeat syötetyypit (tel, email, date)",
+        "Osoitetiedot avaavat Google Maps -ohjeet napautuksella",
+        "Puhelinnumero on tel:-linkki, ei pelkkää tekstiä",
+        "Ennen ja jälkeen -galleria latautuu vaiheittain, ei kerralla",
+        "Modaalit suljettavissa pyyhkäisyllä tai selkeällä sulkupainikkeella",
+        "Ei vaakasuuntaista skrollausta vähintään 320px leveillä näytöillä",
+        "Kiinteät elementit eivät peitä lomakekenttiä näppäimistön auetessa",
+        "Sivun kieli määritelty <html lang> -tagissa",
+        "Tumman tilan (dark mode) värit testattu luettavuuden osalta"
+      ]
+    },
+    "conversion": {
+      "title": "Konversio & Luottamus",
+      "short": "Konversio",
+      "tagline": "Muuta käynnit varatuiksi konsultaatioiksi.",
+      "items": [
+        "Pää-CTA (Varaa, Soita) sivun yläosassa jokaisella sivulla",
+        "Toissijainen CTA (Hinnasto, Maksuton konsultaatio) jokaisella palvelusivulla",
+        "Luottamusbanneri: HIPAA-suojattu, ADA, SSL, erikoislääkäripätevyydet",
+        "Aidot potilasarvostelut schema-merkinnöillä",
+        "Ennen ja jälkeen -galleria suostumuksilla, suodattimilla ja hoitokuvauksilla",
+        "Lääkäriesittelyt tutkintoineen, kuvineen ja erikoisosaamisineen",
+        "Vakuutus- ja rahoitusvaihtoehdot selkeästi esillä",
+        "Uuden potilaan lomake alle 8 kenttää; pitkät lomakkeet jaettu vaiheisiin",
+        "Kiitossivu kertoo seuraavan askeleen, ei vain 'olemme yhteydessä'",
+        "Chat- tai WhatsApp-mahdollisuus aukioloaikojen ulkopuolisiin kysymyksiin",
+        "Exit-intent-tarjous, joka liittyy palveluun (opas, konsultaatio)",
+        "Puheluiden ja lomakkeiden seuranta linkitetty markkinointikanaviin"
+      ]
+    },
+    "security": {
+      "title": "Tietoturva & Luotettavuus",
+      "short": "Turvallisuus",
+      "tagline": "Suojele klinikkaa – ja potilasta.",
+      "items": [
+        "Automaattiset päivittäiset varmuuskopiot etänä, testattu kuukausittain",
+        "CMS, lisäosat ja teemat päivitetään säännöllisen aikataulun mukaan",
+        "Web Application Firewall (WAF) + brute-force-suojaus",
+        "Ylläpitäjillä MFA (monivaiheinen tunnistautuminen) ja uniikit salasanat",
+        "Käyttöoikeudet minimoitu (least-privilege) henkilöstölle ja kumppaneille",
+        "Turvaotsakkeet: HSTS, X-Content-Type-Options, CSP",
+        "Haavoittuvuusskannaukset vähintään neljännesvuosittain",
+        "Uptime-monitorointi ja tekstiviestihälytykset tekniselle vastaavalle",
+        "Dokumentoitu häiriötilanteiden vastaussuunnitelma ja yhteystiedot",
+        "DNS-tietueet tarkistettu; käyttämättömät alidomainit poistettu",
+        "SSL-uudistus automatisoitu; vanhentumista valvotaan",
+        "Toimittajalista (BAA + muut) tarkistetaan vuosittain"
+      ]
+    },
+    "content": {
+      "title": "Sisältö & Toimitus",
+      "short": "Sisältö",
+      "tagline": "Sano oikea asia oikealle potilaalle.",
+      "items": [
+        "Oma sivu jokaiselle palvelulle (ei pelkkää 'Palvelumme'-koostetta)",
+        "Palvelusivun vastaukset: mikä, kenelle, miten, hinta, seuraava askel",
+        "Toimipistesivuilla uniikki sisältö – ei kopioitua tekstipohjaa",
+        "FAQ-osio jokaisella palvelusivulla (5–8 aitoa potilaskysymystä)",
+        "Lääketieteelliset väittämät viitteistetty tai erikoislääkärin vahvistamia",
+        "Luettavuustaso säädetty helposti ymmärrettäväksi (selkokieli)",
+        "Ei geneerisiä 'malli'-kuvia; suositellaan aitoja potilaita ja tiloja",
+        "Julkaisukalenteri kuukausittaisella hakukone- ja kausisisällöllä",
+        "Vanhat artikkelit päivitetään vuosittain uudella tiedolla ja linkityksillä",
+        "Kirjoittajakuvaukset linkitetty jokaisesta postauksesta Author-schemalla",
+        "Yhtenäinen äänensävy ja terminologia koko sivustolla",
+        "Lakisääteiset vastuunvapauslausekkeet asianmukaisilla sivuilla"
+      ]
+    }
+  },
+  "cta": {
+    "badge": "Avaimet käteen",
+    "title": "Haluatko meidän hoitavan tarkistukset puolestasi?",
+    "description": "Tilaa räätälöity ihotautiklinikan sivustoauditointi. Arvioimme nykyisen sivustosi kaikkien edellä mainittujen kohtien osalta ja toimitamme priorisoidun korjauslistan 24 tunnissa.",
+    "links": {
+      "audit": "Pyydä maksuton auditointi",
+      "contact": "Ota yhteyttä"
+    }
+  },
+  "faq": {
+    "badge": "UKK",
+    "title": "Usein kysytyt kysymykset",
+    "items": [
+      {
+        "q": "Kenelle tämä tarkistuslista on tarkoitettu?",
+        "a": "Ihotautiklinikoiden omistajille, hallinnolle ja heidän verkkokehitystiimeilleen. Tämä ei ole yleispätevä opas, vaan luotu lääkäriasemien todellisiin työnkulkuihin."
+      },
+      {
+        "q": "Talluuko edistymiseni?",
+        "a": "Kyllä – valintasi tallentuvat selaimesi muistiin. Voit nollata listan tyhjentämällä välimuistin tai klikkaamalla Nollaa-painiketta."
+      },
+      {
+        "q": "Voinko saada listan PDF-muodossa?",
+        "a": "Käytä Tulosta-painiketta. Sivun asettelu on optimoitu tulostukseen, ja valitsemalla 'Tallenna PDF-muodossa' saat puhtaan dokumentin."
+      },
+      {
+        "q": "Miten tämä eroaa tavallisesta verkkosivukonsultoinnista?",
+        "a": "Jokainen kohta on kirjoitettu ihotautialaa ajatellen – huomioiden HIPAA-lomakkeet, hoitokuvagalleriat, lääkäreiden E-E-A-T-tekijät ja potilasportaalit."
+      },
+      {
+        "q": "Tarjoatteko valmista auditointipalvelua?",
+        "a": "Kyllä. Tilaa maksuton auditointi, niin toimitamme personoidun raportin sivustostasi 24 tunnin sisällä."
+      }
+    ]
+  },
+  "footer": {
+    "more": "Jos tästä oli apua, katso myös:",
+    "links": {
+      "audit": "Maksuton auditointi nykyiselle sivustollesi",
+      "caseStudies": "Ihotautialan asiakastarinat",
+      "blog": "Lisää vinkkejä blogistamme"
+    }
+  }
+}

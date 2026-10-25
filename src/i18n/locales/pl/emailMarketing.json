@@ -1,0 +1,370 @@
+{
+  "meta": {
+    "title": "Email Marketing dla Dermatologii | Przypomnienia HIPAA, Newslettery i Automatyzacja",
+    "description": "Marketing e-mailowy zgodny z HIPAA dla gabinetów dermatologicznych — serie powitalne, automatyczne przypomnienia co 6 miesięcy, edukacja sezonowa i reaktywacja pacjentów estetycznych. Raportujemy umówione wizyty, a nie tylko otwarcia.",
+    "og": {
+      "title": "Email Marketing dla Dermatologii — Zgodność z HIPAA i Atrybucja Wizyt",
+      "description": "Spersonalizowane newslettery, automatyzacja przypomnień na podstawie danych z PMS i rozwiązania zgodne z HIPAA dla dermatologii. Klaviyo, HubSpot, Mailchimp."
+    },
+    "twitter": {
+      "title": "Usługi Email Marketingu dla Dermatologii",
+      "description": "Bezpieczny marketing e-mailowy HIPAA, automatyzacja przypomnień i najwyższa dostarczalność dla gabinetów dermatologicznych."
+    },
+    "jsonLd": {
+      "serviceType": "Email Marketing dla Gabinetów Dermatologicznych",
+      "providerName": "DermatologyWebsiteDesign.com",
+      "description": "Usługi marketingu e-mailowego, automatyzacji przypomnień i newsletterów dla dermatologii, zgodne z HIPAA.",
+      "breadcrumb": {
+        "home": "Strona główna",
+        "services": "Usługi",
+        "emailMarketing": "Email Marketing"
+      }
+    }
+  },
+  "hero": {
+    "badge": "Email Marketing dla Dermatologii",
+    "title": "Skrzynki odbiorcze, które wypełniają Twój kalendarz wizyt.",
+    "description": "Email marketing zgodny z HIPAA dla dermatologii — serie powitalne, automatyczne przypomnienia zintegrowane z PMS, edukacja sezonowa i reaktywacja usług estetycznych. Każda kampania raportowana w oparciu o umówione wizyty, a nie puste statystyki otwarć.",
+    "cta": {
+      "audit": "Bezpłatny audyt e-maili",
+      "flows": "Zobacz 5 ścieżek automatyzacji"
+    },
+    "stats": {
+      "industryLabel": "średnia branżowa 21%",
+      "comparison": "+30 pkt vs baza",
+      "opensLabel": "12 480 otwarć",
+      "hipaaBadge": "Zgodne z HIPAA",
+      "openRateLabel": "wskaźnik otwarć",
+      "openRateDescription": "Wskaźnik otwarć kampanii"
+    }
+  },
+  "outcomes": {
+    "openRate": "Średni wskaźnik otwarć",
+    "ctr": "Klikalność (CTR)",
+    "recallLift": "Wzrost konwersji przypomnień",
+    "hipaaReview": "Weryfikacja treści pod kątem HIPAA"
+  },
+  "trustBar": {
+    "title": "Zaufało nam ponad 50 gabinetów dermatologicznych",
+    "badges": [
+      "SPF · Zweryfikowano",
+      "DKIM · Zweryfikowano",
+      "DMARC · Zweryfikowano",
+      "CAN-SPAM"
+    ]
+  },
+  "liveActivity": {
+    "title": "Na żywo z paneli klientów",
+    "status": "Live",
+    "actions": {
+      "opened": "otworzył(a)",
+      "booked": "umówił(a) wizytę",
+      "clicked": "kliknął/kliknęła"
+    },
+    "events": [
+      {
+        "who": "Joanna R.",
+        "campaign": "Plan pielęgnacji na zimę",
+        "when": "przed chwilą"
+      },
+      {
+        "who": "Priya K.",
+        "campaign": "Kontrola skóry (6 mies.)",
+        "when": "14 sek. temu"
+      },
+      {
+        "who": "Marek T.",
+        "campaign": "Powitanie · 3 z 5",
+        "when": "42 sek. temu"
+      },
+      {
+        "who": "Zofia L.",
+        "campaign": "Lojalność Aesthetic",
+        "when": "1 min. temu"
+      },
+      {
+        "who": "Dawid H.",
+        "campaign": "Reaktywacja estetyczna",
+        "when": "2 min. temu"
+      },
+      {
+        "who": "Anna M.",
+        "campaign": "Przewodnik po filtrach UV",
+        "when": "3 min. temu"
+      }
+    ]
+  },
+  "flows": {
+    "title": "Automatyzacje",
+    "heading": "Pięć zautomatyzowanych ścieżek, które zarządzają komunikacją Twojego gabinetu.",
+    "description": "Uruchamiane przez PMS/EHR — powitanie, przypomnienia, edukacja, oferty estetyczne i raportowanie. Działanie w pełni bezobsługowe.",
+    "items": [
+      {
+        "step": "KROK 01",
+        "title": "Powitanie i wdrożenie",
+        "desc": "Seria 5 e-maili dla nowych pacjentów — czego się spodziewać, jak się przygotować, FAQ o ubezpieczeniach i linki do rezerwacji."
+      },
+      {
+        "step": "KROK 02",
+        "title": "Przypomnienia i reaktywacja",
+        "desc": "Automatyczne powiadomienia o kontroli skóry po 6/12 miesiącach zintegrowane z PMS — z wbudowaną analityką umówionych wizyt."
+      },
+      {
+        "step": "KROK 03",
+        "title": "Edukacja i sezonowość",
+        "desc": "Trądzik latem, egzema zimą, fotoprotekcja w maju — 12-miesięczny kalendarz redakcyjny dopasowany do Twoich usług."
+      },
+      {
+        "step": "KROK 04",
+        "title": "Oferty estetyczne",
+        "desc": "Dosprzedaż usług kosmetycznych oparta na zgodach — programy lojalnościowe Aesthetic, pakiety laserowe, dermokosmetyki premium."
+      },
+      {
+        "step": "KROK 05",
+        "title": "Raportowanie wizyt",
+        "desc": "Każda kampania rozliczana z umówionych wizyt i przychodu — a nie tylko otwarć i kliknięć."
+      }
+    ]
+  },
+  "integrations": {
+    "title": "Integracje z PMS / EHR i Platformami Email",
+    "platforms": [
+      "ModMed / EMA",
+      "Nextech",
+      "DrChrono",
+      "athenahealth",
+      "Klaviyo",
+      "HubSpot",
+      "Mailchimp",
+      "Zapier"
+    ]
+  },
+  "servicesIncluded": {
+    "title": "Co zawiera usługa",
+    "heading": "Kompletny ekosystem email marketingu — w ramach jednego abonamentu.",
+    "items": [
+      {
+        "title": "Strategia i kalendarz na 12 miesięcy",
+        "desc": "Mapowanie grup odbiorców, audyt bazy, kalendarz redakcyjny usług i KPI powiązane z wizytami."
+      },
+      {
+        "title": "Segmentacja bazy dłużników",
+        "desc": "Nowi pacjenci, aktywni, nieobecni od 6/12 mies., estetyczni — z tagowaniem zgodnym z HIPAA i śledzeniem zgód."
+      },
+      {
+        "title": "Indywidualne szablony graficzne",
+        "desc": "Responsywne szablony HTML spójne z marką — dostępny kontrast, tryb Dark Mode i czytelne wersje tekstowe."
+      },
+      {
+        "title": "Automatyczne ścieżki i wyzwalacze",
+        "desc": "Powitania, przypomnienia, urodziny, po wizycie — uruchamiane z PMS/EHR przez API lub Zapier."
+      },
+      {
+        "title": "Dostarczalność i uwierzytelnianie",
+        "desc": "Konfiguracja SPF, DKIM, DMARC, rozgrzewanie domeny i monitoring reputacji nadawcy — trafiamy do odebranych, nie do spamu."
+      },
+      {
+        "title": "Analityka i atrybucja wizyt",
+        "desc": "Otwarcia, kliknięcia, rezygnacje oraz wizyty powiązane z PMS — miesięczne raporty skupione na przychodach."
+      }
+    ]
+  },
+  "deliverability": {
+    "title": "Dostarczalność",
+    "heading": "Z folderu spam do skrzynki głównej.",
+    "description": "Uwierzytelnianie SPF, DKIM i DMARC, rozgrzewanie nadawcy, kwartalne czyszczenie bazy i monitoring reputacji przez Google Postmaster + Microsoft SNDS.",
+    "features": [
+      "Weryfikacja SPF · DKIM · DMARC w ciągu 7 dni",
+      "Plan rozgrzewania nadawcy przy migracji platformy",
+      "Czyszczenie bazy co 90 dni",
+      "Cotygodniowy monitoring zwrotów i skarg"
+    ],
+    "gaugeLabel": "Skuteczność dostarczeń",
+    "timeline": "Średnio dla klienta, 60–90 dni od wdrożenia."
+  },
+  "abSection": {
+    "title": "Copywriting, który konwertuje",
+    "heading": "Temat wiadomości decyduje: wizyta czy kosz.",
+    "demoTitle": "Dwa słowa zmieniają wszystko.",
+    "badge": "Testy A/B Tematów",
+    "inboxPreview": "Podgląd skrzynki",
+    "sender": "Twoja Klinika",
+    "time": "14:14",
+    "openRateLabel": "Wskaźnik otwarć",
+    "whyWins": "Dlaczego wersja B wygrywa:",
+    "buttons": {
+      "version": "Wersja",
+      "example": "Przykład"
+    },
+    "notes": [
+      "Personalizacja imieniem + podkreślenie korzyści.",
+      "Konkretny termin + język ułatwiający działanie."
+    ]
+  },
+  "templateGallery": {
+    "title": "Galeria Szablonów",
+    "heading": "Każda wiadomość spójna z marką — za każdym razem.",
+    "description": "Indywidualnie zaprojektowane, responsywne szablony z optymalnym kontrastem i obsługą Dark Mode.",
+    "cta": "Zarezerwuj teraz",
+    "templates": [
+      {
+        "name": "Powitanie",
+        "tag": "Seria · 1 z 5",
+        "subject": "Witaj w naszym gabinecie, Joanna",
+        "body": "Oto czego możesz się spodziewać na pierwszej wizycie — oraz 3 rzeczy, które warto zabrać ze sobą."
+      },
+      {
+        "name": "Przypomnienie",
+        "tag": "Auto · Wyzwalacz PMS",
+        "subject": "Czas na Twoją kontrolę skóry (6 mies.)",
+        "body": "Minęło 5 miesięcy od ostatniej wizyty. Badania kontrolne pozwalają wykryć 95% zmian na wczesnym etapie."
+      },
+      {
+        "name": "Sezonowe",
+        "tag": "Redakcyjne · Zima",
+        "subject": "Zadbaj o skórę zimą — porady dr. Chena",
+        "body": "Mróz i gorące kąpiele niszczą barierę ochronną. Oto 5 kroków pielęgnacji, które polecają nasi lekarze."
+      }
+    ]
+  },
+  "liftSlider": {
+    "title": "Skala Wzrostu",
+    "heading": "Od 12% do 42% otwarć — zobacz efekt skali.",
+    "description": "Przesuń suwak, aby pokonać typowy poziom bazowy i osiągnąć 42% otwarć — umówione wizyty i przychody wzrosną wraz z nimi.",
+    "dragLabel": "Przesuń, aby zobaczyć wzrost",
+    "before": "Przed:",
+    "after": "Po:",
+    "metrics": {
+      "booked": "Wizyty / mies.",
+      "revenue": "Przychód / mies.",
+      "recall": "Wskaźnik powrotów"
+    },
+    "aria": {
+      "slider": "Suwak wskaźnika otwarć e-maili"
+    }
+  },
+  "testimonials": {
+    "title": "Wyniki Klientów",
+    "heading": "Prawdziwe gabinety. Mierzalne efekty.",
+    "items": [
+      {
+        "quote": "Same e-maile przypominające sfinansowały abonament w pierwszym miesiącu. Liczba kontroli skóry wzrosła trzykrotnie, a teksty brzmią dokładnie tak jak my.",
+        "author": "Dr E. Park, MD",
+        "role": "Praktyka indywidualna · Seattle, WA"
+      },
+      {
+        "quote": "Jedna marka, siedem lokalizacji, jeden kalendarz. Segmentacja zgodna z HIPAA była wyzwaniem, z którym sami nie mogliśmy sobie poradzić.",
+        "author": "Dyrektor Marketingu",
+        "role": "Grupa medyczna · 7 klinik · Teksas"
+      },
+      {
+        "quote": "Dostarczalność skoczyła z 82% do 98% w sześć tygodni. Atrybucja wizyt wreszcie pozwala nam uzasadnić wydatki na e-mail przed wspólnikami.",
+        "author": "Manager Kliniki",
+        "role": "Dermatologia Chirurgiczna · Boston"
+      }
+    ]
+  },
+  "audiences": {
+    "title": "Dla kogo",
+    "heading": "Każdy model praktyki dermatologicznej.",
+    "items": [
+      {
+        "title": "Indywidualne Praktyki",
+        "desc": "Newslettery pisane głosem lekarza, które dbają o pełny grafik — powitania, reaktywacja i kontakt po wizycie."
+      },
+      {
+        "title": "Kliniki Wielooddziałowe",
+        "desc": "Wysyłka dedykowana dla lokalizacji ze wspólnymi szablonami — jeden panel, spójna analityka, bezpieczna segmentacja."
+      },
+      {
+        "title": "Dermatologia Dziecięca",
+        "desc": "Ścieżki edukacyjne dla rodziców — sezony egzemy, kontrole przed szkołą i delikatne przypomnienia."
+      },
+      {
+        "title": "Dermatologia Chirurgiczna i Mohs",
+        "desc": "Przygotowanie przedoperacyjne, kontrole po zabiegu i cykle badań przesiewowych — zsynchronizowane z etapami leczenia."
+      }
+    ]
+  },
+  "medicalServices": {
+    "title": "Wspierane Usługi Medyczne",
+    "heading": "Ścieżki e-mail dopasowane do każdej specjalizacji.",
+    "description": "Każda linia usług otrzymuje własny cykl edukacyjny, interwały przypomnień i profesjonalne treści reaktywacyjne.",
+    "list": [
+      "Leczenie trądziku",
+      "Leczenie egzemy",
+      "Leczenie łuszczycy",
+      "Leczenie infekcji skóry",
+      "Alergie skórne",
+      "Badania przesiewowe i leczenie nowotworów skóry",
+      "Ocena znamion i usuwanie medyczne",
+      "Usuwanie torbieli i tłuszczaków",
+      "Usuwanie brodawek",
+      "Choroby paznokci",
+      "Diagnostyka i leczenie łysienia",
+      "Choroby skóry głowy",
+      "Leczenie trądziku różowatego",
+      "Leczenie przebarwień i melasmy (wskazania medyczne)",
+      "Leczenie blizn (urazowych, pooperacyjnych, chorobowych)",
+      "Leczenie blizn pooparzeniowych",
+      "Leczenie bielactwa",
+      "Biopsje skóry i procedury diagnostyczne"
+    ]
+  },
+  "faq": {
+    "title": "FAQ",
+    "heading": "O co pytają gabinety przed podjęciem współpracy.",
+    "items": [
+      {
+        "q": "Czy marketing e-mailowy zgodny z HIPAA jest naprawdę możliwy?",
+        "a": "Tak — pod warunkiem trzymania się ścisłych reguł. Nigdy nie umieszczamy danych PHI w treściach, tematach ani parametrach śledzenia. Segmentacja opiera się na tagach niebędących danymi wrażliwymi (zainteresowania, zgody). Gdy wymagane jest użycie chronionych danych, kierujemy użytkownika do bezpiecznego portalu pacjenta."
+      },
+      {
+        "q": "Jakie platformy e-mail i systemy PMS/EHR obsługujecie?",
+        "a": "Pracujemy na Klaviyo, HubSpot, Mailchimp, ActiveCampaign lub Customer.io. Integrujemy się z ModMed / EMA, Nextech, DrChrono, athenahealth i innymi przez API, HL7 lub Zapier — automatyzacja opiera się na realnych danych o wizytach, nie na ręcznych arkuszach."
+      },
+      {
+        "q": "W jaki sposób mierzycie wyniki?",
+        "a": "Każda kampania jest rozliczana z umówionych wizyt i przypisanego przychodu. Stosujemy tagi UTM, śledzimy przejścia do systemu rezerwacji i raportujemy co miesiąc wskaźniki otwarć, kliknięć oraz realny zwrot z inwestycji."
+      },
+      {
+        "q": "Co z dostarczalnością i trafianiem do folderu Odebrane?",
+        "a": "Konfigurujemy uwierzytelnianie SPF, DKIM i DMARC, wdrażamy plan rozgrzewania domeny oraz monitorujemy reputację nadawcy przez Google Postmaster i Microsoft SNDS. Gabinety zazwyczaj zwiększają wskaźnik dotarcia do skrzynki głównej z poziomu 82% do 96-98% w ciągu 90 dni."
+      },
+      {
+        "q": "Jak często e-maile będą trafiać do naszych pacjentów?",
+        "a": "Częstotliwość jest dopasowana do Twojej bazy, a nie do szablonu. Zazwyczaj są to 2 e-maile edukacyjne miesięcznie plus automatyzacje (powitanie, przypomnienie). Ściśle monitorujemy wskaźniki rezygnacji, aby nie przesadzić z intensywnością wysyłek."
+      },
+      {
+        "q": "Kto przygotowuje treści — my czy Wy?",
+        "a": "My zajmujemy się wszystkim — od tematów po treść właściwą. Piszemy stylem Twojego gabinetu, a każdy tekst przechodzi weryfikację pod kątem HIPAA. Zespół kliniki zatwierdza kampanie w udostępnionym kalendarzu; nic nie wychodzi bez Twojej zgody."
+      },
+      {
+        "q": "Jaki jest model rozliczeń?",
+        "a": "Stały miesięczny abonament zależny od wielkości bazy i wolumenu wysyłek. Zawiera strategię, kalendarz, design, copywriting, techniczne zarządzanie dostarczalnością i raportowanie. Żadnych ukrytych opłat za wysyłkę ani długoterminowych umów po pierwszych 90 dniach."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Zmień listę pacjentów w swój główny kanał rezerwacji.",
+    "description": "Bezpłatny, 30-minutowy audyt — sprawdzenie dostarczalności, raport kondycji bazy i 90-dniowy plan automatyzacji przypomnień. Bez zobowiązań.",
+    "auditBtn": "Bezpłatny Audyt Strony",
+    "contactBtn": "Kontakt",
+    "sticky": {
+      "audit": "Bezpłatny audyt e-maili",
+      "ariaPhone": "Skontaktuj się z nami"
+    }
+  },
+  "footerLinks": {
+    "preface": "Może Cię również zainteresować:",
+    "reputation": "zarządzanie opiniami i reputacją",
+    "social": "storytelling w mediach społecznościowych",
+    "cro": "strony docelowe, które konwertują"
+  },
+  "inboxCard": {
+    "conversionNote": "Uwzględniamy kroki po wizycie, FAQ dotyczące ubezpieczeń i rezerwację jednym kliknięciem — zaprojektowane tak, by konwertować bez naruszania HIPAA.",
+    "aria": {
+      "expand": "Karty podglądu e-mail — najedź lub dotknij, by rozwinąć"
+    }
+  }
+}

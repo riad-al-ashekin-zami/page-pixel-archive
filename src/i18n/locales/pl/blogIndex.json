@@ -1,0 +1,118 @@
+{
+  "meta": {
+    "title": "Blog — Marketing dla dermatologii i strategie wzrostu gabinetu",
+    "description": "Praktyczne poradniki na temat SEO w dermatologii, projektowania stron internetowych, pozyskiwania pacjentów, HIPAA, opinii i płatnych reklam — stworzone dla ambitnych właścicieli praktyk.",
+    "keywords": "blog dermatologiczny, SEO dla dermatologii, marketing medyczny, rozwój gabinetu, strony internetowe HIPAA",
+    "og": {
+      "title": "Blog o marketingu w dermatologii — strategie budujące sukces",
+      "description": "Dogłębne analizy i szybkie taktyki dla gabinetów dermatologicznych. SEO, design, reklamy, reputacja i doświadczenie pacjenta."
+    },
+    "twitter": {
+      "title": "Dermatology Marketing Blog",
+      "description": "Strategie SEO, designu, reklam i doświadczeń pacjenta dla gabinetów dermatologicznych."
+    },
+    "jsonLd": {
+      "breadcrumb": {
+        "home": "Strona główna",
+        "blog": "Blog"
+      },
+      "blog": {
+        "name": "Dermatology Marketing Blog",
+        "description": "Wiedza i strategie z zakresu SEO, tworzenia stron, reklam, reputacji oraz pozyskiwania pacjentów w dermatologii."
+      }
+    }
+  },
+  "hero": {
+    "badge": "DermGrowth Journal",
+    "title": "Strategie dla nowoczesnej praktyki dermatologicznej.",
+    "description": "Sprawdzone w boju taktyki dotyczące SEO, stron WWW, reklam, wizerunku i obsługi pacjenta — opracowane przez zespół, który wspierał premiery setek gabinetów.",
+    "search": {
+      "label": "Przeszukaj artykuły",
+      "placeholder": "Szukaj SEO, reklam, HIPAA, redesignu…",
+      "postCount": "{{count}} wpisów"
+    },
+    "aside": {
+      "ariaLabel": "W tym miesiącu w DermGrowth",
+      "issue": "Wydanie 24 · Lato '26",
+      "status": "Co aktualnie napędza wzrost w branży dermatologicznej.",
+      "stats": [
+        {
+          "value": "9",
+          "label": "nowych wpisów"
+        },
+        {
+          "value": "68 tys.",
+          "label": "czytelników miesięcznie"
+        },
+        {
+          "value": "4.9",
+          "label": "ocena czytelników"
+        }
+      ],
+      "socialProof": "Zaufało nam ponad 50 właścicieli i marketerów z branży"
+    }
+  },
+  "sections": {
+    "featured": {
+      "badge": "Polecany artykuł",
+      "heading": "Lektura obowiązkowa na ten tydzień",
+      "viewAll": "Zobacz wszystkie artykuły",
+      "ariaRead": "Czytaj: {{title}}",
+      "statValue": "90",
+      "statLabel": "Dni do pierwszej strony",
+      "readTime": "{{count}} min czytania",
+      "button": "Przeczytaj artykuł"
+    },
+    "latest": {
+      "badge": "Najnowsze artykuły",
+      "heading": "Filtruj według wyzwań",
+      "description": "Każdy wpis tworzymy z myślą o właścicielach i managerach marketingu, którzy szukają konkretnych kroków, a nie lania wody.",
+      "filterLabel": "Filtruj artykuły według kategorii",
+      "empty": {
+        "heading": "Brak artykułów spełniających te kryteria.",
+        "description": "Spróbuj wybrać inną kategorię lub wyczyść wyszukiwanie.",
+        "button": "Resetuj filtry"
+      },
+      "card": {
+        "ariaRead": "Czytaj: {{title}}",
+        "readTime": "{{count}} min",
+        "readAction": "Czytaj"
+      }
+    }
+  },
+  "newsletter": {
+    "badge": "The Weekly Chart",
+    "heading": "Jedna strategia wzrostu. W każdy wtorek.",
+    "description": "Dołącz do grona ponad 760 właścicieli gabinetów i marketerów. Konkretna wiedza, zero spamu, rezygnacja jednym kliknięciem.",
+    "ariaLabel": "Zapisz się do newslettera",
+    "placeholder": "twoj-email@gabinet.pl",
+    "submit": "Zapisz się",
+    "submitting": "Zapisywanie…",
+    "success": "Gotowe! Kolejny numer dotrze do Ciebie we wtorek o 7:00.",
+    "fineprint": "Czytamy każdą odpowiedź. Nigdy nie udostępniamy Twojego adresu.",
+    "features": [
+      {
+        "label": "Dłuższe analizy",
+        "value": "Głębokie analizy dwa razy w miesiącu"
+      },
+      {
+        "label": "Case studies",
+        "value": "Realne liczby, prawdziwe gabinety"
+      },
+      {
+        "label": "Taktyki",
+        "value": "Gotowe do wdrożenia schematy"
+      },
+      {
+        "label": "Ocena 4.9",
+        "value": "Od ponad 50 subskrybentów"
+      }
+    ]
+  },
+  "footer": {
+    "keepReading": "Czytaj dalej:",
+    "caseStudies": "szczegółowe studia przypadków",
+    "audit": "bezpłatny spersonalizowany audyt strony",
+    "faq": "często zadawane pytania"
+  }
+}

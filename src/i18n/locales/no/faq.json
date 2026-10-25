@@ -1,0 +1,275 @@
+{
+  "meta": {
+    "title": "FAQ — Nettsidedesign for dermatologi, SEO og HIPAA-svar",
+    "description": "Her finner du svar på spørsmål om prising av nettsider for hudleger, tidslinjer, SEO, HIPAA, redesign, migrering og løpende støtte for klinikker i vekst.",
+    "keywords": "FAQ nettsider dermatologi, FAQ SEO dermatologi, HIPAA nettside spørsmål, pris nettside hudlege, tidslinje nettside dermatologi",
+    "breadcrumbList": {
+      "home": "Hjem",
+      "faq": "FAQ"
+    }
+  },
+  "hero": {
+    "badge": "{{totalCount}} svar · Spesialisert på dermatologi",
+    "heading": "Alle svarene en hudlegepraksis faktisk trenger.",
+    "subheading": "Prising, tidslinjer, SEO, HIPAA, redesign, migreringer og integrasjoner. Direkte og spesifikke svar, skrevet av teamet som faktisk gjør jobben.",
+    "search": {
+      "label": "Søk i FAQ",
+      "placeholder": "Søk etter pris, HIPAA, redesign, SEO…",
+      "hint": "Trykk / eller ⌘K for å søke",
+      "results": "{{count}} treff på \"{{query}}\"",
+      "results_plural": "{{count}} treff på \"{{query}}\""
+    },
+    "stats": [
+      {
+        "label": "Leveringstid analyse",
+        "value": "24t"
+      },
+      {
+        "label": "Hudlegeklinikker",
+        "value": "50+"
+      },
+      {
+        "label": "Lighthouse-mål",
+        "value": "95+"
+      }
+    ]
+  },
+  "navigation": {
+    "skipToContent": "Gå til innhold",
+    "browseByTopic": "Bla etter tema",
+    "onThisPage": "På denne siden",
+    "all": "Alle",
+    "clearFilters": "Nullstill filtre",
+    "askUs": "Spør oss"
+  },
+  "popular": {
+    "badge": "Mest spurt",
+    "heading": "Populære spørsmål"
+  },
+  "searchNoResults": {
+    "heading": "Vi fant ingen svar som matcher søket ditt.",
+    "subheading": "Prøv et av disse emnene – eller send oss spørsmålet ditt, så svarer vi innen 24 timer.",
+    "suggested": [
+      "prising",
+      "HIPAA",
+      "tidslinje",
+      "SEO",
+      "redesign",
+      "EHR"
+    ]
+  },
+  "feedback": {
+    "question": "Var dette nyttig?",
+    "success": "Takk for tilbakemeldingen!",
+    "clarify": "Takk – vi skal utdype dette snart.",
+    "ariaHelpful": "Marker som nyttig",
+    "ariaNotHelpful": "Marker som ikke nyttig"
+  },
+  "categories": {
+    "general": {
+      "title": "Generelt og komme i gang",
+      "short": "Generelt",
+      "intro": "Hvem vi jobber med, hvordan prosjekter starter og hva du kan forvente.",
+      "items": [
+        {
+          "q": "Hvem bygger dere nettsider for?",
+          "a": "Vi jobber utelukkende med dermatologiske praksiser – privatpraktiserende hudleger, gruppeklinikker, kosmetiske/medisinske/pediatriske underspesialiteter og klinikker med flere lokasjoner. Ved å fokusere på én nisje, er alle maler, integrasjoner og strategier allerede optimalisert for hvordan pasienter søker og bestiller time."
+        },
+        {
+          "q": "Hvordan starter et prosjekt?",
+          "a": "Det starter med et strategimøte, etterfulgt av en gratis revisjon av din nåværende nettside – inkludert SEO, hastighet, HIPAA, brukeropplevelse (UX) og konvertering. Deretter gir vi et fastpristilbud med tydelige leveranser og tidsplaner. Ingen uforutsigbar timefakturering.",
+          "cta": "See our process"
+        },
+        {
+          "q": "Erstatter dere vårt nåværende byrå?",
+          "a": "Noen ganger. Mange kunder beholder oss som sin spesialiserte partner for dermatologi, mens de bruker et generelt byrå til print eller PR. Vi samarbeider gjerne – vi tar bare totalansvaret for veikartet for nettsiden, SEO og betalt annonsering."
+        },
+        {
+          "q": "Eier vi nettsiden selv?",
+          "a": "Ja. Du eier domenet, kildekoden, innholdet og alle kontoer vi oppretter på dine vegne. Ingenting holdes som gissel. Hvis du noen gang velger å slutte, overleverer vi alt på en ryddig måte."
+        }
+      ]
+    },
+    "pricing": {
+      "title": "Pris og tidslinjer",
+      "short": "Prising",
+      "intro": "Hva prosjekter koster, hvor lang tid de tar og hvordan fakturering fungerer.",
+      "items": [
+        {
+          "q": "Hva koster en nettside for en hudlegeklinikk?",
+          "a": "De fleste spesialtilpassede sider havner mellom $6,500 og $18,500, avhengig av antall sider, integrasjoner (EHR, pasientportal, nettbutikk), kompleksiteten på før/etter-gallerier og innholdsproduksjon. Klinikker med mange lokasjoner ligger vanligvis høyere. Alle tilbud har fastpris, ikke timesats.",
+          "cta": "Se planer og priser"
+        },
+        {
+          "q": "Hvor lang tid tar det å bygge siden?",
+          "a": "En fokusert nettside for én lokasjon lanseres vanligvis i løpet av 4–7 uker. Prosjekter med flere lokasjoner, e-handel eller omfattende innholdsmigrering tar 8–12 uker. Tidslinjen forutsetter raske tilbakemeldinger og innhold fra deres team – vi sender en fremdriftsplan slik at ingenting stopper opp."
+        },
+        {
+          "q": "Tilbyr dere betalingsplaner?",
+          "a": "Ja – en vanlig struktur er 40 % ved oppstart, 40 % ved godkjent design og 20 % ved lansering. Større prosjekter kan deles opp i månedlige avbetalinger gjennom byggeperioden. Løpende markedsføring faktureres månedlig."
+        },
+        {
+          "q": "Hva er inkludert i prisen?",
+          "a": "Strategi, design, koding, tekstforfatter-støtte, on-page SEO, schema-oppsett, analyse-oppsett, HIPAA-tilpasset skjemahåndtering, testmiljø, kvalitetssikring, lansering og 30 dagers etterstøtte. Ingen skjulte tilleggskostnader."
+        }
+      ]
+    },
+    "seo": {
+      "title": "SEO og vekst",
+      "short": "SEO",
+      "intro": "Hvordan vi får deg til å rangere – og beholde plassen – i ditt nærområde.",
+      "items": [
+        {
+          "q": "Vil den nye nettsiden skade vår nåværende SEO?",
+          "a": "Planen er det stikk motsatte. Vi reviderer alle rangerte URL-er, setter opp 301-omdirigeringer, bevarer verdien av eksisterende lenker og forbedrer on-page-signalene under migreringen. De fleste klienter ser stabil eller forbedret rangering innen 30–60 dager."
+        },
+        {
+          "q": "Håndterer dere lokal SEO for klinikker med flere lokasjoner?",
+          "a": "Ja. Hver lokasjon får sin egen optimaliserte side, tilpasning til Google Business Profile, unike beskrivelser (ingen standardtekster) og strukturerte data. Vi sporer rangering per lokasjon og tjeneste, ikke bare for forsiden."
+        },
+        {
+          "q": "Hvor lang tid tar det før SEO-resultatene kommer?",
+          "a": "Resultater i lokale kartsøk skjer ofte innen 4–8 uker. Konkurranseutsatte søkeord (som Aesthetic, Mohs eller laserbehandling) tar vanligvis 3–6 måneder med konsistent innhold og lenkebygging. Vi rapporterer månedlig med reelle data på rangering, trafikk og konverteringer."
+        },
+        {
+          "q": "Skriver dere innholdet?",
+          "a": "Ja, men med deres medisinske godkjenning. Våre skribenter spesialiserer seg på helseinnhold innen dermatologi – pasientvennlig, E-E-A-T-orientert og gjennomgått av deres kliniske team før publisering."
+        }
+      ]
+    },
+    "hipaa": {
+      "title": "HIPAA og etterlevelse",
+      "short": "HIPAA",
+      "intro": "Hvordan vi holder pasientinformasjon unna feil verktøy og kanaler.",
+      "items": [
+        {
+          "q": "Er nettsidene deres HIPAA-kompatible?",
+          "a": "Vi bygger HIPAA-sikre sider: skjemaer sendes over TLS til HIPAA-godkjente endepunkter, ingen personopplysninger fanges opp i analyse- eller markedsføringspiksler, BAA-avtaler signeres med leverandører, og vi sikrer at ansattes arbeidsflyt holder pasientdata unna e-post. Etterlevelse er en prosess, ikke bare en avhuking – vi setter opp siden riktig og dokumenterer det for dere.",
+          "cta": "Få en gratis analyse"
+        },
+        {
+          "q": "Signerer dere BAA?",
+          "a": "Ja, for tjenestene der en BAA er relevant (hosting, skjemamottak, lagring). Vi anbefaler kun leverandører som signerer slike avtaler når sensitive personopplysninger er involvert."
+        },
+        {
+          "q": "Kan dere revidere vår nåværende HIPAA-sikkerhet?",
+          "a": "Ja – det er en del av vår gratis nettsideanalyse. Vi identifiserer risikable trackere, usikre skjemaer, lekkasjer av personopplysninger i URL-er og mangler hos leverandører, og gir deg en prioritert liste over tiltak."
+        },
+        {
+          "q": "Hva med universell utforming (ADA / WCAG)?",
+          "a": "Hver nettside leveres i henhold til WCAG 2.2 AA, komplett med en tilgjengelighetserklæring. Universell utforming er bakt inn i designet – fargekontraster, tastaturfokus og skjermleser-støtte – det er ikke bare lagt på som et filter i etterkant."
+        }
+      ]
+    },
+    "design": {
+      "title": "Design og redesign",
+      "short": "Design",
+      "intro": "Vår tilnærming til visuell identitet, brukeropplevelse og relansering.",
+      "items": [
+        {
+          "q": "Er designet spesialtilpasset eller basert på maler?",
+          "a": "100 % spesialtilpasset. Hvert prosjekt starter med deres merkevare, pasientgrupper og tjenester. Vi bruker ikke ferdige maler – hver side er designet for konverteringene som betyr noe for din klinikk."
+        },
+        {
+          "q": "Kan dere matche vår eksisterende profil?",
+          "a": "Ja. Hvis dere har en profilmanual, følger vi den. Hvis ikke, kan vi fornye identiteten deres – logo, farger, typografi – som et tillegg, slik at nettsiden lanseres med et helhetlig uttrykk."
+        },
+        {
+          "q": "Hvordan beskytter en redesign vår nåværende trafikk?",
+          "a": "Vi går gjennom alle sider som rangerer i dag, setter opp omdirigeringer, bevarer schema-data og bygger den nye siden i et sikkert testmiljø. Lanseringen skjer med overvåking slik at eventuelle feil oppdages i løpet av timer, ikke uker."
+        },
+        {
+          "q": "Håndterer dere fotografering?",
+          "a": "Vi koordinerer med lokale fotografer ved behov. For før/etter-gallerier setter vi opp gode rutiner for samtykke og en skalerbar arbeidsflyt som deres ansatte enkelt kan vedlikeholde."
+        }
+      ]
+    },
+    "support": {
+      "title": "Support og vedlikehold",
+      "short": "Support",
+      "intro": "Hva som skjer etter lansering, og hvordan vi holder oss tilgjengelige.",
+      "items": [
+        {
+          "q": "Hva skjer etter lansering?",
+          "a": "Du får 30 dagers inkludert support. Etter dette går de fleste kunder over på en vedlikeholdsplan: oppdateringer, overvåking, sikkerhetskopiering, sikkerhetsoppdateringer, små innholdsendringer og månedlige gjennomganger."
+        },
+        {
+          "q": "Hvor rask er supporten?",
+          "a": "Kunder på vedlikeholdsplan får svar samme arbeidsdag, og kritiske feil (nettside nede, skjemaer som ikke virker) håndteres innen få timer. Du snakker med et ekte menneske, ikke et ansiktsløst billettsystem."
+        },
+        {
+          "q": "Håndterer dere hosting?",
+          "a": "Ja. Vi hoster på HIPAA-godkjent infrastruktur med CDN, automatisk backup og SSL. Hvis du foretrekker å hoste selv, kan vi installere på ditt miljø og dokumentere overleveringen."
+        },
+        {
+          "q": "Kan vi redigere nettsiden selv?",
+          "a": "Ja. Alle sider leveres med et publiseringsverktøy (CMS) som teamet deres kan bruke – sider, blogginnlegg, behandlere, lokasjoner og før/etter-bilder kan redigeres uten koding."
+        }
+      ]
+    },
+    "integrations": {
+      "title": "Integrasjoner og verktøy",
+      "short": "Integrasjoner",
+      "intro": "Hvordan nettsiden kobles sammen med resten av systemene deres.",
+      "items": [
+        {
+          "q": "Integrerer dere med vårt journalsystem (EHR) eller timebestilling?",
+          "a": "Ja – vi har integrert med de fleste store systemer for dermatologi (Nextech, ModMed, Zocdoc, Klara med flere). Hvis det finnes et API eller en innbyggingsløsning, kobler vi det opp sømløst. Hvis ikke, designer vi en løsning rundt det."
+        },
+        {
+          "q": "Kan vi selge produkter på nettet?",
+          "a": "Ja. Vi bygger sikre e-handelsløsninger for hudpleieprodukter med Shopify eller en spesialtilpasset backend, inkludert funksjonalitet for abonnement og lagersynkronisering."
+        },
+        {
+          "q": "Setter dere opp sporingssystemer og analyse?",
+          "a": "Ja. GA4, konverteringssporing for samtaler og skjemaer, samt sporing av inntektskilder per kanal. Alt er tilpasset HIPAA-kravene."
+        },
+        {
+          "q": "Hva med e-postmarkedsføring og CRM?",
+          "a": "Vi integrerer med CRM/ESP-løsningen dere allerede bruker, eller anbefaler en som passer for klinikkdrift. Automatiserte oppfølgingssekvenser for konsultasjoner er et vanlig tillegg."
+        }
+      ]
+    }
+  },
+  "cta": {
+    "badge": "Har du fortsatt spørsmål?",
+    "heading": "Spør oss om alt – få et reelt svar innen 24 timer.",
+    "subheading": "Ingen salgsmanus, ingen hemmeligheter. Send oss spørsmålet som ditt forrige byrå unngikk å svare på, så gir vi deg et konkret svar.",
+    "buttons": {
+      "contact": "Kontakt oss",
+      "audit": "Gratis nettsideanalyse"
+    }
+  },
+  "related": {
+    "badge": "Relatert",
+    "heading": "Utforsk videre",
+    "items": [
+      {
+        "title": "Sjekkliste for nettsider",
+        "desc": "108 kontrollpunkter fordelt på 9 kategorier.",
+        "link": "Utforsk"
+      },
+      {
+        "title": "Planer og priser",
+        "desc": "Gjennomsiktige pakker for alle faser.",
+        "link": "Utforsk"
+      },
+      {
+        "title": "Gratis analyse",
+        "desc": "Personlig rapport levert innen 24 timer.",
+        "link": "Utforsk"
+      },
+      {
+        "title": "Vår prosess",
+        "desc": "Hvordan vi gjennomfører hvert prosjekt.",
+        "link": "Utforsk"
+      }
+    ]
+  },
+  "footerLinks": {
+    "text": "Leter du fortsatt? Disse kan hjelpe: ",
+    "auditLink": "start med en gratis analyse",
+    "caseStudiesLink": "les om tidligere prosjekter",
+    "pricingLink": "se våre priser"
+  }
+}

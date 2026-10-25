@@ -1,0 +1,221 @@
+{
+  "meta": {
+    "title": "Design Siti Web per Dermatologia — Conformità HIPAA e Velocità",
+    "description": "Design premium di siti web per dermatologi solisti, cliniche multi-sede, pediatria e chirurgia di Mohs. Conforme HIPAA, veloce, ottimizzato SEO e orientato alle conversioni.",
+    "ogTitle": "Siti Web per Dermatologia — Su Misura e Orientati alle Conversioni",
+    "ogDescription": "Siti web personalizzati al 100% per studi di dermatologia, cliniche multi-sede e chirurgia pediatrica o di Mohs. Progettati per i pazienti e per Google.",
+    "jsonLd": {
+      "serviceType": "Dermatology Website Design",
+      "provider": "DW Design",
+      "areaServed": "United States",
+      "description": "Progettazione di siti web su misura, conformi a HIPAA e ottimizzati SEO, esclusivamente per studi dermatologici."
+    }
+  },
+  "hero": {
+    "badge": "Design Siti Web per Dermatologia",
+    "title": "Siti web dermatologici su misura che riempiono la tua agenda.",
+    "description": "Design personalizzato al 100%, ingegneria conforme a HIPAA e SEO on-page — sviluppato per dermatologi solisti, cliniche multi-sede e specialisti in chirurgia pediatrica o di Mohs.",
+    "ctaPrimary": "Richiedi un Preventivo",
+    "ctaSecondary": "Audit Gratuito del Sito",
+    "visual": {
+      "imageAlt": "Ambiente moderno di una clinica dermatologica",
+      "secureHeading": "Conformità HIPAA · Lighthouse 98",
+      "secureSubheading": "Moduli sicuri, pagine istantanee",
+      "status": "Online",
+      "statLighthouse": "Lighthouse",
+      "statBookings": "+3.4x prenotazioni",
+      "statAverage": "Media a 90 giorni",
+      "statusContent": "Live"
+    },
+    "outcomes": {
+      "bookingLift": "Aumento prenotazioni",
+      "lighthouse": "Lighthouse",
+      "lcp": "LCP su 4G",
+      "practices": "Studi Medici"
+    },
+    "trust": "Scelto da oltre 50 studi di dermatologia · Presente su"
+  },
+  "sections": {
+    "audience": {
+      "tag": "Target",
+      "title": "Soluzioni per ogni tipologia di studio dermatologico",
+      "description": "Dallo specialista privato ai gruppi chirurgici con più sedi.",
+      "items": [
+        {
+          "label": "Dermatologi Solisti",
+          "desc": "Siti boutique che riflettono il tuo brand clinico e massimizzano gli appuntamenti."
+        },
+        {
+          "label": "Cliniche Multi-sede",
+          "desc": "Architettura scalabile con pagine dedicate per ogni sede, staff, orari e indicazioni."
+        },
+        {
+          "label": "Dermatologia Pediatrica",
+          "desc": "UX accogliente per le famiglie con workflow chiari per l'accettazione dei minori."
+        },
+        {
+          "label": "Chirurgia di Mohs e Dermatologica",
+          "desc": "Design autorevole per medici referenti e pazienti che cercano cure specialistiche."
+        }
+      ]
+    },
+    "pillars": {
+      "tag": "Perché Scegliere l'Eccellenza",
+      "title": "Sei pilastri imprescindibili in ogni progetto",
+      "description": "Design, ingegneria, SEO e compliance — integrati sin dal primo giorno.",
+      "items": [
+        {
+          "title": "Design 100% Su Misura",
+          "desc": "Nessun template predefinito. Ogni sezione, illustrazione e interazione è creata per la tua clinica."
+        },
+        {
+          "title": "Lighthouse 95+",
+          "desc": "Performance estreme: pipeline di immagini ottimizzate, edge caching e JS ultra-leggero."
+        },
+        {
+          "title": "SEO On-Page",
+          "desc": "HTML semantico, schema, link interni e architettura dei contenuti per query locali e mediche."
+        },
+        {
+          "title": "Conformità HIPAA",
+          "desc": "Moduli sicuri, nessuna fuga di dati PHI, stack tecnologico audit-friendly e partner pronti per BAA."
+        },
+        {
+          "title": "Totalmente Responsive",
+          "desc": "Pixel-perfect su desktop, laptop, tablet e smartphone. Testato su dispositivi reali."
+        },
+        {
+          "title": "Accessibilità (WCAG AA)",
+          "desc": "Navigazione da tastiera, contrasto elevato e compatibilità con screen-reader: inclusivo per natura."
+        }
+      ]
+    },
+    "medicalServices": {
+      "tag": "Copertura Servizi Medici",
+      "title": "Pagine servizi progettate per posizionarsi e convertire",
+      "description": "Pagine dedicate e ottimizzate SEO per ogni trattamento offerto, con rigore medico, spiegazioni chiare per i pazienti, dati strutturati e CTA efficaci.",
+      "features": [
+        "Struttura dei contenuti con revisione medica",
+        "Sezioni H1 / H2 / FAQ mappate sulle parole chiave",
+        "Moduli di contatto e prenotazione conformi a HIPAA",
+        "Template veloci, indicizzabili e mobile-first"
+      ],
+      "list": [
+        "Trattamento Acne",
+        "Cura dell'Eczema",
+        "Trattamento Psoriasi",
+        "Infezioni Cutanee",
+        "Allergie della Pelle",
+        "Screening e Cura dei Tumori Cutanei",
+        "Valutazione e Rimozione Nei",
+        "Rimozione Cisti e Lipomi",
+        "Rimozione Verruche",
+        "Patologie delle Unghie",
+        "Trattamento Caduta Capelli",
+        "Disturbi del Cuoio Capelluto",
+        "Cura della Rosacea",
+        "Iperpigmentazione e Melasma",
+        "Trattamento Cicatrici",
+        "Cicatrici da Ustione",
+        "Cura della Vitiligine",
+        "Biopsia Cutanea e Diagnostica"
+      ]
+    },
+    "portfolio": {
+      "tag": "Lavori Recenti",
+      "title": "Siti lanciati con successo",
+      "viewAll": "Vedi il portfolio completo",
+      "items": [
+        {
+          "label": "MS Clinic",
+          "meta": "Studio Solista · +187% prenotazioni",
+          "alt": "Design sito web dermatologia MS Clinic"
+        },
+        {
+          "label": "ND Group",
+          "meta": "Multi-sede · 6 cliniche",
+          "alt": "Design sito web dermatologia ND Group"
+        },
+        {
+          "label": "SM Surgical",
+          "meta": "Chirurgia · +230% referral",
+          "alt": "Design sito web dermatologia SM Surgical"
+        }
+      ]
+    },
+    "process": {
+      "tag": "Il Nostro Metodo",
+      "title": "Un processo fluido guidato da esperti",
+      "description": "Quattro fasi trasparenti: niente sparizioni, nessuna sorpresa.",
+      "steps": [
+        {
+          "step": "01",
+          "title": "Analisi e Posizionamento",
+          "desc": "Audit dello studio, personas dei pazienti, analisi dei competitor e obiettivi di conversione."
+        },
+        {
+          "step": "02",
+          "title": "Design System",
+          "desc": "Tipografia, palette, animazioni e libreria di componenti personalizzati per il tuo brand."
+        },
+        {
+          "step": "03",
+          "title": "Sviluppo e SEO",
+          "desc": "Codice pulito, schema markup e ottimizzazione immagini per scalare le classifiche di ricerca."
+        },
+        {
+          "step": "04",
+          "title": "Lancio e Crescita",
+          "desc": "Analytics, test CRO e piano di assistenza per consolidare i risultati mese dopo mese."
+        }
+      ]
+    }
+  },
+  "testimonial": {
+    "quote": "In soli 90 giorni le prenotazioni di nuovi pazienti sono triplicate. Il sito si carica istantaneamente, si posiziona bene a livello locale e riflette finalmente la qualità delle cure che offriamo.",
+    "author": "Dr.ssa Nora Whitfield, MD",
+    "role": "MS Clinic · Studio Solista",
+    "imageAlt": "Dr.ssa Nora Whitfield, MD"
+  },
+  "faq": {
+    "tag": "FAQ",
+    "title": "Le tue domande, le nostre risposte",
+    "items": [
+      {
+        "q": "Quanto tempo occorre per un sito web dermatologico personalizzato?",
+        "a": "Le tempistiche tipiche variano dalle 6 alle 10 settimane dal kickoff al lancio, in base al numero di pagine e al materiale pronto. Procediamo velocemente grazie a tappe strutturate e revisioni settimanali."
+      },
+      {
+        "q": "Il sito web è conforme a HIPAA?",
+        "a": "Progettiamo con architettura HIPAA-aware: moduli crittografati, hosting sicuro con partner BAA-ready, nessun dato sensibile (PHI) negli analytics e audit trail per ogni invio."
+      },
+      {
+        "q": "La proprietà del design e del codice sarà mia?",
+        "a": "Certamente. Al lancio, la proprietà totale dei file di design, del codice e dei contenuti viene trasferita a te. Nessun vincolo, nessun CMS proprietario."
+      },
+      {
+        "q": "Cosa include la SEO on-page?",
+        "a": "Struttura H1/H2 mappata sulle keyword, schema markup (LocalBusiness, MedicalClinic, FAQ), meta tag ottimizzati, link interni e ottimizzazione delle immagini su ogni pagina."
+      },
+      {
+        "q": "Offrite supporto continuo dopo il lancio?",
+        "a": "Sì. I nostri piani 'Website Care' coprono aggiornamenti, sicurezza, backup, monitoraggio dell'uptime, tuning delle performance e modifiche mensili ai contenuti."
+      }
+    ]
+  },
+  "cta": {
+    "tag": "Audit Gratuito del Sito",
+    "title": "Pronto per un sito che porti più pazienti in studio?",
+    "description": "Raccontaci della tua attività. Ti mostreremo esattamente dove il tuo sito attuale sta perdendo pazienti — e come rimediare.",
+    "buttonPrimary": "Richiedi un Preventivo",
+    "buttonSecondary": "Contattaci"
+  },
+  "footer": {
+    "relatedTitle": "Potrebbe interessarti anche:",
+    "relatedLinks": {
+      "redesign": "modernizzare un sito datato",
+      "costs": "costi medi di un progetto di design",
+      "portfolio": "sfoglia i lanci più recent"
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "meta": {
+    "title": "Refund Policy — Deposits, Milestones & Recurring Plans",
+    "description": "How deposits, milestone payments, and recurring plans are handled if you cancel or aren't satisfied with our services.",
+    "og": {
+      "title": "Refund Policy — Deposits, Milestones & Recurring Plans",
+      "description": "How deposits, milestone payments, and recurring plans are handled if you cancel or aren't satisfied with our services."
+    },
+    "twitter": {
+      "title": "Refund Policy — Deposits, Milestones & Recurring Plans",
+      "description": "How deposits, milestone payments, and recurring plans are handled if you cancel or aren't satisfied with our services."
+    }
+  },
+  "layout": {
+    "skip_to_content": "Skip to content"
+  },
+  "hero": {
+    "badge": "Legal · Refund Policy",
+    "title": "Refund Policy",
+    "description": "Clear rules for deposits, milestone payments, and recurring plans — so there are no surprises if plans change.",
+    "last_updated": "Last updated:",
+    "date": "July 14, 2026"
+  },
+  "sidebar": {
+    "contents_label": "Contents",
+    "nav_aria_label": "Section navigation"
+  },
+  "sections": {
+    "overview": {
+      "title": "1. Overview",
+      "body": "This Refund Policy explains how payments are handled if a project is cancelled, paused, or doesn't meet expectations. It sits alongside our Service Agreement; where the two conflict, the signed proposal or statement of work controls."
+    },
+    "deposits": {
+      "title": "2. Deposits",
+      "body": "Project deposits are non-refundable. Deposits reserve capacity on our schedule and cover discovery, strategy, and initial design work that begins as soon as you sign off."
+    },
+    "milestones": {
+      "title": "3. Milestone Payments",
+      "list_items": [
+        "Milestone payments cover work already completed and approved. Payments for delivered milestones are non-refundable.",
+        "If you cancel mid-project, you're responsible for work completed and expenses incurred through the cancellation date. Any pre-paid amount above that is refunded within 14 business days."
+      ]
+    },
+    "recurring": {
+      "title": "4. Recurring Plans (Care, Hosting, Retainers)",
+      "list_items": [
+        "Recurring plans are billed monthly in advance and are non-refundable for the current month.",
+        "You can cancel at any time with 30 days' written notice. Service continues through the paid period; no further charges occur after cancellation is effective.",
+        "Unused hours in a monthly retainer do not roll over and are not refundable."
+      ]
+    },
+    "third_party": {
+      "title": "5. Third-Party Fees",
+      "body": "Fees paid to third-party providers on your behalf — domains, hosting, stock media, premium plugins, ad spend — are non-refundable once purchased, regardless of project status."
+    },
+    "chargebacks": {
+      "title": "6. Chargebacks",
+      "body": "Please contact us before initiating a chargeback. We'll work to resolve any concern quickly. Chargebacks filed without prior notice may result in immediate suspension of services and are treated as a material breach of our agreement."
+    },
+    "request": {
+      "title": "7. How to Request a Refund",
+      "body": "Send a written request through our contact page with your project name, invoice number, and reason. Eligible refunds are processed to the original payment method within 14 business days of approval."
+    },
+    "changes": {
+      "title": "8. Changes to This Policy",
+      "body": "We may update this Refund Policy from time to time. The \"Last updated\" date above reflects the current version."
+    }
+  },
+  "cta": {
+    "title": "Need to talk about a refund?",
+    "description": "Reach out first — we'll work with you to make it right.",
+    "button": "Contact us"
+  }
+}

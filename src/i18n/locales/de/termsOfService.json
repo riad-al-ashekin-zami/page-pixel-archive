@@ -1,0 +1,89 @@
+{
+  "meta": {
+    "title": "Nutzungsbedingungen — Website-Nutzung & Zusammenarbeit",
+    "description": "Die Bedingungen für die Nutzung unserer Website, die Kommunikation und alle Dienstleistungen, die Sie bei unserem Studio beauftragen.",
+    "og_title": "Nutzungsbedingungen — Website-Nutzung & Zusammenarbeit",
+    "og_description": "Die Bedingungen für die Nutzung unserer Website, die Kommunikation und alle Dienstleistungen, die Sie bei unserem Studio beauftragen.",
+    "twitter_title": "Nutzungsbedingungen — Website-Nutzung & Zusammenarbeit",
+    "twitter_description": "Die Bedingungen für die Nutzung unserer Website, die Kommunikation und alle Dienstleistungen, die Sie bei unserem Studio beauftragen."
+  },
+  "a11y": {
+    "skip_to_content": "Direkt zum Inhalt springen",
+    "section_navigation": "Bereichsnavigation"
+  },
+  "hero": {
+    "badge": "Rechtliches · Nutzungsbedingungen",
+    "title": "Nutzungsbedingungen",
+    "description": "Die Spielregeln für die Nutzung unserer Website, die Kontaktaufnahme und die Zusammenarbeit mit unserem Studio. Bitte lesen Sie diese in Verbindung mit unserem <0>Service Agreement</0> und unserer <1>Datenschutzerklärung</1>.",
+    "last_updated": "Zuletzt aktualisiert: <0>14. Juli 2026</0>"
+  },
+  "sections": {
+    "contents_label": "Inhalt",
+    "acceptance": {
+      "title": "1. Akzeptanz der Bedingungen",
+      "body": "Durch den Zugriff auf diese Website („Website“), das Absenden einer Anfrage oder die Inanspruchnahme unserer Leistungen erklären Sie sich mit diesen Nutzungsbedingungen („Bedingungen“) einverstanden. Wenn Sie nicht einverstanden sind, stellen Sie die Nutzung der Website bitte ein."
+    },
+    "eligibility": {
+      "title": "2. Teilnahmeberechtigung",
+      "body": "Sie müssen mindestens 18 Jahre alt und voll geschäftsfähig sein, um diese Website zu nutzen oder unsere Dienste zu beauftragen. Wenn Sie im Namen einer Organisation handeln, versichern Sie, dass Sie die entsprechende Vertretungsmacht besitzen."
+    },
+    "services": {
+      "title": "3. Unsere Leistungen",
+      "body": "Diese Website dient primär Marketingzwecken. Jede tatsächliche Projektbeauftragung – Design, Entwicklung, SEO oder laufende Betreuung – unterliegt einem separaten Angebot oder Leistungsverzeichnis sowie unserem <0>Service Agreement</0>. Bei Widersprüchen zwischen jenen Dokumenten und diesen Bedingungen hat das Service Agreement Vorrang."
+    },
+    "acceptable_use": {
+      "title": "4. Zulässige Nutzung",
+      "list": [
+        "Missbrauchen oder stören Sie die Website oder deren Infrastruktur nicht und versuchen Sie nicht, Sicherheitsbarrieren zu durchbrechen.",
+        "Das Scraping, Crawling oder die Vervielfältigung von Inhalten über eine angemessene, nicht-kommerzielle Referenzierung hinaus ist untersagt.",
+        "Übermitteln Sie über unsere Formulare keine rechtswidrigen, verletzenden, schädlichen oder irreführenden Inhalte.",
+        "Übermitteln Sie keine geschützten Gesundheitsdaten (PHI) über öffentliche Formulare."
+      ]
+    },
+    "ip": {
+      "title": "5. Geistiges Eigentum",
+      "body": "Alle Inhalte dieser Website – Texte, Grafiken, Logos, Code und Design – sind Eigentum von uns oder unseren Lizenzgebern und urheberrechtlich geschützt. Sie dürfen die Website aufrufen und Links teilen; das Kopieren, Modifizieren oder die erneute Veröffentlichung von Inhalten ohne unsere schriftliche Genehmigung ist untersagt."
+    },
+    "submissions": {
+      "title": "6. Einsendungen",
+      "body": "Wenn Sie uns Feedback, Ideen oder Vorschläge senden, gewähren Sie uns eine nicht-exklusive, weltweite, lizenzfreie Lizenz, diese ohne weitere Verpflichtung zu nutzen. Senden Sie uns nichts, was Sie als vertraulich betrachten, es sei denn, wir haben schriftlich etwas anderes vereinbart."
+    },
+    "third_party": {
+      "title": "7. Links und Dienste Dritter",
+      "body": "Die Website kann auf Websites, Tools oder Dienste Dritter verweisen. Wir kontrollieren diese nicht, machen uns deren Inhalte nicht zu eigen und übernehmen keine Verantwortung für deren Verfügbarkeit oder Praktiken."
+    },
+    "disclaimer": {
+      "title": "8. Haftungsausschluss",
+      "body": "Die Website und ihre Inhalte werden im Ist-Zustand („as-is“) und nach Verfügbarkeit bereitgestellt, ohne jegliche ausdrückliche oder stillschweigende Gewährleistung – einschließlich der Marktgängigkeit oder Eignung für einen bestimmten Zweck. Nichts auf dieser Website stellt eine Rechts-, Medizin- oder Finanzberatung dar."
+    },
+    "liability": {
+      "title": "9. Haftungsbeschränkung",
+      "body": "Soweit gesetzlich zulässig, haften wir nicht für indirekte Schäden, Begleitschäden, Folgeschäden oder entgangenen Gewinn, die aus Ihrer Nutzung der Website resultieren. Unsere Gesamthaftung im Zusammenhang mit der Website ist auf 100 USD begrenzt."
+    },
+    "indemnity": {
+      "title": "10. Freistellung",
+      "body": "Sie erklären sich damit einverstanden, uns gegen Ansprüche, Schäden und Kosten zu verteidigen und schadlos zu halten, die aus Ihrem Missbrauch der Website oder einer Verletzung dieser Bedingungen resultieren."
+    },
+    "termination": {
+      "title": "11. Beendigung",
+      "body": "Wir können den Zugriff auf die Website jederzeit mit oder ohne Vorankündigung sperren oder beenden, wenn wir der Ansicht sind, dass Sie gegen diese Bedingungen verstoßen oder ein Risiko für uns oder andere Nutzer darstellen."
+    },
+    "governing_law": {
+      "title": "12. Anwendbares Recht",
+      "body": "Diese Bedingungen unterliegen dem Recht des Gerichtsstands, der in unserem Service Agreement angegeben ist, oder, falls nicht vorhanden, dem Recht des Ortes, an dem unser Studio registriert ist – ohne Berücksichtigung von Kollisionsnormen."
+    },
+    "changes": {
+      "title": "13. Änderungen dieser Bedingungen",
+      "body": "Wir können diese Bedingungen von Zeit zu Zeit aktualisieren. Das Datum der letzten Aktualisierung oben zeigt die aktuelle Version an. Die weitere Nutzung der Website nach Änderungen gilt als Annahme der aktualisierten Bedingungen."
+    },
+    "contact_section": {
+      "title": "14. Kontakt",
+      "body": "Fragen zu diesen Bedingungen? Kontaktieren Sie uns über unsere <0>Kontaktseite</0>."
+    }
+  },
+  "cta": {
+    "title": "Fragen zu diesen Bedingungen?",
+    "description": "Wir klären gerne alle Details, bevor Sie uns beauftragen.",
+    "button": "Kontaktieren Sie uns"
+  }
+}

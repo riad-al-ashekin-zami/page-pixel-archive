@@ -1,0 +1,272 @@
+{
+  "meta": {
+    "title": "Wachstumsservice für Dermatologie-Praxen | Gebuchte Termine statt Impressionen",
+    "description": "Praxiswachstum für Dermatologie-Kliniken – Patientenakquise, Conversion-Optimierung, Patientenbindung und Umsatzanalysen basierend auf gebuchten Terminen und Service-Line-G&V.",
+    "og": {
+      "title": "Dermatologie-Praxiswachstum – Gebuchte Termine statt Impressionen",
+      "description": "Ganzheitliches Wachstum für Einzelpraxen und MVZs – Akquise, Conversion, Patientenbindung und Umsatz-Reporting."
+    },
+    "twitter": {
+      "title": "Dermatologie-Praxiswachstum & Marketing-Services",
+      "description": "Wachstum durch gebuchte Termine für Dermatologen – messbar in Ihrer Gewinn- und Verlustrechnung."
+    },
+    "jsonLd": {
+      "serviceType": "Dermatologie-Praxiswachstum-Services",
+      "provider": "DermatologyWebsiteDesign.com",
+      "description": "Praxiswachstums-Services für Dermatologen – Patientenakquise, Kundenbindung, Reputation und Umsatzanalysen.",
+      "breadcrumbs": {
+        "home": "Home",
+        "services": "Leistungen",
+        "current": "Praxiswachstum Dermatologie"
+      }
+    }
+  },
+  "hero": {
+    "badge": "Dermatologie-Praxiswachstum",
+    "title": "Gebuchte Termine. Keine bloßen Impressionen.",
+    "description": "End-to-End-Wachstum für Dermatologie-Praxen – Rekrutierung neuer Patienten, Conversion-Optimierung, automatisierte Patientenbindung und Performance-Analysen. Jeder Kanal wird an den Kosten pro gebuchtem Termin und der Rentabilität gemessen.",
+    "cta": {
+      "primary": "Kostenloses Wachstums-Audit anfordern",
+      "secondary": "Growth-Stack entdecken"
+    },
+    "stats": [
+      {
+        "value": "42%",
+        "label": "Neupatienten"
+      },
+      {
+        "value": "3,4×",
+        "label": "Beratungsanfragen"
+      },
+      {
+        "value": "31%",
+        "label": "Niedrigerer CPBV"
+      },
+      {
+        "value": "HIPAA",
+        "label": "Sicherer Prozess"
+      }
+    ]
+  },
+  "sections": {
+    "levers": {
+      "badge": "Der Growth-Stack",
+      "heading": "Acht Wachstumshebel. Eine G&V.",
+      "description": "Wachstum potenziert sich erst, wenn Akquise, Conversion, Kundenbindung und Reputation ineinandergreifen – und jeder Euro einer Leistungsgruppe statt nur einem Kanal zugeordnet wird.",
+      "items": [
+        {
+          "title": "Patientengewinnungs-Engine",
+          "desc": "Multi-Channel-Ansatz über SEO, lokale Suche, Paid Media und Empfehlungen – gebündelt in einer messbaren Pipeline für gebuchte Termine."
+        },
+        {
+          "title": "Conversion-Optimierung (CRO)",
+          "desc": "Landingpage-Tests und Optimierung des Buchungsprozesses, um Anfragen zu steigern, ohne das Werbebudget zu erhöhen."
+        },
+        {
+          "title": "Patientenbindung & Recall",
+          "desc": "Automatisierte Recall-Sequenzen für Hautkrebsvorsorge, kosmetische Follow-ups und Reaktivierung von Bestandspatienten."
+        },
+        {
+          "title": "Reputation & Bewertungen",
+          "desc": "Automatisierte Bewertungsanfragen nach dem Besuch, HIPAA-konforme Antwortentwürfe und Monitoring auf Google, Jameda und Co."
+        },
+        {
+          "title": "Umsatz-Analytik",
+          "desc": "Transparenz über Service-Line-Margen, Auslastung der Behandler und Attribtution der Marketingquellen – direkt verknüpft mit Ihrer Praxissoftware."
+        },
+        {
+          "title": "Aufbau von Zuweisernetzwerken",
+          "desc": "Programme für Hausarzt- und Gynäkologie-Zuweisungen sowie Kooperationspakete, getrackt bis zum tatsächlich gebuchten Fall."
+        },
+        {
+          "title": "Paid Media Management",
+          "desc": "Kampagnen auf Google, Meta und YouTube, die auf die Marge abgestimmt sind – keine Eitelkeitsmetriken, kein unnötiges Retargeting."
+        },
+        {
+          "title": "HIPAA-konforme Automatisierung",
+          "desc": "Sämtliche Touchpoints – SMS, E-Mail, Chat – auf BAA-konformer Infrastruktur, bei der Patientendaten (PHI) standardmäßig geschützt sind."
+        }
+      ]
+    },
+    "outcomes": {
+      "srTitle": "Gemessene Ergebnisse",
+      "items": [
+        {
+          "k": "42%",
+          "v": "Mehr Neupatienten-Buchungen in 6 Monaten"
+        },
+        {
+          "k": "78%",
+          "v": "Steigerung der 5-Sterne-Bewertungen"
+        },
+        {
+          "k": "3,4×",
+          "v": "Mehr Beratungsanfragen im Quartalsvergleich"
+        },
+        {
+          "k": "31%",
+          "v": "Senkung der Kosten pro gebuchtem Termin"
+        }
+      ],
+      "quote": "Wir haben aufgehört, Marketingberichte zu lesen, und angefangen, unsere G&V zu analysieren. Nach sechs Monaten stiegen die Buchungen um 42 %, während die Kosten pro Buchung um 31 % sanken – und ich sehe genau, welche Leistung welchen Euro einbringt.",
+      "attribution": "Dr. Alicia Renner · Dermatologie-Verbund mit 4 Standorten"
+    },
+    "audiences": {
+      "badge": "Für wen wir arbeiten",
+      "heading": "Entwickelt für jedes dermatologische Geschäftsmodell.",
+      "description": "Ob Einzelpraxis, MVZ, Kinderdermatologie oder Mohs-Chirurgie – jedes Wachstumsmodell ist exakt auf Ihre Kapazitäten und Margen zugeschnitten.",
+      "items": [
+        {
+          "title": "Einzelpraxen",
+          "desc": "Ein Behandler, knappe Margen, hoher Wert pro Patient – Wachstum ohne eine eigene Marketingabteilung aufzubauen."
+        },
+        {
+          "title": "MVZ & Kliniken",
+          "desc": "Standortspezifisches Reporting, individuelle Marketingbudgets pro Klinik und eine zentrale Markenführung."
+        },
+        {
+          "title": "Kinderdermatologie",
+          "desc": "Gezielte Ansprache von Eltern, Fokus auf Vertrauenssignale und Berücksichtigung saisonaler Zyklen (Schuljahr)."
+        },
+        {
+          "title": "Mohs- & Operative Dermatologie",
+          "desc": "Zuweiser-fokussierte Pipelines, Versicherungsprüfung im Vorfeld und postoperatives Reputationsmanagement."
+        }
+      ]
+    },
+    "services": {
+      "badge": "Medizinische Leistungen, die wir skalieren",
+      "heading": "Jede Leistung. Jedes Bedürfnis. Jeder Termin.",
+      "description": "Jede medizinische Leistung wird als eigener Trichter modelliert – mit individuellen Akquisekosten, Conversion-Raten und Lifetime-Value.",
+      "list": [
+        "Akne-Behandlung",
+        "Ekzem-Therapie",
+        "Psoriasis-Behandlung",
+        "Hautinfektionen",
+        "Allergologie",
+        "Hautkrebsvorsorge & -therapie",
+        "Muttermal-Untersuchung & Entfernung",
+        "Zysten- & Lipomentfernung",
+        "Warzenbehandlung",
+        "Nagelerkrankungen",
+        "Haarausfall-Diagnostik & Therapie",
+        "Kopfhauterkrankungen",
+        "Rosazea-Behandlung",
+        "Hyperpigmentierung & Melasma",
+        "Narbenbehandlung (Verletzung, OP, Krankheit)",
+        "Verbrennungsnarben",
+        "Vitiligo-Therapie",
+        "Hautbiopsien & Diagnostik"
+      ]
+    },
+    "workflow": {
+      "badge": "Ablauf",
+      "heading": "Ein 90-Tage-Launch. Danach exponentielles Wachstum.",
+      "description": "Transparente Meilensteine, die an Termine und Profitabilität gekoppelt sind – kein Blackbox-Reporting.",
+      "steps": [
+        {
+          "step": "01",
+          "phase": "Phase 01",
+          "title": "Diagnose & Nullmessung",
+          "desc": "Vollständiges Audit von Akquise und Bindung, G&V-Check der Leistungen und ein 12-monatiges Wachstumsmodell basierend auf Kapazitäten."
+        },
+        {
+          "step": "02",
+          "phase": "Phase 02",
+          "title": "Funnel & Marken-Fundament",
+          "desc": "Optimierung der Website-Conversion, Verfeinerung des Buchungsprozesses und technisches Setup für Tracking und Attribuierung."
+        },
+        {
+          "step": "03",
+          "phase": "Phase 03",
+          "title": "Aktivierung der Kanäle",
+          "desc": "Parallelstart von SEO, Local SEO, Paid-Kampagnen und Empfehlungsprogrammen – alle mit festem Ziel-CPA pro Termin."
+        },
+        {
+          "step": "04",
+          "phase": "Phase 04",
+          "title": "Retention, Reporting & Skalierung",
+          "desc": "Recall-Sequenzen, Reputationsmanagement, monatliche Executive-Reports und quartalsweise Expansion der Leistungsklassen."
+        }
+      ]
+    },
+    "whyUs": {
+      "badge": "Warum Praxen uns wählen",
+      "heading": "Ihr Partner für Praxiswachstum – keine klassische Agentur.",
+      "items": [
+        {
+          "title": "G&V statt bunter Dashboards",
+          "desc": "Jedes Ergebnis wird an Terminen und Umsatz gemessen – monatlich übersichtlich auf einer Seite zusammengefasst."
+        },
+        {
+          "title": "Standardmäßig HIPAA-konform",
+          "desc": "BAA-abgedeckte Infrastruktur und datenschutzkonforme Automatisierung sind bei uns Grundvoraussetzung."
+        },
+        {
+          "title": "Kapazitätsorientiert",
+          "desc": "Das Wachstum wird auf Ihren Kalender abgestimmt – wir generieren nicht mehr Nachfrage, als Ihre Behandler bewältigen können."
+        },
+        {
+          "title": "Präzise Termin-Attribution",
+          "desc": "Call-Tracking und Formular-Attribution sind direkt mit Ihrer Software verzahnt. Keine Buchung bleibt ungeklärt."
+        },
+        {
+          "title": "Medizinische Fachredaktion",
+          "desc": "Texte von Redakteuren mit klinischem Hintergrund, geprüft von Dermatologen – kein KI-Einheitsbrei, sondern Fachexpertise."
+        },
+        {
+          "title": "Effizienz durch Eliminierung",
+          "desc": "Wir deckeln die Kosten pro Termin. Wird das Ziel zwei Monate verfehlt, schichten wir das Budget um – ohne Ausreden."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "Häufige Fragen von Praxisinhabern.",
+    "items": [
+      {
+        "q": "Wie unterscheidet sich das von einer Marketingagentur?",
+        "a": "Agenturen verkaufen Impressionen, Klicks oder Rankings. Wir verkaufen gebuchte Patiententermine und Umsatz pro Leistungslinie. Wenn ein Kanal das Kostenziel pro Buchung nicht erreicht, wird er gestoppt, nicht schöngeredet."
+      },
+      {
+        "q": "Wie sehen die ersten 90 Tage aus?",
+        "a": "Tag 1–30: Diagnose, Nullmessung und Funnel-Optimierung. Tag 31–60: Booking-Flow-Tuning, SEO-Launch und Start des Bewertungssystems. Tag 61–90: Paid-Media-Start mit CPA-Zielen, Zuweiser-Management und erster Executive-Report."
+      },
+      {
+        "q": "Arbeiten Sie auch mit MVZs zusammen?",
+        "a": "Ja, das ist eine unserer Kernkompetenzen. Wir bieten standortbezogene G&V-Analysen, individuelle Klinik-Budgets und zentralisierte Markenführung."
+      },
+      {
+        "q": "Ist alles HIPAA-konform?",
+        "a": "Ja. Jede Automatisierung und Integration läuft über BAA-gesicherte Infrastrukturen. Wir prüfen bestehende Widgets und Formulare auf Sicherheitslücken, bevor wir starten."
+      },
+      {
+        "q": "Integrieren Sie sich in unsere Praxissoftware (PMS)?",
+        "a": "Wir integrieren uns in gängige Systeme für Attribution und Reporting. Wo keine direkte Schnittstelle möglich ist, nutzen wir Conversion-Tracking auf der Buchungsebene."
+      },
+      {
+        "q": "Was passiert bei schlechter Performance eines Kanals?",
+        "a": "Wir schalten ihn ab. Jeder Kanal hat eine Kostengrenze pro Buchung. Wird diese zweimal in Folge ohne triftigen Grund überschritten, rotieren wir das Budget in profitablere Kanäle."
+      }
+    ]
+  },
+  "cta": {
+    "badge": "Kostenloses Wachstums-Audit",
+    "title": "Finden Sie heraus, wo Sie Patienten verlieren – in nur 48 Stunden.",
+    "description": "Akquise-Audit, Conversion-Analyse und ein prioritärer 90-Tage-Plan – exakt auf Ihre Praxiszahlen zugeschnitten. Kostenlos, kein Verkaufsgespräch.",
+    "primary": "Kostenloses Audit sichern",
+    "secondary": "Angebot anfordern"
+  },
+  "stickyCta": {
+    "label": "Growth Audit — 48 Std.",
+    "button": "Sichern"
+  },
+  "related": {
+    "prefix": "Leseempfehlungen: ",
+    "links": {
+      "marketing": "Leitfaden für Praxisinhaber: Marketing für Dermatologen",
+      "googleAds": "Patientenakquise mit Google Ads",
+      "reputation": "Bewertungssysteme und Online-Reputation"
+    }
+  }
+}

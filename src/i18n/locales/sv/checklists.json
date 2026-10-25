@@ -1,0 +1,287 @@
+{
+  "meta": {
+    "title": "Checklistor för dermatologiska webbplatser — Lansering, SEO, HIPAA & Konvertering",
+    "description": "Kostnadsfria expertchecklistor för dermatologer: QA inför lansering, on-page SEO, HIPAA-efterlevnad, tillgänglighet, Core Web Vitals och konvertering. Utskrivbara och spårbara steg för medicinsk praxis.",
+    "keywords": "checklista dermatologi webbplats, SEO för hudläkare, HIPAA checklista webbplats, lanseringschecklista hudklinik, tillgänglighet medicinsk webbplats"
+  },
+  "schema": {
+    "breadcrumb": {
+      "home": "Hem",
+      "pageName": "Checklistor för dermatologiska webbplatser"
+    }
+  },
+  "accessibility": {
+    "skipToContent": "Hoppa till innehåll"
+  },
+  "hero": {
+    "badge": "Gratis · Specifik för dermatologi · Utskrivbar",
+    "title": "Checklistorna som gör din webblansering odramatisk.",
+    "description": "9 fokuserade checklistor. 108 expertkontroller. Allt en modern dermatologisk klinik behöver för att lansera, ranka högt, skydda patientdata och konvertera besökare — samlat på ett ställe.",
+    "actions": {
+      "primary": "Starta checklistan",
+      "secondary": "Boka en färdiggranskad audit"
+    },
+    "stats": [
+      {
+        "label": "Expertkontroller",
+        "value": "108"
+      },
+      {
+        "label": "Fokuserade kategorier",
+        "value": "9"
+      },
+      {
+        "label": "Lighthouse-mål",
+        "value": "95+"
+      }
+    ]
+  },
+  "progress": {
+    "title": "Din framgång",
+    "status": "{{doneCount}} av {{totalItems}} klara",
+    "howItWorks": [
+      {
+        "title": "Skanna",
+        "desc": "Överblicka de kategorier som är mest relevanta för din nästa release."
+      },
+      {
+        "title": "Bocka av",
+        "desc": "Följ dina framsteg direkt på sidan — sparas automatiskt i din webbläsare."
+      },
+      {
+        "title": "Skriv ut eller dela",
+        "desc": "Redo att lämnas över till utvecklare, marknadsförare eller regelefterlevnadsansvarig."
+      }
+    ],
+    "actions": {
+      "print": "Skriv ut / PDF",
+      "reset": "Nollställ",
+      "jump": "Hoppa till checklistan"
+    }
+  },
+  "filter": {
+    "label": "Filtrera",
+    "all": "Alla"
+  },
+  "feedback": {
+    "ready": "Du är redo för lansering.",
+    "completeDesc": "Varje kontrollpunkt är avklarad. Få en kostnadsfri offert för att behålla momentum.",
+    "quoteCta": "Få en gratis offert"
+  },
+  "sections": {
+    "prelaunch": {
+      "title": "Kvalitetssäkring inför lansering",
+      "short": "Lansering",
+      "tagline": "Inga överraskningar på lanseringsdagen.",
+      "items": [
+        "Alla sidtitlar är unika, ≤ 60 tecken och inkluderar ett primärt sökord",
+        "Meta-beskrivningar är unika, ≤ 160 tecken och fördelsdrivna",
+        "Favicon, Apple touch-ikon och bild för social delning (1200×630) är uppladdade",
+        "301-omdirigeringar är mappade från alla gamla URL:er till deras nya motsvarigheter",
+        "XML-webbplatskarta har genererats och skickats till Google Search Console",
+        "robots.txt tillåter indexering och hänvisar till webbplatskartan",
+        "SSL-certifikat är installerat och HTTPS framtvingas på hela sajten",
+        "Formulär är testade hela vägen: inskick, bekräftelse och leverans till CRM/EHR",
+        "Analytics (GA4) + konverteringshändelser för samtal, formulär och bokningar fungerar",
+        "Juridiska sidor är publicerade: Integritetspolicy, HIPAA-information, ADA-meddelande, Villkor",
+        "Skanning av trasiga länkar har utförts — noll 404-fel på interna sidor",
+        "Testmiljön är blockerad från indexering (noindex + grundläggande autentisering)"
+      ]
+    },
+    "seo": {
+      "title": "On-Page SEO",
+      "short": "SEO",
+      "tagline": "Ranka högt på sökningarna som ger patientbokningar.",
+      "items": [
+        "En H1 per sida — matchar användarens sökintention, inte fluffigt varumärkesspråk",
+        "Semantisk struktur med H2/H3 speglar patienternas frågor",
+        "Tjänstesidor riktar sig mot ett primärt + 2–3 stödjande sökord",
+        "Platssidor inkluderar stad, stadsdel och köranvisningar",
+        "Interna länkar från blogginlägg till intäktssidor (tjänster, bokning)",
+        "Beskrivande alt-text för bilder på alla icke-dekorativa bilder",
+        "Schema-markup: MedicalBusiness, Physician, Service, FAQPage, Review",
+        "Författarbiografi + medicinsk granskare på varje klinisk artikel (E-E-A-T)",
+        "Google Business Profile är länkad, kategorier satta och öppettider korrekta",
+        "Lokal NAP (Namn, Adress, Telefon) är identisk på hela webbplatsen och i citeringar",
+        "Canonical-taggar på varje sida — undvik läckage av duplicerat innehåll",
+        "Open Graph + Twitter Card-taggar renderas korrekt i felsökningsverktyg"
+      ]
+    },
+    "hipaa": {
+      "title": "HIPAA-efterlevnad",
+      "short": "HIPAA",
+      "tagline": "Skydda patientdata (PHI) i varje formulär, pixel och sida.",
+      "items": [
+        "BAA tecknat med leverantörer av hosting, formulär, e-post och analys",
+        "Ingen patientdata (PHI) fångas upp av GA4, Meta Pixel eller externa heatmaps",
+        "Kontaktformulär skickas via TLS till en HIPAA-godkänd slutpunkt",
+        "Inloggning till patientportal är separerad från sessionen på marknadsföringssajten",
+        "Sessions-timeout + skydd mot brute-force på alla inloggade områden",
+        "Åtkomstloggar sparas enligt gällande policy för datalagring",
+        "Personal utbildad i säkert arbetsflöde för formulärgranskning — ingen PHI i e-post",
+        "Cookie-banner informerar om spårare och respekterar opt-out",
+        "Integritetspolicy refererar till HIPAA + lokala lagar",
+        "Dokumenterad plan för hantering av dataintrång finns tillgänglig",
+        "Chatbottar + AI-assistenter konfigurerade att neka insamling av patientdata",
+        "Kryptering av säkerhetskopior verifierad och återställningstestad kvartalsvis"
+      ]
+    },
+    "a11y": {
+      "title": "Tillgänglighet (WCAG 2.2 AA)",
+      "short": "A11y",
+      "tagline": "Inkluderande som standard — och juridiskt hållbart mot ADA-krav.",
+      "items": [
+        "Färgkontrast ≥ 4.5:1 för brödtext, 3:1 för stor text och UI",
+        "Alla interaktiva element kan nås och hanteras via tangentbord",
+        "Synliga fokusmarkeringar på varje fokuserbart element",
+        "Formulärfält har programmatiskt kopplade etiketter (labels)",
+        "Felmeddelanden läses upp för skärmläsare via aria-live",
+        "Länk för att hoppa till innehåll (skip-to-content) överst på varje sida",
+        "Semantiska landmärken: header, nav, main, footer",
+        "Bilder har meningsfull alt-text; dekorativa använder alt=\"\"",
+        "Videoinnehåll inkluderar undertexter och transkriptioner",
+        "Animationer respekterar användarens inställning för minskad rörelse",
+        "Klickytor är ≥ 44×44 CSS-pixlar på mobil",
+        "ADA-tillgänglighetsmeddelande med en fungerande kanal för feedback"
+      ]
+    },
+    "performance": {
+      "title": "Prestanda & Core Web Vitals",
+      "short": "Prestanda",
+      "tagline": "Snabba sidor rankar bättre och konverterar mer.",
+      "items": [
+        "LCP < 2,5s på mobil 4G (baserat på realtidsdata, inte bara labbtest)",
+        "INP < 200ms för primära knappar och menyer",
+        "CLS < 0,1 — reservera plats för bilder, annonser och inbäddningar",
+        "Hero-bilder levereras som WebP/AVIF och är korrekt dimensionerade",
+        "Typsnitt är egenhostade eller förladdade med font-display: swap",
+        "JavaScript är uppdelat per rutt, tredjepartsskript laddas asynkront (lazy-load)",
+        "Bilder använder width/height-attribut för att förhindra layoutförskjutning",
+        "CDN framför statiska resurser med långvariga cache-headers",
+        "Kritisk CSS är inlined; resurser som blockerar rendering har eliminerats",
+        "Svarstid från server (TTFB) < 600ms globalt",
+        "Inga fjärdepartsskript laddas via tag-managers",
+        "Lighthouse mobil-score ≥ 90 i alla fyra kategorier"
+      ]
+    },
+    "mobile": {
+      "title": "Mobil & UX",
+      "short": "Mobil",
+      "tagline": "Över 80 % av patienterna surfar in via telefonen.",
+      "items": [
+        "Sticky ring-knapp är synlig på varje mobilskärm",
+        "Menyn öppnas med ett tryck — inga dolda hover-effekter",
+        "Bokningsknapp nås inom en tumrullning från toppen",
+        "Formulär använder korrekta input-typer (tel, email, date)",
+        "Adressblocket öppnar vägbeskrivning i Google Maps vid tryck",
+        "Telefonnumret är en tel:-länk, inte bara vanlig text",
+        "Före/efter-gallerier laddas progressivt, inte allt på en gång",
+        "Modaler kan stängas via svepnedåt eller en tydlig stängknapp",
+        "Ingen horisontell scroll på enheter ≥ 320px bredd",
+        "Fixerade element döljer inte formulärfält när tangentbordet öppnas",
+        "Webbplatsens språk är deklarerat i <html lang>",
+        "Varumärkets färger i mörkt läge (dark mode) är testade för läsbarhet"
+      ]
+    },
+    "conversion": {
+      "title": "Konvertering & Förtroende",
+      "short": "Konvertera",
+      "tagline": "Förvandla besök till bokade konsultationer.",
+      "items": [
+        "Primär CTA (Boka, Ring) synlig direkt vid sidladdning på varje sida",
+        "Sekundär CTA (Se priser, Gratis konsultation) på varje tjänstesida",
+        "Förtroendemarkörer: HIPAA-redo, ADA, SSL, certifieringar",
+        "Riktiga patientrecensioner (aggregerade + enskilda) med schema",
+        "Före/efter-galleri med samtycke, filter och resultatnoteringar",
+        "Läkarbiografier med meriter, porträttfoton och specialiteter",
+        "Försäkrings- och finansieringsalternativ är tydligt listade",
+        "Formulär för nya patienter har under 8 fält; långa formulär delas upp i steg",
+        "Tack-sidan innehåller nästa steg, inte bara \"vi hör av oss\"",
+        "Live-chatt eller WhatsApp för frågor efter stängning",
+        "Exit-intent-erbjudande relevant för tjänstesidan (t.ex. gratis guide)",
+        "Spårning av samtal och formulär kopplat till marknadsföringskanal"
+      ]
+    },
+    "security": {
+      "title": "Säkerhet & Tillförlitlighet",
+      "short": "Säkerhet",
+      "tagline": "Skydda kliniken — och patienten.",
+      "items": [
+        "Automatisk daglig backup lagras externt och testas varje månad",
+        "CMS, plugins och teman uppdateras enligt ett dokumenterat schema",
+        "Web Application Firewall (WAF) + skydd mot brute-force",
+        "Administratörskonton använder MFA och unika lösenord",
+        "Behörigheter enligt minsta privilegium för personal och leverantörer",
+        "Säkerhets-headers: HSTS, X-Content-Type-Options, CSP",
+        "Sårbarhetsskanningar körs minst en gång i kvartalet",
+        "Uptime-övervakning med SMS-larm till en ansvarig person",
+        "Dokumenterad incidenthanteringsplan med kontaktvägar",
+        "Inventering av DNS-poster; oanvända underdomäner borttagna",
+        "SSL-förnyelse är automatiserad och utgångsdatum övervakas",
+        "Leverantörslista (BAA + icke-BAA) granskas årligen"
+      ]
+    },
+    "content": {
+      "title": "Innehåll & Redaktionellt",
+      "short": "Innehåll",
+      "tagline": "Säg rätt sak till rätt patient.",
+      "items": [
+        "Dedikerad sida per tjänst (inte en samlingssida för alla \"Tjänster\")",
+        "Varje tjänstesida svarar på: vad, vem, hur, kostnad, nästa steg",
+        "Platssidor har unikt innehåll — inga duplicerade malltexter",
+        "FAQ-block på varje tjänstesida (5–8 vanliga patientfrågor)",
+        "Medicinska påståenden har källhänvisning eller är granskade av läkare",
+        "Lix-värde anpassat för patienter (lättläst men professionellt)",
+        "Inga arkivbilder på anonyma modeller som utger sig för att vara patienter",
+        "Redaktionell kalender med månatlig SEO + säsongsbetonat innehåll",
+        "Gamla artiklar uppdateras årligen med ny data + interna länkar",
+        "Författarbiografier länkade från varje inlägg med Author-schema",
+        "Konsekvent språkbruk och terminologi över hela webbplatsen",
+        "Juridiska och medicinska friskrivningar på relevanta sidor"
+      ]
+    }
+  },
+  "cta": {
+    "badge": "Vi gör jobbet",
+    "title": "Vill du att vi kör checklistan åt dig?",
+    "description": "Få en personlig granskning av din dermatologiska webbplats — vi går igenom varje punkt ovan på din live-sajt och levererar prioriterade åtgärder inom 24 timmar.",
+    "links": {
+      "audit": "Beställ gratis granskning",
+      "contact": "Kontakta oss"
+    }
+  },
+  "faq": {
+    "badge": "FAQ",
+    "title": "Vanliga frågor",
+    "items": [
+      {
+        "q": "Vem är denna checklista till för?",
+        "a": "Klinikägare inom dermatologi, verksamhetschefer och deras webb- eller marknadsteam. Den är skriven för verkliga medicinska arbetsflöden, inte för generiska företagssajter."
+      },
+      {
+        "q": "Sparas mina framsteg?",
+        "a": "Ja — dina val lagras lokalt i din webbläsare. Rensa webbläsardata eller klicka på Nollställ för att börja om."
+      },
+      {
+        "q": "Kan jag få checklistan som PDF?",
+        "a": "Använd skriv ut-knappen. Layouten är optimerad för utskrift, och genom att välja \"Spara som PDF\" i webbläsaren får du ett snyggt dokument."
+      },
+      {
+        "q": "Hur skiljer sig denna från en vanlig webbchecklista?",
+        "a": "Varje punkt är anpassad för hudkliniker — från HIPAA-säkra formulär och före/efter-gallerier till E-E-A-T för läkare och specifika regler för klinikkedjor med flera adresser."
+      },
+      {
+        "q": "Erbjuder ni en komplett audit?",
+        "a": "Ja. Beställ en kostnadsfri granskning så levererar vi en personlig rapport baserad på alla dessa kontrollpunkter inom 24 timmar."
+      }
+    ]
+  },
+  "footer": {
+    "more": "Om denna checklista hjälpte dig, testa även:",
+    "links": {
+      "audit": "en gratis granskning av din nuvarande sajt",
+      "caseStudies": "läs våra fallstudier inom dermatologi",
+      "blog": "fler insikter från vår blogg"
+    }
+  }
+}

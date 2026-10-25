@@ -1,0 +1,333 @@
+{
+  "meta": {
+    "title": "Tietoa meistä — Dermatologiaan erikoistunut verkkosivutoimisto",
+    "description": "Rakennamme HIPAA-huomioituja verkkosivustoja ja kasvumarkkinointia yksinomaan ihotautilääkäreille. Tutustu tulosten takana olevaan tiimiin.",
+    "ogTitle": "Tietoa meistä — Dermatologian verkkosivusuunnittelu",
+    "ogDescription": "Erikoistunut toimisto, joka palvelee ihotautiklinikoita ensiluokkaisilla verkkosivuilla, SEO-palveluilla ja potilashankinnalla.",
+    "breadcrumbHome": "Etusivu",
+    "breadcrumbAbout": "Tietoa meistä"
+  },
+  "hero": {
+    "kicker": "Dermatologian verkkosivusuunnittelusta",
+    "h1": "Asiantuntijat <1>vain ihotautilääkäreille suunnattujen sivustojen</1> takana.",
+    "p": "Rakennamme kokemusta, asiantuntemusta, auktoriteettia ja luottamusta (E-E-A-T) jokaiseen sivustoon — nämä ovat Googlen ydinsignaaleja terveydenhuollon (YMYL) aloilla. Emme ole yleistoimisto, vaan ihotautialan asiantuntija.",
+    "ctaPrimary": "Työskentele kanssamme",
+    "ctaSecondary": "Katso palvelut",
+    "hipaa": "HIPAA-huomioitu",
+    "ada": "ADA-saavutettava",
+    "rating": "Asiakasarvosana 4.9/5",
+    "imgAlt": "Erikoislääkäri modernilla klinikalla — edustaa klinikoita, joille rakennamme sivustoja",
+    "badgeKicker": "Rakennettu dermatologiaan",
+    "badgeText": "E · E · A · T — Googlen YMYL-signaali"
+  },
+  "socialProof": {
+    "kicker": "Ihotautiklinikoiden luottama · Esillä medioissa"
+  },
+  "stats": {
+    "launched": "Julkaistua ihotautisivustoa",
+    "niche": "Erikoistunut toimiala",
+    "performance": "Keskimääräinen Lighthouse-tulos",
+    "audit": "Maksuttoman auditoinnin kesto"
+  },
+  "missionVision": {
+    "mission": {
+      "tag": "Missiomme",
+      "title": "Autamme ihotautilääkäreitä kasvamaan ilman markkinointihuolia.",
+      "body": "Yhdistämme ensiluokkaisen suunnittelun, eettisen hakukonemoinnin ja rehellisen raportoinnin, jotta klinikan omistajat voivat keskittyä potilaisiin — eivät toimistojen perässä juoksemiseen."
+    },
+    "vision": {
+      "tag": "Visiomme",
+      "title": "Dermatologian luotetuin digitaalinen kumppani.",
+      "body": "Yksi erikoisala. Syvä asiantuntemus. Läpinäkyvä hinnoittelu. Haluamme olla itsestäänselvä valinta jokaiselle ihotautiklinikalle, joka välittää laadusta."
+    }
+  },
+  "values": {
+    "kicker": "Mitä edustamme",
+    "header": "Arvot, jotka ohjaavat jokaista projektia.",
+    "cta": "Katso miten työskentelemme",
+    "compliance": {
+      "title": "Säännösten noudattaminen ensin",
+      "description": "HIPAA-huomioitu arkkitehtuuri, ADA-saavutettavuus ja suojattu ylläpito ovat osa perusrakennetta — eivät päälleliimattuja lisäominaisuuksia."
+    },
+    "focus": {
+      "title": "Vain dermatologia",
+      "description": "Kieltäydymme kaikista muista aloista. Tämän fokuksen ansiosta sivustomme tuottavat kotiutuksia 3x paremmin."
+    },
+    "partnership": {
+      "title": "Todellinen kumppanuus",
+      "description": "Kuukausittaiset ylläpitosuunnitelmat ilman sitovia määräaikaisia sopimuksia. Ansaitsemme luottamuksesi joka kuukausi uudelleen."
+    },
+    "craft": {
+      "title": "Laatu ennen volyymia",
+      "description": "Otamme vain rajallisen määrän asiakkaita kerrallaan, jotta jokainen projekti saa senior-tason huomion alusta loppuun."
+    }
+  },
+  "timeline": {
+    "h2": "Tarinamme <1>tähän asti.</1>",
+    "p": "Lyhyt aikajana matkastamme — selaa vuosia eteenpäin.",
+    "kicker": "Tarinamme tähän asti",
+    "hint": "Vuosi",
+    "2019": {
+      "title": "Liikeidea",
+      "description": "Huomasimme, kuinka yleistoimistot tuottivat pettymyksiä ihotautilääkäreille, ja päätimme rakentaa jotain parempaa — erikoistuen vain yhteen alaan."
+    },
+    "2021": {
+      "title": "Ensimmäiset 10 klinikkaa",
+      "description": "Hioimme konversiostrategiamme huippuunsa ihotautilääkäreiden ja pienten klinikoiden kanssa ympäri Yhdysvaltoja."
+    },
+    "2023": {
+      "title": "Kasvumarkkinointi",
+      "description": "Lanseerasimme SEO-, PPC- ja maineenhallintajärjestelmät, jotta asiakkaamme voisivat kasvattaa tuloksiaan jatkuvasti."
+    },
+    "2026": {
+      "title": "Yli 50 klinikkaa, sama fokus",
+      "description": "Edelleen vain dermatologiaa. Edelleen senior-tason osaajat. Edelleen läpinäkyvä hinnoittelu."
+    }
+  },
+  "team": {
+    "kicker": "Tiimi",
+    "header": "Senior-tason osaajia, erikoisalaan keskittyneenä.",
+    "p": "Jokaisesta projektista vastaavat kokeneet suunnittelijat ja markkinoijat — emme jätä vastuuta aloittelijoille.",
+    "design": {
+      "name": "Design Studio",
+      "role": "Brändi & UI",
+      "bio": "Suunnittelijoita, jotka ovat erikoistuneet puhtaisiin ja luottamusta herättäviin käyttöliittymiin lääketieteellisessä dermatologiassa."
+    },
+    "engineering": {
+      "name": "Tekniikka",
+      "role": "Verkkosivut & Suorituskyky",
+      "bio": "Senior-tason kehittäjiä, jotka toteuttavat nopeita, saavutettavia ja HIPAA-huomioituja sivustoja modernilla teknologialla."
+    },
+    "growth": {
+      "name": "Kasvutiimi",
+      "role": "SEO & Mainonta",
+      "bio": "Asiantuntijoita, jotka ymmärtävät potilaiden hakuprosessit — paikallinen SEO, mainonta ja konversio-optimointi klinikan kasvun tueksi."
+    }
+  },
+  "process": {
+    "kicker": "Prosessimme",
+    "header": "Kuusi vaihetta, <1>ennustettava toimitus.</1>",
+    "p": "Jokainen projekti etenee samojen kurinalaisten vaiheiden läpi — selaa ja tutustu niihin.",
+    "hint": "Vaihe",
+    "step1": {
+      "title": "Kartoitus",
+      "body": "Auditoimme nykyisen sivustosi, analysoimme kilpailijat ja määritämme tarkat tavoitteet klinikkasi kasvulle."
+    },
+    "step2": {
+      "title": "Strategia & Tarjous",
+      "body": "Saat kirjallisen suunnitelman, joka sisältää laajuuden, sivustorakenteen, aikataulun ja läpinäkyvän hinnoittelun."
+    },
+    "step3": {
+      "title": "Suunnittelu",
+      "body": "Senior-suunnittelijat luovat dermatologiaan sopivan visuaalisen ilmeen — luottamusta herättävä, brändin mukainen ja myyvä."
+    },
+    "step4": {
+      "title": "Toteutus",
+      "body": "Modernia, saavutettavaa koodia integroidulla hoidonhallinnalla (CMS), HIPAA-huomioiduilla lomakkeilla ja Core Web Vitals -optimoinnilla."
+    },
+    "step5": {
+      "title": "Laadunvarmistus & Säädökset",
+      "body": "Riippumaton laadunvarmistus tarkistaa jokaisen sivun saavutettavuuden, HIPAA-turvallisuuden, mobiiliyhteensopivuuden ja SEO-eheyden."
+    },
+    "step6": {
+      "title": "Julkaisu & Ylläpito",
+      "body": "Sujuva migraatio uudelleenohjauksilla, jota seuraa jatkuva ylläpito, seuranta ja parannukset — sivustosi ei koskaan vanhene."
+    }
+  },
+  "clients": {
+    "kicker": "Kenelle työskentelemme",
+    "header": "Rakennettu kaikentyyppisille <1>ihotautiklinikoille.</1>",
+    "p": "Yksityislääkäreistä monitoimipaikkaisiin ketjuihin — räätälöimme toteutuksen klinikkasi toimintamallin mukaan.",
+    "solo": {
+      "title": "Yksityiset ihotautilääkärit",
+      "body": "Selkeitä, luottamusta herättäviä sivustoja, jotka vakiinnuttavat uskottavuuden ja tuovat ajanvarauksia ensimmäisestä päivästä alkaen."
+    },
+    "multi": {
+      "title": "Monitoimipaikkaiset klinikat",
+      "body": "Sijaintisivut, yhtenäinen brändäys ja paikallinen SEO, joka skaalautuu kaikkiin toimipisteisiin."
+    },
+    "aesthetic": {
+      "title": "Esteettiset klinikat",
+      "body": "Hoitovalikot, ennen ja jälkeen -galleriat sekä varaustoiminnot esteettiseen dermatologiaan."
+    },
+    "pediatric": {
+      "title": "Lasten dermatologia",
+      "body": "Lämmin, vanhemmille suunnattu muotoilu, jossa on selkeät hoito-oppaat ja helpot ajanvarauspolut."
+    },
+    "mohs": {
+      "title": "Mohs- & kirurginen dermatologia",
+      "body": "Toimenpidekeskeiset sivut, lähetepolut ja tuloksiin keskittyvä potilasvalistus."
+    },
+    "groups": {
+      "title": "Lääkärikeskukset",
+      "body": "Asiantuntijahakemistot, läheteportaalit ja suuryritystason sisällönhallinta."
+    }
+  },
+  "compliance": {
+    "kicker": "Luottamus & Vaatimustenmukaisuus",
+    "header": "Potilaidesi yksityisyys, suojattu <1>jo suunnitteluvaiheessa.</1>",
+    "p": "HIPAA-huomioitu arkkitehtuuri, NDA-valmius ja BAA-yhteensopiva ylläpito. Tietosuoja on sisäänrakennettu osa toimintatapaamme.",
+    "hipaa": {
+      "title": "HIPAA-huomioidut sivustot",
+      "body": "Lomakkeet, ylläpito ja tietovirrat on suunniteltu potilastietojen turvaamista ajatellen."
+    },
+    "baa": {
+      "title": "BAA-valmis ylläpito",
+      "body": "Business Associate Agreement (BAA) saatavilla jokaiseen julkaisuun."
+    },
+    "nda": {
+      "title": "NDA-valmius",
+      "body": "Vakiona jokaisessa toimeksiannossa — tiedostot ja viestintä pidetään tiukasti suojattuina."
+    },
+    "phi": {
+      "title": "Ei potilastietoja analytiikkaan",
+      "body": "Seuranta on määritetty pitämään suojatut tiedot poissa kolmansien osapuolten työkaluista."
+    }
+  },
+  "tech": {
+    "kicker": "Teknologia & Osaaminen",
+    "header": "Fokusoitu ja luotettava <1>moderni teknologiapaketti.</1>",
+    "p": "Valittu vakauden, suorituskyvyn ja pitkäaikaisen ylläpidettävyyden perusteella — ei pelkän uutuudenviehätyksen takia.",
+    "stack": {
+      "title": "Next.js & WordPress",
+      "body": "Moderni React tai Headless CMS, sovitettuna tiimisi tarpeisiin."
+    },
+    "hosting": {
+      "title": "HIPAA-huomioitu ylläpito",
+      "body": "Hallinnoitu, valvottu ja BAA-kelpoinen infrastruktuuri."
+    },
+    "seo": {
+      "title": "Tekninen SEO",
+      "body": "Skeemat, hierarkia ja indeksoitavuus huomioitu ensimmäisestä päivästä lähtien."
+    },
+    "cwv": {
+      "title": "Core Web Vitals",
+      "body": "Suorituskykybudjetit ja optimoidut resurssit varmistavat nopeuden."
+    },
+    "cms": {
+      "title": "Hoidonhallinta (CMS)",
+      "body": "Rakenteelliset sisältömallit ihotautipalveluita varten."
+    },
+    "cro": {
+      "title": "Analytiikka & CRO",
+      "body": "Yksityisyydensuojaa kunnioittava mittaus ja konversioiden hienosäätö."
+    },
+    "a11y": {
+      "title": "Saavutettavuus (WCAG)",
+      "body": "AA-tason standardit sisäänrakennettuna komponentteihin."
+    },
+    "care": {
+      "title": "Jatkuva ylläpito",
+      "body": "Päivitykset, varmuuskopiot ja toimintavarmuus — sivusto pysyy aina iskussa."
+    }
+  },
+  "structure": {
+    "kicker": "Toimintarakenne",
+    "header": "Oikeat osastot, <1>ei pelkkä freelancer-verkosto.</1>",
+    "p": "Kuusi erikoistunutta tiimiä, yksi nimetty projektipäällikkö — selkeät roolit ja vastuut ilman ulkoistuksesta johtuvia katkoksia.",
+    "status": "Aktiivinen",
+    "pm": {
+      "title": "Projektinhallinta",
+      "body": "Oma PM, joka vastaa aikataulusta, laajuudesta ja viestinnästä."
+    },
+    "content": {
+      "title": "Sisältö",
+      "body": "Lääketieteellisesti tarkkaa tekstiä, joka kuulostaa klinikkasi ääneltä."
+    }
+  },
+  "faq": {
+    "kicker": "UKK",
+    "header": "Yleisimmät kysymykset <1>vastattuina.</1>",
+    "q1": {
+      "q": "Onko ihotautisivustoni HIPAA-yhteensopiva heti alusta alkaen?",
+      "a": "Kyllä. Lomakkeet, ylläpito ja tietovirrat on suunniteltu potilasturvallisuus huomioiden, ja Business Associate Agreement (BAA) on saatavilla pyynnöstä. Määritämme myös analytiikan niin, etteivät suojatut tiedot päädy kolmansille osapuolille."
+    },
+    "q2": {
+      "q": "Kuinka kauan projektin toteutus yleensä kestää?",
+      "a": "Useimmat yhden toimipisteen sivustot julkaistaan 6–10 viikon kuluessa aloituksesta. Monitoimipaikkaiset tai suuret migraatioprojektit kestävät yleensä 10–14 viikkoa. Saat aina kirjallisen aikataulun ennen aloitusta."
+    },
+    "q3": {
+      "q": "Kuka omistaa verkkosivuston ja sisällön julkaisun jälkeen?",
+      "a": "Sinä — 100-prosenttisesti. Koodi, sisältö, aineistot, ylläpitotilit ja verkkotunnus säilyvät täysin sinun omistuksessasi. Emme käytä lukittuja järjestelmiä."
+    },
+    "q4": {
+      "q": "Hoidatteko migraation nykyiseltä sivustoltamme?",
+      "a": "Kyllä. Siirrämme sisällöt, ohjaukset ja SEO-arvon WordPress-, Squarespace- tai Wix-alustoilta varmistaen, etteivät hakukonesijoituksesi laske."
+    },
+    "q5": {
+      "q": "Millaista hinnoittelu on?",
+      "a": "Projektikohtaiset toteutukset alkavat alhaisesta viisinumeroisesta summasta riippuen laajuudesta. Jatkuva ylläpito alkaa edullisella kuukausimaksulla. Tarkemmat hintaluokat löydät Hinnoittelu-sivultamme."
+    },
+    "q6": {
+      "q": "Tarjoatteko ylläpitoa julkaisun jälkeen?",
+      "a": "Kyllä. Jokaiseen julkaisuun sisältyy ylläpitovaihtoehto, joka kattaa päivitykset, varmuuskopiot, valvonnan, tietoturvapaikkaukset ja kuukausittaiset sisältömuutokset."
+    },
+    "q7": {
+      "q": "Voitteko työskennellä salassapitosopimuksen (NDA) alaisena?",
+      "a": "Ehdottomasti. NDA on vakio-ominaisuus jokaisessa toimeksiannossa, ja käytämme oletuksena suojattuja työtiloja ja luottamuksellista käsittelyä."
+    }
+  },
+  "cta": {
+    "kicker": "Maksuton verkkosivuauditointi",
+    "header": "Valmis kasvattamaan <1>ihotautiklinikkaasi?</1>",
+    "p": "Kokenut tiimi, selkeä suunnitelma ja verkkosivusto, joka on rakennettu hankkimaan potilaita — aloita maksuttomalla 48 tunnin auditoinnilla.",
+    "primary": "Pyydä maksuton auditointi",
+    "secondary": "Ota yhteyttä",
+    "next": "Mitä tapahtuu seuraavaksi",
+    "step1": {
+      "title": "Maksuton 48h auditointi",
+      "body": "Analysoimme nykyisen sivustosi: SEO, UX, HIPAA ja suorituskyky."
+    },
+    "step2": {
+      "title": "Räätälöity tarjous",
+      "body": "Kirjallinen suunnitelma prioriteeteista, aikataulusta ja hinnoittelusta sähköpostiisi."
+    },
+    "step3": {
+      "title": "Julkaisu 6–10 viikossa",
+      "body": "Suunnittelu, toteutus, HIPAA-varmistettu laadunvalvonta ja sujuva siirto."
+    },
+    "footer": {
+      "hipaa": "HIPAA-huomioitu",
+      "nda": "NDA-valmius",
+      "ownership": "Omistat kaiken itse"
+    }
+  },
+  "footerLinks": {
+    "text": "Sinua saattaisi kiinnostaa myös:",
+    "portfolio": "tutustu tuoreimpiin töihimme",
+    "process": "näin viemme projektit maaliin",
+    "pricing": "tietoa investoinnin suuruudesta"
+  },
+  "testimonials": {
+    "ariaLabel": "Näytä asiakaspalaute {{index}}",
+    "ariaStars": "5/5 tähteä",
+    "t1": {
+      "quote": "He uudistivat sivustomme, ja uudet potilasvaraukset kasvoivat 62 % 90 päivässä.",
+      "name": "Dr. Alicia Moreno",
+      "role": "Ihotautien erikoislääkäri"
+    },
+    "t2": {
+      "quote": "Viimeinkin toimisto, joka todella ymmärtää HIPAA-säädökset, YMYL-vaatimukset ja dermatologian SEO-tarpeet.",
+      "name": "Dr. Rahul Menon",
+      "role": "Mohs-kirurgia & esteettinen dermatologia"
+    },
+    "t3": {
+      "quote": "Selkeä muotoilu, nopea sivusto ja tiimi, joka vastaa samana päivänä. Harvinaislaatuisen hyvää palvelua.",
+      "name": "Dr. Emily Chen",
+      "role": "Lasten dermatologia"
+    },
+    "p1": {
+      "quote": "He rakensivat sivustomme uudelleen ja tuplasivat varaukset 90 päivässä. He todella ymmärtävät lääketieteellistä dermatologiaa. Mikään aiempi toimisto ei päässyt lähellekään tätä tasoa.",
+      "name": "Dr. Rachel Meyers, MD, FAAD"
+    },
+    "p2": {
+      "quote": "Jokainen sivu tuntuu siltä, kuin se olisi ihotautilääkärin kirjoittama. Yhteydenotot lisääntyivät viikoissa, ja sivusto heijastaa vihdoin työmme laatua.",
+      "name": "Dr. Jonathan Pierce, MD"
+    },
+    "p3": {
+      "quote": "Selkeä hinnoittelu, ei turhaa höttöä ja tiimi, joka antoi suoraa palautetta silloin kun se oli tarpeen. Sivustouudistus on ollut parhaita markkinointipäätöksiämme.",
+      "name": "Dr. Priya Shah, MD"
+    }
+  },
+  "skip": "Siirry suoraan sisältöön"
+}

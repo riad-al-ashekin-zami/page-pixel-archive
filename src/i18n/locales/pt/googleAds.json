@@ -1,0 +1,274 @@
+{
+  "meta": {
+    "title": "Google Ads e Gestão de PPC para Dermatologia | Consultas Marcadas, não Cliques",
+    "description": "Gestão de Google Ads e PPC para clínicas de dermatologia — campanhas de Pesquisa, LSA, YouTube e Performance Max medidas pelo custo por consulta marcada e P&L por serviço. Tracking seguro com HIPAA.",
+    "og": {
+      "title": "Google Ads e PPC para Dermatologia — Consultas Marcadas, não Cliques",
+      "description": "PPC que se paga a si próprio — Pesquisa, LSA, YouTube e remarketing focados no ROI de consultas marcadas para clínicas de dermatologia."
+    },
+    "twitter": {
+      "title": "Gestão de Google Ads e PPC para Dermatologia",
+      "description": "PPC focado no custo por consulta marcada para clínicas de dermatologia."
+    },
+    "jsonLd": {
+      "serviceType": "Gestão de Google Ads e PPC para Clínicas de Dermatologia",
+      "provider": "DermatologyWebsiteDesign.com",
+      "description": "Gestão de campanhas Google Ads, LSA, YouTube e Performance Max para clínicas de dermatologia, medidas por consultas marcadas e P&L de cada serviço.",
+      "breadcrumb": {
+        "home": "Início",
+        "services": "Serviços",
+        "ads": "Google Ads e PPC"
+      }
+    }
+  },
+  "hero": {
+    "badge": "Google Ads e PPC para Dermatologia",
+    "heading": "Cada clique, uma consulta marcada.",
+    "description": "Gestão de Google Ads e PPC para clínicas de dermatologia — campanhas de Pesquisa, LSA, YouTube e Performance Max focadas no custo por consulta marcada, não em métricas de vaidade. Tracking seguro com HIPAA e relatórios de P&L por serviço.",
+    "cta": {
+      "audit": "Auditoria PPC Gratuita",
+      "campaigns": "Ver tipos de campanha"
+    },
+    "stats": [
+      {
+        "label": "Menor CPBV",
+        "value": "38%"
+      },
+      {
+        "label": "Chamadas de consulta",
+        "value": "4.2×"
+      },
+      {
+        "label": "Custo desperdiçado cortado",
+        "value": "62%"
+      },
+      {
+        "label": "Tracking Seguro",
+        "value": "HIPAA"
+      }
+    ]
+  },
+  "sections": {
+    "campaigns": {
+      "badge": "Cobertura de Campanhas",
+      "heading": "Seis motores de campanha. Um objetivo: consultas marcadas.",
+      "description": "Cada tipo de campanha é focado num serviço específico e num teto mensal de custo por consulta marcada. Nada roda em piloto automático sem um P&L associado.",
+      "items": [
+        {
+          "title": "Google Search Ads",
+          "desc": "Campanhas de palavras-chave de alta intenção — 'dermatologista perto de mim', 'especialista em acne', 'cirurgia de Mohs' — direcionadas para landing pages específicas, não para a homepage."
+        },
+        {
+          "title": "Local Service Ads (LSA)",
+          "desc": "Fluxo de leads com selo de garantia Google e preço por lead, com créditos por disputa. Gerimos a verificação, distintivos e revisão de leads."
+        },
+        {
+          "title": "YouTube & Video Ads",
+          "desc": "Apresentações do corpo clínico, vídeos explicativos de procedimentos e remarketing para manter a sua clínica presente na fase de consideração."
+        },
+        {
+          "title": "Performance Max",
+          "desc": "Colocações automatizadas em Pesquisa, Display, YouTube e Gmail — otimizadas com dados de conversão reais (first-party), não sinais irrelevantes."
+        },
+        {
+          "title": "Remarketing & RLSA",
+          "desc": "Recupere os 92% que saem do site sem marcar consulta — segmentado por serviço, profundidade da página e intenção de consulta."
+        },
+        {
+          "title": "Tracking de Conversão e Atribuição",
+          "desc": "Rastreio de chamadas, atribuição de formulários e importação de conversões offline para que sejam as consultas — e não os cliques — a ditar os lances."
+        }
+      ]
+    },
+    "outcomes": {
+      "ariaLabel": "Resultados Medidos",
+      "items": [
+        {
+          "label": "Redução no custo por consulta marcada",
+          "value": "38%"
+        },
+        {
+          "label": "Chamadas de consulta qualificada em 90 dias",
+          "value": "4.2×"
+        },
+        {
+          "label": "Gasto desperdiçado recuperado na auditoria",
+          "value": "62%"
+        },
+        {
+          "label": "Pontuação média de qualidade Google",
+          "value": "9.1"
+        }
+      ],
+      "testimonial": {
+        "quote": "A nossa agência anterior reportava 'cliques' e 'impressões'. Esta equipa reporta consultas marcadas e receita por serviço. Seis meses depois, o custo por consulta baixou 38% e finalmente cancelámos as campanhas que estavam a queimar orçamento.",
+        "author": "Dr. Marcus Halden · Grupo de Dermatologia com 3 localizações"
+      }
+    },
+    "wastedSpend": {
+      "badge": "Por onde foge o dinheiro",
+      "heading": "Seis formas como as clínicas de dermatologia desperdiçam o orçamento de PPC.",
+      "description": "Auditamos estes pontos antes de tocar num único lance. Em média, recuperamos 62% do gasto desperdiçado nos primeiros 30 dias — antes de adicionar qualquer campanha nova.",
+      "items": [
+        "Licitar em palavras-chave da própria marca quando o orgânico já está em 1.º lugar",
+        "Correspondência ampla a queimar orçamento em 'empregos dermatologia' ou 'acne caseiro'",
+        "Enviar todos os cliques para a homepage em vez das páginas de serviço",
+        "Falta de lista de palavras-chave negativas — concorrentes e candidatos a emprego a comer o orçamento",
+        "Tracking de conversão baseado em 'cliques na página de contacto' em vez de consultas marcadas",
+        "Listas de remarketing que nunca expiram — a perseguir pacientes que já agendaram"
+      ]
+    },
+    "audiences": {
+      "badge": "Para quem trabalhamos",
+      "heading": "Criado para todos os modelos de dermatologia.",
+      "description": "Seja uma consulta individual, multi-localização, pediátrica ou Mohs — cada estratégia de campanha é ajustada à sua capacidade e margem de serviço.",
+      "items": [
+        {
+          "title": "Dermatologistas Individuais",
+          "desc": "Orçamentos controlados, alto valor por paciente — campanhas focadas nos seus 2 principais serviços, não em tudo."
+        },
+        {
+          "title": "Clínicas Multi-localização",
+          "desc": "P&L ao nível da localização, modificadores de lances geográficos e gestão de orçamento por clínica a partir de uma única conta."
+        },
+        {
+          "title": "Dermatologia Pediátrica",
+          "desc": "Funis focados na decisão dos pais, horários ajustados ao período escolar e criativos de anúncios adequados a famílias."
+        },
+        {
+          "title": "Mohs e Dermatologia Cirúrgica",
+          "desc": "Campanhas de reforço de referenciamento, triagem de seguros e serviços de CPC premium geridos pela margem, não pelos cliques."
+        }
+      ]
+    },
+    "services": {
+      "badge": "Serviços que promovemos",
+      "heading": "Cada serviço. Cada intenção. Cada consulta marcada.",
+      "description": "Cada serviço médico tem a sua própria campanha, landing page e meta de custo por consulta — sem orçamentos globais genéricos.",
+      "list": [
+        "Tratamento de Acne",
+        "Tratamento de Eczema",
+        "Tratamento de Psoríase",
+        "Tratamento de Infeções Cutâneas",
+        "Tratamento de Alergias Cutâneas",
+        "Rastreio e Tratamento de Cancro de Pele",
+        "Avaliação de Sinais e Remoção Médica Necessária",
+        "Remoção de Cistos e Lipomas",
+        "Remoção de Verrugas",
+        "Tratamento de Doenças das Unhas",
+        "Diagnóstico e Tratamento Médico de Queda de Cabelo",
+        "Tratamento de Doenças do Couro Cabeludo",
+        "Tratamento de Rosácea",
+        "Tratamento de Hiperpigmentação e Melasma (indicação médica)",
+        "Tratamento de Cicatrizes (trauma, cirurgia, doença)",
+        "Tratamento de Cicatrizes de Queimaduras",
+        "Tratamento de Vitiligo",
+        "Biópsia de Pele e Procedimentos de Diagnóstico"
+      ]
+    },
+    "workflow": {
+      "badge": "Como funciona",
+      "heading": "Lançamento PPC em 90 dias. Resultados crescentes depois.",
+      "description": "Marcos transparentes ligados a consultas marcadas e P&L — sem dashboards de 'caixa negra'.",
+      "steps": [
+        {
+          "phase": "Fase 01",
+          "title": "Auditoria de conta e baseline",
+          "desc": "Análise de gastos históricos, mapa de desperdício, análise de lacunas geográficas e de palavras-chave, e definição de meta de custo por consulta por serviço."
+        },
+        {
+          "phase": "Fase 02",
+          "title": "Tracking e landing pages",
+          "desc": "Reestruturação do tracking de conversão — chamadas, formulários, importações offline — e landing pages específicas otimizadas para conversão."
+        },
+        {
+          "phase": "Fase 03",
+          "title": "Campanhas ativas",
+          "desc": "Lançamento faseado de Pesquisa, LSA, Performance Max e remarketing — cada unidade limitada por um teto de custo por consulta."
+        },
+        {
+          "phase": "Fase 04",
+          "title": "Otimizar e Escalar",
+          "desc": "Iteração semanal de lances, orçamentos e criativos. P&L executivo mensal. Cortamos o que perde, escalamos o que ganha — sem relatórios defensivos."
+        }
+      ]
+    },
+    "whyUs": {
+      "badge": "Porque nos escolhem",
+      "heading": "Um parceiro de PPC especializado em dermatologia — não uma agência de marketing genérica.",
+      "items": [
+        {
+          "title": "P&L, não cliques",
+          "desc": "Cada campanha está ligada a consultas marcadas, receita por serviço e custo por marcação — revisto mensalmente numa só página."
+        },
+        {
+          "title": "Pixels seguros (HIPAA)",
+          "desc": "Rastreio de chamadas com BAA, formulários sem PHI e listas de remarketing criadas sem dados sensíveis dos pacientes. Tudo auditado previamente."
+        },
+        {
+          "title": "Lances baseados na capacidade",
+          "desc": "Os lances diminuem quando a sua agenda enche — não geramos cliques para além do que os seus médicos conseguem atender."
+        },
+        {
+          "title": "Campanhas por linha de serviço",
+          "desc": "Uma campanha por serviço — acne, Mohs, estética — cada uma com o seu objetivo de CPBV. Sem orçamentos misturados."
+        },
+        {
+          "title": "Landing pages incluídas",
+          "desc": "Cada campanha inclui uma página de destino correspondente e testada para conversão — nada de enviar tráfego para a homepage."
+        },
+        {
+          "title": "Corte de ineficiências",
+          "desc": "Cortamos o que não funciona",
+          "details": "Cada campanha tem um teto de custo por consulta. Se falhar dois meses, o orçamento é rotacionado — sem justificações vazias."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "As perguntas que os proprietários de clínicas mais fazem.",
+    "items": [
+      {
+        "q": "Quanto deve uma clínica de dermatologia investir em Google Ads?",
+        "a": "Depende do mix de serviços e da localização. Para clínicas singulares, começamos nos 3.500€–7.500€/mês em investimento de media para obter dados estatísticos reais de custo por consulta em 60 dias. Clínicas multi-localização ou com foco em estética escalam mais alto. Definimos o CPBV alvo antes de se comprometer."
+      },
+      {
+        "q": "Estão em conformidade com o HIPAA no tracking do Google Ads?",
+        "a": "Sim. Configuramos o tracking para que nenhum dado de saúde (PHI) chegue ao Google — o rastreio de chamadas usa plataformas com BAA, os formulários limpam campos sensíveis antes de ativar pixels e o remarketing usa apenas sinais de navegação."
+      },
+      {
+        "q": "Também gerem os anúncios de serviços locais (LSA)?",
+        "a": "Sim — o LSA é frequentemente o primeiro canal que ativamos. Tratamos da verificação Google, manutenção de distintivos, revisão de leads e contestação de leads não qualificados (pelos quais não deve pagar)."
+      },
+      {
+        "q": "Qual é o tempo realista para ver resultados?",
+        "a": "Pesquisa e LSA costumam mostrar resultados de consultas em 21–30 dias. O Performance Max precisa de 4–6 semanas para sair da fase de aprendizagem. Todos os meses entregamos um relatório em formato P&L."
+      },
+      {
+        "q": "Também constroem as landing pages?",
+        "a": "Sim — Google Ads sem uma landing page dedicada é dinheiro deitado fora. Cada campanha recebe uma página específica com layout focado em marcações e formulários seguros."
+      },
+      {
+        "q": "O que acontece se uma campanha tiver um desempenho abaixo do esperado?",
+        "a": "Acordamos um teto de custo por consulta à partida. Se falhar dois meses seguidos sem uma razão de sazonalidade clara, o orçamento passa para uma campanha que esteja a bater as metas."
+      }
+    ]
+  },
+  "cta": {
+    "badge": "Auditoria PPC Gratuita",
+    "heading": "Saiba exatamente por onde o seu investimento está a fugir — em 48 horas.",
+    "description": "Análise de gastos desperdiçados, lacunas de palavras-chave, auditoria de landing pages e um plano de PPC prioritário de 90 dias focado no seu P&L. Grátis, sem pressões comerciais.",
+    "audit": "Pedir a minha auditoria gratuita",
+    "proposal": "Solicitar uma proposta"
+  },
+  "stickyMobile": {
+    "text": "Auditoria PPC Grátis — 48h",
+    "cta": "Pedir"
+  },
+  "footerLinks": {
+    "pretext": "Poderá interessar-lhe também:",
+    "seo": "SEO a longo prazo para dermatologia",
+    "cro": "landing pages que convertem de verdade",
+    "email": "nutrição por e-mail"
+  }
+}

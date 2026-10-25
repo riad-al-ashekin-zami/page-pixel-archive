@@ -1,0 +1,74 @@
+{
+  "meta": {
+    "title": "Erstattungsrichtlinien — Anzahlungen, Meilensteine & Abonnements",
+    "description": "Erfahren Sie, wie wir mit Anzahlungen, Meilenstein-Zahlungen und Abonnements bei Stornierungen oder Unzufriedenheit verfahren.",
+    "og": {
+      "title": "Erstattungsrichtlinien — Anzahlungen, Meilensteine & Abonnements",
+      "description": "Erfahren Sie, wie wir mit Anzahlungen, Meilenstein-Zahlungen und Abonnements bei Stornierungen oder Unzufriedenheit verfahren."
+    },
+    "twitter": {
+      "title": "Erstattungsrichtlinien — Anzahlungen, Meilensteine & Abonnements",
+      "description": "Erfahren Sie, wie wir mit Anzahlungen, Meilenstein-Zahlungen und Abonnements bei Stornierungen oder Unzufriedenheit verfahren."
+    }
+  },
+  "layout": {
+    "skip_to_content": "Direkt zum Inhalt"
+  },
+  "hero": {
+    "badge": "Rechtliches · Erstattungsrichtlinien",
+    "title": "Erstattungsrichtlinien",
+    "description": "Klare Regeln für Anzahlungen, Meilensteine und Abonnements – damit es keine Überraschungen gibt, falls sich Ihre Pläne ändern.",
+    "last_updated": "Zuletzt aktualisiert:",
+    "date": "14. Juli 2026"
+  },
+  "sidebar": {
+    "contents_label": "Inhalt",
+    "nav_aria_label": "Abschnittsnavigation"
+  },
+  "sections": {
+    "overview": {
+      "title": "1. Überblick",
+      "body": "Diese Erstattungsrichtlinien regeln die Zahlungsabwicklung bei Projektstornierungen, Pausierungen oder wenn Erwartungen nicht erfüllt werden. Sie gelten ergänzend zu unserem Dienstleistungsvertrag; im Falle von Widersprüchen hat das unterzeichnete Angebot oder das Lastenheft Vorrang."
+    },
+    "deposits": {
+      "title": "2. Anzahlungen",
+      "body": "Projektanzahlungen sind grundsätzlich nicht erstattungsfähig. Mit Ihrer Anzahlung reservieren wir feste Kapazitäten in unserem Terminkalender und decken die Kosten für Discovery, Strategie und erste Designentwürfe ab, die unmittelbar nach Ihrer Freigabe beginnen."
+    },
+    "milestones": {
+      "title": "3. Meilenstein-Zahlungen",
+      "list_items": [
+        "Zahlungen für Meilensteine vergüten bereits erbrachte und abgenommene Leistungen. Erstattungen für bereits gelieferte Meilensteine sind ausgeschlossen.",
+        "Bei einer Kündigung während der Projektphase sind alle bis zum Kündigungsdatum erbrachten Leistungen und entstandenen Auslagen zu vergüten. Darüber hinausgehende Vorauszahlungen werden innerhalb von 14 Werktagen erstattet."
+      ]
+    },
+    "recurring": {
+      "title": "4. Laufende Verträge (Wartung, Hosting, Retainer)",
+      "list_items": [
+        "Abonnements werden monatlich im Voraus abgerechnet; eine Erstattung für den laufenden Monat ist nicht möglich.",
+        "Kündigungen sind jederzeit mit einer Frist von 30 Tagen in Textform möglich. Die Leistung wird bis zum Ende des bezahlten Zeitraums fortgeführt; danach erfolgen keine weiteren Abbuchungen.",
+        "Nicht genutzte Stunden aus monatlichen Retainern verfallen am Monatsende und können weder übertragen noch erstattet werden."
+      ]
+    },
+    "third_party": {
+      "title": "5. Gebühren von Drittanbietern",
+      "body": "In Ihrem Namen an Drittanbieter gezahlte Gebühren — wie für Domains, Hosting, Stockmedien, Premium-Plugins oder Werbebudgets — sind nach dem Kauf nicht erstattungsfähig, unabhängig vom Projektstatus."
+    },
+    "chargebacks": {
+      "title": "6. Rücklastschriften",
+      "body": "Bitte kontaktieren Sie uns, bevor Sie eine Rücklastschrift veranlassen. Wir bemühen uns, jedes Anliegen schnell zu klären. Ohne vorherige Ankündigung eingeleitete Rückforderungen können zur sofortigen Einstellung unserer Leistungen führen und werden als wesentlicher Vertragsbruch gewertet."
+    },
+    "request": {
+      "title": "7. So fordern Sie eine Erstattung an",
+      "body": "Senden Sie uns bitte eine schriftliche Anfrage über unsere Kontaktseite unter Angabe des Projektnamens, der Rechnungsnummer und des Grundes. Berechtigte Erstattungen werden innerhalb von 14 Werktagen über die ursprüngliche Zahlungsmethode abgewickelt."
+    },
+    "changes": {
+      "title": "8. Änderungen dieser Richtlinien",
+      "body": "Wir behalten uns vor, diese Erstattungsrichtlinien gelegentlich zu aktualisieren. Das oben genannte Datum der letzten Aktualisierung gibt den aktuellen Stand wieder."
+    }
+  },
+  "cta": {
+    "title": "Fragen zu einer Erstattung?",
+    "description": "Sprechen Sie zuerst mit uns — wir finden gemeinsam eine faire Lösung.",
+    "button": "Kontakt aufnehmen"
+  }
+}

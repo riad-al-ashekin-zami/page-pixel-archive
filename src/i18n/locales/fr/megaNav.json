@@ -1,0 +1,162 @@
+{
+  "common": {
+    "explore": "Explorer",
+    "featured": "En vedette",
+    "free": "Gratuit",
+    "servicesCount_one": "{{count}} service",
+    "servicesCount_other": "{{count}} services",
+    "needCustomPlan": "Besoin d'un plan personnalisé ?",
+    "customPlanDesc": "Obtenez un devis sur mesure pour votre cabinet.",
+    "getFreeQuote": "Obtenir un devis gratuit",
+    "requestFreeAudit": "Demander un audit gratuit"
+  },
+  "sections": {
+    "website": {
+      "label": "Services de site web",
+      "tagline": "Des sites magnifiques, rapides et axés sur la conversion, conçus pour les cabinets de dermatologie."
+    },
+    "marketing": {
+      "label": "Services de marketing",
+      "tagline": "Attirez plus de patients qualifiés grâce au SEO, aux publicités et aux systèmes de gestion de la réputation."
+    },
+    "addons": {
+      "label": "Services complémentaires",
+      "tagline": "Maintenance, hébergement, contenu et intégrations pour une croissance continue.",
+      "ctaLabel": "Voir tous les compléments"
+    },
+    "insights": {
+      "audit": {
+        "title": "Audit de site web gratuit",
+        "description": "Recommandations concrètes en moins de 24 heures."
+      }
+    }
+  },
+  "website": {
+    "design": {
+      "label": "Conception de site web",
+      "description": "Sites de dermatologie axés sur la conversion."
+    },
+    "redesign": {
+      "label": "Refonte de site web",
+      "description": "Modernisez le site existant de votre cabinet."
+    },
+    "migration": {
+      "label": "Migration de site web",
+      "description": "Déplacez votre site sans interruption, sans perte de SEO."
+    },
+    "maintenance": {
+      "label": "Maintenance de site web",
+      "description": "Maintenez la sécurité, la mise à jour et la rapidité de votre site."
+    },
+    "management": {
+      "label": "Gestion de site web",
+      "description": "Gestion continue et complète de votre site web."
+    },
+    "support": {
+      "label": "Support de site web",
+      "description": "Assistance experte à la demande, quand vous en avez besoin."
+    },
+    "multiLocation": {
+      "label": "Multi-sites",
+      "description": "Structure évolutive pour plusieurs cliniques."
+    },
+    "ecommerce": {
+      "label": "E-commerce",
+      "description": "Vendez des produits de soin de la peau en ligne."
+    },
+    "patientPortal": {
+      "label": "Portail patient",
+      "description": "Expérience patient fluide."
+    },
+    "beforeAfter": {
+      "label": "Galerie Avant & Après",
+      "description": "Mettez en valeur les résultats en beauté."
+    }
+  },
+  "marketing": {
+    "seo": {
+      "label": "SEO pour la dermatologie",
+      "description": "Classement pour les recherches à forte intention."
+    },
+    "localSeo": {
+      "label": "Référencement local",
+      "description": "Dominez votre zone de service."
+    },
+    "growth": {
+      "label": "Croissance du cabinet",
+      "description": "Stratégie pour une croissance durable."
+    },
+    "googleAds": {
+      "label": "Google Ads / PPC",
+      "description": "Acquisition prévisible de patients."
+    },
+    "socialMedia": {
+      "label": "Réseaux sociaux",
+      "description": "Développez l'autorité de votre marque."
+    },
+    "reputation": {
+      "label": "Gestion de la réputation",
+      "description": "Systèmes d'avis 5 étoiles."
+    },
+    "email": {
+      "label": "Marketing par e-mail",
+      "description": "Nourrir et réengager les patients."
+    },
+    "cro": {
+      "label": "CRO",
+      "description": "Transformez les visiteurs en rendez-vous."
+    }
+  },
+  "addons": {
+    "care": {
+      "label": "Entretien et maintenance",
+      "description": "Maintenance continue, mises à jour et surveillance du site."
+    },
+    "hosting": {
+      "label": "Hébergement et conformité",
+      "description": "Hébergement rapide, sécurisé et conforme à la HIPAA."
+    },
+    "content": {
+      "label": "Contenu et conversion",
+      "description": "Rédaction, pages de destination et expériences CRO."
+    },
+    "analytics": {
+      "label": "SEO et analyses",
+      "description": "Suivi, tableaux de bord et visibilité de la recherche."
+    },
+    "integrations": {
+      "label": "Intégrations",
+      "description": "Outils EHR, de réservation, CRM et de marketing."
+    },
+    "growth": {
+      "label": "Marketing de croissance",
+      "description": "Programmes de publicité, d'e-mail et de réputation."
+    }
+  },
+  "insights": {
+    "process": {
+      "label": "Notre processus",
+      "description": "Comment nous réalisons chaque projet."
+    },
+    "about": {
+      "label": "À propos de nous",
+      "description": "Qui nous sommes et ce en quoi nous croyons."
+    },
+    "caseStudies": {
+      "label": "Études de cas",
+      "description": "Résultats réels de cabinets réels."
+    },
+    "blog": {
+      "label": "Blog",
+      "description": "Conseils pour les cabinets en croissance."
+    },
+    "faq": {
+      "label": "FAQ",
+      "description": "Réponses aux questions courantes."
+    },
+    "audit": {
+      "label": "Audit de site web gratuit",
+      "description": "Recommandations personnalisées en 24 heures."
+    }
+  }
+}

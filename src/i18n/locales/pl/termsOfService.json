@@ -1,0 +1,89 @@
+{
+  "meta": {
+    "title": "Regulamin świadczenia usług — korzystanie z witryny i współpraca",
+    "description": "Zasady określające sposób prowadzenia komunikacji, korzystania z naszej strony oraz zasady współpracy z naszym studiem.",
+    "og_title": "Regulamin świadczenia usług — korzystanie z witryny i współpraca",
+    "og_description": "Zasady określające sposób prowadzenia komunikacji, korzystania z naszej strony oraz zasady współpracy z naszym studiem.",
+    "twitter_title": "Regulamin świadczenia usług — korzystanie z witryny i współpraca",
+    "twitter_description": "Zasady określające sposób prowadzenia komunikacji, korzystania z naszej strony oraz zasady współpracy z naszym studiem."
+  },
+  "a11y": {
+    "skip_to_content": "Przejdź do treści",
+    "section_navigation": "Nawigacja sekcji"
+  },
+  "hero": {
+    "badge": "Kwestie prawne · Regulamin świadczenia usług",
+    "title": "Regulamin świadczenia usług",
+    "description": "Ogólne zasady korzystania z naszej witryny, kontaktu z nami oraz współpracy z naszym studiem. Należy je czytać łącznie z naszą <0>Umową o świadczenie usług</0> oraz <1>Polityką prywatności</1>.",
+    "last_updated": "Ostatnia aktualizacja: <0>14 lipca 2026 r.</0>"
+  },
+  "sections": {
+    "contents_label": "Spis treści",
+    "acceptance": {
+      "title": "1. Akceptacja warunków",
+      "body": "Uzyskując dostęp do tej strony internetowej („Witryna”), korzystając z niej, przesyłając zapytanie lub decydując się na nasze usługi, wyrażasz zgodę na niniejszy Regulamin świadczenia usług („Regulamin”). Jeśli nie zgadzasz się z jego postanowieniami, prosimy o zaprzestanie korzystania z Witryny."
+    },
+    "eligibility": {
+      "title": "2. Kwalifikowalność",
+      "body": "Aby korzystać z Witryny lub naszych usług, musisz mieć ukończone 18 lat i posiadać pełną zdolność do czynności prawnych. Podejmując działania w imieniu organizacji, oświadczasz, że posiadasz stosowne upoważnienie do zaciągania zobowiązań w jej imieniu."
+    },
+    "services": {
+      "title": "3. Nasze usługi",
+      "body": "Niniejsza Witryna zawiera głównie treści o charakterze marketingowym. Wszelkie faktyczne realizacje projektów — projektowanie, programowanie, SEO czy stała opieka techniczna — regulowane są osobną ofertą lub specyfikacją prac oraz naszą <0>Umową o świadczenie usług</0>. W przypadku sprzeczności między tymi dokumentami a niniejszym Regulaminem, pierwszeństwo ma Umowa o świadczenie usług."
+    },
+    "acceptable_use": {
+      "title": "4. Dopuszczalne użytkowanie",
+      "list": [
+        "Nie zakłócaj działania Witryny ani nie podejmuj prób naruszenia bezpieczeństwa jej infrastruktury.",
+        "Zabrania się pobierania danych (scraping), indeksowania (crawling) lub powielania treści poza dozwolonym, niekomercyjnym użytkiem.",
+        "Nie przesyłaj za pomocą formularzy treści niezgodnych z prawem, naruszających dobra osób trzecich, szkodliwych lub wprowadzających w błąd.",
+        "Nie przesyłaj chronionych danych medycznych (PHI) za pośrednictwem publicznych formularzy."
+      ]
+    },
+    "ip": {
+      "title": "5. Własność intelektualna",
+      "body": "Wszystkie treści w tej Witrynie — teksty, grafiki, logotypy, kod i design — stanowią własność naszą lub naszych licencjodawców i są chronione prawem własności intelektualnej. Możesz przeglądać i udostępniać linki do Witryny, jednak kopiowanie, modyfikowanie lub publikowanie jej treści bez naszej pisemnej zgody jest zabronione."
+    },
+    "submissions": {
+      "title": "6. Przesyłane materiały",
+      "body": "Przesyłając nam opinie, pomysły lub sugestie, udzielasz nam niewyłącznej, ogólnoświatowej i nieodpłatnej licencji na ich wykorzystanie bez żadnych zobowiązań. Prosimy o nieprzesyłanie informacji uznawanych za poufne, chyba że uzgodniliśmy inaczej w formie pisemnej."
+    },
+    "third_party": {
+      "title": "7. Linki i usługi podmiotów zewnętrznych",
+      "body": "Witryna może zawierać odnośniki do stron, narzędzi lub usług osób trzecich. Nie kontrolujemy ich ani nie podpisujemy się pod nimi; nie ponosimy również odpowiedzialności za ich treść, dostępność ani praktyki."
+    },
+    "disclaimer": {
+      "title": "8. Wyłączenie odpowiedzialności",
+      "body": "Witryna oraz jej zawartość są dostarczane w stanie, w jakim się znajdują („as-is”), bez jakichkolwiek gwarancji — wyraźnych lub dorozumianych — w tym gwarancji przydatności handlowej, przydatności do określonego celu czy nienaruszalności praw osób trzecich. Treści na stronie nie stanowią porad prawnych, medycznych ani finansowych."
+    },
+    "liability": {
+      "title": "9. Ograniczenie odpowiedzialności",
+      "body": "W najszerszym zakresie dopuszczalnym przez prawo nie ponosimy odpowiedzialności za jakiekolwiek szkody pośrednie, przypadkowe, następcze lub utracone korzyści wynikające z korzystania z Witryny. Nasza łączna odpowiedzialność związana z Witryną ograniczona jest do kwoty 100 USD."
+    },
+    "indemnity": {
+      "title": "10. Odszkodowanie",
+      "body": "Zgadzasz się chronić nas i zwolnić z odpowiedzialności z tytułu roszczeń, szkód i wydatków wynikających z niewłaściwego korzystania przez Ciebie z Witryny lub naruszenia niniejszego Regulaminu."
+    },
+    "termination": {
+      "title": "11. Zakończenie współpracy",
+      "body": "Zastrzegamy sobie prawo do zawieszenia lub zablokowania dostępu do Witryny w dowolnym momencie, z powiadomieniem lub bez, jeśli uznamy, że naruszyłeś niniejszy Regulamin lub stworzyłeś zagrożenie dla nas lub innych użytkowników."
+    },
+    "governing_law": {
+      "title": "12. Prawo właściwe",
+      "body": "Niniejszy Regulamin podlega prawu jurysdykcji wskazanej w naszej Umowie o świadczenie usług, a w przypadku jej braku — prawu jurysdykcji, w której zarejestrowane jest nasze studio, bez względu na przepisy kolizyjne."
+    },
+    "changes": {
+      "title": "13. Zmiany w Regulaminie",
+      "body": "Możemy okresowo aktualizować niniejszy Regulamin. Data widoczna przy napisie „Ostatnia aktualizacja” u góry strony dotyczy aktualnej wersji. Dalsze korzystanie z Witryny po wprowadzeniu zmian oznacza akceptację zaktualizowanego Regulaminu."
+    },
+    "contact_section": {
+      "title": "14. Kontakt",
+      "body": "Masz pytania dotyczące Regulaminu? Skontaktuj się z nami poprzez naszą <0>stronę kontaktową</0>."
+    }
+  },
+  "cta": {
+    "title": "Pytania do Regulaminu?",
+    "description": "Z przyjemnością wyjaśnimy wszelkie wątpliwości przed rozpoczęciem współpracy.",
+    "button": "Skontaktuj się z nami"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "title": "Nettsideløsninger for dermatologer — Design, SEO og vekst",
+    "description": "Utforsk HIPAA-klare nettsidetjenester for hudleger, SEO, lokal markedsføring, pasientportaler og driftstøtte for moderne klinikker.",
+    "ogTitle": "Nettsidetjenester for dermatologiklinikker",
+    "ogDescription": "Webdesign, SEO, betalt annonsering, omdømmebygging, bildegallerier og kontinuerlig vedlikehold for din hudlegepraksis.",
+    "schema": {
+      "name": "Nettsidetjenester for dermatologi",
+      "serviceType": "Webdesign, SEO og vekstmarkedsføring for hudleger",
+      "providerName": "Dermatology Website Design"
+    }
+  },
+  "hero": {
+    "eyebrow": "Tjenester",
+    "title": "Nettsider for hudleger skapt for å konvertere besøkende til pasienter.",
+    "description": "Velg et enkeltprosjekt eller et komplett vekstsystem: skreddersydd webdesign, SEO, pasientrekruttering, integrasjoner, vedlikehold og optimalisering for din klinikk.",
+    "ctaQuote": "Få et uforpliktende tilbud",
+    "ctaPricing": "Se priser",
+    "proofPoints": {
+      "hipaa": "HIPAA-klar implementering",
+      "responsive": "Responsivt design på alle enheter",
+      "seo": "Fundamentalt on-page SEO-arbeid",
+      "conversion": "Konverteringsdrevne pasientreiser"
+    }
+  },
+  "sections": {
+    "website": {
+      "label": "Nettsidetjenester",
+      "eyebrow": "Utvikling",
+      "description": "Skreddersydde nettsider, redesign, migrering, portaler og før/etter-gallerier bygget på pasienttillit og konvertering."
+    },
+    "marketing": {
+      "label": "Markedsføring",
+      "eyebrow": "Vekst",
+      "description": "SEO, lokal synlighet, betalt søk, omdømmehåndtering og CRO-systemer som henter inn kvalifiserte pasienter."
+    },
+    "support": {
+      "label": "Tilleggstjenester",
+      "eyebrow": "Support",
+      "description": "Hosting, compliance-støtte, integrasjoner, analyse og innholdsproduksjon for klinikker som krever fremdrift etter lansering."
+    }
+  },
+  "cta": {
+    "title": "Usikker på hvilken tjeneste klinikken din trenger?",
+    "description": "Start med en gratis analyse, så kartlegger vi den mest effektive veien for nettsiden din, din synlighet og pasientflyt.",
+    "button": "Bestill gratis analyse"
+  }
+}

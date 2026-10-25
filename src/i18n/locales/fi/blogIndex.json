@@ -1,0 +1,118 @@
+{
+  "meta": {
+    "title": "Blogi — Dermatologian markkinointivinkit ja kasvustrategiat",
+    "description": "Käytännönläheiset oppaat ihotautiklinikoiden SEO-optimointiin, verkkosivusuunnitteluun, potilashankintaan, HIPAA-vaatimuksiin, arvosteluihin ja mainontaan — kirjoitettu kasvuhakuisille yrittäjille.",
+    "keywords": "dermatologian blogi, ihotautilääkäri SEO, dermatologian markkinointi, klinikan kasvu, HIPAA-verkkosivut",
+    "og": {
+      "title": "Dermatologian markkinointiblogi — Strategioita klinikan kasvuun",
+      "description": "Syväluotaavia artikkeleita ja nopeita vinkkejä ihotautiklinikoille. SEO, design, mainonta, maine ja potilaskokemus."
+    },
+    "twitter": {
+      "title": "Dermatologian markkinointiblogi",
+      "description": "SEO, design, mainonta ja potilaskokemuksen strategiat ihotautiklinikoille."
+    },
+    "jsonLd": {
+      "breadcrumb": {
+        "home": "Etusivu",
+        "blog": "Blogi"
+      },
+      "blog": {
+        "name": "Dermatologian markkinointiblogi",
+        "description": "Oppaat ja näkemykset ihotautiklinikoiden SEO-optimoinnista, verkkosivusuunnittelusta, mainonnasta, maineesta ja potilashankinnasta."
+      }
+    }
+  },
+  "hero": {
+    "badge": "DermGrowth-julkaisu",
+    "title": "Strategiat nykyaikaiselle ihotautiklinikalle.",
+    "description": "Testattuja taktiikoita hakukonenäkyvyyteen, verkkosivuston suunnitteluun, maksettuun mainontaan ja potilaskokemukseen — satojen klinikkalanseerausten asiantuntijoilta.",
+    "search": {
+      "label": "Hae artikkeleita",
+      "placeholder": "Hae hakusanoilla SEO, mainonta, HIPAA, uudistus…",
+      "postCount": "{{count}} artikkelia"
+    },
+    "aside": {
+      "ariaLabel": "Tässä kuussa DermGrowthilla",
+      "issue": "Numero 24 · Kesä '26",
+      "status": "Mikä toimii dermatologian kasvussa juuri nyt.",
+      "stats": [
+        {
+          "value": "9",
+          "label": "uutta juttua"
+        },
+        {
+          "value": "68k",
+          "label": "lukijaa kuussa"
+        },
+        {
+          "value": "4.9",
+          "label": "lukija-arvosana"
+        }
+      ],
+      "socialProof": "Yli 50 ihotautiklinikan omistajan ja markkinoijan luottama"
+    }
+  },
+  "sections": {
+    "featured": {
+      "badge": "Suositeltu artikkeli",
+      "heading": "Viikon tärkein poiminta",
+      "viewAll": "Katso kaikki artikkelit",
+      "ariaRead": "Lue: {{title}}",
+      "statValue": "90.",
+      "statLabel": "Päivää ykkössivulle",
+      "readTime": "{{count}} min lukuaika",
+      "button": "Lue artikkeli"
+    },
+    "latest": {
+      "badge": "Uusimmat artikkelit",
+      "heading": "Suodata ratkaisun mukaan",
+      "description": "Jokainen postaus on kirjoitettu klinikan omistajille ja markkinointivastaaville, jotka kaipaavat selkeitä askelmerkkejä ilman turhaa hifistelyä.",
+      "filterLabel": "Suodata artikkeleita kategorian mukaan",
+      "empty": {
+        "heading": "Hakuasi vastaavia artikkeleita ei löytynyt.",
+        "description": "Kokeile toista kategoriaa tai tyhjennä haku.",
+        "button": "Nollaa suodattimet"
+      },
+      "card": {
+        "ariaRead": "Lue: {{title}}",
+        "readTime": "{{count}} min",
+        "readAction": "Lue"
+      }
+    }
+  },
+  "newsletter": {
+    "badge": "Viikkokatsaus",
+    "heading": "Kasvustrategia joka tiistai.",
+    "description": "Liity yli 760 ihotautialan ammattilaisen joukkoon. Ei turhaa postia, ei spämmiä – peruuta tilaus yhdellä klikkauksella.",
+    "ariaLabel": "Tilaa uutiskirje",
+    "placeholder": "sinun@klinikkasi.fi",
+    "submit": "Tilaa",
+    "submitting": "Tilataan…",
+    "success": "Olet mukana. Seuraava numero ilmestyy tiistaina klo 07:00.",
+    "fineprint": "Luemme jokaisen vastauksen. Emme koskaan luovuta osoitettasi eteenpäin.",
+    "features": [
+      {
+        "label": "Syväsukellukset",
+        "value": "Perusteelliset oppaat kahdesti kuussa"
+      },
+      {
+        "label": "Case-tutkimukset",
+        "value": "Aitoja tuloksia ihotautiklinikoilta"
+      },
+      {
+        "label": "Taktiikat",
+        "value": "Valmiit strategiat käyttöön"
+      },
+      {
+        "label": "Arvosana 4.9",
+        "value": "Yli 50 tilaajalta"
+      }
+    ]
+  },
+  "footer": {
+    "keepReading": "Jatka lukemista:",
+    "caseStudies": "yksityiskohtaiset case-tutkimukset",
+    "audit": "maksuton henkilökohtainen sivustoanalyysi",
+    "faq": "usein kysytyt kysymykset"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "slug": "patient-portal-conversion",
+  "title": "O Formulário de Admissão do Paciente Que Dobrou as Reservas",
+  "excerpt": "Um padrão de formulário de quatro etapas projetado em torno da carga cognitiva — com dados de testes A/B de três clínicas.",
+  "imageAlt": "Paciente preenchendo um formulário de admissão em um tablet em uma sala de espera iluminada",
+  "body": [
+    {
+      "text": "Um formulário longo é um atrito. Quatro passos curtos parecem uma conversa. Essa única mudança de padrão dobrou a conversão em três clínicas de teste em menos de 60 dias — e é uma das vitórias mais baratas em todo o manual de marketing de dermatologia porque o formulário foi a única variável que tocamos."
+    },
+    {
+      "text": "A razão pela qual o padrão de quatro etapas funciona é simples: os humanos completam tarefas que parecem finitas. Um formulário longo com 12 campos visíveis sinaliza um longo compromisso, e cada campo adicional obrigatório é outra oportunidade para o visitante fechar a guia. Um formulário de quatro etapas mostra apenas o primeiro campo ao carregar, e a barra de progresso visual recompensa cada etapa concluída com uma pequena dose de dopamina. No momento em que o visitante vê a etapa do número de telefone, ele já se comprometeu emocionalmente a finalizar."
+    },
+    {
+      "heading": "As quatro etapas"
+    },
+    {
+      "list": [
+        "Passo 1: O que o traz aqui? (escolha única, 4–6 opções)",
+        "Passo 2: Quando você gostaria de ser atendido? (dia + faixa de horário)",
+        "Passo 3: Um pouco sobre você (nome + e-mail)",
+        "Passo 4: Melhor telefone para contato (com preferência de horário)"
+      ]
+    },
+    {
+      "heading": "Por que a ordem das etapas importa"
+    },
+    {
+      "text": "A ordem das quatro etapas não é arbitrária. A primeira etapa captura a intenção, que é o dado que sua clínica mais precisa e o dado que o visitante tem mais prazer em fornecer — ninguém hesita em dizer por que está visitando. A segunda etapa captura a preferência de agendamento, o que aumenta o compromisso mental do visitante porque ele já visualizou o agendamento em seu calendário. Somente após esses dois compromissos você solicita informações de identificação."
+    },
+    {
+      "text": "Clínicas que invertem a ordem — pedindo nome e e-mail primeiro — veem a conversão cair em 30–40%. O visitante ainda não se comprometeu com nada, e 'me dê seu endereço de e-mail' parece transacional. No momento em que você pede informações de identificação depois que o visitante já visualizou o agendamento, a troca parece conversacional."
+    },
+    {
+      "heading": "O único campo que você nunca deve exigir: telefone"
+    },
+    {
+      "text": "Todos os testes A/B que realizamos no campo do telefone apontaram para a mesma conclusão: telefone obrigatório diminui a conversão em 12–18%. No entanto, quase todas as clínicas que integramos exigiam telefone. A solução é tornar o telefone opcional no formulário e fazer o acompanhamento por e-mail para agendamento. As clínicas que fazem essa mudança geralmente mantêm 90% dos dados de telefone que costumavam exigir (as pessoas os fornecem voluntariamente) e ganham os 12–18% de visitantes que teriam abandonado."
+    },
+    {
+      "heading": "Metodologia de teste e o que medir"
+    },
+    {
+      "text": "Não meça a taxa de preenchimento do formulário isoladamente. Meça a taxa de agendamento e, idealmente, a taxa de comparecimento. Um formulário que preenche mais rápido, mas produz faltas, não é uma vitória. Instrumente o funil do clique do anúncio ou orgânico até o agendamento, e teste A/B o padrão de quatro etapas contra seu formulário longo atual por pelo menos três semanas por variante para acumular tráfego estatisticamente significativo."
+    },
+    {
+      "text": "Assim que o padrão de quatro etapas superar a linha de base (quase sempre o faz), mantenha-o e passe para o próximo teste — geralmente o texto do CTA, a pilha de confiança acima do formulário ou o e-mail de confirmação que é enviado após o envio. Cada um deles tem outros 5–10% esperando para serem encontrados assim que o próprio formulário estiver fora do caminho."
+    }
+  ],
+  "faqs": null
+}

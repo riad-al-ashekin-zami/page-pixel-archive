@@ -1,0 +1,193 @@
+{
+  "meta": {
+    "title": "Contactez-nous — Conception de sites web pour dermatologues",
+    "description": "Contactez notre équipe spécialisée en création de sites pour dermatologues. Email, WhatsApp ou formulaire — réponse sous 24 heures.",
+    "ogTitle": "Contactez-nous — Conception de sites web pour dermatologues",
+    "ogDescription": "Des questions sur le site de votre cabinet ? Contactez-nous — nous répondons sous 24 heures.",
+    "breadcrumbHome": "Accueil",
+    "breadcrumbContact": "Contact"
+  },
+  "form": {
+    "validation": {
+      "name": "Veuillez saisir votre nom",
+      "email": "Veuillez saisir une adresse email valide",
+      "topic": "Veuillez choisir un sujet",
+      "message": "Veuillez rédiger un court message (min. 10 caractères)"
+    },
+    "subjects": [
+      "Nouveau site web",
+      "Refonte de site",
+      "Migration de site",
+      "SEO / Marketing",
+      "Maintenance & Support",
+      "Question générale"
+    ],
+    "errors": {
+      "fixFields": "Veuillez corriger les champs en surbrillance.",
+      "cooldown": "Veuillez patienter {{seconds}}s avant de soumettre à nouveau.",
+      "global": "Désolé, une erreur est survenue. Veuillez réessayer ou nous contacter directement par email."
+    },
+    "labels": {
+      "name": "Votre nom",
+      "email": "Email",
+      "phone": "Téléphone (optionnel)",
+      "website": "URL du site actuel (optionnel)",
+      "practice": "Nom du cabinet",
+      "subject": "Quel est l'objet de votre demande ?",
+      "message": "Votre message"
+    },
+    "placeholders": {
+      "name": "Dr Jean Dupont",
+      "email": "jean@cabinet.fr",
+      "phone": "+33 1 23 45 67 89",
+      "website": "https://votre-cabinet.com",
+      "practice": "Institut de Dermatologie",
+      "message": "Parlez-nous de votre cabinet et de vos attentes…"
+    },
+    "header": "Envoyez-nous un message",
+    "disclaimer": "En soumettant ce formulaire, vous acceptez d'être recontacté par email. Aucun spam — promis.",
+    "privacy": "Nous respectons votre vie privée. Vos informations sont en sécurité.",
+    "submit": "Envoyer le message",
+    "submitting": "Envoi en cours…"
+  },
+  "channels": [
+    {
+      "label": "Email",
+      "value": "info@dermatologywebsitedesign.com",
+      "note": "Réponse sous 24 heures",
+      "action": "Nous écrire"
+    },
+    {
+      "label": "WhatsApp",
+      "value": "Discutez avec notre équipe",
+      "note": "Lun–Ven · 9h–18h EST",
+      "action": "Démarrer un chat"
+    },
+    {
+      "label": "Devis gratuit",
+      "value": "Recevez une proposition sur mesure",
+      "note": "Sans engagement · Sous 24h",
+      "action": "Demander un devis"
+    }
+  ],
+  "hero": {
+    "tag": "Contact",
+    "title": {
+      "part1": "Bâtissons ensemble",
+      "part2": "votre présence digitale."
+    },
+    "description": "Des questions sur votre site, votre SEO ou votre stratégie de croissance ? Envoyez-nous un message — un membre de notre équipe vous répondra personnellement sous 24 heures.",
+    "avgReply": {
+      "label": "Temps de réponse moyen :",
+      "time": "3h 12m"
+    },
+    "features": [
+      "Réponse sous 24h",
+      "Sans engagement",
+      "Zéro spam"
+    ],
+    "socialProof": {
+      "rating": "4.9/5",
+      "trustedBy": "Plébiscité par",
+      "practices": "plus de 50 cabinets de dermatologie",
+      "worldwide": "dans le monde entier",
+      "avatars": [
+        "Dr Sarah R.",
+        "Dr Michael K.",
+        "Dr Amanda L.",
+        "Dr James T.",
+        "Dr Rachel N."
+      ]
+    }
+  },
+  "sidebar": {
+    "officeHours": {
+      "title": "Horaires d'ouverture",
+      "mondayToFriday": "Lundi – Vendredi",
+      "mondayToFridayTime": "9h – 18h EST",
+      "saturday": "Samedi",
+      "saturdayTime": "Sur rendez-vous",
+      "sunday": "Dimanche",
+      "sundayTime": "Fermé"
+    },
+    "servingPractices": {
+      "title": "À qui nous nous adressons",
+      "subtitle": "International — Équipe 100% à distance",
+      "description": "Nous accompagnons les dermatologues libéraux, les groupements multi-sites, les cliniques esthétiques, la dermatologie pédiatrique et les spécialistes en chirurgie de Mohs partout dans le monde."
+    },
+    "testimonial": {
+      "quote": "« Leur équipe est incroyablement réactive. On a l'impression d'avoir un développeur en interne, sans les coûts associés. »",
+      "author": "Dr Nadia Fischer",
+      "role": "Propriétaire de cabinet de dermatologie",
+      "trustedBy": "Partenaire de +50 cabinets de dermatologie"
+    },
+    "audit": {
+      "title": "Pas encore prêt à discuter ?",
+      "description": "Obtenez un audit gratuit de votre site : un score de santé rapide et les 3 points critiques qui freinent votre visibilité.",
+      "link": "Demander mon audit gratuit"
+    }
+  },
+  "faq": {
+    "tag": "Questions fréquentes",
+    "title": "Réponses immédiates",
+    "items": [
+      {
+        "q": "Quel est votre délai de réponse habituel ?",
+        "a": "Pour les demandes classiques, nous répondons sous 24 heures les jours ouvrés. Pour les urgences sur projet actif (site hors ligne, etc.), nous visons moins d'une heure."
+      },
+      {
+        "q": "Travaillez-vous avec des cabinets hors USA ?",
+        "a": "Oui, nous collaborons avec des dermatologues dans le monde entier. Notre équipe travaille à distance et gère les projets sur tous les fuseaux horaires."
+      },
+      {
+        "q": "Proposez-vous des services en marque blanche ?",
+        "a": "Tout à fait. Nous sommes partenaires d'agences de design et de marketing pour concevoir et maintenir des sites de dermatologie sous leur propre marque. Sélectionnez « Question générale » dans le formulaire ci-dessus."
+      },
+      {
+        "q": "Quel est le coût d'un nouveau site web ?",
+        "a": "Nos projets débutent généralement autour de 2 500 $ et évoluent selon le périmètre, les intégrations et le contenu. Contactez-nous pour un devis personnalisé sous 24h."
+      }
+    ]
+  },
+  "cta": {
+    "tag": "Prêt pour la croissance ?",
+    "title": "Parlons de votre projet.",
+    "description": "Votre site web doit servir votre cabinet, pas l'inverse. Nous sommes là pour vous aider à optimiser votre présence en ligne.",
+    "auditButton": "Audit gratuit du site",
+    "quoteButton": "Obtenir un devis gratuit"
+  },
+  "success": {
+    "title": "Message bien reçu !",
+    "description": "Merci de nous avoir contactés — nous vous répondrons sous 24 heures à l'adresse {{email}}.",
+    "backToHome": "Retour à l'accueil"
+  },
+  "mockup": {
+    "inbox": "Boîte de réception · Nouveau",
+    "messages": [
+      {
+        "name": "Dr Alex T.",
+        "message": "Proposition de refonte"
+      },
+      {
+        "name": "Skin & Co.",
+        "message": "Demande d'audit SEO"
+      },
+      {
+        "name": "RS Institute",
+        "message": "Délais de migration ?"
+      }
+    ],
+    "activeHeader": {
+      "initials": "DWS",
+      "name": "DW Design",
+      "status": "En ligne"
+    },
+    "chat": [
+      "Bonjour ! Comment pouvons-nous aider votre cabinet aujourd'hui ?",
+      "J'aurais besoin d'un nouveau site web pour ma clinique."
+    ],
+    "typing": "en train d'écrire",
+    "placeholder": "Écrivez un message…",
+    "replyStatus": "Réponse envoyée · 2 min"
+  }
+}

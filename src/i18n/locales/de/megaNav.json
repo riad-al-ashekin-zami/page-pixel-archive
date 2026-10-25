@@ -1,0 +1,162 @@
+{
+  "common": {
+    "explore": "Entdecken",
+    "featured": "Empfohlen",
+    "free": "Kostenlos",
+    "servicesCount_one": "{{count}} Dienstleistung",
+    "servicesCount_other": "{{count}} Dienstleistungen",
+    "needCustomPlan": "Benötigen Sie einen individuellen Plan?",
+    "customPlanDesc": "Erhalten Sie ein maßgeschneidertes Angebot für Ihre Praxis.",
+    "getFreeQuote": "Kostenloses Angebot einholen",
+    "requestFreeAudit": "Kostenlosen Audit anfordern"
+  },
+  "sections": {
+    "website": {
+      "label": "Website-Dienstleistungen",
+      "tagline": "Schöne, schnelle, konversionsorientierte Websites für dermatologische Praxen."
+    },
+    "marketing": {
+      "label": "Marketing-Dienstleistungen",
+      "tagline": "Gewinnen Sie qualifiziertere Patienten mit SEO, Anzeigen und Reputationssystemen."
+    },
+    "addons": {
+      "label": "Zusatzleistungen",
+      "tagline": "Pflege, Hosting, Inhalte und Integrationen, um das Wachstum zu beschleunigen.",
+      "ctaLabel": "Alle Zusatzleistungen anzeigen"
+    },
+    "insights": {
+      "audit": {
+        "title": "Kostenloser Website-Audit",
+        "description": "Umsetzbare Empfehlungen innerhalb von 24 Stunden."
+      }
+    }
+  },
+  "website": {
+    "design": {
+      "label": "Website-Design",
+      "description": "Konversionsorientierte dermatologische Websites."
+    },
+    "redesign": {
+      "label": "Website-Redesign",
+      "description": "Modernisieren Sie Ihre bestehende Praxis-Website."
+    },
+    "migration": {
+      "label": "Website-Migration",
+      "description": "Verschieben Sie Ihre Website ohne Ausfallzeiten und SEO-Verlust."
+    },
+    "maintenance": {
+      "label": "Website-Wartung",
+      "description": "Halten Sie Ihre Website sicher, aktuell und schnell."
+    },
+    "management": {
+      "label": "Website-Management",
+      "description": "Umfassendes und durchgängiges Website-Management."
+    },
+    "support": {
+      "label": "Website-Support",
+      "description": "Bedarfsgerechter Experte-Support, wenn Sie ihn benötigen."
+    },
+    "multiLocation": {
+      "label": "Multi-Standort",
+      "description": "Skalierbare Struktur für mehrere Kliniken."
+    },
+    "ecommerce": {
+      "label": "E-Commerce",
+      "description": "Verkaufen Sie Hautpflegeprodukte online."
+    },
+    "patientPortal": {
+      "label": "Patientenportal",
+      "description": "Nahtloses Patientenerlebnis."
+    },
+    "beforeAfter": {
+      "label": "Vorher-Nachher-Galerie",
+      "description": "Präsentieren Sie Ergebnisse wunderschön."
+    }
+  },
+  "marketing": {
+    "seo": {
+      "label": "Dermatologie SEO",
+      "description": "Ranken Sie für Suchanfragen mit hoher Absicht."
+    },
+    "localSeo": {
+      "label": "Lokales SEO",
+      "description": "Beherrschen Sie Ihr Einzugsgebiet."
+    },
+    "growth": {
+      "label": "Praxiswachstum",
+      "description": "Strategie für nachhaltiges Wachstum."
+    },
+    "googleAds": {
+      "label": "Google Ads / PPC",
+      "description": "Planbare Patientengewinnung."
+    },
+    "socialMedia": {
+      "label": "Soziale Medien",
+      "description": "Bauen Sie Markenautorität auf."
+    },
+    "reputation": {
+      "label": "Reputationsmanagement",
+      "description": "5-Sterne-Bewertungssysteme."
+    },
+    "email": {
+      "label": "E-Mail-Marketing",
+      "description": "Pflegen und reaktivieren Sie Patienten."
+    },
+    "cro": {
+      "label": "CRO",
+      "description": "Verwandeln Sie Besucher in Buchungen."
+    }
+  },
+  "addons": {
+    "care": {
+      "label": "Pflege & Wartung",
+      "description": "Laufende Website-Pflege, Updates und Überwachung."
+    },
+    "hosting": {
+      "label": "Hosting & Compliance",
+      "description": "Schnelles, sicheres, HIPAA-konformes Hosting."
+    },
+    "content": {
+      "label": "Inhalt & Konversion",
+      "description": "Texte, Landing Pages und CRO-Experimente."
+    },
+    "analytics": {
+      "label": "SEO & Analytics",
+      "description": "Tracking, Dashboards und Suchsichtbarkeit."
+    },
+    "integrations": {
+      "label": "Integrationen",
+      "description": "EHR, Buchungs-, CRM- und Marketing-Tools."
+    },
+    "growth": {
+      "label": "Wachstumsmarketing",
+      "description": "Anzeigen, E-Mail und Reputationsprogramme."
+    }
+  },
+  "insights": {
+    "process": {
+      "label": "Unser Prozess",
+      "description": "Wie wir jedes Projekt umsetzen."
+    },
+    "about": {
+      "label": "Über uns",
+      "description": "Wer wir sind und woran wir glauben."
+    },
+    "caseStudies": {
+      "label": "Fallstudien",
+      "description": "Echte Ergebnisse aus echten Praxen."
+    },
+    "blog": {
+      "label": "Blog",
+      "description": "Einblicke für wachsende Praxen."
+    },
+    "faq": {
+      "label": "FAQ",
+      "description": "Antworten auf häufige Fragen."
+    },
+    "audit": {
+      "label": "Kostenloser Website-Audit",
+      "description": "Personalisierte Empfehlungen in 24 Stunden."
+    }
+  }
+}

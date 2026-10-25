@@ -1,0 +1,287 @@
+{
+  "meta": {
+    "title": "Checklisty pro dermatologické weby – spuštění, SEO, HIPAA a konverze",
+    "description": "Bezplatné, experty navržené checklisty pro dermatologické weby pokrývající předprodejní kontrolu, on-page SEO, HIPAA, přístupnost, Core Web Vitals a konverze. Tisknutelné a specifické pro dermatologii.",
+    "keywords": "checklist pro dermatologický web, SEO pro dermatology, HIPAA checklist, spuštění webu dermatologie, přístupnost zdravotnických webů"
+  },
+  "schema": {
+    "breadcrumb": {
+      "home": "Domů",
+      "pageName": "Checklisty pro dermatologické weby"
+    }
+  },
+  "accessibility": {
+    "skipToContent": "Skočit na obsah"
+  },
+  "hero": {
+    "badge": "Zdarma · Pro dermatologii · K tisku",
+    "title": "Checklisty pro dermatologické weby, díky kterým bude spuštění nuda.",
+    "description": "9 specializovaných checklistů. 108 expertních bodů. Vše, co moderní dermatologická praxe potřebuje pro úspěšný start, pozice ve vyhledávačích, ochranu PHI a konverze – na jednom místě.",
+    "actions": {
+      "primary": "Spustit checklist",
+      "secondary": "Chci kompletní audit"
+    },
+    "stats": [
+      {
+        "label": "Expertních bodů",
+        "value": "108"
+      },
+      {
+        "label": "Kategorií",
+        "value": "9"
+      },
+      {
+        "label": "Lighthouse cíl",
+        "value": "95+"
+      }
+    ]
+  },
+  "progress": {
+    "title": "Váš pokrok",
+    "status": "Dokončeno: {{doneCount}} z {{totalItems}}",
+    "howItWorks": [
+      {
+        "title": "Projděte si kategorie",
+        "desc": "Vyberte si oblasti, které jsou pro vaše aktuální nasazení klíčové."
+      },
+      {
+        "title": "Odškrtávejte",
+        "desc": "Sledujte svůj pokrok přímo zde – v prohlížeči se vše ukládá automaticky."
+      },
+      {
+        "title": "Tiskněte nebo sdílejte",
+        "desc": "Připraveno k předání vašemu vývojáři, marketérovi nebo compliance týmu."
+      }
+    ],
+    "actions": {
+      "print": "Tisk / PDF",
+      "reset": "Resetovat",
+      "jump": "Přejít k seznamu"
+    }
+  },
+  "filter": {
+    "label": "Filtr",
+    "all": "Vše"
+  },
+  "feedback": {
+    "ready": "Jste připraveni ke spuštění.",
+    "completeDesc": "Všechny body jsou splněny. Pokračujte v krasojízdě a vyžádejte si cenovou nabídku.",
+    "quoteCta": "Získat kalkulaci zdarma"
+  },
+  "sections": {
+    "prelaunch": {
+      "title": "Kontrola před spuštěním",
+      "short": "Spuštění",
+      "tagline": "Den D bez nepříjemných překvapení.",
+      "items": [
+        "Všechny titulky stránek jsou unikátní, do 60 znaků a obsahují klíčové slovo",
+        "Meta popisky jsou unikátní, do 160 znaků a zaměřené na přínos pro pacienta",
+        "Nahrán favicon, Apple touch icon a obrázek pro sdílení na sociálních sítích (1200×630)",
+        "Nastaveno přesměrování 301 ze všech starých URL na nové ekvivalenty",
+        "XML sitemap vygenerována a odeslána do Google Search Console",
+        "Soubor robots.txt povoluje procházení a odkazuje na sitemapu",
+        "SSL certifikát je nainstalován a HTTPS je vynuceno na celém webu",
+        "Formuláře kompletně otestovány: odeslání, potvrzení a doručení do CRM/EHR",
+        "Měření Analytics (GA4) + konverzní události (volání, formuláře, rezervace) fungují",
+        "Právní stránky jsou online: Ochrana soukromí, HIPAA oznámení, ADA a Obchodní podmínky",
+        "Proveden sken nefunkčních odkazů – nula chyb 404 na interních stránkách",
+        "Testovací (staging) web má zakázanou indexaci (noindex + základní autentizace)"
+      ]
+    },
+    "seo": {
+      "title": "On-Page SEO",
+      "short": "SEO",
+      "tagline": "Buďte vidět tam, kde pacienti hledají pomoc.",
+      "items": [
+        "Jeden nadpis H1 na stránku – odpovídající záměru uživatele, ne jen marketingová vata",
+        "Sémantická struktura H2/H3 zrcadlí nejčastější dotazy pacientů",
+        "Stránky služeb cílí na jedno hlavní a 2–3 vedlejší klíčová slova",
+        "Lokální stránky obsahují město, čtvrť a navigační pokyny k ordinaci",
+        "Interní odkazy vedou z blogových článků na prodejní stránky (služby, rezervace)",
+        "Popisný alt text u každého obrázku, který není čistě dekorativní",
+        "Implementována schémata: MedicalBusiness, Physician, Service, FAQPage, Review",
+        "Medailonek autora + lékařský oponent u každého odborného článku (E-E-A-T)",
+        "Propojený profil Google Business, nastavené kategorie a přesná otevírací doba",
+        "Lokální identita (Jméno, Adresa, Telefon) je shodná na webu i v katalozích",
+        "Kanonické tagy na každé stránce – prevence duplicitního obsahu",
+        "Open Graph + Twitter Card tagy se v debuggerech zobrazují správně"
+      ]
+    },
+    "hipaa": {
+      "title": "Soulad s HIPAA",
+      "short": "HIPAA",
+      "tagline": "Chraňte citlivá data v každém formuláři i pixelu.",
+      "items": [
+        "Podepsaná BAA smlouva s poskytovateli hostingu, formulářů, e-mailu a analytiky",
+        "Žádná PHI data nejsou zachycována v GA4, Meta Pixelu ani v teplotních mapách",
+        "Kontaktní formuláře jsou přenášeny přes TLS do cílového bodu splňujícího HIPAA",
+        "Přihlášení do pacientského portálu je odděleno od relace marketingového webu",
+        "Timeouty relací + ochrana proti brute-force útokům v zabezpečených sekcích",
+        "Logy přístupů jsou uchovávány v souladu s vnitřními předpisy",
+        "Personál prošel školením na bezpečné zpracování formulářů – žádná PHI v e-mailech",
+        "Cookie lišta informuje o trackerech a respektuje nesouhlas uživatele",
+        "Zásady ochrany soukromí odkazují na HIPAA a relevantní zákony",
+        "Plán reakce na únik dat je zdokumentován a snadno dostupný",
+        "Chatboti + AI asistenti jsou konfigurováni tak, aby odmítali sběr PHI",
+        "Šifrování záloh je ověřeno a obnova dat je čtvrtletně testována"
+      ]
+    },
+    "a11y": {
+      "title": "Přístupnost (WCAG 2.2 AA)",
+      "short": "A11y",
+      "tagline": "Inkluzivní web, který vyhovuje standardům ADA.",
+      "items": [
+        "Kontrast barev ≥ 4.5:1 pro běžný text, 3:1 pro velký text a UI prvky",
+        "Všechny interaktivní prvky jsou ovladatelné pomocí klávesnice",
+        "Viditelné indikátory zaměření (focus) na každém aktivním prvku",
+        "Pole formulářů mají programově přiřazené štítky (labels)",
+        "Chybové hlášky jsou oznamovány čtečkám obrazovky přes aria-live",
+        "Odkaz „Skočit na obsah“ je umístěn na začátku každé stránky",
+        "Sémantické značky: header, nav, main, footer jsou správně použity",
+        "Obrázky mají smysluplný alt text; dekorativní mají prázdný alt=\"\"",
+        "Video obsah obsahuje titulky a textové přepisy",
+        "Pohyblivé prvky respektují nastavení „prefers-reduced-motion“",
+        "Dotykové cíle na mobilu mají velikost alespoň 44×44 CSS pixelů",
+        "Prohlášení o přístupnosti s funkčním kanálem pro zpětnou vazbu"
+      ]
+    },
+    "performance": {
+      "title": "Výkon a Core Web Vitals",
+      "short": "Výkon",
+      "tagline": "Rychlé stránky znamenají lepší pozice a více konverzí.",
+      "items": [
+        "LCP < 2,5 s na mobilním 4G (reálná data uživatelů, ne jen laboratorní test)",
+        "INP < 200 ms u hlavních konverzních prvků a menu",
+        "CLS < 0,1 – vyhrazené místo pro obrázky, reklamy a vložené prvky",
+        "Hero obrázky jsou ve formátu WebP/AVIF a ve správné velikosti",
+        "Písma jsou hostována lokálně nebo přednačtena s font-display: swap",
+        "JavaScript je rozdělen podle tras, skripty třetích stran se načítají líně (lazy-load)",
+        "Obrázky používají atributy šířky a výšky pro prevenci posunu obsahu",
+        "CDN před statickými soubory s dlouhou dobou mezipaměti (cache headers)",
+        "Kritické CSS je vloženo přímo do stránky; zdroje blokující vykreslení jsou odstraněny",
+        "Doba odezvy serveru (TTFB) < 600 ms globálně",
+        "Přes Tag Managery se nenačítají žádné skripty čtvrtých stran",
+        "Skóre Lighthouse na mobilu ≥ 90 ve všech čtyřech kategoriích"
+      ]
+    },
+    "mobile": {
+      "title": "Mobilní zařízení a UX",
+      "short": "Mobil",
+      "tagline": "Více než 80 % pacientů přichází z telefonu.",
+      "items": [
+        "Fixní tlačítko volání je viditelné na každé mobilní obrazovce",
+        "Menu se otevírá jedním klepnutím – žádné vnořené hover efekty",
+        "Tlačítko pro rezervaci je dostupné do jednoho posunu palcem od horního okraje",
+        "Formuláře používají správné typy vstupů (tel, email, date)",
+        "Blok s adresou otevírá navigaci v Google Maps jedním klepnutím",
+        "Telefonní číslo je odkaz typu tel:, nikoliv prostý text",
+        "Galerie „před a po“ se načítá postupně, nikoliv celá najednou",
+        "Modální okna lze zavřít přejetím dolů nebo jasným křížkem",
+        "Žádný horizontální posun při šířce zobrazení ≥ 320 px",
+        "Fixní prvky nezakrývají pole formuláře při otevření klávesnice",
+        "Jazyk stránky je deklarován v tagu <html lang>",
+        "Barevné schéma pro tmavý režim (dark mode) je otestováno na čitelnost"
+      ]
+    },
+    "conversion": {
+      "title": "Konverze a důvěra",
+      "short": "Konverze",
+      "tagline": "Proměňte návštěvníky v objednané pacienty.",
+      "items": [
+        "Hlavní výzva k akci (Objednat, Volat) je vidět hned po načtení na každé stránce",
+        "Sekundární výzva k akci (Ceník, Konzultace zdarma) na každé stránce služby",
+        "Prvky důvěry: loga HIPAA, ADA, SSL a lékařské atestace",
+        "Reálné recenze pacientů (souhrnné i individuální) se strukturovanými daty",
+        "Galerie před/po s informovaným souhlasem, filtry a popisem výsledků",
+        "Profily lékařů s dosaženým vzděláním, fotografiemi a specializacemi",
+        "Jasně uvedené pojišťovny a možnosti financování",
+        "Formulář pro nové pacienty má pod 8 polí; delší jsou rozděleny na kroky",
+        "Děkovná stránka obsahuje další krok, nejen „budeme vás kontaktovat“",
+        "Live chat nebo WhatsApp pro dotazy mimo ordinační hodiny",
+        "Exit-intent nabídka relevantní ke stránce (např. průvodce péčí zdarma)",
+        "Sledování hovorů a formulářů je propojeno s marketingovými kanály"
+      ]
+    },
+    "security": {
+      "title": "Zabezpečení a spolehlivost",
+      "short": "Bezpečnost",
+      "tagline": "Chraňte svou praxi i své pacienty.",
+      "items": [
+        "Automatické denní zálohy uložené mimo server, měsíčně testované",
+        "CMS, pluginy a šablony jsou pravidelně a doložitelně aktualizovány",
+        "Web Application Firewall (WAF) + ochrana proti brute-force útokům",
+        "Administrátorské účty používají MFA a unikátní hesla",
+        "Role s nejnižšími nutnými oprávněními pro personál a dodavatele",
+        "Bezpečnostní hlavičky: HSTS, X-Content-Type-Options, CSP",
+        "Skeny zranitelností prováděny minimálně čtvrtletně",
+        "Monitoring dostupnosti s SMS upozorněním pro odpovědnou osobu",
+        "Zdokumentovaný krizový plán a kontakty pro eskalaci",
+        "Evidence DNS záznamů; nepoužívané subdomény jsou odstraněny",
+        "Obnova SSL certifikátu je automatizovaná; expirace je monitorována",
+        "Seznam dodavatelů (s BAA i bez) je jednou ročně revidován"
+      ]
+    },
+    "content": {
+      "title": "Obsah a redakce",
+      "short": "Obsah",
+      "tagline": "Říkejte správné věci těm správným pacientům.",
+      "items": [
+        "Každá služba má vlastní stránku (žádný obecný seznam služeb)",
+        "Každá služba odpovídá na: co, pro koho, jak, kolik stojí a co dál",
+        "Stránky poboček mají unikátní texty – žádné kopírování přes kopírák",
+        "Blok FAQ na každé stránce služby (5–8 reálných dotazů pacientů)",
+        "Lékařská tvrzení jsou ozdrojována nebo revidována atestovaným lékařem",
+        "Úroveň textů je přizpůsobena srozumitelnosti pro laickou veřejnost",
+        "Žádné fotobanky s „modely“ – místo nich autentické fotografie",
+        "Redakční kalendář s měsíčním SEO a sezónním obsahem",
+        "Staré články jsou ročně aktualizovány o nová data a interní odkazy",
+        "Profily autorů jsou u každého příspěvku včetně Author schema",
+        "Konzistentní tón komunikace a terminologie napříč celým webem",
+        "Právní a lékařská vyloučení odpovědnosti na relevantních stránkách"
+      ]
+    }
+  },
+  "cta": {
+    "badge": "Vyřešíme za vás",
+    "title": "Chcete, abychom checklist prošli za vás?",
+    "description": "Získejte personalizovaný audit dermatologického webu – prověříme každý bod na vašem webu a do 24 hodin dodáme seznam prioritních oprav.",
+    "links": {
+      "audit": "Vyžádat audit zdarma",
+      "contact": "Kontaktujte nás"
+    }
+  },
+  "faq": {
+    "badge": "FAQ",
+    "title": "Často kladené otázky",
+    "items": [
+      {
+        "q": "Pro koho je tento checklist určen?",
+        "a": "Pro majitele dermatologických klinik, vedoucí provozu a jejich marketingové týmy. Je vytvořen pro reálné zdravotnické workflow, ne pro obecné firmy."
+      },
+      {
+        "q": "Ukládá se můj pokrok?",
+        "a": "Ano – zaškrtnutá políčka se ukládají lokálně ve vašem prohlížeči. Po promazání paměti nebo kliknutí na Reset začnete znovu."
+      },
+      {
+        "q": "Mohu získat verzi v PDF?",
+        "a": "Použijte tlačítko Tisk – rozvržení je optimalizováno pro tisk a volba „Uložit jako PDF“ v prohlížeči vytvoří čistý dokument."
+      },
+      {
+        "q": "V čem se liší od běžných webových checklistů?",
+        "a": "Každý bod je ušitý na míru dermatologii – od formulářů splňujících HIPAA přes galerie před/po s informovaným souhlasem až po pravidla E-E-A-T a specifika více poboček."
+      },
+      {
+        "q": "Nabízíte i kompletní vypracování auditu?",
+        "a": "Ano. Požádejte o bezplatný audit a my vám do 24 hodin dodáme podrobnou zprávu ke každému z těchto bodů přímo pro váš web."
+      }
+    ]
+  },
+  "footer": {
+    "more": "Pokud vám tento seznam pomohl, zkuste také:",
+    "links": {
+      "audit": "bezplatný audit vašeho webu",
+      "caseStudies": "případové studie z dermatologie",
+      "blog": "další tipy na našem blogu"
+    }
+  }
+}

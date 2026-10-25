@@ -1,0 +1,108 @@
+{
+  "meta": {
+    "title": "Cookiepolicy — Så använder vi cookies",
+    "description": "Här kan du läsa om vilka cookies och liknande tekniker vi använder på vår webbplats, varför vi använder dem och hur du kan styra dem.",
+    "og": {
+      "title": "Cookiepolicy — Så använder vi cookies",
+      "description": "Här kan du läsa om vilka cookies och liknande tekniker vi använder på vår webbplats, varför vi använder dem och hur du kan styra dem."
+    },
+    "twitter": {
+      "title": "Cookiepolicy — Så använder vi cookies",
+      "description": "Här kan du läsa om vilka cookies och liknande tekniker vi använder på vår webbplats, varför vi använder dem och hur du kan styra dem."
+    }
+  },
+  "layout": {
+    "skipToContent": "Hoppa till innehållet"
+  },
+  "hero": {
+    "badge": "Juridisk information · Cookiepolicy",
+    "title": "Cookiepolicy",
+    "description": "Här förklarar vi vilka cookies och liknande tekniker vi använder, varför vi använder dem och hur du kan kontrollera dem. Läs även gärna vår",
+    "privacyPolicyLink": "integritetspolicy",
+    "lastUpdated": "Senast uppdaterad:",
+    "lastUpdatedDate": "14 juli 2026"
+  },
+  "sidebar": {
+    "contents": "Innehåll",
+    "navAriaLabel": "Sektionsnavigering"
+  },
+  "sections": {
+    "whatAreCookies": {
+      "title": "1. Vad är cookies?",
+      "body": "Cookies är små textfiler som sparas på din enhet när du besöker en webbplats. De hjälper webbplatsen att komma ihåg dina handlingar och inställningar över tid. Vi använder även liknande tekniker som lokal lagring och pixlar – i denna policy benämner vi dessa gemensamt som \"cookies\"."
+    },
+    "types": {
+      "title": "2. Olika typer av cookies vi använder",
+      "strictlyNecessary": {
+        "label": "Nödvändiga cookies:",
+        "description": "krävs för webbplatsens grundläggande funktioner, såsom navigering, säkerhet och för att komma ihåg dina samtyckesval. Dessa kan inte stängas av."
+      },
+      "performance": {
+        "label": "Prestanda & analys:",
+        "description": "hjälper oss att förstå hur besökare interagerar med webbplatsen (t.ex. visade sidor, tid på sidan och trafik-källor) så att vi kan förbättra användarupplevelsen."
+      },
+      "functional": {
+        "label": "Funktionella cookies:",
+        "description": "kommer ihåg de val du gör (som föredraget språk eller region) för att ge dig en mer personlig upplevelse."
+      },
+      "marketing": {
+        "label": "Marknadsföring:",
+        "description": "används av oss eller våra samarbetspartners för att mäta effekten av kampanjer och, där det är tillämpligt, visa relevant innehåll på andra webbplatser."
+      }
+    },
+    "firstVsThird": {
+      "title": "3. Förstapartscookies kontra tredjepartscookies",
+      "firstPartyLabel": "Förstapartscookies",
+      "firstPartyDescription": "sätts direkt av denna webbplats.",
+      "thirdPartyLabel": "Tredjepartscookies",
+      "thirdPartyDescription": "sätts av tjänster vi använder – såsom leverantörer av analys, video, bokningssystem eller annonsering. Tredje parter ansvarar själva för hur de använder insamlad data; vi rekommenderar att du läser deras respektive cookie- och integritetspolicyer."
+    },
+    "howWeUse": {
+      "title": "4. Hur vi använder cookies",
+      "items": [
+        "Hålla webbplatsen säker och se till att den fungerar korrekt.",
+        "Komma ihåg dina samtycken och inställningar.",
+        "Mäta trafik och förstå hur besökare använder webbplatsen.",
+        "Förbättra innehåll, prestanda och användarupplevelse."
+      ]
+    },
+    "manage": {
+      "title": "5. Hantera dina cookies",
+      "intro": "Du kan styra cookies på flera sätt:",
+      "browserSettings": {
+        "label": "Webbläsarinställningar:",
+        "description": "de flesta webbläsare låter dig blockera eller radera cookies – se din webbläsares hjälpsidor för mer information."
+      },
+      "optOutTools": {
+        "label": "Verktyg för avaktivering:",
+        "description": "många analys- och annonsleverantörer erbjuder egna mekanismer för att välja bort datainsamling."
+      },
+      "consentBanner": {
+        "label": "Samtyckesbanner:",
+        "description": "där lagen kräver det kan du uppdatera dina val via bannern eller länken för inställningar på denna webbplats."
+      },
+      "footer": "Observera att blockering av vissa cookies kan påverka hur delar av webbplatsen fungerar."
+    },
+    "doNotTrack": {
+      "title": "6. Do Not Track (DNT)",
+      "body": "Vissa webbläsare erbjuder en \"Do Not Track\"-signal. Det finns för närvarande ingen enhetlig branschstandard för hur dessa ska hanteras, och därför ändrar vår webbplats inte beteende baserat på DNT-signaler."
+    },
+    "changes": {
+      "title": "7. Ändringar i denna policy",
+      "body": "Vi kan komma att uppdatera denna cookiepolicy i takt med att vår praxis eller gällande lagstiftning ändras. Datumet för \"senast uppdaterad\" ovan anger när den senaste versionen publicerades."
+    },
+    "contact": {
+      "title": "8. Kontakt",
+      "body": "Har du frågor om hur vi använder cookies? Kontakta oss gärna via vår",
+      "contactLink": "kontaktsida",
+      "privacySuffix": ", eller läs vår",
+      "privacyLink": "integritetspolicy",
+      "privacyEnd": "för mer information om hur vi hanterar personuppgifter."
+    }
+  },
+  "cta": {
+    "title": "Frågor om cookies?",
+    "description": "Vi berättar gärna mer om vilka tekniker vi använder och varför.",
+    "button": "Kontakta oss"
+  }
+}

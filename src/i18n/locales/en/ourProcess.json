@@ -1,0 +1,395 @@
+{
+  "meta": {
+    "title": "Our Process — 7-Step Dermatology Website Build | Discover → Launch → Grow",
+    "description": "The 7-step process we use to build dermatology websites: Discovery, SEO audit, design, content, development, launch, and growth. Fixed timelines, weekly check-ins, HIPAA-first, Lighthouse 95+ guaranteed.",
+    "ogTitle": "Our Process — 7 Steps From Kickoff to Growth",
+    "ogDescription": "A transparent, fixed-timeline process for dermatology website design & SEO. See exactly what happens week by week — from discovery to ongoing growth."
+  },
+  "jsonLd": {
+    "breadcrumb": {
+      "home": "Home",
+      "ourProcess": "Our Process"
+    },
+    "howTo": {
+      "name": "Dermatology Website Build Process",
+      "description": "A 7-step process for launching a high-performing dermatology website."
+    }
+  },
+  "hero": {
+    "badge": "Our Process",
+    "title": "From first call to first patient booking — ",
+    "titleHighlight": "a 7-step, fixed-timeline build.",
+    "description": "No mystery, no scope creep, no hourly surprises. Every step has a written deliverable, an owner, and a deadline — so you always know what's happening this week and what's next.",
+    "buttons": {
+      "seeSteps": "See the 7 steps",
+      "freeQuote": "Get a Free Quote"
+    },
+    "imageAlt": "Illustration of a seven-step process journey, with glowing connected nodes ascending on a curved path"
+  },
+  "stats": {
+    "items": [
+      {
+        "num": "7",
+        "suffix": "",
+        "label": "Structured steps"
+      },
+      {
+        "num": "6",
+        "suffix": "–10 wks",
+        "label": "Kickoff to launch"
+      },
+      {
+        "num": "95",
+        "suffix": "+",
+        "label": "Lighthouse guarantee"
+      },
+      {
+        "num": "48",
+        "suffix": "h",
+        "label": "Avg. reply time"
+      }
+    ]
+  },
+  "sections": {
+    "journeyMap": {
+      "ariaLabel": "Process overview",
+      "subtitle": "The journey map",
+      "title": "Seven steps, visualized."
+    },
+    "steps": {
+      "ariaLabel": "Our process, step by step",
+      "subtitle": "The 7-step build",
+      "title": "Scroll through the journey.",
+      "step": "Step",
+      "divider": "/",
+      "total": "07",
+      "bulletSeparator": "·",
+      "labels": {
+        "youProvide": "You provide",
+        "weDeliver": "We deliver",
+        "deliverables": "Included deliverables",
+        "items": "items"
+      },
+      "items": [
+        {
+          "n": "01",
+          "title": "Discovery & Strategy",
+          "duration": "3–5 days",
+          "tagline": "Understand the practice before we touch a pixel.",
+          "summary": "A 60-minute strategy session plus a written brief. We audit your current site, review competitors, and lock down your patient persona, service priorities, and conversion goals — before design begins.",
+          "deliverables": [
+            "60-min strategy discovery session",
+            "Competitor & keyword benchmark",
+            "Patient persona + intent mapping",
+            "Written project brief (PDF)",
+            "Sitemap v1 + content outline"
+          ],
+          "youProvide": [
+            "Brand assets (if any)",
+            "Access to current analytics",
+            "3 competitor URLs you admire"
+          ],
+          "weDeliver": [
+            "Written brief",
+            "Scope-locked proposal",
+            "Kickoff schedule"
+          ]
+        },
+        {
+          "n": "02",
+          "title": "SEO & Technical Audit",
+          "duration": "2–3 days",
+          "tagline": "Find the leaks before we build the boat.",
+          "summary": "For redesigns, we run a full crawl of your existing site — indexing, Core Web Vitals, backlink profile, HIPAA gaps, and conversion bottlenecks. New sites get a keyword + SERP opportunity map instead.",
+          "deliverables": [
+            "Full technical SEO audit report",
+            "Core Web Vitals scorecard",
+            "Backlink & authority snapshot",
+            "HIPAA + accessibility gap review",
+            "Redirect plan for legacy URLs"
+          ],
+          "youProvide": [
+            "GSC + GA4 access (read-only)",
+            "Existing CMS credentials"
+          ],
+          "weDeliver": [
+            "Audit PDF",
+            "Prioritized fix list",
+            "Redirect map"
+          ]
+        },
+        {
+          "n": "03",
+          "title": "Design & Prototype",
+          "duration": "1–2 weeks",
+          "tagline": "Custom design, no templates, dermatology-native.",
+          "summary": "We design a bespoke visual system — colors, type, iconography, and component library — then produce clickable Figma prototypes of every key page. Two rounds of revisions are baked in.",
+          "deliverables": [
+            "Custom design system (Figma)",
+            "Homepage + 3 template screens",
+            "Interactive clickable prototype",
+            "Mobile + tablet + desktop variants",
+            "Two revision rounds included"
+          ],
+          "youProvide": [
+            "Feedback within 48 hours",
+            "Approvals via Figma comments"
+          ],
+          "weDeliver": [
+            "Design system",
+            "Clickable prototype",
+            "Design QA checklist"
+          ]
+        },
+        {
+          "n": "04",
+          "title": "Content & Copywriting",
+          "duration": "1–2 weeks (parallel)",
+          "tagline": "Medically accurate. Conversion-tuned.",
+          "summary": "Our medical copywriters draft every page in your voice — clinically accurate, patient-friendly, SEO-optimized. Runs in parallel with development so no timeline is added.",
+          "deliverables": [
+            "SEO-optimized page copy (all pages)",
+            "Treatment page content (up to 15)",
+            "Doctor bios + credentials",
+            "Meta titles + descriptions",
+            "Schema markup (LocalBusiness, FAQ)"
+          ],
+          "youProvide": [
+            "Doctor interviews (30 min ea.)",
+            "Review + factual approval"
+          ],
+          "weDeliver": [
+            "Full site copy doc",
+            "SEO metadata sheet",
+            "Schema JSON-LD"
+          ]
+        },
+        {
+          "n": "05",
+          "title": "Development & Integration",
+          "duration": "2–4 weeks",
+          "tagline": "Hand-coded. Fast. HIPAA-aware from line one.",
+          "summary": "Semantic HTML, accessible components, image optimization, and Core Web Vitals baked in. Integrations — booking, EHR, chat, analytics — are wired up and tested end-to-end.",
+          "deliverables": [
+            "Production-grade code (no page builders)",
+            "Booking / EHR integrations",
+            "GA4 + Search Console setup",
+            "Speed optimization (Lighthouse 95+)",
+            "Accessibility (WCAG 2.1 AA)"
+          ],
+          "youProvide": [
+            "Integration API keys (as needed)",
+            "Content approvals"
+          ],
+          "weDeliver": [
+            "Staging URL",
+            "Test credentials",
+            "QA checklist"
+          ]
+        },
+        {
+          "n": "06",
+          "title": "QA, Launch & Handoff",
+          "duration": "3–5 days",
+          "tagline": "Zero-downtime cutover. Documented handoff.",
+          "summary": "300-point pre-launch QA across browsers, devices, forms, and integrations. DNS cutover happens on your schedule with a rollback plan. You get a walkthrough video and a written playbook.",
+          "deliverables": [
+            "300-point QA checklist",
+            "Cross-browser + device testing",
+            "Zero-downtime DNS cutover",
+            "Redirects live + monitored",
+            "45-min training walkthrough"
+          ],
+          "youProvide": [
+            "DNS access",
+            "Approved launch window"
+          ],
+          "weDeliver": [
+            "Live site",
+            "Training video",
+            "Ops playbook"
+          ]
+        },
+        {
+          "n": "07",
+          "title": "Growth & Optimization",
+          "duration": "Ongoing (monthly)",
+          "tagline": "Launch is the start, not the finish line.",
+          "summary": "Monthly SEO, content, CRO experiments, and monitoring under your chosen bundle. Quarterly business reviews with your named account manager keep the roadmap on track.",
+          "deliverables": [
+            "Monthly SEO + content work",
+            "CRO experiments (A/B tested)",
+            "Ranking + conversion dashboards",
+            "Quarterly business review call",
+            "Named account manager"
+          ],
+          "youProvide": [
+            "Monthly 30-min sync",
+            "Approvals on strategic bets"
+          ],
+          "weDeliver": [
+            "Monthly report",
+            "Rankings dashboard",
+            "Roadmap updates"
+          ]
+        }
+      ]
+    },
+    "principles": {
+      "subtitle": "The principles behind the process",
+      "title": "Six rules we don't bend.",
+      "description": "Every step above is downstream of these six commitments. They're what stop dermatology projects from becoming the horror stories you've heard.",
+      "items": [
+        {
+          "title": "HIPAA-first architecture",
+          "desc": "Every form, every integration reviewed against HIPAA before it ships. No PHI in analytics."
+        },
+        {
+          "title": "Lighthouse 95+ or we rebuild",
+          "desc": "Performance is a launch requirement, not an after-thought. We hit it or we fix it — on us."
+        },
+        {
+          "title": "One point of contact",
+          "desc": "A named project lead from kickoff to handoff. No account-management merry-go-round."
+        },
+        {
+          "title": "Revisions built in",
+          "desc": "Two design + two dev revision rounds included in every package. No nickel-and-diming."
+        },
+        {
+          "title": "Fixed timelines, weekly check-ins",
+          "desc": "Written schedule at kickoff. Weekly progress calls. Delays flagged early, not at the deadline."
+        },
+        {
+          "title": "Slack channel, not ticketing",
+          "desc": "Direct message the team any time. Response SLA measured in hours, not days."
+        }
+      ]
+    },
+    "comparison": {
+      "subtitle": "Why our process wins",
+      "title": "Us vs. agencies vs. freelancers.",
+      "table": {
+        "headers": {
+          "matters": "What matters",
+          "us": "Our process",
+          "agency": "Typical agency",
+          "freelance": "Solo freelancer"
+        },
+        "rows": [
+          {
+            "row": "Bespoke design (no templates)",
+            "us": true,
+            "agency": "Sometimes",
+            "freelance": false
+          },
+          {
+            "row": "Written scope + fixed price upfront",
+            "us": true,
+            "agency": "Hourly",
+            "freelance": "Vague"
+          },
+          {
+            "row": "Medical copywriter on team",
+            "us": true,
+            "agency": "Extra fee",
+            "freelance": false
+          },
+          {
+            "row": "HIPAA compliance review pre-launch",
+            "us": true,
+            "agency": "Extra fee",
+            "freelance": false
+          },
+          {
+            "row": "Lighthouse 95+ guarantee",
+            "us": true,
+            "agency": false,
+            "freelance": false
+          },
+          {
+            "row": "Named account manager (post-launch)",
+            "us": true,
+            "agency": "Enterprise only",
+            "freelance": false
+          },
+          {
+            "row": "Slack access to the actual team",
+            "us": true,
+            "agency": "Email only",
+            "freelance": "Sometimes"
+          },
+          {
+            "row": "Turnaround from kickoff → launch",
+            "us": "6–10 weeks",
+            "agency": "3–6 months",
+            "freelance": "Unpredictable"
+          }
+        ]
+      }
+    },
+    "testimonial": {
+      "quote": "\"The weekly check-ins alone were worth the price. We knew every Monday what shipped last week and what was landing this week. First project in five years that launched on the exact date they promised at kickoff.\"",
+      "author": "Dr. Anika Patel, MD, FAAD",
+      "role": "BH Dermatology · 3 locations"
+    },
+    "faq": {
+      "subtitle": "Process questions",
+      "title": "Frequently asked.",
+      "items": [
+        {
+          "q": "How long does the full process take?",
+          "a": "Most dermatology sites launch 6–10 weeks from kickoff. Starter (1-page) sites launch in 1 week. Enterprise multi-site builds take 10–14 weeks. You get a written schedule with weekly milestones at kickoff — no vague timelines."
+        },
+        {
+          "q": "What do you need from us during the build?",
+          "a": "Roughly 3–5 hours per week: a 60-min kickoff call, weekly 30-min check-ins, doctor interviews for content (30 min each), and approvals via Figma / Slack within 48 hours. We do the heavy lifting — you approve, we ship."
+        },
+        {
+          "q": "Can we start with just design and add development later?",
+          "a": "Yes. We offer standalone discovery + design engagements ($3,900) that produce a Figma prototype and design system you own. You can implement it yourself, hire another dev shop, or return to us later for build — no lock-in either way."
+        },
+        {
+          "q": "What if we need changes after launch?",
+          "a": "Every package includes 30 days of post-launch fixes free of charge. After that, ongoing edits are covered by a monthly bundle (Essential, Growth, Marketing, or Full-Stack) or billed à la carte. You'll always see the invoice before we do the work."
+        },
+        {
+          "q": "Do you write the medical content, or do we?",
+          "a": "Our medical copywriters draft everything, then your medical director reviews and approves. You never start with a blank page. If you prefer to write in-house, we discount the package accordingly."
+        },
+        {
+          "q": "How do you handle HIPAA compliance?",
+          "a": "HIPAA-aware architecture is included in every build: no PHI in analytics, encrypted contact-form transport, masked field logging, and secure hosting. A signed BAA is included on Authority Brand and Enterprise plans, and available as an add-on elsewhere."
+        }
+      ]
+    },
+    "cta": {
+      "badge": "Ready when you are",
+      "title": "Start with Step 01 — a free website audit.",
+      "description": "Free, no pressure. Come away with a project brief, a rough timeline, and a fixed-price proposal — even if you don't hire us.",
+      "buttons": {
+        "freeQuote": "Get a Free Quote",
+        "pricing": "See pricing first"
+      }
+    },
+    "footerLinks": {
+      "prefix": "You might also want to see: ",
+      "about": "who we are and how we work",
+      "comma": ", ",
+      "portfolio": "live projects we've shipped",
+      "or": ", or ",
+      "pricing": "current pricing and packages",
+      "suffix": "."
+    },
+    "mobileCta": {
+      "subtitle": "Start with Step 01",
+      "title": "Free website audit — no cost.",
+      "button": "Get a Free Quote"
+    },
+    "progressRail": {
+      "title": "Journey progress",
+      "step": "Step",
+      "of": "of 07"
+    }
+  }
+}

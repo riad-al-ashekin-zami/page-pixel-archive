@@ -1,0 +1,62 @@
+{
+  "slug": "hipaa-website-mistakes",
+  "title": "7 Errori del Sito Web HIPAA che Vediamo Ancora nel 2026",
+  "excerpt": "Pixel meta, moduli di acquisizione, widget di chat — dove si verificano le fughe di PHI e come bloccarle questa settimana.",
+  "imageAlt": "Lucchetto in ottone appoggiato su una pila di documenti di conformità HIPAA",
+  "body": [
+    {
+      "text": "L'applicazione HIPAA per il tracciamento dei siti web è cambiata drasticamente dalle linee guida OCR del 2022. Se il tuo sito si affida ancora a un pixel Meta predefinito, a una configurazione GA4 predefinita o a un widget di chat non BAA, hai una fuga di dati – e probabilmente non lo sai perché le fughe sono silenziose. La buona notizia: ognuno dei sette errori di seguito può essere risolto in una settimana con uno sforzo coordinato tecnico e legale. La cattiva notizia: la maggior parte degli studi non ha ancora iniziato."
+    },
+    {
+      "text": "Lo scopo di questo post non è spaventarti fino alla paralisi. È darti una lista di controllo concreta che puoi consegnare a chiunque sia responsabile del tuo sito web, oltre a una descrizione in linguaggio semplice del perché ogni elemento è un rischio. Scorri la lista, segna quelli che sai essere aperti e inizia con la fuga di dati più grave lunedì mattina."
+    },
+    {
+      "heading": "I sette errori"
+    },
+    {
+      "list": [
+        "Pixel Meta che si attiva sulle pagine di prenotazione senza filtraggio lato server",
+        "GA4 che traccia i parametri URL che contengono nomi di condizioni",
+        "Widget di chat che memorizzano i log delle conversazioni su infrastrutture non HIPAA",
+        "Moduli di acquisizione che inviano dati a servizi di moduli di terze parti senza un BAA",
+        "IP dei visitatori della chat live memorizzati insieme alle richieste di salute",
+        "Video incorporati di terze parti che si caricano prima del consenso",
+        "Strumenti di replay della sessione che registrano l'input del campo del modulo"
+      ]
+    },
+    {
+      "heading": "Perché il Pixel Meta è il rischio maggiore"
+    },
+    {
+      "text": "Il Pixel Meta è l'elemento di maggiore gravità nell'elenco perché è il più invisibile. Un'installazione predefinita si attiva ad ogni caricamento di pagina e invia URL, referrer e qualsiasi input di modulo che Meta può catturare ai server di Facebook — inclusi URL come /schedule/acne-consult o /request/mole-check. Questo URL è probabilmente PHI nel momento in cui è legato a un indirizzo IP che può essere ricondotto a una persona."
+    },
+    {
+      "text": "La soluzione non è rimuovere il pixel. La soluzione è eseguirlo tramite l'API delle Conversioni lato server con un rigoroso filtraggio di URL ed eventi, e rimuovere qualsiasi stringa di query, segmento di percorso o payload di evento che potrebbe rivelare l'intento della condizione. Questo lavoro richiede a un ingegnere circa due giorni. È il lavoro di conformità con il più alto ROI che puoi fare questo trimestre."
+    },
+    {
+      "heading": "GA4 è la seconda fuga più comune"
+    },
+    {
+      "text": "GA4 presenta fughe in modo diverso: parametri URL che contengono linguaggio diagnostico, o payload di eventi configurati automaticamente e mai revisionati. Ordina gli eventi GA4 per frequenza e leggi i primi 50. Se un nome di evento o un parametro contiene testo relativo a una condizione, quei dati sono stati trasmessi ai server di Google non crittografati dal punto di vista HIPAA. Rinomina, elimina o sostituisci quegli eventi con identificatori puliti."
+    },
+    {
+      "heading": "Widget di chat e moduli di acquisizione"
+    },
+    {
+      "text": "I widget di chat e i moduli di acquisizione sono la terza categoria. Qualsiasi strumento che cattura input conversazionali necessita di un Accordo di Associazione Commerciale (BAA) prima di toccare una richiesta di paziente. Se il tuo attuale fornitore di chat non è in grado di produrre un BAA firmato entro un'ora dalla richiesta, sostituiscilo. I buoni fornitori conformi a HIPAA hanno BAA pronti; quelli rischiosi no."
+    },
+    {
+      "text": "La stessa regola si applica ai moduli di acquisizione. Se il tuo provider di moduli memorizza le sottomissioni sui suoi server senza un BAA, ogni sottomissione è un evento di conformità. Passa a una soluzione di moduli con un BAA firmato (o ospita tu stesso sulla tua infrastruttura idonea HIPAA) prima di lanciare la tua prossima campagna."
+    },
+    {
+      "heading": "Replay di sessione, video incorporati e la coda lunga"
+    },
+    {
+      "text": "Gli strumenti di replay della sessione sono strumenti di ricerca di prodotto straordinari e straordinarie mine antiuomo HIPAA. Ogni strumento di replay deve essere configurato per mascherare ogni campo del modulo per impostazione predefinita, mascherare qualsiasi elemento contenente testo che potrebbe essere PHI e memorizzare le registrazioni su un'infrastruttura coperta da un BAA. I video incorporati da YouTube o Vimeo caricano cookie di terze parti prima del consenso dell'utente — scambia con un'incorporazione privacy-first o un caricatore leggero che si inizializza solo dopo un'azione esplicita."
+    },
+    {
+      "text": "Il messaggio cumulativo è questo: la conformità HIPAA nel 2026 è un problema di ingegneria del sito web tanto quanto legale. Trattalo come manutenzione ricorrente, non come un audit una tantum. Rivedi trimestralmente il tuo stack di tracciamento, ritira i fornitori che non possono firmare BAA e documenta ogni correzione in un registro di conformità a cui il tuo team di leadership può fare riferimento quando la lettera dell'OCR arriverà."
+    }
+  ],
+  "faqs": null
+}

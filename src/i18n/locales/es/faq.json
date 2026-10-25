@@ -1,0 +1,275 @@
+{
+  "meta": {
+    "title": "FAQ — Diseño de Sitios Web para Dermatología, SEO y Soluciones HIPAA",
+    "description": "Respuestas directas sobre precios, plazos, SEO, HIPAA, rediseños, migraciones y soporte continuo para clínicas dermatológicas en crecimiento.",
+    "keywords": "FAQ sitio web dermatología, FAQ SEO dermatología, preguntas HIPAA sitio web, costo sitio web dermatología, plazos sitio web dermatología",
+    "breadcrumbList": {
+      "home": "Inicio",
+      "faq": "Preguntas Frecuentes"
+    }
+  },
+  "hero": {
+    "badge": "{{totalCount}} respuestas · Especializadas en Dermatología",
+    "heading": "Todo lo que su clínica dermatológica realmente necesita saber.",
+    "subheading": "Precios, plazos, SEO, HIPAA, rediseños, migraciones e integraciones. Directo, específico y redactado por el equipo que ejecutará el trabajo.",
+    "search": {
+      "label": "Buscar en FAQ",
+      "placeholder": "Buscar costos, HIPAA, rediseño, SEO...",
+      "hint": "Presione / o ⌘K para buscar",
+      "results": "{{count}} respuesta coincide con \"{{query}}\"",
+      "results_plural": "{{count}} respuestas coinciden con \"{{query}}\""
+    },
+    "stats": [
+      {
+        "label": "Entrega de auditoría",
+        "value": "24h"
+      },
+      {
+        "label": "Clínicas dermatológicas",
+        "value": "50+"
+      },
+      {
+        "label": "Objetivo Lighthouse",
+        "value": "95+"
+      }
+    ]
+  },
+  "navigation": {
+    "skipToContent": "Saltar al contenido",
+    "browseByTopic": "Explorar por tema",
+    "onThisPage": "En esta página",
+    "all": "Todo",
+    "clearFilters": "Borrar filtros",
+    "askUs": "Consúltenos"
+  },
+  "popular": {
+    "badge": "Más consultadas",
+    "heading": "Preguntas populares"
+  },
+  "searchNoResults": {
+    "heading": "Aún no tenemos respuestas para eso.",
+    "subheading": "Pruebe con uno de estos temas, o envíenos su duda y le responderemos en 24 horas.",
+    "suggested": [
+      "precios",
+      "HIPAA",
+      "plazos",
+      "SEO",
+      "rediseño",
+      "EHR"
+    ]
+  },
+  "feedback": {
+    "question": "¿Le resultó útil?",
+    "success": "¡Gracias por sus comentarios!",
+    "clarify": "Gracias, aclararemos este punto pronto.",
+    "ariaHelpful": "Marcar como útil",
+    "ariaNotHelpful": "Marcar como no útil"
+  },
+  "categories": {
+    "general": {
+      "title": "General y Primeros pasos",
+      "short": "General",
+      "intro": "Con quién trabajamos, cómo inician los proyectos y qué esperar.",
+      "items": [
+        {
+          "q": "¿Para quién construyen sitios web?",
+          "a": "Trabajamos exclusivamente con clínicas dermatológicas: dermatólogos particulares, clínicas grupales, subespecialidades cosméticas/médicas/pediátricas y grupos con múltiples sedes. Al enfocarnos en un solo nicho, cada patrón de página e integración ya está optimizado según cómo los pacientes buscan y reservan citas."
+        },
+        {
+          "q": "¿Cómo inicia un proyecto?",
+          "a": "Comienza con una sesión de descubrimiento, seguida de una auditoría gratuita de su sitio actual: SEO, velocidad, HIPAA, UX y conversión. A partir de ahí, definimos una propuesta fija con entregables, hitos y precio claro. Sin facturación por horas sin límite.",
+          "cta": "Vea nuestro proceso"
+        },
+        {
+          "q": "¿Sustituyen a nuestra agencia actual?",
+          "a": "A veces. Muchos clientes nos mantienen como su socio a largo plazo especializado en dermatología y usan una agencia general para impresos o PR. Estamos encantados de coexistir; simplemente nos encargamos del sitio web, SEO y la estrategia de adquisición de forma integral."
+        },
+        {
+          "q": "¿Seremos dueños del sitio web?",
+          "a": "Sí. Usted es dueño del dominio, el código, el contenido y cada cuenta que creemos en su nombre. Nada queda como rehén. Si decide irse, le entregamos todo de forma limpia."
+        }
+      ]
+    },
+    "pricing": {
+      "title": "Precios y Plazos",
+      "short": "Precios",
+      "intro": "Costos de los proyectos, tiempos de entrega y métodos de facturación.",
+      "items": [
+        {
+          "q": "¿Cuánto cuesta un sitio web para dermatología?",
+          "a": "La mayoría de los sitios web personalizados para dermatología oscilan entre $6,500 y $18,500, dependiendo del número de páginas, integraciones (EHR, portal, e-commerce), complejidad de la galería de antes/después y producción de contenidos. Los grupos con múltiples sedes suelen estar en un rango superior. Cada presupuesto es fijo, no por hora.",
+          "cta": "Vea planes y precios"
+        },
+        {
+          "q": "¿Cuánto tarda la construcción?",
+          "a": "Un sitio enfocado para una sola sede se lanza en 4 a 7 semanas. Proyectos más complejos con múltiples sedes, e-commerce o migración masiva de contenido tardan de 8 a 12 semanas. Los plazos dependen de la retroalimentación oportuna de su equipo; enviamos un cronograma para que nada se retrase."
+        },
+        {
+          "q": "¿Ofrecen planes de pago?",
+          "a": "Sí. Una estructura común es 40% al inicio, 40% tras la aprobación del diseño y 20% al lanzamiento. Los proyectos grandes pueden dividirse mensualmente. Los servicios mensuales de marketing se facturan mes a mes."
+        },
+        {
+          "q": "¿Qué está incluido en el precio?",
+          "a": "Estrategia, diseño, construcción, redacción publicitaria, SEO on-page, Esquema (Schema), configuración de analítica, gestión de formularios aptos para HIPAA, entorno de pruebas, control de calidad, lanzamiento y 30 días de soporte post-lanzamiento. Sin cargos sorpresa."
+        }
+      ]
+    },
+    "seo": {
+      "title": "SEO y Crecimiento",
+      "short": "SEO",
+      "intro": "Cómo logramos que posicione —y se mantenga— en su área de servicio.",
+      "items": [
+        {
+          "q": "¿Dañará el nuevo sitio nuestro SEO actual?",
+          "a": "El plan es justamente lo contrario. Auditamos cada URL que posiciona, mapeamos redirecciones 301, preservamos la autoridad de los enlaces externos y optimizamos las señales on-page durante la migración. La mayoría de los clientes mantienen o mejoran sus rankings en 30-60 días."
+        },
+        {
+          "q": "¿Gestionan SEO local para clínicas con múltiples sedes?",
+          "a": "Sí. Cada ubicación recibe su propia página optimizada, alineación con Google Business Profile, contenido local único (nada de textos genéricos) y datos estructurados. Medimos resultados por ubicación y servicio, no solo por la página de inicio."
+        },
+        {
+          "q": "¿Cuánto tardan en verse los resultados de SEO?",
+          "a": "Los resultados en mapas locales suelen moverse en 4-8 semanas. Palabras clave competitivas (Aesthetic, Mohs, láser) requieren de 3 a 6 meses de contenido y enlaces constantes. Reportamos mensualmente con datos reales de ranking, tráfico y prospectos."
+        },
+        {
+          "q": "¿Ustedes escriben el contenido?",
+          "a": "Sí, con su revisión médica. Nuestros redactores se especializan en contenido de salud para dermatología: enfocado en el paciente, alineado con E-E-A-T y revisado por su equipo clínico antes de publicarse."
+        }
+      ]
+    },
+    "hipaa": {
+      "title": "HIPAA y Cumplimiento",
+      "short": "HIPAA",
+      "intro": "Cómo mantenemos la información de salud protegida (PHI) fuera de canales vulnerables.",
+      "items": [
+        {
+          "q": "¿Sus sitios cumplen con HIPAA?",
+          "a": "Construimos sitios preparados para HIPAA: formularios cifrados vía TLS, sin PHI en herramientas de analítica o píxeles de marketing, acuerdos BAA firmados con proveedores de hosting y formularios, y flujos de trabajo que evitan enviar PHI por email. El cumplimiento es un programa activo, no solo una casilla de verificación.",
+          "cta": "Obtenga auditoría gratuita"
+        },
+        {
+          "q": "¿Firman un acuerdo BAA?",
+          "a": "Sí, para los servicios donde aplique (hosting, recepción de formularios, almacenamiento). Solo recomendamos proveedores que firmen este acuerdo cuando hay PHI involucrada."
+        },
+        {
+          "q": "¿Pueden auditar nuestra situación actual respecto a HIPAA?",
+          "a": "Sí, es parte de nuestra auditoría web gratuita. Identificamos rastreadores de riesgo, formularios inseguros, fugas de PHI en URLs y vacíos con proveedores para darle una lista de prioridades a corregir."
+        },
+        {
+          "q": "¿Qué hay del cumplimiento ADA / accesibilidad?",
+          "a": "Cada sitio se entrega bajo estándares WCAG 2.2 AA, con declaración de ADA y canal de retroalimentación funcional. La accesibilidad se integra desde el diseño (contraste, foco de teclado, lectores de pantalla) y no mediante parches superficiales."
+        }
+      ]
+    },
+    "design": {
+      "title": "Diseño y Rediseño",
+      "short": "Diseño",
+      "intro": "Enfoque en identidad visual, UX y reconstrucciones.",
+      "items": [
+        {
+          "q": "¿Es un diseño a medida o basado en plantillas?",
+          "a": "100% a medida. Comenzamos con su marca, perfiles de pacientes y servicios. No adaptamos una plantilla genérica; cada página se diseña para las conversiones que realmente importan a su clínica."
+        },
+        {
+          "q": "¿Pueden igualar nuestra marca actual?",
+          "a": "Sí. Respetamos sus guías de marca existentes. Si no cuenta con ellas, podemos refrescar su identidad (logo, colores, tipografía) como complemento para que el sitio luzca cohesivo de principio a fin."
+        },
+        {
+          "q": "¿Cómo protege el rediseño nuestro tráfico actual?",
+          "a": "Auditamos las páginas con mejor ranking, mapeamos redirecciones y preservamos el marcado Schema. El sitio nuevo se prueba en un entorno privado antes del lanzamiento para corregir cualquier anomalía en horas, no en semanas."
+        },
+        {
+          "q": "¿Se encargan de la fotografía?",
+          "a": "Coordinamos con fotógrafos médicos locales si es necesario. Para las galerías de antes y después, configuramos flujos de consentimiento y una estructura de contenido que su personal pueda mantener fácilmente."
+        }
+      ]
+    },
+    "support": {
+      "title": "Soporte y Mantenimiento",
+      "short": "Soporte",
+      "intro": "Qué sucede tras el lanzamiento y cómo nos mantenemos a su disposición.",
+      "items": [
+        {
+          "q": "¿Qué pasa después del lanzamiento?",
+          "a": "Incluimos 30 días de soporte directo. Después, la mayoría de los clientes optan por un plan de cuidado: actualizaciones, monitoreo, respaldos, parches de seguridad, cambios menores de contenido y revisión mensual de rendimiento."
+        },
+        {
+          "q": "¿Qué tan rápido es el soporte?",
+          "a": "Los clientes en planes de cuidado reciben respuesta el mismo día laboral; los problemas críticos se atienden en horas. Hablará con un humano, no con una fila de tickets automatizada."
+        },
+        {
+          "q": "¿Gestionan el hosting?",
+          "a": "Sí. Alojamos en infraestructura apta para HIPAA con CDN, respaldos automáticos y SSL. Si prefiere hosting propio, podemos desplegar en su entorno y documentar la entrega."
+        },
+        {
+          "q": "¿Podemos editar el sitio nosotros mismos?",
+          "a": "Sí. Cada sitio incluye un CMS fácil de usar para su equipo: podrá editar páginas, artículos de blog, perfiles médicos, sedes y casos de antes/después sin tocar una línea de código."
+        }
+      ]
+    },
+    "integrations": {
+      "title": "Integraciones y Herramientas",
+      "short": "Integraciones",
+      "intro": "Cómo se conecta el sitio web con el resto de su tecnología.",
+      "items": [
+        {
+          "q": "¿Se integran con nuestro EHR o herramienta de citas?",
+          "a": "Sí. Hemos trabajado con los principales EHR y plataformas de citas dermatológicas (Nextech, ModMed, Zocdoc, Klara y más). Si existe una API o código de inserción, lo integramos de forma limpia."
+        },
+        {
+          "q": "¿Podemos vender productos en línea?",
+          "a": "Sí. Desarrollamos soluciones de e-commerce seguras para líneas de productos dermatológicos con Shopify o sistemas headless, incluyendo suscripciones y sincronización de inventario."
+        },
+        {
+          "q": "¿Configuran seguimiento de llamadas y analítica?",
+          "a": "Sí. GA4, rastreo de conversiones en llamadas y formularios, grabación de llamadas (donde sea legal) y atribución de ingresos por canal, todo con enfoque en HIPAA."
+        },
+        {
+          "q": "¿Qué pasa con el email marketing y CRM?",
+          "a": "Nos integramos con el CRM/ESP que ya utilice o le recomendamos uno apto para flujos médicos. Las secuencias automatizadas para solicitudes de consulta son un complemento común."
+        }
+      ]
+    }
+  },
+  "cta": {
+    "badge": "¿Todavía tiene dudas?",
+    "heading": "Pregunte lo que sea: reciba una respuesta real en 24 horas.",
+    "subheading": "Sin discursos de venta ni evasivas. Envíenos la pregunta que su agencia anterior no supo responder y le daremos detalles técnicos específicos.",
+    "buttons": {
+      "contact": "Contáctenos",
+      "audit": "Auditoría web gratuita"
+    }
+  },
+  "related": {
+    "badge": "Relacionado",
+    "heading": "Siga explorando",
+    "items": [
+      {
+        "title": "Listas de Control Web",
+        "desc": "108 puntos de control en 9 categorías.",
+        "link": "Explorar"
+      },
+      {
+        "title": "Planes y Precios",
+        "desc": "Paquetes transparentes para cada etapa.",
+        "link": "Explorar"
+      },
+      {
+        "title": "Auditoría Gratuita",
+        "desc": "Reporte personalizado en 24 horas.",
+        "link": "Explorar"
+      },
+      {
+        "title": "Nuestro Proceso",
+        "desc": "Cómo ejecutamos cada proyecto.",
+        "link": "Explorar"
+      }
+    ]
+  },
+  "footerLinks": {
+    "text": "¿Aún busca algo? Esto puede ayudar: ",
+    "auditLink": "empiece con una auditoría gratuita",
+    "caseStudiesLink": "lea historias de clientes recientes",
+    "pricingLink": "vea nuestra estructura de precios"
+  }
+}

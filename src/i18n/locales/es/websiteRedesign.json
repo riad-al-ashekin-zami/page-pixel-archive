@@ -1,0 +1,340 @@
+{
+  "meta": {
+    "title": "Rediseño de sitios web dermatológicos: modernización sin pérdida de SEO",
+    "description": "Rediseño premium de sitios web de dermatología para consultas individuales, multisede, pediátricas y cirugía de Mohs. Moderno, rápido, compatible con HIPAA y sin pérdida de SEO al lanzar.",
+    "og_title": "Rediseño de sitios web de dermatología — Cero pérdida de SEO",
+    "og_description": "Transforme su sitio dermatológico obsoleto en una experiencia rápida, enfocada en conversiones y compatible con HIPAA. Redirecciones 301 y SEO preservado.",
+    "jsonLd": {
+      "serviceType": "Rediseño de sitio web de dermatología",
+      "providerName": "DW Design",
+      "offerDescription": "Rediseño de sitio web de dermatología — precio inicial"
+    }
+  },
+  "hero": {
+    "scarcityBadge": "Solo quedan 3 cupos de rediseño este trimestre",
+    "category": "Rediseño de sitios web de dermatología",
+    "h1": {
+      "main": "Modernice el sitio de su clínica. ",
+      "highlight": "Sin perder su SEO."
+    },
+    "description": "Un rediseño profesional y experto para clínicas dermatológicas: más rápido, más seguro y más atractivo. Redirecciones 301, formularios compatibles con HIPAA y posicionamiento garantizado.",
+    "cta": {
+      "primary": "Solicitar cotización de rediseño",
+      "secondary": "Auditoría de rediseño gratuita"
+    },
+    "pricing": {
+      "label": "Rediseños desde",
+      "value": "$4,900",
+      "detail": "· alcance fijado, facturación por hitos"
+    },
+    "trustLabels": [
+      "Cero pérdida de SEO",
+      "Sin tiempo de inactividad",
+      "Compatible con HIPAA",
+      "Lighthouse 95+"
+    ],
+    "socialProof": "La confianza de más de 50 clínicas dermatológicas · Destacado en",
+    "dragHint": "← Deslice para comparar →",
+    "badges": {
+      "before": "Antes",
+      "after": "Después",
+      "performance": "Lighthouse 48 → 98",
+      "growth": "+3.4x en citas",
+      "seo": "Cero pérdida de SEO"
+    },
+    "aria": {
+      "compare": "Mostrar antes / después del rediseño"
+    }
+  },
+  "sections": {
+    "painPoints": {
+      "overhead": "Señales de que necesita un rediseño",
+      "heading": "Pase el cursor para ver la solución",
+      "description": "Cada tarjeta roja representa un problema común en sitios dermatológicos. Pase el cursor (o presione) para ver cómo el rediseño lo soluciona.",
+      "cards": [
+        {
+          "pain": "Carga lenta",
+          "painStat": "> 4s LCP",
+          "solution": "Edge caching + optimización de imágenes",
+          "solutionStat": "< 1.2s LCP"
+        },
+        {
+          "pain": "Falla en móviles",
+          "painStat": "60%+ tráfico perdido",
+          "solution": "Reconstrucción mobile-first",
+          "solutionStat": "100% responsivo"
+        },
+        {
+          "pain": "Invisible en Google",
+          "painStat": "Página 3+",
+          "solution": "Schema + SEO on-page",
+          "solutionStat": "Top 3 local"
+        },
+        {
+          "pain": "Diseño obsoleto",
+          "painStat": "Pérdida de confianza",
+          "solution": "Sistema de diseño personalizado",
+          "solutionStat": "Marca premium"
+        },
+        {
+          "pain": "Riesgo HIPAA",
+          "painStat": "Formularios no seguros",
+          "solution": "Infraestructura con BAA-ready",
+          "solutionStat": "Auditoría aprobada"
+        },
+        {
+          "pain": "Pocas reservas",
+          "painStat": "< 2% CVR",
+          "solution": "Flujos optimizados para CRO",
+          "solutionStat": "6%+ CVR"
+        }
+      ]
+    },
+    "stats": {
+      "overhead": "Lo que cambia",
+      "heading": "Antes vs. después de un rediseño real",
+      "description": "Promedio basado en las clínicas dermatológicas que hemos relanzado en los últimos 24 meses.",
+      "labels": {
+        "before": "Antes",
+        "after": "Después"
+      },
+      "items": [
+        {
+          "label": "Carga de página (LCP)"
+        },
+        {
+          "label": "Puntaje Lighthouse"
+        },
+        {
+          "label": "Conversión de citas"
+        },
+        {
+          "label": "Ranking local en Google"
+        }
+      ]
+    },
+    "seoTimeline": {
+      "overhead": "Preservación de SEO",
+      "heading": "Cómo protegemos su ranking",
+      "description": "Un protocolo de 90 días y cinco pasos para que Google (y sus pacientes) sigan encontrándole durante la transición.",
+      "steps": [
+        {
+          "day": "Día 1",
+          "label": "Rastreo completo de URLs + captura de rankings"
+        },
+        {
+          "day": "Semana 2",
+          "label": "Mapa de redirecciones 1:1 aprobado"
+        },
+        {
+          "day": "Lanzamiento",
+          "label": "Redirecciones 301 activadas con el cambio"
+        },
+        {
+          "day": "Día 30",
+          "label": "Optimización en Google Search Console"
+        },
+        {
+          "day": "Día 90",
+          "label": "Rankings monitoreados y ajustados"
+        }
+      ]
+    },
+    "audiences": {
+      "overhead": "A quién nos dirigimos",
+      "heading": "Rediseños para cada tipo de práctica dermatológica",
+      "items": [
+        {
+          "label": "Dermatólogos independientes",
+          "desc": "Una renovación boutique que reposiciona su marca y aumenta las citas."
+        },
+        {
+          "label": "Clínicas multisede",
+          "desc": "Consolide sitios dispersos en un solo sistema escalable por ubicación."
+        },
+        {
+          "label": "Dermatología pediátrica",
+          "desc": "UX más cercana para padres, con flujos de admisión y tutoría más claros."
+        },
+        {
+          "label": "Cirugía de Mohs y quirúrgica",
+          "desc": "Eleve su autoridad para médicos referentes y pacientes de autoderivación."
+        }
+      ]
+    },
+    "pillars": {
+      "overhead": "Por qué es Premium",
+      "heading": "Seis estándares en cada rediseño",
+      "description": "Diseño, ingeniería, SEO y cumplimiento: integrados desde el primer día.",
+      "items": [
+        {
+          "title": "Cero pérdida de SEO",
+          "desc": "Redirecciones 301, estructura de URL preservada y monitoreo de ranking por 90 días."
+        },
+        {
+          "title": "Diseño 100% personalizado",
+          "desc": "Sin plantillas: un sistema a medida para la marca y especialidades de su clínica."
+        },
+        {
+          "title": "Lighthouse 95+",
+          "desc": "Reconstrucción enfocada en rendimiento: imágenes optimizadas y JavaScript ligero."
+        },
+        {
+          "title": "Compatible con HIPAA",
+          "desc": "Formularios seguros, hosting con BAA, sin PHI en analíticas y listo para auditorías."
+        },
+        {
+          "title": "Totalmente responsivo",
+          "desc": "Perfección visual en computadoras, tabletas y móviles, probado en dispositivos reales."
+        },
+        {
+          "title": "Accesibilidad (WCAG AA)",
+          "desc": "Navegación por teclado, contraste seguro y etiquetas para lectores de pantalla."
+        }
+      ]
+    },
+    "services": {
+      "overhead": "Cobertura de servicios médicos",
+      "heading": "Cada página de servicio reconstruida para convertir",
+      "description": "Reestructuramos y redactamos cada página de tratamiento: precisa, amigable para el paciente y optimizada para Google.",
+      "features": [
+        "H1 / H2 / FAQ optimizados con palabras clave",
+        "Contenido migrado con 301s",
+        "Formularios de admisión compatibles con HIPAA",
+        "Rápido, indexable y mobile-first"
+      ],
+      "list": [
+        "Tratamiento de acné",
+        "Tratamiento de eccema",
+        "Tratamiento de psoriasis",
+        "Infecciones cutáneas",
+        "Alergias en la piel",
+        "Detección y tratamiento de cáncer de piel",
+        "Evaluación y eliminación de lunares",
+        "Extracción de quistes y lipomas",
+        "Eliminación de verrugas",
+        "Trastornos de las uñas",
+        "Tratamiento para la caída del cabello",
+        "Trastornos del cuero cabelludo",
+        "Tratamiento de rosácea",
+        "Hiperpigmentación y melasma",
+        "Tratamiento de cicatrices",
+        "Cicatrices por quemaduras",
+        "Tratamiento de vitíligo",
+        "Biopsias y diagnósticos cutáneos"
+      ]
+    },
+    "process": {
+      "overhead": "Proceso de rediseño",
+      "heading": "Cuatro fases. Cero sorpresas.",
+      "items": [
+        {
+          "step": "01",
+          "title": "Auditoría y diagnóstico",
+          "desc": "Análisis de SEO, rendimiento, UX y contenido actual. Mapeamos qué mantener, arreglar y reemplazar."
+        },
+        {
+          "step": "02",
+          "title": "Arquitectura y mapa de redirecciones",
+          "desc": "Nuevo sitemap y mapeo 1:1 de URLs con 301s planificados antes de cualquier decisión de diseño."
+        },
+        {
+          "step": "03",
+          "title": "Diseño y desarrollo",
+          "desc": "Sistema de diseño a medida, código limpio, formularios seguros y marcado Schema integrado."
+        },
+        {
+          "step": "04",
+          "title": "Migración y lanzamiento",
+          "desc": "Migración de contenido, despliegue de redirecciones y monitoreo tras el lanzamiento sin desconexión."
+        }
+      ]
+    },
+    "portfolio": {
+      "overhead": "Rediseños recientes",
+      "heading": "Transformaciones antes y después",
+      "cta": "Ver portafolio completo",
+      "items": [
+        {
+          "label": "LA Dermatology",
+          "meta": "Antes → Después · +187% en citas, mantuvo el #1 en ranking",
+          "alt": "Rediseño de sitio web para LA Dermatology"
+        },
+        {
+          "label": "RS Institute",
+          "meta": "Consolidación de 6 sitios · +142% en tráfico",
+          "alt": "Rediseño de sitio web para RS Institute"
+        },
+        {
+          "label": "CM Surgical",
+          "meta": "Rediseño · +230% en prospectos referidos",
+          "alt": "Rediseño de sitio web para CM Surgical"
+        }
+      ]
+    }
+  },
+  "testimonials": {
+    "aria": {
+      "button": "Testimonio"
+    },
+    "items": [
+      {
+        "name": "Dr. Ethan Caldwell, MD",
+        "role": "LA Dermatology · Consulta individual",
+        "quote": "El rediseño fue impecable: no perdimos ni un solo ranking en Google y en 60 días duplicamos las citas. Por fin refleja la calidad de nuestra práctica."
+      },
+      {
+        "name": "Dr. Ibrahim Okafor, MD",
+        "role": "RS Institute · 6 ubicaciones",
+        "quote": "Consolidar seis sitios antiguos parecía imposible. Lo lograron en ocho semanas sin pérdida de SEO y con cada sede posicionándose mejor que antes."
+      },
+      {
+        "name": "Dra. Anika Vasquez, MD",
+        "role": "CM Surgical",
+        "quote": "Los médicos que nos refieren pacientes comentan sobre el nuevo sitio. La calidad de los prospectos aumentó drásticamente. La mejor decisión de marketing."
+      }
+    ]
+  },
+  "faq": {
+    "overhead": "Preguntas frecuentes",
+    "heading": "Sobre el rediseño",
+    "items": [
+      {
+        "q": "¿Caerá mi ranking SEO después del rediseño?",
+        "a": "No. Preservamos la estructura de URLs, implementamos redirecciones 301, mantenemos el contenido clave, migramos metadatos y monitoreamos los rankings por 90 días después del lanzamiento."
+      },
+      {
+        "q": "¿Cuánto tiempo toma el rediseño?",
+        "a": "Normalmente toma entre 5 y 8 semanas. Clínicas multisede o sitios complejos pueden tomar de 8 a 12 semanas. Trabajamos con un calendario de hitos semanales."
+      },
+      {
+        "q": "¿Migran mi contenido actual?",
+        "a": "Sí. Auditamos, reestructuramos y migramos cada página: servicios, doctores, antes y después, blog, formularios y datos de ubicación sin pérdida alguna."
+      },
+      {
+        "q": "¿Pueden rediseñar el sitio sobre mi sistema actual de citas / EHR?",
+        "a": "Sí. Nos integramos con los EHR, portales de pacientes y widgets de reserva más comunes en dermatología, siempre bajo estándares HIPAA."
+      },
+      {
+        "q": "¿Qué pasa si tengo un contrato vigente con otra agencia?",
+        "a": "Podemos comenzar la planificación durante su periodo de aviso y lanzar el sitio el mismo día en que expire su contrato actual. Cero tiempo de inactividad."
+      }
+    ]
+  },
+  "cta": {
+    "overhead": "Auditoría gratuita de sitio web",
+    "heading": "¿Es momento de renovar su sitio dermatológico?",
+    "description": "Envíenos su URL. La revisaremos personalmente para mostrarle exactamente qué le está costando pacientes y cómo un rediseño lo soluciona sin afectar su SEO.",
+    "logoAlt": "DW — Diseño Web para Dermatología",
+    "providerName": "Dermatology Website Design",
+    "providerRole": "Ayudamos a dermatólogos a crecer online",
+    "primary": "Obtener cotización de rediseño",
+    "secondary": "Contáctenos",
+    "footerLinksPrefix": "También podría interesarle: ",
+    "footerLinks": {
+      "migration": "planificación de migración total",
+      "maintenance": "mantenimiento post-lanzamiento",
+      "portfolio": "ver casos de éxito"
+    }
+  }
+}

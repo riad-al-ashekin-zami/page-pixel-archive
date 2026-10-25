@@ -1,0 +1,99 @@
+{
+  "cta": {
+    "eyebrow": "Kostenloses Website-Audit",
+    "headingLead": "Bereit für Wachstum Ihrer",
+    "headingHighlight": "dermatologischen Praxis",
+    "headingTailShort": "?",
+    "headingTailLong": " online?",
+    "descriptionShort": "Erhalten Sie ein kostenloses Website-Audit und einen individuellen Wachstumsplan – kostenlos.",
+    "descriptionLong": "Erhalten Sie ein kostenloses Website-Audit. Wir überprüfen Ihre Website, identifizieren Wachstumslücken und erstellen einen Plan – kostenlos.",
+    "button": "Kostenloses Angebot einholen",
+    "trustedBy": "Vertraut von Dermatologen weltweit"
+  },
+  "brand": {
+    "logoAlt": "Dermatology Website Design",
+    "homeAria": "Dermatology Website Design — Startseite",
+    "tagline": "Websites, exklusiv für Dermatologen und Hautkliniken. HIPAA-bewusste, SEO-optimierte, konversionsorientierte Websites, die Praxen helfen, online zu wachsen.",
+    "whatsappLabel": "Chatten Sie mit uns auf WhatsApp",
+    "whatsappCta": "Chat auf WhatsApp",
+    "location": "Betreuung dermatologischer Praxen weltweit"
+  },
+  "columns": {
+    "services": "Dienstleistungen",
+    "company": "Unternehmen",
+    "resources": "Ressourcen",
+    "legal": "Rechtliches"
+  },
+  "services": {
+    "websiteDesign": "Website-Design",
+    "websiteRedesign": "Website-Relaunch",
+    "websiteMigration": "Website-Migration",
+    "websiteManagement": "Website-Management",
+    "ecommerce": "E-Commerce-Website",
+    "socialMedia": "Social Media Management"
+  },
+  "company": {
+    "about": "Über uns",
+    "process": "Unser Prozess",
+    "caseStudies": "Fallstudien",
+    "contact": "Kontakt"
+  },
+  "resources": {
+    "blog": "Blog",
+    "faq": "FAQ",
+    "audit": "Kostenloses Website-Audit",
+    "auditBadge": "KOSTENLOS",
+    "checklists": "Checklisten",
+    "patientPortal": "Patientenportal",
+    "addOns": "Zusatzleistungen"
+  },
+  "legal": {
+    "serviceAgreement": "Dienstleistungsvereinbarung",
+    "privacy": "Datenschutzrichtlinie",
+    "terms": "Nutzungsbedingungen",
+    "refund": "Rückerstattungsrichtlinie",
+    "cookies": "Cookie-Richtlinie"
+  },
+  "hipaaBadge": {
+    "title": "HIPAA-konform",
+    "note": "Datenschutz & Sicherheit in jeder Website integriert"
+  },
+  "trustBadges": {
+    "hipaa": {
+      "label": "HIPAA-konform",
+      "note": "Compliance-First-Design"
+    },
+    "ada": {
+      "label": "ADA-zugänglich",
+      "note": "WCAG 2.1 konform"
+    },
+    "ssl": {
+      "label": "SSL gesichert",
+      "note": "256-Bit-Verschlüsselung"
+    },
+    "seo": {
+      "label": "SEO-optimiert",
+      "note": "Höherer Rang bei Google"
+    },
+    "mobile": {
+      "label": "Mobilfreundlich",
+      "note": "Perfekt auf allen Geräten"
+    },
+    "speed": {
+      "label": "Schnelles Laden",
+      "note": "95+ Lighthouse Score"
+    }
+  },
+  "bottom": {
+    "copyright": "© 2026 {{brand}}.",
+    "brand": "Dermatology Website Design",
+    "rights": "Alle Rechte vorbehalten.",
+    "madeWith": "Gemacht mit",
+    "madeFor": "für dermatologische Praxen",
+    "backToTop": "Nach oben"
+  },
+  "compliance": {
+    "heading": "Hinweis zur Compliance",
+    "body": "Wir erstellen HIPAA-bewusste Websites und implementieren Best-Practice-Sicherheitsmaßnahmen. Kunden sind dafür verantwortlich, dass ihre Praxis alle geltenden Gesundheitsvorschriften und gesetzlichen Anforderungen einhält, einschließlich des Abschlusses einer unterzeichneten Geschäftspartnervereinbarung (BAA), wenn geschützte Gesundheitsinformationen (PHI) verarbeitet werden. Inhalte auf dieser Website dienen nur zu Informationszwecken und stellen keine medizinische, rechtliche oder finanzielle Beratung dar. Ergebnisse aus Marketing-, SEO- und Konversionsdiensten variieren je nach Praxis, Markt und Aufwand und werden nicht garantiert. Alle Namen, Logos und Marken Dritter gehören ihren jeweiligen Eigentümern und dienen nur zur Identifizierung."
+  }
+}

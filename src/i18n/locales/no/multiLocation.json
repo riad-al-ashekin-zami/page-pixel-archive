@@ -1,0 +1,442 @@
+{
+  "meta": {
+    "title": "Nettsidedesign for dermatologiske klinikker med flere lokasjoner | Ett varemerke, hver by",
+    "description": "Førsteklasses design for dermatologiske nettsteder med flere lokasjoner. Kontrollert merkevaresystem, lokal SEO per avdeling, Google Business Profile per klinikk, felles booking, HIPAA-klart. Ranger øverst i hver by dere betjener.",
+    "og_title": "Nettsidedesign for dermatologiske klinikker med flere lokasjoner | Ett varemerke, hver by",
+    "og_description": "Designe et kontrollert nettsted for dermatologi med flere lokasjoner som rangerer per by, konverterer per avdeling, og skalerer etter hvert som dere åpner nye klinikker. HIPAA-klart, Lighthouse 95+, ekte lokal SEO.",
+    "jsonLd": {
+      "serviceType": "Multi-Location Dermatology Website Design",
+      "providerName": "DW Design",
+      "audienceType": "Multi-Location Dermatology Clinics",
+      "offerDescription": "Nettsidedesign for dermatologi med flere lokasjoner — startpris"
+    }
+  },
+  "hero": {
+    "badge": "Ett varemerke · Hver by · Fullt indeksert",
+    "title": "Nettsidedesign for dermatologi som rangerer i hver eneste by dere åpner.",
+    "description": "Et kontrollert merkevaresystem, en unik indeksert side per klinikk, lokasjonsspesifikk schema, GBP, anmeldelser og booking – slik at en pasient i Oslo, Bergen eller Trondheim ser en lokal hudlegepraksis, ikke en ansiktsløs kjede.",
+    "cta": "Planlegg vår flersteds-løsning",
+    "secondary_cta": "Gratis lokal SEO-revisjon",
+    "stats": {
+      "brand": {
+        "value": "1 varemerke",
+        "description": "Kontrollert designsystem"
+      },
+      "locations": "Lokasjoner skalert til",
+      "performance": "Lighthouse på hver side"
+    },
+    "rank_badge": {
+      "label": "Live lokal rangering",
+      "value": "Topp 3",
+      "subtext": "i hver lanserte by, ≤ 60 dager"
+    },
+    "image_alt": "Kart over nettverk for dermatologiske klinikker med felles dashbord for merkevaren"
+  },
+  "scaler": {
+    "eyebrow": "Interaktiv · Lokasjonsskalerer",
+    "title": "Dra for å forhåndsvise deres lokale fotavtrykk.",
+    "description": "Se hvor mange indekserte lokale sider nettstedet vil inneholde — én per klinikk, pluss viktigste behandlingssider per by.",
+    "label": "Lokasjoner:",
+    "range_hint": "2 – 10",
+    "stat_indexed": "Indekserte lokale sider",
+    "stat_gbp": "GBP-profiler sikret & tilkoblet",
+    "browser_placeholder": "dinklinikk.no/lokasjoner",
+    "local_number": "Lokalt nummer"
+  },
+  "sections": {
+    "audiences": {
+      "eyebrow": "Hvem dette er for",
+      "title": "Bygget for dermatologikjeder som opererer i flere postnumre.",
+      "items": [
+        {
+          "label": "Hudleger i vekst",
+          "desc": "Når du åpner ditt andre eller tredje kontor og har vokst ut av en enkeltsidig nettside."
+        },
+        {
+          "label": "Flersteds-klinikker",
+          "desc": "3–20 kontorer under ett varemerke som trenger rangering per by og ett felles CMS."
+        },
+        {
+          "label": "Pediatriske dermatologigrupper",
+          "desc": "Foreldrevennlig inntak med matching av behandler basert på lokasjon."
+        },
+        {
+          "label": "Mohs- & kirurgiske nettverk",
+          "desc": "Portaler for henvisende leger med lokasjonsspesifikt kasuistikkinnhold."
+        }
+      ]
+    },
+    "problems": {
+      "eyebrow": "Hva vi fikser",
+      "title": "De fleste flersteds-sider er bare en mal for én klinikk med en ny fasade.",
+      "description": "Google ser bare én side. Pasienter ser bare én adresse. Anmeldelser hoper seg opp på den klinikken som tilfeldigvis ble indeksert først. Vi bygger arkitekturen fra grunnen av.",
+      "labels": {
+        "before": "Før",
+        "after": "Etter"
+      },
+      "items": [
+        {
+          "before": "Én /kontakt-side for 6 klinikker",
+          "after": "6 indekserte lokale sider"
+        },
+        {
+          "before": "Samme H1 på hver lokasjon",
+          "after": "Byspesifikk H1 + schema"
+        },
+        {
+          "before": "GBP ikke krevd / ubekreftet",
+          "after": "GBP per klinikk, koblet til siden"
+        },
+        {
+          "before": "Pasienter booker feil kontor",
+          "after": "Postnummer- + URL-styrt booking"
+        },
+        {
+          "before": "Delte anmeldelser, ingen lokal tillit",
+          "after": "Anmeldelser & vurderinger per sted"
+        },
+        {
+          "before": "Ny lokasjon = 6 ukers ombygging",
+          "after": "Ny lokasjon live på under 7 dager"
+        }
+      ]
+    },
+    "pillars": {
+      "eyebrow": "Systemet",
+      "title": "Seks søyler bak hvert flersteds-prosjekt.",
+      "items": [
+        {
+          "title": "Kontrollert merkevare-system",
+          "desc": "Ett designspråk, tokens og komponentbibliotek — hver lokasjonsside arver det automatisk."
+        },
+        {
+          "title": "Lokal SEO per avdeling",
+          "desc": "Unike URL-er, schema, H1-er og innhold for hvert kontor — indeksert som distinkte klinikker."
+        },
+        {
+          "title": "Smart ruting av lokasjon",
+          "desc": "Postnummer-detektering, header-velger og URL-bevisste CTA-er. Pasienter booker aldri hos feil kontor."
+        },
+        {
+          "title": "Stjerneanmeldelser per sted",
+          "desc": "Anmeldelser samles inn, vises og markeres separat per klinikk — ekte lokal sosial bevisføring."
+        },
+        {
+          "title": "Samlet booking, lokale rom",
+          "desc": "Ett pasientforløp, mange kalendere. Lokasjonsspesifikke behandlere, åpningstider og forsikringsavtaler."
+        },
+        {
+          "title": "HIPAA-klart overalt",
+          "desc": "Inntaksskjemaer, pasientportaler og analyse — BAA-klart på tvers av alle lokasjoner."
+        }
+      ]
+    },
+    "architecture": {
+      "eyebrow": "URL-arkitektur",
+      "title": "Hver lokasjon får sitt eget indeksérbare hjem.",
+      "description": "Google behandler hvert kontor som en distinkt klinikk. Pasienter lander på bysiden som er relevant for søket deres. Anmeldelser, åpningstider, forsikring og behandlere forblir knyttet til riktig kontor — aldri delt på tvers av hele kjeden.",
+      "items": [
+        "Lokasjonsindeks: /lokasjoner",
+        "Lokasjonsside: /lokasjoner/oslo-sentrum",
+        "Lokal tjeneste: /lokasjoner/oslo-sentrum/akne-behandling",
+        "Behandler-bio: /lokasjoner/oslo-sentrum/dr-hansen",
+        "Strukturert data: LocalBusiness + MedicalClinic per URL"
+      ],
+      "visual": {
+        "title": "URL-blåkopi",
+        "status": "Indeksert"
+      }
+    },
+    "seoMatrix": {
+      "eyebrow": "Lokal SEO-matrise",
+      "title": "Hver by × hver tjeneste, indeksert og rangert.",
+      "description": "Eksempel på et varemerke med 4 lokasjoner — 12 viktigste tjenestesider × 4 byer = 48 unikt rangerte lokale sider, i tillegg til selve lokasjonssidene.",
+      "table": {
+        "head_service": "Tjeneste",
+        "cities": [
+          "Oslo",
+          "Bergen",
+          "Trondheim",
+          "Stavanger"
+        ],
+        "services": [
+          "Aknebehandling",
+          "Eksembehandling",
+          "Føflekk-kontroll",
+          "Fjerning av føflekker",
+          "Rosaceabehandling",
+          "Psoriasisbehandling"
+        ]
+      }
+    },
+    "medicalServices": {
+      "eyebrow": "Medisinske tjenester dekket",
+      "title": "Alle medisinske tjenester, per lokasjon.",
+      "description": "Hver klinikk viser kun de tjenestene som faktisk tilbys der, med matching mot forsikring og behandler. Ingen forvirring, ingen bortkastede bookingsforsøk.",
+      "list": [
+        "Aknebehandling",
+        "Eksembehandling",
+        "Psoriasisbehandling",
+        "Behandling av hudinfeksjoner",
+        "Utredning av hudallergi",
+        "Hudkreftscreening og behandling",
+        "Vurdering og fjerning av føflekk",
+        "Fjerning av cyster og lipomer",
+        "Vortebehandling",
+        "Behandling av neglesykdommer",
+        "Hårtapsbehandling",
+        "Behandling av hodebunnsproblemer",
+        "Rosaceabehandling",
+        "Hyperpigmentering & Melasma",
+        "Arrbehandling",
+        "Behandling av brannskadearr",
+        "Vitiligobehandling",
+        "Hudbiopsi & diagnostikk"
+      ]
+    },
+    "deliverables": {
+      "eyebrow": "Hva som leveres",
+      "title": "12 konkrete leveranser ved lansering.",
+      "list": [
+        "Kontrollert designsystem for flere lokasjoner",
+        "Unik landingsside per klinikkavdeling",
+        "LocalBusiness + MedicalClinic schema per lokasjon",
+        "Oppsett av Google Business Profile per lokasjon",
+        "Lokasjonsvelger basert på postnummer og header",
+        "Behandlerbiografier og kontorfotografering per lokasjon",
+        "Byspesifikke tjenestesider (toppsider × N byer)",
+        "Innsamling og visning av anmeldelser per lokasjon",
+        "Samlet bookingflyt med lokasjonskontekst",
+        "HIPAA-klare skjemaer på tvers av alle steder",
+        "Core Web Vitals 95+ på hver eneste lokasjonsside",
+        "Lokasjonsstyrt analysedashbord"
+      ]
+    },
+    "timeline": {
+      "eyebrow": "Prosessen",
+      "title": "Seks milepæler. Én lanseringsdato.",
+      "steps": [
+        {
+          "step": "01",
+          "title": "Revisjon av merkevare & lokasjoner",
+          "desc": "Vi kartlegger hver lokasjon, behandler, tjeneste, forsikring og eksisterende GBP. Avdekker overlapp, kannibalisering og mangler i NAP."
+        },
+        {
+          "step": "02",
+          "title": "Kontrollert designsystem",
+          "desc": "Ett merkevaresett, ett komponentbibliotek, ett tokenisert tema. Hver lokasjonsside arver dette — ingenting sklir ut."
+        },
+        {
+          "step": "03",
+          "title": "Informasjonsarkitektur & innhold",
+          "desc": "URL-struktur, byspesifikke H1-er, mapping av behandlere, forsikring per klinikk og unike lokale innholdsmaler."
+        },
+        {
+          "step": "04",
+          "title": "Utvikling & lokal SEO-oppsett",
+          "desc": "Hver lokasjonsside leveres med schema, innebygd kart, NAP, GBP-kobling og byspesifikke tjenestesider."
+        },
+        {
+          "step": "05",
+          "title": "QA på enheter + HIPAA-revisjon",
+          "desc": "Hver lokasjonsside testes på desktop, laptop, nettbrett og mobil. Skjemaer revideres under BAA-avtale."
+        },
+        {
+          "step": "06",
+          "title": "Lansering + oppvarming av lokal synlighet",
+          "desc": "GBP verifisert, siteringer samkjørt, Search Console + GA4 konfigurert per lokasjon. Lokale rangeringer overvåkes i 90 dager."
+        }
+      ]
+    },
+    "comparison": {
+      "eyebrow": "Hvorfor ikke alternativene",
+      "title": "Gjør-det-selv. Generelt byrå. Eller bygget for derm-nettverk.",
+      "table": {
+        "head_capability": "Funksjonalitet",
+        "head_diy": "DIY-bygger",
+        "head_generic": "Generelt byrå",
+        "head_dw": "DW Design",
+        "recommended": "ANBEFALT",
+        "rows": [
+          "Unik indeksert side per lokasjon",
+          "LocalBusiness schema per klinikk",
+          "Google Business Profile-oppsett per sted",
+          "Postnummer- / URL-styrt bookingflyt",
+          "Kontrollert merkevare-system som skalerer til +N steder",
+          "Lokale anmeldelser med schema",
+          "HIPAA-klare skjemaer på hver lokasjon",
+          "Lighthouse 95+ på hver lokasjonsside"
+        ]
+      }
+    },
+    "pricing": {
+      "eyebrow": "Investering",
+      "title": "Priset etter hvor mange klinikker dere betjener.",
+      "custom_quote_text": "10+ lokasjoner, store grupper eller klinikk-kjeder — be om et skreddersydd tilbud.",
+      "custom_quote_link": "be om et skreddersydd tilbud",
+      "starting_label": "fra",
+      "most_popular": "Mest populær",
+      "market_label": "Markedsverdi:",
+      "tiers": [
+        {
+          "name": "2–3 Lokasjoner",
+          "price": "$6 900",
+          "tag": "Praksis i vekst",
+          "market": "$15 000 – $28 000",
+          "savings": "54–75% rimeligere",
+          "features": [
+            "Kontrollert merkevare-system",
+            "Opptil 3 indekserte lokasjonssider",
+            "LocalBusiness schema per klinikk",
+            "GBP-oppsett for hver lokasjon",
+            "Samlet booking med lokasjonskontekst",
+            "5–7 ukers lansering"
+          ]
+        },
+        {
+          "name": "4–6 Lokasjoner",
+          "price": "$11 400",
+          "tag": "Mest Populær",
+          "market": "$25 000 – $50 000",
+          "savings": "54–77% rimeligere",
+          "features": [
+            "Alt i 'Praksis i vekst'",
+            "Opptil 6 indekserte lokasjonssider",
+            "Byspesifikke tjenestesider",
+            "Innsamling av anmeldelser per sted",
+            "Lokasjonsdeteksjon via postnummer",
+            "7–9 ukers lansering"
+          ]
+        },
+        {
+          "name": "7–10 Lokasjoner",
+          "price": "$18 900",
+          "tag": "Regionalt nettverk",
+          "market": "$45 000 – $90 000",
+          "savings": "58–79% rimeligere",
+          "features": [
+            "Alt i 'Mest Populær'",
+            "Opptil 10 indekserte lokasjonssider",
+            "Matching av behandler per sted",
+            "Forsikringsdatabase per klinikk",
+            "Lokasjonsstyrt analysedashbord",
+            "9–12 ukers lansering"
+          ]
+        }
+      ],
+      "cta": "Kom i gang"
+    },
+    "gallery": {
+      "eyebrow": "Fra aktive prosjekter",
+      "title": "Et kontrollert system i drift hos ekte klinikker.",
+      "description": "To interiører fra aktive dermatologikjeder vi har lansert. Bilder og identitet er anonymisert på grunn av HIPAA og konfidensialitetsavtaler.",
+      "nda_badge": "NDA",
+      "items": [
+        {
+          "label": "Resepsjon · Lokasjon A",
+          "city": "Oslo-området"
+        },
+        {
+          "label": "Behandlingsrom · Lokasjon B",
+          "city": "Bergen-omegn"
+        }
+      ]
+    },
+    "caseStudy": {
+      "eyebrow": "Anonymisert case-studie",
+      "title": "Dermatologigruppe med 6 avdelinger · 90-dagers resultater.",
+      "description": "Navn og identifiserende data er utelatt under NDA. Statistikk hentet fra Google Search Console + GA4, verifisert kvartalsvis.",
+      "verified": "Verifisert",
+      "metrics": [
+        {
+          "k": "+41%",
+          "label": "Henvendelser fra nye pasienter",
+          "sub": "mot 90 dager før lansering"
+        },
+        {
+          "k": "Topp 3",
+          "label": "Google Local Pack-rangering",
+          "sub": "i 6 / 6 lanserte byer"
+        },
+        {
+          "k": "48",
+          "label": "Indekserte lokale sider",
+          "sub": "opp fra 1 delt /kontakt-side"
+        },
+        {
+          "k": "97",
+          "label": "Median Lighthouse-score",
+          "sub": "på tvers av alle lokasjonssider"
+        }
+      ],
+      "chart": {
+        "title": "Nye pasienthenvendelser · ukentlig",
+        "description": "Før lansering → Dag 90",
+        "pre": "Før lansering",
+        "post": "Etter lansering",
+        "anonymized": "Anonymisert klient"
+      }
+    },
+    "testimonial": {
+      "quote": "Vi gikk fra 3 kontorer som delte én kontaktside til 6 fullt indekserte klinikksider, der hver enkelt rangerte i sin bys lokale felt innen 60 dager. Henvendelser fra nye pasienter økte med 41 % — og vi åpnet vår 7. lokasjon uten å måtte endre på nettstedets arkitektur.",
+      "author": "Dr. Rachel Patel",
+      "title": "Managing Partner, dermatologigruppe med 7 lokasjoner",
+      "trust_strip": "Store dermatologinettverk finnes i",
+      "cities": [
+        "Oslo",
+        "Bergen",
+        "Trondheim",
+        "Stavanger",
+        "Kristiansand",
+        "Tromsø"
+      ]
+    }
+  },
+  "faq": {
+    "eyebrow": "Ofte stilte spørsmål",
+    "title": "Svar på spørsmål om flersteds-løsninger.",
+    "items": [
+      {
+        "q": "Hvordan rangerer dermatologiske sider for flere lokasjoner i Google for hver by?",
+        "a": "Hver lokasjon får sin egen indekserte URL (f.eks. /lokasjoner/oslo), med unik H1, byspesifikk tjenestebeskrivelse, en dedikert LocalBusiness + MedicalClinic schema-blokk, innebygd Google Map, NAP-konsistens og lokasjonsknyttede anmeldelser. Rangering i det lokale feltet akkumuleres per by, ikke per merkevare."
+      },
+      {
+        "q": "Kan pasienter booke ved en spesifikk lokasjon uten forvirring?",
+        "a": "Ja. Bookingsforløpet identifiserer alltid lokasjonen først — enten fra URL-en pasienten landet på, en postnummer-detektor eller en lokasjonsvelger i menyen. Pasienten trenger aldri å gjette hvilket kontor de bestiller time hos."
+      },
+      {
+        "q": "Hvordan unngår dere at 10+ lokasjonssider føles som ren 'copy-paste'?",
+        "a": "Gjennom et felles merkevaresystem kombinert med unikt lokalt innhold: ekte foto, biografier av behandlere knyttet til det kontoret, byspesifikke FAQ-er, forsikringsavtaler for DEN klinikken, veibeskrivelser og lokale anmeldelser. Google leser dem som distinkte enheter — pasientene føler at de møter en lokal praksis, ikke en kjede."
+      },
+      {
+        "q": "Hva skjer hvis vi legger til eller legger ned en lokasjon senere?",
+        "a": "Nye lokasjoner opprettes fra en kontrollert mal på under en uke — samme designsystem, unikt innhold. Nedlagte lokasjoner får en 301-omdirigering til nærmeste avdeling med en oppdatert oversikt over hvor behandlerne har flyttet, slik at rangeringer og henvisninger overføres i stedet for å forsvinne."
+      },
+      {
+        "q": "Håndterer dere oppsett av Google Business Profile per lokasjon?",
+        "a": "Ja. Vi krever eierskap, verifiserer og optimaliserer en GBP for hver lokasjon, legger inn funksjonalitet for anmeldelser på siden og samkjører NAP-informasjon i de 40 viktigste medisinske katalogene. Synlighet i det lokale søkefeltet er en del av lanseringen, ikke et tilleggsprodukt."
+      },
+      {
+        "q": "Hvor lang tid tar det å lansere en dermatologisk nettside for flere lokasjoner?",
+        "a": "5–7 uker for 2–4 lokasjoner, 7–10 uker for 5–10 lokasjoner, og 10–14 uker for over 10 lokasjoner eller komplekse journalsystem-integrasjoner. Vi setter faste ukentlige milepæler og en endelig lanseringsdato ved oppstart."
+      }
+    ]
+  },
+  "cta_founder": {
+    "title": "Hver eneste lanserte lokasjon er vårt personlige ansvar.",
+    "description": "Vi tar inn et begrenset antall prosjekter for flersteds-klinikker hvert kvartal, slik at hver klinikkside leveres med samme presisjon. Hvis deres vekstplan inkluderer mer enn én adresse, bør vi planlegge arkitekturen før den første pikselen flyttes.",
+    "cta_quote": "Få et pristilbud",
+    "cta_msg": "Send en melding",
+    "footer_title": "Nettsidedesign for dermatologi",
+    "footer_sub": "Vi hjelper hudleger med å vokse på nett",
+    "logo_alt": "DW — Dermatology Website Design"
+  },
+  "footer_nav": {
+    "useful_hint": "Du vil kanskje også ha nytte av:",
+    "links": {
+      "single": "design for enkeltklinikker",
+      "seo": "hvordan lokal synlighet fungerer",
+      "portfolio": "se våre siste lanseringer for klinikkjeder"
+    }
+  }
+}

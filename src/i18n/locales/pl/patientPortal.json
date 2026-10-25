@@ -1,0 +1,257 @@
+{
+  "meta": {
+    "title": "Projektowanie i rozwój portalu pacjenta dla dermatologii | Zgodność z HIPAA",
+    "description": "Indywidualny, zgodny z HIPAA portal pacjenta dla gabinetów dermatologicznych: rezerwacje online, bezpieczna komunikacja, teledermatologia i integracja z EHR. Rozwiązania dla praktyk solowych, sieci klinik, dermatologii dziecięcej i chirurgii Mohsa.",
+    "og_title": "Projektowanie i rozwój portalu pacjenta dla dermatologii",
+    "og_description": "Portale pacjenta zaprojektowane dla praktyk dermatologicznych zgodnie ze standardami HIPAA — rezerwacje, wiadomości, teledermatologia, e-wywiady i integracja z EHR.",
+    "twitter_title": "Projektowanie i rozwój portalu pacjenta dla dermatologii",
+    "twitter_description": "Portale pacjenta zgodne z HIPAA, zaprojektowane specjalnie dla klinik dermatologicznych.",
+    "jsonLd": {
+      "serviceType": "Projektowanie i rozwój portalu pacjenta dla dermatologii",
+      "provider": "DermatologyWebsiteDesign.com",
+      "areaServed": "Stany Zjednoczone",
+      "description": "Projektowanie i wdrażanie portali pacjenta zgodnych z HIPAA dla klinik dermatologicznych.",
+      "breadcrumb_home": "Strona główna",
+      "breadcrumb_services": "Usługi",
+      "breadcrumb_portal": "Portal Pacjenta"
+    }
+  },
+  "hero": {
+    "badge": "Portal Pacjenta dla Dermatologii",
+    "title_start": "Portal pacjenta, z którego Twój gabinet dermatologiczny ",
+    "title_highlight": "naprawdę chce korzystać.",
+    "description": "Dedykowane, zgodne z HIPAA portale z rezerwacjami 24/7, bezpieczną komunikacją, teledermatologią, e-dokumentacją i głęboką integracją z EHR — stworzone dla lekarzy samodzielnych, sieci klinik oraz specjalistów chirurgii Mohsa.",
+    "cta_quote": "Uzyskaj bezpłatną wycenę",
+    "cta_features": "Poznaj funkcje",
+    "stats": [
+      {
+        "value": "4–6 tyg.",
+        "label": "Czas wdrożenia"
+      },
+      {
+        "value": "HIPAA",
+        "label": "Zgodność w standardzie"
+      },
+      {
+        "value": "24/7",
+        "label": "Samodzielne zapisy"
+      },
+      {
+        "value": "Brak",
+        "label": "Opłat od pacjenta"
+      }
+    ]
+  },
+  "mockPortal": {
+    "header_category": "Portal Pacjenta",
+    "header_greeting": "Dzień dobry, Pani Anno",
+    "status": "Połączenie bezpieczne",
+    "items": [
+      {
+        "label": "Coroczna kontrola znamion",
+        "meta": "Pt · 14:30 · Dr Patel"
+      },
+      {
+        "label": "Wiadomość od dr Nguyen",
+        "meta": "Wynik biopsji — łagodny ✓"
+      },
+      {
+        "label": "Prośba o e-receptę",
+        "meta": "Tretinoina 0.05% · Apteka Słoneczna"
+      },
+      {
+        "label": "Płatność oczekująca",
+        "meta": "180,00 zł · Zapłać 1 kliknięciem"
+      }
+    ],
+    "footer_encryption": "Szyfrowanie end-to-end",
+    "footer_biometrics": "Zaloguj przez Face ID"
+  },
+  "sections": {
+    "audiences": {
+      "title": "Stworzone dla",
+      "items": [
+        "Indywidualnych gabinetów",
+        "Wielooddziałowych klinik dermatologicznych",
+        "Dermatologii dziecięcej",
+        "Chirurgii Mohsa i dermatologii zabiegowej"
+      ]
+    },
+    "medical_services": {
+      "title": "Wsparcie dla każdego profilu leczenia",
+      "items": [
+        "Terapia trądziku",
+        "Leczenie egzemy",
+        "Leczenie łuszczycy",
+        "Infekcje skórne",
+        "Alergie skórne",
+        "Badania przesiewowe i leczenie raka skóry",
+        "Ocena i usuwanie znamion",
+        "Usuwanie torbieli i tłuszczaków",
+        "Usuwanie brodawek",
+        "Choroby paznokci",
+        "Leczenie wypadania włosów",
+        "Choroby skóry głowy",
+        "Leczenie trądziku różowatego",
+        "Przebarwienia i melasma",
+        "Leczenie blizn",
+        "Usuwanie blizn poparzeniowych",
+        "Leczenie bielactwa",
+        "Biopsje i diagnostyka skóry"
+      ]
+    },
+    "metrics": {
+      "items": [
+        {
+          "value": "38%",
+          "label": "Mniej nieobecności po wdrożeniu"
+        },
+        {
+          "value": "4.9×",
+          "label": "Szybsza obsługa w recepcji"
+        },
+        {
+          "value": "22 h",
+          "label": "Zaoszczędzony czas personelu / tydz."
+        }
+      ]
+    },
+    "testimonial": {
+      "quote": "Nasi pacjenci w końcu przestali dzwonić w celu zmiany terminu. Rezerwacje, recepty i wyniki biopsji idą przez portal — moi asystenci odzyskali całe popołudnia.",
+      "author": "Dr Priya Desai, MD",
+      "clinic": "Desai Dermatology · 3 lokalizacje"
+    },
+    "core_features": {
+      "badge": "Kluczowe funkcje",
+      "title": "Wszystko, czego potrzebuje pacjent i Twoja recepcja.",
+      "description": "Jedno bezpieczne miejsce na terminarz, komunikację, procesy kliniczne i płatności — zastępuje 5–7 rozproszonych narzędzi, z którymi zmaga się większość klinik.",
+      "items": [
+        {
+          "title": "Rezerwacja wizyt online",
+          "desc": "Kalendarze lekarzy w czasie rzeczywistym, weryfikacja ubezpieczenia i automatyczne potwierdzenia — samodzielne zapisy 24/7."
+        },
+        {
+          "title": "Bezpieczny komunikator",
+          "desc": "Dwustronny czat z szyfrowaniem HIPAA dla pacjentów i personelu — z historią zmian i potwierdzeniami odczytu."
+        },
+        {
+          "title": "Cyfrowy wywiad i zgody",
+          "desc": "Szyfrowane formularze wywiadu i e-podpisy zgód wypełniane przed wizytą — synchronizowane bezpośrednio z EHR."
+        },
+        {
+          "title": "Płatności online i faktury",
+          "desc": "Bezpieczne płatności kartą, Apple/Google Pay oraz plany ratalne — szybsza ściągalność należności bez zbędnych formalności."
+        },
+        {
+          "title": "Wnioski o przedłużenie recept",
+          "desc": "Prośby o e-receptę jednym kliknięciem, kierowane do właściwego lekarza z pełnym wglądem w historię leków i alergie."
+        },
+        {
+          "title": "Wyniki badań i raporty biopsji",
+          "desc": "Bezpieczne udostępnianie wyników badań patomorfologicznych z przystępnym komentarzem lekarza, który pacjent łatwo zrozumie."
+        },
+        {
+          "title": "Wizyty teledermatologiczne",
+          "desc": "Szyfrowane wideo HD z wirtualną poczekalnią i przesyłaniem zdjęć — bez potrzeby zewnętrznych dostawców."
+        },
+        {
+          "title": "Inteligentne przypomnienia",
+          "desc": "Automatyzacja SMS + e-mail dla przypomnień o wizytach i kontrolach rocznych, odzyskująca 20–30% utraconych przychodów."
+        }
+      ]
+    },
+    "security": {
+      "badge": "Bezpieczeństwo i zgodność",
+      "title": "Zgodność z HIPAA zapisana w kodzie.",
+      "description": "Bezpieczeństwo to dla nas fundament, a nie tylko formalność. Każda decyzja architektoniczna — od baz danych po analitykę — jest projektowana pod kątem ochrony danych wrażliwych.",
+      "cta": "Zapytaj o specyfikację bezpieczeństwa",
+      "items": [
+        {
+          "title": "Architektura HIPAA-Aware",
+          "desc": "Dane PHI szyfrowane w spoczynku (AES-256) i w transmisji (TLS 1.3). Umowy BAA z każdym podwykonawcą."
+        },
+        {
+          "title": "Dostęp oparty na rolach",
+          "desc": "Precyzyjne uprawnienia dla lekarzy, asystentów i administracji z pełnym logowaniem aktywności."
+        },
+        {
+          "title": "Logowanie biometryczne i MFA",
+          "desc": "Klucze dostępu (Passkeys) i Face ID. Zero resetowania haseł. Zero phishingu."
+        },
+        {
+          "title": "Dostęp dla opiekunów",
+          "desc": "Dostęp pełnomocnika dla rodziców i opiekunów z automatycznym wygasaniem uprawnień zależnym od wieku pacjenta."
+        }
+      ]
+    },
+    "workflow": {
+      "badge": "Jak działamy",
+      "title": "Od startu do gotowego portalu w 4–6 tygodni.",
+      "steps": [
+        {
+          "step": "Krok 01",
+          "title": "Analiza i audyt EHR",
+          "desc": "Podczas 60-minutowej sesji mapujemy Twój aktualny system EHR, PMS i obieg dokumentów."
+        },
+        {
+          "step": "Krok 02",
+          "title": "Projekt i branding",
+          "desc": "Indywidualny interfejs dopasowany do wizerunku Twojej kliniki — żadnych gotowych szablonów."
+        },
+        {
+          "step": "Krok 03",
+          "title": "Integracje i migracja",
+          "desc": "Łączymy EHR, systemy e-recept i płatności. Migrujemy dane pacjentów w sposób uporządkowany."
+        },
+        {
+          "step": "Krok 04",
+          "title": "Szkolenie i wdrożenie",
+          "desc": "Szkolenie zespołu na żywo, instrukcje obsługi i 30-dniowe wsparcie premium po starcie."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "badge": "Pytania",
+    "title": "Portal pacjenta — FAQ",
+    "items": [
+      {
+        "q": "Czy portal jest zgodny z HIPAA?",
+        "a": "Tak. Każda warstwa — hosting, baza danych, komunikacja i wideo — spełnia standardy HIPAA. Podpisujemy umowę BAA i dostarczamy pełną dokumentację zgodności obejmującą szyfrowanie i logi audytowe."
+      },
+      {
+        "q": "Czy portal integruje się z moim systemem EHR?",
+        "a": "Integrujemy się z wiodącymi systemami dermatologicznymi (Modernizing Medicine / EMA, Nextech, EZDERM, DrChrono, Athena i inne) przez interfejsy HL7, FHIR lub API. W przypadku niszowych systemów tworzymy integracje dedykowane."
+      },
+      {
+        "q": "Czy pacjenci mogą rezerwować wizyty bez zakładania konta?",
+        "a": "Tak. Obsługujemy rezerwacje gościnne dla nowych pacjentów — konto w portalu jest tworzone automatycznie po potwierdzeniu pierwszej wizyty."
+      },
+      {
+        "q": "Ile trwa wdrożenie?",
+        "a": "Portal dla jednej lokalizacji uruchamiamy w 4–6 tygodni. Złożone migracje dla sieci klinik trwają zazwyczaj od 8 do 12 tygodni."
+      },
+      {
+        "q": "Czy będziemy właścicielami portalu po jego uruchomieniu?",
+        "a": "Tak. Jesteś właścicielem kodu, treści, brandingu i danych pacjentów. Brak ukrytych opłat za każdego pacjenta i brak długoterminowych zobowiązań — możesz zrezygnować w dowolnym momencie."
+      },
+      {
+        "q": "Czy moduł telemedycyny jest płatny dodatkowo?",
+        "a": "Nie, jest wliczony w cenę. Szyfrowane wideo HD z poczekalnią i przesyłaniem zdjęć jest integralną częścią portalu."
+      }
+    ]
+  },
+  "cta": {
+    "badge": "Gotowi do działania",
+    "title": "Daj swoim pacjentom i recepcji portal, za który Ci podziękują.",
+    "description": "Zamów bezpłatną prezentację. Sprawdzimy Twoją infrastrukturę, przedstawimy harmonogram i prześlemy wycenę tego samego dnia.",
+    "cta_quote": "Uzyskaj bezpłatną wycenę",
+    "cta_contact": "Skontaktuj się z nami"
+  },
+  "footer_related": {
+    "text": "Strony, które mogą Cię zainteresować: ",
+    "link_website": "strona główna Twojej praktyki",
+    "link_multi_location": "rozwiązania dla wielu lokalizacji",
+    "link_packages": "aktualne pakiety"
+  }
+}

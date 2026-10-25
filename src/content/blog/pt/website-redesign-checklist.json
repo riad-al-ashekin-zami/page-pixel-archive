@@ -1,0 +1,78 @@
+{
+  "slug": "website-redesign-checklist",
+  "title": "Checklist de Redesign de Website para Clínicas Dermatológicas",
+  "excerpt": "32 perguntas para responder antes de tocar em um único pixel — desde formulários HIPAA até a conversão 'hero'.",
+  "imageAlt": "Maquete moderna de site de dermatologia em um desktop e tablet em um escritório iluminado",
+  "body": [
+    {
+      "text": "Um redesign que pula a fase de descoberta é apenas uma atualização cara. Antes de abrirmos uma ferramenta de design, passamos cada clínica por esta lista de verificação de 32 perguntas que abrange marca, conversão, conformidade e prontidão técnica. O objetivo da lista de verificação não é atrasar as coisas — é garantir que os pixels que você eventualmente impulsiona realmente sirvam a uma estratégia em vez de um mood board."
+    },
+    {
+      "text": "A maioria dos redesigns falha por uma de três razões: a clínica nunca definiu o que um site 'bom' significa para seus objetivos, o fluxo de agendamento e a recepção são projetados pensando na conveniência interna em vez do comportamento do paciente, ou a equipe lança um site que viola a HIPAA porque o rastreamento foi configurado no modo automático. Cada seção abaixo é projetada para identificar uma dessas falhas antes que ela custe 40 mil e seis meses."
+    },
+    {
+      "heading": "Marca e posicionamento"
+    },
+    {
+      "list": [
+        "Quem é seu paciente ideal em uma frase? (idade, sexo, renda, principal preocupação)",
+        "Quais são os três concorrentes com os quais seus pacientes o comparam?",
+        "Qual é o único sentimento que você quer que os visitantes tenham em 5 segundos?",
+        "Se alguém descrevesse sua clínica para um amigo em uma frase, o que você gostaria que eles dissessem?",
+        "Que prova você tem de que este posicionamento é verdadeiro — avaliações, resultados, credenciais?"
+      ]
+    },
+    {
+      "text": "Se você não consegue responder a essas cinco perguntas em um documento compartilhado que toda a sua equipe concorda, você não está pronto para projetar uma página inicial — você está pronto para realizar um workshop de posicionamento."
+    },
+    {
+      "heading": "Conversão e fluxo de agendamento"
+    },
+    {
+      "text": "Cada campo extra no seu formulário de recepção diminui a conversão em 4–6%. Cada clique extra entre o 'hero' e a ação de agendamento diminui a conversão em 8–12%. O redesign é o momento de auditar cada etapa do funil, cortar impiedosamente tudo o que não for essencial e instrumentar o caminho para que você possa provar o que realmente move a agulha após o lançamento."
+    },
+    {
+      "list": [
+        "Quantos cliques da página inicial até a consulta agendada hoje?",
+        "Qual é a sua taxa de conversão de agendamento móvel hoje?",
+        "Quantos campos de formulário são obrigatórios hoje, e quais são realmente usados?",
+        "Qual é o CTA principal na sua página inicial — e ele é visível sem rolar no celular?",
+        "O que acontece depois que um formulário é enviado — há um e-mail de confirmação em menos de 30 segundos?"
+      ]
+    },
+    {
+      "heading": "HIPAA e conformidade"
+    },
+    {
+      "text": "A aplicação da HIPAA em relação ao rastreamento de websites aumentou dramaticamente desde 2022. Se o seu redesign herdar seu widget de chat atual, provedor de formulários ou configuração de análise sem uma revisão de conformidade, você está lançando um novo site com uma antiga responsabilidade."
+    },
+    {
+      "list": [
+        "Os widgets de chat são configurados para remover PHI dos registros?",
+        "Seus formulários de recepção enviam dados por um canal criptografado para um destino compatível com a HIPAA?",
+        "Você assinou BAAs com todos os serviços de terceiros que acessam dados de pacientes?",
+        "Seu Meta Pixel está configurado com filtragem do lado do servidor em qualquer página que mencione condições?",
+        "Sua ferramenta de reprodução de sessão mascara campos de formulário por padrão?"
+      ]
+    },
+    {
+      "heading": "Prontidão técnica"
+    },
+    {
+      "text": "A seção técnica é onde a maioria dos redesigns falha silenciosamente. Um site bonito que carrega em seis segundos em 4G perderá para um site simples que carrega em dois. Um site com redirecionamentos quebrados perderá os rankings que você levou dois anos para conquistar. Cuide do básico primeiro."
+    },
+    {
+      "list": [
+        "Você tem um inventário completo das URLs atuais e seus backlinks de entrada?",
+        "Você tem um mapa de redirecionamento de 1 para 1 do site antigo para o novo?",
+        "Qual é o seu alvo de LCP, CLS e INP para o lançamento — e como você vai verificar?",
+        "Quem possui o acesso ao Search Console e a propriedade está verificada?",
+        "Você agendou um rastreamento do site de teste antes da mudança de DNS?"
+      ]
+    },
+    {
+      "text": "Responda a todas as perguntas desta lista de verificação honestamente antes de esboçar o primeiro wireframe. As equipes que lançam redesigns sem arrependimentos são as equipes que tratam a descoberta como um entregável, não como um mero detalhe. Duas semanas de respostas disciplinadas agora economizam dois trimestres de reconstrução depois."
+    }
+  ],
+  "faqs": null
+}

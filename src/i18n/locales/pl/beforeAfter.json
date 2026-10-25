@@ -1,0 +1,329 @@
+{
+  "meta": {
+    "title": "Galeria Przed i Po w Dermatologii — Prezentacja Efektów Premium",
+    "description": "Profesjonalna galeria efektów przed i po dla gabinetów dermatologicznych, w pełni zgodna z HIPAA. Interaktywne suwaki, inteligentne filtry problemów i specjalistów, widoki osi czasu oraz skuteczne CTA do rezerwacji konsultacji.",
+    "ogTitle": "Galeria Przed i Po w Dermatologii — Prezentacja Efektów Premium",
+    "ogDescription": "Interaktywne suwaki porównawcze, zgody pacjentów zgodne z HIPAA, inteligentne filtrowanie i konwertujące CTA — stworzone z myślą o profesjonalnej dermatologii.",
+    "jsonLdName": "DermatologyWebsiteDesign.com",
+    "jsonLdServiceType": "Projektowanie Galeryj Efektów Przed i Po dla Dermatologii"
+  },
+  "hero": {
+    "badge": "Galeria Przed i Po",
+    "headingMain": "Pokaż metamorfozę.",
+    "headingAccent": "Zwiększ liczbę rezerwacji.",
+    "description": "Zaawansowana galeria projektowana dla dermatologii, zapewniająca bezpieczeństwo danych HIPAA. Posiada interaktywne porównania typu „przeciągnij i odkryj”, inteligentne filtry, widoki osi czasu i system błyskawicznego umawiania wizyt.",
+    "ctaBuild": "Zbuduj moją galerię",
+    "ctaAudit": "Bezpłatny audyt galerii",
+    "features": [
+      "Zgody zgodne z HIPAA",
+      "Suwak typu „przeciągnij i odkryj”",
+      "Inteligentne filtry",
+      "Płynność 60fps na mobile"
+    ],
+    "imageAlt": "Leczenie trądziku przed i po — efekt po 3 miesiącach",
+    "imageCaption": "Przesuń suwak — sprawdź interakcję na żywo.",
+    "imageStats": "Trądzik · 3 miesiące · dr Vasquez"
+  },
+  "stats": [
+    {
+      "value": "2500+",
+      "label": "Udokumentowanych przypadków w działających galeriach"
+    },
+    {
+      "value": "100%",
+      "label": "Zgód zgodnych z HIPAA przy każdym wgraniu zdjęcia"
+    },
+    {
+      "value": "60fps",
+      "label": "Płynność interakcji suwaka na każdym urządzeniu"
+    },
+    {
+      "value": "95+",
+      "label": "Średni wynik Lighthouse dla stron galerii"
+    }
+  ],
+  "pillars": {
+    "heading": "Każdy detal zorientowany na konwersję.",
+    "subheading": "Sześć filarów, które odróżniają profesjonalną galerię dermatologiczną od zwykłej siatki zdjęć.",
+    "items": [
+      {
+        "title": "Interaktywny suwak",
+        "desc": "Porównania przed/po typu „przeciągnij i odkryj” z idealną płynnością 60fps na każdym urządzeniu."
+      },
+      {
+        "title": "Inteligentne filtrowanie",
+        "desc": "Filtruj według problemu, zabiegu, lekarza, typu skóry i skali Fitzpatricka — natychmiastowe wyniki."
+      },
+      {
+        "title": "Jakość studyjna",
+        "desc": "Spójne wytyczne dotyczące oświetlenia, odległości i kąta sprawiają, że każda metamorfoza wygląda wiarygodnie."
+      },
+      {
+        "title": "Zgody HIPAA",
+        "desc": "Zintegrowany system zbierania zgód pacjenta, procedura wycofywania i pełna historia zmian dla każdego przypadku."
+      },
+      {
+        "title": "Etapy osi czasu",
+        "desc": "Widoki porównawcze: 2. tydzień, 1. miesiąc, 3. miesiąc, 6. miesiąc — idealne dla procesów długofalowych."
+      },
+      {
+        "title": "Atrybucja specjalisty",
+        "desc": "Każdy przypadek przypisany do lekarza prowadzącego — budowanie zaufania i naturalny system rekomendacji."
+      }
+    ]
+  },
+  "gallery": {
+    "heading": "Galeria w działaniu.",
+    "subheading": "Interaktywne przykłady. Filtruj według problemu — każda karta posiada suwak porównawczy.",
+    "filterLabel": "Filtruj",
+    "filters": [
+      "Wszystkie",
+      "Trądzik",
+      "Melasma",
+      "Trądzik różowaty",
+      "Usuwanie blizn",
+      "Wypadanie włosów",
+      "Bielactwo"
+    ],
+    "card": {
+      "beforeLabel": "Przed",
+      "afterLabel": "Po",
+      "ariaLabel": "Suwak porównawczy przed i po",
+      "dragAriaLabel": "Przeciągnij, aby porównać",
+      "bookCTA": "Zarezerwuj ten zabieg"
+    },
+    "cases": [
+      {
+        "concern": "Trądzik",
+        "months": "3 miesiące",
+        "severity": "Umiarkowany",
+        "provider": "dr Vasquez",
+        "desc": "Połączenie retinoidów i protokołu LED, ustąpienie przebarwień pozapalnych udokumentowane w 12. tygodniu."
+      },
+      {
+        "concern": "Melasma",
+        "months": "4 miesiące",
+        "severity": "Głęboka",
+        "provider": "dr Okafor",
+        "desc": "Receptura z kremem rozjaśniającym + restrykcyjna ochrona SPF. Fototyp IV wg Fitzpatricka."
+      },
+      {
+        "concern": "Trądzik różowaty",
+        "months": "6 miesięcy",
+        "severity": "Grudkowo-krostkowy",
+        "provider": "dr Caldwell",
+        "desc": "Laser naczyniowy + terapia doustna — redukcja rumienia na policzkach i nosie."
+      },
+      {
+        "concern": "Usuwanie blizn",
+        "months": "5 miesięcy",
+        "severity": "Blizny zanikowe",
+        "provider": "dr Vasquez",
+        "desc": "Seria zabiegów frakcyjnych (x4). Odbudowa tekstury skóry bez utraty pigmentu."
+      },
+      {
+        "concern": "Wypadanie włosów",
+        "months": "9 miesięcy",
+        "severity": "Androgenowe (Ludwig II)",
+        "provider": "dr Okafor",
+        "desc": "PRP + farmakoterapia — mierzalna poprawa gęstości w strefie skroniowej i na czubku głowy."
+      },
+      {
+        "concern": "Bielactwo",
+        "months": "12 miesięcy",
+        "severity": "Segmentowe twarzy",
+        "provider": "dr Caldwell",
+        "desc": "Wąskopasmowe UVB + miejscowy inhibitor kalcyneuryny. Postępująca repigmentacja."
+      }
+    ]
+  },
+  "timeline": {
+    "badge": "Widok Osi Czasu",
+    "heading": "Śledź postępy tydzień po tygodniu.",
+    "subheading": "Zabiegi nie dają efektów z dnia na dzień — interaktywna oś czasu uczy pacjentów cierpliwości i daje realną nadzieję.",
+    "caseDetails": "Melasma · Fitzpatrick IV · dr Vasquez",
+    "caseDesc": "Protokół rozjaśniający z restrykcyjnym SPF. Kamienie milowe udokumentowane w tygodniach 0, 4, 12 i 24 — pacjenci widzą proces, a nie tylko efekt końcowy.",
+    "stages": [
+      {
+        "label": "Tydzień 0",
+        "short": "Stan wyjściowy"
+      },
+      {
+        "label": "Tydzień 4",
+        "short": "Pierwsza reakcja"
+      },
+      {
+        "label": "Tydzień 12",
+        "short": "Punkt zwrotny"
+      },
+      {
+        "label": "Tydzień 24",
+        "short": "Trwały efekt"
+      }
+    ]
+  },
+  "trustBar": {
+    "label": "Zaufali nam liderzy dermatologii z",
+    "marks": [
+      {
+        "name": "Dermatology Websites",
+        "sub": "50+ wdrożeń"
+      },
+      {
+        "name": "Zgodność z HIPAA",
+        "sub": "W standardzie"
+      },
+      {
+        "name": "Gwarancja SLA",
+        "sub": "99,99%"
+      },
+      {
+        "name": "Wsparcie techniczne",
+        "sub": "<15 min"
+      },
+      {
+        "name": "Elastyczna umowa",
+        "sub": "Bez długoterminowych zobowiązań"
+      },
+      {
+        "name": "Pełna własność",
+        "sub": "Kod + treści"
+      }
+    ]
+  },
+  "audiences": {
+    "heading": "Dla każdego rodzaju praktyki dermatologicznej.",
+    "subheading": "Praktyki indywidualne, kliniki sieciowe, chirurgia — jedna technologia dopasowana do Twojej specyfiki.",
+    "items": [
+      {
+        "label": "Praktyki Indywidualne",
+        "desc": "Zaprezentuj swoje autorskie wyniki w galerii, która zamienia pytania w konkretne rezerwacje."
+      },
+      {
+        "label": "Kliniki Wielooddziałowe",
+        "desc": "Filtrowanie według lokalizacji i lekarza, aby każda placówka mogła budować własny prestiż."
+      },
+      {
+        "label": "Dermatologia Dziecięca",
+        "desc": "Bezpieczne dla rodziców procesy zgód, anonimizacja danych i spokojna komunikacja wizualna."
+      },
+      {
+        "label": "Chirurgia i Metoda Mohsa",
+        "desc": "Galeria efektów chirurgicznych z etapami gojenia i profesjonalnymi notatkami dla partnerów kierujących."
+      }
+    ]
+  },
+  "medicalServices": {
+    "heading": "Każdy obszar dermatologii, pełna dokumentacja.",
+    "subheading": "Gotowe protokoły i szablony zdjęć dla najczęściej wyszukiwanych zabiegów.",
+    "list": [
+      "Leczenie trądziku",
+      "Leczenie egzemy",
+      "Leczenie łuszczycy",
+      "Infekcje skórne",
+      "Alergie skórne",
+      "Badanie pod kątem nowotworów",
+      "Ocena i usuwanie znamion",
+      "Usuwanie torbieli i tłuszczaków",
+      "Usuwanie brodawek",
+      "Choroby paznokci",
+      "Terapia wypadania włosów",
+      "Choroby skóry głowy",
+      "Leczenie trądziku różowatego",
+      "Przebarwienia i melasma",
+      "Usuwanie blizn",
+      "Blizny pooparzeniowe",
+      "Leczenie bielactwa",
+      "Biopsja i diagnostyka"
+    ]
+  },
+  "flow": {
+    "heading": "Od zdjęcia do rezerwacji.",
+    "subheading": "Czteroetapowy proces, który obsłuży Twój zespół recepcji — bez pomocy programisty.",
+    "steps": [
+      {
+        "num": "01",
+        "title": "Dokumentacja etapu",
+        "desc": "Ustrukturyzowany protokół foto — ten sam kąt, dystans i oświetlenie przy każdej wizycie."
+      },
+      {
+        "num": "02",
+        "title": "Zgoda i kategoryzacja",
+        "desc": "Elektroniczny podpis pacjenta na zgodach (strona, druk, social media). Kategoryzacja według zabiegu i nasilenia."
+      },
+      {
+        "num": "03",
+        "title": "Kuracja i publikacja",
+        "desc": "Publikujesz w galerii dwoma kliknięciami. Suwak, filtry i oś czasu są generowane automatycznie."
+      },
+      {
+        "num": "04",
+        "title": "Konwersja na wizytę",
+        "desc": "Każda karta zabiegu ma przycisk 'Zarezerwuj ten zabieg', prowadzący prosto do formularza zapisu."
+      }
+    ]
+  },
+  "testimonials": {
+    "heading": "Dermatolodzy, którzy stawiają na wyniki.",
+    "subheading": "Realne kliniki, wymierne efekty galerii.",
+    "items": [
+      {
+        "name": "dr Ethan Caldwell",
+        "role": "LA Dermatology",
+        "quote": "Nasza galeria przed/po jest teraz drugą najczęściej odwiedzaną podstroną. Liczba rezerwacji konsultacji z tej strony wzrosła trzykrotnie w 90 dni."
+      },
+      {
+        "name": "dr Anika Vasquez",
+        "role": "CM Surgical",
+        "quote": "Sam proces zbierania zgód był wart wdrożenia. W końcu możemy publikować efekty operacji bez obaw o kwestie prawne."
+      },
+      {
+        "name": "dr Ibrahim Okafor",
+        "role": "RS Institute (6 placówek)",
+        "quote": "Filtrowanie według lekarza zmieniło wszystko. Każdy specjalista ma portfolio, które z dumą prezentuje pacjentom z polecenia."
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Galeria bez tajemnic.",
+    "subheading": "HIPAA, zgody, wydajność i proces wdrożenia.",
+    "items": [
+      {
+        "q": "Jak obsługiwane są kwestie HIPAA i zgody pacjentów?",
+        "a": "Każdy przypadek wymaga cyfrowej zgody z datownikiem, obejmującej osobne uprawnienia na stronę, druk i social media — z procedurą odwołania zgody, która usuwa zdjęcia w ciągu 24h. Pełna historia zmian jest archiwizowana."
+      },
+      {
+        "q": "Czy mogę filtrować przypadki według lekarza, zabiegu i fototypu skóry?",
+        "a": "Tak. Każdy przypadek jest otagowany problemem, protokołem, fototypem Fitzpatricka, stopniem nasilenia, nazwiskiem lekarza i czasem trwania. Wyniki można łatwo udostępniać linkiem."
+      },
+      {
+        "q": "Jakiej jakości i powtarzalności zdjęć wymagacie?",
+        "a": "Dostarczamy protokół fotograficzny (kąt, dystans, tło, oświetlenie) oraz opcjonalne szkolenie. System flaguje niespójne zdjęcia przed ich publikacją."
+      },
+      {
+        "q": "Czy suwak działa poprawnie na telefonach?",
+        "a": "Tak. Przewijanie dotykowe, skalowanie i płynność 60fps są zoptymalizowane pod mobile. Suwak spełnia normy WCAG 2.1 w zakresie celu dotykowego (44px)."
+      },
+      {
+        "q": "Czy możemy pokazać efekty chirurgiczne (np. metodę Mohsa)?",
+        "a": "Tak — z wykorzystaniem etapów gojenia (2 tyg. / 1 mies. / 3 mies.) i opcjonalnym ostrzeżeniem o drastycznej zawartości przed wyświetleniem zdjęcia."
+      },
+      {
+        "q": "Czy galeria spowolni moją stronę internetową?",
+        "a": "Nie. Zdjęcia są ładowane leniwie (lazy-loading), serwowane w formatach AVIF/WebP przez CDN i progresywnie rozmywane. Galerie utrzymują wynik Lighthouse Performance na poziomie 95+."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Chcesz zamienić efekty w zysk?",
+    "subheading": "Zyskaj galerię przed i po stworzoną dla dermatologii — bezpieczną (HIPAA), błyskawiczną i zaprojektowaną, by generować rezerwacje.",
+    "btnQuote": "Uzyskaj wycenę",
+    "btnContact": "Porozmawiaj z nami"
+  },
+  "footerLinks": {
+    "prefix": "Zobacz także:",
+    "link1": "projektowanie stron dla gabinetów dermatologicznych",
+    "link2": "jak media społecznościowe wzmacniają efekty",
+    "link3": "historie sukcesu realnych praktyk"
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "common": {
+    "explore": "Prozkoumat",
+    "featured": "Doporučené",
+    "free": "Zdarma",
+    "servicesCount_one": "{{count}} služba",
+    "servicesCount_other": "{{count}} služeb",
+    "needCustomPlan": "Potřebujete plán na míru?",
+    "customPlanDesc": "Získejte nabídku šitou na míru vaší praxi.",
+    "getFreeQuote": "Získat cenovou nabídku zdarma",
+    "requestFreeAudit": "Vyžádat si bezplatný audit"
+  },
+  "sections": {
+    "website": {
+      "label": "Webové služby",
+      "tagline": "Krásné, rychlé, na konverzi zaměřené stránky vytvořené pro dermatologické praxe."
+    },
+    "marketing": {
+      "label": "Marketingové služby",
+      "tagline": "Získejte více kvalifikovaných pacientů pomocí SEO, reklam a systémů reputace."
+    },
+    "addons": {
+      "label": "Doplňkové služby",
+      "tagline": "Péče, hosting, obsah a integrace pro neustálý růst.",
+      "ctaLabel": "Zobrazit všechny doplňky"
+    },
+    "insights": {
+      "audit": {
+        "title": "Bezplatný audit webových stránek",
+        "description": "Akční doporučení do 24 hodin."
+      }
+    }
+  },
+  "website": {
+    "design": {
+      "label": "Webdesign",
+      "description": "Webové stránky pro dermatologii zaměřené na konverzi."
+    },
+    "redesign": {
+      "label": "Redesign webových stránek",
+      "description": "Modernizujte své stávající webové stránky praxe."
+    },
+    "migration": {
+      "label": "Migrace webových stránek",
+      "description": "Přesuňte svůj web s nulovými prostoji a bez ztráty SEO."
+    },
+    "maintenance": {
+      "label": "Údržba webových stránek",
+      "description": "Udržujte své stránky zabezpečené, aktualizované a rychlé."
+    },
+    "management": {
+      "label": "Správa webových stránek",
+      "description": "Kompletní průběžná správa webových stránek."
+    },
+    "support": {
+      "label": "Podpora webových stránek",
+      "description": "Expertní podpora na vyžádání, když ji potřebujete."
+    },
+    "multiLocation": {
+      "label": "Více míst",
+      "description": "Škálovatelná struktura pro více klinik."
+    },
+    "ecommerce": {
+      "label": "E-Commerce",
+      "description": "Prodávejte produkty péče o pleť online."
+    },
+    "patientPortal": {
+      "label": "Pacientský portál",
+      "description": "Bezproblémová zkušenost pro pacienty."
+    },
+    "beforeAfter": {
+      "label": "Galerie před a po",
+      "description": "Krásně prezentujte výsledky."
+    }
+  },
+  "marketing": {
+    "seo": {
+      "label": "Dermatologické SEO",
+      "description": "Hodnoťte pro vyhledávání s vysokým záměrem."
+    },
+    "localSeo": {
+      "label": "Lokální SEO",
+      "description": "Ovládněte svou oblast služeb."
+    },
+    "growth": {
+      "label": "Růst praxe",
+      "description": "Strategie pro udržitelný růst."
+    },
+    "googleAds": {
+      "label": "Google Ads / PPC",
+      "description": "Předvídatelné získávání pacientů."
+    },
+    "socialMedia": {
+      "label": "Sociální média",
+      "description": "Budujte autoritu značky."
+    },
+    "reputation": {
+      "label": "Správa reputace",
+      "description": "5hvězdičkové systémy recenzí."
+    },
+    "email": {
+      "label": "E-mail marketing",
+      "description": "Pečujte o pacienty a znovu je zapojte."
+    },
+    "cro": {
+      "label": "CRO",
+      "description": "Proměňte návštěvníky v rezervace."
+    }
+  },
+  "addons": {
+    "care": {
+      "label": "Péče a údržba",
+      "description": "Průběžná péče o web, aktualizace a monitorování."
+    },
+    "hosting": {
+      "label": "Hosting a soulad",
+      "description": "Rychlý, bezpečný, HIPAA-kompatibilní hosting."
+    },
+    "content": {
+      "label": "Obsah a konverze",
+      "description": "Texty, vstupní stránky a experimenty CRO."
+    },
+    "analytics": {
+      "label": "SEO a analýza",
+      "description": "Sledování, dashboardy a viditelnost ve vyhledávání."
+    },
+    "integrations": {
+      "label": "Integrace",
+      "description": "EHR, rezervace, CRM a marketingové nástroje."
+    },
+    "growth": {
+      "label": "Růstový marketing",
+      "description": "Reklamy, e-mail a programy reputace."
+    }
+  },
+  "insights": {
+    "process": {
+      "label": "Náš proces",
+      "description": "Jak realizujeme každý projekt."
+    },
+    "about": {
+      "label": "O nás",
+      "description": "Kdo jsme a v co věříme."
+    },
+    "caseStudies": {
+      "label": "Případové studie",
+      "description": "Skutečné výsledky ze skutečných praxí."
+    },
+    "blog": {
+      "label": "Blog",
+      "description": "Poznatky pro rostoucí praxe."
+    },
+    "faq": {
+      "label": "Časté dotazy",
+      "description": "Odpovědi na běžné otázky."
+    },
+    "audit": {
+      "label": "Bezplatný audit webových stránek",
+      "description": "Personalizovaná doporučení do 24 hodin."
+    }
+  }
+}

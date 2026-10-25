@@ -1,0 +1,81 @@
+{
+  "language": { "select": "اللغة" },
+  "common": { "or": "أو" },
+  "topBar": {
+    "whatsappUs": "راسلنا على واتساب",
+    "whatsapp": "واتساب",
+    "freeAudit24hLong": "تدقيق مجاني للموقع خلال 24 ساعة",
+    "freeAudit24hShort": "تدقيق مجاني · 24س",
+    "freeAudit": "تدقيق مجاني",
+    "hipaaAware": "مواقع متوافقة مع HIPAA",
+    "hipaaAwareShort": "متوافق مع HIPAA",
+    "hipaa": "HIPAA"
+  },
+  "nav": {
+    "home": "الرئيسية",
+    "services": "الخدمات",
+    "portfolio": "المعرض",
+    "pricing": "الأسعار",
+    "insights": "المدونة",
+    "contact": "تواصل",
+    "openMenu": "فتح القائمة",
+    "closeMenu": "إغلاق القائمة",
+    "skipToContent": "الانتقال إلى المحتوى",
+    "main": "القائمة الرئيسية"
+  },
+  "cta": {
+    "getFreeQuote": "احصل على عرض مجاني",
+    "requestAudit": "اطلب تدقيقًا مجانيًا",
+    "viewAllAddons": "عرض جميع الخدمات الإضافية"
+  },
+  "drawer": {
+    "websiteServices": "خدمات المواقع",
+    "marketingServices": "خدمات التسويق",
+    "addOnServices": "الخدمات الإضافية",
+    "chatWhatsApp": "الدردشة على واتساب",
+    "freeAuditBanner": "تدقيق مجاني للموقع · خلال 24 ساعة"
+  },
+  "chat": {
+    "assistantName": "مساعد DWD",
+    "verified": "موثّق",
+    "online": "متصل · يرد فورًا",
+    "openLabel": "فتح المساعد",
+    "closeLabel": "إغلاق المساعد",
+    "welcome": "مرحبًا 👋 أنا مساعد **Dermatology Website Design**.\n\nيمكنني مساعدتك في استكشاف الخدمات والأسعار وأمثلة الأعمال وتدقيق الموقع وأفضل خطوة تالية لعيادتك.\n\nكيف يمكنني مساعدتك اليوم؟",
+    "quickQuestions": "أسئلة سريعة",
+    "placeholder": "اسأل عن الخدمات أو الأسعار أو المعرض…",
+    "sendLabel": "إرسال",
+    "footerNote": "مساعد ذكاء اصطناعي · الردود تستشهد بقسم الصفحة المحدد",
+    "errorText": "حدث خطأ ما. حاول مرة أخرى أو",
+    "contactUs": "تواصل معنا",
+    "primary": {
+      "quote": "عرض سعر",
+      "audit": "تدقيق",
+      "pricing": "الأسعار",
+      "contact": "تواصل"
+    },
+    "quick": {
+      "design":     { "label": "تصميم المواقع",     "prompt": "أخبرني عن خدمة تصميم المواقع." },
+      "management": { "label": "إدارة الموقع",      "prompt": "ما الذي تشمله إدارة الموقع؟" },
+      "seo":        { "label": "خدمات SEO",          "prompt": "كيف يعمل تحسين محركات البحث لديكم للجلدية؟" },
+      "portfolio":  { "label": "المعرض",             "prompt": "هل يمكنني رؤية أعمالكم؟" },
+      "pricing":    { "label": "الأسعار",             "prompt": "ما هي أسعاركم وباقاتكم؟" },
+      "audit":      { "label": "تدقيق مجاني",         "prompt": "كيف أحصل على تدقيق مجاني للموقع؟" },
+      "quote":      { "label": "عرض سعر مجاني",       "prompt": "كيف أحصل على عرض سعر مجاني؟" }
+    }
+  },
+  "errorPages": {
+    "notFound": {
+      "title": "الصفحة غير موجودة",
+      "description": "الصفحة التي تبحث عنها غير موجودة أو تم نقلها."
+    },
+    "error": {
+      "title": "تعذر تحميل هذه الصفحة",
+      "description": "حدث خطأ من جانبنا. يمكنك المحاولة مرة أخرى أو العودة إلى الصفحة الرئيسية."
+    },
+    "actions": {
+      "home": "العودة للرئيسية",
+      "retry": "حاول مرة أخرى"
+    }
+  }
+}

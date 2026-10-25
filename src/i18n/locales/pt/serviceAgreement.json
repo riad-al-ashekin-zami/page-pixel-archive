@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "title": "Contrato de Prestação de Serviços — Termos de Colaboração",
+    "description": "O contrato de prestação de serviços que rege os projetos entre o nosso estúdio e as clínicas de dermatologia — âmbito, entregáveis, pagamentos, PI, confidencialidade, garantias e rescisão.",
+    "page_title": "Contrato de Prestação de Serviços — Termos de Colaboração",
+    "page_description": "O contrato de prestação de serviços que rege os projetos entre o nosso estúdio e as clínicas de dermatologia — âmbito, entregáveis, pagamentos, PI, confidencialidade, garantias e rescisão."
+  },
+  "common": {
+    "skip_to_content": "Saltar para o conteúdo",
+    "last_updated": "Última atualização:",
+    "last_updated_date": "14 de julho de 2026"
+  },
+  "hero": {
+    "badge": "Jurídico · Contrato de Serviços",
+    "h1": "Contrato de Prestação de Serviços",
+    "description": "Os termos redigidos de forma clara que regem o design, desenvolvimento e o trabalho contínuo entre o nosso estúdio e a sua clínica. Leia este documento em conjunto com a sua proposta de projeto ou declaração de trabalho."
+  },
+  "sections": {
+    "toc_title": "Índice",
+    "navigation_aria_label": "Navegação da secção",
+    "parties": {
+      "title": "1. Partes e Aceitação",
+      "body": "Este Contrato de Prestação de Serviços (\"Contrato\") é celebrado entre o nosso estúdio (\"Prestador\", \"nós\") e a clínica, entidade ou indivíduo identificado na proposta ou declaração de trabalho que o acompanha (\"Cliente\", \"você\"). Ao assinar uma proposta, efetuar um depósito ou instruir-nos de outra forma para iniciar o trabalho, aceita os termos abaixo."
+    },
+    "scope": {
+      "title": "2. Âmbito dos Serviços",
+      "body": "Os serviços específicos, entregáveis, marcos e cronogramas estão definidos na proposta ou na declaração de trabalho (\"SOW\") que referencia este Contrato. Qualquer elemento fora dessa SOW — novas páginas, integrações adicionais, rondas de revisões extra, alteração de âmbito após aprovação — é tratado como um pedido de alteração e orçamentado separadamente por escrito."
+    },
+    "fees": {
+      "title": "3. Honorários e Pagamento",
+      "items": [
+        "É exigido um depósito não reembolsável de 50% para agendar e iniciar o trabalho.",
+        "O saldo restante é faturado de acordo com os marcos definidos na SOW; o pagamento final deve ser efetuado antes do lançamento em produção ou da entrega dos ficheiros.",
+        "As faturas vencem no prazo de 7 dias. Faturas em atraso acumulam juros mensais de 1,5%, e o trabalho poderá ser suspenso até que o saldo seja liquidado.",
+        "Os planos recorrentes (alojamento, manutenção, avenças) são faturados mensalmente e de forma antecipada."
+      ]
+    },
+    "timeline": {
+      "title": "4. Cronograma e Responsabilidades do Cliente",
+      "body": "Os cronogramas pressupõem respostas a revisões e pedidos de conteúdos no prazo de 3 dias úteis. Atrasos no feedback, na entrega de conteúdos ou em aprovações de terceiros transferem o calendário numa base de dia após dia. O Cliente é responsável por fornecer conteúdos precisos, ativos da marca e credenciais de acesso, bem como por garantir que o conteúdo fornecido é fidedigno e não infringe direitos de terceiros."
+    },
+    "revisions": {
+      "title": "5. Revisões",
+      "body": "Cada entregável inclui duas rondas de revisões consolidadas, a menos que a SOW indique o contrário. As revisões solicitadas após a aprovação por escrito de uma fase, ou que excedam as rondas incluídas, são faturadas à nossa taxa horária em vigor no momento."
+    },
+    "ip": {
+      "title": "6. Propriedade Intelectual",
+      "body": "Após o pagamento integral, o Cliente detém a propriedade dos entregáveis finais produzidos especificamente para si — design do website, código personalizado e conteúdos criados sob a SOW. Mantemos os direitos sobre frameworks pré-existentes, ferramentas e componentes genéricos utilizados na construção, e concedemos ao Cliente uma licença perpétua para utilizá-los como parte do seu projeto. Reservamo-nos o direito de exibir o trabalho concluído no nosso portefólio e estudos de caso, salvo pedido em contrário por escrito."
+    },
+    "third_party": {
+      "title": "7. Serviços de Terceiros",
+      "body": "Os projetos podem depender de serviços de terceiros (alojamento, CMS, analytics, integrações com EHR/reservas, DNS, processadores de pagamento). O Cliente é responsável pelas respetivas taxas e pela aceitação dos seus termos. Não somos responsáveis por interrupções, alterações ou defeitos causados por fornecedores terceiros."
+    },
+    "hipaa": {
+      "title": "8. HIPAA e Tratamento de Dados",
+      "body": "Os nossos websites padrão são construídos com conformidade HIPAA em mente: evitam a recolha de Informações de Saúde Protegidas (PHI) em formulários, rastreadores ou registos. Nos casos em que um projeto manuseie PHI intencionalmente (ex: portais de pacientes, formulários de admissão com dados clínicos), as partes executarão um Contrato de Parceria Comercial (\"BAA\") separado antes dessa funcionalidade entrar em vigor. O Cliente é responsável por configurar ferramentas de terceiros que adicione após a entrega de forma complacente com a HIPAA."
+    },
+    "confidentiality": {
+      "title": "9. Confidencialidade",
+      "body": "Cada parte manterá confidenciais as informações não públicas da outra parte (comerciais, financeiras, de pacientes e técnicas), utilizando-as apenas para o cumprimento deste Contrato. As obrigações de confidencialidade permanecem em vigor após a rescisão."
+    },
+    "warranty": {
+      "title": "10. Garantia e Exclusão de Responsabilidade",
+      "body": "Garantimos que os serviços serão executados de forma profissional e consistente com os padrões do setor. Durante 30 dias após o lançamento, corrigiremos gratuitamente eventuais defeitos no código da nossa autoria. Após esse período, o trabalho corretivo será abrangido por um plano de manutenção ou faturado à hora. Salvo indicação expressa, os serviços e entregáveis são fornecidos \"tal como estão\", e rejeitamos todas as outras garantias, incluindo a adequação a um fim específico e a não violação de serviços de terceiros."
+    },
+    "liability": {
+      "title": "11. Limitação de Responsabilidade",
+      "body": "Até ao limite máximo permitido por lei, nenhuma das partes é responsável por danos indiretos, incidentais, consequenciais ou perda de lucros. A nossa responsabilidade agregada sob este Contrato limita-se aos honorários pagos pelo Cliente nos três (3) meses que precedem a reclamação."
+    },
+    "termination": {
+      "title": "12. Rescisão",
+      "body": "Qualquer uma das partes pode rescindir o contrato por incumprimento material se o mesmo não for sanado no prazo de 14 dias após notificação por escrito. Se o Cliente rescindir por conveniência, será responsável por todo o trabalho concluído e despesas incorridas até à data da rescisão; o depósito mantém-se não reembolsável. Os planos recorrentes requerem um aviso prévio por escrito de 30 dias."
+    },
+    "misc": {
+      "title": "13. Lei Aplicável e Diversos",
+      "body": "Este Contrato é regido pelas leis da jurisdição indicada na SOW. Constitui o acordo integral entre as partes sobre este assunto e substitui discussões anteriores. Se qualquer disposição for considerada inexequível, as restantes permanecem em vigor. As alterações devem ser feitas por escrito e assinadas por ambas as partes."
+    }
+  },
+  "cta": {
+    "title": "Dúvidas sobre estes termos?",
+    "description": "Teremos todo o gosto em analisar qualquer cláusula antes de assinar.",
+    "button": "Contacte-nos"
+  }
+}

@@ -1,0 +1,416 @@
+{
+  "meta": {
+    "title": "Dermatology Website Support Services — Named Engineer, 15-min Emergency SLA",
+    "description": "Human website support for dermatology practices. Named engineer, live chat, priority phone, edit hours, staff training, HIPAA-aware guidance, and 24/7 emergency response. Month-to-month.",
+    "og": {
+      "title": "Dermatology Website Support Services — Real Engineers, Real Response Times",
+      "description": "A named account engineer, sub-hour replies, edit hours for content and design, and 24/7 emergency escalation — built for dermatology practices."
+    },
+    "jsonLd": {
+      "serviceType": "Dermatology Website Support Services",
+      "provider": "DermatologyWebsiteDesign.com",
+      "offerDescription": "Dermatology website support plan — starting price per month"
+    }
+  },
+  "hero": {
+    "badgeOpen": "Support desk open · avg. reply 42 seconds",
+    "badgeOpenMobile": "Desk open · 42s reply",
+    "badgeTitle": "Website Support Services",
+    "titlePrefix": "A real engineer, ",
+    "titleHighlight": "one message away.",
+    "description": "Website support built for dermatology practices. Named account engineer, live chat, priority phone, edit hours, staff training, and 24/7 emergency escalation — no tickets lost in a queue.",
+    "ctaStart": "Start a Support Plan",
+    "ctaDemo": "Watch a support demo",
+    "pricing": {
+      "label": "Support plans from",
+      "value": "$249",
+      "suffix": "/ month · month-to-month, no lock-in"
+    },
+    "trustLabels": [
+      "Named engineer",
+      "Live chat + phone",
+      "Edit hours included",
+      "24/7 emergency"
+    ],
+    "imageAlt": "Dermatology website support engineer at desk with live chat and ticket inbox"
+  },
+  "stats": [
+    {
+      "value": "42s",
+      "label": "Average live-chat first reply"
+    },
+    {
+      "value": "18min",
+      "label": "Average edit turnaround"
+    },
+    {
+      "value": "98%",
+      "label": "First-touch resolution rate"
+    },
+    {
+      "value": "4.9/5",
+      "label": "Client satisfaction (last 12 mo)"
+    }
+  ],
+  "channels": {
+    "tag": "Reach us any way you want",
+    "title": "Six channels. One engineer. Zero phone trees.",
+    "description": "Every request lands in the same tracked inbox with an SLA — whether it came in through chat, email, phone, or a 3am pager.",
+    "items": [
+      {
+        "name": "Live Chat",
+        "desc": "In-app chat, 9am–9pm ET, staffed by real engineers.",
+        "meta": "avg. 42s reply"
+      },
+      {
+        "name": "Direct Phone",
+        "desc": "Named line to your account engineer — no phone tree.",
+        "meta": "no queue"
+      },
+      {
+        "name": "Priority Email",
+        "desc": "SLA-tracked inbox with response guarantees per plan.",
+        "meta": "≤ 1 hr on Pro"
+      },
+      {
+        "name": "Ticket Portal",
+        "desc": "Full history, screenshots, and status per request.",
+        "meta": "self-serve 24/7"
+      },
+      {
+        "name": "Video Walkthroughs",
+        "desc": "Screen-share sessions for training and complex edits.",
+        "meta": "on-demand"
+      },
+      {
+        "name": "Emergency Hotline",
+        "desc": "Site-down escalation to on-call engineer, 24/7.",
+        "meta": "15-min SLA"
+      }
+    ]
+  },
+  "helpTopics": {
+    "tag": "What we actually help with",
+    "title": "From \"change this word\" to \"our booking form is down.\"",
+    "description": "Six categories of everyday work — the stuff a busy practice needs done today, not next sprint.",
+    "items": [
+      {
+        "title": "Content edits",
+        "desc": "Provider bios, service pages, blog posts, insurance lists — turned around in hours."
+      },
+      {
+        "title": "Small design tweaks",
+        "desc": "Banner swaps, seasonal promos, new sections, layout adjustments."
+      },
+      {
+        "title": "Staff training",
+        "desc": "Recorded walkthroughs and live sessions so your team can self-serve confidently."
+      },
+      {
+        "title": "Integration help",
+        "desc": "Booking widgets, EHR embeds, review platforms, analytics — configured and debugged."
+      },
+      {
+        "title": "HIPAA-aware guidance",
+        "desc": "Every form, tracker, and third-party script vetted for PHI safety before it ships."
+      },
+      {
+        "title": "Emergency response",
+        "desc": "Site down, font broken, booking failing — escalate to a named engineer, 24/7."
+      }
+    ]
+  },
+  "flow": {
+    "tag": "How support works",
+    "title": "A workflow built for busy dermatology practices.",
+    "steps": [
+      {
+        "id": "01",
+        "title": "Meet your engineer",
+        "desc": "You get a named account engineer on day one — not a rotating support pool. They learn your site, your team, your vocabulary."
+      },
+      {
+        "id": "02",
+        "title": "Request from anywhere",
+        "desc": "Chat, email, phone, portal, or a shared Slack channel. Every request lands in the same tracked inbox with an SLA."
+      },
+      {
+        "id": "03",
+        "title": "Real humans, fast",
+        "desc": "Most edits ship within an hour. Bigger asks get a plan, an estimate, and a review before anything touches production."
+      },
+      {
+        "id": "04",
+        "title": "Monthly check-in",
+        "desc": "A 30-minute call every month to review requests, roadmap, and anything on your mind — proactive, not reactive."
+      }
+    ]
+  },
+  "responseDesk": {
+    "badge": "Response desk · live",
+    "title": "Pick a channel. See how fast we reply.",
+    "description": "A realistic peek at a same-day support thread — from first message to deployed fix.",
+    "meterLabel": "Live response meter",
+    "meterSuffix": "s",
+    "meterComparison": "Faster than 94% of agencies",
+    "status": "Online",
+    "labels": {
+      "chatReply": "Chat reply",
+      "emergencySla": "Emergency SLA"
+    },
+    "engineerInfo": {
+      "name": "Jordan R. · Your engineer",
+      "status": "Live",
+      "typing": "Jordan is typing…"
+    },
+    "demos": {
+      "chat": {
+        "label": "Live Chat",
+        "sla": "avg. 42s reply",
+        "lines": [
+          "Hey — can we swap the hero photo on the Aesthetic page today?",
+          "On it. Send the file whenever — I'll deploy in ~15 min.",
+          "Sent. Also add Dr. Chen to the provider grid?",
+          "Both live. Preview link coming in 8 min ✅"
+        ]
+      },
+      "phone": {
+        "label": "Direct Phone",
+        "sla": "no phone tree",
+        "lines": [
+          "📞 Ring — practice manager, LA Dermatology.",
+          "Hey Sara, Jordan here. What's up?",
+          "Booking widget is throwing an error on iPhone.",
+          "Seeing it. Deploying a fix — 6 min. Stay on the line."
+        ]
+      },
+      "email": {
+        "label": "Priority Email",
+        "sla": "≤ 1 hr on Pro",
+        "lines": [
+          "Subject: Update insurance list for all 6 locations",
+          "Got it — sending you a diff to approve in 20 min.",
+          "Approved. Also drop the 'Aetna' logo, we no longer accept.",
+          "Done across 6 sites. Confirmation email sent ✅"
+        ]
+      },
+      "ticket": {
+        "label": "Ticket Portal",
+        "sla": "self-serve 24/7",
+        "lines": [
+          "#4831 · New: 'Add Spanish intake PDF to Contact page'",
+          "Assigned to me. ETA: 45 min. Priority: normal.",
+          "Attached the file. Please link from footer too.",
+          "Deployed. Ticket closed with screenshots ✅"
+        ]
+      }
+    }
+  },
+  "plans": {
+    "tag": "Support plans",
+    "title": "Human support at a predictable price.",
+    "description": "Every plan is month-to-month with a named engineer. Cancel anytime.",
+    "mostChosen": "Most chosen",
+    "marketLabel": "Market:",
+    "choose": "Choose",
+    "cards": [
+      {
+        "name": "Starter",
+        "tag": "Solo practices",
+        "price": "$249",
+        "per": "/month",
+        "sla": "≤ 4 hr reply",
+        "edits": "Edits: 2 hrs / mo",
+        "market": "$500 – $1,000 /mo",
+        "savings": "50–75% cheaper",
+        "features": [
+          "Named account engineer",
+          "Email + ticket portal",
+          "2 hrs of edit work per month",
+          "Business-hours support (9–6 ET)",
+          "Monthly summary report",
+          "Onboarding walkthrough call"
+        ]
+      },
+      {
+        "name": "Professional",
+        "tag": "Multi-service practices",
+        "price": "$549",
+        "per": "/month",
+        "sla": "≤ 1 hr reply",
+        "edits": "Edits: 6 hrs / mo",
+        "market": "$1,100 – $2,500 /mo",
+        "savings": "50–78% cheaper",
+        "features": [
+          "Everything in Starter",
+          "Live chat + priority phone line",
+          "6 hrs of edit work per month",
+          "Extended hours (9am–9pm ET)",
+          "Quarterly training sessions",
+          "Integration & analytics help",
+          "30-min monthly strategy session"
+        ]
+      },
+      {
+        "name": "Enterprise",
+        "tag": "Multi-location & Mohs groups",
+        "price": "$1,299",
+        "per": "/month",
+        "sla": "≤ 15 min emergency",
+        "edits": "Edits: Unlimited*",
+        "market": "$2,800 – $5,500 /mo",
+        "savings": "54–76% cheaper",
+        "features": [
+          "Everything in Professional",
+          "24/7 emergency hotline",
+          "Shared Slack / Teams channel",
+          "Unlimited* edit hours (fair use)",
+          "Per-location request tracking",
+          "Dedicated backup engineer",
+          "Quarterly business review"
+        ]
+      }
+    ]
+  },
+  "audiences": {
+    "tag": "Who we support",
+    "title": "Purpose-built for every dermatology model.",
+    "items": [
+      {
+        "label": "Solo Dermatologists",
+        "desc": "One direct line to a human who knows your site — no tickets lost in a queue."
+      },
+      {
+        "label": "Multi-location Dermatology Clinics",
+        "desc": "Per-location edit tracking, shared inbox, one point of contact for every manager."
+      },
+      {
+        "label": "Pediatric Dermatology",
+        "desc": "Family-facing content edits and parent-form updates handled with clinical care."
+      },
+      {
+        "label": "Mohs & Surgical Dermatology",
+        "desc": "Referral portal changes and provider updates deployed the same business day."
+      }
+    ]
+  },
+  "medicalServices": {
+    "tag": "Every service page we look after",
+    "title": "Edits and updates for every dermatology service you offer.",
+    "description": "From acne to vitiligo — we handle content refreshes, pricing changes, provider assignments, and schema updates on request.",
+    "items": [
+      "Acne Treatment",
+      "Eczema Treatment",
+      "Psoriasis Treatment",
+      "Skin Infection Treatment",
+      "Skin Allergy Treatment",
+      "Skin Cancer Screening & Treatment",
+      "Mole Evaluation & Medically Necessary Removal",
+      "Cyst & Lipoma Removal",
+      "Wart Removal",
+      "Nail Disorder Treatment",
+      "Hair Loss Diagnosis & Medical Treatment",
+      "Scalp Disorder Treatment",
+      "Rosacea Treatment",
+      "Hyperpigmentation & Melasma Treatment",
+      "Scar Treatment",
+      "Burn Scar Treatment",
+      "Vitiligo Treatment",
+      "Skin Biopsy & Diagnostic Procedures"
+    ]
+  },
+  "testimonials": {
+    "tag": "What clients say",
+    "title": "Dermatologists who finally feel supported.",
+    "items": [
+      {
+        "name": "Dr. Ethan Caldwell, MD",
+        "role": "LA Dermatology",
+        "quote": "I text one number, someone replies in a minute, the edit is live before lunch. That's it. That's the whole review."
+      },
+      {
+        "name": "Dr. Anika Vasquez, MD",
+        "role": "CM Surgical",
+        "quote": "They trained my front desk on the CMS in one Zoom. Half our tickets disappeared overnight — but the ones we send are handled in 15 minutes."
+      },
+      {
+        "name": "Dr. Ibrahim Okafor, MD",
+        "role": "RS Institute · 6 loc.",
+        "quote": "Six managers, six sets of edits, one inbox. My engineer knows every location by name. It feels like an in-house team without the payroll."
+      }
+    ]
+  },
+  "faq": {
+    "tag": "FAQ",
+    "title": "Answers about website support.",
+    "items": [
+      {
+        "q": "How is this different from your maintenance plans?",
+        "a": "Maintenance keeps your site running — updates, backups, monitoring, security. Support is the human layer on top: a named engineer you can talk to, edit hours for content and design changes, training for your staff, and integration help. Most practices bundle both."
+      },
+      {
+        "q": "What counts as an 'edit hour'?",
+        "a": "Any content, small-design, or configuration work: updating provider bios, adding a service page section, swapping a hero banner, fixing a broken booking embed, changing insurance lists, uploading before-and-afters, publishing a blog post. Larger design or feature work is scoped separately."
+      },
+      {
+        "q": "How fast do you actually reply?",
+        "a": "Live chat averages 42 seconds during business hours. Priority email is under 1 hour on Professional and Enterprise. Emergency site-down issues on Enterprise are escalated within 15 minutes, 24/7, to a named on-call engineer."
+      },
+      {
+        "q": "Do you support sites you didn't build?",
+        "a": "Yes — WordPress, Webflow, custom, and headless dermatology sites. We start with a paid technical audit so we inherit your site safely and know exactly what we're supporting."
+      },
+      {
+        "q": "Can staff request edits, or only doctors?",
+        "a": "Any team member you authorize. Most practices give access to the doctor, practice manager, and marketing lead. Every request is logged in the portal with a full audit trail."
+      },
+      {
+        "q": "What if I don't use my hours in a month?",
+        "a": "Up to 50% of unused hours roll over one month. We'd rather you get the value than have to invent busywork — most clients use their hours and then some."
+      },
+      {
+        "q": "Is there a contract?",
+        "a": "Month-to-month, cancel anytime. You keep all your content, code, credentials, and request history when you offboard."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Meet the engineer who'll answer your next message.",
+    "highlight": "Get a free quote.",
+    "description": "We'll review your site, your team's edit patterns, and which plan (if any) actually fits — then send a written quote.",
+    "buttonQuote": "Start a Support Plan",
+    "buttonContact": "Contact Us"
+  },
+  "inboxWidget": {
+    "title": "Support inbox",
+    "status": "Today · 5 open",
+    "replyMetric": "reply",
+    "engineer": {
+      "label": "Your engineer",
+      "status": "Jordan R. · online"
+    },
+    "tickets": [
+      {
+        "id": "4821",
+        "subject": "New provider bio + headshot on About page",
+        "meta": "Dr. Caldwell · email · 18 min"
+      },
+      {
+        "id": "4822",
+        "subject": "Add Aesthetic promo banner for Memorial Day",
+        "meta": "Front desk · Lumen · chat · 9 min"
+      },
+      {
+        "id": "4823",
+        "subject": "Booking widget not loading on iPhone Safari",
+        "meta": "Dr. Vasquez · phone · 22 min"
+      }
+    ]
+  },
+  "footerLinks": {
+    "preface": "If you're evaluating support, see:",
+    "maintenance": "proactive maintenance plans",
+    "management": "hands-off website management",
+    "faq": "frequently asked support questions"
+  }
+}

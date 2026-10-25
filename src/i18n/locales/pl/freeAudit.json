@@ -1,0 +1,259 @@
+{
+  "meta": {
+    "title": "Bezpłatny audyt strony dermatologicznej — gotowy raport w 24h",
+    "description": "Zamów bezpłatny audyt strony dla gabinetu dermatologicznego. Spersonalizowany raport dotyczący SEO, szybkości, HIPAA, UX i konwersji — dostarczony w 24 godziny.",
+    "og": {
+      "title": "Bezpłatny audyt strony WWW dla dermatologa",
+      "description": "Personalizowany audyt strony dla praktyk dermatologicznych — SEO, szybkość, HIPAA, UX i konwersja. Gotowy w 24h."
+    },
+    "jsonLd": {
+      "home": "Strona główna",
+      "breadcrumb": "Bezpłatny audyt strony"
+    }
+  },
+  "hero": {
+    "badge": "Bezpłatnie · Bez zobowiązań · Wyniki w 24h",
+    "title": "Rzetelny, przeprowadzony przez eksperta audyt Twojej strony dermatologicznej.",
+    "subtitle": "Otrzymaj spersonalizowany raport dotyczący SEO, szybkości, HIPAA, dostępności i konwersji — sprawdzony przez specjalistę branży dermatologicznej, a nie automat. Dostarczony w ciągu 24 godzin.",
+    "checklist": [
+      "Wynik kondycji strony (skala 0–100)",
+      "3 najważniejsze priorytety opisane prostym językiem",
+      "Zwięzłe podsumowanie bezpośrednio na Twój e-mail",
+      "Bez zobowiązań — raport pozostaje do Twojej dyspozycji"
+    ],
+    "audiencesLabel": "Idealny dla",
+    "audiences": [
+      "Indywidualnych gabinetów",
+      "Praktyk wielooddziałowych",
+      "Klinik medycyny estetycznej",
+      "Dermatologii dziecięcej",
+      "Chirurgii dermatologicznej i metody Mohsa"
+    ],
+    "stats": {
+      "websites": {
+        "label": "Stron WWW",
+        "sub": "Zaudytowanych i dostarczonych"
+      },
+      "delivery": {
+        "label": "Czas realizacji",
+        "sub": "W dni robocze"
+      },
+      "niche": {
+        "label": "Dermatologia",
+        "sub": "Specjalizacja niszowa"
+      }
+    }
+  },
+  "trustItems": [
+    {
+      "label": "Tylko dermatologia",
+      "note": "100% koncentracji na niszy"
+    },
+    {
+      "label": "Realizacja w 24h",
+      "note": "Raport prosto na e-mail"
+    },
+    {
+      "label": "Zero zobowiązań",
+      "note": "Bez ofert sprzedażowych"
+    },
+    {
+      "label": "Analiza ekspercka",
+      "note": "To nie jest raport z Lighthouse"
+    }
+  ],
+  "sections": {
+    "auditAreas": {
+      "tag": "Co sprawdzamy",
+      "title": "Sześć kluczowych aspektów. Jeden ekspercki raport.",
+      "subtitle": "Każdy audyt wykonujemy ręcznie — nie kopiujemy danych z darmowych skanerów.",
+      "items": [
+        {
+          "title": "SEO i widoczność lokalna",
+          "body": "SEO on-page, dane strukturalne, słowa kluczowe z potencjałem oraz optymalizacja Map Google i Profilu Firmy."
+        },
+        {
+          "title": "Szybkość i Core Web Vitals",
+          "body": "Wskaźniki LCP, INP, CLS, wydajność mobilna i optymalizacja grafik — konkretne poprawki dla Twojego programisty."
+        },
+        {
+          "title": "HIPAA i bezpieczeństwo",
+          "body": "Obsługa formularzy, ochrona danych pacjentów, SSL i wycieki danych z trackerów — okiem eksperta od dermatologii."
+        },
+        {
+          "title": "Dostępność ADA",
+          "body": "Zgodność z WCAG 2.1: kontrast, nawigacja klawiaturą i czytelność dla pacjentów o różnych potrzebach."
+        },
+        {
+          "title": "UX i konwersja",
+          "body": "Analiza ścieżki pacjenta: od rezerwacji wizyty, przez strony usług, po galerie przed/po — oraz identyfikacja słabych punktów."
+        },
+        {
+          "title": "Doświadczenie mobilne",
+          "body": "Testy na rzeczywistych urządzeniach, wielkość przycisków i łatwość rezerwacji w trudnych warunkach (np. słaby zasięg)."
+        }
+      ]
+    },
+    "benefits": {
+      "tag": "Dlaczego warto?",
+      "title": "Wiedza, która realnie przekłada się na rozwój.",
+      "subtitle": "Poznaj rzeczywisty stan swojej strony, aby każda złotówka wydana na marketing pracowała efektywniej.",
+      "items": [
+        {
+          "title": "Wykrycie ukrytych błędów",
+          "body": "Większość problemów jest niewidoczna na pierwszy rzut oka: błędy w schema czy wolne ładowanie. Wyciągamy je na światło dzienne."
+        },
+        {
+          "title": "Poprawa wydajności",
+          "body": "Szybsza strona to lepsze doświadczenie pacjenta i mierzalnie wyższa konwersja w formularzach rezerwacji."
+        },
+        {
+          "title": "Bezpieczeństwo i HIPAA",
+          "body": "Zapobiegaj wyciekom danych i problemom z certyfikatami SSL, zanim staną się kosztownym problemem prawnym."
+        },
+        {
+          "title": "Wyższe pozycje w Google",
+          "body": "Poprawa technicznego SEO i sygnałów lokalnych pomaga Twojej praktyce dominować w wynikach wyszukiwania i na mapach."
+        }
+      ]
+    },
+    "deliverables": {
+      "tag": "Co otrzymasz",
+      "title": "Raport gotowy do wdrożenia.",
+      "description": "Zapomnij o 80-stronicowych plikach PDF pełnych żargonu. Otrzymasz konkretną listę kwestii istotnych dla dermatologa, uszeregowanych według priorytetu, gotową do przekazania dowolnej agencji.",
+      "tags": {
+        "delivery": "Dostawa w 24h",
+        "confidential": "Poufność",
+        "obligation": "Bez zobowiązań"
+      },
+      "items": [
+        {
+          "title": "Karta wyników kondycji strony",
+          "body": "Wynik punktowy 0–100 z podziałem na kategorie (SEO, Szybkość, HIPAA, UX, Mobile) — abyś od razu wiedział, na czym stoisz."
+        },
+        {
+          "title": "3 najważniejsze priorytety",
+          "body": "Kluczowe problemy znalezione na Twojej stronie, opisane zrozumiale — wystarczająco dużo, by zacząć działać, bez przytłoczenia."
+        },
+        {
+          "title": "Zwięzłe podsumowanie",
+          "body": "Krótki opis Twojego wyniku wysłany na e-mail. Rozszerzony raport i plan na 90 dni są dostępne jako opcja płatna w kolejnym kroku."
+        }
+      ]
+    },
+    "howItWorks": {
+      "tag": "Jak to działa",
+      "title": "Od zgłoszenia do raportu w jedną dobę.",
+      "steps": [
+        {
+          "label": "Krok 1",
+          "title": "Wyślij adres strony",
+          "body": "Podaj URL i kilka podstawowych informacji. Zajmie Ci to około 60 sekund."
+        },
+        {
+          "label": "Krok 2",
+          "title": "Analiza ekspercka",
+          "body": "Specjalista — nie bot — analizuje szybkość, SEO, HIPAA i UX pod kątem specyfiki usług dermatologicznych."
+        },
+        {
+          "label": "Krok 3",
+          "title": "Odbierz raport",
+          "body": "Twój wynik, 3 główne błędy i pisemne podsumowanie trafią do Twojej skrzynki w ciągu 24 godzin."
+        },
+        {
+          "label": "Krok 4",
+          "title": "Wdrożenie poprawek",
+          "body": "Przekaż raport swojemu zespołowi lub poproś nas o pomoc. Żadnej presji z naszej strony."
+        }
+      ]
+    }
+  },
+  "form": {
+    "tag": "Zamów bezpłatny audyt",
+    "title": "Odbierz raport w 24 godziny",
+    "subtitle": "Kilka szybkich pól. Bez zakładania konta. Bez podawania karty.",
+    "fields": {
+      "website": {
+        "label": "URL Twojej strony",
+        "placeholder": "https://twojapraktyka.pl"
+      },
+      "name": {
+        "label": "Imię i nazwisko",
+        "placeholder": "np. dr Jan Kowalski"
+      },
+      "role": {
+        "label": "Stanowisko",
+        "placeholder": "Właściciel, Menadżer praktyki…"
+      },
+      "practice": {
+        "label": "Nazwa placówki",
+        "placeholder": "Klinika Dermatologii Ekspert"
+      },
+      "email": {
+        "label": "E-mail",
+        "placeholder": "kontakt@praktyka.pl"
+      },
+      "phone": {
+        "label": "Telefon",
+        "placeholder": "(opcjonalnie)"
+      },
+      "goals": {
+        "label": "Na czym powinniśmy się skupić?",
+        "optionalLabel": "(opcjonalnie)",
+        "placeholder": "np. mamy ruch, ale brak rezerwacji, lub chcemy być wyżej w Google na frazę 'botoks Warszawa'."
+      }
+    },
+    "submit": "Zamawiam bezpłatny audyt",
+    "disclaimer": {
+      "spam": "Polityka przeciwko spamowi",
+      "obligation": "Bez żadnych zobowiązań",
+      "confidential": "Poufne — nigdy nie udostępniamy danych"
+    },
+    "success": {
+      "title": "Zgłoszenie przyjęte — dziękujemy.",
+      "body": "Przeanalizujemy Twoją stronę i prześlemy raport na Twój adres e-mail w ciągu 24 godzin roboczych.",
+      "cta": "Zobacz nasze realizacje"
+    },
+    "errors": {
+      "name": "Wpisz swoje imię",
+      "email": "Podaj poprawny adres e-mail",
+      "practice": "Wpisz nazwę swojej praktyki",
+      "website": "Podaj adres URL strony",
+      "generic": "Sprawdź poprawność formularza",
+      "cooldown": "Odczekaj {{seconds}}s przed kolejną próbą.",
+      "submissionError": "Przepraszamy, coś poszło nie tak. Spróbuj ponownie lub napisz do nas bezpośrednio."
+    }
+  },
+  "faq": {
+    "tag": "Częste pytania",
+    "title": "Odpowiedzi bez owijania w bawełnę.",
+    "items": [
+      {
+        "q": "Czy to naprawdę jest darmowe? Gdzie jest haczyk?",
+        "a": "Tak — całkowicie bezpłatne. To nasz sposób na nawiązanie kontaktu. Większość gabinetów wdraża sugestie samodzielnie, inne proszą nas o pomoc. Każda opcja jest w porządku."
+      },
+      {
+        "q": "Kto wykonuje audyt?",
+        "a": "Starszy specjalista z naszego zespołu, który zrealizował ponad 50 stron dla dermatologii. Nie zlecamy tego stażystom ani automatom."
+      },
+      {
+        "q": "Czym to się różni od raportu z Lighthouse czy SEMrush?",
+        "a": "Automaty wskazują błędy ogólne. My interpretujemy je w kontekście dermatologii — wiemy, co jest ważne dla kliniki medycyny estetycznej, a co pod kątem NFZ."
+      },
+      {
+        "q": "Czy muszę wykupić Wasze usługi po audycie?",
+        "a": "Nie. Raport należy do Ciebie i możesz z nim zrobić, co chcesz. Skontaktujemy się tylko raz, by upewnić się, że dotarł."
+      },
+      {
+        "q": "Ile czasu to zajmuje?",
+        "a": "Dostarczamy go wciągu 24 godzin w dni robocze. Jeśli z jakiegoś powodu zajmie to więcej czasu, damy Ci znać od razu."
+      }
+    ]
+  },
+  "footerLinks": {
+    "prefix": "Może Cię zainteresować: ",
+    "portfolio": "przeglądaj nasze ostatnie projekty",
+    "process": "jak przebiega nasza współpraca",
+    "costs": "ile zazwyczaj kosztują pakiety"
+  }
+}

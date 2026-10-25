@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "title": "Ihotautilääkäreiden verkkosivupalvelut — Suunnittelu, SEO ja kasvu",
+    "description": "Tutustu HIPAA-yhteensopiviin ihotautilääkäreiden verkkosivupalveluihin: SEO, paikallinen markkinointi, potilasportaalit, ylläpito ja kasvun tuki nykyaikaisille klinikoille.",
+    "ogTitle": "Ihotautilääkäreiden verkkosivustopalvelut",
+    "ogDescription": "Verkkosivujen suunnittelu, SEO, maksettu mainonta, maineenhallinta, portaalit, galleriat ja jatkuva ylläpito ihotautiklinikoille.",
+    "schema": {
+      "name": "Ihotautilääkäreiden verkkosivupalvelut",
+      "serviceType": "Verkkosivujen suunnittelu, SEO ja kasvumarkkinointi ihotautiklinikoille",
+      "providerName": "Dermatology Website Design"
+    }
+  },
+  "hero": {
+    "eyebrow": "Palvelut",
+    "title": "Ihotautilääkäreiden verkkosivut, jotka muuttavat vierailijat potilaiksi.",
+    "description": "Valitse yksittäinen projekti tai kokonaisvaltainen kasvujärjestelmä: räätälöity verkkosivusuunnittelu, SEO, potilashankinta, integraatiot, ylläpito ja optimointi ihotautiklinikoille.",
+    "ctaQuote": "Pyydä ilmainen tarjous",
+    "ctaPricing": "Katso hinnoittelu",
+    "proofPoints": {
+      "hipaa": "HIPAA-tietoturvan huomioiva toteutus",
+      "responsive": "Responsiivinen kaikilla laitteilla",
+      "seo": "Hakukoneoptimoinnin (SEO) perusteet",
+      "conversion": "Konversioon keskittyvät potilaspolut"
+    }
+  },
+  "sections": {
+    "website": {
+      "label": "Verkkosivupalvelut",
+      "eyebrow": "Rakenna",
+      "description": "Yksilölliset verkkosivut, uudistukset, migraatiot, portaalit, galleriat ja huoltosuunnitelmat, jotka on rakennettu potilaiden luottamuksen ja konversion ympärille."
+    },
+    "marketing": {
+      "label": "Markkinointipalvelut",
+      "eyebrow": "Kasvata",
+      "description": "SEO, paikallinen näkyvyys, maksettu mainonta, maineenhallinta, some, sähköposti ja CRO-järjestelmät, jotka houkuttelevat laadukkaita potilasvirtoja."
+    },
+    "support": {
+      "label": "Lisäpalvelut",
+      "eyebrow": "Tuki",
+      "description": "Hosting, vaatimustenmukaisuuden tuki, integraatiot, analytiikka, sisällöt ja jatkuva kehitys klinikoille, jotka haluavat ylläpitää vauhtia julkaisun jälkeen."
+    }
+  },
+  "cta": {
+    "title": "Etkö ole varma, mikä palvelu sopii klinikallesi?",
+    "description": "Aloita ilmaisella auditoinnilla. Määritämme vaikuttavimman polun sivustollesi, hakukonenäkyvyydellesi ja potilaiden konversioputkellesi.",
+    "button": "Pyydä ilmainen auditointi"
+  }
+}

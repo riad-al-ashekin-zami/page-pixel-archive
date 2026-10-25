@@ -1,0 +1,340 @@
+{
+  "meta": {
+    "title": "Dermatology Website Redesign — Modernize Without Losing SEO",
+    "description": "Premium dermatology website redesign for solo, multi-location, pediatric, and Mohs practices. Modern, fast, HIPAA-aware — with zero SEO loss on launch.",
+    "og_title": "Dermatology Website Redesign — Zero SEO Loss",
+    "og_description": "Transform your outdated dermatology site into a fast, conversion-focused, HIPAA-aware experience. 301 redirects and SEO preserved.",
+    "jsonLd": {
+      "serviceType": "Dermatology Website Redesign",
+      "providerName": "DW Design",
+      "offerDescription": "Dermatology website redesign — starting price"
+    }
+  },
+  "hero": {
+    "scarcityBadge": "Only 3 redesign slots left this quarter",
+    "category": "Dermatology Website Redesign",
+    "h1": {
+      "main": "Modernize your practice site. ",
+      "highlight": "Without losing SEO."
+    },
+    "description": "A calm, senior-led redesign for dermatology practices — faster, safer, more beautiful. 301 redirects, HIPAA-aware forms, and rankings preserved.",
+    "cta": {
+      "primary": "Get a Redesign Quote",
+      "secondary": "Free Redesign Audit"
+    },
+    "pricing": {
+      "label": "Redesigns from",
+      "value": "$4,900",
+      "detail": "· fixed-scope, milestone billing"
+    },
+    "trustLabels": [
+      "Zero SEO loss",
+      "Zero downtime",
+      "HIPAA-aware",
+      "Lighthouse 95+"
+    ],
+    "socialProof": "Trusted by 50+ dermatology practices · Featured in",
+    "dragHint": "← Drag to compare →",
+    "badges": {
+      "before": "Before",
+      "after": "After",
+      "performance": "Lighthouse 48 → 98",
+      "growth": "+3.4x bookings",
+      "seo": "Zero SEO loss"
+    },
+    "aria": {
+      "compare": "Reveal before / after redesign"
+    }
+  },
+  "sections": {
+    "painPoints": {
+      "overhead": "Signs You Need a Redesign",
+      "heading": "Hover to see the fix",
+      "description": "Every red card below is a common dermatology-site problem. Hover (or tap) to see the redesign fix.",
+      "cards": [
+        {
+          "pain": "Slow load times",
+          "painStat": "> 4s LCP",
+          "solution": "Edge caching + image pipeline",
+          "solutionStat": "< 1.2s LCP"
+        },
+        {
+          "pain": "Broken on mobile",
+          "painStat": "60%+ traffic lost",
+          "solution": "Mobile-first rebuild",
+          "solutionStat": "100% responsive"
+        },
+        {
+          "pain": "Invisible on Google",
+          "painStat": "Page 3+",
+          "solution": "Schema + on-page SEO",
+          "solutionStat": "Top 3 local"
+        },
+        {
+          "pain": "Outdated design",
+          "painStat": "Trust drop",
+          "solution": "Custom design system",
+          "solutionStat": "Premium brand"
+        },
+        {
+          "pain": "HIPAA risk",
+          "painStat": "Unsecured forms",
+          "solution": "BAA-ready stack",
+          "solutionStat": "Audit-friendly"
+        },
+        {
+          "pain": "Low bookings",
+          "painStat": "< 2% CVR",
+          "solution": "CRO-tuned flows",
+          "solutionStat": "6%+ CVR"
+        }
+      ]
+    },
+    "stats": {
+      "overhead": "What Changes",
+      "heading": "Before vs. after a real redesign",
+      "description": "Averaged across dermatology practices we've relaunched in the last 24 months.",
+      "labels": {
+        "before": "Before",
+        "after": "After"
+      },
+      "items": [
+        {
+          "label": "Page load (LCP)"
+        },
+        {
+          "label": "Lighthouse score"
+        },
+        {
+          "label": "Booking conversion"
+        },
+        {
+          "label": "Local Google rank"
+        }
+      ]
+    },
+    "seoTimeline": {
+      "overhead": "SEO Preservation",
+      "heading": "How we protect your rankings",
+      "description": "A 90-day, five-step protocol that keeps Google (and patients) finding you through the cutover.",
+      "steps": [
+        {
+          "day": "Day 1",
+          "label": "Full URL crawl + rank snapshot"
+        },
+        {
+          "day": "Week 2",
+          "label": "1:1 redirect map approved"
+        },
+        {
+          "day": "Launch",
+          "label": "301 redirects deployed with cutover"
+        },
+        {
+          "day": "Day 30",
+          "label": "Google Search Console clean"
+        },
+        {
+          "day": "Day 90",
+          "label": "Rankings monitored & tuned"
+        }
+      ]
+    },
+    "audiences": {
+      "overhead": "Target Audience",
+      "heading": "Redesigns for every dermatology practice",
+      "items": [
+        {
+          "label": "Solo Dermatologists",
+          "desc": "A boutique refresh that repositions your brand and lifts bookings."
+        },
+        {
+          "label": "Multi-location Clinics",
+          "desc": "Consolidate scattered sites into one scalable, per-location system."
+        },
+        {
+          "label": "Pediatric Dermatology",
+          "desc": "Warmer, parent-friendly UX with clearer intake and guardian flows."
+        },
+        {
+          "label": "Mohs & Surgical Dermatology",
+          "desc": "Elevate authority for referring physicians and self-referrals."
+        }
+      ]
+    },
+    "pillars": {
+      "overhead": "What Makes It Premium",
+      "heading": "Six standards on every redesign",
+      "description": "Design, engineering, SEO, and compliance — engineered together from day one.",
+      "items": [
+        {
+          "title": "Zero SEO Loss",
+          "desc": "301 redirects, preserved URL structure, content mapping, and rank monitoring for 90 days."
+        },
+        {
+          "title": "100% Custom Design",
+          "desc": "No templates — a bespoke system for your clinic's brand and specialties."
+        },
+        {
+          "title": "Lighthouse 95+",
+          "desc": "Performance-obsessed rebuild — image pipeline, edge caching, lean JavaScript."
+        },
+        {
+          "title": "HIPAA-Aware",
+          "desc": "Secure forms, BAA-ready hosting, no PHI in analytics, audit-friendly stack."
+        },
+        {
+          "title": "Fully Responsive",
+          "desc": "Pixel-perfect on desktop, laptop, tablet, and mobile — real-device tested."
+        },
+        {
+          "title": "Accessibility (WCAG AA)",
+          "desc": "Keyboard-first, contrast-safe, screen-reader labeled — inclusive by default."
+        }
+      ]
+    },
+    "services": {
+      "overhead": "Medical Services Coverage",
+      "heading": "Every service page rebuilt to convert",
+      "description": "We restructure and rewrite every treatment page — accurate, patient-friendly, keyword-mapped, and marked up for rich Google results.",
+      "features": [
+        "Keyword-mapped H1 / H2 / FAQ",
+        "Content migrated with 301s",
+        "HIPAA-aware intake forms",
+        "Fast, indexable, mobile-first"
+      ],
+      "list": [
+        "Acne Treatment",
+        "Eczema Treatment",
+        "Psoriasis Treatment",
+        "Skin Infection Treatment",
+        "Skin Allergy Treatment",
+        "Skin Cancer Screening & Treatment",
+        "Mole Evaluation & Removal",
+        "Cyst & Lipoma Removal",
+        "Wart Removal",
+        "Nail Disorder Treatment",
+        "Hair Loss Treatment",
+        "Scalp Disorder Treatment",
+        "Rosacea Treatment",
+        "Hyperpigmentation & Melasma",
+        "Scar Treatment",
+        "Burn Scar Treatment",
+        "Vitiligo Treatment",
+        "Skin Biopsy & Diagnostics"
+      ]
+    },
+    "process": {
+      "overhead": "Redesign Process",
+      "heading": "Four phases. Zero surprises.",
+      "items": [
+        {
+          "step": "01",
+          "title": "Audit & Diagnose",
+          "desc": "SEO, performance, UX, and content audit of your existing site. We map what to keep, fix, and replace."
+        },
+        {
+          "step": "02",
+          "title": "IA & Redirect Map",
+          "desc": "New sitemap + 1:1 URL mapping with 301s planned before a single design decision is made."
+        },
+        {
+          "step": "03",
+          "title": "Design & Build",
+          "desc": "Custom design system, hand-coded build, HIPAA-aware forms, schema markup baked in."
+        },
+        {
+          "step": "04",
+          "title": "Migrate & Launch",
+          "desc": "Content migration, redirect deployment, zero-downtime cutover, and 90-day rank monitoring."
+        }
+      ]
+    },
+    "portfolio": {
+      "overhead": "Recent Redesigns",
+      "heading": "Before & after transformations",
+      "cta": "View full portfolio",
+      "items": [
+        {
+          "label": "LA Dermatology",
+          "meta": "Before → After · +187% bookings, kept rank #1",
+          "alt": "LA Dermatology dermatology website redesign"
+        },
+        {
+          "label": "RS Institute",
+          "meta": "6-site consolidation · +142% traffic",
+          "alt": "RS Institute dermatology website redesign"
+        },
+        {
+          "label": "CM Surgical",
+          "meta": "Redesign · +230% referral leads",
+          "alt": "CM Surgical dermatology website redesign"
+        }
+      ]
+    }
+  },
+  "testimonials": {
+    "aria": {
+      "button": "Testimonial"
+    },
+    "items": [
+      {
+        "name": "Dr. Ethan Caldwell, MD",
+        "role": "LA Dermatology · Solo",
+        "quote": "The redesign was seamless — we didn't lose a single Google ranking, and within 60 days our bookings doubled. It finally looks like the practice we run."
+      },
+      {
+        "name": "Dr. Ibrahim Okafor, MD",
+        "role": "RS Institute · 6 locations",
+        "quote": "Consolidating six aging sites into one felt impossible. They did it in eight weeks with zero SEO loss and every location page ranking better than before."
+      },
+      {
+        "name": "Dr. Anika Vasquez, MD",
+        "role": "CM Surgical",
+        "quote": "Referring physicians actually comment on the new site now. Lead quality jumped, not just quantity. Best marketing decision we've made."
+      }
+    ]
+  },
+  "faq": {
+    "overhead": "FAQ",
+    "heading": "Redesign, answered",
+    "items": [
+      {
+        "q": "Will my SEO rankings drop after redesign?",
+        "a": "No — we preserve URL structure, implement 301 redirects for changed paths, retain content and internal links, migrate metadata and schema, and monitor rankings for 90 days post-launch."
+      },
+      {
+        "q": "How long does a redesign take?",
+        "a": "Typical dermatology practice redesigns take 5–8 weeks. Multi-location or complex sites take 8–12 weeks. We move on a weekly milestone schedule."
+      },
+      {
+        "q": "Do you migrate my existing content?",
+        "a": "Yes. We audit, restructure, and migrate every page — services, providers, before-and-afters, blog, forms, and location data — into the new IA without loss."
+      },
+      {
+        "q": "Can you redesign around my current EHR / booking system?",
+        "a": "Yes. We integrate with common dermatology EHRs, patient portals, booking widgets, and CRM tools. HIPAA-aware handling throughout."
+      },
+      {
+        "q": "What if I'm mid-contract with my current agency?",
+        "a": "We can start planning during your notice period and go live the day your existing site can be replaced. Zero downtime on launch day."
+      }
+    ]
+  },
+  "cta": {
+    "overhead": "Free Website Audit",
+    "heading": "Time to retire your old dermatology site?",
+    "description": "Send us the URL. We'll personally review it and show you exactly what's costing you patients — and how a redesign fixes it without touching your SEO.",
+    "logoAlt": "DW — Dermatology Website Design",
+    "providerName": "Dermatology Website Design",
+    "providerRole": "Helping Dermatologists Grow Online",
+    "primary": "Get a Redesign Quote",
+    "secondary": "Contact Us",
+    "footerLinksPrefix": "You might also want to explore: ",
+    "footerLinks": {
+      "migration": "planning a full site migration",
+      "maintenance": "ongoing care after launch",
+      "portfolio": "see live dermatology sites"
+    }
+  }
+}

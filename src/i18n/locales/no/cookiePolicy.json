@@ -1,0 +1,108 @@
+{
+  "meta": {
+    "title": "Informasjonskapsler — Slik bruker vi cookies",
+    "description": "Her finner du informasjon om hvilke informasjonskapsler og lignende teknologier vi bruker på nettstedet vårt, hvorfor vi bruker dem og hvordan du kan kontrollere dem.",
+    "og": {
+      "title": "Informasjonskapsler — Slik bruker vi cookies",
+      "description": "Her finner du informasjon om hvilke informasjonskapsler og lignende teknologier vi bruker på nettstedet vårt, hvorfor vi bruker dem og hvordan du kan kontrollere dem."
+    },
+    "twitter": {
+      "title": "Informasjonskapsler — Slik bruker vi cookies",
+      "description": "Her finner du informasjon om hvilke informasjonskapsler og lignende teknologier vi bruker på nettstedet vårt, hvorfor vi bruker dem og hvordan du kan kontrollere dem."
+    }
+  },
+  "layout": {
+    "skipToContent": "Gå til hovedinnholdet"
+  },
+  "hero": {
+    "badge": "Juridisk · Informasjonskapsler",
+    "title": "Retningslinjer for informasjonskapsler",
+    "description": "Her forklarer vi hvilke informasjonskapsler og lignende teknologier vi bruker, hvorfor vi bruker dem og hvordan du kan kontrollere dem. Bør leses i sammenheng med vår",
+    "privacyPolicyLink": "personvernerklæring",
+    "lastUpdated": "Sist oppdatert:",
+    "lastUpdatedDate": "14. juli 2026"
+  },
+  "sidebar": {
+    "contents": "Innhold",
+    "navAriaLabel": "Seksjonsnavigering"
+  },
+  "sections": {
+    "whatAreCookies": {
+      "title": "1. Hva er informasjonskapsler?",
+      "body": "Informasjonskapsler (cookies) er små tekstfiler som lagres på enheten din når du besøker et nettsted. De hjelper nettstedet med å huske handlingene og preferansene dine over tid. Vi bruker også lignende teknologier som lokal lagring og pikseltagger — som i disse retningslinjene refereres til kollektivt som \"informasjonskapsler\"."
+    },
+    "types": {
+      "title": "2. Hvilke typer informasjonskapsler vi bruker",
+      "strictlyNecessary": {
+        "label": "Helt nødvendige:",
+        "description": "påkrevd for nettstedets kjernefunksjonalitet, som navigasjon, sikkerhet og lagring av dine samtykkevalg. Disse kan ikke slås av."
+      },
+      "performance": {
+        "label": "Ytelse og analyse:",
+        "description": "hjelper oss med å forstå hvordan besøkende bruker nettstedet, slik at vi kan forbedre det (f.eks. hvilke sider som besøkes, tid brukt på siden og trafikkilder)."
+      },
+      "functional": {
+        "label": "Funksjonelle:",
+        "description": "husker valg du gjør (som foretrukket språk eller region) for å gi deg en mer personlig brukeropplevelse."
+      },
+      "marketing": {
+        "label": "Markedsføring:",
+        "description": "brukes av oss eller våre partnere for å måle effekten av kampanjer og, der det er aktuelt, vise relevant innhold på andre nettsteder."
+      }
+    },
+    "firstVsThird": {
+      "title": "3. Førsteparts- vs. tredjepartskapsler",
+      "firstPartyLabel": "Førstepartskapsler",
+      "firstPartyDescription": "settes direkte av dette nettstedet.",
+      "thirdPartyLabel": "Tredjepartskapsler",
+      "thirdPartyDescription": "settes av tjenester vi benytter — som leverandører av analyse, video, timebestilling eller annonsering. Tredjeparter er selv ansvarlige for hvordan de bruker dataene de samler inn; vi anbefaler å lese deres egne retningslinjer for informasjonskapsler og personvern."
+    },
+    "howWeUse": {
+      "title": "4. Slik bruker vi informasjonskapsler",
+      "items": [
+        "Sikre at nettstedet er trygt og fungerer som det skal.",
+        "Huske dine samtykker og preferanser.",
+        "Måle trafikk og forstå hvordan besøkende navigerer på siden.",
+        "Forbedre innhold, ytelse og brukeropplevelse."
+      ]
+    },
+    "manage": {
+      "title": "5. Slik administrerer du informasjonskapsler",
+      "intro": "Du kan kontrollere informasjonskapsler på flere måter:",
+      "browserSettings": {
+        "label": "Nettleserinnstillinger:",
+        "description": "de fleste nettlesere lar deg blokkere eller slette informasjonskapsler — se nettleserens hjelpesider for mer informasjon."
+      },
+      "optOutTools": {
+        "label": "Reservasjonsverktøy:",
+        "description": "mange analyse- og annonseleverandører tilbyr egne mekanismer for å reservere seg mot sporing."
+      },
+      "consentBanner": {
+        "label": "Samtykkeerklæring:",
+        "description": "der loven krever det, kan du oppdatere valgene dine via banneret eller lenken for personverninnstillinger på dette nettstedet."
+      },
+      "footer": "Vær oppmerksom på at blokkering av enkelte informasjonskapsler kan påvirke funksjonaliteten på nettstedet."
+    },
+    "doNotTrack": {
+      "title": "6. Do Not Track (DNT)",
+      "body": "Enkelte nettlesere tilbyr et \"Do Not Track\"-signal. Det finnes foreløpig ingen felles bransjestandard for hvordan disse skal håndteres, og nettstedet vårt endrer derfor ikke adferd basert på DNT-signaler."
+    },
+    "changes": {
+      "title": "7. Endringer i retningslinjene",
+      "body": "Vi kan oppdatere disse retningslinjene dersom vår praksis eller gjeldende lovverk endres. Datoen for \"Sist oppdatert\" øverst på siden viser når den gjeldende versjonen ble publisert."
+    },
+    "contact": {
+      "title": "8. Kontakt oss",
+      "body": "Har du spørsmål om vår bruk av informasjonskapsler? Kontakt oss gjerne via vår",
+      "contactLink": "kontaktside",
+      "privacySuffix": ", eller les vår",
+      "privacyLink": "personvernerklæring",
+      "privacyEnd": "for mer informasjon om hvordan vi håndterer personopplysninger."
+    }
+  },
+  "cta": {
+    "title": "Spørsmål om informasjonskapsler?",
+    "description": "Vi forklarer gjerne hvilke teknologier vi bruker og hvorfor.",
+    "button": "Kontakt oss"
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "meta": {
+    "title": "Få et uforpliktende tilbud — Nettsideløsninger for hudleger",
+    "description": "Be om et skreddersydd tilbud for din hudlegepraksis. Oversiktlige priser og personlig forslag innen 24 timer.",
+    "ogTitle": "Få et uforpliktende tilbud — Nettsideløsninger for hudleger",
+    "ogDescription": "Fortell oss om din praksis og få et skreddersydd forslag innen 24 timer."
+  },
+  "hero": {
+    "badge": "Gratis prisoverslag",
+    "title": "Få et",
+    "titleHighlight": "personlig tilbud",
+    "titleSuffix": "for din praksis.",
+    "description": "Fortell oss litt om din hudlegepraksis og dine mål. Vi sender deg et skreddersydd forslag — med transparente priser og en tydelig fremdriftsplan — innen 24 timer.",
+    "features": [
+      "Svar innen 24 timer",
+      "Helt uforpliktende",
+      "Transparente priser"
+    ],
+    "trust": {
+      "repliesWithin": "Vi svarer innen",
+      "repliesValue": "24 timer",
+      "launchedValue": "50+",
+      "launchedText": "nettsider lansert for hudleger",
+      "focusValue": "100%",
+      "focusText": "spesialisert på dermatologi"
+    }
+  },
+  "sidebar": {
+    "whatHappensNext": {
+      "title": "Hva skjer videre?",
+      "steps": [
+        "Vi går gjennom din forespørsel og nåværende nettside.",
+        "Teamet vårt utarbeider et skreddersydd prosjektforslag.",
+        "Du mottar pris, tidslinje og neste steg innen 24 timer."
+      ]
+    },
+    "preferToTalk": {
+      "title": "Foretrekker du å ringe?",
+      "email": "info@dermatologywebsitedesign.com",
+      "chat": "Chat på WhatsApp"
+    },
+    "guarantee": {
+      "title": "100 % fornøydgaranti",
+      "description": "Ingen forpliktelser, ingen kjøpspress. Hvis forslaget ikke passer, kan du takke nei uten spørsmål.",
+      "benefits": [
+        "Ingen spam, noen gang",
+        "Dine data forblir private",
+        "Avslutt når som helst"
+      ]
+    }
+  },
+  "form": {
+    "success": {
+      "title": "Takk — din forespørsel er mottatt.",
+      "description": "En av våre rådgivere vil ta kontakt innen 24 timer med ditt personlige tilbud."
+    },
+    "progress": {
+      "step": "Steg",
+      "of": "av",
+      "labels": [
+        "Kontakt",
+        "Nettside",
+        "Tjenester",
+        "Budsjett"
+      ]
+    },
+    "sections": {
+      "contactInfo": "Kontaktinformasjon",
+      "websiteDetails": "Detaljer om nettsiden",
+      "helpWith": "Hva trenger du hjelp med?",
+      "budgetTimeline": "Budsjett og tidslinje"
+    },
+    "fields": {
+      "yourName": {
+        "label": "Ditt navn",
+        "placeholder": "Dr. Ola Nordmann"
+      },
+      "workEmail": {
+        "label": "E-post (jobb)",
+        "placeholder": "deg@dinpraksis.no"
+      },
+      "phone": {
+        "label": "Telefon",
+        "placeholder": "+47 000 00 000",
+        "hint": "(valgfritt)"
+      },
+      "practiceName": {
+        "label": "Navn på praksis",
+        "placeholder": "Oslo Hudlegesenter"
+      },
+      "currentWebsite": {
+        "label": "Nåværende nettside",
+        "placeholder": "dinpraksis.no",
+        "hint": "(valgfritt)"
+      },
+      "numberOfLocations": {
+        "label": "Antall klinikker",
+        "select": "Velg"
+      },
+      "websiteSize": {
+        "label": "Størrelse på nettsiden",
+        "select": "Velg"
+      },
+      "adminAccess": {
+        "label": "Har du administratortilgang?"
+      },
+      "estimatedBudget": {
+        "label": "Estimert budsjett",
+        "select": "Velg et intervall"
+      },
+      "urgency": {
+        "label": "Hvor raskt trenger du dette?",
+        "select": "Velg hastighet"
+      },
+      "projectDetails": {
+        "label": "Prosjektdetaljer",
+        "placeholder": "Fortell oss om dine mål, lokasjoner og eventuelle spesifikke ønsker.",
+        "hint": "(valgfritt)"
+      }
+    },
+    "servicesText": {
+      "select": "Velg alt som er relevant. Du har valgt",
+      "service": "tjeneste",
+      "services": "tjenester"
+    },
+    "buttons": {
+      "back": "Tilbake",
+      "continue": "Fortsett",
+      "sending": "Sender…",
+      "submit": "Be om mitt gratis tilbud"
+    },
+    "footerText": "Dine opplysninger er 100 % sikre. Ingen spam, noen gang.",
+    "validation": {
+      "name": "Vennligst oppgi navnet ditt",
+      "email": "Vennligst oppgi en gyldig e-postadresse",
+      "practiceName": "Vennligst oppgi navnet på din praksis",
+      "service": "Vennligst velg minst én tjeneste",
+      "locations": "Vennligst velg antall klinikker",
+      "websiteSize": "Vennligst velg størrelse på nettsiden",
+      "adminAccess": "Vennligst svar på administratortilgang",
+      "budget": "Vennligst velg et budsjett",
+      "urgency": "Vennligst velg ønsket ferdigstilling",
+      "completeStep": "Vennligst fullfør dette steget",
+      "checkForm": "Vennligst sjekk skjemaet",
+      "wait": "Vennligst vent {{seconds}}s før du prøver igjen."
+    }
+  },
+  "options": {
+    "services": [
+      "Webdesign",
+      "Redesign av nettside",
+      "Migrering av nettside",
+      "Før og etter-galleri",
+      "SEO / Lokal SEO",
+      "Google Ads / PPC",
+      "Løsning for flere klinikker",
+      "Nettbutikk / E-handel",
+      "Pasientportal",
+      "Omdømme og anmeldelser",
+      "Innhold og tekstforfatting",
+      "Drift og vedlikehold"
+    ],
+    "locations": [
+      "1 lokasjon",
+      "2–3 lokasjoner",
+      "4–10 lokasjoner",
+      "10+ lokasjoner"
+    ],
+    "pages": [
+      "1 side",
+      "5–8 sider",
+      "10–15 sider",
+      "15–20 sider",
+      "20+ sider"
+    ],
+    "admin": [
+      "Ja",
+      "Nei",
+      "Ikke sikker"
+    ],
+    "budgets": [
+      "Under $1k",
+      "$1k – $2k",
+      "$4k – $5k",
+      "$7k – $10k",
+      "$10k+"
+    ],
+    "urgencies": [
+      "Innen 48 timer",
+      "Innen 7 dager",
+      "Innen 1 måned",
+      "Innen 3 måneder",
+      "Innen 6 måneder",
+      "Ingen hast / fleksibelt"
+    ]
+  },
+  "sections": {
+    "whyQuote": {
+      "title": "Hvorfor be om et",
+      "titleHighlight": "tilbud?",
+      "subtitle": "Konkrete tall, skreddersydd din praksis – helt uforpliktende.",
+      "items": [
+        {
+          "title": "100 % gratis og uforpliktende",
+          "body": "Få et prisestimat tilpasset din klinikkstørrelse, plattform og ambisjoner."
+        },
+        {
+          "title": "Skreddersydd din praksis",
+          "body": "Alle hudlegepraksiser er unike. Vi gir tilbud basert på ditt CMS, dine lokasjoner og tjenester."
+        },
+        {
+          "title": "Transparent prising",
+          "body": "Vi spesifiserer oppgaver, tidslinjer og leveranser — du vet nøyaktig hva du betaler for."
+        },
+        {
+          "title": "Rask respons",
+          "body": "Vårt team vurderer din forespørsel umiddelbart og svarer innen 24 timer eller raskere."
+        }
+      ]
+    },
+    "whatWeCanHelpWith": {
+      "title": "Hva vi kan",
+      "titleHighlight": "hjelpe deg med",
+      "subtitle": "Våre tilbud dekker hele spekteret av digitale tjenester for hudleger.",
+      "footer": "Trenger du noe spesielt? Bare nevn det — vi tilpasser hver eneste plan.",
+      "categories": [
+        {
+          "label": "Design",
+          "items": [
+            "Skreddersydd webdesign",
+            "Redesign av nettside",
+            "Migrering av nettside",
+            "Sider for flere lokasjoner",
+            "Før og etter-gallerier",
+            "Pasientportaler"
+          ]
+        },
+        {
+          "label": "Vekst",
+          "items": [
+            "SEO for hudleger",
+            "Lokal SEO",
+            "Google Ads / PPC",
+            "E-handel",
+            "Innhold og tekstforfatting",
+            "Analyse og CRO"
+          ]
+        },
+        {
+          "label": "Sikkerhet og drift",
+          "items": [
+            "Omdømme og anmeldelser",
+            "Hastighetsoptimalisering",
+            "HIPAA-sikker hosting",
+            "Drift og vedlikehold"
+          ]
+        }
+      ]
+    },
+    "howItWorks": {
+      "title": "Slik",
+      "titleHighlight": "fungerer det",
+      "subtitle": "Fra forespørsel til ferdig forslag i fire enkle steg.",
+      "stepLabel": "Steg",
+      "items": [
+        {
+          "title": "Send inn skjemaet",
+          "body": "Del detaljer om din praksis, nettside og hva du trenger bistand til."
+        },
+        {
+          "title": "Ekspertvurdering",
+          "body": "Teamet vårt analyserer din nåværende side, SEO-status og dine krav."
+        },
+        {
+          "title": "Motta ditt tilbud",
+          "body": "Du får et detaljert, personlig forslag — oversiktlig, enkelt og transparent."
+        },
+        {
+          "title": "Kom i gang med trygghet",
+          "body": "Godkjenn planen, så starter vi prosessen med en strukturert onboarding."
+        }
+      ]
+    }
+  }
+}

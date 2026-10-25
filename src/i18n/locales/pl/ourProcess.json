@@ -1,0 +1,395 @@
+{
+  "meta": {
+    "title": "Nasz proces — 7 kroków do strony dermatologicznej | Odkryj → Wdróż → Rozwijaj",
+    "description": "7-etapowy proces budowy stron dla dermatologii: audyt SEO, projektowanie, treści, programowanie i rozwój. Stałe terminy, cotygodniowe raporty, standard HIPAA i gwarancja Lighthouse 95+.",
+    "ogTitle": "Nasz proces — 7 kroków od startu do wzrostu",
+    "ogDescription": "Transparentny proces projektowania stron i SEO dla dermatologii. Zobacz krok po kroku, jak działamy — od analizy po stały rozwój Twojej praktyki."
+  },
+  "jsonLd": {
+    "breadcrumb": {
+      "home": "Strona główna",
+      "ourProcess": "Nasz proces"
+    },
+    "howTo": {
+      "name": "Proces budowy strony dla gabinetu dermatologicznego",
+      "description": "7-etapowy proces wdrażania wysokowydajnej witryny dermatologicznej."
+    }
+  },
+  "hero": {
+    "badge": "Nasz proces",
+    "title": "Od pierwszej rozmowy do zapisu pacjenta — ",
+    "titleHighlight": "7 kroków w sztywnych ramach czasowych.",
+    "description": "Bez niedomówień i niespodzianek w kosztach. Każdy etap ma przypisany cel, osobę odpowiedzialną i termin — dzięki temu zawsze wiesz, na czym stoimy i co wydarzy się w przyszłym tygodniu.",
+    "buttons": {
+      "seeSteps": "Poznaj 7 kroków",
+      "freeQuote": "Darmowa wycena"
+    },
+    "imageAlt": "Ilustracja siedmioetapowej ścieżki procesowej z podświetlonymi punktami pnącymi się w górę"
+  },
+  "stats": {
+    "items": [
+      {
+        "num": "7",
+        "suffix": "",
+        "label": "Jasnych etapów"
+      },
+      {
+        "num": "6",
+        "suffix": "–10 tyg.",
+        "label": "Od startu do premiery"
+      },
+      {
+        "num": "95",
+        "suffix": "+",
+        "label": "Gwarancja Lighthouse"
+      },
+      {
+        "num": "48",
+        "suffix": "h",
+        "label": "Średni czas odpowiedzi"
+      }
+    ]
+  },
+  "sections": {
+    "journeyMap": {
+      "ariaLabel": "Przegląd procesu",
+      "subtitle": "Mapa drogowa",
+      "title": "Wizualizacja siedmiu kroków."
+    },
+    "steps": {
+      "ariaLabel": "Nasz proces krok po kroku",
+      "subtitle": "Budowa w 7 krokach",
+      "title": "Przejdź przez naszą ścieżkę.",
+      "step": "Krok",
+      "divider": "/",
+      "total": "07",
+      "bulletSeparator": "·",
+      "labels": {
+        "youProvide": "Ty dostarczasz",
+        "weDeliver": "My dostarczamy",
+        "deliverables": "Zakres prac",
+        "items": "elementy"
+      },
+      "items": [
+        {
+          "n": "01",
+          "title": "Odkrycie i strategia",
+          "duration": "3–5 dni",
+          "tagline": "Poznajemy specyfikę Twojej praktyki, zanim stworzymy pierwszy piksel.",
+          "summary": "60-minutowa sesja strategiczna i pisemny brief. Analizujemy Twoją obecną witrynę, konkurencję i definiujemy personę pacjenta oraz cele konwersji przed startem projektowania.",
+          "deliverables": [
+            "60-minutowa sesja strategiczna",
+            "Analiza konkurencji i słów kluczowych",
+            "Profil pacjenta i mapowanie intencji",
+            "Pisemny brief projektu (PDF)",
+            "Sitemap v1 + zarys treści"
+          ],
+          "youProvide": [
+            "Materiały graficzne marki (jeśli są)",
+            "Dostęp do aktualnej analityki",
+            "3 strony konkurencji, które Ci się podobają"
+          ],
+          "weDeliver": [
+            "Opracowany brief",
+            "Ofertę ze stałym zakresem prac",
+            "Harmonogram wdrożenia"
+          ]
+        },
+        {
+          "n": "02",
+          "title": "SEO i audyt techniczny",
+          "duration": "2–3 dni",
+          "tagline": "Naprawiamy usterki, zanim postawimy fundamenty.",
+          "summary": "W przypadku redesignu wykonujemy pełny skan obecnej strony: indeksowanie, Core Web Vitals, profil linków, luki HIPAA i wąskie gardła konwersji. Dla nowych stron tworzymy mapę szans SEO i SERP.",
+          "deliverables": [
+            "Pełny raport z audytu technicznego SEO",
+            "Analiza Core Web Vitals",
+            "Przegląd profilu linków (backlinki)",
+            "Weryfikacja HIPAA i dostępności",
+            "Plan przekierowań dla starych adresów URL"
+          ],
+          "youProvide": [
+            "Dostęp do GSC i GA4 (tylko odczyt)",
+            "Dane logowania do obecnego CMS"
+          ],
+          "weDeliver": [
+            "Audyt w formacie PDF",
+            "Priorytetową listę poprawek",
+            "Mapę przekierowań"
+          ]
+        },
+        {
+          "n": "03",
+          "title": "Design i prototypowanie",
+          "duration": "1–2 tygodnie",
+          "tagline": "Projekt szyty na miarę, bez gotowych szablonów.",
+          "summary": "Tworzymy unikalny system wizualny — kolory, typografię i bibliotekę komponentów — a następnie klikalne prototypy Figma każdej kluczowej strony. W cenie są dwie rundy poprawek.",
+          "deliverables": [
+            "Indywidualny system projektowy (Figma)",
+            "Strona główna + 3 makiety szablonów",
+            "Interaktywny, klikalny prototyp",
+            "Wersje na mobile, tablet i desktop",
+            "Dwie rundy poprawek w cenie"
+          ],
+          "youProvide": [
+            "Informację zwrotną w ciągu 48h",
+            "Akceptacje przez komentarze w Figma"
+          ],
+          "weDeliver": [
+            "Kompletny system designu",
+            "Klikalny prototyp",
+            "Listę kontrolną QA designu"
+          ]
+        },
+        {
+          "n": "04",
+          "title": "Treści i copywriting",
+          "duration": "1–2 tygodnie (równolegle)",
+          "tagline": "Poprawne medycznie. Skoncentrowane na konwersji.",
+          "summary": "Nasi copywriterzy medyczni przygotowują treści w Twoim stylu — precyzyjne klinicznie, przystępne dla pacjenta i zoptymalizowane pod SEO. Prace trwają równolegle z kodowaniem.",
+          "deliverables": [
+            "Treści stron zoptymalizowane pod SEO",
+            "Opisy zabiegów (do 15 podstron)",
+            "Biogramy lekarzy i certyfikaty",
+            "Meta tytuły i opisy",
+            "Znaczniki Schema (LocalBusiness, FAQ)"
+          ],
+          "youProvide": [
+            "Wywiady z lekarzami (po 30 min)",
+            "Weryfikację merytoryczną treści"
+          ],
+          "weDeliver": [
+            "Dokument z pełną treścią strony",
+            "Arkusz metadanych SEO",
+            "Kod Schema JSON-LD"
+          ]
+        },
+        {
+          "n": "05",
+          "title": "Programowanie i integracje",
+          "duration": "2–4 tygodnie",
+          "tagline": "Czysty kod. Szybkość. Standard HIPAA od pierwszej linii.",
+          "summary": "Semantyczny HTML, dostępność, optymalizacja obrazów i Core Web Vitals w standardzie. Integrujemy i testujemy systemy rezerwacji, EHR, czat oraz analitykę.",
+          "deliverables": [
+            "Kod wysokiej klasy (bez generatorów stron)",
+            "Integracje z systemami rezerwacji / EHR",
+            "Konfiguracja GA4 i Search Console",
+            "Optymalizacja szybkości (Lighthouse 95+)",
+            "Dostępność (WCAG 2.1 AA)"
+          ],
+          "youProvide": [
+            "Klucze API do integracji",
+            "Finalną akceptację treści"
+          ],
+          "weDeliver": [
+            "Link do wersji testowej (staging)",
+            "Dane dostępowe do testów",
+            "Listę kontrolną QA"
+          ]
+        },
+        {
+          "n": "06",
+          "title": "Testy, premiera i przekazanie",
+          "duration": "3–5 dni",
+          "tagline": "Uruchomienie bez przestojów. Pełna dokumentacja.",
+          "summary": "300-punktowy audyt QA przed startem. Migracja DNS odbywa się zgodnie z harmonogramem z planem awaryjnym. Otrzymasz wideo instruktażowe i pisemny poradnik obsługi.",
+          "deliverables": [
+            "300-punktowa lista kontrolna QA",
+            "Testy na różnych przeglądarkach i urządzeniach",
+            "Migracja DNS bez przestojów",
+            "Wdrożenie i monitoring przekierowań",
+            "45-minutowe szkolenie z obsługi"
+          ],
+          "youProvide": [
+            "Dostęp do ustawień DNS",
+            "Zatwierdzenie okna czasowego premiery"
+          ],
+          "weDeliver": [
+            "Działającą stronę",
+            "Wideo z instruktażem",
+            "Instrukcję operacyjną"
+          ]
+        },
+        {
+          "n": "07",
+          "title": "Wzrost i optymalizacja",
+          "duration": "Stała współpraca",
+          "tagline": "Premiera to dopiero początek drogi.",
+          "summary": "Comiesięczne działania SEO, nowe treści i testy CRO w ramach wybranego pakietu. Kwartalne spotkania z Twoim opiekunem pozwalają utrzymać tempo wzrostu.",
+          "deliverables": [
+            "Miesięczne prace SEO i contentowe",
+            "Eksperymenty CRO (testy A/B)",
+            "Panele wyników pozycji i konwersji",
+            "Kwartalne raporty strategiczne",
+            "Dedykowany opiekun klienta"
+          ],
+          "youProvide": [
+            "30-minutowe spotkanie raz w miesiącu",
+            "Akceptację propozycji strategicznych"
+          ],
+          "weDeliver": [
+            "Raport miesięczny",
+            "Panel monitoringu pozycji",
+            "Aktualizację mapy drogowej"
+          ]
+        }
+      ]
+    },
+    "principles": {
+      "subtitle": "Zasady, na których opieramy proces",
+      "title": "Sześć reguł, których nie łamiemy.",
+      "description": "Każdy z powyższych etapów wynika z tych sześciu zobowiązań. To one sprawiają, że projekty dermatologiczne kończą się sukcesem, a nie frustracją.",
+      "items": [
+        {
+          "title": "Architektura HIPAA-first",
+          "desc": "Każdy formularz i integracja są sprawdzane pod kątem HIPAA. Brak danych medycznych (PHI) w analityce."
+        },
+        {
+          "title": "Lighthouse 95+ lub poprawka",
+          "desc": "Wydajność to wymóg, nie dodatek. Jeśli wynik jest niższy, naprawiamy to na nasz koszt."
+        },
+        {
+          "title": "Jeden punkt kontaktu",
+          "desc": "Dedykowany lider projektu od startu do końca. Bez przełączania między konsultantami."
+        },
+        {
+          "title": "Poprawki wliczone w cenę",
+          "desc": "Dwie rundy poprawek designu i kodu w każdym pakiecie. Żadnych ukrytych kosztów."
+        },
+        {
+          "title": "Sztywne terminy i raporty",
+          "desc": "Harmonogram na start i cotygodniowe statusy. O opóźnieniach informujemy od razu, nie na koniec."
+        },
+        {
+          "title": "Kanał Slack, nie zgłoszenia",
+          "desc": "Bezpośredni kontakt z zespołem. Czas odpowiedzi liczony w godzinach, nie w dniach."
+        }
+      ]
+    },
+    "comparison": {
+      "subtitle": "Dlaczego nasz proces wygrywa",
+      "title": "My vs agencje vs freelancerzy.",
+      "table": {
+        "headers": {
+          "matters": "Co się liczy",
+          "us": "Nasz proces",
+          "agency": "Typowa agencja",
+          "freelance": "Freelancer"
+        },
+        "rows": [
+          {
+            "row": "Indywidualny design (nie szablon)",
+            "us": true,
+            "agency": "Czasami",
+            "freelance": false
+          },
+          {
+            "row": "Stały zakres i cena z góry",
+            "us": true,
+            "agency": "Stawka godzinowa",
+            "freelance": "Niejasne"
+          },
+          {
+            "row": "Copywriter medyczny w zespole",
+            "us": true,
+            "agency": "Dodatkowa opłata",
+            "freelance": false
+          },
+          {
+            "row": "Weryfikacja HIPAA przed startem",
+            "us": true,
+            "agency": "Dodatkowa opłata",
+            "freelance": false
+          },
+          {
+            "row": "Gwarancja Lighthouse 95+",
+            "us": true,
+            "agency": false,
+            "freelance": false
+          },
+          {
+            "row": "Opiekun klienta (po wdrożeniu)",
+            "us": true,
+            "agency": "Tylko dla korporacji",
+            "freelance": false
+          },
+          {
+            "row": "Kontakt przez Slack z zespołem",
+            "us": true,
+            "agency": "Tylko e-mail",
+            "freelance": "Czasami"
+          },
+          {
+            "row": "Czas od startu do premiery",
+            "us": "6–10 tygodni",
+            "agency": "3–6 miesięcy",
+            "freelance": "Nieprzewidywalny"
+          }
+        ]
+      }
+    },
+    "testimonial": {
+      "quote": "\"Same cotygodniowe raporty były warte swojej ceny. W każdy poniedziałek wiedzieliśmy, co zostało zrobione i co planujemy. To pierwszy projekt od lat, który ruszył dokładnie w zapowiedzianym terminie.\"",
+      "author": "Lek. med. Anika Patel, FAAD",
+      "role": "BH Dermatology · 3 lokalizacje"
+    },
+    "faq": {
+      "subtitle": "Pytania o proces",
+      "title": "Często zadawane pytania.",
+      "items": [
+        {
+          "q": "Ile trwa cały proces?",
+          "a": "Większość stron dermatologicznych rusza w 6–10 tygodni. Proste strony (one-page) w tydzień, a rozbudowane systemy dla wielu placówek w 10–14 tygodni. Na starcie otrzymasz precyzyjny harmonogram."
+        },
+        {
+          "q": "Czego potrzebujecie od nas w trakcie prac?",
+          "a": "Około 3–5 godzin tygodniowo: startowy brief, 30-minutowe statusy, krótkie wywiady z lekarzami i akceptacje w Figma/Slack w ciągu 48h. My wykonujemy czarną robotę — Ty tylko zatwierdzasz."
+        },
+        {
+          "q": "Czy możemy zacząć od designu, a kodowanie dodać później?",
+          "a": "Tak. Oferujemy samodzielne pakiety projektowe (od 3 900 USD), w których otrzymujesz prototyp Figma i własny system designu. Możesz go wdrożyć sam, z innym zespołem lub wrócić do nas później."
+        },
+        {
+          "q": "Co jeśli będziemy potrzebować zmian po premierze?",
+          "a": "Każdy pakiet obejmuje 30 dni bezpłatnych poprawek po wdrożeniu. Później zmiany realizujemy w ramach abonamentu lub wyceniamy je jednostkowo — zawsze znasz koszt przed startem prac."
+        },
+        {
+          "q": "Czy piszecie treści medyczne, czy dostarczamy je sami?",
+          "a": "Nasi copywriterzy medyczni przygotowują drafty, które Ty tylko weryfikujesz. Nigdy nie zaczynasz od pustej kartki. Jeśli wolisz pisać we własnym zakresie, odpowiednio obniżymy cenę pakietu."
+        },
+        {
+          "q": "Jak dbacie o zgodność z HIPAA?",
+          "a": "Architektura HIPAA-aware jest w każdym projekcie: brak PHI w analityce, szyfrowane formularze i bezpieczny hosting. Podpisujemy umowę BAA w pakietach Authority i Enterprise (lub jako opcja w pozostałych)."
+        }
+      ]
+    },
+    "cta": {
+      "badge": "Jesteśmy gotowi",
+      "title": "Zacznij od Kroku 01 — bezpłatnego audytu.",
+      "description": "Bezpłatnie i bez zobowiązań. Otrzymasz brief projektu, wstępny harmonogram i ofertę ze stałą ceną — nawet jeśli nie zdecydujesz się na współpracę.",
+      "buttons": {
+        "freeQuote": "Darmowa wycena",
+        "pricing": "Sprawdź cennik"
+      }
+    },
+    "footerLinks": {
+      "prefix": "Może Cię zainteresować: ",
+      "about": "kim jesteśmy i jak pracujemy",
+      "comma": ", ",
+      "portfolio": "projekty, które wdrożyliśmy",
+      "or": " lub ",
+      "pricing": "aktualne pakiety i ceny",
+      "suffix": "."
+    },
+    "mobileCta": {
+      "subtitle": "Zacznij od Kroku 01",
+      "title": "Bezpłatny audyt strony.",
+      "button": "Darmowa wycena"
+    },
+    "progressRail": {
+      "title": "Postęp procesu",
+      "step": "Krok",
+      "of": "z 07"
+    }
+  }
+}

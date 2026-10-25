@@ -1,0 +1,377 @@
+{
+  "meta": {
+    "title": "Dermatology Website Add-On Services — Care, SEO, Growth & Integrations",
+    "description": "Premium add-on services for dermatology practices: 24/7 care & maintenance, HIPAA-aware hosting, content & CRO, local SEO, EHR & booking integrations, and full-funnel growth marketing. Month-to-month.",
+    "og": {
+      "title": "Dermatology Website Add-On Services",
+      "description": "Layer care, hosting, SEO, integrations, and growth marketing onto your dermatology website — engineered for compounding patient growth."
+    },
+    "jsonLd": {
+      "serviceType": "Dermatology Website Add-On Services",
+      "provider": "DermatologyWebsiteDesign.com",
+      "catalogName": "Dermatology Website Add-Ons",
+      "breadcrumbs": {
+        "home": "Home",
+        "services": "Services",
+        "current": "Add-On Services"
+      }
+    }
+  },
+  "hero": {
+    "badge": "Dermatology Add-On Services",
+    "heading": "Everything else your dermatology practice needs —",
+    "headingAccent": "stacked on one bill, one team, one dashboard.",
+    "description": "HIPAA-aware add-ons — care & maintenance, hosting, content, SEO, integrations, and growth marketing — engineered to compound patient growth, month after month.",
+    "cta": {
+      "bundle": "Build my custom bundle",
+      "browse": "Browse the full catalog"
+    },
+    "stats": [
+      {
+        "label": "Add-on services"
+      },
+      {
+        "label": "Uptime SLA"
+      },
+      {
+        "label": "Emergency response"
+      },
+      {
+        "label": "No lock-in",
+        "value": "Month-to-month"
+      }
+    ]
+  },
+  "trust": {
+    "audiences": {
+      "label": "Built for",
+      "items": [
+        "Solo Dermatologists",
+        "Multi-location Dermatology Clinics",
+        "Pediatric Dermatology",
+        "Mohs & Surgical Dermatology"
+      ]
+    },
+    "medicalServices": {
+      "label": "Supporting every medical service",
+      "items": [
+        "Acne Treatment",
+        "Eczema Treatment",
+        "Psoriasis Treatment",
+        "Skin Infection Treatment",
+        "Skin Allergy Treatment",
+        "Skin Cancer Screening & Treatment",
+        "Mole Evaluation & Removal",
+        "Cyst & Lipoma Removal",
+        "Wart Removal",
+        "Nail Disorder Treatment",
+        "Hair Loss Diagnosis & Treatment",
+        "Scalp Disorder Treatment",
+        "Rosacea Treatment",
+        "Hyperpigmentation & Melasma",
+        "Scar Treatment",
+        "Burn Scar Treatment",
+        "Vitiligo Treatment",
+        "Skin Biopsy & Diagnostics"
+      ]
+    }
+  },
+  "sections": {
+    "catalog": {
+      "badge": "The Catalog",
+      "heading": "Six categories.",
+      "headingItalic": "One team behind them all.",
+      "searchPlaceholder": "Search {{count}}+ add-ons…",
+      "searchAria": "Search add-on services",
+      "noResults": "No add-ons match \"{{query}}\". Try a different search.",
+      "serviceCount": "services",
+      "ctaAdd": "Add {{title}} to bundle",
+      "categories": {
+        "care": {
+          "title": "Website Care & Maintenance",
+          "tagline": "Always on. Always current. Always yours.",
+          "items": [
+            {
+              "name": "Website Maintenance & Support",
+              "blurb": "Weekly CMS, plugin & security updates with a human on-call."
+            },
+            {
+              "name": "Emergency Support",
+              "blurb": "Site down? A named engineer responds in under 15 minutes."
+            },
+            {
+              "name": "Website Migration",
+              "blurb": "Zero-downtime moves with full 301 mapping and SEO preserved."
+            },
+            {
+              "name": "Website Updates",
+              "blurb": "Content, provider bios, seasonal promos — shipped in hours, not weeks."
+            },
+            {
+              "name": "Monthly Care Plans",
+              "blurb": "One flat retainer. Everything included. Month-to-month."
+            },
+            {
+              "name": "Daily Backups & Recovery",
+              "blurb": "Encrypted off-site backups. One-click restore, 30-day retention."
+            },
+            {
+              "name": "Uptime Monitoring",
+              "blurb": "60-second checks from 6 regions. Alerts before patients notice."
+            },
+            {
+              "name": "Performance Monitoring",
+              "blurb": "Core Web Vitals tracked daily. Regressions caught the same day."
+            }
+          ]
+        },
+        "hosting": {
+          "title": "Hosting, Security & Compliance",
+          "tagline": "HIPAA-aware infrastructure engineered for dermatology.",
+          "items": [
+            {
+              "name": "Managed Hosting",
+              "blurb": "Edge-cached, auto-scaling, 99.99% uptime SLA."
+            },
+            {
+              "name": "Domain & DNS Management",
+              "blurb": "We own the boring stuff so renewals never lapse."
+            },
+            {
+              "name": "SSL Setup & Monitoring",
+              "blurb": "Auto-renewed certs with expiration alerts weeks in advance."
+            },
+            {
+              "name": "Security Monitoring",
+              "blurb": "24/7 WAF, intrusion detection, and vulnerability patching."
+            },
+            {
+              "name": "Malware Protection",
+              "blurb": "Daily scans, instant quarantine, and clean-up guarantees."
+            },
+            {
+              "name": "HIPAA Compliance Review",
+              "blurb": "Annual audit of forms, hosting, analytics, and BAAs."
+            },
+            {
+              "name": "HIPAA-Aware Forms Setup",
+              "blurb": "Encrypted intake, consent, and contact forms — PHI safe."
+            },
+            {
+              "name": "ADA Accessibility Optimization",
+              "blurb": "WCAG 2.2 AA remediation and ongoing compliance monitoring."
+            },
+            {
+              "name": "Privacy & Cookie Compliance",
+              "blurb": "GDPR / CCPA banners, consent logs, and policy updates."
+            }
+          ]
+        },
+        "content": {
+          "title": "Content & Conversion",
+          "tagline": "Words and layouts that turn visitors into booked patients.",
+          "items": [
+            {
+              "name": "Content Writing",
+              "blurb": "SEO-driven pages written for real dermatology practices."
+            },
+            {
+              "name": "Medical Copywriting",
+              "blurb": "Clinically accurate, patient-friendly, physician-approved."
+            },
+            {
+              "name": "Blog Management",
+              "blurb": "Editorial calendar, writing, publishing, and internal linking."
+            },
+            {
+              "name": "Landing Page Design",
+              "blurb": "Purpose-built pages for services, promos, and ad traffic."
+            },
+            {
+              "name": "Service Page Creation",
+              "blurb": "One conversion-optimized page per condition or treatment."
+            },
+            {
+              "name": "Conversion Rate Optimization (CRO)",
+              "blurb": "Hypothesis-driven A/B testing on real patient traffic."
+            },
+            {
+              "name": "Lead Magnet Creation",
+              "blurb": "Skin guides, checklists, and quizzes that capture intent."
+            },
+            {
+              "name": "Email Newsletter Setup",
+              "blurb": "Branded templates, automations, and list segmentation."
+            },
+            {
+              "name": "Call-to-Action Optimization",
+              "blurb": "Buttons, forms, and journeys tested for booking lift."
+            }
+          ]
+        },
+        "seo": {
+          "title": "SEO & Analytics",
+          "tagline": "Rank higher. Measure what matters. Prove the ROI.",
+          "items": [
+            {
+              "name": "Local SEO",
+              "blurb": "Dominate map packs in every neighborhood you serve."
+            },
+            {
+              "name": "Technical SEO Audit",
+              "blurb": "Crawl, indexation, schema, Core Web Vitals — fully audited."
+            },
+            {
+              "name": "Schema Markup Implementation",
+              "blurb": "MedicalBusiness, FAQ, Review, and Service schema shipped."
+            },
+            {
+              "name": "Google Business Profile Optimization",
+              "blurb": "Photos, posts, Q&A, categories — tuned for local intent."
+            },
+            {
+              "name": "Analytics & Reporting",
+              "blurb": "Monthly plain-English reports tied to booked appointments."
+            },
+            {
+              "name": "Conversion Tracking Setup",
+              "blurb": "GA4, GTM, and CRM events wired end-to-end."
+            },
+            {
+              "name": "Call Tracking Setup",
+              "blurb": "Dynamic numbers per source. Every call attributed correctly."
+            },
+            {
+              "name": "Heatmap & User Behavior Tracking",
+              "blurb": "See exactly where patients hesitate — and fix it."
+            },
+            {
+              "name": "Competitor SEO Analysis",
+              "blurb": "Gap analysis on the practices ranking above you."
+            }
+          ]
+        },
+        "integrations": {
+          "title": "Integrations & Automation",
+          "tagline": "One connected stack. No copy-paste. No lost leads.",
+          "items": [
+            {
+              "name": "Online Appointment / Booking Integration",
+              "blurb": "Zocdoc, NexHealth, Modernizing Medicine — wired natively."
+            },
+            {
+              "name": "Patient Portal Integration",
+              "blurb": "Secure SSO to your EHR portal, mobile-friendly."
+            },
+            {
+              "name": "CRM Integration",
+              "blurb": "HubSpot, Salesforce, Keap — leads flow in real-time."
+            },
+            {
+              "name": "Live Chat Setup",
+              "blurb": "AI + human hybrid chat trained on your services and FAQs."
+            },
+            {
+              "name": "Email Marketing Integration",
+              "blurb": "Mailchimp, Klaviyo, ActiveCampaign, ConvertKit."
+            },
+            {
+              "name": "Marketing Automation Setup",
+              "blurb": "Nurture flows, recall reminders, birthday offers."
+            },
+            {
+              "name": "Payment Gateway Integration",
+              "blurb": "Stripe, Square, CareCredit — HIPAA-aware checkout."
+            },
+            {
+              "name": "Telehealth Integration",
+              "blurb": "Doxy.me, Zoom for Healthcare, or your existing platform."
+            },
+            {
+              "name": "Third-Party Software Integration",
+              "blurb": "Any API, any tool — we build the bridge."
+            }
+          ]
+        },
+        "growth": {
+          "title": "Growth Marketing",
+          "tagline": "Compounding patient growth, month after month.",
+          "items": [
+            {
+              "name": "Reputation Management",
+              "blurb": "Monitor, respond, and protect your practice's name online."
+            },
+            {
+              "name": "Review Generation System",
+              "blurb": "Automated review requests post-visit — ethically, at scale."
+            },
+            {
+              "name": "Social Media Management",
+              "blurb": "Content, engagement, and strategy for Instagram & TikTok."
+            },
+            {
+              "name": "Google Ads Management",
+              "blurb": "Search + Performance Max campaigns tuned for cost-per-booking."
+            },
+            {
+              "name": "Facebook & Instagram Ads",
+              "blurb": "Cosmetic and medical funnels with creative refresh cadence."
+            },
+            {
+              "name": "Retargeting Campaign Setup",
+              "blurb": "Bring back the 96% who left without booking."
+            },
+            {
+              "name": "E-Commerce Marketing",
+              "blurb": "Sell skincare online — Shopify, ads, email, and SEO."
+            },
+            {
+              "name": "Monthly Growth Reporting",
+              "blurb": "One dashboard. Real numbers. Tied to real revenue."
+            }
+          ]
+        }
+      }
+    }
+  },
+  "cta": {
+    "heading": "Not sure what to bundle?",
+    "headingItalic": "Get a custom stack in 24 hours.",
+    "description": "Share your goals, current stack, and locations. We'll return a tailored add-on plan with pricing, timelines, and expected patient impact — no obligation.",
+    "primary": "Request my custom stack",
+    "secondary": "Free website audit first"
+  },
+  "faq": {
+    "badge": "Add-On FAQs",
+    "heading": "Answers before you ask.",
+    "description": "Everything dermatology practices ask us before bundling add-ons. Need more detail? The full FAQ has everything.",
+    "items": [
+      {
+        "q": "Can I bundle add-ons with my existing website plan?",
+        "a": "Yes. Every add-on is designed to layer onto your current DermatologyWebsiteDesign.com plan or an existing site we onboard. Bundling multiple add-ons unlocks volume pricing that's shown on your custom quote."
+      },
+      {
+        "q": "Are these add-ons HIPAA-aware?",
+        "a": "Every integration, form, hosting choice, and analytics setup is HIPAA-aware by default. We provide BAAs where applicable and audit PHI exposure across forms, chat, and marketing pixels."
+      },
+      {
+        "q": "Do I have to commit to a long contract?",
+        "a": "No. Add-ons are month-to-month unless you choose an annual plan for a discount. You keep every asset — code, content, credentials, backups — if you leave."
+      },
+      {
+        "q": "How fast can you launch an add-on?",
+        "a": "Most integrations, tracking setups, and content services launch within 3–10 business days. Larger builds like custom CRO programs or migrations follow a scoped timeline shared upfront."
+      },
+      {
+        "q": "Do you support sites you didn't build?",
+        "a": "Yes. After a paid technical audit we onboard existing dermatology sites — WordPress, Webflow, custom, or headless — and layer add-ons on top."
+      }
+    ]
+  },
+  "footerLinks": {
+    "prefix": "Related pages worth a look:",
+    "management": "full website management",
+    "maintenance": "ongoing maintenance plans",
+    "pricing": "what's included in each package"
+  }
+}

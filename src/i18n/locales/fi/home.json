@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "title": "Ihotautilääkärien verkkosivusuunnittelu — HIPAA-yhteensopivat kasvualustat",
+    "description": "HIPAA-yhteensopivat verkkosivut, hakukoneoptimointi ja markkinointi ihotautiklinikoille. Maksuton verkkosivuauditointi 24 tunnissa.",
+    "orgDescription": "HIPAA-yhteensopiva verkkosivusuunnittelu, SEO ja kasvumarkkinointi yksityisvastaanotoille ja monitoimipaikkaisille ihotautiklinikoille."
+  },
+  "hero": {
+    "badge": "HIPAA-yhteensopiva",
+    "badgeSecondary": "Konversio-optimoitu",
+    "headline": "Ensiluokkaiset verkkosivut, jotka kasvattavat moderneja",
+    "headlineAccent": "ihotautiklinikoita.",
+    "subhead": "Yksilöllisesti suunnitellut ja hakukoneoptimoidut verkkosivut, jotka rakentavat luottamusta, houkuttelevat uusia potilaita ja vauhdittavat klinikkasi kasvua verkossa.",
+    "ctaPrimary": "Pyydä tarjous",
+    "ctaSecondary": "Tilaa ilmainen auditointi",
+    "heroImageAlt": "Ihotautiklinikan verkkosivuston suunnittelukokonaisuus, jossa näkyvät työpöytä- ja mobiilinäkymät, analytiikka, ajanvaraus ja HIPAA-vaatimustenmukaisuus"
+  },
+  "stats": {
+    "websites": {
+      "label": "Ihotautiklinikan",
+      "sub": "verkkosivua julkaistu"
+    },
+    "niche": {
+      "label": "Erikoistunut",
+      "sub": "ihotauteihin"
+    },
+    "lighthouse": {
+      "label": "Keskimääräinen Lighthouse-",
+      "sub": "suorituskyky"
+    }
+  },
+  "trust": {
+    "hipaa": {
+      "label": "HIPAA-yhteensopiva",
+      "note": "Tietosuoja edellä"
+    },
+    "ada": {
+      "label": "ADA-saavutettava",
+      "note": "WCAG 2.1 -standardin mukainen"
+    },
+    "ssl": {
+      "label": "SSL-suojattu",
+      "note": "256-bittinen salaus"
+    },
+    "seo": {
+      "label": "SEO-optimoitu",
+      "note": "Parempi näkyvyys"
+    },
+    "mobile": {
+      "label": "Mobiiliystävällinen",
+      "note": "Kaikille laitteille"
+    },
+    "speed": {
+      "label": "Huippunopea",
+      "note": "Optimoitu latausaika"
+    }
+  },
+  "footer": {
+    "startPrefix": "Uusi täällä? Aloita",
+    "guideLink": "tutustumalla ihotautiklinikoiden markkinointioppaaseen",
+    "sep1": ",",
+    "caseStudiesLink": "asiakkaidemme tuloksiin",
+    "sep2": " tai ",
+    "auditLink": "tilaamalla ilmainen auditointi nykyisestä sivustostasi",
+    "suffix": "."
+  },
+  "skip": "Siirry sisältöön"
+}

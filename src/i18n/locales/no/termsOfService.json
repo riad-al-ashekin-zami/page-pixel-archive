@@ -1,0 +1,89 @@
+{
+  "meta": {
+    "title": "Brukervilkår — bruk av nettsted og engasjement",
+    "description": "Vilkårene som regulerer din bruk av vårt nettsted, vår kommunikasjon og tjenestene du bestiller fra vårt studio.",
+    "og_title": "Brukervilkår — bruk av nettsted og engasjement",
+    "og_description": "Vilkårene som regulerer din bruk av vårt nettsted, vår kommunikasjon og tjenestene du bestiller fra vårt studio.",
+    "twitter_title": "Brukervilkår — bruk av nettsted og engasjement",
+    "twitter_description": "Vilkårene som regulerer din bruk av vårt nettsted, vår kommunikasjon og tjenestene du bestiller fra vårt studio."
+  },
+  "a11y": {
+    "skip_to_content": "Gå til innholdet",
+    "section_navigation": "Seksjonsnavigasjon"
+  },
+  "hero": {
+    "badge": "Juridisk · Brukervilkår",
+    "title": "Brukervilkår",
+    "description": "Her finner du kjørereglene for bruk av nettstedet vårt, hvordan du kontakter oss og samarbeider med oss. Vennligst les disse i sammenheng med vår <0>Tjenesteavtale</0> og <1>Personvernerklæring</1>.",
+    "last_updated": "Sist oppdatert: <0>14. juli 2026</0>"
+  },
+  "sections": {
+    "contents_label": "Innhold",
+    "acceptance": {
+      "title": "1. Godtakelse av vilkår",
+      "body": "Ved å besøke eller bruke dette nettstedet («Nettstedet»), sende oss en henvendelse eller benytte våre tjenester, samtykker du til disse Brukervilkårene («Vilkårene»). Hvis du ikke er enig, vennligst avslutt bruken av Nettstedet."
+    },
+    "eligibility": {
+      "title": "2. Krav til bruker",
+      "body": "Du må være minst 18 år og ha juridisk kapasitet til å inngå en bindende avtale for å bruke Nettstedet eller våre tjenester. Hvis du opptrer på vegne av en organisasjon, bekrefter du at du har myndighet til å binde denne til avtalen."
+    },
+    "services": {
+      "title": "3. Våre tjenester",
+      "body": "Innholdet på dette Nettstedet er primært markedsføring. Ethvert konkret prosjektsamarbeid — inkludert design, utvikling, SEO eller løpende vedlikehold — reguleres av et eget pristilbud eller oppdragsbeskrivelse, samt vår <0>Tjenesteavtale</0>. Ved eventuell konflikt mellom disse dokumentene og Vilkårene, er det Tjenesteavtalen som har forrang."
+    },
+    "acceptable_use": {
+      "title": "4. Akseptabel bruk",
+      "list": [
+        "Ikke misbruk, forstyrr eller forsøk å bryte sikkerheten på Nettstedet eller dets infrastruktur.",
+        "Ikke bruk scraping, roboter eller gjengivelse av innholdet utover ordinær, ikke-kommersiell referansebruk.",
+        "Ikke send inn ulovlig, krenkende, skadelig eller villedende innhold via våre skjemaer.",
+        "Ikke send inn sensitiv helseinformasjon (PHI) via offentlige skjemaer."
+      ]
+    },
+    "ip": {
+      "title": "5. Immaterielle rettigheter",
+      "body": "Alt innhold på dette Nettstedet — tekst, grafikk, logoer, kode og design — eies av oss eller våre lisensgivere og er beskyttet av lover om opphavsrett. Du kan se og dele lenker til Nettstedet, men du kan ikke kopiere, endre eller publisere innholdet på nytt uten vår skriftlige tillatelse."
+    },
+    "submissions": {
+      "title": "6. Innsendt materiale",
+      "body": "Hvis du sender oss tilbakemeldinger, idéer eller forslag, gir du oss en ikke-eksklusiv, verdensomspennende og royalty-fri lisens til å bruke disse uten ytterligere forpliktelser. Ikke send informasjon du anser som konfidensiell med mindre vi har avtalt dette skriftlig på forhånd."
+    },
+    "third_party": {
+      "title": "7. Tredjepartslenker og tjenester",
+      "body": "Nettstedet kan inneholde referanser til tredjeparts nettsteder, verktøy eller tjenester. Vi har ingen kontroll over, og støtter ikke nødvendigvis disse, og vi er ikke ansvarlige for deres innhold, tilgjengelighet eller praksis."
+    },
+    "disclaimer": {
+      "title": "8. Ansvarsfraskrivelse",
+      "body": "Nettstedet og innholdet leveres «som det er» og «som tilgjengelig», uten noen form for garantier — verken eksplisitte eller implisitte — inkludert garantier om salgbarhet, egnethet for et bestemt formål eller fravær av rettighetskrenkelser. Ingenting på Nettstedet skal anses som juridisk, medisinsk eller økonomisk rådgivning."
+    },
+    "liability": {
+      "title": "9. Ansvarsbegrensning",
+      "body": "I den grad loven tillater det, er vi ikke ansvarlige for indirekte tap, tilfeldige skader, følgeskader eller tap av fortjeneste som følge av din bruk av Nettstedet. Vårt samlede erstatningsansvar knyttet til Nettstedet er begrenset til 100 USD."
+    },
+    "indemnity": {
+      "title": "10. Skadesløsholdelse",
+      "body": "Du samtykker i å forsvare og holde oss skadesløse mot krav, skader og kostnader som oppstår som følge av din misbruk av Nettstedet eller brudd på disse Vilkårene."
+    },
+    "termination": {
+      "title": "11. Opphør",
+      "body": "Vi kan når som helst, med eller uten varsel, suspendere eller avslutte din tilgang til Nettstedet dersom vi mener du har brutt disse Vilkårene eller utgjør en risiko for oss eller andre brukere."
+    },
+    "governing_law": {
+      "title": "12. Lovvalg",
+      "body": "Disse Vilkårene reguleres av lovene i jurisdiksjonen oppgitt i vår Tjenesteavtale, eller i mangel av denne, jurisdiksjonen der vårt studio er registrert — uten hensyn til lovvalgsregler."
+    },
+    "changes": {
+      "title": "13. Endringer i vilkårene",
+      "body": "Vi kan oppdatere disse Vilkårene fra tid til annen. Datoen for «Sist oppdatert» øverst viser gjeldende versjon. Fortsatt bruk av Nettstedet etter endringer innebærer at du godtar de oppdaterte Vilkårene."
+    },
+    "contact_section": {
+      "title": "14. Kontakt",
+      "body": "Har du spørsmål om Vilkårene? Kontakt oss via vår <0>kontaktside</0>."
+    }
+  },
+  "cta": {
+    "title": "Spørsmål om våre vilkår?",
+    "description": "Vi svarer gjerne på dine spørsmål før vi starter et samarbeid.",
+    "button": "Kontakt oss"
+  }
+}

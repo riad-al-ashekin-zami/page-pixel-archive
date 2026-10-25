@@ -1,0 +1,310 @@
+{
+  "meta": {
+    "title": "Marketing des réseaux sociaux pour dermatologues | Instagram, TikTok, Meta Ads",
+    "description": "Stratégie réseaux sociaux pour cabinets de dermatologie — Instagram, TikTok, Facebook, YouTube et LinkedIn. Contenu conforme HIPAA, tournages mensuels en cabinet et publicités sociales mesurées par consultations réservées.",
+    "og": {
+      "title": "Social Media pour Dermatologues — Un contenu qui génère des rendez-vous",
+      "description": "Gestion complète des réseaux sociaux pour cabinets de dermatologie — tournages, stratégie priorité aux Reels, gestion des DM et publicité ciblée sur les réservations."
+    },
+    "twitter": {
+      "title": "Services de Marketing Social Media pour Dermatologues",
+      "description": "Contenu social et campagnes payantes optimisés pour la prise de rendez-vous en cabinet de dermatologie."
+    }
+  },
+  "jsonLd": {
+    "service": {
+      "name": "Marketing des réseaux sociaux pour cabinets de dermatologie",
+      "provider": "DermatologyWebsiteDesign.com",
+      "description": "Gestion complète, production de contenu et social ads pour cabinets de dermatologie, avec un suivi axé sur les consultations réservées."
+    },
+    "breadcrumbs": {
+      "home": "Accueil",
+      "services": "Services",
+      "social": "Réseaux Sociaux"
+    }
+  },
+  "hero": {
+    "badge": "Réseaux Sociaux & Dermatologie",
+    "heading": "Un contenu qui inspire confiance — et remplit votre agenda.",
+    "description": "Gestion intégrale de vos réseaux sociaux — Instagram, TikTok, Facebook, YouTube et LinkedIn. Tournages mensuels en clinique, légendes conformes HIPAA, gestion des messages privés et campagnes payantes mesurées par consultations réelles.",
+    "cta": {
+      "audit": "Audit social gratuit",
+      "platforms": "Voir les plateformes"
+    },
+    "stats": [
+      {
+        "label": "312%",
+        "value": "Croissance du nombre d'abonnés"
+      },
+      {
+        "label": "48+",
+        "value": "Consultations / mois"
+      },
+      {
+        "label": "5.4M",
+        "value": "Vues Reels / an"
+      },
+      {
+        "label": "HIPAA",
+        "value": "Contenu sécurisé"
+      }
+    ],
+    "trust": {
+      "imgAlt": "Client en dermatologie",
+      "rating": "4.9/5",
+      "subtext": "Plus de 50 cabinets de dermatologie nous font confiance",
+      "badge": "Certifié HIPAA"
+    }
+  },
+  "socialMock": {
+    "handle": "@votre_cabinet_dermato",
+    "status": "Certifié par le conseil de l'ordre · 24.8k",
+    "live": "en direct",
+    "imgAlt": "Aperçu du flux Instagram d'un cabinet de dermatologie montrant du contenu sur les soins de la peau",
+    "metrics": {
+      "reach": "Portée",
+      "dms": "DM",
+      "booked": "Réservé"
+    },
+    "reels": [
+      {
+        "label": "Reels — Routine Acné",
+        "value": "1.2M"
+      },
+      {
+        "label": "Reels — Procédure de Mohs",
+        "value": "342k"
+      },
+      {
+        "label": "Statique — Présentation praticien",
+        "value": "58k"
+      }
+    ],
+    "outcome": "+48 consultations ce mois-ci",
+    "timeframe": "30j"
+  },
+  "sections": {
+    "platforms": {
+      "badge": "Couverture multi-plateforme",
+      "heading": "Six plateformes. Un seul objectif : la prise de rendez-vous.",
+      "description": "Chaque plateforme bénéficie de son format de contenu, de sa cadence et de ses indicateurs de performance — pas de copier-coller entre les réseaux.",
+      "items": [
+        {
+          "title": "Croissance Instagram",
+          "desc": "Stratégie axée sur les Reels — carrousels avant/après, mise en avant des praticiens et tunnels de conversion via DM adaptés au parcours patient."
+        },
+        {
+          "title": "TikTok pour la Dermato",
+          "desc": "Contenu éducatif court qui se positionne sur TikTok et Google — conforme HIPAA et validé avant toute publication."
+        },
+        {
+          "title": "Facebook & Meta Ads",
+          "desc": "Notoriété locale, audiences similaires (lookalike) et campagnes de génération de leads facturées à la consultation, pas à l'abonné."
+        },
+        {
+          "title": "YouTube Shorts & Long-format",
+          "desc": "Explications de procédures, FAQ praticiens et vidéos pérennes sur les pathologies dermatologiques référencées sur Google."
+        },
+        {
+          "title": "LinkedIn pour Praticiens",
+          "desc": "Marque personnelle pour dermatologues certifiés — leadership d'opinion, réseau de partenaires et profil de haut standing."
+        },
+        {
+          "title": "Gestion des DM & Communauté",
+          "desc": "Modèles de réponses qualifiés, délai de réponse de 4h, filtrage des données de santé (PHI) et transfert fluide des leads au secrétariat."
+        }
+      ]
+    },
+    "outcomes": {
+      "heading": "Résultats mesurables",
+      "items": [
+        {
+          "k": "312%",
+          "v": "Croissance d'abonnés en 90 jours"
+        },
+        {
+          "k": "48+",
+          "v": "Consultations via Instagram / mois"
+        },
+        {
+          "k": "5.4M",
+          "v": "Vues Reels organiques (moy. 12 mois)"
+        },
+        {
+          "k": "4.9",
+          "v": "Note moyenne du sentiment de marque"
+        }
+      ],
+      "quote": "\"Nous sommes passés d'une publication par semaine à un système de contenu complet. Nos abonnés ont triplé, mais surtout, le nombre de consultations issues d'Instagram est passé de 4 à 48 par mois.\"",
+      "author": "Dr. Priya Anand · Cabinet de dermatologie libéral"
+    },
+    "pillars": {
+      "badge": "Piliers de contenu",
+      "heading": "Six piliers de contenu, chaque mois, sur chaque réseau.",
+      "description": "Votre charte éditoriale sur 90 jours lie chaque Reel, post et modèle de DM à une spécialité médicale et un objectif de réservation. Aucune publication n'est laissée au hasard.",
+      "items": [
+        "Mise en avant du praticien et crédibilité médicale",
+        "Éducation sur les pathologies (acné, eczéma, rosacée, psoriasis)",
+        "Transformations Avant / Après avec consentement signé",
+        "Reels en clinique — soins, technologies et visites guidées",
+        "FAQ patients et vidéos courtes pour démentir les idées reçues",
+        "Campagnes saisonnières (soins de la peau et protection solaire)"
+      ]
+    },
+    "audiences": {
+      "badge": "Pour qui nous créons du contenu",
+      "heading": "Adapté à chaque modèle de pratique dermatologique.",
+      "description": "Cabinet solo, centres multi-sites, pédiatrie ou chirurgie de Mohs — notre stratégie s'adapte à votre voix et à votre patientèle.",
+      "items": [
+        {
+          "title": "Dermatologues en cabinet libéral",
+          "desc": "Stratégie centrée sur le praticien — votre voix, votre visage, vos patients. Tournage groupé mensuel, publication hebdomadaire."
+        },
+        {
+          "title": "Cliniques multi-sites",
+          "desc": "Un système de marque unifié, des calendriers par site et des flux de contenus générés par le personnel, gérés depuis un tableau de bord unique."
+        },
+        {
+          "title": "Dermatologie Pédiatrique",
+          "desc": "Contenu destiné aux parents — légendes rassurantes, publications optimisées pour les heures de sortie d'école, imagerie validée cliniquement."
+        },
+        {
+          "title": "Chirurgie de Mohs et Dermato Chirurgicale",
+          "desc": "Leadership d'opinion pour les confrères sur LinkedIn, Reels éducatifs et procédures de consentement pour les contenus avant/après."
+        }
+      ]
+    },
+    "medical_services": {
+      "badge": "Domaines d'expertise couverts",
+      "heading": "Chaque pathologie. Chaque traitement. Chaque consultation.",
+      "description": "Chaque service médical dispose de son propre pilier de contenu et de sa cartographie de hashtags pour couvrir tout le parcours de recherche du patient.",
+      "items": [
+        "Traitement de l'acné",
+        "Traitement de l'eczéma",
+        "Traitement du psoriasis",
+        "Infections cutanées",
+        "Allergies cutanées",
+        "Dépistage et traitement des cancers de la peau",
+        "Évaluation et exérèse de grains de beauté",
+        "Exérèse de kystes et lipomes",
+        "Traitement des verrues",
+        "Pathologies des ongles",
+        "Diagnostic et traitement de la chute de cheveux",
+        "Pathologies du cuir chevelu",
+        "Traitement de la rosacée",
+        "Hyperpigmentation et Mélasma",
+        "Traitement des cicatrices (traumatiques, chirurgicales)",
+        "Séquelles de brûlures",
+        "Traitement du vitiligo",
+        "Biopsies cutanées et actes diagnostiques"
+      ]
+    },
+    "workflow": {
+      "badge": "Fonctionnement",
+      "heading": "Un lancement en 90 jours. Une croissance durable ensuite.",
+      "description": "Des étapes transparentes liées aux consultations réservées — pas seulement aux métriques de vanité.",
+      "items": [
+        {
+          "step": "01",
+          "phase": "Phase 01",
+          "title": "Audit de marque et contenu",
+          "desc": "Analyse de la voix, identité visuelle, veille concurrentielle, stratégie hashtags et piliers de contenu sur 90 jours."
+        },
+        {
+          "step": "02",
+          "phase": "Phase 02",
+          "title": "Tournage mensuel",
+          "desc": "Une journée de tournage en clinique par mois — Reels, photos, présentations praticiens, témoignages. Le secret de la régularité."
+        },
+        {
+          "step": "03",
+          "phase": "Phase 03",
+          "title": "Publication et interaction",
+          "desc": "Planification sur IG, TikTok, FB, YouTube, LinkedIn. Triage quotidien des DM. Analyses hebdomadaires des performances."
+        },
+        {
+          "step": "04",
+          "phase": "Phase 04",
+          "title": "Amplification publicitaire",
+          "desc": "Boost des meilleurs posts organiques via Meta / TikTok Ads — reciblage des visiteurs du site et audiences similaires."
+        }
+      ]
+    },
+    "why_us": {
+      "badge": "Pourquoi nous ?",
+      "heading": "Un partenaire expert en dermatologie — pas une agence généraliste.",
+      "items": [
+        {
+          "title": "Flux conformes HIPAA",
+          "desc": "Autorisation signée avant toute publication patient. DM gérés avec des modèles sécurisés. Légendes validées juridiquement."
+        },
+        {
+          "title": "Tournages mensuels en cabinet",
+          "desc": "Une journée de tournage = 3 à 4 semaines de contenu premium. Plus besoin de chercher quoi poster au dernier moment."
+        },
+        {
+          "title": "Design cohérent et haut de gamme",
+          "desc": "Identité visuelle unique sur tous les réseaux — couleurs, typographies, animations — pour un rendu professionnel et exclusif."
+        },
+        {
+          "title": "Stratégie Priorité aux Reels",
+          "desc": "La vidéo courte est le moteur de croissance. Chaque contenu est d'abord pensé pour Reels, puis décliné sur TikTok et YouTube Shorts."
+        },
+        {
+          "title": "Gestion communautaire réactive",
+          "desc": "Réponses sous 4 heures avec transfert direct des prospects qualifiés vers votre secrétariat. Aucun lead ne se perd."
+        },
+        {
+          "title": "Priorité aux réservations",
+          "desc": "Chaque rapport mensuel lie la portée sociale au nombre de rendez-vous générés et au chiffre d'affaires par service."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "Vos questions, nos réponses.",
+    "items": [
+      {
+        "q": "En quoi les réseaux sociaux diffèrent-ils de Google Ads pour un dermatologue ?",
+        "a": "Google Ads capte la demande existante ('dermatologue acné proche de moi'). Les réseaux sociaux créent la demande et la confiance. Ils construisent la notoriété qui fera que le patient vous choisira vous au moment de sa recherche. Les deux sont complémentaires : le social réduit votre coût de conversion Google Ads à long terme."
+      },
+      {
+        "q": "Vos publications respectent-elles le secret médical (HIPAA) ?",
+        "a": "Absolument. Les contenus avant-après et témoignages ne sont publiés qu'après signature d'une décharge média spécifique. Les DM sont gérés avec des modèles filtrés : aucun diagnostic en ligne, seulement des invitations à la consultation."
+      },
+      {
+        "q": "Qui filme le contenu ?",
+        "a": "Nous nous en occupons. Une journée de tournage mensuelle permet de produire 3 à 4 semaines de contenu. Si vous avez déjà un créateur en interne, nous pouvons passer à un modèle hybride : nous éditons et optimisons vos rushs."
+      },
+      {
+        "q": "Quel est l'engagement minimum ?",
+        "a": "90 jours. Les réseaux sociaux fonctionnent par effet cumulé ; 30 jours ne suffisent pas à analyser les signaux. Après ce sprint initial, nous passons à un contrat mensuel résiliable avec 30 jours de préavis."
+      },
+      {
+        "q": "Gérez-vous aussi les publicités payantes ?",
+        "a": "Oui. Les campagnes Meta et TikTok sont incluses dans notre offre de croissance. Nous amplifions vos meilleurs posts et créons des campagnes d'acquisition basées sur le coût par rendez-vous réservé."
+      },
+      {
+        "q": "Pouvez-vous gérer des cabinets multi-sites ?",
+        "a": "Oui. Nous gérons des calendriers spécifiques à chaque adresse sous une identité de marque commune, avec des campagnes géociblées et des rapports détaillés par site."
+      }
+    ]
+  },
+  "cta": {
+    "badge": "Audit social offert",
+    "heading": "Découvrez pourquoi vos réseaux sociaux ne génèrent pas assez de rendez-vous.",
+    "description": "Analyse de contenu, veille concurrentielle, plan d'action sur 90 jours et audit de votre tunnel de conversion. Gratuit, sans engagement.",
+    "primary": "Obtenir mon audit gratuit",
+    "secondary": "Demander un devis"
+  },
+  "sticky_footer": {
+    "label": "Audit social offert — Sous 48h",
+    "button": "En profiter"
+  },
+  "internal_links": {
+    "prefix": "À découvrir également : ",
+    "reputation": "collecter des avis 5 étoiles",
+    "email": "fidélisation patient par email",
+    "gallery": "votre galerie avant-après"
+  }
+}

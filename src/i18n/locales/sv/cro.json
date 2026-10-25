@@ -1,0 +1,382 @@
+{
+  "meta": {
+    "title": "Konverteringsoptimering för dermatologi – fördubbla din bokningsgrad",
+    "description": "Konverteringsoptimering (CRO) för hudläkarmottagningar. Heatmaps, A/B-testning och mobil UX som förvandlar besökare till bokade patienter. HIPAA-aware.",
+    "og_title": "Optimera din dermatologiska klinik – fler bokningar med samma trafik",
+    "og_description": "Beteendeanalys, A/B-testning och mobilfokuserad optimering för hudkliniker. Mätbara resultat inom 90 dagar – HIPAA-aware, utan bindningstid.",
+    "jsonLd": {
+      "serviceType": "Dermatology Conversion Rate Optimization",
+      "provider": "DermatologyWebsiteDesign.com",
+      "offerDescription": "Dermatology CRO diagnostic — starting price"
+    }
+  },
+  "hero": {
+    "badge_lift": "Snittökning +184% på 90 dagar",
+    "badge_service": "Konverteringsoptimering",
+    "title_main": "Samma trafik.",
+    "title_highlight": "Dubbelt så många bokningar.",
+    "description": "Beteendestudier, A/B-testning och optimerade bokningsflöden – skräddarsydda för hudläkarmottagningar. Vi testar varje hypotes och maximerar effekten av varje krona i din annonsbudget.",
+    "cta_audit": "Starta med en CRO-analys",
+    "cta_case_study": "Se case studies",
+    "pricing_note": "Diagnostisk analys från",
+    "pricing_value": "1 900 $",
+    "pricing_ongoing": "· löpande program 3,4k–6,9k $ / mån",
+    "ticks": [
+      "Heatmaps + sessionsinspelning",
+      "A/B-testning",
+      "HIPAA-aware",
+      "Ingen bindningstid"
+    ]
+  },
+  "stats": {
+    "lift": "Snittökning i bokningsförfrågningar",
+    "abandonment": "Minskad avbruten bokning",
+    "roas": "Högre ROAS på betald trafik",
+    "wins": "Statistiskt säkerställda vinster"
+  },
+  "trust": {
+    "label": "Betros av över 120 hudläkarkliniker i hela landet",
+    "logos": [
+      "LA Dermatology",
+      "CP Dermatology",
+      "MM Center",
+      "NBS Laser",
+      "RS Institute",
+      "HD Group"
+    ]
+  },
+  "pillars": {
+    "label": "Sex pelare, ett vinnande system",
+    "heading": "CRO handlar inte om färgen på en knapp. Det är en vetenskap.",
+    "description": "Vi kombinerar beteendedata, kontrollerade experiment och mobilfokuserad teknik för att göra varje besök till ett mätbart steg mot en bekräftad bokning.",
+    "items": [
+      {
+        "name": "Beteendeanalys",
+        "desc": "Heatmaps, skroll-djup och enkäter – vi analyserar hur dina besökare faktiskt fattar beslut.",
+        "meta": "Vecka 1–2"
+      },
+      {
+        "name": "A/B- & multivariattestning",
+        "desc": "Hypoteser rangordnas efter ICE-poäng och testas med korrekta urvalsstorlekar – inga gissningar.",
+        "meta": "Löpande"
+      },
+      {
+        "name": "Optimering av bokningsformulär",
+        "desc": "Analys på fältnivå och HIPAA-säker autofyll som halverar antalet avbrutna bokningar.",
+        "meta": "Sprint 1"
+      },
+      {
+        "name": "Kartläggning av kundresan",
+        "desc": "Varje steg från klick på annons till bokad tid kartläggs för att eliminera alla hinder.",
+        "meta": "Kontinuerligt"
+      },
+      {
+        "name": "Mobilfokuserad design",
+        "desc": "Över 70% av bokningarna sker via mobilen – vi optimerar flödet för tummen, inte skrivbordet.",
+        "meta": "Sprint 2"
+      },
+      {
+        "name": "Hastighet & Core Web Vitals",
+        "desc": "Varje 100ms i laddningstid kostar konverteringar. Vi levererar sub-1.5s LCP och gröna CWV-värden.",
+        "meta": "Grundläggande"
+      }
+    ]
+  },
+  "experiments": {
+    "label": "Sex verkliga experiment",
+    "heading": "Så här ser metodisk optimering ut i praktiken.",
+    "description": "Varje rad nedan är en verklig hypotes testad hos en hudläkarklinik. Siffrorna visar mediantryck över liknande verksamheter – inte enstaka extremfall.",
+    "table_header": "Experiment",
+    "before_label": "Före",
+    "after_label": "Efter",
+    "items": [
+      {
+        "label": "Copy på huvudknapp (CTA)",
+        "before": "Kontakta oss",
+        "after": "Boka på 60 sekunder",
+        "metric": "Klick till bokning"
+      },
+      {
+        "label": "Fält i bokningsformulär",
+        "before": "12 fält, en sida",
+        "after": "4 steg, framstegsmätare",
+        "metric": "Slutförda formulär"
+      },
+      {
+        "label": "Tydlighet kring försäkring",
+        "before": "Dold i FAQ",
+        "after": "Välj försäkring direkt i hero",
+        "metric": "Relevanta bokningar"
+      },
+      {
+        "label": "Förtroendesignaler",
+        "before": "Generisk bild",
+        "after": "Riktigt foto + 4.9★ omdöme",
+        "metric": "Tid på sida & bokningar"
+      },
+      {
+        "label": "CTA-placering i mobilen",
+        "before": "Under scroll, statisk",
+        "after": "Fryst fält i botten (sticky)",
+        "metric": "Mobil konvertering"
+      },
+      {
+        "label": "Struktur på tjänstesidor",
+        "before": "Långa textmassor",
+        "after": "Symtom → Behandling → Boka",
+        "metric": "Sidkonvertering"
+      }
+    ]
+  },
+  "caseStudy": {
+    "label": "Case study · NBS Laser",
+    "heading": "Samma annonsbudget. 180% fler bokningar.",
+    "image_alt": "NBS Laser bokningsflöde efter CRO-optimering",
+    "stats": {
+      "bookings": "Bokningar / mån",
+      "completion": "Slutförda formulär",
+      "time": "Tid till beslut"
+    },
+    "comparison": [
+      {
+        "label": "Bokningsformulär",
+        "before": "12 fält · 1 sida · desktop-fokus",
+        "after": "4 steg · framstegsmätare · mobilanpassat"
+      },
+      {
+        "label": "Huvudknapp (CTA)",
+        "before": "Kontakta oss (generisk)",
+        "after": "Boka på 60 sekunder · försäkringsväljare"
+      },
+      {
+        "label": "Mobilanpassning",
+        "before": "Menyn dolde knappen vid scroll",
+        "after": "Sticky boka-knapp · 44px klickyta"
+      },
+      {
+        "label": "Förtroende",
+        "before": "Stockfoto · inga recensioner",
+        "after": "Verklig läkare · 4.9★ · certifieringar"
+      }
+    ],
+    "cta": "Läs hela caset"
+  },
+  "process": {
+    "label": "Så fungerar det",
+    "heading": "En kvartalsvis loop som bygger ränta-på-ränta.",
+    "steps": [
+      {
+        "step": "01",
+        "title": "Grundlig analys",
+        "desc": "Fullständig genomgång av ditt flöde: analytics, heatmaps, hastighet och 20+ branschspecifika benchmarks. Du får en poängsatt rapport inom 10 arbetsdagar."
+      },
+      {
+        "step": "02",
+        "title": "Hypoteslista",
+        "desc": "Varje insikt blir en testbar hypotes, rankad efter Impact × Confidence × Ease. Du godkänner planen – vi gissar aldrig."
+      },
+      {
+        "step": "03",
+        "title": "Design & Testning",
+        "desc": "Vi lanserar varianter via en plattform för experimenterande. Urvalsstorlekar beräknas i förväg så att vi inte drar förhastade slutsatser."
+      },
+      {
+        "step": "04",
+        "title": "Implementering & Loop",
+        "desc": "Vinnande versioner blir ny standard. Förlorare blir lärdomar. Varje månad är ditt flöde mätbart bättre än föregående."
+      }
+    ]
+  },
+  "audiences": {
+    "label": "Vilka vi jobbar med",
+    "heading": "Hudkliniker i alla storlekar.",
+    "description": "Program anpassade efter din verksamhetsmodell – från den enskilda kliniken till stora Mohs-kirurgigrupper.",
+    "items": [
+      {
+        "label": "Privata hudläkare",
+        "desc": "Förvandla en mindre annonsbudget till en fullbokad kalender – varje besökare räknas."
+      },
+      {
+        "label": "Klinikkedjor",
+        "desc": "Lokala landningssidor, geografiskt anpassade knappar och samlad analys för alla kliniker."
+      },
+      {
+        "label": "Pediatrisk dermatologi",
+        "desc": "Bokningsflöden anpassade för föräldrar med tydliga förtroendesignaler för vårdnadshavare."
+      },
+      {
+        "label": "Mohs & kirurgisk dermatologi",
+        "desc": "Remissdrivna sidor och försäkringsinformation som förkortar vägen från konsultation till bokning."
+      }
+    ]
+  },
+  "services": {
+    "label": "Sidor vi optimerar",
+    "heading": "Varje diagnossida, varje flöde – byggt för att konvertera.",
+    "description": "Vi skapar flöden från symtom till behandling och försäkringsanpassade knappar för de tjänster din klinik faktiskt erbjuder.",
+    "list": [
+      "Aknebehandling",
+      "Eksem",
+      "Psoriasis",
+      "Hudinfektioner",
+      "Hudallergier",
+      "Screening & behandling av hudcancer",
+      "Födelsemärkeskontroll & borttagning",
+      "Cystor & lipom",
+      "Vårtor",
+      "Nagelsjukdomar",
+      "Håravfall & medicinsk behandling",
+      "Hårbottensproblem",
+      "Rosacea",
+      "Hyperpigmentering & melasma",
+      "Ärrbehandling",
+      "Brännskadeärr",
+      "Vitiligo",
+      "Hudbiopsi & diagnostik"
+    ]
+  },
+  "testimonials": {
+    "label": "Vad säger kunderna?",
+    "heading": "Först siffrorna. Sedan berättelsen.",
+    "items": [
+      {
+        "name": "Dr. Meera Balakrishnan, MD",
+        "role": "NBS Laser",
+        "quote": "Vi spenderade 18 000 dollar i månaden på annonser och fick 40 bokningar. Efter 90 dagars CRO fick vi 112 bokningar för samma budget. Jag slutade ifrågasätta fakturan direkt."
+      },
+      {
+        "name": "Dr. Julian Reyes, MD",
+        "role": "CP Dermatology",
+        "quote": "De byggde om vårt bokningsflöde på tre sprintar. Konverteringen gick från 34 % till 71 %. Vi slipper nu samtal om att 'formuläret inte fungerar'."
+      },
+      {
+        "name": "Dr. Priya Anand, MD, MPH",
+        "role": "MM Center · 4 kliniker",
+        "quote": "Lokala landningssidor och försäkringsväljaren var nyckeln. Tiden från konsultation till bokning sjönk från 11 dagar till 4."
+      }
+    ]
+  },
+  "pricing": {
+    "label": "Program & priser",
+    "heading": "Tre sätt att börja växa.",
+    "description": "Alla planer löper månadsvis efter den första analysen. Inga årsavtal – resultaten är vårt enda existensberättigande.",
+    "popular": "Populärast",
+    "market_label": "Marknad:",
+    "get_started": "Kom igång",
+    "plans": [
+      {
+        "name": "Diagnostik",
+        "tag": "Engångsanalys",
+        "price": "1 900 $",
+        "per": "engångsavgift",
+        "savings": "46–75% billigare",
+        "features": [
+          "Fullständig funnel- & analysgranskning",
+          "Setup av heatmap & session-replay",
+          "Analys av avbrutna bokningar",
+          "Mobile UX & Core Web Vitals-score",
+          "Prioriterad lista med 12 hypoteser",
+          "60 min genomgång av resultat"
+        ]
+      },
+      {
+        "name": "Growth Sprint",
+        "tag": "3-månadersprogram",
+        "price": "3 400 $",
+        "per": "/mån",
+        "savings": "43–72% billigare",
+        "features": [
+          "Allt i Diagnostik",
+          "2 A/B-tester lanserade per månad",
+          "Ombyggnad av bokningsformulär",
+          "Landningssidor för topp-kampanjer",
+          "Månadsinsikter & beteendedata",
+          "Slack-kanal + veckomöten"
+        ]
+      },
+      {
+        "name": "Compounding CRO",
+        "tag": "Större kliniker & kedjor",
+        "price": "6 900 $",
+        "per": "/mån",
+        "savings": "43–72% billigare",
+        "features": [
+          "Allt i Growth Sprint",
+          "4+ samtidiga experiment",
+          "System för lokala landningssidor",
+          "Personalisering & segmentering",
+          "Server-side experimentering",
+          "Kvartalsvis affärsdata-genomgång"
+        ]
+      }
+    ]
+  },
+  "faq": {
+    "label": "Vanliga frågor",
+    "heading": "Svar på dina funderingar.",
+    "items": [
+      {
+        "q": "Hur skiljer sig CRO från SEO eller PPC?",
+        "a": "SEO och PPC driver trafik till din sida. CRO förvandlar den trafiken till bokade tider. Utan CRO begränsas din avkastning av din nuvarande konverteringsgrad – som för hudkliniker ofta ligger på låga 1–3 %."
+      },
+      {
+        "q": "Hur snabbt ser jag resultat?",
+        "a": "Analysen och de första optimeringarna sker under de första 30 dagarna. Statistiskt vinnande resultat syns vanligtvis mellan vecka 4 och 12, beroende på din trafikvolym."
+      },
+      {
+        "q": "Behöver ni tillgång till min hemsida?",
+        "a": "Ja, vi installerar en testplattform (t.ex. VWO eller Optimizely) och analysverktyg. Allt är HIPAA-aware: ingen patientdata (PHI) samlas in och vi maskerar formulärfält i alla inspelningar."
+      },
+      {
+        "q": "Vad händer om ett test 'förlorar'?",
+        "a": "Att ett test inte ger önskad ökning är helt normalt. Det ger oss värdefull kunskap om vad dina patienter inte svarar på, vilket förhindrar kostsamma felsteg vid framtida ombyggnationer."
+      },
+      {
+        "q": "Kan ni jobba med min befintliga sida?",
+        "a": "Vi arbetar med WordPress, Webflow, React och andra moderna plattformar. Vi föreslår bara ombyggnad av specifika delar där vi ser en tydlig ROI."
+      },
+      {
+        "q": "Följer ni medicinska regelverk?",
+        "a": "Ja, varje experiment granskas mot HIPAA och regler för medicinsk marknadsföring (Meta/Google). Vi testar aldrig påståenden som inte kan styrkas."
+      },
+      {
+        "q": "Har ni bindningstid?",
+        "a": "Diagnostik är en engångstjänst. Våra löpande program har 30 dagars uppsägningstid. Du äger all data och konfiguration om du väljer att avsluta."
+      }
+    ]
+  },
+  "cta": {
+    "label": "Gratis hemsidesanalys",
+    "heading": "Redo att sluta tappa bokningar?",
+    "description": "Vi analyserar ditt flöde, identifierar de tre största läckorna och ger dig en konkret plan – oavsett om du väljer att jobba med oss eller inte.",
+    "button_quote": "Få en offert",
+    "button_contact": "Kontakta oss"
+  },
+  "footer_nav": {
+    "label": "Läs mer:",
+    "link_seo": "SEO-grunder för hudläkare",
+    "link_ppc": "Betalda kampanjer som lönar sig",
+    "link_design": "Design byggd för konvertering"
+  },
+  "mobile_sticky": {
+    "label": "Gratis CRO-analys",
+    "description": "30 min samtal · 3 största läckorna",
+    "button": "Gratis analys"
+  },
+  "funnel_panel": {
+    "title": "Bokningsflöde — senaste 30 dagarna",
+    "status": "Live · test #4821 pågår",
+    "winning": "Vinnande",
+    "stages": {
+      "visitors": "Besökare",
+      "engaged": "Engagerade",
+      "form_starts": "Påbörjade formulär",
+      "booked": "Bokade"
+    },
+    "stats": {
+      "conv_rate": "Konv. grad",
+      "cpa": "CPA",
+      "confidence": "Konfidens"
+    }
+  }
+}

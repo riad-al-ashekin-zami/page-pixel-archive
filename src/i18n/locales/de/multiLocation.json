@@ -1,0 +1,442 @@
+{
+  "meta": {
+    "title": "Website-Design für Hautarzt-Netzwerke & Filialisten | Eine Marke, jede Stadt",
+    "description": "Premium-Webdesign für Dermatologie-Netzwerke. Zentrales Design-System, lokales SEO pro Standort, Google Business Profile pro Praxis, zentrales Booking, HIPAA-konform. Ranken Sie in jeder Stadt.",
+    "og_title": "Website-Design für Hautarzt-Netzwerke & Filialisten | Eine Marke, jede Stadt",
+    "og_description": "Skalierbares Webdesign für Dermatologie-Netzwerke. SEO-optimiert pro Standort, Lighthouse 95+, echtes lokales SEO, HIPAA-konform.",
+    "jsonLd": {
+      "serviceType": "Multi-Location Dermatology Website Design",
+      "providerName": "DW Design",
+      "audienceType": "Dermatologische Gemeinschaftspraxen & Netzwerke",
+      "offerDescription": "Website-Design für Dermatologie-Netzwerke — ab Basispreis"
+    }
+  },
+  "hero": {
+    "badge": "Eine Marke · Jede Stadt · Vollständig indexiert",
+    "title": "Dermatologie-Webdesign, das in jeder Ihrer Städte top rankt.",
+    "description": "Ein zentrales Markensystem, indexierte Unterseiten pro Praxis, standortbezogenes Schema, GBP, Rezensionen und Terminbuchung – damit Patienten in jeder Region eine lokale Praxis sehen statt einer anonymen Kette.",
+    "cta": "Multi-Standort-Konzept anfordern",
+    "secondary_cta": "Kostenloses lokales SEO-Audit",
+    "stats": {
+      "brand": {
+        "value": "1 Marke",
+        "description": "Zentrales Design-System"
+      },
+      "locations": "Standorte skalierbar bis zu",
+      "performance": "Lighthouse auf jeder Seite"
+    },
+    "rank_badge": {
+      "label": "Live-Ranking lokal",
+      "value": "Top 3",
+      "subtext": "in jeder Stadt, in ≤ 60 Tagen"
+    },
+    "image_alt": "Netzwerkkarte dermatologischer Kliniken mit zentralem Marken-Dashboard"
+  },
+  "scaler": {
+    "eyebrow": "Interaktiv · Standort-Planer",
+    "title": "Ziehen Sie den Regler für Ihre lokale Präsenz.",
+    "description": "Sehen Sie, wie viele indexierte Unterseiten wir ausliefern – eine pro Filiale, plus Top-Leistungsseiten pro Stadt.",
+    "label": "Standorte:",
+    "range_hint": "2 – 10",
+    "stat_indexed": "Indexierte Lokalseiten",
+    "stat_gbp": "GBP eingerichtet & verknüpft",
+    "browser_placeholder": "ihre-praxis.de/standorte",
+    "local_number": "Lokale Telefonnummer"
+  },
+  "sections": {
+    "audiences": {
+      "eyebrow": "Für wen wir arbeiten",
+      "title": "Entwickelt für dermatologische Marken, die an mehreren Orten wachsen.",
+      "items": [
+        {
+          "label": "Wachsende Einzelpraxen",
+          "desc": "Sie eröffnen Ihren 2. oder 3. Standort und entwachsen Ihrer aktuellen Website."
+        },
+        {
+          "label": "Filialnetzwerke & MVZ",
+          "desc": "3–20 Standorte unter einer Marke, die lokales Ranking bei zentralem CMS benötigen."
+        },
+        {
+          "label": "Kinderdermatologische Gruppen",
+          "desc": "Elternfreundliche Formulare mit direkter Zuweisung zum jeweiligen Standort."
+        },
+        {
+          "label": "Operative Zentren & Mohs-Netzwerke",
+          "desc": "Zuweiser-Portale mit standortspezifischen Fallbeispielen."
+        }
+      ]
+    },
+    "problems": {
+      "eyebrow": "Was wir lösen",
+      "title": "Die meisten Multi-Standort-Seiten wirken wie Kopien ohne lokale Seele.",
+      "description": "Google sieht nur eine Seite. Patienten finden nur eine Adresse. Rezensionen vermischen sich. Wir bauen die Architektur von Grund auf neu.",
+      "labels": {
+        "before": "Vorher",
+        "after": "Nachher"
+      },
+      "items": [
+        {
+          "before": "Eine Kontaktseite für 6 Praxen",
+          "after": "6 individuell indexierte Lokalseiten"
+        },
+        {
+          "before": "Identische H1 auf jeder Seite",
+          "after": "Stadt-spezifische H1 + Schema-Daten"
+        },
+        {
+          "before": "GBP nicht beansprucht/verifiziert",
+          "after": "GBP pro Praxis, mit Site verknüpft"
+        },
+        {
+          "before": "Buchung im falschen Standort",
+          "after": "PLZ- & URL-gesteuerte Buchung"
+        },
+        {
+          "before": "Geteilte Google-Sterne ohne Fokus",
+          "after": "Bewertungen getrennt pro Standort"
+        },
+        {
+          "before": "Neuer Standort = 6 Wochen Umbau",
+          "after": "Neuer Standort in < 7 Tagen online"
+        }
+      ]
+    },
+    "pillars": {
+      "eyebrow": "Das System",
+      "title": "Sechs Säulen für jedes Praxis-Netzwerk-Projekt.",
+      "items": [
+        {
+          "title": "Zentrales Design-System",
+          "desc": "Eine Designsprache und Komponenten-Bibliothek – jede Lokalseite übernimmt diese automatisch."
+        },
+        {
+          "title": "SEO pro Standort",
+          "desc": "Eigene URLs, Schema, H1-Tags und Inhalte für jede Praxis – als eigenständige Entität indexiert."
+        },
+        {
+          "title": "Intelligentes Routing",
+          "desc": "PLZ-Erkennung und URL-sensitive CTAs. Patienten buchen nie wieder im falschen Ort."
+        },
+        {
+          "title": "Standortbezogene Sterne",
+          "desc": "Rezensionen werden separat gesammelt und ausgespielt – für echtes lokales Vertrauen."
+        },
+        {
+          "title": "Zentrale Buchung, lokales Team",
+          "desc": "Ein Patientenfluss, N Kalender. Standortspezifische Ärzte, Zeiten und Kassenleistungen."
+        },
+        {
+          "title": "Durchgehend HIPAA-konform",
+          "desc": "Anmeldeformulare und Patientenportale – BAA-ready über alle Standorte hinweg."
+        }
+      ]
+    },
+    "architecture": {
+      "eyebrow": "URL-Architektur",
+      "title": "Jeder Standort erhält eine indexierbare Heimat.",
+      "description": "Google behandelt jede Praxis als separates Zentrum. Patienten landen genau dort, wo sie gesucht haben. Bewertungen, Öffnungszeiten und Ärzte bleiben dem richtigen Standort zugeordnet.",
+      "items": [
+        "Standort-Index: /standorte",
+        "Lokalseite: /standorte/berlin-mitte",
+        "Lokale Leistung: /standorte/berlin-mitte/akne-behandlung",
+        "Arzt-Profil: /standorte/berlin-mitte/dr-mueller",
+        "Strukturierte Daten: LocalBusiness + MedicalClinic pro URL"
+      ],
+      "visual": {
+        "title": "URL-Blueprint",
+        "status": "Indexiert"
+      }
+    },
+    "seoMatrix": {
+      "eyebrow": "Lokale SEO-Matrix",
+      "title": "Jede Stadt × jede Leistung – voll indexiert.",
+      "description": "Beispiel einer Marke mit 4 Standorten: 12 Top-Leistungen × 4 Städte = 48 individuell rankende Seiten zusätzlich zu den Praxis-Hauptseiten.",
+      "table": {
+        "head_service": "Leistung",
+        "cities": [
+          "Berlin",
+          "München",
+          "Hamburg",
+          "Köln"
+        ],
+        "services": [
+          "Akne-Therapie",
+          "Ekzem-Behandlung",
+          "Hautkrebsvorsorge",
+          "Muttermalentfernung",
+          "Rosacea-Therapie",
+          "Psoriasis-Behandlung"
+        ]
+      }
+    },
+    "medicalServices": {
+      "eyebrow": "Dermatologische Leistungen",
+      "title": "Medizinisches Spektrum, standortspezifisch ausgespielt.",
+      "description": "Jede Praxis zeigt nur das, was vor Ort wirklich angeboten wird. Keine Verwirrung, kein Frust bei der Terminbuchung.",
+      "list": [
+        "Akne-Therapie",
+        "Ekzem-Behandlung",
+        "Psoriasis-Behandlung",
+        "Hautinfektionen",
+        "Allergologie",
+        "Hautkrebsvorsorge & Therapie",
+        "Muttermal-Check & Entfernung",
+        "Zysten- & Lipomentfernung",
+        "Warzenbehandlung",
+        "Nagelerkrankungen",
+        "Haarausfall-Therapie",
+        "Kopfhaut-Erkrankungen",
+        "Rosacea-Therapie",
+        "Hyperpigmentierung & Melasma",
+        "Narbenbehandlung",
+        "Verbrennungsnarben",
+        "Vitiligo-Therapie",
+        "Hautbiopsien & Diagnostik"
+      ]
+    },
+    "deliverables": {
+      "eyebrow": "Umfang",
+      "title": "12 konkrete Ergebnisse für Ihren Launch.",
+      "list": [
+        "Zentrales Multi-Standort Design-System",
+        "Individuelle Landingpage pro Praxisstandort",
+        "LocalBusiness + MedicalClinic Schema pro Adresse",
+        "Einrichtung Google Business Profile pro Standort",
+        "PLZ-Erkennung & Header-Standort-Wechsler",
+        "Standortbezogene Arztprofile & Praxisfotos",
+        "Stadt-spezifische Leistungsseiten",
+        "Lokale Rezensions-Einbindung",
+        "Zentraler Buchungsfluss mit Standort-Kontext",
+        "HIPAA-konforme Formulare für alle Standorte",
+        "Core Web Vitals 95+ auf jeder Lokalseite",
+        "Standort-basiertes Analytics-Dashboard"
+      ]
+    },
+    "timeline": {
+      "eyebrow": "Prozess",
+      "title": "Sechs Meilensteine. Ein Launch-Termin.",
+      "steps": [
+        {
+          "step": "01",
+          "title": "Marken- & Standort-Audit",
+          "desc": "Wir erfassen alle Standorte, Ärzte und bestehende GBPs. Wir identifizieren NAP-Fehler und Ranking-Überschneidungen."
+        },
+        {
+          "step": "02",
+          "title": "Zentrales Design-System",
+          "desc": "Ein Marken-Kit, eine Komponenten-Bib. Jede Lokalseite erbt dieses Design – für absolute Markenkonsistenz."
+        },
+        {
+          "step": "03",
+          "title": "IA & Content pro Standort",
+          "desc": "URL-Struktur, lokale H1-Tags, Mapping von Ärzten und Kassenleistungen sowie lokaler Content."
+        },
+        {
+          "step": "04",
+          "title": "Programmierung & SEO-Setup",
+          "desc": "Jede Seite bekommt Karten-Integration, Schema-Daten und eine Anbindung an das lokalspezifische GBP."
+        },
+        {
+          "step": "05",
+          "title": "Multi-Device QA + HIPAA Check",
+          "desc": "Optimierung für alle Endgeräte. Rechtssichere Prüfung der Formulare unter BAA-Bedingungen."
+        },
+        {
+          "step": "06",
+          "title": "Launch & Local Pack Sichtbarkeit",
+          "desc": "GBP-Verifizierung, Zitat-Abgleich in Verzeichnissen und Search Console Setup pro Standort. 90 Tage Monitoring."
+        }
+      ]
+    },
+    "comparison": {
+      "eyebrow": "Warum DW Design?",
+      "title": "DIY, Generalisten oder Derm-Architekten.",
+      "table": {
+        "head_capability": "Funktion",
+        "head_diy": "Baukasten-Lösung",
+        "head_generic": "Standard-Agentur",
+        "head_dw": "DW Design",
+        "recommended": "EMPFEHLUNG",
+        "rows": [
+          "Indexierte Unterseite pro Standort",
+          "LocalBusiness Schema pro Klinik",
+          "GBP-Einrichtung pro Standort",
+          "URL-sensitive Patientenbuchung",
+          "Zentrales System, das mit N Standorten skaliert",
+          "Lokale Bewertungen mit Schema-Markup",
+          "HIPAA-konforme Formulare überall",
+          "Lighthouse 95+ auf jeder Seite"
+        ]
+      }
+    },
+    "pricing": {
+      "eyebrow": "Investition",
+      "title": "Kalkuliert nach der Anzahl Ihrer Standorte.",
+      "custom_quote_text": "Über 10 Standorte, Klinikgruppen oder MVZ-Netzwerke — fordern Sie ein individuelles Angebot an.",
+      "custom_quote_link": "Angebot anfordern",
+      "starting_label": "ab",
+      "most_popular": "Beliebteste Wahl",
+      "market_label": "Marktwert:",
+      "tiers": [
+        {
+          "name": "2–3 Standorte",
+          "price": "6.900 €",
+          "tag": "Wachsende Praxis",
+          "market": "15.000 € – 28.000 €",
+          "savings": "54–75% günstiger",
+          "features": [
+            "Zentrales Design-System",
+            "Bis zu 3 indexierte Lokalseiten",
+            "LocalBusiness Schema pro Filiale",
+            "GBP-Setup für jeden Standort",
+            "Zentrales Booking mit Kontext",
+            "5–7 Wochen bis zum Launch"
+          ]
+        },
+        {
+          "name": "4–6 Standorte",
+          "price": "11.400 €",
+          "tag": "Beliebteste Wahl",
+          "market": "25.000 € – 50.000 €",
+          "savings": "54–77% günstiger",
+          "features": [
+            "Alles aus 'Wachsende Praxis'",
+            "Bis zu 6 indexierte Lokalseiten",
+            "Stadt-spezifische Leistungsseiten",
+            "Lokale Rezensions-Einbindung",
+            "PLZ-Erkennungs-Modul",
+            "7–9 Wochen bis zum Launch"
+          ]
+        },
+        {
+          "name": "7–10 Standorte",
+          "price": "18.900 €",
+          "tag": "Regionales Netzwerk",
+          "market": "45.000 € – 90.000 €",
+          "savings": "58–79% günstiger",
+          "features": [
+            "Alles aus 'Beliebteste Wahl'",
+            "Bis zu 10 indexierte Lokalseiten",
+            "Arzt-Standort-Matching",
+            "Kassen-Datenbank pro Klinik",
+            "Standort-Analytics Dashboard",
+            "9–12 Wochen bis zum Launch"
+          ]
+        }
+      ],
+      "cta": "Jetzt starten"
+    },
+    "gallery": {
+      "eyebrow": "Aus Live-Projekten",
+      "title": "Ein zentrales System für echte MVZs.",
+      "description": "Einblicke in zwei Standorte dermatologischer Marken. Fotos anonymisiert aus Datenschutzgründen.",
+      "nda_badge": "Verschwiegenheit",
+      "items": [
+        {
+          "label": "Empfang · Standort A",
+          "city": "Metropolregion Berlin"
+        },
+        {
+          "label": "Behandlungsraum · Standort B",
+          "city": "Region München"
+        }
+      ]
+    },
+    "caseStudy": {
+      "eyebrow": "Fallstudie",
+      "title": "Dermatologische Gruppe mit 6 Standorten · 90-Tage Ergebnisse.",
+      "description": "Bezüglich NDA anonymisiert. Daten aus Google Search Console & GA4, quartalsweise verifiziert.",
+      "verified": "Verifiziert",
+      "metrics": [
+        {
+          "k": "+41%",
+          "label": "Neupatienten-Anrufe",
+          "sub": "vs. 90 Tage vor Launch"
+        },
+        {
+          "k": "Top 3",
+          "label": "Local Pack Ranking",
+          "sub": "in 6 / 6 Städten"
+        },
+        {
+          "k": "48",
+          "label": "Indexierte Lokalseiten",
+          "sub": "zuvor nur 1 Kontaktseite"
+        },
+        {
+          "k": "97",
+          "label": "Median Lighthouse",
+          "sub": "über alle Standorte"
+        }
+      ],
+      "chart": {
+        "title": "Neupatienten-Anrufe · wöchentlich",
+        "description": "Pre-Launch → Tag 90",
+        "pre": "Vor Launch",
+        "post": "Nach Launch",
+        "anonymized": "Kunde anonymisiert"
+      }
+    },
+    "testimonial": {
+      "quote": "Früher teilten sich 3 Praxen eine dürftige Kontaktseite. Heute haben wir 6 voll indexierte Standorte, die innerhalb von 60 Tagen in ihrer jeweiligen Stadt unter den Top 3 rankten. Die Anrufe stiegen um +41% – und den 7. Standort konnten wir ohne IT-Aufwand einfach zuschalten.",
+      "author": "Dr. Rachel Patel",
+      "title": "Managing Partner, Dermatologie-Gruppe (7 Standorte)",
+      "trust_strip": "Dermatologische Netzwerke vertrauen uns in",
+      "cities": [
+        "Berlin",
+        "München",
+        "Hamburg",
+        "Köln",
+        "Düsseldorf",
+        "Stuttgart"
+      ]
+    }
+  },
+  "faq": {
+    "eyebrow": "Häufige Fragen",
+    "title": "Fragen zu Multi-Standort-Lösungen, direkt beantwortet.",
+    "items": [
+      {
+        "q": "Wie ranken Multi-Standort-Websites in jeder Stadt bei Google?",
+        "a": "Jeder Standort erhält eine eigene indexierte URL (z.B. /standorte/muenchen), mit individuellen H1-Tags, lokalspezifischen Texten, MedicalClinic-Schemadaten, einer Map und standortbezogenen Rezensionen. So rankt nicht die Marke allgemein, sondern jede Praxis lokal."
+      },
+      {
+        "q": "Können Patienten den Standort bei der Buchung wählen?",
+        "a": "Ja, absolut. Der Buchungsfluss erkennt den Standort automatisch über die URL, den PLZ-Detektor oder einen manuellen Wechsler im Header. Fehlbuchungen an falschen Standorten werden so minimiert."
+      },
+      {
+        "q": "Wie verhindert man, dass 10+ Standorte wie 'Copy & Paste' wirken?",
+        "a": "Durch ein gemeinsames Design-System bei individuellem Inhalt: Echte Teamfotos, standortbezogene FAQs, die vor Ort akzeptierten Kassen, Anfahrtsbeschreibungen und lokale Bewertungen. Google erkennt die Relevanz, Patienten das lokale Vertrauen."
+      },
+      {
+        "q": "Was passiert, wenn wir Standorte hinzufügen oder schließen?",
+        "a": "Neue Standorte lassen sich über Vorlagen in weniger als einer Woche aufsetzen. Geschlossene Standorte werden per 301-Weiterleitung umgeleitet, um bestehende Rankings und Zuweisungen nicht zu verlieren."
+      },
+      {
+        "q": "Übernehmen Sie das Google Business Profile Setup?",
+        "a": "Ja. Wir verifizieren und optimieren ein GBP für jeden Standort, binden die Google-Sterne direkt ein und gleichen die Daten (NAP) in den wichtigsten Mediziner-Verzeichnissen ab. Das ist Teil unseres Standards."
+      },
+      {
+        "q": "Wie lange dauert der Launch eines solchen Netzwerks?",
+        "a": "5–7 Wochen für 2–4 Standorte, 7–10 Wochen für bis zu 10 Standorte. Bei komplexen EHR-Integrationen oder mehr Standorten 10–14 Wochen. Feste Meilensteine garantieren den Launch-Termin."
+      }
+    ]
+  },
+  "cta_founder": {
+    "title": "Jeder geschaltete Standort ist unsere persönliche Verantwortung.",
+    "description": "Wir betreuen pro Quartal nur eine begrenzte Anzahl an Netzwerken, damit jede Einzelseite handwerklich perfekt ist. Wenn Ihr Expansionsplan mehr als eine Adresse umfasst, lassen Sie uns die Architektur planen, bevor der erste Pixel gesetzt wird.",
+    "cta_quote": "Kostenloses Angebot",
+    "cta_msg": "Nachricht senden",
+    "footer_title": "Dermatologie Webdesign",
+    "footer_sub": "Partner für das digitale Wachstum von Dermatologen",
+    "logo_alt": "DW — Dermatologie Website Design"
+  },
+  "footer_nav": {
+    "useful_hint": "Das könnte Sie auch interessieren:",
+    "links": {
+      "single": "Webdesign für Einzelpraxen",
+      "seo": "Wie lokale Sichtbarkeit funktioniert",
+      "portfolio": "Einblick in aktuelle Netzwerk-Launches"
+    }
+  }
+}

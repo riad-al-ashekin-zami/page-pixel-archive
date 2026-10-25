@@ -1,0 +1,275 @@
+{
+  "meta": {
+    "title": "FAQ — Website-Design für die Dermatologie, SEO & HIPAA",
+    "description": "Klare Antworten zu Preisen, Zeitplänen, SEO, HIPAA, Redesigns, Migrationen und Support für wachsende dermatologische Praxen.",
+    "keywords": "Dermatologie Website FAQ, Dermatologie SEO FAQ, HIPAA Website Fragen, Kosten Website Dermatologie, Zeitplan Website Dermatologie",
+    "breadcrumbList": {
+      "home": "Home",
+      "faq": "FAQ"
+    }
+  },
+  "hero": {
+    "badge": "{{totalCount}} Antworten · Spezialisiert auf Dermatologie",
+    "heading": "Alle Antworten, die eine dermatologische Praxis wirklich braucht.",
+    "subheading": "Preise, Zeitpläne, SEO, HIPAA, Redesigns, Migrationen, Integrationen. Direkt, spezifisch und verfasst von dem Team, das die Arbeit umsetzt.",
+    "search": {
+      "label": "FAQs durchsuchen",
+      "placeholder": "Suche nach Kosten, HIPAA, Redesign, SEO…",
+      "hint": "Drücken Sie / oder ⌘K zum Suchen",
+      "results": "{{count}} Antwort gefunden für „{{query}}“",
+      "results_plural": "{{count}} Antworten gefunden für „{{query}}“"
+    },
+    "stats": [
+      {
+        "label": "Audit-Dauer",
+        "value": "24h"
+      },
+      {
+        "label": "Derm-Praxen",
+        "value": "50+"
+      },
+      {
+        "label": "Lighthouse-Ziel",
+        "value": "95+"
+      }
+    ]
+  },
+  "navigation": {
+    "skipToContent": "Zum Inhalt springen",
+    "browseByTopic": "Nach Themen suchen",
+    "onThisPage": "Auf dieser Seite",
+    "all": "Alle",
+    "clearFilters": "Filter löschen",
+    "askUs": "Frag uns"
+  },
+  "popular": {
+    "badge": "Meistgefragt",
+    "heading": "Beliebte Fragen"
+  },
+  "searchNoResults": {
+    "heading": "Noch keine passenden Antworten gefunden.",
+    "subheading": "Versuchen Sie es mit einem dieser Themen – oder senden Sie uns Ihre Frage, und wir antworten innerhalb von 24 Stunden.",
+    "suggested": [
+      "Preise",
+      "HIPAA",
+      "Zeitplan",
+      "SEO",
+      "Redesign",
+      "EHR"
+    ]
+  },
+  "feedback": {
+    "question": "War das hilfreich?",
+    "success": "Danke für Ihr Feedback!",
+    "clarify": "Danke – wir werden diesen Punkt bald präzisieren.",
+    "ariaHelpful": "Als hilfreich markieren",
+    "ariaNotHelpful": "Als nicht hilfreich markieren"
+  },
+  "categories": {
+    "general": {
+      "title": "Allgemeines & Einstieg",
+      "short": "Allgemein",
+      "intro": "Mit wem wir arbeiten, wie Projekte starten und was Sie erwarten können.",
+      "items": [
+        {
+          "q": "Für wen erstellen Sie Websites?",
+          "a": "Wir arbeiten exklusiv mit dermatologischen Praxen zusammen – Einzelpraxen, Gemeinschaftspraxen, spezialisierte Kliniken für Ästhetik, Medizin oder Pädiatrie sowie Praxisverbünde an mehreren Standorten. Die Fokussierung auf diese Nische bedeutet, dass jedes Seitenlayout, jede Integration und jede Strategie bereits exakt darauf optimiert ist, wie Patienten in der Dermatologie suchen und buchen."
+        },
+        {
+          "q": "Wie startet ein Projekt?",
+          "a": "Es beginnt mit einem Strategiegespräch, gefolgt von einem kostenlosen Website-Audit Ihrer aktuellen Seite – dabei prüfen wir SEO, Geschwindigkeit, HIPAA, UX und Conversion. Darauf basierend erstellen wir ein Festpreisangebot mit klaren Ergebnissen, Meilensteinen und Kosten. Keine unkalkulierbare Abrechnung nach Stunden.",
+          "cta": "Unser Prozess"
+        },
+        {
+          "q": "Ersetzen Sie unsere aktuelle Agentur?",
+          "a": "Gelegentlich. Viele Kunden behalten uns als dauerhaften Partner für die Dermatologie-Spezialisierung und nutzen eine Allgemein-Agentur für Print oder PR. Wir arbeiten gerne parallel – wir übernehmen jedoch die strategische Hoheit über die Website, SEO und die bezahlte Akquise von Anfang bis Ende."
+        },
+        {
+          "q": "Gehört die Website uns?",
+          "a": "Ja. Ihnen gehören die Domain, der Code, die Inhalte und jeder Account, den wir in Ihrem Namen erstellen. Nichts wird zurückgehalten. Sollten Sie uns verlassen wollen, übergeben wir alles sauber und professionell."
+        }
+      ]
+    },
+    "pricing": {
+      "title": "Preise & Zeitpläne",
+      "short": "Preise",
+      "intro": "Was Projekte kosten, wie lange sie dauern und wie die Abrechnung erfolgt.",
+      "items": [
+        {
+          "q": "Wie viel kostet eine Website für die Dermatologie?",
+          "a": "Die meisten maßgeschneiderten Websites liegen zwischen 6.500 $ und 18.500 $, abhängig von der Seitenanzahl, Integrationen (EHR, Patientenportal, E-Commerce), der Komplexität der Vorher-Nachher-Galerie und der Content-Erstellung. Größere Gruppen liegen meist in einem höheren Bereich. Jedes Angebot ist ein Festpreis, kein Stundenhonorar.",
+          "cta": "Preise & Pakete ansehen"
+        },
+        {
+          "q": "Wie lange dauert die Erstellung?",
+          "a": "Eine fokussierte Website für einen Standort geht in 4–7 Wochen live. Projekte für mehrere Standorte, E-Commerce oder umfangreiche Inhalts-Migrationen dauern 8–12 Wochen. Diese Zeitpläne setzen voraus, dass Inhalte und Feedback zeitnah geliefert werden – wir senden Ihnen einen Zeitplan, damit nichts verzögert wird."
+        },
+        {
+          "q": "Bieten Sie Ratenzahlung an?",
+          "a": "Ja – eine übliche Struktur ist 40 % bei Projektstart, 40 % bei Design-Abnahme und 20 % zum Launch. Größere Projekte können über die Laufzeit monatlich aufgeteilt werden. Laufende Marketing-Betreuungen werden monatlich abgerechnet."
+        },
+        {
+          "q": "Was ist im Preis enthalten?",
+          "a": "Strategie, Design, Programmierung, Copywriting-Support, On-Page SEO, Schema-Markup, Analytics-Setup, HIPAA-konforme Formularverarbeitung, Staging-Umgebung, QA, Launch und 30 Tage Support nach dem Start. Keine versteckten Kosten."
+        }
+      ]
+    },
+    "seo": {
+      "title": "SEO & Wachstum",
+      "short": "SEO",
+      "intro": "Wie wir dafür sorgen, dass Sie in Ihrem Einzugsgebiet oben stehen – und bleiben.",
+      "items": [
+        {
+          "q": "Wird die neue Seite unser aktuelles SEO-Ranking gefährden?",
+          "a": "Das Gegenteil ist der Plan. Wir auditieren jede rankende URL, setzen 301-Redirects, erhalten die Backlink-Stärke und optimieren die On-Page-Signale während der Migration. Die meisten Kunden sehen innerhalb von 30–60 Tagen stabile oder verbesserte Rankings."
+        },
+        {
+          "q": "Übernehmen Sie das Local SEO für Praxen mit mehreren Standorten?",
+          "a": "Ja. Jeder Standort erhält eine eigene optimierte Unterseite, eine Abstimmung mit dem Google Business Profil, individuelle Texte für den Standort (kein Duplicate Content) und strukturierte Daten. Wir tracken Rankings nach Standort und Leistung, nicht nur die Startseite."
+        },
+        {
+          "q": "Wie lange dauert es, bis SEO-Ergebnisse sichtbar werden?",
+          "a": "Ergebnisse in den lokalen Maps ändern sich oft innerhalb von 4–8 Wochen. Umkämpfte Keywords (Aesthetic, Mohs, Laser-Behandlungen) benötigen typischerweise 3–6 Monate kontinuierliche Inhalte und Backlinks. Wir berichten monatlich mit echten Daten zu Ranking, Traffic und Leads."
+        },
+        {
+          "q": "Schreiben Sie die Inhalte selbst?",
+          "a": "Ja, unter Ihrer medizinischen Aufsicht. Unsere Texter sind spezialisiert auf gesundheitsrelevante Inhalte – patientenfreundlich, E-E-A-T-konform und von Ihrem klinischen Team vor der Veröffentlichung geprüft."
+        }
+      ]
+    },
+    "hipaa": {
+      "title": "HIPAA & Compliance",
+      "short": "HIPAA",
+      "intro": "Wie wir Patientendaten (PHI) schützen und sicher verarbeiten.",
+      "items": [
+        {
+          "q": "Sind Ihre Websites HIPAA-konform?",
+          "a": "Wir bauen HIPAA-fähige Seiten: Formulare werden über TLS an HIPAA-konforme Endpunkte gesendet, keine PHI werden in Analytics oder Marketing-Pixeln erfasst, BAAs werden mit Hosting- und Formularanbietern abgeschlossen, und Workflows stellen sicher, dass Patientendaten nicht per unverschlüsselter E-Mail versendet werden. Compliance ist ein Prozess, kein bloßes Häkchen – wir richten die Seite korrekt ein und dokumentieren dies für Sie.",
+          "cta": "Kostenloses Audit anfordern"
+        },
+        {
+          "q": "Unterzeichnen Sie eine BAA?",
+          "a": "Ja, für die Dienste, bei denen eine BAA anwendbar ist (Hosting, Formular-Intake, Speicherung). Wir empfehlen nur Anbieter, die eine BAA unterzeichnen, sobald PHI im Spiel ist."
+        },
+        {
+          "q": "Können Sie unseren aktuellen HIPAA-Status prüfen?",
+          "a": "Ja – das ist Teil unseres kostenlosen Website-Audits. Wir identifizieren riskante Tracker, unsichere Formulare, PHI-Leaks in URLs und Lücken bei Drittanbietern und geben Ihnen eine priorisierte Liste zur Behebung."
+        },
+        {
+          "q": "Wie sieht es mit ADA / Barrierefreiheit aus?",
+          "a": "Jede Seite wird nach WCAG 2.2 AA Standard ausgeliefert, inklusive ADA-Statement und funktionierendem Feedback-Kanal. Barrierefreiheit ist fest im Designsystem verankert – Farbkontraste, Tastatur-Fokus, Screenreader-Labels – und nicht nur oberflächlich per Tool hinzugefügt."
+        }
+      ]
+    },
+    "design": {
+      "title": "Design & Redesign",
+      "short": "Design",
+      "intro": "Unser Ansatz für visuelle Identität, UX und Relaunches.",
+      "items": [
+        {
+          "q": "Ist das Design individuell oder basiert es auf Vorlagen?",
+          "a": "Zu 100 % individuell. Jedes Projekt startet mit Ihrer Marke, Ihren Patienten-Personas und Ihren Leistungen. Wir nutzen keine Standard-Templates – jede Seite wird für die Conversions designt, die für Ihre Praxis wichtig sind."
+        },
+        {
+          "q": "Können Sie unsere bestehende Marke übernehmen?",
+          "a": "Ja. Wenn Sie einen Brand Guide haben, halten wir uns strikt daran. Falls nicht, können wir Ihre Identität – Logo, Farben, Typografie – im Zuge des Projekts auffrischen, damit die Seite einen konsistenten Look erhält."
+        },
+        {
+          "q": "Wie schützt der Redesign-Prozess unseren aktuellen Traffic?",
+          "a": "Wir analysieren jede rankende Seite, legen Redirects fest, bewahren das Schema-Markup und stellen die neue Seite passwortgeschützt bereit für die Abnahme. Der Launch erfolgt unter ständigem Monitoring, damit Fehler sofort erkannt werden."
+        },
+        {
+          "q": "Kümmern Sie sich um die Fotografie?",
+          "a": "Wir koordinieren bei Bedarf lokale medizinische Fotografen. Für Vorher-Nachher-Galerien richten wir Workflows für Einverständniserklärungen und eine skalierbare Pipeline ein, die Ihr Team selbst pflegen kann."
+        }
+      ]
+    },
+    "support": {
+      "title": "Support & Wartung",
+      "short": "Support",
+      "intro": "Was nach dem Launch passiert und wie wir Ihnen zur Seite stehen.",
+      "items": [
+        {
+          "q": "Was passiert nach dem Launch?",
+          "a": "Inklusive sind 30 Tage intensiver Support. Danach wechseln die meisten Kunden in einen Wartungsplan: Updates, Monitoring, Backups, Sicherheitspatches, Uptime-Garantie, kleine Inhaltsänderungen und monatliche Performance-Berichte."
+        },
+        {
+          "q": "Wie schnell ist der Support?",
+          "a": "Kunden mit Wartungsplan erhalten eine Antwort am selben Werktag. Kritische Probleme (Seite offline, Formular defekt) werden innerhalb weniger Stunden behoben. Sie sprechen mit echten Menschen, nicht mit einem anonymen Ticket-System."
+        },
+        {
+          "q": "Bieten Sie Hosting an?",
+          "a": "Ja. Wir hosten auf HIPAA-fähiger Infrastruktur mit CDN, automatischen Backups und SSL. Wenn Sie selbst hosten möchten, liefern wir die Daten für Ihre Umgebung und dokumentieren die Übergabe."
+        },
+        {
+          "q": "Können wir die Website selbst bearbeiten?",
+          "a": "Ja. Jede Seite wird mit einem CMS ausgeliefert, das Ihr Team einfach bedienen kann – Seiten, Blogposts, Anbieter-Profile, Standorte und Vorher-Nachher-Einträge sind ohne Programmierkenntnisse editierbar."
+        }
+      ]
+    },
+    "integrations": {
+      "title": "Integrationen & Tools",
+      "short": "Integrationen",
+      "intro": "Wie die Website mit Ihrem restlichen System verbunden wird.",
+      "items": [
+        {
+          "q": "Integrieren Sie unser EHR oder Termin-Tool?",
+          "a": "Ja – wir haben Erfahrung mit fast allen gängigen EHRs und Termin-Plattformen der Dermatologie (Nextech, ModMed, Zocdoc, Klara etc.). Wenn eine API oder ein Embed existiert, binden wir es sauber ein. Falls nicht, finden wir eine alternative Design-Lösung."
+        },
+        {
+          "q": "Können wir Produkte online verkaufen?",
+          "a": "Ja. Wir bauen rechtskonforme E-Commerce-Lösungen für Hautpflege-Linien mit Shopify oder einem Headless-System, inklusive Abonnements und Lagerabgleich."
+        },
+        {
+          "q": "Richten Sie Call-Tracking und Analytics ein?",
+          "a": "Ja. GA4, Conversion-Tracking für Anrufe und Formulare, Anrufaufzeichnung (wo rechtlich zulässig) und Umsatz-Attribution nach Kanal. Alles HIPAA-konform konfiguriert."
+        },
+        {
+          "q": "Was ist mit E-Mail-Marketing und CRM?",
+          "a": "Wir integrieren das CRM/ESP Ihrer Wahl oder empfehlen eines, das auf Derm-Workflows spezialisiert ist. Automatisierte Nurturing-Sequenzen für Beratungsanfragen sind eine beliebte Ergänzung."
+        }
+      ]
+    }
+  },
+  "cta": {
+    "badge": "Noch Fragen?",
+    "heading": "Fragen Sie uns alles – Sie erhalten eine Antwort binnen 24 Stunden.",
+    "subheading": "Keine Verkaufssprüche, kein Zurückhalten von Informationen. Stellen Sie uns die Frage, der Ihre letzte Agentur ausgewichen ist.",
+    "buttons": {
+      "contact": "Kontakt aufnehmen",
+      "audit": "Kostenloses Website-Audit"
+    }
+  },
+  "related": {
+    "badge": "Verwandte Themen",
+    "heading": "Mehr entdecken",
+    "items": [
+      {
+        "title": "Website-Checklisten",
+        "desc": "108 Prüfpunkte in 9 Kategorien.",
+        "link": "Entdecken"
+      },
+      {
+        "title": "Preise & Pläne",
+        "desc": "Transparente Pakete für jede Phase.",
+        "link": "Entdecken"
+      },
+      {
+        "title": "Kostenloses Audit",
+        "desc": "Personalisierter Bericht in 24 Stunden.",
+        "link": "Entdecken"
+      },
+      {
+        "title": "Unser Prozess",
+        "desc": "Wie wir Projekte erfolgreich liefern.",
+        "link": "Entdecken"
+      }
+    ]
+  },
+  "footerLinks": {
+    "text": "Nicht das Richtige dabei? Versuchen Sie es hier: ",
+    "auditLink": "kostenloses Audit starten",
+    "caseStudiesLink": "aktuelle Kundenstorys lesen",
+    "pricingLink": "unsere Preisstruktur ansehen"
+  }
+}

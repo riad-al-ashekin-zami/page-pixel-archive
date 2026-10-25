@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "title": "Dermatologie-Internetauftritt: Design, SEO & Praxiswachstum",
+    "description": "Exklusive Website-Lösungen für die Dermatologie: HIPAA-konform, SEO-optimiert, lokales Marketing, Patientenportale und kontinuierliche Betreuung für moderne Praxen.",
+    "ogTitle": "Dermatologie-Website-Services",
+    "ogDescription": "Webdesign, SEO, Paid Ads, Reputationsmanagement, Patientenportale und fortlaufender Support für Hautarztpraxen.",
+    "schema": {
+      "name": "Services für Dermatologie-Websites",
+      "serviceType": "Webdesign, SEO und Growth-Marketing für dermatologische Praxen",
+      "providerName": "Dermatology Website Design"
+    }
+  },
+  "hero": {
+    "eyebrow": "Unsere Leistungen",
+    "title": "Dermatologie-Websites, die Besucher in Patienten verwandeln.",
+    "description": "Ob Einzelprojekt oder ganzheitliches Wachstumssystem: Wir bieten maßgeschneidertes Webdesign, SEO, Patientengewinnung, Software-Integrationen und Optimierung für Ihre Praxis.",
+    "ctaQuote": "Angebot anfordern",
+    "ctaPricing": "Preise ansehen",
+    "proofPoints": {
+      "hipaa": "HIPAA-orientierte Implementierung",
+      "responsive": "Optimiert für alle Endgeräte",
+      "seo": "Fundiertes On-Page-SEO",
+      "conversion": "Konversionsstarke Patient Journey"
+    }
+  },
+  "sections": {
+    "website": {
+      "label": "Website-Services",
+      "eyebrow": "Erstellung",
+      "description": "Individuelle Designs, Relaunches, Migrationen, Portale und Vorher-Nachher-Galerien – entwickelt für maximales Patientenvertrauen."
+    },
+    "marketing": {
+      "label": "Marketing-Services",
+      "eyebrow": "Wachstum",
+      "description": "SEO, lokale Sichtbarkeit, bezahlte Werbung, Reputationsmanagement und CRO-Systeme, die qualifizierte Patienten anziehen."
+    },
+    "support": {
+      "label": "Zusatzleistungen",
+      "eyebrow": "Support",
+      "description": "Hosting, Compliance-Support, Schnittstellen, Analytics und Content-Pflege für Praxen, die auch nach dem Launch nachhaltig wachsen wollen."
+    }
+  },
+  "cta": {
+    "title": "Welcher Service passt zu Ihrer Praxis?",
+    "description": "Starten Sie mit einem kostenlosen Audit. Wir analysieren das Potenzial Ihrer Website, Suchsichtbarkeit und Patientenkonversion für maximale Wirkung.",
+    "button": "Kostenloses Audit anfordern"
+  }
+}

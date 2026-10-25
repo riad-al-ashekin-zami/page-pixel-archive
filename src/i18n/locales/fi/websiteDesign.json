@@ -1,0 +1,220 @@
+{
+  "meta": {
+    "title": "Yksilölliset ihotautiklinikoiden verkkosivut — HIPAA-huomioitu ja nopea",
+    "description": "Ensiluokkaista verkkosivusuunnittelua itsenäisille ihotautilääkäreille, monitoimipisteklinikoille sekä pediatrisen ja Mohs-kirurgian erikoisaloille. HIPAA-huomioitu, nopea, SEO-optimoitu ja konversioihin keskittyvä.",
+    "ogTitle": "Ihotautiklinikan verkkosivusuunnittelu — räätälöity ja konversiovetoinen",
+    "ogDescription": "100 % räätälöidyt verkkosivut itsenäisille lääkäreille, ketjuille, pediatriaan ja Mohs-kirurgiaan. Rakennettu potilaita ja Googlea varten.",
+    "jsonLd": {
+      "serviceType": "Dermatology Website Design",
+      "provider": "DW Design",
+      "areaServed": "United States",
+      "description": "Räätälöity, HIPAA-huomioitu ja SEO-optimoitu verkkosivusuunnittelu yksinomaan ihotautiklinikoille."
+    }
+  },
+  "hero": {
+    "badge": "Ihotautiklinikoiden verkkosivusuunnittelu",
+    "title": "Yksilölliset verkkosivut, jotka täyttävät ajanvarauskirjanne.",
+    "description": "100 % räätälöity ulkoasu, HIPAA-huomioitu tekninen toteutus ja on-page SEO — suunniteltu itsenäisille lääkäreille, ketjuklinikoille sekä pediatrisen ja Mohs-kirurgian tarpeisiin.",
+    "ctaPrimary": "Pyydä ilmainen tarjous",
+    "ctaSecondary": "Ilmainen verkkosivuston auditointi",
+    "visual": {
+      "imageAlt": "Nykyaikaisen ihotautiklinikan tilat",
+      "secureHeading": "HIPAA-huomioitu · Lighthouse 98",
+      "secureSubheading": "Turvalliset lomakkeet, nopeat sivut",
+      "status": "Live",
+      "statLighthouse": "Lighthouse",
+      "statBookings": "+3.4x varauksia",
+      "statAverage": "90 päivän keskiarvo"
+    },
+    "outcomes": {
+      "bookingLift": "Varausten kasvu",
+      "lighthouse": "Lighthouse",
+      "lcp": "LCP (4G-verkossa)",
+      "practices": "Klinikkaa"
+    },
+    "trust": "Yli 50 ihotautiklinikan luottama · Esillä medioissa:"
+  },
+  "sections": {
+    "audience": {
+      "tag": "Kohderyhmä",
+      "title": "Rakennettu kaikenlaisille ihotautialan toimijoille",
+      "description": "Yhden lääkärin vastaanotoista monitoimipisteisiin ja kirurgisiin keskuksiin.",
+      "items": [
+        {
+          "label": "Itsenäiset ihotautilääkärit",
+          "desc": "Korkeatasoiset sivustot, jotka heijastavat kliinistä brändiänne ja tuovat uusia asiakkaita."
+        },
+        {
+          "label": "Monitoimipisteklinikat",
+          "desc": "Skaalautuva rakenne toimipistekohtaisilla sivuilla, henkilöstöllä ja yhteystiedoilla."
+        },
+        {
+          "label": "Pediatrinen dermatologia",
+          "desc": "Lämmin ja vanhemmille suunnattu käyttökokemus selkeillä hoitopoluilla."
+        },
+        {
+          "label": "Mohs- ja kirurginen dermatologia",
+          "desc": "Asiantuntijuutta korostava suunnittelu lähetepotilaita ja suoria yhteydenottoja varten."
+        }
+      ]
+    },
+    "pillars": {
+      "tag": "Miksi valita premium",
+      "title": "Kuusi peruspilaria jokaisessa projektissa",
+      "description": "Muotoilu, tekniikka, SEO ja säädöstenmukaisuus — integroituna saumattomasti heti ensimmäisestä päivästä alkaen.",
+      "items": [
+        {
+          "title": "100 % räätälöity design",
+          "desc": "Ei valmispohjia. Jokainen osio, kuvitus ja interaktio on suunniteltu varta vasten klinikallesi."
+        },
+        {
+          "title": "Lighthouse 95+",
+          "desc": "Huippusuorituskykyiset sivustot: optimoidut kuvavirrat, reunavälimuisti ja kevyt JS-koodi."
+        },
+        {
+          "title": "On-Page SEO",
+          "desc": "Semanttinen HTML, schema-merkinnät ja sisältöarkkitehtuuri paikallisia ja lääketieteellisiä hakuja varten."
+        },
+        {
+          "title": "HIPAA-huomioitu",
+          "desc": "Turvalliset lomakkeet, ei potilastietovuotoja, BAA-valmiit kumppanit ja kattava lokitus."
+        },
+        {
+          "title": "Täysin responsiivinen",
+          "desc": "Pikselintarkka toteutus kaikilla laitteilla. Testattu todellisilla puhelimilla ja tableteilla."
+        },
+        {
+          "title": "Saavutettavuus (WCAG AA)",
+          "desc": "Käytettävissä näppäimistöllä, riittävät kontrastit ja ruudunlukuoptimointi — esteetön kaikille."
+        }
+      ]
+    },
+    "medicalServices": {
+      "tag": "Lääketieteelliset palvelut",
+      "title": "Palvelusivut, jotka löytyvät ja konvertoivat",
+      "description": "Yksilölliset, SEO-optimoidut palvelusivut jokaiselle hoidolle — lääketieteellinen tarkkuus, potilaslähtöinen kieli ja vahvat toimintakehotteet.",
+      "features": [
+        "Lääketieteellisesti tarkastettu sisältörakenne",
+        "Avainsanoihin pohjautuvat H1/H2- ja UKK-osiot",
+        "HIPAA-turvalliset esitieto- ja yhteydenottolomakkeet",
+        "Nopeat, mobiiliedellä rakennetut sivupohjat"
+      ],
+      "list": [
+        "Akneen hoito",
+        "Ekseeman hoito",
+        "Psoriasiksen hoito",
+        "Ihoinfektioiden hoito",
+        "Ihoallergioiden hoito",
+        "Ihosyövän seulonta ja hoito",
+        "Luomien tarkastus ja poisto",
+        "Kystien ja lipoomien poisto",
+        "Syylien poisto",
+        "Kynsioireiden hoito",
+        "Hiustenlähdön hoito",
+        "Hiuspohjan sairauksien hoito",
+        "Rosacean hoito",
+        "Pigmenttimuutokset ja melasma",
+        "Arpien hoito",
+        "Palovamma-arpien hoito",
+        "Vitiligon hoito",
+        "Ihopalojen otot ja diagnostiikka"
+      ]
+    },
+    "portfolio": {
+      "tag": "Tehtyjä töitä",
+      "title": "Viimeisimmät julkaisumme",
+      "viewAll": "Katso koko portfolio",
+      "items": [
+        {
+          "label": "MS Clinic",
+          "meta": "Yksityislääkäri · +187 % varauksia",
+          "alt": "MS Clinic ihotautiklinikan verkkosivusuunnittelu"
+        },
+        {
+          "label": "ND Group",
+          "meta": "Ketjuklinikka · 6 toimipistettä",
+          "alt": "ND Group ihotautiklinikan verkkosivusuunnittelu"
+        },
+        {
+          "label": "SM Surgical",
+          "meta": "Kirurgia · +230 % lähetteitä",
+          "alt": "SM Surgical ihotautiklinikan verkkosivusuunnittelu"
+        }
+      ]
+    },
+    "process": {
+      "tag": "Prosessimme",
+      "title": "Suoraviivainen, asiantuntijavetoinen prosessi",
+      "description": "Neljä läpinäkyvää vaihetta — ei katoamisia, ei yllätyksiä.",
+      "steps": [
+        {
+          "step": "01",
+          "title": "Kartoitus ja asemointi",
+          "desc": "Klinikan auditointi, potilasprofiilit, kilpailija-analyysi ja konversiotavoitteet."
+        },
+        {
+          "step": "02",
+          "title": "Design-järjestelmä",
+          "desc": "Yksilöllinen typografia, värit, animaatiot ja komponenttikirjasto brändillesi."
+        },
+        {
+          "step": "03",
+          "title": "Toteutus ja SEO",
+          "desc": "Puhdasta koodia, schema-merkinnät ja optimoitu sisältörakenne sijoitusten varmistamiseksi."
+        },
+        {
+          "step": "04",
+          "title": "Julkaisu ja kasvu",
+          "desc": "Analytiikka, konversiotestaus ja jatkuva ylläpito tulosten maksimoimiseksi."
+        }
+      ]
+    }
+  },
+  "testimonial": {
+    "quote": "90 päivän sisällä uudet potilasvarauksemme kasvoivat 3,4-kertaisiksi. Sivusto latautuu välittömästi, löytyy hakukoneissa ja heijastaa vihdoin tarjoamamme hoidon laatua.",
+    "author": "Dr. Nora Whitfield, MD",
+    "role": "MS Clinic · Itsenäinen lääkäri",
+    "imageAlt": "Dr. Nora Whitfield, MD"
+  },
+  "faq": {
+    "tag": "UKK",
+    "title": "Vastauksia kysymyksiinne",
+    "items": [
+      {
+        "q": "Kuinka kauan ihotautiklinikan verkkosivujen tekeminen kestää?",
+        "a": "Tyypillinen aikataulu on 6–10 viikkoa aloituksesta julkaisuun, riippuen sivumäärästä ja sisällön valmiudesta. Etenemme nopeasti selkeiden välitavoitteiden ja viikoittaisten katselmusten avulla."
+      },
+      {
+        "q": "Onko verkkosivusto HIPAA-yhteensopiva?",
+        "a": "Rakennamme sivustot HIPAA-huomioivalla arkkitehtuurilla: salatut lomakkeet, turvallinen hallinnointi BAA-valmiiden kumppanien kanssa ja analytiikka ilman potilastietoja."
+      },
+      {
+        "q": "Omistanko minä designin ja koodin?",
+        "a": "Kyllä. Julkaisun yhteydessä design-tiedostojen, koodin ja sisällön täysi omistusoikeus siirtyy teille. Emme käytä suljettuja järjestelmiä."
+      },
+      {
+        "q": "Mitä on-page SEO sisältää?",
+        "a": "Avainsanoihin perustuvan H1/H2-rakenteen, schema-merkinnät (LocalBusiness, MedicalClinic, FAQ), optimoidut metatiedot, sisäiset linkitykset ja kuvien optimoinnin kaikille sivuille."
+      },
+      {
+        "q": "Tarjoatteko tukea julkaisun jälkeen?",
+        "a": "Kyllä. Ylläpitosuunnitelmamme kattavat päivitykset, tietoturvan, varmuuskopiot, suorituskyvyn seurannan ja kuukausittaiset sisältömuutokset."
+      }
+    ]
+  },
+  "cta": {
+    "tag": "Ilmainen auditointi",
+    "title": "Haluatko ihotautisivuston, joka todella tuo potilaita?",
+    "description": "Kerro meille klinikastasi. Me näytämme, missä nykyinen sivustosi menettää potilaita — ja kuinka korjaamme asian.",
+    "buttonPrimary": "Pyydä ilmainen tarjous",
+    "buttonSecondary": "Ota yhteyttä"
+  },
+  "footer": {
+    "relatedTitle": "Sinua saattaisi kiinnostaa myös:",
+    "relatedLinks": {
+      "redesign": "vanhan sivuston uudistaminen",
+      "costs": "projektien tyypilliset kustannukset",
+      "portfolio": "selaa viimeisimpiä julkaisuja"
+    }
+  }
+}

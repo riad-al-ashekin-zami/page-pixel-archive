@@ -1,0 +1,107 @@
+{
+  "meta": {
+    "title": "Integritetspolicy — Hur vi hanterar din information",
+    "description": "Hur vår studio samlar in, använder, delar och skyddar information från besökare, potentiella kunder och de hudläkarmottagningar vi samarbetar med.",
+    "og": {
+      "title": "Integritetspolicy — Hur vi hanterar din information",
+      "description": "Hur vår studio samlar in, använder, delar och skyddar information från besökare, potentiella kunder och de hudläkarmottagningar vi samarbetar med."
+    },
+    "twitter": {
+      "title": "Integritetspolicy — Hur vi hanterar din information",
+      "description": "Hur vår studio samlar in, använder, delar och skyddar information från besökare, potentiella kunder och de hudläkarmottagningar vi samarbetar med."
+    }
+  },
+  "layout": {
+    "skipToContent": "Hoppa till innehållet"
+  },
+  "hero": {
+    "badge": "Juridiskt · Integritetspolicy",
+    "title": "Integritetspolicy",
+    "description": "Information om hur vi samlar in, använder, delar och skyddar data från besökare, potentiella kunder och de verksamheter vi arbetar med.",
+    "lastUpdated": "Senast uppdaterad:",
+    "lastUpdatedDate": "14 juli 2026"
+  },
+  "sections": {
+    "sidebar": {
+      "title": "Innehåll",
+      "navAriaLabel": "Sektionsnavigering"
+    },
+    "overview": {
+      "title": "1. Översikt",
+      "body": "Denna integritetspolicy förklarar hur vår studio (\"vi\", \"oss\") samlar in och använder information när du besöker vår webbplats, skickar in ett formulär, begär en offert eller anlitar oss för ett projekt. Denna sida underhålls av oss för att besvara vanliga frågor om integritet gällande vår marknadsföringssida och kunduppdrag; den utgör inte en certifiering eller juridisk rådgivning."
+    },
+    "informationWeCollect": {
+      "title": "2. Information vi samlar in",
+      "items": {
+        "provided": {
+          "label": "Information du tillhandahåller:",
+          "text": "namn, kliniknamn, e-post, telefon, projektdetaljer och allt annat du skickar via formulär, e-post eller bokningsverktyg."
+        },
+        "automatic": {
+          "label": "Information som samlas in automatiskt:",
+          "text": "IP-adress, enhets- och webbläsartyp, besökta sidor, hänvisnings-URL och ungefärlig plats – insamlad via cookies och analysverktyg."
+        },
+        "projectData": {
+          "label": "Kundens projektdata:",
+          "text": "inloggningsuppgifter, varumärkestillgångar och innehåll som du delar med oss för att vi ska kunna leverera tjänster enligt ett signerat avtal."
+        }
+      }
+    },
+    "howWeUse": {
+      "title": "3. Hur vi använder informationen",
+      "items": [
+        "Besvara förfrågningar, ta fram offerter och skicka förslag.",
+        "Leverera, fakturera och ge support för de tjänster du anlitar oss för.",
+        "Förbättra vår webbplats, vårt innehåll och våra tjänster.",
+        "Skicka enstaka uppdateringar eller nyhetsbrev när du har valt att prenumerera.",
+        "Uppfylla juridiska krav, skattemässiga skyldigheter och bokföringskrav."
+      ]
+    },
+    "noPhi": {
+      "title": "4. Skyddad hälsoinformation (PHI)",
+      "body": "Denna marknadsföringswebbplats är inte avsedd att samla in skyddad hälsoinformation (PHI). Vänligen skicka inte patientnamn, journaler eller kliniska detaljer via våra kontaktformulär. I de fall ett kunduppdrag avsiktligt hanterar PHI (t.ex. patientportaler eller kliniska intagsformulär), upprättar vi ett separat Business Associate Agreement innan den funktionen tas i bruk."
+    },
+    "sharing": {
+      "title": "5. Hur vi delar information",
+      "body": "Vi säljer inte personuppgifter. Vi delar dem endast med tjänsteleverantörer som hjälper oss med driften – såsom hosting, e-post, analys, bokning, betalningshantering och CRM – och endast i den utsträckning det krävs för att de ska kunna utföra sin funktion. Vi kan också lämna ut information när lagstiftning kräver det eller för att skydda våra rättigheter."
+    },
+    "cookies": {
+      "title": "6. Cookies & analys",
+      "body": "Vi använder cookies och liknande tekniker för nödvändiga webbplatsfunktioner och för att mäta hur webbplatsen används. Du kan styra cookies via dina webbläsarinställningar; att blockera dem kan påverka webbplatsens funktionalitet."
+    },
+    "retention": {
+      "title": "7. Datalagring",
+      "body": "Vi sparar information så länge det är nödvändigt för att tillhandahålla tjänster, följa lagstadgade skyldigheter, lösa tvister och upprätthålla våra avtal. Uppgifter från förfrågningar där avsändaren inte blir kund rensas regelbundet."
+    },
+    "security": {
+      "title": "8. Säkerhet",
+      "body": "Vi använder rimliga administrativa, tekniska och fysiska skyddsåtgärder för att skydda informationen vi hanterar – inklusive krypterad överföring (HTTPS), åtkomstkontroller och leverantörsgranskning. Ingen metod för överföring eller lagring är 100 % säker, och vi kan därför inte garantera absolut säkerhet."
+    },
+    "yourRights": {
+      "title": "9. Dina val och rättigheter",
+      "body": "Beroende på var du bor kan du ha rätt att få tillgång till, korrigera, radera eller flytta dina personuppgifter, samt invända mot eller begränsa viss användning. För att utöva dessa rättigheter, kontakta oss via uppgifterna nedan. Du kan även när som helst avbryta prenumerationen på marknadsföringsmeddelanden via länken i meddelandet."
+    },
+    "thirdPartyLinks": {
+      "title": "10. Länkar till tredje part",
+      "body": "Vår webbplats kan länka till tredje parts webbplatser och verktyg. Deras integritetspolicyer styr deras hantering – vänligen läs igenom dessa innan du lämnar ifrån dig information."
+    },
+    "children": {
+      "title": "11. Barns integritet",
+      "body": "Vår webbplats är riktad mot en företagspublik och är inte avsedd för barn under 13 år. Vi samlar inte medvetet in personuppgifter från barn."
+    },
+    "changes": {
+      "title": "12. Ändringar i denna policy",
+      "body": "Vi kan uppdatera denna integritetspolicy från tid till annan. När vi gör det ändrar vi datumet för \"Senast uppdaterad\" högst upp på sidan. Väsentliga ändringar kommer att lyftas fram på vår webbplats."
+    },
+    "contact": {
+      "title": "13. Kontakta oss",
+      "paragraph": "Har du frågor eller önskemål gällande denna policy eller din information? Kontakta oss via vår kontaktsida så svarar vi så snart som möjligt.",
+      "link": "kontaktsida"
+    }
+  },
+  "cta": {
+    "title": "Frågor kring din integritet?",
+    "subtitle": "Vi svarar på ditt ärende så snabbt som möjligt.",
+    "buttonLabel": "Kontakta oss"
+  }
+}

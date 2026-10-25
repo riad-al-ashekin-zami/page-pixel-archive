@@ -1,0 +1,50 @@
+{
+  "slug": "patient-portal-conversion",
+  "title": "Vstupní formulář pro pacienta, který zdvojnásobil počet objednávek",
+  "excerpt": "Čtyřkrokový vzor formuláře navržený s ohledem na kognitivní zátěž – s daty A/B testování ze tří praxí.",
+  "imageAlt": "Pacient vyplňující vstupní formulář na tabletu v jasné čekárně",
+  "body": [
+    {
+      "text": "Jeden dlouhý formulář je překážkou. Čtyři krátké kroky působí jako konverzace. Tento jediný posun vzoru zdvojnásobil konverzi ve třech testovaných praxích za méně než 60 dní – a je to jedna z nejlevnějších výher v celém marketingovém plánu dermatologie, protože formulář byl jedinou proměnnou, které jsme se dotkli."
+    },
+    {
+      "text": "Důvod, proč čtyřkrokový vzor funguje, je přímočarý: lidé dokončují úkoly, které se zdají být konečné. Dlouhý formulář s 12 viditelnými poli signalizuje dlouhodobý závazek a každé extra požadované pole je další příležitostí pro návštěvníka k zavření záložky. Čtyřkrokový formulář zobrazuje při načtení pouze první pole a vizuální lišta postupu odměňuje každý dokončený krok malou dávkou dopaminu. V době, kdy návštěvník uvidí krok s telefonním číslem, se již emocionálně zavázal k dokončení."
+    },
+    {
+      "heading": "Čtyři kroky"
+    },
+    {
+      "list": [
+        "Krok 1: Co vás sem přivádí? (jednoduchá volba, 4–6 možností)",
+        "Krok 2: Kdy byste chtěli být vyšetřeni? (den + časový rozsah)",
+        "Krok 3: Něco málo o vás (jméno + e-mail)",
+        "Krok 4: Nejlepší telefon pro kontakt (s preferencí času)"
+      ]
+    },
+    {
+      "heading": "Proč záleží na pořadí kroků"
+    },
+    {
+      "text": "Pořadí čtyř kroků není náhodné. První krok zachycuje záměr, což je údaj, který vaše praxe nejvíce potřebuje a který návštěvník nejraději poskytne – nikdo neváhá říct, proč přichází. Druhý krok zachycuje preferenci plánování, což zvyšuje duševní závazek návštěvníka, protože si nyní vizualizoval schůzku ve svém kalendáři. Teprve po těchto dvou závazcích požádáte o identifikační informace."
+    },
+    {
+      "text": "Praxe, které obrátí pořadí – nejprve se ptají na jméno a e-mail – zaznamenají pokles konverze o 30–40 %. Návštěvník se ještě k ničemu nezavázal a 'dejte mi svou e-mailovou adresu' působí transakčně. V okamžiku, kdy požádáte o identifikační informace poté, co si návštěvník již představil schůzku, působí výměna jako konverzace."
+    },
+    {
+      "heading": "Jedno pole, které byste nikdy neměli vyžadovat: telefon"
+    },
+    {
+      "text": "Každý A/B test, který jsme provedli na poli s telefonem, ukázal stejný závěr: požadované telefonní číslo snižuje konverzi o 12–18 %. Přesto téměř každá praxe, kterou onboardujeme, požaduje telefon. Řešením je učinit telefonní číslo volitelné ve formuláři a následně se pro plánování spojit e-mailem. Praxe, které tuto změnu provedou, obvykle si udrží 90 % telefonních dat, která dříve vyžadovaly (lidé je dobrovolně poskytnou) a získají 12–18 % návštěvníků, kteří by jinak odešli."
+    },
+    {
+      "heading": "Metodika testování a co měřit"
+    },
+    {
+      "text": "Neměřte pouze míru vyplnění formuláře. Měřte míru objednaných schůzek a ideálně míru dostavení se na schůzku. Formulář, který se vyplňuje rychleji, ale generuje nedostavení se, není výhra. Instrumentujte trychtýř od reklamy nebo organického prokliku až po objednanou schůzku a A/B testujte čtyřkrokový vzor oproti vašemu stávajícímu dlouhému formuláři po dobu nejméně tří týdnů na variantu, abyste nashromáždili statisticky významný provoz."
+    },
+    {
+      "text": "Jakmile čtyřkrokový vzor překoná základní úroveň (což se téměř vždy stane), zafixujte ho a přejděte k dalšímu testu – obvykle se jedná o text CTA, důvěryhodný soubor nad formulářem nebo potvrzovací e-mail, který se odešle po odeslání. Každý z nich skrývá dalších 5–10 % k nalezení, jakmile je samotný formulář 'z cesty'."
+    }
+  ],
+  "faqs": null
+}

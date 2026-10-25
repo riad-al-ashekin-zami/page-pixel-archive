@@ -1,0 +1,220 @@
+{
+  "meta": {
+    "title": "Maßgeschneidertes Webdesign für Dermatologen — HIPAA-konform & Schnell",
+    "description": "Premium-Webdesign für Einzelpraxen, MVZs, Kinderdermatologie und Mohs-Chirurgie. HIPAA-konform, schnell, SEO-optimiert und auf Conversion fokussiert.",
+    "ogTitle": "Dermatologie-Webdesign — Individuell & Buchungsstark",
+    "ogDescription": "100 % maßgeschneiderte Websites für Hautarztpraxen, OP-Zentren und Mohs-Chirurgie. Optimiert für Patienten und Google.",
+    "jsonLd": {
+      "serviceType": "Dermatology Website Design",
+      "provider": "DW Design",
+      "areaServed": "United States",
+      "description": "Individuelles, HIPAA-konformes und SEO-optimiertes Webdesign exklusiv für dermatologische Fachpraxen."
+    }
+  },
+  "hero": {
+    "badge": "Dermatologie-Webdesign",
+    "title": "Maßgeschneiderte Websites, die Ihren Terminkalender füllen.",
+    "description": "100 % individuelles Design, HIPAA-konforme Entwicklung und On-Page-SEO — entwickelt für Einzelpraxen, MVZs sowie pädiatrische und chirurgische Dermatologie.",
+    "ctaPrimary": "Kostenloses Angebot anfordern",
+    "ctaSecondary": "Gratis Website-Audit",
+    "visual": {
+      "imageAlt": "Modernes Ambiente einer Hautarztpraxis",
+      "secureHeading": "HIPAA-konform · Lighthouse 98",
+      "secureSubheading": "Sichere Formulare, schnelle Ladezeiten",
+      "status": "Live",
+      "statLighthouse": "Lighthouse",
+      "statBookings": "+3,4x Buchungen",
+      "statAverage": "90-Tage Durchschnitt"
+    },
+    "outcomes": {
+      "bookingLift": "Buchungssteigerung",
+      "lighthouse": "Lighthouse",
+      "lcp": "LCP bei 4G",
+      "practices": "Praxen"
+    },
+    "trust": "Über 50 dermatologische Praxen vertrauen uns · Bekannt aus"
+  },
+  "sections": {
+    "audience": {
+      "tag": "Zielgruppe",
+      "title": "Für jede spezialisierte Praxisform",
+      "description": "Von der inhabergeführten Privatpraxis bis hin zu überregionalen OP-Zentren.",
+      "items": [
+        {
+          "label": "Einzelpraxen",
+          "desc": "Boutique-Websites, die Ihre klinische Marke stärken und den Terminkalender füllen."
+        },
+        {
+          "label": "MVZs & Standorte",
+          "desc": "Skalierbare Architektur mit dedizierten Seiten für Standorte, Teams und Sprechzeiten."
+        },
+        {
+          "label": "Kinderdermatologie",
+          "desc": "Empathische, elternfreundliche UX mit klaren Abläufen für Anamnese und Erziehungsberechtigte."
+        },
+        {
+          "label": "Mohs- & Chirurgie",
+          "desc": "Expertendesign zur Vertrauensbildung bei Zuweisern und Selbstzuweisern."
+        }
+      ]
+    },
+    "pillars": {
+      "tag": "Was Premium ausmacht",
+      "title": "Sechs Standards ohne Kompromisse",
+      "description": "Design, Technik, SEO und Compliance — von Beginn an als Einheit konzipiert.",
+      "items": [
+        {
+          "title": "100 % Individuelles Design",
+          "desc": "Keine Templates. Jeder Bereich und jede Interaktion wird exklusiv für Ihre Klinik entworfen."
+        },
+        {
+          "title": "Lighthouse 95+",
+          "desc": "Performance-fokussiert — optimierte Image-Pipelines, Edge Caching und schlankes JS."
+        },
+        {
+          "title": "On-Page SEO",
+          "desc": "Semantisches HTML, Schemas und Content-Struktur für lokale und medizinische Suchanfragen."
+        },
+        {
+          "title": "HIPAA-konform",
+          "desc": "Sichere Formulare, kein Abfluss von Patientendaten, Audit-fähiger Stack, BAA-bereite Partner."
+        },
+        {
+          "title": "Full Responsive",
+          "desc": "Pixelgenau auf Desktop, Tablet und Smartphone. Auf echten Endgeräten getestet."
+        },
+        {
+          "title": "Barrierefreiheit (WCAG AA)",
+          "desc": "Tastaturbedienbar, kontraststark und Screenreader-optimiert — inklusiv per Standard."
+        }
+      ]
+    },
+    "medicalServices": {
+      "tag": "Medizinisches Leistungsspektrum",
+      "title": "Leistungsseiten, die ranken und überzeugen",
+      "description": "Individuelle, SEO-optimierte Unterseiten für jede Behandlung — medizinisch präzise, verständlich erklärt und mit starken Call-To-Actions.",
+      "features": [
+        "Medizinisch geprüfte Inhaltsstruktur",
+        "Keyword-optimierte H1 / H2 / FAQ-Bereiche",
+        "Sichere HIPAA-Kontaktformulare",
+        "Schnelle, indexierbare Mobile-First-Templates"
+      ],
+      "list": [
+        "Akne-Therapie",
+        "Ekzem-Behandlung",
+        "Psoriasis (Schuppenflechte)",
+        "Hautinfektionen",
+        "Allergologie",
+        "Hautkrebsvorsorge & Therapie",
+        "Muttermaldiagnostik & Entfernung",
+        "Zysten- & Lipomentfernung",
+        "Warzenbehandlung",
+        "Nagelerkrankungen",
+        "Haarausfall-Therapie",
+        "Kopfhauterkrankungen",
+        "Rosazea-Behandlung",
+        "Hyperpigmentierung & Melasma",
+        "Narbenkorrektur",
+        "Brandnarben-Therapie",
+        "Vitiligo-Behandlung",
+        "Hautbiopsien & Diagnostik"
+      ]
+    },
+    "portfolio": {
+      "tag": "Referenzen",
+      "title": "Erfolgreich gelaunchte Projekte",
+      "viewAll": "Gesamtes Portfolio ansehen",
+      "items": [
+        {
+          "label": "MS Clinic",
+          "meta": "Einzelpraxis · +187 % Buchungen",
+          "alt": "Webdesign für MS Clinic"
+        },
+        {
+          "label": "ND Group",
+          "meta": "MVZ · 6 Standorte",
+          "alt": "Webdesign für ND Group"
+        },
+        {
+          "label": "SM Surgical",
+          "meta": "Chirurgie · +230 % Überweisungen",
+          "alt": "Webdesign für SM Surgical"
+        }
+      ]
+    },
+    "process": {
+      "tag": "Unser Prozess",
+      "title": "Strukturiert zum Erfolg",
+      "description": "Vier transparente Phasen — keine Überraschungen, volle Klarheit.",
+      "steps": [
+        {
+          "step": "01",
+          "title": "Strategie & Positionierung",
+          "desc": "Praxis-Audit, Patient-Personas, Wettbewerbsanalyse und Conversion-Ziele."
+        },
+        {
+          "step": "02",
+          "title": "Design-System",
+          "desc": "Maßgeschneiderte Typografie, Farbwelt und Komponenten-Library für Ihre Marke."
+        },
+        {
+          "step": "03",
+          "title": "Entwicklung & SEO",
+          "desc": "Handgeschriebener Code, Markup-Schemas und Bildoptimierung für Top-Rankings."
+        },
+        {
+          "step": "04",
+          "title": "Launch & Wachstum",
+          "desc": "Analytics, CRO-Tests und Wartungsplan für kontinuierliche Patientensteigerung."
+        }
+      ]
+    }
+  },
+  "testimonial": {
+    "quote": "Innerhalb von 90 Tagen stiegen unsere Neupatientenbuchungen um das 3,4-fache. Die Seite lädt sofort, rankt lokal hervorragend und spiegelt endlich unsere Behandlungsqualität wider.",
+    "author": "Dr. Nora Whitfield, MD",
+    "role": "MS Clinic · Inhaberin",
+    "imageAlt": "Dr. Nora Whitfield, MD"
+  },
+  "faq": {
+    "tag": "FAQ",
+    "title": "Häufige Fragen",
+    "items": [
+      {
+        "q": "Wie lange dauert die Erstellung einer individuellen Website?",
+        "a": "In der Regel benötigen wir 6–10 Wochen von der Strategie bis zum Launch, abhängig vom Umfang. Dank strukturierter Milestones und wöchentlicher Reviews kommen wir zügig voran."
+      },
+      {
+        "q": "Ist die Website HIPAA-konform?",
+        "a": "Ja, wir nutzen eine HIPAA-konforme Architektur: verschlüsselte Formulare, sicheres Hosting bei BAA-Partnern, keine Patientendaten in Analytics und Audit-Sicherheit bei Anfragen."
+      },
+      {
+        "q": "Gehören Design und Code mir?",
+        "a": "Ja. Nach dem Launch gehen alle Design-Dateien, der Code und die Inhalte vollständig in Ihr Eigentum über. Kein Lock-in, kein proprietäres CMS."
+      },
+      {
+        "q": "Was umfasst das On-Page SEO?",
+        "a": "Keyword-optimierte H1/H2-Strukturen, Schema-Markup (LocalBusiness, MedicalClinic, FAQ), optimierte Meta-Tags sowie interne Verlinkungen und Bildoptimierung auf allen Seiten."
+      },
+      {
+        "q": "Bieten Sie Support nach dem Launch an?",
+        "a": "Ja. Unsere Wartungstarife decken Updates, Sicherheit, Backups, Uptime-Monitoring, Performance-Optimierung und monatliche Content-Pflege ab."
+      }
+    ]
+  },
+  "cta": {
+    "tag": "Gratis Website-Audit",
+    "title": "Bereit für eine Website, die Ihre Praxis füllt?",
+    "description": "Erzählen Sie uns von Ihrer Praxis. Wir zeigen Ihnen genau, wo Ihre aktuelle Seite Patienten verliert — und wie wir das ändern.",
+    "buttonPrimary": "Kostenloses Angebot anfordern",
+    "buttonSecondary": "Kontakt aufnehmen"
+  },
+  "footer": {
+    "relatedTitle": "Weitere interessante Themen:",
+    "relatedLinks": {
+      "redesign": "Modernisierung veralteter Websites",
+      "costs": "Kostenfaktoren bei Design-Projekten",
+      "portfolio": "Aktuelle Projekte ansehen"
+    }
+  }
+}

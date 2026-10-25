@@ -1,0 +1,99 @@
+{
+  "cta": {
+    "eyebrow": "Bezpłatny Audyt Strony",
+    "headingLead": "Gotowy, aby rozwinąć swój",
+    "headingHighlight": "gabinet dermatologiczny",
+    "headingTailShort": " online?",
+    "headingTailLong": " online?",
+    "descriptionShort": "Uzyskaj bezpłatny audyt strony internetowej i spersonalizowany plan rozwoju – bez dodatkowych kosztów.",
+    "descriptionLong": "Uzyskaj bezpłatny audyt strony internetowej. Przeanalizujemy Twoją stronę, zidentyfikujemy luki w rozwoju i opracujemy plan – bez żadnych kosztów.",
+    "button": "Uzyskaj bezpłatną wycenę",
+    "trustedBy": "Zaufany przez dermatologów na całym świecie"
+  },
+  "brand": {
+    "logoAlt": "Dermatology Website Design",
+    "homeAria": "Dermatology Website Design — Strona główna",
+    "tagline": "Strony internetowe stworzone wyłącznie dla dermatologów i klinik dermatologicznych. Strony kompatybilne z HIPAA, zoptymalizowane pod kątem SEO, skoncentrowane na konwersji, zaprojektowane, aby pomóc praktykom rozwijać się online.",
+    "whatsappLabel": "Czatuj z nami na WhatsApp",
+    "whatsappCta": "Czat na WhatsApp",
+    "location": "Obsługujemy gabinety dermatologiczne na całym świecie"
+  },
+  "columns": {
+    "services": "Usługi",
+    "company": "Firma",
+    "resources": "Zasoby",
+    "legal": "Prawne"
+  },
+  "services": {
+    "websiteDesign": "Projektowanie Stron Internetowych",
+    "websiteRedesign": "Przebudowa Stron Internetowych",
+    "websiteMigration": "Migracja Stron Internetowych",
+    "websiteManagement": "Zarządzanie Stronami Internetowymi",
+    "ecommerce": "Strona E-Commerce",
+    "socialMedia": "Zarządzanie Mediami Społecznościowymi"
+  },
+  "company": {
+    "about": "O nas",
+    "process": "Nasz Proces",
+    "caseStudies": "Studia Przypadków",
+    "contact": "Skontaktuj się z nami"
+  },
+  "resources": {
+    "blog": "Blog",
+    "faq": "FAQ",
+    "audit": "Bezpłatny Audyt Strony",
+    "auditBadge": "BEZPŁATNE",
+    "checklists": "Listy kontrolne",
+    "patientPortal": "Portal Pacjenta",
+    "addOns": "Dodatkowe Usługi"
+  },
+  "legal": {
+    "serviceAgreement": "Umowa o Świadczenie Usług",
+    "privacy": "Polityka Prywatności",
+    "terms": "Warunki Usługi",
+    "refund": "Polityka Zwrotów",
+    "cookies": "Polityka Plików Cookies"
+  },
+  "hipaaBadge": {
+    "title": "Zgodność z HIPAA",
+    "note": "Prywatność i bezpieczeństwo wbudowane w każdą stronę"
+  },
+  "trustBadges": {
+    "hipaa": {
+      "label": "Zgodność z HIPAA",
+      "note": "Projekt priorytetowo traktujący zgodność"
+    },
+    "ada": {
+      "label": "Dostępność ADA",
+      "note": "Zgodność z WCAG 2.1"
+    },
+    "ssl": {
+      "label": "Zabezpieczone SSL",
+      "note": "256-bitowe Szyfrowanie"
+    },
+    "seo": {
+      "label": "Zoptymalizowane pod SEO",
+      "note": "Wyższa pozycja w rankingu Google"
+    },
+    "mobile": {
+      "label": "Przyjazne dla urządzeń mobilnych",
+      "note": "Idealne na wszystkich urządzeniach"
+    },
+    "speed": {
+      "label": "Szybkie ładowanie",
+      "note": "Wynik Lighthouse 95+"
+    }
+  },
+  "bottom": {
+    "copyright": "© 2026 {{brand}}.",
+    "brand": "Dermatology Website Design",
+    "rights": "Wszelkie prawa zastrzeżone.",
+    "madeWith": "Wykonane z",
+    "madeFor": "dla gabinetów dermatologicznych",
+    "backToTop": "Wróć na górę"
+  },
+  "compliance": {
+    "heading": "Informacja o zgodności",
+    "body": "Tworzymy strony internetowe zgodne z HIPAA i wdrażamy najlepsze praktyki w zakresie bezpieczeństwa. Klienci są odpowiedzialni za zapewnienie, że ich praktyka jest zgodna ze wszystkimi obowiązującymi przepisami dotyczącymi opieki zdrowotnej i wymaganiami prawnymi, w tym za uzyskanie podpisanej Umowy Współpracy Biznesowej (BAA), w przypadku przetwarzania Chronionych Informacji Zdrowotnych (PHI). Treści na tej stronie mają wyłącznie charakter informacyjny i nie stanowią porady medycznej, prawnej ani finansowej. Wyniki z usług marketingowych, SEO i konwersji różnią się w zależności od praktyki, rynku i włożonego wysiłku, i nie są gwarantowane. Wszystkie nazwy, logo i znaki towarowe stron trzecich należą do ich odpowiednich właścicieli i są używane wyłącznie w celach identyfikacyjnych."
+  }
+}

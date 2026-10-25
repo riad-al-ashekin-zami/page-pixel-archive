@@ -1,0 +1,72 @@
+{
+  "growthKpi": {
+    "header": "Projektor růstu",
+    "bookingLift": "{{pct}}% nárůst rezervací",
+    "projectedRevenueLabel": "Předpokládaný roční přidaný příjem",
+    "roiSuffix": "× návratnost měsíční investice",
+    "bookedVisitsCaption": "Zarezervované návštěvy · předpověď na 8 měsíců",
+    "addedPerMonth": "+{{n}}/měsíc",
+    "monthlyInvestment": "Měsíční investice",
+    "currentMonthlyVisits": "Současné měsíční návštěvy",
+    "kpi": {
+      "newVisits": "Nové návštěvy/měsíc",
+      "totalVisits": "Celkové návštěvy/měsíc",
+      "monthlyRevenue": "Měsíční příjem"
+    }
+  },
+  "cpc": {
+    "header": "Kalkulačka CPC",
+    "badge": "benchmarkováno",
+    "costPerBookedLabel": "Předpokládané náklady na rezervovanou návštěvu",
+    "bookedVisitsSuffix": "· {{n}} rezervovaných návštěv/měsíc",
+    "serviceLineLabel": "Servisní linka",
+    "avgCpcSuffix": "prům. CPC",
+    "monthlySpend": "Měsíční výdaje za média",
+    "kpi": {
+      "clicks": "Kliknutí/měsíc",
+      "leads": "Leady/měsíc",
+      "avgCpc": "Prům. CPC"
+    },
+    "footer": "{{booked}} rezervovaných návštěv · {{cost}} za každou",
+    "footerBadge": "odhad.",
+    "services": {
+      "acne": "Léčba akné",
+      "mohs": "Mohsova chirurgie",
+      "aesthetic": "Aesthetic / kosmetické",
+      "general": "Obecná dermatologie"
+    }
+  },
+  "radius": {
+    "header": "Plánovač servisní oblasti",
+    "radiusBadge": "{{n}} mil. rádius",
+    "mapCaption": "Vaše klinika · {{n}} mil",
+    "sliderAria": "Servisní rádius v mílích",
+    "sliderMin": "{{n}} mil",
+    "sliderMax": "{{n}} mil",
+    "kpi": {
+      "residents": "Obyvatelé dosaženi",
+      "searches": "Místní vyhledávání",
+      "visits": "Potenciální návštěvy"
+    },
+    "coveragePrefix": "Pokrytí napříč",
+    "coverageSuffix": "— seřazeno podle mřížky pro každé PSČ uvnitř kruhu."
+  },
+  "rank": {
+    "header": "Sledování pozic v reálném čase",
+    "live": "živě",
+    "fromRank": "z #{{n}}",
+    "quarterFooter": "+{{n}} pozic v tomto čtvrtletí",
+    "updating": "aktualizuje se",
+    "keywords": {
+      "nearMe": "dermatolog poblíž mě",
+      "acneCity": "léčba akné [city]",
+      "aesthetic": "specialista na aesthetic",
+      "mohs": "klinika Mohsovy chirurgie"
+    }
+  },
+  "preloader": {
+    "brandLead": "Návrh webových stránek pro dermatologii",
+    "brandHighlight": "",
+    "tagline": "S ohledem na HIPAA · Zaměřeno na konverze"
+  }
+}

@@ -1,0 +1,458 @@
+{
+  "meta": {
+    "title": "Ihotautien verkkokauppasuunnittelu | HIPAA-huomioidut ihonhoitokaupat",
+    "description": "Ensiluokkaista verkkokauppasuunnittelua ihotautilääkäreille. HIPAA-huomioidut lääke- ja itsehoitotuotteet, tilauspohjaiset täytöt, asiantuntijoiden suosittelemat tuotepaketit ja Product-schema SEO. Suunniteltu ihotautiklinikoille, lääkärikeskuksille ja lääkäriasemien ketjuille.",
+    "og": {
+      "title": "Ihotautien verkkokauppasuunnittelu | HIPAA-huomioidut ihonhoitokaupat",
+      "description": "Myy lääkinnällistä ihonhoitoa, aseta lääkemääräystuotteet ammattilaisen hyväksynnän taakse, hallinnoi tilauksia ja sijoitu hakukoneissa — yksi hallittu kauppapaikka ihotautibrändillesi."
+    },
+    "jsonLd": {
+      "serviceType": "Ihotautien verkkokauppasuunnittelu",
+      "name": "DW Design",
+      "offerDescription": "Ihotautien verkkokauppasuunnittelu — alkaen-hinta"
+    }
+  },
+  "hero": {
+    "badge": "HIPAA-Aware · Lääkemääräysvalmis · Tilausnatiivi",
+    "title": "Ihotautien verkkokauppasuunnittelua klinikoille, jotka haluavat myös myydä.",
+    "description": "Verkkokauppa, jonka klinikkasi ansaitsee. Lääke- (Rx) ja itsehoitotuotteet (OTC) on jaoteltu oikein, asiantuntijan hyväksymät paketit kassalla, aidosti sitouttavat toistuvaistilaukset — ja Product-schema SEO, johon palvelusivusi eivät ikinä yltäisi.",
+    "cta": {
+      "plan": "Suunnittele verkkokauppani",
+      "audit": "Maksuton verkkokauppa-analyysi"
+    },
+    "stats": {
+      "dispensaries": "Verkkoon tuotua klinikkamyymälää",
+      "retention": "Tilausasiakkaiden pysyvyys (90 pv)",
+      "lighthouse": "Lighthouse-pisteet tuotesivuilla"
+    },
+    "mockups": {
+      "otc": "OTC (Itsehoito)",
+      "rxGated": "Lääkemääräyssuojattu",
+      "requirement": "Vaatii ammattilaisen hyväksynnän",
+      "revenueLift": "Keskimääräinen kasvu",
+      "revenueContext": "tuotemyynnissä 6 kk julkaisun jälkeen",
+      "alt": "Ensiluokkainen ihotautien verkkokauppa ja ihonhoitotuotteita"
+    }
+  },
+  "estimator": {
+    "eyebrow": "Interaktiivinen · Tuottoarvio",
+    "title": "Mallinna ensimmäinen vuosineljänneksesi verkossa.",
+    "description": "Liuta valitsimia. Laskelma olettaa, että 22 % aktiivisista potilaista ostaa verkosta 6 kuukauden sisällä ja 35 % heistä tekee jatkuvan tilauksen — tämä on 42 viimeisimmän ihotautikauppamme keskiarvo.",
+    "labels": {
+      "patients": "Aktiiviset potilaat:",
+      "aov": "Tilauksen keskiarvo:",
+      "projected": "Ennuste",
+      "quarterlyHeader": "Verkkokaupan ensimmäisen neljänneksen liikevaihto",
+      "monthly": "Arvioitu kuukausiliikevaihto",
+      "buyers": "Verkko-ostajat / 6 kk",
+      "oneTime": "Kertaluonteinen OTC-myynti (Q1)",
+      "subscription": "Tilausmyynti (Q1)",
+      "discount": "Yhdistetty tilaaja-alennus",
+      "subscribers90": "Arvioidut tilaajat (90 pv)",
+      "disclaimer": "Arviot perustuvat 42 julkaistun ihotautikaupan keskisuoritukseen. Todelliset tulokset riippuvat tuotevalikoimasta, hinnoittelusta ja klinikkamyynnin nykyisestä volyymista."
+    },
+    "chart": {
+      "recurring": "Jatkuva",
+      "ariaLabel": "Liikevaihdon jakautumisen donitsikaavio"
+    }
+  },
+  "sections": {
+    "audiences": {
+      "eyebrow": "Kenelle tämä on",
+      "title": "Rakennettu ihotautibrändeille, joilla on todellinen tuotesarja.",
+      "items": [
+        {
+          "label": "Yksityiset ihotautilääkärit",
+          "desc": "Tuo klinikkamyymäläsi verkkoon ja tarjoa noutomahdollisuus paikan päältä."
+        },
+        {
+          "label": "Monitoimipisteklinikat",
+          "desc": "Yksi tuoteluettelo, toimipistekohtainen varasto ja valittava toimitustapa kassalla."
+        },
+        {
+          "label": "Lasten ihotautilääkärit",
+          "desc": "Vanhemmille suunnatut tuoteluettelot ja ikäryhmän mukainen tuotesuodatus."
+        },
+        {
+          "label": "Mohs- ja kirurgiset verkostot",
+          "desc": "Toimenpiteiden jälkeiset hoitopaketit tilauksena toipumisvaiheiden mukaan ajoitettuna."
+        }
+      ]
+    },
+    "problemSolution": {
+      "eyebrow": "Mitä ratkaisemme",
+      "title": "Useimmat ihotautikaupat ovat vain Shopify-peruspohjia logolla.",
+      "description": "Lääkemääräystuotteet on usein estetty verkkomyynnistä, asiantuntijan hyväksyntä puuttuu ja SEO-rakenne on puutteellinen. Me rakennamme kaupankäynnin ihotautien toimituslogiikan ympärille.",
+      "before": "Ennen",
+      "after": "Jälkeen",
+      "items": [
+        {
+          "before": "Klinikka myy vain paikan päällä",
+          "after": "24/7 verkkokauppa + automaattiset täytöt"
+        },
+        {
+          "before": "Rx-tuotteet estetty verkkomyynnistä",
+          "after": "Ammattilaisvarmennettu Rx-kassa"
+        },
+        {
+          "before": "Tuotesivut piilossa Googlelta",
+          "after": "Product-schema + Merchant Center"
+        },
+        {
+          "before": "Kertaostoksia ilman sitoutumista",
+          "after": "Tilausmalli yli 60 % pysyvyydellä"
+        },
+        {
+          "before": "HIPAA-riski potilastiedoista sivustolla",
+          "after": "Anonymisoidut ID:t + BAA-kattava teknologia"
+        },
+        {
+          "before": "Potilaat arvailevat sopivaa aurinkosuojaa",
+          "after": "Asiantuntijan suosittelemat paketit"
+        }
+      ]
+    },
+    "pillars": {
+      "eyebrow": "Kaupankäyntijärjestelmä",
+      "title": "Kuusi pilaria jokaisen ihotautikauppamme taustalla.",
+      "items": [
+        {
+          "title": "Rx / OTC -jaettu tuoteluettelo",
+          "desc": "Reseptituotteet on suojattu asiantuntijan hyväksynnällä; itsehoitotuotteiden osto pysyy vaivattomana."
+        },
+        {
+          "title": "Automaattiset täydennystilaukset",
+          "desc": "Ohita, tauota, vaihda. Jälkihoitopaketit ja 30/60/90 päivän täytöt tilaajahinnoin."
+        },
+        {
+          "title": "Asiantuntijan suosittelemat paketit",
+          "desc": "Lääkärit kuratoivat paketit potilastietojärjestelmästä — potilaat näkevät \"Lääkärin suositus\" -merkinnän."
+        },
+        {
+          "title": "Product-schema SEO",
+          "desc": "Product-, Offer- ja AggregateRating-skeemat jokaiselle tuotteelle. Google Merchant Center valmiina julkaisussa."
+        },
+        {
+          "title": "HSA / FSA -maksut",
+          "desc": "Merkityt tuotteet, IIAS-yhteensopivat kuvaukset ja eritellyt kuitit potilaita varten."
+        },
+        {
+          "title": "Toimipistekohtainen varasto",
+          "desc": "Lähetys keskusvarastolta tai varaus noudettavaksi potilaan valitsemalta klinikalta."
+        }
+      ]
+    },
+    "architecture": {
+      "eyebrow": "Tuoteluettelon arkkitehtuuri",
+      "title": "Neljä ostopolkua, yksi hallittu kokonaisuus.",
+      "description": "Jokainen tuote luokitellaan yhteen neljästä virrasta. Potilaat kokevat oikeanlaisen ostoprosessin, asiantuntijat näkevät selkeän myynnin ja Google löytää indeksoitavat tuotteet.",
+      "items": [
+        {
+          "type": "OTC · Avoin kassa",
+          "examples": [
+            "Puhdistusaineet",
+            "Kosteusvoiteet",
+            "Aurinkosuojat",
+            "C-vitamiini",
+            "Vartalonhoito"
+          ]
+        },
+        {
+          "type": "Rx · Ammattilaisvarmennettu",
+          "examples": [
+            "Tretinoiini",
+            "Hydrokinoni",
+            "Ivermektiini",
+            "Rx-retinoidit",
+            "Minoksidiili Rx"
+          ]
+        },
+        {
+          "type": "Paketit · Lääkärin suosittelemat",
+          "examples": [
+            "Mohs-jälkihoitopaketti",
+            "Akne-aloituspakkaus",
+            "Anti-aging -setti",
+            "Laser-hoidon jälkeinen toipuminen"
+          ]
+        },
+        {
+          "type": "Tilaukset · Automaattitäyttö",
+          "examples": [
+            "30 pv aurinkosuoja",
+            "60 pv puhdistusaine",
+            "90 pv retinoidi",
+            "Mukautettu aikaväli"
+          ]
+        }
+      ]
+    },
+    "categories": {
+      "eyebrow": "Katetut tuotekategoriat",
+      "title": "Jokaiseen iho-ongelmaan vastaava tuotepolku.",
+      "description": "Kategoriat peilaavat lääketieteellisiä palvelusivujasi, jotta oireiden perusteella saapuvat potilaat löytävät aina sopivan tuotteen tai lääkärin suositteleman paketin.",
+      "items": [
+        "Aknen hoitojärjestelmät",
+        "Ekseeman suojakerroksen korjaus",
+        "Psoriaasin paikallishoidot",
+        "Ihoinfektioiden puhdistusaineet",
+        "Ihoallergiavoiteet",
+        "Ihosyövän aurinkosuojaus",
+        "Luomenpoiston jälkeiset paketit",
+        "Kystien ja lipoomien haavanhoito",
+        "Syylien hoitopaketit",
+        "Kynsisienen hoitoratkaisut",
+        "Hiustenlähdön hoito (Rx)",
+        "Hiuspohjan häiriöiden shampoot",
+        "Rosacean hoito-ohjelmat",
+        "Melasman kirkastus",
+        "Arpien silikonilevyt",
+        "Palovamma-arpien toipuminen",
+        "Vitiligon peittäminen",
+        "Biopsian jälkeinen hoito"
+      ]
+    },
+    "deliverables": {
+      "eyebrow": "Mitä toimitamme",
+      "title": "12 konkreettista julkaisutoimitusta.",
+      "items": [
+        "Hallittu brändin mukainen verkkokaupan design-järjestelmä",
+        "Rx / OTC -jaettu tuoteluettelo ammattilaisvarmennetulla kassalla",
+        "Tilausjärjestelmä (ohita / tauota / vaihda)",
+        "Lääkärin suosittelemien pakettien rakennustyökalu (EHR-kytketty)",
+        "HSA/FSA-kassa IIAS-kuvauksilla",
+        "Toimipistekohtainen varasto + nouto-ohjaus",
+        "Product / Offer / Review -skeemat jokaiselle tuotteelle",
+        "Google Merchant Center + Shopping-syöte",
+        "HIPAA-huomioitu analytiikka (ei potilaan tunnistetietoja)",
+        "Potilasportaali tilauksille ja resepteille",
+        "Core Web Vitals 95+ tuote- ja kategorialistoilla",
+        "Myynnin ja asiakaspidon analytiikkanäkymä"
+      ]
+    },
+    "timeline": {
+      "eyebrow": "Prosessi",
+      "title": "Kuusi virstanpylvästä. Yksi julkaisupäivä.",
+      "items": [
+        {
+          "step": "01",
+          "title": "Tuoteluettelo- ja vaatimustenmukaisuusauditointi",
+          "desc": "Inventoiimme tuotteet, jaamme ne Rx/OTC-luokkiin, kartoitamme HSA/FSA-kelpoisuuden ja sovitamme BAA-laajuuden potilastietojärjestelmään."
+        },
+        {
+          "step": "02",
+          "title": "Alustasuositus",
+          "desc": "Shopify Plus, Headless Shopify tai täysin räätälöity — valitaan liikevaihdon, integraatioiden ja Rx-suojaustarpeiden perusteella."
+        },
+        {
+          "step": "03",
+          "title": "Verkkokaupan Design System",
+          "desc": "Tuotekortit, pakettien rakentajat, tilausvirrat ja lääkärin allekirjoituskomponentit — kaikki uudelleenkäytettävinä elementteinä."
+        },
+        {
+          "step": "04",
+          "title": "Kehitys ja maksujärjestelmät",
+          "desc": "Stripe / Shopify Payments + HSA/FSA, tilausmoottori, ammattilaisvarmennus ja toimipistekohtainen varastonohjaus."
+        },
+        {
+          "step": "05",
+          "title": "SEO + Merchant-syöte",
+          "desc": "Tuoteskeemat, syöte Google Merchant Centeriin, kategorioiden ja tuotteiden indeksointi sekä vanhojen osoitteiden uudelleenohjaukset."
+        },
+        {
+          "step": "06",
+          "title": "Julkaisu + Asiakaspito",
+          "desc": "Ensimmäiset 60 päivää: täyttömuistutukset, lääkärin suosittelemien pakettien käyttöönotto ja reaaliaikainen myyntinäkymä."
+        }
+      ]
+    },
+    "comparison": {
+      "eyebrow": "Miksi emme suosittele vaihtoehtoja",
+      "title": "Tee-se-itse Shopify, yleistoimisto vai erikoistunut ihotautikumppani?",
+      "headers": {
+        "capability": "Ominaisuus",
+        "diy": "Tee-se-itse Shopify",
+        "generic": "Yleistoimisto",
+        "dw": "DW Design",
+        "recommended": "SUOSITELTU"
+      },
+      "rows": [
+        "Rx / OTC -jako ammattilaisvarmennuksella",
+        "HIPAA-huomioitu analytiikkakokonaisuus",
+        "Lääkärin suosittelemat paketit potilastietojärjestelmästä",
+        "Jatkuvat tilaukset (ohitus/tauotus/vaihto)",
+        "HSA/FSA-yhteensopiva kassa",
+        "Product + Review -skeemat jokaiselle tuotteelle",
+        "Toimipistekohtainen nouto-ohjaus",
+        "Lighthouse 95+ tuotesivuilla"
+      ]
+    }
+  },
+  "pricing": {
+    "eyebrow": "Investointi",
+    "title": "Hinnoittelu toimitustapasi mukaan.",
+    "customQuote": "pyydä räätälöity tarjous",
+    "starting": "alkaen",
+    "market": "Markkina",
+    "labels": {
+      "popular": "Suosituin",
+      "getStarted": "Aloita tästä"
+    },
+    "tiers": [
+      {
+        "name": "OTC Starter",
+        "tag": "Klinikkamyynti → verkkoon"
+      },
+      {
+        "name": "Rx + Tilaukset",
+        "tag": "Suosituin"
+      },
+      {
+        "name": "Custom Headless",
+        "tag": "Ketjut & Suuryritykset"
+      }
+    ],
+    "features": {
+      "otc": [
+        "Shopify-verkkokauppa brändijärjestelmällä",
+        "OTC-tuoteluettelo, max 50 tuotetta",
+        "Perustilaukset (30/60/90 pv)",
+        "HSA/FSA-kassa",
+        "Tuoteskeemat + Merchant Center -syöte",
+        "5–7 viikon julkaisu"
+      ],
+      "rx": [
+        "Kaikki OTC Starter -paketin ominaisuudet",
+        "Rx / OTC -jako ammattilaisvarmennuksella",
+        "Lääkärin suosittelemat paketit (EHR-peruslinkki)",
+        "Edistyneet tilaukset (vaihdot, lisämyynti)",
+        "HIPAA-huomioitu analytiikka + BAA",
+        "8–10 viikon julkaisu"
+      ],
+      "headless": [
+        "Kaikki Rx + Tilaukset -paketin ominaisuudet",
+        "Headless Shopify tai räätälöity kauppa",
+        "Täysi EHR + toimipistekohtainen varasto",
+        "Potilasportaali tilauksille ja resepteille",
+        "Asiakaspito- ja liikevaihtonäkymä",
+        "12–16 viikon julkaisu"
+      ]
+    }
+  },
+  "caseStudy": {
+    "eyebrow": "Anonymisoitu asiakastarina",
+    "title": "3 toimipisteen estetiikkaryhmä · 180 päivän tulokset.",
+    "description": "Nimet ja tuotelinjat on poistettu NDA-sopimuksen vuoksi. Luvut on vahvistettu Shopify-raporteista ja Google Merchant Centeristä.",
+    "verified": "Vahvistettu",
+    "metrics": [
+      {
+        "label": "Tuotemyynnin kasvu",
+        "sub": "vs. 6 kk aiempi klinikkamyynti"
+      },
+      {
+        "label": "Tilaajapysyvyys (90 pv)",
+        "sub": "kaikki aktiiviset tilaajat"
+      },
+      {
+        "label": "Ostoskorista tilaukseksi -aste",
+        "sub": "OTC-kassa, mobiili"
+      },
+      {
+        "label": "Median Lighthouse",
+        "sub": "kaikilla tuotesivuilla"
+      }
+    ],
+    "chart": {
+      "title": "Kuukausittainen tuotemyynti",
+      "range": "Ennen julkaisua → Kuukausi 6",
+      "preLaunch": "Ennen julkaisua",
+      "postLaunch": "Julkaisun jälkeen",
+      "anonymized": "Asiakas anonymisoitu"
+    }
+  },
+  "testimonial": {
+    "quote": "Klinikkamyyntimme oli noin 18 000 dollaria kuukaudessa. Kuusi kuukautta verkkokaupan julkaisun jälkeen — oikein toteutetulla Rx-suojauksella ja tilauspohjaisilla jälkihoitopaketeilla — ylitimme 43 000 dollaria pelkästään verkossa, ja 63 % tilaajista oli yhä aktiivisia 90 päivän jälkeen.",
+    "author": "Dr. Ana Morales",
+    "role": "Perustaja, 3 klinikan ihotautiryhmittymä",
+    "initials": "AM"
+  },
+  "faq": {
+    "eyebrow": "Usein kysyttyä",
+    "title": "Vastauksia verkkokauppaan liittyviin kysymyksiin.",
+    "items": [
+      {
+        "q": "Voimmeko myydä vain lääkemääräyksellä saatavia ihonhoitotuotteita verkossa?",
+        "a": "Kyllä — Rx-tuotteet on suojattu ammattilaisen varmennuksella ja aktiivisella potilastiedolla. Tuoteluettelo jaetaan OTC-tuotteisiin ja lääketuotteisiin. Yhdistämme virran potilastietojärjestelmään tai potilasportaaliin, jotta reseptejä ei koskaan lähetetä luvattomille ostajille."
+      },
+      {
+        "q": "Mille alustalle rakennatte — Shopify, räätälöity vai jokin muu?",
+        "a": "Valitsemme alustan asiakaskohtaisesti: Shopify Plus suurille toimijoille, Headless Shopify potilasportaaleja tarvitseville tai täysin räätälöity ratkaisu yrityksille, joilla on monimutkaisia integraatiotarpeita. Suositus annetaan ensimmäisen viikon aikana auditoinnin jälkeen."
+      },
+      {
+        "q": "Miten HIPAA-vaatimukset huomioidaan potilastietojen kohdalla?",
+        "a": "Potilaan tunnistetietoja ei tallenneta verkkokaupan tietokantaan. Rx-tilaukset käyttävät anonymisoitua potilas-ID:tä, joka yhdistetään potilastietojärjestelmään palvelintasoilla BAA-sopimuksen alaisuudessa. Analytiikka ja markkinointipikselit poistetaan Rx-reiteiltä."
+      },
+      {
+        "q": "Asetatteko tilaukset jälkihoitopaketeille ja täytöille?",
+        "a": "Kyllä — puhdistus-, aurinkosuoja- ja retinoidipaketit sekä täydennystilaukset joustavilla ehdoilla. Tilaajat saavat yleensä 15 % alennuksen, ja lääkärit voivat esihyväksyä paketit suoraan potilastietojärjestelmästä."
+      },
+      {
+        "q": "Miten verkkokauppa vaikuttaa lääkäriasemamme SEO-näkyvyyteen?",
+        "a": "Tuotesivut tavoittavat ostoaikomukseen liittyviä avainsanoja, joita palvelusivut eivät kata. Rakenteellinen data (Schema) ja Google Merchant Center -integraatio laajentavat näkyvyyttäsi ilman, että se syö tilaa varsinaisilta lääkäripalveluiltasi."
+      },
+      {
+        "q": "Kuinka kauan ihotautien verkkokaupan julkaisu kestää?",
+        "a": "Vain OTC-tuotteita sisältävä Shopify-toteutus vie 5–7 viikkoa. Rx-suojattu ja integroitu kauppa 8–12 viikkoa. Headless-ratkaisut potilasportaaleilla 12–16 viikkoa. Julkaisupäivä lyödään lukkoon projektin alussa."
+      }
+    ]
+  },
+  "cta": {
+    "alt": "DW — Ihotautien verkkokauppasuunnittelu",
+    "title": "Klinikkasi ansaitsee peruspohjaa paremman verkkokaupan.",
+    "description": "Otamme työn alle vain rajoitetun määrän projekteja vuosineljänneksittään. Jos Rx-varmennus, tilaukset ja HIPAA-tietoturva ovat sinulle tärkeitä, suunnitellaan kokonaisuus ennen alustavalintaa.",
+    "buttons": {
+      "quote": "Pyydä tarjous",
+      "message": "Lähetä viesti"
+    },
+    "branding": "Ihotautien verkkokauppasuunnittelu",
+    "tagline": "Autamme ihotautilääkäreitä kasvamaan verkossa"
+  },
+  "footer": {
+    "exploreNext": "Tutustu myös näihin:",
+    "links": {
+      "design": "klinikan verkkosivusuunnittelu",
+      "seo": "paikallinen hakukonenäkyvyys",
+      "cases": "asiakastarinat"
+    }
+  },
+  "catalog": {
+    "eyebrow": "Tuoteluettelon esikatselu",
+    "title": "Klinikkamyymäläsi, digitaalisesti ja hallitusti.",
+    "description": "Itsehoito, Rx-suojatut ja tilaustuotteet jakavat saman tyylikkään rakenteen — oikea polku oikealle asiakkaalle.",
+    "button": "Lisää",
+    "badges": {
+      "hipaa": "HIPAA-huomioitu",
+      "hsa": "HSA/FSA-kassa",
+      "delivery": "Toimipistekohtainen toimitus",
+      "schema": "Product-schema jokaisessa tuotteessa"
+    },
+    "products": [
+      {
+        "name": "Vitamin C Serum",
+        "note": "30ml · Antioksidantti"
+      },
+      {
+        "name": "Mineral SPF 46",
+        "note": "Päivittäinen · Reef-safe"
+      },
+      {
+        "name": "Retinol 0.5%",
+        "note": "Vain ammattilaisen luvalla"
+      },
+      {
+        "name": "Gentle Cleanser",
+        "note": "Täyttötilaus · säästä 15 %"
+      }
+    ]
+  }
+}

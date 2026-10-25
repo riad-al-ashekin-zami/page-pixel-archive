@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "title": "Dienstleistungsvereinbarung — Vertragsbedingungen",
+    "description": "Die Rahmenbedingungen für Projekte zwischen unserem Studio und dermatologischen Praxen — Leistungsumfang, Ergebnisse, Zahlung, geistiges Eigentum, Vertraulichkeit, Gewährleistung und Kündigung.",
+    "page_title": "Dienstleistungsvereinbarung — Vertragsbedingungen",
+    "page_description": "Die Rahmenbedingungen für Projekte zwischen unserem Studio und dermatologischen Praxen — Leistungsumfang, Ergebnisse, Zahlung, geistiges Eigentum, Vertraulichkeit, Gewährleistung und Kündigung."
+  },
+  "common": {
+    "skip_to_content": "Direkt zum Inhalt springen",
+    "last_updated": "Zuletzt aktualisiert:",
+    "last_updated_date": "14. Juli 2026"
+  },
+  "hero": {
+    "badge": "Rechtliches · Dienstleistungsvereinbarung",
+    "h1": "Service-Rahmenvertrag",
+    "description": "Die verständlich formulierten Bedingungen für Design, Entwicklung und laufende Betreuung zwischen unserem Studio und Ihrer Praxis. Bitte lesen Sie diese Ergänzung zu Ihrem Projektangebot oder Lastenheft sorgfältig durch."
+  },
+  "sections": {
+    "toc_title": "Inhalt",
+    "navigation_aria_label": "Bereichsnavigation",
+    "parties": {
+      "title": "1. Vertragsparteien & Annahme",
+      "body": "Diese Dienstleistungsvereinbarung („Vereinbarung“) wird zwischen unserem Studio („Anbieter“, „wir“, „uns“) und der im zugehörigen Angebot oder Lastenheft genannten Praxis, Einheit oder Einzelperson („Kunde“, „Sie“) geschlossen. Durch die Unterzeichnung eines Angebots, die Zahlung einer Anzahlung oder die Erteilung des Arbeitsauftrags akzeptieren Sie die nachfolgenden Bedingungen."
+    },
+    "scope": {
+      "title": "2. Leistungsumfang",
+      "body": "Die spezifischen Dienstleistungen, Ergebnisse, Meilensteine und Zeitpläne sind im Angebot oder dem Lastenheft (Statement of Work, „SOW“), das auf diese Vereinbarung verweist, definiert. Alles, was über dieses SOW hinausgeht — neue Seiten, zusätzliche Integrationen, extra Korrekturschleifen, Neukonzeption nach Abnahme — wird als Änderungsauftrag (Change Order) behandelt und separat schriftlich angeboten."
+    },
+    "fees": {
+      "title": "3. Gebühren & Zahlungsmodalitäten",
+      "items": [
+        "Eine nicht rückzahlbare Anzahlung von 50 % ist erforderlich, um die Planung und Bearbeitung zu starten.",
+        "Der Restbetrag wird gemäß den im SOW definierten Meilensteinen in Rechnung gestellt; die Endabrechnung ist vor dem Go-Live oder der Dateiübergabe fällig.",
+        "Rechnungen sind innerhalb von 7 Tagen zahlbar. Bei Zahlungsverzug fallen monatliche Zinsen in Höhe von 1,5 % an, und die Arbeiten können bis zum Ausgleich des Saldos pausiert werden.",
+        "Wiederkehrende Leistungen (Hosting, Wartung, Retainer) werden monatlich im Voraus abgerechnet."
+      ]
+    },
+    "timeline": {
+      "title": "4. Zeitplan & Mitwirkungspflichten",
+      "body": "Zeitpläne basieren auf Rückmeldungen zu Entwürfen und Inhalten innerhalb von 3 Werktagen. Verzögerungen beim Feedback, der Inhaltslieferung oder der Genehmigung durch Dritte verschieben den Zeitplan entsprechend Tag für Tag. Sie sind dafür verantwortlich, korrekte Inhalte, Marken-Assets und Zugangsdaten bereitzustellen und sicherzustellen, dass die von Ihnen gelieferten Inhalte wahrheitsgemäß sind und keine Rechte Dritter verletzen."
+    },
+    "revisions": {
+      "title": "5. Korrekturschleifen",
+      "body": "Jedes Arbeitsergebnis beinhaltet zwei konsolidierte Korrekturdurchgänge, sofern im SOW nichts anderes vereinbart wurde. Revisionen, die nach der schriftlichen Abnahme einer Phase angefordert werden oder die Anzahl der inkludierten Durchgänge überschreiten, werden zu unserem jeweils aktuellen Stundensatz abgerechnet."
+    },
+    "ip": {
+      "title": "6. Geistiges Eigentum",
+      "body": "Nach vollständiger Bezahlung sind Sie Eigentümer der speziell für Sie erstellten Endergebnisse — Website-Design, individueller Code und im Rahmen des SOW erstellte Inhalte. Wir behalten die Rechte an bereits existierenden Frameworks, Tools und allgemeinen Komponenten, die beim Aufbau verwendet wurden, und gewähren Ihnen eine dauerhafte Lizenz zu deren Nutzung als Teil Ihres Projekts. Wir sind berechtigt, die fertige Arbeit in unserem Portfolio und in Fallstudien zu präsentieren, sofern Sie dem nicht schriftlich widersprechen."
+    },
+    "third_party": {
+      "title": "7. Dienste Dritter",
+      "body": "Projekte können von Diensten Dritter abhängen (Hosting, CMS, Analytics, EHR/Buchungs-Integrationen, DNS, Zahlungsabwickler). Sie sind für deren Gebühren und die Zustimmung zu deren Bedingungen verantwortlich. Wir haften nicht für Ausfälle, Änderungen oder Mängel, die durch Drittanbieter verursacht werden."
+    },
+    "hipaa": {
+      "title": "8. Datenschutz & HIPAA-Konformität",
+      "body": "Unsere Standard-Websites sind HIPAA-aware konzipiert: Sie vermeiden die Erfassung geschützter Gesundheitsdaten (PHI) in Formularen, Trackern oder Logs. Falls ein Projekt explizit zur Verarbeitung von PHI dient (z. B. Patientenportale, Aufnahmeformulare mit klinischen Daten), schließen die Parteien vor der Liveschaltung eine separate Vereinbarung zur Auftragsverarbeitung („BAA“ / Business Associate Agreement) ab. Sie sind dafür verantwortlich, Drittanbieter-Tools, die Sie nach der Übergabe hinzufügen, HIPAA-konform zu konfigurieren."
+    },
+    "confidentiality": {
+      "title": "9. Vertraulichkeit",
+      "body": "Jede Partei wird die nicht-öffentlichen geschäftlichen, finanziellen, patientenbezogenen und technischen Informationen der jeweils anderen Partei vertraulich behandeln und nur zur Erfüllung dieser Vereinbarung verwenden. Die Vertraulichkeitspflichten bestehen auch nach Beendigung des Vertrages fort."
+    },
+    "warranty": {
+      "title": "10. Gewährleistung & Haftungsausschluss",
+      "body": "Wir garantieren, dass die Dienstleistungen professionell und gemäß den branchenüblichen Standards erbracht werden. Für einen Zeitraum von 30 Tagen nach dem Launch beheben wir Mängel an dem von uns erstellten Code kostenlos. Darüber hinausgehende Nachbesserungen fallen unter einen Wartungsplan oder werden nach Aufwand berechnet. Sofern nicht ausdrücklich anders angegeben, werden Dienste und Ergebnisse im Ist-Zustand („as-is“) erbracht; wir schließen jegliche weitergehende Gewährleistung aus."
+    },
+    "liability": {
+      "title": "11. Haftungsbeschränkung",
+      "body": "Soweit gesetzlich zulässig, haftet keine der Parteien für indirekte Schäden, Folgeschäden oder entgangenen Gewinn. Unsere Gesamthaftung im Rahmen dieser Vereinbarung ist auf die Gebühren begrenzt, die Sie in den drei (3) Monaten vor der Anspruchstellung an uns gezahlt haben."
+    },
+    "termination": {
+      "title": "12. Kündigung",
+      "body": "Jede Partei kann bei einer wesentlichen Vertragsverletzung kündigen, wenn diese nicht innerhalb von 14 Tagen nach schriftlicher Mahnung behoben wird. Bei einer ordentlichen Kündigung Ihrerseits bleiben Sie für alle bis zum Kündigungsdatum abgeschlossenen Arbeiten und angefallenen Kosten zahlungspflichtig; die Anzahlung wird nicht erstattet. Für wiederkehrende Pläne gilt eine schriftliche Kündigungsfrist von 30 Tagen."
+    },
+    "misc": {
+      "title": "13. Anwendbares Recht & Sonstiges",
+      "body": "Diese Vereinbarung unterliegt dem Recht des im SOW angegebenen Gerichtsstandes. Sie stellt die gesamte Vereinbarung zwischen den Parteien zu diesem Thema dar und ersetzt alle vorherigen Absprachen. Sollte eine Bestimmung unwirksam sein, bleibt der Rest des Vertrages in Kraft. Änderungen bedürfen der Schriftform und der Unterzeichnung durch beide Parteien."
+    }
+  },
+  "cta": {
+    "title": "Fragen zu diesen Bedingungen?",
+    "description": "Gerne gehen wir vor der Unterzeichnung jede Klausel persönlich mit Ihnen durch.",
+    "button": "Kontaktieren Sie uns"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "cta": {
+    "eyebrow": "Gratis webbplatsrevision",
+    "headingLead": "Redo att utveckla din",
+    "headingHighlight": "dermatologiska praktik",
+    "headingTailShort": "?",
+    "headingTailLong": " online?",
+    "descriptionShort": "Få en gratis webbplatsrevision och en anpassad tillväxtplan – helt utan kostnad.",
+    "descriptionLong": "Få en gratis webbplatsrevision. Vi granskar din webbplats, identifierar tillväxtmöjligheter och skapar en plan – helt utan kostnad.",
+    "button": "Få en gratis offert",
+    "trustedBy": "Betrodda av dermatologer över hela världen"
+  },
+  "brand": {
+    "logoAlt": "Dermatology Website Design",
+    "homeAria": "Dermatology Website Design — Hem",
+    "tagline": "Webbplatser byggda exklusivt för dermatologer och hudkliniker. HIPAA-medvetna, SEO-optimerade, konverteringsfokuserade webbplatser utformade för att hjälpa praktiker att växa online.",
+    "whatsappLabel": "Chatta med oss på WhatsApp",
+    "whatsappCta": "Chatta på WhatsApp",
+    "location": "Betjänar dermatologiska praktiker över hela världen"
+  },
+  "columns": {
+    "services": "Tjänster",
+    "company": "Företag",
+    "resources": "Resurser",
+    "legal": "Juridisk"
+  },
+  "services": {
+    "websiteDesign": "Webbdesign",
+    "websiteRedesign": "Omdesign av webbplats",
+    "websiteMigration": "Webbplatsmigrering",
+    "websiteManagement": "Webbplatshantering",
+    "ecommerce": "E-handelswebbplats",
+    "socialMedia": "Hantering av sociala medier"
+  },
+  "company": {
+    "about": "Om oss",
+    "process": "Vår process",
+    "caseStudies": "Fallstudier",
+    "contact": "Kontakta oss"
+  },
+  "resources": {
+    "blog": "Blogg",
+    "faq": "FAQ",
+    "audit": "Gratis webbplatsrevision",
+    "auditBadge": "GRATIS",
+    "checklists": "Checklistor",
+    "patientPortal": "Patientportal",
+    "addOns": "Tilläggstjänster"
+  },
+  "legal": {
+    "serviceAgreement": "Serviceavtal",
+    "privacy": "Integritetspolicy",
+    "terms": "Användarvillkor",
+    "refund": "Återbetalningspolicy",
+    "cookies": "Cookiepolicy"
+  },
+  "hipaaBadge": {
+    "title": "HIPAA-medveten",
+    "note": "Sekretess och säkerhet inbyggt i varje webbplats"
+  },
+  "trustBadges": {
+    "hipaa": {
+      "label": "HIPAA-medveten",
+      "note": "Efterlevnad först-design"
+    },
+    "ada": {
+      "label": "ADA Tillgänglig",
+      "note": "WCAG 2.1 Kompatibel"
+    },
+    "ssl": {
+      "label": "SSL Säker",
+      "note": "256-bitars kryptering"
+    },
+    "seo": {
+      "label": "SEO Optimerad",
+      "note": "Rankas högre på Google"
+    },
+    "mobile": {
+      "label": "Mobilvänlig",
+      "note": "Perfekt på alla enheter"
+    },
+    "speed": {
+      "label": "Snabb laddning",
+      "note": "95+ Lighthouse Score"
+    }
+  },
+  "bottom": {
+    "copyright": "© 2026 {{brand}}.",
+    "brand": "Dermatology Website Design",
+    "rights": "Alla rättigheter förbehålls.",
+    "madeWith": "Gjord med",
+    "madeFor": "för dermatologiska praktiker",
+    "backToTop": "Tillbaka till toppen"
+  },
+  "compliance": {
+    "heading": "Efterlevnadsmeddelande",
+    "body": "Vi bygger HIPAA-medvetna webbplatser och implementerar bästa praxis för säkerhetsåtgärder. Kunder är ansvariga för att säkerställa att deras praktik följer alla tillämpliga hälsovårdsbestämmelser och lagkrav, inklusive att erhålla ett undertecknat Business Associate Agreement (BAA) där Protected Health Information (PHI) behandlas. Innehållet på denna webbplats är endast för informationsändamål och utgör inte medicinsk, juridisk eller finansiell rådgivning. Resultat från marknadsförings-, SEO- och konverteringstjänster varierar beroende på praktik, marknad och insats, och garanteras inte. Alla tredjepartsnamn, logotyper och varumärken tillhör sina respektive ägare och används endast för identifiering."
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "meta": {
+    "title": "Návrh a vývoj pacientských portálů pro dermatologii | HIPAA-compliant",
+    "description": "Zakázkový vývoj dermatologických portálů splňujících HIPAA: online rezervace, zabezpečené zprávy, teledermatologie, e-formuláře, platby, recepty a integrace s EHR. Pro soukromé praxe i kliniky.",
+    "og_title": "Návrh a vývoj pacientských portálů pro dermatologii",
+    "og_description": "Pacientské portály s certifikací HIPAA navržené pro dermatology – rezervace, zprávy, teledermatologie, e-příjem, platby faktur a integrace EHR.",
+    "twitter_title": "Návrh a vývoj pacientských portálů pro dermatologii",
+    "twitter_description": "Pacientské portály splňující HIPAA standardy, navržené na míru dermatologickým praxím.",
+    "jsonLd": {
+      "serviceType": "Návrh a vývoj pacientských portálů pro dermatologii",
+      "provider": "DermatologyWebsiteDesign.com",
+      "areaServed": "United States",
+      "description": "Návrh a vývoj pacientských portálů splňujících normy HIPAA pro dermatologické kliniky.",
+      "breadcrumb_home": "Domů",
+      "breadcrumb_services": "Služby",
+      "breadcrumb_portal": "Pacientský portál"
+    }
+  },
+  "hero": {
+    "badge": "Pacientský portál pro dermatologii",
+    "title_start": "Pacientský portál, který vaše dermatologická ambulance ",
+    "title_highlight": "bude skutečně chtít používat.",
+    "description": "Zakázkové portály splňující HIPAA s rezervacemi 24/7, zabezpečenou komunikací, teledermatologií, online formuláři, platbami a hloubkovou integrací EHR – pro sólové lékaře i velké kliniky.",
+    "cta_quote": "Získat nezávaznou nabídku",
+    "cta_features": "Prozkoumat funkce",
+    "stats": [
+      {
+        "value": "4–6 týd.",
+        "label": "Doba spuštění"
+      },
+      {
+        "value": "HIPAA",
+        "label": "Výchozí standard"
+      },
+      {
+        "value": "24/7",
+        "label": "Samoobslužné objednávání"
+      },
+      {
+        "value": "Bez",
+        "label": "Poplatků za pacienta"
+      }
+    ]
+  },
+  "mockPortal": {
+    "header_category": "Pacientský portál",
+    "header_greeting": "Dobré odpoledne, Saro",
+    "status": "Zabezpečeno",
+    "items": [
+      {
+        "label": "Roční kontrola znamének",
+        "meta": "Pá · 14:30 · Dr. Patel"
+      },
+      {
+        "label": "Zpráva od Dr. Nguyenové",
+        "meta": "Výsledek biopsie – benigní ✓"
+      },
+      {
+        "label": "Žádost o e-recept",
+        "meta": "Tretinoin 0.05% · Lékárna Dr. Max"
+      },
+      {
+        "label": "Nedoplatek",
+        "meta": "1 150 Kč · Zaplatit jedním klikem"
+      }
+    ],
+    "footer_encryption": "Šifrováno end-to-end",
+    "footer_biometrics": "Face ID aktivní"
+  },
+  "sections": {
+    "audiences": {
+      "title": "Navrženo pro",
+      "items": [
+        "Soukromé dermatology",
+        "Víceoborové dermatologické kliniky",
+        "Dětskou dermatologii",
+        "Mohsovu a chirurgickou dermatologii"
+      ]
+    },
+    "medical_services": {
+      "title": "Podpora pro všechny úkony",
+      "items": [
+        "Léčba akné",
+        "Léčba ekzémů",
+        "Léčba lupénky",
+        "Léčba kožních infekcí",
+        "Léčba kožních alergií",
+        "Screening a léčba rakoviny kůže",
+        "Vyšetření a odstranění znamének",
+        "Odstranění cyst a lipomů",
+        "Odstranění bradavic",
+        "Léčba onemocnění nehtů",
+        "Léčba vypadávání vlasů",
+        "Léčba onemocnění vlasové pokožky",
+        "Léčba rosacey",
+        "Hyperpigmentace a melasma",
+        "Léčba jizev",
+        "Léčba popáleninových jizev",
+        "Léčba vitiliga",
+        "Kožní biopsie a diagnostika"
+      ]
+    },
+    "metrics": {
+      "items": [
+        {
+          "value": "38 %",
+          "label": "Méně absencí po spuštění portálu"
+        },
+        {
+          "value": "4.9×",
+          "label": "Rychlejší vyřízení požadavků na recepci"
+        },
+        {
+          "value": "22 hod.",
+          "label": "Ušetřený čas personálu týdně"
+        }
+      ]
+    },
+    "testimonial": {
+      "quote": "Naši pacienti konečně přestali volat kvůli přeobjednání. Rezervace, recepty i výsledky biopsií řeší portál – mým asistentkám se uvolnila celá odpoledne.",
+      "author": "MUDr. Priya Desai",
+      "clinic": "Desai Dermatology · 3 pobočky"
+    },
+    "core_features": {
+      "badge": "Klíčové funkce",
+      "title": "Vše, co dermatologický pacient – a vaše recepce – potřebuje.",
+      "description": "Jediné zabezpečené rozhraní pro plánování, komunikaci, klinické procesy a platby – nahradí 5 až 7 roztříštěných nástrojů, se kterými dnes kliniky bojují.",
+      "items": [
+        {
+          "title": "Online rezervace termínů",
+          "desc": "Kalendáře lékařů v reálném čase, předběžná kontrola pojištění a automatické potvrzení – samoobslužný systém, který plní vaši ordinaci."
+        },
+        {
+          "title": "Zabezpečená komunikace s pacienty",
+          "desc": "Obousměrný chat se šifrováním HIPAA mezi pacientem, recepcí a lékařem – včetně historie auditů a potvrzení o přečtení."
+        },
+        {
+          "title": "Digitální příjem a souhlasy",
+          "desc": "Šifrované dotazníky, anamnéza a e-podpisy souhlasů hotové před návštěvou – synchronizované přímo do vašeho EHR."
+        },
+        {
+          "title": "Online platby a vyúčtování",
+          "desc": "Bezpečné platby kartou, splátkové kalendáře a bezpapírová fakturace – vybírejte platby rychleji a s minimálními třecími plochami."
+        },
+        {
+          "title": "Žádosti o recepty (Refills)",
+          "desc": "Žádost o recept na jedno kliknutí směřovaná přímo lékaři, včetně přehledu medikace, alergií a preferované lékárny."
+        },
+        {
+          "title": "Výsledky laboratoře a biopsie",
+          "desc": "Zveřejňujte výsledky patologie a biopsie se srozumitelným shrnutím a poznámkami lékaře, kterým pacienti skutečně porozumí."
+        },
+        {
+          "title": "Teledermatologické konzultace",
+          "desc": "Šifrované HD video s čekárnou, nahráváním fotografií a integrovanou dokumentací – bez nutnosti externích nástrojů."
+        },
+        {
+          "title": "Chytré připomínky a prevence",
+          "desc": "SMS a e-mailové upomínky, pozvánky na roční kontroly a automatické řešení zmeškaných termínů, které zachrání 20–30 % ušlých příjmů."
+        }
+      ]
+    },
+    "security": {
+      "badge": "Bezpečnost a shoda",
+      "title": "Soulad s HIPAA od prvního řádku kódu.",
+      "description": "Nejde o dodatečnou úpravu. Každé architektonické rozhodnutí – hosting, databáze, komunikace, video i analytika – je navrženo pro ochranu PHI a připravenost na audit OCR.",
+      "cta": "Vyžádat dokumentaci o bezpečnosti",
+      "items": [
+        {
+          "title": "Architektura splňující HIPAA",
+          "desc": "Data (PHI) šifrovaná v klidu (AES-256) i při přenosu (TLS 1.3). Smlouvy BAA s každým subdodavatelem."
+        },
+        {
+          "title": "Řízení přístupu podle rolí",
+          "desc": "Detailní oprávnění pro lékaře, sestry, fakturantky a recepci – s kompletním protokolem o přístupech."
+        },
+        {
+          "title": "MFA a biometrické přihlášení",
+          "desc": "Passkeys, Face ID a TOTP pro pacienty i personál. Konec neustálého resetování hesel a phishingu."
+        },
+        {
+          "title": "Přístup pro rodinu a pečující",
+          "desc": "Zastupování pro rodiče, manžele a pečovatele s automatickým zrušením přístupu na základě věku."
+        }
+      ]
+    },
+    "workflow": {
+      "badge": "Jak postupujeme",
+      "title": "Od první schůzky ke spuštění portálu za 4–6 týdnů.",
+      "steps": [
+        {
+          "step": "Krok 01",
+          "title": "Analýza a audit EHR",
+          "desc": "Během 60minutové pracovní schůzky zmapujeme vaše stávající EHR, PMS a pracovní procesy."
+        },
+        {
+          "step": "Krok 02",
+          "title": "Design a branding portálu",
+          "desc": "Uživatelské rozhraní přizpůsobené vaší praxi – žádné generické šablony od prodejců."
+        },
+        {
+          "step": "Krok 03",
+          "title": "Integrace a migrace",
+          "desc": "Propojení EHR, e-receptů, laboratoří a plateb. Čistá migrace pacientských dat."
+        },
+        {
+          "step": "Krok 04",
+          "title": "Zaškolení a spuštění",
+          "desc": "Živé školení personálu, metodiky a 30denní období prioritní podpory po spuštění."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "badge": "Dotazy",
+    "title": "Časté dotazy k portálu",
+    "items": [
+      {
+        "q": "Je pacientský portál v souladu s HIPAA?",
+        "a": "Ano. Každá vrstva – od hostingu po analytiku – splňuje standardy HIPAA. Podepisujeme BAA a dodáváme kompletní dokumentaci ke shoda, šifrování, přístupům a auditům."
+      },
+      {
+        "q": "Integruje se portál s mým EHR systémem?",
+        "a": "Integrujeme se s hlavními dermatologickými EHR (Modernizing Medicine / EMA, Nextech, EZDERM, DrChrono, Athena, eClinicalWorks, Practice Fusion, Epic, Cerner) přes HL7, FHIR nebo API. Pro specifické systémy navrhneme řešení na míru."
+      },
+      {
+        "q": "Mohou se pacienti objednat bez vytvoření účtu?",
+        "a": "Ano. Podporujeme rezervace pro hosty – účet na portálu se vytvoří automaticky po potvrzení prvního termínu a pacient obdrží uvítací e-mail s přihlašovacím odkazem."
+      },
+      {
+        "q": "Jak dlouho trvá implementace?",
+        "a": "Portál pro jednu lokalitu spustíme za 4–6 týdnů. U klinik s více pobočkami a komplexní migrací EHR to obvykle trvá 8–12 týdnů včetně zaškolení."
+      },
+      {
+        "q": "Budeme portál po spuštění vlastnit?",
+        "a": "Ano. Vlastníte kód, obsah, branding i pacientská data. Žádná závislost na dodavateli, žádné poplatky za pacienta. Smlouvu můžete kdykoli ukončit s kompletním exportem dat."
+      },
+      {
+        "q": "Je teledermatologie volitelný doplněk, nebo je v ceně?",
+        "a": "Je zahrnuta v ceně. Odpovídá standardům HIPAA a obsahuje HD video, virtuální čekárnu i sdílení snímků – bez poplatků za jednotlivé hovory."
+      }
+    ]
+  },
+  "cta": {
+    "badge": "Jsme připraveni",
+    "title": "Dopřejte svým pacientům – i své recepci – portál, za který vám poděkují.",
+    "description": "Vyžádejte si ukázku portálu. Projdeme váš technologický stack, stanovíme pevný harmonogram a ještě ten samý den zašleme cenovou nabídku.",
+    "cta_quote": "Získat nezávaznou nabídku",
+    "cta_contact": "Kontaktujte nás"
+  },
+  "footer_related": {
+    "text": "Mohlo by vás zajímat: ",
+    "link_website": "webové stránky pro dermatologii",
+    "link_multi_location": "řešení pro kliniky s více pobočkami",
+    "link_packages": "aktuální balíčky služeb"
+  }
+}

@@ -1,0 +1,327 @@
+{
+  "services": {
+    "eyebrow": "Naše služby",
+    "headingLead": "Vše, co vaše praxe potřebuje k",
+    "headingHighlight": "růstu online.",
+    "intro": "Od zakázkových webových stránek po SEO a akvizici pacientů, každá služba je navržena tak, aby pomohla dermatologickým praxím přilákat, konvertovat a udržet více pacientů online.",
+    "exploreAriaLabel": "Prozkoumejte služby {{title}}",
+    "exploreCta": "Prozkoumejte {{title}}",
+    "mostPopular": "Nejpopulárnější",
+    "footerLead": "Nejste si jisti, kde začít?",
+    "footerHighlight": "Sestavíme plán na míru vaší praxi.",
+    "footerCta": "Získejte bezplatnou cenovou nabídku",
+    "items": {
+      "customWebsite": {
+        "title": "Návrh webových stránek na míru",
+        "description": "Dermatologické stránky zaměřené na konverzi, postavené kolem vaší značky a cesty pacienta."
+      },
+      "redesign": {
+        "title": "Redesign webových stránek",
+        "description": "Modernizujte své stávající stránky s rychlejší dobou načítání, lepším UX a vyšší konverzí."
+      },
+      "migration": {
+        "title": "Migrace webových stránek",
+        "description": "Bezproblémově migrujte své stávající stránky s nulovou odstávkou a bez ztráty hodnoty SEO."
+      },
+      "multiLocation": {
+        "title": "Praxe s více pobočkami",
+        "description": "Škálovatelná architektura a lokální SEO pro kliniky s více ordinacemi."
+      },
+      "ecommerce": {
+        "title": "E-commerce webové stránky",
+        "description": "Prodávejte produkty péče o pleť online s bezpečnou pokladnou a vestavěným inventářem."
+      },
+      "patientPortal": {
+        "title": "Pacientský portál",
+        "description": "Bezpečné, HIPAA-kompatibilní pacientské portály pro příjem, záznamy a komunikaci."
+      },
+      "maintenance": {
+        "title": "Péče a údržba webových stránek",
+        "description": "Průběžné aktualizace, zálohování, zabezpečení a monitorování výkonu pro klid."
+      },
+      "seo": {
+        "title": "SEO pro dermatology",
+        "description": "Umístěte se ve vysoce relevantních vyhledáváních a přiveďte kvalifikované pacienty do své praxe."
+      },
+      "googleAds": {
+        "title": "Google Ads & PPC",
+        "description": "Předvídatelná, měřitelná akvizice pacientů s optimalizovanými reklamními kampaněmi."
+      }
+    }
+  },
+  "pricing": {
+    "eyebrow": "Transparentní ceny",
+    "heading": "Žádné skryté poplatky. Žádné dlouhé smlouvy.",
+    "intro": "Většina agentur skrývá své ceny. My ne – přesně vidíte, co zaplatíte, než s námi vůbec promluvíte.",
+    "mostPopular": "Nejpopulárnější",
+    "startingAt": "Již od ",
+    "seeDetails": "Zobrazit podrobnosti",
+    "fullBreakdown": "Zobrazit kompletní rozpis cen a porovnání funkcí",
+    "tiers": {
+      "starter": {
+        "name": "Starter",
+        "pages": "1 stránka",
+        "description": "Ideální pro nové dermatology, kteří spouštějí své první profesionální webové stránky."
+      },
+      "clinicPro": {
+        "name": "Clinic Pro",
+        "pages": "5–8 stránek",
+        "description": "Ideální pro sólo a malé praxe připravené přilákat více schůzek pacientů."
+      },
+      "practiceGrowth": {
+        "name": "Růst praxe",
+        "pages": "10–15 stránek",
+        "description": "Vytvořeno pro rostoucí kliniky, které potřebují silnější SEO, konverze a dlouhodobý růst."
+      },
+      "enterprise": {
+        "name": "Enterprise",
+        "pages": "15+ stránek / Na míru",
+        "description": "Vlastní řešení pro praxe s více lokalitami, dermatologické skupiny a e-commerce značky péče o pleť."
+      }
+    }
+  },
+  "approach": {
+    "eyebrow": "Metodologie",
+    "headingLead": "Systematický přístup k",
+    "headingHighlight": "udržitelnému růstu pacientů.",
+    "intro": "Precizně navržený, šestifázový rámec speciálně pro rychle rostoucí dermatologické praxe. Klikněte na libovolný krok pro prozkoumání.",
+    "phaseLabel": "Fáze",
+    "stepLabel": "Krok {{n}}",
+    "prevAria": "Předchozí krok",
+    "nextAria": "Další krok",
+    "deliverables": "{{count}} výstupů",
+    "whatHappens": "Co se děje v této fázi",
+    "seeFullProcess": "Podívejte se na celý proces",
+    "steps": {
+      "discovery": {
+        "title": "Objevování a dohoda",
+        "short": "Objevování",
+        "description": "Začíná to, když se na nás obrátíte. Přezkoumáme vaši praxi, sladíme cíle a rozsah a dokončíme jasnou dohodu – aby obě strany přesně věděly, co bude dodáno, než začne jakákoli práce.",
+        "details": [
+          "Počáteční kontakt a revize požadavků",
+          "Rozsah, časový plán a dodávky sladěny",
+          "Transparentní návrh a ceny",
+          "Podepsaná dohoda k postupu"
+        ]
+      },
+      "onboarding": {
+        "title": "Onboarding",
+        "short": "Onboarding",
+        "description": "Po potvrzení platby jste oficiálně onboardováni. Shromažďujeme vše, co potřebujeme – značkové podklady, směr obsahu a přístupy – prostřednictvím plynulého, řízeného předávání.",
+        "details": [
+          "Platba potvrzena a projekt zahájen",
+          "Shromážděné značkové podklady a obsah – nebo vytvořené a navržené námi, pokud je nemáte",
+          "Přístupy a účty bezpečně nastaveny",
+          "Mapa projektu sdílena s vaším týmem"
+        ]
+      },
+      "design": {
+        "title": "Design",
+        "short": "Design",
+        "description": "Přetváříme autoritu vaší praxe do prémiového, značkového vizuálního jazyka – zaměřeného na důvěru, jasnost a bezproblémové objednávání pacientů.",
+        "details": [
+          "Brandingový vizuální design pro každou klíčovou stránku",
+          "UX zaměřené na konverzi pro rezervační toky",
+          "Přístupné, mobilní rozvržení"
+        ]
+      },
+      "build": {
+        "title": "Výstavba",
+        "short": "Výstavba",
+        "description": "Vaše stránky ručně stavíme s vestavěným SEO, výkonem a lékařskou strukturou – takže jsou připraveny k hodnocení a konverzi od prvního dne.",
+        "details": [
+          "Ručně kódované, bleskově rychlé stránky",
+          "Schéma značení pro dermatologické služby",
+          "Optimalizace Core Web Vitals (skóre 95+)",
+          "On-page SEO pro každou službu a lokalitu"
+        ]
+      },
+      "launch": {
+        "title": "Spuštění",
+        "short": "Spuštění",
+        "description": "Vaše stránky jdou do provozu s čistou migrací bez prostojů – analýzy, sledování a kontroly shody jsou plně zavedeny od prvního návštěvníka.",
+        "details": [
+          "Úplná kontrola kvality napříč zařízeními a prohlížeči",
+          "HIPAA-kompatibilní kontrola shody",
+          "Analýzy, sledování a atribuce hovorů",
+          "Migrace bez prostojů a mapování 301"
+        ]
+      },
+      "growth": {
+        "title": "Růst a revize",
+        "short": "Růst",
+        "description": "Po spuštění shromáždíme vaši zpětnou vazbu a podle potřeby ji upřesníme. Odtud se zaměřujeme na skládání růstu – obsah, optimalizaci a reportování měsíc po měsíci.",
+        "details": [
+          "Revize a vylepšení po spuštění",
+          "Průběžný obsah a optimalizace SEO",
+          "Nepřetržité CRO a ladění výkonu",
+          "Transparentní měsíční reporting"
+        ]
+      }
+    }
+  },
+  "whyChoose": {
+    "eyebrow": "Proč nás",
+    "eyebrowSuffix": "— DermatologyWebsiteDesign.com",
+    "headingLead": "Jediná agentura",
+    "headingHighlight": "100% zaměřená na dermatologii",
+    "intro": "Generické webové agentury staví webové stránky. My budujeme pacientovy toky – speciálně navržené pro růst dermatologických praxí.",
+    "reasons": {
+      "pricing": {
+        "title": "Transparentní ceny",
+        "description": "Každý balíček má zveřejněnou cenu. Žádné úvodní hovory nejsou potřeba jen k tomu, abyste se dozvěděli naše sazby. 75 % konkurentů skrývá ceny – my ne."
+      },
+      "niche": {
+        "title": "Specializace pouze na dermatologii",
+        "description": "Nestavíme restaurace ani e-commerce obchody. Důkladně známe soulad s HIPAA, pravidla pro fotky před/po a SEO pro kosmetické zákroky."
+      },
+      "noLockIn": {
+        "title": "Žádná dlouhodobá vazba",
+        "description": "Měsíční plány péče. Žádné 12měsíční smlouvy s agenturou, které vás drží v zajetí. Váš byznys si zasloužíme každý měsíc."
+      },
+      "rank": {
+        "title": "Vytvořeno pro umístění na Google",
+        "description": "Každý web je dodáván s řádným on-page SEO, označením schématu, optimalizací Core Web Vitals a obsahovou strategií – ne jako doplněk, ale jako základ."
+      }
+    }
+  },
+  "whySwitch": {
+    "eyebrow": "Proč praxe přecházejí k nám",
+    "headingLead": "Ne všechny webové agentury jsou",
+    "headingHighlight": "stejně postaveny.",
+    "intro": "Podívejte se, co se změní, když budete spolupracovat s týmem, který se zaměřuje výhradně na dermatologii.",
+    "colWhatMatters": "Na čem záleží",
+    "colOthers": "Většina webových agentur",
+    "colUs": "Dermatologický webový design",
+    "mobileOthersLabel": "Většina agentur",
+    "mobileUsLabel": "Náš přístup",
+    "rows": {
+      "focus": {
+        "matter": "Zaměření odvětví",
+        "others": "Slouží každému odvětví",
+        "us": "100% zaměřeno na dermatologii"
+      },
+      "seo": {
+        "matter": "SEO strategie",
+        "others": "Obecné SEO",
+        "us": "SEO specifické pro dermatologii"
+      },
+      "hipaa": {
+        "matter": "Znalost HIPAA",
+        "others": "Omezené zkušenosti s péčí o zdraví",
+        "us": "Od prvního dne v souladu s předpisy"
+      },
+      "goal": {
+        "matter": "Cíl webových stránek",
+        "others": "Krásné webové stránky",
+        "us": "Více dotazů pacientů"
+      },
+      "afterLaunch": {
+        "matter": "Po spuštění",
+        "others": "Projekt dokončen",
+        "us": "Nepřetržitá podpora a růst"
+      },
+      "pricing": {
+        "matter": "Cenotvorba",
+        "others": "Často individuální nabídky",
+        "us": "Transparentní zveřejněné ceny"
+      }
+    }
+  },
+  "testimonials": {
+    "eyebrow": "Reference",
+    "headingLead": "Důvěřují nám",
+    "headingHighlight": "moderní dermatologické praxe.",
+    "prevAria": "Předchozí reference",
+    "nextAria": "Další reference",
+    "goToSlide": "Přejít na snímek {{n}}",
+    "items": {
+      "sarahM": {
+        "quote": "Naše praxe zaznamenala 40% nárůst dotazů nových pacientů během 3 měsíců od spuštění našeho nového webu. Nastavení souladu s HIPAA bylo hladké – nemuseli jsme se o nic starat.",
+        "role": "Certifikovaný dermatolog",
+        "practice": "RS Institute"
+      },
+      "rajK": {
+        "quote": "Předtím jsem pracoval se třemi webovými agenturami – žádná z nich nerozuměla dermatologii. Tito kluci přesně věděli, jaké stránky s léčbou potřebuji, jak strukturovat galerii před/po a web se nyní umisťuje na první stránce.",
+        "role": "Kosmetický dermatolog",
+        "practice": "LA Dermatology"
+      },
+      "jenniferL": {
+        "quote": "Cena byla předem jasná, časová osa stavby byla přesná a dokonce nám pomohli s nastavením našeho obchodu s produkty péče o pleť. Nejlepší investice, kterou naše praxe za léta udělala.",
+        "role": "Manažerka praxe",
+        "practice": "SC Associates"
+      },
+      "ameliaC": {
+        "quote": "Přepsali každou stránku služby tak, aby skutečně zněla jako naše praxe. Žádosti o konzultaci prostřednictvím webu se od znovuspuštění více než zdvojnásobily.",
+        "role": "Lékařský ředitel",
+        "practice": "ND Group"
+      },
+      "hanaS": {
+        "quote": "Krásné, rychlé a skutečně v souladu se značkou. Pacienti web neustále komentují – nastavuje tón ještě předtím, než vstoupí do dveří.",
+        "role": "Vedoucí dermatolog",
+        "practice": "MS Clinic"
+      },
+      "elliotN": {
+        "quote": "Transparentní měsíční reporting, skutečný SEO pokrok a designový tým, který se umí prosadit, když na tom záleží. Přesně takového partnera jsme doufali najít.",
+        "role": "Řídící partner",
+        "practice": "SD Partners"
+      }
+    }
+  },
+  "freeAudit": {
+    "eyebrow": "Bezplatný audit webových stránek",
+    "headingLead": "Získejte svůj bezplatný",
+    "headingHighlight": "audit dermatologických webových stránek.",
+    "intro": "Zkontrolujeme vaše stávající webové stránky, identifikujeme příležitosti pro SEO, rychlost, design a konverzi, a poté vám do 48 hodin zašleme personalizovaný akční plán – zcela zdarma.",
+    "features": {
+      "actionPlan": "Personalizovaný akční plán",
+      "delivered": "Doručeno do 48 hodin",
+      "free": "Bez závazků, 100% zdarma",
+      "insights": "SEO, rychlost a statistiky konverzí"
+    },
+    "form": {
+      "emailLabel": "Váš pracovní e-mail",
+      "emailPlaceholder": "vy@vašeprax.com",
+      "websiteLabel": "URL aktuálního webu",
+      "websiteOptional": "(nepovinné)",
+      "websitePlaceholder": "vašeprax.com",
+      "submit": "Získat můj bezplatný audit",
+      "sending": "Odesílám…",
+      "privacy": "Váš e-mail nikdy nebudeme sdílet. Žádný spam, nikdy.",
+      "errorInvalidEmail": "Zadejte platný pracovní e-mail",
+      "errorInvalidInput": "Neplatný vstup",
+      "errorGeneric": "Omlouváme se, něco se pokazilo. Zkuste to prosím znovu.",
+      "successTitle": "Žádost přijata.",
+      "successMessage": "Váš personalizovaný audit je na cestě. E-mail s akčním plánem vám zašleme do 48 hodin."
+    }
+  },
+  "faqSnippet": {
+    "eyebrow": "Často kladené",
+    "headingLead": "Odpovědi na",
+    "headingHighlight": "otázky, které slyšíme nejčastěji.",
+    "intro": "Stručný přehled toho, na co se dermatologické praxe ptají, než s námi začnou spolupracovat. Potřebujete více detailů? Kompletní FAQ obsahuje vše.",
+    "seeAll": "Podívat se na všechny časté dotazy",
+    "items": {
+      "timeline": {
+        "q": "Jak dlouho trvá spuštění nového dermatologického webu?",
+        "a": "Většina projektů jde do provozu za 4–6 týdnů – od objevení po spuštění. Časové osy závisí na připravenosti obsahu a rozsahu a my sdílíme jasný týdenní plán během onboardingu."
+      },
+      "hipaa": {
+        "q": "Zajišťujete soulad s HIPAA a ochranu soukromí pacientů?",
+        "a": "Ano. Každá stavba je v souladu s HIPAA: bezpečný hosting, šifrované formuláře, integrace připravené na BAA pro kontakt a příjem a kontrola souladu před spuštěním."
+      },
+      "ranking": {
+        "q": "Pomůže mi můj nový web skutečně umístit se na Google?",
+        "a": "SEO je navrženo od prvního dne – schéma specifické pro dermatologii, stránky služeb a lokalit, Core Web Vitals 95+ a on-page struktura vytvořená pro získání pozic ve vyhledávání, které vede k rezervacím."
+      },
+      "migration": {
+        "q": "Můžete migrovat můj stávající web bez ztráty návštěvnosti?",
+        "a": "Provádíme migraci s nulovými prostoji s kompletním mapováním přesměrování 301, zachováním metadat a auditem procházení po spuštění – takže umístění a referenční návštěvnost se přenese čistě."
+      },
+      "support": {
+        "q": "Jak vypadá průběžná podpora po spuštění?",
+        "a": "Získáte vyhrazeného kontaktního bodu, měsíční reporting, nepřetržité ladění CRO a SEO, plus technickou údržbu – takže web i nadále přináší výsledky, aniž by zastaral."
+      }
+    }
+  }
+}

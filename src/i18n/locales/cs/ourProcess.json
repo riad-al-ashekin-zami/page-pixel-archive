@@ -1,0 +1,395 @@
+{
+  "meta": {
+    "title": "Náš proces – 7 kroků k tvorbě webu pro dermatology | Objevování → Spuštění → Růst",
+    "description": "Náš osvědčený 7fázový proces tvorby webových stránek pro dermatology: Analýza, SEO audit, design, obsah, vývoj, spuštění a následný růst. Pevné termíny, týdenní reporty, HIPAA-first přístup a garance Lighthouse 95+.",
+    "ogTitle": "Náš proces – 7 kroků od úvodní schůzky po růst vaší praxe",
+    "ogDescription": "Transparentní proces s pevnými termíny pro webdesign a SEO v dermatologii. Podívejte se, co přesně se děje týden po týdnu – od první analýzy až po trvalý růst."
+  },
+  "jsonLd": {
+    "breadcrumb": {
+      "home": "Domů",
+      "ourProcess": "Náš proces"
+    },
+    "howTo": {
+      "name": "Proces tvorby dermatologického webu",
+      "description": "7fázový proces pro spuštění vysoce výkonného webu pro dermatologické kliniky."
+    }
+  },
+  "hero": {
+    "badge": "Náš proces",
+    "title": "Od prvního hovoru až k první objednávce pacienta – ",
+    "titleHighlight": "7 kroků a pevný časový plán.",
+    "description": "Žádná tajemství, žádné nečekané náklady ani hodinová překvapení. Každý krok má svůj jasný výstup, garanta a termín – takže přesně víte, na čem tento týden pracujeme a co bude následovat.",
+    "buttons": {
+      "seeSteps": "Prohlédnout 7 kroků",
+      "freeQuote": "Získat nezávaznou nabídku"
+    },
+    "imageAlt": "Iluastrace cesty sedmikrokového procesu se zářícími propojenými body stoupajícími po křivce"
+  },
+  "stats": {
+    "items": [
+      {
+        "num": "7",
+        "suffix": "",
+        "label": "Strukturovaných kroků"
+      },
+      {
+        "num": "6",
+        "suffix": "–10 týd.",
+        "label": "Od startu po spuštění"
+      },
+      {
+        "num": "95",
+        "suffix": "+",
+        "label": "Lighthouse garance"
+      },
+      {
+        "num": "48",
+        "suffix": "h",
+        "label": "Průměrná doba odpovědi"
+      }
+    ]
+  },
+  "sections": {
+    "journeyMap": {
+      "ariaLabel": "Přehled procesu",
+      "subtitle": "Mapa vaší cesty",
+      "title": "Sedm kroků k cíli."
+    },
+    "steps": {
+      "ariaLabel": "Náš proces krok za krokem",
+      "subtitle": "7 fází realizace",
+      "title": "Projděte si celou cestu.",
+      "step": "Krok",
+      "divider": "/",
+      "total": "07",
+      "bulletSeparator": "·",
+      "labels": {
+        "youProvide": "Dodáte vy",
+        "weDeliver": "Dodáme my",
+        "deliverables": "Zahrnuté výstupy",
+        "items": "položek"
+      },
+      "items": [
+        {
+          "n": "01",
+          "title": "Analýza a strategie",
+          "duration": "3–5 dní",
+          "tagline": "Pochopíme vaši praxi dříve, než navrhneme jediný pixel.",
+          "summary": "60minutová strategická konzultace následovaná písemným briefem. Provedeme audit vašeho stávajícího webu, analyzujeme konkurenci a definujeme persony pacientů, priority služeb a konverzní cíle – ještě před zahájením designu.",
+          "deliverables": [
+            "60min strategická konzultace",
+            "Benchmark konkurence a klíčových slov",
+            "Mapování person a záměrů pacientů",
+            "Písemný projektový brief (PDF)",
+            "Mapa webu v1 + osnova obsahu"
+          ],
+          "youProvide": [
+            "Podklady značky (pokud existují)",
+            "Přístup ke stávající analytice",
+            "3 URL adresy konkurentů, kteří se vám líbí"
+          ],
+          "weDeliver": [
+            "Písemný brief",
+            "Návrh s pevně daným rozsahem",
+            "Harmonogram realizace"
+          ]
+        },
+        {
+          "n": "02",
+          "title": "SEO a technický audit",
+          "duration": "2–3 dny",
+          "tagline": "Opravíme trhliny v lodi dříve, než ji postavíme.",
+          "summary": "Při redesignu provádíme kompletní analýzu stávajícího webu – indexaci, Core Web Vitals, profil zpětných odkazů, nedostatky v HIPAA a úzká hrdla konverzí. U nových webů připravujeme mapu příležitostí pro klíčová slova a SERP.",
+          "deliverables": [
+            "Kompletní report technického SEO auditu",
+            "Výsledková listina Core Web Vitals",
+            "Analýza autority a zpětných odkazů",
+            "Revize HIPAA a přístupnosti (WCAG)",
+            "Plán přesměrování původních URL"
+          ],
+          "youProvide": [
+            "Přístup k GSC + GA4 (pouze pro čtení)",
+            "Přihlašovací údaje ke stávajícímu CMS"
+          ],
+          "weDeliver": [
+            "PDF s výsledky auditu",
+            "Seznam prioritních oprav",
+            "Mapa přesměrování"
+          ]
+        },
+        {
+          "n": "03",
+          "title": "Design a prototyp",
+          "duration": "1–2 týdny",
+          "tagline": "Design na míru, žádné šablony, specializace na dermatologii.",
+          "summary": "Navrhneme unikátní vizuální systém – barvy, typografii, ikonografii a knihovnu komponent. Poté vytvoříme klikatelné prototypy ve Figmě pro každou klíčovou stránku. Dvě kola revizí jsou již v ceně.",
+          "deliverables": [
+            "Vlastní design systém (Figma)",
+            "Návrh úvodní strany + 3 šablon podstránek",
+            "Interaktivní klikatelný prototyp",
+            "Varianty pro mobil, tablet a desktop",
+            "Dvě kola revizí v ceně"
+          ],
+          "youProvide": [
+            "Zpětnou vazbu do 48 hodin",
+            "Schválení prostřednictvím komentářů ve Figmě"
+          ],
+          "weDeliver": [
+            "Design systém",
+            "Klikatelný prototyp",
+            "Kontrolní seznam QA pro design"
+          ]
+        },
+        {
+          "n": "04",
+          "title": "Obsah a copywriting",
+          "duration": "1–2 týdny (souběžně)",
+          "tagline": "Odborně správně. Laděno pro konverze.",
+          "summary": "Naši zdravotničtí copywriteři připraví texty v tónu vaší značky – klinicky přesné, srozumitelné pro pacienty a optimalizované pro SEO. Probíhá souběžně s vývojem, takže nezdržuje termín spuštění.",
+          "deliverables": [
+            "SEO optimalizované texty (celý web)",
+            "Obsah pro stránky zákroků (až 15)",
+            "Profily lékařů a certifikace",
+            "Meta titulky a popisky",
+            "Schema markup (LocalBusiness, FAQ)"
+          ],
+          "youProvide": [
+            "Rozhovory s lékaři (30 min na osobu)",
+            "Revizi a věcné schválení"
+          ],
+          "weDeliver": [
+            "Kompletní textový dokument webu",
+            "Sheet se SEO metadaty",
+            "Schema JSON-LD"
+          ]
+        },
+        {
+          "n": "05",
+          "title": "Vývoj a integrace",
+          "duration": "2–4 týdny",
+          "tagline": "Čistý kód. Rychlost. HIPAA od prvního řádku.",
+          "summary": "Sémantické HTML, přístupné komponenty, optimalizace obrázků a Core Web Vitals přímo v jádru kódu. Propojíme a otestujeme všechny integrace – rezervace, EHR systémy, chat a analytiku.",
+          "deliverables": [
+            "Kód produkční kvality (žádné vizuální buildery)",
+            "Integrace rezervací a EHR",
+            "Nastavení GA4 + Search Console",
+            "Optimalizace rychlosti (Lighthouse 95+)",
+            "Přístupnost (WCAG 2.1 AA)"
+          ],
+          "youProvide": [
+            "API klíče pro integrace (dle potřeby)",
+            "Schválení obsahu"
+          ],
+          "weDeliver": [
+            "Staging URL (testovací verze)",
+            "Testovací přístupy",
+            "Kontrolní seznam QA"
+          ]
+        },
+        {
+          "n": "06",
+          "title": "QA, spuštění a předání",
+          "duration": "3–5 dní",
+          "tagline": "Přechod bez výpadku. Dokumentované předání.",
+          "summary": "Provádíme 300bodovou předprovozní kontrolu napříč prohlížeči, zařízeními a formuláři. DNS migrace probíhá podle vašeho harmonogramu s připraveným plánem pro návrat. Obdržíte video-návod a provozní manuál.",
+          "deliverables": [
+            "300bodový QA kontrolní seznam",
+            "Testování v prohlížečích a na zařízeních",
+            "Přechod DNS bez výpadku webu",
+            "Monitoring funkčnosti přesměrování",
+            "45minutové zaškolení"
+          ],
+          "youProvide": [
+            "Přístup k DNS",
+            "Schválený termín spuštění"
+          ],
+          "weDeliver": [
+            "Ostrý web",
+            "Instruktážní video",
+            "Provozní manuál (Playbook)"
+          ]
+        },
+        {
+          "n": "07",
+          "title": "Růst a optimalizace",
+          "duration": "Průběžně (měsíčně)",
+          "tagline": "Spuštění je začátek, nikoliv cílová páska.",
+          "summary": "Měsíční SEO, tvorba obsahu, CRO experimenty a monitoring v rámci zvoleného balíčku. Kvartální revize s vaším osobním manažerem zajistí, že strategie stále odpovídá vašim cílům.",
+          "deliverables": [
+            "Měsíční SEO práce a tvorba obsahu",
+            "CRO experimenty (A/B testování)",
+            "Reporty pozic a konverzí",
+            "Kvartální strategická schůzka",
+            "Vlastní account manažer"
+          ],
+          "youProvide": [
+            "Měsíční 30min synchronizaci",
+            "Schvalování strategických kroků"
+          ],
+          "weDeliver": [
+            "Měsíční report",
+            "Dashboard s výsledky",
+            "Aktualizaci plánu (roadmapy)"
+          ]
+        }
+      ]
+    },
+    "principles": {
+      "subtitle": "Principy našeho procesu",
+      "title": "Šest pravidel, ze kterých neslevíme.",
+      "description": "Každý krok výše vychází z těchto šesti závazků. Právě díky nim se dermatologické projekty nemění v horory, o kterých jste možná slyšeli.",
+      "items": [
+        {
+          "title": "Architektura HIPAA-first",
+          "desc": "Každý formulář a každá integrace je před spuštěním prověřena z hlediska HIPAA. Žádná soukromá data pacientů v analytice."
+        },
+        {
+          "title": "Lighthouse 95+ nebo to opravíme",
+          "desc": "Výkon je podmínkou spuštění, nikoliv bonus. Pokud limit nesplníme, doladíme ho na naše náklady."
+        },
+        {
+          "title": "Jediný kontaktní bod",
+          "desc": "Jeden konkrétní vedoucí projektu od startu až po předání. Žádný kolotoč náhodných manažerů."
+        },
+        {
+          "title": "Revize jsou v ceně",
+          "desc": "Každý balíček obsahuje dvě kola revizí designu a dvě kola vývoje. Žádné skryté poplatky za drobnosti."
+        },
+        {
+          "title": "Pevné termíny, týdenní check-iny",
+          "desc": "Písemný harmonogram při startu. Týdenní hovory o pokroku. Případná zpoždění hlásíme okamžitě, ne v den uzávěrky."
+        },
+        {
+          "title": "Slack kanál místo tiketů",
+          "desc": "Pište týmu kdykoliv napřímo. Naše doba odezvy se měří v hodinách, nikoliv ve dnech."
+        }
+      ]
+    },
+    "comparison": {
+      "subtitle": "v čem náš proces vítězí",
+      "title": "My vs. agentury vs. freelanceři.",
+      "table": {
+        "headers": {
+          "matters": "Na čem záleží",
+          "us": "Náš proces",
+          "agency": "Běžná agentura",
+          "freelance": "Samostatný freelancer"
+        },
+        "rows": [
+          {
+            "row": "Design na míru (bez šablon)",
+            "us": true,
+            "agency": "Někdy",
+            "freelance": false
+          },
+          {
+            "row": "Jasný rozsah + pevná cena předem",
+            "us": true,
+            "agency": "Hodinová sazba",
+            "freelance": "Nejasné"
+          },
+          {
+            "row": "Zdravotnický copywriter v týmu",
+            "us": true,
+            "agency": "Příplatek",
+            "freelance": false
+          },
+          {
+            "row": "Revize shody s HIPAA před spuštěním",
+            "us": true,
+            "agency": "Příplatek",
+            "freelance": false
+          },
+          {
+            "row": "Garance Lighthouse 95+",
+            "us": true,
+            "agency": false,
+            "freelance": false
+          },
+          {
+            "row": "Osobní account manažer (po spuštění)",
+            "us": true,
+            "agency": "Jen u korporátů",
+            "freelance": false
+          },
+          {
+            "row": "Přímý přístup k týmu přes Slack",
+            "us": true,
+            "agency": "Pouze e-mail",
+            "freelance": "Někdy"
+          },
+          {
+            "row": "Doba realizace (start → spuštění)",
+            "us": "6–10 týdnů",
+            "agency": "3–6 měsíců",
+            "freelance": "Nepředvídatelné"
+          }
+        ]
+      }
+    },
+    "testimonial": {
+      "quote": "\"Už jen ty týdenní reporty stály za to. Každé pondělí jsme přesně věděli, co se dokončilo a co nás čeká. Byl to první projekt za pět let, který se spustil přesně v den, který slíbili na začátku.\"",
+      "author": "MUDr. Anika Patel, FAAD",
+      "role": "BH Dermatology · 3 pobočky"
+    },
+    "faq": {
+      "subtitle": "Otázky k procesu",
+      "title": "Často se ptáte.",
+      "items": [
+        {
+          "q": "Jak dlouho celý proces trvá?",
+          "a": "Většina dermatologických webů je spuštěna za 6–10 týdnů od zahájení. Jednostránkové weby startujeme už za týden. Robustní řešení pro více klinik trvají 10–14 týdnů. Na začátku dostanete písemný harmonogram s týdenními milníky."
+        },
+        {
+          "q": "Co od nás budete během tvorby potřebovat?",
+          "a": "Zhruba 3–5 hodin týdně: jeden 60minutový úvodní hovor, týdenní 30minutové schůzky, rozhovory s lékaři (30 min na osobu) a schvalování přes Figmu či Slack do 48 hodin. My odpracujeme to těžké – vy schvalujete, my stavíme."
+        },
+        {
+          "q": "Můžeme začít jen designem a vývoj nechat na později?",
+          "a": "Ano. Nabízíme samostatnou fázi analýzy a designu (za 3 900 USD), výsledkem které je prototyp ve Figmě a design systém ve vašem vlastnictví. Můžete si ho pak realizovat sami, s jiným týmem, nebo se k nám později vrátit pro vývoj."
+        },
+        {
+          "q": "Co když budeme potřebovat změny po spuštění?",
+          "a": "Každý balíček zahrnuje 30 dní bezplatných úprav po spuštění. Poté jsou běžné úpravy kryty měsíčním servisním balíčkem (Essential, Growth, Marketing nebo Full-Stack), případně účtovány individuálně. Vždy předem znáte cenu."
+        },
+        {
+          "q": "Píšete lékařský obsah vy, nebo my?",
+          "a": "Naši zdravotničtí copywriteři připraví návrhy, které pak váš odborný garant zkontroluje a schválí. Nikdy nezačínáte na prázdné stránce. Pokud si chcete texty psát sami, cenu balíčku odpovídajícím způsobem snížíme."
+        },
+        {
+          "q": "Jak řešíte shodu s HIPAA?",
+          "a": "Architektura zohledňující HIPAA je standardem: žádné PHI v analytice, šifrovaný přenos formulářů, maskování polí a bezpečný hosting. Podepsaná dohoda BAA je součástí plánů Authority Brand a Enterprise, u ostatních je k dispozici jako doplněk."
+        }
+      ]
+    },
+    "cta": {
+      "badge": "Jsme připraveni, až budete vy",
+      "title": "Začněte krokem 01 – bezplatným auditem webu.",
+      "description": "Zdarma a nezávazně. Získáte projektový brief, odhadovaný harmonogram a nabídku s pevnou cenou – i kdybyste se nás nakonec nerozhodli najmout.",
+      "buttons": {
+        "freeQuote": "Získat nezávaznou nabídku",
+        "pricing": "Nejdřív vidět ceník"
+      }
+    },
+    "footerLinks": {
+      "prefix": "Mohlo by vás také zajímat: ",
+      "about": "kdo jsme a jak pracujeme",
+      "comma": ", ",
+      "portfolio": "projekty, které jsme spustili",
+      "or": ", nebo ",
+      "pricing": "aktuální ceny a balíčky",
+      "suffix": "."
+    },
+    "mobileCta": {
+      "subtitle": "Začněte krokem 01",
+      "title": "Bezplatný audit webu – zdarma.",
+      "button": "Chci nezávaznou nabídku"
+    },
+    "progressRail": {
+      "title": "Průběh procesu",
+      "step": "Krok",
+      "of": "z 07"
+    }
+  }
+}

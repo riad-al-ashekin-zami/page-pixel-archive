@@ -1,0 +1,108 @@
+{
+  "meta": {
+    "title": "Zásady používání souborů cookie — Jak pracujeme s daty",
+    "description": "Zjistěte, jaké soubory cookie a podobné technologie na našem webu používáme, proč to děláme a jak je můžete spravovat.",
+    "og": {
+      "title": "Zásady používání souborů cookie — Jak pracujeme s daty",
+      "description": "Zjistěte, jaké soubory cookie a podobné technologie na našem webu používáme, proč to děláme a jak je můžete spravovat."
+    },
+    "twitter": {
+      "title": "Zásady používání souborů cookie — Jak pracujeme s daty",
+      "description": "Zjistěte, jaké soubory cookie a podobné technologie na našem webu používáme, proč to děláme a jak je můžete spravovat."
+    }
+  },
+  "layout": {
+    "skipToContent": "Přejít k hlavnímu obsahu"
+  },
+  "hero": {
+    "badge": "Právní náležitosti · Soubory cookie",
+    "title": "Zásady používání souborů cookie",
+    "description": "Přečtěte si, jaké soubory cookie a podobné technologie využíváme, k čemu slouží a jak je můžete mít pod kontrolou. Tento dokument doplňuje naše",
+    "privacyPolicyLink": "Zásady ochrany osobních údajů",
+    "lastUpdated": "Poslední aktualizace:",
+    "lastUpdatedDate": "14. července 2026"
+  },
+  "sidebar": {
+    "contents": "Obsah",
+    "navAriaLabel": "Navigace v sekcích"
+  },
+  "sections": {
+    "whatAreCookies": {
+      "title": "1. Co jsou soubory cookie?",
+      "body": "Soubory cookie jsou malé textové soubory, které se při návštěvě webové stránky uloží do vašeho zařízení. Pomáhají webu zapamatovat si vaše kroky a preference po určitou dobu. Používáme také podobné technologie, jako je místní úložiště (local storage) a pixelové značky – v těchto zásadách je souhrnně označujeme jako „cookie“."
+    },
+    "types": {
+      "title": "2. Typy souborů cookie, které používáme",
+      "strictlyNecessary": {
+        "label": "Nezbytně nutné:",
+        "description": "jsou vyžadovány pro základní fungování webu, jako je navigace, zabezpečení a uložení vašich předvoleb souhlasu. Tyto soubory nelze vypnout."
+      },
+      "performance": {
+        "label": "Výkonnostní a analytické:",
+        "description": "pomáhají nám pochopit, jak návštěvníci s webem pracují (např. které stránky navštěvují, kolik času na nich tráví, zdroje návštěvnosti), abychom mohli naše služby neustále zlepšovat."
+      },
+      "functional": {
+        "label": "Funkční:",
+        "description": "pamatují si vaše volby (např. preferovaný jazyk nebo region), aby vám poskytly osobnější uživatelský zážitek."
+      },
+      "marketing": {
+        "label": "Marketingové:",
+        "description": "používáme je my nebo naši partneři k měření efektivity kampaní a případně k zobrazování relevantního obsahu na jiných webových stránkách."
+      }
+    },
+    "firstVsThird": {
+      "title": "3. Soubory cookie první vs. třetí strany",
+      "firstPartyLabel": "Soubory cookie první strany",
+      "firstPartyDescription": "jsou nastaveny přímo tímto webem.",
+      "thirdPartyLabel": "Soubory cookie třetích stran",
+      "thirdPartyDescription": "jsou nastavovány službami, které využíváme – například poskytovateli analytických nástrojů, videí, rezervačních systémů nebo reklamy. Třetí strany odpovídají za to, jak s nasbíranými daty nakládají; prostudujte si prosím jejich vlastní zásady ochrany soukromí."
+    },
+    "howWeUse": {
+      "title": "4. Jak soubory cookie využíváme",
+      "items": [
+        "Zajištění bezpečnosti a správného fungování webu.",
+        "Uložení vašeho souhlasu a předvoleb.",
+        "Měření návštěvnosti a analýza chování uživatelů na webu.",
+        "Zlepšování obsahu, výkonu webu a celkového uživatelského dojmu."
+      ]
+    },
+    "manage": {
+      "title": "5. Jak spravovat soubory cookie",
+      "intro": "Své preference ohledně souborů cookie můžete spravovat několika způsoby:",
+      "browserSettings": {
+        "label": "Nastavení prohlížeče:",
+        "description": "většina prohlížečů umožňuje soubory cookie blokovat nebo mazat – podrobnosti najdete v nápovědě svého prohlížeče."
+      },
+      "optOutTools": {
+        "label": "Nástroje pro odhlášení:",
+        "description": "mnoho poskytovatelů analytiky a reklamy nabízí vlastní mechanismy pro odmítnutí sledování (opt-out)."
+      },
+      "consentBanner": {
+        "label": "Nastavení souhlasu:",
+        "description": "pokud to zákon vyžaduje, můžete své preference kdykoli změnit prostřednictvím banneru nebo odkazu na nastavení cookie na tomto webu."
+      },
+      "footer": "Blokování některých souborů cookie může mít vliv na funkčnost určitých částí webu."
+    },
+    "doNotTrack": {
+      "title": "6. Signál Do Not Track",
+      "body": "Některé prohlížeče vysílají signál „Do Not Track“ (Nesledovat). V současné době neexistuje jednotný průmyslový standard pro reakci na tento signál, proto náš web na základě signálů DNT své chování nemění."
+    },
+    "changes": {
+      "title": "7. Změny těchto zásad",
+      "body": "Tyto zásady používání souborů cookie můžeme aktualizovat v souladu se změnami našich postupů nebo platných zákonů. Aktuální verzi poznáte podle data „Poslední aktualizace“ uvedeného výše."
+    },
+    "contact": {
+      "title": "8. Kontakt",
+      "body": "Máte dotazy k tomu, jak používáme soubory cookie? Kontaktujte nás prostřednictvím naší",
+      "contactLink": "kontaktní stránky",
+      "privacySuffix": ", nebo si přečtěte naše",
+      "privacyLink": "Zásady ochrany osobních údajů",
+      "privacyEnd": ", kde se dozvíte více o zpracování osobních údajů."
+    }
+  },
+  "cta": {
+    "title": "Máte dotazy ke cookie?",
+    "description": "Rádi vám vysvětlíme, jaké technologie používáme a proč.",
+    "button": "Napište nám"
+  }
+}

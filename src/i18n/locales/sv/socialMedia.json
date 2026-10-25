@@ -1,0 +1,310 @@
+{
+  "meta": {
+    "title": "Marknadsföring i sociala medier för hudläkare | Instagram, TikTok, Meta Ads",
+    "description": "Sociala medier-tjänster för specialistkliniker inom dermatologi — Instagram, TikTok, Facebook, YouTube och LinkedIn. HIPAA-säkert innehåll, månatliga filmdagar på kliniken och betald annonsering optimerad för bokade konsultationer.",
+    "og": {
+      "title": "Sociala medier för hudläkare — Innehåll som generer bokningar",
+      "description": "Helhetslösning för dermatologmottagningar — innehållsproduktion, Reels-fokuserad strategi, DM-hantering och betald annonsering baserad på bokade konsultationer."
+    },
+    "twitter": {
+      "title": "Marknadsföringstjänster för sociala medier inom dermatologi",
+      "description": "Innehållsproduktion och kampanjer för hudläkarmottagningar med fokus på bokade konsultationer."
+    }
+  },
+  "jsonLd": {
+    "service": {
+      "name": "Marknadsföring i sociala medier för hudläkarmottagningar",
+      "provider": "DermatologyWebsiteDesign.com",
+      "description": "Heltäckande hantering av sociala medier, innehållsproduktion och betald annonsering för hudläkare med fokus på bokade konsultationer."
+    },
+    "breadcrumbs": {
+      "home": "Hem",
+      "services": "Tjänster",
+      "social": "Sociala medier"
+    }
+  },
+  "hero": {
+    "badge": "Sociala medier för dermatologi",
+    "heading": "Innehåll som bygger förtroende — och ger bokningar.",
+    "description": "Fullservice-lösning för sociala medier för hudläkarmottagningar — Instagram, TikTok, Facebook, YouTube och LinkedIn. Månatliga inspelningar på plats, HIPAA-säkra texter, DM-hantering och annonsering som mäts i bokade konsultationer.",
+    "cta": {
+      "audit": "Gratis granskning",
+      "platforms": "Se plattformar"
+    },
+    "stats": [
+      {
+        "label": "312%",
+        "value": "Följartillväxt"
+      },
+      {
+        "label": "48+",
+        "value": "Bokningar / mån"
+      },
+      {
+        "label": "5.4M",
+        "value": "Reel-visningar/år"
+      },
+      {
+        "label": "HIPAA",
+        "value": "Säkert innehåll"
+      }
+    ],
+    "trust": {
+      "imgAlt": "Dermatologikund",
+      "rating": "4.9/5",
+      "subtext": "Används av över 50 hudläkarmottagningar",
+      "badge": "HIPAA-säker"
+    }
+  },
+  "socialMock": {
+    "handle": "@dinmottagning",
+    "status": "Legitimerad · 24.8k",
+    "live": "live",
+    "imgAlt": "Förhandsvisning av Instagram-flöde för hudläkare med hudvårdsinnehåll",
+    "metrics": {
+      "reach": "Räckvidd",
+      "dms": "DM:s",
+      "booked": "Bokade"
+    },
+    "reels": [
+      {
+        "label": "Reels — Aknerutin",
+        "value": "1.2M"
+      },
+      {
+        "label": "Reels — Genomgång av Mohs",
+        "value": "342k"
+      },
+      {
+        "label": "Statisk — Presentation av läkaren",
+        "value": "58k"
+      }
+    ],
+    "outcome": "+48 bokningar denna månad",
+    "timeframe": "30 dager"
+  },
+  "sections": {
+    "platforms": {
+      "badge": "Plattformar",
+      "heading": "Sex plattformar. Ett mål: Fler bokningar.",
+      "description": "Varje plattform får eget format, frekvens och KPI:er — vi kör aldrig enkla kopieringar mellan kanaler.",
+      "items": [
+        {
+          "title": "Growth på Instagram",
+          "desc": "Reels-optimerad strategi — före/efter-karuseller, fokus på behandlare och kundresor anpassade för bokningskonvertering."
+        },
+        {
+          "title": "TikTok för hudvård",
+          "desc": "Utbildande kortfilm om hudvård som rankar högt på både TikTok och Google — HIPAA-säkert och godkänt före publicering."
+        },
+        {
+          "title": "Facebook & Meta Ads",
+          "desc": "Lokal synlighet, målgruppsanalys för relevanta patienter och kampanjer prissatta per bokad konsultation — inte per följare."
+        },
+        {
+          "title": "YouTube Shorts & Long-form",
+          "desc": "Förklaringsvideor för ingrepp, frågestunder med läkaren och tidlösa videor om hudtillstånd som syns bra på Google och YouTube."
+        },
+        {
+          "title": "LinkedIn för behandlare",
+          "desc": "Personligt varumärke för specialistläkare — expertledarskap, nätverk för remissinstanser och profilering på högsta nivå."
+        },
+        {
+          "title": "DM & Community Management",
+          "desc": "Tränade svarsmallar, 4-timmars svarstid, rensning av känsliga uppgifter och smidig överlämning till receptionen för bokning."
+        }
+      ]
+    },
+    "outcomes": {
+      "heading": "Mätbara resultat",
+      "items": [
+        {
+          "k": "312%",
+          "v": "Följartillväxt på 90 dagar"
+        },
+        {
+          "k": "48+",
+          "v": "Bokade konsultationer från Instagram / månad"
+        },
+        {
+          "k": "5.4M",
+          "v": "Organiska Reel-visningar (12-mån snitt)"
+        },
+        {
+          "k": "4.9",
+          "v": "Genomsnittligt betyg för varumärkeskännedom"
+        }
+      ],
+      "quote": "\"Vi gick från att posta en gång i veckan till ett komplett system för innehåll. Följarantalet tredubblades, men den siffra som verkligen betyder något – nya patientbesök från Instagram – gick från 4 i månaden till 48.\"",
+      "author": "Dr. Priya Anand · Privatläkare inom dermatologi"
+    },
+    "pillars": {
+      "badge": "Innehållspelare",
+      "heading": "Sex innehållspelare, varje månad, varje plattform.",
+      "description": "Vår 90-dagarsplan kopplar varje Reel, inlägg och DM-mall till en specifik behandlingslinje och ett bokningsmål. Inget lämnas åt slumpen.",
+      "items": [
+        "Presentation av hudläkare & expertis",
+        "Utbildning om hudtillstånd (akne, eksem, rosacea, psoriasis)",
+        "Före/efter-förvandlingar med godkänt samtycke",
+        "Klipp från kliniken — behandlingar, teknik, rundturer",
+        "Patientfrågor (FAQ) och krossade hudvårdsmyter",
+        "Säsongsbetonade kampanjer för hudvård och solskydd"
+      ]
+    },
+    "audiences": {
+      "badge": "Vem vi bygger innehåll för",
+      "heading": "Anpassat för alla typer av hudläkarmottagningar.",
+      "description": "Oavsett om du är ensam specialist, driver flera kliniker eller arbetar med Mohs-kirurgi, anpassas strategin efter din röst och patientbas.",
+      "items": [
+        {
+          "title": "Enskilda hudläkare",
+          "desc": "Grundarfokuserad strategi — din röst, ditt ansikte, dina patienter. Inspelat månadsvis, publicerat veckovis."
+        },
+        {
+          "title": "Klinik-kedjor",
+          "desc": "Ett sammanhållet varumärkessystem med separata kalendrar per ort, hanterat från en central instrumentpanel."
+        },
+        {
+          "title": "Pediatrisk dermatologi",
+          "desc": "Innehåll riktat till föräldrar — trygghetsskapande texter, anpassade publiceringstider och bilder godkända av det kliniska teamet."
+        },
+        {
+          "title": "Mohs- & kirurgisk dermatologi",
+          "desc": "Expertledarskap på LinkedIn för remissnätverk, utbildande Reels och strikta processer för före/efter-bilder."
+        }
+      ]
+    },
+    "medical_services": {
+      "badge": "Behandlingsområden vi täcker",
+      "heading": "Varje tillstånd. Varje behandling. Varje bokning.",
+      "description": "Varje medicinsk tjänst får sin egen innehållspelare och sökordskarta — Reels, karuseller och inlägg som möter patientens sökresa.",
+      "items": [
+        "Aknebehandling",
+        "Eksembehandling",
+        "Psoriasisbehandling",
+        "Hudinfektioner",
+        "Hudallergier",
+        "Screening & behandling av hudcancer",
+        "Bedömning & borttagning av födelsemärken",
+        "Borttagning av cystor & lipom",
+        "Vårtbehandling",
+        "Nageltillstånd",
+        "Håravfall & medicinsk behandling",
+        "Hårbottenbesvär",
+        "Rosaceabehandling",
+        "Pigmentering & Melasma",
+        "Ärrbehandling (skada, kirurgi, sjukdom)",
+        "Brännskadeärr",
+        "Vitiligobehandling",
+        "Hudbiopsier & diagnostik"
+      ]
+    },
+    "workflow": {
+      "badge": "Så fungerar det",
+      "heading": "90 dagars uppstart. Långsiktig tillväxt.",
+      "description": "Tydliga milstolpar kopplade till faktiska bokningar — inte bara visningar.",
+      "items": [
+        {
+          "step": "01",
+          "phase": "Fas 01",
+          "title": "Varumärkes- & innehållsanalys",
+          "desc": "Analys av tonalitet, visuell stil, konkurrenter, hashtag-karta och en 90-dagarsplan anpassad efter era tjänster."
+        },
+        {
+          "step": "02",
+          "phase": "Fas 02",
+          "title": "Månatlig inspelningsdag",
+          "desc": "En filmdag per månad på kliniken — Reels, bilder, presentationer och patientberättelser. Batching skapar kontinuitet."
+        },
+        {
+          "step": "03",
+          "phase": "Fas 03",
+          "title": "Publicering, interaktion, optimering",
+          "desc": "Schemaläggning på IG, TikTok, FB, YouTube och LinkedIn. Daglig DM-sortering och veckoanalys mot bokningsmål."
+        },
+        {
+          "step": "04",
+          "phase": "Fas 04",
+          "title": "Skala upp med annonsering",
+          "desc": "Organiska inlägg med bäst resultat boostas som Meta- eller TikTok-annonser för att nå webbplatsbesökare och nya patienter."
+        }
+      ]
+    },
+    "why_us": {
+      "badge": "Varför kliniker väljer oss",
+      "heading": "En partner specialiserad på dermatologi — inte en dussinbyrå.",
+      "items": [
+        {
+          "title": "HIPAA-säkra arbetsflöden",
+          "desc": "Skriftligt godkännande före varje inlägg. DM-hantering med fokus på integritet. Alla texter granskas för regelefterlevnad."
+        },
+        {
+          "title": "Månatliga inspelningar på plats",
+          "desc": "En inspelningsdag ger 3–4 veckors innehåll. Sluta stressa över vad du ska posta härnäst."
+        },
+        {
+          "title": "Design som andas varumärket",
+          "desc": "En enhetlig visuell stil i alla kanaler — färger, typsnitt och rörelse som signalerar premiumkvalitet."
+        },
+        {
+          "title": "Reels-fokuserad strategi",
+          "desc": "Kortfilm är nyckeln till tillväxt. Allt innehåll anpassas först för Reels och distribueras sedan till TikTok och Shorts."
+        },
+        {
+          "title": "Hantering av DM & community",
+          "desc": "Tränade svarsmallar, 4-timmars SLA och effektiv överlämning till receptionen. Inga bokningsförfrågningar faller mellan stolarna."
+        },
+        {
+          "title": "Bokade konsultationer, inte likes",
+          "desc": "Varje månadsrapport kopplar räckvidd och meddelanden direkt till bokade besök och intäkter per behandling."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "Vanliga frågor från klinikägare.",
+    "items": [
+      {
+        "q": "Vad är skillnaden mellan sociala medier och Google Ads för en hudklinik?",
+        "a": "Google Ads fångar upp befintlig efterfrågan — någon som söker på 'hudläkare nära mig'. Sociala medier skapar efterfrågan och förtroende. Genom Reels och expertinnehåll bygger du det varumärke patienten väljer när de väl börjar söka. De bästa klinikerna kör båda."
+      },
+      {
+        "q": "Är era inlägg HIPAA-anpassade?",
+        "a": "Ja. Före-och-efter-bilder samt patientberättelser publiceras endast efter signerat samtycke. DM-meddelanden hanteras via mallar rensade från känslig PHI — inga diagnoser ges digitalt, bara erbjudanden om bokning."
+      },
+      {
+        "q": "Filmar ni innehållet eller gör vi det själva?",
+        "a": "Vi filmar. En inspelningsdag per månad räcker för 3–4 veckors innehåll. Kliniker som redan har en duktig kreatör kan använda en hybridmodell där vi klipper, skriver manus och publicerar deras råmaterial."
+      },
+      {
+        "q": "Vad är den kortaste avtalstiden?",
+        "a": "90 dagar. Sociala medier kräver tid för att bygga momentum — 30 dagar räcker inte för att se tydliga resultat. Efter den inledande perioden löper avtalet månadsvis med 30 dagars uppsägningstid."
+      },
+      {
+        "q": "Hanterar ni även betald annonsering?",
+        "a": "Ja. Meta- och TikTok-kampanjer ingår i vårt growth-paket. Vi förstärker era bäst presterande inlägg och driver specifika bokningskampanjer baserade på kostnad per bokning."
+      },
+      {
+        "q": "Kan ni hantera kliniker med flera orter?",
+        "a": "Ja — vi hanterar platsspecifika innehållskalendrar under ett gemensamt varumärkessystem, med lokalt anpassade inlägg och geografiskt riktad annonsering."
+      }
+    ]
+  },
+  "cta": {
+    "badge": "Gratis granskning av sociala medier",
+    "heading": "Se exakt varför dina sociala kanaler inte ger tillräckligt med bokningar.",
+    "description": "Genomgång av innehåll, konkurrentanalys, hashtag-strategi, DM-audit och en prioriterad 90-dagarsplan för fler bokade konsultationer. Gratis och utan köpkrav.",
+    "primary": "Hämta min gratis granskning",
+    "secondary": "Begär offert"
+  },
+  "sticky_footer": {
+    "label": "Gratis social audit — 48 h",
+    "button": "Hämta"
+  },
+  "internal_links": {
+    "prefix": "Läs även om: ",
+    "reputation": "insamling av femstjärniga recensioner",
+    "email": "e-postutskick för återkommande patienter",
+    "gallery": "ditt före-och-efter-galleri"
+  }
+}

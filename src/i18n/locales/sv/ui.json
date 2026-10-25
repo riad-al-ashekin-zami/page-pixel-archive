@@ -1,0 +1,81 @@
+{
+  "language": { "select": "Språk" },
+  "common": { "or": "eller" },
+  "topBar": {
+    "whatsappUs": "Kontakta oss på WhatsApp",
+    "whatsapp": "WhatsApp",
+    "freeAudit24hLong": "Gratis webbplatsgranskning inom 24 timmar",
+    "freeAudit24hShort": "Gratis granskning · 24 h",
+    "freeAudit": "Gratis granskning",
+    "hipaaAware": "HIPAA-anpassade webbplatser",
+    "hipaaAwareShort": "HIPAA-anpassad",
+    "hipaa": "HIPAA"
+  },
+  "nav": {
+    "home": "Hem",
+    "services": "Tjänster",
+    "portfolio": "Portfolio",
+    "pricing": "Priser",
+    "insights": "Insikter",
+    "contact": "Kontakt",
+    "openMenu": "Öppna meny",
+    "closeMenu": "Stäng meny",
+    "skipToContent": "Hoppa till innehåll",
+    "main": "Huvudmeny"
+  },
+  "cta": {
+    "getFreeQuote": "Få en gratis offert",
+    "requestAudit": "Begär gratis granskning",
+    "viewAllAddons": "Visa alla tilläggstjänster"
+  },
+  "drawer": {
+    "websiteServices": "Webbplatstjänster",
+    "marketingServices": "Marknadsföring",
+    "addOnServices": "Tilläggstjänster",
+    "chatWhatsApp": "Chatta på WhatsApp",
+    "freeAuditBanner": "Gratis granskning · svar inom 24 h"
+  },
+  "chat": {
+    "assistantName": "DWD-assistent",
+    "verified": "Verifierad",
+    "online": "Online · svarar direkt",
+    "openLabel": "Öppna assistent",
+    "closeLabel": "Stäng assistent",
+    "welcome": "Hej 👋 Jag är **Dermatology Website Design**-assistenten.\n\nJag hjälper dig utforska tjänster, priser, portfolio, granskningar och nästa bästa steg för din klinik.\n\nHur kan jag hjälpa dig idag?",
+    "quickQuestions": "Snabba frågor",
+    "placeholder": "Fråga om tjänster, priser, portfolio…",
+    "sendLabel": "Skicka",
+    "footerNote": "AI-assistent · Svaren hänvisar till exakt sida",
+    "errorText": "Något gick fel. Försök igen eller",
+    "contactUs": "kontakta oss",
+    "primary": {
+      "quote": "Offert",
+      "audit": "Granskning",
+      "pricing": "Priser",
+      "contact": "Kontakt"
+    },
+    "quick": {
+      "design":     { "label": "Webbdesign",          "prompt": "Berätta om er webbdesigntjänst." },
+      "management": { "label": "Webbplatshantering",  "prompt": "Vad ingår i webbplatshanteringen?" },
+      "seo":        { "label": "SEO-tjänster",        "prompt": "Hur fungerar er SEO för dermatologi?" },
+      "portfolio":  { "label": "Portfolio",           "prompt": "Kan jag se er portfolio?" },
+      "pricing":    { "label": "Priser",              "prompt": "Vad har ni för priser och paket?" },
+      "audit":      { "label": "Gratis granskning",   "prompt": "Hur får jag en gratis granskning?" },
+      "quote":      { "label": "Gratis offert",       "prompt": "Hur får jag en gratis offert?" }
+    }
+  },
+  "errorPages": {
+    "notFound": {
+      "title": "Sidan hittades inte",
+      "description": "Sidan du letar efter finns inte eller har flyttats."
+    },
+    "error": {
+      "title": "Sidan kunde inte laddas",
+      "description": "Något gick fel hos oss. Försök igen eller gå tillbaka till startsidan."
+    },
+    "actions": {
+      "home": "Gå hem",
+      "retry": "Försök igen"
+    }
+  }
+}

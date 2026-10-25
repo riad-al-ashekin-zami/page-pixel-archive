@@ -1,0 +1,257 @@
+{
+  "meta": {
+    "title": "Design och utveckling av patientportaler för dermatologi | HIPAA-kompatibel",
+    "description": "Skräddarsydd HIPAA-kompatibel patientportal för hudläkare: tidsbokning online, säkra meddelanden, teledermatologi, e-blanketter, betallösningar och EHR-integration. Utvecklad för kliniker inom solopraxis, flertalet orter, pediatrik och Mohs-kirurgi.",
+    "og_title": "Design och utveckling av patientportaler för dermatologi",
+    "og_description": "HIPAA-anpassade patientportaler skapade för dermatologiska kliniker – bokning, meddelanden, teledermatologi, digitalt intag och EHR-integration.",
+    "twitter_title": "Design och utveckling av patientportaler för dermatologi",
+    "twitter_description": "HIPAA-anpassade patientportaler skapade för dermatologiska kliniker.",
+    "jsonLd": {
+      "serviceType": "Dermatology Patient Portal Design & Development",
+      "provider": "DermatologyWebsiteDesign.com",
+      "areaServed": "United States",
+      "description": "HIPAA-kompatibel design och utveckling av patientportaler för hudläkarkliniker.",
+      "breadcrumb_home": "Hem",
+      "breadcrumb_services": "Tjänster",
+      "breadcrumb_portal": "Patientportal"
+    }
+  },
+  "hero": {
+    "badge": "Patientportal för dermatologi",
+    "title_start": "En patientportal som din klinik ",
+    "title_highlight": "faktiskt vill använda.",
+    "description": "Skräddarsydda, HIPAA-anpassade patientportaler med dygnet runt-bokning, säkra meddelanden, teledermatologi, digitalt intag, smidiga betalningar och djup EHR-integration – designade för alla typer av hudläkarmottagningar.",
+    "cta_quote": "Få en kostnadsfri offert",
+    "cta_features": "Utforska funktioner",
+    "stats": [
+      {
+        "value": "4–6 v",
+        "label": "Lanseringstid"
+      },
+      {
+        "value": "HIPAA",
+        "label": "Säker som standard"
+      },
+      {
+        "value": "24/7",
+        "label": "Självbokning"
+      },
+      {
+        "value": "Inga",
+        "label": "Patientavgifter"
+      }
+    ]
+  },
+  "mockPortal": {
+    "header_category": "Patientportal",
+    "header_greeting": "God eftermiddag, Sarah",
+    "status": "Säker",
+    "items": [
+      {
+        "label": "Årlig hudkontroll",
+        "meta": "Fre · 14:30 · Dr. Patel"
+      },
+      {
+        "label": "Meddelande från Dr. Nguyen",
+        "meta": "Biopsisvar — godartat ✓"
+      },
+      {
+        "label": "Receptförnyelse begärd",
+        "meta": "Tretinoin 0,05 % · Apoteket"
+      },
+      {
+        "label": "Faktura att betala",
+        "meta": "485 kr · Betala med ett klick"
+      }
+    ],
+    "footer_encryption": "Krypterat ände-till-ände",
+    "footer_biometrics": "Face ID aktiverat"
+  },
+  "sections": {
+    "audiences": {
+      "title": "Byggt för",
+      "items": [
+        "Privatpraktiserande hudläkare",
+        "Dermatologiska kliniker med flera kontor",
+        "Pediatrisk dermatologi",
+        "Mohs- och kirurgisk dermatologi"
+      ]
+    },
+    "medical_services": {
+      "title": "Stödjer alla typer av medicinska tjänster",
+      "items": [
+        "Aknebehandling",
+        "Eksembehandling",
+        "Psoriasisbehandling",
+        "Hudinfektioner",
+        "Hudallergier",
+        "Screening och behandling av hudcancer",
+        "Bedömning och borttagning av födelsemärken",
+        "Borttagning av cystor och lipom",
+        "Vårtborttagning",
+        "Nagelsjukdomar",
+        "Behandling vid håravfall",
+        "Hårbottensproblem",
+        "Rosaceabehandling",
+        "Hyperpigmentering och melasma",
+        "Ärrbehandling",
+        "Behandling av brännskadeärr",
+        "Vitiligobehandling",
+        "Hudbiopsier och diagnostik"
+      ]
+    },
+    "metrics": {
+      "items": [
+        {
+          "value": "38 %",
+          "label": "Färre uteblivna besök efter lansering"
+        },
+        {
+          "value": "4.9×",
+          "label": "Snabbare svarstid i receptionen"
+        },
+        {
+          "value": "22 tim",
+          "label": "Sparad personaltid per vecka"
+        }
+      ]
+    },
+    "testimonial": {
+      "quote": "Våra patienter ringer äntligen inte längre för att boka om. Bokning, recept och biopsisvar sker direkt i portalen – min personal fick sina eftermiddagar tillbaka.",
+      "author": "Dr. Priya Desai, MD",
+      "clinic": "Desai Dermatology · 3 kliniker"
+    },
+    "core_features": {
+      "badge": "Kärnfunktioner",
+      "title": "Allt en hudpatient – och din reception – behöver.",
+      "description": "En enhetlig, säker plattform för tidsbokning, kommunikation, kliniska arbetsflöden och betalningar – ersätt de 5–7 separata verktyg som de flesta kliniker kämpar med idag.",
+      "items": [
+        {
+          "title": "Tidsbokning online",
+          "desc": "Kalendrar i realtid, försäkringskontroll och automatiska bekräftelser – självbokning 24/7 som fyller din mottagning."
+        },
+        {
+          "title": "Säker patientkommunikation",
+          "desc": "HIPAA-krypterad tvåvagschatt mellan patienter, reception och vårdpersonal – med spårbarhet och läskvitton."
+        },
+        {
+          "title": "Digitala intagsformulär",
+          "desc": "Krypterade hälsoformulär och e-signaturer som fylls i före besöket – synkas direkt till din EHR."
+        },
+        {
+          "title": "Onlinebetalning och fakturering",
+          "desc": "PCI-kompatibla kortbetalningar, betalplaner och papperslösa fakturor – få betalt snabbare med mindre administration."
+        },
+        {
+          "title": "Begäran om receptförnyelse",
+          "desc": "Förnyelse med ett klick direkt till ansvarig läkare med full historik över mediciner, allergier och föredragna apotek."
+        },
+        {
+          "title": "Prov- och biopsisvar",
+          "desc": "Publicera patologi- och provsvar med begripliga sammanfattningar och läkarnoteringar som patienten faktiskt förstår."
+        },
+        {
+          "title": "Teledermatologiska besök",
+          "desc": "Krypterad HD-video med väntrum, bilduppladdning och integrerad journalföring – ingen extra tjänst behövs."
+        },
+        {
+          "title": "Smarta påminnelser",
+          "desc": "SMS- och e-postpåminnelser, kallelser till årliga kontroller och automatiseringar som återvinner 20–30 % av förlorade intäkter."
+        }
+      ]
+    },
+    "security": {
+      "badge": "Säkerhet & Compliance",
+      "title": "HIPAA-anpassad från första kodraden.",
+      "description": "Det är inte ett tillägg, det är fundamentalt. Varje arkitektoniskt beslut rörande hosting, databaser, videolösningar och lagring är designat för att skydda patientdata och möta OCR-krav.",
+      "cta": "Beställ vårt paket för regelefterlevnad",
+      "items": [
+        {
+          "title": "HIPAA-anpassad arkitektur",
+          "desc": "Data krypterad vid lagring (AES-256) och transport (TLS 1.3). BAA-avtal tecknas med alla underleverantörer."
+        },
+        {
+          "title": "Rollbaserad åtkomstkontroll",
+          "desc": "Detaljerade behörigheter för läkare, assistenter och administratörer – med fullständiga loggar."
+        },
+        {
+          "title": "MFA & Biometrisk inloggning",
+          "desc": "Passkeys, Face ID och TOTP för patienter och personal. Inga lösenordsåterställningar. Ingen nätfiske."
+        },
+        {
+          "title": "Åtkomst för anhöriga",
+          "desc": "Fullmaktsåtkomst för föräldrar och anhöriga med automatisk återkallelse baserat på ålder."
+        }
+      ]
+    },
+    "workflow": {
+      "badge": "Så lanserar vi den",
+      "title": "Från uppstart till liveportal på 4–6 veckor.",
+      "steps": [
+        {
+          "step": "Steg 01",
+          "title": "Analys & EHR-genomgång",
+          "desc": "Vi kartlägger ditt nuvarande EHR-system och dina arbetsflöden i en 60 minuter lång session."
+        },
+        {
+          "step": "Steg 02",
+          "title": "Design & varumärke",
+          "desc": "Anpassat gränssnitt som matchar din kliniks profil – inte en generisk mall."
+        },
+        {
+          "step": "Steg 03",
+          "title": "Integration & migrering",
+          "desc": "EHR, e-recept, provsvar och betalningar kopplas ihop. Patientdata migreras säkert."
+        },
+        {
+          "step": "Steg 04",
+          "title": "Utbildning & lansering",
+          "desc": "Utbildning för personal och 30 dagars dedikerad hypercare-support."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "badge": "Frågor",
+    "title": "Vanliga frågor om patientportalen",
+    "items": [
+      {
+        "q": "Är patientportalen HIPAA-kompatibel?",
+        "a": "Ja. Varje lager – från hosting till analys – är byggt för HIPAA. Vi tecknar BAA och tillhandahåller dokumentation för kryptering, åtkomstkontroll och loggar."
+      },
+      {
+        "q": "Går den att integrera med mitt EHR-system?",
+        "a": "Vi integrerar med de största systemen som Modernizing Medicine / EMA, Nextech, EZDERM, DrChrono, Athena, eClinicalWorks, Practice Fusion, Epic och Cerner via HL7, FHIR eller API:er."
+      },
+      {
+        "q": "Kan patienter boka utan att skapa ett konto?",
+        "a": "Ja. Gästbokning stöds för nya patienter – ett konto skapas automatiskt efter bekräftat möte med ett välkomstmejl via magic-link."
+      },
+      {
+        "q": "Hur lång tid tar implementeringen?",
+        "a": "För en enskild klinik tar lanseringen 4–6 veckor. Större verksamheter med komplexa migreringar tar vanligtvis 8–12 veckor."
+      },
+      {
+        "q": "Äger vi portalen efter lansering?",
+        "a": "Ja. Du äger koden, innehållet, varumärket och patientdatan. Ingen inlåsning, inga avgifter per patient och inga månadslånga kontrakt krävs."
+      },
+      {
+        "q": "Ingår teledermatologi eller är det ett tillägg?",
+        "a": "Det ingår. HIPAA-kompatibel HD-video med väntrum och integrerad journalföring är inbyggt i portalen utan extra besöksavgifter."
+      }
+    ]
+  },
+  "cta": {
+    "badge": "Redo när du är det",
+    "title": "Ge dina patienter – och din reception – en portal de kommer att tacka dig för.",
+    "description": "Boka en genomgång av portalen. Vi ser över din nuvarande teknik, ger en tidsplan och skickar en offert samma dag.",
+    "cta_quote": "Få en kostnadsfri offert",
+    "cta_contact": "Kontakta oss"
+  },
+  "footer_related": {
+    "text": "Andra sidor som kan intressera dig: ",
+    "link_website": "din kliniks huvudwebbplats",
+    "link_multi_location": "lösningar för flera kliniker",
+    "link_packages": "aktuella paketalternativ"
+  }
+}

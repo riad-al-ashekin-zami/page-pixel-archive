@@ -1,0 +1,81 @@
+{
+  "language": { "select": "Langue" },
+  "common": { "or": "ou" },
+  "topBar": {
+    "whatsappUs": "Contactez-nous sur WhatsApp",
+    "whatsapp": "WhatsApp",
+    "freeAudit24hLong": "Audit gratuit du site en 24 heures",
+    "freeAudit24hShort": "Audit gratuit · 24 h",
+    "freeAudit": "Audit gratuit",
+    "hipaaAware": "Sites conformes HIPAA",
+    "hipaaAwareShort": "Conforme HIPAA",
+    "hipaa": "HIPAA"
+  },
+  "nav": {
+    "home": "Accueil",
+    "services": "Services",
+    "portfolio": "Portfolio",
+    "pricing": "Tarifs",
+    "insights": "Ressources",
+    "contact": "Contact",
+    "openMenu": "Ouvrir le menu",
+    "closeMenu": "Fermer le menu",
+    "skipToContent": "Aller au contenu",
+    "main": "Principal"
+  },
+  "cta": {
+    "getFreeQuote": "Devis gratuit",
+    "requestAudit": "Demander un audit gratuit",
+    "viewAllAddons": "Voir tous les services complémentaires"
+  },
+  "drawer": {
+    "websiteServices": "Services de site web",
+    "marketingServices": "Services marketing",
+    "addOnServices": "Services complémentaires",
+    "chatWhatsApp": "Discuter sur WhatsApp",
+    "freeAuditBanner": "Audit gratuit du site · Réponse sous 24 h"
+  },
+  "chat": {
+    "assistantName": "Assistant DWD",
+    "verified": "Vérifié",
+    "online": "En ligne · réponse instantanée",
+    "openLabel": "Ouvrir l'assistant",
+    "closeLabel": "Fermer l'assistant",
+    "welcome": "Bonjour 👋 Je suis l'assistant **Dermatology Website Design**.\n\nJe peux vous aider à découvrir nos services, tarifs, portfolio, audits de site, et la meilleure prochaine étape pour votre cabinet.\n\nComment puis-je vous aider ?",
+    "quickQuestions": "Questions rapides",
+    "placeholder": "Posez une question sur nos services, tarifs, portfolio…",
+    "sendLabel": "Envoyer",
+    "footerNote": "Assistant IA · Les réponses citent la section exacte de la page",
+    "errorText": "Une erreur est survenue. Réessayez ou",
+    "contactUs": "contactez-nous",
+    "primary": {
+      "quote": "Devis gratuit",
+      "audit": "Audit gratuit",
+      "pricing": "Tarifs",
+      "contact": "Contact"
+    },
+    "quick": {
+      "design":     { "label": "Conception de site",   "prompt": "Parlez-moi de votre service de conception de site." },
+      "management": { "label": "Gestion du site",      "prompt": "Que comprend la gestion du site ?" },
+      "seo":        { "label": "Services SEO",          "prompt": "Comment fonctionne votre SEO pour la dermatologie ?" },
+      "portfolio":  { "label": "Portfolio",             "prompt": "Puis-je voir votre portfolio ?" },
+      "pricing":    { "label": "Tarifs",                "prompt": "Quels sont vos tarifs et forfaits ?" },
+      "audit":      { "label": "Audit gratuit",         "prompt": "Comment obtenir un audit gratuit du site ?" },
+      "quote":      { "label": "Devis gratuit",         "prompt": "Comment obtenir un devis gratuit ?" }
+    }
+  },
+  "errorPages": {
+    "notFound": {
+      "title": "Page introuvable",
+      "description": "La page recherchée n’existe pas ou a été déplacée."
+    },
+    "error": {
+      "title": "Cette page ne s’est pas chargée",
+      "description": "Un problème est survenu de notre côté. Vous pouvez réessayer ou revenir à l’accueil."
+    },
+    "actions": {
+      "home": "Retour à l’accueil",
+      "retry": "Réessayer"
+    }
+  }
+}

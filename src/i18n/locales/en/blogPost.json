@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "notFoundTitle": "Article not found — DermGrowth Blog",
+    "titleSuffix": "— DermGrowth Blog",
+    "keywordsTemplate": "{{category}}, dermatology marketing, {{title}}",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+    "robotsNoindex": "noindex",
+    "ogType": "article",
+    "publisherName": "DermGrowth"
+  },
+  "breadcrumb": {
+    "home": "Home",
+    "blog": "Blog"
+  },
+  "notFound": {
+    "code": "404",
+    "title": "Article not found.",
+    "description": "The article you're looking for may have been moved or renamed.",
+    "backButton": "Back to the blog"
+  },
+  "header": {
+    "nav": {
+      "blog": "Blog"
+    },
+    "meta": {
+      "readTimeSuffix": "min read"
+    }
+  },
+  "actions": {
+    "allArticles": "All articles",
+    "share": "Share",
+    "shareOnFacebook": "Share on Facebook",
+    "shareOnX": "Share on X",
+    "shareOnLinkedIn": "Share on LinkedIn",
+    "shareOnTumblr": "Share on Tumblr",
+    "openInstagram": "Open Instagram"
+  },
+  "faq": {
+    "badge": "FAQ",
+    "heading": "Frequently asked questions"
+  },
+  "related": {
+    "badge": "Keep reading",
+    "heading": "More on {{category}}",
+    "viewAll": "All articles",
+    "readLabel": "Read: {{title}}",
+    "readTimeSuffix": "min"
+  },
+  "footerCta": {
+    "prefix": "If this was useful, take a look at:",
+    "moreArticles": "more articles for growing practices",
+    "caseStudies": "real client outcomes",
+    "freeAudit": "a free audit of your current site"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "title": "Conception de sites Web pour dermatologues — Plateformes de croissance conformes HIPAA",
+    "description": "Sites Web conformes HIPAA, SEO et marketing pour cabinets de dermatologie. Audit gratuit de votre site sous 24h.",
+    "orgDescription": "Conception de sites Web dermatologiques conformes HIPAA, SEO et marketing de croissance pour cabinets individuels et multi-sites."
+  },
+  "hero": {
+    "badge": "Conforme HIPAA",
+    "badgeSecondary": "Axé sur la conversion",
+    "headline": "Des sites Web d'exception pour les",
+    "headlineAccent": "cabinets de dermatologie modernes.",
+    "subhead": "Des sites sur mesure optimisés pour le SEO qui renforcent la confiance, attirent de nouveaux patients et développent votre présence en ligne.",
+    "ctaPrimary": "Obtenir un devis gratuit",
+    "ctaSecondary": "Demander un audit gratuit",
+    "heroImageAlt": "Composition graphique de conception Web en dermatologie affichant les interfaces bureau, mobile, les analytiques, la prise de rendez-vous et la conformité HIPAA"
+  },
+  "stats": {
+    "websites": {
+      "label": "Sites de dermatologie",
+      "sub": "Lancés avec succès"
+    },
+    "niche": {
+      "label": "Expertise sectorielle",
+      "sub": "Spécialisés en dermatologie"
+    },
+    "lighthouse": {
+      "label": "Score moyen Lighthouse",
+      "sub": "Performance pure"
+    }
+  },
+  "trust": {
+    "hipaa": {
+      "label": "Conforme HIPAA",
+      "note": "La conformité d'abord"
+    },
+    "ada": {
+      "label": "Accessibilité ADA",
+      "note": "Conforme WCAG 2.1"
+    },
+    "ssl": {
+      "label": "Sécurisé SSL",
+      "note": "Chiffrement 256 bits"
+    },
+    "seo": {
+      "label": "Optimisé SEO",
+      "note": "Dominez les résultats"
+    },
+    "mobile": {
+      "label": "Mobile Friendly",
+      "note": "Tous appareils"
+    },
+    "speed": {
+      "label": "Chargement rapide",
+      "note": "Vitesse optimisée"
+    }
+  },
+  "footer": {
+    "startPrefix": "Nouveau ici ? Commencez par",
+    "guideLink": "notre guide des stratégies marketing en dermatologie",
+    "sep1": ",",
+    "caseStudiesLink": "les résultats concrets de nos clients",
+    "sep2": ", ou",
+    "auditLink": "un audit gratuit de votre site actuel",
+    "suffix": "."
+  },
+  "skip": "Aller au contenu"
+}

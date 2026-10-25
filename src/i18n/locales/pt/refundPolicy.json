@@ -1,0 +1,74 @@
+{
+  "meta": {
+    "title": "Política de Reembolso — Depósitos, Fases do Projeto e Planos Recorrentes",
+    "description": "Saiba como gerimos depósitos, pagamentos por etapas e planos de manutenção em caso de cancelamento ou insatisfação com os serviços.",
+    "og": {
+      "title": "Política de Reembolso — Depósitos, Fases do Projeto e Planos Recorrentes",
+      "description": "Saiba como gerimos depósitos, pagamentos por etapas e planos de manutenção em caso de cancelamento ou insatisfação com os serviços."
+    },
+    "twitter": {
+      "title": "Política de Reembolso — Depósitos, Fases do Projeto e Planos Recorrentes",
+      "description": "Saiba como gerimos depósitos, pagamentos por etapas e planos de manutenção em caso de cancelamento ou insatisfação com os serviços."
+    }
+  },
+  "layout": {
+    "skip_to_content": "Saltar para o conteúdo"
+  },
+  "hero": {
+    "badge": "Jurídico · Política de Reembolso",
+    "title": "Política de Reembolso",
+    "description": "Regras claras sobre depósitos, pagamentos faseados e planos recorrentes — sem surpresas caso os seus planos mudem.",
+    "last_updated": "Última atualização:",
+    "date": "14 de julho de 2026"
+  },
+  "sidebar": {
+    "contents_label": "Índice",
+    "nav_aria_label": "Navegação da secção"
+  },
+  "sections": {
+    "overview": {
+      "title": "1. Visão Geral",
+      "body": "Esta Política de Reembolso explica como processamos pagamentos em situações de cancelamento, suspensão ou quando as expectativas não são atingidas. Este documento complementa o nosso Contrato de Prestação de Serviços; em caso de conflito, prevalece a proposta assinada ou a folha de trabalho original."
+    },
+    "deposits": {
+      "title": "2. Depósitos e Entradas",
+      "body": "Os depósitos iniciais de projeto não são reembolsáveis. Este valor reserva a disponibilidade na nossa agenda e cobre as fases de diagnóstico, estratégia e design inicial, que começam imediatamente após a sua adjudicação."
+    },
+    "milestones": {
+      "title": "3. Pagamentos por Fases (Milestones)",
+      "list_items": [
+        "Os pagamentos por fases referem-se a trabalho já concluído e aprovado. Como tal, os montantes liquidados após a entrega de cada etapa não são passíveis de reembolso.",
+        "Se cancelar o projeto a meio, será responsável pelo trabalho executado e despesas incorridas até à data do cancelamento. Qualquer valor pré-pago remanescente será reembolsado no prazo de 14 dias úteis."
+      ]
+    },
+    "recurring": {
+      "title": "4. Planos Recorrentes (Manutenção, Alojamento e Retainers)",
+      "list_items": [
+        "Os planos recorrentes são faturados mensalmente e antecipadamente, não havendo lugar a reembolso relativamente ao mês em curso.",
+        "Pode cancelar a qualquer momento mediante um pré-aviso por escrito de 30 dias. O serviço será mantido até ao final do período pago, cessando qualquer cobrança após a data de efeito do cancelamento.",
+        "As horas não utilizadas num plano mensal (retainer) não transitam para o mês seguinte nem são reembolsáveis."
+      ]
+    },
+    "third_party": {
+      "title": "5. Taxas de Terceiros",
+      "body": "Taxas pagas a fornecedores externos em seu nome — como domínios, alojamento, stock de imagem, plugins premium ou investimento publicitário — não são reembolsáveis após a compra, independentemente do estado do projeto."
+    },
+    "chargebacks": {
+      "title": "6. Chargebacks (Reversão de Pagamentos)",
+      "body": "Solicitamos que entre em contacto connosco antes de iniciar um processo de chargeback. Faremos todos os esforços para resolver qualquer questão rapidamente. A abertura de processos de reversão sem aviso prévio pode resultar na suspensão imediata dos serviços e será tratada como um incumprimento contratual grave."
+    },
+    "request": {
+      "title": "7. Como Solicitar um Reembolso",
+      "body": "Envie um pedido por escrito através da nossa página de contacto, indicando o nome do projeto, número da fatura e o motivo. Os reembolsos elegíveis serão processados através do método de pagamento original no prazo de 14 dias úteis após a aprovação."
+    },
+    "changes": {
+      "title": "8. Alterações a esta Política",
+      "body": "Podemos atualizar esta Política de Reembolso periodicamente. A data da \"Última atualização\" acima indica a versão em vigor."
+    }
+  },
+  "cta": {
+    "title": "Precisa de abordar uma questão de reembolso?",
+    "description": "Fale primeiro connosco — trabalharemos em conjunto para encontrar a melhor solução.",
+    "button": "Contacte-nos"
+  }
+}

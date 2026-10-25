@@ -1,0 +1,272 @@
+{
+  "meta": {
+    "title": "Služby pro růst dermatologické praxe | Reálné objednávky pacientů, ne pouhé imprese",
+    "description": "Růst praxe pro dermatologické kliniky – akvizice pacientů, optimalizace konverzí, automatizace retence a analýza výnosů navázaná na objednané návštěvy a ziskovost jednotlivých služeb.",
+    "og": {
+      "title": "Růst dermatologické praxe – Objednané návštěvy namísto impresí",
+      "description": "Komplexní řešení růstu pro samostatné i síťové dermatologické ordinace – akvizice, konverze, retence a pokročilá analytika výnosů."
+    },
+    "twitter": {
+      "title": "Služby pro rozvoj dermatologických klinik",
+      "description": "Růst počtu objednaných pacientů pro dermatologické praxe – měřeno přímo ve vašem výkazu zisků a ztrát."
+    },
+    "jsonLd": {
+      "serviceType": "Služby pro růst dermatologické praxe",
+      "provider": "DermatologyWebsiteDesign.com",
+      "description": "Služby pro rozvoj dermatologických praxí – akvizice pacientů, retence, budování reputace a komplexní analýza výnosů.",
+      "breadcrumbs": {
+        "home": "Domů",
+        "services": "Služby",
+        "current": "Růst dermatologické praxe"
+      }
+    }
+  },
+  "hero": {
+    "badge": "Růst dermatologické praxe",
+    "title": "Objednaní pacienti. Ne jen zobrazení reklamy.",
+    "description": "Komplexní strategie růstu pro dermatology – od akvizice pacientů přes optimalizaci konverzí a automatizaci retence až po analýzu výnosů. Každý kanál měříme podle nákladů na reálně objednaného pacienta a ziskovosti daného zákroku.",
+    "cta": {
+      "primary": "Získat bezplatný audit růstu",
+      "secondary": "Prohlédnout si naše nástroje"
+    },
+    "stats": [
+      {
+        "value": "42%",
+        "label": "Nových pacientů"
+      },
+      {
+        "value": "3.4×",
+        "label": "Více žádostí o konzultaci"
+      },
+      {
+        "value": "31%",
+        "label": "Nižší CPBV"
+      },
+      {
+        "value": "HIPAA",
+        "label": "Bezpečné řešení"
+      }
+    ]
+  },
+  "sections": {
+    "levers": {
+      "badge": "Náš systém růstu",
+      "heading": "Osm pák pro růst. Propojeno s vašimi zisky.",
+      "description": "Růst se sčítá pouze tehdy, když akvizice, konverze, retence a reputace fungují v synergii – a každá investovaná koruna je připsána konkrétní službě, nikoliv jen anonymnímu kanálu.",
+      "items": [
+        {
+          "title": "Akviziční motor pro nové pacienty",
+          "desc": "Multikanálový příjem – SEO, lokální vyhledávání, placená reklama i doporučení – svedený do jednoho měřitelného plánu objednávek."
+        },
+        {
+          "title": "Optimalizace konverzního poměru",
+          "desc": "Testování landing pages, odstranění bariér ve formulářích a ladění rezervačního procesu. Zvýšíme počet konzultací bez nutnosti navyšovat rozpočet na reklamu."
+        },
+        {
+          "title": "Retence pacientů a reaktivace",
+          "desc": "Automatizované sekvence pro připomenutí ročních kontrol mateřských znamének, následnou estetickou péči a návrat stávajících pacientů."
+        },
+        {
+          "title": "Reputace a recenze",
+          "desc": "Procesy pro získávání recenzí po návštěvě, příprava odpovědí v souladu s HIPAA a monitoring reputace na Google, Healthgrades či RealSelf."
+        },
+        {
+          "title": "Analýza výnosů",
+          "desc": "Ziskovost jednotlivých výkonů, vytížení lékařů a atribuce zdrojů marketingu – vše v jednom přehledu propojeném s vaším ambulantním systémem."
+        },
+        {
+          "title": "Rozvoj sítě doporučení",
+          "desc": "Programy spolupráce s praktickými lékaři a gynekology, marketingové balíčky a kvartální analýza doporučení přetavených v objednávky."
+        },
+        {
+          "title": "Správa placených médií",
+          "desc": "Kampaně na Google, Meta a YouTube nastavené podle marže vašich služeb – žádné honění marnivých impresí ani zbytečný retargeting."
+        },
+        {
+          "title": "Automatizace bezpečná pro HIPAA",
+          "desc": "Každý kontakt – SMS, e-mail, chat – běží na infrastruktuře kryté smlouvou BAA s automatickým čištěním citlivých údajů (PHI)."
+        }
+      ]
+    },
+    "outcomes": {
+      "srTitle": "Měřitelné výsledky",
+      "items": [
+        {
+          "k": "42%",
+          "v": "Nárůst objednávek nových pacientů za 6 měsíců"
+        },
+        {
+          "k": "78%",
+          "v": "Zvýšení počtu 5hvězdičkových recenzí na Google"
+        },
+        {
+          "k": "3.4×",
+          "v": "Více žádostí o konzultaci, kvartál k prosinci"
+        },
+        {
+          "k": "31%",
+          "v": "Snížení nákladů na jednu objednanou návštěvu"
+        }
+      ],
+      "quote": "Přestali jsme sledovat marketingové reporty a začali jsme sledovat výkaz zisků a ztrát. Po šesti měsících vzrostl počet objednávek nových pacientů o 42 % a náklady na získanou návštěvu klesly o 31 % – a přesně vidím, která služba vynesla každou korunu.",
+      "attribution": "Dr. Alicia Renner · Dermatologická skupina se 4 pobočkami"
+    },
+    "audiences": {
+      "badge": "Pro koho pracujeme",
+      "heading": "Postaveno pro každý model dermatologické péče.",
+      "description": "Samostatní lékaři, kliniky s více pobočkami, pediatrie nebo Mohsova chirurgie – každý růstový model přizpůsobujeme vaší kapacitě a maržím.",
+      "items": [
+        {
+          "title": "Soukromí dermatologové",
+          "desc": "Jeden lékař, fixní marže, vysoká hodnota pacienta – růst bez nutnosti najímat vlastní marketingový tým."
+        },
+        {
+          "title": "Dermatologické kliniky s pobočkami",
+          "desc": "Sledování ziskovosti jednotlivých lokací, marketingové rozpočty na kliniku a centralizovaná správa značky."
+        },
+        {
+          "title": "Dětská dermatologie",
+          "desc": "Strategie zaměřená na rozhodování rodičů, budování důvěry a respektování sezónnosti školního roku."
+        },
+        {
+          "title": "Mohsova a chirurgická dermatologie",
+          "desc": "Systémy postavené na doporučení kolegů, ověřování pojištění a precizní správa reputace po zákrocích."
+        }
+      ]
+    },
+    "services": {
+      "badge": "Lékařské výkony, které rozvíjíme",
+      "heading": "Každá služba. Každý záměr. Každá návštěva.",
+      "description": "Každý lékařský výkon modelujeme jako samostatnou obchodní cestu – s vlastními náklady na akvizici, konverzním poměrem a sledovanou celoživotní hodnotou pacienta.",
+      "list": [
+        "Léčba akné",
+        "Léčba ekzémů",
+        "Léčba lupénky",
+        "Léčba kožních infekcí",
+        "Léčba kožních alergií",
+        "Screening a léčba rakoviny kůže",
+        "Vyšetření znamének a lékařsky indikované odstranění",
+        "Odstranění cyst a lipomů",
+        "Odstraňování bradavic",
+        "Léčba onemocnění nehtů",
+        "Diagnostika a léčba vypadávání vlasů",
+        "Léčba onemocnění pokožky hlavy",
+        "Léčba růžovky (rosacea)",
+        "Léčba hyperpigmentace a melasmatu (indikační)",
+        "Léčba jizev (úrazy, operace, nemoci)",
+        "Léčba jizev po popáleninách",
+        "Léčba vitiliga",
+        "Kožní biopsie a diagnostické postupy"
+      ]
+    },
+    "workflow": {
+      "badge": "Jak to funguje",
+      "heading": "90denní start růstu. Poté trvalé zhodnocování.",
+      "description": "Transparentní milníky navázané na reálné objednávky a ziskovost – žádné netransparentní reporty.",
+      "steps": [
+        {
+          "step": "01",
+          "phase": "Fáze 01",
+          "title": "Diagnostika praxe a výchozí stav",
+          "desc": "Kompletní audit akvizice a retence, revize ziskovosti služeb a vytvoření 12měsíčního modelu růstu podle kapacity lékařů."
+        },
+        {
+          "step": "02",
+          "phase": "Fáze 02",
+          "title": "Základy brandu a konverzní cesty",
+          "desc": "Přestavba webu pro maximální konverze, vyladění rezervací, sjednocení tónu komunikace a nastavení atribuce."
+        },
+        {
+          "step": "03",
+          "phase": "Fáze 03",
+          "title": "Spuštění akvizičních kanálů",
+          "desc": "Paralelní spuštění SEO, lokálních kampaní, placené reklamy a programů doporučení – vše s cílovou cenou za objednávku."
+        },
+        {
+          "step": "04",
+          "phase": "Fáze 04",
+          "title": "Retence, reportování a škálování",
+          "desc": "Reaktivace pacientů, správa reputace, měsíční strategické reporty a kvartální rozšiřování služeb."
+        }
+      ]
+    },
+    "whyUs": {
+      "badge": "Proč si praxe vybírají nás",
+      "heading": "Partner pro růst dermatologie – nikoliv jen další marketingová agentura.",
+      "items": [
+        {
+          "title": "Zaměření na zisk, ne na tabulky",
+          "desc": "Každý výstup je navázán na objednané návštěvy a výnosy. Vše přehledně na jedné straně jednou měsíčně."
+        },
+        {
+          "title": "Standardně bezpečné v režimu HIPAA",
+          "desc": "Infrastruktura s BAA, automatické čištění citlivých dat a auditované integrace se systémy dříve, než na ně sáhneme."
+        },
+        {
+          "title": "Respektujeme kapacity lékařů",
+          "desc": "Růst řídíme podle vašeho kalendáře – netlačíme na poptávku, kterou vaši lékaři reálně nestihnou odbavit."
+        },
+        {
+          "title": "Atribuce reálných návštěv",
+          "desc": "Sledování hovorů, formulářů a integrace s ambulantními systémy. Žádná návštěva nezůstane bez zdroje; nekupujeme si viditelnost bez výsledků."
+        },
+        {
+          "title": "Odborní copywriteři pro medicínu",
+          "desc": "Texty píší autoři s klinickou praxí; každá stránka prochází kontrolou dermatologa. Žádné AI generáty ani povrchní obsah."
+        },
+        {
+          "title": "Stopka pro nefungující kanály",
+          "desc": "Každý kanál má měsíční strop nákladů na objednávku. Pokud cíl dva měsíce nesplní, rozpočet přesouváme jinam – žádné výmluvy."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "Otázky, které majitele dermatologií zajímají nejvíce.",
+    "items": [
+      {
+        "q": "V čem se lišíte od běžné marketingové agentury?",
+        "a": "Agentury prodávají zobrazení, kliknutí nebo pozice. My prodáváme objednané pacienty a výnosy – každý náš výstup je navázán na metriky růstu ve vašem účetnictví. Pokud kanál neplní cenu za objednávku, zrušíme ho, neobhajujeme ho."
+      },
+      {
+        "q": "Jak vypadá prvních 90 dní spolupráce?",
+        "a": "1.–30. den: diagnostika, stanovení výchozího stavu, model růstu a přestavba konverzní cesty. 31.–60. den: ladění rezervací, spuštění SEO a lokálních kampaní, start správy recenzí. 61.–90. den: spuštění placených kanálů, programy doporučení a první měsíční report pro vedení."
+      },
+      {
+        "q": "Spolupracujete s klinikami, které mají více poboček?",
+        "a": "Ano, to je naše specializace. Nastavujeme ziskovost pro každou lokalitu, samostatné marketingové rozpočty pro kliniky a centralizované hlídání značky, aby žádná pobočka nevybočila z koncepce."
+      },
+      {
+        "q": "Je vše v souladu s HIPAA?",
+        "a": "Ano. Veškeré automatizace, integrace a procesy recenzí běží na infrastruktuře kryté smlouvou BAA. Šablony odpovědí nikdy neobsahují PHI údaje a předem auditujeme vaše stávající formuláře a systémy na rizika úniku dat."
+      },
+      {
+        "q": "Integrujete se s naším ambulantním systémem?",
+        "a": "Integrujeme se s hlavními platformami jako Nextech, ModMed, EMA či AdvancedMD. Tam, kde hluboká integrace není možná, nastavujeme sledování konverzí na úrovni rezervace, aby byla každá návštěva započtena."
+      },
+      {
+        "q": "Co se stane, když kanál nefunguje?",
+        "a": "Zastavíme ho. Každý kanál má předem dohodnutý strop nákladů na získanou návštěvu. Pokud jej dva měsíce po sobě překročí bez jasného sezónního důvodu, přesouváme budget do výkonných kanálů – žádné obhajování utopených nákladů."
+      }
+    ]
+  },
+  "cta": {
+    "badge": "Bezplatný audit růstu",
+    "title": "Zjistěte přesně, kde přicházíte o pacienty – do 48 hodin.",
+    "description": "Audit akvizice, analýza konverzních tras, identifikace mezer v retenci a prioritní 90denní plán růstu – vše namapováno na ziskovost vašich služeb. Zdarma, bez obchodních prezentací.",
+    "primary": "Chci audit zdarma",
+    "secondary": "Vyžádat cenovou nabídku"
+  },
+  "stickyCta": {
+    "label": "Audit růstu zdarma – 48 hod",
+    "button": "Získat"
+  },
+  "related": {
+    "prefix": "Mohlo by vás zajímat: ",
+    "links": {
+      "marketing": "průvodce marketingem pro majitele dermatologických praxí",
+      "googleAds": "akvizice pacientů pomocí Google Ads",
+      "reputation": "systémy pro recenze a správu reputace"
+    }
+  }
+}

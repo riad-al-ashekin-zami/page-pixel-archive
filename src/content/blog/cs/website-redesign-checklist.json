@@ -1,0 +1,78 @@
+{
+  "slug": "website-redesign-checklist",
+  "title": "Kontrolní seznam pro redesign webových stránek pro dermatologické praxe",
+  "excerpt": "32 otázek k zodpovězení, než se dotknete jediného pixelu — od formulářů HIPAA po konverzi hrdinů.",
+  "imageAlt": "Maketa moderních dermatologických webových stránek na stolním počítači a tabletu ve světlé kanceláři",
+  "body": [
+    {
+      "text": "Redesign, který vynechává fázi objevování, je jen drahé osvěžení. Než otevřeme designový nástroj, provedeme každú praxi tímto 32-otázkovým kontrolním seznamem napříč značkou, konverzí, dodržováním předpisů a technickou připraveností. Účelem kontrolního seznamu není věci zpomalit – je to proto, abychom zajistili, že pixely, které nakonec použijete, skutečně slouží strategii namísto moodboardu."
+    },
+    {
+      "text": "Většina redesignů selže z jednoho ze tří důvodů: praxe nikdy nedefinovala, co znamená „dobrý“ web pro jejich cíle, proces přijímání a rezervace je navržen spíše podle interního pohodlí než chování pacienta, nebo tým spustí web, který porušuje HIPAA, protože sledování bylo nastaveno automaticky. Každá sekce níže je navržena tak, aby zachytila jeden z těchto režimů selhání dříve, než vás to bude stát 40 tisíc a šest měsíců."
+    },
+    {
+      "heading": "Značka a positioning"
+    },
+    {
+      "list": [
+        "Kdo je váš ideální pacient v jedné větě? (věk, pohlaví, příjem, hlavní problém)",
+        "Kteří jsou tři konkurenti, se kterými vás pacienti srovnávají?",
+        "Jaký je jediný pocit, který chcete, aby návštěvníci měli za 5 sekund?",
+        "Pokud by někdo popsal vaši praxi příteli v jedné větě, co byste chtěli, aby řekli?",
+        "Jaký máte důkaz, že tato pozice je pravdivá – recenze, výsledky, pověření?"
+      ]
+    },
+    {
+      "text": "Pokud nedokážete odpovědět na těchto pět otázek ve sdíleném dokumentu, na kterém se shodne celý váš tým, nejste připraveni navrhovat domovskou stránku – jste připraveni uspořádat workshop o pozicování."
+    },
+    {
+      "heading": "Konverze a rezervační tok"
+    },
+    {
+      "text": "Každé další pole ve vašem přijímacím formuláři snižuje konverzi o 4–6 %. Každé další kliknutí mezi hrdinou a akcí rezervace snižuje konverzi o 8–12 %. Redesign je okamžikem pro audit každého kroku funnelu, nemilosrdné odstranění všeho nepodstatného a instrumentování cesty, abyste mohli po spuštění prokázat, co skutečně ovlivňuje výsledky."
+    },
+    {
+      "list": [
+        "Kolik kliknutí je dnes z domovské stránky k rezervované schůzce?",
+        "Jaká je dnes míra konverze vaší mobilní rezervace?",
+        "Kolik polí formuláře je dnes povinných a které se skutečně používají?",
+        "Jaká je primární CTA na vaší domovské stránce – a je viditelná bez posouvání na mobilu?",
+        "Co se stane po odeslání formuláře – přijde potvrzovací e-mail do 30 sekund?"
+      ]
+    },
+    {
+      "heading": "HIPAA a dodržování předpisů"
+    },
+    {
+      "text": "Vynucování HIPAA ohledně sledování webových stránek se od roku 2022 dramaticky stupňuje. Pokud váš redesign zdědí váš aktuální chatovací widget, poskytovatele formulářů nebo nastavení analytiky bez kontroly dodržování předpisů, spouštíte novou stránku se starým závazkem."
+    },
+    {
+      "list": [
+        "Jsou chatovací widgety nakonfigurovány tak, aby odstraňovaly PHI z logů?",
+        "Odesílají vaše přijímací formuláře data přes šifrovaný kanál do destinace vyhovující standardu HIPAA?",
+        "Podepsali jste smlouvy BAA s každou službou třetí strany, která se dotýká dat pacientů?",
+        "Je váš Meta Pixel nakonfigurován se serverovým filtrováním na jakékoli stránce zmíněné podmínky?",
+        "Maskuje váš nástroj pro opakování relací pole formuláře ve výchozím nastavení?"
+      ]
+    },
+    {
+      "heading": "Technická připravenost"
+    },
+    {
+      "text": "Technická sekce je místem, kde se většina redesignů tiše zlomí. Krásný web, který se načítá za šest sekund na 4G, prohraje s jednoduchým webem, který se načítá za dvě sekundy. Web s nefunkčními přesměrováními ztratí hodnocení, které jste si vydobyli za dva roky. Nejdřív se postarejte o nudné věci."
+    },
+    {
+      "list": [
+        "Máte kompletní inventuru aktuálních URL adres a jejich příchozích zpětných odkazů?",
+        "Máte mapu přesměrování 1:1 ze starého webu na nový?",
+        "Jaké jsou vaše cílové LCP, CLS a INP pro spuštění – a jak je ověříte?",
+        "Kdo je vlastníkem přístupu do Search Console a je vlastnost ověřena?",
+        "Naplánovali jste prohledání stagingového webu před přepnutím DNS?"
+      ]
+    },
+    {
+      "text": "Odpovězte na každou otázku v tomto kontrolním seznamu upřímně, než načrtnete první wireframe. Týmy, které spouští redesigny bez lítosti, jsou týmy, které považují objevování za výsledek, nikoli za dodatečnou myšlenku. Dva týdny disciplinovaných odpovědí nyní ušetří dva čtvrtletí pozdějšího přestavování."
+    }
+  ],
+  "faqs": null
+}

@@ -1,0 +1,327 @@
+{
+  "services": {
+    "eyebrow": "Palvelumme",
+    "headingLead": "Kaikki mitä hoitolasi tarvitsee",
+    "headingHighlight": "kasvaakseen verkossa.",
+    "intro": "Räätälöidyistä verkkosivuista hakukoneoptimointiin ja potilaiden hankintaan, jokainen palvelu on suunniteltu auttamaan ihotautiklinikoita houkuttelemaan, muuttamaan ja pitämään potilaita verkossa.",
+    "exploreAriaLabel": "Tutustu {{title}}-palveluihin",
+    "exploreCta": "Tutustu {{title}}",
+    "mostPopular": "Suosituin",
+    "footerLead": "Etkö ole varma, mistä aloittaa?",
+    "footerHighlight": "Rakennamme räätälöidyn suunnitelman hoitolallesi.",
+    "footerCta": "Pyydä ilmainen tarjous",
+    "items": {
+      "customWebsite": {
+        "title": "Räätälöity verkkosivujen suunnittelu",
+        "description": "Konversioihin keskittyvät ihotautiklinikoiden sivustot, jotka on rakennettu brändisi ja potilaan matkan ympärille."
+      },
+      "redesign": {
+        "title": "Verkkosivujen uudelleensuunnittelu",
+        "description": "Modernisoi nykyinen sivustosi nopeammilla latausajoilla, paremmalla käyttökokemuksella ja korkeammalla konversiolla."
+      },
+      "migration": {
+        "title": "Verkkosivujen siirto",
+        "description": "Siirrä nykyinen sivustosi saumattomasti ilman käyttökatkoksia ja menettämättä hakukoneoptimoinnin arvoa."
+      },
+      "multiLocation": {
+        "title": "Monipaikkaiset hoitolat",
+        "description": "Skaalautuva arkkitehtuuri ja paikallinen hakukoneoptimointi klinikoille, joilla on useita toimipisteitä."
+      },
+      "ecommerce": {
+        "title": "Verkkokauppasivustot",
+        "description": "Myy ihonhoitotuotteita verkossa turvallisella kassalla ja sisäänrakennetulla varastonhallinnalla."
+      },
+      "patientPortal": {
+        "title": "Potilasportaali",
+        "description": "Turvalliset, HIPAA-tietoiset potilasportaalit tiedonkeruuta, potilastietoja ja viestintää varten."
+      },
+      "maintenance": {
+        "title": "Verkkosivujen hoito ja ylläpito",
+        "description": "Jatkuvat päivitykset, varmuuskopiot, tietoturva ja suorituskyvyn seuranta mielenrauhan takaamiseksi."
+      },
+      "seo": {
+        "title": "SEO ihotautilääkäreille",
+        "description": "Sijoitu korkealle hakutuloksissa korkean aikomuksen hauissa ja tuo päteviä potilaita hoitolallesi."
+      },
+      "googleAds": {
+        "title": "Google Ads & PPC",
+        "description": "Ennakoitava, mitattavissa oleva potilaiden hankinta optimoiduilla mainoskampanjoilla."
+      }
+    }
+  },
+  "pricing": {
+    "eyebrow": "Läpinäkyvä hinnoittelu",
+    "heading": "Ei piilokuluja. Ei pitkiä sopimuksia.",
+    "intro": "Useimmat toimistot piilottavat hinnoittelunsa. Me emme – näet tarkalleen, mitä maksat ennen kuin edes puhut meille.",
+    "mostPopular": "Suosituin",
+    "startingAt": "alkaen ",
+    "seeDetails": "Katso lisätiedot",
+    "fullBreakdown": "Katso täysi hinnoitteluerittely ja ominaisuuksien vertailu",
+    "tiers": {
+      "starter": {
+        "name": "Aloittelija",
+        "pages": "1 sivu",
+        "description": "Täydellinen uusille ihotautilääkäreille, jotka julkaisevat ensimmäisen ammatillisen verkkosivustonsa."
+      },
+      "clinicPro": {
+        "name": "Klinikka Pro",
+        "pages": "5–8 sivua",
+        "description": "Ihanteellinen yksin- ja pienille klinikoille, jotka ovat valmiita houkuttelemaan lisää potilasvarauksia."
+      },
+      "practiceGrowth": {
+        "name": "Klinikan kasvu",
+        "pages": "10–15 sivua",
+        "description": "Rakennettu kasvaville klinikoille, jotka tarvitsevat vahvempaa hakukoneoptimointia, konversioita ja pitkän aikavälin kasvua."
+      },
+      "enterprise": {
+        "name": "Yritys",
+        "pages": "15+ sivua / räätälöity",
+        "description": "Räätälöityjä ratkaisuja monipaikkaisille klinikoille, yritysihotautiryhmille ja ihonhoitoverkkokauppabrändeille."
+      }
+    }
+  },
+  "approach": {
+    "eyebrow": "Metodologia",
+    "headingLead": "Systemaattinen lähestymistapa",
+    "headingHighlight": "kestävään potilaskasvuun.",
+    "intro": "Tarkkaan suunniteltu, kuudenvaiheinen kehys, joka on suunniteltu erityisesti nopeasti kasvaville ihotautiklinikoille. Napsauta mitä tahansa vaihetta tutkiaksesi sitä.",
+    "phaseLabel": "Vaihe",
+    "stepLabel": "Vaihe {{n}}",
+    "prevAria": "Edellinen vaihe",
+    "nextAria": "Seuraava vaihe",
+    "deliverables": "{{count}} toimitettavaa",
+    "whatHappens": "Mitä tässä vaiheessa tapahtuu",
+    "seeFullProcess": "Katso koko prosessi",
+    "steps": {
+      "discovery": {
+        "title": "Tutkimus ja sopimus",
+        "short": "Tutkimus",
+        "description": "Se alkaa, kun otat yhteyttä. Tarkistamme hoitolasi, sovimme tavoitteista ja laajuudesta sekä viimeistelemme selkeän sopimuksen – jotta molemmat osapuolet tietävät, mitä toimitetaan ennen kuin mihinkään työhön ryhdytään.",
+        "details": [
+          "Alkuperäinen yhteydenotto ja vaatimusten tarkastus",
+          "Laajuus, aikataulu ja toimitettavat asiat sovitettu",
+          "Läpinäkyvä tarjous ja hinnoittelu",
+          "Allekirjoitettu sopimus jatkamisesta"
+        ]
+      },
+      "onboarding": {
+        "title": "Perehdyttäminen",
+        "short": "Perehdyttäminen",
+        "description": "Kun maksu on vahvistettu, sinut otetaan virallisesti mukaan. Keräämme kaiken tarvittavan – brändimateriaalit, sisällön suunnan ja pääsyn – sujuvalla, ohjatulla siirrolla.",
+        "details": [
+          "Maksu vahvistettu ja projekti käynnistetty",
+          "Brändimateriaalit ja sisältö kerätty – tai luotu ja ehdotettu meidän toimestamme, jos sinulla ei ole niitä",
+          "Pääsy ja tilit perustettu turvallisesti",
+          "Projektisuunnitelma jaettu tiimisi kanssa"
+        ]
+      },
+      "design": {
+        "title": "Suunnittelu",
+        "short": "Suunnittelu",
+        "description": "Muunnamme hoitolasi auktoriteetin ensiluokkaiseksi, brändin mukaiseksi visuaaliseksi kieleksi – keskittyen luottamukseen, selkeyteen ja kitkatta toimivaan potilasvaraukseen.",
+        "details": [
+          "Brändin mukainen visuaalinen suunnittelu jokaiselle keskeiselle sivulle",
+          "Konversioon keskittyvä UX varausten kulkuun",
+          "Saavutettavat, mobiiliystävälliset asettelut"
+        ]
+      },
+      "build": {
+        "title": "Rakentaminen",
+        "short": "Rakentaminen",
+        "description": "Rakennamme sivustosi käsin hakukoneoptimoinnin, suorituskyvyn ja lääketieteellisen tarkan rakenteen huomioiden – jotta se on valmis sijoittumaan ja konvertoimaan ensimmäisestä päivästä lähtien.",
+        "details": [
+          "Käsin koodatut, salamannopeat sivut",
+          "Skeemamerkintä ihotautipalveluille",
+          "Core Web Vitals -optimointi (yli 95 pistettä)",
+          "Sivuston sisäinen hakukoneoptimointi jokaiselle palvelulle ja sijainnille"
+        ]
+      },
+      "launch": {
+        "title": "Käynnistäminen",
+        "short": "Käynnistäminen",
+        "description": "Sivustosi julkaistaan puhtaalla, nollakatkoksen migraatiolla – analytiikka, seuranta ja vaatimustenmukaisuuden tarkistukset ovat täysin paikoillaan ensimmäisestä kävijästä lähtien.",
+        "details": [
+          "Täysi laadunvarmistus laitteiden ja selaimien välillä",
+          "HIPAA-tietoinen vaatimustenmukaisuuden tarkistus",
+          "Analytiikka, seuranta ja puhelujen attribuutio",
+          "Nollakatkosaika migraatiossa ja 301-ohjaukset"
+        ]
+      },
+      "growth": {
+        "title": "Kasvu & katsaus",
+        "short": "Kasvu",
+        "description": "Käynnistämisen jälkeen keräämme palautteesi ja hienosäädämme tarvittaessa. Sen jälkeen keskitymme kumulatiiviseen kasvuun – sisältöön, optimointiin ja raportointiin kuukausi toisensa jälkeen.",
+        "details": [
+          "Julkaisun jälkeinen tarkistus ja hienosäädöt",
+          "Jatkuva SEO-sisältö ja optimointi",
+          "Jatkuva CRO ja suorituskyvyn viritys",
+          "Läpinäkyvä kuukausiraportointi"
+        ]
+      }
+    }
+  },
+  "whyChoose": {
+    "eyebrow": "Miksi valita meidät",
+    "eyebrowSuffix": "— DermatologyWebsiteDesign.com",
+    "headingLead": "Ainoa toimisto",
+    "headingHighlight": "100% keskittynyt ihotautihoitoon",
+    "intro": "Yleiset verkkoagentuurit rakentavat verkkosivustoja. Me rakennamme potilasputkia – suunniteltuna erityisesti dermatologiahoidon kasvua varten.",
+    "reasons": {
+      "pricing": {
+        "title": "Läpinäkyvä hinnoittelu",
+        "description": "Jokaisella paketilla on julkaistu hinta. Ei tarvitse selvittää hintoja erillisillä puheluilla. 75 % kilpailijoista salaa hinnoittelun – me emme."
+      },
+      "niche": {
+        "title": "Vain ihotautihoitoon keskittynyt",
+        "description": "Emme rakenna ravintolasivustoja tai verkkokauppoja. Tunnemme HIPAA-vaatimustenmukaisuuden, ennen/jälkeen-kuvien säännöt ja kosmeettisten toimenpiteiden hakukoneoptimoinnin läpikotaisin."
+      },
+      "noLockIn": {
+        "title": "Ei pitkän aikavälin sitovaa sopimusta",
+        "description": "Kuukausittaiset hoitosuunnitelmat. Ei 12 kuukauden toimistosopimuksia, jotka pitävät sinut panttivankina. Ansaitsemme luottamuksesi joka ikinen kuukausi."
+      },
+      "rank": {
+        "title": "Suunniteltu sijoittumaan Googlessa",
+        "description": "Jokainen sivusto toimitetaan asianmukaisella sivuston sisäisellä SEO:lla, skeemamerkinnällä, Core Web Vitals -optimoinnilla ja sisältöstrategialla – ei lisäpalveluna, vaan perustana."
+      }
+    }
+  },
+  "whySwitch": {
+    "eyebrow": "Miksi klinikat vaihtavat meille",
+    "headingLead": "Kaikki verkkosivustoagentuurit",
+    "headingHighlight": "eivät ole samanlaisia.",
+    "intro": "Katso tarkalleen, mitä muuttuu, kun työskentelet tiimin kanssa, joka rakentaa vain dermatologialle.",
+    "colWhatMatters": "Mitä merkitsee",
+    "colOthers": "Useimmat verkkoagentuurit",
+    "colUs": "Dermatologian verkkosivujen suunnittelu",
+    "mobileOthersLabel": "Useimmat toimistot",
+    "mobileUsLabel": "Meidän lähestymistapamme",
+    "rows": {
+      "focus": {
+        "matter": "Toimialakeskittyminen",
+        "others": "Palvelevat kaikkia toimialoja",
+        "us": "100 % dermatologiaan keskittynyt"
+      },
+      "seo": {
+        "matter": "SEO-strategia",
+        "others": "Yleinen SEO",
+        "us": "Dermatologian spesifinen SEO"
+      },
+      "hipaa": {
+        "matter": "HIPAA-tietämys",
+        "others": "Rajoitettu terveydenhuoltokokemus",
+        "us": "Vaatimustenmukainen alusta alkaen"
+      },
+      "goal": {
+        "matter": "Verkkosivuston tavoite",
+        "others": "Kaunis verkkosivusto",
+        "us": "Lisää potilaskyselyjä"
+      },
+      "afterLaunch": {
+        "matter": "Julkaisun jälkeen",
+        "others": "Projekti valmis",
+        "us": "Jatkuva tuki & kasvu"
+      },
+      "pricing": {
+        "matter": "Hinnoittelu",
+        "others": "Usein mukautetut tarjoukset",
+        "us": "Läpinäkyvä julkaistu hinnoittelu"
+      }
+    }
+  },
+  "testimonials": {
+    "eyebrow": "Asiakaskertomukset",
+    "headingLead": "Luotettu",
+    "headingHighlight": "moderneihin ihotautiklinikoihin.",
+    "prevAria": "Edelliset asiakaskertomukset",
+    "nextAria": "Seuraavat asiakaskertomukset",
+    "goToSlide": "Siirry diaan {{n}}",
+    "items": {
+      "sarahM": {
+        "quote": "Klinikallamme uusien potilaskyselyjen määrä kasvoi 40 % kolmen kuukauden kuluessa uuden sivuston julkaisusta. HIPAA-yhteensopivuuden asennus hoidettiin saumattomasti – meidän ei tarvinnut huolehtia mistään.",
+        "role": "Hallituksen sertifioitu ihotautilääkäri",
+        "practice": "RS Institute"
+      },
+      "rajK": {
+        "quote": "Olin työskennellyt kolmen verkkoagentuurin kanssa aiemmin – kukaan heistä ei ymmärtänyt ihotautioppia. Nämä kaverit tiesivät tarkalleen, mitä hoitosivuja tarvitsin, miten rakentaa ennen/jälkeen-galleria, ja sivusto sijoittuu nyt ensimmäiselle sivulle.",
+        "role": "Kosmeettinen ihotautilääkäri",
+        "practice": "LA Dermatology"
+      },
+      "jenniferL": {
+        "quote": "Hinnoittelu oli selkeä heti alusta alkaen, rakennusaikataulu oli tarkka, ja he jopa auttoivat meitä perustamaan ihonhoitotuotekauppamme. Paras investointi, jonka klinikamme on tehnyt vuosien varrella.",
+        "role": "Klinikan johtaja",
+        "practice": "SC Associates"
+      },
+      "ameliaC": {
+        "quote": "He kirjoittivat jokaisen palvelusivun uudelleen tavalla, joka todella kuulostaa meidän klinikaltamme. Konsultointipyyntöjen määrä sivuston kautta on yli kaksinkertaistunut uudelleenjulkaisun jälkeen.",
+        "role": "Lääketieteellinen johtaja",
+        "practice": "ND Group"
+      },
+      "hanaS": {
+        "quote": "Kaunis, nopea ja aidosti brändin mukainen. Potilaat kommentoivat sivustoa jatkuvasti – se luo tunnelman jo ennen heidän saapumistaan.",
+        "role": "Yli-ihotautilääkäri",
+        "practice": "MS Clinic"
+      },
+      "elliotN": {
+        "quote": "Läpinäkyvä kuukausiraportointi, todellinen SEO-kehitys ja suunnittelutiimi, joka osaa myös olla eri mieltä tarvittaessa. Juuri sellainen kumppani, jonka toivoimme löytävämme.",
+        "role": "Toimitusjohtaja",
+        "practice": "SD Partners"
+      }
+    }
+  },
+  "freeAudit": {
+    "eyebrow": "Ilmainen verkkosivuanalyysi",
+    "headingLead": "Hanki ilmainen",
+    "headingHighlight": "dermatologian verkkosivustosi analyysi.",
+    "intro": "Tarkistamme nykyisen verkkosivustosi, tunnistamme SEO-, nopeus-, suunnittelu- ja konversio-mahdollisuudet ja lähetämme sinulle henkilökohtaisen toimintasuunnitelman 48 tunnin kuluessa – täysin maksutta.",
+    "features": {
+      "actionPlan": "Henkilökohtainen toimintasuunnitelma",
+      "delivered": "Toimitetaan 48 tunnin kuluessa",
+      "free": "Ei velvoitteita, 100 % ilmainen",
+      "insights": "SEO-, nopeus- ja konversiotilastoja"
+    },
+    "form": {
+      "emailLabel": "Työsähköpostiosoitteesi",
+      "emailPlaceholder": "sinun@klinikkasi.com",
+      "websiteLabel": "Nykyisen verkkosivuston URL-osoite",
+      "websiteOptional": "(valinnainen)",
+      "websitePlaceholder": "klinikkasi.com",
+      "submit": "Hanki ilmainen tarkistus",
+      "sending": "Lähetetään…",
+      "privacy": "Emme koskaan jaa sähköpostiosoitettasi. Ei roskapostia, koskaan.",
+      "errorInvalidEmail": "Anna kelvollinen työsähköpostiosoite",
+      "errorInvalidInput": "Virheellinen syöte",
+      "errorGeneric": "Valitettavasti jokin meni pieleen. Yritä uudelleen.",
+      "successTitle": "Pyyntö vastaanotettu.",
+      "successMessage": "Henkilökohtainen tarkistuksesi on matkalla. Lähetämme toimintasuunnitelmasi sähköpostitse 48 tunnin kuluessa."
+    }
+  },
+  "faqSnippet": {
+    "eyebrow": "Usein kysytyt kysymykset",
+    "headingLead": "Vastauksia",
+    "headingHighlight": "yleisimpiin kysymyksiin.",
+    "intro": "Nopea katsaus siitä, mitä ihotautiklinikat kysyvät ennen kanssamme työskentelyä. Tarvitsetko tarkempia tietoja? Koko UKK sisältää kaiken.",
+    "seeAll": "Katso kaikki UKK:t",
+    "items": {
+      "timeline": {
+        "q": "Kuinka kauan kestää uuden ihotautihoitosivuston julkaiseminen?",
+        "a": "Useimmat projektit julkaistaan 4–6 viikossa – löydöistä julkaisuun. Aikataulut riippuvat sisällön valmiudesta ja laajuudesta, ja jaamme selkeän viikoittaisen tiekartan perehdytyksen aikana."
+      },
+      "hipaa": {
+        "q": "Hoidatteko HIPAA-yhteensopivuutta ja potilaan yksityisyyttä?",
+        "a": "Kyllä. Jokainen rakennus on HIPAA-yhteensopiva: turvallinen isännöinti, salatut lomakkeet, BAA-valmiit integraatiot yhteydenottoa ja potilaan sisäänkirjautumista varten sekä vaatimustenmukaisuustarkastus ennen julkaisua."
+      },
+      "ranking": {
+        "q": "Auttaako uusi verkkosivustoni todella sijoittumaan Googlessa?",
+        "a": "SEO on suunniteltu alusta alkaen – dermatologiaspesifi skeemamerkintä, palvelu- ja sijaintisivut, Core Web Vitals yli 95 ja sivun sisäinen rakenne, joka on rakennettu ansaitsemaan sijoituksia varauksia ohjaaville hauille."
+      },
+      "migration": {
+        "q": "Voitteko siirtää nykyisen sivustoni menettämättä liikennettä?",
+        "a": "Suoritamme nollakatkoksen migraation täydellä 301-uudelleenohjauskartoituksella, säilytetyllä metadatalla ja julkaisun jälkeisellä indeksointitarkastuksella – jotta sijoitukset ja viittausliikenne siirtyvät puhtaasti."
+      },
+      "support": {
+        "q": "Millaista jatkuva tuki on julkaisun jälkeen?",
+        "a": "Saat oman yhteyshenkilön, kuukausittaisen raportoinnin, jatkuvan CRO- ja SEO-virityksen sekä teknisen ylläpidon – jotta sivusto jatkaa tulosten kerryttämistä eikä vanhene."
+      }
+    }
+  }
+}

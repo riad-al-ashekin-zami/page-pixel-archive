@@ -1,0 +1,257 @@
+{
+  "meta": {
+    "title": "Conception et développement de portails patients en dermatologie | Conforme HIPAA",
+    "description": "Portail patient personnalisé et conforme HIPAA pour la dermatologie : prise de rendez-vous, messagerie sécurisée, télédermatologie, formulaires en ligne, paiement de factures, renouvellement d'ordonnances et intégration EHR. Pour cabinets solos, multisites, pédiatriques et Mohs.",
+    "og_title": "Conception et développement de portails patients en dermatologie",
+    "og_description": "Portails patients conformes HIPAA conçus pour les cabinets de dermatologie — gestion des rendez-vous, messagerie, télédermatologie, admission numérique, paiement et intégration EHR.",
+    "twitter_title": "Conception et développement de portails patients en dermatologie",
+    "twitter_description": "Portails patients conformes HIPAA spécialement conçus pour les cliniques de dermatologie.",
+    "jsonLd": {
+      "serviceType": "Conception et développement de portails patients en dermatologie",
+      "provider": "DermatologyWebsiteDesign.com",
+      "areaServed": "États-Unis",
+      "description": "Conception et développement de portails patients conformes HIPAA pour les cliniques dermatologiques.",
+      "breadcrumb_home": "Accueil",
+      "breadcrumb_services": "Services",
+      "breadcrumb_portal": "Portail Patient"
+    }
+  },
+  "hero": {
+    "badge": "Portail Patient Dermatologie",
+    "title_start": "Un portail patient que votre cabinet de dermatologie ",
+    "title_highlight": "aura vraiment plaisir à utiliser.",
+    "description": "Portails patients personnalisés et conformes HIPAA avec prise de rendez-vous 24/7, messagerie sécurisée, télédermatologie, admission en ligne, paiement de factures et intégration EHR profonde — conçu pour les cabinets solos, multisites, pédiatriques et Mohs.",
+    "cta_quote": "Obtenir un devis gratuit",
+    "cta_features": "Découvrir les fonctionnalités",
+    "stats": [
+      {
+        "value": "4–6 sem",
+        "label": "Délai de lancement"
+      },
+      {
+        "value": "HIPAA",
+        "label": "Conforme par défaut"
+      },
+      {
+        "value": "24/7",
+        "label": "Auto-planification"
+      },
+      {
+        "value": "Zéro",
+        "label": "Frais par patient"
+      }
+    ]
+  },
+  "mockPortal": {
+    "header_category": "Portail Patient",
+    "header_greeting": "Bonjour, Sarah",
+    "status": "Sécurisé",
+    "items": [
+      {
+        "label": "Bilan cutané annuel",
+        "meta": "Ven · 14h30 · Dr Patel"
+      },
+      {
+        "label": "Message du Dr Nguyen",
+        "meta": "Résultat biopsie — bénin ✓"
+      },
+      {
+        "label": "Renouvellement demandé",
+        "meta": "Trétinoïne 0,05% · CVS #402"
+      },
+      {
+        "label": "Facture à payer",
+        "meta": "48,20 $ · Payer en 1 clic"
+      }
+    ],
+    "footer_encryption": "Chiffré de bout en bout",
+    "footer_biometrics": "Face ID activé"
+  },
+  "sections": {
+    "audiences": {
+      "title": "Conçu pour",
+      "items": [
+        "Dermatologues en cabinet solo",
+        "Cliniques de dermatologie multisites",
+        "Dermatologie pédiatrique",
+        "Chirurgie de Mohs et dermatologique"
+      ]
+    },
+    "medical_services": {
+      "title": "Prise en charge de tous les services médicaux",
+      "items": [
+        "Traitement de l'acné",
+        "Traitement de l'eczéma",
+        "Traitement du psoriasis",
+        "Infections cutanées",
+        "Allergies cutanées",
+        "Dépistage et traitement du cancer de la peau",
+        "Évaluation et retrait de grains de beauté",
+        "Excision de kystes et lipomes",
+        "Traitement des verrues",
+        "Pathologies de l'ongle",
+        "Traitement de la chute de cheveux",
+        "Affections du cuir chevelu",
+        "Traitement de la rosacée",
+        "Hyperpigmentation et mélasma",
+        "Traitement des cicatrices",
+        "Cicatrices de brûlures",
+        "Traitement du vitiligo",
+        "Biopsies cutanées et diagnostics"
+      ]
+    },
+    "metrics": {
+      "items": [
+        {
+          "value": "38 %",
+          "label": "Moins de rendez-vous non honorés"
+        },
+        {
+          "value": "4.9×",
+          "label": "Réponse plus rapide du secrétariat"
+        },
+        {
+          "value": "22 h",
+          "label": "Temps admin gagné par semaine"
+        }
+      ]
+    },
+    "testimonial": {
+      "quote": "Nos patients ont enfin cessé d'appeler pour décaler leurs rendez-vous. Réservations, renouvellements et résultats de biopsie : tout se passe sur le portail. Mes assistants ont retrouvé leur sérénité.",
+      "author": "Dr Priya Desai, MD",
+      "clinic": "Desai Dermatology · 3 sites"
+    },
+    "core_features": {
+      "badge": "Fonctionnalités clés",
+      "title": "Tout ce dont un patient et votre secrétariat ont besoin.",
+      "description": "Une interface unique et sécurisée pour la planification, la communication, les flux cliniques et les paiements — remplaçant les 5 à 7 outils déconnectés que la plupart des cliniques utilisent aujourd'hui.",
+      "items": [
+        {
+          "title": "Réservation de rendez-vous en ligne",
+          "desc": "Agendas des praticiens en temps réel, pré-vérification des assurances et confirmations automatiques — une autonomie 24/7 pour remplir votre planning."
+        },
+        {
+          "title": "Messagerie patient sécurisée",
+          "desc": "Chat bidirectionnel chiffré HIPAA entre patients, accueil et personnel clinique — avec historique d'audit et accusés de lecture."
+        },
+        {
+          "title": "Formulaires d'admission et consentements numériques",
+          "desc": "Anamnèse et consentements par signature électronique complétés avant la visite — synchronisés directement avec votre EHR."
+        },
+        {
+          "title": "Paiement de factures en ligne",
+          "desc": "Paiements par carte conformes PCI, HSA et FSA, plans de paiement et factures dématérialisées — encaissez plus rapidement et sans friction."
+        },
+        {
+          "title": "Demandes de renouvellement d'ordonnances",
+          "desc": "Demandes en un clic transmises au bon praticien avec historique médicamenteux, allergies et pharmacie enregistrée."
+        },
+        {
+          "title": "Résultats de laboratoire et rapports de biopsie",
+          "desc": "Publication des résultats de pathologie et de laboratoire avec des résumés clairs et des notes du praticien accessibles aux patients."
+        },
+        {
+          "title": "Consultations en télédermatologie",
+          "desc": "Vidéo HD chiffrée avec salle d'attente, téléchargement d'images et saisie clinique intégrée — sans logiciel tiers."
+        },
+        {
+          "title": "Rappels et suivis intelligents",
+          "desc": "Rappels par SMS et e-mail, rappels pour bilans annuels et relances pour rendez-vous manqués récupérant 20 à 30 % du revenu perdu."
+        }
+      ]
+    },
+    "security": {
+      "badge": "Sécurité et conformité",
+      "title": "La conformité HIPAA dès la première ligne de code.",
+      "description": "La sécurité n'est pas une option ajoutée après coup. Chaque décision architecturale — hébergement, base de données, messagerie, vidéo — est conçue pour la protection des données de santé (PHI).",
+      "cta": "Demander notre pack de conformité",
+      "items": [
+        {
+          "title": "Architecture conforme HIPAA",
+          "desc": "Données PHI chiffrés au repos (AES-256) et en transit (TLS 1.3). BAA signés avec chaque sous-traitant."
+        },
+        {
+          "title": "Contrôle d'accès basé sur les rôles",
+          "desc": "Permissions granulaires pour les médecins, assistants, facturiers et accueil — avec logs d'audit complets."
+        },
+        {
+          "title": "MFA et connexion biométrique",
+          "desc": "Passkeys, Face ID et TOTP pour patients et personnel. Finies les réinitialisations de mots de passe et le phishing."
+        },
+        {
+          "title": "Accès Famille et Aidants",
+          "desc": "Accès par procuration pour les parents ou conjoints avec révocation automatique basée sur l'âge."
+        }
+      ]
+    },
+    "workflow": {
+      "badge": "Processus de lancement",
+      "title": "Du coup d'envoi à la mise en ligne en 4 à 6 semaines.",
+      "steps": [
+        {
+          "step": "Étape 01",
+          "title": "Audit EHR et Discovery",
+          "desc": "Nous analysons votre EHR actuel, votre PMS et vos flux de travail lors d'une session de travail de 60 minutes."
+        },
+        {
+          "step": "Étape 02",
+          "title": "Design et image de marque",
+          "desc": "Interface utilisateur personnalisée à l'image de votre cabinet — pas de modèle générique."
+        },
+        {
+          "step": "Étape 03",
+          "title": "Intégrations et migration",
+          "desc": "EHR, e-Rx, labos, paiements et télésanté connectés de bout en bout. Migration propre des données patients."
+        },
+        {
+          "step": "Étape 04",
+          "title": "Formation et déploiement",
+          "desc": "Formation en direct, guides de procédures et période d'accompagnement VIP de 30 jours."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "badge": "Questions",
+    "title": "Questions fréquentes sur le portail",
+    "items": [
+      {
+        "q": "Le portail patient est-il conforme HIPAA ?",
+        "a": "Oui. Chaque couche — hébergement, base de données, messagerie, vidéo et analytique — respecte les normes HIPAA. Nous signons un BAA et fournissons une documentation complète sur le chiffrement et le contrôle des accès."
+      },
+      {
+        "q": "S'intègre-t-il avec mon logiciel EHR ?",
+        "a": "Nous intégrons les principaux EHR de dermatologie (Modernizing Medicine / EMA, Nextech, EZDERM, DrChrono, Athena, eClinicalWorks, Practice Fusion, Epic, Cerner) via HL7, FHIR ou API. Pour les logiciels spécifiques, nous créons une intégration sur mesure."
+      },
+      {
+        "q": "Les patients peuvent-ils réserver sans créer de compte ?",
+        "a": "Oui. La réservation en mode 'invité' est possible pour les nouveaux patients. Le compte est créé automatiquement après confirmation du rendez-vous via un lien d'invitation sécurisé."
+      },
+      {
+        "q": "Combien de temps prend l'implémentation ?",
+        "a": "Un portail pour un site unique est lancé en 4-6 semaines. Les structures multisites ou migrations EHR complexes prennent généralement 8-12 semaines, formation incluse."
+      },
+      {
+        "q": "Sommes-nous propriétaires du portail après le lancement ?",
+        "a": "Oui. Vous possédez le code, le contenu, la marque et les données patients. Aucun abonnement par patient n'est requis et vous pouvez exporter vos données à tout moment."
+      },
+      {
+        "q": "La télésanté est-elle une option payante ?",
+        "a": "Non, elle est incluse. La vidéo HD conforme HIPAA avec salle d'attente et transfert d'images est intégrée nativement, sans frais par consultation."
+      }
+    ]
+  },
+  "cta": {
+    "badge": "Prêts quand vous le serez",
+    "title": "Offrez à vos patients et à votre équipe un portail qu'ils vont adorer.",
+    "description": "Demandez une démonstration gratuite du portail. Nous analyserons vos outils actuels et vous enverrons un devis et un planning le jour même.",
+    "cta_quote": "Obtenir un devis gratuit",
+    "cta_contact": "Contactez-nous"
+  },
+  "footer_related": {
+    "text": "Pages associées : ",
+    "link_website": "votre site internet principal",
+    "link_multi_location": "solutions pour cliniques multisites",
+    "link_packages": "nos forfaits actuels"
+  }
+}

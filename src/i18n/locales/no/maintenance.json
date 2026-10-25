@@ -1,0 +1,351 @@
+{
+  "meta": {
+    "title": "Driftsavtaler for dermatologiske nettsider — 24/7 HIPAA-orientert vedlikehold",
+    "description": "Premium månedlig support og vedlikehold for hudlegekontorer. 24/7 oppetidsovervåking, HIPAA-sikre oppdateringer, daglig backup, sikkerhetsoppdateringer, Core Web Vitals og SEO-helse. Ingen bindingstid.",
+    "og": {
+      "title": "Driftsavtaler for dermatologiske nettsider — 24/7 vedlikeholdsplaner",
+      "description": "Sørg for at hudlegepraksisens nettside er rask, sikker og synlig. Overvåking, backup, HIPAA-orienterte oppdateringer, SEO-helse og inkluderte designtimer — måned til måned."
+    },
+    "jsonLd": {
+      "serviceType": "Dermatology Website Maintenance Services",
+      "provider": "DermatologyWebsiteDesign.com",
+      "areaServed": "United States",
+      "offerDescription": "Serviceavtale for dermatologiske nettsider — startpris per måned"
+    }
+  },
+  "hero": {
+    "status": "Alle systemer operative · 99,99 % oppetid dette kvartalet",
+    "badge": "Driftsavtaler og nettsidevedlikehold",
+    "title": "Din klinikk på nett — rask, sikker og alltid operativ.",
+    "description": "Månedlige serviceavtaler skreddersydd for dermatologiske klinikker. 24/7 overvåking, HIPAA-bevisste oppdateringer, daglig backup og SEO-optimalisering — med en fast tekniker som faktisk svarer.",
+    "cta_primary": "Start en serviceavtale",
+    "cta_secondary": "Gratis helsesjekk av nettsiden",
+    "pricing_note": "Planer fra",
+    "pricing_value": "$299",
+    "pricing_interval": "/ måned · måned til måned, ingen binding",
+    "usp": [
+      "24/7 overvåking",
+      "HIPAA-orientert",
+      "Daglige backuper",
+      "Fast kontaktperson"
+    ],
+    "visual": {
+      "image_alt": "Kontrollpanel for support og vedlikehold av hudlegepraksisens nettside",
+      "uptime_label": "Oppetid · 30 dager",
+      "uptime_status": "LIVE",
+      "vitals_label": "Core Web Vitals",
+      "vitals_metrics": "INP 92ms · CLS 0,02"
+    }
+  },
+  "stats": {
+    "uptime": "Gjennomsnittlig oppetid for våre kunder",
+    "interval": "Overvåkingsintervall fra 5 globale regioner",
+    "sla": "Responstid i henhold til SLA",
+    "count": "Dermatologiske klinikker under vår vinger"
+  },
+  "status_wall": {
+    "badge": "Statusvegg i sanntid",
+    "title": "Vi overvåker hver eneste kundeside live.",
+    "note": "Eksempelvisning · oppdateres hvert 60. sekund",
+    "table": {
+      "client": "Kundenettside",
+      "region": "Region",
+      "uptime": "Oppetid · 30d",
+      "response": "Respons",
+      "checked": "Kontrollert",
+      "time_ago": "sekunder siden"
+    }
+  },
+  "pillars": {
+    "badge": "Dette får du i en serviceavtale",
+    "title": "Hvert lag av nettsiden din — overvåket, oppdatert og trimmet.",
+    "description": "Seks grunnpilarer for det månedlige arbeidet. Ingen skjulte kostnader, ingen overraskende fakturaer.",
+    "items": [
+      {
+        "title": "24/7 overvåking av oppetid",
+        "desc": "Helsesjekk hvert 60. sekund fra 5 regioner. Våre teknikere får varsel før resepsjonen din i det hele tatt merker noe."
+      },
+      {
+        "title": "HIPAA-orienterte oppdateringer",
+        "desc": "Oppdateringer av CMS, plugins og avhengigheter testes, gjennomgås og rulles ut på BAA-klar hosting."
+      },
+      {
+        "title": "Daglige krypterte backuper",
+        "desc": "Lagring utenfor nettstedet med versjonshistorikk og ett-klikks gjenoppretting. Testes månedlig – ikke bare satt på autopilot."
+      },
+      {
+        "title": "Malware- og sårbarhetsskanning",
+        "desc": "Ukentlig skanning, kvartalsvise penetrasjonstester og umiddelbar utbedring av alle sårbarheter som påvirker din teknologi."
+      },
+      {
+        "title": "Core Web Vitals-overvåking",
+        "desc": "LCP, INP og CLS spores kontinuerlig – vi fikser ytelsesfall før Google straffer rangeringen din."
+      },
+      {
+        "title": "SEO-helse på siden",
+        "desc": "Brutte lenker, manglende schema, foreldreløse sider og indekseringsfeil fanges opp månedlig og utbedres som del av planen."
+      }
+    ]
+  },
+  "incidents": {
+    "badge": "Siste hendelseslogg",
+    "title": "Slik ser \"24/7\" ut i praksis.",
+    "description": "Et utvalg av faktiske hendelser vi fanget opp og løste dette kvartalet — før kundene våre i det hele tatt merket det.",
+    "log": [
+      {
+        "title": "Kritisk PHP-sårbarhet publisert",
+        "detail": "Oppdatert på 47 kundesider i løpet av 33 minutter. Ingen eksponeringsvindu."
+      },
+      {
+        "title": "Sertifikat utløper om 6 dager",
+        "detail": "Auto-fornyet og implementert over natten før mandagsmorgentrafikken startet."
+      },
+      {
+        "title": "Origin 502 på 1 nettsted",
+        "detail": "Automatisk bytte til cache innen 40 sekunder. Tekniker gjenopprettet server på 8 minutter."
+      },
+      {
+        "title": "Google-indeksering regresjon oppdaget",
+        "detail": "Feilaktig noindex-tag fra en plugin-oppdatering – rullet tilbake, ny gjennomsøking bestilt samme time."
+      },
+      {
+        "title": "Skjema lakk personopplysninger til analytics",
+        "detail": "PII-skrubbing implementert, GA4-data renset, samsvarslogg oppdatert."
+      }
+    ]
+  },
+  "included": {
+    "badge": "Inkludert hver måned",
+    "title": "16 ting vi gjør for deg — hver eneste måned.",
+    "items": [
+      "24/7 oppetid- og SSL-overvåking",
+      "Ukentlige CMS- og plugin-oppdateringer",
+      "Daglig kryptert ekstern backup",
+      "Malware-skanning og sikkerhetsoppdateringer",
+      "HIPAA-orienterte skjema- og PHI-revisjoner",
+      "Overvåking av Core Web Vitals",
+      "SEO-helsesjekk og fjerning av brutte lenker",
+      "Databaseoptimalisering",
+      "Tuning av CDN og edge-cache",
+      "Feilsøking og utrulling av hotfix",
+      "Inkluderte timer til innhold og design",
+      "Månedlig ytelsesrapport",
+      "Proaktive varsler ved hendelser",
+      "Endringslogg for etterlevelse (compliance)",
+      "Tilgjengelighetskontroll (WCAG AA)",
+      "Fast navngitt tekniker"
+    ]
+  },
+  "plans": {
+    "badge": "Serviceavtaler",
+    "title": "Forutsigbar pris. Ingen binding. Ekte ingeniører.",
+    "description": "Alle planer løper måned til måned. Si opp når som helst, og behold all kode og tilgang.",
+    "labels": {
+      "popular": "Mest populær",
+      "market": "Markedspris:",
+      "edits_prefix": "Endringer:",
+      "sla_prefix": "SLA",
+      "cta": "Velg {{name}}"
+    },
+    "tiers": [
+      {
+        "name": "Essential",
+        "tag": "For enkelte legekontorer",
+        "price": "$299",
+        "per": "/ mnd",
+        "sla": "< 4 timer responstid",
+        "edits": "2 t / mnd",
+        "market": "$500 – $1,000 / mnd",
+        "savings": "40–70 % rimeligere",
+        "features": [
+          "24/7 oppetidsovervåking",
+          "Ukentlige plugin- og CMS-oppdateringer",
+          "Daglige krypterte backuper",
+          "Malware-skanning + patching",
+          "Kvartalsvis HIPAA-skjemakontroll",
+          "Core Web Vitals-overvåking",
+          "Månedlig ytelsesrapport",
+          "2 timer i måneden til innhold"
+        ]
+      },
+      {
+        "name": "Growth",
+        "tag": "Større klinikker med flere tjenester",
+        "price": "$599",
+        "per": "/ mnd",
+        "sla": "< 1 time responstid",
+        "edits": "5 t / mnd",
+        "market": "$1,200 – $2,500 / mnd",
+        "savings": "50–76 % rimeligere",
+        "features": [
+          "Alt i Essential",
+          "Ukentlig HIPAA-skjemakontroll",
+          "SEO-helsesjekk og utbedringer",
+          "Overvåking av brutte lenker og schema",
+          "Tuning av CDN og edge-cache",
+          "Feilsøking og utrulling av hotfix",
+          "Fast navngitt tekniker",
+          "5 timer i måneden (innhold + design)"
+        ]
+      },
+      {
+        "name": "Enterprise",
+        "tag": "Gruppepraksis og Mohs-klinikker",
+        "price": "$1,499",
+        "per": "/ mnd",
+        "sla": "< 15 min responstid",
+        "edits": "Ubegrenset*",
+        "market": "$3,000 – $6,000 / mnd",
+        "savings": "50–75 % rimeligere",
+        "features": [
+          "Alt i Growth",
+          "Oppetids-dashbord per lokasjon",
+          "24/7 vakttelefon med tekniker",
+          "Kvartalsvise penetrasjonstester",
+          "Støtte for henvisning/EPJ-integrasjon",
+          "Tilgjengelighetsrevisjon (WCAG AA)",
+          "Endringslogg for compliance",
+          "Ubegrensede* endringer (fair use)"
+        ]
+      }
+    ]
+  },
+  "flow": {
+    "badge": "Slik fungerer det",
+    "title": "Fra oppstart til en bekymringsfri hverdag.",
+    "items": [
+      {
+        "step": "01",
+        "title": "Ombordstigning og revisjon",
+        "desc": "Vi overtar nettstedet med en full gjennomgang av sikkerhet, ytelse, SEO og HIPAA – vi overvåker aldri i blinde."
+      },
+      {
+        "step": "02",
+        "title": "Herding og baselinje",
+        "desc": "Sikkerhetsoppdatering, verifisering av backup og oppsett av overvåking. Vi dokumenterer status for Core Web Vitals og Google-posisjoner."
+      },
+      {
+        "step": "03",
+        "title": "Overvåke og vedlikeholde",
+        "desc": "24/7 overvåking, ukentlige oppdateringer og månedlige helserapporter – pluss dine inkluderte timer for vekst og endringer."
+      },
+      {
+        "step": "04",
+        "title": "Rapportere og forbedre",
+        "desc": "Månedlig gjennomgang med din tekniker. Hvordan kan vi gjøre siden raskere, tryggere og mer synlig neste måned?"
+      }
+    ]
+  },
+  "audiences": {
+    "badge": "Hvem vi hjelper",
+    "title": "Skreddersydd for alle dermatologiske forretningsmodeller.",
+    "items": [
+      {
+        "label": "Privatpraktiserende hudleger",
+        "desc": "Førsteklasses oppfølging slik at nettsiden aldri blir en distraksjon i hverdagen."
+      },
+      {
+        "label": "Klinikker med flere lokasjoner",
+        "desc": "Overvåking per sted, ett kontrollpanel og én forutsigbar månedskostnad."
+      },
+      {
+        "label": "Pediatrisk dermatologi",
+        "desc": "Foreldrevennlige skjemaer revidert månedlig for brukervennlighet og personvern."
+      },
+      {
+        "label": "Mohs og kirurgisk dermatologi",
+        "desc": "Henvisningsportaler holdes operative, sikre og klare for revisjon året rundt."
+      }
+    ]
+  },
+  "medical_services": {
+    "badge": "Vi holder tjenestesidene dine oppdatert",
+    "title": "Vi vedlikeholder sidene som faktisk henter inn pasienter.",
+    "description": "Innholdsoppdateringer, schema-justeringer, internlenking og optimalisering av Core Web Vitals for alle dine tjenester.",
+    "list": [
+      "Aknebehandling",
+      "Eksembehandling",
+      "Psoriasisbehandling",
+      "Behandling av hudinfeksjoner",
+      "Utredning av hudallergi",
+      "Sjekk av føflekker og hudkreft",
+      "Vurdering og fjerning av føflekker",
+      "Fjerning av cyster og lipomer",
+      "Vortebehandling",
+      "Behandling av neglesykdommer",
+      "Håravfallsbehandling",
+      "Behandling av hodebunnsproblemer",
+      "Rosaceabehandling",
+      "Hyperpigmentering og melasma",
+      "Arrbehandling",
+      "Behandling av brannskadearr",
+      "Vitiligobehandling",
+      "Hudbiopsi og diagnostikk"
+    ]
+  },
+  "testimonials": {
+    "badge": "Stemmer fra klinikken",
+    "title": "Hudleger som har sluttet å bekymre seg for nettsiden.",
+    "items": [
+      {
+        "name": "Dr. Ethan Caldwell, MD",
+        "role": "LA Dermatology",
+        "quote": "Søndag kl. 02:00 var SSL-sertifikatet i ferd med å utløpe. De fikset det før mandagens første pasient sjekket inn. Vi visste ikke engang at det hadde skjedd."
+      },
+      {
+        "name": "Dr. Anika Vasquez, MD",
+        "role": "CM Surgical",
+        "quote": "Hver måned får vi en ekte rapport – ikke en standardmal. Da en plugin ødela bookingskjemaet vårt, rullet de ut en rettelse på 22 minutter."
+      },
+      {
+        "name": "Dr. Ibrahim Okafor, MD",
+        "role": "RS Institute · 6 avd.",
+        "quote": "Seks lokasjoner, ett dashbord, én faktura. Jeg sluttet å tenke på nettsiden og begynte å fokusere på driften av klinikkene igjen."
+      }
+    ]
+  },
+  "faq": {
+    "badge": "Ofte stilte spørsmål",
+    "title": "Svar om våre serviceavtaler.",
+    "items": [
+      {
+        "q": "Hva er inkludert i månedlig support og vedlikehold?",
+        "a": "24/7 overvåking, ukentlige sikkerhetsoppdateringer av CMS og plugins, daglig kryptert backup, malwareskanning, HIPAA-orientert skjemakontroll, SEO-sjekk, Core Web Vitals-overvåking og inkluderte timer til endringer."
+      },
+      {
+        "q": "Hvor raskt svarer dere hvis nettsiden går ned?",
+        "a": "Essential-plan: under 4 timer. Growth-plan: under 1 time. Enterprise-plan: under 15 minutter. Siden vi har automatisk overvåking 24/7, vet vi som regel om problemet før du gjør det."
+      },
+      {
+        "q": "Er vedlikeholdet HIPAA-orientert?",
+        "a": "Ja. Vi bruker BAA-klar hosting, reviderer kontaktskjemaer for PHI-eksponering, sikrer at analytics er anonymisert og logger all tilgang. Alle våre teknikere er drillet i dermatologispesifikke samsvarsregler."
+      },
+      {
+        "q": "Støtter dere nettsider dere ikke har bygget selv?",
+        "a": "Ja. Vi tar over eksisterende WordPress-, Webflow- og spesialbygde sider etter en betalt teknisk revisjon. Slik sikrer vi en trygg overgang og full oversikt over hva vi vedlikeholder."
+      },
+      {
+        "q": "Kan jeg si opp når som helst?",
+        "a": "Ja, vi kjører måned til måned uten lange kontrakter. Vi skal fortjene din tillit hver eneste måned. Ved oppsigelse beholder du all kode, tilgang og dokumentasjon."
+      },
+      {
+        "q": "Gjelder de inkluderte timene innhold og små designendringer?",
+        "a": "Ja, alle planer inkluderer timer (2 / 5 / ubegrenset). Disse kan brukes til nye medarbeidere, oppdatering av tjenester, kampanjer, før-og-etter-bilder eller sesongbaserte justeringer."
+      }
+    ]
+  },
+  "cta_bottom": {
+    "title": "Slutt å bekymre deg for nettsiden. La oss ta ansvaret.",
+    "description": "Få en gratis helsesjekk — en tekniker går gjennom ytelse, sikkerhet, HIPAA-status og SEO. Deretter anbefaler vi riktig plan for deg.",
+    "primary": "Start en serviceavtale",
+    "secondary": "Få gratis helsesjekk"
+  },
+  "footer_nav": {
+    "label": "Nyttig lesestoff:",
+    "links": {
+      "management": "fullservice nettsideadministrasjon",
+      "support": "ekspert-support på forespørsel",
+      "addons": "anbefalte tilleggstjenester"
+    }
+  }
+}

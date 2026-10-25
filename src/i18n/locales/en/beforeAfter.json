@@ -1,0 +1,329 @@
+{
+  "meta": {
+    "title": "Dermatology Before & After Gallery — Premium Case Showcase",
+    "description": "Premium, HIPAA-aware before & after gallery for dermatology practices. Drag-to-reveal slider, smart filters by concern & provider, timeline views, and consult-booking CTAs.",
+    "ogTitle": "Dermatology Before & After Gallery — Premium Case Showcase",
+    "ogDescription": "Interactive drag-to-reveal slider, HIPAA-aware consent, smart filters, and consult-conversion CTAs — built for dermatology practices.",
+    "jsonLdName": "DermatologyWebsiteDesign.com",
+    "jsonLdServiceType": "Dermatology Before & After Gallery Design"
+  },
+  "hero": {
+    "badge": "Before & After Gallery",
+    "headingMain": "Show the transformation.",
+    "headingAccent": "Grow the bookings.",
+    "description": "A premium, HIPAA-aware before & after gallery designed for dermatology practices — with drag-to-reveal comparisons, smart filters, timeline views, and one-tap consult booking.",
+    "ctaBuild": "Build My Gallery",
+    "ctaAudit": "Free Gallery Audit",
+    "features": [
+      "HIPAA-aware consent",
+      "Drag-to-reveal slider",
+      "Smart filters",
+      "60fps on mobile"
+    ],
+    "imageAlt": "Acne treatment before and after — 3 month result",
+    "imageCaption": "Drag the handle — it’s live.",
+    "imageStats": "Acne · 3 months · Dr. Vasquez"
+  },
+  "stats": [
+    {
+      "value": "2500+",
+      "label": "Documented cases in production galleries"
+    },
+    {
+      "value": "100%",
+      "label": "HIPAA-aware consent capture on every upload"
+    },
+    {
+      "value": "60fps",
+      "label": "Slider interaction on mobile, tablet & desktop"
+    },
+    {
+      "value": "95+",
+      "label": "Average Lighthouse score across gallery pages"
+    }
+  ],
+  "pillars": {
+    "heading": "Every detail engineered to convert.",
+    "subheading": "Six pillars that separate a real dermatology outcome gallery from a random photo grid.",
+    "items": [
+      {
+        "title": "Interactive Slider",
+        "desc": "Drag-to-reveal before/after comparisons with buttery 60fps interaction on every device."
+      },
+      {
+        "title": "Smart Filtering",
+        "desc": "Filter by concern, treatment, provider, skin type, and Fitzpatrick scale — instant results."
+      },
+      {
+        "title": "Studio-Grade Imagery",
+        "desc": "Consistent lighting, distance, and angle guides so every case looks like a real transformation."
+      },
+      {
+        "title": "HIPAA-Aware Consent",
+        "desc": "Baked-in patient consent capture, revocation flow, and audit trail on every uploaded case."
+      },
+      {
+        "title": "Timeline Milestones",
+        "desc": "Week 2 · Month 1 · Month 3 · Month 6 comparison views for treatments that unfold over time."
+      },
+      {
+        "title": "Provider Attribution",
+        "desc": "Every case linked to the treating physician — trust, credit, and referral loops built in."
+      }
+    ]
+  },
+  "gallery": {
+    "heading": "The gallery, live.",
+    "subheading": "Interactive sample cases. Filter by concern — every card is drag-to-compare.",
+    "filterLabel": "Filter",
+    "filters": [
+      "All",
+      "Acne",
+      "Melasma",
+      "Rosacea",
+      "Scar Revision",
+      "Hair Loss",
+      "Vitiligo"
+    ],
+    "card": {
+      "beforeLabel": "Before",
+      "afterLabel": "After",
+      "ariaLabel": "Before and after comparison slider",
+      "dragAriaLabel": "Drag to compare",
+      "bookCTA": "Book this treatment"
+    },
+    "cases": [
+      {
+        "concern": "Acne",
+        "months": "3 months",
+        "severity": "Moderate",
+        "provider": "Dr. Vasquez",
+        "desc": "Combination retinoid + LED protocol, PIH resolution documented at 12 weeks."
+      },
+      {
+        "concern": "Melasma",
+        "months": "4 months",
+        "severity": "Deep dermal",
+        "provider": "Dr. Okafor",
+        "desc": "Compounded tri-lightening cream + strict SPF discipline. Fitzpatrick IV."
+      },
+      {
+        "concern": "Rosacea",
+        "months": "6 months",
+        "severity": "Papulopustular",
+        "provider": "Dr. Caldwell",
+        "desc": "Vascular laser + oral therapy — erythema reduced across cheeks and nose."
+      },
+      {
+        "concern": "Scar Revision",
+        "months": "5 months",
+        "severity": "Atrophic acne scarring",
+        "provider": "Dr. Vasquez",
+        "desc": "Fractional resurfacing series (x4). Texture rebuild without pigment loss."
+      },
+      {
+        "concern": "Hair Loss",
+        "months": "9 months",
+        "severity": "Androgenetic (Ludwig II)",
+        "provider": "Dr. Okafor",
+        "desc": "PRP + medical therapy — measured density recovery in temporal and vertex zones."
+      },
+      {
+        "concern": "Vitiligo",
+        "months": "12 months",
+        "severity": "Segmental facial",
+        "provider": "Dr. Caldwell",
+        "desc": "Narrowband UVB + topical calcineurin inhibitor. Repigmentation progressing."
+      }
+    ]
+  },
+  "timeline": {
+    "badge": "Timeline View",
+    "heading": "Watch the treatment unfold, week by week.",
+    "subheading": "For treatments that don’t reveal results overnight — a scrubbable timeline that keeps patients realistic and hopeful.",
+    "caseDetails": "Melasma · Fitzpatrick IV · Dr. Vasquez",
+    "caseDesc": "Compounded triple-lightening protocol with strict daily broad-spectrum SPF. Milestones documented at week 0, 4, 12, and 24 — patients see the arc, not just the endpoint.",
+    "stages": [
+      {
+        "label": "Week 0",
+        "short": "Baseline"
+      },
+      {
+        "label": "Week 4",
+        "short": "Early response"
+      },
+      {
+        "label": "Week 12",
+        "short": "Clear turning point"
+      },
+      {
+        "label": "Week 24",
+        "short": "Sustained result"
+      }
+    ]
+  },
+  "trustBar": {
+    "label": "Trusted by dermatology practices featured on",
+    "marks": [
+      {
+        "name": "Dermatology Websites",
+        "sub": "50+ launched"
+      },
+      {
+        "name": "HIPAA-Aware",
+        "sub": "By default"
+      },
+      {
+        "name": "Uptime SLA",
+        "sub": "99.99%"
+      },
+      {
+        "name": "Emergency Response",
+        "sub": "<15 min"
+      },
+      {
+        "name": "Month-to-Month",
+        "sub": "No lock-in"
+      },
+      {
+        "name": "Full Ownership",
+        "sub": "Code + content"
+      }
+    ]
+  },
+  "audiences": {
+    "heading": "Built for every dermatology practice.",
+    "subheading": "Solo, multi-location, pediatric, and surgical — one gallery framework tuned to each.",
+    "items": [
+      {
+        "label": "Solo Dermatologists",
+        "desc": "Showcase your signature results with a gallery that converts consultations to bookings."
+      },
+      {
+        "label": "Multi-location Clinics",
+        "desc": "Per-location, per-provider filtering so every clinic gets credit for its own wins."
+      },
+      {
+        "label": "Pediatric Dermatology",
+        "desc": "Parent-safe consent flows, blurred identifiers, and calm, reassuring visual pacing."
+      },
+      {
+        "label": "Mohs & Surgical Dermatology",
+        "desc": "Surgical outcome galleries with staged healing timelines and referral-ready case notes."
+      }
+    ]
+  },
+  "medicalServices": {
+    "heading": "Every medical dermatology service, documented.",
+    "subheading": "Case protocols and photo templates preloaded for the treatments patients search for most.",
+    "list": [
+      "Acne Treatment",
+      "Eczema Treatment",
+      "Psoriasis Treatment",
+      "Skin Infection Treatment",
+      "Skin Allergy Treatment",
+      "Skin Cancer Screening",
+      "Mole Evaluation & Removal",
+      "Cyst & Lipoma Removal",
+      "Wart Removal",
+      "Nail Disorder Treatment",
+      "Hair Loss Treatment",
+      "Scalp Disorder Treatment",
+      "Rosacea Treatment",
+      "Hyperpigmentation & Melasma",
+      "Scar Treatment",
+      "Burn Scar Treatment",
+      "Vitiligo Treatment",
+      "Skin Biopsy & Diagnostics"
+    ]
+  },
+  "flow": {
+    "heading": "From photo to booked consult.",
+    "subheading": "A four-step workflow your front desk can run — no dev team required.",
+    "steps": [
+      {
+        "num": "01",
+        "title": "Case Intake",
+        "desc": "Structured photo protocol — angle, distance, lighting, and neutral background captured at every visit."
+      },
+      {
+        "num": "02",
+        "title": "Consent & Tagging",
+        "desc": "Patient e-signs a scoped consent (web, print, social — each opt-in separately). Cases tagged by concern, provider, severity."
+      },
+      {
+        "num": "03",
+        "title": "Curate & Publish",
+        "desc": "Your team publishes to the gallery in two clicks. Slider, filters, timeline view — all built in."
+      },
+      {
+        "num": "04",
+        "title": "Convert to Consult",
+        "desc": "Every case card has a one-tap 'Book this treatment' CTA that opens the right service page + intake."
+      }
+    ]
+  },
+  "testimonials": {
+    "heading": "Dermatologists who ship results.",
+    "subheading": "Real practices, real gallery outcomes.",
+    "items": [
+      {
+        "name": "Dr. Ethan Caldwell, MD",
+        "role": "LA Dermatology",
+        "quote": "Our before/after gallery is now the #2 traffic page after the homepage. Consult bookings from that page tripled in 90 days."
+      },
+      {
+        "name": "Dr. Anika Vasquez, MD",
+        "role": "CM Surgical",
+        "quote": "The consent workflow alone was worth the rebuild. We finally publish surgical outcomes without a compliance headache."
+      },
+      {
+        "name": "Dr. Ibrahim Okafor, MD",
+        "role": "RS Institute · 6 loc.",
+        "quote": "Filter by provider changed everything. Every physician has a portfolio they're proud to send to referrals."
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Gallery questions, answered.",
+    "subheading": "HIPAA, consent, performance, and what it takes to launch.",
+    "items": [
+      {
+        "q": "How do you handle HIPAA and patient consent?",
+        "a": "Every case requires a scoped, timestamped e-consent capturing separate permissions for web, print, and social use — with a revocation flow that removes the case within 24 hours. All consent records are stored with an audit trail."
+      },
+      {
+        "q": "Can I filter cases by provider, treatment, and skin type?",
+        "a": "Yes. Every case is tagged with concern, treatment protocol, Fitzpatrick skin type, severity, provider, and elapsed time. Visitors filter live with URL-shareable results — great for referral emails."
+      },
+      {
+        "q": "What image quality and consistency do you require?",
+        "a": "We provide a photo protocol (angle, distance, neutral background, controlled lighting) plus an optional in-clinic training. Our system flags inconsistent uploads before they go live."
+      },
+      {
+        "q": "Is the slider mobile-friendly?",
+        "a": "Yes. Touch-drag, pinch-scale, and swipe-between-cases are all optimized for mobile at 60fps. Slider handle meets 44px touch-target guidelines and reduced-motion preferences are respected."
+      },
+      {
+        "q": "Can we show surgical outcomes (Mohs, excisions)?",
+        "a": "Yes — with staged healing timelines (Week 2 / Month 1 / Month 3 / Month 6) and optional content-warning gating. Referral-friendly case notes attach to every surgical case."
+      },
+      {
+        "q": "Will the gallery slow down my site?",
+        "a": "No. Images are lazy-loaded, served in AVIF/WebP from CDN, and progressive-blurred. Galleries typically maintain 95+ Lighthouse Performance."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Ready to turn results into revenue?",
+    "subheading": "Get a purpose-built dermatology before & after gallery — HIPAA-aware, blazing fast, and engineered to book consults.",
+    "btnQuote": "Get a Quote",
+    "btnContact": "Talk to us"
+  },
+  "footerLinks": {
+    "prefix": "Also helpful:",
+    "link1": "website design for dermatology practices",
+    "link2": "how social channels amplify results",
+    "link3": "real practice growth stories"
+  }
+}

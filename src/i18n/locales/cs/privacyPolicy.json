@@ -1,0 +1,107 @@
+{
+  "meta": {
+    "title": "Zásady ochrany osobních údajů — Jak nakládáme s vašimi daty",
+    "description": "Informace o tom, jak naše studio shromažďuje, používá, sdílí a chrání údaje návštěvníků, potenciálních klientů a dermatologických klinik, se kterými spolupracujeme.",
+    "og": {
+      "title": "Zásady ochrany osobních údajů — Jak nakládáme s vašimi daty",
+      "description": "Informace o tom, jak naše studio shromažďuje, používá, sdílí a chrání údaje návštěvníků, potenciálních klientů a dermatologických klinik, se kterými spolupracujeme."
+    },
+    "twitter": {
+      "title": "Zásady ochrany osobních údajů — Jak nakládáme s vašimi daty",
+      "description": "Informace o tom, jak naše studio shromažďuje, používá, sdílí a chrání údaje návštěvníků, potenciálních klientů a dermatologických klinik, se kterými spolupracujeme."
+    }
+  },
+  "layout": {
+    "skipToContent": "Přejít k hlavnímu obsahu"
+  },
+  "hero": {
+    "badge": "Právní náležitosti · Ochrana údajů",
+    "title": "Zásady ochrany osobních údajů",
+    "description": "Přečtěte si, jakým způsobem zpracováváme a chráníme informace o návštěvnících webu, zájemcích o spolupráci i našich stávajících partnerech z řad lékařských praxí.",
+    "lastUpdated": "Poslední aktualizace:",
+    "lastUpdatedDate": "14. července 2026"
+  },
+  "sections": {
+    "sidebar": {
+      "title": "Obsah",
+      "navAriaLabel": "Navigace v sekci"
+    },
+    "overview": {
+      "title": "1. Přehled",
+      "body": "Tyto zásady ochrany osobních údajů vysvětlují, jak naše studio („my“) shromažďuje a využívá informace při návštěvě našeho webu, odeslání formuláře, poptávce služeb nebo realizaci projektu. Tato stránka slouží k zodpovězení častých dotazů týkajících se soukromí v rámci našeho marketingu a klientské spolupráce; nejedná se o certifikaci ani právní poradenství."
+    },
+    "informationWeCollect": {
+      "title": "2. Informace, které shromažďujeme",
+      "items": {
+        "provided": {
+          "label": "Údaje, které nám sdělíte:",
+          "text": "jméno, název praxe, e-mail, telefon, detaily projektu a jakékoli další informace zaslané prostřednictvím formulářů, e-mailu nebo plánovacích nástrojů."
+        },
+        "automatic": {
+          "label": "Automaticky sbírané údaje:",
+          "text": "IP adresa, typ zařízení a prohlížeče, zobrazené stránky, odkazující URL a přibližná poloha — sbírané pomocí souborů cookies a analytických nástrojů."
+        },
+        "projectData": {
+          "label": "Projektová data klientů:",
+          "text": "přihlašovací údaje, podklady ke značce a obsah, který s námi sdílíte za účelem poskytování služeb na základě podepsané smlouvy či nabídky."
+        }
+      }
+    },
+    "howWeUse": {
+      "title": "3. Jak údaje využíváme",
+      "items": [
+        "Reagování na dotazy, příprava cenových nabídek a návrhů spolupráce.",
+        "Realizace, fakturace a podpora služeb, které si u nás objednáte.",
+        "Zlepšování našich webových stránek, obsahu a nabízených služeb.",
+        "Zasílání občasných novinek nebo newsletterů (pouze po vašem přihlášení).",
+        "Plnění zákonných, daňových a archivačních povinností."
+      ]
+    },
+    "noPhi": {
+      "title": "4. Chráněné zdravotní informace (PHI)",
+      "body": "Tento marketingový web není určen ke sběru chráněných zdravotních informací (PHI). Prosíme, neposílejte nám prostřednictvím kontaktních formulářů jména pacientů, zdravotní dokumentaci ani klinické údaje. V případech, kdy klientská spolupráce vyžaduje manipulaci s PHI (pacientské portály, registrační formuláře), uzavíráme před spuštěním těchto funkcí samostatnou smlouvu o zpracování osobních údajů (Business Associate Agreement)."
+    },
+    "sharing": {
+      "title": "5. Sdílení informací",
+      "body": "Vaše osobní údaje neprodáváme. Sdílíme je pouze s prověřenými poskytovateli služeb, kteří nám pomáhají v chodu studia — hosting, e-mailing, analytika, plánování, zpracování plateb a CRM — a to pouze v nezbytném rozsahu. Údaje můžeme zpřístupnit také v případech vyžadovaných zákonem nebo z důvodu ochrany našich práv."
+    },
+    "cookies": {
+      "title": "6. Cookies a analytika",
+      "body": "Soubory cookies a podobné technologie používáme pro zajištění základních funkcí webu a pro měření jeho návštěvnosti. Cookies můžete spravovat v nastavení svého prohlížeče; jejich blokování však může ovlivnit správné fungování stránek."
+    },
+    "retention": {
+      "title": "7. Uchovávání údajů",
+      "body": "Údaje uchováváme po dobu nezbytnou k poskytování služeb, plnění zákonných povinností, řešení sporů a prosazování našich smluv. Údaje z poptávek od zájemců, kteří se nestanou klienty, jsou pravidelně promazávány."
+    },
+    "security": {
+      "title": "8. Zabezpečení",
+      "body": "Používáme přiměřená administrativní, technická a fyzická opatření k ochraně vašich dat — včetně šifrovaného přenosu (HTTPS), kontroly přístupů a prověřování dodavatelů. Žádný způsob přenosu nebo ukládání dat však není 100% bezpečný, nemůžeme tedy zaručit absolutní bezpečnost."
+    },
+    "yourRights": {
+      "title": "9. Vaše práva a volby",
+      "body": "V závislosti na vaší lokalitě můžete mít právo na přístup ke svým údajům, jejich opravu, vymazání nebo přenos, stejně jako právo vznést námitku proti jejich zpracování. Pro uplatnění těchto práv nás kontaktujte. Z odběru marketingových e-mailů se můžete kdykoli odhlásit pomocí odkazu v patičce zprávy."
+    },
+    "thirdPartyLinks": {
+      "title": "10. Odkazy třetích stran",
+      "body": "Náš web může odkazovat na stránky a nástroje třetích stran. Ty se řídí vlastními zásadami ochrany soukromí — doporučujeme si je prostudovat předtím, než jim poskytnete jakékoli údaje."
+    },
+    "children": {
+      "title": "11. Soukromí dětí",
+      "body": "Naše stránky jsou určeny pro firemní klientelu a nejsou cíleny na děti mladší 13 let. Vědomě neshromažďujeme osobní údaje dětí."
+    },
+    "changes": {
+      "title": "12. Změny těchto zásad",
+      "body": "Tyto zásady ochrany osobních údajů můžeme průběžně aktualizovat. V takovém případě upravíme datum poslední aktualizace v horní části stránky. Podstatné změny budou na webu viditelně zvýrazněny."
+    },
+    "contact": {
+      "title": "13. Kontaktujte nás",
+      "paragraph": "Máte dotazy nebo požadavky týkající se těchto zásad nebo vašich údajů? Kontaktujte nás prostřednictvím naší kontaktní stránky a my vám v přiměřené lhůtě odpovíme.",
+      "link": "kontaktní stránky"
+    }
+  },
+  "cta": {
+    "title": " Máte dotaz k ochraně soukromí?",
+    "subtitle": "Odpovíme vám v nejbližším možném termínu.",
+    "buttonLabel": "Kontaktujte nás"
+  }
+}

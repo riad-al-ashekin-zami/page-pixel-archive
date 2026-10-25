@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "title": "Nettsidedesign for hudleger — HIPAA-sikrede plattformer for vekst",
+    "description": "HIPAA-sikrede nettsider, SEO og markedsføring for hudlegepraksiser. Få gratis revisjon av din nettside innen 24 timer.",
+    "orgDescription": "HIPAA-sikret nettsidedesign, SEO og vekstmarkedsføring for hudleger og klinikker med flere lokasjoner."
+  },
+  "hero": {
+    "badge": "HIPAA-Aware",
+    "badgeSecondary": "Konverteringsfokusert",
+    "headline": "Førsteklasses nettsider som skaper vekst for moderne",
+    "headlineAccent": "hudlegeklinikker.",
+    "subhead": "Skreddersydde og SEO-optimaliserte nettsider som bygger tillit, tiltrekker nye pasienter og styrker din digitale tilstedeværelse.",
+    "ctaPrimary": "Få et pristilbud",
+    "ctaSecondary": "Be om gratis revisjon",
+    "heroImageAlt": "Komposisjon av nettsidedesign for hudleger som viser desktop, mobil, analyse, booking og HIPAA-samsvar"
+  },
+  "stats": {
+    "websites": {
+      "label": "Hudlegeklinikker",
+      "sub": "Lanserte nettsider"
+    },
+    "niche": {
+      "label": "Spesialisert",
+      "sub": "Langs faget"
+    },
+    "lighthouse": {
+      "label": "Gjennomsnittlig Lighthouse",
+      "sub": "Ytelse"
+    }
+  },
+  "trust": {
+    "hipaa": {
+      "label": "HIPAA-Aware",
+      "note": "Sikkerhet først"
+    },
+    "ada": {
+      "label": "ADA-tilgjengelig",
+      "note": "WCAG 2.1-samsvar"
+    },
+    "ssl": {
+      "label": "SSL-sikret",
+      "note": "256-bit kryptering"
+    },
+    "seo": {
+      "label": "SEO-optimalisert",
+      "note": "Ranger høyere"
+    },
+    "mobile": {
+      "label": "Mobilvennlig",
+      "note": "Alle enheter"
+    },
+    "speed": {
+      "label": "Rask lasting",
+      "note": "Optimalisert hastighet"
+    }
+  },
+  "footer": {
+    "startPrefix": "Ny her? Start med",
+    "guideLink": "vår guide for markedsføring av hudleger",
+    "sep1": ",",
+    "caseStudiesLink": "reelle kunderesultater",
+    "sep2": ", eller",
+    "auditLink": "en gratis gjennomgang av din nåværende nettside",
+    "suffix": "."
+  },
+  "skip": "Hopp til innholdet"
+}

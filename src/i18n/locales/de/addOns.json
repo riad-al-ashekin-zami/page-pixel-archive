@@ -1,0 +1,377 @@
+{
+  "meta": {
+    "title": "Zusatzleistungen für Dermatologie-Websites — Wartung, SEO & Wachstum",
+    "description": "Premium-Add-ons für Hautarztpraxen: 24/7-Wartung, HIPAA-konformes Hosting, Content & CRO, lokales SEO, EHR-Anbindungen und Full-Funnel-Marketing. Flexibel monatlich kündbar.",
+    "og": {
+      "title": "Add-on Services für Dermatologie-Websites",
+      "description": "Erweitern Sie Ihre Website um Wartung, Hosting, SEO und Integrationen – entwickelt für nachhaltiges Patientenwachstum."
+    },
+    "jsonLd": {
+      "serviceType": "Dermatology Website Add-On Services",
+      "provider": "DermatologyWebsiteDesign.com",
+      "catalogName": "Dermatology Website Add-Ons",
+      "breadcrumbs": {
+        "home": "Home",
+        "services": "Leistungen",
+        "current": "Zusatzleistungen"
+      }
+    }
+  },
+  "hero": {
+    "badge": "Zusatzleistungen für Dermatologen",
+    "heading": "Alles, was Ihre dermatologische Praxis sonst noch braucht —",
+    "headingAccent": "zentral auf einer Rechnung, von einem Team, in einem Dashboard.",
+    "description": "HIPAA-konforme Add-ons — von Wartung und Hosting bis SEO und Wachstumsmarketing — entwickelt, um Ihr Patientenaufkommen Monat für Monat messbar zu steigern.",
+    "cta": {
+      "bundle": "Mein individuelles Paket erstellen",
+      "browse": "Gesamten Katalog ansehen"
+    },
+    "stats": [
+      {
+        "label": "Zusatzleistungen"
+      },
+      {
+        "label": "Uptime SLA"
+      },
+      {
+        "label": "Notfall-Reaktionszeit"
+      },
+      {
+        "label": "Keine Vertragsbindung",
+        "value": "Monatlich kündbar"
+      }
+    ]
+  },
+  "trust": {
+    "audiences": {
+      "label": "Entwickelt für",
+      "items": [
+        "Einzelpraxen für Dermatologie",
+        "Dermatologische MVZ & Kliniken",
+        "Kinderdermatologie",
+        "Mohs-Chirurgie & Operative Dermatologie"
+      ]
+    },
+    "medicalServices": {
+      "label": "Unterstützung für alle Fachbereiche",
+      "items": [
+        "Akne-Behandlung",
+        "Neurodermitis-Therapie",
+        "Psoriasis-Behandlung",
+        "Hautinfektionen",
+        "Allergologie",
+        "Hautkrebsvorsorge & -therapie",
+        "Muttermal-Check & Entfernung",
+        "Zysten- & Lipomentfernung",
+        "Warzenbehandlung",
+        "Nagelerkrankungen",
+        "Haarausfall-Diagnostik & Therapie",
+        "Kopfhauterkrankungen",
+        "Rosacea-Therapie",
+        "Hyperpigmentierung & Melasma",
+        "Narbenbehandlung",
+        "Verbrennungsnarben",
+        "Vitiligo-Therapie",
+        "Hautbiopsien & Diagnostik"
+      ]
+    }
+  },
+  "sections": {
+    "catalog": {
+      "badge": "Der Katalog",
+      "heading": "Sechs Kategorien.",
+      "headingItalic": "Ein Team für alles.",
+      "searchPlaceholder": "Über {{count}} Add-ons durchsuchen…",
+      "searchAria": "Zusatzleistungen suchen",
+      "noResults": "Keine Treffer für „{{query}}“. Versuchen Sie einen anderen Begriff.",
+      "serviceCount": "Leistungen",
+      "ctaAdd": "{{title}} zum Paket hinzufügen",
+      "categories": {
+        "care": {
+          "title": "Website-Pflege & Wartung",
+          "tagline": "Immer online. Immer aktuell. Immer sicher.",
+          "items": [
+            {
+              "name": "Wartung & Support",
+              "blurb": "Wöchentliche CMS-, Plugin- & Sicherheits-Updates mit persönlichem Ansprechpartner."
+            },
+            {
+              "name": "Notfall-Support",
+              "blurb": "Website offline? Ein fester Techniker reagiert in weniger als 15 Minuten."
+            },
+            {
+              "name": "Website-Migration",
+              "blurb": "Umzug ohne Ausfallzeit inkl. vollständigem 301-Mapping und SEO-Erhalt."
+            },
+            {
+              "name": "Laufende Aktualisierungen",
+              "blurb": "Inhalte, Arztprofile, saisonale Angebote – umgesetzt in Stunden, nicht Wochen."
+            },
+            {
+              "name": "Monatliche Care-Pakete",
+              "blurb": "Ein fester Pauschalpreis. Alles inklusive. Monatlich kündbar."
+            },
+            {
+              "name": "Tägliche Backups & Recovery",
+              "blurb": "Verschlüsselte externe Backups. 1-Klick-Wiederherstellung, 30 Tage Vorhaltung."
+            },
+            {
+              "name": "Uptime-Monitoring",
+              "blurb": "Prüfung alle 60 Sekunden aus 6 Regionen. Alarm, bevor Patienten es merken."
+            },
+            {
+              "name": "Performance-Überwachung",
+              "blurb": "Tägliches Tracking der Core Web Vitals. Performance-Einbußen sofort beheben."
+            }
+          ]
+        },
+        "hosting": {
+          "title": "Hosting, Sicherheit & Compliance",
+          "tagline": "HIPAA-konforme Infrastruktur, optimiert für Dermatologen.",
+          "items": [
+            {
+              "name": "Managed Hosting",
+              "blurb": "Edge-Caching, Auto-Scaling und 99,99 % Uptime SLA."
+            },
+            {
+              "name": "Domain- & DNS-Management",
+              "blurb": "Wir übernehmen die Verwaltung, damit Verlängerungen nie vergessen werden."
+            },
+            {
+              "name": "SSL-Setup & Monitoring",
+              "blurb": "Auto-verlängerte Zertifikate mit Ablauf-Warnung Wochen im Voraus."
+            },
+            {
+              "name": "Sicherheits-Monitoring",
+              "blurb": "24/7 WAF, Intrusion Detection und proaktives Einspielen von Patches."
+            },
+            {
+              "name": "Malware-Schutz",
+              "blurb": "Tägliche Scans, sofortige Quarantäne und Bereinigungs-Garantie."
+            },
+            {
+              "name": "Compliance-Check",
+              "blurb": "Jährliches Audit von Formularen, Hosting, Analytics und Datenschutzverträgen."
+            },
+            {
+              "name": "Datenschutzkonforme Formulare",
+              "blurb": "Verschlüsselte Anamnese-, Einwilligungs- und Kontaktformulare – PHI-sicher."
+            },
+            {
+              "name": "ADA & Barrierefreiheit",
+              "blurb": "WCAG 2.2 AA Optimierung und laufende Überwachung der Barrierefreiheit."
+            },
+            {
+              "name": "Privacy & Cookie Compliance",
+              "blurb": "DSGVO / CCPA-Banner, Consent-Logs und rechtliche Updates."
+            }
+          ]
+        },
+        "content": {
+          "title": "Content & Conversion",
+          "tagline": "Texte und Layouts, die Besucher zu Patienten machen.",
+          "items": [
+            {
+              "name": "Content Writing",
+              "blurb": "SEO-optimierte Seiten, geschrieben für echte dermatologische Praxen."
+            },
+            {
+              "name": "Medizinisches Copywriting",
+              "blurb": "Klinisch präzise, patientenfreundlich und ärztlich geprüft."
+            },
+            {
+              "name": "Blog-Management",
+              "blurb": "Redaktionsplan, Texterstellung, Veröffentlichung und interne Verlinkung."
+            },
+            {
+              "name": "Landingpage-Design",
+              "blurb": "Spezialisierte Seiten für Leistungen, Promos und Werbekampagnen."
+            },
+            {
+              "name": "Leistungsseiten-Erstellung",
+              "blurb": "Pro Krankheitsbild oder Therapie eine conversion-optimierte Seite."
+            },
+            {
+              "name": "Conversion Optimierung (CRO)",
+              "blurb": "Hypothesengesteuertes A/B-Testing basierend auf echtem Nutzerverhalten."
+            },
+            {
+              "name": "Lead Magnet Erstellung",
+              "blurb": "Haut-Ratgeber, Checklisten und Quizze zur Patientengewinnung."
+            },
+            {
+              "name": "Newsletter-Setup",
+              "blurb": "Branded Templates, Automatisierungen und Listen-Segmentierung."
+            },
+            {
+              "name": "CTA-Optimierung",
+              "blurb": "Buttons, Formulare und Nutzerführung optimiert für mehr Buchungen."
+            }
+          ]
+        },
+        "seo": {
+          "title": "SEO & Analytics",
+          "tagline": "Besser ranken. Relevantes messen. ROI beweisen.",
+          "items": [
+            {
+              "name": "Local SEO",
+              "blurb": "Dominieren Sie die Map-Packs in Ihrem gesamten Einzugsgebiet."
+            },
+            {
+              "name": "Technisches SEO-Audit",
+              "blurb": "Crawling, Indexierung, Schema, Core Web Vitals – alles geprüft."
+            },
+            {
+              "name": "Schema Markup Implementierung",
+              "blurb": "MedicalBusiness, FAQ und Review Schemas für bessere Google-Sichtbarkeit."
+            },
+            {
+              "name": "Google Business Profile Optimierung",
+              "blurb": "Fotos, Posts, Q&A – perfekt abgestimmt auf lokale Suchanfragen."
+            },
+            {
+              "name": "Analytics & Reporting",
+              "blurb": "Monatliche Berichte in Klartext, direkt verknüpft mit Ihren Terminen."
+            },
+            {
+              "name": "Conversion Tracking Setup",
+              "blurb": "End-to-End Tracking via GA4, GTM und CRM-Events."
+            },
+            {
+              "name": "Call Tracking Setup",
+              "blurb": "Dynamische Nummern je Quelle. Jeder Anruf wird korrekt zugeordnet."
+            },
+            {
+              "name": "Heatmap & Nutzerverhalten",
+              "blurb": "Sehen Sie genau, wo Patienten zögern – und beheben Sie es."
+            },
+            {
+              "name": "Wettbewerber-Analyse",
+              "blurb": "Gap-Analyse der Praxen, die aktuell vor Ihnen ranken."
+            }
+          ]
+        },
+        "integrations": {
+          "title": "Integrationen & Automation",
+          "tagline": "Ein vernetztes System. Kein Kopieren. Keine verlorenen Leads.",
+          "items": [
+            {
+              "name": "Online-Terminbuchung",
+              "blurb": "Zocdoc, NexHealth, Modernizing Medicine – nativ angebunden."
+            },
+            {
+              "name": "Patientenportal-Integration",
+              "blurb": "Sicherer SSO-Zugang zu Ihrem EHR-Portal, mobil optimiert."
+            },
+            {
+              "name": "CRM-Integration",
+              "blurb": "HubSpot, Salesforce, Keap – Leads fließen in Echtzeit ein."
+            },
+            {
+              "name": "Live-Chat Setup",
+              "blurb": "KI-Mensch-Hybrid-Chat, trainiert auf Ihre Leistungen und FAQs."
+            },
+            {
+              "name": "E-Mail-Marketing Integration",
+              "blurb": "Mailchimp, Klaviyo, ActiveCampaign, ConvertKit."
+            },
+            {
+              "name": "Marketing-Automatisierung",
+              "blurb": "Pflege-Kampagnen, Recall-Erinnerungen, Geburtstags-Angebote."
+            },
+            {
+              "name": "Payment-Gateway Integration",
+              "blurb": "Stripe, Square, CareCredit – HIPAA-konforme Abrechnung."
+            },
+            {
+              "name": "Telemedizin-Integration",
+              "blurb": "Doxy.me, Zoom for Healthcare oder Ihre bestehende Plattform."
+            },
+            {
+              "name": "Drittanbieter-Software",
+              "blurb": "Egal welche API, welches Tool – wir bauen die Brücke."
+            }
+          ]
+        },
+        "growth": {
+          "title": "Wachstumsmarketing",
+          "tagline": "Nachhaltiges Patientenwachstum, Monat für Monat.",
+          "items": [
+            {
+              "name": "Reputations-Management",
+              "blurb": "Online-Ruf Ihrer Praxis überwachen, darauf reagieren und schützen."
+            },
+            {
+              "name": "Bewertungs-System",
+              "blurb": "Automatisierte Bewertungsanfragen nach dem Besuch – ethisch und skalierbar."
+            },
+            {
+              "name": "Social Media Management",
+              "blurb": "Inhalte, Community Management und Strategie für Instagram & TikTok."
+            },
+            {
+              "name": "Google Ads Management",
+              "blurb": "Such- & Performance Max-Kampagnen, optimiert auf Cost-per-Booking."
+            },
+            {
+              "name": "Facebook & Instagram Ads",
+              "blurb": "Funnels für Ästhetik & Medizin mit regelmäßig frischem Content."
+            },
+            {
+              "name": "Retargeting-Kampagnen",
+              "blurb": "Holen Sie die 96 % der Besucher zurück, die ohne Buchung gingen."
+            },
+            {
+              "name": "E-Commerce Marketing",
+              "blurb": "Hautpflege online verkaufen – Shopify, Ads, E-Mail und SEO."
+            },
+            {
+              "name": "Monatliches Growth-Reporting",
+              "blurb": "Ein Dashboard. Echte Zahlen. Direkt verknüpft mit Ihrem Umsatz."
+            }
+          ]
+        }
+      }
+    }
+  },
+  "cta": {
+    "heading": "Unsicher bei der Auswahl?",
+    "headingItalic": "Erhalten Sie Ihr maßgeschneidertes Paket in 24h.",
+    "description": "Nennen Sie uns Ihre Ziele und Standorte. Wir erstellen einen individuellen Plan mit Preisen, Zeitplänen und dem erwarteten Impact für Ihre Praxis – völlig unverbindlich.",
+    "primary": "Individuellen Plan anfordern",
+    "secondary": "Zuerst kostenloses Website-Audit"
+  },
+  "faq": {
+    "badge": "Add-On FAQs",
+    "heading": "Antworten auf Ihre Fragen.",
+    "description": "Häufige Fragen von Dermatologen zu unseren Zusatzleistungen. Weitere Details finden Sie in unserem vollständigen FAQ-Bereich.",
+    "items": [
+      {
+        "q": "Kann ich Add-ons zu meinem bestehenden Website-Plan hinzufügen?",
+        "a": "Ja. Jedes Add-on kann flexibel über Ihren aktuellen Plan bei DermatologyWebsiteDesign.com oder eine von uns betreute externe Seite gelegt werden. Bei mehreren Add-ons profitieren Sie von Paketpreisen."
+      },
+      {
+        "q": "Sind diese Zusatzleistungen HIPAA-konform?",
+        "a": "Sämtliche Integrationen, Formulare, Hosting-Lösungen und Analytics-Setups sind standardmäßig HIPAA-konform. Wir stellen BAAs bereit und prüfen den Datenschutz bei Chats und Marketing-Pixeln."
+      },
+      {
+        "q": "Muss ich mich langfristig binden?",
+        "a": "Nein. Add-ons sind monatlich kündbar, sofern Sie sich nicht für einen rabattierten Jahresplan entscheiden. Alle Assets – Code, Inhalte, Backups – bleiben auch bei einer Kündigung in Ihrem Besitz."
+      },
+      {
+        "q": "Wie schnell kann ein Add-on aktiviert werden?",
+        "a": "Die meisten Integrationen, Tracking-Setups und Content-Services sind innerhalb von 3–10 Werktagen live. Größere Projekte wie Migrationen oder CRO-Programme folgen einem vorab abgestimmten Zeitplan."
+      },
+      {
+        "q": "Unterstützen Sie Websites, die nicht von Ihnen erstellt wurden?",
+        "a": "Ja. Nach einem bezahlten technischen Audit übernehmen wir die Betreuung bestehender Dermatologie-Seiten (WordPress, Webflow, Custom) und erweitern diese um unsere Zusatzleistungen."
+      }
+    ]
+  },
+  "footerLinks": {
+    "prefix": "Diese Seiten könnten Sie auch interessieren:",
+    "management": "Vollständiges Website-Management",
+    "maintenance": "Laufende Wartungspläne",
+    "pricing": "Inhalte der einzelnen Pakete"
+  }
+}

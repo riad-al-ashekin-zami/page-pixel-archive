@@ -1,0 +1,55 @@
+{
+  "slug": "reactivation-email-sequence",
+  "title": "A sequência de e-mails para pacientes inativos que vale US$180 mil por ano",
+  "excerpt": "Seis e-mails, uma oferta e a lógica de segmentação que traz pacientes adormecidos de volta à cadeira.",
+  "imageAlt": "Smartphone exibindo uma caixa de entrada suavemente iluminada ao lado de uma xícara de café e um croissant sobre linho",
+  "body": [
+    {
+      "text": "Um paciente que não visita há 12 meses tem 4 vezes mais chances de agendar a partir de um e-mail do que de qualquer canal pago. Mas a maioria das clínicas nunca lhes envia um. Aqui está a sequência de seis e-mails que implementamos para cada novo cliente, juntamente com a lógica de segmentação que decide quais pacientes recebem qual oferta – porque um e-mail genérico de 'sentimos sua falta' para 10.000 pacientes inativos tem um desempenho inferior a um arco de seis e-mails direcionados para 1.000."
+    },
+    {
+      "text": "O número de US$180 mil no título não é hype de marketing. É o faturamento incremental médio que medimos nos primeiros doze meses após a implementação desta sequência para uma clínica de porte médio com uma única localização e aproximadamente 8.000 contatos inativos. Grupos com múltiplas localizações rotineiramente veem múltiplos disso. A matemática funciona porque o custo da sequência é zero em gastos adicionais com anúncios e a audiência já está qualificada – eles já visitaram a clínica pelo menos uma vez."
+    },
+    {
+      "heading": "Segmentação antes do conteúdo"
+    },
+    {
+      "text": "Antes de escrever um único e-mail, segmente a audiência. Juntando todos os pacientes inativos em uma lista, cada oferta parecerá genérica para alguém. Divida a lista em três grupos: 12-18 meses desde a última visita (indicação suave), 18-36 meses (reengajamento estruturado) e mais de 36 meses (recuperação agressiva com um incentivo real). Cada grupo recebe o mesmo esqueleto de seis e-mails, mas com tom, oferta e critérios de remoção diferentes."
+    },
+    {
+      "heading": "A sequência"
+    },
+    {
+      "list": [
+        "E-mail 1: Sentimos sua falta – olá amigável sem pedido",
+        "E-mail 2: O que há de novo na clínica",
+        "E-mail 3: Um lembrete gentil para agendar o check-up anual da pele",
+        "E-mail 4: Conteúdo educacional sobre prevenção do câncer de pele",
+        "E-mail 5: Uma oferta por tempo limitado específica para o tipo da última visita",
+        "E-mail 6: Última chamada, em seguida remover da sequência"
+      ]
+    },
+    {
+      "heading": "Por que o 'sem pedido' como primeiro e-mail é importante"
+    },
+    {
+      "text": "O primeiro e-mail da sequência deliberadamente não pede nada. É uma calorosa reintrodução da gerente da clínica ou da assistente do médico, idealmente escrita em primeira pessoa com uma assinatura real. O objetivo é lembrar ao destinatário que esta clínica se lembra deles como uma pessoa, não como um segmento de marketing. As taxas de resposta de e-mails 'sem pedido' superam os e-mails 'agende agora' em 5 a 8 vezes, e os respondentes se autoidentificam com alta intenção."
+    },
+    {
+      "heading": "A oferta chega no e-mail 5, não no e-mail 1"
+    },
+    {
+      "text": "As clínicas rotineiramente cometem o erro de começar com a oferta. Isso treina os pacientes inativos a esperar descontos toda vez que recebem uma mensagem sua, e converte o segmento de menor intenção de sua lista apenas pelo preço. O arco de seis e-mails empurra a oferta para o e-mail cinco, após quatro pontos de contato de cordialidade e educação. No momento em que a oferta chega, o paciente já foi reancorado à marca da clínica, não ao seu desconto."
+    },
+    {
+      "heading": "A etapa de remoção protege a entregabilidade"
+    },
+    {
+      "text": "O e-mail seis é o e-mail de última chamada e também é o gatilho de remoção. Qualquer destinatário que não abriu nenhum dos cinco e-mails anteriores e não abrir o e-mail seis é removido da sequência. Isso protege sua reputação de remetente com o Gmail e o Outlook – enviar para endereços não engajados é a maneira mais rápida de cair em promoções ou spam. A remoção agressiva realmente melhora os resultados da próxima campanha porque a lista restante é mais densa e mais engajada."
+    },
+    {
+      "text": "Implemente a sequência uma vez por ano para cada grupo, atualize o conteúdo anualmente e trate a audiência removida como um grupo de cauda longa separado que você reengage a cada 18 meses com um novo nome de remetente. Composto ao longo de três anos, o número de US$180k tende a dobrar ou triplicar à medida que a sequência amadurece e a segmentação se torna mais precisa."
+    }
+  ],
+  "faqs": null
+}

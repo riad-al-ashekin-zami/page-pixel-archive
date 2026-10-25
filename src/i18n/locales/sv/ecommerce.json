@@ -1,0 +1,458 @@
+{
+  "meta": {
+    "title": "E-handel för dermatologi | HIPAA-säkrade webbutiker för hudvård",
+    "description": "Premiumdesign av e-handel för hudläkare. HIPAA-säkrade kataloger för receptbelagda och receptfria produkter, abonnemangshantering och Product-schema SEO. Byggt för dermatologiska kliniker, medicinska span och vårdkedjor.",
+    "og": {
+      "title": "E-handel för dermatologi | HIPAA-säkrade webbutiker för hudvård",
+      "description": "Sälj medicinsk hudvård, lås receptbelagda produkter bakom läkarintyg, hantera abonnemang och ranka produktsidor på Google – allt i en kontrollerad butik för ditt varumärke."
+    },
+    "jsonLd": {
+      "serviceType": "E-handel för dermatologi",
+      "name": "DW Design",
+      "offerDescription": "Webbdesign för dermatologisk e-handel – startpris"
+    }
+  },
+  "hero": {
+    "badge": "HIPAA-medveten · Redo för Rx · Optimerad för abonnemang",
+    "title": "E-handel för hudläkare som menar allvar med sin försäljning.",
+    "description": "En webbutik som lever upp till din kliniks rykte. Hantering av receptbelagt (Rx) och receptfritt (OTC), läkarrekommenderade paket vid kassan och abonnemang som patienterna faktiskt behåller – samt Product-schema SEO som dina vanliga tjänstesidor aldrig kan nå.",
+    "cta": {
+      "plan": "Planera min butik",
+      "audit": "Gratis butiksanalys"
+    },
+    "stats": {
+      "dispensaries": "Digitaliserade klinikapotek",
+      "retention": "Abonnemangskvarhållning @ 90d",
+      "lighthouse": "Lighthouse på produktsidor"
+    },
+    "mockups": {
+      "otc": "Receptfritt",
+      "rxGated": "Receptbelagt",
+      "requirement": "Kräver läkarintyg",
+      "revenueLift": "Genomsnittlig ökning",
+      "revenueContext": "produktintäkter 6 månader efter lansering",
+      "alt": "Premium e-handel för dermatologi med hudvårdsprodukter"
+    }
+  },
+  "estimator": {
+    "eyebrow": "Interaktiv · Intäktskalkylator",
+    "title": "Simulera ditt första kvartal online.",
+    "description": "Använd reglagen. Beräkningen baseras på att 22 % av aktiva patienter handlar online inom 6 månader och 35 % av dessa väljer abonnemang – genomsnittet för de senaste 42 butikerna vi lanserat.",
+    "labels": {
+      "patients": "Aktiva patienter:",
+      "aov": "Genomsnittligt ordervärde:",
+      "projected": "Beräknat",
+      "quarterlyHeader": "Butiksintäkter första kvartalet",
+      "monthly": "Beräknad månadsintäkt",
+      "buyers": "Onlinekunder / 6 mån",
+      "oneTime": "Engångsköp OTC (Q1)",
+      "subscription": "Abonnemangsintäkter (Q1)",
+      "discount": "Viktad abonnentrabatt",
+      "subscribers90": "Beräknade abonnenter efter 90 dagar",
+      "disclaimer": "Uppskattningar baserade på mediandata från 42 lanserade butiker. Faktiska resultat beror på katalog, prissättning och befintlig försäljningsvolym på kliniken."
+    },
+    "chart": {
+      "recurring": "Återkommande",
+      "ariaLabel": "Donut-diagram över intäktsfördelning"
+    }
+  },
+  "sections": {
+    "audiences": {
+      "eyebrow": "Målgrupp",
+      "title": "Byggt för varumärken med en seriös produktlinje.",
+      "items": [
+        {
+          "label": "Privata hudläkare",
+          "desc": "Sälj klinikens produkter online med möjlighet till upphämtning på plats."
+        },
+        {
+          "label": "Klinikkedjor",
+          "desc": "En gemensam katalog, lagersaldo per klinik, frakt eller upphämtning vid kassan."
+        },
+        {
+          "label": "Pediatrisk dermatologi",
+          "desc": "Föräldravänliga kataloger med produktfilter anpassade efter ålder."
+        },
+        {
+          "label": "Mohs- & operationscenter",
+          "desc": "Abonnemang på eftervårdspaket anpassade efter läkningsprocessen."
+        }
+      ]
+    },
+    "problemSolution": {
+      "eyebrow": "Vad vi löser",
+      "title": "De flesta webbutiker för hudvård är bara en standardmall från Shopify.",
+      "description": "Receptbelagt blockeras, inga läkarrekommendationer, abonnemang som inte behålls och saknad schema-data. Vi bygger om e-handelslagret utifrån hur dermatologisk försäljning faktiskt fungerar.",
+      "before": "Före",
+      "after": "Efter",
+      "items": [
+        {
+          "before": "Försäljning sker endast fysiskt på kliniken",
+          "after": "Dygnet runt-öppen butik + påfyllningar"
+        },
+        {
+          "before": "Receptbelagda produkter säljs inte online",
+          "after": "Läkarverifierad utcheckning för Rx"
+        },
+        {
+          "before": "Produktsidor syns inte på Google",
+          "after": "Product schema + Merchant Center"
+        },
+        {
+          "before": "Engångsköp utan kundlojalitet",
+          "after": "Abonnemang med 60 %+ kvarhållning"
+        },
+        {
+          "before": "HIPAA-risker med patientdata direkt på sajten",
+          "after": "Anonymiserade ID:n + BAA-säkrad stack"
+        },
+        {
+          "before": "Patienter gissar sig till rätt solskydd",
+          "after": "Läkarvalda paket rekommenderade vid kassan"
+        }
+      ]
+    },
+    "pillars": {
+      "eyebrow": "Systemet",
+      "title": "Sex pelare som bär upp varje butik vi bygger.",
+      "items": [
+        {
+          "title": "Uppdelad katalog Rx / OTC",
+          "desc": "Receptbelagda produkter låses bakom läkarintyg; receptfria köp förblir friktionsfria."
+        },
+        {
+          "title": "Abonnemang & Påfyllning",
+          "desc": "Hoppa över, pausa, byt produkt. Eftervårdspaket och 30/60/90-dagarsintervaller med medlemspriser."
+        },
+        {
+          "title": "Läkarrekommenderade kit",
+          "desc": "Läkare skapar paket direkt från journalsystemet – patienten ser \"Rekommenderas av Dr. Lee\" vid kassan."
+        },
+        {
+          "title": "Product-Schema SEO",
+          "desc": "Schema för Product, Offer och AggregateRating per SKU. Google Merchant Center kopplas vid start."
+        },
+        {
+          "title": "HSA / FSA-betalning",
+          "desc": "Behöriga produkter markeras med IIAS-beskrivningar och detaljerade kvitton för patientersättning."
+        },
+        {
+          "title": "Lagersaldo per plats",
+          "desc": "Skicka från centrallager eller reservera för upphämtning på den klinik patienten väljer."
+        }
+      ]
+    },
+    "architecture": {
+      "eyebrow": "Katalogstruktur",
+      "title": "Fyra köpflöden, en samlad katalog.",
+      "description": "Varje produkt klassificeras i ett av fyra flöden vid import. Patienter möter rätt typ av kontroll, läkare får en tydlig överblick och Google kan indexera produkterna.",
+      "items": [
+        {
+          "type": "OTC · Öppen kassa",
+          "examples": [
+            "Rengöring",
+            "Fuktkrämer",
+            "SPF",
+            "C-vitamin",
+            "Kroppsvård"
+          ]
+        },
+        {
+          "type": "Rx · Läkarverifierad",
+          "examples": [
+            "Tretinoin",
+            "Hydrokinon",
+            "Ivermektin",
+            "Rx-retinoider",
+            "Minoxidil Rx"
+          ]
+        },
+        {
+          "type": "Kit · Läkarvalda",
+          "examples": [
+            "Post-Mohs paket",
+            "Akne-startkit",
+            "Anti-aging-paket",
+            "Eftervård efter laser"
+          ]
+        },
+        {
+          "type": "Abonnemang · Auto-påfyllning",
+          "examples": [
+            "30-dagars SPF",
+            "60-dagars rengöring",
+            "90-dagars retinoid",
+            "Anpassat intervall"
+          ]
+        }
+      ]
+    },
+    "categories": {
+      "eyebrow": "Produktkategorier",
+      "title": "För varje hudtillstånd, en matchande produktväg.",
+      "description": "Kategorierna speglar klinikens medicinska tjänstesidor, så att patienter som söker efter ett tillstånd alltid hittar rätt produkt eller paket.",
+      "items": [
+        "System för aknebehandling",
+        "Barriärreparation för eksem",
+        "Topiska medel för psoriasis",
+        "Rengöring vid hudinfektion",
+        "Balmer för hudallergier",
+        "Solskydd för hudcancerprevention",
+        "Kit efter födelsemärkesborttagning",
+        "Sårvård för cystor & lipom",
+        "Vårtbehandlingskit",
+        "Lösningar för nagelsvamp",
+        "Håravfall (Rx)",
+        "Schampo för hårbottenbesvär",
+        "Regimer för rosacea",
+        "Uppljusande vid melasma",
+        "Silikonark för ärr",
+        "Återhämtning vid brännskadeärr",
+        "Kamouflage för vitiligo",
+        "Eftervård vid biopsi"
+      ]
+    },
+    "deliverables": {
+      "eyebrow": "Vad som ingår",
+      "title": "12 konkreta leveranser vid lansering.",
+      "items": [
+        "Kontrollerat designsystem för varumärkets butik",
+        "Rx/OTC-katalog med läkarverifiering",
+        "Abonnemangsmotor (hoppa över / pausa / byt)",
+        "Byggverktyg för läkarrekommenderade paket (journalsystemskopplad)",
+        "HSA/FSA-kassa med IIAS-beskrivningar",
+        "Lagersaldo per plats + rutt för upphämtning",
+        "Product / Offer / Review-schema per SKU",
+        "Google Merchant Center + Shopping-flöde",
+        "HIPAA-säkrad analys (ingen PII-data)",
+        "Patientportal för ordrar och recept",
+        "Core Web Vitals 95+ på alla produktsidor",
+        "Dashboard för intäkts- och lojalitetsanalys"
+      ]
+    },
+    "timeline": {
+      "eyebrow": "Processen",
+      "title": "Sex milstolpar. Ett lanseringsdatum.",
+      "items": [
+        {
+          "step": "01",
+          "title": "Katalog- & Compliance-analys",
+          "desc": "Vi går igenom varje SKU, delar upp Rx/OTC, mappar HSA/FSA-behörighet och fastställer BAA-omfång med ert journalsystem."
+        },
+        {
+          "step": "02",
+          "title": "Plattformsrekommendation",
+          "desc": "Shopify Plus, headless Shopify eller helt specialbyggt – valt utifrån era intäkter, integrationer och behov för Rx-låsning."
+        },
+        {
+          "step": "03",
+          "title": "Designsystem för butiken",
+          "desc": "Produktkort, kit-byggare, abonnemangsflöden och komponenter för läkarrekommendationer – allt modulärt och återanvändbart."
+        },
+        {
+          "step": "04",
+          "title": "Bygge & betalkopplingar",
+          "desc": "Stripe / Shopify Payments + HSA/FSA, abonnemangsmotor, Rx-verifiering och lagerhantering per klinik."
+        },
+        {
+          "step": "05",
+          "title": "SEO + Merchant-flöde",
+          "desc": "Product-schema, koppling till Google Merchant Center, indexering av kategorier och omdirigeringar av gamla länkar."
+        },
+        {
+          "step": "06",
+          "title": "Lansering & Lojalitetsaktivering",
+          "desc": "De första 60 dagarna: triggers för kundlojalitet, påfyllningspåminnelser, utrullning av läkarvalda kit och live-dashboard."
+        }
+      ]
+    },
+    "comparison": {
+      "eyebrow": "Varför välja oss",
+      "title": "En egen Shopify-mall, en vanlig webbyrå eller experter på dermatologisk handel.",
+      "headers": {
+        "capability": "Funktion",
+        "diy": "Gör-det-själv Shopify",
+        "generic": "Allmän webbyrå",
+        "dw": "DW Design",
+        "recommended": "REKOMMENDERAS"
+      },
+      "rows": [
+        "Rx/OTC-uppdelning med läkarverifiering",
+        "HIPAA-säkrad analysstack",
+        "Läkarvalda kit via journalsystem",
+        "Abonnemang med hoppa över/pausa/byt",
+        "HSA/FSA-kompatibel utcheckning",
+        "Product + Review-schema per SKU",
+        "Lagersaldo och upphämtning per klinik",
+        "Lighthouse 95+ på produkt- och listningssidor"
+      ]
+    }
+  },
+  "pricing": {
+    "eyebrow": "Investering",
+    "title": "Prissatt efter hur ni säljer.",
+    "customQuote": "begär offert",
+    "starting": "från",
+    "market": "Marknad",
+    "labels": {
+      "popular": "Populärast",
+      "getStarted": "Kom igång"
+    },
+    "tiers": [
+      {
+        "name": "OTC Starter",
+        "tag": "För klinikapoteket som tar steget online"
+      },
+      {
+        "name": "Rx + Abonnemang",
+        "tag": "Populärast"
+      },
+      {
+        "name": "Custom Headless",
+        "tag": "Vårdkedjor & Större bolag"
+      }
+    ],
+    "features": {
+      "otc": [
+        "Shopify-butik med varumärkets design",
+        "OTC-katalog, upp till 50 SKU:er",
+        "Basabonnemang (30/60/90 dagar)",
+        "HSA/FSA-utcheckning",
+        "Product-schema + Merchant Center-flöde",
+        "5–7 veckors lanseringstid"
+      ],
+      "rx": [
+        "Allt i OTC Starter",
+        "Rx/OTC-uppdelning med läkarverifiering",
+        "Läkarvalda kit (enkel koppling till journalsystem)",
+        "Avancerade abonnemang (byt produkt, mersälj)",
+        "HIPAA-säkrad analys + BAA-omfång",
+        "8–10 veckors lanseringstid"
+      ],
+      "headless": [
+        "Allt i Rx + Abonnemang",
+        "Headless Shopify eller specialbyggd butik",
+        "Full integrering med journalsystem + lagersaldo per plats",
+        "Patientportal för ordrar och recept",
+        "Dashboard för lojalitet och intäkter",
+        "12–16 veckors lanseringstid"
+      ]
+    }
+  },
+  "caseStudy": {
+    "eyebrow": "Anonymiserat kundcase",
+    "title": "Estetisk verksamhet med 3 kliniker · 180 dagar med butik.",
+    "description": "Namn och produkter utelämnade enligt sekretessavtal. Siffrorna är verifierade via rapporter från Shopify och Google Merchant Center.",
+    "verified": "Verifierat",
+    "metrics": [
+      {
+        "label": "Produktintäkter",
+        "sub": "jämfört med 6 månader endast på plats"
+      },
+      {
+        "label": "Abonnemangskvarhållning @ 90d",
+        "sub": "inklusive alla hoppa över/pausa-användare"
+      },
+      {
+        "label": "Konvertering varukorg-till-order",
+        "sub": "receptfritt köp, mobil"
+      },
+      {
+        "label": "Median Lighthouse",
+        "sub": "över alla produkt- och listningssidor"
+      }
+    ],
+    "chart": {
+      "title": "Månatliga produktintäkter",
+      "range": "Före lansering → Månad 6",
+      "preLaunch": "Före lansering",
+      "postLaunch": "Efter lansering",
+      "anonymized": "Anonymiserad kund"
+    }
+  },
+  "testimonial": {
+    "quote": "Vår försäljning på plats låg på 180 000 kr i månaden. Sex månader efter att vi lanserat butiken – med ordentlig Rx-kontroll och eftervårdspaket på abonnemang – passerade vi 430 000 kr enbart online, och 63 % av abonnenterna var fortfarande aktiva efter 90 dagar.",
+    "author": "Dr. Ana Morales",
+    "role": "Grundare, estetisk dermatologisk klinik med 3 mottagningar",
+    "initials": "AM"
+  },
+  "faq": {
+    "eyebrow": "Vanliga frågor",
+    "title": "Direkta svar om din framtida butik.",
+    "items": [
+      {
+        "q": "Kan vi sälja receptbelagd hudvård online?",
+        "a": "Ja – Rx-produkter låses bakom en läkarverifiering och en aktiv patientjournal. Katalogen delas upp i OTC (öppen kassa) och Rx (kräver godkännande av läkare + matchning mot patient-ID). Vi kopplar flödet till ditt journalsystem eller en smidig patientportal, så att receptbelagt aldrig skickas till obehöriga köpare."
+      },
+      {
+        "q": "Vilken e-handelsplattform använder ni – Shopify, specialbyggt eller något annat?",
+        "a": "Vi väljer utifrån kundens behov: Shopify Plus för kliniker med hög omsättning, headless Shopify + skräddarsydd butik för mottagningar som behöver patientportaler och Rx-låsning, eller helt specialbyggda lösningar för stora vårdkedjor med komplexa krav på integrationer. Rekommendationen sker i vecka 1 efter att vi analyserat ert sortiment, volym och integrationsbehov."
+      },
+      {
+        "q": "Hur hanterar ni HIPAA när patientdata hanteras i butiken?",
+        "a": "Patientuppgifter lagras aldrig i butikens databas. Rx-ordrar refererar till ett anonymiserat patient-ID som matchas på servernivå mot ert journalsystem under ett undertecknat BAA. Analysverktyg, marknadsföringspixlar och externa script granskas och tas bort från alla vägar som rör receptbelagda produkter."
+      },
+      {
+        "q": "Sätter ni upp abonnemang för eftervårdspaket och påfyllningar?",
+        "a": "Ja – allt från paket med rengöring + SPF + retinoid till eftervård efter kirurgi. Abonnemangen tillåter kunden att hoppa över, pausa eller byta produkt. Abonnenter får som standard 15 % rabatt, och läkare kan förhandsgodkänna paket direkt från journalen så att patienten ser dem automatiskt vid utcheckning."
+      },
+      {
+        "q": "Hur påverkar butiken vår medicinska SEO?",
+        "a": "Produktsidorna riktar in sig på sökord med köpintention (\"köp C-vitamin-serum\", \"tretinoin påfyllning\") som era vanliga tjänstesidor inte täcker. Strukturen Kategori → Produkt → Recensioner ger Product-schema, betygssammanställningar och synlighet i Google Merchant Center. Det breddar er närvaro utan att konkurrera ut era sidor om medicinska behandlingar."
+      },
+      {
+        "q": "Hur lång tid tar det att lansera en e-handel för dermatologi?",
+        "a": "En ren OTC-butik på Shopify tar 5–7 veckor. Rx-låst butik med integration av journalsystem tar 8–12 veckor. En anpassad headless-lösning med abonnemang och läkarportal tar 12–16 veckor. Vi fastställer lanseringsdatumet vid projektstart med veckovisa milstolpar."
+      }
+    ]
+  },
+  "cta": {
+    "alt": "DW — Webbdesign för dermatologi",
+    "title": "Era produktintäkter förtjänar mer än en standardmall.",
+    "description": "Vi tar oss an ett begränsat antal e-handelsprojekt per kvartal. Om Rx-verifiering, abonnemang och HIPAA-säkrad analys är viktigt för er verksamhet, låt oss planera butiken innan ni väljer plattform.",
+    "buttons": {
+      "quote": "Få en kostnadsfri offert",
+      "message": "Skicka ett meddelande"
+    },
+    "branding": "Webbdesign för dermatologi",
+    "tagline": "Vi hjälper hudläkare att växa online"
+  },
+  "footer": {
+    "exploreNext": "Läs mer om:",
+    "links": {
+      "design": "webbdesign för kliniker",
+      "seo": "hur vi hjälper er att ranka lokalt",
+      "cases": "senaste kundberättelserna"
+    }
+  },
+  "catalog": {
+    "eyebrow": "Förhandsvisning av katalogen",
+    "title": "Din klinik, tillgänglig i alla flöden.",
+    "description": "OTC, Rx-låsta och abonnemangsprodukter delar samma designsystem – patienten möter rätt nivå av kontroll och Google ser indexerbara produkter.",
+    "button": "Lägg till",
+    "badges": {
+      "hipaa": "HIPAA-säkrad",
+      "hsa": "HSA/FSA-utcheckning",
+      "delivery": "Lokal lagerhantering",
+      "schema": "Product-schema på varje SKU"
+    },
+    "products": [
+      {
+        "name": "C-vitamin-serum",
+        "note": "30ml · Antioxidant"
+      },
+      {
+        "name": "Mineral SPF 46",
+        "note": "Daglig · Korallvänlig"
+      },
+      {
+        "name": "Retinol 0.5%",
+        "note": "Kräver läkarintyg"
+      },
+      {
+        "name": "Mjukgörande rengöring",
+        "note": "Påfyllning · spara 15%"
+      }
+    ]
+  }
+}

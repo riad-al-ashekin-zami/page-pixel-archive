@@ -1,0 +1,442 @@
+{
+  "meta": {
+    "title": "Webbdesign för dermatologikliniker med flera mottagningar | Ett varumärke, varje stad",
+    "description": "Premium-webbdesign för hudläkargrupper. Styrt varumärkessystem, lokal SEO per klinik, Google Business Profile per mottagning, enhetlig bokning och HIPAA-anpassat. Klättra i sökresultaten i varje stad ni verkar i.",
+    "og_title": "Webbdesign för dermatologikliniker med flera mottagningar | Ett varumärke, varje stad",
+    "og_description": "Designa en enhetlig webbplats för flera hudmottagningar som rankar lokalt, konverterar per klinik och skalar i takt med att ni växer. HIPAA-anpassad, Lighthouse 95+ och äkta lokal SEO.",
+    "jsonLd": {
+      "serviceType": "Webbdesign för dermatologikliniker med flera mottagningar",
+      "providerName": "DW Design",
+      "audienceType": "Dermatologikliniker med flera mottagningar",
+      "offerDescription": "Webbdesign för hudkliniker på flera orter — startpris"
+    }
+  },
+  "hero": {
+    "badge": "Ett varumärke · Varje stad · Fullt indexerad",
+    "title": "Webbdesign för dermatologikliniker som rankar i varje stad ni öppnar.",
+    "description": "Ett styrt varumärkessystem med unika indexerade sidor per klinik, lokal schema-data, GBP, recensioner och bokning – så att patienter i Stockholm, Göteborg och Malmö ser en lokal hudläkarmottagning, inte en opersonlig koncern.",
+    "cta": "Planera min flerställes-sajt",
+    "secondary_cta": "Gratis lokal SEO-analys",
+    "stats": {
+      "brand": {
+        "value": "1 varumärke",
+        "description": "Styrt designsystem"
+      },
+      "locations": "Kliniker skalade till",
+      "performance": "Lighthouse på varje sida"
+    },
+    "rank_badge": {
+      "label": "Live lokal ranking",
+      "value": "Topp 3",
+      "subtext": "i varje lanserad stad, ≤ 60 dagar"
+    },
+    "image_alt": "Karta över nätverk av hudkliniker med en enhetlig instrumentpanel för varumärket"
+  },
+  "scaler": {
+    "eyebrow": "Interaktiv · Klinik-skalare",
+    "title": "Dra för att förhandsgranska ert lokala fotavtryck.",
+    "description": "Se hur många indexerade lokala sidor er webbplats levereras med – en per klinik, plus de viktigaste tjänstesidorna per stad.",
+    "label": "Antal kliniker:",
+    "range_hint": "2 – 10",
+    "stat_indexed": "Indexerade lokala sidor",
+    "stat_gbp": "GBPs claimade & kopplade",
+    "browser_placeholder": "dinklinik.se/platser",
+    "local_number": "Lokalt nummer"
+  },
+  "sections": {
+    "audiences": {
+      "eyebrow": "Vem detta är till för",
+      "title": "Byggd för varumärken inom dermatologi som verkar i mer än ett postnummer.",
+      "items": [
+        {
+          "label": "Sololäkare som expanderar",
+          "desc": "Du öppnar din andra eller tredje mottagning och har vuxit ur en enkel ensidessajt."
+        },
+        {
+          "label": "Klinikgrupper",
+          "desc": "3–20 mottagningar under ett varumärke som behöver lokal ranking och ett gemensamt CMS."
+        },
+        {
+          "label": "Pediatrisk dermatologi",
+          "desc": "Föräldrafokuserat intag med matchning av vårdgivare per klinik."
+        },
+        {
+          "label": "Mohs- & kirurginätverk",
+          "desc": "Portaler för remitterande läkare med klinikutvalda fallstudier och innehåll."
+        }
+      ]
+    },
+    "problems": {
+      "eyebrow": "Vad vi löser",
+      "title": "De flesta webbplatser för flera mottagningar är bara en enkel mall som maskerar sig.",
+      "description": "Google ser bara en sida. Patienter ser bara en adress. Recensioner hamnar på hög hos den klinik som råkade indexeras först. Vi bygger om arkitekturen från grunden.",
+      "labels": {
+        "before": "Före",
+        "after": "Efter"
+      },
+      "items": [
+        {
+          "before": "En /kontakt-sida för 6 kliniker",
+          "after": "6 indexerade lokala sidor"
+        },
+        {
+          "before": "Samma H1 på varje plats",
+          "after": "Stadsspecifik H1 + schema"
+        },
+        {
+          "before": "GBP ej ägd eller verifierad",
+          "after": "GBP per klinik, kopplad till sajten"
+        },
+        {
+          "before": "Patienter bokar fel mottagning",
+          "after": "Postnummer- & URL-smart bokning"
+        },
+        {
+          "before": "Delade recensioner, noll lokalt förtroende",
+          "after": "Recensioner & betyg per klinik"
+        },
+        {
+          "before": "Ny klinik = 6 veckors ombyggnad",
+          "after": "Ny plats live på < 7 dagar"
+        }
+      ]
+    },
+    "pillars": {
+      "eyebrow": "Systemet",
+      "title": "Sex pelare bakom varje flerställes-bygge.",
+      "items": [
+        {
+          "title": "Styrt varumärkessystem",
+          "desc": "Ett designspråk, tokens och ett komponentbibliotek – varje lokalsida ärver detta automatiskt."
+        },
+        {
+          "title": "Lokal SEO per plats",
+          "desc": "Unika URL:er, schema, H1:or och innehåll för varje mottagning – indexeras som distinkta kliniker."
+        },
+        {
+          "title": "Smart rutning av besökare",
+          "desc": "Postnummer-detektering och URL-smarta CTAs. Patienter bokar aldrig på fel klinik."
+        },
+        {
+          "title": "Stjärnbetyg per klinik",
+          "desc": "Recensioner samlas in, visas och märks upp separat per mottagning – äkta lokalt socialt bevis."
+        },
+        {
+          "title": "Enhetlig bokning, lokala rum",
+          "desc": "Ett patientflöde, N antal kalendrar. Klinikspecifika vårdgivare, tider och försäkringar."
+        },
+        {
+          "title": "HIPAA-anpassat överallt",
+          "desc": "Intagsformulär, patientportaler och analysverktyg – redo för BAA på varje plats."
+        }
+      ]
+    },
+    "architecture": {
+      "eyebrow": "URL-arkitektur",
+      "title": "Varje mottagning får ett eget indexerbart hem.",
+      "description": "Google behandlar varje kontor som en fristående klinik. Patienter landar på den stadssida som är relevant för deras sökning. Recensioner, öppettider och personal förblir låsta till rätt klinik.",
+      "items": [
+        "Klinikindex: /platser",
+        "Kliniksida: /platser/stockholm",
+        "Lokal tjänst: /platser/stockholm/aknebehandling",
+        "Läkarpresentation: /platser/stockholm/dr-berg",
+        "Strukturerad data: LocalBusiness + MedicalClinic per URL"
+      ],
+      "visual": {
+        "title": "URL-ritning",
+        "status": "Indexerad"
+      }
+    },
+    "seoMatrix": {
+      "eyebrow": "Lokal SEO-matris",
+      "title": "Varje stad × varje tjänst, indexerad och rankad.",
+      "description": "Exempel på ett varumärke med 4 kliniker – 12 topptjänster × 4 städer = 48 unikt rankade lokala sidor, utöver själva klinik-sidorna.",
+      "table": {
+        "head_service": "Tjänst",
+        "cities": [
+          "Stockholm",
+          "Göteborg",
+          "Malmö",
+          "Uppsala"
+        ],
+        "services": [
+          "Aknebehandling",
+          "Eksembehandling",
+          "Prickkontroll",
+          "Borttagning av födelsemärken",
+          "Rosaceabehandling",
+          "Psoriasisbehandling"
+        ]
+      }
+    },
+    "medicalServices": {
+      "eyebrow": "Medicinska tjänster som ingår",
+      "title": "Varje medicinskt nödvändig tjänst, per klinik.",
+      "description": "Varje mottagning visar endast de tjänster som faktiskt erbjuds där. Ingen förvirring, inga misslyckade bokningsförsök.",
+      "list": [
+        "Aknebehandling",
+        "Eksembehandling",
+        "Psoriasisbehandling",
+        "Behandling av hudinfektioner",
+        "Hudallergier",
+        "Hudcancerundersökning & behandling",
+        "Bedömning & borttagning av födelsemärken",
+        "Borttagning av cystor & lipom",
+        "Vårtbehandling",
+        "Nagelsjukdomar",
+        "Håravfall",
+        "Hårbottensproblem",
+        "Rosaceabehandling",
+        "Hyperpigmentering & melasma",
+        "Ärrbehandling",
+        "Brännskadeärr",
+        "Vitiligobehandling",
+        "Hudbiopsi & diagnostik"
+      ]
+    },
+    "deliverables": {
+      "eyebrow": "Vad som ingår",
+      "title": "12 konkreta leveranser vid lanseringsdag.",
+      "list": [
+        "Styrt flerställes-designsystem",
+        "Unik landningssida per klinik",
+        "LocalBusiness + MedicalClinic schema per plats",
+        "Uppsättning av Google Business Profile per klinik",
+        "Lokaliseringsväljare baserad på postnummer",
+        "Lokala läkarpresentationer & klinikfoto",
+        "Stadsspecifika tjänstesidor (toppsidor × N städer)",
+        "Klinikspecifik insamling & visning av recensioner",
+        "Enhetligt bokningsflöde med klinikkontext",
+        "HIPAA-anpassade formulär för alla mottagningar",
+        "Core Web Vitals 95+ på varje lokalsida",
+        "Lokaliseringsmedveten instrumentpanel för analys"
+      ]
+    },
+    "timeline": {
+      "eyebrow": "Processen",
+      "title": "Sex milstolpar. Ett lanseringsdatum.",
+      "steps": [
+        {
+          "step": "01",
+          "title": "Varumärkes- & klinikrevision",
+          "desc": "Vi inventerar varje mottagning, läkare, tjänst och befintliga GBP:er. Identifierar överlapp och NAP-luckor."
+        },
+        {
+          "step": "02",
+          "title": "Styrt designsystem",
+          "desc": "Ett varumärkeskit, ett komponentbibliotek. Varje kliniksida ärver detta – inget spretar."
+        },
+        {
+          "step": "03",
+          "title": "Lokal IA & innehåll",
+          "desc": "URL-struktur, stadsspecifika H1:or, läkarmappning och unika lokala innehållsbriefar."
+        },
+        {
+          "step": "04",
+          "title": "Bygge & lokal SEO-koppling",
+          "desc": "Varje kliniksida levereras med schema, inbäddad karta, NAP, GBP-länk och stadspecifika tjänstesidor."
+        },
+        {
+          "step": "05",
+          "title": "QA på riktiga enheter + HIPAA-granskning",
+          "desc": "Varje kliniksida testas på dator, surfplatta och mobil. Formulär granskas under BAA."
+        },
+        {
+          "step": "06",
+          "title": "Lansering + Local Pack-uppvärmning",
+          "desc": "GBP verifieras, citeringar justeras, Search Console + GA4 konfigureras per plats."
+        }
+      ]
+    },
+    "comparison": {
+      "eyebrow": "Varför inte alternativen",
+      "title": "Gör-det-själv. Generalistbyrån. Eller byggt för hudkliniker.",
+      "table": {
+        "head_capability": "Kapacitet",
+        "head_diy": "DIY-verktyg",
+        "head_generic": "Generalistbyrå",
+        "head_dw": "DW Design",
+        "recommended": "REKOMMENDERAS",
+        "rows": [
+          "Unik indexerad sida per plats",
+          "LocalBusiness-schema per klinik",
+          "GBP-uppsättning per mottagning",
+          "URL-smart bokningsflöde",
+          "Styrt varumärkessystem som skalar till +N kliniker",
+          "Lokala recensioner med schema",
+          "HIPAA-anpassade formulär på varje plats",
+          "Lighthouse 95+ på varje lokalsida"
+        ]
+      }
+    },
+    "pricing": {
+      "eyebrow": "Investering",
+      "title": "Prissatt efter hur många kliniker ni har.",
+      "custom_quote_text": "10+ kliniker eller större koncerner – begär en anpassad offert.",
+      "custom_quote_link": "begär en anpassad offert",
+      "starting_label": "från",
+      "most_popular": "Populärast",
+      "market_label": "Marknadspris:",
+      "tiers": [
+        {
+          "name": "2–3 kliniker",
+          "price": "$6,900",
+          "tag": "Växande verksamhet",
+          "market": "$15,000 – $28,000",
+          "savings": "54–75% billigare",
+          "features": [
+            "Styrt varumärkessystem",
+            "Upp till 3 indexerade lokalsidor",
+            "LocalBusiness-schema per klinik",
+            "GBP-uppsättning för varje plats",
+            "Enhetlig bokning med klinikkontext",
+            "5–7 veckors lansering"
+          ]
+        },
+        {
+          "name": "4–6 kliniker",
+          "price": "$11,400",
+          "tag": "Populärast",
+          "market": "$25,000 – $50,000",
+          "savings": "54–77% billigare",
+          "features": [
+            "Allt i 'Växande verksamhet'",
+            "Upp till 6 indexerade lokalsidor",
+            "Stadsspecifika tjänstesidor",
+            "Lokal recensionsinsamling",
+            "Postnummer-detektering",
+            "7–9 veckors lansering"
+          ]
+        },
+        {
+          "name": "7–10 kliniker",
+          "price": "$18,900",
+          "tag": "Regionalt nätverk",
+          "market": "$45,000 – $90,000",
+          "savings": "58–79% billigare",
+          "features": [
+            "Allt i 'Populärast'",
+            "Upp till 10 indexerade lokalsidor",
+            "Matchning av läkare per klinik",
+            "Försäkringsdatabas per mottagning",
+            "Lokalanpassad analys-dashboard",
+            "9–12 veckors lansering"
+          ]
+        }
+      ],
+      "cta": "Kom igång"
+    },
+    "gallery": {
+      "eyebrow": "Från aktiva projekt",
+      "title": "Ett styrt system som driver riktiga kliniker.",
+      "description": "Två interiörer från aktiva flerställes-varumärken inom dermatologi som vi har lanserat. Foto och identitet är anonymiserade för HIPAA + sekretessavtal.",
+      "nda_badge": "Sekretess",
+      "items": [
+        {
+          "label": "Reception · Klinik A",
+          "city": "Stockholmsområdet"
+        },
+        {
+          "label": "Behandlingsrum · Klinik B",
+          "city": "Göteborgsområdet"
+        }
+      ]
+    },
+    "caseStudy": {
+      "eyebrow": "Anonymiserad fallstudie",
+      "title": "Dermatologigrupp med 6 kliniker · Resultat efter 90 dagar.",
+      "description": "Namn och identifierande data utelämnas enligt sekretessavtal. Siffror från Google Search Console + GA4.",
+      "verified": "Verifierad",
+      "metrics": [
+        {
+          "k": "+41%",
+          "label": "Samtal från nya patienter",
+          "sub": "vs. 90 dagar före lansering"
+        },
+        {
+          "k": "Topp 3",
+          "label": "Ranking i Local Pack",
+          "sub": "i 6 / 6 lanserade städer"
+        },
+        {
+          "k": "48",
+          "label": "Indexerade lokala sidor",
+          "sub": "upp från 1 delad /kontakt-sida"
+        },
+        {
+          "k": "97",
+          "label": "Median Lighthouse",
+          "sub": "över alla kliniksidor"
+        }
+      ],
+      "chart": {
+        "title": "Nya patientsamtal · per vecka",
+        "description": "Före lansering → Dag 90",
+        "pre": "Före lansering",
+        "post": "Efter lansering",
+        "anonymized": "Anonymiserad klient"
+      }
+    },
+    "testimonial": {
+      "quote": "Vi gick från 3 kontor som delade på en kontaktsida till 6 fullt indexerade kliniksidor som rankade lokalt i sina städer inom 60 dagar. Samtalen från nya patienter ökade med 41 % – och vi kunde öppna vår sjunde klinik utan att behöva röra sajtens arkitektur.",
+      "author": "Dr. Rachel Patel",
+      "title": "Managing Partner, hudläkargrupp med 7 kliniker",
+      "trust_strip": "Flerställes-nätverk verksamma i",
+      "cities": [
+        "Stockholm",
+        "Göteborg",
+        "Malmö",
+        "Uppsala",
+        "Västerås",
+        "Örebro"
+      ]
+    }
+  },
+  "faq": {
+    "eyebrow": "Vanliga frågor",
+    "title": "Frågor om flerställes-sajter, besvarade direkt.",
+    "items": [
+      {
+        "q": "Hur rankar dessa webbplatser i Google för varje stad?",
+        "a": "Varje klinik får sin egen indexerade URL (t.ex. /platser/stockholm) med unik H1, stadsspecifik text, dedikerad LocalBusiness-schema, karta, NAP-konsistens och lokala recensioner. Rankingen i 'Local Pack' ackumuleras per stad, inte bara per varumärke."
+      },
+      {
+        "q": "Kan patienter boka på en specifik klinik utan förvirring?",
+        "a": "Ja. Bokningsflödet fastställer alltid platsen först – antingen via URL:en, postnummer-detektering eller en väljare i menyn. Patienten behöver aldrig gissa vilken mottagning de bokar tid hos."
+      },
+      {
+        "q": "Hur förhindrar ni att 10+ kliniksidor känns som kopior?",
+        "a": "Genom ett gemensamt varumärkessystem men unikt lokalt innehåll: äkta foto, läkarpresentationer låsta till rätt kontor, lokala frågor och svar, samt vägbeskrivningar från lokala landmärken. Google läser dem som distinkta enheter."
+      },
+      {
+        "q": "Vad händer om vi öppnar eller stänger en klinik senare?",
+        "a": "Nya kliniker sätts upp via en styrd mall på under en vecka. Stängda kliniker omdirigeras (301) till närmaste syskonklinik med bibehållen länkstruktur, så att ranking och auktoritet överförs istället för att försvinna."
+      },
+      {
+        "q": "Hanterar ni Google Business Profile för varje plats?",
+        "a": "Ja. Vi claimar, verifierar och optimerar en GBP för varje klinik, kopplar recensionsinsamling till sajten och ser till att NAP-uppgifter stämmer i de viktigaste medicinska katalogerna."
+      },
+      {
+        "q": "Hur lång tid tar det att lansera en sajt för flera kliniker?",
+        "a": "5–7 veckor för 2–4 kliniker, 7–10 veckor för 5–10 kliniker. Vi arbetar med fasta veckovisa milstolpar och ett spikat lanseringsdatum från start."
+      }
+    ]
+  },
+  "cta_founder": {
+    "title": "Varje lanserad klinik är vårt personliga ansvar.",
+    "description": "Vi tar bara emot ett begränsat antal projekt per kvartal för att säkerställa att varje kliniksida håller samma höga kvalitet. Om er tillväxtplan omfattar mer än en adress, låt oss planera arkitekturen nu.",
+    "cta_quote": "Få en kostnadsfri offert",
+    "cta_msg": "Skicka ett meddelande",
+    "footer_title": "Webbdesign för dermatologi",
+    "footer_sub": "Hjälper hudläkare att växa online",
+    "logo_alt": "DW — Webbdesign för dermatologi"
+  },
+  "footer_nav": {
+    "useful_hint": "Du kanske också är intresserad av:",
+    "links": {
+      "single": "webbdesign för enskilda kliniker",
+      "seo": "så fungerar lokal synlighet",
+      "portfolio": "se nyligen lanserade projekt"
+    }
+  }
+}

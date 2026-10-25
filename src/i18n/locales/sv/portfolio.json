@@ -1,0 +1,344 @@
+{
+  "meta": {
+    "title": "Portfolio för dermatologhemsidor — verkliga exempel på redesigns",
+    "description": "En noga utvald samling av dermatologhemsidor vi har designat och byggt — specialiserade inom estetisk, medicinsk och pediatrisk dermatologi, samt för kliniker på flera orter med mätbar tillväxt i bokningar, SEO och laddningstider.",
+    "keywords": "portfolio dermatologhemsidor, webbdesign för dermatologer, fallinstudier dermatologi, hemsidor för hudläkarmottagningar",
+    "breadcrumb": {
+      "home": "Hem",
+      "portfolio": "Portfolio"
+    }
+  },
+  "accessibility": {
+    "skipToContent": "Hoppa till innehåll"
+  },
+  "hero": {
+    "badge": "Portfolio · Över 50 hudvårdskliniker",
+    "heading": "Hemsidor för dermatologi som levererar verklig tillväxt.",
+    "subheading": "Varje projekt nedan är en aktiv verksamhet — från estetisk och medicinsk till barn- och flerortskliniker. Skräddarsydd design, HIPAA-medvetna lösningar och SEO som ökar bokningarna, inte bara rankningen.",
+    "cta": {
+      "start": "Starta projekt",
+      "audit": "Gratis hemsidesanalys"
+    },
+    "stats": [
+      {
+        "label": "Verksamheter",
+        "value": "50+"
+      },
+      {
+        "label": "Genomsnittlig bokningsökning",
+        "value": "3.4×"
+      },
+      {
+        "label": "Lighthouse (median)",
+        "value": "98"
+      }
+    ]
+  },
+  "previews": {
+    "backCard": {
+      "imageAlt": "CS Dermatology — förhandsvisning av medicinsk webbplats",
+      "tags": {
+        "hipaa": "HIPAA-aware",
+        "performance": "99 · prestanda"
+      }
+    },
+    "frontCard": {
+      "imageAlt": "Aventura Skin Studio — förhandsvisning av estetisk webbplats",
+      "category": "Estetisk dermatologi · Miami",
+      "practiceName": "Aventura Skin Studio",
+      "result": "+214 % fler konsultationsförfrågningar · 90 dagar"
+    }
+  },
+  "ctaSection": {
+    "badge": "Vi är redo när du är",
+    "heading": "Din klinik förtjänar en hemsida som genererar patienter på egen hand.",
+    "description": "Upptäck hur en webblösning specialbyggd för dermatologi kan förändra din verksamhet. Gratis analys, fast prisförslag och ingen press — du får konkreta siffror inom 24 timmar.",
+    "features": [
+      "Gratis hemsidesanalys inom 24h",
+      "Fast prisförslag",
+      "HIPAA-aware, WCAG AA",
+      "Du äger allt — kod, domän och data"
+    ],
+    "buttons": {
+      "start": "Starta projekt",
+      "audit": "Gratis analys"
+    },
+    "disclaimer": "Inget kreditkort · Inget säljmanus"
+  },
+  "footerLinks": {
+    "text": "Du kanske även vill läsa om:",
+    "caseStudies": "resultatinriktade kundcase",
+    "process": "hur vi tar projektet i mål",
+    "pricing": "aktuella paketpriser",
+    "conjunctions": {
+      "or": "eller"
+    }
+  },
+  "gallery": {
+    "eyebrow": "Live på nätet",
+    "heading": "Dermatologihemsidor vi studerar, analyserar och bygger om.",
+    "subheading": "Ett handplockat galleri av dermatologi-, estetik- och skincare-varumärken från USA, MENA, UK och mer."
+  },
+  "sites": {
+    "centralaustinderm.com": {
+      "tagline": "Fullservice dermatologi i centrala Austin.",
+      "location": "Austin, TX"
+    },
+    "cleardermatology.net": {
+      "tagline": "Styrelsecertifierad medicinsk och kosmetisk vård.",
+      "location": "Scottsdale, AZ"
+    },
+    "olanskydermatology.com": {
+      "tagline": "Estetisk dermatologi + injicerbara svit.",
+      "location": "Atlanta, GA"
+    },
+    "sanovadermatology.com": {
+      "tagline": "Kosmetisk, medicinsk och kirurgisk dermatologi.",
+      "location": "TX & LA"
+    },
+    "dermsanantonio.com": {
+      "tagline": "Laser + medicinsk dermatologi campus.",
+      "location": "San Antonio, TX"
+    },
+    "directderm.com": {
+      "tagline": "Direkt till patient teledermatologi.",
+      "location": "USA"
+    },
+    "clinicaldermatologycenter.com": {
+      "tagline": "Forskningsframåtriktad klinisk dermatologi.",
+      "location": "Cincinnati, OH"
+    },
+    "dermlasercenter.com": {
+      "tagline": "Avancerat laser + hudcancercenter.",
+      "location": "USA"
+    },
+    "coloradodermatology.com": {
+      "tagline": "Front Range medicinsk dermatologi.",
+      "location": "Colorado"
+    },
+    "skymd.com": {
+      "tagline": "50-statliga teleledermatologiska nätverk.",
+      "location": "USA"
+    },
+    "chicagodermatology.co": {
+      "tagline": "Boutique medicinsk och kosmetisk dermatologi.",
+      "location": "Chicago, IL"
+    },
+    "cura.sa": {
+      "tagline": "Premium dermatologi och välbefinnande i KSA.",
+      "location": "Saudiarabien"
+    },
+    "galderma.com": {
+      "tagline": "Global dermatologi pharma & estetik.",
+      "location": "Global"
+    },
+    "badrhealth.com": {
+      "tagline": "Dermatologigrupp med flera specialiteter.",
+      "location": "Saudiarabien"
+    },
+    "zmmcomedical.com": {
+      "tagline": "Medicinsk + estetisk dermatologigrupp.",
+      "location": "MENA"
+    },
+    "naturium.com": {
+      "tagline": "Hudläkare älskat hudvårdsmärke.",
+      "location": "USA"
+    },
+    "westdermatology.com": {
+      "tagline": "Nätverk över 60+ platser i västra USA.",
+      "location": "AZ · CA · NV · NM"
+    },
+    "baydermatology.com": {
+      "tagline": "Allmän och pediatrisk dermatologi.",
+      "location": "Florida"
+    },
+    "lasercarespecialists.com": {
+      "tagline": "Fokuserad laser + hudföryngring.",
+      "location": "USA"
+    },
+    "fwdermatology.com": {
+      "tagline": "Familje- och kirurgisk dermatologi.",
+      "location": "Fort Worth, TX"
+    },
+    "westlakedermatology.com": {
+      "tagline": "Toppklassigt varumärke för kosmetisk dermatologi.",
+      "location": "Texas"
+    },
+    "platinumderm.com": {
+      "tagline": "Modern övningsgrupp i platinanivå.",
+      "location": "USA"
+    },
+    "sdfamilyderm.com": {
+      "tagline": "Familjens första dermatologi i San Diego.",
+      "location": "San Diego, CA"
+    },
+    "candelamedical.com": {
+      "tagline": "Global tillverkare av estetiska enheter.",
+      "location": "Global"
+    },
+    "edermatology.com": {
+      "tagline": "Concierge medicinsk dermatologi.",
+      "location": "USA"
+    },
+    "dermatologistoncall.com": {
+      "tagline": "On-demand virtuella dermatologibesök.",
+      "location": "USA"
+    },
+    "neodermatologist.com": {
+      "tagline": "Nästa generations concierge dermatologi.",
+      "location": "USA"
+    },
+    "doraclinic.sa": {
+      "tagline": "Lyx dermatologi i Saudiarabien.",
+      "location": "Saudiarabien"
+    },
+    "reveal-clinics.com": {
+      "tagline": "Estetisk klinikkedja, baserad i Storbritannien.",
+      "location": "Storbritannien"
+    },
+    "dermskincancercenter.com": {
+      "tagline": "Mohs & hudcancerspecialister.",
+      "location": "USA"
+    },
+    "coloradospringsdermatologyclinic.com": {
+      "tagline": "Kosmetisk + medicinsk dermatologi.",
+      "location": "Colorado Springs, CO"
+    },
+    "azcdps.com": {
+      "tagline": "Omfattande AZ-dermatologipraktik.",
+      "location": "Arizona"
+    },
+    "lumenis.com": {
+      "tagline": "Energibaserad estetisk teknik.",
+      "location": "Global"
+    },
+    "skinsight.com": {
+      "tagline": "Referensbibliotek för visuellt hudtillstånd.",
+      "location": "Global"
+    },
+    "skinofcolorsociety.org": {
+      "tagline": "Ideell för hud- och färgforskning.",
+      "location": "Global"
+    },
+    "clini-derma.com": {
+      "tagline": "Modern estetisk dermatologisk klinik.",
+      "location": "Europa"
+    },
+    "skinandme.com": {
+      "tagline": "Receptbelagd hudvård, levereras varje månad.",
+      "location": "Storbritannien"
+    },
+    "unionmd.ca": {
+      "tagline": "Premium medicinsk och estetisk vård.",
+      "location": "Montreal, CA"
+    },
+    "sydneyderm.com.au": {
+      "tagline": "Specialist dermatologi i Sydney CBD.",
+      "location": "Sydney, AU"
+    },
+    "drhausdermatology.com": {
+      "tagline": "Harley Street dermatologi och estetik.",
+      "location": "London, Storbritannien"
+    },
+    "teladochealth.com": {
+      "tagline": "Globalt virtuellt vårdföretag.",
+      "location": "Global"
+    },
+    "skincarebydrv.com": {
+      "tagline": "Hud av färgexpertmärke.",
+      "location": "Storbritannien"
+    },
+    "sunparkdermatology.ca": {
+      "tagline": "Familjemedicinsk dermatologipraktik.",
+      "location": "Calgary, CA"
+    },
+    "almalasers.com": {
+      "tagline": "Global energibaserad enhetstillverkare.",
+      "location": "Global"
+    },
+    "cpso.on.ca": {
+      "tagline": "Ontario läkare tillsynsorgan.",
+      "location": "Ontario, CA"
+    },
+    "ottawahospital.on.ca": {
+      "tagline": "Akademiskt sjukhus med flera campus.",
+      "location": "Ottawa, CA"
+    },
+    "thedermaco.com": {
+      "tagline": "Vetenskapsstödd hudvårdsmärke.",
+      "location": "Indien"
+    },
+    "vancouver.rejuv.ca": {
+      "tagline": "Medicinsk estetik & föryngring.",
+      "location": "Vancouver, CA"
+    },
+    "eudelo.com": {
+      "tagline": "London dermatologi & hud välbefinnande.",
+      "location": "London, Storbritannien"
+    },
+    "derma-clinic.co.uk": {
+      "tagline": "Konsultledd brittisk dermatologi.",
+      "location": "Storbritannien"
+    },
+    "belfastskinclinic.com": {
+      "tagline": "Nordirländska hudspecialister.",
+      "location": "Belfast, Storbritannien"
+    },
+    "cathedraldermatology.com": {
+      "tagline": "Omfattande dermatologisk vård.",
+      "location": "USA"
+    },
+    "themoleclinic.co.uk": {
+      "tagline": "Storbritanniens ledande mullvadsscreeningstjänst.",
+      "location": "Storbritannien"
+    },
+    "blemishclinic.co.uk": {
+      "tagline": "Specialister på borttagning av hudskador.",
+      "location": "Storbritannien"
+    },
+    "norvichospital.com": {
+      "tagline": "Privatsjukhus med flera specialiteter.",
+      "location": "Bangladesh"
+    },
+    "heidelbergmedical.com.au": {
+      "tagline": "Kosmetisk dermatologi & anti-ageing.",
+      "location": "Melbourne, AU"
+    },
+    "dermscreen.com.au": {
+      "tagline": "Specialister på hudcancerscreening.",
+      "location": "Australien"
+    },
+    "stgeorgedermatology.com.au": {
+      "tagline": "Sydney specialist dermatologi.",
+      "location": "Sydney, AU"
+    },
+    "theskinlab.com.au": {
+      "tagline": "Kosmetisk dermatologi och injektioner.",
+      "location": "Australien"
+    },
+    "asec.net.au": {
+      "tagline": "Australian Skin Excellence Centre.",
+      "location": "Australien"
+    }
+  },
+  "categoryLabels": {
+    "aesthetic": "Estetisk",
+    "medical": "Medicinsk",
+    "multiLocation": "Flera platser",
+    "brand": "Varumärke / Företag",
+    "international": "Internationell",
+    "specialty": "Specialitet"
+  },
+  "filters": {
+    "all": "Alla övningar",
+    "aesthetic": "Estetiskt & kosmetiskt",
+    "medical": "Medicinsk dermatologi",
+    "multiLocation": "Grupper på flera platser",
+    "brand": "Företag & varumärke",
+    "international": "MENA & internationellt",
+    "specialty": "Specialitet och resurser"
+  },
+  "actions": {
+    "visitSite": "Besök webbplatsen"
+  }
+}

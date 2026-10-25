@@ -1,0 +1,72 @@
+{
+  "growthKpi": {
+    "header": "Kasvuprojektori",
+    "bookingLift": "{{pct}}% varauslisäys",
+    "projectedRevenueLabel": "Ennustettu vuotuinen lisätulo",
+    "roiSuffix": "× tuotto kuukausittaisesta sijoituksesta",
+    "bookedVisitsCaption": "Varaatut käynnit · 8 kuukauden ennuste",
+    "addedPerMonth": "+{{n}}/kk",
+    "monthlyInvestment": "Kuukausittainen sijoitus",
+    "currentMonthlyVisits": "Nykyiset kuukausittaiset käynnit",
+    "kpi": {
+      "newVisits": "Uusia käyntiä/kk",
+      "totalVisits": "Kaikki käynnit/kk",
+      "monthlyRevenue": "Kuukausittainen liikevaihto"
+    }
+  },
+  "cpc": {
+    "header": "CPC-laskin",
+    "badge": "vertailukelpoinen",
+    "costPerBookedLabel": "Ennustettu hinta varattua käyntiä kohden",
+    "bookedVisitsSuffix": "· {{n}} varattua käyntiä/kk",
+    "serviceLineLabel": "Palvelulinja",
+    "avgCpcSuffix": "keskim. CPC",
+    "monthlySpend": "Kuukausittainen mediamenot",
+    "kpi": {
+      "clicks": "Klikkaukset/kk",
+      "leads": "Liidit/kk",
+      "avgCpc": "Keskim. CPC"
+    },
+    "footer": "{{booked}} varattua käyntiä · {{cost}} kukin",
+    "footerBadge": "arvioitu",
+    "services": {
+      "acne": "Aknen hoito",
+      "mohs": "Mohsin leikkaus",
+      "aesthetic": "Aesthetic / kosmeettinen",
+      "general": "Yleinen ihotautilääkäri"
+    }
+  },
+  "radius": {
+    "header": "Palvelualueen suunnittelija",
+    "radiusBadge": "{{n}} mailin säde",
+    "mapCaption": "Klinikkasi · {{n}} mailia",
+    "sliderAria": "Palvelusäde maileina",
+    "sliderMin": "{{n}} mailia",
+    "sliderMax": "{{n}} mailia",
+    "kpi": {
+      "residents": "Tavoitetut asukkaat",
+      "searches": "Paikalliset haut",
+      "visits": "Potentiaaliset käynnit"
+    },
+    "coveragePrefix": "Peittoalue",
+    "coverageSuffix": "— ruudukkoon sijoitettu jokaiselle renkaan sisäpuoliselle postinumerolle."
+  },
+  "rank": {
+    "header": "Live-sijoituksen seuranta",
+    "live": "reaaliaikainen",
+    "fromRank": "sijalta #{{n}}",
+    "quarterFooter": "+{{n}} sijaa tällä vuosineljänneksellä",
+    "updating": "päivitetään",
+    "keywords": {
+      "nearMe": "ihotautilääkäri lähelläni",
+      "acneCity": "aknen hoito [city]",
+      "aesthetic": "aesthetic-asiantuntija",
+      "mohs": "mohsin leikkausklinikka"
+    }
+  },
+  "preloader": {
+    "brandLead": "Ihotautien",
+    "brandHighlight": "Verkkosivujen suunnittelu",
+    "tagline": "HIPAA-tietoinen · Konversio-orientoitunut"
+  }
+}

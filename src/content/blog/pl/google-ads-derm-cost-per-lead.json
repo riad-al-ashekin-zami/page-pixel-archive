@@ -1,0 +1,60 @@
+{
+  "slug": "google-ads-derm-cost-per-lead",
+  "title": "Jak obniżyliśmy koszt pozyskania leada o 47% w Google Ads",
+  "excerpt": "Strategia ustalania stawek specyficzna dla dermatologii, biblioteka słów kluczowych z wykluczeniami i schemat strony docelowej, który przynosi skumulowane efekty.",
+  "imageAlt": "Marketer przeglądający wykresy wydajności płatnych reklam na szerokim monitorze",
+  "body": [
+    {
+      "text": "Koszt pozyskania leada (CPL) w kampaniach Google Ads dla dermatologii jest zwykle problemem — zawyżony generycznymi słowami kluczowymi, niedopasowanymi stronami docelowymi i strategią ustalania stawek, która nie była modyfikowana od czasu uruchomienia kampanii przez osobę, która już nie pracuje w placówce. Oto dokładne ramy, które zastosowaliśmy, aby obniżyć CPL ze 180 USD do 95 USD w ciągu jednego kwartału w trzech praktykach wielolokalizacyjnych."
+    },
+    {
+      "text": "47% obniżka nie była wynikiem jednego magicznego rozwiązania. Był to skumulowany efekt trzech zdyscyplinowanych zmian: bezwzględnej biblioteki słów kluczowych z wykluczeniami, struktury strony docelowej z jedną ofertą na stronę oraz przejścia z ogólnej strategii „Maksymalizuj konwersje” na strategię docelowego CPA zakotwiczoną w rzeczywistych danych o rezerwacjach, a nie danych z wypełnionych formularzy. Każda z tych zmian w izolacji przesuwa wskazówkę o 10–15%. Razem składają się na prawie połowę."
+    },
+    {
+      "heading": "1. Biblioteka słów kluczowych z wykluczeniami"
+    },
+    {
+      "text": "Zacznij od naszej 240-terminowej negatywnej listy dermatologicznej. Filtruje ona tanie kliknięcia wynikające z ciekawości i wyszukiwania edukacyjne przed tym, zanim kosztują cię one ani grosz. Jeśli ktoś wyszukuje w Google „jak działa Accutane”, to prawie na pewno jest studentem lub ciekawym pacjentem, a nie osobą zamierzającą dokonać rezerwacji — a jednak twoja reklama z radością się pojawi i spali na nich budżet, chyba że jej tego zabronisz."
+    },
+    {
+      "list": [
+        "Terminy z intencją edukacyjną: „co to jest”, „jak działa”, „znaczenie”, „diagram”, „etapy”, „rodzaje”",
+        "Terminy z intencją kariery: „dermatolog zarobki”, „praca dermatolog w pobliżu”, „rezydentura”",
+        "Terminy związane z majsterkowaniem i tanimi alternatywami: „domowe sposoby”, „naturalne”, „DIY”, „tanie”, „darmowe”, „za darmo”",
+        "Terminy dla niewłaściwej grupy odbiorców: student, dzieci (chyba że świadczysz usługi pediatryczne), opinie, forum, reddit",
+        "Terminy konkurencji, chyba że masz udokumentowaną strategię pozyskiwania klientów od konkurencji"
+      ]
+    },
+    {
+      "text": "Odbudowuj listę wykluczeń kwartalnie. Zachowania wyszukiwania zmieniają się, nowe trendy na TikTok generują nowe zapytania z ciekawości, a wczorajsze czyste słowo kluczowe staje się jutrzejszym cieknącym wiadrem. Dziewięćdziesięciominutowy kwartalny przegląd ma nieproporcjonalnie wysoki ROI."
+    },
+    {
+      "heading": "2. Schemat strony docelowej"
+    },
+    {
+      "text": "Największy wzrost w studium przypadku wynikał z wyeliminowania wspólnej strony docelowej „kontakt” i zastąpienia jej jedną ofertą na kampanię. Kampanie dotyczące estetice kierują na stronę Aesthetic. Kampanie dotyczące trądziku kierują na stronę dotyczącą trądziku. Każda strona ma ten sam szkielet — nagłówek heroic, dowody, oferta, formularz — ale treść jest dopasowana do intencji grupy reklam."
+    },
+    {
+      "list": [
+        "Jedna oferta na stronę — nigdy nie mieszaj intencji kosmetycznych i medycznych",
+        "Stos zaufania nad linią przewijania: odznaka certyfikowanego lekarza, ocena recenzji, liczba pacjentów",
+        "Jeden formularz z maksymalnie 4 polami i bez wymaganego telefonu",
+        "Przyklejony przycisk CTA (Call to Action) na urządzeniach mobilnych widoczny podczas przewijania",
+        "Dwa moduły dowodów społecznych — jeden karuzela opinii, jeden przed/po z zgodą"
+      ]
+    },
+    {
+      "heading": "3. Strategia ustalania stawek zakotwiczona w rezerwacjach, a nie w leadach"
+    },
+    {
+      "text_": "Algorytmy Google optymalizują się pod kątem sygnału konwersji, który im dostarczasz. Jeśli dostarczysz im wypełnione formularze, znajdą ci najtańsze wypełnione formularze — które często mają najniższą intencję. Kluczem jest dostarczenie Google zdarzenia konwersji dalszego etapu: „wizyta umówiona” lub „wizyta się odbyła”. Robimy to, przesyłając dane z PMS lub CRM placówki z powrotem do Google Ads za pośrednictwem śledzenia konwersji offline, a następnie przechodząc z „Maksymalizuj konwersje” na docelowe CPA z celem powiązanym ze zdarzeniem umówionej wizyty."
+    },
+    {
+      "text": "Ta jedna zmiana zazwyczaj podnosi widoczny CPL na kilka tygodni — algorytm potrzebuje danych do nauki — zanim ustabilizuje się na znacznie niższym koszcie za zarejestrowanego pacjenta. To jest metryka, która naprawdę ma znaczenie. Formularz za 60 USD, który nigdy nie prowadzi do rezerwacji, jest droższy niż formularz za 140 USD, który staje się pacjentem na całe życie."
+    },
+    {
+      "text": "Wprowadź te trzy zmiany na cały kwartał, zanim ocenisz wynik. Dziewięćdziesiąt dni to wystarczająco dużo czasu, aby algorytm się nauczył, lista wykluczeń zaczęła działać, a strony docelowe zebrały wystarczającą ilość ruchu do testów A/B. Praktyki, które rezygnują w szóstym tygodniu, prawie zawsze tracą na skumulowanych efektach."
+    }
+  ],
+  "faqs": null
+}

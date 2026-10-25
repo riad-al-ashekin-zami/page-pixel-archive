@@ -1,0 +1,99 @@
+{
+  "cta": {
+    "eyebrow": "Ilmainen verkkosivuanalyysi",
+    "headingLead": "Valmis kasvattamaan",
+    "headingHighlight": "dermatologian vastaanottoasi",
+    "headingTailShort": "",
+    "headingTailLong": " verkossa?",
+    "descriptionShort": "Hanki ilmainen verkkosivustoanalyysi ja räätälöity kasvusuunnitelma – veloituksetta.",
+    "descriptionLong": "Hanki ilmainen verkkosivustoanalyysi. Tarkistamme sivustosi, tunnistamme kasvuaukot ja kartoitamme suunnitelman – veloituksetta.",
+    "button": "Pyydä ilmainen tarjous",
+    "trustedBy": "Maailmanlaajuisten ihotautilääkäreiden luottama"
+  },
+  "brand": {
+    "logoAlt": "Dermatology Website Design",
+    "homeAria": "Dermatology Website Design — Etusivu",
+    "tagline": "Verkkosivustot rakennettu yksinomaan ihotautilääkäreille ja ihoklinikoille. HIPAA-tietoiset, hakukoneoptimoitukset, konversioon keskittyvät verkkosivustot, jotka on suunniteltu auttamaan vastaanottoja kasvamaan verkossa.",
+    "whatsappLabel": "Keskustele kanssamme WhatsAppissa",
+    "whatsappCta": "Keskustele WhatsAppissa",
+    "location": "Palvelemme dermatologian vastaanottoja maailmanlaajuisesti"
+  },
+  "columns": {
+    "services": "Palvelut",
+    "company": "Yritys",
+    "resources": "Resurssit",
+    "legal": "Lakiasiat"
+  },
+  "services": {
+    "websiteDesign": "Verkkosivuston suunnittelu",
+    "websiteRedesign": "Verkkosivuston uudelleensuunnittelu",
+    "websiteMigration": "Verkkosivuston siirto",
+    "websiteManagement": "Verkkosivuston hallinta",
+    "ecommerce": "Verkkokauppa",
+    "socialMedia": "Sosiaalisen median hallinta"
+  },
+  "company": {
+    "about": "Tietoa meistä",
+    "process": "Prosessimme",
+    "caseStudies": "Tapaustutkimukset",
+    "contact": "Ota yhteyttä"
+  },
+  "resources": {
+    "blog": "Blogi",
+    "faq": "UKK",
+    "audit": "Ilmainen verkkosivuanalyysi",
+    "auditBadge": "ILMAINEN",
+    "checklists": "Tarkistuslistat",
+    "patientPortal": "Potilasportaali",
+    "addOns": "Lisäpalvelut"
+  },
+  "legal": {
+    "serviceAgreement": "Palvelusopimus",
+    "privacy": "Tietosuojakäytäntö",
+    "terms": "Käyttöehdot",
+    "refund": "Palautuskäytäntö",
+    "cookies": "Evästekäytäntö"
+  },
+  "hipaaBadge": {
+    "title": "HIPAA-tietoinen",
+    "note": "Tietosuoja ja turvallisuus sisäänrakennettu jokaiseen sivustoon"
+  },
+  "trustBadges": {
+    "hipaa": {
+      "label": "HIPAA-tietoinen",
+      "note": "Vaatimustenmukaisuus edellä oleva suunnittelu"
+    },
+    "ada": {
+      "label": "ADA esteetön",
+      "note": "WCAG 2.1 -yhteensopiva"
+    },
+    "ssl": {
+      "label": "SSL-suojattu",
+      "note": "256-bittinen salaustekniikka"
+    },
+    "seo": {
+      "label": "Hakukoneoptimoitu",
+      "note": "Sijoitu korkeammalle Googlessa"
+    },
+    "mobile": {
+      "label": "Mobiiliystävällinen",
+      "note": "Täydellinen kaikilla laitteilla"
+    },
+    "speed": {
+      "label": "Nopea latautuminen",
+      "note": "95+ Lighthouse-pisteet"
+    }
+  },
+  "bottom": {
+    "copyright": "© 2026 {{brand}}.",
+    "brand": "Dermatology Website Design",
+    "rights": "Kaikki oikeudet pidätetään.",
+    "madeWith": "Tehty",
+    "madeFor": "dermatologian vastaanotoille",
+    "backToTop": "Takaisin ylös"
+  },
+  "compliance": {
+    "heading": "Vaatimustenmukaisuusilmoitus",
+    "body": "Rakennamme HIPAA-tietoisia verkkosivustoja ja toteutamme parhaan käytännön turvatoimenpiteitä. Asiakkaat ovat vastuussa siitä, että heidän toimintansa noudattaa kaikkia sovellettavia terveydenhuollon säännöksiä ja lakisääteisiä vaatimuksia, mukaan lukien allekirjoitetun Business Associate Agreement (BAA) -sopimuksen hankkiminen silloin, kun Protected Health Information (PHI) -tietoja käsitellään. Tämän sivuston sisältö on tarkoitettu vain tiedoksi, eikä se muodosta lääketieteellistä, oikeudellista tai taloudellista neuvontaa. Markkinoinnin, hakukoneoptimoinnin ja konversiopalvelujen tulokset vaihtelevat käytännön, markkinan ja ponnistusten mukaan, eivätkä ole taattuja. Kaikki kolmansien osapuolien nimet, logot ja tavaramerkit kuuluvat omistajilleen ja niitä käytetään ainoastaan tunnistamistarkoituksiin."
+  }
+}

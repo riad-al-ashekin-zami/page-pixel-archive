@@ -1,0 +1,50 @@
+{
+  "slug": "patient-portal-conversion",
+  "title": "Le Formulaire d'Admission Patient Qui a Doublé les Rendez-vous",
+  "excerpt": "Un modèle de formulaire en quatre étapes conçu autour de la charge cognitive — avec des données de test A/B provenant de trois cabinets.",
+  "imageAlt": "Patient remplissant un formulaire d'admission sur une tablette dans une salle d'attente lumineuse",
+  "body": [
+    {
+      "text": "Un formulaire long est une friction. Quatre étapes courtes donnent l'impression d'une conversation. Ce simple changement de modèle a doublé la conversion dans trois cabinets tests en moins de 60 jours — et c'est l'une des victoires les moins chères de tout le guide marketing de la dermatologie, car le formulaire était la seule variable que nous avons touchée."
+    },
+    {
+      "text": "La raison pour laquelle le modèle en quatre étapes fonctionne est simple : les humains terminent les tâches qui semblent finies. Un long formulaire avec 12 champs visibles signale un engagement prolongé, et chaque champ requis supplémentaire est une autre occasion pour le visiteur de fermer l'onglet. Un formulaire en quatre étapes ne montre que le premier champ au chargement, et la barre de progression visuelle récompense chaque étape complétée par une petite dose de dopamine. Au moment où le visiteur voit l'étape du numéro de téléphone, il s'est déjà engagé émotionnellement à la terminer."
+    },
+    {
+      "heading": "Les quatre étapes"
+    },
+    {
+      "list": [
+        "Étape 1 : Qu'est-ce qui vous amène ? (choix unique, 4 à 6 options)",
+        "Étape 2 : Quand souhaitez-vous être reçu ? (jour + plage horaire)",
+        "Étape 3 : Un peu sur vous (nom + e-mail)",
+        "Étape 4 : Le meilleur téléphone pour vous joindre (avec préférence d'heure)"
+      ]
+    },
+    {
+      "heading": "Pourquoi l'ordre des étapes est important"
+    },
+    {
+      "text": "L'ordre des quatre étapes n'est pas arbitraire. La première étape saisit l'intention, qui est la donnée la plus nécessaire à votre cabinet et celle que le visiteur est le plus heureux de donner — personne n'hésite à dire pourquoi il vient. La deuxième étape saisit la préférence de planification, ce qui augmente l'engagement mental du visiteur car il a maintenant visualisé le rendez-vous dans son calendrier. Ce n'est qu'après ces deux engagements que vous demandez des informations d'identification."
+    },
+    {
+      "text": "Les cabinets qui inversent l'ordre — en demandant le nom et l'e-mail en premier — voient la conversion chuter de 30 à 40 %. Le visiteur ne s'est encore engagé à rien, et 'donnez-moi votre adresse e-mail' semble transactionnel. Au moment où vous demandez des informations d'identification après que le visiteur a déjà envisagé le rendez-vous, l'échange semble conversationnel."
+    },
+    {
+      "heading": "Le seul champ que vous ne devriez jamais exiger : le téléphone"
+    },
+    {
+      "text": "Chaque test A/B que nous avons effectué sur le champ du téléphone a abouti à la même conclusion : le téléphone requis fait chuter la conversion de 12 à 18 %. Pourtant, presque tous les cabinets que nous intégrons exigent le téléphone. La solution consiste à rendre le téléphone facultatif sur le formulaire et à faire un suivi par e-mail pour la planification. Les cabinets qui apportent ce changement conservent généralement 90 % des données téléphoniques qu'ils avaient l'habitude d'exiger (les gens les fournissent volontairement) et gagnent les 12 à 18 % de visiteurs qui auraient rebondi."
+    },
+    {
+      "heading": "Méthodologie de test et ce qu'il faut mesurer"
+    },
+    {
+      "text": "Ne mesurez pas le taux de remplissage de formulaire de manière isolée. Mesurez le taux de rendez-vous réservés et, idéalement, le taux de patients présents au rendez-vous. Un formulaire qui se remplit plus vite mais produit des rendez-vous manqués n'est pas une victoire. Instrumentez l'entonnoir depuis le clic publicitaire ou organique jusqu'au rendez-vous réservé, et testez A/B le modèle en quatre étapes par rapport à votre formulaire long actuel pendant au moins trois semaines par variante pour accumuler un trafic statistiquement significatif."
+    },
+    {
+      "text": "Une fois que le modèle en quatre étapes bat la référence (ce qu'il fait presque toujours), verrouillez-le et passez au test suivant — généralement le texte CTA, la pile de confiance au-dessus du formulaire, ou l'e-mail de confirmation qui est envoyé après soumission. Chacun d'eux a 5 à 10 % de plus à trouver une fois que le formulaire lui-même est réglé."
+    }
+  ],
+  "faqs": null
+}

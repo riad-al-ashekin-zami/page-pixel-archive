@@ -1,0 +1,64 @@
+{
+  "slug": "dermatology-seo-playbook-2026",
+  "title": "2026 DermGrows SEO Spillebok: Rangering på 90 Dager",
+  "excerpt": "De nøyaktige søkeord-klyngene, tekniske fiksene og publiseringsrytmen vi bruker for å flytte dermatologipraksiser til side én – med reelle tidslinjer.",
+  "imageAlt": "Analyse-dashbord på en bærbar datamaskin på et lyst dermatologikontor",
+  "body": [
+    {
+      "text": "Å rangere en dermatologipraksis på nitti dager er ikke et løfte du gir lett – men med riktig arkitektur er det repeterbart. I denne spilleboken legger vi fram det nøyaktige nitti-dagers systemet vi kjører for hver ny klient, fra den første tekniske revisjonen til det siste innholds-fremstøtet som \"slår på bryteren\" og flytter målsøkeord til side én av Google."
+    },
+    {
+      "text": "Feilen de fleste praksiser gjør er å behandle SEO som en sjekkliste med taktikker i stedet for et system. De jager individuelle blogginnlegg, justerer tittel-tags og håper at momentum bygger seg opp. Det gjør det ikke. Det som bygger momentum er en klynge-først-arkitektur, et rent teknisk fundament, og en innholdsrytme som bygger seg opp uke etter uke. Gjør du disse tre riktig, blir rangeringer en etterslagsindikator – den naturlige konsekvensen av å gjøre det riktige arbeidet i riktig rekkefølge."
+    },
+    {
+      "heading": "1. Bygg den tematiske klyngen før du skriver et eneste ord"
+    },
+    {
+      "text": "De fleste dermatologi-nettsteder taper i SERP fordi innholdet deres lever på isolerte sider. En Aesthetic-side her, en rosacea-artikkel der, en lokasjonsside i en annen silo – ingen av dem internt lenket på en måte som forteller Google hva nettstedet er autoritativt om. I stedet for å skrive frittstående stykker, grupperer vi tjenester, tilstander og lokasjoner i tematiske klynger. Hver klynge er forankret av en pilareside (for eksempel 'Aknebehandling i Oslo') som internt lenker til hver støtteartikkel – 'årsaker til cystisk akne', 'beste aknebehandlinger på klinikken', 'myter om kosthold for hormonell akne' – og hver støtteartikkel lenker tilbake til pilaren."
+    },
+    {
+      "text": "Denne strukturen gjør to ting. For det første konsentrerer den tematisk autoritet: hver tilbakekobling til en støtteartikkel overfører verdi til pilaren. For det andre gjør den intern lenking åpenbar. Det er ikke mer gjetting om hva som skal lenke til hva – klyngkartet forteller deg det."
+    },
+    {
+      "heading": "2. Fiks det tekniske fundamentet først"
+    },
+    {
+      "text": "Før du skriver noe som helst, kjør en teknisk revisjon og fiks det som er ikke-forhandlingsbart. Rangering er et kappløp med en vektklasse – hvis Core Web Vitals er under 90 på mobil, bærer du allerede en handicapvekt før løpet starter. I våre to første uker med en ny praksis, utfører vi følgende:"
+    },
+    {
+      "list": [
+        "Komprimer hvert heltebilde til WebP eller AVIF (gjennomsnittlig 70 % størrelsesreduksjon)",
+        "Få hver side over 90 på mobil Core Web Vitals – LCP under 2.5s, CLS under 0.1, INP under 200ms",
+        "Legg til FAQPage og MedicalBusiness strukturert data på hver tjenesteside",
+        "Konsolider dupliserte lokasjonssider med kanoniske tagger",
+        "Fiks hver 404 som har innkommende lenker, og omdiriger slettede URL-er",
+        "Send inn et rent XML-nettstedskart og valider det i Search Console"
+      ]
+    },
+    {
+      "text": "Dette er ikke glamorøse seire, men de bygger seg opp. Når fundamentet er rent, arver hvert innholdsstykke du publiserer den hastigheten og strukturen – noe som betyr at Google indekserer det raskere og brukere konverterer på det oftere."
+    },
+    {
+      "heading": "3. Innholdsrytme som faktisk bygger seg opp"
+    },
+    {
+      "text": "Den viktigste enkeltprediktoren for rangeringshastighet er publiseringskonsistens. To pilarartikler per måned, fire tilstandsfokuserte innlegg, og månedlige oppdateringer av de tre best rangerte sidene. Det er rytmen – intet mer, intet mindre. Praksiser som prøver å sprinte, blir utbrent. Praksiser som publiserer en gang i kvartalet, bygger aldri nok overflateareal til å fange long-tail trafikk."
+    },
+    {
+      "text": "Hver pilarartikkel er 1 800–2 400 ord, strukturert rundt intensjonen bak søkeordet. Hver støtteartikkel er 900–1 400 ord, laserfokusert på et enkelt spørsmål en pasient faktisk skriver inn i Google. Og hver oppdatering er en ekte oppdatering – ny intro, nye underseksjoner, oppdaterte statistikker, ferske interne lenker. Google belønner nyhet når den omkringliggende tematiske autoriteten allerede er der."
+    },
+    {
+      "quote": "Praksisene som vinner på 90 dager er de som slutter å jage taktikk og forplikter seg til et system. Rangeringer er en etterslagsindikator for å gjøre det rette gjentatte ganger."
+    },
+    {
+      "heading": "4. 90-dagers tidslinjen, uke for uke"
+    },
+    {
+      "text": "Uke 1–2 handler om revisjon og klyngekartlegging. Vi kartlegger hver eksisterende side, fjerner eller konsoliderer alt som fortynner nettstedet, og kartlegger de tre klyngene med høyest innflytelse basert på tjenesteinntekter og søkebehov. Uke 3–6 handler om tekniske løsninger og omskriving av pilaresidene. Uke 7–10 er innholdsfremstøtet – vi publiserer seks nye støtteartikler og to nye pilarer. Uke 11–13 handler om intern lenking, oppdateringer og utadrettet arbeid der vi tjener våre første merkevaretilbakekoblinger."
+    },
+    {
+      "text": "Innen dag 90 er bevegelsen målbar – vanligvis har 8–15 målsøkeord flyttet seg fra utenfor posisjon 50 til topp 20, og en eller to banker allerede på side én. Fra det tidspunktet tar forsterkningen over: hver nye artikkel arver autoritet fra klyngen, hver tilbakekobling flyter inn i en side som allerede rangerer, og systemet kjører seg selv med månedlig vedlikehold i stedet for kvartalsvise gjenoppbygginger."
+    }
+  ],
+  "faqs": null
+}

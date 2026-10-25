@@ -1,0 +1,64 @@
+{
+  "slug": "dermatology-seo-playbook-2026",
+  "title": "El Manual de SEO para Dermatología 2026: Posiciónate en 90 Días",
+  "excerpt": "Los grupos de palabras clave exactos, las soluciones técnicas y la cadencia de contenido que utilizamos para llevar a las clínicas de dermatología a la primera página, con plazos reales.",
+  "imageAlt": "Panel de análisis en una computadora portátil en una luminosa oficina de dermatología",
+  "body": [
+    {
+      "text": "Posicionar una clínica de dermatología en noventa días no es una promesa que se haga a la ligera, pero con la arquitectura adecuada, es reproducible. En este manual, presentamos el sistema exacto de noventa días que aplicamos para cada nuevo cliente, desde la primera auditoría técnica hasta la fase final de contenido que activa el cambio y mueve las palabras clave objetivo a la primera página de Google."
+    },
+    {
+      "text": "El error que cometen la mayoría de las clínicas es tratar el SEO como una lista de verificación de tácticas en lugar de un sistema. Persiguen publicaciones de blog individuales, ajustan las etiquetas de título y esperan que el impulso se acumule. No lo hace. Lo que genera impulso es una arquitectura basada en clústeres, una base técnica sólida y una cadencia de contenido que se acumula semana tras semana. Si logras esos tres aspectos, las clasificaciones se convertirán en un indicador rezagado, la consecuencia natural de hacer el trabajo correcto en el orden adecuado."
+    },
+    {
+      "heading": "1. Construye el clúster temático antes de escribir una sola palabra"
+    },
+    {
+      "text": "La mayoría de los sitios de dermatología pierden en los SERP porque su contenido reside en páginas aisladas. Una página de Aesthetic aquí, un artículo sobre rosácea allá, una página de ubicación en otro silo, ninguna de ellas vinculada internamente de manera que le diga a Google de qué trata la autoridad del sitio. En lugar de escribir piezas individuales, agrupamos servicios, afecciones y ubicaciones en clústeres temáticos. Cada clúster está anclado por una página pilar (por ejemplo, 'Tratamiento del acné en Denver') que enlaza internamente con cada artículo de apoyo — 'causas del acné quístico', 'mejores tratamientos para el acné en el consultorio', 'mitos de la dieta para el acné hormonal' — y cada artículo de apoyo enlaza de nuevo con la página pilar."
+    },
+    {
+      "text": "Esta estructura logra dos cosas. Primero, concentra la autoridad temática: cada backlink a un artículo de apoyo transfiere valor a la página pilar. Segundo, hace que el enlace interno sea obvio. Ya no hay conjeturas sobre qué debe enlazar con qué, el mapa del clúster te lo indica."
+    },
+    {
+      "heading": "2. Primero, arregla la base técnica"
+    },
+    {
+      "text": "Antes de escribir cualquier cosa, realiza una auditoría técnica y corrige los aspectos no negociables. El posicionamiento es una carrera con categorías de peso; si tus Core Web Vitals están por debajo de 90 en dispositivos móviles, ya estás cargando una desventaja antes de que comience la carrera. En nuestras primeras dos semanas con cualquier nueva clínica, ejecutamos lo siguiente:"
+    },
+    {
+      "list": [
+        "Comprime cada imagen principal a WebP o AVIF (reducción promedio del 70% del tamaño)",
+        "Logra que cada página supere los 90 puntos en los Core Web Vitals móviles – LCP por debajo de 2.5s, CLS por debajo de 0.1, INP por debajo de 200ms",
+        "Añade datos estructurados FAQPage y MedicalBusiness a cada página de servicio",
+        "Consolida las páginas de ubicación duplicadas con etiquetas canónicas",
+        "Arregla cada error 404 que tenga enlaces de entrada y redirige las URL eliminadas",
+        "Envía un sitemap XML limpio y valídelo en Search Console"
+      ]
+    },
+    {
+      "text": "Estas no son victorias espectaculares, pero se acumulan. Una vez que la base está limpia, cada pieza de contenido que publicas hereda esa velocidad y estructura, lo que significa que Google la indexa más rápido y los usuarios convierten más a menudo."
+    },
+    {
+      "heading": "3. Cadencia de contenido que realmente se acumula"
+    },
+    {
+      "text": "El predictor más grande de la velocidad de posicionamiento es la consistencia en la publicación. Dos artículos pilar por mes, cuatro publicaciones enfocadas en condiciones, y actualizaciones mensuales de las tres páginas mejor clasificadas. Esa es la cadencia, nada más y nada menos. Las clínicas que intentan correr se agotan. Las clínicas que publican una vez por trimestre nunca construyen suficiente superficie para captar tráfico de cola larga."
+    },
+    {
+      "text": "Cada artículo pilar tiene entre 1,800 y 2,400 palabras, estructurado en torno a la intención detrás de la palabra clave. Cada artículo de apoyo tiene entre 900 y 1,400 palabras, enfocado en una sola pregunta que un paciente realmente busca en Google. Y cada actualización es una actualización real: nueva introducción, nuevas subsecciones, estadísticas actualizadas, nuevos enlaces internos. Google recompensa la actualidad cuando la autoridad temática circundante ya está establecida."
+    },
+    {
+      "quote": "Las clínicas que ganan en 90 días son aquellas que dejan de perseguir tácticas y se comprometen con un sistema. Las clasificaciones son un indicador rezagado de hacer lo correcto repetidamente."
+    },
+    {
+      "heading": "4. El cronograma de 90 días, semana a semana"
+    },
+    {
+      "text": "Las semanas 1-2 son de auditoría y mapeo de clústeres. Inventariamos cada página existente, eliminamos o consolidamos cualquier cosa que diluya el sitio, y mapeamos los tres clústeres de mayor impacto basados en los ingresos por servicios y la demanda de búsqueda. Las semanas 3-6 son para arreglos técnicos y reescrituras de páginas pilar. Las semanas 7-10 son la fase de publicación de contenido: publicamos seis nuevos artículos de apoyo y dos nuevos pilares. Las semanas 11-13 son de enlaces internos, actualizaciones y la capa de divulgación donde obtenemos nuestros primeros backlinks de marca."
+    },
+    {
+      "text": "Para el día 90, el movimiento es medible; usualmente, entre 8 y 15 palabras clave objetivo han pasado de más allá de la posición 50 a las primeras 20, y una o dos ya están cerca de la primera página. A partir de ese momento, la acumulación toma el control: cada nuevo artículo hereda autoridad del clúster, cada backlink fluye hacia una página que ya está posicionada, y el sistema funciona por sí solo con un mantenimiento mensual en lugar de reconstrucciones trimestrales."
+    }
+  ],
+  "faqs": null
+}

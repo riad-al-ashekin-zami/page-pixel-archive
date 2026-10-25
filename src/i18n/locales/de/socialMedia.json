@@ -1,0 +1,310 @@
+{
+  "meta": {
+    "title": "Social Media Marketing für Dermatologie | Instagram, TikTok, Meta Ads",
+    "description": "Social Media Marketing für Hautarztpraxen — Instagram, TikTok, Facebook, YouTube und LinkedIn. HIPAA-konformer Content, monatliche Shootings in Ihrer Praxis und Paid-Social-Kampagnen, optimiert auf gebuchte Beratungsgespräche.",
+    "og": {
+      "title": "Dermatologie Social Media Marketing — Content, der Buchungen generiert",
+      "description": "Full-Service Social Media für Dermatologen — Content-Shoots, Reels-First-Strategie, DM-Management und Paid Social, gemessen an tatsächlichen Terminanfragen."
+    },
+    "twitter": {
+      "title": "Social Media Marketing Services für die Dermatologie",
+      "description": "Social Content und Paid-Kampagnen für Hautarztpraxen, fokussiert auf die Gewinnung neuer Patienten."
+    }
+  },
+  "jsonLd": {
+    "service": {
+      "name": "Social Media Marketing für Hautarztpraxen",
+      "provider": "DermatologyWebsiteDesign.com",
+      "description": "Full-Service Social Media Management, Content-Produktion und Paid Social für die Dermatologie, gemessen an gebuchten Beratungsgesprächen."
+    },
+    "breadcrumbs": {
+      "home": "Home",
+      "services": "Leistungen",
+      "social": "Social Media"
+    }
+  },
+  "hero": {
+    "badge": "Dermatologie Social Media",
+    "heading": "Content, der Vertrauen schafft — und Beratungsgespräche bucht.",
+    "description": "Full-Service Social Media für Hautarztpraxen — Instagram, TikTok, Facebook, YouTube und LinkedIn. Monatliche Praxis-Shootings, HIPAA-sichere Captions, DM-Management und bezahlte Kampagnen, die sich an Neupatienten messen lassen.",
+    "cta": {
+      "audit": "Kostenloses Social-Audit",
+      "platforms": "Plattformen ansehen"
+    },
+    "stats": [
+      {
+        "label": "312 %",
+        "value": "Follower-Wachstum"
+      },
+      {
+        "label": "48+",
+        "value": "Termine / Monat"
+      },
+      {
+        "label": "5,4 Mio.",
+        "value": "Reel-Views/Jahr"
+      },
+      {
+        "label": "HIPAA",
+        "value": "Sicherer Content"
+      }
+    ],
+    "trust": {
+      "imgAlt": "Dermatologie-Kunde",
+      "rating": "4,9/5",
+      "subtext": "Über 50 Hautarztpraxen vertrauen uns",
+      "badge": "HIPAA-safe"
+    }
+  },
+  "socialMock": {
+    "handle": "@ihre-praxis",
+    "status": "Fachärzte · 24,8k",
+    "live": "live",
+    "imgAlt": "Instagram Feed-Vorschau einer Dermatologie-Praxis mit Skincare-Content",
+    "metrics": {
+      "reach": "Reichweite",
+      "dms": "Direktnachrichten",
+      "booked": "Gebucht"
+    },
+    "reels": [
+      {
+        "label": "Reels — Akne-Routine",
+        "value": "1,2 Mio."
+      },
+      {
+        "label": "Reels — Mohs-Chirurgie",
+        "value": "342k"
+      },
+      {
+        "label": "Statisch — Teamvorstellung",
+        "value": "58k"
+      }
+    ],
+    "outcome": "+48 Termine diesen Monat",
+    "timeframe": "30 Tage"
+  },
+  "sections": {
+    "platforms": {
+      "badge": "Plattform-Abdeckung",
+      "heading": "Sechs Plattformen. Ein Ziel: Gebuchte Termine.",
+      "description": "Jede Plattform erhält ihr eigenes Content-Format, ihre eigene Frequenz und eigene KPIs — kein Copy-and-Paste von Inhalten.",
+      "items": [
+        {
+          "title": "Instagram-Wachstum",
+          "desc": "Reels-First-Strategie — Vorher-Nachher-Karussells, Mitarbeiter-Spotlights und DM-zu-Buchung-Funnel, perfekt auf die Patient-Journey abgestimmt."
+        },
+        {
+          "title": "TikTok für Hautärzte",
+          "desc": "Short-Form Skin-Edu-Content, der in der TikTok-Suche und bei Google rankt — HIPAA-konform und vor Veröffentlichung rechtlich geprüft."
+        },
+        {
+          "title": "Facebook & Meta Ads",
+          "desc": "Lokale Bekanntheit, Lookalike-Audiences und Lead-Kampagnen, die pro gebuchtem Termin abgerechnet werden — nicht pro Follower."
+        },
+        {
+          "title": "YouTube Shorts & Long-form",
+          "desc": "Erklärvideos zu Behandlungen, Q&As mit Ärzten und zeitloser Content zu Hautkrankheiten, der bei Google und YouTube Top-Plätze belegt."
+        },
+        {
+          "title": "LinkedIn für Mediziner",
+          "desc": "Personal Branding für Fachärzte — Thought Leadership, Zuweisernetzwerke und ein Profil auf Experten-Niveau."
+        },
+        {
+          "title": "DM & Community Management",
+          "desc": "Geschulte Antwortvorlagen, 4-Stunden-SLA, bereinigte Antworten (ohne PHI) und nahtlose Übergabe von Interessenten an Ihre Rezeption."
+        }
+      ]
+    },
+    "outcomes": {
+      "heading": "Messbare Erfolge",
+      "items": [
+        {
+          "k": "312 %",
+          "v": "Follower-Wachstum in 90 Tagen"
+        },
+        {
+          "k": "48+",
+          "v": "Gebuchte Termine über Instagram / Monat"
+        },
+        {
+          "k": "5,4 Mio.",
+          "v": "Organische Reel-Aufrufe (12-Monats-Schnitt)"
+        },
+        {
+          "k": "4,9",
+          "v": "Durchschnittlicher Brand-Sentiment-Score"
+        }
+      ],
+      "quote": "„Früher haben wir einmal pro Woche gepostet – jetzt haben wir ein komplettes System. Die Follower haben sich verdreifacht, aber was wirklich zählt: Die Zahl der monatlichen Neupatienten über Instagram stieg von 4 auf 48.“",
+      "author": "Dr. Priya Anand · Dermatologische Einzelpraxis"
+    },
+    "pillars": {
+      "badge": "Content-Säulen",
+      "heading": "Sechs Content-Säulen. Jeden Monat. Auf jeder Plattform.",
+      "description": "Ihr 90-Tage-Plan ordnet jedes Reel, jedes Bild und jede DM-Vorlage einer Leistung und einem Buchungsziel zu. Kein Posten nach Zufallsprinzip.",
+      "items": [
+        "Ärzte-Spotlights & Vertrauen durch Facharzt-Status",
+        "Aufklärung über Hautkrankheiten (Akne, Ekzeme, Rosazea, Psoriasis)",
+        "Vorher-Nachher-Transformationen (mit Einverständniserklärung)",
+        "In-Clinic Reels — Einblicke in Behandlungen und Technik",
+        "Patienten-FAQ und Myth-Busting als Kurzvideo",
+        "Saisonale Skincare- & Sonnenschutz-Kampagnen"
+      ]
+    },
+    "audiences": {
+      "badge": "Für wen wir Content erstellen",
+      "heading": "Optimiert für jedes dermatologische Praxismodell.",
+      "description": "Einzelpraxis, MVZ, Pädiatrie oder Chirurgie — wir passen die Strategie an Ihre Stimme, Ihren Patientenstamm und Ihr Leistungsportfolio an.",
+      "items": [
+        {
+          "title": "Einzelpraxen",
+          "desc": "Inhabergeführte Social-Strategie — Ihre Stimme, Ihr Gesicht, Ihre Patienten. Monatlich produziert, wöchentlich veröffentlicht."
+        },
+        {
+          "title": "MVZ & Kliniken",
+          "desc": "Ein einheitliches Markensystem, standortbezogene Redaktionspläne und Content-Pipelines für das gesamte Team, zentral gesteuert."
+        },
+        {
+          "title": "Kinderdermatologie",
+          "desc": "Content für Eltern — einfühlsame Texte, zeitlich abgestimmt auf den Schulalltag, Bildmaterial durch Ihr klinisches Team geprüft."
+        },
+        {
+          "title": "Mohs-Chirurgie & Operative Derm",
+          "desc": "Thought Leadership auf LinkedIn für Zuweiser, Patienten-Aufklärungs-Reels und rechtssichere Workflows für Vorher-Nachher-Inhalte."
+        }
+      ]
+    },
+    "medical_services": {
+      "badge": "Leistungsspektrum",
+      "heading": "Jede Diagnose. Jede Therapie. Jeder Termin.",
+      "description": "Jede medizinische Leistung erhält eine eigene Content-Säule und Hashtag-Strategie — Reels, Karussells und Evergreen-Posts für die Informationssuche des Patienten.",
+      "items": [
+        "Aknetherapie",
+        "Neurodermitis-Behandlung",
+        "Psoriasis-Therapie",
+        "Behandlung von Hautinfektionen",
+        "Allergologie",
+        "Hautkrebsvorsorge & Therapie",
+        "Muttermal-Check & operative Entfernung",
+        "Zysten- & Lipomentfernung",
+        "Warzenbehandlung",
+        "Nagelerkrankungen",
+        "Haarausfall-Diagnostik & Therapie",
+        "Erkrankungen der Kopfhaut",
+        "Rosazea-Behandlung",
+        "Hyperpigmentierung & Melasma",
+        "Narbenkorrektur (Unfall, OP, Krankheit)",
+        "Brandnarben-Therapie",
+        "Vitiligo-Behandlung",
+        "Hautbiopsien & Diagnostik"
+      ]
+    },
+    "workflow": {
+      "badge": "Ablauf",
+      "heading": "90 Tage Social-Launch. Danach konstantes Wachstum.",
+      "description": "Transparente Meilensteine, die an echte Terminanfragen gekoppelt sind — keine Eitelkeits-Metriken.",
+      "items": [
+        {
+          "step": "01",
+          "phase": "Phase 01",
+          "title": "Brand- & Content-Audit",
+          "desc": "Analyse von Stimme, Design, Wettbewerb und Hashtags. Erstellung des 90-Tage-Plans passend zu Ihren Leistungen."
+        },
+        {
+          "step": "02",
+          "phase": "Phase 02",
+          "title": "Monatliches Praxis-Shooting",
+          "desc": "Ein Shooting-Tag vor Ort für 3–4 Wochen Content: Reels, Team-Vorstellungen und Patienten-Stimmen (rechtssicher)."
+        },
+        {
+          "step": "03",
+          "phase": "Phase 03",
+          "title": "Publishing & Engagement",
+          "desc": "Planung für IG, TikTok, FB, YouTube und LinkedIn. Tägliches DM-Management und wöchentliche Performance-Analyse."
+        },
+        {
+          "step": "04",
+          "phase": "Phase 04",
+          "title": "Skalierung durch Ads",
+          "desc": "Die erfolgreichsten organischen Posts werden als Meta- oder TikTok-Ads geschaltet — Retargeting für Website-Besucher und Lookalike-Audiences."
+        }
+      ]
+    },
+    "why_us": {
+      "badge": "Warum wir?",
+      "heading": "Ein Partner für Dermatologen — keine 0815-Agentur.",
+      "items": [
+        {
+          "title": "HIPAA-konforme Workflows",
+          "desc": "Veröffentlichung nur mit Freigabe. DMs werden über sichere Vorlagen ohne sensible Daten abgewickelt. Alle Texte sind rechtlich geprüft."
+        },
+        {
+          "title": "Monatliche Vor-Ort-Shootings",
+          "desc": "Ein Tag Dreharbeiten = Content für den ganzen Monat. Sie müssen sich nicht mehr selbst um die Erstellung kümmern."
+        },
+        {
+          "title": "Brand-konstantes Design",
+          "desc": "Ein durchgängiges Designsystem (Farben, Typo, Animationen), damit Ihr Feed wie eine Premium-Praxis aussieht, nicht nach Vorlage."
+        },
+        {
+          "title": "Reels-First-Strategie",
+          "desc": "Kurzvideos sind der Wachstumsmotor. Jeder Inhalt wird zuerst als Reel konzipiert und dann für alle anderen Kanäle adaptiert."
+        },
+        {
+          "title": "DM & Community Management",
+          "desc": "Fachmännische Reaktionen, 4-Stunden-SLA und Weiterleitung von Anfragen an Ihr Team. Keine Leads gehen mehr verloren."
+        },
+        {
+          "title": "Termine statt Likes",
+          "desc": "Jeder Report verknüpft Reichweite und DMs direkt mit gebuchten Beratungsgesprächen und Umsatz pro Leistung — keine hohlen Zahlen."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "Häufige Fragen von Praxisinhabern.",
+    "items": [
+      {
+        "q": "Wie unterscheidet sich Social Media von Google Ads für eine Hautarztpraxis?",
+        "a": "Google Ads deckt die bestehende Nachfrage ab (z.B. „Hautarzt Akne in meiner Nähe“). Social Media schafft Nachfrage und Vertrauen. Durch Reels und Experten-Content bauen Sie eine Marke auf, die der Patient wählt, sobald er sucht. Best Practice nutzt beides: Social Media senkt langfristig Ihre Akquisitionskosten bei Google."
+      },
+      {
+        "q": "Sind Ihre Social-Media-Posts HIPAA-konform?",
+        "a": "Ja. Vorher-Nachher-Content und Testimonials werden nur nach Unterzeichnung einer spezifischen Einverständniserklärung veröffentlicht. Direktnachrichten werden über Vorlagen ohne medizinische Daten abgewickelt — keine Diagnosen per DM, nur Terminangebote."
+      },
+      {
+        "q": "Übernehmen Sie das Shooting oder müssen wir das machen?",
+        "a": "Wir übernehmen das. Ein monatlicher Shooting-Tag in Ihrer Praxis liefert das Material für 3–4 Wochen. Praxen, die bereits internen Content produzieren, können auf ein Hybrid-Modell umsteigen — wir übernehmen Skripting, Schnitt und Strategie."
+      },
+      {
+        "q": "Wie lang ist die Mindestlaufzeit?",
+        "a": "90 Tage. Social Media braucht Zeit zum Wachsen — 30 Tage reichen meist nicht für valide Daten aus. Nach dem ersten Sprint wechseln wir in ein monatlich kündbares Modell (30 Tage Frist)."
+      },
+      {
+        "q": "Verwalten Sie auch bezahlte Werbeanzeigen?",
+        "a": "Ja. Meta- und TikTok-Kampagnen sind im Growth-Paket enthalten. Wir verstärken reichweitenstarke organische Posts und schalten gezielte Lead-Kampagnen, optimiert auf Kosten-pro-Terminbuchung."
+      },
+      {
+        "q": "Können Sie MVZs mit mehreren Standorten betreuen?",
+        "a": "Ja — wir verwalten standortspezifische Redaktionspläne unter einem einheitlichen Brand-Dach, inklusive Geo-Targeting für Anzeigen und separatem Reporting pro Standort."
+      }
+    ]
+  },
+  "cta": {
+    "badge": "Kostenloses Social-Audit",
+    "heading": "Finden Sie innerhalb von 48 Stunden heraus, wo Sie Patienten verlieren.",
+    "description": "Content-Analyse, Wettbewerbs-Scan, Hashtag- & Segment-Planung sowie ein priorisierter 90-Tage-Fahrplan für mehr Buchungen. Kostenlos, kein Verkaufsgespräch.",
+    "primary": "Kostenloses Audit anfordern",
+    "secondary": "Angebot anfragen"
+  },
+  "sticky_footer": {
+    "label": "Kostenloses Social-Audit — 48 Std.",
+    "button": "Anfordern"
+  },
+  "internal_links": {
+    "prefix": "Auch interessant: ",
+    "reputation": "Fünf-Sterne-Bewertungen generieren",
+    "email": "E-Mail-Marketing für Bestandspatienten",
+    "gallery": "Ihre Vorher-Nachher-Galerie"
+  }
+}

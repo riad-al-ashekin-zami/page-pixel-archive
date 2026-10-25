@@ -1,0 +1,118 @@
+{
+  "meta": {
+    "title": "Blogg — Marknadsföring & tillväxtstrategier för dermatologi",
+    "description": "Praktiska guider om SEO för dermatologer, webbdesign, patientrekrytering, HIPAA, recensioner och betald annonsering — skrivet för tillväxtorienterade klinikägare.",
+    "keywords": "dermatologi blogg, SEO för hudläkare, marknadsföring dermatologi, tillväxt klinik, HIPAA webbplatser",
+    "og": {
+      "title": "Blogg om marknadsföring för dermatologi — Strategier som skapar tillväxt",
+      "description": "Djupdykande artiklar och konkreta taktiker för hudkliniker. SEO, design, annonsering, rykte och patientupplevelse."
+    },
+    "twitter": {
+      "title": "Marknadsföringsblogg för dermatologi",
+      "description": "Strategier för SEO, design, annonsering och patientupplevelse för hudläkarmottagningar."
+    },
+    "jsonLd": {
+      "breadcrumb": {
+        "home": "Hem",
+        "blog": "Blogg"
+      },
+      "blog": {
+        "name": "Dermatology Marketing Blog",
+        "description": "Strategier och insikter om SEO, webbdesign, annonsering och patientrekrytering inom dermatologi."
+      }
+    }
+  },
+  "hero": {
+    "badge": "The DermGrowth Journal",
+    "title": "Strategier för den moderna hudkliniken.",
+    "description": "Beprövade taktiker inom SEO, webbdesign, betald annonsering och patientupplevelse — skrivna av teamet bakom hundratals framgångsrika kliniksetableringar.",
+    "search": {
+      "label": "Sök artiklar",
+      "placeholder": "Sök SEO, annonser, HIPAA, redesign…",
+      "postCount": "{{count}} inlägg"
+    },
+    "aside": {
+      "ariaLabel": "Denna månad hos DermGrowth",
+      "issue": "Nr 24 · Sommaren '26",
+      "status": "Det som fungerar för tillväxt inom dermatologi just nu.",
+      "stats": [
+        {
+          "value": "9",
+          "label": "nya inlägg"
+        },
+        {
+          "value": "68k",
+          "label": "läsare/mån"
+        },
+        {
+          "value": "4.9",
+          "label": "läsaromdöme"
+        }
+      ],
+      "socialProof": "Betrodd av 50+ klinikägare och marknadsförare"
+    }
+  },
+  "sections": {
+    "featured": {
+      "badge": "Utvald artikel",
+      "heading": "Veckans viktigaste läsning",
+      "viewAll": "Visa alla artiklar",
+      "ariaRead": "Läs: {{title}}",
+      "statValue": "90.",
+      "statLabel": "Dagar till förstasidan",
+      "readTime": "{{count}} min läsning",
+      "button": "Läs artikeln"
+    },
+    "latest": {
+      "badge": "Senaste artiklarna",
+      "heading": "Filtrera efter dina behov",
+      "description": "Varje inlägg är skrivet för klinikägare och marknadsansvariga som vill ha konkreta nästa steg, inte floskler.",
+      "filterLabel": "Filtrera artiklar efter kategori",
+      "empty": {
+        "heading": "Inga artiklar matchar din sökning.",
+        "description": "Prova en annan kategori eller rensa din sökning.",
+        "button": "Nollställ filter"
+      },
+      "card": {
+        "ariaRead": "Läs: {{title}}",
+        "readTime": "{{count}} min",
+        "readAction": "Läs mer"
+      }
+    }
+  },
+  "newsletter": {
+    "badge": "The Weekly Chart",
+    "heading": "En tillväxtstrategi. Varje tisdag.",
+    "description": "Gör som 760+ klinikägare och marknadsförare. Inget flams, ingen spam, avregistrera dig med ett klick.",
+    "ariaLabel": "Prenumerera på nyhetsbrevet",
+    "placeholder": "din@klinik.se",
+    "submit": "Prenumerera",
+    "submitting": "Prenumererar…",
+    "success": "Du är med! Nästa nummer landar på tisdag kl. 07.00.",
+    "fineprint": "Vi läser alla svar. Vi delar aldrig din e-postadress.",
+    "features": [
+      {
+        "label": "Långläsning",
+        "value": "Djupdykningar två gånger i månaden"
+      },
+      {
+        "label": "Fallstudier",
+        "value": "Riktiga siffror, riktiga kliniker"
+      },
+      {
+        "label": "Taktiker",
+        "value": "Färdiga strategier att kopiera"
+      },
+      {
+        "label": "Betyg 4.9",
+        "value": "Av 50+ prenumeranter"
+      }
+    ]
+  },
+  "footer": {
+    "keepReading": "Fortsätt läsa:",
+    "caseStudies": "djupgående fallstudier",
+    "audit": "en kostnadsfri personlig webbanalys",
+    "faq": "vanliga frågor och svar"
+  }
+}

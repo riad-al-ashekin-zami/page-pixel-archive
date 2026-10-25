@@ -1,0 +1,382 @@
+{
+  "meta": {
+    "title": "Usługi CRO dla Dermatologii — Podwój Liczbę Rezerwacji z Tego Samego Ruchu",
+    "description": "Optymalizacja współczynnika konwersji dla gabinetów dermatologicznych. Mapy ciepła, testy A/B, przebudowa formularzy, UX mobilne i Core Web Vitals — zmień odwiedzających w pacjentów. Zgodność z HIPAA.",
+    "og_title": "Optymalizacja Konwersji w Dermatologii — Więcej Rezerwacji przy Tych Samych Nakładach",
+    "og_description": "Badania behawioralne, testy A/B, optymalizacja lejka i przebudowa mobile-first dla dermatologii. Mierzalny wzrost w 90 dni — zgodność z HIPAA, umowa z miesiąca na miesiąc.",
+    "jsonLd": {
+      "serviceType": "Dermatology Conversion Rate Optimization",
+      "provider": "DermatologyWebsiteDesign.com",
+      "offerDescription": "Diagnostyka CRO dla dermatologii — cena startowa"
+    }
+  },
+  "hero": {
+    "badge_lift": "Średni wzrost +184% w 90 dni",
+    "badge_service": "Optymalizacja Współczynnika Konwersji (CRO)",
+    "title_main": "Ten sam ruch.",
+    "title_highlight": "Dwa razy więcej wizyt.",
+    "description": "Badania behawioralne, testy A/B, przebudowa formularzy rezerwacji i lejki mobile-first zaprojektowane dla dermatologii. Testujemy każdą hipotezę, skalujemy sukcesy i wyciskamy maksimum z każdego dolara wydanego na reklamy.",
+    "cta_audit": "Zacznij od audytu CRO",
+    "cta_case_study": "Zobacz case study",
+    "pricing_note": "Audyty diagnostyczne od",
+    "pricing_value": "1 900 USD",
+    "pricing_ongoing": "· stała współpraca 3,4 tys. – 6,9 tys. USD / mies.",
+    "ticks": [
+      "Mapy ciepła + nagrania sesji",
+      "Testy A/B",
+      "Zgodność z HIPAA",
+      "Umowy miesięczne"
+    ]
+  },
+  "stats": {
+    "lift": "Średni wzrost liczby zapytań o wizytę",
+    "abandonment": "Spadek porzuceń formularza zapisu",
+    "roas": "Wyższy ROAS z płatnego ruchu",
+    "wins": "Wyników istotnych statystycznie"
+  },
+  "trust": {
+    "label": "Zaufało nam ponad 120 gabinetów dermatologicznych w całym kraju",
+    "logos": [
+      "LA Dermatology",
+      "CP Dermatology",
+      "MM Center",
+      "NBS Laser",
+      "RS Institute",
+      "HD Group"
+    ]
+  },
+  "pillars": {
+    "label": "Sześć filarów, jeden system wzrostu",
+    "heading": "CRO to nie tylko kolor przycisku. To dyscyplina.",
+    "description": "Łączymy dane behawioralne, kontrolowane eksperymenty i inżynierię mobile-first, aby każdą wizytę zamienić w mierzalny krok w stronę umówionej wizyty.",
+    "items": [
+      {
+        "name": "Badania behawioralne",
+        "desc": "Mapy ciepła, głębokość przewijania, nagrania sesji i ankiety głosu pacjenta — sprawdzamy, jak realni użytkownicy podejmują decyzje.",
+        "meta": "Tydzień 1–2"
+      },
+      {
+        "name": "Testy A/B i wielowariantowe",
+        "desc": "Hipotezy oceniane wg skali ICE, testowane na odpowiednich próbach — żadnych pozornych zwycięstw.",
+        "meta": "Ciągła praca"
+      },
+      {
+        "name": "Optymalizacja formularzy",
+        "desc": "Analityka pól, stopniowe odkrywanie treści i autouzupełnianie zgodne z HIPAA, które o połowę zmniejsza liczbę rezygnacji.",
+        "meta": "Sprint 1"
+      },
+      {
+        "name": "Mapowanie lejków i ścieżek",
+        "desc": "Każda droga od kliknięcia w reklamę do potwierdzonej wizyty jest mapowana i oczyszczana z przeszkód krok po kroku.",
+        "meta": "Czynność ciągła"
+      },
+      {
+        "name": "Przebudowa mobile-first",
+        "desc": "Ponad 70% rezerwacji w dermatologii odbywa się na telefonach — projektujemy ścieżkę pod kciuk, nie pod kursor myszy.",
+        "meta": "Sprint 2"
+      },
+      {
+        "name": "Szybkość i Core Web Vitals",
+        "desc": "Każde 100 ms ładowania kosztuje Cię utratę pacjenta. Wdrażamy LCP poniżej 1,5s i zielone wskaźniki CWV na każdej podstronie.",
+        "meta": "Fundament"
+      }
+    ]
+  },
+  "experiments": {
+    "label": "Sześć realnych eksperymentów",
+    "heading": "Jak w praktyce wygląda podejście oparte na testach.",
+    "description": "Poniższe dane to realne hipotezy wdrożone u naszych klientów. Liczby reprezentują medianę wzrostów w podobnych praktykach — to nie są przypadkowe wyjątki.",
+    "table_header": "Eksperyment",
+    "before_label": "Przed",
+    "after_label": "Po",
+    "items": [
+      {
+        "label": "Treść przycisku (CTA)",
+        "before": "Skontaktuj się z nami",
+        "after": "Zarezerwuj w 60 sekund",
+        "metric": "Klikalność w rezerwację"
+      },
+      {
+        "label": "Pola formularza",
+        "before": "12 pól na jednej stronie",
+        "after": "4 kroki z paskiem postępu",
+        "metric": "Wskaźnik ukończenia"
+      },
+      {
+        "label": "Informacja o ubezpieczeniu",
+        "before": "Ukryta w FAQ",
+        "after": "Wybór ubezpieczenia w sekcji hero",
+        "metric": "Kwalifikowane zapytania"
+      },
+      {
+        "label": "Budowanie zaufania",
+        "before": "Zdjęcie stockowe",
+        "after": "Realne zdjęcie lekarza + ocena 4.9★",
+        "metric": "Czas na stronie i zapisy"
+      },
+      {
+        "label": "Pozycja CTA na mobile",
+        "before": "Poniżej ekranu, statyczne",
+        "after": "Pływający pasek dolny (sticky)",
+        "metric": "Konwersja z urządzeń mobilnych"
+      },
+      {
+        "label": "Struktura strony usługi",
+        "before": "Ściana tekstu",
+        "after": "Objaw → leczenie → rezerwacja",
+        "metric": "Konwersja strony na wizytę"
+      }
+    ]
+  },
+  "caseStudy": {
+    "label": "Case study · NBS Laser",
+    "heading": "Ten sam budżet 18 tys. USD. 180% więcej wizyt.",
+    "image_alt": "Ścieżka rezerwacji NBS Laser po optymalizacji CRO",
+    "stats": {
+      "bookings": "Wizyt / mies.",
+      "completion": "Finalizacja formularza",
+      "time": "Skrócenie decyzji"
+    },
+    "comparison": [
+      {
+        "label": "Formularz rezerwacji",
+        "before": "12 pól · 1 strona · desktop-first",
+        "after": "4 kroki · pasek postępu · przyciski pod kciuk"
+      },
+      {
+        "label": "Główny przycisk (CTA)",
+        "before": "Kontakt (ogólny)",
+        "after": "Zarezerwuj w 60s · wybór ubezpieczenia live"
+      },
+      {
+        "label": "Lejek mobilny",
+        "before": "Nagłówek zakrywał CTA przy przewijaniu",
+        "after": "Pasek 'Zarezerwuj' na dole · pola dotykowe 44px"
+      },
+      {
+        "label": "Sygnały zaufania",
+        "before": "Zdjęcie stockowe · brak opinii",
+        "after": "Realny lekarz · 4.9★ · certyfikaty"
+      }
+    ],
+    "cta": "Przeczytaj pełne case study"
+  },
+  "process": {
+    "label": "Jak to działa",
+    "heading": "Kwartalny cykl, który procentuje w każdym miesiącu.",
+    "steps": [
+      {
+        "step": "01",
+        "title": "Audyt bazowy",
+        "desc": "Pełna analiza lejka: analityka, mapy ciepła, porzucenia formularzy, szybkość stron, UX mobilne i ponad 20 benchmarków dla dermatologii. Raport otrzymasz w 10 dni roboczych."
+      },
+      {
+        "step": "02",
+        "title": "Backlog hipotez",
+        "desc": "Każdy wniosek staje się hipotezą testową, ocenianą wg Wpływu, Pewności i Łatwości wdrożenia. Ty zatwierdzasz sprint — my nie zgadujemy."
+      },
+      {
+        "step": "03",
+        "title": "Projekt, budowa i testy",
+        "desc": "Warianty wdrażane przez profesjonalną platformę do eksperymentów. Wielkość próby wyliczona z góry. Brak przedwczesnego przerywania testów."
+      },
+      {
+        "step": "04",
+        "title": "Wdrożenie zwycięzców i pętla",
+        "desc": "Wygrywające warianty stają się nowym standardem. Przegrane stają się lekcją. Każdego miesiąca Twój lejek jest obiektywnie lepszy niż w poprzednim."
+      }
+    ]
+  },
+  "audiences": {
+    "label": "Z kim współpracujemy",
+    "heading": "Gabinety dermatologiczne każdej wielkości.",
+    "description": "Programy dostosowane do modelu Twojej praktyki — od indywidualnych gabinetów po wielooddziałowe centra chirurgii Mohsa.",
+    "items": [
+      {
+        "label": "Indywidualni dermatolodzy",
+        "desc": "Zamień skromny budżet reklamowy w pełny grafik — gdy jesteś jedynym specjalistą, liczy się każdy pacjent."
+      },
+      {
+        "label": "Wielooddziałowe kliniki",
+        "desc": "Dedykowane strony dla każdej lokalizacji, geolokalizacja CTA i zintegrowana analityka dla wszystkich placówek."
+      },
+      {
+        "label": "Dermatologia dziecięca",
+        "desc": "Ścieżki rezerwacji przyjazne rodzicom, sygnały zaufania i formularze dostosowane do potrzeb opiekunów."
+      },
+      {
+        "label": "Chirurgia Mohsa i dermatologiczna",
+        "desc": "Strony pod pacjentów skierowanych, klarowność ubezpieczeniowa i treści przedoperacyjne skracające drogę do zabiegu."
+      }
+    ]
+  },
+  "services": {
+    "label": "Usługi medyczne, które optymalizujemy",
+    "heading": "Każda podstrona schorzenia i usługi — gotowa na konwersję.",
+    "description": "Budujemy ścieżki 'od objawu do zabiegu', strony docelowe dla konkretnych schorzeń i CTA uwzględniające ubezpieczenia dla kluczowych usług medycznych.",
+    "list": [
+      "Leczenie trądziku",
+      "Leczenie egzemy",
+      "Leczenie łuszczycy",
+      "Infekcje skóry",
+      "Alergie skórne",
+      "Badania przesiewowe i leczenie raka skóry",
+      "Ocena znamion i usuwanie medyczne",
+      "Usuwanie torbieli i tłuszczaków",
+      "Usuwanie brodawek",
+      "Leczenie chorób paznokci",
+      "Diagnostyka i leczenie łysienia",
+      "Schorzenia skóry głowy",
+      "Leczenie trądziku różowatego",
+      "Leczenie przebarwień i melasmy",
+      "Leczenie blizn",
+      "Leczenie blizn pooparzeniowych",
+      "Leczenie bielactwa",
+      "Biopsje skóry i procedury diagnostyczne"
+    ]
+  },
+  "testimonials": {
+    "label": "Opinie klientów",
+    "heading": "Najpierw liczby. Potem historia.",
+    "items": [
+      {
+        "name": "Dr Meera Balakrishnan, MD",
+        "role": "NBS Laser",
+        "quote": "Wydawaliśmy 18 tys. USD miesięcznie na reklamy, uzyskując 40 wizyt. Po 90 dniach pracy nad CRO, przy tym samym budżecie, mamy 112 wizyt. Przestałam kwestionować faktury."
+      },
+      {
+        "name": "Dr Julian Reyes, MD",
+        "role": "CP Dermatology",
+        "quote": "Przebudowali ścieżkę rezerwacji w trzy sprinty. Skuteczność formularza wzrosła z 34% do 71%. Rejestracja przestała odbierać telefony o 'niedziałającym formularzu'."
+      },
+      {
+        "name": "Dr Priya Anand, MD, MPH",
+        "role": "MM Center · 4 lokalizacje",
+        "quote": "Strony lokalne i wyszukiwarka ubezpieczeń zmieniły wszystko. Czas od konsultacji do zabiegu spadł z 11 do 4 dni. Lekarze kierujący zauważyli różnicę."
+      }
+    ]
+  },
+  "pricing": {
+    "label": "Programy i cennik",
+    "heading": "Trzy drogi do skalowania konwersji.",
+    "description": "Każdy plan po wstępnej diagnostyce jest z miesięcznym wypowiedzeniem. Żadnych rocznych kontraktów — wyniki muszą same obronić przedłużenie współpracy.",
+    "popular": "Najpopularniejszy",
+    "market_label": "Rynek:",
+    "get_started": "Zacznij teraz",
+    "plans": [
+      {
+        "name": "Diagnostyka",
+        "tag": "Jednorazowy audyt",
+        "price": "$1 900",
+        "per": "jednorazowo",
+        "savings": "46–75% taniej",
+        "features": [
+          "Pełny audyt lejka i analityki",
+          "Konfiguracja map ciepła i nagrań sesji",
+          "Analiza porzuceń formularza zapisu",
+          "Ocena UX mobile i Core Web Vitals",
+          "Backlog 12 priorytetowych hipotez",
+          "60-minutowe omówienie wyników"
+        ]
+      },
+      {
+        "name": "Growth Sprint",
+        "tag": "Program 3-miesięczny",
+        "price": "$3 400",
+        "per": "/ mies.",
+        "savings": "43–72% taniej",
+        "features": [
+          "Wszystko z pakietu Diagnostyka",
+          "2 testy A/B wdrażane miesięcznie",
+          "Przebudowa formularza w cenie",
+          "Landing page dla kluczowych kampanii",
+          "Analiza nagrań i miesięczne raporty",
+          "Kanał Slack i cotygodniowe statusy"
+        ]
+      },
+      {
+        "name": "Compounding CRO",
+        "tag": "Grupy medyczne i Mohs",
+        "price": "$6 900",
+        "per": "/ mies.",
+        "savings": "43–72% taniej",
+        "features": [
+          "Wszystko z Growth Sprint",
+          "Ponad 4 równoległe eksperymenty",
+          "Systemy landing pages per lokalizacja",
+          "Personalizacja i segmentacja odbiorców",
+          "Konfiguracja testów server-side",
+          "Kwartalne przeglądy biznesowe zarządu"
+        ]
+      }
+    ]
+  },
+  "faq": {
+    "label": "Często zadawane pytania",
+    "heading": "Odpowiedzi na Twoje pytania.",
+    "items": [
+      {
+        "q": "Czym CRO różni się od SEO lub PPC?",
+        "a": "SEO i PPC sprowadzają ludzi na stronę. CRO sprawia, że więcej tych osób rezerwuje wizytę. Bez CRO każdy dolar wydany na ruch jest ograniczany przez obecny współczynnik konwersji — zazwyczaj 1–3% w dermatologii. Podwojenie konwersji realnie podwaja ROI z każdego dolara, którego już wydajesz na marketing."
+      },
+      {
+        "q": "Jak szybko zobaczę wyniki?",
+        "a": "Audyt bazowy i pierwsze warianty pojawiają się w ciągu 30 dni. Wyniki istotne statystycznie zazwyczaj uzyskujemy między 4. a 12. tygodniem, zależnie od ruchu. Praktyki z ponad 5 000 wizyt miesięcznie widzą pierwsze sukcesy w 6 tygodni; przy mniejszym ruchu potrzeba więcej czasu na zebranie danych."
+      },
+      {
+        "q": "Czy potrzebujecie dostępu do mojej strony, aby prowadzić testy?",
+        "a": "Tak — instalujemy platformę eksperymentalną (VWO, Convert lub Optimizely), analitykę oraz narzędzie do map ciepła. Wszystko zgodnie z HIPAA: nie zbieramy danych osobowych (PHI), nagrania sesji maskują pola formularzy, a w razie potrzeby podpisujemy umowę BAA."
+      },
+      {
+        "q": "Co jeśli test zakończy się porażką?",
+        "a": "Około 60% dobrze zaprojektowanych testów kończy się brakiem wzrostu lub przegraną — to normalne. Przegrany test to nauka: mówi nam, że założenie było błędne, co jest często cenniejsze niż mały wzrost. Zwycięstwa się kumulują, a nauki chronią przed kosztownymi błędami w przyszłości."
+      },
+      {
+        "q": "Czy pracujecie na obecnej stronie, czy potrzebujemy nowej?",
+        "a": "Pracujemy na każdym nowoczesnym systemie — WordPress, Webflow, React, headless. Jeśli strona ma błędy strukturalne (słabe Core Web Vitals, brak mobile-first), wskażemy to w audycie i zaproponujemy poprawki tam, gdzie ROI jest najwyższe. CRO nie wymaga całkowitego redesignu."
+      },
+      {
+        "q": "Czy to jest zgodne z HIPAA i zasadami reklamy medycznej?",
+        "a": "Każdy eksperyment jest sprawdzany pod kątem HIPAA oraz standardów izb lekarskich i polityk platform (Meta, Google Ads). Nie testujemy obietnic bez pokrycia i nigdy nie gromadzimy danych wrażliwych w analityce."
+      },
+      {
+        "q": "Czy obowiązuje umowa?",
+        "a": "Diagnostyka to jednorazowe zlecenie. Growth Sprint i Compounding CRO są rozliczane miesięcznie z 30-dniowym wypowiedzeniem. Po zakończeniu współpracy zachowujesz wszystkie dane, konfiguracje analityczne i wypracowane modele."
+      }
+    ]
+  },
+  "cta": {
+    "label": "Darmowy Audyt Strony",
+    "heading": "Chcesz przestać tracić pacjentów?",
+    "description": "Przeanalizujemy Twój lejek, wskażemy trzy największe luki i damy Ci plan działania — bez względu na to, czy zdecydujesz się na współpracę.",
+    "button_quote": "Uzyskaj darmową wycenę",
+    "button_contact": "Skontaktuj się z nami"
+  },
+  "footer_nav": {
+    "label": "Dowiedz się więcej:",
+    "link_seo": "Podstawy SEO w dermatologii",
+    "link_ppc": "Kampanie płatne, które zarabiają",
+    "link_design": "Projektowanie z myślą o konwersji"
+  },
+  "mobile_sticky": {
+    "label": "Darmowy audyt CRO",
+    "description": "30-min rozmowy · 3 największe luki",
+    "button": "Darmowy Audyt Strony"
+  },
+  "funnel_panel": {
+    "title": "Lejek rezerwacji — ostatnie 30 dni",
+    "status": "Na żywo · trwa test #4821",
+    "winning": "Wgrywający",
+    "stages": {
+      "visitors": "Odwiedzający",
+      "engaged": "Zaangażowani",
+      "form_starts": "Rozpoczęcie formularza",
+      "booked": "Zarezerwowano"
+    },
+    "stats": {
+      "conv_rate": "Współcz. konw.",
+      "cpa": "Koszt pozyskania (CPA)",
+      "confidence": "Wiarygodność"
+    }
+  }
+}

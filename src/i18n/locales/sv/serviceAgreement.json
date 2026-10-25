@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "title": "Tjänsteavtal — Allmänna villkor",
+    "description": "Tjänsteavtalet som reglerar projekt mellan vår studio och dermatologmottagningar — omfattning, leveranser, betalning, IP, sekretess, garantier och uppsägning.",
+    "page_title": "Tjänsteavtal — Allmänna villkor",
+    "page_description": "Tjänsteavtalet som reglerar samarbeten mellan vår studio och dermatologiska kliniker — omfattar projektomfång, leveranser, betalning, immateriella rättigheter, sekretess, garantier och uppsägning."
+  },
+  "common": {
+    "skip_to_content": "Hoppa till innehåll",
+    "last_updated": "Senast uppdaterad:",
+    "last_updated_date": "14 juli 2026"
+  },
+  "hero": {
+    "badge": "Juridik · Tjänsteavtal",
+    "h1": "Tjänsteavtal",
+    "description": "Tydliga villkor som reglerar design, utveckling och löpande arbete mellan vår studio och din klinik. Detta avtal ska läsas tillsammans med ditt projektförslag eller din arbetsbeskrivning."
+  },
+  "sections": {
+    "toc_title": "Innehåll",
+    "navigation_aria_label": "Navigering mellan sektioner",
+    "parties": {
+      "title": "1. Parter & Godkännande",
+      "body": "Detta tjänsteavtal (\"Avtalet\") har ingåtts mellan vår studio (\"Leverantören\", \"vi\", \"oss\") och den klinik, enhet eller individ som identifieras i det tillhörande förslaget eller arbetsbeskrivningen (\"Kunden\", \"du\", \"ni\"). Genom att signera ett förslag, erlägga en deposition eller på annat sätt instruera oss att påbörja arbetet, godkänner du nedanstående villkor."
+    },
+    "scope": {
+      "title": "2. Tjänsternas omfattning",
+      "body": "De specifika tjänsterna, leveranserna, milstolparna och tidsplanerna definieras i projektförslaget eller arbetsbeskrivningen (\"SOW\") som hänvisar till detta Avtal. Allt som faller utanför gällande SOW — såsom nya sidor, ytterligare integrationer, extra korrekturrundor eller omdefiniering av projektet efter godkännande — behandlas som en tilläggsbeställning och prissätts separat skriftligen."
+    },
+    "fees": {
+      "title": "3. Avgifter & Betalning",
+      "items": [
+        "En icke-återbetalningsbar deposition på 50 % krävs för schemaläggning och arbetsstart.",
+        "Resterande belopp faktureras enligt milstolparna i SOW; slutbetalning ska ske innan driftsättning eller överlämning av filer.",
+        "Fakturor förfaller inom 7 dagar. Vid sen betalning utgår en månatlig dröjsmålsränta på 1,5 %, och arbetet kan pausas tills skulden är reglerad.",
+        "Löpande tjänster (hosting, underhåll, abonnemang) faktureras månadsvis i förskott."
+      ]
+    },
+    "timeline": {
+      "title": "4. Tidsplan & Kundens ansvar",
+      "body": "Tidsplaner förutsätter återkoppling och leverans av innehåll inom 3 arbetsdagar. Förseningar i feedback, innehållsleverans eller godkännanden från tredje part förskjuter schemat dag-för-dag. Du ansvarar för att tillhandahålla korrekt innehåll, varumärkestillgångar och inloggningsuppgifter, samt för att säkerställa att det innehåll du tillhandahåller är sanningsenligt och inte gör intrång på andras rättigheter."
+    },
+    "revisions": {
+      "title": "5. Korrekturrundor",
+      "body": "Varje leverans inkluderar två sammanställda korrekturrundor om inget annat anges i SOW. Ändringar som begärs efter ett skriftligt godkännande av ett skede, eller som överskrider de inkluderade rundorna, debiteras enligt vår vid var tid gällande timtaxa."
+    },
+    "ip": {
+      "title": "6. Immateriella rättigheter",
+      "body": "Vid full betalning äger du de slutliga leveranser som producerats specifikt för dig — webbdesign, anpassad kod och innehåll författat enligt SOW. Vi behåller rättigheterna till befintliga ramverk, verktyg och generiska komponenter som använts i bygget, och ger dig en evig licens att använda dessa som en del av ditt projekt. Vi har rätt att visa det färdiga arbetet i vår portfolio och i fallstudier, såvida du inte skriftligen begär något annat."
+    },
+    "third_party": {
+      "title": "7. Tredjepartstjänster",
+      "body": "Projekt kan vara beroende av tredjepartstjänster (hosting, CMS, analysverktyg, EHR/bokningsintegrationer, DNS, betalningslösningar). Du ansvarar för deras avgifter och för att godkänna deras villkor. Vi ansvarar inte för avbrott, ändringar eller fel orsakade av tredjepartsleverantörer."
+    },
+    "hipaa": {
+      "title": "8. HIPAA & Datahantering",
+      "body": "Våra standardwebbplatser byggs HIPAA-medvetet: de undviker att samla in skyddad hälsoinformation (PHI) i formulär, spårare eller loggar. Om ett projekt avsiktligt ska hantera PHI (t.ex. patientportaler eller intagsformulär med klinisk data), ska parterna ingå ett separat Business Associate Agreement (\"BAA\") innan funktionen tas i bruk. Du ansvarar för att konfigurera tredjepartsverktyg som du lägger till efter överlämning på ett HIPAA-kompatibelt sätt."
+    },
+    "confidentiality": {
+      "title": "9. Sekretess",
+      "body": "Båda parter åtar sig att hålla den andres icke-offentliga affärsmässiga, finansiella, tekniska och patientrelaterade information konfidentiell, och att enbart använda den för att fullfölja detta Avtal. Sekretessåtagandet gäller även efter att avtalet upphört."
+    },
+    "warranty": {
+      "title": "10. Garanti & Friskrivning",
+      "body": "Vi garanterar att tjänsterna utförs på ett professionellt sätt i enlighet med branschstandard. Under 30 dagar efter lansering åtgärdar vi fel i kod vi skapat utan kostnad. Därefter täcks åtgärder av en underhållsplan eller debiteras per timme. Utöver vad som uttryckligen anges tillhandahålls tjänster och leveranser i befintligt skick (\"as-is\"), och vi frånsäger oss alla andra garantier, inklusive lämplighet för ett specifikt ändamål och icke-intrång i tredjepartstjänster."
+    },
+    "liability": {
+      "title": "11. Ansvarsbegränsning",
+      "body": "I den utsträckning lagen tillåter är ingen av parterna ansvarig för indirekta skador, följdskador eller utebliven vinst. Vårt sammanlagda skadeståndsansvar enligt detta Avtal är begränsat till de avgifter du betalat oss under de tre (3) månaderna omedelbart före anspråket."
+    },
+    "termination": {
+      "title": "12. Uppsägning",
+      "body": "Vera part kan säga upp avtalet vid väsentligt avtalsbrott om rättelse inte sker inom 14 dagar efter skriftligt meddelande. Om du säger upp avtalet utan sådan grund ansvarar du för allt utfört arbete och alla uppkomna kostnader fram till uppsägningsdatumet; depositionen återbetalas ej. Löpande abonnemang kräver 30 dagars skriftlig uppsägning."
+    },
+    "misc": {
+      "title": "13. Tillämplig lag & Övrigt",
+      "body": "Detta avtal styrs av lagarna i den jurisdiktion som anges i SOW. Det utgör parternas fullständiga överenskommelse i frågan och ersätter tidigare diskussioner. Om någon bestämmelse anses ogenomförbar ska övriga delar förbli i kraft. Ändringar måste göras skriftligen och signeras av båda parter."
+    }
+  },
+  "cta": {
+    "title": "Frågor om villkoren?",
+    "description": "Vi går gärna igenom valfri punkt med dig innan du signerar.",
+    "button": "Kontakta oss"
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "common": {
+    "explore": "Utforsk",
+    "featured": "Utvalgte",
+    "free": "Gratis",
+    "servicesCount_one": "{{count}} tjeneste",
+    "servicesCount_other": "{{count}} tjenester",
+    "needCustomPlan": "Trenger du en tilpasset plan?",
+    "customPlanDesc": "Få et skreddersydd tilbud for din praksis.",
+    "getFreeQuote": "Få et gratis tilbud",
+    "requestFreeAudit": "Be om gratis revisjon"
+  },
+  "sections": {
+    "website": {
+      "label": "Nettsidetjenester",
+      "tagline": "Vakre, raske, konverteringsfokuserte nettsider bygget for dermatologipraksiser."
+    },
+    "marketing": {
+      "label": "Markedsføringstjenester",
+      "tagline": "Få flere kvalifiserte pasienter med SEO, annonser og omdømmesystemer."
+    },
+    "addons": {
+      "label": "Tilleggstjenester",
+      "tagline": "Vedlikehold, hosting, innhold og integrasjoner for å opprettholde kontinuerlig vekst.",
+      "ctaLabel": "Se alle tilleggstjenester"
+    },
+    "insights": {
+      "audit": {
+        "title": "Gratis nettsiderevisjon",
+        "description": "Handlingsrettede anbefalinger innen 24 timer."
+      }
+    }
+  },
+  "website": {
+    "design": {
+      "label": "Nettsidedesign",
+      "description": "Konverteringsfokuserte dermatologinettsider."
+    },
+    "redesign": {
+      "label": "Nettsideredesign",
+      "description": "Moderniser din eksisterende praksisside."
+    },
+    "migration": {
+      "label": "Nettsidemigrering",
+      "description": "Flytt siden din uten nedetid, ingen SEO-tap."
+    },
+    "maintenance": {
+      "label": "Nettsidevedlikehold",
+      "description": "Hold siden din sikker, oppdatert og rask."
+    },
+    "management": {
+      "label": "Nettsideadministrasjon",
+      "description": "Fullservice løpende nettsideadministrasjon."
+    },
+    "support": {
+      "label": "Nettsidestøtte",
+      "description": "Ekspertstøtte på forespørsel når du trenger det."
+    },
+    "multiLocation": {
+      "label": "Flere lokasjoner",
+      "description": "Skalerbar struktur for flere klinikker."
+    },
+    "ecommerce": {
+      "label": "E-handel",
+      "description": "Selg hudpleieprodukter online."
+    },
+    "patientPortal": {
+      "label": "Pasientportal",
+      "description": "Sømløs pasientopplevelse."
+    },
+    "beforeAfter": {
+      "label": "Før og etter-galleri",
+      "description": "Vis frem resultater på en vakker måte."
+    }
+  },
+  "marketing": {
+    "seo": {
+      "label": "Dermatologi SEO",
+      "description": "Ranger for søk med høy intensjon."
+    },
+    "localSeo": {
+      "label": "Lokal SEO",
+      "description": "Dominer ditt tjenesteområde."
+    },
+    "growth": {
+      "label": "Praksisvekst",
+      "description": "Strategi for bærekraftig vekst."
+    },
+    "googleAds": {
+      "label": "Google Ads / PPC",
+      "description": "Forutsigbar pasientanskaffelse."
+    },
+    "socialMedia": {
+      "label": "Sosiale medier",
+      "description": "Bygg merkevareautoritet."
+    },
+    "reputation": {
+      "label": "Omdømmehåndtering",
+      "description": "5-stjerners anmeldelsessystemer."
+    },
+    "email": {
+      "label": "E-postmarkedsføring",
+      "description": "Pleie og reengasjere pasienter."
+    },
+    "cro": {
+      "label": "CRO",
+      "description": "Gjør besøkende om til bestillinger."
+    }
+  },
+  "addons": {
+    "care": {
+      "label": "Pleie og vedlikehold",
+      "description": "Løpende sidepleie, oppdateringer og overvåking."
+    },
+    "hosting": {
+      "label": "Hosting og samsvar",
+      "description": "Rask, sikker, HIPAA-bevisst hosting."
+    },
+    "content": {
+      "label": "Innhold og konvertering",
+      "description": "Tekst, landingssider og CRO-eksperimenter."
+    },
+    "analytics": {
+      "label": "SEO og analyse",
+      "description": "Sporing, dashbord og søkesynlighet."
+    },
+    "integrations": {
+      "label": "Integrasjoner",
+      "description": "EHR, booking, CRM og markedsføringsverktøy."
+    },
+    "growth": {
+      "label": "Vekstmarkedsføring",
+      "description": "Annonser, e-post og omdømmerprogrammer."
+    }
+  },
+  "insights": {
+    "process": {
+      "label": "Vår prosess",
+      "description": "Hvordan vi leverer hvert prosjekt."
+    },
+    "about": {
+      "label": "Om oss",
+      "description": "Hvem vi er og hva vi tror på."
+    },
+    "caseStudies": {
+      "label": "Casestudier",
+      "description": "Reelle resultater fra reelle praksiser."
+    },
+    "blog": {
+      "label": "Blogg",
+      "description": "Innsikt for voksende praksiser."
+    },
+    "faq": {
+      "label": "Ofte stilte spørsmål",
+      "description": "Svar på vanlige spørsmål."
+    },
+    "audit": {
+      "label": "Gratis nettsiderevisjon",
+      "description": "Personlige anbefalinger innen 24 timer."
+    }
+  }
+}

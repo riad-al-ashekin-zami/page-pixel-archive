@@ -1,0 +1,162 @@
+{
+  "common": {
+    "explore": "Odkryj",
+    "featured": "Wyróżnione",
+    "free": "Bezpłatnie",
+    "servicesCount_one": "{{count}} usługa",
+    "servicesCount_other": "{{count}} usług",
+    "needCustomPlan": "Potrzebujesz niestandardowego planu?",
+    "customPlanDesc": "Otrzymaj spersonalizowaną wycenę dla swojej praktyki.",
+    "getFreeQuote": "Uzyskaj bezpłatną wycenę",
+    "requestFreeAudit": "Poproś o bezpłatny audyt"
+  },
+  "sections": {
+    "website": {
+      "label": "Usługi Stron Internetowych",
+      "tagline": "Piękne, szybkie, zorientowane na konwersję strony stworzone dla gabinetów dermatologicznych."
+    },
+    "marketing": {
+      "label": "Usługi Marketingowe",
+      "tagline": "Pozyskaj więcej kwalifikowanych pacjentów dzięki SEO, reklamom i systemom reputacji."
+    },
+    "addons": {
+      "label": "Dodatkowe Usługi",
+      "tagline": "Pielęgnacja, hosting, treści i integracje, aby wzrost się kumulował.",
+      "ctaLabel": "Zobacz wszystkie dodatki"
+    },
+    "insights": {
+      "audit": {
+        "title": "Bezpłatny Audyt Strony Internetowej",
+        "description": "Praktyczne rekomendacje w ciągu 24 godzin."
+      }
+    }
+  },
+  "website": {
+    "design": {
+      "label": "Projektowanie Stron Internetowych",
+      "description": "Zorientowane na konwersję strony dermatologiczne."
+    },
+    "redesign": {
+      "label": "Przeprojektowanie Strony Internetowej",
+      "description": "Zmodernizuj istniejącą stronę swojej praktyki."
+    },
+    "migration": {
+      "label": "Migracja Strony Internetowej",
+      "description": "Przenieś swoją witrynę bez przestojów i utraty SEO."
+    },
+    "maintenance": {
+      "label": "Utrzymanie Strony Internetowej",
+      "description": "Zapewnij bezpieczeństwo, aktualność i szybkość swojej witryny."
+    },
+    "management": {
+      "label": "Zarządzanie Stroną Internetową",
+      "description": "Kompleksowe, ciągłe zarządzanie stroną internetową."
+    },
+    "support": {
+      "label": "Wsparcie Strony Internetowej",
+      "description": "Wsparcie eksperckie na żądanie, gdy go potrzebujesz."
+    },
+    "multiLocation": {
+      "label": "Wiele Lokalizacji",
+      "description": "Skalowalna struktura dla wielu klinik."
+    },
+    "ecommerce": {
+      "label": "E-Commerce",
+      "description": "Sprzedawaj produkty do pielęgnacji skóry online."
+    },
+    "patientPortal": {
+      "label": "Portal Pacjenta",
+      "description": "Bezproblemowe doświadczenie pacjenta."
+    },
+    "beforeAfter": {
+      "label": "Galeria Przed i Po",
+      "description": "Pięknie prezentuj wyniki."
+    }
+  },
+  "marketing": {
+    "seo": {
+      "label": "Dermatologia SEO",
+      "description": "Pozycjonuj się wysoko w wyszukiwaniach o wysokiej intencji."
+    },
+    "localSeo": {
+      "label": "Lokalne SEO",
+      "description": "Dominuj w swoim obszarze usług."
+    },
+    "growth": {
+      "label": "Wzrost Praktyki",
+      "description": "Strategia dla zrównoważonego wzrostu."
+    },
+    "googleAds": {
+      "label": "Google Ads / PPC",
+      "description": "Przewidywalne pozyskiwanie pacjentów."
+    },
+    "socialMedia": {
+      "label": "Media Społecznościowe",
+      "description": "Buduj autorytet marki."
+    },
+    "reputation": {
+      "label": "Zarządzanie Reputacją",
+      "description": "Systemy 5-gwiazdkowych recenzji."
+    },
+    "email": {
+      "label": "Marketing E-mailowy",
+      "description": "Pielęgnuj i ponownie angażuj pacjentów."
+    },
+    "cro": {
+      "label": "CRO",
+      "description": "Zamień odwiedzających w rezerwacje."
+    }
+  },
+  "addons": {
+    "care": {
+      "label": "Opieka i Utrzymanie",
+      "description": "Ciągła opieka nad witryną, aktualizacje i monitoring."
+    },
+    "hosting": {
+      "label": "Hosting i Zgodność",
+      "description": "Szybkie, bezpieczne hostowanie zgodne z HIPAA."
+    },
+    "content": {
+      "label": "Content i Konwersja",
+      "description": "Teksty, strony docelowe i eksperymenty CRO."
+    },
+    "analytics": {
+      "label": "SEO i Analityka",
+      "description": "Śledzenie, pulpity nawigacyjne i widoczność w wyszukiwarkach."
+    },
+    "integrations": {
+      "label": "Integracje",
+      "description": "EHR, rezerwacje, CRM i narzędzia marketingowe."
+    },
+    "growth": {
+      "label": "Marketing Wzrostu",
+      "description": "Programy reklamowe, e-mailowe i reputacyjne."
+    }
+  },
+  "insights": {
+    "process": {
+      "label": "Nasz Proces",
+      "description": "Jak realizujemy każdy projekt."
+    },
+    "about": {
+      "label": "O Nas",
+      "description": "Kim jesteśmy i w co wierzymy."
+    },
+    "caseStudies": {
+      "label": "Studia Przypadków",
+      "description": "Prawdziwe wyniki z prawdziwych praktyk."
+    },
+    "blog": {
+      "label": "Blog",
+      "description": "Wskazówki dla rozwijających się praktyk."
+    },
+    "faq": {
+      "label": "FAQ",
+      "description": "Odpowiedzi na często zadawane pytania."
+    },
+    "audit": {
+      "label": "Bezpłatny Audyt Strony Internetowej",
+      "description": "Spersonalizowane rekomendacje w 24 godziny."
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "slug": "hipaa-website-mistakes",
+  "title": "7 HIPAA-nettstedfeil vi fortsatt ser i 2026",
+  "excerpt": "Meta-piksler, inntaksskjemaer, chat-widgets – hvor PHI-lekkasjer skjer og hvordan du kan stoppe dem denne uken.",
+  "imageAlt": "Messinghengelås som hviler på en stabel med HIPAA-overholdelsesdokumenter",
+  "body": [
+    {
+      "text": "HIPAA-håndhevelsen rundt nettstedsporing har endret seg dramatisk siden OCR-veiledningen fra 2022. Hvis nettstedet ditt fortsatt er avhengig av en standard Meta Pixel, standard GA4-konfigurasjon eller en chat-widget uten BAA, har du en lekkasje – og du vet det sannsynligvis ikke fordi lekkasjer er lydløse. Den gode nyheten: hver eneste av de syv feilene nedenfor kan lukkes i løpet av en uke med en koordinert teknisk og juridisk innsats. Den dårlige nyheten: de fleste praksiser har ikke startet."
+    },
+    {
+      "text": "Formålet med dette innlegget er ikke å skremme deg til passivitet. Det er å gi deg en konkret sjekkliste du kan gi til den som eier nettstedet ditt, pluss en enkel forklaring på hvorfor hvert element er en risiko. Skum listen, merk de du vet er åpne, og start med den alvorligste lekkasjen mandag morgen."
+    },
+    {
+      "heading": "De syv feilene"
+    },
+    {
+      "list": [
+        "Meta Pixel aktiveres på bestillingssider uten filtrering på serversiden",
+        "GA4 sporer URL-parametere som inneholder tilstandsnavn",
+        "Chat-widgets lagrer samtalelogger på ikke-HIPAA-infrastruktur",
+        "Inntaksskjemaer som publiserer til tredjeparts skjematjenester uten en BAA",
+        "Live-chat besøkendes IP-adresser lagret sammen med helsspørsmål",
+        "Tredjeparts innebygde videoer lastes før samtykke",
+        "Session-replay-verktøy registrerer input i skjemafelt"
+      ]
+    },
+    {
+      "heading": "Hvorfor Meta Pixel er den største enkeltstående risikoen"
+    },
+    {
+      "text": "Meta Pixel er det alvorligste elementet på listen fordi den er den mest usynlige. En standardinstallasjon aktiveres ved hver sideinnlasting og sender URL, referent og all skjemainput Meta kan hente tilbake til Facebooks servere – inkludert URL-er som /schedule/acne-consult eller /request/mole-check. Den URL-en er antageligvis PHI i det øyeblikket den kobles til en IP-adresse som kan spores tilbake til en person."
+    },
+    {
+      "text": "Løsningen er ikke å fjerne pikselen. Løsningen er å kjøre den gjennom Conversions API på serversiden med streng URL- og hendelsesfiltrering, og å fjerne eventuelle spørrestrenger, banesegmenter eller hendelsesdata som kan avsløre tilstandsintensjon. Det arbeidet tar en ingeniør omtrent to dager. Det er compliance-arbeidet med høyest avkastning du kan gjøre dette kvartalet."
+    },
+    {
+      "heading": "GA4 er den nest vanligste lekkasjen"
+    },
+    {
+      "text": "GA4 lekker på en annen måte: URL-parametere som inneholder diagnostisk språk, eller hendelsesdata som ble satt opp på autopilot og aldri gjennomgått. Sorter GA4-hendelsene dine etter frekvens og les de 50 beste. Hvis et hendelsesnavn eller en parameter inneholder tilstandstekst, har disse dataene strømmet inn på Googles servere ukryptert fra et HIPAA-perspektiv. Gi nytt navn, fjern eller erstatt disse hendelsene med rene identifikatorer."
+    },
+    {
+      "heading": "Chat-widgets og inntaksskjemaer"
+    },
+    {
+      "text": "Chat-widgets og inntaksskjemaer er den tredje kategorien. Ethvert verktøy som samler samtaleinndata trenger en Business Associate Agreement før det håndterer en pasienthenvendelse. Hvis din nåværende chat-leverandør ikke kan fremlegge en signert BAA innen en time etter forespørsel, erstatt dem. De gode HIPAA-kompatible leverandørene har BAAs på lager; de risikable har ikke."
+    },
+    {
+      "text": "Den samme regelen gjelder for inntaksskjemaer. Hvis skjemaleverandøren din lagrer innsendinger på serverne sine uten en BAA, er hver innsending en compliance-hendelse. Gå over til en skjema-løsning med en signert BAA (eller egenhost på din egen HIPAA-kvalifiserte infrastruktur) før du starter din neste kampanje."
+    },
+    {
+      "heading": "Session-replay, innebygd video og den lange halen"
+    },
+    {
+      "text": "Session-replay-verktøy er ekstraordinære produktforskningsverktøy og ekstraordinære HIPAA-landminer. Hvert replay-verktøy må konfigureres til å maskere hvert skjemafelt som standard, maskere alle elementer som inneholder tekst som kan være PHI, og lagre opptak på infrastruktur dekket av en BAA. Innebygde videoer fra YouTube eller Vimeo laster tredjeparts informasjonskapsler før brukerens samtykke – bytt til en personvernfokusert innebygging eller en lettlaster som bare initialiseres etter eksplisitt handling."
+    },
+    {
+      "text": "Det sammensatte budskapet er dette: HIPAA-overholdelse i 2026 er et nettstedsteknisk problem like mye som et juridisk problem. Behandle det som gjentakende vedlikehold, ikke en engangsrevisjon. Gjennomgå sporingsstakken din kvartalsvis, trekk tilbake leverandører som ikke kan signere BAAs, og dokumenter hver fiks i en overholdelseslogg teamet ditt kan vise til når OCR-brevet til slutt kommer."
+    }
+  ],
+  "faqs": null
+}

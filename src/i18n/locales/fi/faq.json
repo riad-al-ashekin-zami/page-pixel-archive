@@ -1,0 +1,275 @@
+{
+  "meta": {
+    "title": "UKK — Dermatologian verkkosivusuunnittelu, SEO & HIPAA-vastaukset",
+    "description": "Suoria vastauksia ihotautiklinikoiden verkkosivujen hinnoittelusta, aikatauluista, hakukonenäkyvyydestä (SEO), HIPAA-vaatimuksista, uudistuksista ja tuesta.",
+    "keywords": "dermatologia verkkosivut UKK, ihotautiklinikan SEO, HIPAA-verkkosivut, dermatologian sivuston hinta, verkkosivuprojektin aikataulu",
+    "breadcrumbList": {
+      "home": "Etusivu",
+      "faq": "UKK"
+    }
+  },
+  "hero": {
+    "badge": "{{totalCount}} vastausta · Erikoistunut dermatologiaan",
+    "heading": "Kaikki vastaukset, joita ihotautiklinikka todella tarvitsee.",
+    "subheading": "Hinnoittelu, aikataulut, SEO, HIPAA, uudistukset ja integraatiot. Suoraa tekstiä asiantuntijoilta, jotka vastaavat myös itse toteutuksesta.",
+    "search": {
+      "label": "Etsi vastauksia",
+      "placeholder": "Hae: hinta, HIPAA, uudistus, SEO…",
+      "hint": "Paina / tai ⌘K hakeaksesi",
+      "results": "{{count}} vastaus hakuun \"{{query}}\"",
+      "results_plural": "{{count}} vastausta hakuun \"{{query}}\""
+    },
+    "stats": [
+      {
+        "label": "Analyysin toimitus",
+        "value": "24h"
+      },
+      {
+        "label": "Ihotautiklinikkaa",
+        "value": "50+"
+      },
+      {
+        "label": "Lighthouse-tavoite",
+        "value": "95+"
+      }
+    ]
+  },
+  "navigation": {
+    "skipToContent": "Siirry sisältöön",
+    "browseByTopic": "Selaa aiheittain",
+    "onThisPage": "Tällä sivulla",
+    "all": "Kaikki",
+    "clearFilters": "Tyhjennä suodattimet",
+    "askUs": "Kysy meiltä"
+  },
+  "popular": {
+    "badge": "Suosituimmat",
+    "heading": "Usein kysytyt kysymykset"
+  },
+  "searchNoResults": {
+    "heading": "Hakuasi vastaavia vastauksia ei vielä löytynyt.",
+    "subheading": "Kokeile jotakin näistä aiheista – tai lähetä meille kysymys, niin vastaamme 24 tunnin kuluessa.",
+    "suggested": [
+      "hinnoittelu",
+      "HIPAA",
+      "aikataulu",
+      "SEO",
+      "uudistus",
+      "EHR"
+    ]
+  },
+  "feedback": {
+    "question": "Oliko tästä apua?",
+    "success": "Kiitos palautteestasi!",
+    "clarify": "Kiitos – selvennämme tätä kohtaa pian.",
+    "ariaHelpful": "Merkitse hyödylliseksi",
+    "ariaNotHelpful": "Merkitse hyödyttömäksi"
+  },
+  "categories": {
+    "general": {
+      "title": "Yleistä & Aloitus",
+      "short": "Yleistä",
+      "intro": "Keiden kanssa työskentelemme, miten projektit alkavat ja mitä voit odottaa.",
+      "items": [
+        {
+          "q": "Kenelle rakennatte verkkosivuja?",
+          "a": "Työskentelemme yksinomaan dermatologian ammattilaisten kanssa – yksityisvastaanotot, klinikkaryhmät, esteettinen ihotautioppi sekä pediatriset alalajit. Keskittyminen yhteen nicheen tarkoittaa, että jokainen sivuarkkitehtuuri ja integraatio on jo valmiiksi hiottu ihotautipotilaiden hakutapoja ja ajanvaraustottumuksia varten."
+        },
+        {
+          "q": "Miten projekti alkaa?",
+          "a": "Aloitamme kartoitusistunnolla, jota seuraa maksuton nykyisen sivustosi auditointi – SEO, nopeus, HIPAA, UX ja konversio. Tämän pohjalta teemme kiinteän tarjouksen, jossa on selkeät välitavoitteet ja hinta. Emme käytä avointa tuntiveloitusta.",
+          "cta": "Tutustu prosessiimme"
+        },
+        {
+          "q": "Korvaatteko nykyisen toimistomme?",
+          "a": "Toisinaan. Monet asiakkaat pitävät meidät pitkäaikaisena dermatologiaan erikoistuneena kumppanina ja käyttävät yleistoimistoa printtiin tai PR-viestintään. Teemme mielellämme yhteistyötä – me vastaamme tällöin kokonaisvaltaisesti verkkosivuista, SEO:sta ja digitaalisesta hankinnasta."
+        },
+        {
+          "q": "Omistammeko verkkosivut itse?",
+          "a": "Kyllä. Omistat verkkotunnuksen, koodin, sisällön ja kaikki puolestasi luomamme tilit. Mikään ei jää meidän panttivangiksemme. Jos päätät lähteä, luovutamme kaiken siististi eteenpäin."
+        }
+      ]
+    },
+    "pricing": {
+      "title": "Hinnoittelu & Aikataulut",
+      "short": "Hinnoittelu",
+      "intro": "Projektien kustannukset, kesto ja laskutusmallit.",
+      "items": [
+        {
+          "q": "Paljonko dermatologian verkkosivusto maksaa?",
+          "a": "Useimmat räätälöidyt toteutukset asettuvat 6 500 $ ja 18 500 $ välille riippuen sivumäärästä, integraatioista (EHR, potilasportaali, verkkokauppa) sekä ennen/jälkeen-kuvagallerian laajuudesta. Monitoimipisteklinikat sijoittuvat yleensä korkeampaan hintaluokkaan. Jokainen tarjous on kiinteähintainen.",
+          "cta": "Katso paketit ja hinnat"
+        },
+        {
+          "q": "Kuinka kauan rakennusprosessi kestää?",
+          "a": "Yhden toimipisteen keskittynyt projekti valmistuu 4–7 viikossa. Laajemmat kokonaisuudet, joissa on useita toimipisteitä tai laajoja sisältömigraatioita, vievät 8–12 viikkoa. Aikataulu edellyttää sujuvaa palautetta tiimiltänne – lähetämme aikataulun, jotta mikään ei viivästy huomaamatta."
+        },
+        {
+          "q": "Onko teillä maksuohjelmia?",
+          "a": "Kyllä – tyypillinen malli on 40 % aloituksessa, 40 % designin hyväksynnän jälkeen ja 20 % julkaisun yhteydessä. Suuret projektit voidaan jakaa kuukausieriin rakennusvaiheen ajalle. Jatkuva markkinointi laskutetaan kuukausittain."
+        },
+        {
+          "q": "Mitä hintaan sisältyy?",
+          "a": "Strategia, design, tekninen toteutus, tuki sisällöntuotantoon, tekninen SEO, schema-merkinnät, analytiikka, HIPAA-yhteensopivat lomakkeet, testiympäristö, laadunvarmistus, julkaisu ja 30 päivän tuki julkaisun jälkeen. Ei yllättäviä lisäkuluja."
+        }
+      ]
+    },
+    "seo": {
+      "title": "SEO & Kasvu",
+      "short": "SEO",
+      "intro": "Miten varmistamme sijoituksesi – ja pidämme sinut kärjessä toiminta-alueellasi.",
+      "items": [
+        {
+          "q": "Vahingoittaako uusi sivusto nykyistä hakukonenäkyvyyttä?",
+          "a": "Päinvastoin. Auditoimme jokaisen sijoituksia keräävän osoitteen, teemme 301-uudelleenohjaukset, säilytämme linkkien arvon ja vahvistamme on-page-signaaleja. Useimmat asiakkaat näkevät vakaat tai parantuneet sijoitukset 30–60 päivän sisällä."
+        },
+        {
+          "q": "Hoidatteko paikallista SEO-optimointia useille toimipisteille?",
+          "a": "Kyllä. Jokainen toimipiste saa oman optimoidun sivunsa, Google Business Profile -synkronoinnin, uniikit sijaintikohtaiset sisällöt ja jäsennellyn tiedon. Seuraamme sijoituksia toimipiste- ja palvelukohtaisesti, emme vain etusivun osalta."
+        },
+        {
+          "q": "Kuinka nopeasti SEO-tulokset näkyvät?",
+          "a": "Paikalliset karttatulokset liikkuvat usein 4–8 viikossa. Kilpaillut hakusanat (kuten Aesthetic, Mohs-kirurgia, laserhoidot) vaativat yleensä 3–6 kuukautta säännöllistä sisältöä ja linkitystä. Raportoimme kuukausittain todellisista sijoituksista, liikenteestä ja liideistä."
+        },
+        {
+          "q": "Kirjoitatteko sisällön puolestamme?",
+          "a": "Kyllä, mutta te teette lääketieteellisen tarkastuksen. Kirjoittajamme ovat erikoistuneet ihotautialan terveyssisältöihin, jotka ovat potilasystävällisiä, E-E-A-T-periaatteiden mukaisia ja kliinisen tiiminne hyväksymiä."
+        }
+      ]
+    },
+    "hipaa": {
+      "title": "HIPAA & Vaatimustenmukaisuus",
+      "short": "HIPAA",
+      "intro": "Miten pidämme potilastiedot (PHI) turvassa ja poissa sieltä, minne ne eivät kuulu.",
+      "items": [
+        {
+          "q": "Ovatko sivustonne HIPAA-yhteensopivia?",
+          "a": "Rakennamme HIPAA-tietoisia sivustoja: lomakkeet kulkevat TLS-suojattuina HIPAA-yhteensopiviin päätepisteisiin, potilastietoja ei tallenneta markkinointipikseleihin, BAAt on allekirjoitettu kumppanien kanssa ja työnkulut on suunniteltu estämään arkaluonteisen tiedon pääsy sähköpostiin. Tietosuoja on jatkuva prosessi – me määritämme kaiken oikein ja dokumentoimme sen teille.",
+          "cta": "Pyydä maksuton auditointi"
+        },
+        {
+          "q": "Allekirjoitatteko BAA-sopimuksen?",
+          "a": "Kyllä, niissä palveluissa joissa BAA on sovellettavissa (hostaus, lomakkeiden käsittely, tallennus). Suosittelemme vain kumppaneita, jotka sitoutuvat sopimukseen potilastietoja käsiteltäessä."
+        },
+        {
+          "q": "Voitteko tarkastaa nykyisen HIPAA-valmiutemme?",
+          "a": "Kyllä – se on osa maksutonta auditointiamme. Paikallistamme vaaralliset seurantatyökalut, suojaamattomat lomakkeet ja mahdolliset PHI-vuodot sekä annamme tärkeysjärjestyksessä etenevän korjauslistan."
+        },
+        {
+          "q": "Miten ADA / saavutettavuus on huomioitu?",
+          "a": "Jokainen sivusto noudattaa WCAG 2.2 AA -standardia, sisältää ADA-selosteen ja toimivan palautekanavan. Saavutettavuus on sisäänrakennettu design-järjestelmään (värikontrastit, näppäimistöohjaus, ruudunlukuohjelmat) – ei päälle liimattu lisäosa."
+        }
+      ]
+    },
+    "design": {
+      "title": "Design & Uudistaminen",
+      "short": "Design",
+      "intro": "Lähestymistapamme visuaaliseen ilmeeseen, käyttökokemukseen ja uudistuksiin.",
+      "items": [
+        {
+          "q": "Onko ulkoasu yksilöllinen vai perustuuko se valmiiseen pohjaan?",
+          "a": "100 % räätälöity. Jokainen projekti alkaa brändistänne, potilasprofiileistanne ja palveluistanne. Emme vain vaihda värejä valmiiseen pohjaan – jokainen sivu on suunniteltu tuottamaan klinikallenne tärkeitä konversioita."
+        },
+        {
+          "q": "Voitteko noudattaa nykyistä brändiämme?",
+          "a": "Kyllä. Jos teillä on brändiohjeisto, noudatamme sitä tarkasti. Jos sellaista ei ole, voimme päivittää logonne, värinne ja typografianne lisäpalveluna, jotta sivusto näyttää yhtenäiseltä ensihetkestä lähtien."
+        },
+        {
+          "q": "Miten uudistus vaikuttaa nykyiseen kävijämääräämme?",
+          "a": "Auditoimme jokaisen sijoittuvan sivun, suuntaamme osoitteet uudelleen ja testaamme uuden sivuston suojatussa ympäristössä ennen julkaisua. Julkaisua seurataan tarkasti, jotta mahdolliset poikkeamat huomataan tunneissa, ei viikoissa."
+        },
+        {
+          "q": "Huolehditteko valokuvauksesta?",
+          "a": "Koordinoimme työtä paikallisten valokuvaajien kanssa tarvittaessa. Ennen/jälkeen-gallerioita varten luomme suostumusprosessit ja skaalautuvan mallin, jota henkilökuntanne voi helposti ylläpitää."
+        }
+      ]
+    },
+    "support": {
+      "title": "Tuki & Ylläpito",
+      "short": "Tuki",
+      "intro": "Mitä tapahtuu julkaisun jälkeen ja miten pysymme apunanne.",
+      "items": [
+        {
+          "q": "Mitä tapahtuu julkaisun jälkeen?",
+          "a": "Hintaan sisältyy 30 päivän tehostettu tuki. Tämän jälkeen useimmat asiakkaat siirtyvät ylläpitopakettiin, joka kattaa päivitykset, valvonnan, varmuuskopiot, tietoturvapaikkaukset, pienet sisältömuutokset ja kuukausittaiset raportit."
+        },
+        {
+          "q": "Kuinka nopeaa tuki on?",
+          "a": "Ylläpitoasiakkaat saavat vastauksen saman arkipäivän aikana. Kriittiset ongelmat, kuten sivuston kaatuminen, korjataan tunneissa. Saat apua oikealta ihmiseltä, etkä joudu vain tikettijonon jatkoksi."
+        },
+        {
+          "q": "Hoidatteko verkkohotellin (hosting)?",
+          "a": "Kyllä. Käytämme HIPAA-yhteensopivaa infrastruktuuria, jossa on CDN, automaattiset varmuuskopiot ja SSL. Jos haluat isännöidä sivustoa itse, voimme asentaa sen ympäristöösi ja dokumentoida luovutuksen."
+        },
+        {
+          "q": "Voimmeko muokata sivustoa itse?",
+          "a": "Kyllä. Jokainen sivusto sisältää päivitystyökalun (CMS) – voit muokata sivuja, blogeja, lääkäritietoja, toimipisteitä ja gallerioita ilman koodaustaitoja."
+        }
+      ]
+    },
+    "integrations": {
+      "title": "Integraatiot & Työkalut",
+      "short": "Integraatiot",
+      "intro": "Miten sivusto kytkeytyy muihin käyttämiinne järjestelmiin.",
+      "items": [
+        {
+          "q": "Integroituuko sivusto potilastietojärjestelmään (EHR) tai ajanvaraukseen?",
+          "a": "Kyllä – olemme tehneet integraatioita useimpiin suuriin dermatologian järjestelmiin (kuten Nextech, ModMed, Zocdoc, Klara). Jos julkinen rajapinta tai upotus on olemassa, rakennamme sen siististi osaksi sivustoa."
+        },
+        {
+          "q": "Voimmeko myydä tuotteita verkossa?",
+          "a": "Kyllä. Rakennamme säädösten mukaisia verkkokauppoja ihonhoitosarjoille (esim. Shopify-pohjaisesti), mukaan lukien tilaustilaukset ja varastosynkronointi."
+        },
+        {
+          "q": "Asetatteko puhelunseurannan ja analytiikan?",
+          "a": "Kyllä. GA4, puhelujen ja lomakkeiden konversioseuranta sekä tulonmuodostus kanavittain. Kaikki toteutetaan HIPAA-vaatimukset huomioiden."
+        },
+        {
+          "q": "Entä sähköpostimarkkinointi ja CRM?",
+          "a": "Integroimme sivuston nykyiseen järjestelmäänne tai suosittelemme dermatologian työnkulkuihin sopivaa ratkaisua. Automaattiset hoitopolut konsultaatiopyynnöille ovat suosittu lisäpalvelu."
+        }
+      ]
+    }
+  },
+  "cta": {
+    "badge": "Jäikö jokin askarruttamaan?",
+    "heading": "Kysy mitä vain – saat vastauksen 24 tunnin kuluessa.",
+    "subheading": "Ei myyntipuheita, ei kiertelyä. Lähetä meille kysymys, johon edellinen toimistosi ei vastannut, niin saat meiltä selkeän vastauksen.",
+    "buttons": {
+      "contact": "Ota yhteyttä",
+      "audit": "Maksuton analyysi"
+    }
+  },
+  "related": {
+    "badge": "Lisätietoa",
+    "heading": "Jatka tutustumista",
+    "items": [
+      {
+        "title": "Verkkosivujen muistilista",
+        "desc": "108 tarkistuspistettä 9 kategoriassa.",
+        "link": "Lue lisää"
+      },
+      {
+        "title": "Suunnitelmat & Hinnat",
+        "desc": "Läpinäkyvät paketit jokaiselle kasvuvaiheelle.",
+        "link": "Lue lisää"
+      },
+      {
+        "title": "Maksuton auditointi",
+        "desc": "Yksilöity raportti sivustostasi 24 tunnissa.",
+        "link": "Lue lisää"
+      },
+      {
+        "title": "Meidän prosessimme",
+        "desc": "Näin viemme projektit onnistuneesti maaliin.",
+        "link": "Lue lisää"
+      }
+    ]
+  },
+  "footerLinks": {
+    "text": "Etkö löytänyt etsimääsi? Nämä saattavat auttaa: ",
+    "auditLink": "aloita ilmaisella auditoinnilla",
+    "caseStudiesLink": "lue asiakastarinoitamme",
+    "pricingLink": "tutustu hinnastoomme"
+  }
+}

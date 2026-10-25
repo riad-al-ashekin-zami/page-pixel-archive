@@ -1,0 +1,301 @@
+{
+  "meta": {
+    "title": "Migrering av nettsider for dermatologi — null nedetid, null SEO-tap",
+    "description": "Førsteklasses migrering av hudlegenettsider for enkeltpraksiser, klinikker med flere lokasjoner, pediatrisk dermatologi og Mohs-kirurgi. Bytt plattform, host eller CMS med null nedetid, 1:1 301 redirects, HIPAA-sikker overføring og bevarte Google-rangeringer.",
+    "ogTitle": "Migrering av nettsider for dermatologi — null nedetid, null SEO-tap",
+    "ogDescription": "Migrer din hudlegenettside med null nedetid og uten å miste rangeringer. WordPress, Wix, Squarespace, Webflow, HubSpot — HIPAA-klart, fullstendig omdirigert og overvåket i 90 dager."
+  },
+  "jsonLd": {
+    "serviceType": "Migrering av nettsider for dermatologi",
+    "provider": "DW Design",
+    "areaServed": "USA",
+    "audienceType": "Dermatologiske praksiser",
+    "offerDescription": "Migrering av nettsider for dermatologi — startpris"
+  },
+  "hero": {
+    "badge": "Null nedetid · Null SEO-tap",
+    "heading": "Migrering av nettsider for dermatologi — uten å miste en eneste plassering.",
+    "subheading": "Flytt din hudlege-side fra WordPress, Wix, Squarespace, Webflow, GoDaddy, HubSpot eller et utdatert system — til en raskere, HIPAA-klar og konverteringsfokusert plattform. Hver URL omdirigeres 1:1, pasientreisen forblir uforstyrret, og Google-rangeringene beholdes.",
+    "primaryCta": "Planlegg min migrering",
+    "secondaryCta": "Gratis migreringsrevisjon",
+    "stats": {
+      "downtimeLabel": "Målt nedetid",
+      "redirectLabel": "100% URL-omdirigering",
+      "rankingsLabel": "0 Tapte rangeringer"
+    }
+  },
+  "liveProof": [
+    {
+      "label": "Migrerte dermatologi-sider"
+    },
+    {
+      "label": "Rangeringer noensinne tapt"
+    },
+    {
+      "label": "Gj.snittlig overgangstid"
+    },
+    {
+      "label": "Gj.snittlig Lighthouse etter lansering"
+    }
+  ],
+  "audiences": {
+    "badge": "Bygget for",
+    "heading": "Migreringer tilpasset hvordan dermatologiske praksiser faktisk drives.",
+    "items": [
+      {
+        "label": "Selvstendige dermatologer",
+        "desc": "Flytt fra Wix eller GoDaddy uten å påvirke en eneste rangering."
+      },
+      {
+        "label": "Klinikker med flere lokasjoner",
+        "desc": "Samle underdomener for ulike lokasjoner under én styrt plattform."
+      },
+      {
+        "label": "Pediatrisk dermatologi",
+        "desc": "Bevar inntaksskjemaer for foreldre og en familievennlig brukeropplevelse."
+      },
+      {
+        "label": "Mohs og kirurgisk dermatologi",
+        "desc": "Hold henvisnings-URL-er og kasuseksempler intakte."
+      }
+    ]
+  },
+  "platforms": {
+    "badge": "Alle plattformer, alle hoster",
+    "heading": "Vi migrerer fra der du er i dag.",
+    "subheading": "WordPress → Webflow. Wix → WordPress. Squarespace → HubSpot. Eldre systemer → moderne arkitektur. Uansett kilde, har vi flyttet det før.",
+    "status": "Migrer ✓"
+  },
+  "pillars": {
+    "badge": "Migreringsgarantien",
+    "heading": "Hva du beholder. Hva du får.",
+    "items": [
+      {
+        "title": "Overgang uten nedetid",
+        "desc": "Forhåndsvarmet cache og DNS-staging sørger for at pasienter kan booke under hele byttet."
+      },
+      {
+        "title": "1:1 301 Redirect-kart",
+        "desc": "Hver gamle URL peker til sin beste nye destinasjon – ingen ødelagte lenker, ingen tap av autoritet."
+      },
+      {
+        "title": "HIPAA-sikker overføring",
+        "desc": "BAA-klar flyt for skjemaer, inntak og all pasientrelatert data."
+      },
+      {
+        "title": "Lighthouse 95+ ved lansering",
+        "desc": "Den nye siden er raskere enn den gamle fra dag én – ikke måneder senere."
+      },
+      {
+        "title": "SEO-sikker flytting",
+        "desc": "Schema, meta, overskrifter og interne lenker migreres uten tilbakegang i synlighet."
+      },
+      {
+        "title": "Fullstendig responsiv gjenoppbygging",
+        "desc": "Desktop, laptop, nettbrett og mobil – pikselperfekt og testet på ekte enheter."
+      }
+    ]
+  },
+  "lighthouse": {
+    "badge": "Bevis, ikke løfter",
+    "heading": "Hver migrering leveres med en ekte Lighthouse-revisjon.",
+    "description": "Vi bare påstår ikke at det går raskt. Før vi overleverer nøklene, kjører vi en full Google Lighthouse-revisjon på den migrerte siden. Nedenfor er et typisk resultat etter lansering – reproduserbart, ikke markedsføringsprat.",
+    "tags": [
+      "Testet på ekte enheter",
+      "Mobil + desktop",
+      "Rårapport inkludert"
+    ],
+    "ui": {
+      "title": "Google Lighthouse · Mobil",
+      "subtitle": "revisjon etter migrering",
+      "labels": {
+        "performance": "Ytelse",
+        "accessibility": "Tilgjengelighet",
+        "bestPractices": "Beste praksis",
+        "seo": "SEO"
+      }
+    }
+  },
+  "gains": {
+    "badge": "Før → Etter",
+    "heading": "En tryggere, raskere og renere flytting.",
+    "labels": {
+      "redirects": "URL-omdirigeringer",
+      "downtime": "Nedetid ved overgang",
+      "risk": "Risiko for rankingtap",
+      "score": "Lighthouse-score"
+    }
+  },
+  "process": {
+    "badge": "Migrering i 6 trinn",
+    "heading": "Fra kartlegging til en overvåket lansering med stabile rangeringer.",
+    "steps": [
+      {
+        "title": "Kartlegging og fullstendig gjennomsøking",
+        "desc": "Vi går gjennom hver URL, henter rangeringsdata, kartlegger skjemaer og markerer HIPAA-sensitive endepunkter før vi rører noe."
+      },
+      {
+        "title": "Plan for URL og omdirigering",
+        "desc": "En godkjent 1:1 omdirigeringsplan, strukturplan og plattformvalg – før en eneste designpiksel flyttes."
+      },
+      {
+        "title": "Oppbygging i testmiljø",
+        "desc": "Ny side bygges på et privat testdomene. Innhold, schema og metadata migreres med grundige paritetskontroller."
+      },
+      {
+        "title": "Kvalitetssikring og godkjenning",
+        "desc": "Side-om-side-sammenligning av hver migrert side – ytelse, SEO, tilgjengelighet og HIPAA må være grønnmerket."
+      },
+      {
+        "title": "DNS-overgang",
+        "desc": "Forhåndsvarmet cache, senket TTL i forkant, 301-lenker aktive, DNS byttes på sekunder. Pasientbooking fortsetter uten avbrudd."
+      },
+      {
+        "title": "90-dagers rangeringsovervåking",
+        "desc": "Daglig overvåking av Search Console, revisjon av omdirigeringer og optimalisering av Core Web Vitals gjennom stabiliseringsperioden."
+      }
+    ]
+  },
+  "checklist": {
+    "badge": "Sjekkliste for sikker rangering",
+    "heading": "Alt vi tar med oss videre – punkt for punkt.",
+    "items": [
+      "Hver URL 1:1 omdirigert",
+      "Meta-titler og beskrivelser migrert",
+      "Schema-markup videreført",
+      "Intern lenkestruktur bevart",
+      "Bilder optimalisert, alt-tekst beholdt",
+      "Core Web Vitals bygget opp på nytt",
+      "Search Console + Analytics koblet til på nytt",
+      "HIPAA-skjemaer kontrollert under BAA"
+    ]
+  },
+  "services": {
+    "badge": "Medisinske tjenester dekket",
+    "heading": "Hver behandlingsside flyttes, kartlegges og bevares.",
+    "description": "Hver tjenesteside reindekseres med sin schema, strukturerte hensikt og rangerte søkeord intakt.",
+    "list": [
+      "Aknebehandling",
+      "Eksembehandling",
+      "Psoriasisbehandling",
+      "Behandling av hudinfeksjoner",
+      "Behandling av hudallergi",
+      "Screening og behandling av hudkreft",
+      "Vurdering og fjerning av føflekker",
+      "Fjerning av cyster og lipomer",
+      "Vortefjerning",
+      "Behandling av neglesykdommer",
+      "Behandling mot hårtap",
+      "Behandling av hodebunnslidelser",
+      "Rosaceabehandling",
+      "Hyperpigmentering og melasma",
+      "Arrbehandling",
+      "Behandling av brannskadearr",
+      "Vitiligobehandling",
+      "Hudbiopsi og diagnostikk"
+    ]
+  },
+  "comparison": {
+    "badge": "Hvorfor klinikker velger oss",
+    "heading": "Migrer selv, ansett en generalist, eller samarbeid med en spesialist på dermatologi.",
+    "headers": {
+      "label": "Hva du får",
+      "diy": "Gjør-det-selv / Internt",
+      "generalist": "Generelt byrå",
+      "dw": "DW Design"
+    },
+    "rows": {
+      "downtime": "Overgang uten nedetid",
+      "redirects": "1:1 kart over URL-omdirigeringer",
+      "hipaa": "HIPAA-sikker dataoverføring",
+      "schema": "Paritet på schema og metadata",
+      "monitoring": "90-dagers overvåking av rangeringer",
+      "lighthouse": "Lighthouse 95+ fra dag én",
+      "timeline": "Fast tidslinje og milepæler"
+    }
+  },
+  "testimonial": {
+    "quote": "Vi migrerte fire klinikksider fra et eldre CMS til en moderne plattform på seks uker. Ikke en eneste URL sluttet å virke, ingen søkeord falt i rangering, og sidehastigheten ble doblet fra dag én.",
+    "author": "Dr. Yasmin Delgado, MD",
+    "role": "HV Dermatology · 4 lokasjoner",
+    "video": {
+      "badge": "Se historien · 47s",
+      "heading": "Null nedetid, null panikk – og rangeringene gikk faktisk opp.",
+      "ariaLabel": "Spill av videoanmeldelse",
+      "authorFooter": "Dr. Yasmin Delgado, MD",
+      "titleFooter": "Migrering av 4 klinikker",
+      "stats": {
+        "timeline": "6 uker",
+        "timelineLabel": "Total flytting",
+        "traffic": "+18%",
+        "trafficLabel": "Trafikkøkning",
+        "links": "0",
+        "linksLabel": "Ødelagte lenker"
+      }
+    }
+  },
+  "faq": {
+    "badge": "FAQ",
+    "heading": "Migrering, besvart ærlig.",
+    "items": [
+      {
+        "q": "Vil pasientene oppleve nedetid under migreringen?",
+        "a": "Nei. Vi klargjør den nye siden på et speilet domene, kjører en full kvalitetssikring og bytter deretter DNS med en forhåndsvarmet cache. Brukere opplever et sømløst bytte – typisk målt nedetid er under 30 sekunder."
+      },
+      {
+        "q": "Mister vi rangeringer hos Google etter migrering?",
+        "a": "Nei. Hver URL omdirigeres 1:1 med 301 redirects, metadata og schema bevares, og vi overvåker Search Console daglig i 90 dager etter lansering. Migrering uten tap er standarden hos oss, ikke unntaket."
+      },
+      {
+        "q": "Hvilke plattformer migrerer dere fra?",
+        "a": "WordPress, Wix, Squarespace, Webflow, GoDaddy Builder, Duda, Weebly, HubSpot CMS, Drupal, Joomla og eldre spesialbygde løsninger. Vi håndterer også flytting mellom hoster og bytte av CMS."
+      },
+      {
+        "q": "Hvordan håndteres pasientdata under overføringen?",
+        "a": "Alle pasientskjemaer, portaler og inntaksdata håndteres under en BAA-klar arbeidsflyt. Sensitiv informasjon (PHI) blir aldri eksportert til usikre miljøer; kun kryptert overføring benyttes."
+      },
+      {
+        "q": "Hvor lang tid tar en full migrering av en dermatologi-side?",
+        "a": "4–7 uker for en standard praksis, 6–10 uker for flere lokasjoner, og 8–12 uker for komplekse migreringer med integrert journalsystem (EHR). Vi opererer med faste ukentlige milepæler og en låst lanseringsdato."
+      },
+      {
+        "q": "Hva om min gamle side er et rot av sider, PDF-er og ubrukte blogger?",
+        "a": "Vi reviderer og rydder opp. Ødelagte og lavverdige URL-er omdirigeres til deres beste match, verdifullt innhold struktureres på nytt, og dupliserte sider slås sammen – du får en ryddigere informasjonsarkitektur fra en kaotisk kilde."
+      }
+    ]
+  },
+  "cta": {
+    "badge": "Gratis 30-min migreringsplan",
+    "heading": "Send oss din nåværende side. Vi viser deg den tryggeste måten å flytte den på.",
+    "subheading": "Du får et utkast til omdirigeringer, en plattformanbefaling og en realistisk tidslinje – før du forplikter deg til noe. Vi går personlig gjennom hver plan før den sendes ut.",
+    "footerName": "Dermatology Website Design",
+    "footerTag": "Hjelper dermatologer å vokse på nett",
+    "primaryLink": "Få min migreringsplan",
+    "secondaryLink": "Kontakt oss",
+    "altImg": "DW — Dermatology Website Design"
+  },
+  "footerLinks": {
+    "preface": "Også verdt å sjekke ut: ",
+    "redesign": "en frisk tilnærming til redesign",
+    "management": "hvordan vi forvalter nettsider langsiktig",
+    "costs": "hva migreringer vanligvis koster"
+  },
+  "simulator": {
+    "badge": "Prøv det live",
+    "heading": "Se ditt kart over omdirigeringer på 4 sekunder.",
+    "inputPlaceholder": "din-klinikk.no",
+    "buttonLabel": "Simuler migrering",
+    "srLabel": "Din nåværende nettadresse",
+    "headers": {
+      "old": "Gammel URL",
+      "action": "301 →",
+      "new": "Ny URL"
+    },
+    "result": "5 av 5 URL-er kartlagt · 0 rangeringer i fare · Klar til migrering.",
+    "floatingOne": "Overgang om 27s",
+    "floatingTwo": {
+      "rankings": "100% rangeringer beholdt",
+      "audit": "Dag-30 revisjon"
+    }
+  }
+}

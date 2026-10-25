@@ -1,0 +1,458 @@
+{
+  "meta": {
+    "title": "Design de Websites E-commerce para Dermatologia | Lojas de Skincare com Foco em HIPAA",
+    "description": "Design premium de e-commerce para dermatologia. Catálogo Rx + OTC compatível com HIPAA, subscrições, kits de skincare aprovados por especialistas e SEO com Product-schema. Criado para clínicas, spas médicos e DSOs.",
+    "og": {
+      "title": "Design de Websites E-commerce para Dermatologia | Lojas de Skincare com Foco em HIPAA",
+      "description": "Venda skincare de nível médico, controle produtos Rx com aprovação clínica, gira subscrições e posicione as suas páginas no Google — uma montra digital gerida para a sua marca de dermatologia."
+    },
+    "jsonLd": {
+      "serviceType": "Design de Websites E-commerce para Dermatologia",
+      "name": "DW Design",
+      "offerDescription": "Design de websites e-commerce para dermatologia — preço inicial"
+    }
+  },
+  "hero": {
+    "badge": "Foco em HIPAA · Rx-Ready · Nativo para Subscrições",
+    "title": "Design de E-commerce para clínicas de Dermatologia que levam as vendas a sério.",
+    "description": "A loja online que o seu consultório merece. Divisão correta entre Rx e OTC, kits validados no checkout, subscrições que os pacientes mantêm — e SEO com Product-schema que as suas páginas de serviços nunca alcançariam.",
+    "cta": {
+      "plan": "Planear a Minha Loja",
+      "audit": "Auditoria Gratuita à Loja"
+    },
+    "stats": {
+      "dispensaries": "Farmácias digitalizadas",
+      "retention": "Retenção de subscrição @ 90d",
+      "lighthouse": "Lighthouse em PDPs"
+    },
+    "mockups": {
+      "otc": "OTC",
+      "rxGated": "Acesso Rx",
+      "requirement": "Aprovação médica necessária",
+      "revenueLift": "Aumento médio",
+      "revenueContext": "nas vendas de produtos 6 meses pós-lançamento",
+      "alt": "Loja premium de e-commerce de dermatologia com produtos de skincare"
+    }
+  },
+  "estimator": {
+    "eyebrow": "Interativo · Estimador de Receita",
+    "title": "Projete o seu primeiro trimestre online.",
+    "description": "Ajuste os seletores. Consideramos que 22% dos pacientes ativos compram online em 6 meses e 35% destes aderem a uma subscrição — a mediana das últimas 42 lojas de derm que lançámos.",
+    "labels": {
+      "patients": "Pacientes ativos:",
+      "aov": "Valor médio de encomenda:",
+      "projected": "Projetado",
+      "quarterlyHeader": "Receita da loja no 1º trimestre",
+      "monthly": "Receita mensal est.",
+      "buyers": "Compradores online / 6 meses",
+      "oneTime": "Receita OTC pontual (Q1)",
+      "subscription": "Receita de subscrições (Q1)",
+      "discount": "Desconto misto para subscritores",
+      "subscribers90": "Subscritores est. aos 90 dias",
+      "disclaimer": "Estimativas baseadas na performance mediana de 42 lojas lançadas. Os resultados reais dependem do catálogo, preços e volume atual do consultório."
+    },
+    "chart": {
+      "recurring": "Recorrente",
+      "ariaLabel": "Gráfico circular de divisão de receita"
+    }
+  },
+  "sections": {
+    "audiences": {
+      "eyebrow": "Para quem é",
+      "title": "Feito para marcas de dermatologia com uma linha de produtos real.",
+      "items": [
+        {
+          "label": "Dermatologistas Independentes",
+          "desc": "Venda os seus produtos online com opção de levantamento no consultório."
+        },
+        {
+          "label": "Clínicas Multi-localização",
+          "desc": "Catálogo único, stock por consultório e escolha entre envio ou levantamento."
+        },
+        {
+          "label": "Dermatologia Pediátrica",
+          "desc": "Catálogos pensados para pais, com filtros de produtos por idade."
+        },
+        {
+          "label": "Redes Cirúrgicas e Mohs",
+          "desc": "Subscrições de kits pós-procedimento ajustadas às fases de recuperação."
+        }
+      ]
+    },
+    "problemSolution": {
+      "eyebrow": "O que resolvemos",
+      "title": "A maioria das lojas de derm é apenas um Shopify básico com um logótipo.",
+      "description": "Produtos Rx bloqueados no online, falta de validação médica e subscrições sem retenção. Reconstruímos a camada comercial com base na realidade da dispensação dermatológica.",
+      "before": "Antes",
+      "after": "Depois",
+      "items": [
+        {
+          "before": "Vendas apenas presencialmente no consultório",
+          "after": "Loja online 24/7 + reabastecimentos"
+        },
+        {
+          "before": "Produtos Rx bloqueados em vendas web",
+          "after": "Checkout Rx com validação clínica"
+        },
+        {
+          "before": "Páginas de produto invisíveis no Google",
+          "after": "Product schema + Merchant Center"
+        },
+        {
+          "before": "Vendas pontuais, sem fidelização",
+          "after": "Subscrições com mais de 60% de retenção"
+        },
+        {
+          "before": "Risco HIPAA com dados de pacientes no site",
+          "after": "IDs anonimizados + stack com BAA"
+        },
+        {
+          "before": "Pacientes tentam adivinhar qual o melhor SPF",
+          "after": "Kits validados pelo médico no checkout"
+        }
+      ]
+    },
+    "pillars": {
+      "eyebrow": "O sistema comercial",
+      "title": "Seis pilares por trás de cada loja que criamos.",
+      "items": [
+        {
+          "title": "Catálogo Híbrido Rx / OTC",
+          "desc": "Produtos sujeitos a receita protegidos por aprovação clínica; vendas OTC sem fricção."
+        },
+        {
+          "title": "Subscrições e Reposições",
+          "desc": "Saltar mês, pausar ou trocar. Kits pós-procedimento e reposições cíclicas com preços especiais."
+        },
+        {
+          "title": "Kits Validados pelo Clínico",
+          "desc": "Médicos curam cabazes a partir do EHR — pacientes veem \"Recomendado pelo Dr. X\" no checkout."
+        },
+        {
+          "title": "SEO com Product-Schema",
+          "desc": "Schema de Produto, Oferta e Rating por SKU. Google Merchant Center configurado no lançamento."
+        },
+        {
+          "title": "Checkout HSA / FSA",
+          "desc": "SKUs elegíveis marcados, descritores IIAS e recibos detalhados para reembolso."
+        },
+        {
+          "title": "Stock por Localização",
+          "desc": "Envio a partir de armazém central ou reserva para levantamento na clínica à escolha do paciente."
+        }
+      ]
+    },
+    "architecture": {
+      "eyebrow": "Arquitetura do catálogo",
+      "title": "Quatro caminhos de compra, um catálogo centralizado.",
+      "description": "Cada SKU é classificado num dos quatro fluxos na importação. Pacientes encontram a fricção certa (ou nenhuma) e o Google vê produtos indexáveis.",
+      "items": [
+        {
+          "type": "OTC · Checkout aberto",
+          "examples": [
+            "Limpeza Facial",
+            "Hidratantes",
+            "SPF",
+            "Vitamina C",
+            "Cuidados Corporais"
+          ]
+        },
+        {
+          "type": "Rx · Validação Médica",
+          "examples": [
+            "Tretinoína",
+            "Hidroquinona",
+            "Ivermectina",
+            "Retinoides Rx",
+            "Minoxidil Rx"
+          ]
+        },
+        {
+          "type": "Kits · Assinados pelo Médico",
+          "examples": [
+            "Kit Pós-Mohs",
+            "Iniciação Acne",
+            "Pack Anti-envelhecimento",
+            "Recuperação Pós-laser"
+          ]
+        },
+        {
+          "type": "Subscrições · Auto-reposição",
+          "examples": [
+            "SPF (30 dias)",
+            "Limpeza (60 dias)",
+            "Retinoide (90 dias)",
+            "Cadência Personalizada"
+          ]
+        }
+      ]
+    },
+    "categories": {
+      "eyebrow": "Categorias cobertas",
+      "title": "Para cada patologia, um caminho de produto.",
+      "description": "As categorias espelham as suas páginas de serviços médicos, garantindo que o paciente encontra sempre o tratamento certo ou o kit recomendado.",
+      "items": [
+        "Sistemas de Tratamento de Acne",
+        "Reparação de Barreira para Eczema",
+        "Tópicos para Psoríase",
+        "Limpeza para Infeções Cutâneas",
+        "Bálsamos para Alergias de Pele",
+        "Proteção Solar para Cancro da Pele",
+        "Kits Pós-remoção de Sinais",
+        "Cuidados para Quistos e Lipomas",
+        "Kits de Tratamento de Verrugas",
+        "Soluções para Fungos nas Unhas",
+        "Tratamento de Queda de Cabelo (Rx)",
+        "Champôs para Distúrbios do Couro Cabeludo",
+        "Regimes para Rosácea",
+        "Clareamento de Melasma",
+        "Folhas de Silicone para Cicatrizes",
+        "Recuperação de Cicatrizes de Queimadura",
+        "Camuflagem para Vitiligo",
+        "Cuidados Pós-biópsia"
+      ]
+    },
+    "deliverables": {
+      "eyebrow": "O que entregamos",
+      "title": "12 entregas concretas no lançamento.",
+      "items": [
+        "Design system de e-commerce gerido para a marca",
+        "Catálogo Rx / OTC com validação clínica",
+        "Motor de subscrições (saltar / pausar / trocar)",
+        "Construtor de kits validados (ligação EHR)",
+        "Checkout HSA/FSA com descritores IIAS",
+        "Stock por localização + rota de levantamento",
+        "Schema de Produto / Oferta / Review por SKU",
+        "Google Merchant Center + Feed de Shopping",
+        "Analytics com foco em HIPAA (sem PII de pacientes)",
+        "Portal do paciente para encomendas e receitas",
+        "Core Web Vitals 95+ em PDPs e PLPs",
+        "Dashboard de análise de receita e retenção"
+      ]
+    },
+    "timeline": {
+      "eyebrow": "O processo",
+      "title": "Seis marcos. Uma data de lançamento.",
+      "items": [
+        {
+          "step": "01",
+          "title": "Auditoria de Catálogo e Compliance",
+          "desc": "Inventariamos cada SKU, dividimos Rx de OTC, mapeamos elegibilidade HSA/FSA e alinhamos o BAA com o seu EHR."
+        },
+        {
+          "step": "02",
+          "title": "Recomendação de Plataforma",
+          "desc": "Shopify Plus, Shopify Headless ou Customizada — escolhida com base na receita, integrações e necessidades de Rx."
+        },
+        {
+          "step": "03",
+          "title": "Design System da Loja",
+          "desc": "Cards de produto, kits, fluxos de subscrição e componentes de validação médica — tudo reutilizável."
+        },
+        {
+          "step": "04",
+          "title": "Construção e Pagamentos",
+          "desc": "Stripe / Shopify Payments + HSA/FSA, motor de subscrições e rotas de stock por consultório."
+        },
+        {
+          "step": "05",
+          "title": "SEO + Merchant Feed",
+          "desc": "Product schema, feed para Google Merchant Center, indexação de categorias e redirecionamentos de URLs antigos."
+        },
+        {
+          "step": "06",
+          "title": "Lançamento e Otimização de Retenção",
+          "desc": "Primeiros 60 dias: gatilhos de retenção, avisos de reposição e dashboard de receita em tempo real."
+        }
+      ]
+    },
+    "comparison": {
+      "eyebrow": "Porquê escolher-nos",
+      "title": "Shopify 'faça-você-mesmo', agência generalista ou especialista em derm.",
+      "headers": {
+        "capability": "Capacidade",
+        "diy": "Shopify DIY",
+        "generic": "Agência Generalista",
+        "dw": "DW Design",
+        "recommended": "RECOMENDADO"
+      },
+      "rows": [
+        "Divisão Rx / OTC com validação médica",
+        "Stack de analytics focada em HIPAA",
+        "Kits validados integrados com EHR",
+        "Subscrições flexíveis (saltar/pausar/trocar)",
+        "Checkout compatível com HSA/FSA",
+        "Schema de Produto + Reviews por SKU",
+        "Entrega ou levantamento por localização",
+        "Lighthouse 95+ em PDPs e PLPs"
+      ]
+    }
+  },
+  "pricing": {
+    "eyebrow": "Investimento",
+    "title": "Preços ajustados à sua forma de vender.",
+    "customQuote": "solicitar orçamento personalizado",
+    "starting": "a partir de",
+    "market": "Mercado",
+    "labels": {
+      "popular": "Mais Popular",
+      "getStarted": "Começar Agora"
+    },
+    "tiers": [
+      {
+        "name": "OTC Starter",
+        "tag": "Vendas presenciais → online"
+      },
+      {
+        "name": "Rx + Subscrições",
+        "tag": "Mais Popular"
+      },
+      {
+        "name": "Custom Headless",
+        "tag": "DSO e Grandes Empresas"
+      }
+    ],
+    "features": {
+      "otc": [
+        "Loja Shopify com design de marca",
+        "Catálogo OTC, até 50 SKUs",
+        "Subscrições básicas (30/60/90 dias)",
+        "Checkout HSA/FSA",
+        "Product schema + Google Merchant Feed",
+        "Lançamento em 5–7 semanas"
+      ],
+      "rx": [
+        "Tudo o que está no OTC Starter",
+        "Divisão Rx / OTC com validação médica",
+        "Kits validados (ligação EHR básica)",
+        "Subscrições avançadas (trocas, upsells)",
+        "Analytics HIPAA + âmbito BAA",
+        "Lançamento em 8–10 semanas"
+      ],
+      "headless": [
+        "Tudo o que está no Rx + Subscrições",
+        "Shopify Headless ou loja costumizada",
+        "EHR completo + stock multi-localização",
+        "Portal do paciente para pedidos e receitas",
+        "Dashboard completo de retenção e receita",
+        "Lançamento em 12–16 semanas"
+      ]
+    }
+  },
+  "caseStudy": {
+    "eyebrow": "Estudo de caso (anónimo)",
+    "title": "Grupo de derm estética com 3 clínicas · 180 dias de loja.",
+    "description": "Nomes e marcas omitidos por acordo de confidencialidade (NDA). Valores verificados com relatórios Shopify e Google Merchant Center.",
+    "verified": "Verificado",
+    "metrics": [
+      {
+        "label": "Receita de produtos",
+        "sub": "vs. 6 meses apenas presencial"
+      },
+      {
+        "label": "Retenção sub. @ 90d",
+        "sub": "incluindo saltar/pausar"
+      },
+      {
+        "label": "Taxa carrinho-compra",
+        "sub": "Checkout OTC, mobile"
+      },
+      {
+        "label": "Mediana Lighthouse",
+        "sub": "em todas as PDPs e PLPs"
+      }
+    ],
+    "chart": {
+      "title": "Receita mensal de produtos",
+      "range": "Pré-lançamento → Mês 6",
+      "preLaunch": "Pré-lançamento",
+      "postLaunch": "Pós-lançamento",
+      "anonymized": "Cliente anonimizado"
+    }
+  },
+  "testimonial": {
+    "quote": "A nossa venda presencial rendia 18 mil €/mês. Seis meses após o lançamento da loja — com Rx bem controlado e kits pós-Mohs em subscrição — ultrapassámos os 43 mil €/mês só no online, e 63% dos subscritores continuavam ativos aos 90 dias.",
+    "author": "Dra. Ana Morales",
+    "role": "Fundadora, Grupo de Dermatologia Estética",
+    "initials": "AM"
+  },
+  "faq": {
+    "eyebrow": "Perguntas frequentes",
+    "title": "Respostas diretas sobre a sua loja.",
+    "items": [
+      {
+        "q": "Podemos vender produtos Rx (sujeitos a receita) online?",
+        "a": "Sim — os produtos Rx são protegidos por verificação clínica e registo ativo do paciente. O catálogo divide-se em OTC (compra livre) e Rx (exige aprovação médica + ID do paciente). Ligamos o fluxo ao seu EHR ou a um portal do paciente, garantindo segurança total."
+      },
+      {
+        "q": "Em que plataforma constroem — Shopify ou algo customizado?",
+        "a": "Escolhemos por cliente: Shopify Plus para clínicas com vendas elevadas, Shopify Headless para quem precisa de portais de paciente e gestão Rx complexa, ou totalmente customizado para grandes grupos (DSOs). A recomendação é feita na semana 1."
+      },
+      {
+        "q": "Como lidam com a HIPAA quando os dados tocam a loja?",
+        "a": "Os identificadores de pacientes nunca ficam na base de dados da loja. Os pedidos Rx usam um ID anonimizado resolvido via servidor com o seu EHR, sob um acordo BAA. Analytics e pixels de marketing são auditados e removidos de qualquer rota que envolva dados sensíveis."
+      },
+      {
+        "q": "Configuram subscrições para kits pós-procedimento e reposições?",
+        "a": "Sim — kits de limpeza + SPF + retinoides, packs pós-Mohs e reposições automáticas. Os subscritores têm desconto por defeito e os médicos podem pré-autorizar kits diretamente do EHR para que apareçam no checkout do paciente."
+      },
+      {
+        "q": "Como é que a loja afeta o nosso SEO médico?",
+        "a": "As páginas de produto focam-se em palavras-chave de intenção comercial (\"comprar sérum vitamina C\", \"tretinoína reposição\"). A estrutura estruturada ganha visibilidade no Google Merchant Center, expandindo a sua presença sem canibalizar as páginas de serviços médicos."
+      },
+      {
+        "q": "Quanto tempo demora o lançamento do e-commerce?",
+        "a": "Shopify apenas OTC: 5–7 semanas. Loja Rx com integração EHR: 8–12 semanas. Headless customizado com subscrições: 12–16 semanas. Definimos uma data fixa no arranque com revisões semanais."
+      }
+    ]
+  },
+  "cta": {
+    "alt": "DW — Design de Websites de Dermatologia",
+    "title": "A receita do seu consultório merece mais do que um template básico.",
+    "description": "Aceitamos um número limitado de projetos de e-commerce por trimestre. Se o controlo Rx, subscrições e HIPAA são importantes para si, vamos planear a sua loja antes de escolher a plataforma.",
+    "buttons": {
+      "quote": "Obter Orçamento Gratuito",
+      "message": "Enviar Mensagem"
+    },
+    "branding": "Design de Websites de Dermatologia",
+    "tagline": "Ajudamos Dermatologistas a Crescer no Online"
+  },
+  "footer": {
+    "exploreNext": "Vale a pena explorar:",
+    "links": {
+      "design": "design de websites para consultórios",
+      "seo": "como ajudamos no ranking local",
+      "cases": "histórias recentes de clientes"
+    }
+  },
+  "catalog": {
+    "eyebrow": "Pré-visualização do catálogo",
+    "title": "O seu consultório, online em todos os fluxos.",
+    "description": "SKUs OTC, Rx e de subscrição partilham um design system único — a fricção certa para cada caso e produtos indexáveis para o Google.",
+    "button": "Adicionar",
+    "badges": {
+      "hipaa": "Foco em HIPAA",
+      "hsa": "Checkout HSA/FSA",
+      "delivery": "Entrega por localização",
+      "schema": "Product schema em cada SKU"
+    },
+    "products": [
+      {
+        "name": "Sérum Vitamina C",
+        "note": "30ml · Antioxidante"
+      },
+      {
+        "name": "Mineral SPF 46",
+        "note": "Diário · Seguro para corais"
+      },
+      {
+        "name": "Retinol 0.5%",
+        "note": "Acesso Protegido Rx"
+      },
+      {
+        "name": "Limpeza Suave",
+        "note": "Reposição · poupe 15%"
+      }
+    ]
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "meta": {
+    "title": "Få en kostnadsfri offert — Webbdesign för dermatologi",
+    "description": "Begär en personlig offert för din klinikhemsida. Transparent prissättning och skräddarsytt förslag inom 24 timmar.",
+    "ogTitle": "Få en kostnadsfri offert — Webbdesign för dermatologi",
+    "ogDescription": "Berätta om din klinik och få ett skräddarsytt förslag inom 24 timmar."
+  },
+  "hero": {
+    "badge": "Kostnadsfri offert",
+    "title": "Få en",
+    "titleHighlight": "personlig offert",
+    "titleSuffix": "för din klinik.",
+    "description": "Berätta lite om din verksamhet och dina mål. Vi skickar ett skräddarsytt förslag — med transparent prissättning och en tydlig plan — inom 24 timmar.",
+    "features": [
+      "Svar inom 24 timmar",
+      "Inga förpliktelser",
+      "Transparent prissättning"
+    ],
+    "trust": {
+      "repliesWithin": "Vi svarar inom",
+      "repliesValue": "24 timmar",
+      "launchedValue": "50+",
+      "launchedText": "lanserade dermatologiska webbplatser",
+      "focusValue": "100%",
+      "focusText": "nischade på dermatologi"
+    }
+  },
+  "sidebar": {
+    "whatHappensNext": {
+      "title": "Vad händer nu?",
+      "steps": [
+        "Vi går igenom din ansökan och nuvarande sajt.",
+        "Vårt team tar fram en skräddarsydd projektplan.",
+        "Du får pris, tidsplan och nästa steg inom 24 timmar."
+      ]
+    },
+    "preferToTalk": {
+      "title": "Föredrar du att prata?",
+      "email": "info@dermatologywebsitedesign.com",
+      "chat": "Chatta via WhatsApp"
+    },
+    "guarantee": {
+      "title": "100 % nöjdhetsgaranti",
+      "description": "Inga krav, ingen press. Om vårt förslag inte känns rätt kan du tacka nej direkt — inga frågor ställs.",
+      "benefits": [
+        "Aldrig någon spam",
+        "Din data förblir privat",
+        "Avbryt när som helst"
+      ]
+    }
+  },
+  "form": {
+    "success": {
+      "title": "Tack — din förfrågan är mottagen.",
+      "description": "En medarbetare kontaktar dig inom 24 timmar med din personliga offert."
+    },
+    "progress": {
+      "step": "Steg",
+      "of": "av",
+      "labels": [
+        "Kontakt",
+        "Webbplats",
+        "Tjänster",
+        "Budget"
+      ]
+    },
+    "sections": {
+      "contactInfo": "Kontaktuppgifter",
+      "websiteDetails": "Information om webbplatsen",
+      "helpWith": "Vad behöver du hjälp med?",
+      "budgetTimeline": "Budget & Tidsplan"
+    },
+    "fields": {
+      "yourName": {
+        "label": "Ditt namn",
+        "placeholder": "Dr. Erik Svensson"
+      },
+      "workEmail": {
+        "label": "E-post (arbete)",
+        "placeholder": "namn@dinklinik.se"
+      },
+      "phone": {
+        "label": "Telefon",
+        "placeholder": "070-000 00 00",
+        "hint": "(valfritt)"
+      },
+      "practiceName": {
+        "label": "Klinikens namn",
+        "placeholder": "Gatans Hudklinik"
+      },
+      "currentWebsite": {
+        "label": "Nuvarande webbplats",
+        "placeholder": "dinklinik.se",
+        "hint": "(valfritt)"
+      },
+      "numberOfLocations": {
+        "label": "Antal mottagningar",
+        "select": "Välj"
+      },
+      "websiteSize": {
+        "label": "Webbplatsens storlek",
+        "select": "Välj"
+      },
+      "adminAccess": {
+        "label": "Finns admin-åtkomst?"
+      },
+      "estimatedBudget": {
+        "label": "Uppskattad budget",
+        "select": "Välj ett intervall"
+      },
+      "urgency": {
+        "label": "Hur brådskande är det?",
+        "select": "Välj tidsram"
+      },
+      "projectDetails": {
+        "label": "Projektbeskrivning",
+        "placeholder": "Berätta om dina mål, dina kliniker och eventuella specifika önskemål.",
+        "hint": "(valfritt)"
+      }
+    },
+    "servicesText": {
+      "select": "Välj allt som stämmer. Du har valt",
+      "service": "tjänst",
+      "services": "tjänster"
+    },
+    "buttons": {
+      "back": "Bakåt",
+      "continue": "Fortsätt",
+      "sending": "Skickar…",
+      "submit": "Begär min kostnadsfria offert"
+    },
+    "footerText": "Dina uppgifter är 100 % säkra. Ingen spam, aldrig.",
+    "validation": {
+      "name": "Vänligen ange ditt namn",
+      "email": "Vänligen ange en giltig e-postadress",
+      "practiceName": "Vänligen ange klinikens namn",
+      "service": "Vänligen välj minst en tjänst",
+      "locations": "Vänligen välj antal mottagningar",
+      "websiteSize": "Vänligen välj webbplatsens storlek",
+      "adminAccess": "Vänligen svara på om admin-åtkomst finns",
+      "budget": "Vänligen välj en budget",
+      "urgency": "Vänligen välj hur bråttom det är",
+      "completeStep": "Vänligen slutför detta steg",
+      "checkForm": "Vänligen kontrollera formuläret",
+      "wait": "Vänligen vänta {{seconds}}s innan du försöker skicka igen."
+    }
+  },
+  "options": {
+    "services": [
+      "Webbdesign",
+      "Omdesign av webbplats",
+      "Webbmigrering",
+      "Före & Efter-galleri",
+      "SEO / Lokal SEO",
+      "Google Ads / PPC",
+      "Sajt för flera kliniker",
+      "E-handel",
+      "Patientportal",
+      "Rykte & Recensioner",
+      "Innehåll & Copywriting",
+      "Drift & Underhåll"
+    ],
+    "locations": [
+      "1 mottagning",
+      "2–3 mottagningar",
+      "4–10 mottagningar",
+      "10+ mottagningar"
+    ],
+    "pages": [
+      "1 sida",
+      "5–8 sidor",
+      "10–15 sidor",
+      "15–20 sidor",
+      "20+ sidor"
+    ],
+    "admin": [
+      "Ja",
+      "Nej",
+      "Osäker"
+    ],
+    "budgets": [
+      "Under $1k",
+      "$1k – $2k",
+      "$4k – $5k",
+      "$7k – $10k",
+      "$10k+"
+    ],
+    "urgencies": [
+      "Inom 48 timmar",
+      "Inom 7 dagar",
+      "Inom 1 månad",
+      "Inom 3 månader",
+      "Inom 6 månader",
+      "Ingen brådska / Flexibelt"
+    ]
+  },
+  "sections": {
+    "whyQuote": {
+      "title": "Varför begära en",
+      "titleHighlight": "offert?",
+      "subtitle": "Konkreta siffror skräddarsydda för din klinik — helt utan förpliktelser.",
+      "items": [
+        {
+          "title": "100 % gratis & inga krav",
+          "body": "Få faktiska siffror anpassade efter din kliniks storlek, plattform och mål."
+        },
+        {
+          "title": "Skräddarsytt för din klinik",
+          "body": "Varje hudmottagning är unik. Offerterna baseras på ditt CMS, antal platser och tjänsterna du behöver."
+        },
+        {
+          "title": "Transparent prissättning",
+          "body": "Vi specar uppgifter, tidsplaner och leveranser — du vet exakt vad du betalar för."
+        },
+        {
+          "title": "Snabbt svar",
+          "body": "Vårt team granskar din förfrågan direkt och svarar inom 24 timmar eller snabbare."
+        }
+      ]
+    },
+    "whatWeCanHelpWith": {
+      "title": "Vad vi kan",
+      "titleHighlight": "hjälpa dig med",
+      "subtitle": "Våra offerter täcker hela spektrumet av digitala tjänster för dermatologi.",
+      "footer": "Behöver du något specifikt? Skriv det bara — vi anpassar varje plan.",
+      "categories": [
+        {
+          "label": "Design",
+          "items": [
+            "Anpassad webbdesign",
+            "Omdesign av webbplats",
+            "Webbmigrering",
+            "Sajter för flera kliniker",
+            "Före & Efter-gallerier",
+            "Patientportaler"
+          ]
+        },
+        {
+          "label": "Tillväxt",
+          "items": [
+            "SEO för dermatologi",
+            "Lokal SEO",
+            "Google Ads / PPC",
+            "E-handel",
+            "Innehåll & Copywriting",
+            "Analys & CRO"
+          ]
+        },
+        {
+          "label": "Drift",
+          "items": [
+            "Rykte & Recensioner",
+            "Hastighetsoptimering",
+            "HIPAA-kompatibel hosting",
+            "Drift & Underhåll"
+          ]
+        }
+      ]
+    },
+    "howItWorks": {
+      "title": "Så här",
+      "titleHighlight": "fungerar det",
+      "subtitle": "Från förfrågan till offert i fyra enkla steg.",
+      "stepLabel": "Steg",
+      "items": [
+        {
+          "title": "Skicka in formuläret",
+          "body": "Dela med dig av klinikens uppgifter, din webbplats och vad du vill ha hjälp med."
+        },
+        {
+          "title": "Experten granskar",
+          "body": "Vårt team analyserar din nuvarande sajt, SEO-hälsa och dina krav."
+        },
+        {
+          "title": "Få din offert",
+          "body": "Du får ett detaljerat och personligt förslag — tydligt, enkelt och transparent."
+        },
+        {
+          "title": "Starta med trygghet",
+          "body": "Godkänn planen så sätter vi igång med en strukturerad onboarding."
+        }
+      ]
+    }
+  }
+}

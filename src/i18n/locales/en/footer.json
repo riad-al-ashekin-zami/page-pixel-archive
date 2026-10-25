@@ -1,0 +1,81 @@
+{
+  "cta": {
+    "eyebrow": "Free Website Audit",
+    "headingLead": "Ready to grow your",
+    "headingHighlight": "dermatology practice",
+    "headingTailShort": "?",
+    "headingTailLong": " online?",
+    "descriptionShort": "Get a free website audit and a custom growth plan — at no cost.",
+    "descriptionLong": "Get a free website audit. We'll review your site, identify growth gaps, and map a plan — at no cost.",
+    "button": "Get a Free Quote",
+    "trustedBy": "Trusted by dermatologists worldwide"
+  },
+  "brand": {
+    "logoAlt": "Dermatology Website Design",
+    "homeAria": "Dermatology Website Design — Home",
+    "tagline": "Websites built exclusively for dermatologists and skin clinics. HIPAA-aware, SEO-optimized, conversion-focused websites designed to help practices grow online.",
+    "whatsappLabel": "Chat with us on WhatsApp",
+    "whatsappCta": "Chat on WhatsApp",
+    "location": "Serving dermatology practices worldwide"
+  },
+  "columns": {
+    "services": "Services",
+    "company": "Company",
+    "resources": "Resources",
+    "legal": "Legal"
+  },
+  "services": {
+    "websiteDesign": "Website Design",
+    "websiteRedesign": "Website Redesign",
+    "websiteMigration": "Website Migration",
+    "websiteManagement": "Website Management",
+    "ecommerce": "E-Commerce Website",
+    "socialMedia": "Social Media Management"
+  },
+  "company": {
+    "about": "About Us",
+    "process": "Our Process",
+    "caseStudies": "Case Studies",
+    "contact": "Contact Us"
+  },
+  "resources": {
+    "blog": "Blog",
+    "faq": "FAQ",
+    "audit": "Free Website Audit",
+    "auditBadge": "FREE",
+    "checklists": "Checklists",
+    "patientPortal": "Patient Portal",
+    "addOns": "Add-On Services"
+  },
+  "legal": {
+    "serviceAgreement": "Service Agreement",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "refund": "Refund Policy",
+    "cookies": "Cookie Policy"
+  },
+  "hipaaBadge": {
+    "title": "HIPAA-Aware",
+    "note": "Privacy & security built into every site"
+  },
+  "trustBadges": {
+    "hipaa": { "label": "HIPAA-Aware", "note": "Compliance-first design" },
+    "ada": { "label": "ADA Accessible", "note": "WCAG 2.1 Compliant" },
+    "ssl": { "label": "SSL Secured", "note": "256-bit Encryption" },
+    "seo": { "label": "SEO Optimized", "note": "Rank higher on Google" },
+    "mobile": { "label": "Mobile Friendly", "note": "Perfect on all devices" },
+    "speed": { "label": "Fast Loading", "note": "95+ Lighthouse Score" }
+  },
+  "bottom": {
+    "copyright": "© 2026 {{brand}}.",
+    "brand": "Dermatology Website Design",
+    "rights": "All rights reserved.",
+    "madeWith": "Made with",
+    "madeFor": "for dermatology practices",
+    "backToTop": "Back to top"
+  },
+  "compliance": {
+    "heading": "Compliance notice",
+    "body": "We build HIPAA-aware websites and implement best-practice security measures. Clients are responsible for ensuring their practice complies with all applicable healthcare regulations and legal requirements, including obtaining a signed Business Associate Agreement (BAA) where Protected Health Information (PHI) is processed. Content on this site is for informational purposes only and does not constitute medical, legal, or financial advice. Results from marketing, SEO, and conversion services vary by practice, market, and effort, and are not guaranteed. All third-party names, logos, and trademarks belong to their respective owners and are used for identification only."
+  }
+}

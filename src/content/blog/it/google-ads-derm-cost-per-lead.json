@@ -1,0 +1,60 @@
+{
+  "slug": "google-ads-derm-cost-per-lead",
+  "title": "Come abbiamo ridotto il costo per lead del 47% su Google Ads",
+  "excerpt": "Una strategia di offerta specifica per la dermatologia, una libreria di parole chiave negative e un modello di landing page che si compone.",
+  "imageAlt": "Un operatore di marketing esamina i grafici delle performance degli annunci a pagamento su un monitor widescreen",
+  "body": [
+    {
+      "text": "Il costo per lead nelle campagne Google Ads dermatologiche è solitamente un disastro, gonfiato da parole chiave generiche, landing page non corrispondenti e una strategia di offerta che non è stata toccata da quando la campagna è stata lanciata da qualcuno che non lavora più nello studio. Ecco il framework esatto che abbiamo utilizzato per ridurre un CPL di 180 $ a 95 $ in un trimestre in tre studi multi-sede."
+    },
+    {
+      "text": "Il taglio del 47% non è stato il risultato di un'unica soluzione miracolosa. È stato l'effetto combinato di tre cambiamenti disciplinati: una spietata libreria di parole chiave negative, una struttura di landing page con un'unica offerta per pagina e il passaggio da un generico \"Massimizza Conversioni\" a una strategia target-CPA ancorata a dati di prenotazione reali, non a dati di compilazione di moduli. Ciascuno di questi, isolatamente, sposta l'ago del 10-15%. Insieme si combinano per quasi la metà."
+    },
+    {
+      "heading": "1. La libreria di parole chiave negative"
+    },
+    {
+      "text": "Inizia con la nostra lista di 240 termini negativi per la dermatologia. Filtra i clic di curiosità a basso costo e le ricerche di formazione clinica prima che ti costino un centesimo. Se qualcuno cerca su Google 'come funziona Accutane', è quasi certamente uno studente o un paziente curioso, non una persona che sta per prenotare, ma il tuo annuncio apparirà felicemente e brucerà il budget su di loro a meno che tu non gli dica di non farlo."
+    },
+    {
+      "list": [
+        "Termini con intento educativo: 'cos'è', 'come funziona', 'significato di', 'diagramma', 'fasi di'",
+        "Termini con intento di carriera: 'stipendio dermatologo', 'lavori dermatologo vicino a me', 'specializzazione'",
+        "Termini fai-da-te e alternative economiche: 'rimedio casalingo', 'naturale', 'fai-da-te', 'economico', 'gratis'",
+        "Termini per pubblico sbagliato: studente, bambini (a meno che tu non serva la pediatria), recensione, forum, reddit",
+        "Termini dei concorrenti a meno che non si abbia una strategia di \"conquesting\" documentata"
+      ]
+    },
+    {
+      "text": "Ricostruisci la tua lista di parole chiave negative trimestralmente. Il comportamento di ricerca cambia, le nuove tendenze di TikTok generano nuove query di curiosità, e la parola chiave pulita di ieri diventa il secchio che perde di domani. Una revisione trimestrale di novanta minuti ha un ROI sproporzionato."
+    },
+    {
+      "heading": "2. Modello di landing page"
+    },
+    {
+      "text": "Il più grande incremento nello studio di caso è venuto dall'eliminazione della landing page condivisa 'contattaci' e dalla sua sostituzione con una sola offerta per campagna. Le campagne Aesthetic atterrano su una pagina Aesthetic. Le campagne Acne atterrano su una pagina acne. Ogni pagina ha la stessa struttura scheletrica - hero, prova, offerta, modulo - ma il contenuto è allineato all'intento del gruppo di annunci."
+    },
+    {
+      "list": [
+        "Una offerta per pagina – mai mescolare intento cosmetico e medico",
+        "Elementi di fiducia \"above the fold\": badge di certificazione, punteggio recensioni, numero di pazienti",
+        "Modulo singolo con massimo 4 campi e senza richiesta di telefono obbligatoria",
+        "CTA mobile \"sticky\" visibile durante lo scroll",
+        "Due moduli di prova sociale – un carosello di recensioni, uno \"prima/dopo\" con consenso"
+      ]
+    },
+    {
+      "heading": "3. Strategia di offerta ancorata alle prenotazioni, non ai lead"
+    },
+    {
+      "text": "Gli algoritmi di Google ottimizzano per qualsiasi segnale di conversione tu dia loro. Se dai loro le compilazioni di moduli, ti troveranno le compilazioni di moduli più economiche, che spesso sono quelle con il più basso intento. La chiave è fornire a Google un evento di conversione a valle: 'appuntamento prenotato' o 'appuntamento mostrato'. Lo facciamo convogliando il PMS o CRM della pratica in Google Ads tramite il tracciamento delle conversioni offline, e poi passando da \"Massimizza Conversioni\" a target-CPA con un target legato all'evento dell'appuntamento prenotato."
+    },
+    {
+      "text": "Questo singolo cambiamento tende a far aumentare il CPL visibile per un paio di settimane – l'algoritmo ha bisogno di dati per imparare – prima che si stabilizzi su un costo per paziente prenotato materialmente più basso. Questa è la metrica che conta davvero. Una compilazione di modulo da 60 $ che non si traduce mai in una prenotazione è più costosa di una compilazione di modulo da 140 $ che diventa un paziente a vita."
+    },
+    {
+      "text": "Applica questi tre cambiamenti per un trimestre intero prima di giudicare il risultato. Novanta giorni sono sufficienti affinché l'algoritmo impari, la lista negativa si attivi e le landing page accumulino abbastanza traffico per i test A/B. Gli studi che si arrendono alla sesta settimana quasi sempre perdono l'effetto composto."
+    }
+  ],
+  "faqs": null
+}

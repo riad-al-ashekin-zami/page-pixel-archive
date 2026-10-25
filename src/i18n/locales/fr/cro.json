@@ -1,0 +1,382 @@
+{
+  "meta": {
+    "title": "Services CRO Dermatologie — Doublez vos rendez-vous à trafic constant",
+    "description": "Optimisation du taux de conversion pour les cabinets de dermatologie. Heatmaps, tests A/B, refonte de formulaires et Core Web Vitals : transformez vos visiteurs en patients confirmés. Conforme HIPAA.",
+    "og_title": "Optimisation de Conversion en Dermatologie — Boostez vos réservations sans augmenter votre trafic",
+    "og_description": "Recherche comportementale, tests A/B et funnels mobile-first pour dermatologues. Résultats mesurables en 90 jours — Expert HIPAA, sans engagement.",
+    "jsonLd": {
+      "serviceType": "Optimisation du Taux de Conversion (CRO) en Dermatologie",
+      "provider": "DermatologyWebsiteDesign.com",
+      "offerDescription": "Diagnostic CRO Dermatologie — Prix de départ"
+    }
+  },
+  "hero": {
+    "badge_lift": "+184% de croissance moyenne en 90 jours",
+    "badge_service": "Optimisation du Taux de Conversion",
+    "title_main": "Même trafic.",
+    "title_highlight": "Deux fois plus de rendez-vous.",
+    "description": "Recherche comportementale, tests A/B et tunnels de réservation mobile-first conçus spécifiquement pour la dermatologie. Chaque hypothèse est testée, chaque succès est capitalisé, chaque euro investi est rentabilisé.",
+    "cta_audit": "Démarrer avec un Audit CRO",
+    "cta_case_study": "Voir une étude de cas",
+    "pricing_note": "Audits diagnostics à partir de",
+    "pricing_value": "1 900 $",
+    "pricing_ongoing": "· programmes continus de 3,4k à 6,9k $ / mois",
+    "ticks": [
+      "Heatmaps + sessions replay",
+      "Tests A/B",
+      "Prise en charge HIPAA",
+      "Sans engagement"
+    ]
+  },
+  "stats": {
+    "lift": "Hausse moyenne des demandes de RDV",
+    "abandonment": "Baisse de l'abandon du formulaire",
+    "roas": "Meilleur ROAS sur le trafic payant",
+    "wins": "Succès statistiquement significatifs"
+  },
+  "trust": {
+    "label": "Plus de 120 cabinets de dermatologie nous font confiance",
+    "logos": [
+      "LA Dermatology",
+      "CP Dermatology",
+      "MM Center",
+      "NBS Laser",
+      "RS Institute",
+      "HD Group"
+    ]
+  },
+  "pillars": {
+    "label": "Six piliers, un système de croissance exponentielle",
+    "heading": "Le CRO n'est pas une question de couleur de bouton. C'est une discipline.",
+    "description": "Nous combinons données comportementales, expérimentations contrôlées et ingénierie mobile-first pour transformer chaque visite en une étape mesurable vers un rendez-vous confirmé.",
+    "items": [
+      {
+        "name": "Recherche Comportementale",
+        "desc": "Heatmaps, profondeur de scroll et sondages patients : nous analysons comment vos visiteurs prennent leurs décisions.",
+        "meta": "Semaines 1–2"
+      },
+      {
+        "name": "Tests A/B & Multivariés",
+        "desc": "Hypothèses classées par score ICE, testées sur des échantillons rigoureux — aucun succès n'est dû au hasard.",
+        "meta": "Continu"
+      },
+      {
+        "name": "Optimisation du Formulaire",
+        "desc": "Analyses par champ et saisie automatique sécurisée HIPAA pour diviser le taux d'abandon par deux.",
+        "meta": "Sprint 1"
+      },
+      {
+        "name": "Cartographie du Parcours Patient",
+        "desc": "Chaque étape, du clic sur l'annonce au rendez-vous, est analysée pour éliminer toute friction.",
+        "meta": "Continu"
+      },
+      {
+        "name": "Refontes Mobile-First",
+        "desc": "Plus de 70 % des réservations se font sur mobile : nous concevons des flux optimisés pour l'usage au pouce.",
+        "meta": "Sprint 2"
+      },
+      {
+        "name": "Vitesse & Core Web Vitals",
+        "desc": "Chaque 100ms de chargement coûte des patients. Nous visons un LCP de moins de 1,5s sur chaque page.",
+        "meta": "Fondamental"
+      }
+    ]
+  },
+  "experiments": {
+    "label": "Six expériences concrètes",
+    "heading": "À quoi ressemble réellement un test.",
+    "description": "Chaque ligne représente une hypothèse testée et mesurée chez nos clients. Les chiffres reflètent la croissance médiane constatée.",
+    "table_header": "Expérience",
+    "before_label": "Avant",
+    "after_label": "Après",
+    "items": [
+      {
+        "label": "Texte du CTA principal",
+        "before": "Contactez-nous",
+        "after": "Réservez en 60 secondes",
+        "metric": "Clics vers la réservation"
+      },
+      {
+        "label": "Champs du formulaire",
+        "before": "12 champs, une page",
+        "after": "4 étapes, barre de progression",
+        "metric": "Taux de complétion"
+      },
+      {
+        "label": "Clarté des assurances",
+        "before": "Noyée dans la FAQ",
+        "after": "Sélecteur d'assurance en direct",
+        "metric": "Demandes qualifiées"
+      },
+      {
+        "label": "Signaux de confiance",
+        "before": "Photo de banque d'images",
+        "after": "Vraie photo + badge 4.9★",
+        "metric": "Engagement & réservations"
+      },
+      {
+        "label": "Placement du CTA mobile",
+        "before": "Sous la ligne de flottaison",
+        "after": "Barre flottante en bas",
+        "metric": "Conversion mobile"
+      },
+      {
+        "label": "Structure de page service",
+        "before": "Bloc de texte compact",
+        "after": "Symptôme → Traitement → RDV",
+        "metric": "Conversion par page"
+      }
+    ]
+  },
+  "caseStudy": {
+    "label": "Étude de cas · NBS Laser",
+    "heading": "Même budget pub (18k$/mois). +180% de réservations.",
+    "image_alt": "Tunnel de réservation NBS Laser après optimisation CRO",
+    "stats": {
+      "bookings": "RDV / mois",
+      "completion": "Complétion formulaire",
+      "time": "Délai de conversion"
+    },
+    "comparison": [
+      {
+        "label": "Formulaire de réservation",
+        "before": "12 champs · 1 page · conçu pour desktop",
+        "after": "4 étapes · barre de progression · CTA optimisés mobile"
+      },
+      {
+        "label": "CTA principal",
+        "before": "Contactez-nous (générique)",
+        "after": "Réservez en 60s · sélecteur d'assurance"
+      },
+      {
+        "label": "Tunnel mobile",
+        "before": "Header fixe masquant le CTA au scroll",
+        "after": "Barre 'Réserver' collante en bas · boutons de 44px"
+      },
+      {
+        "label": "Signaux de confiance",
+        "before": "Photo générique · aucun avis",
+        "after": "Vrai praticien · 4.9★ · certifications"
+      }
+    ],
+    "cta": "Lire l'étude de cas complète"
+  },
+  "process": {
+    "label": "Notre méthode",
+    "heading": "Un cycle trimestriel qui s'auto-alimente.",
+    "steps": [
+      {
+        "step": "01",
+        "title": "Audit de Référence",
+        "desc": "Analyse complète de votre tunnel : analytics, heatmaps, UX mobile et plus de 20 benchmarks spécifiques à la dermatologie. Rapport détaillé sous 10 jours."
+      },
+      {
+        "step": "02",
+        "title": "Backlog d'Hypothèses",
+        "desc": "Chaque observation devient une hypothèse classée par Impact × Confiance × Facilité. Vous validez le sprint, nous ne laissons rien au hasard."
+      },
+      {
+        "step": "03",
+        "title": "Design, Build, Test",
+        "desc": "Déploiement des variantes via une plateforme d'expérimentation. Échantillons calculés à l'avance. Aucun test n'est arrêté prématurément."
+      },
+      {
+        "step": "04",
+        "title": "Déploiement & Itération",
+        "desc": "Les variantes gagnantes deviennent la nouvelle norme. Chaque mois, votre tunnel de conversion est plus performant que le précédent."
+      }
+    ]
+  },
+  "audiences": {
+    "label": "Pour qui nous travaillons",
+    "heading": "Tous les types de structures dermatologiques.",
+    "description": "Des programmes adaptés à votre modèle économique — du cabinet individuel aux groupes multi-sites spécialisés (Mohs).",
+    "items": [
+      {
+        "label": "Dermatologues en solo",
+        "desc": "Transformez un petit budget pub en un agenda complet — chaque visiteur compte quand vous êtes seul."
+      },
+      {
+        "label": "Cliniques Multi-sites",
+        "desc": "Landing pages par lieu, CTA géolocalisés et analytique unifiée pour l'ensemble de vos centres."
+      },
+      {
+        "label": "Dermatologie Pédiatrique",
+        "desc": "Tunnels de réservation rassurants pour les parents et formulaires adaptés aux besoins des tuteurs."
+      },
+      {
+        "label": "Chirurgie de Mohs & Spécialisée",
+        "desc": "Pages orientées vers l'orientation patient, clarté sur les assurances et contenu pré-opératoire."
+      }
+    ]
+  },
+  "services": {
+    "label": "Services médicaux optimisés",
+    "heading": "Chaque pathologie, chaque service — optimisé pour convertir.",
+    "description": "Nous créons des parcours 'symptôme-vers-traitement' et des CTA intelligents pour les prestations réelles de votre cabinet.",
+    "list": [
+      "Traitement de l'acné",
+      "Traitement de l'eczéma",
+      "Traitement du psoriasis",
+      "Infections cutanées",
+      "Allergies de la peau",
+      "Dépistage et traitement du cancer de la peau",
+      "Évaluation et retrait de grains de beauté",
+      "Exérèse de kystes et lipomes",
+      "Traitement des verrues",
+      "Pathologies des ongles",
+      "Diagnostic et traitement de la chute de cheveux",
+      "Affections du cuir chevelu",
+      "Traitement de la rosacée",
+      "Hyperpigmentation et mélasma",
+      "Traitement des cicatrices",
+      "Cicatrices de brûlures",
+      "Traitement du vitiligo",
+      "Biopsies et procédures diagnostiques"
+    ]
+  },
+  "testimonials": {
+    "label": "Témoignages",
+    "heading": "Les chiffres d'abord. L'histoire ensuite.",
+    "items": [
+      {
+        "name": "Dr Meera Balakrishnan, MD",
+        "role": "NBS Laser",
+        "quote": "Nous dépensions 18k$/mois en pub pour 40 réservations. Après 90 jours de CRO, à budget égal, nous sommes passés à 112 réservations. L'investissement est largement rentabilisé."
+      },
+      {
+        "name": "Dr Julian Reyes, MD",
+        "role": "CP Dermatology",
+        "quote": "Ils ont refait notre tunnel de réservation en trois sprints. La complétion du formulaire est passée de 34% à 71%. Mon secrétariat n'a plus d'appels pour des problèmes de formulaire."
+      },
+      {
+        "name": "Dr Priya Anand, MD, MPH",
+        "role": "MM Center",
+        "quote": "Les landing pages par site et le sélecteur d'assurance ont tout changé. Le délai entre consultation et réservation est passé de 11 à 4 jours."
+      }
+    ]
+  },
+  "pricing": {
+    "label": "Programmes & tarifs",
+    "heading": "Trois façons de booster votre croissance.",
+    "description": "Chaque plan est sans engagement après le diagnostic initial. Nos résultats garantissent votre fidélité.",
+    "popular": "Le plus populaire",
+    "market_label": "Marché :",
+    "get_started": "Commencer",
+    "plans": [
+      {
+        "name": "Diagnostic",
+        "tag": "Audit unique",
+        "price": "1 900 $",
+        "per": "une fois",
+        "savings": "46–75% plus économique",
+        "features": [
+          "Audit complet du tunnel + analytics",
+          "Configuration Heatmap & session-replay",
+          "Analyse de l'abandon du formulaire",
+          "Score UX Mobile + Core Web Vitals",
+          "Backlog priorisé de 12 hypothèses",
+          "60 min de présentation des résultats"
+        ]
+      },
+      {
+        "name": "Sprint de Croissance",
+        "tag": "Programme de 3 mois",
+        "price": "3 400 $",
+        "per": "/ mois",
+        "savings": "43–72% plus économique",
+        "features": [
+          "Inclus tout le plan Diagnostic",
+          "2 tests A/B lancés par mois",
+          "Refonte du formulaire incluse",
+          "Landing pages pour vos campagnes pub",
+          "Rapports mensuels de sessions replay",
+          "Canal Slack + standups hebdomadaires"
+        ]
+      },
+      {
+        "name": "CRO Exponentiel",
+        "tag": "Multi-sites & Groupes Mohs",
+        "price": "6 900 $",
+        "per": "/ mois",
+        "savings": "43–72% plus économique",
+        "features": [
+          "Inclus tout le plan Growth Sprint",
+          "Plus de 4 expériences simultanées",
+          "Systèmes de landing pages par site",
+          "Personnalisation & segmentation d'audience",
+          "Configuration d'expérimentation server-side",
+          "Revue stratégique trimestrielle"
+        ]
+      }
+    ]
+  },
+  "faq": {
+    "label": "Questions fréquentes",
+    "heading": "Les réponses à vos questions.",
+    "items": [
+      {
+        "q": "En quoi le CRO diffère-t-il du SEO ou du PPC ?",
+        "a": "Le SEO et le PPC amènent des visiteurs sur votre site. Le CRO transforme ces visiteurs en patients. Sans CRO, le ROI de votre budget pub est limité par votre taux de conversion actuel (souvent 1–3 %). Doubler votre conversion revient à doubler l'efficacité de chaque euro investi en marketing."
+      },
+      {
+        "q": "En combien de temps verrai-je des résultats ?",
+        "a": "L'audit et les premières variantes sont déployés sous 30 jours. Les résultats statistiquement significatifs apparaissent entre la 4ème et la 12ème semaine selon votre trafic. Au-delà de 5 000 visiteurs mensuels, les gains se confirment souvent dès la 6ème semaine."
+      },
+      {
+        "q": "Avez-vous besoin d'un accès à mon site ?",
+        "a": "Oui — nous installons une plateforme d'expérimentation (VWO, Convert ou Optimizely) et un outil de heatmap. Tout est conforme HIPAA : aucune donnée de santé n'est capturée, les champs sont masqués par défaut dans les replays."
+      },
+      {
+        "q": "Et si un test échoue ?",
+        "a": "Environ 60 % des tests échouent ou sont non concluants : c'est normal. Un test 'perdant' est un apprentissage précieux qui évite des erreurs coûteuses lors d'une refonte complète. Les gagnants se cumulent, les perdants vous instruisent."
+      },
+      {
+        "q": "Travaillez-vous sur mon site existant ?",
+        "a": "Oui, nous travaillons sur WordPress, Webflow, React, etc. Si votre site présente des défauts structurels (vitesse, mobile), nous les corrigerons de manière ciblée là où le ROI le justifie. Le CRO n'impose pas une refonte totale."
+      },
+      {
+        "q": "Est-ce conforme aux règles de publicité médicale ?",
+        "a": "Chaque expérience respecte HIPAA et les standards des conseils de l'Ordre ou des plateformes (Meta, Google Ads). Nous ne testons aucune allégation médicale non prouvée."
+      },
+      {
+        "q": "Y a-t-il un contrat ?",
+        "a": "Le diagnostic est une prestation ponctuelle. Les programmes mensuels sont renouvelables avec un préavis de 30 jours. Vous restez propriétaire de toutes vos données et configurations à la fin de la collaboration."
+      }
+    ]
+  },
+  "cta": {
+    "label": "Audit gratuit de site web",
+    "heading": "Prêt à arrêter de perdre des réservations ?",
+    "description": "Nous analyserons votre tunnel de conversion pour identifier les trois principales pertes de revenus et vous fournirons un plan d'action testable.",
+    "button_quote": "Obtenir un devis gratuit",
+    "button_contact": "Contactez-nous"
+  },
+  "footer_nav": {
+    "label": "Continuer l'exploration :",
+    "link_seo": "Les fondamentaux du SEO en dermatologie",
+    "link_ppc": "Des campagnes payantes rentables",
+    "link_design": "Concevoir pour la conversion dès le premier jour"
+  },
+  "mobile_sticky": {
+    "label": "Audit CRO gratuit",
+    "description": "Appel de 30 min · Les 3 points de friction majeurs",
+    "button": "Audit Web Gratuit"
+  },
+  "funnel_panel": {
+    "title": "Tunnel de réservation — 30 derniers jours",
+    "status": "Live · Test #4821 en cours",
+    "winning": "Gagnant",
+    "stages": {
+      "visitors": "Visiteurs",
+      "engaged": "Engagés",
+      "form_starts": "Saisies formulaire",
+      "booked": "RDV confirmés"
+    },
+    "stats": {
+      "conv_rate": "Taux de conv.",
+      "cpa": "CPA",
+      "confidence": "Indice confiance"
+    }
+  }
+}

@@ -1,0 +1,458 @@
+{
+  "meta": {
+    "title": "Ihotautiklinikan verkkosivuston hallintapalvelut — Kasvuhakuinen kumppani",
+    "description": "Kokonaisvaltainen ihotautiklinikan sivuston hallinta: oma asiakasvastaava, kuukausittaiset sisällöt, SEO-ohjaus, A/B-testaus, konversio-optimointi ja johdon raportointi. Kuukausisopimuksella.",
+    "og": {
+      "title": "Ihotautiklinikan verkkosivuston hallintapalvelut — Kasvutiimisi",
+      "description": "Oma asiantuntijatiimi kehittää sivustoasi viikoittain — sisältö, SEO, konversiot ja raportit. HIPAA-vaatimustenmukainen. Kuukausisopimuksella."
+    }
+  },
+  "hero": {
+    "badge": "Ihotautiklinikan sivuston hallinta",
+    "headline": "Kasvutiimi, joka pyörittää ihotautiklinikkasi verkkosivustoa — joka viikko.",
+    "subheading": "Strategia, sisältö, SEO, konversiotestit ja raportointi — omistautuneen tiimin vastuulla. Voit unohtaa tekniset huolet ja keskittyä uusiin potilaisiin.",
+    "cta_primary": "Hanki kasvusuunnitelma",
+    "cta_secondary": "Aloita ilmaisella auditoinnilla",
+    "trust": {
+      "account_manager": "Oma asiakasvastaava",
+      "contract": "Ei sitoutumispakkoa",
+      "hipaa": "HIPAA-yhteensopiva"
+    }
+  },
+  "dashboard": {
+    "title": "Kasvunäkymä",
+    "status": "Viimeiset 30 päivää · live",
+    "badge": "TAVOITTEESSA",
+    "kpis": {
+      "bookings": "Orgaaniset varaukset",
+      "conversion": "Lomakekonversio",
+      "rankings": "Sivut top 10 -sijoilla",
+      "session": "Keskim. istunto (s)"
+    },
+    "roadmap": {
+      "title": "Tämän kuukauden toimenpiteet",
+      "progress": "5 tehtävää valmiina",
+      "items": [
+        "Uusi Mohs-kirurgiasivu julkaistu",
+        "Etusivun CTA A/B-testi — versio B +18 %",
+        "6 akne-aiheista blogikirjoitusta julkaistu",
+        "Asiantuntijabiojen päivitys — tarkastuksessa",
+        "Syksyn ihonhoitokampanja — briiffattu"
+      ]
+    }
+  },
+  "stats": {
+    "label": "Toteutuneet luvut",
+    "headline": "9 kuukautta ulkoistetun tiimin kanssa.",
+    "description": "Yhdistetyt tulokset 24 hallinnoimastamme ihotautiklinikasta.",
+    "items": [
+      {
+        "value": "+214 %",
+        "label": "Orgaaniset varaukset"
+      },
+      {
+        "value": "+3.2×",
+        "label": "Sivut top 10 -sijoilla"
+      },
+      {
+        "value": "+41 %",
+        "label": "Lomakekonversio"
+      }
+    ]
+  },
+  "pillars": {
+    "label": "Mitä me hallinnoimme",
+    "headline": "Kuusi pilaria, yksi tiimi.",
+    "subheading": "Emme ole vain tarkistuslistoja suorittava toimisto, vaan monialainen tiimi, joka vastaa verkkokasvustasi alusta loppuun.",
+    "items": [
+      {
+        "title": "Strategia & Tie-kartta",
+        "desc": "Vuosineljänneksen kasvusuunnitelma, joka on sidottu tuottavimpiin palveluihinne, uusiin rekrytointeihin ja kausittaisin kysyntään."
+      },
+      {
+        "title": "Sisältötuotanto",
+        "desc": "Kuukausittainen toimituskalenteri – hoitokuvaukset, asiantuntijabiot, blogi, ennen ja jälkeen -kuvat, kausitarjoukset."
+      },
+      {
+        "title": "Konversio-optimointi",
+        "desc": "A/B-testit pääsivuilla ja lomakkeissa. Tuomme joka neljännes mitattavia parannuksia ajanvarausten määrään."
+      },
+      {
+        "title": "Analytiikka & Raportointi",
+        "desc": "Yksi näkymä – liikenne, puhelut, lomakkeet ja tuotto palveluittain. Kuukausittainen läpikäynti asiakasvastaavasi kanssa."
+      },
+      {
+        "title": "SEO-hallinta",
+        "desc": "Jatkuva on-page SEO, skeemat, sisäinen linkitys ja tekninen ylläpito sivustosi kasvaessa."
+      },
+      {
+        "title": "Kampanjoiden toteutus",
+        "desc": "Laskeutumissivut uusille palveluille, lääkäreille ja kampanjoille – suunnittelu ja julkaisu päivissä."
+      }
+    ]
+  },
+  "pod": {
+    "label": "Tiimisi",
+    "headline": "Oma asiantuntijaryhmä — sama tiimi joka kuukausi.",
+    "subheading": "Viisi erikoisosaajaa työskentelee klinikkasi eteen. Ei vaihtuvia henkilöitä tai tiedonkatkoksia.",
+    "members": [
+      {
+        "role": "Asiakasvastaava",
+        "name": "Jordan R.",
+        "desc": "Vastaa strategiasta. Ainoa yhteyshenkilösi."
+      },
+      {
+        "role": "Sisältöstrategi",
+        "name": "Priya S.",
+        "desc": "Luo toimituskalenterin joka kuukausi."
+      },
+      {
+        "role": "Lääketieteellinen kirjoittaja",
+        "name": "Dr. Alex M.",
+        "desc": "Lääketieteellisesti tarkastettu sisältö kaikille sairauksille."
+      },
+      {
+        "role": "SEO-johtaja",
+        "name": "Marcus L.",
+        "desc": "Vastaa sijoituksista, skeemasta ja sivuston kunnosta."
+      },
+      {
+        "role": "Kehittäjä",
+        "name": "Sana K.",
+        "desc": "Toteuttaa laskeutumissivut, testit ja integraatiot."
+      }
+    ]
+  },
+  "sprint": {
+    "label": "Miten työskentelemme",
+    "headline": "Kuukausittainen sprintti — ennakoitava ja mitattava.",
+    "subheading": "Jokainen kuukausi noudattaa samaa rytmiä, jotta tiedät aina, mitä on tekeillä.",
+    "phases": [
+      {
+        "id": "Viikko 1",
+        "title": "Analysoi & Priorisoi",
+        "items": [
+          "KPI-katsaus vs. tavoitteet",
+          "Tehtävälistan läpikäynti",
+          "Kolme tärkeintä prioriteettia"
+        ]
+      },
+      {
+        "id": "Viikko 2",
+        "title": "Rakenna & Julkaise",
+        "items": [
+          "Sisällön julkaisu",
+          "Uudet sivut liveksi",
+          "A/B-testien käyttöönotto"
+        ]
+      },
+      {
+        "id": "Viikko 3",
+        "title": "Mittaa & Opi",
+        "items": [
+          "Liikenne- ja varaustiedot",
+          "Heatmap-analyysi",
+          "Voittavat variaatiot käyttöön"
+        ]
+      },
+      {
+        "id": "Viikko 4",
+        "title": "Raportoi & Suunnittele",
+        "items": [
+          "Johdon raportti",
+          "Strategiapalaveri",
+          "Seuraavan kuun suunnitelma"
+        ]
+      }
+    ]
+  },
+  "deliverables": {
+    "label": "Joka kuukausi, suoraan sähköpostiisi",
+    "headline": "Näe tarkalleen, mitä saat.",
+    "tabs": {
+      "content": {
+        "label": "Sisältökalenteri",
+        "title": "Tämän kuukauden julkaisusuunnitelma",
+        "desc": "Jokainen tekstiosio briiffattu, lääketieteellisesti tarkistettu ja ajastettu.",
+        "items": [
+          {
+            "date": "03. lokakuuta",
+            "text": "Aikuisiän akne — sairaussivun uudelleenkirjoitus",
+            "tag": "SEO"
+          },
+          {
+            "date": "09. lokakuuta",
+            "text": "Mohs-kirurgia: mitä odottaa (blogi)",
+            "tag": "Luottamus"
+          },
+          {
+            "date": "15. lokakuuta",
+            "text": "Dr. Chen asiantuntijabio + video",
+            "tag": "Bio"
+          },
+          {
+            "date": "22. lokakuuta",
+            "text": "Syksyn kuivan ihon kampanjasivu",
+            "tag": "Kampanja"
+          },
+          {
+            "date": "29. lokakuuta",
+            "text": "Lasten ekseema — opas vanhemmille",
+            "tag": "SEO"
+          }
+        ]
+      },
+      "seo": {
+        "label": "SEO-hallinta",
+        "title": "Aktiivinen SEO-optimointi",
+        "desc": "Jatkuvaa huolenpitoa, jotta hakusijoitukset paranevat kuukausi kuukaudelta.",
+        "items": [
+          "24 sivukohtaista optimointia toteutettu",
+          "Schema-merkinnät 6 uudelle sivulle",
+          "138 lisättyä sisäistä linkkiä",
+          "12 avainsanakannibalaation korjausta",
+          "Core Web Vitals: LCP 1.8s → 1.2s"
+        ]
+      },
+      "cro": {
+        "label": "CRO-kokeilut",
+        "title": "Käynnissä olevat A/B-testit",
+        "desc": "Joka neljännes tuomme mitattavia parannuksia varaussuhteeseen.",
+        "items": [
+          {
+            "test": "Etusivun CTA-teksti",
+            "result": "+18 % klikkauksia"
+          },
+          {
+            "test": "Kiinteä mobiilivarauspalkki",
+            "result": "+11 % lomakealoituksia"
+          },
+          {
+            "test": "3-vaiheinen vs 1-sivuinen lomake",
+            "result": "Käynnissä · 62 %"
+          },
+          {
+            "test": "Asiantuntijakuvan tyyli",
+            "result": "+7 % profiilin syvyys"
+          }
+        ]
+      },
+      "reports": {
+        "label": "Johdon raportti",
+        "title": "Kuukausittainen tulosraportti",
+        "desc": "Yksi sivu. Mitä tehtiin, mikä muuttui, mitä seuraavaksi.",
+        "items": [
+          "Liikenteen ja lähteiden erittely",
+          "Uudet potilasvaraukset palveluittain",
+          "Hakusijoitusten nousut ja laskut",
+          "Tehdyt työt ja niiden vaikutus",
+          "Seuraavan kuun painopisteet"
+        ]
+      }
+    }
+  },
+  "audiences": {
+    "label": "Kenelle palvelumme on",
+    "headline": "Rakennettu jokaiseen ihotautiklinikan toimintamalliin.",
+    "items": [
+      {
+        "label": "Yksityiset ihotautilääkärit",
+        "desc": "Oma yhteyshenkilö, joka hoitaa koko verkkonäkyvyyden kuin sisäinen tiimi."
+      },
+      {
+        "label": "Monitoimipisteklinikat",
+        "desc": "Toimipistekohtaiset kalenterit, yhtenäinen brändi ja yksi yhteinen strategia."
+      },
+      {
+        "label": "Lasten ihotautilääkärit",
+        "desc": "Vanhemmille suunnattu sisältöstrategia, kausikampanjat ja lapsiystävällinen UX."
+      },
+      {
+        "label": "Mohs-kirurgia & kirurginen dermatologia",
+        "desc": "Lähetevetoinen sisältö, kirurgien biot ja tuloskeskeiset referenssikirjastot."
+      }
+    ]
+  },
+  "medical_services": {
+    "label": "Kaikki palvelut, kaikki sivut",
+    "headline": "Lääketieteelliset palvelut, joita ylläpidämme.",
+    "subheading": "Sairauskuvaukset, asiantuntijabiot ja hoito-oppaat — kaikki lääketieteellisesti tarkastettuina.",
+    "list": [
+      "Aknen hoito",
+      "Ekseeman hoito",
+      "Psoriasiksen hoito",
+      "Ihoinfektioiden hoito",
+      "Ihoallergioiden hoito",
+      "Ihosyövän seulonta ja hoito",
+      "Luomien tarkastus ja poisto",
+      "Kystien ja lipoomien poisto",
+      "Syylän poisto",
+      "Kynsisairauksien hoito",
+      "Hiustenlähdön hoito",
+      "Hiuspohjan sairauksien hoito",
+      "Rosacean hoito",
+      "Hyperpigmentaatio ja melasma",
+      "Arpien hoito",
+      "Palovamma-arpien hoito",
+      "Vitiligon hoito",
+      "Ihon koepalat ja diagnostiikka"
+    ]
+  },
+  "comparison": {
+    "label": "Valitse oikea tukitaso",
+    "headline": "Hallinta vs. Ylläpito vs. Tee-se-itse.",
+    "subheading": "Ylläpito pitää sivuston toiminnassa. Hallinta saa sen kasvamaan.",
+    "headers": {
+      "feature": "Ominaisuus",
+      "mgmt": "Hallinta",
+      "maint": "Ylläpito",
+      "diy": "DIY"
+    },
+    "rows": [
+      "Oma asiakasvastaava",
+      "24/7 pystyssäolo + tietoturvapäivitykset",
+      "Kuukausittainen sisältö + kampanjasivut",
+      "Jatkuva SEO-hallinta",
+      "A/B-testaus & CRO",
+      "Johdon kuukausiraportti",
+      "Strategiapalaverit tiimisi kanssa",
+      "Ennakoitava kuukausikustannus"
+    ],
+    "tags": {
+      "add_on": "lisäpalvelu",
+      "basic": "perustaso"
+    },
+    "footer": "Tarvitsetko myös ylläpitoa? Lisää se mihin tahansa Hallinta-pakettiin.",
+    "footer_link": "Katso ylläpito →"
+  },
+  "plans": {
+    "label": "Hallintapaketit",
+    "headline": "Selkeä hinnoittelu. Oikeat ihmiset. Tuloksia.",
+    "items": [
+      {
+        "name": "Managed",
+        "price": "$799",
+        "term": "/kk",
+        "tag": "Yksityisvastaanotoille",
+        "market_label": "Markkinahinta:",
+        "market_value": "$1 500 – $3 500 /kk",
+        "savings": "47–77 % edullisempi",
+        "features": [
+          "Oma asiakasvastaava",
+          "4 sisältöjulkaisua / kk",
+          "2 kampanjasivua / neljännes",
+          "Kuukausittainen strategiapalaveri",
+          "Analytiikkanäkymä",
+          "SEO-hallinta"
+        ],
+        "cta": "Aloita Managed-paketilla"
+      },
+      {
+        "name": "Managed Plus",
+        "price": "$1,499",
+        "term": "/kk",
+        "tag": "Suosituin valinta",
+        "market_label": "Markkinahinta:",
+        "market_value": "$3 000 – $7 000 /kk",
+        "savings": "50–79 % edullisempi",
+        "features": [
+          "Kaikki Managed-ominaisuudet",
+          "8 sisältöjulkaisua / kk",
+          "1 kampanjasivu / kk",
+          "Strategiapalaveri kahden viikon välein",
+          "Neljännesvuosittainen A/B-testiohjelma",
+          "Konversio-optimointi",
+          "Priorisoitu kampanjoiden julkaisu"
+        ],
+        "cta": "Aloita Managed Plus -paketilla"
+      },
+      {
+        "name": "Multi-location",
+        "price": "Räätälöity",
+        "tag": "Yli 3 toimipisteelle",
+        "market_label": "Markkinahinta:",
+        "market_value": "$6 000+ /kk",
+        "savings": "Jopa 60 % edullisempi",
+        "features": [
+          "Toimipistekohtainen sisältösuunnitelma",
+          "Raportointi yksikkötasolla",
+          "Asiantuntijasisältöjen putki",
+          "Viikoittainen strategiasynkroni",
+          "Oma kasvutiimi",
+          "Rajoittamattomat kampanjasivut"
+        ],
+        "cta": "Kysy Multi-location-ratkaisua"
+      }
+    ]
+  },
+  "testimonials": {
+    "label": "Klinikoiden kokemuksia",
+    "headline": "Kuin oma sisäinen tiimi.",
+    "items": [
+      {
+        "name": "Dr. Nadia Patel, MD",
+        "role": "NL Dermatology",
+        "quote": "Tämä on kuin meillä olisi markkinointijohtaja ilman sen palkkakustannuksia. Joka kuukausi julkaisemme jotain uutta, joka todella lisää varauksia."
+      },
+      {
+        "name": "Dr. Marcus Whitfield, MD",
+        "role": "Whitfield Skin & Mohs",
+        "quote": "Yhdeksässä kuukaudessa orgaaniset varauksemme kolminkertaistuivat. Ei yhden tempun ansiosta, vaan siksi, että joku vastaa sivustosta joka viikko."
+      },
+      {
+        "name": "Dr. Serena Kohli, MD",
+        "role": "KP Dermatology · 4 toimipistettä",
+        "quote": "Neljä toimipistettä, neljä sisältökalenteria, yksi tiimi. Saan yhden näkymän ja yhden numeron, johon soittaa. Jo se itsessään on hintansa väärti."
+      }
+    ]
+  },
+  "faq": {
+    "label": "UKK",
+    "headline": "Kysymyksiä ja vastauksia.",
+    "items": [
+      {
+        "q": "Miten hallinta eroaa ylläpidosta?",
+        "a": "Ylläpito pitää sivuston verkossa, turvallisena ja päivitettynä. Hallinta saa sivuston kasvamaan — uutta sisältöä, uusia sivuja, jatkuvaa SEO-työtä, A/B-testejä, konversiokehitystä, kampanjoita ja kuukausittaista strategiaa. Useimmat klinikat tarvitsevat molempia; pakettimme voivat sisältää myös ylläpidon."
+      },
+      {
+        "q": "Kuka työn varsinaisesti tekee?",
+        "a": "Saat oman, ihotautialaan perehtyneen asiakasvastaavan sekä asiantuntijatiimin: sisältöstrategin, lääketieteellisen kirjoittajan, suunnittelijan, kehittäjän ja SEO-asiantuntijan. Samat kasvot joka kuukausi."
+      },
+      {
+        "q": "Kuinka pian tuloksia on odotettavissa?",
+        "a": "Merkittävät SEO-tulokset ja varausten nousu näkyvät tyypillisesti 3–6 kuukauden kuluessa. Sisältöjen, laskeutumissivujen ja CTA-optimointien vaikutukset näkyvät usein jo ensimmäisen 30–60 päivän aikana."
+      },
+      {
+        "q": "Kirjoitatteko lääketieteellistä sisältöä?",
+        "a": "Kyllä — jokainen sairaussivu ja blogikirjoitus on lääketieteellisen kirjoittajan luonnostelema, dermatologian ohjeistusten mukainen ja tiiminne hyväksymä ennen julkaisua."
+      },
+      {
+        "q": "Voiko sopimuksen tauottaa tai peruuttaa?",
+        "a": "Kyllä, kyseessä on kuukausisopimus, jonka voi peruuttaa milloin vain. Jos lopetat yhteistyön, pidät kaiken omaisuuden — sisällöt, sivut, briiffit, analytiikan ja graafiset tiedostot."
+      },
+      {
+        "q": "Integroituuko palvelu potilastietojärjestelmäämme tai ajanvaraukseen?",
+        "a": "Kyllä. Integroitumme suosituimpiin ihotautialan järjestelmiin (kuten ModMed, Nextech, Athenahealth, Zocdoc ja monet muut), jotta varaukset siirtyvät suoraan nykyiseen työnkulkuunne."
+      }
+    ]
+  },
+  "cta_bottom": {
+    "headline": "Oletko valmis antamaan sivustosi tiimille, joka kasvattaa sitä?",
+    "subheading": "Aloita ilmaisella auditoinnilla. Jos olemme sopiva kumppani, tiimisi on toiminnassa 7 päivässä.",
+    "primary": "Hanki kasvusuunnitelma",
+    "secondary": "Ilmainen verkkosivuauditointi"
+  },
+  "footer_considerations": {
+    "prefix": "Saatat olla kiinnostunut myös:",
+    "links": {
+      "maintenance": "säännöllinen ylläpito",
+      "support": "ennalta varatut tukitunnit",
+      "full_management": "mitä kokonaishallinta sisältää"
+    }
+  },
+  "json_ld": {
+    "service_type": "Dermatology Website Management Services",
+    "provider_name": "DermatologyWebsiteDesign.com",
+    "offer_description": "Ihotautiklinikan verkkosivuston hallinta — alkaen-hinta per kuukausi"
+  }
+}

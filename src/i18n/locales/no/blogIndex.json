@@ -1,0 +1,118 @@
+{
+  "meta": {
+    "title": "Blogg — Innsikt i markedsføring og vekststrategier for hudleger",
+    "description": "Praktiske strategier for SEO, webdesign, pasientrekruttering, HIPAA, pasientomtaler og betalt annonsering – skrevet for vekstorienterte klinikkeiere.",
+    "keywords": "blogg om hudleger, SEO for hudleger, markedsføring for hudleger, klinikkvekst, HIPAA-nettsider",
+    "og": {
+      "title": "Blogg om markedsføring for hudleger — Strategier som skaper vekst",
+      "description": "Dybdeartikler og lettleste taktikker for hudlegeklinikker. SEO, design, annonsering, omdømme og pasientopplevelse."
+    },
+    "twitter": {
+      "title": "Markedsføringsborg for hudleger",
+      "description": "Strategier for SEO, design, annonsering og pasientopplevelse for hudlegeklinikker."
+    },
+    "jsonLd": {
+      "breadcrumb": {
+        "home": "Hjem",
+        "blog": "Blogg"
+      },
+      "blog": {
+        "name": "Blogg om markedsføring for hudleger",
+        "description": "Strategier og innsikt om SEO, webdesign, annonsering, omdømme og pasientanskaffelse for hudleger."
+      }
+    }
+  },
+  "hero": {
+    "badge": "DermGrowth-journalen",
+    "title": "Oppskriften på en moderne hudlegepraksis.",
+    "description": "Felt-testede taktikker innen SEO, webdesign, betalt annonsering, omdømme og pasientopplevelse – skrevet av teamet som har lansert hundrevis av klinikker.",
+    "search": {
+      "label": "Søk i artikler",
+      "placeholder": "Søk etter SEO, annonser, HIPAA, redesign…",
+      "postCount": "{{count}} artikler"
+    },
+    "aside": {
+      "ariaLabel": "Denne måneden hos DermGrowth",
+      "issue": "Utgave 24 · Sommeren '26",
+      "status": "Dette fungerer for vekst i hudlegebransjen akkurat nå.",
+      "stats": [
+        {
+          "value": "9",
+          "label": "nye innlegg"
+        },
+        {
+          "value": "68k",
+          "label": "månedlige lesere"
+        },
+        {
+          "value": "4.9",
+          "label": "leserrangering"
+        }
+      ],
+      "socialProof": "Stolt samarbeidspartner for over 50 klinikkeiere og markedsførere"
+    }
+  },
+  "sections": {
+    "featured": {
+      "badge": "Utvalgt artikkel",
+      "heading": "Anbefalt lesing denne uken",
+      "viewAll": "Se alle artikler",
+      "ariaRead": "Les: {{title}}",
+      "statValue": "90.",
+      "statLabel": "Dager til side én",
+      "readTime": "{{count}} min lesing",
+      "button": "Les artikkel"
+    },
+    "latest": {
+      "badge": "Siste artikler",
+      "heading": "Filtrer etter dine utfordringer",
+      "description": "Hvert innlegg er skrevet for klinikkeiere og markedsansvarlige som trenger konkrete tiltak, ikke fyllmasse.",
+      "filterLabel": "Filtrer artikler etter kategori",
+      "empty": {
+        "heading": "Ingen artikler matcher søket.",
+        "description": "Prøv en annen kategori eller tøm søkefeltet.",
+        "button": "Nullstill filtre"
+      },
+      "card": {
+        "ariaRead": "Les: {{title}}",
+        "readTime": "{{count}} min",
+        "readAction": "Les"
+      }
+    }
+  },
+  "newsletter": {
+    "badge": "The Weekly Chart",
+    "heading": "Én vekststrategi. Hver tirsdag.",
+    "description": "Gjør som over 760 hudleger og markedsførere. Ingen spam, kun verdi. Meld deg av med ett klikk.",
+    "ariaLabel": "Abonner på nyhetsbrev",
+    "placeholder": "deg@klinikk.no",
+    "submit": "Abonner",
+    "submitting": "Sender...",
+    "success": "Du er påmeldt. Neste utgave lander tirsdag kl. 07:00.",
+    "fineprint": "Vi leser alle svar. Din e-postadresse er trygg hos oss.",
+    "features": [
+      {
+        "label": "Dybdeartikler",
+        "value": "Grundige gjennomganger to ganger i måneden"
+      },
+      {
+        "label": "Kasusstudier",
+        "value": "Ekte tall fra virkelige klinikker"
+      },
+      {
+        "label": "Taktikker",
+        "value": "Strategier klare til bruk"
+      },
+      {
+        "label": "Rangert 4.9",
+        "value": "Av over 50 abonnenter"
+      }
+    ]
+  },
+  "footer": {
+    "keepReading": "Fortsett å lese:",
+    "caseStudies": "dyptgående kasusstudier",
+    "audit": "en gratis personlig nettsideanalyse",
+    "faq": "ofte stilte spørsmål"
+  }
+}

@@ -1,0 +1,351 @@
+{
+  "meta": {
+    "title": "Utrzymanie stron internetowych dla dermatologii — opieka 24/7 zgodna z HIPAA",
+    "description": "Profesjonalne wsparcie i konserwacja stron dermatologicznych. Monitorowanie dostępności 24/7, aktualizacje HIPAA, codzienne kopie zapasowe, ochrona przed atakami, Core Web Vitals i SEO. Bez długoterminowych umów.",
+    "og": {
+      "title": "Utrzymanie stron dla gabinetów dermatologicznych — pakiety opieki 24/7",
+      "description": "Zadbaj o szybkość, bezpieczeństwo i pozycję swojej praktyki w sieci. Monitorowanie, backupy, aktualizacje HIPAA, audyty SEO i godziny edycji — rozliczane miesięcznie."
+    },
+    "jsonLd": {
+      "serviceType": "Usługi utrzymania stron dla dermatologii",
+      "provider": "DermatologyWebsiteDesign.com",
+      "areaServed": "Stany Zjednoczone",
+      "offerDescription": "Plan opieki nad stroną dermatologiczną — cena od miesiąca"
+    }
+  },
+  "hero": {
+    "status": "Wszystkie systemy działają · 99.99% dostępności w tym kwartale",
+    "badge": "Usługi utrzymania stron WWW",
+    "title": "Twoja strona dermatologiczna — szybka, bezpieczna i zawsze dostępna.",
+    "description": "Miesięczne plany opieki stworzone specjalnie dla praktyk dermatologicznych. Monitorowanie 24/7, aktualizacje pod kątem HIPAA, codzienne backupy i SEO — z dedykowanym inżynierem, który faktycznie odbiera telefon.",
+    "cta_primary": "Wybierz plan opieki",
+    "cta_secondary": "Darmowy audyt kondycji strony",
+    "pricing_note": "Plany opieki od",
+    "pricing_value": "299 USD",
+    "pricing_interval": "/ mies. · umowa miesięczna, bez zobowiązań",
+    "usp": [
+      "Monitorowanie 24/7",
+      "Zgodność z HIPAA",
+      "Codzienne backupy",
+      "Dedykowany inżynier"
+    ],
+    "visual": {
+      "image_alt": "Panel wsparcia i utrzymania strony gabinetu dermatologicznego",
+      "uptime_label": "Dostępność · 30 dni",
+      "uptime_status": "AKTYWNA",
+      "vitals_label": "Core Web Vitals",
+      "vitals_metrics": "INP 92ms · CLS 0.02"
+    }
+  },
+  "stats": {
+    "uptime": "Średnia dostępność obsługiwanych stron",
+    "interval": "Interwał monitorowania, 5 regionów świata",
+    "sla": "Gwarantowany czas reakcji (SLA)",
+    "count": "Praktyki pod naszą stałą opieką"
+  },
+  "status_wall": {
+    "badge": "Panel statusu na żywo",
+    "title": "Monitorujemy każdą stronę klienta w czasie rzeczywistym.",
+    "note": "Widok przykładowy · aktualizacja co 60s",
+    "table": {
+      "client": "Strona klienta",
+      "region": "Region",
+      "uptime": "Dostępność · 30 dni",
+      "response": "Czas reakcji",
+      "checked": "Sprawdzono",
+      "time_ago": "sekund temu"
+    }
+  },
+  "pillars": {
+    "badge": "Co zawiera plan opieki",
+    "title": "Każda warstwa Twojej strony — pod opieką, zaktualizowana i zoptymalizowana.",
+    "description": "Sześć filarów miesięcznej pracy. Bez ukrytych kosztów i niespodziewanych faktur.",
+    "items": [
+      {
+        "title": "Monitorowanie dostępności 24/7",
+        "desc": "Testy co 60 sekund z 5 regionów. Nasz zespół otrzymuje alerty, zanim Twoja recepcja dowie się o problemie."
+      },
+      {
+        "title": "Aktualizacje zgodne z HIPAA",
+        "desc": "Aktualizacje CMS, wtyczek i zależności są testowane i wdrażane w środowiskach hostingowych gotowych na BAA."
+      },
+      {
+        "title": "Codzienne szyfrowane backupy",
+        "desc": "Zewnętrzne kopie z wersjonowaniem i przywracaniem jednym kliknięciem. Testowane co miesiąc, nie tylko planowane."
+      },
+      {
+        "title": "Skanowanie pod kątem malware i luk",
+        "desc": "Cotygodniowe skany, kwartalne testy penetracyjne i natychmiastowe łatanie wszelkich podatności CVE."
+      },
+      {
+        "title": "Nadzór Core Web Vitals",
+        "desc": "Ciągłe śledzenie LCP, INP i CLS — naprawiamy błędy, zanim Google obniży Twój ranking."
+      },
+      {
+        "title": "Kondycja SEO On-Page",
+        "desc": "Niedziałające linki, brakujące schematy, osierocone strony i błędy indeksowania naprawiane co miesiąc w ramach planu."
+      }
+    ]
+  },
+  "incidents": {
+    "badge": "Log ostatnich incydentów",
+    "title": "Jak wygląda opieka 24/7 w praktyce.",
+    "description": "Przykłady incydentów, które wykryliśmy i rozwiązaliśmy w tym kwartale — zanim klienci zdążyli je zauważyć.",
+    "log": [
+      {
+        "title": "Wykrycie luki PHP RCE",
+        "detail": "Załatano na 47 stronach klientów w 33 minuty. Ryzyko wyeliminowane natychmiastowo."
+      },
+      {
+        "title": "Certyfikat SSL wygasający za 6 dni",
+        "detail": "Automatycznie odnowiony i wdrożony w nocy, przed poniedziałkowym szczytem ruchu."
+      },
+      {
+        "title": "Błąd 502 na jednej ze stron",
+        "detail": "Przełączenie na kopię cache w 40s. Dyżurny inżynier przywrócił serwer w 8 minut."
+      },
+      {
+        "title": "Wykrycie regresji w indeksowaniu Google",
+        "detail": "Błędny tag noindex po aktualizacji wtyczki — przywrócono stan poprzedni, zgłoszono ponowne skanowanie."
+      },
+      {
+        "title": "Wyciek PHI z formularza do analityki",
+        "detail": "Wdrożono skrypt czyszczący dane, usunięto PII z Google Analytics 4, zaktualizowano logi zgodności."
+      }
+    ]
+  },
+  "included": {
+    "badge": "W pakiecie co miesiąc",
+    "title": "16 zadań, które wykonujemy dla Ciebie — każdego miesiąca.",
+    "items": [
+      "Monitorowanie dostępności i SSL 24/7",
+      "Cotygodniowe aktualizacje CMS i wtyczek",
+      "Codzienne szyfrowane backupy zewnętrzne",
+      "Skanowanie pod kątem malware i łatanie CVE",
+      "Audyty formularzy pod kątem HIPAA i PHI",
+      "Monitorowanie Core Web Vitals",
+      "Kontrola zdrowia SEO i naprawa linków",
+      "Optymalizacja bazy danych",
+      "Konfiguracja CDN i pamięci podręcznej edge",
+      "Naprawa błędów i wdrożenia poprawek",
+      "Godziny edycji treści i designu",
+      "Miesięczny raport wydajności",
+      "Proaktywne alerty o incydentach",
+      "Rejestr zmian w zakresie zgodności (Compliance)",
+      "Testy dostępności (WCAG AA)",
+      "Dedykowany inżynier konta"
+    ]
+  },
+  "plans": {
+    "badge": "Plany opieki",
+    "title": "Przewidywalne ceny. Bez zobowiązań. Fachowi inżynierowie.",
+    "description": "Wszystkie plany rozliczane są miesięcznie. Możesz zrezygnować w każdej chwili, zachowując kod i uprawnienia.",
+    "labels": {
+      "popular": "Najpopularniejszy",
+      "market": "Cena rynkowa:",
+      "edits_prefix": "Edycje:",
+      "sla_prefix": "SLA",
+      "cta": "Wybierz pakiet {{name}}"
+    },
+    "tiers": [
+      {
+        "name": "Essential",
+        "tag": "Indywidualne praktyki",
+        "price": "299 USD",
+        "per": "/miesiąc",
+        "sla": "Reakcja < 4 godz.",
+        "edits": "2 godz. / mies.",
+        "market": "500 – 1 000 USD /mies.",
+        "savings": "40–70% taniej",
+        "features": [
+          "Monitorowanie dostępności 24/7",
+          "Cotygodniowe aktualizacje wtyczek i CMS",
+          "Codzienne szyfrowane backupy",
+          "Skany malware + łatanie",
+          "Audyt formularzy HIPAA (kwartalny)",
+          "Monitorowanie Core Web Vitals",
+          "Miesięczny raport wydajności",
+          "2 h / mies. na edycję treści"
+        ]
+      },
+      {
+        "name": "Growth",
+        "tag": "Praktyki wielospecjalistyczne",
+        "price": "599 USD",
+        "per": "/miesiąc",
+        "sla": "Reakcja < 1 godz.",
+        "edits": "5 godz. / mies.",
+        "market": "1 200 – 2 500 USD /mies.",
+        "savings": "50–76% taniej",
+        "features": [
+          "Wszystko co w planie Essential",
+          "Cotygodniowe audyty formularzy HIPAA",
+          "Naprawa błędów SEO i kondycji strony",
+          "Monitorowanie schematów i linków",
+          "Optymalizacja CDN i edge cache",
+          "Naprawa błędów i szybkie poprawki",
+          "Dedykowany inżynier konta",
+          "5 h / mies. na edycje (treść + design)"
+        ]
+      },
+      {
+        "name": "Enterprise",
+        "tag": "Grupy z wieloma lokalizacjami i Mohs",
+        "price": "1 499 USD",
+        "per": "/miesiąc",
+        "sla": "Reakcja < 15 min.",
+        "edits": "Nielimitowane*",
+        "market": "3 000 – 6 000 USD /mies.",
+        "savings": "50–75% taniej",
+        "features": [
+          "Wszystko co w planie Growth",
+          "Panele dostępności dla każdej lokalizacji",
+          "Dyżur inżyniera on-call 24/7",
+          "Kwartalne testy penetracyjne",
+          "Wsparcie integracji e-skierowań / EHR",
+          "Audyty dostępności (WCAG AA)",
+          "Rejestr zmian zgodności z podpisem",
+          "Bez limitu* godzin edycji (fair use)"
+        ]
+      }
+    ]
+  },
+  "flow": {
+    "badge": "Jak to działa",
+    "title": "Od wdrożenia do spokojnej głowy, każdego miesiąca.",
+    "items": [
+      {
+        "step": "01",
+        "title": "Wdrożenie i Audyt",
+        "desc": "Przejmujemy stronę, wykonując pełny audyt bezpieczeństwa, wydajności, SEO i HIPAA — nic nie trafia pod monitoring w ciemno."
+      },
+      {
+        "step": "02",
+        "title": "Zabezpieczenie i Baseline",
+        "desc": "Łatanie dziur, weryfikacja backupów, start monitoringu i dokumentacja punktu wyjścia (baseline) dla SEO i Core Web Vitals."
+      },
+      {
+        "step": "03",
+        "title": "Monitoring i Obsługa",
+        "desc": "Monitoring 24/7, cotygodniowe aktualizacje, raporty zdrowia strony — plus Twoje godziny edycji na rozwój serwisu."
+      },
+      {
+        "step": "04",
+        "title": "Raport i Ulepszenia",
+        "desc": "Miesięczny przegląd z inżynierem. Analizujemy, jak przyspieszyć stronę i poprawić jej bezpieczeństwo w kolejnym miesiącu."
+      }
+    ]
+  },
+  "audiences": {
+    "badge": "Dla kogo pracujemy",
+    "title": "Rozwiązania skrojone pod każdy model praktyki dermatologicznej.",
+    "items": [
+      {
+        "label": "Indywidualni dermatolodzy",
+        "desc": "Kompleksowa opieka, dzięki której Twoja strona nigdy nie odwraca uwagi od pacjentów."
+      },
+      {
+        "label": "Kliniki wielolokalizacyjne",
+        "desc": "Dedykowany monitoring każdej placówki, jeden panel zarządzania, jeden stały abonament."
+      },
+      {
+        "label": "Dermatologia dziecięca",
+        "desc": "Formularze przyjazne rodzicom, co miesiąc sprawdzane pod kątem przejrzystości i bezpieczeństwa PHI."
+      },
+      {
+        "label": "Chirurgia Mohsa i dermatologia zabiegowa",
+        "desc": "Portale skierowań zawsze online i bezpieczne, gotowe na audyt w dowolnym momencie."
+      }
+    ]
+  },
+  "medical_services": {
+    "badge": "Zawsze aktualne strony usług",
+    "title": "Dbamy o strony, które faktycznie pozyskują pacjentów.",
+    "description": "Odświeżanie treści, aktualizacja schematów, linkowanie wewnętrzne i Core Web Vitals dla każdej oferowanej usługi.",
+    "list": [
+      "Leczenie trądziku",
+      "Leczenie egzemy",
+      "Leczenie łuszczycy",
+      "Leczenie infekcji skóry",
+      "Leczenie alergii skórnych",
+      "Badania przesiewowe w kierunku raka skóry",
+      "Ocena i usuwanie znamion",
+      "Usuwanie torbieli i tłuszczaków",
+      "Usuwanie brodawek",
+      "Leczenie chorób paznokci",
+      "Leczenie wypadania włosów",
+      "Leczenie chorób skóry głowy",
+      "Leczenie trądziku różowatego",
+      "Przebarwienia i melasma",
+      "Usuwanie blizn",
+      "Leczenie blizn pooparzeniowych",
+      "Leczenie bielactwa",
+      "Biopsja skóry i diagnostyka"
+    ]
+  },
+  "testimonials": {
+    "badge": "Głos z kliniki",
+    "title": "Dermatolodzy, którzy przestali martwić się o swoją stronę.",
+    "items": [
+      {
+        "name": "Dr Ethan Caldwell, MD",
+        "role": "LA Dermatology",
+        "quote": "W niedzielę o 2 nad ranem certyfikat SSL prawie wygasł. Naprawili to, zanim w poniedziałek rano pojawił się pierwszy pacjent. Nawet nie wiedzieliśmy o problemie."
+      },
+      {
+        "name": "Dr Anika Vasquez, MD",
+        "role": "CM Surgical",
+        "quote": "Co miesiąc dostajemy rzetelny raport, a nie gotowy szablon. Gdy wtyczka popsuła formularz zapisów, wdrożyli poprawkę w 22 minuty."
+      },
+      {
+        "name": "Dr Ibrahim Okafor, MD",
+        "role": "RS Institute · 6 placówek",
+        "quote": "Sześć lokalizacji, jeden panel, jedna faktura. Przestałem myśleć o stronie internetowej i mogłem wrócić do zarządzania Kliniką."
+      }
+    ]
+  },
+  "faq": {
+    "badge": "FAQ",
+    "title": "Pytania o pakiety opieki.",
+    "items": [
+      {
+        "q": "Co obejmuje miesięczne wsparcie i konserwacja?",
+        "a": "Monitoring 24/7, cotygodniowe aktualizacje wtyczek/CMS/zabezpieczeń, codzienne backupy, skany malware, audyty HIPAA, monitoring Core Web Vitals, SEO techniczne, raporty miesięczne oraz pulę godzin na edycję treści i designu."
+      },
+      {
+        "q": "Jak szybko reagujecie na awarię strony?",
+        "a": "Plan Essential: do 4h. Plan Growth: do 1h. Plan Enterprise: do 15 min z dedykowanym inżynierem. Dzięki monitoringowi 24/7 zazwyczaj wiemy o awarii pierwsi."
+      },
+      {
+        "q": "Czy konserwacja jest zgodna z HIPAA?",
+        "a": "Tak. Korzystamy z hostingu gotowego na BAA, audytujemy formularze pod kątem wycieków PHI, anonimizujemy dane w analityce i logujemy każdy dostęp techniczny."
+      },
+      {
+        "q": "Czy wspieracie strony, których nie zbudowaliście?",
+        "a": "Tak. Przejmujemy istniejące strony na WordPress, Webflow i rozwiązania dedykowane po płatnym audycie technicznym, aby poznać ich architekturę."
+      },
+      {
+        "q": "Czy mogę zrezygnować w dowolnym momencie?",
+        "a": "Tak — rozliczamy się miesięcznie, bez długoterminowych umów. Po zakończeniu współpracy zachowujesz cały kod, dostęp do kopii zapasowych i dokumentację."
+      },
+      {
+        "q": "Czy małe zmiany w designie wliczają się w plan?",
+        "a": "Tak, każdy plan zawiera godziny edycji (2 / 5 / nielimitowane). Możesz je wykorzystać na bio lekarzy, nowe usługi, bannery, zdjęcia przed/po czy posty na blogu."
+      }
+    ]
+  },
+  "cta_bottom": {
+    "title": "Przestań martwić się o stronę. My przejmiemy to na siebie.",
+    "description": "Bezpłatny audyt kondycji strony — inżynier sprawdzi wydajność, bezpieczeństwo, zgodność z HIPAA i SEO. Potem zaproponujemy odpowiedni plan.",
+    "primary": "Wybierz plan opieki",
+    "secondary": "Odbierz darmowy audyt"
+  },
+  "footer_nav": {
+    "label": "Warto przeczytać:",
+    "links": {
+      "management": "pełne zarządzanie stroną",
+      "support": "wsparcie eksperckie na żądanie",
+      "addons": "polecane dodatki"
+    }
+  }
+}

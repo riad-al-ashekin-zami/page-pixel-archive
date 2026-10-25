@@ -1,0 +1,78 @@
+{
+  "slug": "website-redesign-checklist",
+  "title": "Lista kontrolna redesignu strony internetowej dla praktyk dermatologicznych",
+  "excerpt": "32 pytania, na które należy odpowiedzieć, zanim dotkniesz jednego piksela – od formularzy HIPAA po konwersję bohaterów.",
+  "imageAlt": "Makietka nowoczesnej strony dermatologicznej na komputerze stacjonarnym i tablecie w jasnym biurze",
+  "body": [
+    {
+      "text": "Redesign, który pomija fazę odkrycia, to tylko kosztowne odświeżenie. Zanim otworzymy narzędzie do projektowania, każdą praktykę poddajemy kontroli tej 32-pytaniowej listy kontrolnej, obejmującej markę, konwersję, zgodność i gotowość techniczną. Celem listy kontrolnej nie jest spowolnienie prac – ma ona na celu upewnienie się, że piksele, które ostatecznie przesuniesz, faktycznie służą strategii, a nie tablicy nastrojów."
+    },
+    {
+      "text": "Większość redesignów zawodzi z jednego z trzech powodów: praktyka nigdy nie zdefiniowała, co oznacza „dobra” strona internetowa dla ich celów, proces rejestracji i rezerwacji jest projektowany wokół wygody wewnętrznej, a nie zachowań pacjentów, lub zespół uruchamia stronę, która narusza HIPAA, ponieważ śledzenie zostało ustawione na autopilocie. Każda sekcja poniżej ma na celu wychwycenie jednego z tych trybów awarii, zanim będzie Cię to kosztować 40 tysięcy i sześć miesięcy."
+    },
+    {
+      "heading": "Marka i pozycjonowanie"
+    },
+    {
+      "list": [
+        "Kto jest Twoim idealnym pacjentem w jednym zdaniu? (wiek, płeć, dochód, główny problem)",
+        "Jacy są trzej konkurenci, do których Twoi pacjenci Cię porównują?",
+        "Jakie jest jedno uczucie, które chcesz, aby odwiedzający mieli w ciągu 5 sekund?",
+        "Gdyby ktoś opisał Twoją praktykę przyjacielowi w jednym zdaniu, co chciałbyś, żeby powiedział?",
+        "Jakie masz dowody na to, że to pozycjonowanie jest prawdziwe – recenzje, wyniki, referencje?"
+      ]
+    },
+    {
+      "text": "Jeśli nie potrafisz odpowiedzieć na te pięć pytań w udostępnionym dokumencie, na który zgadza się cały Twój zespół, nie jesteś gotowy do projektowania strony głównej – jesteś gotowy do przeprowadzenia warsztatu pozycjonowania."
+    },
+    {
+      "heading": "Konwersja i przepływ rezerwacji"
+    },
+    {
+      "text": "Każde dodatkowe pole w formularzu rejestracyjnym obniża konwersję o 4–6%. Każde dodatkowe kliknięcie między sekcją hero a akcją rezerwacji obniża konwersję o 8–12%. Redesign to moment na audyt każdego kroku lejka, bezwzględne usuwanie wszystkiego, co nieistotne, i instrumentowanie ścieżki, aby móc udowodnić, co faktycznie wpływa na wyniki po uruchomieniu."
+    },
+    {
+      "list": [
+        "Ile kliknięć dzieli stronę główną od zarezerwowanej wizyty dzisiaj?",
+        "Jaki jest Twój współczynnik konwersji rezerwacji mobilnych dzisiaj?",
+        "Ile pól formularza jest wymaganych dzisiaj i które są faktycznie używane?",
+        "Jakie jest główne CTA na Twojej stronie głównej – i czy jest widoczne bez przewijania na urządzeniach mobilnych?",
+        "Co dzieje się po przesłaniu formularza – czy w ciągu 30 sekund pojawia się e-mail potwierdzający?"
+      ]
+    },
+    {
+      "heading": "HIPAA i zgodność"
+    },
+    {
+      "text": "Egzekwowanie przepisów HIPAA dotyczących śledzenia na stronach internetowych dramatycznie wzrosło od 2022 roku. Jeśli Twój redesign odziedziczy Twój obecny widget czatu, dostawcę formularzy lub konfigurację analityki bez przeglądu zgodności, uruchamiasz nową stronę ze starym obciążeniem."
+    },
+    {
+      "list": [
+        "Czy widgety czatu są skonfigurowane tak, aby usuwać PHI z logów?",
+        "Czy Twoje formularze rejestracyjne wysyłają dane przez zaszyfrowany kanał do miejsca zgodnego z HIPAA?",
+        "Czy podpisałeś BAAs z każdą stroną trzecią, która przetwarza dane pacjenta?",
+        "Czy Twój Meta Pixel jest skonfigurowany z filtrowaniem po stronie serwera na każdej stronie wspominającej o schorzeniach?",
+        "Czy Twoje narzędzie do odtwarzania sesji domyślnie maskuje pola formularzy?"
+      ]
+    },
+    {
+      "heading": "Gotowość techniczna"
+    },
+    {
+      "text": "Sekcja techniczna to miejsce, gdzie większość redesignów cicho się psuje. Piękna strona, która ładuje się w sześć sekund na 4G, przegra z prostą stroną, która ładuje się w dwie. Strona z uszkodzonymi przekierowaniami straci pozycje, które zdobywałeś przez dwa lata. Najpierw zajmij się nudnymi rzeczami."
+    },
+    {
+      "list": [
+        "Czy masz pełny spis aktualnych adresów URL i ich przychodzących linków zwrotnych?",
+        "Czy masz mapę przekierowań 1-do-1 ze starej strony na nową?",
+        "Jaki jest Twój docelowy LCP, CLS i INP na starcie – i jak to zweryfikujesz?",
+        "Kto jest właścicielem dostępu do Search Console i czy usługa jest zweryfikowana?",
+        "Czy zaplanowałeś przeszukiwanie strony testowej przed zmianą DNS?"
+      ]
+    },
+    {
+      "text": "Odpowiedz szczerze na każde pytanie z tej listy kontrolnej, zanim stworzysz pierwszy makietę. Zespoły, które przeprowadzają redesign bez żalu, to zespoły, które traktują odkrycie jako element do realizacji, a nie jako rzecz poboczną. Dwa tygodnie zdyscyplinowanych odpowiedzi teraz oszczędzają dwa kwartały późniejszej przebudowy."
+    }
+  ],
+  "faqs": null
+}

@@ -1,0 +1,118 @@
+{
+  "meta": {
+    "title": "Blog — Melhores Estratégias e Dicas para Marketing em Dermatologia",
+    "description": "Estratégias práticas de SEO para dermatologia, design de sites, angariação de pacientes, HIPAA, avaliações e anúncios pagos — escrito para gestores focados no crescimento.",
+    "keywords": "blog de dermatologia, SEO para dermatologia, marketing para dermatologia, crescimento de clínicas, sites HIPAA",
+    "og": {
+      "title": "Blog de Marketing em Dermatologia — Estratégias que Fazem a sua Clínica Crescer",
+      "description": "Artigos aprofundados e táticas rápidas para clínicas de dermatologia. SEO, design, anúncios, reputação e experiência do paciente."
+    },
+    "twitter": {
+      "title": "Blog de Marketing em Dermatologia",
+      "description": "Guias de SEO, design, anúncios e experiência do paciente para clínicas de dermatologia."
+    },
+    "jsonLd": {
+      "breadcrumb": {
+        "home": "Página Inicial",
+        "blog": "Blog"
+      },
+      "blog": {
+        "name": "Blog de Marketing em Dermatologia",
+        "description": "Estratégias e insights sobre SEO, design de sites, anúncios, reputação e angariação de pacientes em dermatologia."
+      }
+    }
+  },
+  "hero": {
+    "badge": "O Diário DermGrowth",
+    "title": "Estratégias reais para a clínica de dermatologia moderna.",
+    "description": "Táticas testadas no terreno sobre SEO, design de sites, anúncios pagos, reputação e experiência do paciente — escrito pela equipa que já lançou centenas de clínicas.",
+    "search": {
+      "label": "Pesquisar artigos",
+      "placeholder": "Pesquisar SEO, anúncios, HIPAA, redesign…",
+      "postCount": "{{count}} artigos"
+    },
+    "aside": {
+      "ariaLabel": "Este mês na DermGrowth",
+      "issue": "Edição 24 · Verão '26",
+      "status": "O que está a funcionar no crescimento da dermatologia agora.",
+      "stats": [
+        {
+          "value": "9",
+          "label": "novos artigos"
+        },
+        {
+          "value": "68k",
+          "label": "leituras mensais"
+        },
+        {
+          "value": "4.9",
+          "label": "avaliação dos leitores"
+        }
+      ],
+      "socialProof": "A confiança de mais de 50 proprietários e diretores de marketing na área da dermatologia"
+    }
+  },
+  "sections": {
+    "featured": {
+      "badge": "Artigo em destaque",
+      "heading": "A leitura obrigatória desta semana",
+      "viewAll": "Ver todos os artigos",
+      "ariaRead": "Ler: {{title}}",
+      "statValue": "90.",
+      "statLabel": "Dias até à primeira página",
+      "readTime": "{{count}} min de leitura",
+      "button": "Ler artigo"
+    },
+    "latest": {
+      "badge": "Últimos artigos",
+      "heading": "Filtre pelo seu objetivo",
+      "description": "Cada artigo é escrito para gestores de clínicas e responsáveis de marketing que precisam de passos concretos, sem rodeios.",
+      "filterLabel": "Filtrar artigos por categoria",
+      "empty": {
+        "heading": "Ainda não existem artigos que correspondam a essa seleção.",
+        "description": "Tente uma categoria diferente ou limpe a sua pesquisa.",
+        "button": "Redefinir filtros"
+      },
+      "card": {
+        "ariaRead": "Ler: {{title}}",
+        "readTime": "{{count}} min",
+        "readAction": "Ler"
+      }
+    }
+  },
+  "newsletter": {
+    "badge": "O Gráfico Semanal",
+    "heading": "Uma estratégia de crescimento. Todas as terças-feiras.",
+    "description": "Junte-se a mais de 760 proprietários e especialistas em marketing de dermatologia. Sem spam, cancele a subscrição com um clique.",
+    "ariaLabel": "Subscrever a newsletter",
+    "placeholder": "o-seu-email@clinica.com",
+    "submit": "Subscrever",
+    "submitting": "A subscrever…",
+    "success": "Já está. A próxima edição chega na terça-feira às 7h.",
+    "fineprint": "Lemos todas as respostas. Nunca partilhamos o seu endereço.",
+    "features": [
+      {
+        "label": "Leituras longas",
+        "value": "Análises profundas duas vezes por mês"
+      },
+      {
+        "label": "Casos de estudo",
+        "value": "Números reais, clínicas reais"
+      },
+      {
+        "label": "Táticas",
+        "value": "Estratégias prontas a aplicar"
+      },
+      {
+        "label": "Avaliado em 4.9",
+        "value": "Por mais de 50 subscritores"
+      }
+    ]
+  },
+  "footer": {
+    "keepReading": "Continue a ler com:",
+    "caseStudies": "casos de estudo detalhados",
+    "audit": "uma auditoria gratuita e personalizada ao seu site",
+    "faq": "perguntas frequentes que recebemos"
+  }
+}

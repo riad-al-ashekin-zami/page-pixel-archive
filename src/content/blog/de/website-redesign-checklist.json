@@ -1,0 +1,78 @@
+{
+  "slug": "website-redesign-checklist",
+  "title": "Checkliste für die Neugestaltung der Website für dermatologische Praxen",
+  "excerpt": "32 Fragen, die Sie beantworten müssen, bevor Sie ein einziges Pixel anfassen – von HIPAA-Formularen bis zur Hero Conversion.",
+  "imageAlt": "Modell einer modernen dermatologischen Website auf einem Desktop und Tablet in einem hellen Büro",
+  "body": [
+    {
+      "text": "Eine Neugestaltung, die die Entdeckungsphase überspringt, ist nur eine teure Auffrischung. Bevor wir ein Design-Tool öffnen, prüfen wir jede Praxis anhand dieser 32-Fragen-Checkliste in den Bereichen Marke, Konversion, Compliance und technische Bereitschaft. Der Sinn der Checkliste ist nicht, die Dinge zu verlangsamen – es geht darum sicherzustellen, dass die Pixel, die Sie letztendlich verschieben, tatsächlich einer Strategie und keiner Stimmungstafel dienen."
+    },
+    {
+      "text": "Die meisten Neugestaltungen scheitern aus einem von drei Gründen: Die Praxis hat nie definiert, was eine „gute“ Website für ihre Ziele bedeutet, der Aufnahme- und Buchungsablauf ist auf interne Bequemlichkeit statt auf Patientenverhalten ausgelegt, oder das Team veröffentlicht eine Website, die HIPAA verletzt, weil das Tracking automatisch eingerichtet wurde. Jeder Abschnitt unten ist darauf ausgelegt, einen dieser Fehlerfälle abzufangen, bevor er Sie 40.000 und sechs Monate kostet."
+    },
+    {
+      "heading": "Marke & Positionierung"
+    },
+    {
+      "list": [
+        "Wer ist Ihr idealer Patient in einem Satz? (Alter, Geschlecht, Einkommen, Hauptanliegen)",
+        "Welche drei Wettbewerber vergleichen Ihre Patienten mit Ihnen?",
+        "Welches Gefühl möchten Sie, dass Besucher in 5 Sekunden haben?",
+        "Wenn jemand Ihre Praxis einem Freund in einem Satz beschreiben würde, was würden Sie sich wünschen, dass er sagt?",
+        "Welche Beweise haben Sie dafür, dass diese Positionierung zutrifft – Bewertungen, Ergebnisse, Referenzen?"
+      ]
+    },
+    {
+      "text": "Wenn Sie diese fünf Fragen nicht in einem gemeinsam genutzten Dokument beantworten können, dem Ihr gesamtes Team zustimmt, sind Sie nicht bereit, eine Homepage zu entwerfen – Sie sind bereit, einen Positionierungs-Workshop durchzuführen."
+    },
+    {
+      "heading": "Konversion & Buchungsablauf"
+    },
+    {
+      "text": "Jedes zusätzliche Feld in Ihrem Aufnahmeformular senkt die Konversion um 4–6%. Jeder zusätzliche Klick zwischen dem Hero und der Buchungsaktion senkt die Konversion um 8–12%. Die Neugestaltung ist der Moment, jeden Schritt des Trichters zu überprüfen, alles Unwesentliche rücksichtslos zu kürzen und den Pfad zu instrumentalisieren, damit Sie beweisen können, was nach dem Start tatsächlich etwas bewirkt."
+    },
+    {
+      "list": [
+        "Wie viele Klicks sind es heute von der Homepage bis zur gebuchten Terminvereinbarung?",
+        "Wie hoch ist heute Ihre mobile Buchungskonversionsrate?",
+        "Wie viele Formularfelder sind heute erforderlich, und welche werden tatsächlich verwendet?",
+        "Was ist der primäre CTA auf Ihrer Homepage – und ist er ohne Scrollen auf dem Handy sichtbar?",
+        "Was passiert nach dem Absenden eines Formulars – gibt es eine Bestätigungs-E-Mail innerhalb von 30 Sekunden?"
+      ]
+    },
+    {
+      "heading": "HIPAA & Compliance"
+    },
+    {
+      "text": "Die HIPAA-Durchsetzung bezüglich Website-Tracking hat seit 2022 dramatisch zugenommen. Wenn Ihre Neugestaltung Ihr aktuelles Chat-Widget, Ihren Formularanbieter oder Ihre Analyse-Einrichtung ohne eine Compliance-Überprüfung erbt, starten Sie eine neue Website mit einer alten Verbindlichkeit."
+    },
+    {
+      "list": [
+        "Sind Chat-Widgets so konfiguriert, dass PHI aus den Protokollen entfernt wird?",
+        "Senden Ihre Aufnahmeformulare Daten über einen verschlüsselten Kanal an ein HIPAA-konformes Ziel?",
+        "Haben Sie BAAs mit jedem Drittanbieterdienst, der Patientendaten berührt, unterzeichnet?",
+        "Ist Ihr Meta Pixel mit serverseitiger Filterung auf jeder Seite konfiguriert, die Bedingungen erwähnt?",
+        "Maskiert Ihr Session-Replay-Tool Formularfelder standardmäßig?"
+      ]
+    },
+    {
+      "heading": "Technische Bereitschaft"
+    },
+    {
+      "text": "Der technische Bereich ist der Ort, an dem die meisten Neugestaltungen still und leise scheitern. Eine schöne Website, die in sechs Sekunden über 4G lädt, wird gegen eine einfache Website verlieren, die in zwei Sekunden lädt. Eine Website mit fehlerhaften Weiterleitungen wird die Rankings verlieren, für die Sie zwei Jahre gearbeitet haben. Erledigen Sie zuerst die langweiligen Dinge."
+    },
+    {
+      "list": [
+        "Haben Sie eine vollständige Bestandsaufnahme der aktuellen URLs und ihrer eingehenden Backlinks?",
+        "Haben Sie eine 1:1-Weiterleitungskarte von der alten zur neuen Website?",
+        "Was ist Ihr Ziel-LCP, CLS und INP für den Start – und wie werden Sie dies überprüfen?",
+        "Wer besitzt den Search Console-Zugang, und ist die Property verifiziert?",
+        "Haben Sie einen Crawl der Staging-Site vor der DNS-Umstellung geplant?"
+      ]
+    },
+    {
+      "text": "Beantworten Sie jede Frage in dieser Checkliste ehrlich, bevor Sie den ersten Wireframe entwerfen. Die Teams, die Neugestaltungen ohne Bedauern veröffentlichen, sind die Teams, die die Entdeckungsphase als Leistungsfaktor und nicht als nachträglichen Einfall betrachten. Zwei Wochen disziplinierter Antworten jetzt ersparen zwei Quartale Wiederaufbau später."
+    }
+  ],
+  "faqs": null
+}

@@ -1,0 +1,259 @@
+{
+  "meta": {
+    "title": "Audit gratuito del sito web per dermatologi — Report operativo in 24 ore",
+    "description": "Ottieni un audit gratuito specifico per dermatologia. Report personalizzato su SEO, velocità, HIPAA, UX e conversioni — consegnato entro 24 ore.",
+    "og": {
+      "title": "Audit gratuito del sito web per dermatologi",
+      "description": "Audit personalizzato per studi dermatologici: SEO, velocità, HIPAA, UX e conversioni. Consegnato in 24 ore."
+    },
+    "jsonLd": {
+      "home": "Home",
+      "breadcrumb": "Audit gratuito del sito web"
+    }
+  },
+  "hero": {
+    "badge": "Gratuito · Senza impegno · Risposta in 24 ore",
+    "title": "Un audit gratuito, eseguito da esperti, per il tuo sito di dermatologia.",
+    "subtitle": "Ricevi un report personalizzato su SEO, velocità, HIPAA, accessibilità e conversioni — analizzato da uno specialista in dermatologia, non da un software automatizzato. Disponibile in 24 ore.",
+    "checklist": [
+      "Scorecard dello stato di salute del sito (0–100)",
+      "Le 3 priorità principali spiegate in modo semplice",
+      "Sintesi scritta concisa direttamente nella tua inbox",
+      "Nessun obbligo — i dati restano a tua disposizione"
+    ],
+    "audiencesLabel": "Ideale per",
+    "audiences": [
+      "Dermatologi in libera professione",
+      "Studi medici con più sedi",
+      "Cliniche di medicina estetica",
+      "Dermatologia pediatrica",
+      "Chirurgia dermatologica e Mohs"
+    ],
+    "stats": {
+      "websites": {
+        "label": "Siti web",
+        "sub": "Analizzati e consegnati"
+      },
+      "delivery": {
+        "label": "Consegna",
+        "sub": "Entro un giorno lavorativo"
+      },
+      "niche": {
+        "label": "Dermatologia",
+        "sub": "Specializzazione di nicchia"
+      }
+    }
+  },
+  "trustItems": [
+    {
+      "label": "Specializzati in dermatologia",
+      "note": "100% focus di nicchia"
+    },
+    {
+      "label": "Consegna in 24 ore",
+      "note": "Report nella tua casella email"
+    },
+    {
+      "label": "Nessun impegno",
+      "note": "Nessuna proposta commerciale forzata"
+    },
+    {
+      "label": "Revisione umana",
+      "note": "Non un semplice report Lighthouse"
+    }
+  ],
+  "sections": {
+    "auditAreas": {
+      "tag": "Cosa analizziamo",
+      "title": "Sei prospettive diverse. Un unico report specifico per la dermatologia.",
+      "subtitle": "Ogni audit è eseguito manualmente — nulla è copiato e incollato da strumenti di scansione.",
+      "items": [
+        {
+          "title": "SEO e Visibilità Locale",
+          "body": "SEO on-page, schema markup, keyword strategiche, segnali del Profilo dell'attività su Google e posizionamento nel local pack."
+        },
+        {
+          "title": "Velocità e Core Web Vitals",
+          "body": "LCP, INP, CLS, performance mobile, ottimizzazione immagini e interventi rapidi attuabili dal tuo sviluppatore già in settimana."
+        },
+        {
+          "title": "HIPAA e Sicurezza",
+          "body": "Gestione dei moduli, esposizione PHI, SSL, tracciamenti e gestione del consenso — analizzati con l'occhio di chi conosce il settore medico."
+        },
+        {
+          "title": "Accessibilità ADA",
+          "body": "Standard WCAG 2.1: contrasto, stati dell'interfaccia, navigazione da tastiera, alt text e ordine di lettura per i pazienti reali."
+        },
+        {
+          "title": "UX e Conversione",
+          "body": "L'esperienza dei nuovi pazienti durante la prenotazione, le pagine dei servizi, le gallerie prima/dopo — e dove gli utenti abbandonano il sito."
+        },
+        {
+          "title": "Esperienza Mobile",
+          "body": "Analisi su dispositivi reali, dimensioni dei pulsanti, facilità di chiamata/prenotazione e comportamento del sito sotto rete 4G in sala d'attesa."
+        }
+      ]
+    },
+    "benefits": {
+      "tag": "Perché richiedere l'audit gratuito",
+      "title": "Il vantaggio di sapere cosa succede davvero.",
+      "subtitle": "Una panoramica chiara dello stato di salute del tuo sito oggi, per far rendere al massimo ogni investimento marketing di domani.",
+      "items": [
+        {
+          "title": "Identifica criticità nascoste",
+          "body": "Molti problemi non sono visibili in superficie: schema errati, LCP lento, perdite nei tracciamenti. Noi li portiamo alla luce."
+        },
+        {
+          "title": "Migliora le performance",
+          "body": "Un sito più veloce e pulito offre una migliore esperienza al paziente e aumenta il tasso di conversione delle prenotazioni."
+        },
+        {
+          "title": "Rafforza HIPAA e sicurezza",
+          "body": "Previeni fughe di dati PHI, configurazioni errate dei tracker e problemi SSL prima che diventino casi di non conformità."
+        },
+        {
+          "title": "Scala le classifiche di Google",
+          "body": "Correggere la SEO tecnica e i segnali locali aiuta il tuo studio a salire nel map pack e nei risultati organici."
+        }
+      ]
+    },
+    "deliverables": {
+      "tag": "Cosa riceverai",
+      "title": "Un report realmente operativo.",
+      "description": "Niente PDF da 80 pagine pieni di tecnicismi. Solo le problematiche specifiche fondamentali per uno studio dermatologico, ordinate per impatto, con passi chiari da affidare al tuo sviluppatore o agenzia — inclusi noi.",
+      "tags": {
+        "delivery": "Consegna in 24 ore",
+        "confidential": "Riservato",
+        "obligation": "Senza impegno"
+      },
+      "items": [
+        {
+          "title": "Scorecard della salute del sito",
+          "body": "Un punteggio unico da 0 a 100 con una suddivisione per categorie (SEO, Velocità, HIPAA, UX, Mobile) per capire subito come posizionarsi."
+        },
+        {
+          "title": "Top 3 priorità assolute",
+          "body": "I tre problemi a maggior impatto riscontrati sul sito, spiegati chiaramente per permetterti di agire subito, senza inutili lungaggini."
+        },
+        {
+          "title": "Sintesi scritta concisa",
+          "body": "Un riassunto sintetico dello score e delle criticità principali inviato per email. È disponibile anche un report approfondito con piano a 90 giorni come servizio premium."
+        }
+      ]
+    },
+    "howItWorks": {
+      "tag": "Come funziona",
+      "title": "Dalla richiesta al report in 24 ore.",
+      "steps": [
+        {
+          "label": "Step 1",
+          "title": "Invia i dati del tuo sito",
+          "body": "Condividi l'URL e pochi altri dettagli. Ci vorranno circa 60 secondi."
+        },
+        {
+          "label": "Step 2",
+          "title": "Analisi dei nostri esperti",
+          "body": "Una persona — non un software — analizza velocità, SEO, HIPAA, UX e mobile con un focus dermatologico."
+        },
+        {
+          "label": "Step 3",
+          "title": "Ricevi lo snapshot in 24 ore",
+          "body": "Il tuo punteggio di salute, i 3 problemi principali e un breve riepilogo vengono consegnati via email."
+        },
+        {
+          "label": "Step 4",
+          "title": "Risolvi in autonomia o con noi",
+          "body": "Affida il report al tuo team o chiedi a noi di implementare i miglioramenti. Zero pressioni, in ogni caso."
+        }
+      ]
+    }
+  },
+  "form": {
+    "tag": "Richiedi il tuo audit gratuito",
+    "title": "Ricevi il report in 24 ore",
+    "subtitle": "Pochi campi veloci. Nessun account. Nessuna carta di credito.",
+    "fields": {
+      "website": {
+        "label": "URL del tuo sito web",
+        "placeholder": "https://tuostudio.it"
+      },
+      "name": {
+        "label": "Il tuo nome",
+        "placeholder": "Dr. Mario Rossi"
+      },
+      "role": {
+        "label": "Ruolo",
+        "placeholder": "Titolare, Practice Manager…"
+      },
+      "practice": {
+        "label": "Nome dello studio",
+        "placeholder": "Dermatologia Rossi"
+      },
+      "email": {
+        "label": "Email",
+        "placeholder": "nome@studio.it"
+      },
+      "phone": {
+        "label": "Telefono",
+        "placeholder": "(opzionale)"
+      },
+      "goals": {
+        "label": "Su cosa vorresti che ci concentrassimo?",
+        "optionalLabel": "(opzionale)",
+        "placeholder": "es. abbiamo traffico ma poche prenotazioni, o vorremmo posizionarci per il trattamento acne a Roma."
+      }
+    },
+    "submit": "Richiedi il mio audit gratuito",
+    "disclaimer": {
+      "spam": "Politica zero spam",
+      "obligation": "Nessun obbligo",
+      "confidential": "Riservato — mai condiviso"
+    },
+    "success": {
+      "title": "Richiesta ricevuta — Grazie.",
+      "body": "Analizzeremo il tuo sito e invieremo il report al tuo indirizzo email entro 24 ore lavorative.",
+      "cta": "Guarda i nostri ultimi lavori"
+    },
+    "errors": {
+      "name": "Per favore, inserisci il tuo nome",
+      "email": "Per favore, inserisci un indirizzo email valido",
+      "practice": "Per favore, inserisci il nome dello studio",
+      "website": "Per favore, inserisci l'URL del sito",
+      "generic": "Per favore, controlla il modulo",
+      "cooldown": "Attendi {{seconds}} secondi prima di inviare di nuovo.",
+      "submissionError": "Spiacenti, qualcosa è andato storto. Riprova o scrivici direttamente via email."
+    }
+  },
+  "faq": {
+    "tag": "Domande Frequenti",
+    "title": "Risposte chiare e semplici.",
+    "items": [
+      {
+        "q": "È davvero gratuito? Dove sta il trucco?",
+        "a": "Sì, è autenticamente gratuito. È il nostro modo di presentarci. Molti studi scelgono di applicare i suggerimenti in autonomia, altri ci chiedono di farlo per loro. Entrambe le opzioni per noi vanno bene."
+      },
+      {
+        "q": "Chi esegue l'audit?",
+        "a": "Un membro senior del nostro team che ha già realizzato oltre 50 siti per dermatologi. Nessuna delega a junior o software automatici."
+      },
+      {
+        "q": "In cosa differisce da un report Lighthouse o SEMrush?",
+        "a": "Gli strumenti automatici segnalano problemi generici. Noi li interpretiamo nel contesto specifico della dermatologia: cosa conta per un centro estetico vs. uno studio chirurgico/Mohs e quali priorità affrontare per prime."
+      },
+      {
+        "q": "Devo assumervi dopo l'audit?",
+        "a": "No. Il report è tuo e puoi utilizzarlo come preferisci. Ti contatteremo una sola volta per follow-up, a meno che non sia tu a richiederci ulteriore assistenza."
+      },
+      {
+        "q": "Quanto tempo ci vuole?",
+        "a": "La consegna avviene entro 24 ore nei giorni lavorativi. Se per qualsiasi motivo dovesse volerci di più, ti avviseremo immediatamente."
+      }
+    ]
+  },
+  "footerLinks": {
+    "prefix": "Link utili: ",
+    "portfolio": "scopri i nostri ultimi progetti",
+    "process": "come strutturiamo le collaborazioni",
+    "costs": "costi indicativi dei nostri pacchetti"
+  }
+}

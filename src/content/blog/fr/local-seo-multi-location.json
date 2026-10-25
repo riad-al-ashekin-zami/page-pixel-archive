@@ -1,0 +1,61 @@
+{
+  "slug": "local-seo-multi-location",
+  "title": "Référencement local pour les groupes de dermatologie multi-sites",
+  "excerpt": "Pages de localisation, stratégie GBP et maillage interne qui classe chaque clinique — pas seulement le fleuron.",
+  "imageAlt": "Vue aérienne à plat d'une carte de ville avec des épingles de localisation bleu sarcelle marquant les cliniques de dermatologie",
+  "body": [
+    {
+      "text": "Les groupes de dermatologie multi-sites ont souvent une clinique qui se classe bien et cinq qui ne se classent pas. La solution concerne rarement la clinique elle-même — il s'agit de l'architecture du site qui prive les petites localisations d'autorité. Le manuel ci-dessous est le système exact que nous utilisons pour faire passer chaque site, pas seulement le fleuron, dans le top trois pour son mot-clé de ville ou de quartier."
+    },
+    {
+      "text": "La raison pour laquelle la plupart des groupes multi-sites se retrouvent avec une localisation dominante est entièrement structurelle. Le site original a été conçu pour la clinique originale. Lorsque le groupe s'est étendu, l'équipe marketing a ajouté des pages de localisation en copiant-collant la page du fleuron et en changeant le nom de la ville. Le résultat est un contenu mince et redondant que Google considère à juste titre comme de faible qualité — ainsi chaque nouvelle page de localisation n'hérite d'aucune autorité du fleuron."
+    },
+    {
+      "heading": "Le modèle de page de localisation"
+    },
+    {
+      "text": "Chaque localisation obtient une page avec un texte d'introduction unique, une carte intégrée, une liste de prestataires et des points forts de services hyperlocalisés. Zéro contenu dupliqué, zéro copier-coller. Cela signifie qu'un être humain — idéalement le responsable de site — doit écrire deux ou trois paragraphes sur le quartier, le stationnement, les rues environnantes et les services spécifiques que cette clinique met en avant."
+    },
+    {
+      "list": [
+        "Introduction unique de 250 à 400 mots mentionnant le quartier par son nom",
+        "Carte Google intégrée avec l'épingle exacte de la clinique",
+        "Liste de prestataires spécifique à la localisation avec photos et biographies",
+        "Points forts des services pondérés en fonction de ce qui est le plus souvent réservé dans cette clinique",
+        "3 à 5 véritables avis de patients pour cette localisation, pas ceux du fleuron",
+        "FAQ spécifique à la localisation (stationnement, accès fauteuil roulant, langues parlées)"
+      ]
+    },
+    {
+      "heading": "Maillage interne qui distribue l'autorité"
+    },
+    {
+      "text": "Le deuxième levier est le maillage interne. Si chaque backlink vers votre site pointe vers la page d'accueil, et que votre page d'accueil renvoie également vers chaque page de localisation, vous divisez l'autorité de manière égale et privez toutes les localisations de la concentration d'équité dont elles ont besoin pour se classer. La solution est un modèle en étoile : chaque page de service renvoie aux pages de localisation où ce service est offert, et chaque page de localisation renvoie aux pages de service spécifiques que la localisation met en avant."
+    },
+    {
+      "heading": "Stratégie Google Business Profile par localisation"
+    },
+    {
+      "text": "Chaque localisation obtient son propre GBP entièrement optimisé avec un numéro de téléphone local unique, une liste de services unique, une zone de service unique et son propre volant de génération d'avis. GBP est un facteur de classement pour le pack de cartes et un facteur de classement indirect pour le pack organique via la cohérence NAP. Le négliger, c'est laisser le plus grand levier intact."
+    },
+    {
+      "list": [
+        "Catégorie principale unique correspondant au service principal, pas 'dermatologue' génériquement",
+        "Publications Google hebdomadaires spécifiques aux promotions ou aux nouvelles des prestataires de cette localisation",
+        "Photos téléchargées mensuellement, géotaguées pour la localisation",
+        "Réponses aux avis dans les 48 heures, personnalisées par avis",
+        "Rayon de la zone de service défini en fonction de l'attraction réelle des patients, et non de la géographie aspirationnelle"
+      ]
+    },
+    {
+      "heading": "Contenu local qui n'est pas la page de localisation"
+    },
+    {
+      "text": "La dernière pièce est le contenu éditorial local. Pour chaque ville ou quartier que vous desservez, publiez un article long par trimestre qui lie la dermatologie à un sujet véritablement local — l'exposition au soleil sur une plage locale spécifique, la qualité de l'air dans un quartier spécifique, la dureté de l'eau dans un code postal spécifique. Google le reconnaît comme une autorité locale thématique et cela déplace la page de localisation au-dessus des concurrents dont le seul signal local est leur adresse."
+    },
+    {
+      "text": "Faites ces quatre choses — pages de localisation uniques, maillage interne en étoile, discipline GBP par localisation et éditorial local trimestriel — pendant six mois et vous verrez la localisation historiquement la plus faible grimper à la même position dans le top trois dont le fleuron a bénéficié pendant des années. Le référencement local n'est pas de la chance, et ce n'est pas la faute du fleuron si le satellite ne se classe pas. C'est de l'architecture, et l'architecture est réparable."
+    }
+  ],
+  "faqs": null
+}

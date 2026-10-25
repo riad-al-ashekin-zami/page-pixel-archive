@@ -1,0 +1,382 @@
+{
+  "meta": {
+    "title": "Ihotautien CRO-palvelut — Kaksinkertaista varaukset samalla kävijämäärällä",
+    "description": "Konversio-optimointia ihotautilääkäreille. Lämpökartat, A/B-testaus, varauslomakkeiden uudistus, mobiili-UX ja Core Web Vitals — muuta kävijät vahvistetuiksi ajoiksi. HIPAA-yhteensopiva.",
+    "og_title": "Ihotautiklinikoiden konversio-optimointi — Enemmän varauksia samalla liikenteellä",
+    "og_description": "Käyttäytymistutkimusta, A/B-testausta ja suppilon optimointia ihotautilääkäreille. Mitattavia tuloksia 90 päivässä — HIPAA-huomioitu, ilman pitkiä sitoumuksia.",
+    "jsonLd": {
+      "serviceType": "Ihotautiklinikoiden konversio-optimointi",
+      "provider": "DermatologyWebsiteDesign.com",
+      "offerDescription": "Ihotautiklinikan CRO-diagnostiikka — alkaen-hinta"
+    }
+  },
+  "hero": {
+    "badge_lift": "Keskimääräinen kasvu +184 % 90 päivässä",
+    "badge_service": "Konversio-optimointi (CRO)",
+    "title_main": "Sama kävijämäärä.",
+    "title_highlight": "Tuplasti varauksia.",
+    "description": "Käyttäytymistutkimus, A/B-testaus ja mobiilioptimoidut varauspolut – räätälöitynä ihotautiklinikoille. Testaamme jokaisen hypoteesin ja maksimoimme markkinointibudjettisi tehon.",
+    "cta_audit": "Aloita CRO-auditoinnilla",
+    "cta_case_study": "Katso asiakastarina",
+    "pricing_note": "Diagnostiset auditoinnit alk.",
+    "pricing_value": "1 900 $",
+    "pricing_ongoing": "· jatkuvat ohjelmat 3,4k–6,9k $ / kk",
+    "ticks": [
+      "Lämpökartat + tallenteet",
+      "A/B-testaus",
+      "HIPAA-huomioitu",
+      "Toistaiseksi voimassa oleva"
+    ]
+  },
+  "stats": {
+    "lift": "Keskimääräinen kasvu ajanvarauksissa",
+    "abandonment": "Vähemmän keskeytyksiä lomakkeella",
+    "roas": "Korkeampi mainonnan tuotto (ROAS)",
+    "wins": "Tilastollisesti merkittävää voittoa"
+  },
+  "trust": {
+    "label": "Yli 120 ihotautiklinikan luottama kumppani valtakunnallisesti",
+    "logos": [
+      "LA Dermatology",
+      "CP Dermatology",
+      "MM Center",
+      "NBS Laser",
+      "RS Institute",
+      "HD Group"
+    ]
+  },
+  "pillars": {
+    "label": "Kuusi pilaria, yksi kasvujärjestelmä",
+    "heading": "CRO ei ole vain napin väri. Se on tiedettä.",
+    "description": "Yhdistämme käyttäytymisdatan, hallitut kokeet ja mobiililähtöisen suunnittelun muuttaaksemme jokaisen vierailun askeleeksi kohti vahvistettua ajanvarausta.",
+    "items": [
+      {
+        "name": "Käyttäytymistutkimus",
+        "desc": "Lämpökartat, skrollaus-data ja istuntotallenteet — seuraamme kuinka todelliset kävijät tekevät päätöksiä.",
+        "meta": "Viikot 1–2"
+      },
+      {
+        "name": "A/B- & multivariatetestaus",
+        "desc": "Hypoteesit asetetaan tärkeysjärjestykseen ICE-pisteytyksellä ja testataan merkittävillä otoskoilla.",
+        "meta": "Jatkuva"
+      },
+      {
+        "name": "Varauslomakkeen optimointi",
+        "desc": "Kenttäkohtainen analytiikka ja HIPAA-turvallinen täyttö, joka puolittaa lomakkeen keskeytykset.",
+        "meta": "Sprintti 1"
+      },
+      {
+        "name": "Ostopolun mallinnus",
+        "desc": "Kartoitamme reitin mainosklikkauksesta varaukseen ja poistamme kitkan jokaisesta vaiheesta.",
+        "meta": "Jatkuva"
+      },
+      {
+        "name": "Mobiililähtöiset toteutukset",
+        "desc": "Yli 70 % ihotautivarauksista tehdään mobiililla — suunnittelemme polun peukaloille, emme hiirelle.",
+        "meta": "Sprintti 2"
+      },
+      {
+        "name": "Nopeus & Core Web Vitals",
+        "desc": "Jokainen 100 ms hidastus maksaa varauksia. Toimitamme alle 1,5 s LCP-nopeuden kaikille sivuille.",
+        "meta": "Perustaso"
+      }
+    ]
+  },
+  "experiments": {
+    "label": "Kuusi todellista koetta",
+    "heading": "Miltä testaaminen näyttää käytännössä.",
+    "description": "Jokainen rivi on aito hypoteesi ihotautiasiakkailtamme. Luvut ovat mediaanitason tuloksia vastaavilta klinikoilta.",
+    "table_header": "Koe",
+    "before_label": "Ennen",
+    "after_label": "Jälkeen",
+    "items": [
+      {
+        "label": "Hero-alueen toimintakehote",
+        "before": "Ota yhteyttä",
+        "after": "Varaa aika 60 sekunnissa",
+        "metric": "Klikkausprosentti varaukseen"
+      },
+      {
+        "label": "Varauslomakkeen kentät",
+        "before": "12 kenttää yhdellä sivulla",
+        "after": "4 vaihetta, edistymispalkki",
+        "metric": "Lomakkeen täyttöaste"
+      },
+      {
+        "label": "Vakuutustietojen selkeys",
+        "before": "Piilotettu UKK-osioon",
+        "after": "Vakuutusvalitsin hero-alueella",
+        "metric": "Laadukkaat konsultaatiopyynnöt"
+      },
+      {
+        "label": "Luottamus-signaalit",
+        "before": "Kuvituskuva hoidosta",
+        "after": "Lääkärin kuva + 4.9★ arvosana",
+        "metric": "Viipymä ja varaukset"
+      },
+      {
+        "label": "Mobiilin painikesijoittelu",
+        "before": "Sivun alaosassa, staattinen",
+        "after": "Kiinnitetty alapalkki (Sticky)",
+        "metric": "Mobiilivarauksien konversio"
+      },
+      {
+        "label": "Palvelusivun rakenne",
+        "before": "Pitkä tekstiseinä",
+        "after": "Oire → Hoito → Varaus",
+        "metric": "Sivukohtainen konversio"
+      }
+    ]
+  },
+  "caseStudy": {
+    "label": "Asiakastarina · NBS Laser",
+    "heading": "Sama 18k $/kk mainosbudjetti. 180 % enemmän varauksia.",
+    "image_alt": "NBS Laserin varauspolku CRO-optimoinnin jälkeen",
+    "stats": {
+      "bookings": "Varaukset / kk",
+      "completion": "Lomakkeen täyttöaste",
+      "time": "Käsittelyaika"
+    },
+    "comparison": [
+      {
+        "label": "Varauslomake",
+        "before": "12 kenttää · 1 sivu · suunniteltu koneelle",
+        "after": "4 vaihetta · edistymispalkki · mobiilioptimoitu"
+      },
+      {
+        "label": "Hero-otsikko",
+        "before": "Ota yhteyttä (yleinen)",
+        "after": "Varaa 60 sekunnissa · vakuutusvalitsin"
+      },
+      {
+        "label": "Mobiilisuppilo",
+        "before": "Valikko peitti CTA-napin rullattaessa",
+        "after": "Sticky-alapalkki varaamiseen · isot painikkeet"
+      },
+      {
+        "label": "Luottamus",
+        "before": "Kuvapankkikuva · ei arvosteluja",
+        "after": "Oikea lääkäri · 4.9★ · sertifikaatit"
+      }
+    ],
+    "cta": "Lue koko asiakastarina"
+  },
+  "process": {
+    "label": "Näin se toimii",
+    "heading": "Neljännesvuosittainen sykli, joka kumuloituu kuukausittain.",
+    "steps": [
+      {
+        "step": "01",
+        "title": "Perustason Auditointi",
+        "desc": "Suppilosi täydellinen purku: analytiikka, lämpökartat, keskeytyskohdat ja mobiili-UX verrattuna 20+ ihotautialan benchmarkiin."
+      },
+      {
+        "step": "02",
+        "title": "Hypoteesipankki",
+        "desc": "Jokainen oivallus muuttuu testattavaksi hypoteesiksi, joka pisteytetään vaikutuksen ja helppouden mukaan. Sinä hyväksyt sprintit."
+      },
+      {
+        "step": "03",
+        "title": "Suunnittelu & Testaus",
+        "desc": "Toimitamme testiversiot oikealla kokeilualustalla. Laskemme otoskoot etukäteen – emme lopeta testejä kesken."
+      },
+      {
+        "step": "04",
+        "title": "Voittajien käyttöönotto",
+        "desc": "Voittaneet versiot jäävät käyttöön. Häviöt opettavat. Joka kuukausi suppilosi on mitattavasti parempi kuin edellisenä."
+      }
+    ]
+  },
+  "audiences": {
+    "label": "Kenelle palvelu sopii",
+    "heading": "Ihotautiklinikoille koosta riippumatta.",
+    "description": "Ohjelmamme on räätälöity vastaamaan eri toimintamalleja — yksityisvastaanotoista monitoimipisteisiin.",
+    "items": [
+      {
+        "label": "Yksityislääkärit",
+        "desc": "Muuta pieni mainosbudjetti täydeksi kalenteriksi — jokainen kävijä merkitsee, kun olet ainoa asiantuntija."
+      },
+      {
+        "label": "Monitoimipisteklinikat",
+        "desc": "Toimipistekohtaiset laskeutumissivut, sijaintiin perustuvat kehotteet ja yhtenäinen analytiikka."
+      },
+      {
+        "label": "Lasten ihotautilääkärit",
+        "desc": "Vanhemmille suunnatut varauspolut ja luottamus-signaalit, jotka on optimoitu huoltajien päätöksentekoon."
+      },
+      {
+        "label": "Mohs-kirurgia & operatiivinen ihotauti",
+        "desc": "Lähetevetoiset sivut, selkeät vakuutustiedot ja esitietosisällöt, jotka nopeuttavat hoitoonpääsyä."
+      }
+    ]
+  },
+  "services": {
+    "label": "Optimoitavat lääketieteelliset palvelut",
+    "heading": "Jokainen oiresivu ja palvelusuppilo — viritetty konvertoimaan.",
+    "description": "Rakennamme oirepohjaiset polut, karsimme esteet ja lisäämme vakuutustietoiset painikkeet ihotautipalveluillesi.",
+    "list": [
+      "Akne-hoidot",
+      "Ekseeman hoito",
+      "Psoriasiksen hoito",
+      "Ihoinfektioiden hoito",
+      "Ihoallergiat",
+      "Ihosyövän seulonta ja hoito",
+      "Luomien tarkastus ja poisto",
+      "Kystien ja lipoomien poisto",
+      "Syylien poisto",
+      "Kynsivaivojen hoito",
+      "Hiustenlähdön diagnostiikka ja hoito",
+      "Hiuspohjan ongelmat",
+      "Rosacean hoito",
+      "Pigmenttihäiriöt ja melasma",
+      "Arpien hoito",
+      "Palovamma-arpien hoito",
+      "Vitiligon hoito",
+      "Ihon koepalat ja diagnostiikka"
+    ]
+  },
+  "testimonials": {
+    "label": "Mitä asiakkaamme sanovat",
+    "heading": "Ensin numerot. Sitten tarina.",
+    "items": [
+      {
+        "name": "Dr. Meera Balakrishnan, MD",
+        "role": "NBS Laser",
+        "quote": "Käytimme mainontaan 18 000 $ kuussa ja saimme 40 varausta. 90 päivän CRO-työn jälkeen samalla summalla tuli 112 varausta. Laskun maksaminen ei enää mietityttänyt."
+      },
+      {
+        "name": "Dr. Julian Reyes, MD",
+        "role": "CP Dermatology",
+        "quote": "He uudistivat varauspolkumme kolmessa sprintissä. Lomakkeen täyttöaste nousi 34 prosentista 71 prosenttiin. Vastaanottomme ei saa enää puheluita rikkinäisistä lomakkeista."
+      },
+      {
+        "name": "Dr. Priya Anand, MD, MPH",
+        "role": "MM Center",
+        "quote": "Toimipistekohtaiset sivut ja vakuutusvalitsin olivat ratkaisevia. Päätöksentekoaika lyheni 11 päivästä neljään. Myös lähettävät lääkärit huomasivat muutoksen."
+      }
+    ]
+  },
+  "pricing": {
+    "label": "Ohjelmat ja hinnoittelu",
+    "heading": "Kolme tapaa aloittaa kasvu.",
+    "description": "Kaikki paketit ovat diagnostiikkavaiheen jälkeen toistaiseksi voimassa olevia. Tulokset ansaitsevat jatkomme, eivät pitkät sopimukset.",
+    "popular": "Suosituin",
+    "market_label": "Markkina:",
+    "get_started": "Aloita nyt",
+    "plans": [
+      {
+        "name": "Diagnostiikka",
+        "tag": "Kertaluonteinen auditointi",
+        "price": "1 900 $",
+        "per": "kertamaksu",
+        "savings": "46–75 % edullisempi",
+        "features": [
+          "Suppilon ja analytiikan auditointi",
+          "Lämpökarttojen ja tallenteiden asennus",
+          "Lomakekeskeytysten analyysi",
+          "Mobiili-UX + Core Web Vitals -analyysi",
+          "Priorisoitu 12 hypoteesin lista",
+          "60 min läpikäynti tuloksista"
+        ]
+      },
+      {
+        "name": "Kasvusprintti",
+        "tag": "3 kuukauden ohjelma",
+        "price": "3 400 $",
+        "per": "/ kk",
+        "savings": "43–72 % edullisempi",
+        "features": [
+          "Kaikki diagnostiikkapaketin edet",
+          "2 A/B-testiä per kuukausi",
+          "Varauslomakkeen uudistus",
+          "Laskeutumissivut pääkampanjoille",
+          "Kuukausittaiset raportit",
+          "Oma Slack-kanava + viikkopalaverit"
+        ]
+      },
+      {
+        "name": "Kumuloituva CRO",
+        "tag": "Ketjut ja Mohs-klinikat",
+        "price": "6 900 $",
+        "per": "/ kk",
+        "savings": "43–72 % edullisempi",
+        "features": [
+          "Kaikki Kasvusprintin edet",
+          "Yli 4 rinnakkaista testiä",
+          "Toimipistekohtaiset laskeutumissivut",
+          "Personointi ja segmentointi",
+          "Server-side testausympäristö",
+          "Neljännesvuosittainen johdon katsaus"
+        ]
+      }
+    ]
+  },
+  "faq": {
+    "label": "Usein kysyttyä",
+    "heading": "Vastauksia ennen kuin kysyt.",
+    "items": [
+      {
+        "q": "Miten CRO eroaa SEO:sta tai PPC:stä?",
+        "a": "SEO ja PPC tuovat ihmisiä sivustollesi. CRO muuttaa nämä ihmiset varauksiksi. Ilman CRO-optimointia mainosrahasi teho rajoittuu nykyiseen konversioasteeseesi (yleensä 1–3 %). Konversiosi tuplaaminen käytännössä tuplaa kaiken markkinointisi tuoton."
+      },
+      {
+        "q": "Kuinka pian näen tuloksia?",
+        "a": "Auditointi ja ensimmäiset testit tapahtuvat ensimmäisen 30 päivän aikana. Tilastollisesti merkittävät tulokset saadaan yleensä viikkojen 4–12 aikana liikennemääristä riippuen."
+      },
+      {
+        "q": "Tarvitsetteko pääsyn sivustolleni?",
+        "a": "Kyllä — asennamme testausalustan (VWO, Convert tai Optimizely) ja analytiikkatyökalut. Kaikki on HIPAA-yhteensopivaa: emme kerää terveystietoja (PHI) ja tallenteet peittävät lomakekentät automaattisesti."
+      },
+      {
+        "q": "Mitä jos testi ei tuota tulosta?",
+        "a": "Noin 60 % hyvin suunnitelluista testeistä on neutraaleja tai negatiivisia – se on normaalia. Häviävä testi on oppitunti: se kertoo, että oletus oli väärä, mikä säästää rahaa kalliilta huti-uudistuksilta tulevaisuudessa."
+      },
+      {
+        "q": "Toimiiko tämä nykyisellä sivustollani?",
+        "a": "Työskentelemme kaikkien nykyaikaisten alustojen kanssa (WordPress, Webflow, React). Emme vaadi koko sivuston uusimista, ellei se ole välttämätöntä tuoton saamiseksi."
+      },
+      {
+        "q": "Onko tämä säädösten mukaista?",
+        "a": "Jokainen koe tarkistetaan HIPAA-säädösten ja lääketieteellisen mainonnan sääntöjen (Google Ads/Meta) mukaisiksi. Emme tee perusteettomia lupauksia hoidoista."
+      },
+      {
+        "q": "Onko sopimus sitova?",
+        "a": "Diagnostiikka on kertaostos. Jatkuvat ohjelmat ovat kuukausikohtaisia 30 päivän irtisanomisajalla. Omistat kaiken datan ja asetukset myös yhteistyön päätyttyä."
+      }
+    ]
+  },
+  "cta": {
+    "label": "Ilmainen sivuston auditointi",
+    "heading": "Haluatko lopettaa varausten menettämisen?",
+    "description": "Auditoimme suppilosi, osoitamme kolme suurinta vuotokohtaa ja annamme testattavan suunnitelman — riippumatta siitä, jatkammeko yhteistyötä.",
+    "button_quote": "Pyydä ilmainen arvio",
+    "button_contact": "Ota yhteyttä"
+  },
+  "footer_nav": {
+    "label": "Lue lisää:",
+    "link_seo": "Ihotautiklinikan SEO-perusteet",
+    "link_ppc": "Mainoskampanjat, jotka maksavat itsensä takaisin",
+    "link_design": "Konversiolähtöinen suunnittelu alusta alkaen"
+  },
+  "mobile_sticky": {
+    "label": "Ilmainen CRO-auditointi",
+    "description": "30 min puhelu · 3 suurinta ongelmaa",
+    "button": "Ilmainen auditointi"
+  },
+  "funnel_panel": {
+    "title": "Varaussuppilo — viimeiset 30 päivää",
+    "status": "Livenä · testi #4821 käynnissä",
+    "winning": "Voitolla",
+    "stages": {
+      "visitors": "Kävijät",
+      "engaged": "Sitoutuneet",
+      "form_starts": "Lomakkeen aloittaneet",
+      "booked": "Varatut"
+    },
+    "stats": {
+      "conv_rate": "Konversiosuhde",
+      "cpa": "CPA",
+      "confidence": "Luottamusväli"
+    }
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "meta": {
+    "title": "Polityka prywatności — Jak przetwarzamy Twoje dane",
+    "description": "Dowiedz się, jak nasze studio gromadzi, wykorzystuje, udostępnia i chroni dane odwiedzających, potencjalnych klientów oraz praktyk dermatologicznych, z którymi współpracujemy.",
+    "og": {
+      "title": "Polityka prywatności — Jak przetwarzamy Twoje dane",
+      "description": "Dowiedz się, jak nasze studio gromadzi, wykorzystuje, udostępnia i chroni dane odwiedzających, potencjalnych klientów oraz praktyk dermatologicznych, z którymi współpracujemy."
+    },
+    "twitter": {
+      "title": "Polityka prywatności — Jak przetwarzamy Twoje dane",
+      "description": "Dowiedz się, jak nasze studio gromadzi, wykorzystuje, udostępnia i chroni dane odwiedzających, potencjalnych klientów oraz praktyk dermatologicznych, z którymi współpracujemy."
+    }
+  },
+  "layout": {
+    "skipToContent": "Przejdź do treści"
+  },
+  "hero": {
+    "badge": "Informacje prawne · Polityka prywatności",
+    "title": "Polityka prywatności",
+    "description": "Zasady dotyczące gromadzenia, wykorzystywania i ochrony danych naszych gości, potencjalnych kontrahentów oraz gabinetów, które wspieramy.",
+    "lastUpdated": "Ostatnia aktualizacja:",
+    "lastUpdatedDate": "14 lipca 2026"
+  },
+  "sections": {
+    "sidebar": {
+      "title": "Spis treści",
+      "navAriaLabel": "Nawigacja po sekcjach"
+    },
+    "overview": {
+      "title": "1. Informacje ogólne",
+      "body": "Niniejsza Polityka prywatności określa, w jaki sposób nasze studio („my”, „nas”) gromadzi i wykorzystuje informacje podczas korzystania z naszej witryny, przesyłania formularzy, zapytania o wycenę lub nawiązania współpracy projektowej. Strona ta powstała, aby odpowiedzieć na najczęstsze pytania dotyczące prywatności w ramach naszego serwisu marketingowego i relacji z klientami; nie stanowi ona certyfikacji ani porady prawnej."
+    },
+    "informationWeCollect": {
+      "title": "2. Gromadzone dane",
+      "items": {
+        "provided": {
+          "label": "Informacje podawane dobrowolnie:",
+          "text": "imię i nazwisko, nazwa praktyki, adres e-mail, numer telefonu, szczegóły projektu oraz wszelkie inne dane przesyłane za pośrednictwem formularzy, poczty elektronicznej lub narzędzi do planowania spotkań."
+        },
+        "automatic": {
+          "label": "Dane zbierane automatycznie:",
+          "text": "adres IP, typ urządzenia i przeglądarki, przeglądane strony, adres URL odsyłający oraz przybliżona lokalizacja – gromadzone za pośrednictwem plików cookies i narzędzi analitycznych."
+        },
+        "projectData": {
+          "label": "Dane projektowe klienta:",
+          "text": "dane dostępowe, zasoby marki i treści udostępniane nam w celu realizacji usług zgodnie z podpisaną umową."
+        }
+      }
+    },
+    "howWeUse": {
+      "title": "3. Wykorzystanie danych",
+      "items": [
+        "Odpowiadanie na zapytania, przygotowywanie wycen i przesyłanie ofert.",
+        "Realizacja, fakturowanie i wsparcie techniczne zamówionych usług.",
+        "Optymalizacja naszej witryny, treści oraz oferowanych usług.",
+        "Wysyłanie okazjonalnych aktualizacji lub newsletterów (po wyrażeniu zgody).",
+        "Wypełnianie obowiązków prawnych, podatkowych i księgowych."
+      ]
+    },
+    "noPhi": {
+      "title": "4. Chronione informacje zdrowotne (PHI)",
+      "body": "Niniejsza witryna marketingowa nie służy do gromadzenia chronionych informacji zdrowotnych (PHI). Prosimy o nieprzesyłanie nazwisk pacjentów, dokumentacji medycznej ani detali klinicznych przez formularze kontaktowe. W przypadkach, gdy współpraca projektowa wymaga obsługi PHI (np. portale pacjenta, formularze przyjęć), przed wdrożeniem takich funkcji zawieramy oddzielną umowę o powierzeniu przetwarzania danych (Business Associate Agreement)."
+    },
+    "sharing": {
+      "title": "5. Udostępnianie danych",
+      "body": "Nie sprzedajemy danych osobowych. Udostępniamy je wyłącznie dostawcom usług, którzy pomagają nam w działalności – hosting, e-mail, analityka, planowanie spotkań, procesy płatnicze oraz systemy CRM – i tylko w zakresie niezbędnym do wykonania ich zadań. Dane mogą zostać również ujawnione, jeśli wymaga tego prawo lub w celu ochrony naszych praw."
+    },
+    "cookies": {
+      "title": "6. Pliki cookies i analityka",
+      "body": "Korzystamy z ciasteczek i podobnych technologii w celu zapewnienia niezbędnych funkcji serwisu oraz analizy sposobu korzystania ze strony. Możesz zarządzać plikami cookies w ustawieniach przeglądarki; ich zablokowanie może wpłynąć na funkcjonalność witryny."
+    },
+    "retention": {
+      "title": "7. Przechowywanie danych",
+      "body": "Przechowujemy informacje tak długo, jak jest to konieczne do świadczenia usług, wypełniania obowiązków prawnych, rozstrzygania sporów i egzekwowania naszych umów. Dane z zapytań od osób, które nie zdecydowały się na współpracę, są okresowo usuwane."
+    },
+    "security": {
+      "title": "8. Bezpieczeństwo",
+      "body": "Stosujemy odpowiednie środki administracyjne, techniczne i fizyczne w celu ochrony posiadanych danych – w tym szyfrowanie transmisji (HTTPS), kontrole dostępu oraz weryfikację dostawców. Żadna metoda przesyłania ani przechowywania danych nie jest w 100% bezpieczna, dlatego nie możemy zagwarantować jej absolutnej szczelności."
+    },
+    "yourRights": {
+      "title": "9. Twoje prawa i wybory",
+      "body": "W zależności od miejsca zamieszkania możesz mieć prawo do wglądu, poprawiania, usuwania lub przenoszenia swoich danych osobowych, a także do sprzeciwu lub ograniczenia ich przetwarzania. Aby skorzystać z tych praw, skontaktuj się z nami. Możesz również w dowolnym momencie zrezygnować z subskrypcji e-maili marketingowych, korzystając z linku w wiadomości."
+    },
+    "thirdPartyLinks": {
+      "title": "10. Linki zewnętrzne",
+      "body": "Nasza strona może zawierać odnośniki do witryn i narzędzi podmiotów trzecich. Ich zasady ochrony prywatności są określone we własnych politykach – prosimy o zapoznanie się z nimi przed podaniem jakichkolwiek informacji."
+    },
+    "children": {
+      "title": "11. Prywatność dzieci",
+      "body": "Nasza witryna jest skierowana do odbiorców biznesowych i nie jest przeznaczona dla dzieci poniżej 13. roku życia. Nie gromadzimy świadomie danych osobowych od osób nieletnich."
+    },
+    "changes": {
+      "title": "12. Zmiany w polityce",
+      "body": "Zastrzegamy sobie prawo do aktualizacji niniejszej Polityki prywatności. W takim przypadku zmienimy datę „Ostatniej aktualizacji” na górze strony. Istotne zmiany będą wyraźnie komunikowane w naszym serwisie."
+    },
+    "contact": {
+      "title": "13. Kontakt",
+      "paragraph": "Masz pytania lub prośby dotyczące tej polityki lub Twoich danych? Skontaktuj się z nami przez naszą stronę kontaktową, a odpowiemy w możliwie najkrótszym terminie.",
+      "link": "stronę kontaktową"
+    }
+  },
+  "cta": {
+    "title": "Pytania dotyczące prywatności?",
+    "subtitle": "Odpowiemy na Twoje zgłoszenie w rozsądnym terminie.",
+    "buttonLabel": "Skontaktuj się z nami"
+  }
+}

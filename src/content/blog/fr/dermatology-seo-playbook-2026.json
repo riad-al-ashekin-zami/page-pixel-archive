@@ -1,0 +1,64 @@
+{
+  "slug": "dermatology-seo-playbook-2026",
+  "title": "Le manuel de référencement pour la dermatologie 2026 : Classement en 90 jours",
+  "excerpt": "Les groupes de mots-clés exacts, les correctifs techniques et la cadence de contenu que nous utilisons pour faire passer les cabinets de dermatologie à la première page – avec des délais réels.",
+  "imageAlt": "Tableau de bord d'analyse sur un ordinateur portable dans un bureau de dermatologie lumineux",
+  "body": [
+    {
+      "text": "Classer un cabinet de dermatologie en quatre-vingt-dix jours n'est pas une promesse que l'on fait à la légère – mais avec la bonne architecture, c'est reproductible. Dans ce manuel, nous présentons le système exact de quatre-vingt-dix jours que nous appliquons à chaque nouveau client, du premier audit technique jusqu'à la poussée de contenu finale qui active le changement et déplace les mots-clés ciblés sur la première page de Google."
+    },
+    {
+      "text": "L'erreur que la plupart des cabinets commettent est de traiter le SEO comme une liste de contrôle de tactiques plutôt que comme un système. Ils courent après des articles de blog individuels, ajustent les balises de titre et espèrent que l'élan se construira. Cela ne se produit pas. Ce qui construit l'élan, c'est une architecture axée sur les clusters, une base technique propre et une cadence de contenu qui se cumule semaine après semaine. Si vous maîtrisez ces trois éléments, les classements deviennent un indicateur retardé – la conséquence naturelle de bien faire le travail, dans le bon ordre."
+    },
+    {
+      "heading": "1. Construire le cluster thématique avant d'écrire un seul mot"
+    },
+    {
+      "text": "La plupart des sites de dermatologie perdent dans les SERP parce que leur contenu se trouve sur des pages isolées. Une page Aesthetic ici, un article sur la rosacée là, une page de localisation dans un autre silo – aucune n'est liée en interne de manière à indiquer à Google ce sur quoi le site fait autorité. Au lieu d'écrire des articles autonomes, nous regroupons les services, les affections et les localisations en clusters thématiques. Chaque cluster est ancré par une page pilier (par exemple, 'Traitement de l'acné à Denver') qui lie en interne chaque article de soutien – 'causes de l'acné kystique', 'meilleurs traitements contre l'acné en cabinet', 'mythes sur le régime alimentaire pour l'acné hormonale' – et chaque article de soutien renvoie à la page pilier."
+    },
+    {
+      "text": "Cette structure a deux fonctions. Premièrement, elle concentre l'autorité thématique : chaque lien retour vers un article de soutien transmet de la valeur à la page pilier. Deuxièmement, elle rend le maillage interne évident. Il n'y a plus de devinettes sur ce qui devrait être lié à quoi – la carte du cluster vous le dit."
+    },
+    {
+      "heading": "2. Corrigez d'abord la base technique"
+    },
+    {
+      "text": "Avant d'écrire quoi que ce soit, effectuez un audit technique et corrigez les éléments non négociables. Le classement est une course avec une catégorie de poids – si vos Core Web Vitals sont inférieurs à 90 sur mobile, vous portez déjà un handicap avant le début de la course. Au cours de nos deux premières semaines avec tout nouveau cabinet, nous exécutons les actions suivantes :"
+    },
+    {
+      "list": [
+        "Compresser chaque image principale en WebP ou AVIF (réduction de taille moyenne de 70 %)",
+        "Faire passer chaque page au-dessus de 90 sur les Core Web Vitals mobiles – LCP inférieur à 2,5 s, CLS inférieur à 0,1, INP inférieur à 200 ms",
+        "Ajouter les données structurées FAQPage et MedicalBusiness à chaque page de service",
+        "Consolider les pages de localisation dupliquées avec des balises canoniques",
+        "Corriger chaque 404 ayant des liens entrants et rediriger les URL supprimées",
+        "Soumettre un sitemap XML propre et le valider dans la Search Console"
+      ]
+    },
+    {
+      "text": "Ce ne sont pas des victoires glamoureuses, mais elles se cumulent. Une fois que la fondation est propre, chaque élément de contenu que vous publiez hérite de cette vitesse et de cette structure – ce qui signifie que Google l'indexe plus rapidement et que les utilisateurs convertissent plus souvent."
+    },
+    {
+      "heading": "3. Une cadence de contenu qui se cumule réellement"
+    },
+    {
+      "text": "Le plus grand prédicateur de la vitesse de classement est la régularité de la publication. Deux articles piliers par mois, quatre articles axés sur les affections, et des actualisations mensuelles des trois pages les mieux classées. C'est la cadence – rien de plus, rien de moins. Les cabinets qui essaient de sprinter s'épuisent. Ceux qui publient une fois par trimestre ne développent jamais une surface suffisante pour capter le trafic de longue traîne."
+    },
+    {
+      "text": "Chaque article pilier contient entre 1 800 et 2 400 mots, structuré autour de l'intention derrière le mot-clé. Chaque article de soutien contient entre 900 et 1 400 mots, ciblant précisément une seule question qu'un patient tape réellement dans Google. Et chaque rafraîchissement est un véritable rafraîchissement – nouvelle introduction, nouvelles sous-sections, statistiques mises à jour, nouveaux liens internes. Google récompense la récence lorsque l'autorité thématique environnante existe déjà."
+    },
+    {
+      "quote": "Les cabinets qui réussissent en 90 jours sont ceux qui arrêtent de courir après les tactiques et s'engagent dans un système. Les classements sont un indicateur retardé de la bonne action répétée."
+    },
+    {
+      "heading": "4. La chronologie de 90 jours, semaine par semaine"
+    },
+    {
+      "text": "Les semaines 1 à 2 sont consacrées à l'audit et à la cartographie des clusters. Nous inventoriions chaque page existante, supprimons ou consolidons tout ce qui dilue le site, et cartographions les trois clusters les plus pertinents en fonction des revenus des services et de la demande de recherche. Les semaines 3 à 6 sont dédiées aux correctifs techniques et à la réécriture des pages piliers. Les semaines 7 à 10 sont la poussée de contenu – nous publions six nouveaux articles de soutien et deux nouveaux piliers. Les semaines 11 à 13 sont consacrées au maillage interne, aux mises à jour et à la couche de sensibilisation où nous obtenons nos premiers backlinks de marque."
+    },
+    {
+      "text": "Au 90e jour, le mouvement est mesurable – généralement 8 à 15 mots-clés cibles sont passés de la position 50 aux 20 premiers, et un ou deux frappent déjà à la porte de la première page. À partir de ce moment, l'effet cumulatif prend le relais : chaque nouvel article hérite de l'autorité du cluster, chaque backlink se dirige vers une page déjà classée, et le système fonctionne de lui-même avec un entretien mensuel au lieu de reconstructions trimestrielles."
+    }
+  ],
+  "faqs": null
+}

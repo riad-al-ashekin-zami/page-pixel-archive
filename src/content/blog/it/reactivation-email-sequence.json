@@ -1,0 +1,55 @@
+{
+  "slug": "reactivation-email-sequence",
+  "title": "La sequenza e-mail per pazienti inattivi che vale 180.000 $ all'anno",
+  "excerpt": "Sei e-mail, un'offerta e la logica di segmentazione che riporta i pazienti dormienti sulla sedia.",
+  "imageAlt": "Smartphone che mostra una casella di posta illuminata dolcemente accanto a una tazza di caffè e un croissant su lino",
+  "body": [
+    {
+      "text": "Un paziente che non ha effettuato una visita negli ultimi 12 mesi ha una probabilità 4 volte maggiore di prenotare tramite e-mail rispetto a qualsiasi canale a pagamento. Ma la maggior parte degli studi non ne invia mai una. Ecco la sequenza di sei e-mail che utilizziamo per ogni nuovo cliente, insieme alla logica di segmentazione che decide quali pazienti ricevono quale offerta — perché un'e-mail generica 'ci manchi' a 10.000 pazienti inattivi ha prestazioni inferiori rispetto a un arco mirato di sei e-mail a 1.000."
+    },
+    {
+      "text": "Il numero di 180.000 $ nel titolo non è un'esagerazione di marketing. È il ricavo incrementale medio che misuriamo nei primi dodici mesi dopo l'implementazione di questa sequenza per uno studio di medie dimensioni con una singola sede e circa 8.000 contatti inattivi. I gruppi con più sedi vedono regolarmente multipli di tale cifra. La matematica funziona perché il costo della sequenza è zero spesa pubblicitaria incrementale e il pubblico è già qualificato — ha visitato lo studio almeno una volta."
+    },
+    {
+      "heading": "Segmentazione prima del contenuto"
+    },
+    {
+      "text": "Prima di scrivere una singola e-mail, segmentare il pubblico. Raggruppare ogni paziente inattivo in un unico elenco e ogni offerta sembrerà generica a qualcuno. Dividi l'elenco in tre coorti: 12-18 mesi dall'ultima visita (leggero sollecito), 18-36 mesi (re-engagement strutturato) e oltre 36 mesi (recupero aggressivo con un vero incentivo). Ogni coorte riceve lo stesso scheletro di sei e-mail ma con tono, offerta e criteri di rimozione diversi."
+    },
+    {
+      "heading": "La sequenza"
+    },
+    {
+      "list": [
+        "E-mail 1: Ci manchi — un saluto amichevole senza richiesta",
+        "E-mail 2: Novità dello studio",
+        "E-mail 3: Un gentile invito a prenotare il controllo annuale della pelle",
+        "E-mail 4: Contenuti educativi sulla prevenzione del cancro della pelle",
+        "E-mail 5: Un'offerta a tempo limitato specifica per il tipo di ultima visita",
+        "E-mail 6: Ultima chiamata, poi rimozione dalla sequenza"
+      ]
+    },
+    {
+      "heading": "Perché la 'nessuna richiesta' come prima e-mail è importante"
+    },
+    {
+      "text": "La prima e-mail nella sequenza deliberatamente non chiede nulla. È una calorosa reintroduzione dal responsabile dello studio o dall'assistente del medico, idealmente scritta in prima persona con una firma reale. Lo scopo è ricordare al destinatario che questo studio lo ricorda come persona, non come segmento di marketing. I tassi di risposta alle e-mail 'senza richiesta' superano di 5-8 volte quelli delle e-mail 'prenota ora', e coloro che rispondono si identificano come ad alta intenzione."
+    },
+    {
+      "heading": "L'offerta arriva nell'e-mail 5, non nell'e-mail 1"
+    },
+    {
+      "text": "Gli studi commettono spesso l'errore di iniziare con l'offerta. Ciò abitua i pazienti inattivi ad aspettarsi sconti ogni volta che li sentono, e converte il segmento a più bassa intenzione della vostra lista solo sul prezzo. L'arco di sei e-mail sposta l'offerta all'e-mail numero cinque, dopo quattro punti di contatto di calore e istruzione. Quando l'offerta arriva, il paziente è stato riancorato al marchio dello studio, non al suo sconto."
+    },
+    {
+      "heading": "Il passaggio di rimozione protegge la deliverability"
+    },
+    {
+      "text": "L'e-mail sei è l'e-mail di ultima chiamata ed è anche il trigger di rimozione. Qualsiasi destinatario che non ha aperto nessuna delle cinque e-mail precedenti e non apre l'e-mail sei viene rimosso dalla sequenza. Questo protegge la reputazione del mittente con Gmail e Outlook — l'invio a indirizzi non coinvolti è il modo più rapido per finire nelle promozioni o nello spam. Una rimozione aggressiva migliora effettivamente i risultati della campagna successiva perché l'elenco rimanente è più denso e più coinvolto."
+    },
+    {
+      "text": "Implementa la sequenza una volta all'anno per ogni coorte, aggiorna il testo annualmente e tratta il pubblico rimosso come una coorte separata a coda lunga che reintegri ogni 18 mesi con un nuovo nome mittente. Nel corso di tre anni, la cifra di 180.000 $ tende a raddoppiare o triplicare man mano che la sequenza matura e la segmentazione diventa più precisa."
+    }
+  ],
+  "faqs": null
+}

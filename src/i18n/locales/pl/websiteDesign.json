@@ -1,0 +1,220 @@
+{
+  "meta": {
+    "title": "Indywidualne projektowanie stron dla dermatologów — HIPAA, Szybkość i Design",
+    "description": "Profesjonalne strony internetowe dla gabinetów dermatologicznych, klinik wielooddziałowych i chirurgii Mohsa. Zgodność z HIPAA, optymalizacja SEO pod kątem konwersji.",
+    "ogTitle": "Strony internetowe dla dermatologii — Indywidualne i skuteczne",
+    "ogDescription": "W 100% autorskie strony dla dermatologów i chirurgów. Zbudowane z myślą o pacjentach i wynikach w Google.",
+    "jsonLd": {
+      "serviceType": "Projektowanie stron internetowych dla dermatologii",
+      "provider": "DW Design",
+      "areaServed": "United States",
+      "description": "Indywidualne, zgodne z HIPAA i zoptymalizowane pod SEO strony internetowe dedykowane wyłącznie praktykom dermatologicznym."
+    }
+  },
+  "hero": {
+    "badge": "Strony dla Dermatologii",
+    "title": "Indywidualne strony internetowe, które zapełniają Twój kalendarz.",
+    "description": "W 100% autorski design, inżynieria zgodna z HIPAA i zaawansowane SEO — stworzone dla lekarzy prowadzących prywatną praktykę, klinik wielooddziałowych oraz chirurgii dermatologicznej.",
+    "ctaPrimary": "Darmowa wycena",
+    "ctaSecondary": "Bezpłatny audyt strony",
+    "visual": {
+      "imageAlt": "Nowoczesne wnętrze kliniki dermatologicznej",
+      "secureHeading": "Zgodność z HIPAA · Lighthouse 98",
+      "secureSubheading": "Bezpieczne formularze, błyskawiczne ładowanie",
+      "status": "Na żywo",
+      "statLighthouse": "Lighthouse",
+      "statBookings": "+3.4x rezerwacji",
+      "statAverage": "średnia z 90 dni"
+    },
+    "outcomes": {
+      "bookingLift": "Wzrost rezerwacji",
+      "lighthouse": "Lighthouse",
+      "lcp": "LCP (LTE/4G)",
+      "practices": "Kliniki"
+    },
+    "trust": "Zaufało nam ponad 50 gabinetów dermatologicznych · Wyróżnieni w"
+  },
+  "sections": {
+    "audience": {
+      "tag": "Dla kogo projektujemy",
+      "title": "Rozwiązania dla każdego profilu działalności",
+      "description": "Od butikowych gabinetów po rozbudowane grupy chirurgiczne.",
+      "items": [
+        {
+          "label": "Praktyki indywidualne",
+          "desc": "Strony budujące markę osobistą lekarza i zwiększające liczbę wizyt."
+        },
+        {
+          "label": "Kliniki wielooddziałowe",
+          "desc": "Skalowalna architektura z podstronami dla lokalizacji, personelu i dojazdu."
+        },
+        {
+          "label": "Dermatologia dziecięca",
+          "desc": "Przyjazny interfejs dla rodziców z intuicyjnym systemem zapisów."
+        },
+        {
+          "label": "Chirurgia Mohsa i zabiegowa",
+          "desc": "Design budujący autorytet wśród lekarzy kierujących i pacjentów."
+        }
+      ]
+    },
+    "pillars": {
+      "tag": "Standard Premium",
+      "title": "Sześć filarów każdego projektu",
+      "description": "Design, technologia, SEO i zgodność prawna — zintegrowane od pierwszego dnia pracy.",
+      "items": [
+        {
+          "title": "100% Autorski Design",
+          "desc": "Zapomnij o szablonach. Każda sekcja i ilustracja powstaje z myślą o Twojej marce."
+        },
+        {
+          "title": "Lighthouse 95+",
+          "desc": "Obsesyjna dbałość o wydajność: optymalizacja obrazów, edge caching i lekki kod JS."
+        },
+        {
+          "title": "Zaawansowane SEO",
+          "desc": "Semantyczny HTML, schema i architektura treści pod zapytania lokalne i medyczne."
+        },
+        {
+          "title": "Zgodność z HIPAA",
+          "desc": "Szyfrowane formularze, brak wycieków danych PHI i infrastruktura gotowa na audyt."
+        },
+        {
+          "title": "Pełna responsywność",
+          "desc": "Perfekcyjne wyświetlanie na każdym urządzeniu. Testowane na realnym sprzęcie."
+        },
+        {
+          "title": "Dostępność (WCAG AA)",
+          "desc": "Obsługa klawiaturą, odpowiedni kontrast i czytelność dla osób niedowidzących."
+        }
+      ]
+    },
+    "medicalServices": {
+      "tag": "Zakres usług medycznych",
+      "title": "Podstrony usług, które pozycjonują i przekonują",
+      "description": "Zoptymalizowane pod SEO podstrony dla każdego zabiegu w ofercie — merytoryczne, przystępne dla pacjenta i wspierające konwersję.",
+      "features": [
+        "Struktura treści zweryfikowana medycznie",
+        "Sekcje H1 / H2 / FAQ dopasowane do słów kluczowych",
+        "Formularze konsultacyjne zgodne z HIPAA",
+        "Szybkie, indeksowalne szablony mobile-first"
+      ],
+      "list": [
+        "Leczenie trądziku",
+        "Leczenie egzemy",
+        "Leczenie łuszczycy",
+        "Infekcje skórne",
+        "Alergie skórne",
+        "Badanie i leczenie raka skóry",
+        "Badanie i usuwanie znamion",
+        "Usuwanie cyst i tłuszczaków",
+        "Usuwanie brodawek",
+        "Choroby paznokci",
+        "Leczenie wypadania włosów",
+        "Choroby skóry głowy",
+        "Leczenie trądziku różowatego",
+        "Przebarwienia i ostuda",
+        "Usuwanie blizn",
+        "Blizny pooparzeniowe",
+        "Bielactwo",
+        "Biopsja skóry i diagnostyka"
+      ]
+    },
+    "portfolio": {
+      "tag": "Realizacje",
+      "title": "Nasze ostatnie wdrożenia",
+      "viewAll": "Zobacz pełne portfolio",
+      "items": [
+        {
+          "label": "MS Clinic",
+          "meta": "Praktyka indywidualna · +187% rezerwacji",
+          "alt": "Projekt strony dla kliniki MS Clinic"
+        },
+        {
+          "label": "ND Group",
+          "meta": "Klinika wielooddziałowa · 6 placówek",
+          "alt": "Projekt strony dla ND Group"
+        },
+        {
+          "label": "SM Surgical",
+          "meta": "Chirurgia · +230% skierowań",
+          "alt": "Projekt strony dla SM Surgical"
+        }
+      ]
+    },
+    "process": {
+      "tag": "Nasz Proces",
+      "title": "Przejrzysta współpraca z ekspertami",
+      "description": "Cztery etapy realizacji — bez niespodzianek, z pełną transparentnością.",
+      "steps": [
+        {
+          "step": "01",
+          "title": "Analiza i pozycjonowanie",
+          "desc": "Audyt praktyki, profilowanie pacjentów, analiza konkurencji i ustalenie celów."
+        },
+        {
+          "step": "02",
+          "title": "System Designu",
+          "desc": "Dedykowana typografia, kolorystyka i biblioteka komponentów spójna z Twoją marką."
+        },
+        {
+          "step": "03",
+          "title": "Programowanie i SEO",
+          "desc": "Ręczne kodowanie, wdrożenie danych schema i optymalizacja pod rankingi Google."
+        },
+        {
+          "step": "04",
+          "title": "Launch i rozwój",
+          "desc": "Analityka, testy konwersji i opieka powdrożeniowa dla stałego wzrostu wyników."
+        }
+      ]
+    }
+  },
+  "testimonial": {
+    "quote": "W ciągu 90 dni liczba rejestracji nowych pacjentów wzrosła 3.4-krotnie. Strona ładuje się błyskawicznie, dominuje w lokalnych wynikach wyszukiwania i w końcu odzwierciedla standard opieki, jaki oferujemy.",
+    "author": "Dr Nora Whitfield, MD",
+    "role": "MS Clinic · Praktyka indywidualna",
+    "imageAlt": "Dr Nora Whitfield, MD"
+  },
+  "faq": {
+    "tag": "FAQ",
+    "title": "Najczęściej zadawane pytania",
+    "items": [
+      {
+        "q": "Ile trwa stworzenie dedykowanej strony dla dermatologa?",
+        "a": "Zazwyczaj proces zajmuje od 6 do 10 tygodni, zależnie od liczby podstron i gotowości treści. Pracujemy sprawnie dzięki tygodniowym sprintom i jasnym etapom."
+      },
+      {
+        "q": "Czy strona jest zgodna z HIPAA?",
+        "a": "Tak, stosujemy architekturę zgodną z HIPAA: szyfrowane formularze, bezpieczny hosting z partnerami BAA oraz brak wycieku danych PHI do systemów analitycznych."
+      },
+      {
+        "q": "Czy będę właścicielem projektu i kodu?",
+        "a": "Tak. Po premierze pełna własność plików graficznych, kodu i treści przechodzi na Ciebie. Brak ukrytych opłat licencyjnych czy zamkniętych systemów CMS."
+      },
+      {
+        "q": "Co wchodzi w zakres optymalizacji SEO?",
+        "a": "Struktura nagłówków H1/H2, dane strukturalne schema (LocalBusiness, MedicalClinic), optymalizacja meta tagów, linkowanie wewnętrzne oraz opisy ALT zdjęć."
+      },
+      {
+        "q": "Czy oferujecie wsparcie po uruchomieniu strony?",
+        "a": "Oczywiście. Nasze plany opieki obejmują aktualizacje, bezpieczeństwo, kopie zapasowe, monitoring wydajności oraz comiesięczne aktualizacje treści."
+      }
+    ]
+  },
+  "cta": {
+    "tag": "Darmowy audyt strony",
+    "title": "Gotowy na stronę, która naprawdę pozyskuje pacjentów?",
+    "description": "Opowiedz nam o swojej klinice. Wskażemy Ci dokładnie, gdzie Twoja obecna strona traci pacjentów i jak możemy to naprawić.",
+    "buttonPrimary": "Darmowa wycena",
+    "buttonSecondary": "Skontaktuj się z nami"
+  },
+  "footer": {
+    "relatedTitle": "Może Cię zainteresować:",
+    "relatedLinks": {
+      "redesign": "modernizacja starej strony",
+      "costs": "ile kosztuje profesjonalny projekt",
+      "portfolio": "zobacz nasze realizacje"
+    }
+  }
+}

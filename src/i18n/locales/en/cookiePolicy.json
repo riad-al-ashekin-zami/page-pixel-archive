@@ -1,0 +1,108 @@
+{
+  "meta": {
+    "title": "Cookie Policy — How We Use Cookies",
+    "description": "What cookies and similar technologies we use on our website, why we use them, and how you can control them.",
+    "og": {
+      "title": "Cookie Policy — How We Use Cookies",
+      "description": "What cookies and similar technologies we use on our website, why we use them, and how you can control them."
+    },
+    "twitter": {
+      "title": "Cookie Policy — How We Use Cookies",
+      "description": "What cookies and similar technologies we use on our website, why we use them, and how you can control them."
+    }
+  },
+  "layout": {
+    "skipToContent": "Skip to content"
+  },
+  "hero": {
+    "badge": "Legal · Cookie Policy",
+    "title": "Cookie Policy",
+    "description": "What cookies and similar technologies we use, why we use them, and how you can control them. Read alongside our",
+    "privacyPolicyLink": "Privacy Policy",
+    "lastUpdated": "Last updated:",
+    "lastUpdatedDate": "July 14, 2026"
+  },
+  "sidebar": {
+    "contents": "Contents",
+    "navAriaLabel": "Section navigation"
+  },
+  "sections": {
+    "whatAreCookies": {
+      "title": "1. What Are Cookies?",
+      "body": "Cookies are small text files stored on your device when you visit a website. They help the site remember your actions and preferences over time. We also use similar technologies such as local storage and pixel tags — collectively referred to as \"cookies\" in this policy."
+    },
+    "types": {
+      "title": "2. Types of Cookies We Use",
+      "strictlyNecessary": {
+        "label": "Strictly necessary:",
+        "description": "required for core site functionality such as navigation, security, and remembering your consent choices. These can't be switched off."
+      },
+      "performance": {
+        "label": "Performance & analytics:",
+        "description": "help us understand how visitors interact with the site so we can improve it (e.g. pages viewed, time on page, aggregate traffic sources)."
+      },
+      "functional": {
+        "label": "Functional:",
+        "description": "remember choices you make (like preferred language or region) to give you a more personal experience."
+      },
+      "marketing": {
+        "label": "Marketing:",
+        "description": "used by us or our partners to measure campaign effectiveness and, where applicable, show relevant content on other sites."
+      }
+    },
+    "firstVsThird": {
+      "title": "3. First-Party vs. Third-Party Cookies",
+      "firstPartyLabel": "First-party",
+      "firstPartyDescription": "cookies are set by this site.",
+      "thirdPartyLabel": "Third-party",
+      "thirdPartyDescription": "cookies are set by services we use — such as analytics, video, scheduling, or advertising providers. Third parties are responsible for how they use the data they collect; please review their own cookie and privacy policies."
+    },
+    "howWeUse": {
+      "title": "4. How We Use Cookies",
+      "items": [
+        "Keep the site secure and functioning correctly.",
+        "Remember your consent and preference choices.",
+        "Measure traffic and understand how visitors use the site.",
+        "Improve content, performance, and user experience."
+      ]
+    },
+    "manage": {
+      "title": "5. Managing Your Cookies",
+      "intro": "You can control cookies in several ways:",
+      "browserSettings": {
+        "label": "Browser settings:",
+        "description": "most browsers let you block or delete cookies — check your browser's help pages."
+      },
+      "optOutTools": {
+        "label": "Opt-out tools:",
+        "description": "many analytics and advertising providers offer their own opt-out mechanisms."
+      },
+      "consentBanner": {
+        "label": "Consent banner:",
+        "description": "where required by law, you can update your consent choices via the banner or preference link on this site."
+      },
+      "footer": "Blocking some cookies may affect how parts of the site work."
+    },
+    "doNotTrack": {
+      "title": "6. Do Not Track",
+      "body": "Some browsers offer a \"Do Not Track\" signal. There is no consistent industry standard for responding to it, so our site does not currently change behavior based on DNT signals."
+    },
+    "changes": {
+      "title": "7. Changes to This Policy",
+      "body": "We may update this Cookie Policy as our practices or applicable laws change. The \"Last updated\" date above reflects the current version."
+    },
+    "contact": {
+      "title": "8. Contact",
+      "body": "Questions about our use of cookies? Reach us through our",
+      "contactLink": "contact page",
+      "privacySuffix": ", or review our",
+      "privacyLink": "Privacy Policy",
+      "privacyEnd": "for how we handle personal data."
+    }
+  },
+  "cta": {
+    "title": "Questions about cookies?",
+    "description": "We're happy to walk through what we use and why.",
+    "button": "Contact us"
+  }
+}

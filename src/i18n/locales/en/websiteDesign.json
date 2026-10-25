@@ -1,0 +1,220 @@
+{
+  "meta": {
+    "title": "Custom Dermatology Website Design — HIPAA-Aware & Fast",
+    "description": "Premium custom dermatology website design for solo, multi-location, pediatric, and Mohs practices. HIPAA-aware, fast, SEO-optimized, and conversion-focused.",
+    "ogTitle": "Dermatology Website Design — Custom & Conversion-Focused",
+    "ogDescription": "100% custom dermatology websites for solo, multi-location, pediatric, and Mohs surgical practices. Built for patients and Google.",
+    "jsonLd": {
+      "serviceType": "Dermatology Website Design",
+      "provider": "DW Design",
+      "areaServed": "United States",
+      "description": "Custom, HIPAA-aware, SEO-optimized website design exclusively for dermatology practices."
+    }
+  },
+  "hero": {
+    "badge": "Dermatology Website Design",
+    "title": "Custom dermatology websites that fill your schedule.",
+    "description": "100% custom design, HIPAA-aware engineering, and on-page SEO — built for solo dermatologists, multi-location clinics, pediatric, and Mohs surgical practices.",
+    "ctaPrimary": "Get a Free Quote",
+    "ctaSecondary": "Free Website Audit",
+    "visual": {
+      "imageAlt": "Modern dermatology clinic environment",
+      "secureHeading": "HIPAA-aware · Lighthouse 98",
+      "secureSubheading": "Secure forms, fast pages",
+      "status": "Live",
+      "statLighthouse": "Lighthouse",
+      "statBookings": "+3.4x bookings",
+      "statAverage": "90-day average"
+    },
+    "outcomes": {
+      "bookingLift": "Booking lift",
+      "lighthouse": "Lighthouse",
+      "lcp": "LCP on 4G",
+      "practices": "Practices"
+    },
+    "trust": "Trusted by 50+ dermatology practices · Featured in"
+  },
+  "sections": {
+    "audience": {
+      "tag": "Target Audience",
+      "title": "Built for every kind of dermatology practice",
+      "description": "From single-provider clinics to multi-location surgical groups.",
+      "items": [
+        {
+          "label": "Solo Dermatologists",
+          "desc": "Boutique sites that reflect your clinical brand and fill your schedule."
+        },
+        {
+          "label": "Multi-location Clinics",
+          "desc": "Scalable IA with per-location pages, staff, hours, and directions."
+        },
+        {
+          "label": "Pediatric Dermatology",
+          "desc": "Warm, parent-friendly UX with clear intake and guardian workflows."
+        },
+        {
+          "label": "Mohs & Surgical Dermatology",
+          "desc": "Authority-first design for referring physicians and self-referrals."
+        }
+      ]
+    },
+    "pillars": {
+      "tag": "What Makes It Premium",
+      "title": "Six non-negotiables in every build",
+      "description": "Design, engineering, SEO, and compliance — engineered together from day one.",
+      "items": [
+        {
+          "title": "100% Custom Design",
+          "desc": "No templates. Every section, illustration, and interaction is designed for your clinic."
+        },
+        {
+          "title": "Lighthouse 95+",
+          "desc": "Performance-obsessed builds — image pipelines, edge caching, and lean JS."
+        },
+        {
+          "title": "On-Page SEO",
+          "desc": "Semantic HTML, schema, internal links, and content architecture for local + medical queries."
+        },
+        {
+          "title": "HIPAA-Aware",
+          "desc": "Secure forms, no PHI leaks, audit-friendly stack, BAA-ready partners."
+        },
+        {
+          "title": "Fully Responsive",
+          "desc": "Pixel-perfect on desktop, laptop, tablet, and mobile. Real-device tested."
+        },
+        {
+          "title": "Accessibility (WCAG AA)",
+          "desc": "Keyboard-first, contrast-safe, screen-reader labeled — inclusive by default."
+        }
+      ]
+    },
+    "medicalServices": {
+      "tag": "Medical Services Coverage",
+      "title": "Service pages designed to rank & convert",
+      "description": "Individual, SEO-optimized service pages for every treatment your practice offers — with medical accuracy, patient-friendly explanations, structured data, and strong CTAs.",
+      "features": [
+        "Medically reviewed content structure",
+        "Keyword-mapped H1 / H2 / FAQ sections",
+        "HIPAA-aware intake & consult forms",
+        "Fast, indexable, mobile-first templates"
+      ],
+      "list": [
+        "Acne Treatment",
+        "Eczema Treatment",
+        "Psoriasis Treatment",
+        "Skin Infection Treatment",
+        "Skin Allergy Treatment",
+        "Skin Cancer Screening & Treatment",
+        "Mole Evaluation & Removal",
+        "Cyst & Lipoma Removal",
+        "Wart Removal",
+        "Nail Disorder Treatment",
+        "Hair Loss Treatment",
+        "Scalp Disorder Treatment",
+        "Rosacea Treatment",
+        "Hyperpigmentation & Melasma",
+        "Scar Treatment",
+        "Burn Scar Treatment",
+        "Vitiligo Treatment",
+        "Skin Biopsy & Diagnostics"
+      ]
+    },
+    "portfolio": {
+      "tag": "Recent Work",
+      "title": "Sites we've launched",
+      "viewAll": "View full portfolio",
+      "items": [
+        {
+          "label": "MS Clinic",
+          "meta": "Solo Practice · +187% bookings",
+          "alt": "MS Clinic dermatology website design"
+        },
+        {
+          "label": "ND Group",
+          "meta": "Multi-location · 6 clinics",
+          "alt": "ND Group dermatology website design"
+        },
+        {
+          "label": "SM Surgical",
+          "meta": "Surgical · +230% referrals",
+          "alt": "SM Surgical dermatology website design"
+        }
+      ]
+    },
+    "process": {
+      "tag": "Our Process",
+      "title": "A calm, senior-led process",
+      "description": "Four transparent phases — no ghosting, no surprises.",
+      "steps": [
+        {
+          "step": "01",
+          "title": "Discovery & Positioning",
+          "desc": "Practice audit, patient personas, competitor teardown, and conversion goals."
+        },
+        {
+          "step": "02",
+          "title": "Design System",
+          "desc": "Custom typography, palette, motion, and component library — unique to your brand."
+        },
+        {
+          "step": "03",
+          "title": "Build & SEO",
+          "desc": "Hand-coded, schema-marked, image-optimized, and content-structured for rankings."
+        },
+        {
+          "step": "04",
+          "title": "Launch & Growth",
+          "desc": "Analytics, CRO experiments, and care plan to compound results month over month."
+        }
+      ]
+    }
+  },
+  "testimonial": {
+    "quote": "Within 90 days our new-patient bookings jumped 3.4x. The site loads instantly, ranks locally, and finally reflects the quality of care we provide.",
+    "author": "Dr. Nora Whitfield, MD",
+    "role": "MS Clinic · Solo Practice",
+    "imageAlt": "Dr. Nora Whitfield, MD"
+  },
+  "faq": {
+    "tag": "FAQ",
+    "title": "Answers before you ask",
+    "items": [
+      {
+        "q": "How long does a custom dermatology website take?",
+        "a": "Typical timeline is 6–10 weeks from kickoff to launch, depending on page count and content readiness. We move faster with structured milestones and weekly reviews."
+      },
+      {
+        "q": "Is the website HIPAA-compliant?",
+        "a": "We build with HIPAA-aware architecture — encrypted forms, secure hosting with BAA-ready partners, no PHI in analytics, and audit trails on submissions."
+      },
+      {
+        "q": "Do I own the design and code?",
+        "a": "Yes. On launch, full ownership of design files, code, and content transfers to you. No lock-in, no proprietary CMS."
+      },
+      {
+        "q": "What's included in on-page SEO?",
+        "a": "Keyword-mapped H1/H2 structure, schema markup (LocalBusiness, MedicalClinic, FAQ), optimized meta, internal linking, and image alt/optimization across every page."
+      },
+      {
+        "q": "Do you offer ongoing support after launch?",
+        "a": "Yes. Our Website Care plans cover updates, security, backups, uptime monitoring, performance tuning, and monthly content edits."
+      }
+    ]
+  },
+  "cta": {
+    "tag": "Free Website Audit",
+    "title": "Ready for a dermatology website that actually books patients?",
+    "description": "Tell us about your practice. We'll show you exactly where your current site is losing patients — and how to fix it.",
+    "buttonPrimary": "Get a Free Quote",
+    "buttonSecondary": "Contact Us"
+  },
+  "footer": {
+    "relatedTitle": "Related reading you may enjoy:",
+    "relatedLinks": {
+      "redesign": "modernizing an older site",
+      "costs": "what design projects typically cost",
+      "portfolio": "browse recent launches"
+    }
+  }
+}

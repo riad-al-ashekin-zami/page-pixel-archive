@@ -1,0 +1,416 @@
+{
+  "meta": {
+    "title": "Supporttjenester for dermatologiske nettsider — Fast ingeniør, 15 min beredskapsgaranti",
+    "description": "Personlig nettsidesupport for hudlegepraksiser. Fast ingeniør, live chat, prioritert telefon, endringstimer, opplæring av ansatte, HIPAA-kompatibel veiledning og 24/7 beredskap. Ingen bindingstid.",
+    "og": {
+      "title": "Supporttjenester for dermatologiske nettsider — Ekte ingeniører, raske svar",
+      "description": "En fast kontaktperson, svar på under en time, dedikerte timer til innhold og design, samt 24/7 krisehåndtering — spesialtilpasset hudleger."
+    },
+    "jsonLd": {
+      "serviceType": "Dermatology Website Support Services",
+      "provider": "DermatologyWebsiteDesign.com",
+      "offerDescription": "Supportavtale for dermatologiske nettsider — startpris per måned"
+    }
+  },
+  "hero": {
+    "badgeOpen": "Support åpen · snitt svar 42 sekunder",
+    "badgeOpenMobile": "Support åpen · 42s svar",
+    "badgeTitle": "Supporttjenester for nettsider",
+    "titlePrefix": "En ekte ingeniør, ",
+    "titleHighlight": "kun en melding unna.",
+    "description": "Nettsidesupport bygget for dermatologiske klinikker. Fast kontaktperson, live chat, prioritert telefon, endringstimer, opplæring og 24/7 beredskap — ingen saker går tapt i køen.",
+    "ctaStart": "Start en supportavtale",
+    "ctaDemo": "Se hvordan support fungerer",
+    "pricing": {
+      "label": "Supportavtaler fra",
+      "value": "$249",
+      "suffix": "/ mnd · løpende avtale, ingen binding"
+    },
+    "trustLabels": [
+      "Fast ingeniør",
+      "Live chat + telefon",
+      "Endringstimer inkludert",
+      "24/7 beredskap"
+    ],
+    "imageAlt": "Supportingeniør for dermatologiske nettsider ved skrivebordet med live chat og innboks"
+  },
+  "stats": [
+    {
+      "value": "42s",
+      "label": "Gjennomsnittlig svar på chat"
+    },
+    {
+      "value": "18min",
+      "label": "Snittid for utført endring"
+    },
+    {
+      "value": "98%",
+      "label": "Løst ved første kontakt"
+    },
+    {
+      "value": "4.9/5",
+      "label": "Kundetilfredshet (siste 12 mnd)"
+    }
+  ],
+  "channels": {
+    "tag": "Kontakt oss akkurat slik du ønsker",
+    "title": "Seks kanaler. Én ingeniør. Null ventetoner.",
+    "description": "Hver forespørsel havner i samme innboks med innebygd SLA — enten den kommer via chat, e-post, telefon eller personsøker klokken 03:00.",
+    "items": [
+      {
+        "name": "Live Chat",
+        "desc": "Chat i appen, 09:00–21:00 ET, bemannet av ekte ingeniører.",
+        "meta": "snitt 42s svar"
+      },
+      {
+        "name": "Direktetelefon",
+        "desc": "Eget nummer direkte til din ingeniør — ingen tastevalg.",
+        "meta": "ingen kø"
+      },
+      {
+        "name": "Prioritert E-post",
+        "desc": "SLA-overvåket innboks med svar-garanti basert på din avtale.",
+        "meta": "≤ 1 time på Pro"
+      },
+      {
+        "name": "Ticket-portal",
+        "desc": "Full historikk, skjermbilder og status for hver forespørsel.",
+        "meta": "selvbetjent 24/7"
+      },
+      {
+        "name": "Gjennomgang på video",
+        "desc": "Skjermdeling for opplæring og komplekse justeringer.",
+        "meta": "på forespørsel"
+      },
+      {
+        "name": "Nødnummer",
+        "desc": "Eskalering ved nedetid til vaktgående ingeniør, 24/7.",
+        "meta": "15-min SLA"
+      }
+    ]
+  },
+  "helpTopics": {
+    "tag": "Hva vi faktisk hjelper med",
+    "title": "Fra \"endre dette ordet\" til \"bookingskjemaet vårt er nede.\"",
+    "description": "Seks kategorier med daglig arbeid — ting en travel klinikk trenger gjort i dag, ikke neste måned.",
+    "items": [
+      {
+        "title": "Innholdsendringer",
+        "desc": "Biografier, tjenestesider, blogginnlegg og forsikringslister — utført i løpet av få timer."
+      },
+      {
+        "title": "Designjusteringer",
+        "desc": "Utskiftning av bannere, sesongkampanjer, nye seksjoner og layout-justeringer."
+      },
+      {
+        "title": "Opplæring av ansatte",
+        "desc": "Videoinstrukser og live-sesjoner slik at teamet ditt kan bruke siden selvstendig."
+      },
+      {
+        "title": "Integrasjonshjelp",
+        "desc": "Booking-widgets, EHR-innbygging, anmeldelsesplattformer og analyse — konfigurert og debugget."
+      },
+      {
+        "title": "HIPAA-veiledning",
+        "desc": "Hvert skjema, sporingsverktøy og tredjeparts-skript sjekkes for PHI-sikkerhet før publisering."
+      },
+      {
+        "title": "Krisehåndtering",
+        "desc": "Om siden går ned eller booking feiler — eskaler til din faste ingeniør, 24/7."
+      }
+    ]
+  },
+  "flow": {
+    "tag": "Slik fungerer supporten",
+    "title": "En arbeidsflyt bygget for travle hudleger.",
+    "steps": [
+      {
+        "id": "01",
+        "title": "Møt din ingeniør",
+        "desc": "Du får en fast kontaktperson fra dag én — ikke en roterende supportavdeling. De lærer din side, ditt team og din terminologi."
+      },
+      {
+        "id": "02",
+        "title": "Send forespørsel når som helst",
+        "desc": "Chat, e-post, telefon, portal eller en delt Slack-kanal. Hver forespørsel spores med en garantert svartid."
+      },
+      {
+        "id": "03",
+        "title": "Ekte mennesker, raskt",
+        "desc": "De fleste endringer gjennomføres innen en time. Større oppgaver får en plan, et estimat og en gjennomgang før publisering."
+      },
+      {
+        "id": "04",
+        "title": "Månedlig sjekk",
+        "desc": "En 30-minutters samtale hver måned for å se på forespørsler, veikart og fremtidsplaner — proaktivt, ikke reaktivt."
+      }
+    ]
+  },
+  "responseDesk": {
+    "badge": "Kundesenter · aktivt",
+    "title": "Velg en kanal. Se hvor raskt vi svarer.",
+    "description": "Et realistisk innblikk i en supportdialog – fra første melding til ferdigstilt rettelse.",
+    "meterLabel": "Live responstid",
+    "meterSuffix": "s",
+    "meterComparison": "Raskere enn 94% av andre byråer",
+    "status": "Tilstede",
+    "labels": {
+      "chatReply": "Chat-svar",
+      "emergencySla": "Nød-SLA"
+    },
+    "engineerInfo": {
+      "name": "Jordan R. · Din ingeniør",
+      "status": "Online",
+      "typing": "Jordan skriver…"
+    },
+    "demos": {
+      "chat": {
+        "label": "Live Chat",
+        "sla": "snitt 42s svar",
+        "lines": [
+          "Hei – kan vi bytte ut hovedbildet på Aesthetic-siden i dag?",
+          "Den er grei. Bare send filen, så publiserer jeg den innen 15 min.",
+          "Sendt! Kan du også legge til Dr. Chen i oversikten over leger?",
+          "Begge deler er nå live. Forhåndsvisning kommer om 8 min ✅"
+        ]
+      },
+      "phone": {
+        "label": "Direktetelefon",
+        "sla": "ingen tastevalg",
+        "lines": [
+          "📞 Ringer — Daglig leder, LA Dermatology.",
+          "Hei Sara, det er Jordan. Hva kan jeg hjelpe med?",
+          "Booking-feltet gir en feilmelding på iPhone.",
+          "Jeg ser det her. Legger ut en fiks nå — 6 minutter. Bli på linjen."
+        ]
+      },
+      "email": {
+        "label": "Prioritert E-post",
+        "sla": "≤ 1 time på Pro",
+        "lines": [
+          "Emne: Oppdater forsikringsliste for alle 6 klinikker",
+          "Mottatt — sender deg en oversikt til godkjenning om 20 min.",
+          "Godkjent. Vennligst fjern 'Aetna'-logoen også, vi tar ikke lenger imot den.",
+          "Fullført for alle 6 sider. Bekreftelse er sendt på e-post ✅"
+        ]
+      },
+      "ticket": {
+        "label": "Ticket-portal",
+        "sla": "selvbetjent 24/7",
+        "lines": [
+          "#4831 · Ny: 'Legg til spansk registreringsskjema (PDF) på kontaktsiden'",
+          "Tildelt meg. Estimert ferdig: 45 min. Prioritet: Normal.",
+          "Har lagt ved filen. Vennligst lenk til den fra bunnteksten også.",
+          "Publisert. Sak avsluttet med skjermbilder ✅"
+        ]
+      }
+    }
+  },
+  "plans": {
+    "tag": "Supportavtaler",
+    "title": "Personlig support til en forutsigbar pris.",
+    "description": "Alle avtaler er månedlige med en fast ingeniør. Avslutt når du vil.",
+    "mostChosen": "Mest populær",
+    "marketLabel": "Markedspris:",
+    "choose": "Velg",
+    "cards": [
+      {
+        "name": "Starter",
+        "tag": "Enkeltklinikker",
+        "price": "$249",
+        "per": "/mnd",
+        "sla": "≤ 4 timer svar",
+        "edits": "Endringer: 2 t / mnd",
+        "market": "$500 – $1,000 /mnd",
+        "savings": "50–75% rimeligere",
+        "features": [
+          "Fast supportingeniør",
+          "E-post + ticket-portal",
+          "2 timer endringsarbeid per måned",
+          "Support i åpningstid (09–18 ET)",
+          "Månedlig oppsummeringsrapport",
+          "Gjennomgangsmøte ved oppstart"
+        ]
+      },
+      {
+        "name": "Professional",
+        "tag": "Klinikker med flere tjenester",
+        "price": "$549",
+        "per": "/mnd",
+        "sla": "≤ 1 time svar",
+        "edits": "Endringer: 6 t / mnd",
+        "market": "$1,100 – $2,500 /mnd",
+        "savings": "50–78% rimeligere",
+        "features": [
+          "Alt i Starter",
+          "Live chat + prioritert telefonlinje",
+          "6 timer endringsarbeid per måned",
+          "Utvidet åpningstid (09–21 ET)",
+          "Kvartalsvise opplæringsøkter",
+          "Hjelp med integrasjoner & analyse",
+          "30-min månedlig strategisamtale"
+        ]
+      },
+      {
+        "name": "Enterprise",
+        "tag": "Kjeder & kirurgiske grupper",
+        "price": "$1,299",
+        "per": "/mnd",
+        "sla": "≤ 15 min beredskap",
+        "edits": "Endringer: Ubegrenset*",
+        "market": "$2,800 – $5,500 /mnd",
+        "savings": "54–76% rimeligere",
+        "features": [
+          "Alt i Professional",
+          "24/7 nødnummer",
+          "Delt Slack / Teams-kanal",
+          "Ubegrenset* endringstimer (Fair use)",
+          "Sporing per lokasjon",
+          "Dedikert reserve-ingeniør",
+          "Kvartalsvis virksomhetsevaluering"
+        ]
+      }
+    ]
+  },
+  "audiences": {
+    "tag": "Hvem vi hjelper",
+    "title": "Spesialtilpasset for alle dermatologiske modeller.",
+    "items": [
+      {
+        "label": "Privatpraktiserende hudleger",
+        "desc": "Direkte kontakt med et menneske som kjenner siden din — ingen saker blir borte i køen."
+      },
+      {
+        "label": "Dermatologiske klinikk-kjeder",
+        "desc": "Sporing av endringer per sted, delt innboks og én kontaktperson for alle ledere."
+      },
+      {
+        "label": "Barnehudleger",
+        "desc": "Barnevennlige innholdsendringer og oppdatering av skjemaer håndteres med klinisk nøyaktighet."
+      },
+      {
+        "label": "Mohs- & kirurgisk dermatologi",
+        "desc": "Endringer i henvisningsportaler og oppdateringer av behandlere utføres samme arbeidsdag."
+      }
+    ]
+  },
+  "medicalServices": {
+    "tag": "Tjenestesider vi vedlikeholder",
+    "title": "Endringer og oppdateringer for alle dine behandlinger.",
+    "description": "Fra akne til vitiligo — vi håndterer innhold, prisendringer, nye behandlere og SEO-oppdateringer på forespørsel.",
+    "items": [
+      "Aknebehandling",
+      "Eksembehandling",
+      "Psoriasisbehandling",
+      "Behandling av hudinfeksjoner",
+      "Hudallergier",
+      "Sjekk av føflekker og hudkreft",
+      "Vurdering og fjerning av føflekker",
+      "Fjerning av cyster og lipomer",
+      "Vortefjerning",
+      "Behandling av neglesykdommer",
+      "Utredning og behandling av hårtap",
+      "Behandling av hodebunnsproblemer",
+      "Rosaceabehandling",
+      "Hyperpigmentering og melasma",
+      "Arrbehandling",
+      "Behandling av brannskadearr",
+      "Vitiligobehandling",
+      "Hudbiopsier og diagnostikk"
+    ]
+  },
+  "testimonials": {
+    "tag": "Hva kundene sier",
+    "title": "Hudleger som endelig føler seg ivaretatt.",
+    "items": [
+      {
+        "name": "Dr. Ethan Caldwell, MD",
+        "role": "LA Dermatology",
+        "quote": "Jeg sender en melding til ett nummer, får svar etter et minutt, og endringen er live før lunsj. Det er alt jeg trenger å si."
+      },
+      {
+        "name": "Dr. Anika Vasquez, MD",
+        "role": "CM Surgical",
+        "quote": "De lærte opp resepsjonen vår i CMS-systemet på ett enkelt Zoom-møte. Halvparten av supportbehovet forsvant over natten – men de sakene vi faktisk sender, løses på 15 minutter."
+      },
+      {
+        "name": "Dr. Ibrahim Okafor, MD",
+        "role": "RS Institute · 6 avd.",
+        "quote": "Seks ledere, seks sett med endringer, én innboks. Min ingeniør kjenner hver lokasjon ved navn. Det føles som å ha et internt team uten lønnskostnadene."
+      }
+    ]
+  },
+  "faq": {
+    "tag": "Ofte stilte spørsmål",
+    "title": "Svar om nettsidesupport.",
+    "items": [
+      {
+        "q": "Hvordan skiller dette seg fra deres vedlikeholdsavtaler?",
+        "a": "Vedlikehold holder siden din i drift — oppdateringer, sikkerhetskopier, overvåking og sikkerhet. Support er det menneskelige laget på toppen: en fast ingeniør du kan snakke med, timer til design- og innholdsendringer, opplæring av ansatte og hjelp med integrasjoner. De fleste klinikker kombinerer disse."
+      },
+      {
+        "q": "Hva regnes som en 'endringstimer'?",
+        "a": "Alt arbeid med innhold, små designjusteringer eller konfigurasjon: oppdatere biografier, legge til nye seksjoner, bytte ut bannere, fikse booking-widgets, endre forsikringslister, laste opp før-og-etter-bilder eller publisere blogginnlegg. Større utviklingsprosjekter prises separat."
+      },
+      {
+        "q": "Hvor raskt svarer dere egentlig?",
+        "a": "Live chat har et snitt på 42 sekunder i åpningstiden. Prioritert e-post er under 1 time på Professional og Enterprise. Kritiske feil på Enterprise-nivå eskaleres innen 15 minutter, 24/7, til en fast vakt-ingeniør."
+      },
+      {
+        "q": "Støtter dere sider dere ikke har bygget selv?",
+        "a": "Ja — vi støtter WordPress, Webflow, spesialbygde og headless-løsninger for hudleger. Vi starter med en teknisk revisjon slik at vi overtar siden på en trygg måte og vet nøyaktig hva vi skal supportere."
+      },
+      {
+        "q": "Kan ansatte be om endringer, eller bare leger?",
+        "a": "Alle teammedlemmer du autoriserer. De fleste klinikker gir tilgang til legen, daglig leder og markedsansvarlig. Hver forespørsel logges i portalen med full historikk."
+      },
+      {
+        "q": "Hva skjer hvis jeg ikke bruker opp timene mine en måned?",
+        "a": "Inntil 50 % av ubrukte timer ruller over til neste måned. Vi vil heller at du får verdi for pengene enn at du må dikte opp arbeid — de fleste klienter bruker opp timene sine og vel så det."
+      },
+      {
+        "q": "Er det kontrakt/bindingstid?",
+        "a": "Avtalen løper måned for måned, og du kan avslutte når som helst. Du beholder alt innhold, kode, påloggingsinfo og historikk hvis du velger å slutte."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Møt ingeniøren som svarer på din neste melding.",
+    "highlight": "Få et uforpliktende pristilbud.",
+    "description": "Vi går gjennom nettsiden din, deres behov for endringer og hvilken plan som passer best — og sender deg et skriftlig tilbud.",
+    "buttonQuote": "Start en supportavtale",
+    "buttonContact": "Kontakt oss"
+  },
+  "inboxWidget": {
+    "title": "Support-innboks",
+    "status": "I dag · 5 åpne",
+    "replyMetric": "svar",
+    "engineer": {
+      "label": "Din ingeniør",
+      "status": "Jordan R. · online"
+    },
+    "tickets": [
+      {
+        "id": "4821",
+        "subject": "Ny lege-bio + bilde på Om oss-siden",
+        "meta": "Dr. Caldwell · e-post · 18 min"
+      },
+      {
+        "id": "4822",
+        "subject": "Legg til Aesthetic-kampanje for juni",
+        "meta": "Resepsjon · Lumen · chat · 9 min"
+      },
+      {
+        "id": "4823",
+        "subject": "Booking-widget laster ikke i iPhone Safari",
+        "meta": "Dr. Vasquez · telefon · 22 min"
+      }
+    ]
+  },
+  "footerLinks": {
+    "preface": "Vurderer du support? Se også:",
+    "maintenance": "proaktive vedlikeholdsavtaler",
+    "management": "driftsavtaler for nettsider",
+    "faq": "ofte stilte spørsmål om support"
+  }
+}

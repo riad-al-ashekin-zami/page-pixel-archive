@@ -1,0 +1,351 @@
+{
+  "meta": {
+    "title": "Wartungsservices für Dermatologie-Websites – 24/7 HIPAA-konforme Betreuung",
+    "description": "Premium-Support & Wartung für Dermatologie-Websites. 24/7 Uptime-Monitoring, HIPAA-konforme Updates, tägliche Backups, Security-Patches, Core Web Vitals & SEO-Checkups. Monatlich kündbar.",
+    "og": {
+      "title": "Wartungsservices für Dermatologie-Websites – 24/7 Care-Pläne",
+      "description": "Halten Sie Ihre Praxis-Website schnell, sicher und gut gerankt. Monitoring, Backups, HIPAA-konforme Updates, SEO-Health und Support-Stunden – monatliche Laufzeit."
+    },
+    "jsonLd": {
+      "serviceType": "Dermatology Website Maintenance Services",
+      "provider": "DermatologyWebsiteDesign.com",
+      "areaServed": "United States",
+      "offerDescription": "Betreuungsplan für Dermatologie-Websites – Startpreis pro Monat"
+    }
+  },
+  "hero": {
+    "status": "Alle Systeme in Betrieb · 99,99 % Uptime in diesem Quartal",
+    "badge": "Website-Wartungs-Services",
+    "title": "Ihre Dermatologie-Website – schnell, sicher, immer online.",
+    "description": "Monatliche Betreuungspläne, speziell entwickelt für dermatologische Praxen. 24/7 Monitoring, HIPAA-konforme Updates, tägliche Backups und SEO-Health – mit einem festen Techniker, der wirklich erreichbar ist.",
+    "cta_primary": "Care-Plan starten",
+    "cta_secondary": "Kostenloser Website-Health-Audit",
+    "pricing_note": "Care-Pläne ab",
+    "pricing_value": "299 $",
+    "pricing_interval": "/ Monat · monatlich kündbar, keine Bindung",
+    "usp": [
+      "24/7 Monitoring",
+      "HIPAA-konform",
+      "Tägliche Backups",
+      "Fester Techniker"
+    ],
+    "visual": {
+      "image_alt": "Support- und Wartungs-Dashboard für Dermatologie-Praxis-Websites",
+      "uptime_label": "Uptime · 30 Tage",
+      "uptime_status": "LIVE",
+      "vitals_label": "Core Web Vitals",
+      "vitals_metrics": "INP 92ms · CLS 0,02"
+    }
+  },
+  "stats": {
+    "uptime": "Durchschnittliche Uptime aller verwalteten Seiten",
+    "interval": "Monitoring-Intervall aus 5 globalen Regionen",
+    "sla": "Enterprise-Reaktions-SLA",
+    "count": "Betreute dermatologische Praxen"
+  },
+  "status_wall": {
+    "badge": "Live-Status-Monitor",
+    "title": "Jede Kunden-Website – in Echtzeit überwacht.",
+    "note": "Beispielansicht · Updates alle 60 Sek.",
+    "table": {
+      "client": "Kunden-Website",
+      "region": "Region",
+      "uptime": "Uptime · 30 Tage",
+      "response": "Antwort",
+      "checked": "Geprüft vor",
+      "time_ago": "Sek."
+    }
+  },
+  "pillars": {
+    "badge": "Inhalt der Care-Pläne",
+    "title": "Jede Ebene Ihrer Seite – überwacht, gepatcht, optimiert.",
+    "description": "Sechs Säulen unserer monatlichen Arbeit. Keine Add-ons, keine Überraschungsrechnungen.",
+    "items": [
+      {
+        "title": "24/7 Uptime-Monitoring",
+        "desc": "Health-Checks alle 60 Sekunden aus 5 Regionen. Unsere Techniker erhalten Alarme, bevor Ihr Empfang davon erfährt."
+      },
+      {
+        "title": "HIPAA-konforme Updates",
+        "desc": "Updates für CMS, Plugins und Abhängigkeiten werden in Staging-Umgebungen geprüft und für BAA-fähiges Hosting bereitgestellt."
+      },
+      {
+        "title": "Tägliche verschlüsselte Backups",
+        "desc": "Extern, versioniert, mit One-Click-Restore. Monatlich getestet – nicht nur geplant und vergessen."
+      },
+      {
+        "title": "Malware & Schwachstellen-Scans",
+        "desc": "Wöchentliche Scans, quartalsweise Penetrationstests und sofortiges Patching aller CVEs, die Ihren Tech-Stack betreffen."
+      },
+      {
+        "title": "Core Web Vitals Watch",
+        "desc": "LCP, INP und CLS werden kontinuierlich getrackt – Performance-Probleme werden gelöst, bevor Google das Ranking abstraft."
+      },
+      {
+        "title": "On-Page SEO Health",
+        "desc": "Defekte Links, fehlende Schemas, verwaiste Seiten oder Crawling-Fehler werden monatlich erfasst und direkt behoben."
+      }
+    ]
+  },
+  "incidents": {
+    "badge": "Aktuelles Incident-Log",
+    "title": "Was „24/7“ in der Praxis bedeutet.",
+    "description": "Ein Live-Auszug von Vorfällen, die wir in diesem Quartal erkannt und gelöst haben – bevor unsere Kunden sie bemerkt haben.",
+    "log": [
+      {
+        "title": "PHP RCE Sicherheitslücke veröffentlicht",
+        "detail": "Gepatcht auf 47 Kunden-Websites innerhalb von 33 Minuten. Null Angriffsfläche."
+      },
+      {
+        "title": "SSL-Zertifikat läuft in 6 Tagen ab",
+        "detail": "Automatisch verlängert und nachts live geschaltet, bevor der Montagsverkehr startete."
+      },
+      {
+        "title": "Origin 502 Fehlermeldung auf 1 Seite",
+        "detail": "Failover auf Cache innerhalb von 40 Sek. Techniker stellte Origin in 8 Min. wieder her."
+      },
+      {
+        "title": "Google Indexierungs-Rückgang erkannt",
+        "detail": "Fehlerhaftes noindex-Tag durch Plugin-Update – Rollback und Re-Crawl in derselben Stunde angefordert."
+      },
+      {
+        "title": "Kontaktformular sendet PHI an Analytics",
+        "detail": "PII-Scrubber implementiert, GA4-Events bereinigt, Compliance-Log aktualisiert."
+      }
+    ]
+  },
+  "included": {
+    "badge": "Jeden Monat inklusive",
+    "title": "16 Leistungen, die wir für Sie erbringen – jeden Monat.",
+    "items": [
+      "24/7 Uptime- & SSL-Monitoring",
+      "Wöchentliche CMS- & Plugin-Updates",
+      "Tägliche verschlüsselte Off-Site-Backups",
+      "Malware-Scans & CVE-Patching",
+      "HIPAA-konforme Formular- & PHI-Audits",
+      "Core Web Vitals Monitoring",
+      "SEO-Checkups & Scan nach toten Links",
+      "Datenbank-Optimierung",
+      "CDN- & Edge-Cache-Tuning",
+      "Bug-Triage & Hotfix-Bereitstellung",
+      "Stunden für Content- & Design-Änderungen",
+      "Monatlicher Performance-Report",
+      "Proaktive Benachrichtigungen bei Vorfällen",
+      "Compliance-Änderungsprotokoll",
+      "Barrierefreiheits-Checks (WCAG AA)",
+      "Fester Ansprechpartner (Engineer)"
+    ]
+  },
+  "plans": {
+    "badge": "Care-Pläne",
+    "title": "Vorhersehbare Preise. Keine Bindung. Echte Ingenieure.",
+    "description": "Jeder Plan läuft monatlich. Jederzeit kündbar, alle Codes und Zugangsdaten bleiben in Ihrem Besitz.",
+    "labels": {
+      "popular": "Beliebteste Wahl",
+      "market": "Marktwert:",
+      "edits_prefix": "Änderungen:",
+      "sla_prefix": "SLA",
+      "cta": "{{name}} wählen"
+    },
+    "tiers": [
+      {
+        "name": "Essential",
+        "tag": "Für Einzelpraxen",
+        "price": "299 $",
+        "per": "/Monat",
+        "sla": "< 4 Stunden Reaktion",
+        "edits": "2 Std. / Monat",
+        "market": "500 $ – 1.000 $ /Monat",
+        "savings": "40–70 % Ersparnis",
+        "features": [
+          "24/7 Uptime-Monitoring",
+          "Wöchentliche Plugin- & CMS-Updates",
+          "Tägliche verschlüsselte Backups",
+          "Malware-Scans + Patching",
+          "HIPAA-konforme Formular-Audits (quartalsweise)",
+          "Core Web Vitals Monitoring",
+          "Monatlicher Performance-Report",
+          "2 Std. / Monat Inhaltsänderungen"
+        ]
+      },
+      {
+        "name": "Growth",
+        "tag": "Für Praxen mit breitem Portfolio",
+        "price": "599 $",
+        "per": "/Monat",
+        "sla": "< 1 Stunde Reaktion",
+        "edits": "5 Std. / Monat",
+        "market": "1.200 $ – 2.500 $ /Monat",
+        "savings": "50–76 % Ersparnis",
+        "features": [
+          "Alles aus dem Essential-Plan",
+          "Wöchentliche HIPAA-konforme Formular-Audits",
+          "Regelmäßige SEO-Optimierungen",
+          "Monitoring für tote Links & Schemas",
+          "CDN- & Edge-Cache-Tuning",
+          "Bug-Triage & Hotfix-Bereitstellung",
+          "Fester Account-Engineer",
+          "5 Std. / Monat edits (Content + Design)"
+        ]
+      },
+      {
+        "name": "Enterprise",
+        "tag": "Mehrere Standorte & Mohs-Zentren",
+        "price": "1.499 $",
+        "per": "/Monat",
+        "sla": "< 15 Min. Reaktion",
+        "edits": "Unlimitiert*",
+        "market": "3.000 $ – 6.000 $ /Monat",
+        "savings": "50–75 % Ersparnis",
+        "features": [
+          "Alles aus dem Growth-Plan",
+          "Uptime-Dashboards pro Standort",
+          "Rund-um-die-Uhr Rufbereitschaft",
+          "Quartalsweise Penetrationstests",
+          "Support für Zuweiser-/EHR-Integration",
+          "Barrierefreiheits-Audits (WCAG AA)",
+          "Compliance-Protokollierung & Freigaben",
+          "Unlimitierte* Bearbeitungszeit (Fair Use)"
+        ]
+      }
+    ]
+  },
+  "flow": {
+    "badge": "Der Ablauf",
+    "title": "Vom Onboarding bis zur sorgenfreien Website.",
+    "items": [
+      {
+        "step": "01",
+        "title": "Onboarding & Audit",
+        "desc": "Wir übernehmen Ihre Seite mit einem umfassenden Audit für Sicherheit, Performance, SEO und HIPAA – nichts geht ungeprüft ins System."
+      },
+      {
+        "step": "02",
+        "title": "Härtung & Baseline",
+        "desc": "Patching, Backup-Prüfung und Setup des Monitorings. Wir setzen eine Baseline für alle Kennzahlen und Rankings."
+      },
+      {
+        "step": "03",
+        "title": "Monitoring & Wartung",
+        "desc": "24/7 Überwachung, wöchentliche Updates, monatliche Reports – plus Support-Stunden für Ihr Wachstum."
+      },
+      {
+        "step": "04",
+        "title": "Reporting & Optimierung",
+        "desc": "Monatlicher Performance-Review mit Ihrem Ingenieur. Gemeinsam machen wir Ihre Seite schneller, sicherer und sichtbarer."
+      }
+    ]
+  },
+  "audiences": {
+    "badge": "Wen wir betreuen",
+    "title": "Maßgeschneidert für jedes dermatologische Modell.",
+    "items": [
+      {
+        "label": "Einzelpraxen",
+        "desc": "Rundum-Betreuung, damit Ihre Website nie zum Zeitfresser wird."
+      },
+      {
+        "label": "Kliniken mit mehreren Standorten",
+        "desc": "Monitoring pro Standort, ein Dashboard, eine fixe monatliche Gebühr."
+      },
+      {
+        "label": "Kinderdermatologie",
+        "desc": "Elternfreundliche Formulare, monatlich auf Klarheit und PHI-Sicherheit geprüft."
+      },
+      {
+        "label": "Mohs-Chirurgie & Chirurgen",
+        "desc": "Zuweiserportale bleiben online, sicher und bereit für Audits."
+      }
+    ]
+  },
+  "medical_services": {
+    "badge": "Aktuelle Leistungsseiten",
+    "title": "Wir pflegen die Seiten, die Ihre Patienten überzeugen.",
+    "description": "Aktualisierung von Inhalten, Schema-Updates, interne Verlinkung und Core Web Vitals – für jede Ihrer Leistungen.",
+    "list": [
+      "Akne-Behandlung",
+      "Ekzem-Therapie",
+      "Psoriasis-Behandlung",
+      "Hautinfektionen",
+      "Hautallergien",
+      "Hautkrebs-Vorsorge",
+      "Muttermal-Entfernung",
+      "Zysten- & Lipom-Entfernung",
+      "Warzenbehandlung",
+      "Nagelerkrankungen",
+      "Haarausfall-Therapie",
+      "Erkrankungen der Kopfhaut",
+      "Rosazea-Behandlung",
+      "Hyperpigmentierung & Melasma",
+      "Narbenbehandlung",
+      "Brandnarben-Korrektur",
+      "Vitiligo-Therapie",
+      "Hautbiopsien & Diagnostik"
+    ]
+  },
+  "testimonials": {
+    "badge": "Stimmen aus der Praxis",
+    "title": "Dermatologen, die sich keine Sorgen mehr um ihre Website machen.",
+    "items": [
+      {
+        "name": "Dr. Ethan Caldwell, MD",
+        "role": "LA Dermatology",
+        "quote": "Sonntag 2 Uhr nachts: Das SSL-Zertifikat drohte abzulaufen. Sie haben es behoben, bevor der erste Patient am Montagmorgen eincheckte. Wir haben nichts davon mitbekommen."
+      },
+      {
+        "name": "Dr. Anika Vasquez, MD",
+        "role": "CM Surgical",
+        "quote": "Jeden Monat bekommen wir einen echten Report – kein Standard-Template. Als ein Plugin unser Buchungsformular störte, wurde der Hotfix in 22 Minuten eingespielt."
+      },
+      {
+        "name": "Dr. Ibrahim Okafor, MD",
+        "role": "RS Institute · 6 Standorte",
+        "quote": "Sechs Standorte, ein Dashboard, eine Rechnung. Ich habe aufgehört, über meine Website nachzudenken, und mich wieder auf meine Praxen konzentriert."
+      }
+    ]
+  },
+  "faq": {
+    "badge": "FAQ",
+    "title": "Fragen zu unseren Care-Plänen.",
+    "items": [
+      {
+        "q": "Was ist im monatlichen Support & Wartung enthalten?",
+        "a": "24/7 Uptime-Monitoring, wöchentliche Sicherheits-Updates, tägliche verschlüsselte Backups, Malware-Scans, HIPAA-konforme Formular-Audits, Core Web Vitals Monitoring, SEO-Checkups, monatliche Reports und Kontingente für Design- & Inhaltsänderungen."
+      },
+      {
+        "q": "Wie schnell reagieren Sie im Notfall?",
+        "a": "Essential-Plan: unter 4 Stunden. Growth-Plan: unter 1 Stunde. Enterprise-Plan: unter 15 Minuten mit Rufbereitschaft. Durch unser Monitoring wissen wir oft schon vor Ihnen Bescheid."
+      },
+      {
+        "q": "Ist die Wartung HIPAA-konform?",
+        "a": "Ja. Wir nutzen BAA-fähiges Hosting, prüfen Formulare auf PHI-Risiken, halten Analytics-Daten PII-frei und protokollieren jeden Zugriff. Unsere Techniker sind speziell geschult."
+      },
+      {
+        "q": "Betreuen Sie auch Websites, die Sie nicht selbst erstellt haben?",
+        "a": "Ja. Wir übernehmen bestehende WordPress-, Webflow- oder Individual-Lösungen nach einem technischen Audit, um eine sichere Wartung zu gewährleisten."
+      },
+      {
+        "q": "Gibt es Kündigungsfristen?",
+        "a": "Nein – wir arbeiten auf monatlicher Basis ohne Langzeitverträge. Bei Vertragsende behalten Sie alle Codes, Zugangsdaten und Backups."
+      },
+      {
+        "q": "Zählen kleine Design-Änderungen zum Support?",
+        "a": "Ja, jeder Plan enthält Stunden für Änderungen (2 / 5 / unlimitiert). Diese können Sie für Biografien, neue Services, Banner oder Blog-Beiträge nutzen."
+      }
+    ]
+  },
+  "cta_bottom": {
+    "title": "Keine Sorgen mehr um Ihre Website. Wir übernehmen das.",
+    "description": "Kostenloser Health-Audit – ein Techniker prüft Performance, Sicherheit, HIPAA-Status und SEO. Erst danach empfehlen wir einen Plan.",
+    "primary": "Care-Plan starten",
+    "secondary": "Gratis Health-Audit anfordern"
+  },
+  "footer_nav": {
+    "label": "Interessante Links:",
+    "links": {
+      "management": "Komplettes Website-Management",
+      "support": "Experten-Support auf Abruf",
+      "addons": "Empfohlene Erweiterungen"
+    }
+  }
+}

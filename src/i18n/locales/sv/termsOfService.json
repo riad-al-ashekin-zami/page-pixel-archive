@@ -1,0 +1,89 @@
+{
+  "meta": {
+    "title": "Användarvillkor — Webbplatsanvändning och samarbete",
+    "description": "De villkor som styr din användning av vår webbplats, kommunikation och de tjänster du anlitar vår studio för.",
+    "og_title": "Användarvillkor — Webbplatsanvändning och samarbete",
+    "og_description": "De villkor som styr din användning av vår webbplats, kommunikation och de tjänster du anlitar vår studio för.",
+    "twitter_title": "Användarvillkor — Webbplatsanvändning och samarbete",
+    "twitter_description": "De villkor som styr din användning av vår webbplats, kommunikation och de tjänster du anlitar vår studio för."
+  },
+  "a11y": {
+    "skip_to_content": "Hoppa till innehåll",
+    "section_navigation": "Sektionsnavigering"
+  },
+  "hero": {
+    "badge": "Juridik · Användarvillkor",
+    "title": "Användarvillkor",
+    "description": "Grundreglerna för användning av vår webbplats, kontakt med oss och anlitande av vår studio. Bör läsas tillsammans med vårt <0>Tjänsteavtal</0> och vår <1>Integritetspolicy</1>.",
+    "last_updated": "Senast uppdaterad: <0>14 juli 2026</0>"
+  },
+  "sections": {
+    "contents_label": "Innehåll",
+    "acceptance": {
+      "title": "1. Godkännande av villkor",
+      "body": "Genom att besöka eller använda denna webbplats (\"Sajten\"), skicka en förfrågan eller anlita våra tjänster, godkänner du dessa Användarvillkor (\"Villkoren\"). Om du inte godkänner dem, ber vi dig att sluta använda Sajten."
+    },
+    "eligibility": {
+      "title": "2. Behörighet",
+      "body": "Du måste vara minst 18 år gammal och ha behörighet att ingå bindande avtal för att använda Sajten eller våra tjänster. Om du agerar för en organisations räkning intygar du att du har befogenhet att binda den till avtalet."
+    },
+    "services": {
+      "title": "3. Våra tjänster",
+      "body": "Denna Sajt består i huvudsak av marknadsföringsmaterial. Alla faktiska projektuppdrag – design, utveckling, SEO eller löpande underhåll – styrs av en separat offert eller uppdragsbeskrivning samt vårt <0>Tjänsteavtal</0>. Vid eventuella motstridigheter mellan dessa dokument och Villkoren, äger Tjänsteavtalet företräde."
+    },
+    "acceptable_use": {
+      "title": "4. Tillåten användning",
+      "list": [
+        "Missbruka inte, stör inte och försök inte göra intrång på Sajten eller dess infrastruktur.",
+        "Scrapea inte, crawla inte och kopiera inte innehåll utöver rimliga, icke-kommersiella referenssyften.",
+        "Skicka inte olagligt, kränkande, skadligt eller vilseledande innehåll via våra formulär.",
+        "Skicka aldrig Protected Health Information (PHI) via allmänna formulär."
+      ]
+    },
+    "ip": {
+      "title": "5. Immateriella rättigheter",
+      "body": "Allt innehåll på denna Sajt – text, grafik, logotyper, kod och design – ägs av oss eller våra licensgivare och skyddas av upphovsrättslig lagstiftning. Du får titta på och dela länkar till Sajten, men du får inte kopiera, ändra eller publicera innehåll på nytt utan vårt skriftliga tillstånd."
+    },
+    "submissions": {
+      "title": "6. Inskickat material",
+      "body": "Om du skickar oss feedback, idéer eller förslag, ger du oss en icke-exklusiv, världsomspännande och royaltyfri licens att använda dessa utan förpliktelser. Skicka inget som du betraktar som konfidentiellt såvida vi inte har kommit överens om annat skriftligen."
+    },
+    "third_party": {
+      "title": "7. Tredjepartslänkar och tjänster",
+      "body": "Sajten kan innehålla referenser till tredje parts webbplatser, verktyg eller tjänster. Vi kontrollerar eller stödjer inte dessa och ansvarar inte för deras innehåll, tillgänglighet eller praxis."
+    },
+    "disclaimer": {
+      "title": "8. Friskrivning från ansvar",
+      "body": "Sajten och dess innehåll tillhandahålls i befintligt skick (\"as-is\") utan några garantier av något slag – varken uttryckliga eller underförstådda – inklusive garantier om säljbarhet, lämplighet för ett visst ändamål och icke-intrång. Ingenting på Sajten ska betraktas som juridisk, medicinsk eller ekonomisk rådgivning."
+    },
+    "liability": {
+      "title": "9. Ansvarsbegränsning",
+      "body": "I den utsträckning lagen tillåter ansvarar vi inte för indirekta skador, följdskador eller utebliven vinst till följd av din användning av Sajten. Vårt sammanlagda ansvar relaterat till Sajten är begränsat till 100 USD."
+    },
+    "indemnity": {
+      "title": "10. Skadeslöshet",
+      "body": "Du samtycker till att försvara och hålla oss skadeslösa mot alla krav, skador och kostnader som uppstår till följd av ditt missbruk av Sajten eller brott mot dessa Villkor."
+    },
+    "termination": {
+      "title": "11. Avslutande av åtkomst",
+      "body": "Vi kan när som helst stänga av eller avsluta din åtkomst till Sajten, med eller utan förvarning, om vi anser att du har brutit mot dessa Villkor eller skapat risker för oss eller andra användare."
+    },
+    "governing_law": {
+      "title": "12. Tillämplig lag",
+      "body": "Dessa Villkor styrs av lagarna i den jurisdiktion som anges i vårt Tjänsteavtal eller, i avsaknad av detta, i den jurisdiktion där vår studio är registrerad – utan hänsyn till lagvalsprinciper."
+    },
+    "changes": {
+      "title": "13. Ändringar i Villkoren",
+      "body": "Vi kan uppdatera dessa Villkor från tid till annan. Datumet vid \"Senast uppdaterad\" högst upp visar den senaste versionen. Fortsatt användning av Sajten efter ändringar innebär att du godkänner de uppdaterade Villkoren."
+    },
+    "contact_section": {
+      "title": "14. Kontakt",
+      "body": "Frågor om dessa Villkor? Kontakta oss via vår <0>kontaktsida</0>."
+    }
+  },
+  "cta": {
+    "title": "Frågor om dessa villkor?",
+    "description": "Vi svarar gärna på eventuella oklarheter innan du anlitar oss.",
+    "button": "Kontakta oss"
+  }
+}

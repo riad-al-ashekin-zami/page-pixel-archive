@@ -1,0 +1,118 @@
+{
+  "meta": {
+    "title": "Blog — Dermatology Marketing Insights & Growth Playbooks",
+    "description": "Praxiserprobte Strategien für Dermatologie-SEO, Webdesign, Patientenakquise, HIPAA, Reputationsmanagement und Google Ads – exklusiv für wachstumsorientierte Praxisinhaber.",
+    "keywords": "Dermatologie Blog, Dermatologie SEO, Marketing für Hautärzte, Praxiswachstum, HIPAA Websites",
+    "og": {
+      "title": "Dermatology Marketing Blog — Strategien für messbares Praxiswachstum",
+      "description": "Tiefgreifende Analysen und schnelle Taktiken für Dermatologie-Praxen. SEO, Design, Ads, Reputation und Patient Experience."
+    },
+    "twitter": {
+      "title": "Dermatology Marketing Blog",
+      "description": "SEO, Design, Ads und Patient Experience Strategien für moderne Dermatologie-Praxen."
+    },
+    "jsonLd": {
+      "breadcrumb": {
+        "home": "Home",
+        "blog": "Blog"
+      },
+      "blog": {
+        "name": "Dermatology Marketing Blog",
+        "description": "Einblicke und Playbooks zu Dermatologie-SEO, Webdesign, Ads, Reputation und Patientenakquise."
+      }
+    }
+  },
+  "hero": {
+    "badge": "Das DermGrowth Journal",
+    "title": "Erfolgsrezepte für die moderne Dermatologie-Praxis.",
+    "description": "Praxiserprobte Taktiken für SEO, Webdesign, bezahlte Werbung, Reputation und Patient Experience – verfasst von dem Team, das hunderte Praxis-Launches begleitet hat.",
+    "search": {
+      "label": "Artikel suchen",
+      "placeholder": "Suche nach SEO, Ads, HIPAA, Relaunch...",
+      "postCount": "{{count}} Beiträge"
+    },
+    "aside": {
+      "ariaLabel": "Diesen Monat bei DermGrowth",
+      "issue": "Ausgabe 24 · Sommer '26",
+      "status": "Was aktuell im Dermatologie-Marketing funktioniert.",
+      "stats": [
+        {
+          "value": "9",
+          "label": "neue Beiträge"
+        },
+        {
+          "value": "68k",
+          "label": "Leser monatlich"
+        },
+        {
+          "value": "4.9",
+          "label": "Leser-Bewertung"
+        }
+      ],
+      "socialProof": "Vertraut von über 50 Dermatologen und Marketing-Experten"
+    }
+  },
+  "sections": {
+    "featured": {
+      "badge": "Top-Beitrag",
+      "heading": "Empfehlung der Woche",
+      "viewAll": "Alle Artikel ansehen",
+      "ariaRead": "Lesen: {{title}}",
+      "statValue": "90.",
+      "statLabel": "Tage bis Seite 1",
+      "readTime": "{{count}} Min. Lesezeit",
+      "button": "Artikel lesen"
+    },
+    "latest": {
+      "badge": "Neueste Artikel",
+      "heading": "Filtern nach Ihren Zielen",
+      "description": "Jeder Beitrag ist für Praxisinhaber und Marketingleiter geschrieben, die klare Handlungsanweisungen statt Floskeln suchen.",
+      "filterLabel": "Artikel nach Kategorie filtern",
+      "empty": {
+        "heading": "Keine passenden Artikel gefunden.",
+        "description": "Versuchen Sie es mit einer anderen Kategorie oder ändern Sie Ihre Suche.",
+        "button": "Filter zurücksetzen"
+      },
+      "card": {
+        "ariaRead": "Lesen: {{title}}",
+        "readTime": "{{count}} Min.",
+        "readAction": "Lesen"
+      }
+    }
+  },
+  "newsletter": {
+    "badge": "The Weekly Chart",
+    "heading": "Ein Wachstums-Playbook. Jeden Dienstag.",
+    "description": "Schließen Sie sich über 760 Dermatologen und Vermarktern an. Kein Spam, keine leeren Worthülsen, Abmeldung mit einem Klick.",
+    "ariaLabel": "Newsletter abonnieren",
+    "placeholder": "name@praxis.de",
+    "submit": "Abonnieren",
+    "submitting": "Wird abonniert...",
+    "success": "Willkommen an Bord! Die nächste Ausgabe erscheint am Dienstag um 7:00 Uhr.",
+    "fineprint": "Wir lesen jede Antwort. Ihre Adresse wird niemals weitergegeben.",
+    "features": [
+      {
+        "label": "Analysen",
+        "value": "Deep Dives zweimal im Monat"
+      },
+      {
+        "label": "Fallstudien",
+        "value": "Echte Zahlen, echte Praxen"
+      },
+      {
+        "label": "Taktiken",
+        "value": "Copy-Paste-Strategien"
+      },
+      {
+        "label": "Bewertung 4.9",
+        "value": "Von 50+ Abonnenten"
+      }
+    ]
+  },
+  "footer": {
+    "keepReading": "Weiterlesen mit:",
+    "caseStudies": "detaillierten Fallstudien",
+    "audit": "einem kostenlosen Website-Audit",
+    "faq": "häufig gestellten Fragen"
+  }
+}

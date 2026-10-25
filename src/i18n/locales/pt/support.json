@@ -1,0 +1,416 @@
+{
+  "meta": {
+    "title": "Serviços de Suporte para Websites de Dermatologia — Engenheiro Dedicado, 15-min SLA de Emergência",
+    "description": "Suporte humano para clínicas de dermatologia. Engenheiro dedicado, chat ao vivo, telefone prioritário, horas de edição, formação de equipa, guias HIPAA e resposta de emergência 24/7. Mensal, sem fidelização.",
+    "og": {
+      "title": "Suporte para Websites de Dermatologia — Engenheiros Reais, Respostas Imediatas",
+      "description": "Um engenheiro de conta dedicado, respostas em menos de uma hora, horas de edição para conteúdo e design, e escalamento de emergência 24/7 — criado para dermatologistas."
+    },
+    "jsonLd": {
+      "serviceType": "Serviços de Suporte para Websites de Dermatologia",
+      "provider": "DermatologyWebsiteDesign.com",
+      "offerDescription": "Plano de suporte para websites de dermatologia — preço base mensal"
+    }
+  },
+  "hero": {
+    "badgeOpen": "Suporte ativo · tempo médio de resposta 42 segundos",
+    "badgeOpenMobile": "Suporte ativo · 42s p/ responder",
+    "badgeTitle": "Serviços de Suporte Técnico",
+    "titlePrefix": "Um engenheiro de verdade, ",
+    "titleHighlight": "à distância de uma mensagem.",
+    "description": "Suporte web concebido para clínicas de dermatologia. Engenheiro dedicado, chat ao vivo, linha prioritária, horas de edição, formação de equipa e emergências 24/7 — sem tickets perdidos na fila.",
+    "ctaStart": "Iniciar Plano de Suporte",
+    "ctaDemo": "Ver demonstração do suporte",
+    "pricing": {
+      "label": "Planos de suporte desde",
+      "value": "249€",
+      "suffix": "/ mês · mensal, sem fidelização"
+    },
+    "trustLabels": [
+      "Engenheiro dedicado",
+      "Chat ao vivo + Telefone",
+      "Horas de edição incluídas",
+      "Emergência 24/7"
+    ],
+    "imageAlt": "Engenheiro de suporte de website de dermatologia na secretária com chat ao vivo e caixa de entrada de tickets"
+  },
+  "stats": [
+    {
+      "value": "42s",
+      "label": "Primeira resposta média via chat"
+    },
+    {
+      "value": "18min",
+      "label": "Tempo médio de edição"
+    },
+    {
+      "value": "98%",
+      "label": "Taxa de resolução ao primeiro contacto"
+    },
+    {
+      "value": "4.9/5",
+      "label": "Satisfação do cliente (últimos 12 meses)"
+    }
+  ],
+  "channels": {
+    "tag": "Contacte-nos como preferir",
+    "title": "Seis canais. Um engenheiro. Zero menus automáticos.",
+    "description": "Cada pedido entra na mesma caixa de entrada monitorizada com SLA — quer venha por chat, email, telefone ou um alerta às 3 da manhã.",
+    "items": [
+      {
+        "name": "Chat ao Vivo",
+        "desc": "Chat na app, 9h-21h ET, operado por engenheiros reais.",
+        "meta": "média 42s para resposta"
+      },
+      {
+        "name": "Telefone Direto",
+        "desc": "Linha direta para o seu engenheiro de conta — sem atendedores automáticos.",
+        "meta": "sem filas de espera"
+      },
+      {
+        "name": "Email Prioritário",
+        "desc": "Caixa de entrada com gestão de SLA e garantias de resposta por plano.",
+        "meta": "≤ 1h no plano Pro"
+      },
+      {
+        "name": "Portal de Tickets",
+        "desc": "Histórico completo, capturas de ecrã e estado de cada pedido.",
+        "meta": "self-service 24/7"
+      },
+      {
+        "name": "Tutoriais em Vídeo",
+        "desc": "Sessões de partilha de ecrã para formação e edições complexas.",
+        "meta": "on-demand"
+      },
+      {
+        "name": "Linha de Emergência",
+        "desc": "Escalamento para engenheiro de prevenção em caso de site offline, 24/7.",
+        "meta": "SLA de 15 min"
+      }
+    ]
+  },
+  "helpTopics": {
+    "tag": "Em que ajudamos concretamente",
+    "title": "Desde \"mudar esta palavra\" a \"o formulário de marcação falhou.\"",
+    "description": "Seis categorias de trabalho diário — o que uma clínica atarefada precisa para hoje, não para a semana que vem.",
+    "items": [
+      {
+        "title": "Edições de conteúdo",
+        "desc": "Bios de médicos, páginas de serviços, posts de blog, listas de seguros — resolvido em horas."
+      },
+      {
+        "title": "Pequenos ajustes de design",
+        "desc": "Troca de banners, promos sazonais, novas secções e ajustes de layout."
+      },
+      {
+        "title": "Formação de equipa",
+        "desc": "Tutoriais gravados e sessões ao vivo para que a sua equipa ganhe autonomia."
+      },
+      {
+        "title": "Ajuda com integrações",
+        "desc": "Widgets de marcação, embeds de sistemas clínicos, plataformas de reviews e analytics — configurados e testados."
+      },
+      {
+        "title": "Orientação HIPAA",
+        "desc": "Cada formulário, tracker e script de terceiros é validado para segurança de PHI antes de ser publicado."
+      },
+      {
+        "title": "Resposta de emergência",
+        "desc": "Site em baixo, erro de fontes, falha nas marcações — fale com um engenheiro dedicado, 24/7."
+      }
+    ]
+  },
+  "flow": {
+    "tag": "Como funciona o suporte",
+    "title": "Um fluxo de trabalho criado para clínicas de dermatologia atarefadas.",
+    "steps": [
+      {
+        "id": "01",
+        "title": "Conheça o seu engenheiro",
+        "desc": "Terá um engenheiro de conta dedicado desde o primeiro dia — nada de suporte rotativo. Ele conhece o seu site, a sua equipa e o seu vocabulário."
+      },
+      {
+        "id": "02",
+        "title": "Peça a partir de qualquer lugar",
+        "desc": "Chat, email, telefone, portal ou canal Slack. Todos os pedidos vão para a mesma caixa monitorizada com SLA."
+      },
+      {
+        "id": "03",
+        "title": "Humanos reais, rapidez real",
+        "desc": "A maioria das edições é feita numa hora. Pedidos maiores recebem plano, estimativa e revisão antes de irem para produção."
+      },
+      {
+        "id": "04",
+        "title": "Reunião mensal",
+        "desc": "Uma chamada de 30 minutos todos os meses para rever pedidos, o roteiro e resolver dúvidas — proativo, não reativo."
+      }
+    ]
+  },
+  "responseDesk": {
+    "badge": "Escritório de resposta · ativo",
+    "title": "Escolha um canal. Veja quão rápido respondemos.",
+    "description": "Um vislumbre realista de um histórico de suporte no próprio dia — da primeira mensagem à correção efetuada.",
+    "meterLabel": "Medidor de resposta ao vivo",
+    "meterSuffix": "s",
+    "meterComparison": "Mais rápido que 94% das agências",
+    "status": "Online",
+    "labels": {
+      "chatReply": "Resposta via chat",
+      "emergencySla": "SLA de Emergência"
+    },
+    "engineerInfo": {
+      "name": "Jordan R. · O seu engenheiro",
+      "status": "Online",
+      "typing": "O Jordan está a escrever…"
+    },
+    "demos": {
+      "chat": {
+        "label": "Chat ao Vivo",
+        "sla": "média 42s p/ responder",
+        "lines": [
+          "Olá — podemos trocar a foto principal da página de Aesthetic hoje?",
+          "Claro. Envie o ficheiro quando quiser — publico isto em ~15 min.",
+          "Enviado. Podem também adicionar o Dr. Chen à grelha de médicos?",
+          "Ambos ativos. Link de pré-visualização em 8 min ✅"
+        ]
+      },
+      "phone": {
+        "label": "Telefone Direto",
+        "sla": "sem menus automáticos",
+        "lines": [
+          "📞 Toque — gestora de clínica, LA Dermatology.",
+          "Olá Sara, daqui Jordan. Que se passa?",
+          "O widget de marcações está a dar erro no iPhone.",
+          "Estou a ver. Vou publicar uma correção — 6 min. Fique na linha."
+        ]
+      },
+      "email": {
+        "label": "Email Prioritário",
+        "sla": "≤ 1h no Pro",
+        "lines": [
+          "Assunto: Atualizar lista de seguros para as 6 clínicas",
+          "Entendido — envio-lhe as alterações para aprovar em 20 min.",
+          "Aprovado. Removam também o logo 'Aetna', já não aceitamos.",
+          "Feito nos 6 sites. Email de confirmação enviado ✅"
+        ]
+      },
+      "ticket": {
+        "label": "Portal de Tickets",
+        "sla": "self-service 24/7",
+        "lines": [
+          "#4831 · Novo: 'Adicionar PDF de admissão em PT à página de contacto'",
+          "Atribuído a mim. ETA: 45 min. Prioridade: normal.",
+          "Anexei o ficheiro. Por favor, liguem também no rodapé.",
+          "Atualizado. Ticket fechado com capturas de ecrã ✅"
+        ]
+      }
+    }
+  },
+  "plans": {
+    "tag": "Planos de suporte",
+    "title": "Suporte humano por um preço previsível.",
+    "description": "Cada plano é mensal com um engenheiro dedicado. Cancele quando quiser.",
+    "mostChosen": "Mais escolhido",
+    "marketLabel": "Mercado:",
+    "choose": "Escolher",
+    "cards": [
+      {
+        "name": "Starter",
+        "tag": "Clínicas individuais",
+        "price": "249€",
+        "per": "/mês",
+        "sla": "≤ 4h para resposta",
+        "edits": "Edições: 2h / mês",
+        "market": "500€ – 1.000€ /mês",
+        "savings": "50–75% mais barato",
+        "features": [
+          "Engenheiro de conta dedicado",
+          "Email + portal de tickets",
+          "2h de trabalho de edição por mês",
+          "Suporte em horário laboral (9-18 ET)",
+          "Relatório de resumo mensal",
+          "Chamada de boas-vindas e configuração"
+        ]
+      },
+      {
+        "name": "Professional",
+        "tag": "Clínicas multisserviço",
+        "price": "549€",
+        "per": "/mês",
+        "sla": "≤ 1h para resposta",
+        "edits": "Edições: 6h / mês",
+        "market": "1.100€ – 2.500€ /mês",
+        "savings": "50–78% mais barato",
+        "features": [
+          "Tudo o que está no Starter",
+          "Chat ao vivo + linha prioritária",
+          "6h de trabalho de edição por mês",
+          "Horário alargado (9h–21h ET)",
+          "Sessões de formação trimestrais",
+          "Ajuda com integrações e analytics",
+          "Sessão mensal de estratégia (30 min)"
+        ]
+      },
+      {
+        "name": "Enterprise",
+        "tag": "Grupos médicos e Multilocalização",
+        "price": "1.299€",
+        "per": "/mês",
+        "sla": "≤ 15 min emergência",
+        "edits": "Edições: Ilimitadas*",
+        "market": "2.800€ – 5.500€ /mês",
+        "savings": "54–76% mais barato",
+        "features": [
+          "Tudo o que está no Professional",
+          "Linha direta de emergência 24/7",
+          "Canal partilhado no Slack / Teams",
+          "Horas de edição ilimitadas* (fair use)",
+          "Controlo de pedidos por localização",
+          "Engenheiro de reserva dedicado",
+          "Revisão trimestral de negócio"
+        ]
+      }
+    ]
+  },
+  "audiences": {
+    "tag": "A quem damos suporte",
+    "title": "Criado sob medida para cada modelo de dermatologia.",
+    "items": [
+      {
+        "label": "Dermatologistas Individuais",
+        "desc": "Uma linha direta para um humano que conhece o seu site — sem tickets perdidos na fila."
+      },
+      {
+        "label": "Clínicas com Várias Localizações",
+        "desc": "Gestão de edições por local, caixa comum e um único ponto de contacto para cada gestor."
+      },
+      {
+        "label": "Dermatologia Pediátrica",
+        "desc": "Edições de conteúdo focado na família e atualizações de formulários tratadas com rigor clínico."
+      },
+      {
+        "label": "Mohs e Dermatologia Cirúrgica",
+        "desc": "Alterações em portais de referência e atualizações de médicos publicadas no próprio dia útil."
+      }
+    ]
+  },
+  "medicalServices": {
+    "tag": "Cada página de serviço que cuidamos",
+    "title": "Edições e atualizações para cada serviço de dermatologia que oferece.",
+    "description": "Da acne ao vitiligo — tratamos da renovação de conteúdo, alterações de preços, atribuição de médicos e atualizações de schema sob pedido.",
+    "items": [
+      "Tratamento de Acne",
+      "Tratamento de Eczema",
+      "Tratamento de Psoríase",
+      "Tratamento de Infeções Cutâneas",
+      "Tratamento de Alergias de Pele",
+      "Rastreio e Tratamento de Cancro da Pele",
+      "Avaliação e Remoção de Sinais Medicamente Necessária",
+      "Remoção de Quistos e Lipomas",
+      "Remoção de Verrugas",
+      "Tratamento de Doenças das Unhas",
+      "Diagnóstico e Tratamento Médico da Queda de Cabelo",
+      "Tratamento de Distúrbios do Couro Cabeludo",
+      "Tratamento de Rosácea",
+      "Tratamento de Hyperpigmentação e Melasma",
+      "Tratamento de Cicatrizes",
+      "Tratamento de Cicatrizes de Queimaduras",
+      "Tratamento de Vitiligo",
+      "Biópsias Cutâneas e Procedimentos de Diagnóstico"
+    ]
+  },
+  "testimonials": {
+    "tag": "O que dizem os clientes",
+    "title": "Dermatologistas que finalmente se sentem apoiados.",
+    "items": [
+      {
+        "name": "Dr. Ethan Caldwell, MD",
+        "role": "LA Dermatology",
+        "quote": "Envio uma mensagem para um número, alguém responde num minuto, a edição está online antes do almoço. É isto. É este o meu testemunho."
+      },
+      {
+        "name": "Dra. Anika Vasquez, MD",
+        "role": "CM Surgical",
+        "quote": "Eles deram formação à minha receção sobre o CMS num único Zoom. Metade dos nossos tickets desapareceram — mas os que enviamos são resolvidos em 15 minutos."
+      },
+      {
+        "name": "Dr. Ibrahim Okafor, MD",
+        "role": "RS Institute · 6 localizações",
+        "quote": "Seis gestores, seis conjuntos de edições, uma caixa de entrada. O meu engenheiro conhece cada clínica pelo nome. Parece uma equipa interna sem os custos salariais."
+      }
+    ]
+  },
+  "faq": {
+    "tag": "FAQ",
+    "title": "Respostas sobre o suporte do website.",
+    "items": [
+      {
+        "q": "Qual a diferença para os planos de manutenção?",
+        "a": "A manutenção mantém o site a funcionar — atualizações, backups, monitorização e segurança. O suporte é a camada humana: um engenheiro dedicado com quem pode falar, horas de edição para design e conteúdo, formação de equipa e ajuda com integrações. A maioria das clínicas prefere o pack completo."
+      },
+      {
+        "q": "O que conta como uma 'hora de edição'?",
+        "a": "Qualquer trabalho de conteúdo, pequeno design ou configuração: atualizar bios, adicionar secções a páginas, trocar banners, corrigir widgets de marcação, alterar seguros, carregar fotos antes/depois ou publicar blogs. Projetos maiores de design são orçamentados à parte."
+      },
+      {
+        "q": "Com que rapidez respondem realmente?",
+        "a": "O chat ao vivo tem uma média de 42 segundos no horário laboral. O email prioritário é inferior a 1 hora nos planos Pro e Enterprise. Problemas críticos com o site offline no plano Enterprise são escalados em 15 minutos, 24/7."
+      },
+      {
+        "q": "Dão suporte a sites que não foram criados por vocês?",
+        "a": "Sim — WordPress, Webflow, sites personalizados e headless. Começamos com uma auditoria técnica paga para herdarmos o seu site com segurança e sabermos exatamente o que estamos a suportar."
+      },
+      {
+        "q": "A equipa pode pedir edições ou apenas os médicos?",
+        "a": "Qualquer membro da equipa que autorize. Geralmente, as clínicas dão acesso aos médicos, gestores de clínica e responsáveis de marketing. Cada pedido é registado no portal com histórico completo."
+      },
+      {
+        "q": "E se eu não usar as minhas horas num mês?",
+        "a": "Até 50% das horas não utilizadas transitam para o mês seguinte. Preferimos que obtenha valor real do que inventar trabalho — a maioria dos clientes acaba por usar as horas todas."
+      },
+      {
+        "q": "Existe contrato de fidelização?",
+        "a": "É mensal, pode cancelar a qualquer momento. Mantém todo o seu conteúdo, código, credenciais e histórico de pedidos caso decida sair."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Conheça o engenheiro que vai responder à sua próxima mensagem.",
+    "highlight": "Peça um orçamento gratuito.",
+    "description": "Analisaremos o seu site, os padrões de edição da sua equipa e qual o plano mais adequado — depois enviamos uma proposta por escrito.",
+    "buttonQuote": "Iniciar Plano de Suporte",
+    "buttonContact": "Contacte-nos"
+  },
+  "inboxWidget": {
+    "title": "Caixa de suporte",
+    "status": "Hoje · 5 abertos",
+    "replyMetric": "respostas",
+    "engineer": {
+      "label": "O seu engenheiro",
+      "status": "Jordan R. · online"
+    },
+    "tickets": [
+      {
+        "id": "4821",
+        "subject": "Nova bio + foto na página Quem Somos",
+        "meta": "Dr. Caldwell · email · 18 min"
+      },
+      {
+        "id": "4822",
+        "subject": "Adicionar banner promo Aesthetic para feriado",
+        "meta": "Receção · Lumen · chat · 9 min"
+      },
+      {
+        "id": "4823",
+        "subject": "Widget de marcação não carrega no Safari iPhone",
+        "meta": "Dra. Vasquez · telefone · 22 min"
+      }
+    ]
+  },
+  "footerLinks": {
+    "preface": "Se está a avaliar soluções, consulte:",
+    "maintenance": "planos de manutenção proativa",
+    "management": "gestão de website 'chave na mão'",
+    "faq": "perguntas frequentes sobre suporte"
+  }
+}

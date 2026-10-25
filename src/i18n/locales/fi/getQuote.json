@@ -1,0 +1,285 @@
+{
+  "meta": {
+    "title": "Pyydä ilmainen tarjous — Ihotautiklinikan verkkosivusuunnittelu",
+    "description": "Pyydä yksilöllinen tarjous ihotautiklinikkasi verkkosivuista. Läpinäkyvä hinnoittelu ja räätälöity ehdotus 24 tunnin kuluessa.",
+    "ogTitle": "Pyydä ilmainen tarjous — Ihotautiklinikan verkkosivusuunnittelu",
+    "ogDescription": "Kerro meille klinikastasi ja saat räätälöidyn tarjouksen 24 tunnin sisällä."
+  },
+  "hero": {
+    "badge": "Ilmainen tarjous",
+    "title": "Pyydä",
+    "titleHighlight": "yksilöllinen tarjous",
+    "titleSuffix": "klinikallesi.",
+    "description": "Kerro meille hieman ihotautiklinikkasi tavoitteista. Lähetämme sinulle räätälöidyn ehdotuksen — sisältäen läpinäkyvän hinnoittelun ja selkeän toimintasuunnitelman — 24 tunnin kuluessa.",
+    "features": [
+      "Vastaus 24 tunnissa",
+      "Ei sitoumuksia",
+      "Läpinäkyvä hinnoittelu"
+    ],
+    "trust": {
+      "repliesWithin": "Vastaamme",
+      "repliesValue": "24 tunnissa",
+      "launchedValue": "50+",
+      "launchedText": "ihotautialan sivustoa toteutettu",
+      "focusValue": "100%",
+      "focusText": "erikoistunut ihotautialaan"
+    }
+  },
+  "sidebar": {
+    "whatHappensNext": {
+      "title": "Mitä seuraavaksi tapahtuu",
+      "steps": [
+        "Analysoimme pyyntösi ja nykyisen sivustosi.",
+        "Tiimimme laatii räätälöidyn projektisuunnitelman.",
+        "Saat tiedot hinnoittelusta, aikataulusta ja jatkosta 24 tunnin kuluessa."
+      ]
+    },
+    "preferToTalk": {
+      "title": "Haluatko mieluummin keskustella?",
+      "email": "info@dermatologywebsitedesign.com",
+      "chat": "Keskustele WhatsAppissa"
+    },
+    "guarantee": {
+      "title": "100 % tyytyväisyystakuu",
+      "description": "Ei sitoumuksia, ei painostusta. Jos ehdotuksemme ei tunnu oikealta, voit kieltäytyä ilman kysymyksiä.",
+      "benefits": [
+        "Ei ikinä roskapostia",
+        "Tietosi pysyvät luottamuksellisina",
+        "Peruuta milloin vain"
+      ]
+    }
+  },
+  "form": {
+    "success": {
+      "title": "Kiitos — pyyntösi on vastaanotettu.",
+      "description": "Tiimimme jäsen ottaa sinuun yhteyttä 24 tunnin kuluessa yksilöllisen tarjouksen kera."
+    },
+    "progress": {
+      "step": "Vaihe",
+      "of": "/",
+      "labels": [
+        "Yhteystiedot",
+        "Verkkosivusto",
+        "Palvelut",
+        "Budjetti"
+      ]
+    },
+    "sections": {
+      "contactInfo": "Yhteystiedot",
+      "websiteDetails": "Verkkosivuston tiedot",
+      "helpWith": "Mihin tarvitset apua?",
+      "budgetTimeline": "Budjetti ja aikataulu"
+    },
+    "fields": {
+      "yourName": {
+        "label": "Nimesi",
+        "placeholder": "Lääkäri Matti Meikäläinen"
+      },
+      "workEmail": {
+        "label": "Työsähköposti",
+        "placeholder": "etunimi@klinikkasi.fi"
+      },
+      "phone": {
+        "label": "Puhelinnumero",
+        "placeholder": "+358 40 000 0000",
+        "hint": "(valinnainen)"
+      },
+      "practiceName": {
+        "label": "Klinikan nimi",
+        "placeholder": "Ihotautiklinikka Kirkas"
+      },
+      "currentWebsite": {
+        "label": "Nykyinen verkkosivusto",
+        "placeholder": "klinikkasi.fi",
+        "hint": "(valinnainen)"
+      },
+      "numberOfLocations": {
+        "label": "Toimipisteiden määrä",
+        "select": "Valitse"
+      },
+      "websiteSize": {
+        "label": "Sivuston koko",
+        "select": "Valitse"
+      },
+      "adminAccess": {
+        "label": "Onko sinulla ylläpito-oikeudet?"
+      },
+      "estimatedBudget": {
+        "label": "Arvioitu budjetti",
+        "select": "Valitse hintahaarukka"
+      },
+      "urgency": {
+        "label": "Kuinka kiireellinen hanke on?",
+        "select": "Valitse kiireellisyys"
+      },
+      "projectDetails": {
+        "label": "Projektin tiedot",
+        "placeholder": "Kerro meille tavoitteistasi, toimipisteistäsi tai muista toiveistasi.",
+        "hint": "(valinnainen)"
+      }
+    },
+    "servicesText": {
+      "select": "Valitse kaikki sopivat. Olet valinnut",
+      "service": "palvelun",
+      "services": "palvelua"
+    },
+    "buttons": {
+      "back": "Takaisin",
+      "continue": "Jatka",
+      "sending": "Lähetetään…",
+      "submit": "Pyydä ilmainen tarjoukseni"
+    },
+    "footerText": "Tietosi ovat 100 % turvassa. Emme lähetä roskapostia.",
+    "validation": {
+      "name": "Syötä nimesi",
+      "email": "Syötä voimassa oleva sähköpostiosoite",
+      "practiceName": "Syötä klinikkasi nimi",
+      "service": "Valitse vähintään yksi palvelu",
+      "locations": "Valitse toimipisteiden määrä",
+      "websiteSize": "Valitse sivuston koko",
+      "adminAccess": "Vastaa ylläpito-oikeuksia koskevaan kysymykseen",
+      "budget": "Valitse budjetti",
+      "urgency": "Valitse projektin aikataulu",
+      "completeStep": "Viimeistele tämä vaihe",
+      "checkForm": "Tarkista lomakkeen tiedot",
+      "wait": "Odota {{seconds}}s ennen uutta lähetystä."
+    }
+  },
+  "options": {
+    "services": [
+      "Verkkosivuston suunnittelu",
+      "Sivuston uudistus",
+      "Sivuston migraatio",
+      "Ennen ja jälkeen -galleria",
+      "SEO / Paikallinen hakukoneoptimointi",
+      "Google Ads / PPC",
+      "Monitoimipistesivusto",
+      "Verkkokauppa",
+      "Potilasportaali",
+      "Maineenhallinta ja arvostelut",
+      "Sisällöntuotanto ja copywriting",
+      "Ylläpito ja huolto"
+    ],
+    "locations": [
+      "1 toimipiste",
+      "2–3 toimipistettä",
+      "4–10 toimipistettä",
+      "Yli 10 toimipistettä"
+    ],
+    "pages": [
+      "1 sivu",
+      "5–8 sivua",
+      "10–15 sivua",
+      "15–20 sivua",
+      "Yli 20 sivua"
+    ],
+    "admin": [
+      "Kyllä",
+      "Ei",
+      "En ole varma"
+    ],
+    "budgets": [
+      "Alle 1 000 $",
+      "1 000 – 2 000 $",
+      "4 000 – 5 000 $",
+      "7 000 – 10 000 $",
+      "Yli 10 000 $"
+    ],
+    "urgencies": [
+      "48 tunnin sisällä",
+      "7 päivän sisällä",
+      "Kuukauden sisällä",
+      "3 kuukauden sisällä",
+      "6 kuukauden sisällä",
+      "Ei kiirettä / Joustava"
+    ]
+  },
+  "sections": {
+    "whyQuote": {
+      "title": "Miksi pyytää",
+      "titleHighlight": "tarjous?",
+      "subtitle": "Todelliset luvut juuri teidän klinikallenne — täysin ilman sitoumuksia.",
+      "items": [
+        {
+          "title": "100 % ilmainen ja sitoumukseton",
+          "body": "Saat tarkat luvut, jotka on sovitettu klinikan kokoon, alustaan ja tavoitteisiin."
+        },
+        {
+          "title": "Räätälöity klinikallesi",
+          "body": "Jokainen ihotautiklinikka on erilainen. Arviomme perustuvat käytössä olevaan julkaisujärjestelmään, sijainteihin ja palveluihin."
+        },
+        {
+          "title": "Läpinäkyvä hinnoittelu",
+          "body": "Eritteleme tehtävät, aikataulut ja toimitussisällöt — tiedät tarkalleen, mistä maksat."
+        },
+        {
+          "title": "Nopea reagointi",
+          "body": "Tiimimme käy pyyntösi läpi välittömästi ja vastaa viimeistään 24 tunnin kuluessa."
+        }
+      ]
+    },
+    "whatWeCanHelpWith": {
+      "title": "Miten voimme",
+      "titleHighlight": "auttaa",
+      "subtitle": "Tarjouksemme kattavat kaikki ihotautialan digitaaliset tarpeet.",
+      "footer": "Tarvitsetko jotain tiettyä? Mainitse se — räätälöimme jokaisen suunnitelman.",
+      "categories": [
+        {
+          "label": "Suunnittelu",
+          "items": [
+            "Yksilöllinen verkkosivusuunnittelu",
+            "Sivuston uudistus",
+            "Sivuston migraatio",
+            "Monitoimipistesivustot",
+            "Ennen ja jälkeen -galleriat",
+            "Potilasportaalit"
+          ]
+        },
+        {
+          "label": "Kasvu",
+          "items": [
+            "Ihotautialan SEO",
+            "Paikallinen hakunäkyvyys",
+            "Google Ads / PPC",
+            "Verkkokauppa",
+            "Sisällöntuotanto ja copywriting",
+            "Analytiikka ja CRO"
+          ]
+        },
+        {
+          "label": "Ylläpito",
+          "items": [
+            "Maineenhallinta ja arvostelut",
+            "Nopeusoptimointi",
+            "HIPAA-yhteensopiva hostaus",
+            "Ylläpito ja huolto"
+          ]
+        }
+      ]
+    },
+    "howItWorks": {
+      "title": "Miten prosessi",
+      "titleHighlight": "toimii",
+      "subtitle": "Pyyntösi muuttuu tarjoukseksi neljässä selkeässä vaiheessa.",
+      "stepLabel": "Vaihe",
+      "items": [
+        {
+          "title": "Täytä lomake",
+          "body": "Kerro klinikastasi, nykyisestä sivustostasi ja avun tarpeestasi."
+        },
+        {
+          "title": "Asiantuntijan analyysi",
+          "body": "Tiimimme analysoi nykyisen sivuston, SEO-terveyden ja tekniset vaatimukset."
+        },
+        {
+          "title": "Vastaanota tarjous",
+          "body": "Saat yksityiskohtaisen ja henkilökohtaisen ehdotuksen — selkeästi ja läpinäkyvästi."
+        },
+        {
+          "title": "Aloita luottavaisin mielin",
+          "body": "Kun hyväksyt suunnitelman, aloitamme työt strukturoidulla onboarding-prosessilla."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "title": "Servicios de Diseño Web para Dermatología — Diseño, SEO y Crecimiento",
+    "description": "Descubra servicios de sitios web para dermatología alineados con HIPAA, SEO, marketing local, portales de pacientes, mantenimiento y soporte de crecimiento para clínicas modernas.",
+    "ogTitle": "Servicios de Sitios Web para Dermatología",
+    "ogDescription": "Diseño web, SEO, anuncios pagados, gestión de reputación, portales, galerías y soporte continuo para clínicas dermatológicas.",
+    "schema": {
+      "name": "Servicios de Diseño Web para Dermatología",
+      "serviceType": "Diseño web, SEO y marketing de crecimiento para consultorios dermatológicos",
+      "providerName": "Dermatology Website Design"
+    }
+  },
+  "hero": {
+    "eyebrow": "Servicios",
+    "title": "Servicios web para dermatología diseñados para convertir visitantes en pacientes.",
+    "description": "Elija un proyecto individual o un sistema integral de crecimiento: diseño web personalizado, SEO, captación de pacientes, integraciones, mantenimiento y optimización para clínicas de dermatología.",
+    "ctaQuote": "Solicite una Cotización Gratis",
+    "ctaPricing": "Ver Precios",
+    "proofPoints": {
+      "hipaa": "Implementación alineada con HIPAA",
+      "responsive": "Diseño adaptable a cualquier dispositivo",
+      "seo": "Bases de SEO on-page",
+      "conversion": "Flujos de pacientes enfocados en la conversión"
+    }
+  },
+  "sections": {
+    "website": {
+      "label": "Servicios Web",
+      "eyebrow": "Construir",
+      "description": "Sitios web personalizados, rediseños, migraciones, portales, galerías y planes de mantenimiento centrados en la confianza del paciente y la conversión."
+    },
+    "marketing": {
+      "label": "Servicios de Marketing",
+      "eyebrow": "Crecer",
+      "description": "Sistemas de SEO, visibilidad local, adquisición pagada, reputación, redes sociales, email y CRO para atraer pacientes cualificados."
+    },
+    "support": {
+      "label": "Servicios Adicionales",
+      "eyebrow": "Soporte",
+      "description": "Hosting, soporte de cumplimiento, integraciones, analítica, contenido y mejoras continuas para clínicas que buscan mantener el impulso tras el lanzamiento."
+    }
+  },
+  "cta": {
+    "title": "¿No está seguro de qué servicio se adapta a su clínica?",
+    "description": "Comience con una auditoría gratuita y trazaremos la ruta de mayor impacto para su sitio, visibilidad en buscadores y flujo de conversión de pacientes.",
+    "button": "Solicitar Auditoría Gratuita"
+  }
+}

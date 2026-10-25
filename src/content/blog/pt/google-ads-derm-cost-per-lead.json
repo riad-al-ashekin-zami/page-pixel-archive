@@ -1,0 +1,60 @@
+{
+  "slug": "google-ads-derm-cost-per-lead",
+  "title": "Como Reduzimos o Custo por Lead em 47% no Google Ads",
+  "excerpt": "Uma estratégia de lances específica para dermatologia, uma biblioteca de palavras-chave negativas e um padrão de página de destino que se multiplica.",
+  "imageAlt": "Profissional de marketing revisando gráficos de desempenho de anúncios pagos em um monitor widescreen",
+  "body": [
+    {
+      "text": "O custo por lead em campanhas de Google Ads para dermatologia geralmente é uma bagunça — inflacionado com palavras-chave genéricas, páginas de destino incompatíveis e uma estratégia de lances que não foi tocada desde que a campanha foi lançada por alguém que não trabalha mais na clínica. Aqui está o framework exato que usamos para cortar um CPL de $180 para $95 em um trimestre em três clínicas com múltiplas localizações."
+    },
+    {
+      "text": "O corte de 47% não foi resultado de uma única solução mágica. Foi o efeito composto de três mudanças disciplinadas: uma biblioteca impiedosa de palavras-chave negativas, uma estrutura de landing page de uma oferta por página e uma mudança de 'Maximizar Conversões' genérico para uma estratégia de CPA-alvo ancorada em dados reais de agendamento, não em dados de preenchimento de formulário. Qualquer uma dessas isoladamente move o ponteiro em 10–15%. Juntas, elas se acumulam em quase metade."
+    },
+    {
+      "heading": "1. A biblioteca de palavras-chave negativas"
+    },
+    {
+      "text": "Comece com nossa lista negativa de 240 termos em dermatologia. Ela filtra cliques de curiosidade baratos e buscas de educação clínica antes que custem um centavo. Se alguém está pesquisando no Google 'como Accutane funciona', é quase certamente um estudante ou um paciente curioso, não uma pessoa prestes a agendar — mas seu anúncio aparecerá felizmente e queimará o orçamento com eles, a menos que você diga para não fazê-lo."
+    },
+    {
+      "list": [
+        "Termos com intenção educacional: 'o que é', 'como funciona', 'significado de', 'diagrama', 'estágios de'",
+        "Termos com intenção de carreira: 'salário de dermatologista', 'empregos de dermatologista perto de mim', 'residência'",
+        "Termos de faça você mesmo e alternativas baratas: 'remédio caseiro', 'natural', 'faça você mesmo', 'barato', 'grátis'",
+        "Termos de público errado: estudante, crianças (a menos que você atenda pediatria), revisão, fórum, reddit",
+        "Termos de concorrentes, a menos que você tenha uma estratégia de conquista documentada"
+      ]
+    },
+    {
+      "text": "Reconstrua sua lista de termos negativos trimestralmente. O comportamento de pesquisa muda, novas tendências do TikTok geram novas consultas de curiosidade, e a palavra-chave limpa de ontem se torna o balde furado de amanhã. Uma revisão trimestral de noventa minutos tem um ROI desproporcional."
+    },
+    {
+      "heading": "2. Padrão de página de destino"
+    },
+    {
+      "text": "O maior impulso no estudo de caso veio de eliminar a página de destino compartilhada 'fale conosco' e substituí-la por uma oferta por campanha. Campanhas de Aesthetic levam a uma página de Aesthetic. Campanhas de acne levam a uma página de acne. Cada página tem o mesmo esqueleto — hero, prova, oferta, formulário — mas o conteúdo é correspondido à intenção do grupo de anúncios."
+    },
+    {
+      "list": [
+        "Uma oferta por página — nunca misture intenção cosmética e médica",
+        "Pilha de confiança acima da dobra: selo de certificado, pontuação de avaliação, contagem de pacientes",
+        "Formulário único com no máximo 4 campos e sem telefone obrigatório",
+        "CTA móvel fixo visível ao rolar",
+        "Dois módulos de prova social — um carrossel de avaliações, um antes/depois com consentimento"
+      ]
+    },
+    {
+      "heading": "3. Estratégia de lance ancorada em agendamentos, não em leads"
+    },
+    {
+      "text": "Os algoritmos do Google otimizam para qualquer sinal de conversão que você os alimente. Se você os alimenta com preenchimentos de formulário, eles encontrarão os preenchimentos de formulário mais baratos — que muitas vezes são os de menor intenção. A chave é alimentar o Google com um evento de conversão subsequente: 'agendamento marcado' ou 'agendamento compareceu'. Fazemos isso enviando o PMS ou CRM da clínica de volta para o Google Ads através do rastreamento de conversões offline e, em seguida, mudando de 'Maximizar Conversões' para CPA-alvo com uma meta vinculada ao evento de agendamento marcado."
+    },
+    {
+      "text": "Essa única mudança tende a elevar o CPL visível por algumas semanas — o algoritmo precisa de dados de aprendizado — antes de se estabelecer em um custo por paciente agendado materialmente mais baixo. Essa é a métrica que realmente importa. Um preenchimento de formulário de $60 que nunca resulta em agendamento é mais caro do que um preenchimento de formulário de $140 que se torna um paciente vitalício."
+    },
+    {
+      "text": "Execute essas três mudanças por um trimestre completo antes de julgar o resultado. Noventa dias é tempo suficiente para o algoritmo aprender, a lista negativa surtir efeito e as páginas de destino acumularem tráfego suficiente para testes A/B. Clínicas que desistem na sexta semana quase sempre perdem a composição dos resultados."
+    }
+  ],
+  "faqs": null
+}

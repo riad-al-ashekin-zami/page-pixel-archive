@@ -1,0 +1,333 @@
+{
+  "meta": {
+    "title": "Om oss — Webbyrå för dermatologiska kliniker",
+    "description": "Vi bygger HIPAA-medvetna webbplatser och tillväxtmarknadsföring exklusivt för hudläkarmottagningar. Möt teamet bakom resultaten.",
+    "ogTitle": "Om oss — Webbdesign för dermatologi",
+    "ogDescription": "En nischad byrå som hjälper hudläkarmottagningar med premiumwebbplatser, SEO och patientanskaffning.",
+    "breadcrumbHome": "Hem",
+    "breadcrumbAbout": "Om oss"
+  },
+  "hero": {
+    "kicker": "Om Dermatology Website Design",
+    "h1": "Specialisterna bakom <1>webbplatser för hudläkare.</1>",
+    "p": "Vi bygger in erfarenhet, expertis, auktoritet och trovärdighet (E-E-A-T) i varje webbplats – Googles viktigaste signaler för hälsovård (YMYL). Ingen generalistbyrå. En specialist.",
+    "ctaPrimary": "Jobba med oss",
+    "ctaSecondary": "Se tjänster",
+    "hipaa": "HIPAA-medveten",
+    "ada": "ADA-anpassad",
+    "rating": "4.9/5 i kundbetyg",
+    "imgAlt": "Legitimerad hudläkare i en modern klinik — representerar de mottagningar vi bygger webbplatser för",
+    "badgeKicker": "Byggt för dermatologi",
+    "badgeText": "E · E · A · T — Googles YMYL-signal"
+  },
+  "socialProof": {
+    "kicker": "Anlitas av ledande hudläkarmottagningar · Omtalade i"
+  },
+  "stats": {
+    "launched": "Lanserade sajter inom dermatologi",
+    "niche": "Nischfokuserade",
+    "performance": "Gsnittlig Lighthouse-poäng",
+    "audit": "Kostnadsfri audit levererad inom"
+  },
+  "missionVision": {
+    "mission": {
+      "tag": "Vårt uppdrag",
+      "title": "Hjälpa hudläkare att växa utan marknadsföringshuvudvärk.",
+      "body": "Vi kombinerar premiumdesign, etisk SEO och ärlig rapportering så att klinikägare kan fokusera på sina patienter — inte på att jaga sin byrå."
+    },
+    "vision": {
+      "tag": "Vår vision",
+      "title": "Den mest betrodda digitala partnern inom dermatologi.",
+      "body": "En nisch. Djup expertis. Transparent prissättning. Vi vill vara det självklara valet för alla hudläkarmottagningar som bryr sig om att göra saker på rätt sätt."
+    }
+  },
+  "values": {
+    "kicker": "Vad vi står för",
+    "header": "Värderingar som genomsyrar varje projekt.",
+    "cta": "Se hur vi jobbar",
+    "compliance": {
+      "title": "Compliance först",
+      "description": "HIPAA-medveten arkitektur, ADA-tillgänglighet och säker hosting är inbyggt från grunden – aldrig som en efterhandskonstruktion."
+    },
+    "focus": {
+      "title": "Endast dermatologi",
+      "description": "Vi tackar nej till alla branscher utanför dermatologi. Detta fokus är anledningen till att våra sajter konverterar 3 gånger bättre."
+    },
+    "partnership": {
+      "title": "Riktiga partnerskap",
+      "description": "Löpande supportavtal månad till månad. Inga inlåsningsavtal. Vi förtjänar ditt förtroende varje månad."
+    },
+    "craft": {
+      "title": "Hantverk före volym",
+      "description": "Vi tar bara emot ett fåtal kliniker åt gången så att varje projekt får senior uppmärksamhet från början till slut."
+    }
+  },
+  "timeline": {
+    "h2": "Vår resa <1>hittills.</1>",
+    "p": "En kort tidslinje över hur vi hamnade här — skrolla för att se åren som gått.",
+    "kicker": "Historien bakom oss",
+    "hint": "År",
+    "2019": {
+      "title": "Idén föds",
+      "description": "Efter att ha sett hudläkare bli besvikna på generiska byråer bestämde vi oss för att bygga något bättre — för en specifik nisch."
+    },
+    "2021": {
+      "title": "Våra första 10 kliniker",
+      "description": "Vi förfina vår strategi för konvertering tillsammans med sololäkare och mindre kliniker över hela USA."
+    },
+    "2023": {
+      "title": "Växel för tillväxt",
+      "description": "Vi lade till SEO, PPC och system för rykte så att våra kunder kan ackumulera resultat, inte bara lansera en sajt."
+    },
+    "2026": {
+      "title": "50+ kliniker, ett fokus",
+      "description": "Fortfarande bara dermatologi. Fortfarande senior-lett. Fortfarande transparent prissättning."
+    }
+  },
+  "team": {
+    "kicker": "Teamet",
+    "header": "Senior-lett, nisch-fokuserat.",
+    "p": "Varje projekt levereras av seniora designers, utvecklare och marknadsförare — inga juniorer bakom spakarna.",
+    "design": {
+      "name": "Designstudio",
+      "role": "Varumärke & UI",
+      "bio": "Designers besatta av rena, förtroendeingivande gränssnitt skräddarsydda för medicinsk dermatologi."
+    },
+    "engineering": {
+      "name": "Engineering",
+      "role": "Webb & Performance",
+      "bio": "Seniora utvecklare som levererar snabba, tillgängliga och HIPAA-medvetna webbplatser med modern teknik."
+    },
+    "growth": {
+      "name": "Growth Team",
+      "role": "SEO & Ads",
+      "bio": "Specialister som förstår hur patienter söker — lokal SEO, annonsering och CRO byggd för klinikens tillväxt."
+    }
+  },
+  "process": {
+    "kicker": "Vår process",
+    "header": "Sex steg, <1>förutsägbar leverans.</1>",
+    "p": "Varje projekt går igenom samma disciplinerade faser — skrolla för att gå igenom dem.",
+    "hint": "Steg",
+    "step1": {
+      "title": "Analys",
+      "body": "Vi granskar din nuvarande sajt, kartlägger konkurrenter och fastställer exakt vilka mål din klinik behöver nå."
+    },
+    "step2": {
+      "title": "Strategi & Offert",
+      "body": "En skriftlig plan landar i din inkorg — omfattning, sajtstruktur, tidslinje och transparent prissättning. Inga telefonsamtal krävs."
+    },
+    "step3": {
+      "title": "Design",
+      "body": "Seniora designers skapar ett visuellt system anpassat för dermatologi — fokus på förtroende, varumärkesidentitet och konvertering."
+    },
+    "step4": {
+      "title": "Utveckling",
+      "body": "Modern, tillgänglig kod med CMS för behandlingar, HIPAA-medvetna formulär och optimerade Core Web Vitals."
+    },
+    "step5": {
+      "title": "Kvalitetssäkring & Compliance",
+      "body": "Oberoende QA granskar varje sida för tillgänglighet, HIPAA-säkerhet, responsiv design och SEO-integritet."
+    },
+    "step6": {
+      "title": "Lansering & Förvaltning",
+      "body": "Smidig migrering med redirect-karta, följt av löpande uppdateringar, monitorering och förbättringar — aldrig en föråldrad sajt."
+    }
+  },
+  "clients": {
+    "kicker": "Vilka vi jobbar med",
+    "header": "Byggt för alla typer av <1>hudläkarmottagningar.</1>",
+    "p": "Från sololäkare till gruppmottagningar med flera adresser — vi skräddarsyr lösningen efter hur din klinik drivs.",
+    "solo": {
+      "title": "Sololäkare",
+      "body": "Fokuserade webbplatser som bygger trovärdighet och driver bokningar av konsultationer från dag ett."
+    },
+    "multi": {
+      "title": "Kliniker på flera platser",
+      "body": "Lokala landningssidor, enhetligt varumärke och lokal SEO byggd för att skala över alla adresser."
+    },
+    "aesthetic": {
+      "title": "Estetiska kliniker",
+      "body": "Behandlingsmenyer, före- och efter-gallerier samt bokningsflöden optimerade för estetisk dermatologi."
+    },
+    "pediatric": {
+      "title": "Pediatrisk dermatologi",
+      "body": "Varm, föräldravänlig design med tydliga guider för olika tillstånd och enkla bokningsvägar."
+    },
+    "mohs": {
+      "title": "Mohs- & kirurgisk dermatologi",
+      "body": "Procedurfokuserade sidor, remissflöden och patientutbildning med fokus på resultat."
+    },
+    "groups": {
+      "title": "Dermatologigrupper",
+      "body": "Katalogen över vårdgivare, remissvägar och innehållsflöden på företagsnivå."
+    }
+  },
+  "compliance": {
+    "kicker": "Förtroende & Compliance",
+    "header": "Dina patienters integritet, skyddad <1>redan vid designbordet.</1>",
+    "p": "HIPAA-medveten arkitektur, NDA-vänliga samarbeten och BAA-redo hosting. Efterlevnad är en del av vårt DNA — inte något vi lägger till i efterhand.",
+    "hipaa": {
+      "title": "HIPAA-medvetna byggen",
+      "body": "Formulär, hosting och dataflöden designade med säkerhet för PHI i åtanke."
+    },
+    "baa": {
+      "title": "BAA-redo hosting",
+      "body": "Business Associate Agreements tillgängliga vid varje lansering."
+    },
+    "nda": {
+      "title": "NDA-vänligt",
+      "body": "Standard för alla uppdrag — filer, kommunikation och åtkomst är strikt begränsade."
+    },
+    "phi": {
+      "title": "Ingen PHI i analysverktyg",
+      "body": "Spårning konfigurerad för att hålla skyddad data borta från tredjepartsverktyg."
+    }
+  },
+  "tech": {
+    "kicker": "Teknologi & Expertis",
+    "header": "En fokuserad och pålitlig <1>modern stack.</1>",
+    "p": "Vald för stabilitet, prestanda och långsiktig hållbarhet — inte för att det är sista skriket.",
+    "stack": {
+      "title": "Next.js & WordPress",
+      "body": "Modern React eller headless CMS, anpassat efter ditt team."
+    },
+    "hosting": {
+      "title": "HIPAA-medveten hosting",
+      "body": "Hanterad, övervakad och BAA-kompatibel infrastruktur."
+    },
+    "seo": {
+      "title": "Teknisk SEO",
+      "body": "Schema, hierarki och indexerbarhet från dag ett."
+    },
+    "cwv": {
+      "title": "Core Web Vitals",
+      "body": "Prestandabudgetar och optimerade tillgångar som standard."
+    },
+    "cms": {
+      "title": "Behandlings-CMS",
+      "body": "Strukturerade innehållsmodeller byggda för hudvårdstjänster."
+    },
+    "cro": {
+      "title": "Analys & CRO",
+      "body": "Integritetssäker mätning och optimering av konvertering."
+    },
+    "a11y": {
+      "title": "Tillgänglighet (WCAG)",
+      "body": "Standarder på AA-nivå inbyggda i alla komponenter."
+    },
+    "care": {
+      "title": "Löpande förvaltning",
+      "body": "Uppdateringar, backuper och drifttid — aldrig en sajt som står still."
+    }
+  },
+  "structure": {
+    "kicker": "Operativ struktur",
+    "header": "Riktiga avdelningar, <1>inte en pool av frilansare.</1>",
+    "p": "Sex specialiserade team, en dedikerad projektledare — tydliga roller, tydligt ägarskap, inga överlämningar till okända ansikten.",
+    "status": "Aktiv",
+    "pm": {
+      "title": "Projektledning",
+      "body": "Dedikerad projektledare som äger tidsplan, omfattning och kommunikation."
+    },
+    "content": {
+      "title": "Innehåll",
+      "body": "Texter godkända för medicinsk granskning som låter som din egen mottagning."
+    }
+  },
+  "faq": {
+    "kicker": "FAQ",
+    "header": "Vanliga frågor, <1>besvarade.</1>",
+    "q1": {
+      "q": "Är min dermatologiska webbplats HIPAA-kompatibel direkt vid leverans?",
+      "a": "Ja. Formulär, hosting och dataflöden är designade med PHI-säkerhet i åtanke, och Business Associate Agreement (BAA) finns tillgängligt på begäran. Vi konfigurerar även analysverktyg för att hålla känslig data borta från tredjepartsverktyg."
+    },
+    "q2": {
+      "q": "Hur lång tid tar ett typiskt projekt?",
+      "a": "De flesta sajter för enskilda kliniker lanseras inom 6–10 veckor från start. Projekt för flera kliniker eller de med omfattande migrering tar vanligtvis 10–14 veckor. Du får en skriftlig tidsplan med milstolpar innan vi börjar."
+    },
+    "q3": {
+      "q": "Vem äger webbplatsen och innehållet efter lansering?",
+      "a": "Det gör du — till 100 %. Kod, innehåll, tillgångar, hostingkonton och domän tillhör dig helt och hållet. Det finns ingen inlåsning och inget eget CMS du behöver fly ifrån."
+    },
+    "q4": {
+      "q": "Hanterar ni migreringar från vår nuvarande sajt?",
+      "a": "Ja. Vi migrerar innehåll, omdirigeringar, media och SEO-värde från WordPress, Squarespace, Wix eller anpassade system — med en redirect-karta så att dina placeringar i sökresultaten inte dyker."
+    },
+    "q5": {
+      "q": "Hur ser prissättningen ut?",
+      "a": "Projekt med fast omfattning börjar på låga femsiffriga belopp (USD) beroende på antal sidor och integrationer. Löpande supportavtal börjar på en låg månadsavgift. Du kan se våra aktuella prisintervall på vår prissida."
+    },
+    "q6": {
+      "q": "Erbjuder ni underhåll efter lansering?",
+      "a": "Ja. Varje lansering inkluderar en valfri förvaltningsplan som täcker uppdateringar, backuper, övervakning, säkerhetspatchar och månatliga innehållsändringar."
+    },
+    "q7": {
+      "q": "Kan ni arbeta under sekretessavtal (NDA)?",
+      "a": "Absolut. NDAs är standard i alla våra uppdrag, med strikt begränsad åtkomst, privata arbetsytor och konfidentiell hantering som standard."
+    }
+  },
+  "cta": {
+    "kicker": "Kostnadsfri webbplatsaudit",
+    "header": "Redo att utveckla din <1>hudläkarmottagning?</1>",
+    "p": "Ett seniort team, en tydlig plan och en webbplats byggd för att locka riktiga patienter — börja med en kostnadsfri 48-timmars audit av din nuvarande sajt.",
+    "primary": "Beställ gratis audit",
+    "secondary": "Prata med oss",
+    "next": "Vad händer härnäst",
+    "step1": {
+      "title": "Gratis 48-timmars audit",
+      "body": "Vi granskar din sajt — SEO, UX, HIPAA och prestanda."
+    },
+    "step2": {
+      "title": "Anpassad offert",
+      "body": "En skriftlig plan med prioriteringar, tidslinje och pris — levererad direkt till din inkorg."
+    },
+    "step3": {
+      "title": "Lansering på 6–10 veckor",
+      "body": "Design, utveckling, HIPAA-medveten QA och en smidig migrering."
+    },
+    "footer": {
+      "hipaa": "HIPAA-medveten",
+      "nda": "NDA-vänlig",
+      "ownership": "Du äger allt"
+    }
+  },
+  "footerLinks": {
+    "text": "Du kanske även har nytta av:",
+    "portfolio": "en titt på våra senaste projekt",
+    "process": "hur vi driver varje uppdrag",
+    "pricing": "hur en investering ser ut"
+  },
+  "testimonials": {
+    "ariaLabel": "Visa omdöme {{index}}",
+    "ariaStars": "5 av 5 stjärnor",
+    "t1": {
+      "quote": "De byggde om vår sajt och våra bokningar från nya patienter ökade med 62 % på 90 dagar.",
+      "name": "Dr. Alicia Moreno",
+      "role": "Legitimerad hudläkare"
+    },
+    "t2": {
+      "quote": "Äntligen en byrå som faktiskt förstår HIPAA, YMYL och SEO för dermatologi.",
+      "name": "Dr. Rahul Menon",
+      "role": "Mohs- & estetisk dermatologi"
+    },
+    "t3": {
+      "quote": "Ren design, snabb sajt och ett team som svarar samma dag. Sällsynt.",
+      "name": "Dr. Emily Chen",
+      "role": "Pediatrisk dermatologi"
+    },
+    "p1": {
+      "quote": "De byggde om vår sajt, fördubblade våra bokningar på 90 dagar och förstår verkligen medicinsk dermatologi. Ingen byrå vi testat tidigare var ens i närheten.",
+      "name": "Dr. Rachel Meyers, MD, FAAD"
+    },
+    "p2": {
+      "quote": "Varje sida känns som om en riktig hudläkare har skrivit den. Våra förfrågningar ökade inom några veckor, och sajten speglar äntligen den vårdnivå vi levererar.",
+      "name": "Dr. Jonathan Pierce, MD"
+    },
+    "p3": {
+      "quote": "Tydlig prissättning, inget fluff och ett team som vågade utmana oss när det behövdes. Relanseringen är det bästa marknadsföringsbeslutet vi tagit.",
+      "name": "Dr. Priya Shah, MD"
+    }
+  },
+  "skip": "Hoppa till innehåll"
+}

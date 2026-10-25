@@ -1,0 +1,370 @@
+{
+  "meta": {
+    "title": "Dermatology Email Marketing | HIPAA-Safe Recall, Newsletters & Automation",
+    "description": "HIPAA-safe email marketing for dermatology practices — welcome series, 6-month recall automation, seasonal education, and aesthetic reactivation. Reported on booked appointments, not opens.",
+    "og": {
+      "title": "Dermatology Email Marketing — HIPAA-Safe, Booked-Visit Attribution",
+      "description": "Custom newsletters, PMS-triggered recall flows, and HIPAA-compliant automation for dermatology practices. Klaviyo, HubSpot, Mailchimp."
+    },
+    "twitter": {
+      "title": "Dermatology Email Marketing Services",
+      "description": "HIPAA-safe email marketing, recall automation, and inbox-first deliverability for dermatology practices."
+    },
+    "jsonLd": {
+      "serviceType": "Email Marketing for Dermatology Practices",
+      "providerName": "DermatologyWebsiteDesign.com",
+      "description": "HIPAA-safe email marketing, recall automation, and newsletter services for dermatology practices.",
+      "breadcrumb": {
+        "home": "Home",
+        "services": "Services",
+        "emailMarketing": "Email Marketing"
+      }
+    }
+  },
+  "hero": {
+    "badge": "Dermatology Email Marketing",
+    "title": "Inboxes that fill your appointment book.",
+    "description": "HIPAA-safe email marketing for dermatology practices — welcome series, PMS-triggered recall automation, seasonal education, and aesthetic reactivation. Every campaign reported on booked visits, not vanity opens.",
+    "cta": {
+      "audit": "Free email audit",
+      "flows": "See the 5 automation flows"
+    },
+    "stats": {
+      "industryLabel": "industry avg 21%",
+      "comparison": "+30 pts vs baseline",
+      "opensLabel": "12,480 opens",
+      "hipaaBadge": "HIPAA-safe",
+      "openRateLabel": "open rate",
+      "openRateDescription": "Campaign open rate"
+    }
+  },
+  "outcomes": {
+    "openRate": "Average open rate",
+    "ctr": "Click-through rate",
+    "recallLift": "Recall-to-booking lift",
+    "hipaaReview": "HIPAA-safe copy review"
+  },
+  "trustBar": {
+    "title": "Trusted by 50+ dermatology practices",
+    "badges": [
+      "SPF · Verified",
+      "DKIM · Verified",
+      "DMARC · Verified",
+      "CAN-SPAM"
+    ]
+  },
+  "liveActivity": {
+    "title": "Live from client dashboards",
+    "status": "Live",
+    "actions": {
+      "opened": "opened",
+      "booked": "booked",
+      "clicked": "clicked"
+    },
+    "events": [
+      {
+        "who": "Jamie R.",
+        "campaign": "Winter skin plan",
+        "when": "just now"
+      },
+      {
+        "who": "Priya K.",
+        "campaign": "6-mo skin check",
+        "when": "14s ago"
+      },
+      {
+        "who": "Marcus T.",
+        "campaign": "Welcome · 3 of 5",
+        "when": "42s ago"
+      },
+      {
+        "who": "Sofia L.",
+        "campaign": "Aesthetic loyalty",
+        "when": "1m ago"
+      },
+      {
+        "who": "David H.",
+        "campaign": "Aesthetic reactivation",
+        "when": "2m ago"
+      },
+      {
+        "who": "Ana M.",
+        "campaign": "Sunscreen guide",
+        "when": "3m ago"
+      }
+    ]
+  },
+  "flows": {
+    "title": "The Flows",
+    "heading": "Five automated flows that run your practice email.",
+    "description": "Triggered from your PMS/EHR — welcome, recall, education, aesthetic offers, and reporting. Nothing is manual.",
+    "items": [
+      {
+        "step": "STEP 01",
+        "title": "Welcome & onboarding",
+        "desc": "5-email new-patient series — what to expect, how to prep, insurance FAQs, and easy rebooking links."
+      },
+      {
+        "step": "STEP 02",
+        "title": "Recall & re-engagement",
+        "desc": "6 / 12-month skin-check reminders auto-triggered from your PMS — booked-appointment attribution baked in."
+      },
+      {
+        "step": "STEP 03",
+        "title": "Education & seasonal",
+        "desc": "Acne in summer, eczema in winter, sunscreen in May — a 12-month editorial calendar tuned to your service lines."
+      },
+      {
+        "step": "STEP 04",
+        "title": "Aesthetic & add-on offers",
+        "desc": "Consent-based upsells for cosmetic services — Aesthetic loyalty, laser series, medical-grade skincare."
+      },
+      {
+        "step": "STEP 05",
+        "title": "Report on booked visits",
+        "desc": "Every campaign scored on appointments booked and revenue — not just opens and clicks."
+      }
+    ]
+  },
+  "integrations": {
+    "title": "PMS / EHR & Email Platform Integrations",
+    "platforms": [
+      "ModMed / EMA",
+      "Nextech",
+      "DrChrono",
+      "athenahealth",
+      "Klaviyo",
+      "HubSpot",
+      "Mailchimp",
+      "Zapier"
+    ]
+  },
+  "servicesIncluded": {
+    "title": "What's Included",
+    "heading": "A complete email marketing stack — one monthly retainer.",
+    "items": [
+      {
+        "title": "Strategy & 12-month calendar",
+        "desc": "Audience mapping, list-health audit, service-line editorial calendar, and campaign KPIs aligned to booked appointments."
+      },
+      {
+        "title": "Segmented list architecture",
+        "desc": "New patient, active, lapsed 6-mo, lapsed 12-mo, aesthetic, medical-only — with HIPAA-safe tagging and consent tracking."
+      },
+      {
+        "title": "Custom-designed templates",
+        "desc": "Responsive HTML templates on your brand — accessible color contrast, dark-mode-safe, and clean plain-text fallback."
+      },
+      {
+        "title": "Automated flows & triggers",
+        "desc": "Welcome, recall, birthday, post-visit, and aesthetic reactivation — triggered from your PMS/EHR via API or Zapier."
+      },
+      {
+        "title": "Deliverability & authentication",
+        "desc": "SPF, DKIM, DMARC setup, warm-up, list hygiene, and sender-reputation monitoring — inboxes reached, not spam folders."
+      },
+      {
+        "title": "Analytics & booked-visit attribution",
+        "desc": "Opens, clicks, unsubscribes plus PMS-linked appointment attribution — monthly reporting scoped to revenue."
+      }
+    ]
+  },
+  "deliverability": {
+    "title": "Deliverability",
+    "heading": "From spam folder to primary inbox.",
+    "description": "SPF, DKIM, and DMARC authentication, sender warm-up, quarterly list-hygiene sweeps, and reputation monitoring via Google Postmaster + Microsoft SNDS.",
+    "features": [
+      "SPF · DKIM · DMARC verified in first 7 days",
+      "Sender warm-up plan for platform migrations",
+      "List-hygiene sweep every 90 days",
+      "Weekly bounce & complaint monitoring"
+    ],
+    "gaugeLabel": "Inbox placement",
+    "timeline": "Average client, 60–90 days post-onboarding."
+  },
+  "abSection": {
+    "title": "Copy That Converts",
+    "heading": "A subject line is a booking or a swipe-away.",
+    "demoTitle": "Two words change everything.",
+    "badge": "Subject Line A/B",
+    "inboxPreview": "Inbox preview",
+    "sender": "Your clinic",
+    "time": "2:14 PM",
+    "openRateLabel": "Open rate",
+    "whyWins": "Why B wins:",
+    "buttons": {
+      "version": "Version",
+      "example": "Example"
+    },
+    "notes": [
+      "First-name personalization + benefit-forward framing.",
+      "Specific timing + effort-reduction language."
+    ]
+  },
+  "templateGallery": {
+    "title": "Template Gallery",
+    "heading": "Every send, on-brand — every time.",
+    "description": "Custom-designed, responsive templates with accessible contrast and dark-mode-safe rendering.",
+    "cta": "Book now",
+    "templates": [
+      {
+        "name": "Welcome",
+        "tag": "Series · 1 of 5",
+        "subject": "Welcome to the practice, Jamie",
+        "body": "Here's what to expect at your first visit — and 3 things to bring that make derm appointments easier."
+      },
+      {
+        "name": "Recall",
+        "tag": "Auto · PMS-triggered",
+        "subject": "Time for your 6-month skin check",
+        "body": "It's been 5 months since we last saw you. Skin checks catch 95% of concerns early — rebook in 2 taps."
+      },
+      {
+        "name": "Seasonal",
+        "tag": "Editorial · Winter",
+        "subject": "Winter skin, sorted — a note from Dr. Chen",
+        "body": "Cold air, hot showers, and heaters strip your barrier. Here's the 5-step routine our providers recommend."
+      }
+    ]
+  },
+  "liftSlider": {
+    "title": "The Lift",
+    "heading": "From 12% opens to 42% — see the compounding effect.",
+    "description": "Drag the slider to move opens from a typical baseline to a managed 42% — booked visits and revenue move with it.",
+    "dragLabel": "Drag to see the lift",
+    "before": "Before:",
+    "after": "After:",
+    "metrics": {
+      "booked": "Booked / mo",
+      "revenue": "Revenue / mo",
+      "recall": "Recall rate"
+    },
+    "aria": {
+      "slider": "Email open rate slider"
+    }
+  },
+  "testimonials": {
+    "title": "Client Outcomes",
+    "heading": "Real dermatology practices. Measured results.",
+    "items": [
+      {
+        "quote": "Recall emails alone paid for the retainer in the first month. Our 6-month skin-check bookings tripled and the copy actually sounds like our practice.",
+        "author": "Dr. E. Park, MD",
+        "role": "Solo Dermatologist · Seattle, WA"
+      },
+      {
+        "quote": "One brand, seven locations, one email calendar. HIPAA-safe segmentation was the piece we could never get right on our own.",
+        "author": "Marketing Director",
+        "role": "Multi-location group · 7 clinics · Texas"
+      },
+      {
+        "quote": "Deliverability went from 82% to 98% inbox in six weeks. Attribution to booked visits finally makes our email spend defensible to the partners.",
+        "author": "Practice Manager",
+        "role": "Mohs & Surgical Derm · Boston"
+      }
+    ]
+  },
+  "audiences": {
+    "title": "Built For",
+    "heading": "Every dermatology practice model.",
+    "items": [
+      {
+        "title": "Solo Dermatologists",
+        "desc": "Provider-voice newsletters that keep your chair full — welcome, reactivation, and post-visit follow-ups on one calendar."
+      },
+      {
+        "title": "Multi-location Clinics",
+        "desc": "Per-location sends with shared brand templates — one dashboard, unified analytics, HIPAA-safe segmentation."
+      },
+      {
+        "title": "Pediatric Dermatology",
+        "desc": "Parent-first education flows — eczema seasons, back-to-school checks, and gentle recall reminders."
+      },
+      {
+        "title": "Mohs & Surgical Dermatology",
+        "desc": "Pre-op prep, post-op healing check-ins, and skin-cancer-screening cadence — timed to clinical milestones."
+      }
+    ]
+  },
+  "medicalServices": {
+    "title": "Medical Services Supported",
+    "heading": "Email flows tuned to every service line.",
+    "description": "Each service line gets its own consent-safe education cadence, recall interval, and reactivation copy.",
+    "list": [
+      "Acne Treatment",
+      "Eczema Treatment",
+      "Psoriasis Treatment",
+      "Skin Infection Treatment",
+      "Skin Allergy Treatment",
+      "Skin Cancer Screening & Treatment",
+      "Mole Evaluation & Medically Necessary Removal",
+      "Cyst & Lipoma Removal",
+      "Wart Removal",
+      "Nail Disorder Treatment",
+      "Hair Loss Diagnosis & Medical Treatment",
+      "Scalp Disorder Treatment",
+      "Rosacea Treatment",
+      "Hyperpigmentation & Melasma Treatment (medical indication)",
+      "Scar Treatment (injury, surgery, disease)",
+      "Burn Scar Treatment",
+      "Vitiligo Treatment",
+      "Skin Biopsy & Diagnostic Procedures"
+    ]
+  },
+  "faq": {
+    "title": "FAQ",
+    "heading": "Questions dermatology practices ask before signing.",
+    "items": [
+      {
+        "q": "Is HIPAA-compliant email marketing actually possible?",
+        "a": "Yes — with strict rules. We never include PHI in email content, subject lines, or tracking parameters. Segmentation uses non-PHI tags (interest, campaign, consent status), consent is explicit at the point of visit or web form, and every send goes through a compliance review checklist. When protected data must move (e.g. appointment links tied to a chart), we route users to your secure patient portal instead of exposing anything in-mail."
+      },
+      {
+        "q": "Which email platforms and PMS/EHR systems do you support?",
+        "a": "We build on Klaviyo, HubSpot, Mailchimp, ActiveCampaign, or Customer.io depending on your practice size and integrations. On the clinical side we integrate with ModMed / EMA, Nextech, DrChrono, athenahealth, and others via API, HL7, or Zapier — automated triggers fire from real appointment data, not manual spreadsheets."
+      },
+      {
+        "q": "How do you measure results?",
+        "a": "Every campaign is scored on booked appointments and attributed revenue — not just opens and clicks. We instrument UTM tags on every link, wire click-throughs to your booking or portal system, and report monthly on open rate, CTR, appointment bookings, and estimated revenue per send."
+      },
+      {
+        "q": "What about deliverability and inbox placement?",
+        "a": "Setup includes SPF, DKIM, and DMARC authentication, a sender warm-up plan if you're moving from a legacy platform, quarterly list-hygiene sweeps, and sender-reputation monitoring via Google Postmaster and Microsoft SNDS. Practices typically move from 82–88% inbox placement into the 96–98% range within 60–90 days."
+      },
+      {
+        "q": "How often will you email our patients?",
+        "a": "Cadence is calibrated to your list, not a template. Most dermatology practices send 2 education emails per month plus automated triggers (welcome, recall, birthday). We never over-mail — unsubscribe and complaint rates are watched weekly, and cadence is dialed back the moment they drift above target."
+      },
+      {
+        "q": "Do you write the copy or does our team?",
+        "a": "We write everything — subject lines, body copy, plain-text fallback — in your provider's voice, reviewed by our HIPAA copy checklist. Your team approves each campaign in a shared calendar; nothing sends without a sign-off."
+      },
+      {
+        "q": "How is this priced?",
+        "a": "Flat monthly retainer scoped to list size and campaign volume. Included: strategy, calendar, template design, copywriting, deliverability, automation setup, PMS integration, and monthly reporting. No per-send fees, no long contracts after the first 90 days."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Turn your patient list into your #1 booking channel.",
+    "description": "Free 30-minute email audit — deliverability check, list-health report, and a 90-day recall automation plan. No pressure, no obligation.",
+    "auditBtn": "Free Website Audit",
+    "contactBtn": "Contact Us",
+    "sticky": {
+      "audit": "Free email audit",
+      "ariaPhone": "Contact us"
+    }
+  },
+  "footerLinks": {
+    "preface": "You might also want to see:",
+    "reputation": "reputation and review flows",
+    "social": "social storytelling for practices",
+    "cro": "landing pages that convert"
+  },
+  "inboxCard": {
+    "conversionNote": "We include recovery steps, insurance FAQs, and a single tap to rebook — designed to convert without ever quoting PHI.",
+    "aria": {
+      "expand": "Email preview cards — hover/tap to expand body"
+    }
+  }
+}

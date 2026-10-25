@@ -1,0 +1,442 @@
+{
+  "meta": {
+    "title": "Strony internetowe dla wielooddziałowych klinik dermatologicznych | Jedna marka, każde miasto",
+    "description": "Profesjonalne strony WWW dla sieci klinik dermatologicznych. Spójny system marki, lokalne SEO dla każdej placówki, wizytówki Google Business Profile, zintegrowana rezerwacja, zgodność z HIPAA. Buduj widoczność w każdym obsługiwanym mieście.",
+    "og_title": "Strony internetowe dla wielooddziałowych klinik dermatologicznych | Jedna marka, każde miasto",
+    "og_description": "Zaprojektuj spójną stronę dla wielu lokalizacji, która pozycjonuje się w każdym mieście, konwertuje lokalnie i skaluje się wraz z rozwojem sieci. Zgodność z HIPAA, wynik Lighthouse 95+, realne lokalne SEO.",
+    "jsonLd": {
+      "serviceType": "Projektowanie stron dla wielooddziałowych klinik dermatologicznych",
+      "providerName": "DW Design",
+      "audienceType": "Sieci klinik dermatologicznych",
+      "offerDescription": "Projekt strony dla wielu lokalizacji – cena startowa"
+    }
+  },
+  "hero": {
+    "badge": "Jedna marka · Każde miasto · Pełna indeksacja",
+    "title": "Strony dla wielu lokalizacji, które dominują w każdym nowym mieście.",
+    "description": "Spójny system wizualny, unikalne zaindeksowane podstrony dla każdej kliniki, lokalna schema, wizytówki GBP, opinie i rezerwacje – tak, aby pacjent w każdym mieście widział lokalny gabinet, a nie sztywną korporacyjną sieć.",
+    "cta": "Zaplanuj moją stronę wielooddziałową",
+    "secondary_cta": "Bezpłatny audyt lokalnego SEO",
+    "stats": {
+      "brand": {
+        "value": "1 marka",
+        "description": "Spójny system projektowy"
+      },
+      "locations": "Skalowalne placówki",
+      "performance": "Lighthouse na każdej podstronie"
+    },
+    "rank_badge": {
+      "label": "Ranking lokalny na żywo",
+      "value": "Top 3",
+      "subtext": "w każdym wdrożonym mieście, ≤ 60 dni"
+    },
+    "image_alt": "Mapa sieci klinik dermatologicznych ze spójnym panelem zarządzania marką"
+  },
+  "scaler": {
+    "eyebrow": "Interaktywny · Skalowanie lokalizacji",
+    "title": "Przeciągnij, aby zobaczyć zasięg swojej sieci.",
+    "description": "Sprawdź, z iloma zaindeksowanymi stronami lokalnymi wystartuje Twoja witryna – jedna dla każdej kliniki plus kluczowe usługi dla danego miasta.",
+    "label": "Lokalizacje:",
+    "range_hint": "2 – 10",
+    "stat_indexed": "Zaindeksowane strony lokalne",
+    "stat_gbp": "Skonfigurowane wizytówki GBP",
+    "browser_placeholder": "twojaklinika.pl/lokalizacje",
+    "local_number": "Numer lokalny"
+  },
+  "sections": {
+    "audiences": {
+      "eyebrow": "Dla kogo to tworzymy",
+      "title": "Zbudowane dla marek dermatologicznych obecnych w więcej niż jednej lokalizacji.",
+      "items": [
+        {
+          "label": "Dermatolodzy w fazie wzrostu",
+          "desc": "Otwierasz drugi lub trzeci gabinet i wyrastasz z prostej strony wizytówki."
+        },
+        {
+          "label": "Kliniki wielooddziałowe",
+          "desc": "Od 3 do 20 biur pod jedną marką, wymagających lokalnego SEO i jednego CMS-a."
+        },
+        {
+          "label": "Grupy dermatologii dziecięcej",
+          "desc": "Proces zapisu dostosowany do rodziców z dopasowaniem lekarza do lokalizacji."
+        },
+        {
+          "label": "Sieci chirurgiczne i Mohsa",
+          "desc": "Portale dla lekarzy kierujących z treściami naukowymi dla każdej kliniki."
+        }
+      ]
+    },
+    "problems": {
+      "eyebrow": "Co naprawiamy",
+      "title": "Większość stron sieciowych to tylko szablon jednej kliniki z doklejonymi adresami.",
+      "description": "Google widzi tylko jedną stronę. Pacjenci widzą jeden adres. Opinie mieszają się między oddziałami. My budujemy architekturę od podstaw.",
+      "labels": {
+        "before": "Przed",
+        "after": "Po"
+      },
+      "items": [
+        {
+          "before": "Jedna strona kontaktowa dla 6 klinik",
+          "after": "6 zaindeksowanych stron lokalnych"
+        },
+        {
+          "before": "Ten sam nagłówek H1 w każdej lokalizacji",
+          "after": "Nagłówki H1 i schema dedykowane miastom"
+        },
+        {
+          "before": "Niezweryfikowane wizytówki GBP",
+          "after": "GBP dla każdej kliniki, spięte ze stroną"
+        },
+        {
+          "before": "Pacjenci rezerwują wizyty w złym miejscu",
+          "after": "Rezerwacja rozpoznająca lokalizację i URL"
+        },
+        {
+          "before": "Wspólne opinie, brak lokalnego zaufania",
+          "after": "Opinie i oceny per lokalizacja"
+        },
+        {
+          "before": "Dodanie nowej placówki = 6 tygodni prac",
+          "after": "Nowa lokalizacja gotowa w mniej niż 7 dni"
+        }
+      ]
+    },
+    "pillars": {
+      "eyebrow": "System",
+      "title": "Sześć filarów każdego projektu wielooddziałowego.",
+      "items": [
+        {
+          "title": "Spójny System Projektowy",
+          "desc": "Jeden język wizualny i biblioteka komponentów – każda nowa strona lokalna dziedziczy je automatycznie."
+        },
+        {
+          "title": "SEO per Lokalizacja",
+          "desc": "Unikalne adresy URL, schema, nagłówki i treści dla każdego biura – pozycjonowane jako osobne podmioty."
+        },
+        {
+          "title": "Inteligentne Kierowanie",
+          "desc": "Wykrywanie kodu pocztowego i nagłówki zależne od lokalizacji. Pacjenci nigdy nie trafią do złego oddziału."
+        },
+        {
+          "title": "Lokalne Gwiazdki i Opinie",
+          "desc": "Opinie zbierane i wyświetlane osobno dla każdej kliniki – realny dowód słuszności na poziomie lokalnym."
+        },
+        {
+          "title": "Zintegrowana Rezerwacja",
+          "desc": "Jeden proces dla pacjenta, wiele kalendarzy. Lekarze, godziny i ubezpieczenia dopasowane do placówki."
+        },
+        {
+          "title": "Zgodność z HIPAA w całym systemie",
+          "desc": "Formularze, portale pacjenta i analityka – pełna gotowość BAA dla każdej lokalizacji."
+        }
+      ]
+    },
+    "architecture": {
+      "eyebrow": "Architektura URL",
+      "title": "Każda lokalizacja otrzymuje własny dom.",
+      "description": "Google traktuje każdą placówkę jako osobną klinikę. Pacjenci trafiają na stronę miasta, którego szukali. Opinie, godziny otwarcia i lekarze są przypisani do konkretnego biura.",
+      "items": [
+        "Indeks lokalizacji: /lokalizacje",
+        "Strona oddziału: /lokalizacje/warszawa-centrum",
+        "Usługa lokalna: /lokalizacje/warszawa-centrum/leczenie-tradziku",
+        "Profil lekarza: /lokalizacje/warszawa-centrum/dr-nowak",
+        "Dane strukturalne: LocalBusiness + MedicalClinic per URL"
+      ],
+      "visual": {
+        "title": "Plan struktury URL",
+        "status": "Zaindeksowano"
+      }
+    },
+    "seoMatrix": {
+      "eyebrow": "Matryca lokalnego SEO",
+      "title": "Każde miasto × każda usługa – zaindeksowane i widoczne.",
+      "description": "Przykład marki z 4 lokalizacjami: 12 kluczowych usług × 4 miasta = 48 unikalnie pozycjonowanych stron lokalnych, poza samymi stronami głównymi oddziałów.",
+      "table": {
+        "head_service": "Usługa",
+        "cities": [
+          "Warszawa",
+          "Kraków",
+          "Wrocław",
+          "Poznań"
+        ],
+        "services": [
+          "Leczenie trądziku",
+          "Terapia egzemy",
+          "Badanie znamion",
+          "Usuwanie pieprzyków",
+          "Leczenie trądziku różowatego",
+          "Leczenie łuszczycy"
+        ]
+      }
+    },
+    "medicalServices": {
+      "eyebrow": "Zakres usług medycznych",
+      "title": "Każda usługa medyczna, dopasowana lokalnie.",
+      "description": "Każda klinika wyświetla tylko te usługi, które faktycznie oferuje, z mapowaniem ubezpieczeń i personelu. Zero pomyłek przy rezerwacji.",
+      "list": [
+        "Leczenie trądziku",
+        "Terapia egzemy",
+        "Leczenie łuszczycy",
+        "Infekcje skórne",
+        "Alergie skórne",
+        "Diagnostyka i leczenie nowotworów skóry",
+        "Ocena i usuwanie znamion",
+        "Usuwanie cyst i tłuszczaków",
+        "Usuwanie brodawek",
+        "Choroby paznokci",
+        "Leczenie wypadania włosów",
+        "Choroby skóry głowy",
+        "Leczenie trądziku różowatego",
+        "Przebarwienia i melasma",
+        "Usuwanie blizn",
+        "Leczenie blizn pooparzeniowych",
+        "Leczenie bielactwa",
+        "Biopsja skóry i diagnostyka"
+      ]
+    },
+    "deliverables": {
+      "eyebrow": "Co dostarczamy",
+      "title": "12 konkretnych elementów wdrożenia.",
+      "list": [
+        "Spójny system projektowy dla wielu lokalizacji",
+        "Unikalna strona docelowa dla każdego oddziału",
+        "Schema LocalBusiness + MedicalClinic per lokalizacja",
+        "Konfiguracja Google Business Profile dla każdej placówki",
+        "Przełącznik lokalizacji na podstawie kodu pocztowego",
+        "Profile lekarzy i zdjęcia dedykowane placówkom",
+        "Lokalne strony usług (kluczowe frazy × N miast)",
+        "System zbierania i prezentacji opinii per lokalizacja",
+        "Zintegrowany proces rezerwacji z kontekstem miejsca",
+        "Formularze zgodne z HIPAA dla wszystkich oddziałów",
+        "Wynik Core Web Vitals 95+ dla każdej podstrony",
+        "Panel analityczny z podziałem na lokalizacje"
+      ]
+    },
+    "timeline": {
+      "eyebrow": "Proces",
+      "title": "Sześć kroków. Jeden termin wdrożenia.",
+      "steps": [
+        {
+          "step": "01",
+          "title": "Audyt marki i lokalizacji",
+          "desc": "Inwentaryzujemy każdą placówkę, lekarza, usługi i istniejące wizytówki GBP. Szukamy luk i duplikacji treści."
+        },
+        {
+          "step": "02",
+          "title": "Spójny System Projektowy",
+          "desc": "Jeden brand kit i biblioteka komponentów. Każda lokalizacja korzysta z tych samych spójnych wzorców."
+        },
+        {
+          "step": "03",
+          "title": "Architektura i Treści Lokalne",
+          "desc": "Struktura adresów URL, nagłówki dla miast, przypisanie personelu i unikalne teksty sprzedażowe."
+        },
+        {
+          "step": "04",
+          "title": "Wdrożenie i Integracja SEO",
+          "desc": "Każda strona otrzymuje schemę, mapę, dane NAP, linki GBP i specyficzne strony usług."
+        },
+        {
+          "step": "05",
+          "title": "QA i Audyt HIPAA",
+          "desc": "Testowanie każdej podstrony na desktopach i urządzeniach mobilnych. Audyt bezpieczeństwa formularzy."
+        },
+        {
+          "step": "06",
+          "title": "Start i Optymalizacja Rankingów",
+          "desc": "Weryfikacja wizytówek, spójność cytowań, konfiguracja GA4 per lokalizacja. Monitorowanie pozycji przez 90 dni."
+        }
+      ]
+    },
+    "comparison": {
+      "eyebrow": "Dlaczego my?",
+      "title": "Samodzielnie, agencja ogólna czy specjalista od sieci derm?",
+      "table": {
+        "head_capability": "Możliwości",
+        "head_diy": "Kreator DIY",
+        "head_generic": "Agencja Ogólna",
+        "head_dw": "DW Design",
+        "recommended": "POLECANE",
+        "rows": [
+          "Unikalna zaindeksowana strona na lokalizację",
+          "Lokalna schema dla każdej kliniki",
+          "Konfiguracja wizytówek GBP per lokalizacja",
+          "Rezerwacja rozpoznająca lokalizację/URL",
+          "System marki skalowalny do N oddziałów",
+          "Opinie per lokalizacja ze wsparciem schema",
+          "Formularze HIPAA w każdej placówce",
+          "Lighthouse 95+ na każdej podstronie"
+        ]
+      }
+    },
+    "pricing": {
+      "eyebrow": "Inwestycja",
+      "title": "Cena uzależniona od liczby Twoich placówek.",
+      "custom_quote_text": "Ponad 10 lokalizacji, grupy medyczne lub sieci inwestycyjne – poproś o indywidualną wycenę.",
+      "custom_quote_link": "indywidualna wycena",
+      "starting_label": "od",
+      "most_popular": "Najpopularniejszy",
+      "market_label": "Wartość rynkowa:",
+      "tiers": [
+        {
+          "name": "2–3 Lokalizacje",
+          "price": "$6,900",
+          "tag": "Rozwijająca się praktyka",
+          "market": "$15,000 – $28,000",
+          "savings": "54–75% taniej",
+          "features": [
+            "Spójny system projektowy",
+            "Do 3 zaindeksowanych stron lokalnych",
+            "Schema LocalBusiness per klinika",
+            "Konfiguracja GBP dla każdej lokalizacji",
+            "Zintegrowana rezerwacja lokalna",
+            "Wdrożenie w 5–7 tygodni"
+          ]
+        },
+        {
+          "name": "4–6 Lokalizacji",
+          "price": "$11,400",
+          "tag": "Najpopularniejszy",
+          "market": "$25,000 – $50,000",
+          "savings": "54–77% taniej",
+          "features": [
+            "Wszystko z pakietu mniejszego",
+            "Do 6 zaindeksowanych stron lokalnych",
+            "Miejskie strony usług",
+            "System zbierania opinii per oddział",
+            "Wykrywanie kodu pocztowego",
+            "Wdrożenie w 7–9 tygodni"
+          ]
+        },
+        {
+          "name": "7–10 Lokalizacji",
+          "price": "$18,900",
+          "tag": "Sieć Regionalna",
+          "market": "$45,000 – $90,000",
+          "savings": "58–79% taniej",
+          "features": [
+            "Wszystko z pakietu Najpopularniejszego",
+            "Do 10 zaindeksowanych stron lokalnych",
+            "Dopasowanie lekarza do placówki",
+            "Baza ubezpieczeń per klinika",
+            "Panel analityczny lokalizacji",
+            "Wdrożenie w 9–12 tygodni"
+          ]
+        }
+      ],
+      "cta": "Rozpocznij projekt"
+    },
+    "gallery": {
+      "eyebrow": "Zrealizowane projekty",
+      "title": "Spójny system w działających klinikach.",
+      "description": "Wnętrza dwóch placówek z aktywnych sieci dermatologicznych, które wdrożyliśmy. Zdjęcia i nazwy zanonimizowane ze względu na HIPAA i NDA.",
+      "nda_badge": "NDA",
+      "items": [
+        {
+          "label": "Recepcja · Lokalizacja A",
+          "city": "Metropolia Austin"
+        },
+        {
+          "label": "Gabinet zabiegowy · Lokalizacja B",
+          "city": "Dallas-Fort Worth"
+        }
+      ]
+    },
+    "caseStudy": {
+      "eyebrow": "Anonimowe Case Study",
+      "title": "Teksaska grupa dermatologiczna (6 placówek) · wyniki po 90 dniach.",
+      "description": "Nazwy i dane identyfikacyjne usunięte zgodnie z NDA. Metryki pochodzą z Google Search Console + GA4, weryfikacja kwartalna.",
+      "verified": "Zweryfikowano",
+      "metrics": [
+        {
+          "k": "+41%",
+          "label": "Telefonów od nowych pacjentów",
+          "sub": "w porównaniu do 90 dni przed wdrożeniem"
+        },
+        {
+          "k": "Top 3",
+          "label": "Pozycja w rankingu lokalnym",
+          "sub": "w 6 na 6 wdrożonych miast"
+        },
+        {
+          "k": "48",
+          "label": "Zaindeksowanych stron",
+          "sub": "wcześniej tylko 1 wspólny /kontakt"
+        },
+        {
+          "k": "97",
+          "label": "Mediana Lighthouse",
+          "sub": "na każdej stronie lokalizacji"
+        }
+      ],
+      "chart": {
+        "title": "Telefony od nowych pacjentów · tygodniowo",
+        "description": "Przed wdrożeniem → Dzień 90",
+        "pre": "Przed",
+        "post": "Po wdrożeniu",
+        "anonymized": "Dane klienta ukryte"
+      }
+    },
+    "testimonial": {
+      "quote": "Przeszliśmy od 3 placówek współdzielących jedną stronę kontaktu do 6 w pełni zaindeksowanych stron klinik. Każda z nich trafiła do lokalnego topu w Google w ciągu 60 dni. Liczba telefonów od pacjentów wzrosła o 41%, a otwarcie 7. placówki odbyło się bez konieczności przebudowy architektury strony.",
+      "author": "Dr Rachel Patel",
+      "title": "Partner Zarządzający, 7-placówkowa grupa dermatologiczna (Teksas)",
+      "trust_strip": "Wspieramy sieci dermatologiczne w miastach:",
+      "cities": [
+        "Austin",
+        "Plano",
+        "Fort Worth",
+        "Round Rock",
+        "Frisco",
+        "San Antonio"
+      ]
+    }
+  },
+  "faq": {
+    "eyebrow": "Często zadawane pytania",
+    "title": "Odpowiedzi na pytania o strony wielooddziałowe.",
+    "items": [
+      {
+        "q": "Jak strony dermatologiczne pozycjonują się w Google dla każdego miasta?",
+        "a": "Każda placówka otrzymuje własny zaindeksowany URL (np. /lokalizacje/warszawa), z unikalnym H1, opisem usług pod dane miasto, dedykowaną schemą LocalBusiness, mapą Google i opiniami przypisanymi do miejsca. Wyniki w rankingu lokalnym buduje się dla każdego miasta z osobna, a nie dla całej marki naraz."
+      },
+      {
+        "q": "Czy pacjenci mogą rezerwować wizyty w konkretnej lokalizacji bez pomyłek?",
+        "a": "Tak. Proces rezerwacji zawsze najpierw ustala lokalizację – na podstawie strony, na której jest pacjent, kodu pocztowego lub ręcznego wyboru w nagłówku. Pacjent nigdy nie musi zgadywać, do którego gabinetu się zapisuje."
+      },
+      {
+        "q": "Jak sprawić, by 10+ podstron nie wyglądało jak kopiuj-wklej?",
+        "a": "Łączymy spójny system marki z unikalną treścią lokalną: prawdziwe zdjęcia placówki, profile lekarzy przypisane do biura, lokalne FAQ, akceptowane ubezpieczenia w danym miejscu oraz wskazówki dojazdu. Google widzi je jako osobne podmioty, a pacjent czuje, że to jego lokalny gabinet."
+      },
+      {
+        "q": "Co jeśli w przyszłości dodamy lub zamkniemy lokalizację?",
+        "a": "Nowe placówki powstają z gotowego szablonu w mniej niż tydzień. Zamknięte lokalizacje otrzymują przekierowanie 301 do najbliższego oddziału z zachowaniem mapowania lekarzy, dzięki czemu wypracowane pozycje i ruch nie przepadają."
+      },
+      {
+        "q": "Czy zajmujecie się konfiguracją Google Business Profile dla każdej placówki?",
+        "a": "Tak. Przejmujemy, weryfikujemy i optymalizujemy wizytówki GBP dla każdej lokalizacji, spinamy zbieranie opinii ze stroną i dbamy o spójność danych NAP w najważniejszych katalogach medycznych. Widoczność lokalna jest częścią standardowego wdrożenia."
+      },
+      {
+        "q": "Ile trwa wdrożenie strony dla sieci klinik dermatologicznych?",
+        "a": "Dla 2-4 lokalizacji to 5-7 tygodni. Przy 5-10 oddziałach proces trwa 7-10 tygodni, a przy większych sieciach lub złożonych integracjach EHR – od 10 do 14 tygodni. Każdy projekt ma sztywne kamienie milowe i ustalony termin startu."
+      }
+    ]
+  },
+  "cta_founder": {
+    "title": "Bierzemy pełną odpowiedzialność za każdą wdrożoną placówkę.",
+    "description": "Przyjmujemy ograniczoną liczbę projektów wielooddziałowych w kwartale, aby każda strona była dopracowana. Jeśli Twój plan rozwoju zakłada więcej niż jeden adres, zaplanujmy architekturę, zanim powstanie pierwszy piksel.",
+    "cta_quote": "Pobierz darmową wycenę",
+    "cta_msg": "Wyślij wiadomość",
+    "footer_title": "Projektowanie Stron Dermatologicznych",
+    "footer_sub": "Pomagamy dermatologom rosnąć w sieci",
+    "logo_alt": "DW — Dermatology Website Design"
+  },
+  "footer_nav": {
+    "useful_hint": "Może Cię również zainteresować:",
+    "links": {
+      "single": "strony dla pojedynczych gabinetów",
+      "seo": "jak działa widoczność lokalna",
+      "portfolio": "ostatnie wdrożenia dla sieci klinik"
+    }
+  }
+}

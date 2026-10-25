@@ -1,0 +1,344 @@
+{
+  "meta": {
+    "title": "Dermatology Websites Portfolio — Real Practice Redesigns",
+    "description": "A curated portfolio of dermatology websites we've designed and built — cosmetic, medical, pediatric, and multi-location practices with measurable growth in bookings, SEO, and speed.",
+    "keywords": "dermatology website portfolio, dermatology web design examples, dermatology website case studies, dermatology practice websites",
+    "breadcrumb": {
+      "home": "Home",
+      "portfolio": "Portfolio"
+    }
+  },
+  "accessibility": {
+    "skipToContent": "Skip to content"
+  },
+  "hero": {
+    "badge": "Portfolio · 50+ dermatology practices",
+    "heading": "Real dermatology websites. Real growth.",
+    "subheading": "Every project below is a live practice — cosmetic, medical, pediatric, and multi-location groups. Custom design, HIPAA-aware builds, and SEO that moves bookings, not just rankings.",
+    "cta": {
+      "start": "Start a project",
+      "audit": "Free website audit"
+    },
+    "stats": [
+      {
+        "label": "Practices",
+        "value": "50+"
+      },
+      {
+        "label": "Avg. booking lift",
+        "value": "3.4×"
+      },
+      {
+        "label": "Lighthouse median",
+        "value": "98"
+      }
+    ]
+  },
+  "previews": {
+    "backCard": {
+      "imageAlt": "CS Dermatology — medical practice website preview",
+      "tags": {
+        "hipaa": "HIPAA-aware",
+        "performance": "99 · perf"
+      }
+    },
+    "frontCard": {
+      "imageAlt": "Aventura Skin Studio — cosmetic dermatology website preview",
+      "category": "Cosmetic derm · Miami",
+      "practiceName": "Aventura Skin Studio",
+      "result": "+214% consult requests · 90 days"
+    }
+  },
+  "ctaSection": {
+    "badge": "Ready when you are",
+    "heading": "Your practice deserves a website that books patients on its own.",
+    "description": "See what a dermatology-specialist build looks like for your practice. Free audit, fixed proposal, zero pressure — you get real numbers within 24 hours.",
+    "features": [
+      "Free 24-hour website audit",
+      "Fixed-price proposal",
+      "HIPAA-aware, WCAG AA",
+      "Own everything — code, domain, data"
+    ],
+    "buttons": {
+      "start": "Start a project",
+      "audit": "Free audit"
+    },
+    "disclaimer": "No credit card · No sales script"
+  },
+  "footerLinks": {
+    "text": "You might also want to see:",
+    "caseStudies": "results-focused case studies",
+    "process": "how each project comes together",
+    "pricing": "current package options",
+    "conjunctions": {
+      "or": "or"
+    }
+  },
+  "gallery": {
+    "eyebrow": "Live in the wild",
+    "heading": "Dermatology websites we study, benchmark & rebuild.",
+    "subheading": "A hand-picked gallery of dermatology, aesthetics and skincare brands from the US, MENA, UK and beyond — the exact category we design for, every day."
+  },
+  "sites": {
+    "centralaustinderm.com": {
+      "tagline": "Full-service dermatology in downtown Austin.",
+      "location": "Austin, TX"
+    },
+    "cleardermatology.net": {
+      "tagline": "Board-certified medical & cosmetic care.",
+      "location": "Scottsdale, AZ"
+    },
+    "olanskydermatology.com": {
+      "tagline": "Aesthetic dermatology + aesthetic suite.",
+      "location": "Atlanta, GA"
+    },
+    "sanovadermatology.com": {
+      "tagline": "Cosmetic, medical & surgical dermatology.",
+      "location": "TX & LA"
+    },
+    "dermsanantonio.com": {
+      "tagline": "Laser + medical dermatology campus.",
+      "location": "San Antonio, TX"
+    },
+    "directderm.com": {
+      "tagline": "Direct-to-patient teledermatology.",
+      "location": "USA"
+    },
+    "clinicaldermatologycenter.com": {
+      "tagline": "Research-forward clinical dermatology.",
+      "location": "Cincinnati, OH"
+    },
+    "dermlasercenter.com": {
+      "tagline": "Advanced laser + skin cancer center.",
+      "location": "USA"
+    },
+    "coloradodermatology.com": {
+      "tagline": "Front Range medical dermatology.",
+      "location": "Colorado"
+    },
+    "skymd.com": {
+      "tagline": "50-state teledermatology network.",
+      "location": "USA"
+    },
+    "chicagodermatology.co": {
+      "tagline": "Boutique medical & cosmetic dermatology.",
+      "location": "Chicago, IL"
+    },
+    "cura.sa": {
+      "tagline": "Premium dermatology & wellness in KSA.",
+      "location": "Saudi Arabia"
+    },
+    "galderma.com": {
+      "tagline": "Global dermatology pharma & aesthetics.",
+      "location": "Global"
+    },
+    "badrhealth.com": {
+      "tagline": "Multi-specialty dermatology group.",
+      "location": "Saudi Arabia"
+    },
+    "zmmcomedical.com": {
+      "tagline": "Medical + aesthetic dermatology group.",
+      "location": "MENA"
+    },
+    "naturium.com": {
+      "tagline": "Dermatologist-loved skincare brand.",
+      "location": "USA"
+    },
+    "westdermatology.com": {
+      "tagline": "60+ location western US network.",
+      "location": "AZ · CA · NV · NM"
+    },
+    "baydermatology.com": {
+      "tagline": "General & pediatric dermatology.",
+      "location": "Florida"
+    },
+    "lasercarespecialists.com": {
+      "tagline": "Focused laser + skin rejuvenation.",
+      "location": "USA"
+    },
+    "fwdermatology.com": {
+      "tagline": "Family & surgical dermatology.",
+      "location": "Fort Worth, TX"
+    },
+    "westlakedermatology.com": {
+      "tagline": "Top-tier cosmetic dermatology brand.",
+      "location": "Texas"
+    },
+    "platinumderm.com": {
+      "tagline": "Modern platinum-tier practice group.",
+      "location": "USA"
+    },
+    "sdfamilyderm.com": {
+      "tagline": "Family-first dermatology in San Diego.",
+      "location": "San Diego, CA"
+    },
+    "candelamedical.com": {
+      "tagline": "Global aesthetic device manufacturer.",
+      "location": "Global"
+    },
+    "edermatology.com": {
+      "tagline": "Concierge medical dermatology.",
+      "location": "USA"
+    },
+    "dermatologistoncall.com": {
+      "tagline": "On-demand virtual dermatology visits.",
+      "location": "USA"
+    },
+    "neodermatologist.com": {
+      "tagline": "Next-gen concierge dermatology.",
+      "location": "USA"
+    },
+    "doraclinic.sa": {
+      "tagline": "Luxury dermatology in Saudi Arabia.",
+      "location": "Saudi Arabia"
+    },
+    "reveal-clinics.com": {
+      "tagline": "Aesthetic clinic chain, UK-based.",
+      "location": "United Kingdom"
+    },
+    "dermskincancercenter.com": {
+      "tagline": "Mohs & skin cancer specialists.",
+      "location": "USA"
+    },
+    "coloradospringsdermatologyclinic.com": {
+      "tagline": "Cosmetic + medical dermatology.",
+      "location": "Colorado Springs, CO"
+    },
+    "azcdps.com": {
+      "tagline": "Comprehensive AZ dermatology practice.",
+      "location": "Arizona"
+    },
+    "lumenis.com": {
+      "tagline": "Energy-based aesthetic technology.",
+      "location": "Global"
+    },
+    "skinsight.com": {
+      "tagline": "Visual skin condition reference library.",
+      "location": "Global"
+    },
+    "skinofcolorsociety.org": {
+      "tagline": "Non-profit for skin of color research.",
+      "location": "Global"
+    },
+    "clini-derma.com": {
+      "tagline": "Modern aesthetic dermatology clinic.",
+      "location": "Europe"
+    },
+    "skinandme.com": {
+      "tagline": "Prescription skincare, delivered monthly.",
+      "location": "United Kingdom"
+    },
+    "unionmd.ca": {
+      "tagline": "Premium medical & aesthetic care.",
+      "location": "Montreal, CA"
+    },
+    "sydneyderm.com.au": {
+      "tagline": "Specialist dermatology in Sydney CBD.",
+      "location": "Sydney, AU"
+    },
+    "drhausdermatology.com": {
+      "tagline": "Harley Street dermatology & aesthetics.",
+      "location": "London, UK"
+    },
+    "teladochealth.com": {
+      "tagline": "Global virtual care enterprise.",
+      "location": "Global"
+    },
+    "skincarebydrv.com": {
+      "tagline": "Skin of colour expert brand.",
+      "location": "United Kingdom"
+    },
+    "sunparkdermatology.ca": {
+      "tagline": "Family medical dermatology practice.",
+      "location": "Calgary, CA"
+    },
+    "almalasers.com": {
+      "tagline": "Global energy-based device maker.",
+      "location": "Global"
+    },
+    "cpso.on.ca": {
+      "tagline": "Ontario physicians regulatory body.",
+      "location": "Ontario, CA"
+    },
+    "ottawahospital.on.ca": {
+      "tagline": "Academic multi-campus hospital.",
+      "location": "Ottawa, CA"
+    },
+    "thedermaco.com": {
+      "tagline": "Science-backed skincare brand.",
+      "location": "India"
+    },
+    "vancouver.rejuv.ca": {
+      "tagline": "Medical aesthetics & rejuvenation.",
+      "location": "Vancouver, CA"
+    },
+    "eudelo.com": {
+      "tagline": "London dermatology & skin wellness.",
+      "location": "London, UK"
+    },
+    "derma-clinic.co.uk": {
+      "tagline": "Consultant-led UK dermatology.",
+      "location": "United Kingdom"
+    },
+    "belfastskinclinic.com": {
+      "tagline": "Northern Ireland skin specialists.",
+      "location": "Belfast, UK"
+    },
+    "cathedraldermatology.com": {
+      "tagline": "Comprehensive dermatology care.",
+      "location": "USA"
+    },
+    "themoleclinic.co.uk": {
+      "tagline": "UK's leading mole screening service.",
+      "location": "United Kingdom"
+    },
+    "blemishclinic.co.uk": {
+      "tagline": "Skin lesion removal specialists.",
+      "location": "United Kingdom"
+    },
+    "norvichospital.com": {
+      "tagline": "Multi-specialty private hospital.",
+      "location": "Bangladesh"
+    },
+    "heidelbergmedical.com.au": {
+      "tagline": "Cosmetic dermatology & anti-ageing.",
+      "location": "Melbourne, AU"
+    },
+    "dermscreen.com.au": {
+      "tagline": "Skin cancer screening specialists.",
+      "location": "Australia"
+    },
+    "stgeorgedermatology.com.au": {
+      "tagline": "Sydney specialist dermatology.",
+      "location": "Sydney, AU"
+    },
+    "theskinlab.com.au": {
+      "tagline": "Cosmetic dermatology & aesthetic.",
+      "location": "Australia"
+    },
+    "asec.net.au": {
+      "tagline": "Australian Skin Excellence Centre.",
+      "location": "Australia"
+    }
+  },
+  "categoryLabels": {
+    "aesthetic": "Aesthetic",
+    "medical": "Medical",
+    "multiLocation": "Multi-location",
+    "brand": "Brand / Enterprise",
+    "international": "International",
+    "specialty": "Specialty"
+  },
+  "filters": {
+    "all": "All practices",
+    "aesthetic": "Aesthetic & cosmetic",
+    "medical": "Medical dermatology",
+    "multiLocation": "Multi-location groups",
+    "brand": "Enterprise & brand",
+    "international": "MENA & international",
+    "specialty": "Specialty & resources"
+  },
+  "actions": {
+    "visitSite": "Visit site"
+  }
+}

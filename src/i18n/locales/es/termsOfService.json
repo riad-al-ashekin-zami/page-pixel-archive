@@ -1,0 +1,89 @@
+{
+  "meta": {
+    "title": "Condiciones de Servicio — Uso del Sitio Web y Vinculación",
+    "description": "Las condiciones que rigen el uso de nuestro sitio web, nuestras comunicaciones y cualquier servicio que contrate con nuestro estudio.",
+    "og_title": "Condiciones de Servicio — Uso del Sitio Web y Vinculación",
+    "og_description": "Las condiciones que rigen el uso de nuestro sitio web, nuestras comunicaciones y cualquier servicio que contrate con nuestro estudio.",
+    "twitter_title": "Condiciones de Servicio — Uso del Sitio Web y Vinculación",
+    "twitter_description": "Las condiciones que rigen el uso de nuestro sitio web, nuestras comunicaciones y cualquier servicio que contrate con nuestro estudio."
+  },
+  "a11y": {
+    "skip_to_content": "Saltar al contenido",
+    "section_navigation": "Navegación de la sección"
+  },
+  "hero": {
+    "badge": "Legal · Condiciones de Servicio",
+    "title": "Condiciones de Servicio",
+    "description": "Las reglas fundamentales para utilizar nuestro sitio web, contactarnos y colaborar con nuestro estudio. Lea este documento junto con nuestro <0>Acuerdo de Servicio</0> y nuestra <1>Política de Privacidad</1>.",
+    "last_updated": "Última actualización: <0>14 de julio de 2026</0>"
+  },
+  "sections": {
+    "contents_label": "Contenido",
+    "acceptance": {
+      "title": "1. Aceptación de las Condiciones",
+      "body": "Al acceder o utilizar este sitio web (\"Sitio\"), enviar una consulta o contratar nuestros servicios, usted acepta estas Condiciones de Servicio (\"Condiciones\"). Si no está de acuerdo, por favor, deje de utilizar el Sitio."
+    },
+    "eligibility": {
+      "title": "2. Elegibilidad",
+      "body": "Debe tener al menos 18 años y capacidad legal para celebrar un contrato vinculante para utilizar el Sitio o contratar nuestros servicios. Si actúa en representación de una organización, declara que tiene autoridad para obligarla legalmente."
+    },
+    "services": {
+      "title": "3. Nuestros Servicios",
+      "body": "Este Sitio contiene principalmente contenido de marketing. Cualquier contratación de proyecto real —diseño, desarrollo, SEO o mantenimiento continuo— se rige por una propuesta independiente o declaración de trabajo y nuestro <0>Acuerdo de Servicio</0>. En caso de conflicto entre dichos documentos y estas Condiciones, prevalecerá el Acuerdo de Servicio."
+    },
+    "acceptable_use": {
+      "title": "4. Uso Aceptable",
+      "list": [
+        "No utilice de forma indebida, interrumpa ni intente vulnerar el Sitio o su infraestructura.",
+        "No realice scraping, rastreo ni reproduzca contenido más allá de una referencia justa y no comercial.",
+        "No envíe contenido ilegal, infractor, dañino o engañoso a través de los formularios.",
+        "No envíe Información de Salud Protegida (PHI) sujeta a HIPAA a través de formularios públicos."
+      ]
+    },
+    "ip": {
+      "title": "5. Propiedad Intelectual",
+      "body": "Todo el contenido de este Sitio —texto, gráficos, logotipos, código y diseño— es propiedad nuestra o de nuestros licenciantes y está protegido por las leyes de propiedad intelectual. Puede ver y compartir enlaces al Sitio; no puede copiar, modificar ni republicar el contenido sin nuestro permiso por escrito."
+    },
+    "submissions": {
+      "title": "6. Envíos y Sugerencias",
+      "body": "Si nos envía comentarios, ideas o sugerencias, nos otorga una licencia no exclusiva, mundial y gratuita para utilizarlos sin obligación alguna. No envíe nada que considere confidencial a menos que hayamos acordado lo contrario por escrito."
+    },
+    "third_party": {
+      "title": "7. Enlaces y Servicios de Terceros",
+      "body": "El Sitio puede hacer referencia a sitios, herramientas o servicios de terceros. No controlamos ni respaldamos a los mismos, y no somos responsables de su contenido, disponibilidad o prácticas."
+    },
+    "disclaimer": {
+      "title": "8. Descargo de Responsabilidad",
+      "body": "El Sitio y su contenido se proporcionan \"tal cual\" y \"según disponibilidad\", sin garantías de ningún tipo —expresas o implícitas—, incluidas las de comercialización, idoneidad para un fin determinado y no infracción. Nada en el Sitio constituye asesoramiento legal, médico o financiero."
+    },
+    "liability": {
+      "title": "9. Limitación de Responsabilidad",
+      "body": "En la medida máxima permitida por la ley, no somos responsables de ningún daño indirecto, incidental, consecuente o por pérdida de beneficios derivados del uso del Sitio. Nuestra responsabilidad total relacionada con el Sitio se limita a $100 USD."
+    },
+    "indemnity": {
+      "title": "10. Indemnización",
+      "body": "Usted acepta defendernos e indemnizarnos contra reclamaciones, daños y gastos derivados de su uso indebido del Sitio o de la violación de estas Condiciones."
+    },
+    "termination": {
+      "title": "11. Rescisión",
+      "body": "Podemos suspender o rescindir el acceso al Sitio en cualquier momento, con o sin previo aviso, si consideramos que ha infringido estas Condiciones o ha creado un riesgo para nosotros o para otros usuarios."
+    },
+    "governing_law": {
+      "title": "12. Ley Aplicable",
+      "body": "Estas Condiciones se rigen por las leyes de la jurisdicción establecida en nuestro Acuerdo de Servicio o, en su defecto, por la jurisdicción donde nuestro estudio esté registrado, sin tener en cuenta los principios de conflicto de leyes."
+    },
+    "changes": {
+      "title": "13. Cambios en estas Condiciones",
+      "body": "Es posible que actualicemos estas Condiciones periódicamente. La fecha de \"Última actualización\" en la parte superior refleja la versión vigente. El uso continuado del Sitio tras los cambios implica la aceptación de las Condiciones actualizadas."
+    },
+    "contact_section": {
+      "title": "14. Contacto",
+      "body": "¿Tiene preguntas sobre estas Condiciones? Contáctenos a través de nuestra <0>página de contacto</0>."
+    }
+  },
+  "cta": {
+    "title": "¿Tiene preguntas sobre estas Condiciones?",
+    "description": "Estaremos encantados de aclarar cualquier duda antes de comenzar a trabajar juntos.",
+    "button": "Contactar con nosotros"
+  }
+}

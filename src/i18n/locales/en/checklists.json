@@ -1,0 +1,287 @@
+{
+  "meta": {
+    "title": "Dermatology Website Checklists — Launch, SEO, HIPAA & Conversion",
+    "description": "Free, expert-built dermatology website checklists covering pre-launch QA, on-page SEO, HIPAA compliance, accessibility, Core Web Vitals, and conversion — printable, trackable, and dermatology-specific.",
+    "keywords": "dermatology website checklist, dermatology SEO checklist, HIPAA website checklist, dermatology website launch checklist, medical website accessibility checklist"
+  },
+  "schema": {
+    "breadcrumb": {
+      "home": "Home",
+      "pageName": "Dermatology Website Checklists"
+    }
+  },
+  "accessibility": {
+    "skipToContent": "Skip to content"
+  },
+  "hero": {
+    "badge": "Free · Dermatology-specific · Printable",
+    "title": "The dermatology website checklists that make launches boring.",
+    "description": "9 focused checklists. 108 expert checkpoints. Everything a modern dermatology practice needs to launch, rank, protect PHI, and convert — in one place.",
+    "actions": {
+      "primary": "Start the checklist",
+      "secondary": "Get a done-for-you audit"
+    },
+    "stats": [
+      {
+        "label": "Expert checkpoints",
+        "value": "108"
+      },
+      {
+        "label": "Focused categories",
+        "value": "9"
+      },
+      {
+        "label": "Lighthouse target",
+        "value": "95+"
+      }
+    ]
+  },
+  "progress": {
+    "title": "Your progress",
+    "status": "{{doneCount}} of {{totalItems}} complete",
+    "howItWorks": [
+      {
+        "title": "Scan",
+        "desc": "Skim the categories that matter for your next release."
+      },
+      {
+        "title": "Check off",
+        "desc": "Track progress inline — saved to your browser automatically."
+      },
+      {
+        "title": "Print or share",
+        "desc": "Hand-off ready for your dev, marketing, or compliance lead."
+      }
+    ],
+    "actions": {
+      "print": "Print / PDF",
+      "reset": "Reset",
+      "jump": "Jump to checklist"
+    }
+  },
+  "filter": {
+    "label": "Filter",
+    "all": "All"
+  },
+  "feedback": {
+    "ready": "You're launch-ready.",
+    "completeDesc": "Every checkpoint complete. Get a free quote to keep momentum going.",
+    "quoteCta": "Get a Free Quote"
+  },
+  "sections": {
+    "prelaunch": {
+      "title": "Pre-Launch QA",
+      "short": "Launch",
+      "tagline": "Zero surprises on go-live day.",
+      "items": [
+        "All page titles unique, ≤ 60 characters, and include a primary keyword",
+        "Meta descriptions unique, ≤ 160 characters, benefit-led",
+        "Favicon, Apple touch icon, and social share image (1200×630) uploaded",
+        "301 redirects mapped from every legacy URL to its new equivalent",
+        "XML sitemap generated and submitted to Google Search Console",
+        "robots.txt allows crawling and references the sitemap",
+        "SSL certificate installed and HTTPS forced site-wide",
+        "Forms tested end-to-end: submission, confirmation, and CRM/EHR delivery",
+        "Analytics (GA4) + conversion events firing for calls, forms, and bookings",
+        "Legal pages live: Privacy Policy, HIPAA Notice, ADA statement, Terms",
+        "Broken-link scan run — zero 404s from internal pages",
+        "Staging site blocked from indexing (noindex + basic auth)"
+      ]
+    },
+    "seo": {
+      "title": "On-Page SEO",
+      "short": "SEO",
+      "tagline": "Rank for the searches that book patients.",
+      "items": [
+        "One H1 per page — matches user intent, not brand fluff",
+        "Semantic H2/H3 outline mirrors patient questions",
+        "Service pages target one primary + 2–3 supporting keywords",
+        "Location pages include city, neighborhood, and driving directions",
+        "Internal links from blog posts to money pages (services, booking)",
+        "Descriptive image alt text on every non-decorative image",
+        "Schema markup: MedicalBusiness, Physician, Service, FAQPage, Review",
+        "Author bio + medical reviewer on every clinical article (E-E-A-T)",
+        "Google Business Profile linked, categories set, hours accurate",
+        "Local NAP (Name, Address, Phone) identical across site + citations",
+        "Canonical tags on every page — no duplicate content leaks",
+        "Open Graph + Twitter Card tags rendering correctly in debuggers"
+      ]
+    },
+    "hipaa": {
+      "title": "HIPAA Compliance",
+      "short": "HIPAA",
+      "tagline": "Protect PHI on every form, pixel, and page.",
+      "items": [
+        "BAA signed with hosting, forms, email, and analytics providers",
+        "No PHI captured by GA4, Meta Pixel, or third-party heatmaps",
+        "Contact forms transmit over TLS to a HIPAA-eligible endpoint",
+        "Patient portal login separated from marketing site session",
+        "Session timeouts + brute-force protection on any authed area",
+        "Access logs retained per your retention policy",
+        "Staff trained on secure form-review workflow — no PHI in email",
+        "Cookie banner discloses trackers and honors opt-out",
+        "Privacy notice references HIPAA + state law (e.g. CCPA/CMIA)",
+        "Data breach response plan documented and reachable",
+        "Chatbots + AI assistants configured to refuse PHI collection",
+        "Backup encryption verified and restore tested quarterly"
+      ]
+    },
+    "a11y": {
+      "title": "Accessibility (WCAG 2.2 AA)",
+      "short": "A11y",
+      "tagline": "Inclusive by default — and ADA-defensible.",
+      "items": [
+        "Color contrast ≥ 4.5:1 for body text, 3:1 for large text and UI",
+        "All interactive elements reachable and operable by keyboard",
+        "Visible focus indicators on every focusable element",
+        "Form fields have programmatically associated labels",
+        "Error messages announced to screen readers via aria-live",
+        "Skip-to-content link at the top of every page",
+        "Semantic landmarks: header, nav, main, footer",
+        "Images have meaningful alt text; decorative use alt=\"\"",
+        "Video content includes captions and transcripts",
+        "Motion respects prefers-reduced-motion",
+        "Tap targets ≥ 44×44 CSS pixels on mobile",
+        "ADA compliance statement with a working feedback channel"
+      ]
+    },
+    "performance": {
+      "title": "Performance & Core Web Vitals",
+      "short": "Performance",
+      "tagline": "Fast pages rank higher and convert more.",
+      "items": [
+        "LCP < 2.5s on mobile 4G (real-user data, not just lab)",
+        "INP < 200ms across primary CTAs and menus",
+        "CLS < 0.1 — reserve space for images, ads, and embeds",
+        "Hero image served as WebP/AVIF and appropriately sized",
+        "Fonts self-hosted or preloaded with font-display: swap",
+        "JavaScript code-split by route, third-party scripts lazy-loaded",
+        "Images use width/height attributes to prevent layout shift",
+        "CDN in front of static assets with long-lived cache headers",
+        "Critical CSS inlined; render-blocking resources eliminated",
+        "Server response time (TTFB) < 600ms globally",
+        "No fourth-party scripts loaded by tag managers",
+        "Lighthouse mobile score ≥ 90 across all four categories"
+      ]
+    },
+    "mobile": {
+      "title": "Mobile & UX",
+      "short": "Mobile",
+      "tagline": "80%+ of patients arrive on a phone.",
+      "items": [
+        "Sticky call button visible on every mobile screen",
+        "Menu opens in one tap — no nested hover reveals",
+        "Booking CTA reachable within one thumb-scroll of the fold",
+        "Forms use appropriate input types (tel, email, date)",
+        "Address block tap-opens Google Maps directions",
+        "Phone number is a tel: link, not plain text",
+        "Before/after gallery loads progressively, not all at once",
+        "Modals are dismissable via swipe-down or clear close button",
+        "No horizontal scroll on any viewport ≥ 320px wide",
+        "Fixed elements do not obscure form fields when keyboard opens",
+        "Language of the page declared on <html lang>",
+        "Dark-mode brand tokens tested for legibility"
+      ]
+    },
+    "conversion": {
+      "title": "Conversion & Trust",
+      "short": "Convert",
+      "tagline": "Turn visits into booked consultations.",
+      "items": [
+        "Primary CTA (Book, Call) above the fold on every page",
+        "Secondary CTA (Get Pricing, Free Consult) on every service page",
+        "Trust bar: HIPAA-aware, ADA, SSL, board certifications",
+        "Real patient reviews (aggregated + individual) with schema",
+        "Before/after gallery with consent, filters, and outcome notes",
+        "Provider bios with credentials, headshots, and specialties",
+        "Insurance + financing options clearly listed",
+        "New-patient form under 8 fields; long forms broken into steps",
+        "Thank-you page includes next step, not just \"we'll be in touch\"",
+        "Live chat or WhatsApp for after-hours questions",
+        "Exit-intent offer relevant to the service page (free consult, guide)",
+        "Call tracking + form tracking tied to marketing channel"
+      ]
+    },
+    "security": {
+      "title": "Security & Reliability",
+      "short": "Security",
+      "tagline": "Protect the practice — and the patient.",
+      "items": [
+        "Automatic daily backups stored offsite, tested monthly",
+        "CMS, plugins, and themes on a documented update cadence",
+        "Web Application Firewall (WAF) + brute-force protection",
+        "Admin accounts use MFA and unique passwords",
+        "Least-privilege roles for staff, vendors, and integrations",
+        "Security headers: HSTS, X-Content-Type-Options, CSP",
+        "Vulnerability scans run at least quarterly",
+        "Uptime monitoring with SMS alerts to a real human",
+        "Documented incident response + escalation contacts",
+        "DNS records inventoried; unused subdomains removed",
+        "SSL renewal automated; expiry monitored",
+        "Vendor list (BAA + non-BAA) reviewed annually"
+      ]
+    },
+    "content": {
+      "title": "Content & Editorial",
+      "short": "Content",
+      "tagline": "Say the right thing to the right patient.",
+      "items": [
+        "Dedicated page per service (not one \"Services\" catch-all)",
+        "Each service page answers: what, who, how, cost, next step",
+        "Location pages have unique copy — no boilerplate duplication",
+        "FAQ block on every service page (5–8 real patient questions)",
+        "Medical claims cited or reviewed by a board-certified provider",
+        "Reading level tuned to grade 7–9 for patient-facing copy",
+        "No stock photos of unrelated \"models\" pretending to be patients",
+        "Editorial calendar with monthly SEO + seasonal content",
+        "Old articles refreshed annually with new data + internal links",
+        "Author bios linked from every post, with Author schema",
+        "Consistent voice guide + terminology across the site",
+        "Legal + medical disclaimers on relevant pages"
+      ]
+    }
+  },
+  "cta": {
+    "badge": "Done-for-you",
+    "title": "Prefer we run the checklist for you?",
+    "description": "Get a personalized dermatology website audit — every checkpoint above, graded on your live site, with prioritized fixes delivered in 24 hours.",
+    "links": {
+      "audit": "Request free audit",
+      "contact": "Contact Us"
+    }
+  },
+  "faq": {
+    "badge": "FAQ",
+    "title": "Frequently asked questions",
+    "items": [
+      {
+        "q": "Who is this checklist for?",
+        "a": "Dermatology practice owners, office managers, and their web/marketing teams. It is written for real workflows, not generic \"business website\" advice."
+      },
+      {
+        "q": "Is progress saved?",
+        "a": "Yes — checkboxes are stored locally in your browser. Clear your storage or click Reset to start fresh."
+      },
+      {
+        "q": "Can I get a PDF?",
+        "a": "Use the Print button — the layout is print-optimized, and \"Save as PDF\" from your browser produces a clean handout."
+      },
+      {
+        "q": "How is this different from a generic web checklist?",
+        "a": "Every checkpoint is written for dermatology practices — HIPAA-aware forms, before/after galleries with consent, provider E-E-A-T, patient-portal separation, and location-page rules for multi-clinic groups."
+      },
+      {
+        "q": "Do you offer a done-for-you audit?",
+        "a": "Yes. Request a free dermatology website audit and we'll deliver a personalized 24-hour report against every checkpoint here."
+      }
+    ]
+  },
+  "footer": {
+    "more": "If this checklist helped, try:",
+    "links": {
+      "audit": "a free audit of your live site",
+      "caseStudies": "real dermatology case studies",
+      "blog": "more insights from our blog"
+    }
+  }
+}

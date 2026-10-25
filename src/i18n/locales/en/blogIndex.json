@@ -1,0 +1,118 @@
+{
+  "meta": {
+    "title": "Blog — Dermatology Marketing Insights & Growth Playbooks",
+    "description": "Practical playbooks on dermatology SEO, website design, patient acquisition, HIPAA, reviews, and paid ads — written for growth-minded practice owners.",
+    "keywords": "dermatology blog, dermatology SEO, dermatology marketing, practice growth, HIPAA websites",
+    "og": {
+      "title": "Dermatology Marketing Blog — Playbooks that Grow Practices",
+      "description": "Deep-dive articles and quick-read tactics for dermatology practices. SEO, design, ads, reputation, and patient experience."
+    },
+    "twitter": {
+      "title": "Dermatology Marketing Blog",
+      "description": "SEO, design, ads, and patient experience playbooks for dermatology practices."
+    },
+    "jsonLd": {
+      "breadcrumb": {
+        "home": "Home",
+        "blog": "Blog"
+      },
+      "blog": {
+        "name": "Dermatology Marketing Blog",
+        "description": "Playbooks and insights on dermatology SEO, website design, ads, reputation, and patient acquisition."
+      }
+    }
+  },
+  "hero": {
+    "badge": "The DermGrowth Journal",
+    "title": "Playbooks for the modern dermatology practice.",
+    "description": "Field-tested tactics on SEO, website design, paid ads, reputation, and patient experience — written by the team behind hundreds of practice launches.",
+    "search": {
+      "label": "Search articles",
+      "placeholder": "Search SEO, ads, HIPAA, redesign…",
+      "postCount": "{{count}} posts"
+    },
+    "aside": {
+      "ariaLabel": "This month at DermGrowth",
+      "issue": "Issue 24 · Summer '26",
+      "status": "What's working in dermatology growth right now.",
+      "stats": [
+        {
+          "value": "9",
+          "label": "new posts"
+        },
+        {
+          "value": "68k",
+          "label": "monthly reads"
+        },
+        {
+          "value": "4.9",
+          "label": "reader rating"
+        }
+      ],
+      "socialProof": "Trusted by 50+ dermatology owners and marketers"
+    }
+  },
+  "sections": {
+    "featured": {
+      "badge": "Featured article",
+      "heading": "The one to read this week",
+      "viewAll": "View all articles",
+      "ariaRead": "Read: {{title}}",
+      "statValue": "90.",
+      "statLabel": "Days to page one",
+      "readTime": "{{count}} min read",
+      "button": "Read article"
+    },
+    "latest": {
+      "badge": "Latest articles",
+      "heading": "Filter by what you're solving",
+      "description": "Every post is written for practice owners and marketing leads who need clear next steps, not fluff.",
+      "filterLabel": "Filter articles by category",
+      "empty": {
+        "heading": "No articles match that yet.",
+        "description": "Try a different category or clear your search.",
+        "button": "Reset filters"
+      },
+      "card": {
+        "ariaRead": "Read: {{title}}",
+        "readTime": "{{count}} min",
+        "readAction": "Read"
+      }
+    }
+  },
+  "newsletter": {
+    "badge": "The Weekly Chart",
+    "heading": "One growth playbook. Every Tuesday.",
+    "description": "Join 760+ dermatology owners and marketers. No fluff, no spam, unsubscribe in one click.",
+    "ariaLabel": "Subscribe to newsletter",
+    "placeholder": "you@practice.com",
+    "submit": "Subscribe",
+    "submitting": "Subscribing…",
+    "success": "You're in. Next issue lands Tuesday at 7am.",
+    "fineprint": "We read every reply. Never share your address.",
+    "features": [
+      {
+        "label": "Long reads",
+        "value": "Deep dives twice a month"
+      },
+      {
+        "label": "Case studies",
+        "value": "Real numbers, real practices"
+      },
+      {
+        "label": "Tactics",
+        "value": "Copy-paste playbooks"
+      },
+      {
+        "label": "Rated 4.9",
+        "value": "By 50+ subscribers"
+      }
+    ]
+  },
+  "footer": {
+    "keepReading": "Keep reading with:",
+    "caseStudies": "in-depth case studies",
+    "audit": "a free personalized site audit",
+    "faq": "common questions we get asked"
+  }
+}

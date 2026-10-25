@@ -1,0 +1,333 @@
+{
+  "meta": {
+    "title": "O nás — Agentura pro tvorbu webů pro dermatologii",
+    "description": "Tvoříme HIPAA-aware weby a zajišťujeme růstový marketing výhradně pro dermatologické praxe. Poznejte tým, který stojí za výsledky.",
+    "ogTitle": "O nás — Design webů pro dermatologii",
+    "ogDescription": "Specializovaná agentura poskytující dermatologickým ordinacím prémiové weby, SEO a akvizici nových pacientů.",
+    "breadcrumbHome": "Domů",
+    "breadcrumbAbout": "O nás"
+  },
+  "hero": {
+    "kicker": "O Dermatology Website Design",
+    "h1": "Specialisté stojící za <1>weby výhradně pro dermatology.</1>",
+    "p": "Do každého webu vkládáme principy E-E-A-T (zkušenost, odbornost, autoritu a důvěryhodnost) – klíčové signály Google pro zdravotnický segment (YMYL). Nejsme univerzální agentura. Jsme specialisté.",
+    "ctaPrimary": "Spolupracujte s námi",
+    "ctaSecondary": "Zobrazit služby",
+    "hipaa": "HIPAA-aware",
+    "ada": "ADA přístupnost",
+    "rating": "Hodnocení klientů 4.9/5",
+    "imgAlt": "Atestovaný dermatolog v moderní klinice – reprezentuje praxe, pro které tvoříme weby",
+    "badgeKicker": "Vytvořeno pro dermatologii",
+    "badgeText": "E · E · A · T — signál YMYL pro Google"
+  },
+  "socialProof": {
+    "kicker": "Důvěřují nám dermatologické praxe · Objevili jsme se v"
+  },
+  "stats": {
+    "launched": "Spuštěných webů pro dermatology",
+    "niche": "Úzká specializace",
+    "performance": "Průměrné Lighthouse skóre",
+    "audit": "Doba zpracování auditu zdarma"
+  },
+  "missionVision": {
+    "mission": {
+      "tag": "Naše mise",
+      "title": "Pomáháme dermatologům růst bez starostí o marketing.",
+      "body": "Propojujeme prémiový design, etické SEO a upřímný reporting, aby se majitelé praxí mohli soustředit na pacienty – ne na nahánění agentur."
+    },
+    "vision": {
+      "tag": "Naše vize",
+      "title": "Nejdůvěryhodnější digitální partner v oboru dermatologie.",
+      "body": "Jeden obor. Hluboká expertíza. Transparentní ceny. Chceme být jasnou volbou pro každou dermatologickou praxi, které záleží na kvalitě."
+    }
+  },
+  "values": {
+    "kicker": "Na čem si zakládáme",
+    "header": "Hodnoty, které formují každý projekt.",
+    "cta": "Jak pracujeme",
+    "compliance": {
+      "title": "Compliance na prvním místě",
+      "description": "HIPAA-aware architektura, ADA přístupnost a zabezpečený hosting jsou základem každého webu, nikoliv jeho doplňkem."
+    },
+    "focus": {
+      "title": "Pouze dermatologie",
+      "description": "Odmitáme zakázky mimo obor dermatologie. Právě toto zaměření je důvodem, proč naše weby konvertují 3x lépe."
+    },
+    "partnership": {
+      "title": "Skutečné partnerství",
+      "description": "Měsíční plány péče bez závazných smluv. Vaši důvěru si získáváme každý měsíc znovu."
+    },
+    "craft": {
+      "title": "Kvalita nad kvantitou",
+      "description": "Pracujeme jen pro omezený počet klientů současně, aby se každému projektu věnovali naši seniorní experti od začátku až do konce."
+    }
+  },
+  "timeline": {
+    "h2": "Náš příběh <1>dosud.</1>",
+    "p": "Krátký přehled toho, jak jsme se sem dostali – scrollujte napříč lety.",
+    "kicker": "Náš dosavadní příběh",
+    "hint": "Rok",
+    "2019": {
+      "title": "Myšlenka",
+      "description": "Poté, co jsme viděli dermatology zklamané univerzálními agenturami, rozhodli jsme se vybudovat něco lepšího – pro jeden konkrétní obor."
+    },
+    "2021": {
+      "title": "Prvních 10 praxí",
+      "description": "Zdokonalili jsme naše konverzní strategie u soukromých lékařů a menších klinik po celých USA."
+    },
+    "2023": {
+      "title": "Divize růstového marketingu",
+      "description": "Přidali jsme SEO, PPC a systémy pro správu reputace, aby klienti dosahovali synergických výsledků, nejen nového webu."
+    },
+    "2026": {
+      "title": "50+ praxí, jeden cíl",
+      "description": "Stále pouze dermatologie. Stále pod vedením seniorů. Stále transparentní ceny."
+    }
+  },
+  "team": {
+    "kicker": "Tým",
+    "header": "Vedení seniorními experty, zaměření na obor.",
+    "p": "Každý projekt dodávají zkušení designéři, vývojáři a marketéři – klíče nikdy nesvěřujeme juniorům.",
+    "design": {
+      "name": "Designové studio",
+      "role": "Brand & UI",
+      "bio": "Designéři posedlí čistým a důvěryhodným rozhraním na míru lékařské dermatologii."
+    },
+    "engineering": {
+      "name": "Engineering",
+      "role": "Web & Výkon",
+      "bio": "Seniorní vývojáři dodávající rychlé, přístupné a HIPAA-aware weby na moderních technologiích."
+    },
+    "growth": {
+      "name": "Growth tým",
+      "role": "SEO & Reklamy",
+      "bio": "Specialisté, kteří vědí, jak pacienti vyhledávají – lokální SEO, reklamy a CRO pro růst praxe."
+    }
+  },
+  "process": {
+    "kicker": "Náš proces",
+    "header": "Šest kroků, <1>předvídatelný výsledek.</1>",
+    "p": "Každý projekt prochází stejnými disciplinovanými fázemi – projděte si je.",
+    "hint": "Krok",
+    "step1": {
+      "title": "Discovery",
+      "body": "Auditujeme váš současný web, zmapujeme konkurenci a stanovíme přesné cíle, kterých musí vaše praxe dosáhnout."
+    },
+    "step2": {
+      "title": "Strategie a návrh",
+      "body": "Dostanete písemný plán – rozsah, mapu webu, časový harmonogram a transparentní nacenění. Žádné zbytečné hovory."
+    },
+    "step3": {
+      "title": "Design",
+      "body": "Seniorní designéři vytvoří vizuální styl pro dermatologii – důraz na důvěru, soulad s vaší značkou a konverzní optimalizaci."
+    },
+    "step4": {
+      "title": "Vývoj",
+      "body": "Moderní, přístupný kód s CMS pro správu zákroků, HIPAA-aware formuláři a optimalizací Core Web Vitals."
+    },
+    "step5": {
+      "title": "QA a Compliance",
+      "body": "Nezávislá kontrola kvality každé stránky z hlediska přístupnosti, HIPAA bezpečnosti, zobrazení na zařízeních a integrity SEO."
+    },
+    "step6": {
+      "title": "Spuštění a péče",
+      "body": "Hladká migrace se sadou přesměrování, následovaná průběžnými aktualizacemi a monitoringem – web u nás nikdy nezestárne."
+    }
+  },
+  "clients": {
+    "kicker": "S kým spolupracujeme",
+    "header": "Vytvořeno pro všechny typy <1>dermatologických praxí.</1>",
+    "p": "Od samostatných lékařů po kliniky s více pobočkami – realizaci přizpůsobujeme chodu vaší ordinace.",
+    "solo": {
+      "title": "Soukromí dermatologové",
+      "body": "Cílené weby budující důvěru, které generují rezervace konzultací od prvního dne."
+    },
+    "multi": {
+      "title": "Kliniky s více pobočkami",
+      "body": "Stránky jednotlivých poboček, jednotný branding a lokální SEO pro každou adresu."
+    },
+    "aesthetic": {
+      "title": "Estetická dermatologie",
+      "body": "Nabídky ošetření, galerie výsledků a rezervační toky optimalizované pro estetickou péči."
+    },
+    "pediatric": {
+      "title": "Dětská dermatologie",
+      "body": "Vstřícný design pro rodiče s jasnými průvodci diagnózami a snadnou cestou k objednání."
+    },
+    "mohs": {
+      "title": "Mohsova operace a chirurgie",
+      "body": "Stránky zaměřené na procedury, systém doporučení a edukaci pacientů orientovanou na výsledky."
+    },
+    "groups": {
+      "title": "Dermatologické skupiny",
+      "body": "Adresáře lékařů, cesty pro doporučení a profesionální nástroje pro správu obsahu."
+    }
+  },
+  "compliance": {
+    "kicker": "Důvěra a shoda",
+    "header": "Soukromí vašich pacientů chráněné <1>už v základu.</1>",
+    "p": "HIPAA-aware architektura, NDA jako standard a hosting připravený na BAA. Compliance je součástí naší práce, nikoliv dodatek.",
+    "hipaa": {
+      "title": "HIPAA-aware vývoj",
+      "body": "Formuláře, hosting a datové toky navržené s ohledem na bezpečnost citlivých zdravotních dat (PHI)."
+    },
+    "baa": {
+      "title": "Hosting připravený na BAA",
+      "body": "Smlouvy Business Associate Agreement dostupné ke každému spuštění."
+    },
+    "nda": {
+      "title": "Standardem je NDA",
+      "body": "Součást každé spolupráce – soubory, komunikace a přístupy jsou přísně zabezpečeny."
+    },
+    "phi": {
+      "title": "Žádná data PHI v analytice",
+      "body": "Měření nastavené tak, aby chráněná data nepronikla do nástrojů třetích stran."
+    }
+  },
+  "tech": {
+    "kicker": "Technologie a expertíza",
+    "header": "Zaměřený a spolehlivý <1>moderní stack.</1>",
+    "p": "Vybíráme technologie pro stabilitu, výkon a dlouhodobou udržovatelnost – nikoliv pro módní trendy.",
+    "stack": {
+      "title": "Next.js & WordPress",
+      "body": "Moderní React nebo headless CMS podle potřeb vašeho týmu."
+    },
+    "hosting": {
+      "title": "HIPAA-aware hosting",
+      "body": "Spravovaná a monitorovaná infrastruktura splňující BAA kritéria."
+    },
+    "seo": {
+      "title": "Technické SEO",
+      "body": "Strukturovaná data, hierarchie a indexovatelnost od prvního dne."
+    },
+    "cwv": {
+      "title": "Core Web Vitals",
+      "body": "Vyladěná rychlost načítání a efektivní zpracování dat."
+    },
+    "cms": {
+      "title": "CMS pro zákroky",
+      "body": "Strukturované modely obsahu vytvořené speciálně pro dermatologické služby."
+    },
+    "cro": {
+      "title": "Analytika & CRO",
+      "body": "Měření s respektem k soukromí a ladění konverzí."
+    },
+    "a11y": {
+      "title": "Přístupnost (WCAG)",
+      "body": "Standardy úrovně AA integrované přímo do komponent."
+    },
+    "care": {
+      "title": "Průběžná péče",
+      "body": "Aktualizace, zálohy, dostupnost – váš web bude stále v kondici."
+    }
+  },
+  "structure": {
+    "kicker": "Operační struktura",
+    "header": "Skutečná oddělení, <1>žádná síť freelancerů.</1>",
+    "p": "Šest specializovaných týmů, jeden dedikovaný projektový manažer – jasné role, jasná odpovědnost, žádná anonymní podpora.",
+    "status": "Aktivní",
+    "pm": {
+      "title": "Projektové řízení",
+      "body": "Dedikovaný PM zodpovídá za harmonogram, rozsah a veškerou komunikaci."
+    },
+    "content": {
+      "title": "Obsah",
+      "body": "Texty připravené pro odbornou revizi, které znějí přesně jako vaše praxe."
+    }
+  },
+  "faq": {
+    "kicker": "FAQ",
+    "header": "Časté dotazy, <1>zodpovězeny.</1>",
+    "q1": {
+      "q": "Je můj web pro dermatologii v souladu s HIPAA hned po spuštění?",
+      "a": "Ano. Formuláře, hosting a datové toky jsou navrženy pro bezpečnost PHI a smlouva BAA je k dispozici na vyžádání. Analytiku nastavujeme tak, aby data neunikala do externích nástrojů."
+    },
+    "q2": {
+      "q": "Jak dlouho trvá typický vývoj?",
+      "a": "Většina webů pro jednu ordinaci je spuštěna do 6–10 týdnů od zahájení. Projekty s více pobočkami nebo rozsáhlou migrací trvají 10–14 týdnů. Před začátkem dostanete přesný harmonogram s milníky."
+    },
+    "q3": {
+      "q": "Kdo vlastní web a obsah po jeho spuštění?",
+      "a": "Vy – na 100 %. Kód, obsah, grafické prvky, hostingové účty i doména zůstávají plně vaše. Neexistuje žádný vynucený závazek ani proprietární CMS, ze kterého by nešlo odejít."
+    },
+    "q4": {
+      "q": "Řešíte migrace z našeho současného webu?",
+      "a": "Ano. Migrujeme obsah, přesměrování, média i SEO hodnotu z WordPress, Squarespace, Wix nebo řešení na míru – včetně mapy přesměrování, aby neklesly pozice ve vyhledávání."
+    },
+    "q5": {
+      "q": "Jak vypadají ceny?",
+      "a": "Projekty s fixním rozsahem začínají v řádu nižších stovek tisíc korun v závislosti na počtu stran a integracích. Plány péče začínají na nízkém měsíčním paušálu. Aktuální rozmezí najdete na stránce Ceník."
+    },
+    "q6": {
+      "q": "Poskytujete údržbu i po spuštění?",
+      "a": "Ano. Každé spuštění obsahuje možnost plánu péče pokrývajícího aktualizace, zálohy, monitoring dostupnosti, bezpečnostní opravy a měsíční úpravy obsahu."
+    },
+    "q7": {
+      "q": "Můžete pracovat pod NDA?",
+      "a": "Samozřejmě. NDA je standardem u každé spolupráce, s přesně vymezeným přístupem, soukromými pracovními prostory a důvěrným zacházením ve výchozím nastavení."
+    }
+  },
+  "cta": {
+    "kicker": "Audit webu zdarma",
+    "header": "Jste připraveni na růst vaší <1>dermatologické praxe?</1>",
+    "p": "Tým seniorních expertů, jasný plán a web postavený pro získání reálných pacientů – začněte bezplatným 48hodinovým auditem vašeho stávajícího webu.",
+    "primary": "Vyžádat audit zdarma",
+    "secondary": "Kontaktujte nás",
+    "next": "Co bude následovat",
+    "step1": {
+      "title": "Audit zdarma do 48 hodin",
+      "body": "Prověříme váš stávající web – SEO, UX, HIPAA a výkon."
+    },
+    "step2": {
+      "title": "Návrh na míru",
+      "body": "Písemný plán s prioritami, časovým plánem a cenou – přímo do vaší schránky."
+    },
+    "step3": {
+      "title": "Spuštění za 6–10 týdnů",
+      "body": "Design, vývoj, HIPAA-aware testování a hladká migrace."
+    },
+    "footer": {
+      "hipaa": "HIPAA-aware",
+      "nda": "Standardem NDA",
+      "ownership": "Vlastníte vše"
+    }
+  },
+  "footerLinks": {
+    "text": "Mohlo by se vám také hodit:",
+    "portfolio": "pohled na naše nedávné projekty",
+    "process": "jak vedeme každou spolupráci",
+    "pricing": "jak vypadá investice do webu"
+  },
+  "testimonials": {
+    "ariaLabel": "Zobrazit referenci {{index}}",
+    "ariaStars": "5 hvězdiček z 5",
+    "t1": {
+      "quote": "Přestavěli náš web a počet rezervací od nových pacientů vzrostl o 62 % během 90 dnů.",
+      "name": "Dr. Alicia Moreno",
+      "role": "Atestovaná dermatoložka"
+    },
+    "t2": {
+      "quote": "Konečně agentura, která skutečně rozumí HIPAA, YMYL a dermatologickému SEO.",
+      "name": "Dr. Rahul Menon",
+      "role": "Mohsova chirurgie a estetická dermatologie"
+    },
+    "t3": {
+      "quote": "Čistý design, rychlý web a tým, který odpovídá ve stejný den. To se jen tak nevidí.",
+      "name": "Dr. Emily Chen",
+      "role": "Dětská dermatologie"
+    },
+    "p1": {
+      "quote": "Přestavěli náš web, zdvojnásobili počet rezervací konzultací za 90 dní a skutečně rozumí klinické dermatologii. Žádná agentura předtím se jim ani nepřiblížila.",
+      "name": "Dr. Rachel Meyers, MD, FAAD"
+    },
+    "p2": {
+      "quote": "Každá stránka zní, jako by ji psal lékař. Poptávky po zákrocích vzrostly během týdnů a web konečně odráží úroveň péče, kterou poskytujeme.",
+      "name": "Dr. Jonathan Pierce, MD"
+    },
+    "p3": {
+      "quote": "Jasné ceny, žádná vata a tým, který se nebál ozvat, když na tom záleželo. Rebranding webu byl naším nejlepším marketingovým rozhodnutím.",
+      "name": "Dr. Priya Shah, MD"
+    }
+  },
+  "skip": "Přeskočit na obsah"
+}

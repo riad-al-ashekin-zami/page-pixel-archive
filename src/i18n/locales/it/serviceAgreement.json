@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "title": "Contratto di Servizio — Termini e Condizioni",
+    "description": "Il contratto di servizio che regolamenta i progetti tra il nostro studio e gli studi dermatologici: ambito, deliverable, pagamenti, proprietà intellettuale, riservatezza, garanzie e recesso.",
+    "page_title": "Contratto di Servizio — Termini e Condizioni",
+    "page_description": "Il contratto di servizio che regolamenta i progetti tra il nostro studio e gli studi dermatologici: ambito, deliverable, pagamenti, proprietà intellettuale, riservatezza, garanzie e recesso."
+  },
+  "common": {
+    "skip_to_content": "Passa al contenuto principale",
+    "last_updated": "Ultimo aggiornamento:",
+    "last_updated_date": "14 luglio 2026"
+  },
+  "hero": {
+    "badge": "Note Legali · Contratto di Servizio",
+    "h1": "Accordo di Collaborazione",
+    "description": "I termini contrattuali definiti in modo chiaro che regolano il design, lo sviluppo e la collaborazione continuativa tra il nostro studio e la vostra clinica. Da leggere in combinazione con la proposta di progetto o il documento operativo (SOW)."
+  },
+  "sections": {
+    "toc_title": "Indice dei contenuti",
+    "navigation_aria_label": "Navigazione sezioni",
+    "parties": {
+      "title": "1. Parti e Accettazione",
+      "body": "Il presente Contratto di Servizio (\"Accordo\") viene stipulato tra il nostro studio (\"Fornitore\", \"noi\") e lo studio, l'ente o il professionista identificato nella proposta o nel documento operativo allegato (\"Cliente\", \"voi\"). Firmando una proposta, versando un acconto o autorizzando in altro modo l'inizio dei lavori, accettate integralmente i termini riportati di seguito."
+    },
+    "scope": {
+      "title": "2. Ambito dei Servizi",
+      "body": "I servizi specifici, i deliverable, le milestone e le tempistiche sono definiti nella proposta o nel documento operativo (\"SOW\") che fa riferimento al presente Accordo. Qualsiasi elemento non incluso nel SOW — come nuove pagine, integrazioni aggiuntive, cicli di revisione extra o modifiche dopo l'approvazione — sarà trattato come variante d'ordine e preventivato separatamente per iscritto."
+    },
+    "fees": {
+      "title": "3. Onorari e Pagamenti",
+      "items": [
+        "È richiesto un acconto non rimborsabile del 50% per la pianificazione e l'inizio dei lavori.",
+        "Il saldo sarà fatturato in base alle milestone definite nel SOW; il versamento finale deve avvenire prima del lancio o della consegna dei file.",
+        "Le fatture devono essere saldate entro 7 giorni. In caso di ritardo, verrà applicato un interesse moratorio dell'1,5% mensile e i lavori potrebbero essere sospesi fino al saldo delle pendenze.",
+        "I piani ricorrenti (hosting, manutenzione, canoni) vengono fatturati mensilmente in modalità anticipata."
+      ]
+    },
+    "timeline": {
+      "title": "4. Tempistiche e Responsabilità del Cliente",
+      "body": "Le tempistiche stimate presuppongono risposte ai feedback e alle richieste di contenuti entro 3 giorni lavorativi. Eventuali ritardi nell'invio di feedback, contenuti o approvazioni di terze parti sposteranno la data di consegna giorno per giorno. La responsabilità della fornitura di contenuti accurati, asset del brand e credenziali di accesso ricade sul Cliente, che deve garantire che tali materiali siano veritieri e non violino i diritti di terzi."
+    },
+    "revisions": {
+      "title": "5. Revisioni",
+      "body": "Ogni deliverable include due cicli di revisione consolidati, salvo diversamente specificato nel SOW. Le revisioni richieste dopo l'approvazione scritta di una fase, o che eccedono i cicli inclusi, saranno fatturate alla nostra tariffa oraria corrente."
+    },
+    "ip": {
+      "title": "6. Proprietà Intellettuale",
+      "body": "Al saldo dell'intero pagamento, il Cliente acquisisce la proprietà dei deliverable finali realizzati specificamente per lui: web design, codice personalizzato e contenuti redatti in base al SOW. Lo studio mantiene i diritti su framework preesistenti, strumenti e componenti generici utilizzati nella build, concedendo al Cliente una licenza d'uso perpetua come parte integrante del progetto. Salvo diversa richiesta scritta, lo studio potrà esporre il lavoro finito nel proprio portfolio e nei case study."
+    },
+    "third_party": {
+      "title": "7. Servizi di Terze Parti",
+      "body": "I progetti possono dipendere da servizi di terze parti (hosting, CMS, analytics, integrazioni EHR/booking, DNS, processori di pagamento). I relativi costi e l'accettazione dei termini d'uso sono a carico del Cliente. Non saremo responsabili per interruzioni, modifiche o difetti causati da fornitori terzi."
+    },
+    "hipaa": {
+      "title": "8. HIPAA e Trattamento Dati",
+      "body": "I nostri siti web standard sono progettati in ottica HIPAA-aware: evitano la raccolta di informazioni sanitarie protette (PHI) in moduli, tracker o log. Qualora un progetto preveda intenzionalmente la gestione di PHI (es. portali pazienti, moduli con dati clinici), le parti stipuleranno un Business Associate Agreement (\"BAA\") separato prima dell'attivazione. Il Cliente è responsabile della configurazione conforme a HIPAA degli strumenti terzi aggiunti dopo la consegna."
+    },
+    "confidentiality": {
+      "title": "9. Riservatezza",
+      "body": "Ciascuna parte si impegna a mantenere riservate le informazioni non pubbliche (commerciali, finanziarie, cliniche e tecniche) dell'altra, utilizzandole esclusivamente per l'esecuzione del presente Accordo. Gli obblighi di riservatezza restano validi anche dopo la cessazione del contratto."
+    },
+    "warranty": {
+      "title": "10. Garanzia e Limitazioni",
+      "body": "Garantiamo che i servizi saranno prestati in modo professionale, in linea con gli standard del settore. Per i 30 giorni successivi al lancio, risolveremo gratuitamente eventuali difetti nel codice da noi scritto. Oltre tale termine, gli interventi correttivi rientreranno in un piano di manutenzione o saranno fatturati a ore. Salvo quanto espressamente dichiarato, i servizi e i deliverable sono forniti \"nello stato in cui si trovano\" (as-is); si declina ogni altra garanzia, inclusa l'idoneità a uno scopo specifico o la conformità di servizi terzi."
+    },
+    "liability": {
+      "title": "11. Limitazione di Responsabilità",
+      "body": "Nei limiti massimi consentiti dalla legge, nessuna delle parti sarà responsabile per danni indiretti, incidentali, consequenziali o perdita di profitti. La nostra responsabilità complessiva ai sensi del presente Accordo è limitata agli onorari corrisposti dal Cliente nei tre (3) mesi precedenti la richiesta di risarcimento."
+    },
+    "termination": {
+      "title": "12. Recesso e Risoluzione",
+      "body": "Ciascuna parte può risolvere il contratto per inadempimento sostanziale qualora la violazione non venga sanata entro 14 giorni dalla notifica scritta. In caso di recesso per convenienza da parte del Cliente, questi sarà responsabile per tutto il lavoro completato e le spese sostenute fino alla data di recesso; l'acconto resterà non rimborsabile. Per i piani ricorrenti è richiesto un preavviso scritto di 30 giorni."
+    },
+    "misc": {
+      "title": "13. Legge Applicabile e Varie",
+      "body": "Il presente Accordo è regolato dalle leggi della giurisdizione indicata nel SOW. Esso costituisce l'intero accordo tra le parti e sostituisce qualsiasi discussione precedente. Qualora una clausola risultasse inapplicabile, le restanti rimarranno in vigore. Eventuali modifiche devono essere redatte per iscritto e firmate da entrambe le parti."
+    }
+  },
+  "cta": {
+    "title": "Domande su questi termini?",
+    "description": "Saremo lieti di approfondire ogni singola clausola prima della firma.",
+    "button": "Contattaci"
+  }
+}

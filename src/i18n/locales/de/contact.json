@@ -1,0 +1,193 @@
+{
+  "meta": {
+    "title": "Kontakt — Website-Design für die Dermatologie",
+    "description": "Kontaktieren Sie unser Team für dermatologisches Website-Design. E-Mail, WhatsApp oder Kontaktformular – wir antworten innerhalb von 24 Stunden.",
+    "ogTitle": "Kontakt — Website-Design für die Dermatologie",
+    "ogDescription": "Fragen zu Ihrer Praxis-Website? Melden Sie sich – wir antworten innerhalb von 24 Stunden.",
+    "breadcrumbHome": "Startseite",
+    "breadcrumbContact": "Kontakt"
+  },
+  "form": {
+    "validation": {
+      "name": "Bitte geben Sie Ihren Namen ein",
+      "email": "Bitte geben Sie eine gültige E-Mail-Adresse ein",
+      "topic": "Bitte wählen Sie ein Thema aus",
+      "message": "Bitte schreiben Sie eine kurze Nachricht (min. 10 Zeichen)"
+    },
+    "subjects": [
+      "Neue Website",
+      "Website-Redesign",
+      "Website-Migration",
+      "SEO / Marketing",
+      "Wartung & Support",
+      "Allgemeine Anfrage"
+    ],
+    "errors": {
+      "fixFields": "Bitte korrigieren Sie die markierten Felder.",
+      "cooldown": "Bitte warten Sie {{seconds}} Sekunden, bevor Sie das Formular erneut senden.",
+      "global": "Entschuldigung, etwas ist schiefgelaufen. Bitte versuchen Sie es erneut oder senden uns direkt eine E-Mail."
+    },
+    "labels": {
+      "name": "Ihr Name",
+      "email": "E-Mail-Adresse",
+      "phone": "Telefonnummer (optional)",
+      "website": "Website-URL (optional)",
+      "practice": "Name der Praxis",
+      "subject": "Worum geht es?",
+      "message": "Ihre Nachricht"
+    },
+    "placeholders": {
+      "name": "Dr. med. Maria Muster",
+      "email": "dr.muster@praxis.de",
+      "phone": "+49 (0) 123 456789",
+      "website": "https://ihrepraxis.de",
+      "practice": "Hautzentrum am Markt",
+      "message": "Erzählen Sie uns ein wenig über Ihre Praxis und was Sie erreichen möchten…"
+    },
+    "header": "Schreiben Sie uns eine Nachricht",
+    "disclaimer": "Mit dem Absenden erklären Sie sich einverstanden, dass wir Sie kontaktieren dürfen. Garantiert kein Spam.",
+    "privacy": "Wir respektieren Ihren Datenschutz. Ihre Informationen sind bei uns sicher.",
+    "submit": "Nachricht senden",
+    "submitting": "Wird gesendet…"
+  },
+  "channels": [
+    {
+      "label": "E-Mail",
+      "value": "info@dermatologywebsitedesign.com",
+      "note": "Antwort innerhalb von 24 Stunden",
+      "action": "Kontakt aufnehmen"
+    },
+    {
+      "label": "WhatsApp",
+      "value": "Mit unserem Team chatten",
+      "note": "Mo–Fr · 09:00–18:00 Uhr EST",
+      "action": "Kontakt aufnehmen"
+    },
+    {
+      "label": "Angebot einholen",
+      "value": "Ein maßgeschneidertes Konzept erhalten",
+      "note": "Unverbindlich · 24 Std. Bearbeitungszeit",
+      "action": "Kontakt aufnehmen"
+    }
+  ],
+  "hero": {
+    "tag": "Kontakt",
+    "title": {
+      "part1": "Lassen Sie uns gemeinsam",
+      "part2": "etwas Großes schaffen."
+    },
+    "description": "Haben Sie Fragen zu Ihrer Website, SEO oder Wachstumsmarketing? Schreiben Sie uns – ein persönlicher Ansprechpartner aus unserem Team meldet sich innerhalb von 24 Stunden bei Ihnen.",
+    "avgReply": {
+      "label": "Durchschn. Antwortzeit:",
+      "time": "3h 12m"
+    },
+    "features": [
+      "Antwort in 24 Stunden",
+      "Völlig unverbindlich",
+      "Garantiert kein Spam"
+    ],
+    "socialProof": {
+      "rating": "4.9/5",
+      "trustedBy": "Empfohlen von",
+      "practices": "über 50 dermatologischen Praxen",
+      "worldwide": "weltweit",
+      "avatars": [
+        "Dr. Sarah R.",
+        "Dr. Michael K.",
+        "Dr. Amanda L.",
+        "Dr. James T.",
+        "Dr. Rachel N."
+      ]
+    }
+  },
+  "sidebar": {
+    "officeHours": {
+      "title": "Geschäftszeiten",
+      "mondayToFriday": "Montag – Freitag",
+      "mondayToFridayTime": "09:00 – 18:00 Uhr EST",
+      "saturday": "Samstag",
+      "saturdayTime": "Nach Vereinbarung",
+      "sunday": "Sonntag",
+      "sundayTime": "Geschlossen"
+    },
+    "servingPractices": {
+      "title": "Unsere Kunden",
+      "subtitle": "Weltweit — vollständig remote",
+      "description": "Wir arbeiten mit Einzelpraxen, MVZs, Ästhetik-Kliniken, pädiatrischer Dermatologie sowie Praxen für Mohs-Chirurgie weltweit zusammen."
+    },
+    "testimonial": {
+      "quote": "„Das Team antwortet unglaublich schnell. Es fühlt sich an wie ein eigener Inhouse-Entwickler – nur ohne die hohen Fixkosten.“",
+      "author": "Dr. Nadia Fischer",
+      "role": "Inhaberin einer dermatologischen Praxis",
+      "trustedBy": "Vertraut von 50+ Praxen weltweit"
+    },
+    "audit": {
+      "title": "Noch nicht bereit für ein Gespräch?",
+      "description": "Holen Sie sich ein kostenloses Website-Audit – inklusive Performance-Score und den Top 3 Fehlern, die Ihre Seite bremsen.",
+      "link": "Gratis Audit anfordern"
+    }
+  },
+  "faq": {
+    "tag": "Häufige Fragen",
+    "title": "Antworten auf Ihre Fragen",
+    "items": [
+      {
+        "q": "Wie schnell antworten Sie normalerweise?",
+        "a": "Bei Standardanfragen antworten wir an Werktagen innerhalb von 24 Stunden. Bei dringenden Problemen laufender Projekte (z. B. Website-Ausfall) streben wir eine Reaktionszeit von unter einer Stunde an."
+      },
+      {
+        "q": "Arbeiten Sie auch mit Praxen außerhalb der USA zusammen?",
+        "a": "Ja – wir betreuen dermatologische Praxen weltweit. Unser Team arbeitet komplett remote und wir realisieren Projekte über verschiedene Zeitzonen hinweg."
+      },
+      {
+        "q": "Bieten Sie White-Label-Services für Agenturen an?",
+        "a": "Ja. Wir kooperieren mit Design- und Marketingagenturen, um dermatologische Websites unter deren eigener Marke zu erstellen und zu warten. Wählen Sie „Allgemeine Anfrage“ im Formular und erwähnen Sie das Stichwort White-Label."
+      },
+      {
+        "q": "Was kostet eine professionelle Dermatologie-Website?",
+        "a": "Projekte starten in der Regel bei ca. 2.500 $ und skalieren je nach Umfang, Integrationen und Inhalten. Senden Sie uns eine kurze Nachricht, und wir erstellen Ihnen innerhalb von 24 Stunden ein individuelles Angebot."
+      }
+    ]
+  },
+  "cta": {
+    "tag": "Bereit für Wachstum?",
+    "title": "Lassen Sie uns sprechen.",
+    "description": "Ihre Website sollte für Ihre Praxis arbeiten – nicht umgekehrt. Wir helfen Ihnen gerne dabei. Lassen Sie uns über Ihre Ziele sprechen.",
+    "auditButton": "Kostenloses Website-Audit",
+    "quoteButton": "Unverbindliches Angebot"
+  },
+  "success": {
+    "title": "Nachricht empfangen!",
+    "description": "Vielen Dank für Ihre Anfrage – wir melden uns innerhalb von 24 Stunden unter {{email}} bei Ihnen.",
+    "backToHome": "Zurück zur Startseite"
+  },
+  "mockup": {
+    "inbox": "Posteingang · Neu",
+    "messages": [
+      {
+        "name": "Dr. Alex T.",
+        "message": "Angebot Redesign"
+      },
+      {
+        "name": "Haut & Co.",
+        "message": "Anfrage SEO-Audit"
+      },
+      {
+        "name": "RS Institute",
+        "message": "Zeitplan Migration?"
+      }
+    ],
+    "activeHeader": {
+      "initials": "DWS",
+      "name": "DW Design",
+      "status": "Jetzt online"
+    },
+    "chat": [
+      "Hallo! Wie können wir Ihrer Praxis heute helfen?",
+      "Ich benötige eine neue Website für meine Dermatologie-Praxis."
+    ],
+    "typing": "schreibt",
+    "placeholder": "Nachricht schreiben…",
+    "replyStatus": "Antwort gesendet · vor 2 Min."
+  }
+}

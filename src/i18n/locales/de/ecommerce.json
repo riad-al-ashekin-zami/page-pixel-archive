@@ -1,0 +1,458 @@
+{
+  "meta": {
+    "title": "E-Commerce-Webdesign für die Dermatologie | HIPAA-konforme Skincare-Shops",
+    "description": "Premium E-Commerce-Webdesign für Dermatologen. HIPAA-konforme Kataloge für Rx + OTC, Abo-Modelle, ärztlich empfohlene Pflegesets und SEO mit Product-Schema. Optimiert für Praxen, MedSpas und DSOs.",
+    "og": {
+      "title": "E-Commerce-Webdesign für die Dermatologie | HIPAA-konforme Skincare-Shops",
+      "description": "Verkaufen Sie medizinische Hautpflege, sichern Sie Rx-Produkte durch ärztliche Freigabe ab, nutzen Sie Abonnements und ranken Sie mit Ihren Produktseiten bei Google – ein zentraler Storefront für Ihre Marke."
+    },
+    "jsonLd": {
+      "serviceType": "Dermatology E-Commerce Website Design",
+      "name": "DW Design",
+      "offerDescription": "E-Commerce-Webdesign für die Dermatologie – Startpreis"
+    }
+  },
+  "hero": {
+    "badge": "HIPAA-konform · Rx-Ready · Abo-Optimiert",
+    "title": "E-Commerce-Webdesign für Dermatologie-Praxen, die mehr als nur behandeln.",
+    "description": "Ein Storefront, der Ihre Praxis widerspiegelt. Korrekte Trennung von Rx und OTC, ärztlich verifizierte Pflegesets beim Checkout und Abo-Modelle, die Patienten wirklich binden – inklusive Product-Schema SEO, das Ihre Leistungsseiten nie erreichen könnten.",
+    "cta": {
+      "plan": "Meinen Shop planen",
+      "audit": "Kostenloses Shop-Audit"
+    },
+    "stats": {
+      "dispensaries": "Digitalisierte Praxis-Shops",
+      "retention": "Abonnenten-Bindung nach 90 Tg.",
+      "lighthouse": "Lighthouse-Score auf PDPs"
+    },
+    "mockups": {
+      "otc": "Freiverkäuflich (OTC)",
+      "rxGated": "Rx-Beschränkt",
+      "requirement": "Ärztliche Freigabe erforderlich",
+      "revenueLift": "Durchschn. Steigerung",
+      "revenueContext": "Produktumsatz 6 Monate nach Launch",
+      "alt": "Premium Dermatologie E-Commerce Shopfront mit Hautpflegeprodukten"
+    }
+  },
+  "estimator": {
+    "eyebrow": "Interaktiver Umsatz-Rechner",
+    "title": "Modellieren Sie Ihr erstes Online-Quartal.",
+    "description": "Nutzen Sie die Regler. Basis: 22 % der aktiven Patienten kaufen innerhalb von 6 Monaten online, 35 % davon im Abo – der Mittelwert der letzten 42 von uns gelaunchten Shopfronts.",
+    "labels": {
+      "patients": "Aktive Patienten:",
+      "aov": "Durchschnittlicher Bestellwert:",
+      "projected": "Prognostiziert",
+      "quarterlyHeader": "Shop-Umsatz im ersten Quartal",
+      "monthly": "Geschätzter monatlicher Umsatz",
+      "buyers": "Online-Käufer / 6 Mon.",
+      "oneTime": "Einmaliger OTC-Umsatz (Q1)",
+      "subscription": "Abonnement-Umsatz (Q1)",
+      "discount": "Mischkalkulierter Abo-Rabatt",
+      "subscribers90": "Geschätzte Abonnenten nach 90 Tagen",
+      "disclaimer": "Schätzungen basieren auf der Medianleistung von 42 gelaunchten Shops. Tatsächliche Ergebnisse hängen von Katalog, Preisgestaltung und dem bestehenden Praxisvolumen ab."
+    },
+    "chart": {
+      "recurring": "Wiederkehrend",
+      "ariaLabel": "Donut-Diagramm zur Umsatzverteilung"
+    }
+  },
+  "sections": {
+    "audiences": {
+      "eyebrow": "Für wen wir arbeiten",
+      "title": "Entwickelt für Dermatologie-Marken mit echter Produktlinie.",
+      "items": [
+        {
+          "label": "Einzelpraxen",
+          "desc": "Verkaufen Sie Ihre Produkte online mit der Option zur Abholung vor Ort."
+        },
+        {
+          "label": "Klinikverbünde",
+          "desc": "Ein Katalog, standortbezogene Bestände und Versand oder Abholung beim Checkout."
+        },
+        {
+          "label": "Kinderdermatologie",
+          "desc": "Elternfreundliche Kataloge mit altersgerechten Produktfiltern."
+        },
+        {
+          "label": "Mohs- & Chirurgie-Netzwerke",
+          "desc": "Abonnements für Nachsorge-Sets, perfekt abgestimmt auf die Heilungsphasen."
+        }
+      ]
+    },
+    "problemSolution": {
+      "eyebrow": "Was wir lösen",
+      "title": "Die meisten Derm-Shops sind nur ein Standard-Shopify mit Logo.",
+      "description": "Verschreibungspflichtige Produkte (Rx) scheitern am Web-Verkauf, keine ärztlichen Signaturen, keine nachhaltigen Abos, kein Schema. Wir bauen den Online-Handel so auf, wie Dermatologie wirklich funktioniert.",
+      "before": "Vorher",
+      "after": "Nachher",
+      "items": [
+        {
+          "before": "Verkauf nur direkt in der Praxis",
+          "after": "24/7 Online-Shop + Nachbestellungen"
+        },
+        {
+          "before": "Rx-Produkte im Web-Verkauf gesperrt",
+          "after": "Arzt-verifizierter Rx-Checkout"
+        },
+        {
+          "before": "Produktseiten für Google unsichtbar",
+          "after": "Product Schema + Merchant Center"
+        },
+        {
+          "before": "Einmalverkäufe ohne Bindung",
+          "after": "Abos mit über 60 % Bindungsrate"
+        },
+        {
+          "before": "HIPAA-Risiko durch Patientendaten",
+          "after": "Anonymisierte IDs + BAA-konformer Stack"
+        },
+        {
+          "before": "Patienten raten beim LSF-Kauf",
+          "after": "Ärztlich empfohlene Sets im Checkout"
+        }
+      ]
+    },
+    "pillars": {
+      "eyebrow": "Das Commerce-System",
+      "title": "Sechs Säulen für jeden Derm-Storefront, den wir liefern.",
+      "items": [
+        {
+          "title": "Rx / OTC Split-Katalog",
+          "desc": "Verschreibungspflichtige Produkte werden erst nach ärztlicher Freigabe freigeschaltet; OTC-Checkouts bleiben reibungslos."
+        },
+        {
+          "title": "Abonnement-Nachfüllungen",
+          "desc": "Überspringen, pausieren, tauschen. Nachsorge-Kits und 30/60/90-Tage-Zyklen mit Vorteilspreisen."
+        },
+        {
+          "title": "Ärztlich kuratierte Sets",
+          "desc": "Ärzte stellen Bundles direkt aus der Patientenakte zusammen – Patienten sehen „Empfohlen von Dr. Lee“ beim Checkout."
+        },
+        {
+          "title": "Product-Schema SEO",
+          "desc": "Product-, Offer- und AggregateRating-Schema pro SKU. Google Merchant Center Anbindung ab Launch."
+        },
+        {
+          "title": "HSA / FSA Checkout",
+          "desc": "Kennzeichnung berechtigter Produkte, IIAS-konforme Beschreibungen und detaillierte Quittungen für Patienten."
+        },
+        {
+          "title": "Bestandsführung pro Standort",
+          "desc": "Versand aus einem Zentrallager oder Reservierung zur Abholung in der gewählten Klinik."
+        }
+      ]
+    },
+    "architecture": {
+      "eyebrow": "Katalog-Architektur",
+      "title": "Vier Checkout-Pfade, ein verwalteter Katalog.",
+      "description": "Jede SKU wird beim Import einem von vier Flows zugeordnet. Patienten erleben die passende Barriere (oder keine), Ärzte eine saubere Abgabe und Google indexierbare Produkte.",
+      "items": [
+        {
+          "type": "OTC · Offener Checkout",
+          "examples": [
+            "Reiniger",
+            "Feuchtigkeitspflege",
+            "LSF / Sonnenschutz",
+            "Vitamin C",
+            "Körperpflege"
+          ]
+        },
+        {
+          "type": "Rx · Arzt-verifiziert",
+          "examples": [
+            "Tretinoin",
+            "Hydrochinon",
+            "Ivermectin",
+            "Rx Retinoide",
+            "Minoxidil Rx"
+          ]
+        },
+        {
+          "type": "Sets · Ärztlich signiert",
+          "examples": [
+            "Post-Mohs Set",
+            "Akne-Starter Kit",
+            "Anti-Aging Bundle",
+            "Post-Laser Erholung"
+          ]
+        },
+        {
+          "type": "Abos · Autom. Nachfüllung",
+          "examples": [
+            "30-Tage LSF",
+            "60-Tage Reiniger",
+            "90-Tage Retinoid",
+            "Individueller Rhythmus"
+          ]
+        }
+      ]
+    },
+    "categories": {
+      "eyebrow": "Abgedeckte Produktkategorien",
+      "title": "Für jedes Hautbild der passende Pfad.",
+      "description": "Die Kategorien spiegeln Ihre medizinischen Leistungsseiten wider, sodass Patienten immer das passende Produkt oder Kit finden.",
+      "items": [
+        "Akne-Therapiesysteme",
+        "Ekzem-Barriere-Reparatur",
+        "Psoriasis-Topika",
+        "Reiniger bei Hautinfektionen",
+        "Balsam für Hautreizungen",
+        "Hautkrebs-Prävention / Lichtschutz",
+        "Sets nach Muttermal-Entfernung",
+        "Wundpflege für Zysten & Lipome",
+        "Warzen-Therapie-Sets",
+        "Nagelpilz-Lösungen",
+        "Haarausfall-Therapie (Rx)",
+        "Shampoos bei Kopfhautproblemen",
+        "Rosacea-Pflegeroutinen",
+        "Melasma-Aufhellung",
+        "Silikon-Narbenpflaster",
+        "Verbrennungs- & Narbenpflege",
+        "Vitiligo-Camouflage",
+        "Nachsorge nach Biopsien"
+      ]
+    },
+    "deliverables": {
+      "eyebrow": "Leistungsumfang",
+      "title": "12 konkrete Ergebnisse zum Launch.",
+      "items": [
+        "Zentrales Marken-Designsystem für den Shop",
+        "Rx / OTC Split-Katalog mit Provider-Gating",
+        "Subscription-Engine (Pausieren / Tauschen)",
+        "Konfigurator für ärztlich signierte Sets (EHR-Link)",
+        "HSA/FSA Checkout mit IIAS-Bezeichnungen",
+        "Standortbezogenes Inventar + Abholung",
+        "Product / Offer / Review Schema pro SKU",
+        "Google Merchant Center + Shopping Feed",
+        "HIPAA-konforme Analytics (ohne PII)",
+        "Patientenportal für Bestellungen & Rezepte",
+        "Core Web Vitals 95+ für PDPs & PLPs",
+        "Umsatz- & Retention-Dashboard"
+      ]
+    },
+    "timeline": {
+      "eyebrow": "Der Prozess",
+      "title": "Sechs Meilensteine. Ein Launch-Termin.",
+      "items": [
+        {
+          "step": "01",
+          "title": "Katalog- & Compliance-Audit",
+          "desc": "Wir inventarisieren jede SKU, trennen Rx von OTC, prüfen HSA/FSA-Eignung und klären den BAA-Umfang mit Ihrem EHR."
+        },
+        {
+          "step": "02",
+          "title": "Plattform-Empfehlung",
+          "desc": "Shopify Plus, Headless oder Individualentwicklung – basierend auf Umsatz, Integrationen und Rx-Anforderungen."
+        },
+        {
+          "step": "03",
+          "title": "Storefront Design System",
+          "desc": "Produktkarten, Kit-Builder, Abo-Flows und Signatur-Komponenten – als modulare, wiederverwendbare Elemente."
+        },
+        {
+          "step": "04",
+          "title": "Programmierung & Payment",
+          "desc": "Stripe / Shopify Payments + HSA/FSA, Abo-Engine, Freigabe-Prozesse und Bestands-Routing pro Standort."
+        },
+        {
+          "step": "05",
+          "title": "SEO + Merchant Feed",
+          "desc": "Product Schema, Google Merchant Center Feed, Indexierung von Kategorien & Produkten sowie Redirects."
+        },
+        {
+          "step": "06",
+          "title": "Launch & Bindungs-Phase",
+          "desc": "Die ersten 60 Tage: Retention-Trigger, Refill-Reminder, Rollout der Arzt-Sets und Live-Umsatz-Dashboard."
+        }
+      ]
+    },
+    "comparison": {
+      "eyebrow": "Warum nicht die Alternative?",
+      "title": "Shopify Marke Eigenbau, Generalisten-Agentur oder Derm-Commerce-Experten.",
+      "headers": {
+        "capability": "Funktion",
+        "diy": "DIY Shopify",
+        "generic": "Standard-Agentur",
+        "dw": "DW Design",
+        "recommended": "EMPFEHLUNG"
+      },
+      "rows": [
+        "Rx / OTC Trennung mit Provider-Gating",
+        "HIPAA-konformer Analytics-Stack",
+        "Arzt-signierte Sets aus dem EHR",
+        "Abo-Nachfüllungen mit Pausen-Funktion",
+        "HSA/FSA-konformer Checkout",
+        "Produkt- + Review-Schema pro SKU",
+        "Standortbasiertes Abholungs-Routing",
+        "Lighthouse 95+ auf PDPs & PLPs"
+      ]
+    }
+  },
+  "pricing": {
+    "eyebrow": "Investition",
+    "title": "Preise passend zu Ihrem Praxismodell.",
+    "customQuote": "Individuelles Angebot anfordern",
+    "starting": "ab",
+    "market": "Markt",
+    "labels": {
+      "popular": "Beliebteste Wahl",
+      "getStarted": "Jetzt starten"
+    },
+    "tiers": [
+      {
+        "name": "OTC Starter",
+        "tag": "Praxis-Shop → Online"
+      },
+      {
+        "name": "Rx + Abonnements",
+        "tag": "Beliebteste Wahl"
+      },
+      {
+        "name": "Custom Headless",
+        "tag": "DSO & Enterprise"
+      }
+    ],
+    "features": {
+      "otc": [
+        "Shopify Storefront im Brand-Design",
+        "OTC-Katalog, bis zu 50 SKUs",
+        "Basis-Abos (30/60/90 Tage)",
+        "HSA/FSA Checkout",
+        "Product Schema + Merchant Center Feed",
+        "5–7 Wochen bis zum Launch"
+      ],
+      "rx": [
+        "Alles aus OTC Starter",
+        "Rx / OTC Split mit Provider-Gating",
+        "Arzt-signierte Sets (Basis EHR-Link)",
+        "Erweiterte Abos (Tausch, Upsells)",
+        "HIPAA-konforme Analytics + BAA",
+        "8–10 Wochen bis zum Launch"
+      ],
+      "headless": [
+        "Alles aus Rx + Abonnements",
+        "Headless Shopify oder Custom Storefront",
+        "Volle EHR-Anbindung + Multi-Location",
+        "Patientenportal für Bestellungen & Rezepte",
+        "Retention- & Revenue-Dashboard",
+        "12–16 Wochen bis zum Launch"
+      ]
+    }
+  },
+  "caseStudy": {
+    "eyebrow": "Anonymisierte Fallstudie",
+    "title": "Ästhetik-Dermatologie (3 Standorte) · 180 Tage Live-Betrieb.",
+    "description": "Namen und Produkte unterliegen der Geheimhaltungsvereinbarung. Daten verifiziert via Shopify Reports und Google Merchant Center.",
+    "verified": "Verifiziert",
+    "metrics": [
+      {
+        "label": "Produktumsatz",
+        "sub": "vs. 6 Monate nur Praxisverkauf"
+      },
+      {
+        "label": "Abo-Bindung nach 90 Tg.",
+        "sub": "über alle Abo-Nutzer hinweg"
+      },
+      {
+        "label": "Warenkorb-Konversionsrate",
+        "sub": "OTC-Checkout, Mobile"
+      },
+      {
+        "label": "Median Lighthouse",
+        "sub": "über alle PDPs & PLPs"
+      }
+    ],
+    "chart": {
+      "title": "Monatlicher Produktumsatz",
+      "range": "Pre-Launch → Monat 6",
+      "preLaunch": "Vor Launch",
+      "postLaunch": "Nach Launch",
+      "anonymized": "Kundenname anonymisiert"
+    }
+  },
+  "testimonial": {
+    "quote": "Unser Praxisverkauf lag bei 18.000 $ pro Monat. Sechs Monate nach dem Shop-Launch – mit korrektem Rx-Gating und Post-OP-Sets im Abo – haben wir allein online die 43.000 $ Marke geknackt. 63 % der Abonnenten waren nach 90 Tagen noch aktiv.",
+    "author": "Dr. Ana Morales",
+    "role": "Gründerin einer ästhetischen Dermatologie-Gruppe mit 3 Standorten",
+    "initials": "AM"
+  },
+  "faq": {
+    "eyebrow": "Häufig gestellte Fragen",
+    "title": "Fragen zum Shop, direkt beantwortet.",
+    "items": [
+      {
+        "q": "Können wir verschreibungspflichtige Hautpflegeprodukte online verkaufen?",
+        "a": "Ja. Rx-Produkte sind durch eine ärztliche Verifizierung und einen aktiven Patientenstatus geschützt. Der Katalog trennt OTC (freier Kauf) und Rx (erfordert Arztfreigabe + Abgleich der Patienten-ID). Wir binden diesen Flow an Ihr EHR oder ein Patientenportal an, damit Rezepte nie an unbefugte Käufer versendet werden."
+      },
+      {
+        "q": "Welche Plattform nutzen Sie – Shopify, Custom oder etwas anderes?",
+        "a": "Wir wählen individuell: Shopify Plus für MedSpas mit über 250k $ Produktumsatz, Headless Shopify für Praxen, die Patientenportale und Rx-Gating benötigen, oder komplett maßgeschneiderte Lösungen für große DSOs mit komplexer EHR-Integration. Die Empfehlung erfolgt in Woche 1 nach Prüfung Ihres Sortiments und Volumens."
+      },
+      {
+        "q": "Wie wird HIPAA beim Umgang mit Patientendaten im Shop gewahrt?",
+        "a": "Patientendaten werden nicht in der Shop-Datenbank gespeichert. Rx-Bestellungen referenzieren eine anonymisierte Patienten-ID, die serverseitig unter einem BAA mit Ihrem EHR abgeglichen wird. Analyse-Tools und Marketing-Pixel werden auf Rx-relevanten Pfaden vollständig entfernt."
+      },
+      {
+        "q": "Richten Sie Abonnements für Nachsorge-Sets und Refills ein?",
+        "a": "Ja – Bundles aus Reiniger, LSF und Retinoid, Post-Mohs-Sets sowie 30/60/90-Tage-Abonnements. Abonnenten erhalten standardmäßig 15 % Rabatt. Ärzte können Sets direkt im EHR vorautorisieren, sodass Patienten diese automatisch beim Checkout sehen."
+      },
+      {
+        "q": "Wie beeinflusst der Shop unser medizinisches SEO?",
+        "a": "Produktseiten zielen auf kommerzielle Keywords ab („Vitamin C Serum kaufen“, „Tretinoin Nachfüllung“), die Ihre Leistungsseiten nicht abdecken. Die Struktur aus Kategorie, Produkt und Bewertungen generiert Product Schema und Merchant Center Listungen. Das erweitert Ihre Reichweite, ohne Ihre medizinischen Fokusseiten zu kannibalisieren."
+      },
+      {
+        "q": "Wie lange dauert ein Launch in der Dermatologie?",
+        "a": "Reiner OTC-Shop (Shopify): 5–7 Wochen. Rx-Gating mit EHR-Integration: 8–12 Wochen. Headless-System mit Patientenportal: 12–16 Wochen. Fester Launch-Termin bei Projektbeginn mit wöchentlichen Status-Updates."
+      }
+    ]
+  },
+  "cta": {
+    "alt": "DW — Dermatology Website Design",
+    "title": "Ihr Praxisumsatz verdient mehr als ein Standard-Template.",
+    "description": "Wir nehmen pro Quartal nur eine begrenzte Anzahl an E-Commerce-Projekten an. Wenn Rx-Gating, Abos und HIPAA-konforme Analysen für Ihre Praxis wichtig sind, lassen Sie uns den Shop planen, bevor Sie sich für eine Plattform entscheiden.",
+    "buttons": {
+      "quote": "Kostenloses Angebot",
+      "message": "Nachricht senden"
+    },
+    "branding": "Dermatology Website Design",
+    "tagline": "Dermatologen helfen, online zu wachsen"
+  },
+  "footer": {
+    "exploreNext": "Als nächstes ansehen:",
+    "links": {
+      "design": "Webdesign für Arztpraxen",
+      "seo": "Lokale Ranking-Optimierung",
+      "cases": "Aktuelle Kundenstorys"
+    }
+  },
+  "catalog": {
+    "eyebrow": "Live-Vorschau des Katalogs",
+    "title": "Ihre Praxis, online in jedem Detail.",
+    "description": "OTC, Rx-geschützte Produkte und Abo-SKUs nutzen ein gemeinsames Designsystem – für Patienten passgenau, für Ärzte rechtssicher und für Google indexierbar.",
+    "button": "Hinzufügen",
+    "badges": {
+      "hipaa": "HIPAA-konform",
+      "hsa": "HSA/FSA Checkout",
+      "delivery": "Standortbasierter Versand",
+      "schema": "Product Schema für jede SKU"
+    },
+    "products": [
+      {
+        "name": "Vitamin C Serum",
+        "note": "30ml · Antioxidativ"
+      },
+      {
+        "name": "Mineral LSF 46",
+        "note": "Täglich · Riffsicher"
+      },
+      {
+        "name": "Retinol 0,5%",
+        "note": "Arzt-Freigabe nötig"
+      },
+      {
+        "name": "Sanfter Reiniger",
+        "note": "Abo · 15 % sparen"
+      }
+    ]
+  }
+}

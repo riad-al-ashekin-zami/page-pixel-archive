@@ -1,0 +1,287 @@
+{
+  "meta": {
+    "title": "Checklists para Sitios Web de Dermatología — Lanzamiento, SEO, HIPAA y Conversión",
+    "description": "Checklists gratuitas para sitios de dermatología creadas por expertos. Incluye QA previo al lanzamiento, SEO on-page, cumplimiento HIPAA, accesibilidad, Core Web Vitals y conversión. Imprimibles y específicas para la práctica dermatológica.",
+    "keywords": "checklist sitio web dermatología, checklist SEO dermatología, checklist sitio web HIPAA, checklist lanzamiento web médica, checklist accesibilidad web médica"
+  },
+  "schema": {
+    "breadcrumb": {
+      "home": "Inicio",
+      "pageName": "Checklists para Sitios Web de Dermatología"
+    }
+  },
+  "accessibility": {
+    "skipToContent": "Saltar al contenido"
+  },
+  "hero": {
+    "badge": "Gratis · Específico para Dermatología · Imprimible",
+    "title": "Las checklists para webs de dermatología que hacen que los lanzamientos sean rutinarios.",
+    "description": "9 checklists enfocadas. 108 puntos de control expertos. Todo lo que una clínica dermatológica moderna necesita para lanzar, posicionar, proteger PHI y convertir pacientes, en un solo lugar.",
+    "actions": {
+      "primary": "Iniciar checklist",
+      "secondary": "Solicitar auditoría externa"
+    },
+    "stats": [
+      {
+        "label": "Puntos de control",
+        "value": "108"
+      },
+      {
+        "label": "Categorías enfocadas",
+        "value": "9"
+      },
+      {
+        "label": "Objetivo Lighthouse",
+        "value": "95+"
+      }
+    ]
+  },
+  "progress": {
+    "title": "Tu progreso",
+    "status": "{{doneCount}} de {{totalItems}} completados",
+    "howItWorks": [
+      {
+        "title": "Escanear",
+        "desc": "Revisa las categorías críticas para tu próximo lanzamiento."
+      },
+      {
+        "title": "Marcar",
+        "desc": "Sigue tu progreso en línea; se guarda automáticamente en tu navegador."
+      },
+      {
+        "title": "Imprimir o compartir",
+        "desc": "Listo para entregar a tu equipo de desarrollo, marketing o cumplimiento."
+      }
+    ],
+    "actions": {
+      "print": "Imprimir / PDF",
+      "reset": "Reiniciar",
+      "jump": "Ir a la checklist"
+    }
+  },
+  "filter": {
+    "label": "Filtrar",
+    "all": "Todos"
+  },
+  "feedback": {
+    "ready": "¡Listo para el lanzamiento!",
+    "completeDesc": "Has completado todos los puntos. Obtén una cotización gratuita para mantener el impulso.",
+    "quoteCta": "Obtener cotización gratuita"
+  },
+  "sections": {
+    "prelaunch": {
+      "title": "QA de Pre-Lanzamiento",
+      "short": "Lanzamiento",
+      "tagline": "Cero sorpresas el día del estreno.",
+      "items": [
+        "Títulos de página únicos, ≤ 60 caracteres, con una palabra clave principal",
+        "Meta descripciones únicas, ≤ 160 caracteres, enfocadas en beneficios",
+        "Favicon, Apple touch icon e imagen para redes sociales (1200×630) cargados",
+        "Redirecciones 301 mapeadas de cada URL antigua a su nueva equivalente",
+        "Sitemap XML generado y enviado a Google Search Console",
+        "Archivo robots.txt permite el rastreo y referencia al sitemap",
+        "Certificado SSL instalado y forzado de HTTPS en todo el sitio",
+        "Formularios probados de punta a punta: envío, confirmación y entrega en CRM/EHR",
+        "Analytics (GA4) y eventos de conversión activos para llamadas, formularios y citas",
+        "Páginas legales publicadas: Privacidad, Aviso HIPAA, Declaración ADA, Términos",
+        "Escaneo de enlaces rotos finalizado — cero errores 404 en páginas internas",
+        "Sitio de prueba bloqueado para indexación (noindex + auth básica)"
+      ]
+    },
+    "seo": {
+      "title": "SEO On-Page",
+      "short": "SEO",
+      "tagline": "Posiciona en las búsquedas que agendan pacientes.",
+      "items": [
+        "Un solo H1 por página que coincida con la intención de búsqueda del usuario",
+        "Estructura semántica de H2/H3 que responda a preguntas de pacientes",
+        "Páginas de servicio enfocadas en una palabra clave principal + 2-3 de apoyo",
+        "Páginas de ubicación con ciudad, barrio e instrucciones de llegada",
+        "Enlaces internos desde el blog hacia páginas de servicios y reservas",
+        "Texto alt descriptivo en todas las imágenes que no sean decorativas",
+        "Marcado Schema: MedicalBusiness, Physician, Service, FAQPage, Review",
+        "Biografía del autor y revisor médico en cada artículo clínico (E-E-A-T)",
+        "Google Business Profile vinculado, con categorías y horarios precisos",
+        "NAP (Nombre, Dirección, Teléfono) local idéntico en el sitio y citas externas",
+        "Etiquetas canonical en cada página para evitar contenido duplicado",
+        "Etiquetas Open Graph y Twitter Cards renderizando correctamente en debuggers"
+      ]
+    },
+    "hipaa": {
+      "title": "Cumplimiento HIPAA",
+      "short": "HIPAA",
+      "tagline": "Protege la PHI en cada formulario, píxel y página.",
+      "items": [
+        "BAA firmado con proveedores de hosting, formularios, email y analytics",
+        "Ninguna PHI capturada por GA4, Meta Pixel o mapas de calor de terceros",
+        "Formularios de contacto transmitidos vía TLS a un servidor compatible con HIPAA",
+        "Login del portal del paciente separado de la sesión del sitio de marketing",
+        "Tiempos de espera de sesión y protección contra fuerza bruta en áreas privadas",
+        "Registros de acceso (logs) guardados según la política de retención",
+        "Personal capacitado en flujo de revisión segura — nada de PHI por email",
+        "Banner de cookies informa sobre rastreadores y respeta el opt-out",
+        "Aviso de privacidad con referencias a HIPAA y leyes estatales (CCPA/CMIA)",
+        "Plan de respuesta ante brechas de datos documentado y accesible",
+        "Chatbots y asistentes de IA configurados para rechazar la captura de PHI",
+        "Cifrado de respaldos verificado y prueba de restauración trimestral"
+      ]
+    },
+    "a11y": {
+      "title": "Accesibilidad (WCAG 2.1 AA)",
+      "short": "A11y",
+      "tagline": "Inclusivo por defecto y defendible ante normativas ADA.",
+      "items": [
+        "Contraste de color ≥ 4.5:1 en texto e 3:1 en elementos grandes e interfaz",
+        "Todos los elementos interactivos accesibles y operables mediante teclado",
+        "Indicadores de foco visibles en cada elemento interactuadle",
+        "Campos de formulario con etiquetas (labels) asociadas programáticamente",
+        "Mensajes de error anunciados a lectores de pantalla vía aria-live",
+        "Enlace de 'Saltar al contenido' al inicio de cada página",
+        "Puntos de referencia semánticos: header, nav, main, footer",
+        "Imágenes con texto alt significativo; decorativas usan alt=\"\"",
+        "Contenido en video incluye subtítulos y transcripciones",
+        "Animaciones respetan la preferencia de 'reproducir menos movimiento'",
+        "Objetivos táctiles ≥ 44×44 píxeles CSS en dispositivos móviles",
+        "Declaración de cumplimiento ADA con un canal de feedback activo"
+      ]
+    },
+    "performance": {
+      "title": "Rendimiento y Core Web Vitals",
+      "short": "Performance",
+      "tagline": "Páginas rápidas posicionan mejor y convierten más.",
+      "items": [
+        "LCP < 2.5s en redes móviles 4G (datos reales de usuario)",
+        "INP < 200ms en los principales CTA y menús",
+        "CLS < 0.1 — reserva de espacio para imágenes, anuncios y embebidos",
+        "Imagen Hero servida en WebP/AVIF y con el tamaño adecuado",
+        "Fuentes autoalojadas o precargadas con font-display: swap",
+        "Código JavaScript segmentado por rutas, scripts de terceros con lazy-load",
+        "Imágenes con atributos de ancho y alto para evitar saltos de diseño",
+        "CDN para activos estáticos con encabezados de caché de larga duración",
+        "Critical CSS insertado en línea; eliminación de recursos que bloquean renderizado",
+        "Tiempo de respuesta del servidor (TTFB) < 600ms globalmente",
+        "Sin scripts de cuarta parte cargados indebidamente por administradores de etiquetas",
+        "Puntuación Lighthouse móvil ≥ 90 en las cuatro categorías"
+      ]
+    },
+    "mobile": {
+      "title": "Móvil y UX",
+      "short": "Móvil",
+      "tagline": "Más del 80% de los pacientes llegan desde un teléfono.",
+      "items": [
+        "Botón de llamada fijo (sticky) visible en todas las pantallas móviles",
+        "Menú se despliega con un solo toque, sin menús flotantes complejos",
+        "Botón de reserva accesible al primer scroll en la parte superior",
+        "Formularios usan tipos de entrada adecuados (tel, email, date)",
+        "Bloque de dirección abre directamente Google Maps al tocarlo",
+        "Número de teléfono es un enlace tel: funcional, no texto plano",
+        "Galería de antes/después con carga progresiva, no simultánea",
+        "Modales fáciles de cerrar mediante swipe o botón de cierre claro",
+        "Sin desplazamiento horizontal en pantallas ≥ 320px de ancho",
+        "Elementos fijos no bloquean los campos del formulario al abrir el teclado",
+        "Idioma de la página declarado en la etiqueta <html lang>",
+        "Colores de marca en modo oscuro probados para legibilidad"
+      ]
+    },
+    "conversion": {
+      "title": "Conversión y Confianza",
+      "short": "Convertir",
+      "tagline": "Transforma visitas en consultas agendadas.",
+      "items": [
+        "Llamado a la acción principal (Agendar, Llamar) visible sin hacer scroll",
+        "CTA secundario (Ver Precios, Consulta Gratis) en cada página de servicio",
+        "Barra de confianza: sellos de HIPAA, ADA, SSL y certificaciones médicas",
+        "Reseñas de pacientes reales (agregadas e individuales) con schema",
+        "Galería antes/después con consentimiento, filtros y notas de resultados",
+        "Biografías de médicos con credenciales, fotos profesionales y especialidades",
+        "Opciones de seguro y financiamiento claramente listadas",
+        "Formularios de pacientes nuevos con menos de 8 campos o por pasos",
+        "Página de agradecimiento incluye el siguiente paso, no solo un mensaje genérico",
+        "Chat en vivo o WhatsApp para consultas fuera de horario",
+        "Oferta de intención de salida relevante al servicio (guía gratuita, consulta)",
+        "Rastreo de llamadas y formularios vinculado al canal de marketing"
+      ]
+    },
+    "security": {
+      "title": "Seguridad y Fiabilidad",
+      "short": "Seguridad",
+      "tagline": "Protege tu práctica y la privacidad del paciente.",
+      "items": [
+        "Respaldos diarios automáticos almacenados externamente y probados",
+        "CMS, plugins y temas actualizados según un calendario documentado",
+        "Firewall de aplicaciones web (WAF) y protección ante fuerza bruta",
+        "Cuentas de administrador con MFA y contraseñas únicas",
+        "Roles de acceso limitado para personal, proveedores e integraciones",
+        "Encabezados de seguridad: HSTS, X-Content-Type-Options, CSP",
+        "Escaneos de vulnerabilidades realizados al menos trimestralmente",
+        "Monitoreo de tiempo de actividad con alertas SMS a una persona física",
+        "Plan de respuesta a incidentes y contactos de escalación documentados",
+        "Inventario de registros DNS; eliminación de subdominios en desuso",
+        "Renovación automática de SSL con monitoreo de expiración",
+        "Lista de proveedores (BAA y no-BAA) revisada anualmente"
+      ]
+    },
+    "content": {
+      "title": "Contenido y Editorial",
+      "short": "Contenido",
+      "tagline": "Dile lo correcto al paciente adecuado.",
+      "items": [
+        "Página dedicada por cada servicio (evitar un 'Servicios' genérico)",
+        "Cada página de servicio responde: qué, quién, cómo, costo y paso a seguir",
+        "Páginas de ubicación con contenido único sin duplicación de plantilla",
+        "Bloque de FAQ en cada servicio (5 a 8 preguntas reales de pacientes)",
+        "Afirmaciones médicas respaldadas o revisadas por un profesional certificado",
+        "Nivel de lectura ajustado para el público general (comprensión sencilla)",
+        "Sin fotos de stock de 'modelos' que no representan pacientes reales",
+        "Calendario editorial con SEO mensual y contenido estacional",
+        "Artículos antiguos actualizados anualmente con datos y enlaces nuevos",
+        "Biografías de autor vinculadas en cada post, con Author schema",
+        "Guía de voz y terminología consistente en todo el sitio",
+        "Descargos de responsabilidad legales y médicos en páginas relevantes"
+      ]
+    }
+  },
+  "cta": {
+    "badge": "Hecho por ti",
+    "title": "¿Prefieres que nosotros revisemos la lista?",
+    "description": "Obtén una auditoría personalizada de tu sitio web de dermatología. Analizaremos cada punto anterior en tu sitio real y te entregaremos las soluciones en 24 horas.",
+    "links": {
+      "audit": "Solicitar auditoría gratuita",
+      "contact": "Contacto"
+    }
+  },
+  "faq": {
+    "badge": "Preguntas Frecuentes",
+    "title": "Preguntas frecuentes",
+    "items": [
+      {
+        "q": "¿Para quién es esta checklist?",
+        "a": "Para dueños de clínicas dermatológicas, administradores y sus equipos de marketing. Está diseñada para flujos de trabajo médicos, no es un consejo web genérico."
+      },
+      {
+        "q": "¿Se guarda mi progreso?",
+        "a": "Sí. Las casillas marcadas se guardan localmente en tu navegador. Puedes borrar el historial o hacer clic en Reiniciar para comenzar de cero."
+      },
+      {
+        "q": "¿Puedo obtener un PDF?",
+        "a": "Sí, usa el botón Imprimir. El diseño está optimizado para papel y la opción 'Guardar como PDF' genera un documento impecable."
+      },
+      {
+        "q": "¿En qué se diferencia de una checklist web genérica?",
+        "a": "Cada punto está pensado para la dermatología: formularios listos para HIPAA, galerías de antes/después con consentimiento, autoridad E-E-A-T del médico y reglas para clínicas multi-sede."
+      },
+      {
+        "q": "¿Ofrecen una auditoría completa?",
+        "a": "Sí. Solicita nuestra auditoría gratuita y te entregaremos un reporte personalizado en 24 horas basado en cada punto de esta checklist."
+      }
+    ]
+  },
+  "footer": {
+    "more": "Si esta checklist te fue útil, prueba también:",
+    "links": {
+      "audit": "una auditoría gratuita de tu sitio actual",
+      "caseStudies": "casos de éxito reales en dermatología",
+      "blog": "más consejos en nuestro blog"
+    }
+  }
+}

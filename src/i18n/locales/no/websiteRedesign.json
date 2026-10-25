@@ -1,0 +1,340 @@
+{
+  "meta": {
+    "title": "Nettsideredesign for hudleger – Modernisering uten SEO-tap",
+    "description": "Premium redesign av nettsider for hudleger, klinikkjedere og spesialister innen Mohs-kirurgi. Moderne, rask, HIPAA-klar – med null SEO-tap ved lansering.",
+    "og_title": "Redesign av hudlegenettsted – bevar din SEO",
+    "og_description": "Forvandle din utdaterte nettside til en rask, konverteringsfokusert og HIPAA-sikker opplevelse. 301-omdirigeringer og SEO-posisjoner ivaretas.",
+    "jsonLd": {
+      "serviceType": "Dermatology Website Redesign",
+      "providerName": "DW Design",
+      "offerDescription": "Redesign av nettsider for hudleger – startpris"
+    }
+  },
+  "hero": {
+    "scarcityBadge": "Kun 3 ledige plasser for redesign dette kvartalet",
+    "category": "Nettsideredesign for hudleger",
+    "h1": {
+      "main": "Moderniser klinikkens nettside. ",
+      "highlight": "Uten å miste din SEO."
+    },
+    "description": "Et trygt, ekspertstyrt redesign for hudlegepraksiser – raskere, tryggere og mer estetisk. 301-omdirigeringer, HIPAA-sikre skjemaer og søkerangeringer bevares.",
+    "cta": {
+      "primary": "Få et pristilbud",
+      "secondary": "Gratis nettside-audit"
+    },
+    "pricing": {
+      "label": "Redesign fra",
+      "value": "$4 900",
+      "detail": "· faste rammer, fakturering per milepæl"
+    },
+    "trustLabels": [
+      "Null SEO-tap",
+      "Null nedetid",
+      "HIPAA-klar",
+      "Lighthouse 95+"
+    ],
+    "socialProof": "Stolt samarbeidspartner for 50+ hudleger · Omtalt i",
+    "dragHint": "← Dra for å sammenligne →",
+    "badges": {
+      "before": "Før",
+      "after": "Etter",
+      "performance": "Lighthouse 48 → 98",
+      "growth": "+3,4x flere bookinger",
+      "seo": "Null SEO-tap"
+    },
+    "aria": {
+      "compare": "Se før- og etterbilde av redesignet"
+    }
+  },
+  "sections": {
+    "painPoints": {
+      "overhead": "Tegn på at du trenger et redesign",
+      "heading": "Hold over for å se løsningen",
+      "description": "Hvert rødt kort nedenfor representerer et vanlig problem. Hold over (eller trykk) for å se hvordan et redesign løser det.",
+      "cards": [
+        {
+          "pain": "Trege ladetider",
+          "painStat": "> 4s LCP",
+          "solution": "Edge caching + bildeoptimalisering",
+          "solutionStat": "< 1,2s LCP"
+        },
+        {
+          "pain": "Dårlig på mobil",
+          "painStat": "60%+ mistet trafikk",
+          "solution": "Mobil-først gjenoppbygging",
+          "solutionStat": "100 % responsiv"
+        },
+        {
+          "pain": "Usynlig på Google",
+          "painStat": "Side 3 eller lavere",
+          "solution": "Schema + on-page SEO",
+          "solutionStat": "Topp 3 lokalt"
+        },
+        {
+          "pain": "Utdatert design",
+          "painStat": "Svekket tillit",
+          "solution": "Skreddersydd designsystem",
+          "solutionStat": "Premium merkevare"
+        },
+        {
+          "pain": "HIPAA-risiko",
+          "painStat": "Usikre skjemaer",
+          "solution": "BAA-klar teknisk stabel",
+          "solutionStat": "Klar for revisjon"
+        },
+        {
+          "pain": "Få bookinger",
+          "painStat": "< 2 % CVR",
+          "solution": "Konverteringsoptimalisert flyt",
+          "solutionStat": "6 %+ CVR"
+        }
+      ]
+    },
+    "stats": {
+      "overhead": "Endringene som teller",
+      "heading": "Før vs. etter et reelt redesign",
+      "description": "Gjennomsnittstall basert på hudlegepraksiser vi har relansert de siste 24 månedene.",
+      "labels": {
+        "before": "Før",
+        "after": "Etter"
+      },
+      "items": [
+        {
+          "label": "Innlasting av side (LCP)"
+        },
+        {
+          "label": "Lighthouse-score"
+        },
+        {
+          "label": "Booking-konvertering"
+        },
+        {
+          "label": "Lokal Google-rangering"
+        }
+      ]
+    },
+    "seoTimeline": {
+      "overhead": "SEO-bevaring",
+      "heading": "Slik beskytter vi din rangering",
+      "description": "En 90-dagers protokoll i fem trinn som sørger for at Google (og pasientene) finner deg gjennom hele overgangen.",
+      "steps": [
+        {
+          "day": "Dag 1",
+          "label": "Full URL-gjennomgang + ranking-analyse"
+        },
+        {
+          "day": "Uke 2",
+          "label": "1:1 redirect-kart godkjent"
+        },
+        {
+          "day": "Lansering",
+          "label": "301-omdirigeringer aktiveres ved overgang"
+        },
+        {
+          "day": "Dag 30",
+          "label": "Gjennomgang av Google Search Console"
+        },
+        {
+          "day": "Dag 90",
+          "label": "Rangeringer overvåkes og finjusteres"
+        }
+      ]
+    },
+    "audiences": {
+      "overhead": "Målgrupper",
+      "heading": "Redesign for alle typer hudlegepraksiser",
+      "items": [
+        {
+          "label": "Selvstendige hudleger",
+          "desc": "En eksklusiv oppdatering som reposisjonerer klinikken og øker antall bookinger."
+        },
+        {
+          "label": "Klinikker med flere lokasjoner",
+          "desc": "Samle spredte nettsider i ett skalerbart system med egne sider for hver lokasjon."
+        },
+        {
+          "label": "Barnehudleger",
+          "desc": "Varmere, foreldrevennlig brukeropplevelse med enklere inntak og informasjonsflyt."
+        },
+        {
+          "label": "Mohs- og kirurgisk dermatologi",
+          "desc": "Styrk autoriteten overfor både henvisende leger og privatbetalende pasienter."
+        }
+      ]
+    },
+    "pillars": {
+      "overhead": "Hva som gjør det premium",
+      "heading": "Seks standarder i hvert redesign",
+      "description": "Design, ingeniørkunst, SEO og etterlevelse – samkjørt fra første dag.",
+      "items": [
+        {
+          "title": "Null SEO-tap",
+          "desc": "301-omdirigeringer, bevart URL-struktur, innholdskartlegging og 90-dagers ranking-overvåking."
+        },
+        {
+          "title": "100 % unikt design",
+          "desc": "Ingen maler – et skreddersydd system tilpasset din klinikk og dine spesialfelt."
+        },
+        {
+          "title": "Lighthouse 95+",
+          "desc": "Ytelsesfokusert koding – bildeoptimalisering, edge caching og ren JavaScript."
+        },
+        {
+          "title": "HIPAA-klar",
+          "desc": "Sikre skjemaer, BAA-klar hosting, ingen personopplysninger i analyse og full revisjonsstøtte."
+        },
+        {
+          "title": "Fullstendig responsiv",
+          "desc": "Pikselskarpt på desktop, laptop, nettbrett og mobil – testet på ekte enheter."
+        },
+        {
+          "title": "Tilgjengelighet (WCAG AA)",
+          "desc": "Tastaturnavigasjon, korrekte kontraster og skjermleserstøtte – inkluderende som standard."
+        }
+      ]
+    },
+    "services": {
+      "overhead": "Dekning av medisinske tjenester",
+      "heading": "Alle tjenestesider bygget for å konvertere",
+      "description": "Vi strukturerer og skriver om hver tjeneside – faglig korrekt, pasientvennlig og søkemotoroptimalisert for rike Google-resultater.",
+      "features": [
+        "Søkeordsoptimaliserte H1 / H2 / FAQ",
+        "Innhold migrert med 301-omdirigeringer",
+        "HIPAA-sikre inntaksskjemaer",
+        "Rask, indekserbar og mobil-først"
+      ],
+      "list": [
+        "Aknebehandling",
+        "Eksem",
+        "Psoriasisbehandling",
+        "Hudinfeksjoner",
+        "Hudallergier",
+        "Sjekk av føflekker og hudkreft",
+        "Vurdering og fjerning av føflekker",
+        "Fjerning av cyster og lipomer",
+        "Vortefjerning",
+        "Neglesykdommer",
+        "Hårtapbehandling",
+        "Hodebunnslidelser",
+        "Rosaceabehandling",
+        "Hyperpigmentering og melasma",
+        "Arrbehandling",
+        "Behandling av brannskadearr",
+        "Vitiligobehandling",
+        "Hudbiopsi og diagnostikk"
+      ]
+    },
+    "process": {
+      "overhead": "Redesignprosessen",
+      "heading": "Fire faser. Ingen overraskelser.",
+      "items": [
+        {
+          "step": "01",
+          "title": "Audit & Analyse",
+          "desc": "Gjennomgang av SEO, ytelse, UX og innhold på eksisterende side. Vi kartlegger hva som skal beholdes, fikses og erstattes."
+        },
+        {
+          "step": "02",
+          "title": "Struktur & Redirect-plan",
+          "desc": "Nytt sitemap og 1:1 URL-mapping planlegges før en eneste designbeslutning tas."
+        },
+        {
+          "step": "03",
+          "title": "Design & Utvikling",
+          "desc": "Skreddersydd designsystem, håndkodet utvikling, HIPAA-klare skjemaer og innebygd Schema-markup."
+        },
+        {
+          "step": "04",
+          "title": "Migrering & Lansering",
+          "desc": "Innholdsoverføring, aktivering av omdirigeringer, sømløs overgang uten nedetid og 90-dagers oppfølging."
+        }
+      ]
+    },
+    "portfolio": {
+      "overhead": "Nylige prosjekter",
+      "heading": "Før og etter forvandlingen",
+      "cta": "Se hele porteføljen",
+      "items": [
+        {
+          "label": "LA Dermatology",
+          "meta": "Før → Etter · +187 % bookinger, beholdt 1. plass på Google",
+          "alt": "LA Dermatology redesign av nettside for hudlege"
+        },
+        {
+          "label": "RS Institute",
+          "meta": "Sammenslåing av 6 nettsider · +142 % trafikk",
+          "alt": "RS Institute redesign av nettside for hudlege"
+        },
+        {
+          "label": "CM Surgical",
+          "meta": "Redesign · +230 % flere henvisninger",
+          "alt": "CM Surgical redesign av nettside for hudlege"
+        }
+      ]
+    }
+  },
+  "testimonials": {
+    "aria": {
+      "button": "Kundeuttalelse"
+    },
+    "items": [
+      {
+        "name": "Dr. Ethan Caldwell, MD",
+        "role": "LA Dermatology · Privatpraksis",
+        "quote": "Redesignet var sømløst – vi mistet ikke en eneste rangering på Google, og innen 60 dager var antall bookinger doblet. Siden reflekterer endelig kvaliteten på praksisen vår."
+      },
+      {
+        "name": "Dr. Ibrahim Okafor, MD",
+        "role": "RS Institute · 6 klinikker",
+        "quote": "Å samle seks utdaterte sider til én virket umulig. De fikset det på åtte uker uten SEO-tap, og alle lokasjonssidene rangerer nå bedre enn før."
+      },
+      {
+        "name": "Dr. Anika Vasquez, MD",
+        "role": "CM Surgical",
+        "quote": "Vi får faktisk tilbakemeldinger fra henvisende leger om den nye siden. Kvaliteten på henvendelsene har skutt i været. Den beste markedsføringsbeslutningen vi har tatt."
+      }
+    ]
+  },
+  "faq": {
+    "overhead": "Ofte stilte spørsmål",
+    "heading": "Svar om redesign",
+    "items": [
+      {
+        "q": "Vil min SEO-rangering falle etter et redesign?",
+        "a": "Nei – vi bevarer URL-strukturen, implementerer 301-omdirigeringer for endrede stier, beholder innhold og interne lenker, migrerer metadata og schema, samt overvåker rangeringen i 90 dager etter lansering."
+      },
+      {
+        "q": "Hvor lang tid tar et redesign?",
+        "a": "Et typisk redesign for en hudlegepraksis tar 5–8 uker. For klinikker med mange lokasjoner eller kompleks funksjonalitet tar det 8–12 uker. Vi jobber etter en fast ukeplan med faste milepæler."
+      },
+      {
+        "q": "Flytter dere over mitt eksisterende innhold?",
+        "a": "Ja. Vi går gjennom, strukturerer og migrerer alle sider – tjenester, behandlere, før-og-etter-bilder, blogg og skjemaer – til den nye strukturen uten datatap."
+      },
+      {
+        "q": "Kan dere bygge rundt mitt nåværende journalsystem eller bookingsystem?",
+        "a": "Ja. Vi integrerer med de fleste Journalsystemer (EHR), pasientportaler og bookingverktøy. HIPAA-sikkerhet ivaretas i alle ledd."
+      },
+      {
+        "q": "Hva om jeg er midt i en kontrakt med et annet byrå?",
+        "a": "Vi kan starte planleggingen i oppsigelsestiden din og publisere den nye siden den dagen kontrakten din utløper. Null nedetid på lanseringsdagen."
+      }
+    ]
+  },
+  "cta": {
+    "overhead": "Gratis nettside-audit",
+    "heading": "På tide å pensjonere din gamle nettside?",
+    "description": "Send oss din URL. Vi går manuelt gjennom den og viser deg nøyaktig hva som koster deg pasienter – og hvordan et redesign fikser det uten at det går utover din SEO.",
+    "logoAlt": "DW – Nettsidedesign for hudleger",
+    "providerName": "Dermatology Website Design",
+    "providerRole": "Hjelper hudleger å vokse på nett",
+    "primary": "Få et pristilbud",
+    "secondary": "Kontakt oss",
+    "footerLinksPrefix": "Kanskje du også er interessert i: ",
+    "footerLinks": {
+      "migration": "planlegge en fullstendig migrering",
+      "maintenance": "drift og vedlikehold etter lansering",
+      "portfolio": "se nettsider vi har bygget"
+    }
+  }
+}

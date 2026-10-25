@@ -1,0 +1,162 @@
+{
+  "common": {
+    "explore": "Utforska",
+    "featured": "Utvalda",
+    "free": "Gratis",
+    "servicesCount_one": "{{count}} tjänst",
+    "servicesCount_other": "{{count}} tjänster",
+    "needCustomPlan": "Behöver du en anpassad plan?",
+    "customPlanDesc": "Få en skräddarsydd offert för din praktik.",
+    "getFreeQuote": "Få en gratis offert",
+    "requestFreeAudit": "Begär gratis granskning"
+  },
+  "sections": {
+    "website": {
+      "label": "Webbplatstjänster",
+      "tagline": "Snygga, snabba och konverteringsfokuserade webbplatser byggda för dermatologi-praktiker."
+    },
+    "marketing": {
+      "label": "Marknadsföringstjänster",
+      "tagline": "Få fler kvalificerade patienter med SEO, annonser och ryktessystem."
+    },
+    "addons": {
+      "label": "Tilläggstjänster",
+      "tagline": "Vård, hosting, innehåll och integrationer för att hålla tillväxten sammansatt.",
+      "ctaLabel": "Visa alla tillägg"
+    },
+    "insights": {
+      "audit": {
+        "title": "Gratis webbplatsgranskning",
+        "description": "Åtgärdsbara rekommendationer inom 24 timmar."
+      }
+    }
+  },
+  "website": {
+    "design": {
+      "label": "Webbdesign",
+      "description": "Konverteringsfokuserade dermatologi-webbplatser."
+    },
+    "redesign": {
+      "label": "Omdesign av webbplats",
+      "description": "Modernisera din befintliga praktikwebbplats."
+    },
+    "migration": {
+      "label": "Webbplatsmigrering",
+      "description": "Flytta din webbplats med noll stillestånd, ingen SEO-förlust."
+    },
+    "maintenance": {
+      "label": "Webbplatsunderhåll",
+      "description": "Håll din webbplats säker, uppdaterad och snabb."
+    },
+    "management": {
+      "label": "Webbplatshantering",
+      "description": "Fullservice löpande webbplatshantering."
+    },
+    "support": {
+      "label": "Webbplatssupport",
+      "description": "On-demand expertsupport när du behöver det."
+    },
+    "multiLocation": {
+      "label": "Flera platser",
+      "description": "Skalbar struktur för flera kliniker."
+    },
+    "ecommerce": {
+      "label": "E-handel",
+      "description": "Sälj hudvårdsprodukter online."
+    },
+    "patientPortal": {
+      "label": "Patientportal",
+      "description": "Sömlös patientupplevelse."
+    },
+    "beforeAfter": {
+      "label": "Före & Efter-galleri",
+      "description": "Visa upp resultat på ett snyggt sätt."
+    }
+  },
+  "marketing": {
+    "seo": {
+      "label": "Dermatologi SEO",
+      "description": "Rankas för sökningar med hög intention."
+    },
+    "localSeo": {
+      "label": "Lokal SEO",
+      "description": "Dominera ditt tjänsteområde."
+    },
+    "growth": {
+      "label": "Praktiktillväxt",
+      "description": "Strategi för hållbar tillväxt."
+    },
+    "googleAds": {
+      "label": "Google Ads / PPC",
+      "description": "Förutsägbar patientanskaffning."
+    },
+    "socialMedia": {
+      "label": "Sociala medier",
+      "description": "Bygg varumärkesauktoritet."
+    },
+    "reputation": {
+      "label": "Rykteshantering",
+      "description": "5-stjärniga recensionssystem."
+    },
+    "email": {
+      "label": "E-postmarknadsföring",
+      "description": "Vårda och återaktivera patienter."
+    },
+    "cro": {
+      "label": "CRO",
+      "description": "Förvandla besökare till bokningar."
+    }
+  },
+  "addons": {
+    "care": {
+      "label": "Vård & underhåll",
+      "description": "Löpande webbplatsvård, uppdateringar och övervakning."
+    },
+    "hosting": {
+      "label": "Hosting & efterlevnad",
+      "description": "Snabb, säker, HIPAA-medveten hosting."
+    },
+    "content": {
+      "label": "Innehåll & konvertering",
+      "description": "Texter, landningssidor och CRO-experiment."
+    },
+    "analytics": {
+      "label": "SEO & analys",
+      "description": "Spårning, instrumentpaneler och söksynlighet."
+    },
+    "integrations": {
+      "label": "Integrationer",
+      "description": "EHR, boknings-, CRM- och marknadsföringsverktyg."
+    },
+    "growth": {
+      "label": "Tillväxtmarknadsföring",
+      "description": "Annonser, e-post och ryktsprogram."
+    }
+  },
+  "insights": {
+    "process": {
+      "label": "Vår process",
+      "description": "Hur vi levererar varje projekt."
+    },
+    "about": {
+      "label": "Om oss",
+      "description": "Vilka vi är och vad vi tror på."
+    },
+    "caseStudies": {
+      "label": "Fallstudier",
+      "description": "Verkliga resultat från verkliga praktiker."
+    },
+    "blog": {
+      "label": "Blogg",
+      "description": "Insikter för växande praktiker."
+    },
+    "faq": {
+      "label": "FAQ",
+      "description": "Svar på vanliga frågor."
+    },
+    "audit": {
+      "label": "Gratis webbplatsgranskning",
+      "description": "Personliga rekommendationer inom 24 timmar."
+    }
+  }
+}

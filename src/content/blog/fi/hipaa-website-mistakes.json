@@ -1,0 +1,62 @@
+{
+  "slug": "hipaa-website-mistakes",
+  "title": "7 HIPAA-verkkosivuvirhettä, joita näemme edelleen vuonna 2026",
+  "excerpt": "Meta-pikselit, hakulomakkeet, chat-widgetit – mistä PHI-vuotoja tapahtuu ja miten ne voi sulkea tällä viikolla.",
+  "imageAlt": "Messinkinen riippulukko HIPAA-vaatimustenmukaisuusasiakirjojen pinon päällä",
+  "body": [
+    {
+      "text": "HIPAA:n verkkosivuseurantaan liittyvä valvonta on muuttunut dramaattisesti vuoden 2022 OCR-ohjeistuksen jälkeen. Jos sivustosi luottaa edelleen oletusarvoiseen Meta Pixeliin, oletusarvoiseen GA4-konfiguraatioon tai BAA:ta käyttämättömään chat-widgetiin, sinulla on vuoto – ja et todennäköisesti tiedä sitä, koska vuodot ovat hiljaisia. Hyvä uutinen: jokainen alla olevista seitsemästä virheestä voidaan korjata viikossa koordinoidulla teknisellä ja oikeudellisella panostuksella. Huono uutinen: useimmat käytännöt eivät ole vielä alkaneet."
+    },
+    {
+      "text": "Tämän kirjoituksen tarkoituksena ei ole pelotella sinua lamaantumiseen. Sen tarkoituksena on antaa sinulle konkreettinen tarkistuslista, jonka voit antaa verkkosivustostasi vastaavalle henkilölle, sekä selkokielisen kuvauksen siitä, miksi jokainen kohta on riski. Selaa lista läpi, merkitse ne, joiden tiedät olevan avoinna, ja aloita vakavimmasta vuodosta maanantaiaamuna."
+    },
+    {
+      "heading": "Seitsemän virhettä"
+    },
+    {
+      "list": [
+        "Meta Pixel laukeaa varaus-sivuilla ilman palvelinpuolen suodatusta",
+        "GA4 seuraa URL-parametreja, jotka sisältävät tilanimet",
+        "Chat-widgetit tallentavat keskustelulogit muuhun kuin HIPAA-infrastruktuuriin",
+        "Hakulomakkeet lähetetään kolmannen osapuolen lomakepalveluihin ilman BAA:ta",
+        "Live-chatin kävijöiden IP-osoitteet tallennetaan yhdessä terveyspalvelukyselyjen kanssa",
+        "Kolmannen osapuolen upotetut videot latautuvat ennen suostumusta",
+        "Sessio-uusintatyökalut tallentavat lomakekenttien syötteen"
+      ]
+    },
+    {
+      "heading": "Miksi Meta Pixel on suurin yksittäinen riski"
+    },
+    {
+      "text": "Meta Pixel on listan vakavimpia kohteita, koska se on näkymättömin. Oletusasennus laukeaa jokaisella sivun latauksella ja lähettää URL-osoitteen, viittaajan ja kaikki lomakkeen syötteet, jotka Meta voi kerätä, takaisin Facebookin palvelimille – mukaan lukien URL-osoitteet, kuten /schedule/acne-consult tai /request/mole-check. Tämä URL-osoite on kiistatta PHI heti, kun se linkitetään IP-osoitteeseen, joka voidaan tunnistaa henkilöksi."
+    },
+    {
+      "text": "Ratkaisu ei ole pikselin poistaminen. Ratkaisu on ajaa se Conversions API -palvelun kautta palvelinpuolelta tiukalla URL- ja tapahtumasuodatuksella ja poistaa kaikki kyselymerkkijonot, polkusegmentit tai tapahtuman kuormitukset, jotka voisivat paljastaa tilatarkoituksen. Tämä työ vie insinööriltä noin kaksi päivää. Se on korkeimman ROI:n omaava vaatimustenmukaisuustyö, jonka voit tehdä tällä vuosineljänneksellä."
+    },
+    {
+      "heading": "GA4 on toiseksi yleisin vuoto"
+    },
+    {
+      "text": "GA4 vuotaa eri tavalla: URL-parametreinä, jotka sisältävät diagnostista kieltä, tai tapahtuman kuormituksina, jotka on määritetty automaattisesti eikä niitä ole koskaan tarkistettu. Lajittele GA4-tapahtumasi tiheyden mukaan ja lue 50 parasta. Jos jokin tapahtuman nimi tai parametri sisältää tilatekstiä, tieto on virrannut Googlen palvelimille salaamattomana HIPAA-näkökulmasta. Nimeä uudelleen, poista tai korvaa nämä tapahtumat puhtailla tunnisteilla."
+    },
+    {
+      "heading": "Chat-widgetit ja hakulomakkeet"
+    },
+    {
+      "text": "Chat-widgetit ja hakulomakkeet muodostavat kolmannen kategorian. Kaikki työkalut, jotka tallentavat keskustelun syötteitä, tarvitsevat Business Associate Agreementin ennen kuin ne voivat käsitellä potilaan tiedustelua. Jos nykyinen chat-palveluntarjoajasi ei voi toimittaa allekirjoitettua BAA:ta tunnin sisällä pyynnöstä, korvaa se. Hyvillä HIPAA-yhteensopivilla toimittajilla on BAA:t valmiina; riskialttiilla sellaisia ei ole."
+    },
+    {
+      "text": "Sama sääntö koskee hakulomakkeita. Jos lomakepalveluntarjoajasi tallentaa lähetettyjä tietoja omille palvelimilleen ilman BAA:ta, jokainen lähetetty tieto on vaatimustenmukaisuustapahtuma. Siirry lomakeratkaisuun, jossa on allekirjoitettu BAA (tai isännöi itse omalla HIPAA-kelpoisella infrastruktuurilla), ennen seuraavan kampanjasi käynnistämistä."
+    },
+    {
+      "heading": "Sessio-uusinta, upotetut videot ja pitkät hännät"
+    },
+    {
+      "text": "Sessio-uusintatyökalut ovat poikkeuksellisia tuotetutkimustyökaluja ja poikkeuksellisia HIPAA-miinoja. Jokainen uusintatyökalu on määritettävä peittämään oletuksena kaikki lomakekentät, peittämään kaikki elementit, jotka sisältävät tekstiä, joka voisi olla PHI:tä, ja tallentamaan tallenteet BAA:n kattamaan infrastruktuuriin. Upotetut videot YouTubesta tai Vimeosta lataavat kolmannen osapuolen evästeitä ennen käyttäjän suostumusta – vaihda yksityisyys edellä olevaan upotukseen tai kevyeen lataajaan, joka alustuu vasta eksplisiittisen toiminnon jälkeen."
+    },
+    {
+      "text": "Yhdistävä viesti on tämä: HIPAA-vaatimustenmukaisuus vuonna 2026 on siinä määrin verkkosivustotekniikan ongelma kuin oikeudellinenkin. Käsittele sitä jatkuvana ylläpitona, älä kertaluonteisena auditoinnina. Tarkista seurantapinosi neljännesvuosittain, luovu toimittajista, jotka eivät voi allekirjoittaa BAA:ta, ja dokumentoi jokainen korjaus vaatimustenmukaisuuslokiin, johon johtoryhmäsi voi viitata, kun OCR-kirje lopulta saapuu."
+    }
+  ],
+  "faqs": null
+}

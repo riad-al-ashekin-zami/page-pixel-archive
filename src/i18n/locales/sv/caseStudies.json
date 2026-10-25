@@ -1,0 +1,844 @@
+{
+  "meta": {
+    "title": "Case studies — Resultat och tillväxt för hudläkarkliniker",
+    "description": "Djupgående fallstudier för dermatologhemsidor med verkliga siffror — bokningar, SEO-rankning, laddningstider och intäktsökningar för kosmetiska, medicinska och rikstäckande kliniker.",
+    "keywords": "fallstudier dermatologi, resultat hemsida hudläkare, SEO case study dermatologi, ROI webbplats medicinsk klinik",
+    "og": {
+      "title": "Case studies — Resultat och tillväxt för hudläkarkliniker",
+      "description": "Djupgående fallstudier för dermatologhemsidor med verkliga siffror — bokningar, SEO-rankning, laddningstider och intäktsökningar för kosmetiska, medicinska och rikstäckande kliniker."
+    },
+    "twitter": {
+      "title": "Case studies — Resultat och tillväxt för hudläkarkliniker",
+      "description": "Djupgående fallstudier för dermatologhemsidor med verkliga siffror — bokningar, SEO-rankning, laddningstider och intäktsökningar för kosmetiska, medicinska och rikstäckande kliniker."
+    },
+    "breadcrumb": {
+      "home": "Hem",
+      "caseStudies": "Case studies"
+    }
+  },
+  "accessibility": {
+    "skipToContent": "Hoppa till innehåll"
+  },
+  "hero": {
+    "badge": "Case studies · Verkliga resultat för kliniker",
+    "title": "Bevis, inte bara löften.",
+    "description": "Varje fallstudie här är en verksam klinik — med exakta siffror för bokningar, SEO, hastighet och intäkter före och efter vårt arbete. Inga glädjekalkyler, bara riktiga resultat.",
+    "actions": {
+      "contact": "Få liknande resultat",
+      "audit": "Gratis webbplatsanalys"
+    },
+    "metrics": [
+      {
+        "label": "Bokningsförfrågningar",
+        "value": "+214%"
+      },
+      {
+        "label": "Konverteringsgrad",
+        "value": "+3.8×"
+      },
+      {
+        "label": "Median LCP",
+        "value": "0.9s"
+      },
+      {
+        "label": "Lokal ranking",
+        "value": "#1–3"
+      }
+    ]
+  },
+  "cta": {
+    "badge": "Din tillväxtresa börjar här",
+    "title": "Redo att se din klinik på den här listan?",
+    "description": "Skicka oss din sajt. Inom 24 timmar får du en audit som kartlägger brister inom SEO, hastighet, HIPAA och konvertering — samt en prognos på vad en nylansering innebär i antal bokade patienter.",
+    "features": [
+      "Audit inom 24h, inga möteskrav",
+      "Prognos för bokningar & intäkter",
+      "Förslag till fast pris",
+      "Du äger allt material"
+    ],
+    "actions": {
+      "start": "Starta ett projekt",
+      "audit": "Gratis audit"
+    },
+    "disclaimer": "Inget kreditkort · Inget säljsnack"
+  },
+  "navigation": {
+    "footerPrompt": "Nyfiken på mer? Se även:",
+    "portfolioLink": "vår portfolio med skarpa sajter",
+    "processLink": "steg-för-steg: så går projektet till",
+    "or": "eller",
+    "pricingLink": "aktuella paket och priser"
+  },
+  "studies": {
+    "central-austin-dermatology": {
+      "tagline": "Boutique Austin praktiken omplacerad som centrum för medicinsk och kosmetisk dermatologi.",
+      "challenge": "En vacker klinik begravd bakom en långsam, generisk mall — ingen skillnad från 30+ Austin-hudläkare och svaga lokala rankningar för de största kosmetiska sökorden.",
+      "solution": "Redaktionellt varumärkessystem, leverantörsledd storytelling, dedikerade sidor för Aesthetic / filler / laser och ett concierge-konsultflöde anpassat för Austins konkurrenskraftiga centrummarknad.",
+      "highlights": [
+        "Redaktionell fotografering + anpassad typsystem",
+        "Servicesidor för varje kosmetisk behandling",
+        "Ny patientbokningsflöde samma vecka",
+        "LocalBusiness-schema anpassat för centrala Austin"
+      ],
+      "location": "Austin, TX",
+      "duration": "9 veckor",
+      "metrics": [
+        {
+          "label": "Konsultförfrågningar / mån"
+        },
+        {
+          "label": "\"Aesthetic Austin\" lokal rang"
+        },
+        {
+          "label": "Mobil LCP"
+        },
+        {
+          "label": "Bokningskonvertering"
+        }
+      ],
+      "quote": {
+        "text": "Webbplatsen matchar äntligen den erfarenhet som patienterna får på kliniken. Downtown Austin vet nu vart de ska gå.",
+        "author": "Grundande hudläkare",
+        "role": "Central Austin Dermatologi"
+      }
+    },
+    "clear-dermatology": {
+      "tagline": "Medicinsk första Scottsdale-praktik: ombyggd kring klinisk auktoritet och tillgång till nya patienter samma vecka.",
+      "challenge": "Starka läkare, svag digital berättelse – tillståndssidor läser som en lärobok, ingen tydlig väg till bok och betalda annonser som bär det mesta av bördan för nya patienter.",
+      "solution": "Läkarförfattade tillståndsnav, transparent försäkringsinformation, bokning med en knapptryckning och ett innehållssystem som det medicinska teamet kan uppdatera utan en webbmaster.",
+      "highlights": [
+        "20+ läkare-författade tillståndssidor",
+        "Transparent försäkring + nypatientblanketter",
+        "Widget för tillgänglighet för möten samma vecka",
+        "Redaktörsvänligt CMS för det medicinska teamet"
+      ],
+      "location": "Scottsdale, AZ",
+      "duration": "12 veckor",
+      "metrics": [
+        {
+          "label": "Organiska pass/mån"
+        },
+        {
+          "label": "Nya patientformulär/mån"
+        },
+        {
+          "label": "Betalt CAC"
+        },
+        {
+          "label": "Sidhastighet (mobil)"
+        }
+      ],
+      "quote": {
+        "text": "Vi slutade hyra patienter från Google Ads. Organiska och direkta har nu fler nya bokningar än betalda någonsin gjort.",
+        "author": "Övningsadministratör",
+        "role": "Klar dermatologi"
+      }
+    },
+    "olansky-dermatology": {
+      "tagline": "Atlanta kosmetika i flera generationer: äldre varumärke moderniserats utan att förlora 30 års förtroende.",
+      "challenge": "Ett pålitligt 30-årigt varumärke gömt bakom en daterad webbplats – kosmetiska tjänster underrepresenterade och yngre patienter som inte hittar praktiken på mobilen.",
+      "solution": "Moderniserat visuellt system som hedrar arvet, fullständig kosmetisk tjänstearkitektur, före/efter-galleri med samtyckesarbetsflöde och en mobil-först bokningsväg.",
+      "highlights": [
+        "Uppfräschad identitet som hedrar 30-åriga arv",
+        "Samtyckshanterat före/efter galleri",
+        "Service-första meganavigering",
+        "Mobil-först konsultbokning"
+      ],
+      "location": "Atlanta, GA",
+      "duration": "14 veckor",
+      "metrics": [
+        {
+          "label": "Konsultförfrågningar / mån"
+        },
+        {
+          "label": "Mobilbokningar delar"
+        },
+        {
+          "label": "Organiska sessioner"
+        },
+        {
+          "label": "Genomsnittlig konsultvärde"
+        }
+      ],
+      "quote": {
+        "text": "Våra lojala patienter känner fortfarande igen oss, och en helt ny generation hittar oss för första gången.",
+        "author": "Managing Partner",
+        "role": "Olansky Dermatologi"
+      }
+    },
+    "dermatology-san-antonio": {
+      "tagline": "San Antonio-gruppen på flera platser: konsoliderat varumärke och upplåst lokal sökning på alla kliniker.",
+      "challenge": "Flera kliniker som konkurrerar med varandra i sökningar, inkonsekvent varumärkesprofilering på olika platser och ingen enskild källa till sanning för tjänster eller leverantörer.",
+      "solution": "Enhetligt varumärkessystem med behörighetssidor per klinik, LocalBusiness + Physician-schema per plats och ett centraliserat redaktionellt arbetsflöde.",
+      "highlights": [
+        "Myndighetssidor per plats med unik kopia",
+        "Schema för varje klinik och läkare",
+        "Delat komponentbibliotek, lokala åsidosättningar",
+        "Central bokning med platsdirigering"
+      ],
+      "location": "San Antonio, TX",
+      "duration": "16 veckor",
+      "metrics": [
+        {
+          "label": "Kliniker i kartpaket #1–3"
+        },
+        {
+          "label": "Nya patientformulär/mån"
+        },
+        {
+          "label": "Kombinerad organisk trafik"
+        },
+        {
+          "label": "Mobil LCP"
+        }
+      ],
+      "quote": {
+        "text": "Varje klinik rankas till slut på sina egna villkor, och vårt marknadsföringsteam skickar istället för brandbekämpning.",
+        "author": "Marknadsdirektör",
+        "role": "Dermatology Associates i San Antonio"
+      }
+    },
+    "direct-dermatology": {
+      "tagline": "Store-and-forward teledermatologi: minskade registreringsfriktionen och fördubblade slutförda virtuella besök.",
+      "challenge": "Förvirrande intag, oklara försäkringsmeddelanden och 46 % mobilavhopp innan patienter någonsin laddade upp ett foto.",
+      "solution": "Skick på en skärm + tillståndsväljare, transparent prissättning, progressiv fotouppladdning för långsamma nätverk och en omskrivning av försäkringsmeddelanden först.",
+      "highlights": [
+        "Enskärmsintag ersätter 5-stegs guide",
+        "Progressiv fotouppladdning för långsam mobil",
+        "Försäkring-första meddelanden ovanför mitten",
+        "HIPAA-reviderat flöde från början till slut"
+      ],
+      "location": "USA · Teledermatologi",
+      "duration": "10 veckor",
+      "metrics": [
+        {
+          "label": "Registrering slutförd"
+        },
+        {
+          "label": "Mobil avlämning"
+        },
+        {
+          "label": "Besök påbörjade/dag"
+        },
+        {
+          "label": "CAC (betalt)"
+        }
+      ],
+      "quote": {
+        "text": "Att ta bort friktionen var inte kosmetiskt – varje steg vi skar blev ett avslutat besök och en riktig patient.",
+        "author": "VP-produkt",
+        "role": "Direkt dermatologi"
+      }
+    },
+    "colorado-dermatology": {
+      "tagline": "Colorado multi-location praxis: enhetlig digital ytterdörr över Front Range.",
+      "challenge": "Separata mikrosajter per plats, duplicerat tjänsteinnehåll och inget konsekvent varumärke – patienter som studsar mellan webbplatser och Google är osäker på vilken sida som ska rankas.",
+      "solution": "En enda enhetlig plattform, myndighetssidor per klinik med unik lokal kopia och 301-migrering som bevarade varje rankning under konsolideringen.",
+      "highlights": [
+        "Noll-förlust 301-migrering från 4 äldre webbplatser",
+        "LocalBusiness-schema per plats",
+        "Leverantörskatalog med fasetterad sökning",
+        "Centraliserad redaktionell styrning"
+      ],
+      "location": "Colorado · Flera platser",
+      "duration": "18 veckor",
+      "metrics": [
+        {
+          "label": "Organisk trafik (nätverk)"
+        },
+        {
+          "label": "Platser rankas topp 3"
+        },
+        {
+          "label": "Nya patientbokningar/mån"
+        },
+        {
+          "label": "Sidhastighet (mobil)"
+        }
+      ],
+      "quote": {
+        "text": "Vi talar äntligen med en röst över Front Range - och siffrorna visar att patienter lägger märke till det.",
+        "author": "Chief Operating Officer",
+        "role": "Colorado Dermatologi"
+      }
+    },
+    "skymd-teledermatology": {
+      "tagline": "50-staters teledermatologiplattform: från förvirrande registrering till virtuellt besök under två minuter.",
+      "challenge": "6-stegsregistrering, oklar statlig täckning, tvetydighet i försäkringen och 42 % mobilavlämning innan patienterna nådde kassan.",
+      "solution": "Tillståndsväljare på en skärm + tillståndsväljare, transparent försäkring och prissättning, mobil-först-flöde och progressiv fotouppladdning som fortsätter att fungera på långsamma landsbygdsanslutningar.",
+      "highlights": [
+        "Tillstånd + tillståndsväljare på en skärm",
+        "Transparent försäkring + självbetala prissättning",
+        "Progressiv fotouppladdning för långsamma nätverk",
+        "HIPAA-reviderat flöde med SOC 2-värd"
+      ],
+      "location": "50-stats teledermatologi",
+      "duration": "10 veckor",
+      "metrics": [
+        {
+          "label": "Registrering slutförd"
+        },
+        {
+          "label": "Avlämning av mobil kassa"
+        },
+        {
+          "label": "Besök påbörjade/dag"
+        },
+        {
+          "label": "CAC (betalt)"
+        }
+      ],
+      "quote": {
+        "text": "Varje övergivet steg vi tog bort dök upp som ett bokat besök. Det här var inte design – det var revenue engineering.",
+        "author": "VP Tillväxt",
+        "role": "SkyMD"
+      }
+    },
+    "cura-clinics": {
+      "tagline": "Helt tvåspråkigt (arabiska-första RTL + engelska) dermatologimärke för den saudiska lyxmarknaden.",
+      "challenge": "Den befintliga webbplatsen var endast engelsk med en eftertänkt arabisk växling, gick sönder på RTL och hade ingen WhatsApp / STC Pay-bokning - verktygen som saudiska patienter faktiskt använder.",
+      "solution": "Arabiskt första RTL-designsystem, inbyggt tvåspråkigt CMS, WhatsApp Business-bokning, STC Pay + Mada-utcheckning och Riyadh-specifik lokal SEO med arabiskt schema.",
+      "highlights": [
+        "Äkta RTL-designsystem (inte en spegelvändning)",
+        "WhatsApp Business + STC Pay bokningsflöde",
+        "Arabiska + engelska schema för Google KSA",
+        "Ramadan-medvetna mötestider"
+      ],
+      "location": "Riyadh, Saudiarabien",
+      "duration": "12 veckor",
+      "metrics": [
+        {
+          "label": "Arabiska ekologiska sessioner"
+        },
+        {
+          "label": "WhatsApp-bokningar/mån"
+        },
+        {
+          "label": "Mobil LCP (3G)"
+        },
+        {
+          "label": "Nya patienter/mån"
+        }
+      ],
+      "quote": {
+        "text": "Den arabiska upplevelsen känns äntligen infödd – inte översatt. Patienter berättar att sajten ser mer premium ut än kliniken.",
+        "author": "Klinikchef",
+        "role": "Cura kliniker"
+      }
+    },
+    "galderma": {
+      "tagline": "Globalt dermatologivarumärke: företagsdesignsystem som förenar produkt-, HCP- och patientresor över 90+ marknader.",
+      "challenge": "Dussintals regionala sajter i olika stackar, inkonsekvent varumärkesuttryck över HCP och patientpublik, och efterlevnadsarbetsflöden som bromsade varje lansering.",
+      "solution": "Företagsdesignsystem med inlåsta efterlevnadsmönster, delade komponenter för HCP och patientresor och redaktionella åsidosättningar per marknad med central styrning.",
+      "highlights": [
+        "Designsystem distribuerat på över 90 marknader",
+        "Separata HCP- och patientresor, delat skal",
+        "Efterlevnadslåsta komponentvarianter",
+        "Central redaktionell styrning med lokala åsidosättanden"
+      ],
+      "location": "Global · Företagsdermatologi",
+      "duration": "26 veckor",
+      "metrics": [
+        {
+          "label": "Dags att lansera en marknadssida"
+        },
+        {
+          "label": "Global organisk trafik"
+        },
+        {
+          "label": "Färdigställande av HCP-portal"
+        },
+        {
+          "label": "Designa biljettvolym"
+        }
+      ],
+      "quote": {
+        "text": "Ett system, nittio marknader, noll varumärkesavvikelse – och lanseringar som brukade ta en kvart skickas nu om veckor.",
+        "author": "Global Digital Lead",
+        "role": "Galderma"
+      }
+    },
+    "badr-health": {
+      "tagline": "Saudi multi-speciality group: tvåspråkig patientportal och enhetlig bokning för alla specialiteter.",
+      "challenge": "Den äldre webbplatsen var först på engelska med svag arabisk support, specialsidor lästes som en katalog och bokningen krävde ett telefonsamtal till receptionen.",
+      "solution": "Arabisk första RTL-plattform, myndighetshubbar per specialitet, WhatsApp + onlinebokning med klinikdirigering och betalningsflöden Försäkring + Mada.",
+      "highlights": [
+        "Arabiska första RTL-plattformen (ej översatt)",
+        "Autoritetshubbar per specialitet med schema",
+        "WhatsApp Business + onlinebokning",
+        "Försäkring + Mada betalningsintegration"
+      ],
+      "location": "Saudiarabien · Mångspecialitet",
+      "duration": "14 veckor",
+      "metrics": [
+        {
+          "label": "Arabiska ekologiska sessioner"
+        },
+        {
+          "label": "Onlinebokningar/mån"
+        },
+        {
+          "label": "Mobil LCP"
+        },
+        {
+          "label": "Callcenter inkommande"
+        }
+      ],
+      "quote": {
+        "text": "Patienter bokar sig på arabiska på sina telefoner — vårt callcenter hanterar nu komplexa ärenden, inte schemaläggning.",
+        "author": "Chef för Digital",
+        "role": "Badr Hälsa"
+      }
+    },
+    "zmmco-medical": {
+      "tagline": "MENA medicinsk distributör: B2B-katalog och blymotor ombyggd för köpare av dermatologi + estetisk utrustning.",
+      "challenge": "Statisk broschyrwebbplats utan produktkatalog, ingen blyfångning och kliniker som inte kan hitta enhetsspecifikationer – säljteam svarar på varje fråga via e-post.",
+      "solution": "Fullständig produktkatalog med facetterad sökning, auktoritetssidor per enhet med kliniska specifikationer, tvåspråkigt EN/AR-innehåll och ett kvalificerat formulär för potentiella kunder kopplat till försäljnings-CRM.",
+      "highlights": [
+        "Facetterad produktkatalog med kliniska specifikationer",
+        "Tvåspråkiga EN/AR auktoritetssidor per enhet",
+        "Kvalificerad lead fånga in i försäljnings-CRM",
+        "Distributör + klinikportal med prisnivåer"
+      ],
+      "location": "MENA · Medicinsk distribution",
+      "duration": "16 veckor",
+      "metrics": [
+        {
+          "label": "Kvalificerade leads/mån"
+        },
+        {
+          "label": "Organiska sessioner"
+        },
+        {
+          "label": "Försäljningscykelns längd"
+        },
+        {
+          "label": "Supportmail/mån"
+        }
+      ],
+      "quote": {
+        "text": "Läkare gör nu självbetjäning av enhetsspecifikationer och kommer till oss redo att köpa. Våra representanter stänger istället för att förklara.",
+        "author": "Kommersiell direktör",
+        "role": "ZMMCO Medical"
+      }
+    },
+    "naturium": {
+      "tagline": "Dermatologälskat DTC-hudvårdsmärke: huvudlös handelsbygge som skalade till 8-siffriga intäkter.",
+      "challenge": "Äldre Shopify-tema, 3.2s LCP på PDP, svag ingrediensutbildning och CVR som höjde trots att betalda utgifter fördubblades.",
+      "solution": "Huvudlös handel med ett anpassat designsystem, PDP:er under sekunden, utbildning av hudläkare, quiz-driven rutinbyggare och A/B-testad kassa.",
+      "highlights": [
+        "Headless Shopify + anpassat designsystem",
+        "Encyklopedi för ingrediensförfattare av hudläkare",
+        "Rutinbyggarquiz (37 % slutförande)",
+        "Undersekund PDP på alla produkter"
+      ],
+      "location": "USA · DTC hudvård",
+      "duration": "20 veckor",
+      "metrics": [
+        {
+          "label": "PDP LCP"
+        },
+        {
+          "label": "Site-wide CVR"
+        },
+        {
+          "label": "AOV"
+        },
+        {
+          "label": "Retur kundpris"
+        }
+      ],
+      "quote": {
+        "text": "Sajten blev vår bästa marknadsförare. Varje dollar av betalda utgifter ger nu mer tillbaka, och organiska intäkter tredubblades.",
+        "author": "Chef för e-handel",
+        "role": "Naturium"
+      }
+    },
+    "skin-and-me": {
+      "tagline": "UK receptbelagd hudvårdstjänst: frågesportdriven förvärvstratt som förvandlade en prenumerationsbox till ett kliniskt varumärke.",
+      "challenge": "Konsumentmärkesestetik som gömde den kliniska stringens, frågesportavlämning vid fotouppladdning och otydlig LTV för återkommande receptmeddelanden.",
+      "solution": "Hudläkare-författad provremsa, progressiv frågesport med omedelbara fototips, genomskinlig formelavslöja och en prenumerationshanterings-UX som minskade churn.",
+      "highlights": [
+        "Progressiv frågesport med livefotoguidning",
+        "Dermatologsäker remsa vid varje steg",
+        "Transparent avslöjande av aktiva ingredienser",
+        "Självbetjäningsprenumeration pausa / byta"
+      ],
+      "location": "Storbritannien · Teledermatologi",
+      "duration": "12 veckor",
+      "metrics": [
+        {
+          "label": "Frågesport avslutad"
+        },
+        {
+          "label": "Avlämning av fotouppladdning"
+        },
+        {
+          "label": "Provperiod → betald CVR"
+        },
+        {
+          "label": "LTV för 6 månaders abonnent"
+        }
+      ],
+      "quote": {
+        "text": "Tratten speglar slutligen medicinen bakom produkten. Testomvandlingen fördubblades utan att beröra betalda utgifter.",
+        "author": "Chef för tillväxt",
+        "role": "Hud + Jag"
+      }
+    },
+    "sydney-dermatology": {
+      "tagline": "Sydney CBD medicinsk praxis: ombyggd kring hudcancermyndigheten och tillgång till nya patienter samma vecka.",
+      "challenge": "Vacker klinik gömd bakom en långsam mall, ingen rankning för nyckelord för hudcancer med hög avsikt och remisser flaskhalsade på ett pappersfaxarbetsflöde.",
+      "solution": "Hudcancermyndighetsnav, bokningswidget för mullvadskontroll, remissportal för GP med e-fax och Sydney-lokalt schema riktat mot östra och inre västra förorter.",
+      "highlights": [
+        "Hudcancermyndighetsnav med schema",
+        "Widget för bokning av mullvadskontroll samma vecka",
+        "Allmän remissportal med e-fax",
+        "Lokal SEO på förortsnivå över Sydney"
+      ],
+      "location": "Sydney, Australien",
+      "duration": "11 veckor",
+      "metrics": [
+        {
+          "label": "'Skin check Sydney' ranking"
+        },
+        {
+          "label": "Nya patientbokningar/mån"
+        },
+        {
+          "label": "Husläkareremisser / mån"
+        },
+        {
+          "label": "Mobil LCP"
+        }
+      ],
+      "quote": {
+        "text": "Hudkontroller bokar nu själva. Våra husläkare älskar remissportalen och patienterna kommer redan utbildade.",
+        "author": "Praktik rektor",
+        "role": "Sydney Dermatologi"
+      }
+    },
+    "dr-haus-dermatology": {
+      "tagline": "Harley Street kosmetiska klinik: redaktionellt omprofilering som drog in praktiken till Londons högsta estetiska nivå.",
+      "challenge": "Boutique Harley Street-varumärket konkurrerar mot London-kedjor, ingen differentiering på injicerbara produkter och konsultförfrågningar som släpps på mobilen.",
+      "solution": "Redaktionellt visuellt system, leverantörsledd storytelling, behandling per sida-arkitektur för injicerbara och lasrar, och ett concierge-konsultflöde anpassat för mobil.",
+      "highlights": [
+        "Redaktionell identitet + anpassad typografi",
+        "En sida per injicerbar och laser",
+        "Concierge konsultera bokning på mobil",
+        "Harley Street lokalt schema"
+      ],
+      "location": "London, Storbritannien",
+      "duration": "10 veckor",
+      "metrics": [
+        {
+          "label": "Konsultförfrågningar / mån"
+        },
+        {
+          "label": "\"Aesthetic London\" lokal rang"
+        },
+        {
+          "label": "Genomsnittlig konsultvärde"
+        },
+        {
+          "label": "Mobil bokning CVR"
+        }
+      ],
+      "quote": {
+        "text": "Sajten talar nu språket för de patienter vi faktiskt vill ha. Varje konsultation kommer prekvalificerad.",
+        "author": "Grundare",
+        "role": "Dr Haus Dermatologi"
+      }
+    },
+    "skincare-by-dr-v": {
+      "tagline": "Global hud-of-color auktoritet: DTC skyltfönster + redaktionellt nav som utökade en specialistpraxis över hela världen.",
+      "challenge": "Expertis i världsklass inom hud-av-färgad dermatologi instängd i ett långsamt skyltfönster, svag ingrediensutbildning och internationell fraktfriktion som dödar upprepade beställningar.",
+      "solution": "Huvudlös skyltfönster på ett skräddarsytt designsystem, redaktionella tillståndsnav efter hudtyp, ingrediensuppslagsverk och internationell frakt med lokal valuta.",
+      "highlights": [
+        "Redaktionella nav för pigmentering och akne",
+        "Ingrediensuppslagsverk av oro",
+        "Internationell utcheckning i flera valutor",
+        "Undersekund PDP på alla produkter"
+      ],
+      "location": "London · Global (färgad hud)",
+      "duration": "16 veckor",
+      "metrics": [
+        {
+          "label": "Organiska pass/mån"
+        },
+        {
+          "label": "Internationell orderandel"
+        },
+        {
+          "label": "PDP LCP"
+        },
+        {
+          "label": "Retur kundpris"
+        }
+      ],
+      "quote": {
+        "text": "Patienter över tre kontinenter hittar oss nu för precis det vi är bäst på – och köper utan friktionsvägg.",
+        "author": "Grundare och medicinsk chef",
+        "role": "Hudvård av Dr V"
+      }
+    },
+    "the-derma-co": {
+      "tagline": "Dermatologformulerat indiskt DTC-märke: frågesport + PDP återuppbygga det olåsta kategoriledarskapet.",
+      "challenge": "Blomstrande varumärke som når ett CVR-tak: långsamma PDP:er på 3G, svag ingredienstrovärdighet och en frågesport som tappade 40 % av användarna vid valet av problem.",
+      "solution": "Underandra PDP-skal, hudläkare-författade oro-hubbar, frågesport omdesignad för indisk mobil med en tumme och friktionsborttagning vid leverans.",
+      "highlights": [
+        "Undersekunds PDP:er testade på 3G",
+        "Bekymmer-första frågesport för en tumme användning",
+        "Ingredienssidor författade av hudläkare",
+        "Friktionsfri COD + UPI-utcheckning"
+      ],
+      "location": "Indien · DTC hudvård",
+      "duration": "18 veckor",
+      "metrics": [
+        {
+          "label": "PDP LCP (3G)"
+        },
+        {
+          "label": "Frågesport avslutad"
+        },
+        {
+          "label": "Site-wide CVR"
+        },
+        {
+          "label": "Upprepa köphastighet"
+        }
+      ],
+      "quote": {
+        "text": "Webbplatsen hänger med i vår tillväxt istället för att begränsa den. Varje prestationspoäng sammansatt till intäkter.",
+        "author": "VP Digital",
+        "role": "Derma Co"
+      }
+    },
+    "belfast-skin-clinic": {
+      "tagline": "Nordirlands ledande privata dermatologiska klinik: myndighetsnav som äger Belfast Search.",
+      "challenge": "Regional myndighet gömd bakom en daterad webbplats, försäkrings- och självbetalningspriser begravda, och efterfrågan på mullvadskontroll dirigerades genom bokning endast via telefon.",
+      "solution": "Konsultförfattade tillståndsnav, transparent självbetalning + BUPA-prissättning, bokning av mullvadskontroll online och lokalt schema för Nordirland.",
+      "highlights": [
+        "Konsultförfattade konditionsnav",
+        "Transparent BUPA + självbetala prissättning",
+        "Online mullvad check bokning",
+        "Belfast + NI-omfattande lokalt schema"
+      ],
+      "location": "Belfast, Nordirland",
+      "duration": "9 veckor",
+      "metrics": [
+        {
+          "label": "\"Dermatolog Belfast\" rang"
+        },
+        {
+          "label": "Onlinebokningar/mån"
+        },
+        {
+          "label": "Organiska sessioner"
+        },
+        {
+          "label": "Laddar endast telefon"
+        }
+      ],
+      "quote": {
+        "text": "Receptionen var tidigare bokningssystemet. Nu gör sajten det - och patienterna kommer redan förberedda.",
+        "author": "Klinikchef",
+        "role": "Belfast Skin Clinic"
+      }
+    },
+    "cpso-ontario": {
+      "tagline": "Provinsiell medicinsk tillsynsmyndighet: 40 000-läkarkatalog + webbplats med allmänhetens förtroende ombyggd för tillgänglighet och skala.",
+      "challenge": "Äldre plattform bucklas under en offentlig läkarsökningskatalog, WCAG-misslyckanden på hela webbplatsen och varje internt team ansöker om en webbmaster för redigeringar.",
+      "solution": "Företagsdesignsystem med AA-reviderade komponenter, facetterad läkarsökning som skalas till 40 000 poster, franska/engelska tvåspråkiga redaktionella arbetsflöde och självbetjäningspublicering för interna team.",
+      "highlights": [
+        "WCAG 2.1 AA granskat komponentbibliotek",
+        "Fasettkatalog över 40 000 läkare",
+        "EN/FR tvåspråkigt redaktionellt arbetsflöde",
+        "Självbetjäningspublicering över avdelningar"
+      ],
+      "location": "Ontario, Kanada · Regulator",
+      "duration": "22 veckor",
+      "metrics": [
+        {
+          "label": "Katalogsökningsfördröjning"
+        },
+        {
+          "label": "WCAG-frågor öppna"
+        },
+        {
+          "label": "Publicering av biljetter/mån"
+        },
+        {
+          "label": "Mobil LCP"
+        }
+      ],
+      "quote": {
+        "text": "Ontarianer får svar på under en sekund, och våra team publicerar utan att vänta på IT. Det var den regulator vi ville vara online.",
+        "author": "Direktör för Digital",
+        "role": "CPSO"
+      }
+    },
+    "sunpark-dermatology": {
+      "tagline": "Calgary medicinska + kirurgisk dermatologipraktik: myndighetsuppbyggnad som äger södra Alberta-sökning.",
+      "challenge": "Starka läkare, osynliga online – ingen ranking för kirurgiska termer med hög avsikt, remissformulär instängda i PDF-filer och mobilhastighet som skadar räckvidden för nya patienter.",
+      "solution": "Läkarförfattade kirurgiska + medicinska hubbar, online-remissformulär för GPs, Alberta-omfattande lokalt schema och sub-andra mobilskal.",
+      "highlights": [
+        "Läkarförfattade kirurgiska nav",
+        "Remiss från läkare online (inga fler PDF-filer)",
+        "Alberta-omfattande lokalt schema",
+        "Underandra mobilskal"
+      ],
+      "location": "Calgary, Kanada",
+      "duration": "10 veckor",
+      "metrics": [
+        {
+          "label": "\"Mohs operation Calgary\" rang"
+        },
+        {
+          "label": "Husläkareremisser / mån"
+        },
+        {
+          "label": "Organiska sessioner"
+        },
+        {
+          "label": "Mobil LCP"
+        }
+      ],
+      "quote": {
+        "text": "Vi slutade tappa kirurgiska remisser till större grupper. Webbplatsen tjänar dem för oss nu.",
+        "author": "Medicinsk direktör",
+        "role": "Sunpark Dermatologi"
+      }
+    },
+    "norvic-hospital": {
+      "tagline": "Nepals ledande privata sjukhus: webbplats med flera avdelningar ombyggd kring patienttillgång och medicinsk turism.",
+      "challenge": "Dussintals avdelningar på inkonsekventa sidor, medicinsk-turismförfrågningar förlorade i ett kontaktformulär och mobilhastighet obrukbar på nepalesiska 3G/4G.",
+      "solution": "Enad avdelningsarkitektur, medicinsk turismintag med land + procedur routing, engelska/nepalesiska tvåspråkigt innehåll och sub-second mobilskal testat på 3G.",
+      "highlights": [
+        "Enhetlig avdelning + läkarkatalog",
+        "Medicinsk turismintag med landsvägar",
+        "SV/NE tvåspråkigt redaktionellt arbetsflöde",
+        "Undersekund mobilskal på 3G"
+      ],
+      "location": "Katmandu, Nepal · Sjukhus för flera specialiteter",
+      "duration": "20 veckor",
+      "metrics": [
+        {
+          "label": "Medicinsk-turism leder / mån"
+        },
+        {
+          "label": "Onlinebokningar/mån"
+        },
+        {
+          "label": "Mobil LCP (3G)"
+        },
+        {
+          "label": "Avdelningar rankas topp 3"
+        }
+      ],
+      "quote": {
+        "text": "Patienter från hela Sydasien hittar och bokar oss nu i ett flöde. Webbplatsen gör ett helt intagsteams arbete.",
+        "author": "CIO",
+        "role": "Norvic International Hospital"
+      }
+    },
+    "st-george-dermatology": {
+      "tagline": "Dermatologigrupp i södra Sydney: hudcancermyndighet + SEO på förortsnivå över St George-regionen.",
+      "challenge": "Regional praxis som tävlar mot Sydney CBD-kedjor, svag rankning för sökningar på förortsnivå och hänvisningsarbetsflödet är fortfarande faxbaserat.",
+      "solution": "Förort-för-förort myndighetssidor, hudcancer + pediatriska hubbar, e-remissportal för GPs och Australien-omfattande lokalt schema.",
+      "highlights": [
+        "Myndighetssidor på förortsnivå",
+        "Hub för pediatrisk dermatologi",
+        "E-remissportal för husläkare",
+        "AU-omfattande lokalt schema anpassat för St George"
+      ],
+      "location": "Sydney (St George), Australien",
+      "duration": "12 veckor",
+      "metrics": [
+        {
+          "label": "Förorter i kartpaket #1–3"
+        },
+        {
+          "label": "Nya patientbokningar/mån"
+        },
+        {
+          "label": "Husläkareremisser / mån"
+        },
+        {
+          "label": "Mobil LCP"
+        }
+      ],
+      "quote": {
+        "text": "Vi dyker äntligen upp i varje förort vi betjänar. Patienter misslyckas inte längre med CBD av en slump.",
+        "author": "Praktikledare",
+        "role": "St George Dermatologi"
+      }
+    },
+    "the-skin-lab": {
+      "tagline": "Australisk estetisk klinik: redaktionell ommärkning + behandling per sida-arkitektur som äger kosmetisk sökning.",
+      "challenge": "Snabbväxande estetiskt varumärke som slår ett upptäcktstak - varje behandling fullproppad på en sida, ingen lokal myndighet, och konsultera avlämning på mobilen.",
+      "solution": "En auktoritetssida per behandling, redaktionell leverantörsbios, mobil-först konsultbokning och platsnivåschema för varje klinik.",
+      "highlights": [
+        "En auktoritetssida per behandling",
+        "Redaktionell leverantör berättande",
+        "Mobil-första concierge konsultflöde",
+        "Schema per plats över AU"
+      ],
+      "location": "Australien · Estetisk",
+      "duration": "13 veckor",
+      "metrics": [
+        {
+          "label": "Konsultförfrågningar / mån"
+        },
+        {
+          "label": "'Skin needling AU'-ranking"
+        },
+        {
+          "label": "Mobil bokning CVR"
+        },
+        {
+          "label": "Genomsnittlig konsultvärde"
+        }
+      ],
+      "quote": {
+        "text": "Varje behandling har äntligen sitt eget stadium. Patienter väljer oss eftersom sajten redan har svarat på deras frågor.",
+        "author": "Grundare",
+        "role": "Hudlabbet"
+      }
+    }
+  },
+  "categoryLabels": {
+    "aesthetic": "Boutique estetik",
+    "medical": "Medicinsk dermatologi",
+    "multiLocation": "Grupp på flera platser",
+    "teledermatology": "Teledermatologi",
+    "international": "MENA · tvåspråkig",
+    "enterprise": "Enterprise · globalt varumärke"
+  },
+  "filters": {
+    "all": "Alla fallstudier",
+    "aesthetic": "Estetisk",
+    "medical": "Medicinsk",
+    "multiLocation": "Flera platser",
+    "teledermatology": "Teledermatologi",
+    "international": "MENA & internationellt",
+    "enterprise": "Företag"
+  },
+  "labels": {
+    "challenge": "Utmaning",
+    "solution": "Vad vi skickade"
+  },
+  "actions": {
+    "visitSite": "Besök webbplatsen",
+    "getResults": "Få resultat som dessa",
+    "viewLive": "Se livesajt"
+  },
+  "section": {
+    "eyebrow": "Verkliga metoder · Verkliga siffror",
+    "headingPre": "Varje fallstudie är en",
+    "headingHighlight": "levande dermatologipraktik",
+    "subheading": "Före/efter siffror om bokningar, SEO, sidhastighet och intäkter – hämtade från riktiga analyser, inte kortlekar.",
+    "filter": "Filtrera",
+    "empty": "Inga fallstudier i denna kategori ännu."
+  }
+}

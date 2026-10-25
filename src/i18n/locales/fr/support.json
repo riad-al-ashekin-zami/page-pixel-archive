@@ -1,0 +1,416 @@
+{
+  "meta": {
+    "title": "Services de support pour sites de dermatologie — Ingénieur dédié, SLA d'urgence 15 min",
+    "description": "Support technique humain pour cabinets de dermatologie. Ingénieur attitré, chat en direct, ligne prioritaire, heures de modification, formation du personnel, conformité HIPAA et intervention d'urgence 24/7. Sans engagement.",
+    "og": {
+      "title": "Support Web pour Dermatologues — De vrais ingénieurs, des réponses immédiates",
+      "description": "Un ingénieur de compte dédié, des réponses en moins d'une heure, des heures de modification pour le contenu et le design, et une escalade d'urgence 24/7 — conçu pour la dermatologie."
+    },
+    "jsonLd": {
+      "serviceType": "Services de support pour sites de dermatologie",
+      "provider": "DermatologyWebsiteDesign.com",
+      "offerDescription": "Forfait de support pour site de dermatologie — prix de base mensuel"
+    }
+  },
+  "hero": {
+    "badgeOpen": "Support ouvert · réponse moyenne en 42 secondes",
+    "badgeOpenMobile": "Support ouvert · réponse en 42s",
+    "badgeTitle": "Services de support Web",
+    "titlePrefix": "Un véritable ingénieur, ",
+    "titleHighlight": "à portée de message.",
+    "description": "Un support technique conçu pour les cabinets de dermatologie. Ingénieur de compte dédié, chat en direct, ligne prioritaire, heures de modification incluses et protocole d'urgence 24/7 — fini les tickets perdus dans une file d'attente.",
+    "ctaStart": "Démarrer un forfait support",
+    "ctaDemo": "Voir une démo du support",
+    "pricing": {
+      "label": "Forfaits à partir de",
+      "value": "249 $",
+      "suffix": "/ mois · sans engagement, résiliable à tout moment"
+    },
+    "trustLabels": [
+      "Ingénieur dédié",
+      "Chat + téléphone",
+      "Modifications incluses",
+      "Urgence 24/7"
+    ],
+    "imageAlt": "Ingénieur support pour sites de dermatologie à son bureau avec chat en direct et boîte de tickets"
+  },
+  "stats": [
+    {
+      "value": "42s",
+      "label": "Réponse moyenne sur le chat"
+    },
+    {
+      "value": "18min",
+      "label": "Délai moyen de modification"
+    },
+    {
+      "value": "98%",
+      "label": "Taux de résolution au premier contact"
+    },
+    {
+      "value": "4.9/5",
+      "label": "Satisfaction client (12 derniers mois)"
+    }
+  ],
+  "channels": {
+    "tag": "Contactez-nous comme vous le souhaitez",
+    "title": "Six canaux. Un seul ingénieur. Zéro boîte vocale.",
+    "description": "Chaque demande arrive dans la même boîte de réception sécurisée avec un SLA garanti — qu'elle provienne du chat, d'un e-mail, du téléphone ou d'une alerte à 3h du matin.",
+    "items": [
+      {
+        "name": "Chat en direct",
+        "desc": "Chat intégré, 9h–21h (ET), géré par de vrais ingénieurs.",
+        "meta": "réponse moy. 42s"
+      },
+      {
+        "name": "Ligne directe",
+        "desc": "Une ligne dédiée à votre ingénieur de compte — sans menu vocal.",
+        "meta": "sans attente"
+      },
+      {
+        "name": "E-mail prioritaire",
+        "desc": "Boîte de réception avec suivi SLA et garanties de réponse par forfait.",
+        "meta": "≤ 1h sur Pro"
+      },
+      {
+        "name": "Portail de tickets",
+        "desc": "Historique complet, captures d'écran et suivi d'état des demandes.",
+        "meta": "libre-service 24/7"
+      },
+      {
+        "name": "Sessions vidéo",
+        "desc": "Partage d'écran pour la formation et les modifications complexes.",
+        "meta": "à la demande"
+      },
+      {
+        "name": "Ligne d'urgence",
+        "desc": "Escalade vers un ingénieur d'astreinte si le site est hors ligne, 24/7.",
+        "meta": "SLA 15 min"
+      }
+    ]
+  },
+  "helpTopics": {
+    "tag": "Ce que nous faisons concrètement",
+    "title": "Du simple changement de mot à la panne de formulaire.",
+    "description": "Six catégories de tâches quotidiennes — tout ce dont un cabinet a besoin aujourd'hui, pas au prochain trimestre.",
+    "items": [
+      {
+        "title": "Modifications de contenu",
+        "desc": "Biographies des praticiens, pages de services, blogs, listes d'assurances — traité en quelques heures."
+      },
+      {
+        "title": "Ajustements graphiques",
+        "desc": "Mise à jour de bannières, promos saisonnières, nouvelles sections, retouches de mise en page."
+      },
+      {
+        "title": "Formation du personnel",
+        "desc": "Tutoriels enregistrés et sessions en direct pour que votre équipe soit autonome et confiante."
+      },
+      {
+        "title": "Aide à l'intégration",
+        "desc": "Widgets de prise de rendez-vous, intégrations EHR, plateformes d'avis, analytics — configurés et débogués."
+      },
+      {
+        "title": "Conformité HIPAA",
+        "desc": "Chaque formulaire, tracker et script tiers est vérifié pour la sécurité des PHI avant la mise en ligne."
+      },
+      {
+        "title": "Réponse d'urgence",
+        "desc": "Site inaccessible, erreur de police, échec de réservation — escaladez vers votre ingénieur, 24/7."
+      }
+    ]
+  },
+  "flow": {
+    "tag": "Fonctionnement du support",
+    "title": "Un flux de travail conçu pour les cabinets de dermatologie chargés.",
+    "steps": [
+      {
+        "id": "01",
+        "title": "Rencontrez votre ingénieur",
+        "desc": "Dès le premier jour, vous bénéficiez d'un ingénieur de compte attitré. Il apprend à connaître votre site, votre équipe et votre terminologie."
+      },
+      {
+        "id": "02",
+        "title": "Demandez n'importe où",
+        "desc": "Chat, e-mail, téléphone, portail ou canal Slack partagé. Toutes les demandes sont centralisées et suivies avec un SLA strict."
+      },
+      {
+        "id": "03",
+        "title": "Des humains réactifs",
+        "desc": "La plupart des modifications sont déployées dans l'heure. Les demandes complexes font l'objet d'un plan et d'un devis avant production."
+      },
+      {
+        "id": "04",
+        "title": "Point mensuel",
+        "desc": "Un appel de 30 minutes chaque mois pour revoir les demandes, la feuille de route et vos projets — proactif, pas réactif."
+      }
+    ]
+  },
+  "responseDesk": {
+    "badge": "Bureau de réponse · en direct",
+    "title": "Choisissez un canal. Testez notre réactivité.",
+    "description": "Aperçu réel d'un fil de discussion technique — du premier message jusqu'au correctif déployé.",
+    "meterLabel": "Indicateur de réponse en direct",
+    "meterSuffix": "s",
+    "meterComparison": "Plus rapide que 94 % des agences",
+    "status": "En ligne",
+    "labels": {
+      "chatReply": "Réponse chat",
+      "emergencySla": "SLA Urgence"
+    },
+    "engineerInfo": {
+      "name": "Jordan R. · Votre ingénieur",
+      "status": "En ligne",
+      "typing": "Jordan est en train d'écrire..."
+    },
+    "demos": {
+      "chat": {
+        "label": "Chat en direct",
+        "sla": "réponse moy. 42s",
+        "lines": [
+          "Bonjour — peut-on changer la photo principale de la page Aesthetic aujourd'hui ?",
+          "C'est noté. Envoyez le fichier — je déploie ça dans environ 15 min.",
+          "C'est envoyé. Pouvez-vous aussi ajouter le Dr Chen à la liste des praticiens ?",
+          "Les deux sont en ligne. Lien de prévisualisation dans 8 min ✅"
+        ]
+      },
+      "phone": {
+        "label": "Ligne directe",
+        "sla": "sans attente",
+        "lines": [
+          "📞 Appel entrant — Responsable de cabinet, LA Dermatology.",
+          "Bonjour Sara, c'est Jordan. Je vous écoute ?",
+          "Le widget de réservation affiche une erreur sur iPhone.",
+          "Je vois le problème. Déploiement du correctif dans 6 min. Restez en ligne."
+        ]
+      },
+      "email": {
+        "label": "E-mail prioritaire",
+        "sla": "≤ 1h sur Pro",
+        "lines": [
+          "Objet : Mise à jour de la liste des assurances pour les 6 centres",
+          "Bien reçu — je vous envoie les modifications pour validation dans 20 min.",
+          "Validé. Retirez aussi le logo 'Aetna', nous ne les acceptons plus.",
+          "Fait sur les 6 sites. E-mail de confirmation envoyé ✅"
+        ]
+      },
+      "ticket": {
+        "label": "Portail de tickets",
+        "sla": "libre-service 24/7",
+        "lines": [
+          "#4831 · Nouveau : 'Ajouter le PDF d'admission en espagnol'",
+          "Assigné à moi-même. Délai : 45 min. Priorité : normale.",
+          "Fichier joint. Merci de l'ajouter aussi dans le pied de page.",
+          "Déployé. Ticket clôturé avec captures d'écran ✅"
+        ]
+      }
+    }
+  },
+  "plans": {
+    "tag": "Forfaits de support",
+    "title": "Un support humain à un prix prévisible.",
+    "description": "Tous les forfaits sont sans engagement avec un ingénieur dédié. Résiliable à tout moment.",
+    "mostChosen": "Le plus populaire",
+    "marketLabel": "Marché :",
+    "choose": "Choisir",
+    "cards": [
+      {
+        "name": "Starter",
+        "tag": "Cabinets individuels",
+        "price": "249 $",
+        "per": "/mois",
+        "sla": "Réponse ≤ 4h",
+        "edits": "Modifs : 2h / mois",
+        "market": "500 $ – 1 000 $ /mois",
+        "savings": "50–75 % moins cher",
+        "features": [
+          "Ingénieur de compte attitré",
+          "E-mail + portail de tickets",
+          "2h de modifications par mois",
+          "Support heures de bureau (9h–18h ET)",
+          "Rapport de synthèse mensuel",
+          "Appel de mise en route offert"
+        ]
+      },
+      {
+        "name": "Professional",
+        "tag": "Cabinets multiservices",
+        "price": "549 $",
+        "per": "/mois",
+        "sla": "Réponse ≤ 1h",
+        "edits": "Modifs : 6h / mois",
+        "market": "1 100 $ – 2 500 $ /mois",
+        "savings": "50–78 % moins cher",
+        "features": [
+          "Tout ce qui est dans Starter",
+          "Chat + ligne téléphonique prioritaire",
+          "6h de modifications par mois",
+          "Horaires étendus (9h–21h ET)",
+          "Sessions de formation trimestrielles",
+          "Aide intégration & analytics",
+          "Session stratégie mensuelle (30 min)"
+        ]
+      },
+      {
+        "name": "Enterprise",
+        "tag": "Groupes multi-sites & Mohs",
+        "price": "1 299 $",
+        "per": "/mois",
+        "sla": "Urgence ≤ 15 min",
+        "edits": "Modifs : Illimitées*",
+        "market": "2 800 $ – 5 500 $ /mois",
+        "savings": "54–76 % moins cher",
+        "features": [
+          "Tout ce qui est dans Professional",
+          "Ligne d'urgence 24/7",
+          "Canal partagé Slack / Teams",
+          "Heures de modifs illimitées* (usage loyal)",
+          "Suivi des demandes par site",
+          "Ingénieur de secours dédié",
+          "Revue d'activité trimestrielle"
+        ]
+      }
+    ]
+  },
+  "audiences": {
+    "tag": "Qui nous accompagnons",
+    "title": "Conçu spécifiquement pour chaque modèle dermatologique.",
+    "items": [
+      {
+        "label": "Dermatologues libéraux",
+        "desc": "Une ligne directe vers un humain qui connaît votre site — pas de perte de temps en file d'attente."
+      },
+      {
+        "label": "Cliniques multi-sites",
+        "desc": "Suivi des modifications par emplacement, boîte partagée et point de contact unique pour chaque responsable."
+      },
+      {
+        "label": "Dermatologie pédiatrique",
+        "desc": "Mises à jour de contenu et formulaires pour parents gérés avec une rigueur clinique."
+      },
+      {
+        "label": "Mohs & Dermatologie chirurgicale",
+        "desc": "Modifications du portail de référence et mises à jour des praticiens déployées le jour même."
+      }
+    ]
+  },
+  "medicalServices": {
+    "tag": "Chaque page de service sous notre aile",
+    "title": "Modifications et mises à jour pour tous vos soins dermatologiques.",
+    "description": "De l'acné au vitiligo — nous gérons les rafraîchissements de contenu, changements de tarifs, affectations de praticiens et balisages schema sur demande.",
+    "items": [
+      "Traitement de l'acné",
+      "Traitement de l'eczéma",
+      "Traitement du psoriasis",
+      "Infections cutanées",
+      "Allergies cutanées",
+      "Dépistage et traitement du cancer de la peau",
+      "Évaluation de grains de beauté et retrait médical",
+      "Exérèse de kystes et lipomes",
+      "Traitement des verrues",
+      "Troubles des ongles",
+      "Diagnostic et traitement médical de la chute de cheveux",
+      "Affections du cuir chevelu",
+      "Traitement de la rosacée",
+      "Hyperpigmentation et mélasma",
+      "Traitement des cicatrices",
+      "Cicatrices de brûlures",
+      "Traitement du vitiligo",
+      "Biopsies cutanées et procédures diagnostiques"
+    ]
+  },
+  "testimonials": {
+    "tag": "Avis clients",
+    "title": "Des dermatologues enfin épaulés.",
+    "items": [
+      {
+        "name": "Dr Ethan Caldwell, MD",
+        "role": "LA Dermatology",
+        "quote": "J'envoie un message à un numéro, quelqu'un me répond dans la minute, la modification est en ligne avant le déjeuner. C'est tout ce qu'il y a à savoir."
+      },
+      {
+        "name": "Dr Anika Vasquez, MD",
+        "role": "CM Surgical",
+        "quote": "Ils ont formé mon équipe d'accueil sur le CMS en un Zoom. La moitié de nos tickets a disparu du jour au lendemain — et ceux que nous envoyons sont réglés en 15 minutes."
+      },
+      {
+        "name": "Dr Ibrahim Okafor, MD",
+        "role": "RS Institute · 6 sites",
+        "quote": "Six responsables, six listes de modifs, une seule boîte de réception. Mon ingénieur connaît chaque site par son nom. C'est comme avoir une équipe interne sans les charges sociales."
+      }
+    ]
+  },
+  "faq": {
+    "tag": "FAQ",
+    "title": "Réponses sur le support technique.",
+    "items": [
+      {
+        "q": "Quelle est la différence avec vos forfaits de maintenance ?",
+        "a": "La maintenance assure le fonctionnement technique : mises à jour, sauvegardes, sécurité. Le support est la couche humaine : un ingénieur dédié à qui parler, des heures pour modifier le contenu ou le design, la formation de votre équipe et l'aide aux intégrations. La plupart des cabinets combinent les deux."
+      },
+      {
+        "q": "Qu'est-ce qui compte comme une « heure de modification » ?",
+        "a": "Toute tâche de contenu, de design léger ou de configuration : mise à jour de bio, ajout d'une section de service, changement de bannière, correction d'un widget de réservation, modification de listes d'assurances, mise en ligne de photos avant/après ou d'un blog. Les gros projets de design sont chiffrés à part."
+      },
+      {
+        "q": "À quelle vitesse répondez-vous réellement ?",
+        "a": "Le chat en direct affiche une moyenne de 42 secondes pendant les heures de bureau. L'e-mail prioritaire est traité en moins d'une heure pour les forfaits Pro et Enterprise. Les pannes critiques sur Enterprise sont escaladées en 15 minutes, 24/7."
+      },
+      {
+        "q": "Gérez-vous des sites que vous n'avez pas créés ?",
+        "a": "Oui — WordPress, Webflow, sites sur mesure ou headless. Nous commençons par un audit technique payant pour reprendre votre site en toute sécurité et savoir exactement ce que nous supportons."
+      },
+      {
+        "q": "Le personnel peut-il demander des modifications ?",
+        "a": "Tout membre de l'équipe que vous autorisez. Généralement, l'accès est donné au médecin, au responsable du cabinet et au responsable marketing. Chaque demande est enregistrée avec un historique complet."
+      },
+      {
+        "q": "Que se passe-t-il si je n'utilise pas mes heures ?",
+        "a": "Jusqu'à 50 % des heures non utilisées sont reportées sur le mois suivant. Nous préférons que vous tiriez de la valeur plutôt que d'inventer du travail inutile — la plupart de nos clients utilisent toutes leurs heures."
+      },
+      {
+        "q": "Y a-t-il un contrat ?",
+        "a": "C'est au mois le mois, résiliable à tout moment. Vous restez propriétaire de tout votre contenu, code, identifiants et historique de demandes si vous nous quittez."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Rencontrez l'ingénieur qui répondra à votre prochain message.",
+    "highlight": "Obtenez un devis gratuit.",
+    "description": "Nous analyserons votre site, les habitudes de modification de votre équipe et le forfait le plus adapté — puis nous vous enverrons une proposition écrite.",
+    "buttonQuote": "Démarrer un forfait support",
+    "buttonContact": "Nous contacter"
+  },
+  "inboxWidget": {
+    "title": "Boîte de support",
+    "status": "Aujourd'hui · 5 ouverts",
+    "replyMetric": "réponse",
+    "engineer": {
+      "label": "Votre ingénieur",
+      "status": "Jordan R. · en ligne"
+    },
+    "tickets": [
+      {
+        "id": "4821",
+        "subject": "Nouvelle bio + photo sur page À Propos",
+        "meta": "Dr Caldwell · e-mail · 18 min"
+      },
+      {
+        "id": "4822",
+        "subject": "Ajout bannière promo Aesthetic",
+        "meta": "Accueil · Lumen · chat · 9 min"
+      },
+      {
+        "id": "4823",
+        "subject": "Widget réservation KO sur iPhone Safari",
+        "meta": "Dr Vasquez · téléphone · 22 min"
+      }
+    ]
+  },
+  "footerLinks": {
+    "preface": "Pour évaluer nos services, voir aussi :",
+    "maintenance": "plans de maintenance proactive",
+    "management": "gestion de site clé en main",
+    "faq": "questions fréquentes sur le support"
+  }
+}

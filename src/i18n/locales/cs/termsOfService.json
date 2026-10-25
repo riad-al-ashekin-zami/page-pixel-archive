@@ -1,0 +1,89 @@
+{
+  "meta": {
+    "title": "Obchodní podmínky — Užívání webu a spolupráce",
+    "description": "Podmínky upravující používání našich webových stránek, vzájemnou komunikaci a veškeré služby, které si u našeho studia objednáte.",
+    "og_title": "Obchodní podmínky — Užívání webu a spolupráce",
+    "og_description": "Podmínky upravující používání našich webových stránek, vzájemnou komunikaci a veškeré služby, které si u našeho studia objednáte.",
+    "twitter_title": "Obchodní podmínky — Užívání webu a spolupráce",
+    "twitter_description": "Podmínky upravující používání našich webových stránek, vzájemnou komunikaci a veškeré služby, které si u našeho studia objednáte."
+  },
+  "a11y": {
+    "skip_to_content": "Přejít na obsah",
+    "section_navigation": "Navigace sekce"
+  },
+  "hero": {
+    "badge": "Právní informace · Obchodní podmínky",
+    "title": "Obchodní podmínky",
+    "description": "Základní pravidla pro používání našeho webu, kontaktování našeho týmu a spolupráci s naším studiem. Čtěte prosím společně s naší <0>Smlouvou o poskytování služeb</0> a <1>Zásadami ochrany osobních údajů</1>.",
+    "last_updated": "Poslední aktualizace: <0>14. července 2026</0>"
+  },
+  "sections": {
+    "contents_label": "Obsah",
+    "acceptance": {
+      "title": "1. Souhlas s podmínkami",
+      "body": "Vstupem na tyto webové stránky („Web“), odesláním dotazu nebo poptávkou našich služeb vyjadřujete souhlas s těmito Obchodními podmínkami („Podmínky“). Pokud s nimi nesouhlasíte, přestaňte prosím Web používat."
+    },
+    "eligibility": {
+      "title": "2. Způsobilost",
+      "body": "K používání Webu nebo využívání našich služeb musíte být starší 18 let a mít plnou způsobilost k právním úkonům. Pokud jednáte jménem organizace, prohlašujete, že máte oprávnění ji zavazovat."
+    },
+    "services": {
+      "title": "3. Naše služby",
+      "body": "Tento Web slouží primárně k marketingovým účelům. Jakákoli konkrétní projektová spolupráce — design, vývoj, SEO či následná správa — se řídí samostatnou nabídkou nebo zadáním a naší <0>Smlouvou o poskytování služeb</0>. V případě rozporu mezi těmito dokumenty a těmito Podmínkami má přednost Smlouva o poskytování služeb."
+    },
+    "acceptable_use": {
+      "title": "4. Povolené užití",
+      "list": [
+        "Nezneužívejte, nenarušujte ani se nepokoušejte prolomit zabezpečení Webu nebo jeho infrastruktury.",
+        "Nepoužívejte automatizované nástroje (scraping, crawling) ani nereprodukujte obsah nad rámec běžné nekomerční citace.",
+        "Prostřednictvím formulářů neodesílejte nezákonný, porušující, škodlivý nebo zavádějící obsah.",
+        "Neposílejte chráněné zdravotní informace (PHI) prostřednictvím veřejných formulářů."
+      ]
+    },
+    "ip": {
+      "title": "5. Duševní vlastnictví",
+      "body": "Veškerý obsah na tomto Webu — texty, grafika, loga, kód a design — je v našem vlastnictví nebo vlastnictví našich poskytovatelů licencí a je chráněn zákony o duševním vlastnictví. Odkazy na Web můžete prohlížet a sdílet; kopírování, úprava nebo opětovné publikování obsahu bez našeho písemného svolení je zakázáno."
+    },
+    "submissions": {
+      "title": "6. Poskytnuté náměty",
+      "body": "Pokud nám zašlete zpětnou vazbu, nápady nebo návrhy, udělujete nám nevýhradní, celosvětovou a bezplatnou licenci k jejich neomezenému využití. Neposílejte nic, co považujete za důvěrné, pokud jsme se písemně nedohodli jinak."
+    },
+    "third_party": {
+      "title": "7. Odkazy a služby třetích stran",
+      "body": "Web může odkazovat na stránky, nástroje nebo služby třetích stran. Tyto subjekty nekontrolujeme, neschvalujeme a neneseme odpovědnost za jejich obsah, dostupnost ani postupy."
+    },
+    "disclaimer": {
+      "title": "8. Vyloučení odpovědnosti",
+      "body": "Web a jeho obsah jsou poskytovány „tak, jak jsou“ a „jak jsou dostupné“, bez jakýchkoli záruk — výslovných i předpokládaných — včetně prodejnosti, vhodnosti pro konkrétní účel a neporušování práv. Nic na tomto Webu nepředstavuje právní, lékařské ani finanční poradenství."
+    },
+    "liability": {
+      "title": "9. Omezení odpovědnosti",
+      "body": "V maximálním rozsahu povoleném zákonem neneseme odpovědnost za jakékoli nepřímé, náhodné nebo následné škody či ušlý zisk vzniklý v důsledku používání Webu. Naše celková odpovědnost související s Webem je omezena částkou 100 USD."
+    },
+    "indemnity": {
+      "title": "10. Odškodnění",
+      "body": "Souhlasíte s tím, že nás odškodníte a zbavíte odpovědnosti v případě jakýchkoli nároků, škod a výdajů vzniklých v důsledku vašeho zneužití Webu nebo porušení těchto Podmínek."
+    },
+    "termination": {
+      "title": "11. Ukončení přístupu",
+      "body": "Přístup k Webu můžeme kdykoli pozastavit nebo ukončit, a to i bez předchozího upozornění, pokud se domníváme, že jste porušili tyto Podmínky nebo způsobili riziko pro nás či ostatní uživatele."
+    },
+    "governing_law": {
+      "title": "12. Rozhodné právo",
+      "body": "Tyto Podmínky se řídí právními předpisy jurisdikce uvedené v naší Smlouvě o poskytování služeb, případně jurisdikcí, kde je naše studio registrováno, bez ohledu na kolizní normy."
+    },
+    "changes": {
+      "title": "13. Změny těchto podmínek",
+      "body": "Tyto Podmínky můžeme průběžně aktualizovat. Datum „Poslední aktualizace“ v horní části stránky označuje aktuální verzi. Dalším používáním Webu po provedení změn vyjadřujete souhlas s aktualizovaným zněním."
+    },
+    "contact_section": {
+      "title": "14. Kontakt",
+      "body": "Máte dotazy k těmto Podmínkám? Kontaktujte nás prostřednictvím naší <0>kontaktní stránky</0>."
+    }
+  },
+  "cta": {
+    "title": "Máte dotazy k těmto Podmínkám?",
+    "description": "Rádi vám cokoli objasníme, než začneme spolupracovat.",
+    "button": "Kontaktujte nás"
+  }
+}

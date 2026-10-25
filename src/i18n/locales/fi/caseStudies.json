@@ -1,0 +1,844 @@
+{
+  "meta": {
+    "title": "Asiakasreferenssit — Tuloksia ihotaudeille erikoistuneilta verkkosivustoilta",
+    "description": "Syväluotaavia analyyseja ihotautiklinikoiden sivustoista todellisin luvuin — varaukset, SEO-sijoitukset, latausnopeudet ja liikevaihdon kasvu kosmeettisessa ja lääketieteellisessä dermatologiassa.",
+    "keywords": "ihotautiklinikan referenssit, dermatologian verkkosivuston tulokset, ihotautialan SEO-tapaustutkimus, lääkäriaseman verkkosivuston ROI",
+    "og": {
+      "title": "Asiakasreferenssit — Tuloksia ihotaudeille erikoistuneilta verkkosivustoilta",
+      "description": "Syväluotaavia analyyseja ihotautiklinikoiden sivustoista todellisin luvuin — varaukset, SEO-sijoitukset, latausnopeudet ja liikevaihdon kasvu kosmeettisessa ja lääketieteellisessä dermatologiassa."
+    },
+    "twitter": {
+      "title": "Asiakasreferenssit — Tuloksia ihotaudeille erikoistuneilta verkkosivustoilta",
+      "description": "Syväluotaavia analyyseja ihotautiklinikoiden sivustoista todellisin luvuin — varaukset, SEO-sijoitukset, latausnopeudet ja liikevaihdon kasvu kosmeettisessa ja lääketieteellisessä dermatologiassa."
+    },
+    "breadcrumb": {
+      "home": "Etusivu",
+      "caseStudies": "Asiakasreferenssit"
+    }
+  },
+  "accessibility": {
+    "skipToContent": "Siirry sisältöön"
+  },
+  "hero": {
+    "badge": "Referenssit · Todellisia ihotautiklinikoita",
+    "title": "Tuloksia, ei vain tyhjiä lupauksia.",
+    "description": "Jokainen alla oleva referenssi on toimiva ihotautiklinikka — esitämme tarkat luvut varauksista, SEO:sta, nopeudesta ja liikevaihdosta ennen ja jälkeen yhteistyömme. Ei turhaa puhetta, vain faktoja.",
+    "actions": {
+      "contact": "Hanki samanlaisia tuloksia",
+      "audit": "Maksuton verkkosivuston auditointi"
+    },
+    "metrics": [
+      {
+        "label": "Konsultaatiopyynnöt",
+        "value": "+214 %"
+      },
+      {
+        "label": "Varauskonversio",
+        "value": "+3.8×"
+      },
+      {
+        "label": "LCP (keskiarvo)",
+        "value": "0.9s"
+      },
+      {
+        "label": "Sijoitus paikallisissa hauissa",
+        "value": "#1–3"
+      }
+    ]
+  },
+  "cta": {
+    "badge": "Teidän kasvutarinanne on seuraava",
+    "title": "Haluatko klinikkasi mukaan tälle listalle?",
+    "description": "Lähetä meille sivustosi. Palautamme 24 tunnin kuluessa auditoinnin, jossa analysoimme SEO:n, nopeuden, HIPAA-yhteensopivuuden ja konversiopuutteet — sekä arvion siitä, mitä uudistus toisi lisää potilasvarauksina.",
+    "features": [
+      "Auditointi 24 tunnissa, ei puheluita",
+      "Ennuste varauksista ja liikevaihdosta",
+      "Kiinteähintainen tarjous",
+      "Omistusoikeus on täysin teillä"
+    ],
+    "actions": {
+      "start": "Aloita projekti",
+      "audit": "Maksuton auditointi"
+    },
+    "disclaimer": "Ei luottokorttia · Ei myyntipuheita"
+  },
+  "navigation": {
+    "footerPrompt": "Haluatko tietää lisää palveluistamme? Katso:",
+    "portfolioLink": "referenssisivustomme",
+    "processLink": "projektien eteneminen vaihe vaiheelta",
+    "or": "tai",
+    "pricingLink": "nykyiset pakettivaihtoehdot"
+  },
+  "studies": {
+    "central-austin-dermatology": {
+      "tagline": "Boutique Austinin vastaanotto muutettiin lääketieteellisen ja kosmeettisen dermatologian keskustan kohteeksi.",
+      "challenge": "Kaunis klinikka hitaan, yleisen mallin taakse – ei eroa yli 30 Austinin ihotautilääkäristä ja heikot paikalliset sijoitukset suurimmissa kosmeettisissa avainsanoissa.",
+      "solution": "Toimituksellinen brändijärjestelmä, palveluntarjoajan johtama tarinankerronta, omistetut sivut Esteettinen / fillerille / laserille ja concierge-konsulttivirta, joka on viritetty Austinin kilpaileville keskustamarkkinoille.",
+      "highlights": [
+        "Toimituksellinen valokuvaus + mukautettu tyyppijärjestelmä",
+        "Palvelusivut jokaiselle kosmeettiselle hoidolle",
+        "Saman viikon uusi potilasvarausvirta",
+        "LocalBusiness-skeema viritetty Austinin keskustaan"
+      ],
+      "location": "Austin, TX",
+      "duration": "9 viikkoa",
+      "metrics": [
+        {
+          "label": "Konsultointipyynnöt / kk"
+        },
+        {
+          "label": "\"Aesthetic Austin\" -paikallinen arvo"
+        },
+        {
+          "label": "Mobiili LCP"
+        },
+        {
+          "label": "Varauksen muuntaminen"
+        }
+      ],
+      "quote": {
+        "text": "Sivusto vastaa vihdoin potilaiden klinikalla saamaa kokemusta. Austinin keskusta tietää nyt minne mennä.",
+        "author": "Perustaja ihotautilääkäri",
+        "role": "Keski-Austinin ihotauti"
+      }
+    },
+    "clear-dermatology": {
+      "tagline": "Lääketieteen ensimmäinen Scottsdalen käytäntö: rakennettu uudelleen kliinisen auktoriteetin ja samalla viikolla uuden potilaan pääsyn ympärille.",
+      "challenge": "Vahvat lääkärit, heikko digitaalinen tarina – tilasivuja luetaan kuin oppikirjaa, ei selkeää polkua kirjaan ja maksetut mainokset kantavat suurimman osan uuden potilaan kuormasta.",
+      "solution": "Lääkäreiden laatimat kuntokeskukset, läpinäkyvät vakuutustiedot, yhden napautuksen varaus ja sisältöjärjestelmä, jonka lääketieteellinen tiimi voi päivittää ilman verkkovastaavaa.",
+      "highlights": [
+        "Yli 20 lääkärin kirjoittamaa sairaussivua",
+        "Läpinäkyvä vakuutus + uudet potilaslomakkeet",
+        "Saman viikon ajanvaraus-widget",
+        "Toimittajaystävällinen CMS lääketieteelliselle tiimille"
+      ],
+      "location": "Scottsdale, AZ",
+      "duration": "12 viikkoa",
+      "metrics": [
+        {
+          "label": "Orgaaniset istunnot / kk"
+        },
+        {
+          "label": "Uudet potilaslomakkeet/kk"
+        },
+        {
+          "label": "Maksettu CAC"
+        },
+        {
+          "label": "Sivun nopeus (mobiili)"
+        }
+      ],
+      "quote": {
+        "text": "Lopetimme potilaiden vuokraamisen Google Adsista. Orgaaniset ja suorat varaukset sisältävät nyt enemmän uusia varauksia kuin koskaan maksettuja.",
+        "author": "Käytännön ylläpitäjä",
+        "role": "Selkeä ihotauti"
+      }
+    },
+    "olansky-dermatology": {
+      "tagline": "Monen sukupolven Atlanta-kosmetiikkakäytäntö: vanha brändi modernisoitu menettämättä 30 vuoden luottamusta.",
+      "challenge": "Luotettu 30 vuoden tuotemerkki, joka on piilotettu vanhentuneen sivuston taakse – kosmetiikkapalvelut aliedustettuina ja nuoremmat potilaat eivät löydä vastaanottoa mobiililaitteella.",
+      "solution": "Modernisoitu visuaalinen järjestelmä, joka kunnioittaa perintöä, täydellinen kosmeettinen palveluarkkitehtuuri, ennen/jälkeen -galleria suostumuksella ja mobiili-ensin varauspolku.",
+      "highlights": [
+        "Päivitetty identiteetti kunnioittaa 30-vuotista perintöä",
+        "Suostumushallittu ennen/jälkeen galleriaa",
+        "Huollon ensimmäinen meganavigointi",
+        "Mobiili-ensikonsulttivaraus"
+      ],
+      "location": "Atlanta, GA",
+      "duration": "14 viikkoa",
+      "metrics": [
+        {
+          "label": "Konsultointipyynnöt / kk"
+        },
+        {
+          "label": "Mobiilivarausten osuus"
+        },
+        {
+          "label": "Orgaaniset istunnot"
+        },
+        {
+          "label": "Keskim. konsulttiarvo"
+        }
+      ],
+      "quote": {
+        "text": "Uskolliset potilaamme edelleen tunnistavat meidät, ja kokonaan uusi sukupolvi löytää meidät ensimmäistä kertaa.",
+        "author": "Toimiva kumppani",
+        "role": "Olansky Dermatologia"
+      }
+    },
+    "dermatology-san-antonio": {
+      "tagline": "Monitoimipaikkainen San Antonio -ryhmä: yhdistetty tuotemerkki ja lukitsematon paikallinen haku jokaisessa klinikassa.",
+      "challenge": "Useat klinikat kilpailevat keskenään haussa, epäjohdonmukainen brändäys eri paikoissa, eikä yhtä ainoaa totuuden lähdettä palveluille tai palveluntarjoajille.",
+      "solution": "Yhtenäinen brändijärjestelmä, jossa on klinikkakohtaiset viranomaissivut, LocalBusiness + Physician -skeema sijaintia kohti ja keskitetty toimituksellinen työnkulku.",
+      "highlights": [
+        "Paikkakohtaiset viranomaissivut yksilöllisellä kopiolla",
+        "Kaavio jokaiselle klinikalle ja lääkärille",
+        "Jaettu komponenttikirjasto, paikalliset ohitukset",
+        "Keskusvaraus sijaintireitityksellä"
+      ],
+      "location": "San Antonio, TX",
+      "duration": "16 viikkoa",
+      "metrics": [
+        {
+          "label": "Klinikat karttapaketissa 1–3"
+        },
+        {
+          "label": "Uudet potilaslomakkeet/kk"
+        },
+        {
+          "label": "Yhdistetty orgaaninen liikenne"
+        },
+        {
+          "label": "Mobiili LCP"
+        }
+      ],
+      "quote": {
+        "text": "Jokainen klinikka sijoittuu vihdoin omien ehtojensa mukaan, ja markkinointitiimimme lähettää palon sammuttamisen sijaan.",
+        "author": "markkinointijohtaja",
+        "role": "San Antonion Dermatology Associates"
+      }
+    },
+    "direct-dermatology": {
+      "tagline": "Tallenna ja välitä teledermatologia: vähennä rekisteröitymiskitkaa ja kaksinkertaisti suoritetut virtuaalikäynnit.",
+      "challenge": "Hämmentävä otto, epäselvät vakuutusviestit ja 46 % matkapuhelimesta poistuminen ennen kuin potilaat ladasivat kuvan.",
+      "solution": "Yhden näytön tila + tilavalitsin, läpinäkyvä hinnoittelu, progressiivinen valokuvien lataus hitaille verkoille ja vakuutusensimmäisen viestien uudelleenkirjoitus.",
+      "highlights": [
+        "Yhden näytön sisääntulo korvaa 5-vaiheisen ohjatun toiminnon",
+        "Progressiivinen kuvien lataus hitaalle matkapuhelimelle",
+        "Vakuutus-ensiviestintä sivun yläpuolella",
+        "HIPAA-auditoitu virtaus päästä päähän"
+      ],
+      "location": "USA · Teledermatologia",
+      "duration": "10 viikkoa",
+      "metrics": [
+        {
+          "label": "Ilmoittautumisen valmistuminen"
+        },
+        {
+          "label": "Mobiilipudotus"
+        },
+        {
+          "label": "Käynnit alkaneet / päivä"
+        },
+        {
+          "label": "SERT (maksettu)"
+        }
+      ],
+      "quote": {
+        "text": "Kitkan poistaminen ei ollut kosmeettista – jokaisesta leikatusta askeleesta tuli valmis käynti ja todellinen potilas.",
+        "author": "VP tuote",
+        "role": "Suora ihotauti"
+      }
+    },
+    "colorado-dermatology": {
+      "tagline": "Coloradon monitoimipaikkakäytäntö: yhtenäinen digitaalinen etuovi koko Front Range -alueella.",
+      "challenge": "Erilliset mikrosivustot sijaintikohtaisesti, päällekkäinen palvelusisältö, eikä johdonmukaista brändiä – potilaat, jotka pomppaavat sivustojen ja Googlen välillä, eivät ole varmoja, mikä sivu sijoittuisi.",
+      "solution": "Yksi yhtenäinen alusta, klinikkakohtaiset viranomaissivut ainutlaatuisella paikallisella kopiolla ja 301-siirto, joka säilytti jokaisen sijoituksen konsolidoinnin aikana.",
+      "highlights": [
+        "Nollahäviöinen 301-siirto 4 vanhasta sivustosta",
+        "Sijaintikohtainen LocalBusiness-skeema",
+        "Palveluntarjoajan hakemisto fasetoidulla haulla",
+        "Keskitetty toimituksellinen hallinto"
+      ],
+      "location": "Colorado · Monitoimipaikka",
+      "duration": "18 viikkoa",
+      "metrics": [
+        {
+          "label": "Orgaaninen liikenne (verkosto)"
+        },
+        {
+          "label": "Paikat sijoittuivat 3 parhaan joukkoon"
+        },
+        {
+          "label": "Uudet potilasvaraukset / kk"
+        },
+        {
+          "label": "Sivun nopeus (mobiili)"
+        }
+      ],
+      "quote": {
+        "text": "Puhumme vihdoin yhdellä äänellä Front Rangessa – ja numerot osoittavat, että potilaat huomaavat sen.",
+        "author": "Operatiivinen johtaja",
+        "role": "Coloradon ihotauti"
+      }
+    },
+    "skymd-teledermatology": {
+      "tagline": "50 osavaltion teledermatologian alusta: hämmentävästä kirjautumisesta alle 2 minuutin virtuaaliseen vierailuun.",
+      "challenge": "6-vaiheinen rekisteröityminen, epäselvä osavaltion kattavuus, vakuutusten epäselvyys ja 42 %:n matkapuhelinten poistuminen ennen kuin potilaat saapuivat kassalle.",
+      "solution": "Yhden näytön tila + kunnon valitsin, läpinäkyvä vakuutus ja hinnoittelu, mobiililähtöisyys ja progressiivinen kuvien lataus, joka toimii jatkuvasti hitaiden maaseutuyhteyksien kanssa.",
+      "highlights": [
+        "Tilan + tilan valitsin yhdessä näytössä",
+        "Läpinäkyvä vakuutus + itse maksava hinnoittelu",
+        "Progressiivinen kuvien lataus hitaille verkkoille",
+        "HIPAA-auditoitu kulku SOC 2 -isännöinnillä"
+      ],
+      "location": "50 osavaltion teledermatologia",
+      "duration": "10 viikkoa",
+      "metrics": [
+        {
+          "label": "Ilmoittautumisen valmistuminen"
+        },
+        {
+          "label": "Mobiilikassan palautus"
+        },
+        {
+          "label": "Käynnit alkaneet / päivä"
+        },
+        {
+          "label": "SERT (maksettu)"
+        }
+      ],
+      "quote": {
+        "text": "Jokainen poistamamme hylätty askel näkyi varattuna vierailuna. Tämä ei ollut suunnittelua - se oli tulosuunnittelua.",
+        "author": "VP kasvu",
+        "role": "SkyMD"
+      }
+    },
+    "cura-clinics": {
+      "tagline": "Täysin kaksikielinen (arabialainen RTL + englanti) ihotautibrändi Saudi-Arabian luksusmarkkinoille.",
+      "challenge": "Olemassa oleva sivusto oli vain englanninkielinen, ja siinä oli jälkikäteen harkittu arabiankielinen vaihto, RTL ei toimi, eikä siinä ollut WhatsApp/STC Pay -varausta – työkaluja, joita saudipotilaat todella käyttävät.",
+      "solution": "Arabialainen RTL-suunnittelujärjestelmä, natiivi kaksikielinen sisällönhallintajärjestelmä, WhatsApp Business -varaus, STC Pay + Mada -kassa ja Riadin paikallinen hakukoneoptimointi arabiankielisellä mallilla.",
+      "highlights": [
+        "Todellinen RTL-suunnittelujärjestelmä (ei peilikäännös)",
+        "WhatsApp Business + STC Pay -varauskulku",
+        "Arabia + englanti malli Google KSA:lle",
+        "Ramadan-tietoiset tapaamisajat"
+      ],
+      "location": "Riad, Saudi-Arabia",
+      "duration": "12 viikkoa",
+      "metrics": [
+        {
+          "label": "Arabialaiset luomuistunnot"
+        },
+        {
+          "label": "WhatsApp-varaukset / kk"
+        },
+        {
+          "label": "Mobile LCP (3G)"
+        },
+        {
+          "label": "Uusia potilaita / kk"
+        }
+      ],
+      "quote": {
+        "text": "Arabialainen kokemus tuntuu lopulta alkuperäiseltä – ei käännetty. Potilaat kertovat meille, että sivusto näyttää paremmalta kuin klinikka.",
+        "author": "Klinikan johtaja",
+        "role": "Curan klinikat"
+      }
+    },
+    "galderma": {
+      "tagline": "Maailmanlaajuinen ihotautibrändi: yrityssuunnittelujärjestelmä, joka yhdistää tuotteen, HCP:n ja potilaiden matkat yli 90 markkinoilla.",
+      "challenge": "Kymmeniä alueellisia sivustoja eri pinoissa, epäjohdonmukainen brändin ilmaisu HCP- ja potilasyleisöissä sekä vaatimustenmukaisuuden työnkulku, joka hidasti jokaista julkaisua.",
+      "solution": "Yrityssuunnittelujärjestelmä, jossa on lukitut vaatimustenmukaisuusmallit, jaetut komponentit HCP- ja potilasmatkoille sekä markkinakohtaiset toimitukselliset ohitukset keskushallinnon kanssa.",
+      "highlights": [
+        "Suunnittelujärjestelmä käytössä yli 90 markkinoilla",
+        "Erilliset HCP- ja potilasmatkat, yhteinen kuori",
+        "Vaatimustenmukaisuuslukitut komponenttiversiot",
+        "Keskitetty toimituksellinen hallinto paikallisilla ohituksilla"
+      ],
+      "location": "Maailmanlaajuinen · Yrityksen ihotauti",
+      "duration": "26 viikkoa",
+      "metrics": [
+        {
+          "label": "Aika avata markkinasivusto"
+        },
+        {
+          "label": "Globaali orgaaninen liikenne"
+        },
+        {
+          "label": "HCP-portaalin valmistuminen"
+        },
+        {
+          "label": "Suunnittele lippujen määrä"
+        }
+      ],
+      "quote": {
+        "text": "Yksi järjestelmä, yhdeksänkymmentä markkinaa, nolla tuotemerkin ajautumista – ja lanseeraukset, jotka kestivät aiemmin neljänneksen, toimitetaan nyt viikkoissa.",
+        "author": "Maailmanlaajuinen digitaalinen johtaja",
+        "role": "Galderma"
+      }
+    },
+    "badr-health": {
+      "tagline": "Saudi-Arabian monien erikoisalojen ryhmä: kaksikielinen potilasportaali ja yhtenäinen varaus jokaiselle erikoisalalle.",
+      "challenge": "Legacy-sivusto oli englanninkielinen, ja arabiankielinen tuki oli heikko, erikoissivuja luettiin kuin hakemistoa, ja varaus vaati puhelun vastaanottoon.",
+      "solution": "Arabialainen RTL-alusta, erikoisalakohtaiset viranomaiskeskukset, WhatsApp + online-varaus klinikan reitityksellä ja vakuutus + Mada -maksuvirrat.",
+      "highlights": [
+        "Arabialainen RTL-alusta (ei käännetty)",
+        "Erikoiskohtaiset viranomaiskeskukset skeemalla",
+        "WhatsApp Business + online-varaus",
+        "Vakuutus + Mada-maksuintegraatio"
+      ],
+      "location": "Saudi-Arabia · Monipuolinen erikoisuus",
+      "duration": "14 viikkoa",
+      "metrics": [
+        {
+          "label": "Arabialaiset luomuistunnot"
+        },
+        {
+          "label": "Online-varaukset / kk"
+        },
+        {
+          "label": "Mobiili LCP"
+        },
+        {
+          "label": "Puhelukeskukseen saapuva"
+        }
+      ],
+      "quote": {
+        "text": "Potilaat varaavat itsensä arabiaksi puhelimissaan – puhelinkeskuksemme käsittelee nyt monimutkaisia tapauksia, ei aikatauluja.",
+        "author": "Digitaalijohtaja",
+        "role": "Badr Health"
+      }
+    },
+    "zmmco-medical": {
+      "tagline": "MENA-lääketieteen jakelija: B2B-luettelo ja lyijymoottori uusittu ihotautien + esteettisten laitteiden ostajille.",
+      "challenge": "Staattinen esitesivusto, jossa ei ole tuoteluetteloa, ei lyijyä ja lääkärit, jotka eivät löydä laitteen teknisiä tietoja – myyntitiimi lähettää jokaisen kysymyksen sähköpostitse.",
+      "solution": "Täydellinen tuoteluettelo, jossa on fasettihaku, laitekohtaiset auktoriteettisivut kliinisillä tiedoilla, kaksikielinen EN/AR-sisältö ja myynti-CRM:ään yhdistetty hyväksytty liidilomake.",
+      "highlights": [
+        "Fasetoitu tuoteluettelo kliinisillä tiedoilla",
+        "Kaksikieliset EN/AR-valtuutussivut laitetta kohti",
+        "Hyväksytty liidien talteenotto myynnin CRM:ään",
+        "Jakelija + klinikkaportaali hinnoittelutasoilla"
+      ],
+      "location": "MENA · Lääketieteellinen jakelu",
+      "duration": "16 viikkoa",
+      "metrics": [
+        {
+          "label": "Hyväksytyt liidit / kk"
+        },
+        {
+          "label": "Orgaaniset istunnot"
+        },
+        {
+          "label": "Myyntisyklin pituus"
+        },
+        {
+          "label": "Tuki sähköpostit / kk"
+        }
+      ],
+      "quote": {
+        "text": "Kliinikot tarjoavat nyt itsepalvelulaitteiden tekniset tiedot ja tulevat meille valmiina ostamaan. Edustajamme sulkeutuvat selittämisen sijaan.",
+        "author": "kaupallinen johtaja",
+        "role": "ZMMCO Medical"
+      }
+    },
+    "naturium": {
+      "tagline": "Ihotautilääkärien rakastama DTC-ihonhoitobrändi: päätön kaupallinen rakenne, joka skaalautui 8-numeroisiin tuloihin.",
+      "challenge": "Legacy Shopify-teema, 3.2s LCP PDP:llä, heikko ainesosien koulutus ja CVR, joka tasoitti maksettujen kulujen kaksinkertaistumisesta huolimatta.",
+      "solution": "Päätöntä kaupankäyntiä mukautetulla suunnittelujärjestelmällä, sekuntia pienemmät PDP:t, ihotautilääkärien kirjoittama ainesosien koulutus, tietokilpailupohjainen rutiinirakennus ja A/B-testattu kassa.",
+      "highlights": [
+        "Päätön Shopify + mukautettu suunnittelujärjestelmä",
+        "Ihotautilääkärien kirjoittama ainesosatietosanakirja",
+        "Säännöllinen rakentajavisa (37 % valmiina)",
+        "Sekuntia pienemmät PDP:t kaikissa tuotteissa"
+      ],
+      "location": "USA · DTC-ihonhoito",
+      "duration": "20 viikkoa",
+      "metrics": [
+        {
+          "label": "PDP LCP"
+        },
+        {
+          "label": "Sivuston laajuinen CVR"
+        },
+        {
+          "label": "AOV"
+        },
+        {
+          "label": "Paluuasiakashinta"
+        }
+      ],
+      "quote": {
+        "text": "Sivustosta tuli paras markkinoijamme. Jokainen maksettu dollari tuo nyt takaisin enemmän, ja orgaaninen tulo kolminkertaistui.",
+        "author": "Verkkokaupan johtaja",
+        "role": "Naturium"
+      }
+    },
+    "skin-and-me": {
+      "tagline": "Ison-Britannian reseptimääräinen ihonhoitopalvelu: tietokilpailupohjainen hankintasuppilo, joka muutti tilauslaatikon kliiniseksi brändiksi.",
+      "challenge": "Kuluttajabrändin estetiikka, joka kätki kliinisen tiukan, tietokilpailun pudotuksen kuvien latauksen yhteydessä ja epäselvät toistuvien reseptien viestit, jotka täyttävät LTV:n.",
+      "solution": "Ihotautilääkäreiden laatima todistusnauha, progressiivinen tietovisa, jossa on välittömiä valokuvavinkkejä, läpinäkyvä kaavan paljastaminen ja tilausten hallintakäyttöliittymä, joka vähentää vaihtuvuutta.",
+      "highlights": [
+        "Progressiivinen tietokilpailu live-valokuvaohjauksella",
+        "Ihotautilääkärin todisteet jokaisessa vaiheessa",
+        "Läpinäkyvä aktiivisten ainesosien paljastaminen",
+        "Itsepalvelutilauksen tauko / vaihto"
+      ],
+      "location": "Iso-Britannia · Teledermatologia",
+      "duration": "12 viikkoa",
+      "metrics": [
+        {
+          "label": "Tietokilpailun suorittaminen"
+        },
+        {
+          "label": "Valokuvien latauksen palautus"
+        },
+        {
+          "label": "Kokeilu → maksullinen CVR"
+        },
+        {
+          "label": "6 kuukauden tilaajan elinkaariarvo"
+        }
+      ],
+      "quote": {
+        "text": "Lopulta suppilo heijastaa tuotteen takana olevaa lääkettä. Kokeilukonversio kaksinkertaistui koskematta maksettuihin kuluihin.",
+        "author": "Kasvujohtaja",
+        "role": "Iho + minä"
+      }
+    },
+    "sydney-dermatology": {
+      "tagline": "Sydneyn CBD:n lääketieteellinen käytäntö: uusittu ihosyöpäviranomaisen ja saman viikon uuden potilaan pääsyn ympärille.",
+      "challenge": "Kaunis klinikka piilotettuna hitaan mallin taakse, ei sijoitusta erittäin tarkoituksellisille ihosyövän avainsanoille ja paperifaksityönkulun pullonkauloja.",
+      "solution": "Ihosyöpäviranomaiskeskus, myyrätarkistusvarauswidget, GP-läheteportaali e-faksilla ja Sydneyn paikallinen kaavio, joka on kohdistettu itäisiin ja sisälänsiläisiin esikaupunkiin.",
+      "highlights": [
+        "Ihosyöpäviranomainen keskus kaaviolla",
+        "Saman viikon myyrätarkistusvarauswidget",
+        "Yleislääkärin läheteportaali e-faksilla",
+        "Esikaupunkitason paikallinen hakukoneoptimointipalvelu Sydneyssä"
+      ],
+      "location": "Sydney, Australia",
+      "duration": "11 viikkoa",
+      "metrics": [
+        {
+          "label": "\"Skin check Sydney\" -arvo"
+        },
+        {
+          "label": "Uudet potilasvaraukset / kk"
+        },
+        {
+          "label": "Yleislääkärilähetteet / kk"
+        },
+        {
+          "label": "Mobiili LCP"
+        }
+      ],
+      "quote": {
+        "text": "Ihotarkastukset varataan nyt itse. Yleislääkärimme rakastavat läheteportaalia ja potilaat saapuvat jo koulutettuina.",
+        "author": "Käytännön rehtori",
+        "role": "Sydneyn ihotauti"
+      }
+    },
+    "dr-haus-dermatology": {
+      "tagline": "Harley Streetin kosmetiikkaklinikka: toimituksellinen tuotemerkki, joka nosti käytännön Lontoon esteettisen tason huipputasolle.",
+      "challenge": "Boutique Harley Street -brändi, joka kilpailee Lontoon ketjuja vastaan, ei erottelua injektiovalmisteissa, ja konsultointipyynnöt tulevat matkapuhelimeen.",
+      "solution": "Toimituksellinen visuaalinen järjestelmä, palveluntarjoajan johtama tarinankerronta, hoito-sivu-arkkitehtuuri ruiskeille ja lasereille sekä mobiililaitteille viritetty concierge-konsultointivirta.",
+      "highlights": [
+        "Toimituksellinen identiteetti + mukautettu typografia",
+        "Yksi sivu injektiota ja laseria kohden",
+        "Concierge konsulttivaraus matkapuhelimella",
+        "Harley Streetin paikallinen malli"
+      ],
+      "location": "Lontoo, Iso-Britannia",
+      "duration": "10 viikkoa",
+      "metrics": [
+        {
+          "label": "Konsultointipyynnöt / kk"
+        },
+        {
+          "label": "\"Aesthetic London\" paikallinen sijoitus"
+        },
+        {
+          "label": "Keskim. konsulttiarvo"
+        },
+        {
+          "label": "Mobiilivaraus CVR"
+        }
+      ],
+      "quote": {
+        "text": "Sivusto puhuu nyt niiden potilaiden kieltä, joita todella haluamme. Jokainen konsultaatio saapuu esivaltuutettuna.",
+        "author": "Perustaja",
+        "role": "Dr Haus Dermatology"
+      }
+    },
+    "skincare-by-dr-v": {
+      "tagline": "Maailmanlaajuinen ihonväriviranomainen: DTC-myymälä + toimituksellinen keskus, joka skaalautui asiantuntijakäytännön maailmanlaajuisesti.",
+      "challenge": "Maailmanluokan asiantuntemus ihonväridermatologiasta hitaasta myymälästä, heikko ainesosien koulutus ja kansainvälinen toimituskitka, joka tappaa toistuvia tilauksia.",
+      "solution": "Päättömät myymälät räätälöidyllä suunnittelujärjestelmällä, toimitukselliset tiedot ihotyypin mukaan, ainesosien tietosanakirja ja kansainväliset toimitukset paikallisessa valuutassa.",
+      "highlights": [
+        "Toimituskeskukset pigmentaatioon ja akneen",
+        "Ainesosien tietosanakirja huolenaiheena",
+        "Usean valuutan kansainvälinen kassa",
+        "Sekuntia pienemmät PDP:t kaikissa tuotteissa"
+      ],
+      "location": "Lontoo · Maailmanlaajuinen (ihon väri)",
+      "duration": "16 viikkoa",
+      "metrics": [
+        {
+          "label": "Orgaaniset istunnot / kk"
+        },
+        {
+          "label": "Kansainvälinen tilausosuus"
+        },
+        {
+          "label": "PDP LCP"
+        },
+        {
+          "label": "Paluuasiakashinta"
+        }
+      ],
+      "quote": {
+        "text": "Potilaat kolmelta mantereelta löytävät meidät nyt juuri siihen, mitä osaamme parhaiten – ja ostavat ilman kitkamuuria.",
+        "author": "Perustaja ja lääketieteellinen johtaja",
+        "role": "Ihonhoito, tohtori V"
+      }
+    },
+    "the-derma-co": {
+      "tagline": "Ihotautilääkärin laatima intialainen DTC-brändi: tietokilpailu + PDP-uudelleenrakentaminen, joka avasi luokan johtajuuden.",
+      "challenge": "Kukoistava brändi saavuttaa CVR-katon: hitaat PDP:t 3G:ssä, heikko ainesosien uskottavuus ja tietokilpailu, joka menetti 40 % käyttäjistä valinnan vuoksi.",
+      "solution": "Sekuntia pienempi PDP-kuori, ihotautilääkäreiden kirjoittamat huolenpitokeskukset, tietokilpailu, joka on suunniteltu uudelleen yhden peukalon intialaiseen matkapuhelimeen, ja postiennakolla tapahtuva kitkan poisto.",
+      "highlights": [
+        "Sekuntia pienemmät PDP:t testattu 3G:ssä",
+        "Huoliensimmäinen tietokilpailu yhden peukalon käyttöön",
+        "Ihotautilääkärien kirjoittamat ainesosasivut",
+        "Kitkaton COD + UPI kassa"
+      ],
+      "location": "Intia · DTC-ihonhoito",
+      "duration": "18 viikkoa",
+      "metrics": [
+        {
+          "label": "PDP LCP (3G)"
+        },
+        {
+          "label": "Tietokilpailun suorittaminen"
+        },
+        {
+          "label": "Sivuston laajuinen CVR"
+        },
+        {
+          "label": "Toista ostosuhde"
+        }
+      ],
+      "quote": {
+        "text": "Sivusto pysyy kasvumme tahdissa sen sijaan, että se rajoittaisi sitä. Jokainen suorituspiste kasvatti tuloja.",
+        "author": "VP Digital",
+        "role": "Derma Co"
+      }
+    },
+    "belfast-skin-clinic": {
+      "tagline": "Pohjois-Irlannin johtava yksityinen ihotautiklinikka: viranomaiskeskus, joka omistaa Belfastin haun.",
+      "challenge": "Alueviranomainen piilotettu päivätyn sivuston taakse, vakuutus- ja omakustannushinnoittelu haudattu, ja myyrätarkastuskysyntä ohjataan vain puhelinvarauksen kautta.",
+      "solution": "Konsultin laatimat kuntokeskittimet, läpinäkyvä itsemaksu + BUPA-hinnoittelu, online-myyjäsekkivaraus ja Pohjois-Irlannin paikallinen malli.",
+      "highlights": [
+        "Konsultin laatimat kuntokeskittimet",
+        "Läpinäkyvä BUPA + itse maksava hinnoittelu",
+        "Myyrätarkistusvaraus verkossa",
+        "Belfast + NI:n laajuinen paikallinen skeema"
+      ],
+      "location": "Belfast, Pohjois-Irlanti",
+      "duration": "9 viikkoa",
+      "metrics": [
+        {
+          "label": "\"Ihotautilääkäri Belfast\" -arvo"
+        },
+        {
+          "label": "Online-varaukset / kk"
+        },
+        {
+          "label": "Orgaaniset istunnot"
+        },
+        {
+          "label": "Vain puhelimen lataus"
+        }
+      ],
+      "quote": {
+        "text": "Vastaanotto oli aiemmin varausjärjestelmä. Nyt sivusto tekee sen – ja potilaat saapuvat jo valmiina.",
+        "author": "Klinikan johtaja",
+        "role": "Belfastin ihoklinikka"
+      }
+    },
+    "cpso-ontario": {
+      "tagline": "Provinssin lääketieteen sääntelijä: 40 000 lääkärin hakemisto + julkinen luottamussivusto, joka on rakennettu uudelleen saavutettavuutta ja laajuutta varten.",
+      "challenge": "Vanhan alustan nurjahdus julkisen lääkärihakuhakemiston alla, WCAG-virheitä koko sivustolla ja jokainen sisäinen tiimi lähettää verkkovastaavan muokkauksia varten.",
+      "solution": "Yrityssuunnittelujärjestelmä AA-auditoimilla komponenteilla, 40 000 tietueeseen skaalautuva lääkärihaku, ranskan/englannin kaksikielinen toimituksellinen työnkulku ja itsepalvelujulkaisu sisäisille ryhmille.",
+      "highlights": [
+        "WCAG 2.1 AA:n auditoitu komponenttikirjasto",
+        "Fasetoitu hakemisto 40 000 lääkärille",
+        "EN/FR kaksikielinen toimituksellinen työnkulku",
+        "Itsepalvelujulkaisu eri osastojen välillä"
+      ],
+      "location": "Ontario, Kanada · Säädin",
+      "duration": "22 viikkoa",
+      "metrics": [
+        {
+          "label": "Hakemistohaun latenssi"
+        },
+        {
+          "label": "WCAG-ongelmat auki"
+        },
+        {
+          "label": "Lippujen julkaisu / kk"
+        },
+        {
+          "label": "Mobiili LCP"
+        }
+      ],
+      "quote": {
+        "text": "Ontarilaiset saavat vastaukset alle sekunnissa, ja tiimimme julkaisevat julkaisuja odottamatta IT:tä. Se on säätelijä, jonka halusimme olla verkossa.",
+        "author": "Digitalin johtaja",
+        "role": "CPSO"
+      }
+    },
+    "sunpark-dermatology": {
+      "tagline": "Calgaryn lääketieteen ja kirurgisen ihotautien käytäntö: viranomainen, joka omistaa Etelä-Albertan haun.",
+      "challenge": "Vahvat lääkärit, näkymättömät verkossa – ei ranking-arvoa vaativille kirurgisille termeille, PDF-tiedostoihin jääneet lähetelomakkeet ja mobiilinopeus haittaavat uuden potilaan tavoittavuutta.",
+      "solution": "Lääkäreiden kirjoittamat kirurgiset ja lääketieteelliset keskukset, online-lähetelomake yleislääkäreille, Albertan laajuinen paikallinen kaava ja sekuntia pienempi mobiilikuori.",
+      "highlights": [
+        "Lääkäreiden kirjoittamat kirurgiset keskukset",
+        "Online-GP-lähete (ei enää PDF-tiedostoja)",
+        "Albertan laajuinen paikallinen malli",
+        "Alatoinen mobiilikuori"
+      ],
+      "location": "Calgary, Kanada",
+      "duration": "10 viikkoa",
+      "metrics": [
+        {
+          "label": "\"Mohs kirurgia Calgary\" -arvo"
+        },
+        {
+          "label": "Yleislääkärilähetteet / kk"
+        },
+        {
+          "label": "Orgaaniset istunnot"
+        },
+        {
+          "label": "Mobiili LCP"
+        }
+      ],
+      "quote": {
+        "text": "Lopetimme leikkauslähetteiden menettämisen isommille ryhmille. Sivusto ansaitsee ne nyt meille.",
+        "author": "Lääketieteellinen johtaja",
+        "role": "Sunpark Ihotauti"
+      }
+    },
+    "norvic-hospital": {
+      "tagline": "Nepalin johtava yksityinen sairaala: moniosastoinen paikka, joka on rakennettu uudelleen potilaiden pääsyn ja lääketieteellisen matkailun vastaanottoon.",
+      "challenge": "Kymmeniä osastoja epäjohdonmukaisilla sivuilla, sairaanhoitomatkailukyselyt kadonneet yhteydenottolomakkeeseen ja matkapuhelinnopeus käyttökelvoton Nepalin 3G/4G:ssä.",
+      "solution": "Yhtenäinen osastoarkkitehtuuri, sairaanhoitomatkailu maa + toimenpidereitityksellä, englannin/nepalin kaksikielinen sisältö ja 3G:ssä testattu alle sekunti mobiilikuori.",
+      "highlights": [
+        "Yhtenäinen osasto + lääkärihakemisto",
+        "Lääketieteellinen matkailu maaseudulla",
+        "EN/NE kaksikielinen toimituksellinen työnkulku",
+        "Sekuntia pienempi mobiilikuori 3G:ssä"
+      ],
+      "location": "Kathmandu, Nepal · Monipuolinen sairaala",
+      "duration": "20 viikkoa",
+      "metrics": [
+        {
+          "label": "Lääketieteellinen matkailu johtaa / kk"
+        },
+        {
+          "label": "Nettiajanvaraukset / kk"
+        },
+        {
+          "label": "Mobile LCP (3G)"
+        },
+        {
+          "label": "Osastot sijoittuivat 3 parhaan joukkoon"
+        }
+      ],
+      "quote": {
+        "text": "Potilaat eri puolilta Etelä-Aasiaa löytävät ja varaavat meidät nyt kerralla. Sivusto tekee koko ottotiimin työtä.",
+        "author": "Tietohallintojohtaja",
+        "role": "Norvicin kansainvälinen sairaala"
+      }
+    },
+    "st-george-dermatology": {
+      "tagline": "Etelä-Sydneyn ihotautiryhmä: ihosyöpäviranomainen + esikaupunkitason SEO koko St Georgen alueella.",
+      "challenge": "Alueellinen käytäntö, joka kilpailee Sydneyn CBD-ketjuja vastaan, heikko sijoitus esikaupunkitason hauissa ja lähetystyönkulku edelleen faksipohjainen.",
+      "solution": "Esikaupunkikohtaiset viranomaissivut, ihosyövän ja lasten keskukset, sähköinen läheteportaali yleislääkäreille ja Australian laajuinen paikallinen malli.",
+      "highlights": [
+        "Esikaupunkitason viranomaissivut",
+        "Lasten ihotautien keskus",
+        "E-läheteportaali yleislääkäreille",
+        "AU:n laajuinen paikallinen skeema viritetty St Georgea varten"
+      ],
+      "location": "Sydney (St George), Australia",
+      "duration": "12 viikkoa",
+      "metrics": [
+        {
+          "label": "Esikaupunkialueet karttapaketissa 1–3"
+        },
+        {
+          "label": "Uudet potilasvaraukset / kk"
+        },
+        {
+          "label": "Yleislääkärilähetteet / kk"
+        },
+        {
+          "label": "Mobiili LCP"
+        }
+      ],
+      "quote": {
+        "text": "Näemme vihdoin jokaisella esikaupunkialueella, jota palvelemme. Potilaat eivät enää ole vahingossa noudattaneet CBD:tä.",
+        "author": "Käytännön johtaja",
+        "role": "St Georgen ihotauti"
+      }
+    },
+    "the-skin-lab": {
+      "tagline": "Australian esteettinen klinikka: toimituksellinen tuotemerkki + hoito-sivu-arkkitehtuuri, joka omistaa kosmeettisen haun.",
+      "challenge": "Nopeasti kasvava esteettinen tuotemerkki saavuttaa löytökaton – jokainen hoito on tiivistetty yhdelle sivulle, ei paikallisia viranomaisia ja konsultointi matkapuhelimella.",
+      "solution": "Yksi viranomaissivu hoitoa kohden, toimituksellinen palveluntarjoajan bios, mobiili-ensin konsulttivaraus ja sijaintitason malli jokaisessa klinikassa.",
+      "highlights": [
+        "Yksi auktoriteettisivu hoitoa kohden",
+        "Toimitustoimittaja tarinankerronta",
+        "Mobiili-ensin concierge-konsultointivirta",
+        "Sijaintikohtainen malli AU:ssa"
+      ],
+      "location": "Australia · Esteettinen",
+      "duration": "13 viikkoa",
+      "metrics": [
+        {
+          "label": "Konsultointipyynnöt / kk"
+        },
+        {
+          "label": "\"Skin needling AU\" -luokitus"
+        },
+        {
+          "label": "Mobiilivaraus CVR"
+        },
+        {
+          "label": "Keskim. konsulttiarvo"
+        }
+      ],
+      "quote": {
+        "text": "Jokaisella hoidolla on vihdoin oma vaiheensa. Potilaat valitsevat meidät, koska sivusto on jo vastannut heidän kysymyksiinsä.",
+        "author": "Perustaja",
+        "role": "Skin Lab"
+      }
+    }
+  },
+  "categoryLabels": {
+    "aesthetic": "Boutiquen estetiikka",
+    "medical": "Lääketieteellinen ihotauti",
+    "multiLocation": "Monipaikkainen ryhmä",
+    "teledermatology": "Teledermatologia",
+    "international": "MENA · kaksikielinen",
+    "enterprise": "Yritys · maailmanlaajuinen brändi"
+  },
+  "filters": {
+    "all": "Kaikki tapaustutkimukset",
+    "aesthetic": "Esteettinen",
+    "medical": "Lääketieteellinen",
+    "multiLocation": "Monitoimipaikka",
+    "teledermatology": "Teledermatologia",
+    "international": "MENA & kansainvälinen",
+    "enterprise": "Yritys"
+  },
+  "labels": {
+    "challenge": "Haaste",
+    "solution": "Mitä lähetimme"
+  },
+  "actions": {
+    "visitSite": "Vieraile sivustolla",
+    "getResults": "Saavuta tällaisia tuloksia",
+    "viewLive": "Näytä live-sivusto"
+  },
+  "section": {
+    "eyebrow": "Todelliset käytännöt · Reaaliluvut",
+    "headingPre": "Jokainen tapaustutkimus on a",
+    "headingHighlight": "elävä ihotautikäytäntö",
+    "subheading": "Varauksia, hakukoneoptimointia, sivun nopeutta ja tuloja koskevat luvut ennen/jälkeen – otettu todellisesta analytiikasta, ei kansioista.",
+    "filter": "Suodata",
+    "empty": "Tässä kategoriassa ei ole vielä tapaustutkimuksia."
+  }
+}

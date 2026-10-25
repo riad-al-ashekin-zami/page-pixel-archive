@@ -1,0 +1,844 @@
+{
+  "meta": {
+    "title": "Fallstudien — Wachstumsergebnisse für Dermatologie-Websites",
+    "description": "Detaillierte Fallstudien für Hautarzt-Websites mit echten Zahlen — Buchungen, SEO-Rankings, Page Speed und Umsatzsteigerungen für ästhetische, medizinische und standortübergreifende Praxen.",
+    "keywords": "Fallstudien Dermatologie, Ergebnisse Dermatologie-Website, SEO Fallstudie Hautarzt, ROI Website Arztpraxis",
+    "og": {
+      "title": "Fallstudien — Wachstumsergebnisse für Dermatologie-Websites",
+      "description": "Detaillierte Fallstudien für Hautarzt-Websites mit echten Zahlen — Buchungen, SEO-Rankings, Page Speed und Umsatzsteigerungen für ästhetische, medizinische und standortübergreifende Praxen."
+    },
+    "twitter": {
+      "title": "Fallstudien — Wachstumsergebnisse für Dermatologie-Websites",
+      "description": "Detaillierte Fallstudien für Hautarzt-Websites mit echten Zahlen — Buchungen, SEO-Rankings, Page Speed und Umsatzsteigerungen für ästhetische, medizinische und standortübergreifende Praxen."
+    },
+    "breadcrumb": {
+      "home": "Home",
+      "caseStudies": "Fallstudien"
+    }
+  },
+  "accessibility": {
+    "skipToContent": "Direkt zum Inhalt"
+  },
+  "hero": {
+    "badge": "Fallstudien · Echte dermatologische Praxen",
+    "title": "Beweise statt Versprechen.",
+    "description": "Jede der unten aufgeführten Fallstudien zeigt eine echte Hautarztpraxis — mit exakten Kennzahlen zu Buchungen, SEO, Geschwindigkeit und Umsatz vor und nach unserer Zusammenarbeit. Kein Marketing-Sprech, nur Fakten.",
+    "actions": {
+      "contact": "Erzielen Sie diese Ergebnisse",
+      "audit": "Kostenloses Website-Audit"
+    },
+    "metrics": [
+      {
+        "label": "Beratungsanfragen",
+        "value": "+214%"
+      },
+      {
+        "label": "Buchungs-Konversionsrate",
+        "value": "+3.8×"
+      },
+      {
+        "label": "Median LCP",
+        "value": "0.9s"
+      },
+      {
+        "label": "Local Map Ranking",
+        "value": "#1–3"
+      }
+    ]
+  },
+  "cta": {
+    "badge": "Ihre nächste Erfolgsgeschichte",
+    "title": "Sind Sie bereit für Ihr Praxis-Wachstum?",
+    "description": "Schicken Sie uns Ihre Website. Wir erstellen innerhalb von 24 Stunden ein Audit mit Fokus auf SEO, Geschwindigkeit, HIPAA-Konformität und Conversion-Lücken — inklusive einer Prognose, wie viel ein Redesign an neuen Patienten wert ist.",
+    "features": [
+      "24-Stunden-Audit, kein Telefontermin nötig",
+      "Prognose für Buchungen + Umsatz",
+      "Festpreis-Angebot",
+      "Volles Eigentumsrecht für Sie"
+    ],
+    "actions": {
+      "start": "Projekt starten",
+      "audit": "Kostenloses Audit"
+    },
+    "disclaimer": "Keine Kreditkarte · Kein Verkaufsgespräch"
+  },
+  "navigation": {
+    "footerPrompt": "Möchten Sie mehr erfahren? Sehen Sie sich das an:",
+    "portfolioLink": "unser Portfolio technischer Live-Seiten",
+    "processLink": "unser schrittweiser Projektablauf",
+    "or": "oder",
+    "pricingLink": "aktuelle Paketoptionen"
+  },
+  "studies": {
+    "central-austin-dermatology": {
+      "tagline": "Die Boutique-Praxis in Austin wurde als Anlaufstelle für medizinische und kosmetische Dermatologie in der Innenstadt neu positioniert.",
+      "challenge": "Eine wunderschöne Klinik, die sich hinter einer langsamen, generischen Vorlage verbirgt – keine Unterscheidung zu mehr als 30 Dermatologen in Austin und schwache lokale Rankings für die größten Kosmetik-Keywords.",
+      "solution": "Redaktionelles Markensystem, anbietergeführtes Storytelling, spezielle Seiten für Aesthetic/Füller/Laser und ein Concierge-Beratungsablauf, der auf den wettbewerbsintensiven Innenstadtmarkt von Austin abgestimmt ist.",
+      "highlights": [
+        "Redaktionelle Fotografie + benutzerdefiniertes Typsystem",
+        "Serviceseiten zu jeder Kosmetikbehandlung",
+        "Buchungsablauf für neue Patienten in derselben Woche",
+        "LocalBusiness-Schema für die Innenstadt von Austin optimiert"
+      ],
+      "location": "Austin, TX",
+      "duration": "9 Wochen",
+      "metrics": [
+        {
+          "label": "Beratungsanfragen / Mo"
+        },
+        {
+          "label": "Lokaler Rang „Aesthetic Austin“."
+        },
+        {
+          "label": "Mobiles LCP"
+        },
+        {
+          "label": "Buchungsumstellung"
+        }
+      ],
+      "quote": {
+        "text": "Die Website entspricht endlich den Erfahrungen, die Patienten in der Klinik machen. Die Innenstadt von Austin weiß jetzt, wohin sie gehen muss.",
+        "author": "Gründungsdermatologe",
+        "role": "Zentrale Austin-Dermatologie"
+      }
+    },
+    "clear-dermatology": {
+      "tagline": "Medical-First-Praxis in Scottsdale: Neuaufbau mit klinischer Autorität und Zugang für neue Patienten in derselben Woche.",
+      "challenge": "Starke Ärzte, schwache digitale Geschichte – Krankheitsseiten lesen sich wie ein Lehrbuch, kein klarer Weg zur Buchung und bezahlte Anzeigen tragen den Großteil der Neupatientenlast.",
+      "solution": "Von Ärzten erstellte Krankheits-Hubs, transparente Versicherungsinformationen, Buchung mit nur einem Fingertipp und ein Inhaltssystem, das das medizinische Team ohne Webmaster aktualisieren kann.",
+      "highlights": [
+        "Über 20 von Ärzten verfasste Krankheitsseiten",
+        "Transparente Versicherung + Neupatientenformulare",
+        "Widget zur Terminverfügbarkeit in der gleichen Woche",
+        "Redaktionsfreundliches CMS für das medizinische Team"
+      ],
+      "location": "Scottsdale, AZ",
+      "duration": "12 Wochen",
+      "metrics": [
+        {
+          "label": "Organische Sitzungen / Mo"
+        },
+        {
+          "label": "Neue Patientenformulare / Mo"
+        },
+        {
+          "label": "CAC bezahlt"
+        },
+        {
+          "label": "Seitengeschwindigkeit (mobil)"
+        }
+      ],
+      "quote": {
+        "text": "Wir haben aufgehört, Patienten über Google Ads anzuwerben. Mittlerweile führen organische und direkte Buchungen zu mehr Neubuchungen als je zuvor.",
+        "author": "Praxisadministrator",
+        "role": "Klare Dermatologie"
+      }
+    },
+    "olansky-dermatology": {
+      "tagline": "Mehrgenerationen-Kosmetikpraxis in Atlanta: Traditionsmarke modernisiert, ohne 30 Jahre Vertrauen zu verlieren.",
+      "challenge": "Eine seit 30 Jahren bewährte Marke verbirgt sich hinter einer veralteten Website – kosmetische Dienstleistungen sind unterrepräsentiert und jüngere Patienten finden die Praxis nicht auf Mobilgeräten.",
+      "solution": "Modernisiertes visuelles System, das das Erbe würdigt, umfassende Architektur für kosmetische Dienstleistungen, Vorher/Nachher-Galerie mit Einwilligungsworkflow und einen Mobile-First-Buchungspfad.",
+      "highlights": [
+        "Aktualisierte Identität zu Ehren des 30-jährigen Vermächtnisses",
+        "Einverständnisgesteuerte Vorher/Nachher-Galerie",
+        "Serviceorientierte Mega-Navigation",
+        "Mobile-First-Beratungsbuchung"
+      ],
+      "location": "Atlanta, GA",
+      "duration": "14 Wochen",
+      "metrics": [
+        {
+          "label": "Beratungsanfragen / Mo"
+        },
+        {
+          "label": "Anteil mobiler Buchungen"
+        },
+        {
+          "label": "Organische Sitzungen"
+        },
+        {
+          "label": "Durchschn. Wert konsultieren"
+        }
+      ],
+      "quote": {
+        "text": "Unsere treuen Patienten kennen uns immer noch und eine ganz neue Generation findet uns zum ersten Mal.",
+        "author": "Geschäftsführender Gesellschafter",
+        "role": "Olansky Dermatologie"
+      }
+    },
+    "dermatology-san-antonio": {
+      "tagline": "San Antonio-Gruppe mit mehreren Standorten: Konsolidierte Marke und freigeschaltete lokale Suche in jeder Klinik.",
+      "challenge": "Mehrere Kliniken konkurrieren bei der Suche miteinander, inkonsistentes Branding über die Standorte hinweg und keine einzige Quelle der Wahrheit für Dienste oder Anbieter.",
+      "solution": "Einheitliches Markensystem mit Autoritätsseiten pro Klinik, LocalBusiness- und Arztschema pro Standort und einem zentralisierten Redaktionsworkflow.",
+      "highlights": [
+        "Autoritätsseiten pro Standort mit eindeutiger Kopie",
+        "Schema für jede Klinik und jeden Arzt",
+        "Gemeinsam genutzte Komponentenbibliothek, lokale Überschreibungen",
+        "Zentrale Buchung mit Standortrouting"
+      ],
+      "location": "San Antonio, TX",
+      "duration": "16 Wochen",
+      "metrics": [
+        {
+          "label": "Kliniken im Kartenpaket Nr. 1–3"
+        },
+        {
+          "label": "Neue Patientenformulare / Mo"
+        },
+        {
+          "label": "Kombinierter organischer Traffic"
+        },
+        {
+          "label": "Mobiles LCP"
+        }
+      ],
+      "quote": {
+        "text": "Jede Klinik stuft schließlich nach ihren eigenen Maßstäben ein, und unser Marketingteam versendet statt zu kämpfen.",
+        "author": "Marketingdirektor",
+        "role": "Dermatologische Mitarbeiter von San Antonio"
+      }
+    },
+    "direct-dermatology": {
+      "tagline": "Store-and-Forward-Teledermatologie: Reduzieren Sie Reibungsverluste bei der Anmeldung und verdoppeln Sie abgeschlossene virtuelle Besuche.",
+      "challenge": "Verwirrende Aufnahme, unklare Versicherungsmitteilungen und 46 % mobile Abgabe, bevor Patienten überhaupt ein Foto hochgeladen haben.",
+      "solution": "Zustands- und Statusauswahl auf einem Bildschirm, transparente Preise, progressiver Foto-Upload für langsame Netzwerke und eine Neufassung der Nachrichten, bei denen die Versicherung an erster Stelle steht.",
+      "highlights": [
+        "Ein-Bildschirm-Aufnahme ersetzt 5-Schritte-Assistent",
+        "Progressiver Foto-Upload für langsame Mobilgeräte",
+        "„Versicherungsorientierte“ Nachrichten oberhalb der Falte",
+        "HIPAA-geprüfter End-to-End-Ablauf"
+      ],
+      "location": "USA · Teledermatologie",
+      "duration": "10 Wochen",
+      "metrics": [
+        {
+          "label": "Abschluss der Anmeldung"
+        },
+        {
+          "label": "Mobile Abgabe"
+        },
+        {
+          "label": "Begonnene Besuche / Tag"
+        },
+        {
+          "label": "CAC (bezahlt)"
+        }
+      ],
+      "quote": {
+        "text": "Das Entfernen der Reibung war keine kosmetische Angelegenheit – jeder Schritt, den wir einsparten, wurde zu einem abgeschlossenen Besuch und einem echten Patienten.",
+        "author": "VP Produkt",
+        "role": "Direkte Dermatologie"
+      }
+    },
+    "colorado-dermatology": {
+      "tagline": "Praxis an mehreren Standorten in Colorado: einheitliche digitale Eingangstür im gesamten Front Range.",
+      "challenge": "Separate Microsites pro Standort, doppelte Serviceinhalte und keine einheitliche Marke – Patienten wechseln zwischen Websites und Google sind sich nicht sicher, welche Seite sie bewerten sollen.",
+      "solution": "Eine einheitliche Plattform, klinikspezifische Autoritätsseiten mit eindeutiger lokaler Kopie und 301-Migration, die jedes Ranking während der Konsolidierung beibehält.",
+      "highlights": [
+        "Verlustfreie 301-Migration von 4 Legacy-Sites",
+        "LocalBusiness-Schema pro Standort",
+        "Anbieterverzeichnis mit Facettensuche",
+        "Zentralisierte redaktionelle Steuerung"
+      ],
+      "location": "Colorado · Mehrere Standorte",
+      "duration": "18 Wochen",
+      "metrics": [
+        {
+          "label": "Organischer Traffic (Netzwerk)"
+        },
+        {
+          "label": "Standorte im Ranking unter den Top 3"
+        },
+        {
+          "label": "Neue Patientenbuchungen / Mo"
+        },
+        {
+          "label": "Seitengeschwindigkeit (mobil)"
+        }
+      ],
+      "quote": {
+        "text": "Endlich sprechen wir im gesamten Front Range mit einer Stimme – und die Zahlen zeigen, dass die Patienten es bemerken.",
+        "author": "Chief Operating Officer",
+        "role": "Colorado-Dermatologie"
+      }
+    },
+    "skymd-teledermatology": {
+      "tagline": "50-Staaten-Teledermatologie-Plattform: von der verwirrenden Anmeldung bis zum virtuellen Besuch in weniger als 2 Minuten.",
+      "challenge": "Anmeldung in 6 Schritten, unklare staatliche Deckung, Unklarheiten bei der Versicherung und 42 % mobile Abgabe, bevor die Patienten überhaupt zur Kasse kamen.",
+      "solution": "Status- und Zustandsauswahl auf einem Bildschirm, transparente Versicherung und Preisgestaltung, Mobile-First-Flow und progressiver Foto-Upload, der auch bei langsamen ländlichen Verbindungen funktioniert.",
+      "highlights": [
+        "Status- und Bedingungsauswahl auf einem Bildschirm",
+        "Transparente Versicherung + Selbstzahlerpreis",
+        "Progressiver Foto-Upload für langsame Netzwerke",
+        "HIPAA-geprüfter Ablauf mit SOC 2-Hosting"
+      ],
+      "location": "50-Staaten-Teledermatologie",
+      "duration": "10 Wochen",
+      "metrics": [
+        {
+          "label": "Abschluss der Anmeldung"
+        },
+        {
+          "label": "Abgabe an der mobilen Kasse"
+        },
+        {
+          "label": "Begonnene Besuche / Tag"
+        },
+        {
+          "label": "CAC (bezahlt)"
+        }
+      ],
+      "quote": {
+        "text": "Jeder verlassene Schritt, den wir entfernten, wurde als gebuchter Besuch angezeigt. Das war kein Design – es war Revenue Engineering.",
+        "author": "Vizepräsident Wachstum",
+        "role": "SkyMD"
+      }
+    },
+    "cura-clinics": {
+      "tagline": "Vollständig zweisprachige (Arabisch zuerst RTL + Englisch) Dermatologiemarke für den saudischen Luxusmarkt.",
+      "challenge": "Die bestehende Website war nur auf Englisch mit einer nachträglichen Umschaltung auf Arabisch verfügbar, funktionierte bei RTL nicht und hatte keine WhatsApp/STC Pay-Buchung – die Tools, die saudische Patienten tatsächlich nutzen.",
+      "solution": "Arabisches RTL-Designsystem, natives zweisprachiges CMS, WhatsApp Business-Buchung, STC Pay + Mada Checkout und Riad-spezifisches lokales SEO mit arabischem Schema.",
+      "highlights": [
+        "Echtes RTL-Designsystem (kein Spiegelumdrehen)",
+        "WhatsApp Business + STC Pay-Buchungsablauf",
+        "Arabisches + englisches Schema für Google KSA",
+        "Ramadan-bewusste Terminslots"
+      ],
+      "location": "Riad, Saudi-Arabien",
+      "duration": "12 Wochen",
+      "metrics": [
+        {
+          "label": "Arabische Bio-Sitzungen"
+        },
+        {
+          "label": "WhatsApp-Buchungen / Mo"
+        },
+        {
+          "label": "Mobiles LCP (3G)"
+        },
+        {
+          "label": "Neue Patienten / Mo"
+        }
+      ],
+      "quote": {
+        "text": "Die arabische Erfahrung fühlt sich endlich heimisch an – nicht übersetzt. Patienten sagen uns, dass die Website hochwertiger aussieht als die Klinik.",
+        "author": "Klinikdirektor",
+        "role": "Cura-Kliniken"
+      }
+    },
+    "galderma": {
+      "tagline": "Globale Dermatologiemarke: Unternehmensdesignsystem, das Produkt-, HCP- und Patientenreisen in über 90 Märkten vereint.",
+      "challenge": "Dutzende regionale Websites auf unterschiedlichen Ebenen, inkonsistenter Markenausdruck bei Ärzten und Patienten sowie Compliance-Workflows, die jede Markteinführung verlangsamten.",
+      "solution": "Unternehmensdesignsystem mit festgelegten Compliance-Mustern, gemeinsamen Komponenten für HCP und Patientenreisen sowie redaktionelle Überschreibungen pro Markt mit zentraler Governance.",
+      "highlights": [
+        "Designsystem, das in über 90 Märkten eingesetzt wird",
+        "Getrennte HCP- und Patientenreisen, gemeinsame Hülle",
+        "Kompatibilitätsgesperrte Komponentenvarianten",
+        "Zentrale redaktionelle Steuerung mit lokalen Überschreibungen"
+      ],
+      "location": "Global · Unternehmensdermatologie",
+      "duration": "26 Wochen",
+      "metrics": [
+        {
+          "label": "Zeit, eine Marktseite zu starten"
+        },
+        {
+          "label": "Globaler organischer Verkehr"
+        },
+        {
+          "label": "Fertigstellung des HCP-Portals"
+        },
+        {
+          "label": "Design-Ticketvolumen"
+        }
+      ],
+      "quote": {
+        "text": "Ein System, neunzig Märkte, kein Markendrift – und Markteinführungen, die früher ein Vierteljahr dauerten, werden jetzt in wenigen Wochen ausgeliefert.",
+        "author": "Globaler digitaler Leiter",
+        "role": "Galderma"
+      }
+    },
+    "badr-health": {
+      "tagline": "Saudische Multi-Fachgebietsgruppe: zweisprachiges Patientenportal und einheitliche Buchung für alle Fachgebiete.",
+      "challenge": "Die alte Website war zuerst auf Englisch ausgerichtet und hatte nur schwache Unterstützung für Arabisch, Fachseiten liesten sich wie ein Verzeichnis und für die Buchung war ein Anruf an der Rezeption erforderlich.",
+      "solution": "Die erste RTL-Plattform auf Arabisch, Autoritätszentren pro Fachgebiet, WhatsApp + Online-Buchung mit Klinikrouting sowie Versicherungs- und Mada-Zahlungsabläufe.",
+      "highlights": [
+        "Arabisch-erste RTL-Plattform (nicht übersetzt)",
+        "Autoritäts-Hubs pro Fachgebiet mit Schema",
+        "WhatsApp Business + Online-Buchung",
+        "Versicherung + Mada-Zahlungsintegration"
+      ],
+      "location": "Saudi-Arabien · Multi-Spezialität",
+      "duration": "14 Wochen",
+      "metrics": [
+        {
+          "label": "Arabische Bio-Sitzungen"
+        },
+        {
+          "label": "Online-Buchungen / Mo"
+        },
+        {
+          "label": "Mobiles LCP"
+        },
+        {
+          "label": "Call-Center-Inbound"
+        }
+      ],
+      "quote": {
+        "text": "Patienten buchen sich auf Arabisch über ihre Telefone ein – unser Callcenter kümmert sich jetzt um komplexe Fälle, nicht um Terminplanung.",
+        "author": "Leiter Digital",
+        "role": "Badr Gesundheit"
+      }
+    },
+    "zmmco-medical": {
+      "tagline": "MENA-Medizindistributor: B2B-Katalog und Lead-Engine für Käufer von Dermatologie und ästhetischen Geräten neu aufgebaut.",
+      "challenge": "Statische Broschürenseite ohne Produktkatalog, ohne Lead-Erfassung und Ärzte, die keine Gerätespezifikationen finden können – das Vertriebsteam beantwortet jede Frage per E-Mail.",
+      "solution": "Vollständiger Produktkatalog mit Facettensuche, Autoritätsseiten pro Gerät mit klinischen Spezifikationen, zweisprachigen EN/AR-Inhalten und einem Formular für qualifizierte Leads, das mit dem Vertriebs-CRM verbunden ist.",
+      "highlights": [
+        "Facettenreicher Produktkatalog mit klinischen Spezifikationen",
+        "Zweisprachige EN/AR-Berechtigungsseiten pro Gerät",
+        "Qualifizierte Lead-Erfassung im Vertriebs-CRM",
+        "Vertriebs- und Klinikportal mit Preisstufen"
+      ],
+      "location": "MENA · Medizinischer Vertrieb",
+      "duration": "16 Wochen",
+      "metrics": [
+        {
+          "label": "Qualifizierte Leads / Monat"
+        },
+        {
+          "label": "Organische Sitzungen"
+        },
+        {
+          "label": "Länge des Verkaufszyklus"
+        },
+        {
+          "label": "Support-E-Mails / Mo"
+        }
+      ],
+      "quote": {
+        "text": "Ärzte erhalten nun selbst Gerätespezifikationen und kommen kaufbereit zu uns. Unsere Mitarbeiter schließen statt zu erklären.",
+        "author": "Kaufmännischer Leiter",
+        "role": "ZMMCO Medical"
+      }
+    },
+    "naturium": {
+      "tagline": "Von Dermatologen geliebte DTC-Hautpflegemarke: Headless-Commerce-Aufbau mit achtstelligem Umsatz.",
+      "challenge": "Legacy-Shopify-Theme, 3,2 s LCP auf PDP, schwache Aufklärung über Inhaltsstoffe und CVR, der trotz der Verdoppelung der bezahlten Ausgaben ein Plateau erreichte.",
+      "solution": "Headless Commerce auf einem benutzerdefinierten Designsystem, PDPs in Sekundenschnelle, von Dermatologen verfasste Schulung zu Inhaltsstoffen, Quiz-gesteuerter Routine-Builder und A/B-getesteter Checkout.",
+      "highlights": [
+        "Headless Shopify + individuelles Designsystem",
+        "Von Dermatologen verfasste Inhaltsstoff-Enzyklopädie",
+        "Routine-Builder-Quiz (37 % Abschluss)",
+        "PDPs in Sekundenschnelle für alle Produkte"
+      ],
+      "location": "USA · DTC-Hautpflege",
+      "duration": "20 Wochen",
+      "metrics": [
+        {
+          "label": "PDP LCP"
+        },
+        {
+          "label": "Standortweiter CVR"
+        },
+        {
+          "label": "AOV"
+        },
+        {
+          "label": "Retourenkundentarif"
+        }
+      ],
+      "quote": {
+        "text": "Die Website wurde zu unserem besten Vermarkter. Jeder bezahlte Dollar bringt jetzt mehr zurück und der organische Umsatz hat sich verdreifacht.",
+        "author": "Leiter E-Commerce",
+        "role": "Naturium"
+      }
+    },
+    "skin-and-me": {
+      "tagline": "UK-Dienst für verschreibungspflichtige Hautpflege: Quizgesteuerter Akquise-Trichter, der aus einer Abo-Box eine klinische Marke machte.",
+      "challenge": "Verbrauchermarkenästhetik, die die klinische Strenge, den Quiz-Abbruch beim Foto-Upload und unklare Nachrichten über wiederholte Rezepte verbarg, die den LTV senkten.",
+      "solution": "Von Dermatologen verfasster Prüfstreifen, progressives Quiz mit sofortigen Fototipps, transparente Formel-Enthüllung und eine Abonnementverwaltungs-UX, die die Abwanderung reduziert.",
+      "highlights": [
+        "Progressives Quiz mit Live-Fotoanleitung",
+        "Dermatologesicherer Streifen auf jedem Schritt",
+        "Transparente Wirkstofffreigabe",
+        "Selbstbedienungs-Abonnementpause/-tausch"
+      ],
+      "location": "Vereinigtes Königreich · Teledermatologie",
+      "duration": "12 Wochen",
+      "metrics": [
+        {
+          "label": "Abschluss des Quiz"
+        },
+        {
+          "label": "Abgabe von Fotos zum Hochladen"
+        },
+        {
+          "label": "Testversion → kostenpflichtiger CVR"
+        },
+        {
+          "label": "6-Monats-Abonnenten-LTV"
+        }
+      ],
+      "quote": {
+        "text": "Der Trichter spiegelt schließlich die Medizin hinter dem Produkt wider. Die Testkonvertierung verdoppelte sich, ohne dass die bezahlten Ausgaben darunter litten.",
+        "author": "Leiter Wachstum",
+        "role": "Haut + Ich"
+      }
+    },
+    "sydney-dermatology": {
+      "tagline": "CBD-Arztpraxis in Sydney: Neuaufbau rund um die Hautkrebsbehörde und Zugang für neue Patienten in derselben Woche.",
+      "challenge": "Wunderschöne Klinik, versteckt hinter einer langsamen Vorlage, kein Ranking für gezielte Hautkrebs-Keywords und Empfehlungen, die bei einem Papier-Fax-Workflow zu Engpässen führen.",
+      "solution": "Zentrale Stelle für Hautkrebsbehörden, Buchungs-Widget für Muttermalschecks, Überweisungsportal für Allgemeinmediziner mit E-Fax und lokales Sydney-Schema für östliche und innerwestliche Vororte.",
+      "highlights": [
+        "Zentrum für Hautkrebs-Behörden mit Schema",
+        "Widget zur Buchung von Maulwurfschecks für die gleiche Woche",
+        "Hausarzt-Überweisungsportal mit E-Fax",
+        "Lokales SEO auf Vorortebene in ganz Sydney"
+      ],
+      "location": "Sydney, Australien",
+      "duration": "11 Wochen",
+      "metrics": [
+        {
+          "label": "Rang „Hautcheck Sydney“."
+        },
+        {
+          "label": "Neue Patientenbuchungen / Mo"
+        },
+        {
+          "label": "Hausarzt-Überweisungen/Monat"
+        },
+        {
+          "label": "Mobiles LCP"
+        }
+      ],
+      "quote": {
+        "text": "Hautchecks buchen Sie jetzt selbst. Unsere Hausärzte lieben das Überweisungsportal und die Patienten kommen bereits aufgeklärt an.",
+        "author": "Praxisleiter",
+        "role": "Sydney Dermatologie"
+      }
+    },
+    "dr-haus-dermatology": {
+      "tagline": "Kosmetikklinik Harley Street: Redaktionelles Rebranding, das die Praxis in die oberste ästhetische Kategorie Londons brachte.",
+      "challenge": "Die Boutique-Marke Harley Street konkurriert mit Londoner Ketten, keine Differenzierung bei Injektionsmitteln und Beratungsanfragen, die auf Mobilgeräten eingehen.",
+      "solution": "Redaktionelles visuelles System, vom Anbieter geleitetes Storytelling, Behandlungs-pro-Seiten-Architektur für Injektionspräparate und Laser sowie ein auf Mobilgeräte abgestimmter Concierge-Beratungsablauf.",
+      "highlights": [
+        "Redaktionelle Identität + individuelle Typografie",
+        "Eine Seite pro Injektionsgerät und Laser",
+        "Der Concierge berät Sie bei der Buchung auf dem Handy",
+        "Lokales Harley Street-Schema"
+      ],
+      "location": "London, Großbritannien",
+      "duration": "10 Wochen",
+      "metrics": [
+        {
+          "label": "Beratungsanfragen / Mo"
+        },
+        {
+          "label": "Lokaler Rang „Aesthetic London“."
+        },
+        {
+          "label": "Durchschn. Wert konsultieren"
+        },
+        {
+          "label": "CVR für mobile Buchung"
+        }
+      ],
+      "quote": {
+        "text": "Die Seite spricht jetzt die Sprache der Patienten, die wir tatsächlich wollen. Jede Beratung kommt vorqualifiziert an.",
+        "author": "Gründer",
+        "role": "Dr. Haus Dermatologie"
+      }
+    },
+    "skincare-by-dr-v": {
+      "tagline": "Globale Autorität für Hautfarbe: DTC-Storefront + Redaktionszentrum, das eine weltweite Spezialpraxis aufgebaut hat.",
+      "challenge": "Weltklasse-Expertise in der Haut-of-Color-Dermatologie, gefangen in einem langsamen Ladengeschäft, schwacher Aufklärung über Inhaltsstoffe und Reibungsverlusten beim internationalen Versand, die Nachbestellungen verhindern.",
+      "solution": "Headless-Storefront mit einem maßgeschneiderten Designsystem, redaktionellen Zustands-Hubs nach Hauttyp, Inhaltsstoff-Enzyklopädie und internationaler Versand mit lokaler Währung.",
+      "highlights": [
+        "Redaktionszentren für Pigmentierung und Akne",
+        "Zutaten-Enzyklopädie nach Bedenken",
+        "Internationale Kasse in mehreren Währungen",
+        "PDPs in Sekundenschnelle für alle Produkte"
+      ],
+      "location": "London · Global (Haut der Farbe)",
+      "duration": "16 Wochen",
+      "metrics": [
+        {
+          "label": "Organische Sitzungen / Mo"
+        },
+        {
+          "label": "Internationaler Auftragsanteil"
+        },
+        {
+          "label": "PDP LCP"
+        },
+        {
+          "label": "Retourenkundentarif"
+        }
+      ],
+      "quote": {
+        "text": "Patienten auf drei Kontinenten finden uns jetzt genau wegen dem, was wir am besten können – und kaufen ohne Reibungsmauer.",
+        "author": "Gründer und medizinischer Direktor",
+        "role": "Hautpflege von Dr. V"
+      }
+    },
+    "the-derma-co": {
+      "tagline": "Von Dermatologen formulierte indische DTC-Marke: Quiz + PDP-Neuaufbau, der die Führung in der Kategorie freischaltete.",
+      "challenge": "Eine boomende Marke stößt an eine CVR-Obergrenze: langsame PDPs bei 3G, schwache Glaubwürdigkeit der Inhaltsstoffe und ein Quiz, bei dem 40 % der Benutzer bei der Auswahl der Bedenken verloren gingen.",
+      "solution": "Sekundenschnelle PDP-Hülle, von Dermatologen verfasste Problemzentren, neu gestaltetes Quiz für indische Ein-Daumen-Mobiltelefone und Reibungsbeseitigung bei Nachnahme.",
+      "highlights": [
+        "Unter-Sekunden-PDPs getestet auf 3G",
+        "Concern-First-Quiz für die Ein-Daumen-Bedienung",
+        "Von Dermatologen verfasste Inhaltsstoffseiten",
+        "Reibungslose Nachnahme- und UPI-Kaufabwicklung"
+      ],
+      "location": "Indien · DTC-Hautpflege",
+      "duration": "18 Wochen",
+      "metrics": [
+        {
+          "label": "PDP LCP (3G)"
+        },
+        {
+          "label": "Abschluss des Quiz"
+        },
+        {
+          "label": "Standortweiter CVR"
+        },
+        {
+          "label": "Wiederholungskaufpreis"
+        }
+      ],
+      "quote": {
+        "text": "Die Website hält mit unserem Wachstum Schritt, anstatt es zu begrenzen. Jeder Leistungspunkt wird zum Umsatz zusammengefasst.",
+        "author": "Vizepräsident Digital",
+        "role": "Die Derma Co"
+      }
+    },
+    "belfast-skin-clinic": {
+      "tagline": "Nordirlands führende private Dermatologieklinik: Behördenzentrum, dem die Belfast-Suche gehört.",
+      "challenge": "Die regionale Behörde ist hinter einer veralteten Website verborgen, die Preise für Versicherungen und Selbstzahler sind verborgen, und die Nachfrage nach Maulwurfschecks wird durch reine telefonische Buchung weitergeleitet.",
+      "solution": "Von Beratern verfasste Konditionszentren, transparente Selbstzahler- und BUPA-Preise, Online-Buchung von Maulwurfschecks und lokales Schema für Nordirland.",
+      "highlights": [
+        "Von Beratern verfasste Bedingungszentren",
+        "Transparente BUPA- und Selbstzahlerpreise",
+        "Online-Buchung von Maulwurfschecks",
+        "Belfast + NI-weites lokales Schema"
+      ],
+      "location": "Belfast, Nordirland",
+      "duration": "9 Wochen",
+      "metrics": [
+        {
+          "label": "Rang „Dermatologe Belfast“."
+        },
+        {
+          "label": "Online-Buchungen / Mo"
+        },
+        {
+          "label": "Organische Sitzungen"
+        },
+        {
+          "label": "Laden nur per Telefon"
+        }
+      ],
+      "quote": {
+        "text": "Früher war die Rezeption das Buchungssystem. Jetzt macht es die Website – und die Patienten kommen bereits vorbereitet an.",
+        "author": "Klinikdirektor",
+        "role": "Belfast Hautklinik"
+      }
+    },
+    "cpso-ontario": {
+      "tagline": "Medizinische Regulierungsbehörde der Provinz: 40.000-Ärzte-Verzeichnis + öffentlich zugängliche Website, die im Hinblick auf Zugänglichkeit und Umfang neu gestaltet wurde.",
+      "challenge": "Die veraltete Plattform knickt unter einem öffentlichen Arztsuchverzeichnis ein, WCAG-Ausfälle auf der gesamten Website und jedes interne Team schickt einem Webmaster ein Ticket für Änderungen.",
+      "solution": "Enterprise-Designsystem mit AA-geprüften Komponenten, facettenreicher Arztsuche, die auf 40.000 Datensätze skaliert werden kann, zweisprachigem Redaktionsworkflow Französisch/Englisch und Selbstbedienungsveröffentlichung für interne Teams.",
+      "highlights": [
+        "WCAG 2.1 AA geprüfte Komponentenbibliothek",
+        "Facettenreiches Verzeichnis mit 40.000 Ärzten",
+        "Zweisprachiger Redaktionsworkflow für EN/FR",
+        "Abteilungsübergreifendes Self-Service-Publishing"
+      ],
+      "location": "Ontario, Kanada · Regulierungsbehörde",
+      "duration": "22 Wochen",
+      "metrics": [
+        {
+          "label": "Latenz bei der Verzeichnissuche"
+        },
+        {
+          "label": "WCAG-Probleme offen"
+        },
+        {
+          "label": "Veröffentlichung von Tickets / Mo"
+        },
+        {
+          "label": "Mobiles LCP"
+        }
+      ],
+      "quote": {
+        "text": "Einwohner von Ontario erhalten Antworten in weniger als einer Sekunde, und unsere Teams veröffentlichen, ohne auf die IT warten zu müssen. Das ist der Regulator, den wir online haben wollten.",
+        "author": "Leiter Digital",
+        "role": "CPSO"
+      }
+    },
+    "sunpark-dermatology": {
+      "tagline": "Praxis für medizinische und chirurgische Dermatologie in Calgary: Wiederaufbau der Behörde, die die Suche im Süden von Alberta übernimmt.",
+      "challenge": "Starke Ärzte, online unsichtbar – kein Ranking für chirurgische Begriffe mit hoher Absicht, Überweisungsformulare in PDFs und mobile Geschwindigkeit, die die Reichweite neuer Patienten beeinträchtigt.",
+      "solution": "Von Ärzten verfasste chirurgische und medizinische Hubs, Online-Überweisungsformular für Allgemeinmediziner, Alberta-weites lokales Schema und mobile Shell in Sekundenschnelle.",
+      "highlights": [
+        "Von Ärzten verfasste chirurgische Hubs",
+        "Online-Überweisung zum Hausarzt (keine PDFs mehr)",
+        "Alberta-weites lokales Schema",
+        "Mobile Hülle in Sekundenschnelle"
+      ],
+      "location": "Calgary, Kanada",
+      "duration": "10 Wochen",
+      "metrics": [
+        {
+          "label": "Rang „Mohs-Chirurgie Calgary“."
+        },
+        {
+          "label": "Hausarzt-Überweisungen/Monat"
+        },
+        {
+          "label": "Organische Sitzungen"
+        },
+        {
+          "label": "Mobiles LCP"
+        }
+      ],
+      "quote": {
+        "text": "Wir haben aufgehört, chirurgische Überweisungen an größere Gruppen zu verlieren. Die Seite verdient sie jetzt für uns.",
+        "author": "Ärztlicher Direktor",
+        "role": "Sunpark Dermatologie"
+      }
+    },
+    "norvic-hospital": {
+      "tagline": "Nepals führendes Privatkrankenhaus: Neuaufbau eines abteilungsübergreifenden Standorts mit Schwerpunkt auf Patientenzugang und medizinischem Tourismus.",
+      "challenge": "Dutzende Abteilungen auf inkonsistenten Seiten, medizinische Tourismusanfragen gehen in einem Kontaktformular verloren und die mobile Geschwindigkeit ist auf nepalesischem 3G/4G nicht nutzbar.",
+      "solution": "Einheitliche Abteilungsarchitektur, medizinische Tourismusaufnahme mit Länder- und Verfahrensführung, zweisprachiger Inhalt in Englisch/Nepali und eine mobile Shell in Sekundenschnelle, getestet mit 3G.",
+      "highlights": [
+        "Einheitliches Abteilungs- und Arztverzeichnis",
+        "Medizintouristische Aufnahme mit Länderrouting",
+        "Zweisprachiger Redaktionsworkflow für EN/NE",
+        "Sekundenschnelle mobile Shell auf 3G"
+      ],
+      "location": "Kathmandu, Nepal · Multi-Spezialkrankenhaus",
+      "duration": "20 Wochen",
+      "metrics": [
+        {
+          "label": "Medizintourismus-Leiter / Mo"
+        },
+        {
+          "label": "Online-Termine / Mo"
+        },
+        {
+          "label": "Mobiles LCP (3G)"
+        },
+        {
+          "label": "Abteilungen im Ranking unter den Top 3"
+        }
+      ],
+      "quote": {
+        "text": "Patienten aus ganz Südasien finden und buchen uns jetzt in einem Arbeitsgang. Die Seite erledigt die Arbeit eines ganzen Aufnahmeteams.",
+        "author": "CIO",
+        "role": "Norvic International Hospital"
+      }
+    },
+    "st-george-dermatology": {
+      "tagline": "Dermatologische Gruppe im Süden Sydneys: Hautkrebsbehörde + SEO auf Vorortebene in der Region St. George.",
+      "challenge": "Regionale Praxis konkurriert mit CBD-Ketten in Sydney, schwaches Ranking bei Suchen auf Vorortebene und Empfehlungsworkflow immer noch per Fax.",
+      "solution": "Vorort-für-Vorort-Behördenseiten, Zentren für Hautkrebs und Kinderheilkunde, E-Überweisungsportal für Allgemeinmediziner und ein australienweites lokales Schema.",
+      "highlights": [
+        "Behördenseiten auf Vorortebene",
+        "Zentrum für pädiatrische Dermatologie",
+        "E-Überweisungsportal für Hausärzte",
+        "AU-weites lokales Schema, abgestimmt auf St. George"
+      ],
+      "location": "Sydney (St. George), Australien",
+      "duration": "12 Wochen",
+      "metrics": [
+        {
+          "label": "Vororte im Kartenpaket Nr. 1–3"
+        },
+        {
+          "label": "Neue Patientenbuchungen / Mo"
+        },
+        {
+          "label": "Hausarzt-Überweisungen/Monat"
+        },
+        {
+          "label": "Mobiles LCP"
+        }
+      ],
+      "quote": {
+        "text": "Endlich tauchen wir in jedem Vorort auf, den wir bedienen. Patienten greifen nicht mehr versehentlich auf CBD zurück.",
+        "author": "Praxismanager",
+        "role": "St. George Dermatologie"
+      }
+    },
+    "the-skin-lab": {
+      "tagline": "Australische ästhetische Klinik: Redaktionelles Rebranding + Behandlungs-pro-Seiten-Architektur, die über eine Kosmetiksuche verfügt.",
+      "challenge": "Eine schnell wachsende Marke für ästhetische Dienstleistungen stößt an ihre Entdeckungsgrenze – alle Behandlungen auf einer Seite zusammengefasst, keine örtliche Autorität und Beratungsabgabe auf Mobilgeräten.",
+      "solution": "Eine Autoritätsseite pro Behandlung, redaktionelle Anbieterbiografien, Beratungsbuchung für Mobilgeräte und ein Schema auf Standortebene für jede Klinik.",
+      "highlights": [
+        "Eine Autoritätsseite pro Behandlung",
+        "Storytelling für Redaktionsanbieter",
+        "Mobile-First-Concierge-Beratungsablauf",
+        "Standortspezifisches Schema in der gesamten AU"
+      ],
+      "location": "Australien · Ästhetik",
+      "duration": "13 Wochen",
+      "metrics": [
+        {
+          "label": "Beratungsanfragen / Mo"
+        },
+        {
+          "label": "Rang „Hautnadelung AU“."
+        },
+        {
+          "label": "CVR für mobile Buchung"
+        },
+        {
+          "label": "Durchschn. Wert konsultieren"
+        }
+      ],
+      "quote": {
+        "text": "Jede Behandlung hat schließlich ihre eigene Phase. Patienten wählen uns, weil die Website ihre Fragen bereits beantwortet hat.",
+        "author": "Gründer",
+        "role": "Das Hautlabor"
+      }
+    }
+  },
+  "categoryLabels": {
+    "aesthetic": "Boutique-Ästhetik",
+    "medical": "Medizinische Dermatologie",
+    "multiLocation": "Gruppe mit mehreren Standorten",
+    "teledermatology": "Teledermatologie",
+    "international": "MENA · zweisprachig",
+    "enterprise": "Unternehmen · globale Marke"
+  },
+  "filters": {
+    "all": "Alle Fallstudien",
+    "aesthetic": "Ästhetisch",
+    "medical": "Medizinisch",
+    "multiLocation": "Mehrere Standorte",
+    "teledermatology": "Teledermatologie",
+    "international": "MENA & International",
+    "enterprise": "Unternehmen"
+  },
+  "labels": {
+    "challenge": "Herausforderung",
+    "solution": "Was wir versendet haben"
+  },
+  "actions": {
+    "visitSite": "Besuchen Sie die Website",
+    "getResults": "Erhalten Sie Ergebnisse wie diese",
+    "viewLive": "Live-Site anzeigen"
+  },
+  "section": {
+    "eyebrow": "Reale Praktiken · Reale Zahlen",
+    "headingPre": "Jede Fallstudie ist eine",
+    "headingHighlight": "Live-Hautarztpraxis",
+    "subheading": "Vorher/Nachher-Zahlen zu Buchungen, SEO, Seitengeschwindigkeit und Umsatz – stammen aus echten Analysen, nicht aus Deckblättern.",
+    "filter": "Filtern",
+    "empty": "Noch keine Fallstudien in dieser Kategorie."
+  }
+}

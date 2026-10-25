@@ -9,50 +9,1111 @@
 // Additionally, you should also exclude this file from your linter and/or formatter to prevent it from being checked or modified.
 
 import { Route as rootRouteImport } from './routes/__root'
-import { Route as IndexRouteImport } from './routes/index'
+import { Route as SitemapDotxmlRouteImport } from './routes/sitemap[.]xml'
+import { Route as Char123LangChar125IndexRouteImport } from './routes/{-$lang}.index'
+import { Route as Char123LangChar125TermsOfServiceRouteImport } from './routes/{-$lang}.terms-of-service'
+import { Route as Char123LangChar125ServicesRouteImport } from './routes/{-$lang}.services'
+import { Route as Char123LangChar125ServiceAgreementRouteImport } from './routes/{-$lang}.service-agreement'
+import { Route as Char123LangChar125RefundPolicyRouteImport } from './routes/{-$lang}.refund-policy'
+import { Route as Char123LangChar125PrivacyPolicyRouteImport } from './routes/{-$lang}.privacy-policy'
+import { Route as Char123LangChar125PlanPackagesAndCostsRouteImport } from './routes/{-$lang}.plan-packages-and-costs'
+import { Route as Char123LangChar125OurProcessRouteImport } from './routes/{-$lang}.our-process'
+import { Route as Char123LangChar125MultiLocationDermatologyWebsiteDesignRouteImport } from './routes/{-$lang}.multi-location-dermatology-website-design'
+import { Route as Char123LangChar125GetAFreeQuoteRouteImport } from './routes/{-$lang}.get-a-free-quote'
+import { Route as Char123LangChar125FreeDermatologistWebsiteAuditRouteImport } from './routes/{-$lang}.free-dermatologist-website-audit'
+import { Route as Char123LangChar125FaqRouteImport } from './routes/{-$lang}.faq'
+import { Route as Char123LangChar125DermatologyWebsitesPortfolioRouteImport } from './routes/{-$lang}.dermatology-websites-portfolio'
+import { Route as Char123LangChar125DermatologyWebsiteSupportServicesRouteImport } from './routes/{-$lang}.dermatology-website-support-services'
+import { Route as Char123LangChar125DermatologyWebsiteRedesignRouteImport } from './routes/{-$lang}.dermatology-website-redesign'
+import { Route as Char123LangChar125DermatologyWebsiteMigrationRouteImport } from './routes/{-$lang}.dermatology-website-migration'
+import { Route as Char123LangChar125DermatologyWebsiteManagementServicesRouteImport } from './routes/{-$lang}.dermatology-website-management-services'
+import { Route as Char123LangChar125DermatologyWebsiteMaintenanceServicesRouteImport } from './routes/{-$lang}.dermatology-website-maintenance-services'
+import { Route as Char123LangChar125DermatologyWebsiteDesignRouteImport } from './routes/{-$lang}.dermatology-website-design'
+import { Route as Char123LangChar125DermatologyWebsiteChecklistsRouteImport } from './routes/{-$lang}.dermatology-website-checklists'
+import { Route as Char123LangChar125DermatologySocialMediaServicesRouteImport } from './routes/{-$lang}.dermatology-social-media-services'
+import { Route as Char123LangChar125DermatologySeoServicesRouteImport } from './routes/{-$lang}.dermatology-seo-services'
+import { Route as Char123LangChar125DermatologyReputationManagementRouteImport } from './routes/{-$lang}.dermatology-reputation-management'
+import { Route as Char123LangChar125DermatologyPracticeGrowthRouteImport } from './routes/{-$lang}.dermatology-practice-growth'
+import { Route as Char123LangChar125DermatologyPatientPortalRouteImport } from './routes/{-$lang}.dermatology-patient-portal'
+import { Route as Char123LangChar125DermatologyLocalSeoServicesRouteImport } from './routes/{-$lang}.dermatology-local-seo-services'
+import { Route as Char123LangChar125DermatologyGoogleAdsPpcRouteImport } from './routes/{-$lang}.dermatology-google-ads-ppc'
+import { Route as Char123LangChar125DermatologyEmailMarketingRouteImport } from './routes/{-$lang}.dermatology-email-marketing'
+import { Route as Char123LangChar125DermatologyEcommerceWebsiteDesignRouteImport } from './routes/{-$lang}.dermatology-ecommerce-website-design'
+import { Route as Char123LangChar125DermatologyConversionRateOptimizationRouteImport } from './routes/{-$lang}.dermatology-conversion-rate-optimization'
+import { Route as Char123LangChar125DermatologyBeforeAfterGalleryRouteImport } from './routes/{-$lang}.dermatology-before-after-gallery'
+import { Route as Char123LangChar125DermatologyAddOnServicesRouteImport } from './routes/{-$lang}.dermatology-add-on-services'
+import { Route as Char123LangChar125CookiePolicyRouteImport } from './routes/{-$lang}.cookie-policy'
+import { Route as Char123LangChar125ContactRouteImport } from './routes/{-$lang}.contact'
+import { Route as Char123LangChar125CaseStudiesRouteImport } from './routes/{-$lang}.case-studies'
+import { Route as Char123LangChar125BlogRouteImport } from './routes/{-$lang}.blog'
+import { Route as Char123LangChar125AboutRouteImport } from './routes/{-$lang}.about'
+import { Route as LpThankYouRouteImport } from './routes/lp.thank-you'
+import { Route as LpDermatologyWebsiteDesignRouteImport } from './routes/lp.dermatology-website-design'
+import { Route as ApiChatRouteImport } from './routes/api/chat'
+import { Route as AdminLoginRouteImport } from './routes/admin.login'
+import { Route as AdminChatsRouteImport } from './routes/admin.chats'
+import { Route as Char123LangChar125BlogIndexRouteImport } from './routes/{-$lang}.blog.index'
+import { Route as AdminLeadsIndexRouteImport } from './routes/admin.leads.index'
+import { Route as Char123LangChar125BlogSlugRouteImport } from './routes/{-$lang}.blog.$slug'
+import { Route as ApiPublicSyncKnowledgeRouteImport } from './routes/api/public/sync-knowledge'
+import { Route as AdminLeadsIdRouteImport } from './routes/admin.leads.$id'
 
-const IndexRoute = IndexRouteImport.update({
-  id: '/',
-  path: '/',
+const SitemapDotxmlRoute = SitemapDotxmlRouteImport.update({
+  id: '/sitemap.xml',
+  path: '/sitemap.xml',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const Char123LangChar125IndexRoute = Char123LangChar125IndexRouteImport.update({
+  id: '/{-$lang}/',
+  path: '/{-$lang}/',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const Char123LangChar125TermsOfServiceRoute =
+  Char123LangChar125TermsOfServiceRouteImport.update({
+    id: '/{-$lang}/terms-of-service',
+    path: '/{-$lang}/terms-of-service',
+    getParentRoute: () => rootRouteImport,
+  } as any)
+const Char123LangChar125ServicesRoute =
+  Char123LangChar125ServicesRouteImport.update({
+    id: '/{-$lang}/services',
+    path: '/{-$lang}/services',
+    getParentRoute: () => rootRouteImport,
+  } as any)
+const Char123LangChar125ServiceAgreementRoute =
+  Char123LangChar125ServiceAgreementRouteImport.update({
+    id: '/{-$lang}/service-agreement',
+    path: '/{-$lang}/service-agreement',
+    getParentRoute: () => rootRouteImport,
+  } as any)
+const Char123LangChar125RefundPolicyRoute =
+  Char123LangChar125RefundPolicyRouteImport.update({
+    id: '/{-$lang}/refund-policy',
+    path: '/{-$lang}/refund-policy',
+    getParentRoute: () => rootRouteImport,
+  } as any)
+const Char123LangChar125PrivacyPolicyRoute =
+  Char123LangChar125PrivacyPolicyRouteImport.update({
+    id: '/{-$lang}/privacy-policy',
+    path: '/{-$lang}/privacy-policy',
+    getParentRoute: () => rootRouteImport,
+  } as any)
+const Char123LangChar125PlanPackagesAndCostsRoute =
+  Char123LangChar125PlanPackagesAndCostsRouteImport.update({
+    id: '/{-$lang}/plan-packages-and-costs',
+    path: '/{-$lang}/plan-packages-and-costs',
+    getParentRoute: () => rootRouteImport,
+  } as any)
+const Char123LangChar125OurProcessRoute =
+  Char123LangChar125OurProcessRouteImport.update({
+    id: '/{-$lang}/our-process',
+    path: '/{-$lang}/our-process',
+    getParentRoute: () => rootRouteImport,
+  } as any)
+const Char123LangChar125MultiLocationDermatologyWebsiteDesignRoute =
+  Char123LangChar125MultiLocationDermatologyWebsiteDesignRouteImport.update({
+    id: '/{-$lang}/multi-location-dermatology-website-design',
+    path: '/{-$lang}/multi-location-dermatology-website-design',
+    getParentRoute: () => rootRouteImport,
+  } as any)
+const Char123LangChar125GetAFreeQuoteRoute =
+  Char123LangChar125GetAFreeQuoteRouteImport.update({
+    id: '/{-$lang}/get-a-free-quote',
+    path: '/{-$lang}/get-a-free-quote',
+    getParentRoute: () => rootRouteImport,
+  } as any)
+const Char123LangChar125FreeDermatologistWebsiteAuditRoute =
+  Char123LangChar125FreeDermatologistWebsiteAuditRouteImport.update({
+    id: '/{-$lang}/free-dermatologist-website-audit',
+    path: '/{-$lang}/free-dermatologist-website-audit',
+    getParentRoute: () => rootRouteImport,
+  } as any)
+const Char123LangChar125FaqRoute = Char123LangChar125FaqRouteImport.update({
+  id: '/{-$lang}/faq',
+  path: '/{-$lang}/faq',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const Char123LangChar125DermatologyWebsitesPortfolioRoute =
+  Char123LangChar125DermatologyWebsitesPortfolioRouteImport.update({
+    id: '/{-$lang}/dermatology-websites-portfolio',
+    path: '/{-$lang}/dermatology-websites-portfolio',
+    getParentRoute: () => rootRouteImport,
+  } as any)
+const Char123LangChar125DermatologyWebsiteSupportServicesRoute =
+  Char123LangChar125DermatologyWebsiteSupportServicesRouteImport.update({
+    id: '/{-$lang}/dermatology-website-support-services',
+    path: '/{-$lang}/dermatology-website-support-services',
+    getParentRoute: () => rootRouteImport,
+  } as any)
+const Char123LangChar125DermatologyWebsiteRedesignRoute =
+  Char123LangChar125DermatologyWebsiteRedesignRouteImport.update({
+    id: '/{-$lang}/dermatology-website-redesign',
+    path: '/{-$lang}/dermatology-website-redesign',
+    getParentRoute: () => rootRouteImport,
+  } as any)
+const Char123LangChar125DermatologyWebsiteMigrationRoute =
+  Char123LangChar125DermatologyWebsiteMigrationRouteImport.update({
+    id: '/{-$lang}/dermatology-website-migration',
+    path: '/{-$lang}/dermatology-website-migration',
+    getParentRoute: () => rootRouteImport,
+  } as any)
+const Char123LangChar125DermatologyWebsiteManagementServicesRoute =
+  Char123LangChar125DermatologyWebsiteManagementServicesRouteImport.update({
+    id: '/{-$lang}/dermatology-website-management-services',
+    path: '/{-$lang}/dermatology-website-management-services',
+    getParentRoute: () => rootRouteImport,
+  } as any)
+const Char123LangChar125DermatologyWebsiteMaintenanceServicesRoute =
+  Char123LangChar125DermatologyWebsiteMaintenanceServicesRouteImport.update({
+    id: '/{-$lang}/dermatology-website-maintenance-services',
+    path: '/{-$lang}/dermatology-website-maintenance-services',
+    getParentRoute: () => rootRouteImport,
+  } as any)
+const Char123LangChar125DermatologyWebsiteDesignRoute =
+  Char123LangChar125DermatologyWebsiteDesignRouteImport.update({
+    id: '/{-$lang}/dermatology-website-design',
+    path: '/{-$lang}/dermatology-website-design',
+    getParentRoute: () => rootRouteImport,
+  } as any)
+const Char123LangChar125DermatologyWebsiteChecklistsRoute =
+  Char123LangChar125DermatologyWebsiteChecklistsRouteImport.update({
+    id: '/{-$lang}/dermatology-website-checklists',
+    path: '/{-$lang}/dermatology-website-checklists',
+    getParentRoute: () => rootRouteImport,
+  } as any)
+const Char123LangChar125DermatologySocialMediaServicesRoute =
+  Char123LangChar125DermatologySocialMediaServicesRouteImport.update({
+    id: '/{-$lang}/dermatology-social-media-services',
+    path: '/{-$lang}/dermatology-social-media-services',
+    getParentRoute: () => rootRouteImport,
+  } as any)
+const Char123LangChar125DermatologySeoServicesRoute =
+  Char123LangChar125DermatologySeoServicesRouteImport.update({
+    id: '/{-$lang}/dermatology-seo-services',
+    path: '/{-$lang}/dermatology-seo-services',
+    getParentRoute: () => rootRouteImport,
+  } as any)
+const Char123LangChar125DermatologyReputationManagementRoute =
+  Char123LangChar125DermatologyReputationManagementRouteImport.update({
+    id: '/{-$lang}/dermatology-reputation-management',
+    path: '/{-$lang}/dermatology-reputation-management',
+    getParentRoute: () => rootRouteImport,
+  } as any)
+const Char123LangChar125DermatologyPracticeGrowthRoute =
+  Char123LangChar125DermatologyPracticeGrowthRouteImport.update({
+    id: '/{-$lang}/dermatology-practice-growth',
+    path: '/{-$lang}/dermatology-practice-growth',
+    getParentRoute: () => rootRouteImport,
+  } as any)
+const Char123LangChar125DermatologyPatientPortalRoute =
+  Char123LangChar125DermatologyPatientPortalRouteImport.update({
+    id: '/{-$lang}/dermatology-patient-portal',
+    path: '/{-$lang}/dermatology-patient-portal',
+    getParentRoute: () => rootRouteImport,
+  } as any)
+const Char123LangChar125DermatologyLocalSeoServicesRoute =
+  Char123LangChar125DermatologyLocalSeoServicesRouteImport.update({
+    id: '/{-$lang}/dermatology-local-seo-services',
+    path: '/{-$lang}/dermatology-local-seo-services',
+    getParentRoute: () => rootRouteImport,
+  } as any)
+const Char123LangChar125DermatologyGoogleAdsPpcRoute =
+  Char123LangChar125DermatologyGoogleAdsPpcRouteImport.update({
+    id: '/{-$lang}/dermatology-google-ads-ppc',
+    path: '/{-$lang}/dermatology-google-ads-ppc',
+    getParentRoute: () => rootRouteImport,
+  } as any)
+const Char123LangChar125DermatologyEmailMarketingRoute =
+  Char123LangChar125DermatologyEmailMarketingRouteImport.update({
+    id: '/{-$lang}/dermatology-email-marketing',
+    path: '/{-$lang}/dermatology-email-marketing',
+    getParentRoute: () => rootRouteImport,
+  } as any)
+const Char123LangChar125DermatologyEcommerceWebsiteDesignRoute =
+  Char123LangChar125DermatologyEcommerceWebsiteDesignRouteImport.update({
+    id: '/{-$lang}/dermatology-ecommerce-website-design',
+    path: '/{-$lang}/dermatology-ecommerce-website-design',
+    getParentRoute: () => rootRouteImport,
+  } as any)
+const Char123LangChar125DermatologyConversionRateOptimizationRoute =
+  Char123LangChar125DermatologyConversionRateOptimizationRouteImport.update({
+    id: '/{-$lang}/dermatology-conversion-rate-optimization',
+    path: '/{-$lang}/dermatology-conversion-rate-optimization',
+    getParentRoute: () => rootRouteImport,
+  } as any)
+const Char123LangChar125DermatologyBeforeAfterGalleryRoute =
+  Char123LangChar125DermatologyBeforeAfterGalleryRouteImport.update({
+    id: '/{-$lang}/dermatology-before-after-gallery',
+    path: '/{-$lang}/dermatology-before-after-gallery',
+    getParentRoute: () => rootRouteImport,
+  } as any)
+const Char123LangChar125DermatologyAddOnServicesRoute =
+  Char123LangChar125DermatologyAddOnServicesRouteImport.update({
+    id: '/{-$lang}/dermatology-add-on-services',
+    path: '/{-$lang}/dermatology-add-on-services',
+    getParentRoute: () => rootRouteImport,
+  } as any)
+const Char123LangChar125CookiePolicyRoute =
+  Char123LangChar125CookiePolicyRouteImport.update({
+    id: '/{-$lang}/cookie-policy',
+    path: '/{-$lang}/cookie-policy',
+    getParentRoute: () => rootRouteImport,
+  } as any)
+const Char123LangChar125ContactRoute =
+  Char123LangChar125ContactRouteImport.update({
+    id: '/{-$lang}/contact',
+    path: '/{-$lang}/contact',
+    getParentRoute: () => rootRouteImport,
+  } as any)
+const Char123LangChar125CaseStudiesRoute =
+  Char123LangChar125CaseStudiesRouteImport.update({
+    id: '/{-$lang}/case-studies',
+    path: '/{-$lang}/case-studies',
+    getParentRoute: () => rootRouteImport,
+  } as any)
+const Char123LangChar125BlogRoute = Char123LangChar125BlogRouteImport.update({
+  id: '/{-$lang}/blog',
+  path: '/{-$lang}/blog',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const Char123LangChar125AboutRoute = Char123LangChar125AboutRouteImport.update({
+  id: '/{-$lang}/about',
+  path: '/{-$lang}/about',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const LpThankYouRoute = LpThankYouRouteImport.update({
+  id: '/lp/thank-you',
+  path: '/lp/thank-you',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const LpDermatologyWebsiteDesignRoute =
+  LpDermatologyWebsiteDesignRouteImport.update({
+    id: '/lp/dermatology-website-design',
+    path: '/lp/dermatology-website-design',
+    getParentRoute: () => rootRouteImport,
+  } as any)
+const ApiChatRoute = ApiChatRouteImport.update({
+  id: '/api/chat',
+  path: '/api/chat',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const AdminLoginRoute = AdminLoginRouteImport.update({
+  id: '/admin/login',
+  path: '/admin/login',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const AdminChatsRoute = AdminChatsRouteImport.update({
+  id: '/admin/chats',
+  path: '/admin/chats',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const Char123LangChar125BlogIndexRoute =
+  Char123LangChar125BlogIndexRouteImport.update({
+    id: '/',
+    path: '/',
+    getParentRoute: () => Char123LangChar125BlogRoute,
+  } as any)
+const AdminLeadsIndexRoute = AdminLeadsIndexRouteImport.update({
+  id: '/admin/leads/',
+  path: '/admin/leads/',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const Char123LangChar125BlogSlugRoute =
+  Char123LangChar125BlogSlugRouteImport.update({
+    id: '/$slug',
+    path: '/$slug',
+    getParentRoute: () => Char123LangChar125BlogRoute,
+  } as any)
+const ApiPublicSyncKnowledgeRoute = ApiPublicSyncKnowledgeRouteImport.update({
+  id: '/api/public/sync-knowledge',
+  path: '/api/public/sync-knowledge',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const AdminLeadsIdRoute = AdminLeadsIdRouteImport.update({
+  id: '/admin/leads/$id',
+  path: '/admin/leads/$id',
   getParentRoute: () => rootRouteImport,
 } as any)
 
 export interface FileRoutesByFullPath {
-  '/': typeof IndexRoute
+  '/sitemap.xml': typeof SitemapDotxmlRoute
+  '/admin/chats': typeof AdminChatsRoute
+  '/admin/login': typeof AdminLoginRoute
+  '/api/chat': typeof ApiChatRoute
+  '/lp/dermatology-website-design': typeof LpDermatologyWebsiteDesignRoute
+  '/lp/thank-you': typeof LpThankYouRoute
+  '/{-$lang}/about': typeof Char123LangChar125AboutRoute
+  '/{-$lang}/blog': typeof Char123LangChar125BlogRouteWithChildren
+  '/{-$lang}/case-studies': typeof Char123LangChar125CaseStudiesRoute
+  '/{-$lang}/contact': typeof Char123LangChar125ContactRoute
+  '/{-$lang}/cookie-policy': typeof Char123LangChar125CookiePolicyRoute
+  '/{-$lang}/dermatology-add-on-services': typeof Char123LangChar125DermatologyAddOnServicesRoute
+  '/{-$lang}/dermatology-before-after-gallery': typeof Char123LangChar125DermatologyBeforeAfterGalleryRoute
+  '/{-$lang}/dermatology-conversion-rate-optimization': typeof Char123LangChar125DermatologyConversionRateOptimizationRoute
+  '/{-$lang}/dermatology-ecommerce-website-design': typeof Char123LangChar125DermatologyEcommerceWebsiteDesignRoute
+  '/{-$lang}/dermatology-email-marketing': typeof Char123LangChar125DermatologyEmailMarketingRoute
+  '/{-$lang}/dermatology-google-ads-ppc': typeof Char123LangChar125DermatologyGoogleAdsPpcRoute
+  '/{-$lang}/dermatology-local-seo-services': typeof Char123LangChar125DermatologyLocalSeoServicesRoute
+  '/{-$lang}/dermatology-patient-portal': typeof Char123LangChar125DermatologyPatientPortalRoute
+  '/{-$lang}/dermatology-practice-growth': typeof Char123LangChar125DermatologyPracticeGrowthRoute
+  '/{-$lang}/dermatology-reputation-management': typeof Char123LangChar125DermatologyReputationManagementRoute
+  '/{-$lang}/dermatology-seo-services': typeof Char123LangChar125DermatologySeoServicesRoute
+  '/{-$lang}/dermatology-social-media-services': typeof Char123LangChar125DermatologySocialMediaServicesRoute
+  '/{-$lang}/dermatology-website-checklists': typeof Char123LangChar125DermatologyWebsiteChecklistsRoute
+  '/{-$lang}/dermatology-website-design': typeof Char123LangChar125DermatologyWebsiteDesignRoute
+  '/{-$lang}/dermatology-website-maintenance-services': typeof Char123LangChar125DermatologyWebsiteMaintenanceServicesRoute
+  '/{-$lang}/dermatology-website-management-services': typeof Char123LangChar125DermatologyWebsiteManagementServicesRoute
+  '/{-$lang}/dermatology-website-migration': typeof Char123LangChar125DermatologyWebsiteMigrationRoute
+  '/{-$lang}/dermatology-website-redesign': typeof Char123LangChar125DermatologyWebsiteRedesignRoute
+  '/{-$lang}/dermatology-website-support-services': typeof Char123LangChar125DermatologyWebsiteSupportServicesRoute
+  '/{-$lang}/dermatology-websites-portfolio': typeof Char123LangChar125DermatologyWebsitesPortfolioRoute
+  '/{-$lang}/faq': typeof Char123LangChar125FaqRoute
+  '/{-$lang}/free-dermatologist-website-audit': typeof Char123LangChar125FreeDermatologistWebsiteAuditRoute
+  '/{-$lang}/get-a-free-quote': typeof Char123LangChar125GetAFreeQuoteRoute
+  '/{-$lang}/multi-location-dermatology-website-design': typeof Char123LangChar125MultiLocationDermatologyWebsiteDesignRoute
+  '/{-$lang}/our-process': typeof Char123LangChar125OurProcessRoute
+  '/{-$lang}/plan-packages-and-costs': typeof Char123LangChar125PlanPackagesAndCostsRoute
+  '/{-$lang}/privacy-policy': typeof Char123LangChar125PrivacyPolicyRoute
+  '/{-$lang}/refund-policy': typeof Char123LangChar125RefundPolicyRoute
+  '/{-$lang}/service-agreement': typeof Char123LangChar125ServiceAgreementRoute
+  '/{-$lang}/services': typeof Char123LangChar125ServicesRoute
+  '/{-$lang}/terms-of-service': typeof Char123LangChar125TermsOfServiceRoute
+  '/{-$lang}/': typeof Char123LangChar125IndexRoute
+  '/admin/leads/$id': typeof AdminLeadsIdRoute
+  '/api/public/sync-knowledge': typeof ApiPublicSyncKnowledgeRoute
+  '/{-$lang}/blog/$slug': typeof Char123LangChar125BlogSlugRoute
+  '/admin/leads/': typeof AdminLeadsIndexRoute
+  '/{-$lang}/blog/': typeof Char123LangChar125BlogIndexRoute
 }
 export interface FileRoutesByTo {
-  '/': typeof IndexRoute
+  '/sitemap.xml': typeof SitemapDotxmlRoute
+  '/admin/chats': typeof AdminChatsRoute
+  '/admin/login': typeof AdminLoginRoute
+  '/api/chat': typeof ApiChatRoute
+  '/lp/dermatology-website-design': typeof LpDermatologyWebsiteDesignRoute
+  '/lp/thank-you': typeof LpThankYouRoute
+  '/{-$lang}/about': typeof Char123LangChar125AboutRoute
+  '/{-$lang}/case-studies': typeof Char123LangChar125CaseStudiesRoute
+  '/{-$lang}/contact': typeof Char123LangChar125ContactRoute
+  '/{-$lang}/cookie-policy': typeof Char123LangChar125CookiePolicyRoute
+  '/{-$lang}/dermatology-add-on-services': typeof Char123LangChar125DermatologyAddOnServicesRoute
+  '/{-$lang}/dermatology-before-after-gallery': typeof Char123LangChar125DermatologyBeforeAfterGalleryRoute
+  '/{-$lang}/dermatology-conversion-rate-optimization': typeof Char123LangChar125DermatologyConversionRateOptimizationRoute
+  '/{-$lang}/dermatology-ecommerce-website-design': typeof Char123LangChar125DermatologyEcommerceWebsiteDesignRoute
+  '/{-$lang}/dermatology-email-marketing': typeof Char123LangChar125DermatologyEmailMarketingRoute
+  '/{-$lang}/dermatology-google-ads-ppc': typeof Char123LangChar125DermatologyGoogleAdsPpcRoute
+  '/{-$lang}/dermatology-local-seo-services': typeof Char123LangChar125DermatologyLocalSeoServicesRoute
+  '/{-$lang}/dermatology-patient-portal': typeof Char123LangChar125DermatologyPatientPortalRoute
+  '/{-$lang}/dermatology-practice-growth': typeof Char123LangChar125DermatologyPracticeGrowthRoute
+  '/{-$lang}/dermatology-reputation-management': typeof Char123LangChar125DermatologyReputationManagementRoute
+  '/{-$lang}/dermatology-seo-services': typeof Char123LangChar125DermatologySeoServicesRoute
+  '/{-$lang}/dermatology-social-media-services': typeof Char123LangChar125DermatologySocialMediaServicesRoute
+  '/{-$lang}/dermatology-website-checklists': typeof Char123LangChar125DermatologyWebsiteChecklistsRoute
+  '/{-$lang}/dermatology-website-design': typeof Char123LangChar125DermatologyWebsiteDesignRoute
+  '/{-$lang}/dermatology-website-maintenance-services': typeof Char123LangChar125DermatologyWebsiteMaintenanceServicesRoute
+  '/{-$lang}/dermatology-website-management-services': typeof Char123LangChar125DermatologyWebsiteManagementServicesRoute
+  '/{-$lang}/dermatology-website-migration': typeof Char123LangChar125DermatologyWebsiteMigrationRoute
+  '/{-$lang}/dermatology-website-redesign': typeof Char123LangChar125DermatologyWebsiteRedesignRoute
+  '/{-$lang}/dermatology-website-support-services': typeof Char123LangChar125DermatologyWebsiteSupportServicesRoute
+  '/{-$lang}/dermatology-websites-portfolio': typeof Char123LangChar125DermatologyWebsitesPortfolioRoute
+  '/{-$lang}/faq': typeof Char123LangChar125FaqRoute
+  '/{-$lang}/free-dermatologist-website-audit': typeof Char123LangChar125FreeDermatologistWebsiteAuditRoute
+  '/{-$lang}/get-a-free-quote': typeof Char123LangChar125GetAFreeQuoteRoute
+  '/{-$lang}/multi-location-dermatology-website-design': typeof Char123LangChar125MultiLocationDermatologyWebsiteDesignRoute
+  '/{-$lang}/our-process': typeof Char123LangChar125OurProcessRoute
+  '/{-$lang}/plan-packages-and-costs': typeof Char123LangChar125PlanPackagesAndCostsRoute
+  '/{-$lang}/privacy-policy': typeof Char123LangChar125PrivacyPolicyRoute
+  '/{-$lang}/refund-policy': typeof Char123LangChar125RefundPolicyRoute
+  '/{-$lang}/service-agreement': typeof Char123LangChar125ServiceAgreementRoute
+  '/{-$lang}/services': typeof Char123LangChar125ServicesRoute
+  '/{-$lang}/terms-of-service': typeof Char123LangChar125TermsOfServiceRoute
+  '/{-$lang}': typeof Char123LangChar125IndexRoute
+  '/admin/leads/$id': typeof AdminLeadsIdRoute
+  '/api/public/sync-knowledge': typeof ApiPublicSyncKnowledgeRoute
+  '/{-$lang}/blog/$slug': typeof Char123LangChar125BlogSlugRoute
+  '/admin/leads': typeof AdminLeadsIndexRoute
+  '/{-$lang}/blog': typeof Char123LangChar125BlogIndexRoute
 }
 export interface FileRoutesById {
   __root__: typeof rootRouteImport
-  '/': typeof IndexRoute
+  '/sitemap.xml': typeof SitemapDotxmlRoute
+  '/admin/chats': typeof AdminChatsRoute
+  '/admin/login': typeof AdminLoginRoute
+  '/api/chat': typeof ApiChatRoute
+  '/lp/dermatology-website-design': typeof LpDermatologyWebsiteDesignRoute
+  '/lp/thank-you': typeof LpThankYouRoute
+  '/{-$lang}/about': typeof Char123LangChar125AboutRoute
+  '/{-$lang}/blog': typeof Char123LangChar125BlogRouteWithChildren
+  '/{-$lang}/case-studies': typeof Char123LangChar125CaseStudiesRoute
+  '/{-$lang}/contact': typeof Char123LangChar125ContactRoute
+  '/{-$lang}/cookie-policy': typeof Char123LangChar125CookiePolicyRoute
+  '/{-$lang}/dermatology-add-on-services': typeof Char123LangChar125DermatologyAddOnServicesRoute
+  '/{-$lang}/dermatology-before-after-gallery': typeof Char123LangChar125DermatologyBeforeAfterGalleryRoute
+  '/{-$lang}/dermatology-conversion-rate-optimization': typeof Char123LangChar125DermatologyConversionRateOptimizationRoute
+  '/{-$lang}/dermatology-ecommerce-website-design': typeof Char123LangChar125DermatologyEcommerceWebsiteDesignRoute
+  '/{-$lang}/dermatology-email-marketing': typeof Char123LangChar125DermatologyEmailMarketingRoute
+  '/{-$lang}/dermatology-google-ads-ppc': typeof Char123LangChar125DermatologyGoogleAdsPpcRoute
+  '/{-$lang}/dermatology-local-seo-services': typeof Char123LangChar125DermatologyLocalSeoServicesRoute
+  '/{-$lang}/dermatology-patient-portal': typeof Char123LangChar125DermatologyPatientPortalRoute
+  '/{-$lang}/dermatology-practice-growth': typeof Char123LangChar125DermatologyPracticeGrowthRoute
+  '/{-$lang}/dermatology-reputation-management': typeof Char123LangChar125DermatologyReputationManagementRoute
+  '/{-$lang}/dermatology-seo-services': typeof Char123LangChar125DermatologySeoServicesRoute
+  '/{-$lang}/dermatology-social-media-services': typeof Char123LangChar125DermatologySocialMediaServicesRoute
+  '/{-$lang}/dermatology-website-checklists': typeof Char123LangChar125DermatologyWebsiteChecklistsRoute
+  '/{-$lang}/dermatology-website-design': typeof Char123LangChar125DermatologyWebsiteDesignRoute
+  '/{-$lang}/dermatology-website-maintenance-services': typeof Char123LangChar125DermatologyWebsiteMaintenanceServicesRoute
+  '/{-$lang}/dermatology-website-management-services': typeof Char123LangChar125DermatologyWebsiteManagementServicesRoute
+  '/{-$lang}/dermatology-website-migration': typeof Char123LangChar125DermatologyWebsiteMigrationRoute
+  '/{-$lang}/dermatology-website-redesign': typeof Char123LangChar125DermatologyWebsiteRedesignRoute
+  '/{-$lang}/dermatology-website-support-services': typeof Char123LangChar125DermatologyWebsiteSupportServicesRoute
+  '/{-$lang}/dermatology-websites-portfolio': typeof Char123LangChar125DermatologyWebsitesPortfolioRoute
+  '/{-$lang}/faq': typeof Char123LangChar125FaqRoute
+  '/{-$lang}/free-dermatologist-website-audit': typeof Char123LangChar125FreeDermatologistWebsiteAuditRoute
+  '/{-$lang}/get-a-free-quote': typeof Char123LangChar125GetAFreeQuoteRoute
+  '/{-$lang}/multi-location-dermatology-website-design': typeof Char123LangChar125MultiLocationDermatologyWebsiteDesignRoute
+  '/{-$lang}/our-process': typeof Char123LangChar125OurProcessRoute
+  '/{-$lang}/plan-packages-and-costs': typeof Char123LangChar125PlanPackagesAndCostsRoute
+  '/{-$lang}/privacy-policy': typeof Char123LangChar125PrivacyPolicyRoute
+  '/{-$lang}/refund-policy': typeof Char123LangChar125RefundPolicyRoute
+  '/{-$lang}/service-agreement': typeof Char123LangChar125ServiceAgreementRoute
+  '/{-$lang}/services': typeof Char123LangChar125ServicesRoute
+  '/{-$lang}/terms-of-service': typeof Char123LangChar125TermsOfServiceRoute
+  '/{-$lang}/': typeof Char123LangChar125IndexRoute
+  '/admin/leads/$id': typeof AdminLeadsIdRoute
+  '/api/public/sync-knowledge': typeof ApiPublicSyncKnowledgeRoute
+  '/{-$lang}/blog/$slug': typeof Char123LangChar125BlogSlugRoute
+  '/admin/leads/': typeof AdminLeadsIndexRoute
+  '/{-$lang}/blog/': typeof Char123LangChar125BlogIndexRoute
 }
 export interface FileRouteTypes {
   fileRoutesByFullPath: FileRoutesByFullPath
-  fullPaths: '/'
+  fullPaths:
+    | '/sitemap.xml'
+    | '/admin/chats'
+    | '/admin/login'
+    | '/api/chat'
+    | '/lp/dermatology-website-design'
+    | '/lp/thank-you'
+    | '/{-$lang}/about'
+    | '/{-$lang}/blog'
+    | '/{-$lang}/case-studies'
+    | '/{-$lang}/contact'
+    | '/{-$lang}/cookie-policy'
+    | '/{-$lang}/dermatology-add-on-services'
+    | '/{-$lang}/dermatology-before-after-gallery'
+    | '/{-$lang}/dermatology-conversion-rate-optimization'
+    | '/{-$lang}/dermatology-ecommerce-website-design'
+    | '/{-$lang}/dermatology-email-marketing'
+    | '/{-$lang}/dermatology-google-ads-ppc'
+    | '/{-$lang}/dermatology-local-seo-services'
+    | '/{-$lang}/dermatology-patient-portal'
+    | '/{-$lang}/dermatology-practice-growth'
+    | '/{-$lang}/dermatology-reputation-management'
+    | '/{-$lang}/dermatology-seo-services'
+    | '/{-$lang}/dermatology-social-media-services'
+    | '/{-$lang}/dermatology-website-checklists'
+    | '/{-$lang}/dermatology-website-design'
+    | '/{-$lang}/dermatology-website-maintenance-services'
+    | '/{-$lang}/dermatology-website-management-services'
+    | '/{-$lang}/dermatology-website-migration'
+    | '/{-$lang}/dermatology-website-redesign'
+    | '/{-$lang}/dermatology-website-support-services'
+    | '/{-$lang}/dermatology-websites-portfolio'
+    | '/{-$lang}/faq'
+    | '/{-$lang}/free-dermatologist-website-audit'
+    | '/{-$lang}/get-a-free-quote'
+    | '/{-$lang}/multi-location-dermatology-website-design'
+    | '/{-$lang}/our-process'
+    | '/{-$lang}/plan-packages-and-costs'
+    | '/{-$lang}/privacy-policy'
+    | '/{-$lang}/refund-policy'
+    | '/{-$lang}/service-agreement'
+    | '/{-$lang}/services'
+    | '/{-$lang}/terms-of-service'
+    | '/{-$lang}/'
+    | '/admin/leads/$id'
+    | '/api/public/sync-knowledge'
+    | '/{-$lang}/blog/$slug'
+    | '/admin/leads/'
+    | '/{-$lang}/blog/'
   fileRoutesByTo: FileRoutesByTo
-  to: '/'
-  id: '__root__' | '/'
+  to:
+    | '/sitemap.xml'
+    | '/admin/chats'
+    | '/admin/login'
+    | '/api/chat'
+    | '/lp/dermatology-website-design'
+    | '/lp/thank-you'
+    | '/{-$lang}/about'
+    | '/{-$lang}/case-studies'
+    | '/{-$lang}/contact'
+    | '/{-$lang}/cookie-policy'
+    | '/{-$lang}/dermatology-add-on-services'
+    | '/{-$lang}/dermatology-before-after-gallery'
+    | '/{-$lang}/dermatology-conversion-rate-optimization'
+    | '/{-$lang}/dermatology-ecommerce-website-design'
+    | '/{-$lang}/dermatology-email-marketing'
+    | '/{-$lang}/dermatology-google-ads-ppc'
+    | '/{-$lang}/dermatology-local-seo-services'
+    | '/{-$lang}/dermatology-patient-portal'
+    | '/{-$lang}/dermatology-practice-growth'
+    | '/{-$lang}/dermatology-reputation-management'
+    | '/{-$lang}/dermatology-seo-services'
+    | '/{-$lang}/dermatology-social-media-services'
+    | '/{-$lang}/dermatology-website-checklists'
+    | '/{-$lang}/dermatology-website-design'
+    | '/{-$lang}/dermatology-website-maintenance-services'
+    | '/{-$lang}/dermatology-website-management-services'
+    | '/{-$lang}/dermatology-website-migration'
+    | '/{-$lang}/dermatology-website-redesign'
+    | '/{-$lang}/dermatology-website-support-services'
+    | '/{-$lang}/dermatology-websites-portfolio'
+    | '/{-$lang}/faq'
+    | '/{-$lang}/free-dermatologist-website-audit'
+    | '/{-$lang}/get-a-free-quote'
+    | '/{-$lang}/multi-location-dermatology-website-design'
+    | '/{-$lang}/our-process'
+    | '/{-$lang}/plan-packages-and-costs'
+    | '/{-$lang}/privacy-policy'
+    | '/{-$lang}/refund-policy'
+    | '/{-$lang}/service-agreement'
+    | '/{-$lang}/services'
+    | '/{-$lang}/terms-of-service'
+    | '/{-$lang}'
+    | '/admin/leads/$id'
+    | '/api/public/sync-knowledge'
+    | '/{-$lang}/blog/$slug'
+    | '/admin/leads'
+    | '/{-$lang}/blog'
+  id:
+    | '__root__'
+    | '/sitemap.xml'
+    | '/admin/chats'
+    | '/admin/login'
+    | '/api/chat'
+    | '/lp/dermatology-website-design'
+    | '/lp/thank-you'
+    | '/{-$lang}/about'
+    | '/{-$lang}/blog'
+    | '/{-$lang}/case-studies'
+    | '/{-$lang}/contact'
+    | '/{-$lang}/cookie-policy'
+    | '/{-$lang}/dermatology-add-on-services'
+    | '/{-$lang}/dermatology-before-after-gallery'
+    | '/{-$lang}/dermatology-conversion-rate-optimization'
+    | '/{-$lang}/dermatology-ecommerce-website-design'
+    | '/{-$lang}/dermatology-email-marketing'
+    | '/{-$lang}/dermatology-google-ads-ppc'
+    | '/{-$lang}/dermatology-local-seo-services'
+    | '/{-$lang}/dermatology-patient-portal'
+    | '/{-$lang}/dermatology-practice-growth'
+    | '/{-$lang}/dermatology-reputation-management'
+    | '/{-$lang}/dermatology-seo-services'
+    | '/{-$lang}/dermatology-social-media-services'
+    | '/{-$lang}/dermatology-website-checklists'
+    | '/{-$lang}/dermatology-website-design'
+    | '/{-$lang}/dermatology-website-maintenance-services'
+    | '/{-$lang}/dermatology-website-management-services'
+    | '/{-$lang}/dermatology-website-migration'
+    | '/{-$lang}/dermatology-website-redesign'
+    | '/{-$lang}/dermatology-website-support-services'
+    | '/{-$lang}/dermatology-websites-portfolio'
+    | '/{-$lang}/faq'
+    | '/{-$lang}/free-dermatologist-website-audit'
+    | '/{-$lang}/get-a-free-quote'
+    | '/{-$lang}/multi-location-dermatology-website-design'
+    | '/{-$lang}/our-process'
+    | '/{-$lang}/plan-packages-and-costs'
+    | '/{-$lang}/privacy-policy'
+    | '/{-$lang}/refund-policy'
+    | '/{-$lang}/service-agreement'
+    | '/{-$lang}/services'
+    | '/{-$lang}/terms-of-service'
+    | '/{-$lang}/'
+    | '/admin/leads/$id'
+    | '/api/public/sync-knowledge'
+    | '/{-$lang}/blog/$slug'
+    | '/admin/leads/'
+    | '/{-$lang}/blog/'
   fileRoutesById: FileRoutesById
 }
 export interface RootRouteChildren {
-  IndexRoute: typeof IndexRoute
+  SitemapDotxmlRoute: typeof SitemapDotxmlRoute
+  AdminChatsRoute: typeof AdminChatsRoute
+  AdminLoginRoute: typeof AdminLoginRoute
+  ApiChatRoute: typeof ApiChatRoute
+  LpDermatologyWebsiteDesignRoute: typeof LpDermatologyWebsiteDesignRoute
+  LpThankYouRoute: typeof LpThankYouRoute
+  Char123LangChar125AboutRoute: typeof Char123LangChar125AboutRoute
+  Char123LangChar125BlogRoute: typeof Char123LangChar125BlogRouteWithChildren
+  Char123LangChar125CaseStudiesRoute: typeof Char123LangChar125CaseStudiesRoute
+  Char123LangChar125ContactRoute: typeof Char123LangChar125ContactRoute
+  Char123LangChar125CookiePolicyRoute: typeof Char123LangChar125CookiePolicyRoute
+  Char123LangChar125DermatologyAddOnServicesRoute: typeof Char123LangChar125DermatologyAddOnServicesRoute
+  Char123LangChar125DermatologyBeforeAfterGalleryRoute: typeof Char123LangChar125DermatologyBeforeAfterGalleryRoute
+  Char123LangChar125DermatologyConversionRateOptimizationRoute: typeof Char123LangChar125DermatologyConversionRateOptimizationRoute
+  Char123LangChar125DermatologyEcommerceWebsiteDesignRoute: typeof Char123LangChar125DermatologyEcommerceWebsiteDesignRoute
+  Char123LangChar125DermatologyEmailMarketingRoute: typeof Char123LangChar125DermatologyEmailMarketingRoute
+  Char123LangChar125DermatologyGoogleAdsPpcRoute: typeof Char123LangChar125DermatologyGoogleAdsPpcRoute
+  Char123LangChar125DermatologyLocalSeoServicesRoute: typeof Char123LangChar125DermatologyLocalSeoServicesRoute
+  Char123LangChar125DermatologyPatientPortalRoute: typeof Char123LangChar125DermatologyPatientPortalRoute
+  Char123LangChar125DermatologyPracticeGrowthRoute: typeof Char123LangChar125DermatologyPracticeGrowthRoute
+  Char123LangChar125DermatologyReputationManagementRoute: typeof Char123LangChar125DermatologyReputationManagementRoute
+  Char123LangChar125DermatologySeoServicesRoute: typeof Char123LangChar125DermatologySeoServicesRoute
+  Char123LangChar125DermatologySocialMediaServicesRoute: typeof Char123LangChar125DermatologySocialMediaServicesRoute
+  Char123LangChar125DermatologyWebsiteChecklistsRoute: typeof Char123LangChar125DermatologyWebsiteChecklistsRoute
+  Char123LangChar125DermatologyWebsiteDesignRoute: typeof Char123LangChar125DermatologyWebsiteDesignRoute
+  Char123LangChar125DermatologyWebsiteMaintenanceServicesRoute: typeof Char123LangChar125DermatologyWebsiteMaintenanceServicesRoute
+  Char123LangChar125DermatologyWebsiteManagementServicesRoute: typeof Char123LangChar125DermatologyWebsiteManagementServicesRoute
+  Char123LangChar125DermatologyWebsiteMigrationRoute: typeof Char123LangChar125DermatologyWebsiteMigrationRoute
+  Char123LangChar125DermatologyWebsiteRedesignRoute: typeof Char123LangChar125DermatologyWebsiteRedesignRoute
+  Char123LangChar125DermatologyWebsiteSupportServicesRoute: typeof Char123LangChar125DermatologyWebsiteSupportServicesRoute
+  Char123LangChar125DermatologyWebsitesPortfolioRoute: typeof Char123LangChar125DermatologyWebsitesPortfolioRoute
+  Char123LangChar125FaqRoute: typeof Char123LangChar125FaqRoute
+  Char123LangChar125FreeDermatologistWebsiteAuditRoute: typeof Char123LangChar125FreeDermatologistWebsiteAuditRoute
+  Char123LangChar125GetAFreeQuoteRoute: typeof Char123LangChar125GetAFreeQuoteRoute
+  Char123LangChar125MultiLocationDermatologyWebsiteDesignRoute: typeof Char123LangChar125MultiLocationDermatologyWebsiteDesignRoute
+  Char123LangChar125OurProcessRoute: typeof Char123LangChar125OurProcessRoute
+  Char123LangChar125PlanPackagesAndCostsRoute: typeof Char123LangChar125PlanPackagesAndCostsRoute
+  Char123LangChar125PrivacyPolicyRoute: typeof Char123LangChar125PrivacyPolicyRoute
+  Char123LangChar125RefundPolicyRoute: typeof Char123LangChar125RefundPolicyRoute
+  Char123LangChar125ServiceAgreementRoute: typeof Char123LangChar125ServiceAgreementRoute
+  Char123LangChar125ServicesRoute: typeof Char123LangChar125ServicesRoute
+  Char123LangChar125TermsOfServiceRoute: typeof Char123LangChar125TermsOfServiceRoute
+  Char123LangChar125IndexRoute: typeof Char123LangChar125IndexRoute
+  AdminLeadsIdRoute: typeof AdminLeadsIdRoute
+  ApiPublicSyncKnowledgeRoute: typeof ApiPublicSyncKnowledgeRoute
+  AdminLeadsIndexRoute: typeof AdminLeadsIndexRoute
 }
 
 declare module '@tanstack/react-router' {
   interface FileRoutesByPath {
-    '/': {
-      id: '/'
+    '/sitemap.xml': {
+      id: '/sitemap.xml'
+      path: '/sitemap.xml'
+      fullPath: '/sitemap.xml'
+      preLoaderRoute: typeof SitemapDotxmlRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/{-$lang}/': {
+      id: '/{-$lang}/'
+      path: '/{-$lang}'
+      fullPath: '/{-$lang}/'
+      preLoaderRoute: typeof Char123LangChar125IndexRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/{-$lang}/terms-of-service': {
+      id: '/{-$lang}/terms-of-service'
+      path: '/{-$lang}/terms-of-service'
+      fullPath: '/{-$lang}/terms-of-service'
+      preLoaderRoute: typeof Char123LangChar125TermsOfServiceRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/{-$lang}/services': {
+      id: '/{-$lang}/services'
+      path: '/{-$lang}/services'
+      fullPath: '/{-$lang}/services'
+      preLoaderRoute: typeof Char123LangChar125ServicesRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/{-$lang}/service-agreement': {
+      id: '/{-$lang}/service-agreement'
+      path: '/{-$lang}/service-agreement'
+      fullPath: '/{-$lang}/service-agreement'
+      preLoaderRoute: typeof Char123LangChar125ServiceAgreementRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/{-$lang}/refund-policy': {
+      id: '/{-$lang}/refund-policy'
+      path: '/{-$lang}/refund-policy'
+      fullPath: '/{-$lang}/refund-policy'
+      preLoaderRoute: typeof Char123LangChar125RefundPolicyRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/{-$lang}/privacy-policy': {
+      id: '/{-$lang}/privacy-policy'
+      path: '/{-$lang}/privacy-policy'
+      fullPath: '/{-$lang}/privacy-policy'
+      preLoaderRoute: typeof Char123LangChar125PrivacyPolicyRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/{-$lang}/plan-packages-and-costs': {
+      id: '/{-$lang}/plan-packages-and-costs'
+      path: '/{-$lang}/plan-packages-and-costs'
+      fullPath: '/{-$lang}/plan-packages-and-costs'
+      preLoaderRoute: typeof Char123LangChar125PlanPackagesAndCostsRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/{-$lang}/our-process': {
+      id: '/{-$lang}/our-process'
+      path: '/{-$lang}/our-process'
+      fullPath: '/{-$lang}/our-process'
+      preLoaderRoute: typeof Char123LangChar125OurProcessRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/{-$lang}/multi-location-dermatology-website-design': {
+      id: '/{-$lang}/multi-location-dermatology-website-design'
+      path: '/{-$lang}/multi-location-dermatology-website-design'
+      fullPath: '/{-$lang}/multi-location-dermatology-website-design'
+      preLoaderRoute: typeof Char123LangChar125MultiLocationDermatologyWebsiteDesignRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/{-$lang}/get-a-free-quote': {
+      id: '/{-$lang}/get-a-free-quote'
+      path: '/{-$lang}/get-a-free-quote'
+      fullPath: '/{-$lang}/get-a-free-quote'
+      preLoaderRoute: typeof Char123LangChar125GetAFreeQuoteRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/{-$lang}/free-dermatologist-website-audit': {
+      id: '/{-$lang}/free-dermatologist-website-audit'
+      path: '/{-$lang}/free-dermatologist-website-audit'
+      fullPath: '/{-$lang}/free-dermatologist-website-audit'
+      preLoaderRoute: typeof Char123LangChar125FreeDermatologistWebsiteAuditRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/{-$lang}/faq': {
+      id: '/{-$lang}/faq'
+      path: '/{-$lang}/faq'
+      fullPath: '/{-$lang}/faq'
+      preLoaderRoute: typeof Char123LangChar125FaqRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/{-$lang}/dermatology-websites-portfolio': {
+      id: '/{-$lang}/dermatology-websites-portfolio'
+      path: '/{-$lang}/dermatology-websites-portfolio'
+      fullPath: '/{-$lang}/dermatology-websites-portfolio'
+      preLoaderRoute: typeof Char123LangChar125DermatologyWebsitesPortfolioRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/{-$lang}/dermatology-website-support-services': {
+      id: '/{-$lang}/dermatology-website-support-services'
+      path: '/{-$lang}/dermatology-website-support-services'
+      fullPath: '/{-$lang}/dermatology-website-support-services'
+      preLoaderRoute: typeof Char123LangChar125DermatologyWebsiteSupportServicesRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/{-$lang}/dermatology-website-redesign': {
+      id: '/{-$lang}/dermatology-website-redesign'
+      path: '/{-$lang}/dermatology-website-redesign'
+      fullPath: '/{-$lang}/dermatology-website-redesign'
+      preLoaderRoute: typeof Char123LangChar125DermatologyWebsiteRedesignRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/{-$lang}/dermatology-website-migration': {
+      id: '/{-$lang}/dermatology-website-migration'
+      path: '/{-$lang}/dermatology-website-migration'
+      fullPath: '/{-$lang}/dermatology-website-migration'
+      preLoaderRoute: typeof Char123LangChar125DermatologyWebsiteMigrationRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/{-$lang}/dermatology-website-management-services': {
+      id: '/{-$lang}/dermatology-website-management-services'
+      path: '/{-$lang}/dermatology-website-management-services'
+      fullPath: '/{-$lang}/dermatology-website-management-services'
+      preLoaderRoute: typeof Char123LangChar125DermatologyWebsiteManagementServicesRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/{-$lang}/dermatology-website-maintenance-services': {
+      id: '/{-$lang}/dermatology-website-maintenance-services'
+      path: '/{-$lang}/dermatology-website-maintenance-services'
+      fullPath: '/{-$lang}/dermatology-website-maintenance-services'
+      preLoaderRoute: typeof Char123LangChar125DermatologyWebsiteMaintenanceServicesRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/{-$lang}/dermatology-website-design': {
+      id: '/{-$lang}/dermatology-website-design'
+      path: '/{-$lang}/dermatology-website-design'
+      fullPath: '/{-$lang}/dermatology-website-design'
+      preLoaderRoute: typeof Char123LangChar125DermatologyWebsiteDesignRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/{-$lang}/dermatology-website-checklists': {
+      id: '/{-$lang}/dermatology-website-checklists'
+      path: '/{-$lang}/dermatology-website-checklists'
+      fullPath: '/{-$lang}/dermatology-website-checklists'
+      preLoaderRoute: typeof Char123LangChar125DermatologyWebsiteChecklistsRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/{-$lang}/dermatology-social-media-services': {
+      id: '/{-$lang}/dermatology-social-media-services'
+      path: '/{-$lang}/dermatology-social-media-services'
+      fullPath: '/{-$lang}/dermatology-social-media-services'
+      preLoaderRoute: typeof Char123LangChar125DermatologySocialMediaServicesRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/{-$lang}/dermatology-seo-services': {
+      id: '/{-$lang}/dermatology-seo-services'
+      path: '/{-$lang}/dermatology-seo-services'
+      fullPath: '/{-$lang}/dermatology-seo-services'
+      preLoaderRoute: typeof Char123LangChar125DermatologySeoServicesRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/{-$lang}/dermatology-reputation-management': {
+      id: '/{-$lang}/dermatology-reputation-management'
+      path: '/{-$lang}/dermatology-reputation-management'
+      fullPath: '/{-$lang}/dermatology-reputation-management'
+      preLoaderRoute: typeof Char123LangChar125DermatologyReputationManagementRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/{-$lang}/dermatology-practice-growth': {
+      id: '/{-$lang}/dermatology-practice-growth'
+      path: '/{-$lang}/dermatology-practice-growth'
+      fullPath: '/{-$lang}/dermatology-practice-growth'
+      preLoaderRoute: typeof Char123LangChar125DermatologyPracticeGrowthRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/{-$lang}/dermatology-patient-portal': {
+      id: '/{-$lang}/dermatology-patient-portal'
+      path: '/{-$lang}/dermatology-patient-portal'
+      fullPath: '/{-$lang}/dermatology-patient-portal'
+      preLoaderRoute: typeof Char123LangChar125DermatologyPatientPortalRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/{-$lang}/dermatology-local-seo-services': {
+      id: '/{-$lang}/dermatology-local-seo-services'
+      path: '/{-$lang}/dermatology-local-seo-services'
+      fullPath: '/{-$lang}/dermatology-local-seo-services'
+      preLoaderRoute: typeof Char123LangChar125DermatologyLocalSeoServicesRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/{-$lang}/dermatology-google-ads-ppc': {
+      id: '/{-$lang}/dermatology-google-ads-ppc'
+      path: '/{-$lang}/dermatology-google-ads-ppc'
+      fullPath: '/{-$lang}/dermatology-google-ads-ppc'
+      preLoaderRoute: typeof Char123LangChar125DermatologyGoogleAdsPpcRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/{-$lang}/dermatology-email-marketing': {
+      id: '/{-$lang}/dermatology-email-marketing'
+      path: '/{-$lang}/dermatology-email-marketing'
+      fullPath: '/{-$lang}/dermatology-email-marketing'
+      preLoaderRoute: typeof Char123LangChar125DermatologyEmailMarketingRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/{-$lang}/dermatology-ecommerce-website-design': {
+      id: '/{-$lang}/dermatology-ecommerce-website-design'
+      path: '/{-$lang}/dermatology-ecommerce-website-design'
+      fullPath: '/{-$lang}/dermatology-ecommerce-website-design'
+      preLoaderRoute: typeof Char123LangChar125DermatologyEcommerceWebsiteDesignRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/{-$lang}/dermatology-conversion-rate-optimization': {
+      id: '/{-$lang}/dermatology-conversion-rate-optimization'
+      path: '/{-$lang}/dermatology-conversion-rate-optimization'
+      fullPath: '/{-$lang}/dermatology-conversion-rate-optimization'
+      preLoaderRoute: typeof Char123LangChar125DermatologyConversionRateOptimizationRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/{-$lang}/dermatology-before-after-gallery': {
+      id: '/{-$lang}/dermatology-before-after-gallery'
+      path: '/{-$lang}/dermatology-before-after-gallery'
+      fullPath: '/{-$lang}/dermatology-before-after-gallery'
+      preLoaderRoute: typeof Char123LangChar125DermatologyBeforeAfterGalleryRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/{-$lang}/dermatology-add-on-services': {
+      id: '/{-$lang}/dermatology-add-on-services'
+      path: '/{-$lang}/dermatology-add-on-services'
+      fullPath: '/{-$lang}/dermatology-add-on-services'
+      preLoaderRoute: typeof Char123LangChar125DermatologyAddOnServicesRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/{-$lang}/cookie-policy': {
+      id: '/{-$lang}/cookie-policy'
+      path: '/{-$lang}/cookie-policy'
+      fullPath: '/{-$lang}/cookie-policy'
+      preLoaderRoute: typeof Char123LangChar125CookiePolicyRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/{-$lang}/contact': {
+      id: '/{-$lang}/contact'
+      path: '/{-$lang}/contact'
+      fullPath: '/{-$lang}/contact'
+      preLoaderRoute: typeof Char123LangChar125ContactRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/{-$lang}/case-studies': {
+      id: '/{-$lang}/case-studies'
+      path: '/{-$lang}/case-studies'
+      fullPath: '/{-$lang}/case-studies'
+      preLoaderRoute: typeof Char123LangChar125CaseStudiesRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/{-$lang}/blog': {
+      id: '/{-$lang}/blog'
+      path: '/{-$lang}/blog'
+      fullPath: '/{-$lang}/blog'
+      preLoaderRoute: typeof Char123LangChar125BlogRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/{-$lang}/about': {
+      id: '/{-$lang}/about'
+      path: '/{-$lang}/about'
+      fullPath: '/{-$lang}/about'
+      preLoaderRoute: typeof Char123LangChar125AboutRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/lp/thank-you': {
+      id: '/lp/thank-you'
+      path: '/lp/thank-you'
+      fullPath: '/lp/thank-you'
+      preLoaderRoute: typeof LpThankYouRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/lp/dermatology-website-design': {
+      id: '/lp/dermatology-website-design'
+      path: '/lp/dermatology-website-design'
+      fullPath: '/lp/dermatology-website-design'
+      preLoaderRoute: typeof LpDermatologyWebsiteDesignRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/api/chat': {
+      id: '/api/chat'
+      path: '/api/chat'
+      fullPath: '/api/chat'
+      preLoaderRoute: typeof ApiChatRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/admin/login': {
+      id: '/admin/login'
+      path: '/admin/login'
+      fullPath: '/admin/login'
+      preLoaderRoute: typeof AdminLoginRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/admin/chats': {
+      id: '/admin/chats'
+      path: '/admin/chats'
+      fullPath: '/admin/chats'
+      preLoaderRoute: typeof AdminChatsRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/{-$lang}/blog/': {
+      id: '/{-$lang}/blog/'
       path: '/'
-      fullPath: '/'
-      preLoaderRoute: typeof IndexRouteImport
+      fullPath: '/{-$lang}/blog/'
+      preLoaderRoute: typeof Char123LangChar125BlogIndexRouteImport
+      parentRoute: typeof Char123LangChar125BlogRoute
+    }
+    '/admin/leads/': {
+      id: '/admin/leads/'
+      path: '/admin/leads'
+      fullPath: '/admin/leads/'
+      preLoaderRoute: typeof AdminLeadsIndexRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/{-$lang}/blog/$slug': {
+      id: '/{-$lang}/blog/$slug'
+      path: '/$slug'
+      fullPath: '/{-$lang}/blog/$slug'
+      preLoaderRoute: typeof Char123LangChar125BlogSlugRouteImport
+      parentRoute: typeof Char123LangChar125BlogRoute
+    }
+    '/api/public/sync-knowledge': {
+      id: '/api/public/sync-knowledge'
+      path: '/api/public/sync-knowledge'
+      fullPath: '/api/public/sync-knowledge'
+      preLoaderRoute: typeof ApiPublicSyncKnowledgeRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/admin/leads/$id': {
+      id: '/admin/leads/$id'
+      path: '/admin/leads/$id'
+      fullPath: '/admin/leads/$id'
+      preLoaderRoute: typeof AdminLeadsIdRouteImport
       parentRoute: typeof rootRouteImport
     }
   }
 }
 
+interface Char123LangChar125BlogRouteChildren {
+  Char123LangChar125BlogSlugRoute: typeof Char123LangChar125BlogSlugRoute
+  Char123LangChar125BlogIndexRoute: typeof Char123LangChar125BlogIndexRoute
+}
+
+const Char123LangChar125BlogRouteChildren: Char123LangChar125BlogRouteChildren =
+  {
+    Char123LangChar125BlogSlugRoute: Char123LangChar125BlogSlugRoute,
+    Char123LangChar125BlogIndexRoute: Char123LangChar125BlogIndexRoute,
+  }
+
+const Char123LangChar125BlogRouteWithChildren =
+  Char123LangChar125BlogRoute._addFileChildren(
+    Char123LangChar125BlogRouteChildren,
+  )
+
 const rootRouteChildren: RootRouteChildren = {
-  IndexRoute: IndexRoute,
+  SitemapDotxmlRoute: SitemapDotxmlRoute,
+  AdminChatsRoute: AdminChatsRoute,
+  AdminLoginRoute: AdminLoginRoute,
+  ApiChatRoute: ApiChatRoute,
+  LpDermatologyWebsiteDesignRoute: LpDermatologyWebsiteDesignRoute,
+  LpThankYouRoute: LpThankYouRoute,
+  Char123LangChar125AboutRoute: Char123LangChar125AboutRoute,
+  Char123LangChar125BlogRoute: Char123LangChar125BlogRouteWithChildren,
+  Char123LangChar125CaseStudiesRoute: Char123LangChar125CaseStudiesRoute,
+  Char123LangChar125ContactRoute: Char123LangChar125ContactRoute,
+  Char123LangChar125CookiePolicyRoute: Char123LangChar125CookiePolicyRoute,
+  Char123LangChar125DermatologyAddOnServicesRoute:
+    Char123LangChar125DermatologyAddOnServicesRoute,
+  Char123LangChar125DermatologyBeforeAfterGalleryRoute:
+    Char123LangChar125DermatologyBeforeAfterGalleryRoute,
+  Char123LangChar125DermatologyConversionRateOptimizationRoute:
+    Char123LangChar125DermatologyConversionRateOptimizationRoute,
+  Char123LangChar125DermatologyEcommerceWebsiteDesignRoute:
+    Char123LangChar125DermatologyEcommerceWebsiteDesignRoute,
+  Char123LangChar125DermatologyEmailMarketingRoute:
+    Char123LangChar125DermatologyEmailMarketingRoute,
+  Char123LangChar125DermatologyGoogleAdsPpcRoute:
+    Char123LangChar125DermatologyGoogleAdsPpcRoute,
+  Char123LangChar125DermatologyLocalSeoServicesRoute:
+    Char123LangChar125DermatologyLocalSeoServicesRoute,
+  Char123LangChar125DermatologyPatientPortalRoute:
+    Char123LangChar125DermatologyPatientPortalRoute,
+  Char123LangChar125DermatologyPracticeGrowthRoute:
+    Char123LangChar125DermatologyPracticeGrowthRoute,
+  Char123LangChar125DermatologyReputationManagementRoute:
+    Char123LangChar125DermatologyReputationManagementRoute,
+  Char123LangChar125DermatologySeoServicesRoute:
+    Char123LangChar125DermatologySeoServicesRoute,
+  Char123LangChar125DermatologySocialMediaServicesRoute:
+    Char123LangChar125DermatologySocialMediaServicesRoute,
+  Char123LangChar125DermatologyWebsiteChecklistsRoute:
+    Char123LangChar125DermatologyWebsiteChecklistsRoute,
+  Char123LangChar125DermatologyWebsiteDesignRoute:
+    Char123LangChar125DermatologyWebsiteDesignRoute,
+  Char123LangChar125DermatologyWebsiteMaintenanceServicesRoute:
+    Char123LangChar125DermatologyWebsiteMaintenanceServicesRoute,
+  Char123LangChar125DermatologyWebsiteManagementServicesRoute:
+    Char123LangChar125DermatologyWebsiteManagementServicesRoute,
+  Char123LangChar125DermatologyWebsiteMigrationRoute:
+    Char123LangChar125DermatologyWebsiteMigrationRoute,
+  Char123LangChar125DermatologyWebsiteRedesignRoute:
+    Char123LangChar125DermatologyWebsiteRedesignRoute,
+  Char123LangChar125DermatologyWebsiteSupportServicesRoute:
+    Char123LangChar125DermatologyWebsiteSupportServicesRoute,
+  Char123LangChar125DermatologyWebsitesPortfolioRoute:
+    Char123LangChar125DermatologyWebsitesPortfolioRoute,
+  Char123LangChar125FaqRoute: Char123LangChar125FaqRoute,
+  Char123LangChar125FreeDermatologistWebsiteAuditRoute:
+    Char123LangChar125FreeDermatologistWebsiteAuditRoute,
+  Char123LangChar125GetAFreeQuoteRoute: Char123LangChar125GetAFreeQuoteRoute,
+  Char123LangChar125MultiLocationDermatologyWebsiteDesignRoute:
+    Char123LangChar125MultiLocationDermatologyWebsiteDesignRoute,
+  Char123LangChar125OurProcessRoute: Char123LangChar125OurProcessRoute,
+  Char123LangChar125PlanPackagesAndCostsRoute:
+    Char123LangChar125PlanPackagesAndCostsRoute,
+  Char123LangChar125PrivacyPolicyRoute: Char123LangChar125PrivacyPolicyRoute,
+  Char123LangChar125RefundPolicyRoute: Char123LangChar125RefundPolicyRoute,
+  Char123LangChar125ServiceAgreementRoute:
+    Char123LangChar125ServiceAgreementRoute,
+  Char123LangChar125ServicesRoute: Char123LangChar125ServicesRoute,
+  Char123LangChar125TermsOfServiceRoute: Char123LangChar125TermsOfServiceRoute,
+  Char123LangChar125IndexRoute: Char123LangChar125IndexRoute,
+  AdminLeadsIdRoute: AdminLeadsIdRoute,
+  ApiPublicSyncKnowledgeRoute: ApiPublicSyncKnowledgeRoute,
+  AdminLeadsIndexRoute: AdminLeadsIndexRoute,
 }
 export const routeTree = rootRouteImport
   ._addFileChildren(rootRouteChildren)
