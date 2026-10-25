@@ -28,6 +28,7 @@ import { isValidUrlLang } from "@/i18n/languages";
 import { buildHreflangLinks, localizedUrl, resolveRouteLanguage } from "@/lib/i18n-routing";
 import { useTranslation } from "react-i18next";
 import { getStaticTranslation } from "@/i18n";
+import { robotsContent } from "@/lib/index-allowlist";
 
 // ---------- SEO ----------
 export const Route = createFileRoute("/{-$lang}/blog/")({
@@ -51,7 +52,7 @@ export const Route = createFileRoute("/{-$lang}/blog/")({
           content: st?.meta?.description ?? "Practical playbooks on dermatology SEO, website design, patient acquisition, HIPAA, reviews, and paid ads — written for growth-minded practice owners.",
         },
         { name: "keywords", content: st?.meta?.keywords ?? "dermatology blog, dermatology SEO, dermatology marketing, practice growth, HIPAA websites" },
-        { name: "robots", content: "index,follow,max-image-preview:large,max-snippet:-1" },
+        { name: "robots", content: robotsContent(params.lang, "/blog/index") },
         { property: "og:title", content: st?.meta?.og?.title ?? "Dermatology Marketing Blog — Playbooks that Grow Practices" },
         {
           property: "og:description",
@@ -68,7 +69,7 @@ export const Route = createFileRoute("/{-$lang}/blog/")({
         },
         { name: "twitter:image", content: POSTS.find((p) => p.featured)?.image ?? POSTS[0].image },
       ],
-      links: [{ rel: "canonical", href: "/blog" }, ...buildHreflangLinks("/blog")],
+      links: [{ rel: "canonical", href: "/blog" }, ...buildHreflangLinks("/blog", params.lang)],
       scripts: [
         {
           type: "application/ld+json",

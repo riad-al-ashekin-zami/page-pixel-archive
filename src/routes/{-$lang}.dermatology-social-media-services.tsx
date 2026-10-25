@@ -38,6 +38,7 @@ import {
 } from "lucide-react";
 import heroAsset from "@/assets/dermatology-social-hero.jpg.asset.json";
 import { isValidUrlLang } from "@/i18n/languages";
+import { robotsContent } from "@/lib/index-allowlist";
 
 const heroUrl = heroAsset.url;
 
@@ -118,6 +119,7 @@ export const Route = createFileRoute("/{-$lang}/dermatology-social-media-service
     const st = getStaticTranslation(lang, "socialMedia");
     return {
       meta: [
+        { name: "robots", content: robotsContent(params.lang, "/dermatology-social-media-services") },
         { title: st?.meta?.title ?? "Dermatology Social Media Marketing Services | Instagram, TikTok, Meta Ads" },
         { name: "description", content: st?.meta?.description ?? "Social media marketing for dermatology practices — Instagram, TikTok, Facebook, YouTube, and LinkedIn. HIPAA-safe content, monthly in-clinic shoots, and paid social measured on booked consults." },
         { property: "og:title", content: st?.meta?.og?.title ?? "Dermatology Social Media Marketing — Content That Books Consults" },
@@ -130,7 +132,7 @@ export const Route = createFileRoute("/{-$lang}/dermatology-social-media-service
         { name: "twitter:description", content: st?.meta?.twitter?.description ?? "Social content and paid campaigns scoped to booked consults for dermatology practices." },
       ],
       links: [
-        { rel: "canonical", href: "/dermatology-social-media-services" }, ...buildHreflangLinks("/dermatology-social-media-services"),
+        { rel: "canonical", href: "/dermatology-social-media-services" }, ...buildHreflangLinks("/dermatology-social-media-services", params.lang),
         { rel: "preload", as: "image", href: heroUrl, fetchpriority: "high" },
       ],
       scripts: [

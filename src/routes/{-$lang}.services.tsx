@@ -20,6 +20,7 @@ import {
 import { isValidUrlLang } from "@/i18n/languages";
 import { buildHreflangLinks, localizedUrl, resolveRouteLanguage } from "@/lib/i18n-routing";
 import { getStaticTranslation } from "@/i18n";
+import { robotsContent } from "@/lib/index-allowlist";
 
 export const Route = createFileRoute("/{-$lang}/services")({
   params: {
@@ -36,6 +37,7 @@ export const Route = createFileRoute("/{-$lang}/services")({
     const st = getStaticTranslation(lang, "services");
     return {
       meta: [
+        { name: "robots", content: robotsContent(params.lang, "/services") },
         { title: st?.meta?.title ?? "Dermatology Website Services — Design, SEO & Growth" },
         {
           name: "description",
@@ -55,7 +57,7 @@ export const Route = createFileRoute("/{-$lang}/services")({
         { property: "og:locale", content: lang },
         { name: "twitter:card", content: "summary_large_image" },
       ],
-      links: [{ rel: "canonical", href: canonical }, ...buildHreflangLinks("/services")],
+      links: [{ rel: "canonical", href: canonical }, ...buildHreflangLinks("/services", params.lang)],
       scripts: [
         {
           type: "application/ld+json",

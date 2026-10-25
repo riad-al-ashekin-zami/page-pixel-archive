@@ -15,6 +15,7 @@ import {
 } from "lucide-react";
 import heroBg from "@/assets/patient-portal-hero.jpg";
 import { isValidUrlLang } from "@/i18n/languages";
+import { robotsContent } from "@/lib/index-allowlist";
 
 type Feature = { icon: LucideIcon; title: string; desc: string };
 
@@ -51,6 +52,7 @@ export const Route = createFileRoute("/{-$lang}/dermatology-patient-portal")({
     const st = getStaticTranslation(lang, "patientPortal");
     return {
       meta: [
+        { name: "robots", content: robotsContent(params.lang, "/dermatology-patient-portal") },
         { title: st?.meta?.title ?? "Dermatology Patient Portal Design & Development | HIPAA-Compliant" },
         { name: "description", content: st?.meta?.description ?? "" },
         { property: "og:title", content: st?.meta?.og_title ?? "" },
@@ -63,7 +65,7 @@ export const Route = createFileRoute("/{-$lang}/dermatology-patient-portal")({
         { name: "twitter:description", content: st?.meta?.twitter_description ?? "" },
       ],
       links: [
-        { rel: "canonical", href: "/dermatology-patient-portal" }, ...buildHreflangLinks("/dermatology-patient-portal"),
+        { rel: "canonical", href: "/dermatology-patient-portal" }, ...buildHreflangLinks("/dermatology-patient-portal", params.lang),
         { rel: "preload", as: "image", href: heroBg, fetchpriority: "high" },
       ],
       scripts: [

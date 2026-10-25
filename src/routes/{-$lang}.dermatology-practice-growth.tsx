@@ -19,6 +19,7 @@ import { GrowthKpiSlider } from "@/components/widgets/growth-kpi-slider";
 import { isValidUrlLang } from "@/i18n/languages";
 import { useTranslation } from "react-i18next";
 import { getStaticTranslation } from "@/i18n";
+import { robotsContent } from "@/lib/index-allowlist";
 
 type Feature = { icon: LucideIcon; title: string; desc: string };
 
@@ -62,6 +63,7 @@ export const Route = createFileRoute("/{-$lang}/dermatology-practice-growth")({
     const st = getStaticTranslation(lang, "practiceGrowth");
     return {
       meta: [
+        { name: "robots", content: robotsContent(params.lang, "/dermatology-practice-growth") },
         { title: st?.meta?.title ?? "Dermatology Practice Growth Services | Booked-Visit Growth, Not Impressions" },
         { name: "description", content: st?.meta?.description ?? "Practice growth for dermatology clinics — patient acquisition, conversion optimization, retention automation, and revenue analytics tied to booked visits and service-line P&L." },
         { property: "og:title", content: st?.meta?.og?.title ?? "Dermatology Practice Growth — Booked Visits, Not Impressions" },
@@ -74,7 +76,7 @@ export const Route = createFileRoute("/{-$lang}/dermatology-practice-growth")({
         { name: "twitter:description", content: st?.meta?.twitter?.description ?? "Booked-visit growth for dermatology practices — measured on your P&L." },
       ],
       links: [
-        { rel: "canonical", href: "/dermatology-practice-growth" }, ...buildHreflangLinks("/dermatology-practice-growth"),
+        { rel: "canonical", href: "/dermatology-practice-growth" }, ...buildHreflangLinks("/dermatology-practice-growth", params.lang),
         { rel: "preload", as: "image", href: heroBg, fetchpriority: "high" },
       ],
       scripts: [

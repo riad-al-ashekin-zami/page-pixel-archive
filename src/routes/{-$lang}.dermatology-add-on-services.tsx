@@ -16,6 +16,7 @@ import {
   type LucideIcon,
 } from "lucide-react";
 import { isValidUrlLang } from "@/i18n/languages";
+import { robotsContent } from "@/lib/index-allowlist";
 
 
 type AddOn = { name: string; blurb: string };
@@ -176,6 +177,7 @@ export const Route = createFileRoute("/{-$lang}/dermatology-add-on-services")({
     const st = getStaticTranslation(lang, "addOns");
     return {
       meta: [
+        { name: "robots", content: robotsContent(params.lang, "/dermatology-add-on-services") },
         { title: st?.meta?.title ?? "Dermatology Website Add-On Services — Care, SEO, Growth & Integrations" },
         { name: "description", content: st?.meta?.description ?? "Premium add-on services for dermatology practices: 24/7 care & maintenance, HIPAA-aware hosting, content & CRO, local SEO, EHR & booking integrations, and full-funnel growth marketing. Month-to-month." },
         { property: "og:title", content: st?.meta?.og?.title ?? "Dermatology Website Add-On Services" },
@@ -187,7 +189,7 @@ export const Route = createFileRoute("/{-$lang}/dermatology-add-on-services")({
         { name: "twitter:card", content: "summary_large_image" },
       ],
       links: [
-        { rel: "canonical", href: "/dermatology-add-on-services" }, ...buildHreflangLinks("/dermatology-add-on-services"),
+        { rel: "canonical", href: "/dermatology-add-on-services" }, ...buildHreflangLinks("/dermatology-add-on-services", params.lang),
       ],
       scripts: [
         { type: "application/ld+json", children: JSON.stringify({

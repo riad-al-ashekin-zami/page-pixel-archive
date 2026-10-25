@@ -52,6 +52,7 @@ import { isValidUrlLang } from "@/i18n/languages";
 import { formatLocalizedNumber } from "@/lib/locale-format";
 import { useTranslation } from "react-i18next";
 import { getStaticTranslation } from "@/i18n";
+import { robotsContent } from "@/lib/index-allowlist";
 
 export const Route = createFileRoute("/{-$lang}/get-a-free-quote")({
   params: {
@@ -69,6 +70,7 @@ export const Route = createFileRoute("/{-$lang}/get-a-free-quote")({
 
     return {
       meta: [
+        { name: "robots", content: robotsContent(params.lang, "/get-a-free-quote") },
         { title: st?.meta?.title ?? "Get a Free Quote — Dermatology Website Design" },
         {
           name: "description",
@@ -89,7 +91,7 @@ export const Route = createFileRoute("/{-$lang}/get-a-free-quote")({
         { name: "twitter:image", content: "/__l5e/assets-v1/6e4e126d-30c1-493d-8b28-e1c7fe999d4f/hero-composition.webp" },
         { name: "twitter:card", content: "summary_large_image" },
       ],
-      links: [{ rel: "canonical", href: "/get-a-free-quote" }, ...buildHreflangLinks("/get-a-free-quote")],
+      links: [{ rel: "canonical", href: "/get-a-free-quote" }, ...buildHreflangLinks("/get-a-free-quote", params.lang)],
     };
   },
   component: QuotePage,

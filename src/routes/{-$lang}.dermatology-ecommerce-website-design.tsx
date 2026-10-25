@@ -50,6 +50,7 @@ import {
 import { isValidUrlLang } from "@/i18n/languages";
 import { useTranslation } from "react-i18next";
 import { getStaticTranslation } from "@/i18n";
+import { robotsContent } from "@/lib/index-allowlist";
 
 /* ============================================================
    ROUTE
@@ -68,6 +69,7 @@ export const Route = createFileRoute("/{-$lang}/dermatology-ecommerce-website-de
     const st = getStaticTranslation(lang, "ecommerce");
     return {
       meta: [
+        { name: "robots", content: robotsContent(lang, "/dermatology-ecommerce-website-design") },
         { title: st?.meta?.title ?? "Dermatology E-Commerce Website Design | HIPAA-Aware Skincare Storefronts" },
         {
           name: "description",
@@ -84,7 +86,7 @@ export const Route = createFileRoute("/{-$lang}/dermatology-ecommerce-website-de
         { name: "twitter:card", content: "summary_large_image" },
         { name: "twitter:image", content: dermEcomHero },
       ],
-      links: [{ rel: "canonical", href: "/dermatology-ecommerce-website-design" }, ...buildHreflangLinks("/dermatology-ecommerce-website-design")],
+      links: [{ rel: "canonical", href: "/dermatology-ecommerce-website-design" }, ...buildHreflangLinks("/dermatology-ecommerce-website-design", lang)],
       scripts: [
         {
           type: "application/ld+json",

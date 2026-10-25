@@ -18,6 +18,7 @@ import {
   UserCheck, Timer, HeartHandshake, Send, PlayCircle, Radio,
 } from "lucide-react";
 import { isValidUrlLang } from "@/i18n/languages";
+import { robotsContent } from "@/lib/index-allowlist";
 
 const CHANNELS_ICONS = [MessageCircle, Phone, Mail, Ticket, Video, PhoneCall];
 const AUDIENCES_ICONS = [Stethoscope, Building2, Baby, Scissors];
@@ -48,6 +49,7 @@ export const Route = createFileRoute("/{-$lang}/dermatology-website-support-serv
     const st = getStaticTranslation(params.lang, "support");
     return {
       meta: [
+        { name: "robots", content: robotsContent(params.lang, "/dermatology-website-support-services") },
         { title: st?.meta?.title ?? "Dermatology Website Support Services — Named Engineer, 15-min Emergency SLA" },
         { name: "description", content: st?.meta?.description ?? "Human website support for dermatology practices. Named engineer, live chat, priority phone, edit hours, staff training, HIPAA-aware guidance, and 24/7 emergency response. Month-to-month." },
         { property: "og:title", content: st?.meta?.og?.title ?? "Dermatology Website Support Services — Real Engineers, Real Response Times" },
@@ -58,7 +60,7 @@ export const Route = createFileRoute("/{-$lang}/dermatology-website-support-serv
         { name: "twitter:image", content: supportHero },
         { name: "twitter:card", content: "summary_large_image" },
       ],
-      links: [{ rel: "canonical", href: "/dermatology-website-support-services" }, ...buildHreflangLinks("/dermatology-website-support-services")],
+      links: [{ rel: "canonical", href: "/dermatology-website-support-services" }, ...buildHreflangLinks("/dermatology-website-support-services", params.lang)],
       scripts: [
         { type: "application/ld+json", children: JSON.stringify({ "@context": "https://schema.org", "@type": "Service", serviceType: st?.meta?.jsonLd?.serviceType ?? "Dermatology Website Support Services", provider: { "@type": "Organization", name: st?.meta?.jsonLd?.provider ?? "DermatologyWebsiteDesign.com" }, areaServed: "United States", offers: { "@type": "Offer", priceCurrency: "USD", price: "249", description: st?.meta?.jsonLd?.offerDescription ?? "Dermatology website support plan — starting price per month" } }) },
         { type: "application/ld+json", children: JSON.stringify({ "@context": "https://schema.org", "@type": "FAQPage", mainEntity: (st?.faq?.items ?? []).map((f: any) => ({ "@type": "Question", name: f.q, acceptedAnswer: { "@type": "Answer", text: f.a } })) }) },

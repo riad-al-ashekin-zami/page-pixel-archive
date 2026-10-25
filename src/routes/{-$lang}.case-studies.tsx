@@ -17,6 +17,7 @@ import { isValidUrlLang } from "@/i18n/languages";
 import { buildHreflangLinks, localizedUrl, resolveRouteLanguage } from "@/lib/i18n-routing";
 import { useTranslation } from "react-i18next";
 import { getStaticTranslation } from "@/i18n";
+import { robotsContent } from "@/lib/index-allowlist";
 
 const PAGE_PATH = "/case-studies";
 
@@ -36,6 +37,7 @@ export const Route = createFileRoute("/{-$lang}/case-studies")({
 
     return {
       meta: [
+        { name: "robots", content: robotsContent(params.lang, "/case-studies") },
         { title: st?.meta?.title ?? "Case Studies — Dermatology Website Growth Results" },
         { name: "description", content: st?.meta?.description ?? "" },
         {
@@ -53,7 +55,7 @@ export const Route = createFileRoute("/{-$lang}/case-studies")({
         { name: "twitter:image", content: "/__l5e/assets-v1/6e4e126d-30c1-493d-8b28-e1c7fe999d4f/hero-composition.webp" },
         { name: "twitter:card", content: "summary_large_image" },
       ],
-      links: [{ rel: "canonical", href: PAGE_PATH }, ...buildHreflangLinks(PAGE_PATH)],
+      links: [{ rel: "canonical", href: PAGE_PATH }, ...buildHreflangLinks(PAGE_PATH, params.lang)],
       scripts: [
         {
           type: "application/ld+json",

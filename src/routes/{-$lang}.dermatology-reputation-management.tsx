@@ -17,6 +17,7 @@ import {
 import { isValidUrlLang } from "@/i18n/languages";
 import { useTranslation } from "react-i18next";
 import { getStaticTranslation } from "@/i18n";
+import { robotsContent } from "@/lib/index-allowlist";
 
 type Item = { icon: LucideIcon; title: string; desc: string };
 
@@ -57,6 +58,7 @@ export const Route = createFileRoute("/{-$lang}/dermatology-reputation-managemen
     const st = getStaticTranslation(lang, "reputation");
     return {
       meta: [
+        { name: "robots", content: robotsContent(params.lang, "/dermatology-reputation-management") },
         { title: st?.meta?.title ?? "Dermatology Reputation Management | Reviews, GBP & 5-Star Growth" },
         { name: "description", content: st?.meta?.description ?? "" },
         { property: "og:title", content: st?.meta?.og_title ?? "" },
@@ -71,7 +73,7 @@ export const Route = createFileRoute("/{-$lang}/dermatology-reputation-managemen
         { name: "twitter:card", content: "summary_large_image" },
       ],
       links: [
-        { rel: "canonical", href: "/dermatology-reputation-management" }, ...buildHreflangLinks("/dermatology-reputation-management"),
+        { rel: "canonical", href: "/dermatology-reputation-management" }, ...buildHreflangLinks("/dermatology-reputation-management", params.lang),
       ],
       scripts: [
         { type: "application/ld+json", children: JSON.stringify({

@@ -29,6 +29,7 @@ import { SiteFooter } from "@/components/site-footer/site-footer";
 import faqOgImage from "@/assets/faq-og.jpg";
 import { isValidUrlLang } from "@/i18n/languages";
 import { buildHreflangLinks, localizedUrl, resolveRouteLanguage } from "@/lib/i18n-routing";
+import { robotsContent } from "@/lib/index-allowlist";
 
 const PAGE_PATH = "/faq";
 
@@ -50,6 +51,7 @@ export const Route = createFileRoute("/{-$lang}/faq")({
     
     return {
       meta: [
+        { name: "robots", content: robotsContent(params.lang, "/faq") },
         { title: PAGE_TITLE },
         { name: "description", content: PAGE_DESCRIPTION },
         {
@@ -67,7 +69,7 @@ export const Route = createFileRoute("/{-$lang}/faq")({
         { name: "twitter:image", content: faqOgImage },
       ],
       links: [
-        { rel: "canonical", href: PAGE_PATH }, ...buildHreflangLinks(PAGE_PATH),
+        { rel: "canonical", href: PAGE_PATH }, ...buildHreflangLinks(PAGE_PATH, params.lang),
         { rel: "preload", as: "image", href: faqOgImage, fetchpriority: "low" },
       ],
       scripts: [

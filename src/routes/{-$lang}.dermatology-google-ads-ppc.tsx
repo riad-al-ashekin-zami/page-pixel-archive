@@ -40,6 +40,7 @@ import {
 import heroAsset from "@/assets/dermatology-ppc-hero.jpg.asset.json";
 import { CpcCalculator } from "@/components/widgets/cpc-calculator";
 import { isValidUrlLang } from "@/i18n/languages";
+import { robotsContent } from "@/lib/index-allowlist";
 
 const heroUrl = heroAsset.url;
 
@@ -103,6 +104,7 @@ export const Route = createFileRoute("/{-$lang}/dermatology-google-ads-ppc")({
     const st = getStaticTranslation(lang, "googleAds");
     return {
       meta: [
+        { name: "robots", content: robotsContent(params.lang, "/dermatology-google-ads-ppc") },
         { title: st?.meta?.title ?? "Dermatology Google Ads & PPC Management | Booked Visits, Not Clicks" },
         { name: "description", content: st?.meta?.description ?? "" },
         { property: "og:title", content: st?.meta?.og?.title ?? "" },
@@ -115,7 +117,7 @@ export const Route = createFileRoute("/{-$lang}/dermatology-google-ads-ppc")({
         { name: "twitter:description", content: st?.meta?.twitter?.description ?? "" }
       ],
       links: [
-        { rel: "canonical", href: "/dermatology-google-ads-ppc" }, ...buildHreflangLinks("/dermatology-google-ads-ppc"),
+        { rel: "canonical", href: "/dermatology-google-ads-ppc" }, ...buildHreflangLinks("/dermatology-google-ads-ppc", params.lang),
         { rel: "preload", as: "image", href: heroUrl, fetchpriority: "high" }
       ],
       scripts: [

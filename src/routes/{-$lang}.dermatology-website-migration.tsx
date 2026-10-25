@@ -46,6 +46,7 @@ import {
   AlertTriangle,
 } from "lucide-react";
 import { isValidUrlLang } from "@/i18n/languages";
+import { robotsContent } from "@/lib/index-allowlist";
 
 export const Route = createFileRoute("/{-$lang}/dermatology-website-migration")({
   params: {
@@ -62,6 +63,7 @@ export const Route = createFileRoute("/{-$lang}/dermatology-website-migration")(
     const st = getStaticTranslation(lang, "migration");
     return {
       meta: [
+        { name: "robots", content: robotsContent(params.lang, "/dermatology-website-migration") },
         { title: st?.meta?.title ?? "Dermatology Website Migration — Zero Downtime, Zero SEO Loss" },
         {
           name: "description",
@@ -78,7 +80,7 @@ export const Route = createFileRoute("/{-$lang}/dermatology-website-migration")(
         { name: "twitter:card", content: "summary_large_image" },
         { name: "twitter:image", content: dermMigrationHero },
       ],
-      links: [{ rel: "canonical", href: "/dermatology-website-migration" }, ...buildHreflangLinks("/dermatology-website-migration")],
+      links: [{ rel: "canonical", href: "/dermatology-website-migration" }, ...buildHreflangLinks("/dermatology-website-migration", params.lang)],
       scripts: [
         {
           type: "application/ld+json",

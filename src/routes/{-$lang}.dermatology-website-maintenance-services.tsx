@@ -18,6 +18,7 @@ import {
   FileCheck2, Bell, Zap, Eye, HardDrive, Radio, ShieldAlert, Quote, Star,
 } from "lucide-react";
 import { isValidUrlLang } from "@/i18n/languages";
+import { robotsContent } from "@/lib/index-allowlist";
 
 const liveSites = [
   { name: "LA Derm", region: "US-East", uptime: 99.99, ms: 128 },
@@ -98,6 +99,7 @@ export const Route = createFileRoute("/{-$lang}/dermatology-website-maintenance-
 
     return {
       meta: [
+        { name: "robots", content: robotsContent(params.lang, "/dermatology-website-maintenance-services") },
         { title: st?.meta?.title ?? "Dermatology Website Maintenance Services — 24/7 HIPAA-Aware Care" },
         { name: "description", content: st?.meta?.description ?? "Premium monthly support & maintenance for dermatology websites. 24/7 uptime monitoring, HIPAA-aware updates, daily backups, security patching, Core Web Vitals & SEO health. Month-to-month." },
         { property: "og:title", content: st?.meta?.og?.title ?? "Dermatology Website Maintenance Services — 24/7 Care Plans" },
@@ -108,7 +110,7 @@ export const Route = createFileRoute("/{-$lang}/dermatology-website-maintenance-
         { name: "twitter:image", content: supportHero },
         { name: "twitter:card", content: "summary_large_image" },
       ],
-      links: [{ rel: "canonical", href: "/dermatology-website-maintenance-services" }, ...buildHreflangLinks("/dermatology-website-maintenance-services")],
+      links: [{ rel: "canonical", href: "/dermatology-website-maintenance-services" }, ...buildHreflangLinks("/dermatology-website-maintenance-services", params.lang)],
       scripts: [
         { type: "application/ld+json", children: JSON.stringify({ "@context": "https://schema.org", "@type": "Service", serviceType: st?.meta?.jsonLd?.serviceType ?? "Dermatology Website Maintenance Services", provider: { "@type": "Organization", name: st?.meta?.jsonLd?.provider ?? "DermatologyWebsiteDesign.com" }, areaServed: st?.meta?.jsonLd?.areaServed ?? "United States", offers: { "@type": "Offer", priceCurrency: "USD", price: "299", description: st?.meta?.jsonLd?.offerDescription ?? "Dermatology website care plan — starting price per month" } }) },
         { type: "application/ld+json", children: JSON.stringify({ "@context": "https://schema.org", "@type": "FAQPage", mainEntity: faqItems.map((f: any) => ({ "@type": "Question", name: f.q, acceptedAnswer: { "@type": "Answer", text: f.a } })) }) },

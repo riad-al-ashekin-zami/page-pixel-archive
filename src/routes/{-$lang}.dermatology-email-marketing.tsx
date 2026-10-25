@@ -17,6 +17,7 @@ import {
 import { isValidUrlLang } from "@/i18n/languages";
 import { useTranslation } from "react-i18next";
 import { getStaticTranslation } from "@/i18n";
+import { robotsContent } from "@/lib/index-allowlist";
 
 type Item = { icon: LucideIcon; title: string; desc: string };
 
@@ -66,6 +67,7 @@ export const Route = createFileRoute("/{-$lang}/dermatology-email-marketing")({
     const st = getStaticTranslation(lang, "emailMarketing");
     return {
       meta: [
+        { name: "robots", content: robotsContent(params.lang, "/dermatology-email-marketing") },
         { title: st?.meta?.title ?? "Dermatology Email Marketing | HIPAA-Safe Recall, Newsletters & Automation" },
         { name: "description", content: st?.meta?.description ?? "HIPAA-safe email marketing for dermatology practices" },
         { property: "og:title", content: st?.meta?.og?.title ?? "Dermatology Email Marketing" },
@@ -78,7 +80,7 @@ export const Route = createFileRoute("/{-$lang}/dermatology-email-marketing")({
         { property: "og:image", content: "/__l5e/assets-v1/6e4e126d-30c1-493d-8b28-e1c7fe999d4f/hero-composition.webp" },
         { name: "twitter:image", content: "/__l5e/assets-v1/6e4e126d-30c1-493d-8b28-e1c7fe999d4f/hero-composition.webp" },
       ],
-      links: [{ rel: "canonical", href: "/dermatology-email-marketing" }, ...buildHreflangLinks("/dermatology-email-marketing")],
+      links: [{ rel: "canonical", href: "/dermatology-email-marketing" }, ...buildHreflangLinks("/dermatology-email-marketing", params.lang)],
       scripts: [
         { type: "application/ld+json", children: JSON.stringify({
           "@context": "https://schema.org", "@type": "Service",

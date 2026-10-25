@@ -19,6 +19,7 @@ import { RadiusPicker } from "@/components/widgets/radius-picker";
 import { isValidUrlLang } from "@/i18n/languages";
 import { useTranslation } from "react-i18next";
 import { getStaticTranslation } from "@/i18n";
+import { robotsContent } from "@/lib/index-allowlist";
 
 type Feature = { icon: LucideIcon; title: string; desc: string };
 
@@ -69,6 +70,7 @@ export const Route = createFileRoute("/{-$lang}/dermatology-local-seo-services")
     const st = getStaticTranslation(lang, "localSeo");
     return {
       meta: [
+        { name: "robots", content: robotsContent(params.lang, "/dermatology-local-seo-services") },
         { title: st?.meta?.title ?? "Dermatology Local SEO Services | Rank in the Google Map Pack" },
         { name: "description", content: st?.meta?.description ?? "Local SEO for dermatology clinics — Google Business Profile optimization, geo-targeted location pages, HIPAA-safe review generation, and citation building for solo and multi-location practices." },
         { property: "og:title", content: st?.meta?.og_title ?? "Dermatology Local SEO Services — Own the Map Pack" },
@@ -81,7 +83,7 @@ export const Route = createFileRoute("/{-$lang}/dermatology-local-seo-services")
         { name: "twitter:description", content: st?.meta?.twitter_description ?? "Own the Google map pack for every city you serve." },
       ],
       links: [
-        { rel: "canonical", href: "/dermatology-local-seo-services" }, ...buildHreflangLinks("/dermatology-local-seo-services"),
+        { rel: "canonical", href: "/dermatology-local-seo-services" }, ...buildHreflangLinks("/dermatology-local-seo-services", params.lang),
         { rel: "preload", as: "image", href: heroBg, fetchpriority: "high" },
       ],
       scripts: [
