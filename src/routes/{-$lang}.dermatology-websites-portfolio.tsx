@@ -12,10 +12,9 @@ import { SiteHeader } from "@/components/site-header/site-header";
 import { SiteFooter } from "@/components/site-footer/site-footer";
 import heroFront from "@/assets/derm-portfolio-hero-front.png";
 import heroBack from "@/assets/derm-portfolio-hero-back.jpg";
-import { FaqSnippetSection } from "@/components/sections/faq-snippet-section";
 import { PortfolioGallery } from "@/components/sections/portfolio-gallery";
 import { isValidUrlLang } from "@/i18n/languages";
-import { buildHreflangLinks, localizedUrl, resolveRouteLanguage } from "@/lib/i18n-routing";
+import { buildHreflangLinks, localizedUrl, resolveRouteLanguage, SITE_ORIGIN } from "@/lib/i18n-routing";
 import { useTranslation } from "react-i18next";
 import { getStaticTranslation } from "@/i18n";
 
@@ -34,29 +33,26 @@ export const Route = createFileRoute("/{-$lang}/dermatology-websites-portfolio")
   head: ({ params }) => {
     const { lang } = params;
     const st = getStaticTranslation(resolveRouteLanguage(params.lang), "portfolio");
-    const PAGE_TITLE = st?.meta?.title ?? "Dermatology Websites Portfolio — Real Practice Redesigns";
-    const PAGE_DESCRIPTION = st?.meta?.description ?? "A curated portfolio of dermatology websites we've designed and built — cosmetic, medical, pediatric, and multi-location practices with measurable growth in bookings, SEO, and speed.";
+    const PAGE_TITLE = st?.meta?.title ?? "Our Work & Case Studies";
+    const PAGE_DESCRIPTION = st?.meta?.description ?? "Browse our work, client results and case studies across cosmetic, medical and multi-location skin practices.";
+    const pageUrl = localizedUrl(resolveRouteLanguage(lang), PAGE_PATH);
+    const ogImage = heroFront.startsWith("http") ? heroFront : `${SITE_ORIGIN}${heroFront}`;
 
     return {
       meta: [
         { title: PAGE_TITLE },
         { name: "description", content: PAGE_DESCRIPTION },
-        {
-          name: "keywords",
-          content: st?.meta?.keywords ?? "dermatology website portfolio, dermatology web design examples, dermatology website case studies, dermatology practice websites",
-        },
         { property: "og:title", content: PAGE_TITLE },
         { property: "og:description", content: PAGE_DESCRIPTION },
         { property: "og:type", content: "website" },
-        { property: "og:url", content: PAGE_PATH },
+        { property: "og:url", content: pageUrl },
         { name: "twitter:card", content: "summary_large_image" },
         { name: "twitter:title", content: PAGE_TITLE },
         { name: "twitter:description", content: PAGE_DESCRIPTION },
-        { property: "og:image", content: heroFront },
-        { name: "twitter:image", content: heroFront },
-        { name: "twitter:card", content: "summary_large_image" },
+        { property: "og:image", content: ogImage },
+        { name: "twitter:image", content: ogImage },
       ],
-      links: [{ rel: "canonical", href: PAGE_PATH }, ...buildHreflangLinks(PAGE_PATH)],
+      links: [{ rel: "canonical", href: pageUrl }, ...buildHreflangLinks(PAGE_PATH)],
       scripts: [
         {
           type: "application/ld+json",
@@ -87,6 +83,10 @@ function PortfolioPage() {
 
       <main id="main">
         {/* ================= HERO ================= */}
+        {/* TODO(owner): The hero case (Aventura Skin Studio, "+214% consult requests") is shown as a
+            SAMPLE case study. Replace it with real client project data (name, screenshots, results)
+            and add a separate "Our Client Work" section above the inspiration gallery.
+            TODO(owner): verify the "50+ practices", "3.4x booking lift" and "Lighthouse 98" stats. */}
         <section
           className="relative isolate overflow-hidden"
           style={{
@@ -357,7 +357,6 @@ function PortfolioPage() {
           <Link to="/plan-packages-and-costs" className="font-medium text-foreground underline-offset-4 hover:text-brand-primary hover:underline">{t("footerLinks.pricing")}</Link>.
         </p>
 
-      <FaqSnippetSection />
       <SiteFooter />
     </div>
   );
