@@ -114,7 +114,7 @@ const socials = [
 
 
 
-export function SiteFooter() {
+export function SiteFooter({ hideCta = false }: { hideCta?: boolean } = {}) {
   const { t, i18n } = useTranslation("footer");
   const isRtl = i18n.resolvedLanguage === "ar" || i18n.language?.startsWith("ar");
   return (
@@ -203,8 +203,7 @@ export function SiteFooter() {
                 >
                   {t("cta.headingLead")}{" "}
                   <span className="text-[#5cbdb9]">{t("cta.headingHighlight")}</span>
-                  <span className="lg:hidden">{t("cta.headingTailShort")}</span>
-                  <span className="hidden lg:inline">{t("cta.headingTailLong")}</span>
+                  {t("cta.headingTailLong")}
                 </h2>
                 <p className="mt-2 max-w-2xl text-sm text-slate-300/90">
                   <span className="lg:hidden">{t("cta.descriptionShort")}</span>
