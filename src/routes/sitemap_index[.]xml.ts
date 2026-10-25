@@ -6,7 +6,7 @@ import { URL_LANGUAGE_CODES, DEFAULT_LANGUAGE } from "@/i18n/languages";
 const BASE_URL = "https://dermatologywebsitedesign.com";
 
 /**
- * sitemap.xml lists ONLY the allowlisted (indexable) URLs — see
+ * sitemap_index.xml lists ONLY the allowlisted (indexable) URLs — see
  * src/lib/index-allowlist.ts. Noindexed pages stay out of the sitemap but
  * remain crawlable (robots.txt allows everything) so Google can read their
  * noindex tag.
