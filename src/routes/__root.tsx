@@ -307,6 +307,11 @@ function RootComponent() {
     applyHtmlLangAndDir(urlLang);
   }, [urlLang]);
 
+  // Store first-landing UTM parameters so they survive navigation to /contact.
+  useEffect(() => {
+    captureTrackingOnLanding();
+  }, []);
+
   useEffect(() => {
     if (typeof document === "undefined") return;
     return installTextNormalizationObserver(document.body, urlLang);
