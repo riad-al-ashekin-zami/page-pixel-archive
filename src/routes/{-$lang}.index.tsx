@@ -1,7 +1,7 @@
 import { useEffect } from "react";
 import { useTranslation } from "react-i18next";
 import { createFileRoute, notFound } from "@tanstack/react-router";
-import { buildHreflangLinks, localizedUrl, resolveRouteLanguage } from "@/lib/i18n-routing";
+import { buildHreflangLinks, localizedUrl, resolveRouteLanguage, SITE_ORIGIN } from "@/lib/i18n-routing";
 import { SiteHeader } from "@/components/site-header/site-header";
 import { SiteFooter } from "@/components/site-footer/site-footer";
 import { ServicesSection } from "@/components/sections/services-section";
@@ -46,8 +46,9 @@ export const Route = createFileRoute("/{-$lang}/")({
     const lang = resolveRouteLanguage(params.lang);
     const canonical = localizedUrl(resolveRouteLanguage(params.lang), "/");
     const t = getStaticTranslation(lang, "home");
-    const title = t?.meta?.title ?? "Dermatology Website Design — HIPAA-Aware Growth Platforms";
-    const description = t?.meta?.description ?? "HIPAA-aware websites, SEO, and marketing for dermatology practices. Free website audit in 24 hours.";
+    const title = t?.meta?.title ?? "Dermatology Website Design | HIPAA-Aware, SEO-Ready Websites";
+    const description = t?.meta?.description ?? "Dermatology website design agency building HIPAA-aware, SEO-optimized websites for dermatology practices. Transparent pricing. Free audit.";
+    const ogImage = `${SITE_ORIGIN}${heroComposition.url}`;
     const orgDesc = t?.meta?.orgDescription ?? description;
     return {
       meta: [
@@ -57,8 +58,11 @@ export const Route = createFileRoute("/{-$lang}/")({
         { property: "og:description", content: description },
         { property: "og:url", content: canonical },
         { property: "og:locale", content: lang },
-        { property: "og:image", content: heroComposition.url },
-        { name: "twitter:image", content: heroComposition.url },
+        { name: "robots", content: "index,follow" },
+        { name: "twitter:title", content: title },
+        { name: "twitter:description", content: description },
+        { property: "og:image", content: ogImage },
+        { name: "twitter:image", content: ogImage },
         { name: "twitter:card", content: "summary_large_image" },
       ],
       links: [
