@@ -47,7 +47,7 @@ export const Route = createFileRoute("/lp/dermatology-website-design")({
     meta: [
       { title: "Dermatology Website Design — Premium Sites That Book More Patients" },
       { name: "description", content: "Award-winning dermatology website design agency. HIPAA-aware, SEO-optimized, mobile-first websites for skin clinics worldwide. Free custom mockup in 48 hours." },
-      { name: "robots", content: "noindex, nofollow, noarchive, nosnippet" },
+      { name: "robots", content: "noindex,follow" },
       { name: "googlebot", content: "noindex, nofollow" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
       { name: "theme-color", content: "#ffffff" },

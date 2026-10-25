@@ -80,7 +80,8 @@ export const Route = createFileRoute("/{-$lang}/dermatology-seo-services")({
         },
       ],
       links: [
-        { rel: "canonical", href: "/dermatology-seo-services" }, ...buildHreflangLinks("/dermatology-seo-services", params.lang),
+        { rel: "canonical", href: localizedUrl(resolveRouteLanguage(params.lang), "/dermatology-seo-services") },
+        ...buildHreflangLinks("/dermatology-seo-services", params.lang),
         { rel: "preload", as: "image", href: heroBg, fetchpriority: "high" },
       ],
       scripts: [

@@ -7,7 +7,7 @@ export const Route = createFileRoute("/lp/thank-you")({
     meta: [
       { title: "Thank You — We'll Be In Touch Within 24 Hours" },
       { name: "description", content: "Your request has been received. Our team will reach out within 24 hours." },
-      { name: "robots", content: "noindex, nofollow, noarchive, nosnippet" },
+      { name: "robots", content: "noindex,follow" },
       { name: "googlebot", content: "noindex, nofollow" },
     ],
   }),

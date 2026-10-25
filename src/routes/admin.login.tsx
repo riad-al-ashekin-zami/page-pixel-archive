@@ -7,7 +7,7 @@ export const Route = createFileRoute("/admin/login")({
   head: () => ({
     meta: [
       { title: "Admin Login — Dermatology Website Design" },
-      { name: "robots", content: "noindex, nofollow" },
+      { name: "robots", content: "noindex,follow" },
     ],
   }),
   component: AdminLoginPage,

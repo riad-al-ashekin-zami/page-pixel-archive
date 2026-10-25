@@ -117,7 +117,8 @@ export const Route = createFileRoute("/{-$lang}/dermatology-google-ads-ppc")({
         { name: "twitter:description", content: st?.meta?.twitter?.description ?? "" }
       ],
       links: [
-        { rel: "canonical", href: "/dermatology-google-ads-ppc" }, ...buildHreflangLinks("/dermatology-google-ads-ppc", params.lang),
+        { rel: "canonical", href: localizedUrl(resolveRouteLanguage(params.lang), "/dermatology-google-ads-ppc") },
+        ...buildHreflangLinks("/dermatology-google-ads-ppc", params.lang),
         { rel: "preload", as: "image", href: heroUrl, fetchpriority: "high" }
       ],
       scripts: [

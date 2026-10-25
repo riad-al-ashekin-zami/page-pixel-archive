@@ -132,7 +132,8 @@ export const Route = createFileRoute("/{-$lang}/dermatology-social-media-service
         { name: "twitter:description", content: st?.meta?.twitter?.description ?? "Social content and paid campaigns scoped to booked consults for dermatology practices." },
       ],
       links: [
-        { rel: "canonical", href: "/dermatology-social-media-services" }, ...buildHreflangLinks("/dermatology-social-media-services", params.lang),
+        { rel: "canonical", href: localizedUrl(resolveRouteLanguage(params.lang), "/dermatology-social-media-services") },
+        ...buildHreflangLinks("/dermatology-social-media-services", params.lang),
         { rel: "preload", as: "image", href: heroUrl, fetchpriority: "high" },
       ],
       scripts: [

@@ -72,7 +72,10 @@ export const Route = createFileRoute("/{-$lang}/dermatology-website-checklists")
         { property: "og:image", content: "/__l5e/assets-v1/6e4e126d-30c1-493d-8b28-e1c7fe999d4f/hero-composition.webp" },
         { name: "twitter:image", content: "/__l5e/assets-v1/6e4e126d-30c1-493d-8b28-e1c7fe999d4f/hero-composition.webp" },
       ],
-      links: [{ rel: "canonical", href: PAGE_PATH }, ...buildHreflangLinks(PAGE_PATH, params.lang)],
+      links: [
+        { rel: "canonical", href: localizedUrl(resolveRouteLanguage(params.lang), PAGE_PATH) },
+        ...buildHreflangLinks(PAGE_PATH, params.lang),
+      ],
       scripts: [
         {
           type: "application/ld+json",

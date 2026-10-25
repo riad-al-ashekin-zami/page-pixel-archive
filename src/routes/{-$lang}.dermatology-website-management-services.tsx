@@ -1,6 +1,6 @@
 import { createFileRoute, notFound } from "@tanstack/react-router";
 import { LocalLink as Link } from "@/components/local-link";
-import { buildHreflangLinks } from "@/lib/i18n-routing";
+import { buildHreflangLinks, localizedUrl, resolveRouteLanguage } from "@/lib/i18n-routing";
 import { useEffect, useState } from "react";
 import { SiteHeader } from "@/components/site-header/site-header";
 import { SiteFooter } from "@/components/site-footer/site-footer";
@@ -107,7 +107,10 @@ export const Route = createFileRoute("/{-$lang}/dermatology-website-management-s
         { name: "twitter:image", content: "/__l5e/assets-v1/6e4e126d-30c1-493d-8b28-e1c7fe999d4f/hero-composition.webp" },
         { name: "twitter:card", content: "summary_large_image" },
       ],
-      links: [{ rel: "canonical", href: "/dermatology-website-management-services" }, ...buildHreflangLinks("/dermatology-website-management-services", params.lang)],
+      links: [
+        { rel: "canonical", href: localizedUrl(resolveRouteLanguage(params.lang), "/dermatology-website-management-services") },
+        ...buildHreflangLinks("/dermatology-website-management-services", params.lang),
+      ],
       scripts: [
         { type: "application/ld+json", children: JSON.stringify({ "@context": "https://schema.org", "@type": "Service", serviceType: st?.json_ld?.service_type ?? "Dermatology Website Management Services", provider: { "@type": "Organization", name: st?.json_ld?.provider_name ?? "DermatologyWebsiteDesign.com" }, areaServed: "United States", offers: { "@type": "Offer", priceCurrency: "USD", price: "799", description: st?.json_ld?.offer_description ?? "Dermatology website management — starting price per month" } }) },
         { type: "application/ld+json", children: JSON.stringify({ "@context": "https://schema.org", "@type": "FAQPage", mainEntity: (st?.faq?.items ?? []).map((f: any) => ({ "@type": "Question", name: f.q, acceptedAnswer: { "@type": "Answer", text: f.a } })) }) },
