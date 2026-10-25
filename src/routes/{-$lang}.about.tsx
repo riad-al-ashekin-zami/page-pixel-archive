@@ -65,22 +65,24 @@ export const Route = createFileRoute("/{-$lang}/about")({
     const canonical = localizedUrl(lang, "/about");
     return {
       meta: [
-        { title: st?.meta?.title ?? "About Us — Dermatology Website Design Agency" },
+        { title: st?.meta?.title ?? "About Us" },
         {
           name: "description",
-          content: st?.meta?.description ?? "We build HIPAA-aware websites and growth marketing exclusively for dermatology practices. Meet the team behind the results.",
+          content: st?.meta?.description ?? "Meet the senior team that builds HIPAA-aware websites, SEO and patient acquisition for skin clinics. See how we work and what we stand for.",
         },
-        { property: "og:title", content: st?.meta?.ogTitle ?? "About Us — Dermatology Website Design" },
+        { property: "og:title", content: st?.meta?.ogTitle ?? "About Us" },
         {
           property: "og:description",
-          content: st?.meta?.ogDescription ?? "A niche agency serving dermatology practices with premium websites, SEO, and patient acquisition.",
+          content: st?.meta?.ogDescription ?? "Meet the senior team that builds HIPAA-aware websites, SEO and patient acquisition for skin clinics. See how we work and what we stand for.",
         },
         { property: "og:type", content: "website" },
         { property: "og:url", content: canonical },
         { property: "og:locale", content: lang },
         { name: "twitter:card", content: "summary_large_image" },
-        { property: "og:image", content: aboutHero },
-        { name: "twitter:image", content: aboutHero },
+        { name: "twitter:title", content: st?.meta?.ogTitle ?? "About Us" },
+        { name: "twitter:description", content: st?.meta?.ogDescription ?? "Meet the senior team that builds HIPAA-aware websites, SEO and patient acquisition for skin clinics. See how we work and what we stand for." },
+        { property: "og:image", content: aboutHero.startsWith("http") ? aboutHero : `${SITE_ORIGIN}${aboutHero}` },
+        { name: "twitter:image", content: aboutHero.startsWith("http") ? aboutHero : `${SITE_ORIGIN}${aboutHero}` },
       ],
       links: [
         { rel: "canonical", href: canonical },
