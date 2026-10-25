@@ -161,7 +161,7 @@ export const submitLead = createServerFn({ method: "POST" })
     const result = await forwardAuditToFormspree({
       ...insert,
       id: row.id,
-      lead_score: score,
+      project_details: data.project_details,
       language: data.language,
       utm_source: data.utm_source,
       utm_medium: data.utm_medium,
