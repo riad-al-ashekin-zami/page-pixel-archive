@@ -45,7 +45,7 @@ function hreflangCode(fullPath: string): string {
   return DEFAULT_LANGUAGE;
 }
 
-export const Route = createFileRoute("/sitemap.xml")({
+export const Route = createFileRoute("/sitemap_index.xml")({
   server: {
     handlers: {
       GET: async () => {
