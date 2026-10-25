@@ -1,6 +1,6 @@
 import { createFileRoute, notFound } from "@tanstack/react-router";
 import { LocalLink as Link } from "@/components/local-link";
-import { buildHreflangLinks } from "@/lib/i18n-routing";
+import { buildHreflangLinks, localizedUrl, resolveRouteLanguage, SITE_ORIGIN } from "@/lib/i18n-routing";
 import { motion } from "framer-motion";
 import { useState } from "react";
 import { useTranslation } from "react-i18next";
@@ -58,30 +58,32 @@ export const Route = createFileRoute("/{-$lang}/dermatology-website-design")({
     const st = getStaticTranslation(lang, "websiteDesign");
     return {
       meta: [
-        { title: st?.meta?.title ?? "Custom Dermatology Website Design — HIPAA-Aware & Fast" },
+        { title: st?.meta?.title ?? "Custom Website Design for Skin Clinics" },
         {
           name: "description",
-          content: st?.meta?.description ?? "Premium custom dermatology website design for solo, multi-location, pediatric, and Mohs practices. HIPAA-aware, fast, SEO-optimized, and conversion-focused.",
+          content: st?.meta?.description ?? "Custom, conversion-focused websites for skin clinics and aesthetic practices. HIPAA-aware, fast, and built to turn visitors into booked consultations.",
         },
-        { property: "og:title", content: st?.meta?.ogTitle ?? "Dermatology Website Design — Custom & Conversion-Focused" },
+        { property: "og:title", content: st?.meta?.ogTitle ?? "Custom Website Design for Skin Clinics" },
         {
           property: "og:description",
-          content: st?.meta?.ogDescription ?? "100% custom dermatology websites for solo, multi-location, pediatric, and Mohs surgical practices. Built for patients and Google.",
+          content: st?.meta?.ogDescription ?? "Custom, conversion-focused websites for skin clinics and aesthetic practices. HIPAA-aware, fast, and built to turn visitors into booked consultations.",
         },
         { property: "og:type", content: "website" },
-        { property: "og:url", content: "/dermatology-website-design" },
-        { property: "og:image", content: dermHero },
-        { name: "twitter:image", content: dermHero },
+        { property: "og:url", content: localizedUrl(resolveRouteLanguage(lang), "/dermatology-website-design") },
+        { name: "twitter:title", content: st?.meta?.ogTitle ?? "Custom Website Design for Skin Clinics" },
+        { name: "twitter:description", content: st?.meta?.ogDescription ?? "Custom, conversion-focused websites for skin clinics and aesthetic practices. HIPAA-aware, fast, and built to turn visitors into booked consultations." },
+        { property: "og:image", content: dermHero.startsWith("http") ? dermHero : `${SITE_ORIGIN}${dermHero}` },
+        { name: "twitter:image", content: dermHero.startsWith("http") ? dermHero : `${SITE_ORIGIN}${dermHero}` },
         { name: "twitter:card", content: "summary_large_image" },
       ],
-      links: [{ rel: "canonical", href: "/dermatology-website-design" }, ...buildHreflangLinks("/dermatology-website-design")],
+      links: [{ rel: "canonical", href: localizedUrl(resolveRouteLanguage(lang), "/dermatology-website-design") }, ...buildHreflangLinks("/dermatology-website-design")],
       scripts: [
         {
           type: "application/ld+json",
           children: JSON.stringify({
             "@context": "https://schema.org",
             "@type": "Service",
-            serviceType: st?.meta?.jsonLd?.serviceType ?? "Dermatology Website Design",
+            serviceType: st?.meta?.jsonLd?.serviceType ?? "Custom Website Design for Skin Clinics",
             provider: { "@type": "Organization", name: st?.meta?.jsonLd?.provider ?? "DW Design" },
             areaServed: st?.meta?.jsonLd?.areaServed ?? "United States",
             description: st?.meta?.jsonLd?.description ?? "Custom, HIPAA-aware, SEO-optimized website design exclusively for dermatology practices.",
