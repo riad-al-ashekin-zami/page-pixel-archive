@@ -35,7 +35,6 @@ import {
   FileCheck2,
   Receipt,
   Cookie,
-  Heart,
   Monitor,
   BookOpen,
   User as UserIcon,
@@ -391,7 +390,7 @@ export function SiteFooter({ hideCta = false }: { hideCta?: boolean } = {}) {
 
       {/* Bottom bar */}
       <div className="relative bg-[#050f22]/60 backdrop-blur">
-        <div className="mx-auto grid max-w-7xl grid-cols-1 items-center gap-4 px-4 py-5 sm:px-6 md:grid-cols-3 lg:px-8">
+        <div className="mx-auto grid max-w-7xl grid-cols-1 items-center gap-4 px-4 py-5 sm:px-6 md:grid-cols-2 lg:px-8">
           <ul className="order-1 flex items-center justify-center gap-2 md:order-3 md:justify-end">
           {socials.map((s) => (
               <li key={s.label} className={s.hideOnTablet ? "md:hidden lg:block" : ""}>
@@ -410,9 +409,6 @@ export function SiteFooter({ hideCta = false }: { hideCta?: boolean } = {}) {
           <p className="order-2 text-center text-xs text-slate-400 md:order-1 md:text-left">
             <span className="whitespace-nowrap">© 2026 <span className="text-[#5cbdb9]">{t("bottom.brand")}</span>.</span>{" "}
             <span className="whitespace-nowrap">{t("bottom.rights")}</span>
-          </p>
-          <p className="order-3 flex items-center justify-center gap-1.5 text-xs text-slate-400 md:order-2">
-            {t("bottom.madeWith")} <Heart className="h-3.5 w-3.5 fill-rose-500 text-rose-500" aria-hidden /> {t("bottom.madeFor")}
           </p>
         </div>
         <BackToTop label={t("bottom.backToTop")} />
