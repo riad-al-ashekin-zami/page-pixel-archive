@@ -15,6 +15,8 @@ interface SitemapEntry {
   localized?: boolean;
 }
 
+// Legal pages (privacy, terms, cookie, refund, service agreement) are noindex and
+// intentionally excluded. Only indexable pages belong here.
 const STATIC_ROUTES: SitemapEntry[] = [
   { path: "/", changefreq: "weekly", priority: "1.0", localized: true },
   { path: "/about", changefreq: "monthly", priority: "0.7", localized: true },
@@ -48,11 +50,6 @@ const STATIC_ROUTES: SitemapEntry[] = [
   { path: "/dermatology-social-media-services", changefreq: "monthly", priority: "0.7" , localized: true },
   { path: "/dermatology-email-marketing", changefreq: "monthly", priority: "0.7" , localized: true },
   { path: "/dermatology-reputation-management", changefreq: "monthly", priority: "0.7" , localized: true },
-  { path: "/privacy-policy", changefreq: "yearly", priority: "0.2" , localized: true },
-  { path: "/terms-of-service", changefreq: "yearly", priority: "0.2" , localized: true },
-  { path: "/cookie-policy", changefreq: "yearly", priority: "0.2" , localized: true },
-  { path: "/refund-policy", changefreq: "yearly", priority: "0.2" , localized: true },
-  { path: "/service-agreement", changefreq: "yearly", priority: "0.2" , localized: true },
 ];
 
 function renderUrlEntry(loc: string, e: SitemapEntry, localized: boolean): string {

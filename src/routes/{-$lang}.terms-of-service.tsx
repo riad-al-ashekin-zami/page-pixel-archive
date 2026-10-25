@@ -25,15 +25,15 @@ export const Route = createFileRoute("/{-$lang}/terms-of-service")({
     const st = getStaticTranslation(lang, "termsOfService");
     return {
       meta: [
-        { title: st?.meta?.title ?? "Terms of Service — Website Use & Engagement" },
+        { title: st?.meta?.title ?? "Terms of Service" },
         { name: "description", content: st?.meta?.description ?? "The terms that govern your use of our website, communications, and any services you engage from our studio." },
         { name: "robots", content: "noindex,follow" },
-        { property: "og:title", content: st?.meta?.og_title ?? "Terms of Service — Website Use & Engagement" },
+        { property: "og:title", content: st?.meta?.og_title ?? "Terms of Service" },
         { property: "og:description", content: st?.meta?.og_description ?? "The terms that govern your use of our website, communications, and any services you engage from our studio." },
         { property: "og:type", content: "article" },
         { property: "og:url", content: localizedUrl(resolveRouteLanguage(lang), PAGE_PATH) },
         { name: "twitter:card", content: "summary" },
-        { name: "twitter:title", content: st?.meta?.twitter_title ?? "Terms of Service — Website Use & Engagement" },
+        { name: "twitter:title", content: st?.meta?.twitter_title ?? "Terms of Service" },
         { name: "twitter:description", content: st?.meta?.twitter_description ?? "The terms that govern your use of our website, communications, and any services you engage from our studio." },
       ],
       links: [{ rel: "canonical", href: localizedUrl(resolveRouteLanguage(lang), PAGE_PATH) }, ...buildHreflangLinks(PAGE_PATH)],
