@@ -1,9 +1,9 @@
 {
   "meta": {
-    "title": "Contacto — Diseño Web para Dermatología",
-    "description": "Póngase en contacto con nuestro equipo experto en diseño web dermatológico. Escríbanos por email, WhatsApp o envíenos un mensaje; respondemos en menos de 24 horas.",
-    "ogTitle": "Contacto — Diseño Web para Dermatología",
-    "ogDescription": "¿Tiene dudas sobre la web de su clínica? Escríbanos y le responderemos en un plazo de 24 horas.",
+    "title": "Contáctanos",
+    "description": "Cuéntanos sobre tu práctica y tu sitio web. Te enviaremos una auditoría gratuita y personalizada con oportunidades de SEO, velocidad y conversión en 48 horas.",
+    "ogTitle": "Contáctanos",
+    "ogDescription": "Cuéntanos sobre tu práctica y tu sitio web. Te enviaremos una auditoría gratuita y personalizada con oportunidades de SEO, velocidad y conversión en 48 horas.",
     "breadcrumbHome": "Inicio",
     "breadcrumbContact": "Contacto"
   },
@@ -189,5 +189,79 @@
     "typing": "escribiendo",
     "placeholder": "Escriba un mensaje...",
     "replyStatus": "Respuesta enviada · 2 min"
+  },
+  "auditForm": {
+    "hero": {
+      "tag": "Auditoría gratuita",
+      "intro": "Cuéntanos sobre tu práctica y tu sitio web actual. Te enviaremos una auditoría gratuita y personalizada con oportunidades de SEO, velocidad y conversión en 48 horas.",
+      "points": [
+        "Auditoría gratuita y personalizada",
+        "Entregada en 48 horas",
+        "Sin compromiso"
+      ]
+    },
+    "labels": {
+      "name": "Nombre completo",
+      "email": "Correo de trabajo",
+      "website": "URL de tu sitio web actual",
+      "practiceType": "Tipo de práctica",
+      "need": "¿Qué necesitas?",
+      "message": "¿Algo que debamos saber?",
+      "optional": "(opcional)"
+    },
+    "placeholders": {
+      "name": "Dra. Jane Doe",
+      "email": "jane@practice.com",
+      "website": "tuclinica.com",
+      "select": "Seleccionar…",
+      "message": "Cuéntanos sobre tu práctica y tus objetivos…"
+    },
+    "practiceTypes": [
+      "Práctica individual",
+      "Práctica multiubicación",
+      "Clínica estética / cosmética",
+      "Dermatología pediátrica",
+      "Mohs / Quirúrgica",
+      "Grupo de dermatología",
+      "Otro"
+    ],
+    "needs": [
+      "Sitio web nuevo",
+      "Rediseño de sitio web",
+      "Migración de sitio web",
+      "SEO",
+      "Google Ads / PPC",
+      "Redes sociales",
+      "Aún no lo sé"
+    ],
+    "validation": {
+      "name": "Introduce tu nombre completo",
+      "email": "Introduce un correo de trabajo válido",
+      "website": "Introduce la URL de tu sitio web",
+      "practiceType": "Selecciona tu tipo de práctica",
+      "need": "Selecciona lo que necesitas",
+      "message": "Máximo 1000 caracteres",
+      "consent": "Acepta ser contactado"
+    },
+    "errors": {
+      "fixFields": "Corrige los campos marcados.",
+      "cooldown": "Espera {{seconds}} s antes de enviar de nuevo.",
+      "global": "Algo salió mal. Inténtalo de nuevo o escríbenos directamente."
+    },
+    "hipaaNotice": "No incluyas información de pacientes ni información de salud protegida (PHI) en este formulario.",
+    "consent": {
+      "label": "Acepto ser contactado sobre mi solicitud de auditoría.",
+      "privacyLink": "Política de privacidad"
+    },
+    "submitting": "Enviando…",
+    "emailFallback": "¿Prefieres correo? Escríbenos a"
+  },
+  "thankYou": {
+    "metaTitle": "Gracias",
+    "metaDescription": "Recibimos tu solicitud de auditoría. Tu auditoría web gratuita llegará en 48 horas.",
+    "title": "Gracias — recibimos tu solicitud",
+    "description": "Hemos recibido tu solicitud de auditoría y enviamos una confirmación a tu correo.",
+    "turnaround": "Te enviaremos tu auditoría en 48 horas",
+    "backHome": "Volver al inicio"
   }
 }

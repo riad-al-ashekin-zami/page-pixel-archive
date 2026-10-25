@@ -2,7 +2,9 @@
   "language": {
     "select": "Idioma"
   },
-  "common": { "or": "o" },
+  "common": {
+    "or": "o"
+  },
   "topBar": {
     "whatsappUs": "Contáctanos por WhatsApp",
     "whatsapp": "WhatsApp",
@@ -11,7 +13,9 @@
     "freeAudit": "Auditoría Gratuita",
     "hipaaAware": "Sitios Web Compatibles con HIPAA",
     "hipaaAwareShort": "Compatible con HIPAA",
-    "hipaa": "HIPAA"
+    "hipaa": "HIPAA",
+    "freeAudit48h": "Auditoría web gratuita en 48 horas",
+    "freeAudit48hShort": "Auditoría gratis · 48 h"
   },
   "nav": {
     "home": "Inicio",
@@ -28,7 +32,8 @@
   "cta": {
     "getFreeQuote": "Obtener Presupuesto Gratuito",
     "requestAudit": "Solicitar Auditoría Gratuita",
-    "viewAllAddons": "Ver Todos los Servicios Adicionales"
+    "viewAllAddons": "Ver Todos los Servicios Adicionales",
+    "label": "Obtén tu auditoría web gratuita"
   },
   "drawer": {
     "websiteServices": "Servicios Web",

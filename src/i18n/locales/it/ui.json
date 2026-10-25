@@ -1,6 +1,10 @@
 {
-  "language": { "select": "Lingua" },
-  "common": { "or": "o" },
+  "language": {
+    "select": "Lingua"
+  },
+  "common": {
+    "or": "o"
+  },
   "topBar": {
     "whatsappUs": "Scrivici su WhatsApp",
     "whatsapp": "WhatsApp",
@@ -9,7 +13,9 @@
     "freeAudit": "Audit gratuito",
     "hipaaAware": "Siti conformi HIPAA",
     "hipaaAwareShort": "Conforme HIPAA",
-    "hipaa": "HIPAA"
+    "hipaa": "HIPAA",
+    "freeAudit48h": "Audit gratuito del sito entro 48 ore",
+    "freeAudit48hShort": "Audit gratuito · 48 ore"
   },
   "nav": {
     "home": "Home",
@@ -26,7 +32,8 @@
   "cta": {
     "getFreeQuote": "Preventivo gratuito",
     "requestAudit": "Richiedi audit gratuito",
-    "viewAllAddons": "Vedi tutti i servizi aggiuntivi"
+    "viewAllAddons": "Vedi tutti i servizi aggiuntivi",
+    "label": "Richiedi il tuo audit gratuito del sito"
   },
   "drawer": {
     "websiteServices": "Servizi per il sito",
@@ -55,13 +62,34 @@
       "contact": "Contatti"
     },
     "quick": {
-      "design":     { "label": "Design del sito",       "prompt": "Parlami del vostro servizio di design del sito." },
-      "management": { "label": "Gestione del sito",     "prompt": "Cosa include la gestione del sito?" },
-      "seo":        { "label": "Servizi SEO",           "prompt": "Come funziona la vostra SEO per dermatologia?" },
-      "portfolio":  { "label": "Portfolio",             "prompt": "Posso vedere il vostro portfolio?" },
-      "pricing":    { "label": "Prezzi",                "prompt": "Quali sono prezzi e pacchetti?" },
-      "audit":      { "label": "Audit gratuito",        "prompt": "Come posso ottenere un audit gratuito?" },
-      "quote":      { "label": "Preventivo gratuito",   "prompt": "Come posso ottenere un preventivo gratuito?" }
+      "design": {
+        "label": "Design del sito",
+        "prompt": "Parlami del vostro servizio di design del sito."
+      },
+      "management": {
+        "label": "Gestione del sito",
+        "prompt": "Cosa include la gestione del sito?"
+      },
+      "seo": {
+        "label": "Servizi SEO",
+        "prompt": "Come funziona la vostra SEO per dermatologia?"
+      },
+      "portfolio": {
+        "label": "Portfolio",
+        "prompt": "Posso vedere il vostro portfolio?"
+      },
+      "pricing": {
+        "label": "Prezzi",
+        "prompt": "Quali sono prezzi e pacchetti?"
+      },
+      "audit": {
+        "label": "Audit gratuito",
+        "prompt": "Come posso ottenere un audit gratuito?"
+      },
+      "quote": {
+        "label": "Preventivo gratuito",
+        "prompt": "Come posso ottenere un preventivo gratuito?"
+      }
     }
   },
   "errorPages": {

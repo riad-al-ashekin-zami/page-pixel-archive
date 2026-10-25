@@ -1,9 +1,9 @@
 {
   "meta": {
-    "title": "Contact Us — Dermatology Website Design",
-    "description": "Get in touch with our dermatology website design team. Email, WhatsApp, or send us a message — we reply within 24 hours.",
-    "ogTitle": "Contact Us — Dermatology Website Design",
-    "ogDescription": "Questions about your practice website? Reach out — we reply within 24 hours.",
+    "title": "Contact Us",
+    "description": "Tell us about your practice and website. We'll send a free, personalized audit with SEO, speed and conversion opportunities within 48 hours.",
+    "ogTitle": "Contact Us",
+    "ogDescription": "Tell us about your practice and website. We'll send a free, personalized audit with SEO, speed and conversion opportunities within 48 hours.",
     "breadcrumbHome": "Home",
     "breadcrumbContact": "Contact"
   },
@@ -189,5 +189,79 @@
     "typing": "typing",
     "placeholder": "Type a message…",
     "replyStatus": "Reply sent · 2 min"
+  },
+  "auditForm": {
+    "hero": {
+      "tag": "Free audit",
+      "intro": "Tell us about your practice and your current website. We'll send you a free, personalized audit with SEO, speed and conversion opportunities within 48 hours.",
+      "points": [
+        "Free, personalized audit",
+        "Delivered within 48 hours",
+        "No obligation"
+      ]
+    },
+    "labels": {
+      "name": "Full name",
+      "email": "Work email",
+      "website": "Current website URL",
+      "practiceType": "Practice type",
+      "need": "What do you need?",
+      "message": "Anything we should know?",
+      "optional": "(optional)"
+    },
+    "placeholders": {
+      "name": "Dr. Jane Doe",
+      "email": "jane@practice.com",
+      "website": "yourpractice.com",
+      "select": "Select…",
+      "message": "Tell us about your practice and goals…"
+    },
+    "practiceTypes": [
+      "Solo practice",
+      "Multi-location practice",
+      "Aesthetic / Cosmetic clinic",
+      "Pediatric dermatology",
+      "Mohs / Surgical",
+      "Dermatology group",
+      "Other"
+    ],
+    "needs": [
+      "New website",
+      "Website redesign",
+      "Website migration",
+      "SEO",
+      "Google Ads / PPC",
+      "Social media",
+      "Not sure yet"
+    ],
+    "validation": {
+      "name": "Please enter your full name",
+      "email": "Please enter a valid work email",
+      "website": "Please enter your website URL",
+      "practiceType": "Please select your practice type",
+      "need": "Please select what you need",
+      "message": "Please keep it under 1000 characters",
+      "consent": "Please agree to be contacted"
+    },
+    "errors": {
+      "fixFields": "Please fix the highlighted fields.",
+      "cooldown": "Please wait {{seconds}}s before submitting again.",
+      "global": "Sorry, something went wrong. Please try again or email us directly."
+    },
+    "hipaaNotice": "Please do not include patient information or protected health information (PHI) in this form.",
+    "consent": {
+      "label": "I agree to be contacted about my audit request.",
+      "privacyLink": "Privacy Policy"
+    },
+    "submitting": "Sending…",
+    "emailFallback": "Prefer email? Write to us at"
+  },
+  "thankYou": {
+    "metaTitle": "Thank You",
+    "metaDescription": "We received your audit request. Your free website audit will arrive within 48 hours.",
+    "title": "Thank you — your request is in",
+    "description": "We've received your audit request and sent a confirmation to your email.",
+    "turnaround": "We'll send your audit within 48 hours",
+    "backHome": "Back to homepage"
   }
 }

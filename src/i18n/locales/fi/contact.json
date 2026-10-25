@@ -1,9 +1,9 @@
 {
   "meta": {
-    "title": "Ota yhteyttä — Ihotautilääkärien verkkosivusuunnittelu",
-    "description": "Ota yhteyttä ihotautilääkärien verkkosivustoihin erikoistuneeseen tiimiimme. Sähköposti, WhatsApp tai viesti — vastaamme 24 tunnin kuluessa.",
-    "ogTitle": "Ota yhteyttä — Ihotautilääkärien verkkosivusuunnittelu",
-    "ogDescription": "Kysyttävää klinikkasi verkkosivuista? Ota yhteyttä — vastaamme 24 tunnin sisällä.",
+    "title": "Ota yhteyttä",
+    "description": "Kerro meille käytännöstäsi ja verkkosivustostasi. Lähetämme ilmaisen, henkilökohtaisen auditoinnin SEO-, nopeus- ja konversiomahdollisuuksineen 48 tunnissa.",
+    "ogTitle": "Ota yhteyttä",
+    "ogDescription": "Kerro meille käytännöstäsi ja verkkosivustostasi. Lähetämme ilmaisen, henkilökohtaisen auditoinnin SEO-, nopeus- ja konversiomahdollisuuksineen 48 tunnissa.",
     "breadcrumbHome": "Etusivu",
     "breadcrumbContact": "Ota yhteyttä"
   },
@@ -189,5 +189,79 @@
     "typing": "kirjoittaa",
     "placeholder": "Kirjoita viesti…",
     "replyStatus": "Vastaus lähetetty · 2 min"
+  },
+  "auditForm": {
+    "hero": {
+      "tag": "Ilmainen auditointi",
+      "intro": "Kerro meille käytännöstäsi ja nykyisestä verkkosivustostasi. Lähetämme sinulle ilmaisen, henkilökohtaisen auditoinnin SEO-, nopeus- ja konversiomahdollisuuksineen 48 tunnissa.",
+      "points": [
+        "Ilmainen, henkilökohtainen auditointi",
+        "Toimitetaan 48 tunnissa",
+        "Ei sitoumuksia"
+      ]
+    },
+    "labels": {
+      "name": "Koko nimi",
+      "email": "Työsähköposti",
+      "website": "Nykyisen verkkosivuston osoite",
+      "practiceType": "Käytännön tyyppi",
+      "need": "Mitä tarvitset?",
+      "message": "Jotain muuta, mitä meidän pitäisi tietää?",
+      "optional": "(valinnainen)"
+    },
+    "placeholders": {
+      "name": "Dr. Jane Doe",
+      "email": "jane@practice.com",
+      "website": "sinunklinikkasi.fi",
+      "select": "Valitse…",
+      "message": "Kerro käytännöstäsi ja tavoitteistasi…"
+    },
+    "practiceTypes": [
+      "Yksityispraktiikka",
+      "Usean toimipisteen praktiikka",
+      "Estetiikka- / kosmetiikkaklinikka",
+      "Lasten dermatologia",
+      "Mohs / Kirurginen",
+      "Dermatologiaryhmä",
+      "Muu"
+    ],
+    "needs": [
+      "Uusi verkkosivusto",
+      "Verkkosivuston uudistus",
+      "Verkkosivuston siirto",
+      "SEO",
+      "Google Ads / PPC",
+      "Sosiaalinen media",
+      "En ole varma vielä"
+    ],
+    "validation": {
+      "name": "Syötä koko nimesi",
+      "email": "Syötä kelvollinen työsähköposti",
+      "website": "Syötä verkkosivustosi osoite",
+      "practiceType": "Valitse käytäntösi tyyppi",
+      "need": "Valitse, mitä tarvitset",
+      "message": "Enintään 1000 merkkiä",
+      "consent": "Hyväksy yhteydenotto"
+    },
+    "errors": {
+      "fixFields": "Korjaa korostetut kentät.",
+      "cooldown": "Odota {{seconds}} s ennen uutta lähetystä.",
+      "global": "Jokin meni pieleen. Yritä uudelleen tai lähetä sähköpostia suoraan."
+    },
+    "hipaaNotice": "Älä sisällytä lomakkeeseen potilastietoja tai suojattuja terveystietoja (PHI).",
+    "consent": {
+      "label": "Hyväksyn, että minuun otetaan yhteyttä auditointipyyntööni liittyen.",
+      "privacyLink": "Tietosuojakäytäntö"
+    },
+    "submitting": "Lähetetään…",
+    "emailFallback": "Haluatko lähettää sähköpostia? Kirjoita meille:"
+  },
+  "thankYou": {
+    "metaTitle": "Kiitos",
+    "metaDescription": "Vastaanotimme auditointipyyntösi. Ilmainen verkkosivustoauditointisi saapuu 48 tunnissa.",
+    "title": "Kiitos — pyyntösi on vastaanotettu",
+    "description": "Olemme vastaanottaneet auditointipyyntösi ja lähettäneet vahvistuksen sähköpostiisi.",
+    "turnaround": "Lähetämme auditointisi 48 tunnin kuluessa",
+    "backHome": "Takaisin etusivulle"
   }
 }

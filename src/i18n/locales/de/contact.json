@@ -1,9 +1,9 @@
 {
   "meta": {
-    "title": "Kontakt — Website-Design für die Dermatologie",
-    "description": "Kontaktieren Sie unser Team für dermatologisches Website-Design. E-Mail, WhatsApp oder Kontaktformular – wir antworten innerhalb von 24 Stunden.",
-    "ogTitle": "Kontakt — Website-Design für die Dermatologie",
-    "ogDescription": "Fragen zu Ihrer Praxis-Website? Melden Sie sich – wir antworten innerhalb von 24 Stunden.",
+    "title": "Kontakt",
+    "description": "Erzählen Sie uns von Ihrer Praxis und Ihrer Website. Wir senden Ihnen innerhalb von 48 Stunden ein kostenloses, personalisiertes Audit mit SEO-, Geschwindigkeits- und Conversion-Chancen.",
+    "ogTitle": "Kontakt",
+    "ogDescription": "Erzählen Sie uns von Ihrer Praxis und Ihrer Website. Wir senden Ihnen innerhalb von 48 Stunden ein kostenloses, personalisiertes Audit mit SEO-, Geschwindigkeits- und Conversion-Chancen.",
     "breadcrumbHome": "Startseite",
     "breadcrumbContact": "Kontakt"
   },
@@ -189,5 +189,79 @@
     "typing": "schreibt",
     "placeholder": "Nachricht schreiben…",
     "replyStatus": "Antwort gesendet · vor 2 Min."
+  },
+  "auditForm": {
+    "hero": {
+      "tag": "Kostenloses Audit",
+      "intro": "Erzählen Sie uns von Ihrer Praxis und Ihrer aktuellen Website. Wir senden Ihnen innerhalb von 48 Stunden ein kostenloses, personalisiertes Audit mit SEO-, Geschwindigkeits- und Conversion-Chancen.",
+      "points": [
+        "Kostenloses, personalisiertes Audit",
+        "Lieferung innerhalb von 48 Stunden",
+        "Unverbindlich"
+      ]
+    },
+    "labels": {
+      "name": "Vollständiger Name",
+      "email": "Geschäftliche E-Mail",
+      "website": "Aktuelle Website-URL",
+      "practiceType": "Art der Praxis",
+      "need": "Was benötigen Sie?",
+      "message": "Etwas, das wir wissen sollten?",
+      "optional": "(optional)"
+    },
+    "placeholders": {
+      "name": "Dr. Jane Doe",
+      "email": "jane@practice.com",
+      "website": "ihrepraxis.de",
+      "select": "Auswählen…",
+      "message": "Erzählen Sie uns von Ihrer Praxis und Ihren Zielen…"
+    },
+    "practiceTypes": [
+      "Einzelpraxis",
+      "Praxis mit mehreren Standorten",
+      "Ästhetik- / Kosmetikklinik",
+      "Kinderdermatologie",
+      "Mohs / Chirurgisch",
+      "Dermatologie-Gruppe",
+      "Sonstiges"
+    ],
+    "needs": [
+      "Neue Website",
+      "Website-Redesign",
+      "Website-Migration",
+      "SEO",
+      "Google Ads / PPC",
+      "Social Media",
+      "Noch nicht sicher"
+    ],
+    "validation": {
+      "name": "Bitte geben Sie Ihren vollständigen Namen ein",
+      "email": "Bitte geben Sie eine gültige geschäftliche E-Mail ein",
+      "website": "Bitte geben Sie Ihre Website-URL ein",
+      "practiceType": "Bitte wählen Sie Ihre Praxisart",
+      "need": "Bitte wählen Sie, was Sie benötigen",
+      "message": "Bitte maximal 1000 Zeichen",
+      "consent": "Bitte stimmen Sie der Kontaktaufnahme zu"
+    },
+    "errors": {
+      "fixFields": "Bitte korrigieren Sie die markierten Felder.",
+      "cooldown": "Bitte warten Sie {{seconds}} s vor dem erneuten Senden.",
+      "global": "Etwas ist schiefgelaufen. Bitte versuchen Sie es erneut oder schreiben Sie uns direkt."
+    },
+    "hipaaNotice": "Bitte fügen Sie keine Patienteninformationen oder geschützten Gesundheitsdaten (PHI) in dieses Formular ein.",
+    "consent": {
+      "label": "Ich stimme zu, bezüglich meiner Audit-Anfrage kontaktiert zu werden.",
+      "privacyLink": "Datenschutzerklärung"
+    },
+    "submitting": "Wird gesendet…",
+    "emailFallback": "Lieber per E-Mail? Schreiben Sie uns an"
+  },
+  "thankYou": {
+    "metaTitle": "Danke",
+    "metaDescription": "Wir haben Ihre Audit-Anfrage erhalten. Ihr kostenloses Website-Audit kommt innerhalb von 48 Stunden.",
+    "title": "Danke — Ihre Anfrage ist eingegangen",
+    "description": "Wir haben Ihre Audit-Anfrage erhalten und eine Bestätigung an Ihre E-Mail gesendet.",
+    "turnaround": "Wir senden Ihr Audit innerhalb von 48 Stunden",
+    "backHome": "Zurück zur Startseite"
   }
 }

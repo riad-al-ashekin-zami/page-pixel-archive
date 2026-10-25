@@ -1,9 +1,9 @@
 {
   "meta": {
-    "title": "Kontakt oss — Nettsidedesign for hudleger",
-    "description": "Ta kontakt med vårt team for nettsidedesign innen dermatologi. E-post, WhatsApp eller send oss en melding — vi svarer innen 24 timer.",
-    "ogTitle": "Kontakt oss — Nettsidedesign for hudleger",
-    "ogDescription": "Spørsmål om klinikkens nettside? Ta kontakt — vi svarer innen 24 timer.",
+    "title": "Kontakt oss",
+    "description": "Fortell oss om praksisen din og nettstedet ditt. Vi sender en gratis, personlig analyse med SEO-, hastighets- og konverteringsmuligheter innen 48 timer.",
+    "ogTitle": "Kontakt oss",
+    "ogDescription": "Fortell oss om praksisen din og nettstedet ditt. Vi sender en gratis, personlig analyse med SEO-, hastighets- og konverteringsmuligheter innen 48 timer.",
     "breadcrumbHome": "Forside",
     "breadcrumbContact": "Kontakt"
   },
@@ -189,5 +189,79 @@
     "typing": "skriver",
     "placeholder": "Skriv en melding…",
     "replyStatus": "Svar sendt · 2 min"
+  },
+  "auditForm": {
+    "hero": {
+      "tag": "Gratis analyse",
+      "intro": "Fortell oss om praksisen din og nettstedet ditt. Vi sender deg en gratis, personlig analyse med SEO-, hastighets- og konverteringsmuligheter innen 48 timer.",
+      "points": [
+        "Gratis, personlig analyse",
+        "Levert innen 48 timer",
+        "Ingen forpliktelser"
+      ]
+    },
+    "labels": {
+      "name": "Fullt navn",
+      "email": "Jobb-e-post",
+      "website": "Nåværende nettsted-URL",
+      "practiceType": "Type praksis",
+      "need": "Hva trenger du?",
+      "message": "Noe annet vi bør vite?",
+      "optional": "(valgfritt)"
+    },
+    "placeholders": {
+      "name": "Dr. Jane Doe",
+      "email": "jane@practice.com",
+      "website": "dinklinikk.no",
+      "select": "Velg…",
+      "message": "Fortell oss om praksisen og målene dine…"
+    },
+    "practiceTypes": [
+      "Enkeltpraksis",
+      "Praksis med flere lokasjoner",
+      "Estetisk / kosmetisk klinikk",
+      "Barndermatologi",
+      "Mohs / Kirurgisk",
+      "Dermatologigruppe",
+      "Annet"
+    ],
+    "needs": [
+      "Nytt nettsted",
+      "Redesign av nettsted",
+      "Migrering av nettsted",
+      "SEO",
+      "Google Ads / PPC",
+      "Sosiale medier",
+      "Ikke sikker ennå"
+    ],
+    "validation": {
+      "name": "Skriv inn ditt fulle navn",
+      "email": "Skriv inn en gyldig jobb-e-post",
+      "website": "Skriv inn nettstedets URL",
+      "practiceType": "Velg din type praksis",
+      "need": "Velg hva du trenger",
+      "message": "Hold det under 1000 tegn",
+      "consent": "Godta å bli kontaktet"
+    },
+    "errors": {
+      "fixFields": "Retting de markerte feltene.",
+      "cooldown": "Vent {{seconds}} s før du sender igjen.",
+      "global": "Noe gikk galt. Prøv igjen eller send oss e-post direkte."
+    },
+    "hipaaNotice": "Ikke inkluder pasientinformasjon eller beskyttet helseinformasjon (PHI) i dette skjemaet.",
+    "consent": {
+      "label": "Jeg godtar å bli kontaktet om min analyseforespørsel.",
+      "privacyLink": "Personvernerklæring"
+    },
+    "submitting": "Sender…",
+    "emailFallback": "Foretrekker du e-post? Skriv til oss på"
+  },
+  "thankYou": {
+    "metaTitle": "Takk",
+    "metaDescription": "Vi har mottatt din analyseforespørsel. Din gratis nettstedsanalyse kommer innen 48 timer.",
+    "title": "Takk — forespørselen din er mottatt",
+    "description": "Vi har mottatt analyseforespørselen din og sendt en bekreftelse til e-posten din.",
+    "turnaround": "Vi sender analysen din innen 48 timer",
+    "backHome": "Tilbake til forsiden"
   }
 }

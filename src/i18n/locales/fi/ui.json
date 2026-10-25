@@ -1,6 +1,10 @@
 {
-  "language": { "select": "Kieli" },
-  "common": { "or": "tai" },
+  "language": {
+    "select": "Kieli"
+  },
+  "common": {
+    "or": "tai"
+  },
   "topBar": {
     "whatsappUs": "Ota yhteyttä WhatsAppissa",
     "whatsapp": "WhatsApp",
@@ -9,7 +13,9 @@
     "freeAudit": "Ilmainen analyysi",
     "hipaaAware": "HIPAA-yhteensopivat sivustot",
     "hipaaAwareShort": "HIPAA-yhteensopiva",
-    "hipaa": "HIPAA"
+    "hipaa": "HIPAA",
+    "freeAudit48h": "Ilmainen verkkosivustoauditointi 48 tunnissa",
+    "freeAudit48hShort": "Ilmainen auditointi · 48 h"
   },
   "nav": {
     "home": "Etusivu",
@@ -26,7 +32,8 @@
   "cta": {
     "getFreeQuote": "Pyydä tarjous",
     "requestAudit": "Pyydä ilmainen analyysi",
-    "viewAllAddons": "Näytä kaikki lisäpalvelut"
+    "viewAllAddons": "Näytä kaikki lisäpalvelut",
+    "label": "Hanki ilmainen verkkosivustoauditointi"
   },
   "drawer": {
     "websiteServices": "Sivustopalvelut",
@@ -55,13 +62,34 @@
       "contact": "Yhteys"
     },
     "quick": {
-      "design":     { "label": "Sivustosuunnittelu",   "prompt": "Kerro sivustosuunnittelupalvelustanne." },
-      "management": { "label": "Sivuston hallinta",    "prompt": "Mitä sivuston hallintaan kuuluu?" },
-      "seo":        { "label": "SEO-palvelut",          "prompt": "Miten dermatologia-SEO toimii?" },
-      "portfolio":  { "label": "Portfolio",             "prompt": "Voinko nähdä portfolionne?" },
-      "pricing":    { "label": "Hinnat",                "prompt": "Mitä hintanne ja pakettinne ovat?" },
-      "audit":      { "label": "Ilmainen analyysi",     "prompt": "Miten saan ilmaisen sivustoanalyysin?" },
-      "quote":      { "label": "Ilmainen tarjous",      "prompt": "Miten saan ilmaisen tarjouksen?" }
+      "design": {
+        "label": "Sivustosuunnittelu",
+        "prompt": "Kerro sivustosuunnittelupalvelustanne."
+      },
+      "management": {
+        "label": "Sivuston hallinta",
+        "prompt": "Mitä sivuston hallintaan kuuluu?"
+      },
+      "seo": {
+        "label": "SEO-palvelut",
+        "prompt": "Miten dermatologia-SEO toimii?"
+      },
+      "portfolio": {
+        "label": "Portfolio",
+        "prompt": "Voinko nähdä portfolionne?"
+      },
+      "pricing": {
+        "label": "Hinnat",
+        "prompt": "Mitä hintanne ja pakettinne ovat?"
+      },
+      "audit": {
+        "label": "Ilmainen analyysi",
+        "prompt": "Miten saan ilmaisen sivustoanalyysin?"
+      },
+      "quote": {
+        "label": "Ilmainen tarjous",
+        "prompt": "Miten saan ilmaisen tarjouksen?"
+      }
     }
   },
   "errorPages": {

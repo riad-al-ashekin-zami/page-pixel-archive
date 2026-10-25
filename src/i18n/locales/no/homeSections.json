@@ -293,6 +293,10 @@
       "errorGeneric": "Beklager, noe gikk galt. Vennligst prøv igjen.",
       "successTitle": "Forespørsel mottatt.",
       "successMessage": "Din personlige gjennomgang er på vei. Vi sender deg handlingsplanen din via e-post innen 48 timer."
+    },
+    "ctaCard": {
+      "title": "Klar for din gratis analyse?",
+      "description": "Svar på noen raske spørsmål på kontaktsiden vår, så sender vi din personlige analyse innen 48 timer."
     }
   },
   "faqSnippet": {

@@ -1,9 +1,9 @@
 {
   "meta": {
-    "title": "Kontaktujte nás — Tvorba webových stránek pro dermatology",
-    "description": "Spojte se s naším týmem specialistů na dermatology. E-mail, WhatsApp nebo zpráva — odpovídáme do 24 hodin.",
-    "ogTitle": "Kontaktujte nás — Tvorba webových stránek pro dermatology",
-    "ogDescription": "Máte dotazy k webu vaší ordinace? Ozvěte se nám — odpovíme vám do 24 hodin.",
+    "title": "Kontaktujte nás",
+    "description": "Povězte nám o své praxi a webu. Do 48 hodin vám zašleme bezplatný, personalizovaný audit s příležitostmi pro SEO, rychlost a konverze.",
+    "ogTitle": "Kontaktujte nás",
+    "ogDescription": "Povězte nám o své praxi a webu. Do 48 hodin vám zašleme bezplatný, personalizovaný audit s příležitostmi pro SEO, rychlost a konverze.",
     "breadcrumbHome": "Domů",
     "breadcrumbContact": "Kontakt"
   },
@@ -189,5 +189,79 @@
     "typing": "píše...",
     "placeholder": "Napište zprávu...",
     "replyStatus": "Odpověď odeslána · před 2 min"
+  },
+  "auditForm": {
+    "hero": {
+      "tag": "Bezplatný audit",
+      "intro": "Povězte nám o své praxi a svém současném webu. Do 48 hodin vám zašleme bezplatný, personalizovaný audit s příležitostmi pro SEO, rychlost a konverze.",
+      "points": [
+        "Bezplatný, personalizovaný audit",
+        "Doručení do 48 hodin",
+        "Nezávazně"
+      ]
+    },
+    "labels": {
+      "name": "Celé jméno",
+      "email": "Pracovní e-mail",
+      "website": "URL současného webu",
+      "practiceType": "Typ praxe",
+      "need": "Co potřebujete?",
+      "message": "Je něco, co bychom měli vědět?",
+      "optional": "(nepovinné)"
+    },
+    "placeholders": {
+      "name": "Dr. Jane Doe",
+      "email": "jane@practice.com",
+      "website": "vaseklinika.cz",
+      "select": "Vyberte…",
+      "message": "Povězte nám o své praxi a cílech…"
+    },
+    "practiceTypes": [
+      "Samostatná praxe",
+      "Praxe s více pobočkami",
+      "Estetická / kosmetická klinika",
+      "Dětská dermatologie",
+      "Mohs / Chirurgická",
+      "Dermatologická skupina",
+      "Jiné"
+    ],
+    "needs": [
+      "Nový web",
+      "Redesign webu",
+      "Migrace webu",
+      "SEO",
+      "Google Ads / PPC",
+      "Sociální sítě",
+      "Ještě nevím"
+    ],
+    "validation": {
+      "name": "Zadejte své celé jméno",
+      "email": "Zadejte platný pracovní e-mail",
+      "website": "Zadejte URL svého webu",
+      "practiceType": "Vyberte typ své praxe",
+      "need": "Vyberte, co potřebujete",
+      "message": "Maximálně 1000 znaků",
+      "consent": "Souhlaste s kontaktováním"
+    },
+    "errors": {
+      "fixFields": "Opravte zvýrazněná pole.",
+      "cooldown": "Před opětovným odesláním počkejte {{seconds}} s.",
+      "global": "Něco se pokazilo. Zkuste to znovu nebo nám napište přímo."
+    },
+    "hipaaNotice": "Do tohoto formuláře neuvádějte informace o pacientech ani chráněné zdravotní údaje (PHI).",
+    "consent": {
+      "label": "Souhlasím s tím, aby mě kontaktovali ohledně mé žádosti o audit.",
+      "privacyLink": "Zásady ochrany osobních údajů"
+    },
+    "submitting": "Odesílání…",
+    "emailFallback": "Dáváte přednost e-mailu? Napište nám na"
+  },
+  "thankYou": {
+    "metaTitle": "Děkujeme",
+    "metaDescription": "Obdrželi jsme vaši žádost o audit. Váš bezplatný audit webu dorazí do 48 hodin.",
+    "title": "Děkujeme — vaši žádost jsme přijali",
+    "description": "Obdrželi jsme vaši žádost o audit a poslali potvrzení na váš e-mail.",
+    "turnaround": "Váš audit zašleme do 48 hodin",
+    "backHome": "Zpět na úvodní stránku"
   }
 }

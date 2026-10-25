@@ -293,6 +293,10 @@
       "errorGeneric": "Lo sentimos, algo salió mal. Por favor, inténtelo de nuevo.",
       "successTitle": "Solicitud recibida.",
       "successMessage": "Su auditoría personalizada está en camino. Le enviaremos su plan de acción por correo electrónico en un plazo de 48 horas."
+    },
+    "ctaCard": {
+      "title": "¿Listo para tu auditoría gratuita?",
+      "description": "Responde unas preguntas rápidas en nuestra página de contacto y te enviaremos tu auditoría personalizada en 48 horas."
     }
   },
   "faqSnippet": {

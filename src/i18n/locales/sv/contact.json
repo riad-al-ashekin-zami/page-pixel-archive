@@ -1,9 +1,9 @@
 {
   "meta": {
-    "title": "Kontakta oss — Webbdesign för dermatologiska kliniker",
-    "description": "Kontakta vårt team specialiserat på webbdesign för dermatologer. E-post, WhatsApp eller meddelande — vi svarar inom 24 timmar.",
-    "ogTitle": "Kontakta oss — Webbdesign för dermatologiska kliniker",
-    "ogDescription": "Frågor om din kliniks webbplats? Hör av dig — vi svarar inom 24 timmar.",
+    "title": "Kontakta oss",
+    "description": "Berätta om din praktik och din webbplats. Vi skickar en kostnadsfri, personlig granskning med SEO-, hastighets- och konverteringsmöjligheter inom 48 timmar.",
+    "ogTitle": "Kontakta oss",
+    "ogDescription": "Berätta om din praktik och din webbplats. Vi skickar en kostnadsfri, personlig granskning med SEO-, hastighets- och konverteringsmöjligheter inom 48 timmar.",
     "breadcrumbHome": "Hem",
     "breadcrumbContact": "Kontakt"
   },
@@ -189,5 +189,79 @@
     "typing": "skriver",
     "placeholder": "Skriv ett meddelande…",
     "replyStatus": "Svar skickat · 2 min"
+  },
+  "auditForm": {
+    "hero": {
+      "tag": "Gratis granskning",
+      "intro": "Berätta om din praktik och din nuvarande webbplats. Vi skickar en kostnadsfri, personlig granskning med SEO-, hastighets- och konverteringsmöjligheter inom 48 timmar.",
+      "points": [
+        "Kostnadsfri, personlig granskning",
+        "Levereras inom 48 timmar",
+        "Ingen förpliktelse"
+      ]
+    },
+    "labels": {
+      "name": "Fullständigt namn",
+      "email": "Arbetsmejl",
+      "website": "Nuvarande webbplats-URL",
+      "practiceType": "Typ av praktik",
+      "need": "Vad behöver du?",
+      "message": "Något mer vi bör veta?",
+      "optional": "(valfritt)"
+    },
+    "placeholders": {
+      "name": "Dr. Jane Doe",
+      "email": "jane@practice.com",
+      "website": "dinklinik.se",
+      "select": "Välj…",
+      "message": "Berätta om din praktik och dina mål…"
+    },
+    "practiceTypes": [
+      "Solopraktik",
+      "Praktik med flera platser",
+      "Estetisk / kosmetisk klinik",
+      "Barndermatologi",
+      "Mohs / Kirurgisk",
+      "Dermatologigrupp",
+      "Annat"
+    ],
+    "needs": [
+      "Ny webbplats",
+      "Omdesign av webbplats",
+      "Webbplatsmigrering",
+      "SEO",
+      "Google Ads / PPC",
+      "Sociala medier",
+      "Inte säker ännu"
+    ],
+    "validation": {
+      "name": "Ange ditt fullständiga namn",
+      "email": "Ange en giltig arbetsmejl",
+      "website": "Ange din webbplats-URL",
+      "practiceType": "Välj din typ av praktik",
+      "need": "Välj vad du behöver",
+      "message": "Håll det under 1000 tecken",
+      "consent": "Godkänn att bli kontaktad"
+    },
+    "errors": {
+      "fixFields": "Åtgärda de markerade fälten.",
+      "cooldown": "Vänta {{seconds}} s innan du skickar igen.",
+      "global": "Något gick fel. Försök igen eller mejla oss direkt."
+    },
+    "hipaaNotice": "Inkludera inte patientinformation eller skyddad hälsoinformation (PHI) i detta formulär.",
+    "consent": {
+      "label": "Jag godkänner att bli kontaktad om min granskningsförfrågan.",
+      "privacyLink": "Integritetspolicy"
+    },
+    "submitting": "Skickar…",
+    "emailFallback": "Föredrar du mejl? Skriv till oss på"
+  },
+  "thankYou": {
+    "metaTitle": "Tack",
+    "metaDescription": "Vi har tagit emot din granskningsförfrågan. Din kostnadsfria webbplatsgranskning kommer inom 48 timmar.",
+    "title": "Tack — vi har tagit emot din förfrågan",
+    "description": "Vi har tagit emot din granskningsförfrågan och skickat en bekräftelse till din mejl.",
+    "turnaround": "Vi skickar din granskning inom 48 timmar",
+    "backHome": "Tillbaka till startsidan"
   }
 }

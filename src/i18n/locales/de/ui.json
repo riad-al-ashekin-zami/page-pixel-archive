@@ -1,6 +1,10 @@
 {
-  "language": { "select": "Sprache" },
-  "common": { "or": "oder" },
+  "language": {
+    "select": "Sprache"
+  },
+  "common": {
+    "or": "oder"
+  },
   "topBar": {
     "whatsappUs": "Schreiben Sie uns auf WhatsApp",
     "whatsapp": "WhatsApp",
@@ -9,7 +13,9 @@
     "freeAudit": "Kostenloses Audit",
     "hipaaAware": "HIPAA-konforme Websites",
     "hipaaAwareShort": "HIPAA-konform",
-    "hipaa": "HIPAA"
+    "hipaa": "HIPAA",
+    "freeAudit48h": "Kostenloses Website-Audit innerhalb von 48 Stunden",
+    "freeAudit48hShort": "Kostenloses Audit · 48 Std."
   },
   "nav": {
     "home": "Startseite",
@@ -26,7 +32,8 @@
   "cta": {
     "getFreeQuote": "Kostenloses Angebot",
     "requestAudit": "Kostenloses Audit anfordern",
-    "viewAllAddons": "Alle Zusatzleistungen ansehen"
+    "viewAllAddons": "Alle Zusatzleistungen ansehen",
+    "label": "Kostenloses Website-Audit anfordern"
   },
   "drawer": {
     "websiteServices": "Website-Leistungen",
@@ -55,13 +62,34 @@
       "contact": "Kontakt"
     },
     "quick": {
-      "design":     { "label": "Website-Design",     "prompt": "Erzählen Sie mir von Ihrem Website-Design-Service." },
-      "management": { "label": "Website-Management", "prompt": "Was ist im Website-Management enthalten?" },
-      "seo":        { "label": "SEO-Leistungen",     "prompt": "Wie funktioniert Ihr Dermatologie-SEO?" },
-      "portfolio":  { "label": "Portfolio",          "prompt": "Kann ich Ihr Portfolio sehen?" },
-      "pricing":    { "label": "Preise",             "prompt": "Was sind Ihre Preise und Pakete?" },
-      "audit":      { "label": "Kostenloses Audit",  "prompt": "Wie erhalte ich ein kostenloses Website-Audit?" },
-      "quote":      { "label": "Kostenloses Angebot","prompt": "Wie erhalte ich ein kostenloses Angebot?" }
+      "design": {
+        "label": "Website-Design",
+        "prompt": "Erzählen Sie mir von Ihrem Website-Design-Service."
+      },
+      "management": {
+        "label": "Website-Management",
+        "prompt": "Was ist im Website-Management enthalten?"
+      },
+      "seo": {
+        "label": "SEO-Leistungen",
+        "prompt": "Wie funktioniert Ihr Dermatologie-SEO?"
+      },
+      "portfolio": {
+        "label": "Portfolio",
+        "prompt": "Kann ich Ihr Portfolio sehen?"
+      },
+      "pricing": {
+        "label": "Preise",
+        "prompt": "Was sind Ihre Preise und Pakete?"
+      },
+      "audit": {
+        "label": "Kostenloses Audit",
+        "prompt": "Wie erhalte ich ein kostenloses Website-Audit?"
+      },
+      "quote": {
+        "label": "Kostenloses Angebot",
+        "prompt": "Wie erhalte ich ein kostenloses Angebot?"
+      }
     }
   },
   "errorPages": {

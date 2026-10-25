@@ -13,7 +13,9 @@
     "freeAudit": "Free Audit",
     "hipaaAware": "HIPAA-Aware Websites",
     "hipaaAwareShort": "HIPAA-Aware",
-    "hipaa": "HIPAA"
+    "hipaa": "HIPAA",
+    "freeAudit48h": "Free Website Audit within 48 hours",
+    "freeAudit48hShort": "Free Audit · 48h"
   },
   "nav": {
     "home": "Home",
@@ -30,7 +32,8 @@
   "cta": {
     "getFreeQuote": "Get a Free Quote",
     "requestAudit": "Request Free Audit",
-    "viewAllAddons": "View All Add-On Services"
+    "viewAllAddons": "View All Add-On Services",
+    "label": "Get Your Free Website Audit"
   },
   "drawer": {
     "websiteServices": "Website Services",

@@ -1,9 +1,9 @@
 {
   "meta": {
-    "title": "Contacte-nos — Design de Websites para Dermatologia",
-    "description": "Entre em contacto com a nossa equipa de design de websites de dermatologia. E-mail, WhatsApp ou envie uma mensagem — respondemos em menos de 24 horas.",
-    "ogTitle": "Contacte-nos — Design de Websites para Dermatologia",
-    "ogDescription": "Dúvidas sobre o site da sua clínica? Fale connosco — respondemos em menos de 24 horas.",
+    "title": "Contacte-nos",
+    "description": "Fale-nos da sua clínica e do seu website. Enviaremos uma auditoria gratuita e personalizada com oportunidades de SEO, velocidade e conversão em 48 horas.",
+    "ogTitle": "Contacte-nos",
+    "ogDescription": "Fale-nos da sua clínica e do seu website. Enviaremos uma auditoria gratuita e personalizada com oportunidades de SEO, velocidade e conversão em 48 horas.",
     "breadcrumbHome": "Início",
     "breadcrumbContact": "Contacto"
   },
@@ -189,5 +189,79 @@
     "typing": "a escrever",
     "placeholder": "Escreva uma mensagem…",
     "replyStatus": "Resposta enviada · 2 min"
+  },
+  "auditForm": {
+    "hero": {
+      "tag": "Auditoria gratuita",
+      "intro": "Fale-nos da sua clínica e do seu website atual. Enviaremos uma auditoria gratuita e personalizada com oportunidades de SEO, velocidade e conversão em 48 horas.",
+      "points": [
+        "Auditoria gratuita e personalizada",
+        "Entregue em 48 horas",
+        "Sem compromisso"
+      ]
+    },
+    "labels": {
+      "name": "Nome completo",
+      "email": "E-mail de trabalho",
+      "website": "URL do website atual",
+      "practiceType": "Tipo de clínica",
+      "need": "Do que precisa?",
+      "message": "Algo mais que devamos saber?",
+      "optional": "(opcional)"
+    },
+    "placeholders": {
+      "name": "Dr.ª Jane Doe",
+      "email": "jane@practice.com",
+      "website": "suaclinica.com",
+      "select": "Selecionar…",
+      "message": "Fale-nos da sua clínica e dos seus objetivos…"
+    },
+    "practiceTypes": [
+      "Clínica individual",
+      "Clínica com várias localizações",
+      "Clínica estética / cosmética",
+      "Dermatologia pediátrica",
+      "Mohs / Cirúrgica",
+      "Grupo de dermatologia",
+      "Outro"
+    ],
+    "needs": [
+      "Novo website",
+      "Redesign de website",
+      "Migração de website",
+      "SEO",
+      "Google Ads / PPC",
+      "Redes sociais",
+      "Ainda não sei"
+    ],
+    "validation": {
+      "name": "Introduza o seu nome completo",
+      "email": "Introduza um e-mail de trabalho válido",
+      "website": "Introduza o URL do seu website",
+      "practiceType": "Selecione o tipo de clínica",
+      "need": "Selecione o que precisa",
+      "message": "Máximo de 1000 caracteres",
+      "consent": "Aceite ser contactado"
+    },
+    "errors": {
+      "fixFields": "Corrija os campos assinalados.",
+      "cooldown": "Aguarde {{seconds}} s antes de enviar novamente.",
+      "global": "Algo correu mal. Tente novamente ou escreva-nos diretamente."
+    },
+    "hipaaNotice": "Não inclua informações de pacientes nem informações de saúde protegidas (PHI) neste formulário.",
+    "consent": {
+      "label": "Aceito ser contactado sobre o meu pedido de auditoria.",
+      "privacyLink": "Política de Privacidade"
+    },
+    "submitting": "A enviar…",
+    "emailFallback": "Prefere e-mail? Escreva-nos para"
+  },
+  "thankYou": {
+    "metaTitle": "Obrigado",
+    "metaDescription": "Recebemos o seu pedido de auditoria. A sua auditoria de website gratuita chegará em 48 horas.",
+    "title": "Obrigado — recebemos o seu pedido",
+    "description": "Recebemos o seu pedido de auditoria e enviámos uma confirmação para o seu e-mail.",
+    "turnaround": "Enviaremos a sua auditoria em 48 horas",
+    "backHome": "Voltar à página inicial"
   }
 }

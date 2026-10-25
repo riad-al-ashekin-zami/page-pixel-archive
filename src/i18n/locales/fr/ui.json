@@ -1,6 +1,10 @@
 {
-  "language": { "select": "Langue" },
-  "common": { "or": "ou" },
+  "language": {
+    "select": "Langue"
+  },
+  "common": {
+    "or": "ou"
+  },
   "topBar": {
     "whatsappUs": "Contactez-nous sur WhatsApp",
     "whatsapp": "WhatsApp",
@@ -9,7 +13,9 @@
     "freeAudit": "Audit gratuit",
     "hipaaAware": "Sites conformes HIPAA",
     "hipaaAwareShort": "Conforme HIPAA",
-    "hipaa": "HIPAA"
+    "hipaa": "HIPAA",
+    "freeAudit48h": "Audit de site web gratuit sous 48 heures",
+    "freeAudit48hShort": "Audit gratuit · 48 h"
   },
   "nav": {
     "home": "Accueil",
@@ -26,7 +32,8 @@
   "cta": {
     "getFreeQuote": "Devis gratuit",
     "requestAudit": "Demander un audit gratuit",
-    "viewAllAddons": "Voir tous les services complémentaires"
+    "viewAllAddons": "Voir tous les services complémentaires",
+    "label": "Obtenez votre audit de site web gratuit"
   },
   "drawer": {
     "websiteServices": "Services de site web",
@@ -55,13 +62,34 @@
       "contact": "Contact"
     },
     "quick": {
-      "design":     { "label": "Conception de site",   "prompt": "Parlez-moi de votre service de conception de site." },
-      "management": { "label": "Gestion du site",      "prompt": "Que comprend la gestion du site ?" },
-      "seo":        { "label": "Services SEO",          "prompt": "Comment fonctionne votre SEO pour la dermatologie ?" },
-      "portfolio":  { "label": "Portfolio",             "prompt": "Puis-je voir votre portfolio ?" },
-      "pricing":    { "label": "Tarifs",                "prompt": "Quels sont vos tarifs et forfaits ?" },
-      "audit":      { "label": "Audit gratuit",         "prompt": "Comment obtenir un audit gratuit du site ?" },
-      "quote":      { "label": "Devis gratuit",         "prompt": "Comment obtenir un devis gratuit ?" }
+      "design": {
+        "label": "Conception de site",
+        "prompt": "Parlez-moi de votre service de conception de site."
+      },
+      "management": {
+        "label": "Gestion du site",
+        "prompt": "Que comprend la gestion du site ?"
+      },
+      "seo": {
+        "label": "Services SEO",
+        "prompt": "Comment fonctionne votre SEO pour la dermatologie ?"
+      },
+      "portfolio": {
+        "label": "Portfolio",
+        "prompt": "Puis-je voir votre portfolio ?"
+      },
+      "pricing": {
+        "label": "Tarifs",
+        "prompt": "Quels sont vos tarifs et forfaits ?"
+      },
+      "audit": {
+        "label": "Audit gratuit",
+        "prompt": "Comment obtenir un audit gratuit du site ?"
+      },
+      "quote": {
+        "label": "Devis gratuit",
+        "prompt": "Comment obtenir un devis gratuit ?"
+      }
     }
   },
   "errorPages": {

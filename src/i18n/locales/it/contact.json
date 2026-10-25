@@ -1,9 +1,9 @@
 {
   "meta": {
-    "title": "Contattaci — Web Design per la Dermatologia",
-    "description": "Contatta il nostro team di web design specializzato in dermatologia. Email, WhatsApp o messaggio: rispondiamo entro 24 ore.",
-    "ogTitle": "Contattaci — Web Design per la Dermatologia",
-    "ogDescription": "Domande sul sito web del tuo studio? Scrivici: rispondiamo entro 24 ore.",
+    "title": "Contattaci",
+    "description": "Raccontaci del tuo studio e del tuo sito web. Ti invieremo un audit gratuito e personalizzato con opportunità di SEO, velocità e conversione entro 48 ore.",
+    "ogTitle": "Contattaci",
+    "ogDescription": "Raccontaci del tuo studio e del tuo sito web. Ti invieremo un audit gratuito e personalizzato con opportunità di SEO, velocità e conversione entro 48 ore.",
     "breadcrumbHome": "Home",
     "breadcrumbContact": "Contatti"
   },
@@ -189,5 +189,79 @@
     "typing": "sta scrivendo",
     "placeholder": "Scrivi un messaggio...",
     "replyStatus": "Risposta inviata · 2 min fa"
+  },
+  "auditForm": {
+    "hero": {
+      "tag": "Audit gratuito",
+      "intro": "Raccontaci del tuo studio e del tuo sito web attuale. Ti invieremo un audit gratuito e personalizzato con opportunità di SEO, velocità e conversione entro 48 ore.",
+      "points": [
+        "Audit gratuito e personalizzato",
+        "Consegnato entro 48 ore",
+        "Senza impegno"
+      ]
+    },
+    "labels": {
+      "name": "Nome completo",
+      "email": "Email di lavoro",
+      "website": "URL del sito attuale",
+      "practiceType": "Tipo di studio",
+      "need": "Di cosa hai bisogno?",
+      "message": "Qualcos'altro che dovremmo sapere?",
+      "optional": "(facoltativo)"
+    },
+    "placeholders": {
+      "name": "Dr.ssa Jane Doe",
+      "email": "jane@practice.com",
+      "website": "iltuostudio.it",
+      "select": "Seleziona…",
+      "message": "Raccontaci del tuo studio e dei tuoi obiettivi…"
+    },
+    "practiceTypes": [
+      "Studio individuale",
+      "Studio multi-sede",
+      "Clinica estetica / cosmetica",
+      "Dermatologia pediatrica",
+      "Mohs / Chirurgico",
+      "Gruppo dermatologico",
+      "Altro"
+    ],
+    "needs": [
+      "Nuovo sito web",
+      "Restyling del sito",
+      "Migrazione del sito",
+      "SEO",
+      "Google Ads / PPC",
+      "Social media",
+      "Non sono sicuro"
+    ],
+    "validation": {
+      "name": "Inserisci il tuo nome completo",
+      "email": "Inserisci un'email di lavoro valida",
+      "website": "Inserisci l'URL del tuo sito",
+      "practiceType": "Seleziona il tipo di studio",
+      "need": "Seleziona ciò di cui hai bisogno",
+      "message": "Massimo 1000 caratteri",
+      "consent": "Accetta di essere contattato"
+    },
+    "errors": {
+      "fixFields": "Correggi i campi evidenziati.",
+      "cooldown": "Attendi {{seconds}} s prima di inviare di nuovo.",
+      "global": "Qualcosa è andato storto. Riprova o scrivici direttamente."
+    },
+    "hipaaNotice": "Non includere informazioni sui pazienti o informazioni sanitarie protette (PHI) in questo modulo.",
+    "consent": {
+      "label": "Accetto di essere contattato in merito alla mia richiesta di audit.",
+      "privacyLink": "Informativa sulla privacy"
+    },
+    "submitting": "Invio in corso…",
+    "emailFallback": "Preferisci l'email? Scrivici a"
+  },
+  "thankYou": {
+    "metaTitle": "Grazie",
+    "metaDescription": "Abbiamo ricevuto la tua richiesta di audit. Il tuo audit gratuito del sito arriverà entro 48 ore.",
+    "title": "Grazie — abbiamo ricevuto la tua richiesta",
+    "description": "Abbiamo ricevuto la tua richiesta di audit e inviato una conferma alla tua email.",
+    "turnaround": "Ti invieremo l'audit entro 48 ore",
+    "backHome": "Torna alla home"
   }
 }

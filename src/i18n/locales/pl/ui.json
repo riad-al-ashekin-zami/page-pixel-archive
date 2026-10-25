@@ -1,6 +1,10 @@
 {
-  "language": { "select": "Język" },
-  "common": { "or": "lub" },
+  "language": {
+    "select": "Język"
+  },
+  "common": {
+    "or": "lub"
+  },
   "topBar": {
     "whatsappUs": "Napisz do nas na WhatsApp",
     "whatsapp": "WhatsApp",
@@ -9,7 +13,9 @@
     "freeAudit": "Bezpłatny audyt",
     "hipaaAware": "Strony zgodne z HIPAA",
     "hipaaAwareShort": "Zgodne z HIPAA",
-    "hipaa": "HIPAA"
+    "hipaa": "HIPAA",
+    "freeAudit48h": "Bezpłatny audyt strony w 48 godzin",
+    "freeAudit48hShort": "Bezpłatny audyt · 48 godz."
   },
   "nav": {
     "home": "Strona główna",
@@ -26,7 +32,8 @@
   "cta": {
     "getFreeQuote": "Bezpłatna wycena",
     "requestAudit": "Zamów bezpłatny audyt",
-    "viewAllAddons": "Zobacz wszystkie usługi dodatkowe"
+    "viewAllAddons": "Zobacz wszystkie usługi dodatkowe",
+    "label": "Uzyskaj bezpłatny audyt strony"
   },
   "drawer": {
     "websiteServices": "Usługi WWW",
@@ -55,13 +62,34 @@
       "contact": "Kontakt"
     },
     "quick": {
-      "design":     { "label": "Projekt strony",     "prompt": "Opowiedz o usłudze projektowania stron." },
-      "management": { "label": "Zarządzanie stroną", "prompt": "Co obejmuje zarządzanie stroną?" },
-      "seo":        { "label": "Usługi SEO",         "prompt": "Jak działa Wasze SEO dla dermatologii?" },
-      "portfolio":  { "label": "Portfolio",          "prompt": "Czy mogę zobaczyć portfolio?" },
-      "pricing":    { "label": "Cennik",             "prompt": "Jakie są ceny i pakiety?" },
-      "audit":      { "label": "Bezpłatny audyt",    "prompt": "Jak otrzymać bezpłatny audyt strony?" },
-      "quote":      { "label": "Bezpłatna wycena",   "prompt": "Jak otrzymać bezpłatną wycenę?" }
+      "design": {
+        "label": "Projekt strony",
+        "prompt": "Opowiedz o usłudze projektowania stron."
+      },
+      "management": {
+        "label": "Zarządzanie stroną",
+        "prompt": "Co obejmuje zarządzanie stroną?"
+      },
+      "seo": {
+        "label": "Usługi SEO",
+        "prompt": "Jak działa Wasze SEO dla dermatologii?"
+      },
+      "portfolio": {
+        "label": "Portfolio",
+        "prompt": "Czy mogę zobaczyć portfolio?"
+      },
+      "pricing": {
+        "label": "Cennik",
+        "prompt": "Jakie są ceny i pakiety?"
+      },
+      "audit": {
+        "label": "Bezpłatny audyt",
+        "prompt": "Jak otrzymać bezpłatny audyt strony?"
+      },
+      "quote": {
+        "label": "Bezpłatna wycena",
+        "prompt": "Jak otrzymać bezpłatną wycenę?"
+      }
     }
   },
   "errorPages": {

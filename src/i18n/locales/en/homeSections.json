@@ -293,6 +293,10 @@
       "errorGeneric": "Sorry, something went wrong. Please try again.",
       "successTitle": "Request received.",
       "successMessage": "Your personalized audit is on the way. We'll email your action plan within 48 hours."
+    },
+    "ctaCard": {
+      "title": "Ready for your free audit?",
+      "description": "Answer a few quick questions on our contact page and we'll send your personalized audit within 48 hours."
     }
   },
   "faqSnippet": {

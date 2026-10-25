@@ -293,6 +293,10 @@
       "errorGeneric": "Désolé, une erreur est survenue. Veuillez réessayer.",
       "successTitle": "Demande reçue.",
       "successMessage": "Votre audit personnalisé est en route. Nous vous enverrons votre plan d'action par e-mail dans les 48 heures."
+    },
+    "ctaCard": {
+      "title": "Prêt pour votre audit gratuit ?",
+      "description": "Répondez à quelques questions rapides sur notre page de contact et nous vous enverrons votre audit personnalisé sous 48 heures."
     }
   },
   "faqSnippet": {

@@ -293,6 +293,10 @@
       "errorGeneric": "Spiacenti, qualcosa è andato storto. Riprova.",
       "successTitle": "Richiesta ricevuta.",
       "successMessage": "Il tuo audit personalizzato è in arrivo. Ti invieremo via email il tuo piano d'azione entro 48 ore."
+    },
+    "ctaCard": {
+      "title": "Pronto per il tuo audit gratuito?",
+      "description": "Rispondi ad alcune domande rapide nella nostra pagina contatti e ti invieremo il tuo audit personalizzato entro 48 ore."
     }
   },
   "faqSnippet": {

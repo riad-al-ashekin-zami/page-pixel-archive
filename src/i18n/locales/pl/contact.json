@@ -1,9 +1,9 @@
 {
   "meta": {
-    "title": "Kontakt — Tworzenie stron dla dermatologów",
-    "description": "Skontaktuj się z naszym zespołem ekspertów od stron dla dermatologii. Napisz e-mail, wiadomość na WhatsApp lub skorzystaj z formularza — odpowiadamy w 24 godziny.",
-    "ogTitle": "Kontakt — Profesjonalne strony dla dermatologii",
-    "ogDescription": "Masz pytania dotyczące strony Twojego gabinetu? Skontaktuj się z nami — odpowiadamy w ciągu 24h.",
+    "title": "Kontakt",
+    "description": "Opowiedz nam o swojej praktyce i stronie internetowej. Wyślemy bezpłatny, spersonalizowany audyt z możliwościami SEO, szybkości i konwersji w ciągu 48 godzin.",
+    "ogTitle": "Kontakt",
+    "ogDescription": "Opowiedz nam o swojej praktyce i stronie internetowej. Wyślemy bezpłatny, spersonalizowany audyt z możliwościami SEO, szybkości i konwersji w ciągu 48 godzin.",
     "breadcrumbHome": "Strona główna",
     "breadcrumbContact": "Kontakt"
   },
@@ -189,5 +189,79 @@
     "typing": "pisze",
     "placeholder": "Wpisz wiadomość...",
     "replyStatus": "Wysłano · 2 min temu"
+  },
+  "auditForm": {
+    "hero": {
+      "tag": "Bezpłatny audyt",
+      "intro": "Opowiedz nam o swojej praktyce i obecnej stronie internetowej. Wyślemy Ci bezpłatny, spersonalizowany audyt z możliwościami SEO, szybkości i konwersji w ciągu 48 godzin.",
+      "points": [
+        "Bezpłatny, spersonalizowany audyt",
+        "Dostarczany w 48 godzin",
+        "Bez zobowiązań"
+      ]
+    },
+    "labels": {
+      "name": "Imię i nazwisko",
+      "email": "Służbowy e-mail",
+      "website": "Adres obecnej strony",
+      "practiceType": "Typ praktyki",
+      "need": "Czego potrzebujesz?",
+      "message": "Coś jeszcze powinniśmy wiedzieć?",
+      "optional": "(opcjonalnie)"
+    },
+    "placeholders": {
+      "name": "Dr Jane Doe",
+      "email": "jane@practice.com",
+      "website": "twojaklinika.pl",
+      "select": "Wybierz…",
+      "message": "Opowiedz nam o swojej praktyce i celach…"
+    },
+    "practiceTypes": [
+      "Praktyka indywidualna",
+      "Praktyka wielolokalizacyjna",
+      "Klinika estetyczna / kosmetyczna",
+      "Dermatologia dziecięca",
+      "Mohs / Chirurgiczna",
+      "Grupa dermatologiczna",
+      "Inne"
+    ],
+    "needs": [
+      "Nowa strona internetowa",
+      "Przeprojektowanie strony",
+      "Migracja strony",
+      "SEO",
+      "Google Ads / PPC",
+      "Media społecznościowe",
+      "Jeszcze nie wiem"
+    ],
+    "validation": {
+      "name": "Podaj imię i nazwisko",
+      "email": "Podaj prawidłowy służbowy e-mail",
+      "website": "Podaj adres swojej strony",
+      "practiceType": "Wybierz typ praktyki",
+      "need": "Wybierz, czego potrzebujesz",
+      "message": "Maksymalnie 1000 znaków",
+      "consent": "Zgódź się na kontakt"
+    },
+    "errors": {
+      "fixFields": "Popraw zaznaczone pola.",
+      "cooldown": "Poczekaj {{seconds}} s przed ponownym wysłaniem.",
+      "global": "Coś poszło nie tak. Spróbuj ponownie lub napisz do nas bezpośrednio."
+    },
+    "hipaaNotice": "Nie umieszczaj w tym formularzu danych pacjentów ani chronionych informacji zdrowotnych (PHI).",
+    "consent": {
+      "label": "Zgadzam się na kontakt w sprawie mojego zgłoszenia audytu.",
+      "privacyLink": "Polityka prywatności"
+    },
+    "submitting": "Wysyłanie…",
+    "emailFallback": "Wolisz e-mail? Napisz do nas na"
+  },
+  "thankYou": {
+    "metaTitle": "Dziękujemy",
+    "metaDescription": "Otrzymaliśmy Twoje zgłoszenie audytu. Bezpłatny audyt strony dotrze w ciągu 48 godzin.",
+    "title": "Dziękujemy — Twoje zgłoszenie dotarło",
+    "description": "Otrzymaliśmy Twoje zgłoszenie audytu i wysłaliśmy potwierdzenie na Twój e-mail.",
+    "turnaround": "Wyślemy Twój audyt w ciągu 48 godzin",
+    "backHome": "Wróć na stronę główną"
   }
 }

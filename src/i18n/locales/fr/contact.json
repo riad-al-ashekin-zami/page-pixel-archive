@@ -1,9 +1,9 @@
 {
   "meta": {
-    "title": "Contactez-nous — Conception de sites web pour dermatologues",
-    "description": "Contactez notre équipe spécialisée en création de sites pour dermatologues. Email, WhatsApp ou formulaire — réponse sous 24 heures.",
-    "ogTitle": "Contactez-nous — Conception de sites web pour dermatologues",
-    "ogDescription": "Des questions sur le site de votre cabinet ? Contactez-nous — nous répondons sous 24 heures.",
+    "title": "Contactez-nous",
+    "description": "Parlez-nous de votre cabinet et de votre site web. Nous vous enverrons un audit gratuit et personnalisé avec des opportunités de SEO, de vitesse et de conversion sous 48 heures.",
+    "ogTitle": "Contactez-nous",
+    "ogDescription": "Parlez-nous de votre cabinet et de votre site web. Nous vous enverrons un audit gratuit et personnalisé avec des opportunités de SEO, de vitesse et de conversion sous 48 heures.",
     "breadcrumbHome": "Accueil",
     "breadcrumbContact": "Contact"
   },
@@ -189,5 +189,79 @@
     "typing": "en train d'écrire",
     "placeholder": "Écrivez un message…",
     "replyStatus": "Réponse envoyée · 2 min"
+  },
+  "auditForm": {
+    "hero": {
+      "tag": "Audit gratuit",
+      "intro": "Parlez-nous de votre cabinet et de votre site web actuel. Nous vous enverrons un audit gratuit et personnalisé avec des opportunités de SEO, de vitesse et de conversion sous 48 heures.",
+      "points": [
+        "Audit gratuit et personnalisé",
+        "Livré sous 48 heures",
+        "Sans engagement"
+      ]
+    },
+    "labels": {
+      "name": "Nom complet",
+      "email": "E-mail professionnel",
+      "website": "URL de votre site actuel",
+      "practiceType": "Type de cabinet",
+      "need": "De quoi avez-vous besoin ?",
+      "message": "Autre chose à savoir ?",
+      "optional": "(facultatif)"
+    },
+    "placeholders": {
+      "name": "Dr Jane Doe",
+      "email": "jane@practice.com",
+      "website": "votrecabinet.fr",
+      "select": "Sélectionner…",
+      "message": "Parlez-nous de votre cabinet et de vos objectifs…"
+    },
+    "practiceTypes": [
+      "Cabinet individuel",
+      "Cabinet multi-sites",
+      "Clinique esthétique / cosmétique",
+      "Dermatologie pédiatrique",
+      "Mohs / Chirurgical",
+      "Groupe de dermatologie",
+      "Autre"
+    ],
+    "needs": [
+      "Nouveau site web",
+      "Refonte de site web",
+      "Migration de site web",
+      "SEO",
+      "Google Ads / PPC",
+      "Réseaux sociaux",
+      "Pas encore sûr"
+    ],
+    "validation": {
+      "name": "Veuillez saisir votre nom complet",
+      "email": "Veuillez saisir un e-mail professionnel valide",
+      "website": "Veuillez saisir l'URL de votre site",
+      "practiceType": "Veuillez sélectionner votre type de cabinet",
+      "need": "Veuillez sélectionner ce dont vous avez besoin",
+      "message": "1000 caractères maximum",
+      "consent": "Veuillez accepter d'être contacté"
+    },
+    "errors": {
+      "fixFields": "Veuillez corriger les champs surlignés.",
+      "cooldown": "Veuillez patienter {{seconds}} s avant de renvoyer.",
+      "global": "Une erreur est survenue. Réessayez ou écrivez-nous directement."
+    },
+    "hipaaNotice": "Veuillez ne pas inclure d'informations sur les patients ni de données de santé protégées (PHI) dans ce formulaire.",
+    "consent": {
+      "label": "J'accepte d'être contacté au sujet de ma demande d'audit.",
+      "privacyLink": "Politique de confidentialité"
+    },
+    "submitting": "Envoi…",
+    "emailFallback": "Vous préférez l'e-mail ? Écrivez-nous à"
+  },
+  "thankYou": {
+    "metaTitle": "Merci",
+    "metaDescription": "Nous avons reçu votre demande d'audit. Votre audit de site web gratuit arrivera sous 48 heures.",
+    "title": "Merci — votre demande est bien reçue",
+    "description": "Nous avons reçu votre demande d'audit et envoyé une confirmation à votre e-mail.",
+    "turnaround": "Nous vous enverrons votre audit sous 48 heures",
+    "backHome": "Retour à l'accueil"
   }
 }
