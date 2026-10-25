@@ -134,10 +134,10 @@ export function SiteHeader({ transparentOverHero = false }: SiteHeaderProps) {
 
         <div className="ms-auto flex items-center gap-2 sm:gap-3">
           <LocalLink
-            to="/contact"
+            to={CTA_URL}
             className="group relative hidden items-center justify-center overflow-hidden rounded-full bg-brand-accent px-4 py-2 text-xs font-semibold text-foreground shadow-[0_8px_24px_-8px_rgba(0,0,0,0.35)] transition-all duration-200 hover:-translate-y-0.5 hover:shadow-[0_14px_30px_-10px_rgba(0,0,0,0.4)] sm:inline-flex sm:px-5 sm:py-2.5 sm:text-sm"
           >
-            <span className="relative z-10">{t("cta.getFreeQuote")}</span>
+            <span className="relative z-10">{t(CTA_I18N_KEY, { defaultValue: CTA_LABEL })}</span>
             <span
               aria-hidden
               className="absolute inset-0 -translate-x-full bg-gradient-to-r from-transparent via-white/40 to-transparent transition-transform duration-700 group-hover:translate-x-full"
