@@ -54,7 +54,30 @@ const submitSchema = z.object({
   preferred_contact: z.string().trim().max(60).optional().nullable(),
   nda_required: z.boolean().optional().nullable(),
   source_page: z.string().trim().max(500).optional().nullable(),
+  language: z.string().trim().max(10).optional().nullable(),
+  utm_source: z.string().trim().max(200).optional().nullable(),
+  utm_medium: z.string().trim().max(200).optional().nullable(),
+  utm_campaign: z.string().trim().max(200).optional().nullable(),
+  utm_term: z.string().trim().max(200).optional().nullable(),
+  utm_content: z.string().trim().max(200).optional().nullable(),
 });
+
+/** Basic server-side rate limit: max 3 lead submissions per IP per 10 minutes. */
+const RATE_WINDOW_MS = 10 * 60 * 1000;
+const RATE_MAX = 3;
+const rateBuckets = new Map<string, number[]>();
+function isRateLimited(ip: string | null): boolean {
+  if (!ip) return false;
+  const now = Date.now();
+  const hits = (rateBuckets.get(ip) ?? []).filter((t) => now - t < RATE_WINDOW_MS);
+  if (hits.length >= RATE_MAX) {
+    rateBuckets.set(ip, hits);
+    return true;
+  }
+  hits.push(now);
+  rateBuckets.set(ip, hits);
+  return false;
+}
 
 export type SubmitLeadInput = z.infer<typeof submitSchema>;
 
