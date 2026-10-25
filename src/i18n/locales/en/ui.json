@@ -6,8 +6,6 @@
     "or": "or"
   },
   "topBar": {
-    "whatsappUs": "WhatsApp Us",
-    "whatsapp": "WhatsApp",
     "freeAudit24hLong": "Free Website Audit in 48 Hours",
     "freeAudit24hShort": "Free Audit · 48h",
     "freeAudit": "Free Audit",
@@ -30,8 +28,6 @@
     "main": "Main"
   },
   "cta": {
-    "getFreeQuote": "Get a Free Quote",
-    "requestAudit": "Request Free Audit",
     "viewAllAddons": "View All Add-On Services",
     "label": "Get Your Free Website Audit"
   },
@@ -39,7 +35,6 @@
     "websiteServices": "Website Services",
     "marketingServices": "Marketing Services",
     "addOnServices": "Add-On Services",
-    "chatWhatsApp": "Chat on WhatsApp",
     "freeAuditBanner": "Free Website Audit · 48h turnaround"
   },
   "chat": {
@@ -87,7 +82,6 @@
         "prompt": "How do I get a free website audit?"
       },
       "quote": {
-        "label": "Get a Free Quote",
         "prompt": "How do I get a free quote?"
       }
     }

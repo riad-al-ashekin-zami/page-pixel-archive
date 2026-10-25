@@ -58,7 +58,6 @@
       "action": "Reach out"
     },
     {
-      "label": "WhatsApp",
       "value": "Chat with our team",
       "note": "Mon–Fri · 9am–6pm EST",
       "action": "Reach out"
@@ -123,8 +122,7 @@
     },
     "audit": {
       "title": "Not ready to talk yet?",
-      "description": "Get a free website audit — a quick health score and the top 3 issues holding your site back.",
-      "link": "Request free audit"
+      "description": "Get a free website audit — a quick health score and the top 3 issues holding your site back."
     }
   },
   "faq": {
@@ -153,8 +151,7 @@
     "tag": "Ready to grow?",
     "title": "Let's get in touch.",
     "description": "Your website should serve your practice — not the other way around. We're happy to help. Let's talk about your website's needs.",
-    "auditButton": "Get free website audit",
-    "quoteButton": "Get a free quote"
+    "auditButton": "Get free website audit"
   },
   "success": {
     "title": "Message received!",

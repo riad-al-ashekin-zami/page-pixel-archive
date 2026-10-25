@@ -65,8 +65,7 @@
   },
   "feedback": {
     "ready": "You're launch-ready.",
-    "completeDesc": "Every checkpoint complete. Get a free quote to keep momentum going.",
-    "quoteCta": "Get a Free Quote"
+    "completeDesc": "Every checkpoint complete. Get a free quote to keep momentum going."
   },
   "sections": {
     "prelaunch": {
@@ -246,7 +245,6 @@
     "title": "Prefer we run the checklist for you?",
     "description": "Get a personalized dermatology website audit — every checkpoint above, graded on your live site, with prioritized fixes delivered in 48 hours.",
     "links": {
-      "audit": "Request free audit",
       "contact": "Contact Us"
     }
   },

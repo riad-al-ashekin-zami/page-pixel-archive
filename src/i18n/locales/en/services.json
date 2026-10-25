@@ -14,7 +14,6 @@
     "eyebrow": "Services",
     "title": "Dermatology website services built to turn visitors into patients.",
     "description": "Choose a single project or a complete growth system: custom website design, SEO, patient acquisition, integrations, maintenance, and optimization for dermatology practices.",
-    "ctaQuote": "Get a Free Quote",
     "ctaPricing": "View Pricing",
     "proofPoints": {
       "hipaa": "HIPAA-aware implementation",
@@ -42,7 +41,6 @@
   },
   "cta": {
     "title": "Not sure which service fits your practice?",
-    "description": "Start with a free audit and we’ll map the highest-impact path for your site, search visibility, and patient conversion flow.",
-    "button": "Request Free Audit"
+    "description": "Start with a free audit and we’ll map the highest-impact path for your site, search visibility, and patient conversion flow."
   }
 }
