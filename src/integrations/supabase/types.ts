@@ -76,15 +76,137 @@ export type Database = {
         }
         Relationships: []
       }
+      leads: {
+        Row: {
+          admin_email_sent: boolean
+          admin_notes: string | null
+          budget: string | null
+          company_name: string | null
+          country: string | null
+          created_at: string
+          email: string
+          id: string
+          ip_address: string | null
+          last_email_error: string | null
+          lead_score: Database["public"]["Enums"]["lead_score"]
+          lead_score_points: number
+          name: string
+          nda_required: boolean
+          phone: string | null
+          preferred_contact: string | null
+          project_details: string | null
+          referrer: string | null
+          service_needed: string | null
+          source_page: string | null
+          status: Database["public"]["Enums"]["lead_status"]
+          timeline: string | null
+          updated_at: string
+          user_agent: string | null
+          visitor_email_sent: boolean
+          website_url: string | null
+        }
+        Insert: {
+          admin_email_sent?: boolean
+          admin_notes?: string | null
+          budget?: string | null
+          company_name?: string | null
+          country?: string | null
+          created_at?: string
+          email: string
+          id?: string
+          ip_address?: string | null
+          last_email_error?: string | null
+          lead_score?: Database["public"]["Enums"]["lead_score"]
+          lead_score_points?: number
+          name: string
+          nda_required?: boolean
+          phone?: string | null
+          preferred_contact?: string | null
+          project_details?: string | null
+          referrer?: string | null
+          service_needed?: string | null
+          source_page?: string | null
+          status?: Database["public"]["Enums"]["lead_status"]
+          timeline?: string | null
+          updated_at?: string
+          user_agent?: string | null
+          visitor_email_sent?: boolean
+          website_url?: string | null
+        }
+        Update: {
+          admin_email_sent?: boolean
+          admin_notes?: string | null
+          budget?: string | null
+          company_name?: string | null
+          country?: string | null
+          created_at?: string
+          email?: string
+          id?: string
+          ip_address?: string | null
+          last_email_error?: string | null
+          lead_score?: Database["public"]["Enums"]["lead_score"]
+          lead_score_points?: number
+          name?: string
+          nda_required?: boolean
+          phone?: string | null
+          preferred_contact?: string | null
+          project_details?: string | null
+          referrer?: string | null
+          service_needed?: string | null
+          source_page?: string | null
+          status?: Database["public"]["Enums"]["lead_status"]
+          timeline?: string | null
+          updated_at?: string
+          user_agent?: string | null
+          visitor_email_sent?: boolean
+          website_url?: string | null
+        }
+        Relationships: []
+      }
+      user_roles: {
+        Row: {
+          created_at: string
+          id: string
+          role: Database["public"]["Enums"]["app_role"]
+          user_id: string
+        }
+        Insert: {
+          created_at?: string
+          id?: string
+          role: Database["public"]["Enums"]["app_role"]
+          user_id: string
+        }
+        Update: {
+          created_at?: string
+          id?: string
+          role?: Database["public"]["Enums"]["app_role"]
+          user_id?: string
+        }
+        Relationships: []
+      }
     }
     Views: {
       [_ in never]: never
     }
     Functions: {
-      [_ in never]: never
+      has_role: {
+        Args: {
+          _role: Database["public"]["Enums"]["app_role"]
+          _user_id: string
+        }
+        Returns: boolean
+      }
     }
     Enums: {
-      [_ in never]: never
+      app_role: "admin" | "moderator" | "user"
+      lead_score: "High" | "Medium" | "Low"
+      lead_status:
+        | "New"
+        | "Contacted"
+        | "Call Scheduled"
+        | "Proposal Sent"
+        | "Won"
+        | "Lost"
     }
     CompositeTypes: {
       [_ in never]: never
@@ -211,6 +333,17 @@ export type CompositeTypes<
 
 export const Constants = {
   public: {
-    Enums: {},
+    Enums: {
+      app_role: ["admin", "moderator", "user"],
+      lead_score: ["High", "Medium", "Low"],
+      lead_status: [
+        "New",
+        "Contacted",
+        "Call Scheduled",
+        "Proposal Sent",
+        "Won",
+        "Lost",
+      ],
+    },
   },
 } as const
