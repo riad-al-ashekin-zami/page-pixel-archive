@@ -6,8 +6,8 @@ import { useEffect, useReducer, type ReactNode } from "react";
 
 import appCss from "../styles.css?url";
 import { reportLovableError } from "../lib/lovable-error-reporting";
-import { ChatWidget } from "@/components/chatbot/chat-widget";
 import { Preloader } from "@/components/preloader";
+import { captureTrackingOnLanding } from "@/lib/utm";
 import "@/i18n";
 import { applyHtmlLangAndDir } from "@/i18n";
 import { useTranslation } from "react-i18next";
@@ -352,7 +352,8 @@ function RootComponent() {
         <Preloader />
         {/* Required: nested routes render here. Removing <Outlet /> breaks all child routes. */}
         <Outlet />
-        {!pathname.startsWith("/lp") && <ChatWidget />}
+        {/* Chat widget removed: it acted as a second CTA. The site now has one
+            call to action (see src/lib/cta.ts) and one form on /contact. */}
       </div>
     </QueryClientProvider>
   );
