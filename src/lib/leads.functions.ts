@@ -159,7 +159,17 @@ export const submitLead = createServerFn({ method: "POST" })
     }
 
     const { sendLeadEmails } = await import("./lead-mailer.server");
-    const result = await sendLeadEmails({ ...insert, id: row.id, lead_score: score });
+    const result = await sendLeadEmails({
+      ...insert,
+      id: row.id,
+      lead_score: score,
+      language: data.language,
+      utm_source: data.utm_source,
+      utm_medium: data.utm_medium,
+      utm_campaign: data.utm_campaign,
+      utm_term: data.utm_term,
+      utm_content: data.utm_content,
+    });
 
     await supabaseAdmin
       .from("leads")
