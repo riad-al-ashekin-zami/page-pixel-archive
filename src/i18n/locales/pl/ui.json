@@ -6,7 +6,6 @@
     "or": "lub"
   },
   "topBar": {
-    "whatsappUs": "Napisz do nas na WhatsApp",
     "freeAudit24hLong": "Bezpłatny audyt strony w 24 godziny",
     "freeAudit24hShort": "Bezpłatny audyt · 24 h",
     "freeAudit": "Bezpłatny audyt",
@@ -38,7 +37,6 @@
     "websiteServices": "Usługi WWW",
     "marketingServices": "Marketing",
     "addOnServices": "Usługi dodatkowe",
-    "chatWhatsApp": "Napisz na WhatsApp",
     "freeAuditBanner": "Bezpłatny audyt strony · odpowiedź w 24 h"
   },
   "chat": {
@@ -55,7 +53,6 @@
     "errorText": "Coś poszło nie tak. Spróbuj ponownie lub",
     "contactUs": "skontaktuj się z nami",
     "primary": {
-      "quote": "Wycena",
       "audit": "Audyt",
       "pricing": "Cennik",
       "contact": "Kontakt"
@@ -84,10 +81,6 @@
       "audit": {
         "label": "Bezpłatny audyt",
         "prompt": "Jak otrzymać bezpłatny audyt strony?"
-      },
-      "quote": {
-        "label": "Bezpłatna wycena",
-        "prompt": "Jak otrzymać bezpłatną wycenę?"
       }
     }
   },

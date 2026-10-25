@@ -6,7 +6,6 @@
     "or": "nebo"
   },
   "topBar": {
-    "whatsappUs": "Napište nám na WhatsApp",
     "freeAudit24hLong": "Bezplatný audit webu do 24 hodin",
     "freeAudit24hShort": "Audit zdarma · 24 h",
     "freeAudit": "Audit zdarma",
@@ -38,7 +37,6 @@
     "websiteServices": "Webové služby",
     "marketingServices": "Marketing",
     "addOnServices": "Doplňkové služby",
-    "chatWhatsApp": "Chatovat na WhatsApp",
     "freeAuditBanner": "Bezplatný audit webu · odpověď do 24 h"
   },
   "chat": {
@@ -55,7 +53,6 @@
     "errorText": "Něco se pokazilo. Zkuste to znovu nebo",
     "contactUs": "nás kontaktujte",
     "primary": {
-      "quote": "Nabídka",
       "audit": "Audit",
       "pricing": "Ceník",
       "contact": "Kontakt"
@@ -84,10 +81,6 @@
       "audit": {
         "label": "Audit zdarma",
         "prompt": "Jak získám bezplatný audit webu?"
-      },
-      "quote": {
-        "label": "Nabídka zdarma",
-        "prompt": "Jak získám nezávaznou nabídku?"
       }
     }
   },

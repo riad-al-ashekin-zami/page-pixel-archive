@@ -6,8 +6,6 @@
     "or": "أو"
   },
   "topBar": {
-    "whatsappUs": "راسلنا على واتساب",
-    "whatsapp": "واتساب",
     "freeAudit24hLong": "تدقيق مجاني للموقع خلال 24 ساعة",
     "freeAudit24hShort": "تدقيق مجاني · 24س",
     "freeAudit": "تدقيق مجاني",
@@ -39,7 +37,6 @@
     "websiteServices": "خدمات المواقع",
     "marketingServices": "خدمات التسويق",
     "addOnServices": "الخدمات الإضافية",
-    "chatWhatsApp": "الدردشة على واتساب",
     "freeAuditBanner": "تدقيق مجاني للموقع · خلال 24 ساعة"
   },
   "chat": {
@@ -56,7 +53,6 @@
     "errorText": "حدث خطأ ما. حاول مرة أخرى أو",
     "contactUs": "تواصل معنا",
     "primary": {
-      "quote": "عرض سعر",
       "audit": "تدقيق",
       "pricing": "الأسعار",
       "contact": "تواصل"
@@ -85,10 +81,6 @@
       "audit": {
         "label": "تدقيق مجاني",
         "prompt": "كيف أحصل على تدقيق مجاني للموقع؟"
-      },
-      "quote": {
-        "label": "عرض سعر مجاني",
-        "prompt": "كيف أحصل على عرض سعر مجاني؟"
       }
     }
   },

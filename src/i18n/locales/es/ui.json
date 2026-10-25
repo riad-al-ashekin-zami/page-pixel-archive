@@ -6,7 +6,6 @@
     "or": "o"
   },
   "topBar": {
-    "whatsappUs": "Contáctanos por WhatsApp",
     "freeAudit24hLong": "Auditoría Gratuita de Sitio Web en 24 Horas",
     "freeAudit24hShort": "Auditoría Gratuita · 24h",
     "freeAudit": "Auditoría Gratuita",
@@ -38,7 +37,6 @@
     "websiteServices": "Servicios Web",
     "marketingServices": "Servicios de Marketing",
     "addOnServices": "Servicios Adicionales",
-    "chatWhatsApp": "Chatear por WhatsApp",
     "freeAuditBanner": "Auditoría Gratuita de Sitio Web · Entrega en 24h"
   },
   "chat": {
@@ -55,7 +53,6 @@
     "errorText": "Algo salió mal. Por favor, inténtalo de nuevo, o",
     "contactUs": "contáctanos",
     "primary": {
-      "quote": "Presupuesto Gratuito",
       "audit": "Auditoría Gratuita",
       "pricing": "Precios",
       "contact": "Contacto"
@@ -84,10 +81,6 @@
       "audit": {
         "label": "Auditoría Web Gratuita",
         "prompt": "¿Cómo obtengo una auditoría web gratuita?"
-      },
-      "quote": {
-        "label": "Obtener Presupuesto Gratuito",
-        "prompt": "¿Cómo obtengo un presupuesto gratuito?"
       }
     }
   },

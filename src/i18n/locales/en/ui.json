@@ -51,7 +51,6 @@
     "errorText": "Something went wrong. Please try again, or",
     "contactUs": "contact us",
     "primary": {
-      "quote": "Free Quote",
       "audit": "Free Audit",
       "pricing": "Pricing",
       "contact": "Contact"
@@ -80,9 +79,6 @@
       "audit": {
         "label": "Free Website Audit",
         "prompt": "How do I get a free website audit?"
-      },
-      "quote": {
-        "prompt": "How do I get a free quote?"
       }
     }
   },

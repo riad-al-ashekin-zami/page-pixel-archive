@@ -6,7 +6,6 @@
     "or": "ou"
   },
   "topBar": {
-    "whatsappUs": "Fale conosco no WhatsApp",
     "freeAudit24hLong": "Auditoria gratuita do site em 24 horas",
     "freeAudit24hShort": "Auditoria grátis · 24 h",
     "freeAudit": "Auditoria grátis",
@@ -38,7 +37,6 @@
     "websiteServices": "Serviços de site",
     "marketingServices": "Serviços de marketing",
     "addOnServices": "Serviços adicionais",
-    "chatWhatsApp": "Conversar no WhatsApp",
     "freeAuditBanner": "Auditoria gratuita · resposta em 24 h"
   },
   "chat": {
@@ -55,7 +53,6 @@
     "errorText": "Algo deu errado. Tente novamente ou",
     "contactUs": "fale conosco",
     "primary": {
-      "quote": "Orçamento",
       "audit": "Auditoria",
       "pricing": "Preços",
       "contact": "Contato"
@@ -84,10 +81,6 @@
       "audit": {
         "label": "Auditoria gratuita",
         "prompt": "Como obter uma auditoria gratuita do site?"
-      },
-      "quote": {
-        "label": "Orçamento gratuito",
-        "prompt": "Como obter um orçamento gratuito?"
       }
     }
   },

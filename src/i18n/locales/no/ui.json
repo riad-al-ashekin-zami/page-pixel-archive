@@ -6,7 +6,6 @@
     "or": "eller"
   },
   "topBar": {
-    "whatsappUs": "Kontakt oss på WhatsApp",
     "freeAudit24hLong": "Gratis nettstedsanalyse på 24 timer",
     "freeAudit24hShort": "Gratis analyse · 24 t",
     "freeAudit": "Gratis analyse",
@@ -38,7 +37,6 @@
     "websiteServices": "Nettstedstjenester",
     "marketingServices": "Markedsføring",
     "addOnServices": "Tilleggstjenester",
-    "chatWhatsApp": "Chat på WhatsApp",
     "freeAuditBanner": "Gratis nettstedsanalyse · svar innen 24 t"
   },
   "chat": {
@@ -55,7 +53,6 @@
     "errorText": "Noe gikk galt. Prøv igjen eller",
     "contactUs": "kontakt oss",
     "primary": {
-      "quote": "Tilbud",
       "audit": "Analyse",
       "pricing": "Priser",
       "contact": "Kontakt"
@@ -84,10 +81,6 @@
       "audit": {
         "label": "Gratis analyse",
         "prompt": "Hvordan får jeg en gratis analyse?"
-      },
-      "quote": {
-        "label": "Gratis tilbud",
-        "prompt": "Hvordan får jeg et gratis tilbud?"
       }
     }
   },

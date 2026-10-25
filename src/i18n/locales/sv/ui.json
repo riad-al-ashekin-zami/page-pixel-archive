@@ -6,7 +6,6 @@
     "or": "eller"
   },
   "topBar": {
-    "whatsappUs": "Kontakta oss på WhatsApp",
     "freeAudit24hLong": "Gratis webbplatsgranskning inom 24 timmar",
     "freeAudit24hShort": "Gratis granskning · 24 h",
     "freeAudit": "Gratis granskning",
@@ -38,7 +37,6 @@
     "websiteServices": "Webbplatstjänster",
     "marketingServices": "Marknadsföring",
     "addOnServices": "Tilläggstjänster",
-    "chatWhatsApp": "Chatta på WhatsApp",
     "freeAuditBanner": "Gratis granskning · svar inom 24 h"
   },
   "chat": {
@@ -55,7 +53,6 @@
     "errorText": "Något gick fel. Försök igen eller",
     "contactUs": "kontakta oss",
     "primary": {
-      "quote": "Offert",
       "audit": "Granskning",
       "pricing": "Priser",
       "contact": "Kontakt"
@@ -84,10 +81,6 @@
       "audit": {
         "label": "Gratis granskning",
         "prompt": "Hur får jag en gratis granskning?"
-      },
-      "quote": {
-        "label": "Gratis offert",
-        "prompt": "Hur får jag en gratis offert?"
       }
     }
   },

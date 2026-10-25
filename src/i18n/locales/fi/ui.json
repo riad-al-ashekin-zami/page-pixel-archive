@@ -6,7 +6,6 @@
     "or": "tai"
   },
   "topBar": {
-    "whatsappUs": "Ota yhteyttä WhatsAppissa",
     "freeAudit24hLong": "Ilmainen sivustoanalyysi 24 tunnissa",
     "freeAudit24hShort": "Ilmainen analyysi · 24 h",
     "freeAudit": "Ilmainen analyysi",
@@ -38,7 +37,6 @@
     "websiteServices": "Sivustopalvelut",
     "marketingServices": "Markkinointi",
     "addOnServices": "Lisäpalvelut",
-    "chatWhatsApp": "Chattaa WhatsAppissa",
     "freeAuditBanner": "Ilmainen sivustoanalyysi · vastaus 24 h"
   },
   "chat": {
@@ -55,7 +53,6 @@
     "errorText": "Jokin meni pieleen. Yritä uudelleen tai",
     "contactUs": "ota yhteyttä",
     "primary": {
-      "quote": "Tarjous",
       "audit": "Analyysi",
       "pricing": "Hinnat",
       "contact": "Yhteys"
@@ -84,10 +81,6 @@
       "audit": {
         "label": "Ilmainen analyysi",
         "prompt": "Miten saan ilmaisen sivustoanalyysin?"
-      },
-      "quote": {
-        "label": "Ilmainen tarjous",
-        "prompt": "Miten saan ilmaisen tarjouksen?"
       }
     }
   },

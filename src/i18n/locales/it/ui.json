@@ -6,7 +6,6 @@
     "or": "o"
   },
   "topBar": {
-    "whatsappUs": "Scrivici su WhatsApp",
     "freeAudit24hLong": "Audit gratuito del sito in 24 ore",
     "freeAudit24hShort": "Audit gratuito · 24 h",
     "freeAudit": "Audit gratuito",
@@ -38,7 +37,6 @@
     "websiteServices": "Servizi per il sito",
     "marketingServices": "Servizi di marketing",
     "addOnServices": "Servizi aggiuntivi",
-    "chatWhatsApp": "Chatta su WhatsApp",
     "freeAuditBanner": "Audit gratuito del sito · consegna in 24 h"
   },
   "chat": {
@@ -55,7 +53,6 @@
     "errorText": "Si è verificato un errore. Riprova oppure",
     "contactUs": "contattaci",
     "primary": {
-      "quote": "Preventivo",
       "audit": "Audit",
       "pricing": "Prezzi",
       "contact": "Contatti"
@@ -84,10 +81,6 @@
       "audit": {
         "label": "Audit gratuito",
         "prompt": "Come posso ottenere un audit gratuito?"
-      },
-      "quote": {
-        "label": "Preventivo gratuito",
-        "prompt": "Come posso ottenere un preventivo gratuito?"
       }
     }
   },

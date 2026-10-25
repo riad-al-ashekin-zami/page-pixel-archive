@@ -6,7 +6,6 @@
     "or": "oder"
   },
   "topBar": {
-    "whatsappUs": "Schreiben Sie uns auf WhatsApp",
     "freeAudit24hLong": "Kostenloses Website-Audit in 24 Stunden",
     "freeAudit24hShort": "Kostenloses Audit · 24 Std.",
     "freeAudit": "Kostenloses Audit",
@@ -38,7 +37,6 @@
     "websiteServices": "Website-Leistungen",
     "marketingServices": "Marketing-Leistungen",
     "addOnServices": "Zusatzleistungen",
-    "chatWhatsApp": "Auf WhatsApp chatten",
     "freeAuditBanner": "Kostenloses Website-Audit · 24 Std. Bearbeitungszeit"
   },
   "chat": {
@@ -55,7 +53,6 @@
     "errorText": "Etwas ist schiefgelaufen. Bitte erneut versuchen oder",
     "contactUs": "kontaktieren Sie uns",
     "primary": {
-      "quote": "Angebot",
       "audit": "Audit",
       "pricing": "Preise",
       "contact": "Kontakt"
@@ -84,10 +81,6 @@
       "audit": {
         "label": "Kostenloses Audit",
         "prompt": "Wie erhalte ich ein kostenloses Website-Audit?"
-      },
-      "quote": {
-        "label": "Kostenloses Angebot",
-        "prompt": "Wie erhalte ich ein kostenloses Angebot?"
       }
     }
   },
