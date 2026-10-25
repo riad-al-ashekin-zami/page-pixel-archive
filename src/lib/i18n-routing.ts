@@ -11,6 +11,7 @@
  *   - useCurrentLang() — read the active URL language inside components
  */
 import { useParams } from "@tanstack/react-router";
+import { isIndexableUrl } from "@/lib/index-allowlist";
 import {
   DEFAULT_LANGUAGE,
   LANGUAGE_CODES,
