@@ -52,7 +52,7 @@ export const Route = createFileRoute("/{-$lang}/blog/")({
           content: st?.meta?.description ?? "Practical playbooks on dermatology SEO, website design, patient acquisition, HIPAA, reviews, and paid ads — written for growth-minded practice owners.",
         },
         { name: "keywords", content: st?.meta?.keywords ?? "dermatology blog, dermatology SEO, dermatology marketing, practice growth, HIPAA websites" },
-        { name: "robots", content: robotsContent(params.lang, "/blog/index") },
+        { name: "robots", content: robotsContent(params.lang, "/blog") },
         { property: "og:title", content: st?.meta?.og?.title ?? "Dermatology Marketing Blog — Playbooks that Grow Practices" },
         {
           property: "og:description",
