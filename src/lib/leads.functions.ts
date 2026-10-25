@@ -102,7 +102,28 @@ export const submitLead = createServerFn({ method: "POST" })
     const userAgent = h("user-agent") ?? null;
     const referrer = h("referer") ?? h("referrer") ?? null;
 
+    if (isRateLimited(ip)) {
+      return { ok: false as const, error: "Too many submissions. Please try again later." };
+    }
+
     const { score, points } = calculateLeadScore(data);
+
+    // Persist tracking values inside project_details (the leads table has no
+    // dedicated UTM columns on the external backend).
+    const trackingLines = [
+      data.language ? `Language: ${data.language}` : null,
+      data.utm_source ? `UTM source: ${data.utm_source}` : null,
+      data.utm_medium ? `UTM medium: ${data.utm_medium}` : null,
+      data.utm_campaign ? `UTM campaign: ${data.utm_campaign}` : null,
+      data.utm_term ? `UTM term: ${data.utm_term}` : null,
+      data.utm_content ? `UTM content: ${data.utm_content}` : null,
+    ].filter(Boolean);
+    const projectDetails = [
+      data.project_details?.trim() || null,
+      trackingLines.length ? `--- Tracking ---\n${trackingLines.join("\n")}` : null,
+    ]
+      .filter(Boolean)
+      .join("\n\n");
 
     const insert = {
       name: data.name,
@@ -113,7 +134,7 @@ export const submitLead = createServerFn({ method: "POST" })
       service_needed: data.service_needed || null,
       budget: data.budget || null,
       timeline: data.timeline || null,
-      project_details: data.project_details || null,
+      project_details: projectDetails || null,
       preferred_contact: data.preferred_contact || null,
       nda_required: Boolean(data.nda_required),
       source_page: data.source_page || null,
