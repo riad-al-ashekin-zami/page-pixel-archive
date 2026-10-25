@@ -463,7 +463,7 @@ function AboutPage() {
     { value: "50+", label: t("stats.launched") },
     { value: "100%", label: t("stats.niche") },
     { value: "95+", label: t("stats.performance") },
-    { value: "24h", label: t("stats.audit") },
+    { value: "48h", label: t("stats.audit") },
   ];
 
   return (

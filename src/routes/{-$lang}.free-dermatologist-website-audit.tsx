@@ -62,12 +62,12 @@ export const Route = createFileRoute("/{-$lang}/free-dermatologist-website-audit
         { title: st?.meta?.title ?? "Free Dermatologist Website Audit — 24-Hour Actionable Report" },
         {
           name: "description",
-          content: st?.meta?.description ?? "Get a free, dermatology-specific website audit. Personalized report on SEO, speed, HIPAA, UX and conversion — delivered within 24 hours.",
+          content: st?.meta?.description ?? "Get a free, dermatology-specific website audit. Personalized report on SEO, speed, HIPAA, UX and conversion — delivered within 48 hours.",
         },
         { property: "og:title", content: st?.meta?.og?.title ?? "Free Dermatologist Website Audit" },
         {
           property: "og:description",
-          content: st?.meta?.og?.description ?? "Personalized website audit for dermatology practices — SEO, speed, HIPAA, UX and conversion. Delivered in 24 hours.",
+          content: st?.meta?.og?.description ?? "Personalized website audit for dermatology practices — SEO, speed, HIPAA, UX and conversion. Delivered in 48 hours.",
         },
         { property: "og:type", content: "website" },
         { name: "twitter:card", content: "summary" },
@@ -213,7 +213,7 @@ function AuditPage() {
 
               <div className="mt-10 grid max-w-lg grid-cols-3 gap-4 sm:gap-8">
                 <Stat value="50+" label={t("hero.stats.websites.label")} sub={t("hero.stats.websites.sub")} />
-                <Stat value="24h" label={t("hero.stats.delivery.label")} sub={t("hero.stats.delivery.sub")} />
+                <Stat value="48h" label={t("hero.stats.delivery.label")} sub={t("hero.stats.delivery.sub")} />
                 <Stat value="100%" label={t("hero.stats.niche.label")} sub={t("hero.stats.niche.sub")} />
               </div>
             </div>
@@ -525,9 +525,9 @@ function AuditPage() {
                   {t("sections.howItWorks.tag")}
                 </p>
                 <h2 className="mt-3 text-balance text-3xl font-light tracking-tight text-foreground sm:text-4xl">
-                  {t("sections.howItWorks.title").split("24 hours")[0]}
+                  {t("sections.howItWorks.title").split("48 hours")[0]}
                   <span className="font-medium text-brand-primary">
-                    <CountUp value="24" /> hours
+                    <CountUp value="48" /> hours
                   </span>
                   .
                 </h2>
