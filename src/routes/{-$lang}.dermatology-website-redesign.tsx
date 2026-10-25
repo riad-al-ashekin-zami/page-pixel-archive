@@ -1,5 +1,6 @@
 import { createFileRoute, notFound } from "@tanstack/react-router";
 import { LocalLink as Link } from "@/components/local-link";
+import { CtaLabel } from "@/lib/cta";
 import { buildHreflangLinks } from "@/lib/i18n-routing";
 import { motion, AnimatePresence } from "framer-motion";
 import { useEffect, useState } from "react";
@@ -154,11 +155,8 @@ function DermRedesignPage() {
                 {t("hero.description")}
               </p>
               <div className="mt-7 flex flex-wrap items-center gap-3">
-                <Link to="/get-a-free-quote" className="group inline-flex min-h-11 items-center gap-2 rounded-full bg-brand-primary px-5 py-3 text-sm font-semibold text-brand-primary-foreground shadow-[0_12px_36px_-14px_color-mix(in_oklch,var(--brand-primary),transparent_40%)] transition-transform hover:scale-[1.02]">
-                  {t("hero.cta.primary")} <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-0.5" />
-                </Link>
-                <Link to="/free-dermatologist-website-audit" className="inline-flex min-h-11 items-center gap-2 rounded-full border border-border bg-card px-5 py-3 text-sm font-semibold text-foreground transition-colors hover:border-brand-primary/40 hover:text-brand-primary">
-                  {t("hero.cta.secondary")}
+                <Link to="/contact" className="group inline-flex min-h-11 items-center gap-2 rounded-full bg-brand-primary px-5 py-3 text-sm font-semibold text-brand-primary-foreground shadow-[0_12px_36px_-14px_color-mix(in_oklch,var(--brand-primary),transparent_40%)] transition-transform hover:scale-[1.02]">
+                  <CtaLabel /> <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-0.5" />
                 </Link>
               </div>
               <div className="mt-6 flex items-baseline gap-2 text-xs text-muted-foreground">
@@ -476,11 +474,8 @@ function DermRedesignPage() {
                 </div>
               </div>
               <div className="flex flex-col gap-3 md:items-end">
-                <Link to="/get-a-free-quote" className="inline-flex min-h-11 items-center justify-center gap-2 rounded-full bg-brand-accent px-6 py-3.5 text-sm font-bold text-foreground shadow-xl transition-transform hover:scale-[1.03]">
-                  {t("cta.primary")} <ArrowRight className="h-4 w-4" />
-                </Link>
-                <Link to="/contact" className="inline-flex min-h-11 items-center justify-center gap-2 rounded-full border border-white/25 bg-white/10 px-6 py-3.5 text-sm font-semibold text-brand-primary-foreground backdrop-blur transition-colors hover:bg-white/20">
-                  <MessageSquare className="h-4 w-4" /> {t("cta.secondary")}
+                <Link to="/contact" className="inline-flex min-h-11 items-center justify-center gap-2 rounded-full bg-brand-accent px-6 py-3.5 text-sm font-bold text-foreground shadow-xl transition-transform hover:scale-[1.03]">
+                  <CtaLabel /> <ArrowRight className="h-4 w-4" />
                 </Link>
               </div>
             </div>
@@ -499,8 +494,8 @@ function DermRedesignPage() {
 
       {/* Sticky mobile CTA */}
       <div className="fixed inset-x-0 bottom-3 z-40 mx-3 md:hidden">
-        <Link to="/get-a-free-quote" className="flex items-center justify-center gap-2 rounded-full bg-brand-primary px-5 py-3.5 text-sm font-bold text-brand-primary-foreground shadow-[0_16px_40px_-12px_color-mix(in_oklch,var(--brand-primary),transparent_30%)]">
-          {t("cta.primary")} <ArrowRight className="h-4 w-4" />
+        <Link to="/contact" className="flex items-center justify-center gap-2 rounded-full bg-brand-primary px-5 py-3.5 text-sm font-bold text-brand-primary-foreground shadow-[0_16px_40px_-12px_color-mix(in_oklch,var(--brand-primary),transparent_30%)]">
+          <CtaLabel /> <ArrowRight className="h-4 w-4" />
         </Link>
       </div>
     </div>

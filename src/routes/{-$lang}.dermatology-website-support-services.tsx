@@ -1,5 +1,6 @@
 import { createFileRoute, notFound } from "@tanstack/react-router";
 import { LocalLink as Link } from "@/components/local-link";
+import { CtaLabel } from "@/lib/cta";
 import { buildHreflangLinks } from "@/lib/i18n-routing";
 import { useEffect, useState } from "react";
 import { SiteHeader } from "@/components/site-header/site-header";
@@ -121,16 +122,10 @@ function SupportServicesPage() {
               </p>
               <div className="mt-7 flex flex-wrap items-center gap-3">
                 <Link
-                  to="/get-a-free-quote"
+                  to="/contact"
                   className="group inline-flex min-h-11 items-center gap-2 rounded-full bg-brand-primary px-5 py-3 text-sm font-semibold text-brand-primary-foreground shadow-[0_12px_36px_-14px_color-mix(in_oklch,var(--brand-primary),transparent_40%)] transition-transform hover:scale-[1.02]"
                 >
-                  {t("hero.ctaStart")} <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-0.5" />
-                </Link>
-                <Link
-                  to="/contact"
-                  className="inline-flex min-h-11 items-center gap-2 rounded-full border border-border bg-card px-5 py-3 text-sm font-semibold text-foreground transition-colors hover:border-brand-primary/40 hover:text-brand-primary"
-                >
-                  <PlayCircle className="h-4 w-4" /> {t("hero.ctaDemo")}
+                  <CtaLabel /> <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-0.5" />
                 </Link>
               </div>
               <div className="mt-6 flex items-baseline gap-2 text-xs text-muted-foreground">
@@ -344,13 +339,13 @@ function SupportServicesPage() {
                       ))}
                     </ul>
                     <Link
-                      to="/get-a-free-quote"
+                      to="/contact"
                       className={`mt-8 inline-flex min-h-11 items-center justify-center gap-2 rounded-full px-5 py-3 text-sm font-semibold transition-transform hover:scale-[1.02] ${highlight
                           ? "bg-brand-primary text-brand-primary-foreground"
                           : "border border-border bg-card text-foreground hover:border-brand-primary/40 hover:text-brand-primary"
                       }`}
                     >
-                      {t("plans.choose")} {p.name} <ArrowRight className="h-4 w-4" />
+                      <CtaLabel /> {p.name} <ArrowRight className="h-4 w-4" />
                     </Link>
                   </div>
                 </div>
@@ -496,16 +491,10 @@ function SupportServicesPage() {
             </div>
             <div className="flex flex-col gap-3 sm:flex-row md:flex-col">
               <Link
-                to="/get-a-free-quote"
+                to="/contact"
                 className="inline-flex min-h-11 items-center justify-center gap-2 rounded-full bg-brand-primary px-5 py-3 text-sm font-semibold text-brand-primary-foreground transition-transform hover:scale-[1.02]"
               >
-                {t("cta.buttonQuote")} <ArrowRight className="h-4 w-4" />
-              </Link>
-              <Link
-                to="/contact"
-                className="inline-flex min-h-11 items-center justify-center gap-2 rounded-full border border-border bg-card px-5 py-3 text-sm font-semibold text-foreground transition-colors hover:border-brand-primary/40 hover:text-brand-primary"
-              >
-                {t("cta.buttonContact")}
+                <CtaLabel /> <ArrowRight className="h-4 w-4" />
               </Link>
             </div>
           </div>

@@ -1,6 +1,7 @@
 
 import { useTranslation } from "react-i18next";
 import { LocalLink } from "@/components/local-link";
+import { CtaLabel } from "@/lib/cta";
 import {
   ArrowUpRight,
   Monitor,
@@ -121,11 +122,11 @@ export function ServicesSection() {
             <span className="font-semibold text-foreground">{t("services.footerHighlight")}</span>
           </p>
           <LocalLink
-            to="/get-a-free-quote"
+            to="/contact"
             className="inline-flex shrink-0 items-center gap-2 rounded-full px-5 py-2.5 text-sm font-semibold text-brand-primary-foreground transition-transform hover:-translate-y-0.5"
             style={{ background: "linear-gradient(135deg, var(--brand-primary), color-mix(in oklch, var(--brand-primary), black 18%))" }}
           >
-            {t("services.footerCta")} <ArrowUpRight className="h-4 w-4" />
+            <CtaLabel /> <ArrowUpRight className="h-4 w-4" />
           </LocalLink>
         </div>
       </div>

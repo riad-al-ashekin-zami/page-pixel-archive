@@ -1,193 +1,84 @@
 {
   "meta": {
-    "title": "Kontakt — Tworzenie stron dla dermatologów",
-    "description": "Skontaktuj się z naszym zespołem ekspertów od stron dla dermatologii. Napisz e-mail, wiadomość na WhatsApp lub skorzystaj z formularza — odpowiadamy w 24 godziny.",
-    "ogTitle": "Kontakt — Profesjonalne strony dla dermatologii",
-    "ogDescription": "Masz pytania dotyczące strony Twojego gabinetu? Skontaktuj się z nami — odpowiadamy w ciągu 24h.",
+    "title": "Kontakt",
+    "description": "Opowiedz nam o swojej praktyce i stronie internetowej. Wyślemy bezpłatny, spersonalizowany audyt z możliwościami SEO, szybkości i konwersji w ciągu 48 godzin.",
+    "ogTitle": "Kontakt",
+    "ogDescription": "Opowiedz nam o swojej praktyce i stronie internetowej. Wyślemy bezpłatny, spersonalizowany audyt z możliwościami SEO, szybkości i konwersji w ciągu 48 godzin.",
     "breadcrumbHome": "Strona główna",
     "breadcrumbContact": "Kontakt"
   },
-  "form": {
-    "validation": {
-      "name": "Proszę podać imię i nazwisko",
-      "email": "Proszę podać poprawny adres e-mail",
-      "topic": "Proszę wybrać temat",
-      "message": "Proszę napisać krótką wiadomość (min. 10 znaków)"
-    },
-    "subjects": [
-      "Nowa strona internetowa",
-      "Redesign istniejącej strony",
-      "Migracja strony",
-      "SEO / Marketing",
-      "Opieka techniczna i utrzymanie",
-      "Pytanie ogólne"
-    ],
-    "errors": {
-      "fixFields": "Proszę poprawić wyróżnione pola.",
-      "cooldown": "Proszę odczekać {{seconds}}s przed kolejną próbą wysłania.",
-      "global": "Przepraszamy, wystąpił błąd. Spróbuj ponownie lub napisz do nas bezpośrednio."
+  "auditForm": {
+    "hero": {
+      "tag": "Bezpłatny audyt",
+      "intro": "Opowiedz nam o swojej praktyce i obecnej stronie internetowej. Wyślemy Ci bezpłatny, spersonalizowany audyt z możliwościami SEO, szybkości i konwersji w ciągu 48 godzin.",
+      "points": [
+        "Bezpłatny, spersonalizowany audyt",
+        "Dostarczany w 48 godzin",
+        "Bez zobowiązań"
+      ]
     },
     "labels": {
       "name": "Imię i nazwisko",
-      "email": "Adres e-mail",
-      "phone": "Numer telefonu (opcjonalnie)",
-      "website": "Aktualna strona WWW (opcjonalnie)",
-      "practice": "Nazwa gabinetu / kliniki",
-      "subject": "W czym możemy pomóc?",
-      "message": "Twoja wiadomość"
+      "email": "Służbowy e-mail",
+      "website": "Adres obecnej strony",
+      "practiceType": "Typ praktyki",
+      "need": "Czego potrzebujesz?",
+      "message": "Coś jeszcze powinniśmy wiedzieć?",
+      "optional": "(opcjonalnie)"
     },
     "placeholders": {
-      "name": "dr n. med. Anna Kowalska",
-      "email": "anna@twojklinika.pl",
-      "phone": "+48 500 123 456",
-      "website": "https://twojaklinika.pl",
-      "practice": "Centrum Dermatologii Estetycznej",
-      "message": "Opisz krótko swój gabinet oraz to, czego potrzebujesz..."
+      "name": "Dr Jane Doe",
+      "email": "jane@practice.com",
+      "website": "twojaklinika.pl",
+      "select": "Wybierz…",
+      "message": "Opowiedz nam o swojej praktyce i celach…"
     },
-    "header": "Wyślij do nas wiadomość",
-    "disclaimer": "Wysyłając formularz, zgadzasz się na kontakt mailowy z naszej strony. Zero spamu — obiecujemy.",
-    "privacy": "Szanujemy Twoją prywatność. Twoje dane są u nas całkowicie bezpieczne.",
-    "submit": "Wyślij wiadomość",
-    "submitting": "Wysyłanie..."
-  },
-  "channels": [
-    {
-      "label": "E-mail",
-      "value": "info@dermatologywebsitedesign.com",
-      "note": "Odpowiadamy w 24 godziny",
-      "action": "Napisz do nas"
-    },
-    {
-      "label": "WhatsApp",
-      "value": "Czat z naszym zespołem",
-      "note": "Pon.–pt. · 9:00–18:00 EST",
-      "action": "Uruchom czat"
-    },
-    {
-      "label": "Bezpłatna wycena",
-      "value": "Zamów spersonalizowaną ofertę",
-      "note": "Bez zobowiązań · gotowa w 24h",
-      "action": "Poproś o wycenę"
-    }
-  ],
-  "hero": {
-    "tag": "Kontakt",
-    "title": {
-      "part1": "Zbudujmy razem",
-      "part2": "coś wyjątkowego."
-    },
-    "description": "Masz pytania o stronę WWW, SEO lub marketing medyczny? Wyślij nam wiadomość — nasz specjalista odpowie Ci w ciągu maksymalnie 24 godzin.",
-    "avgReply": {
-      "label": "Średni czas odpowiedzi:",
-      "time": "3h 12m"
-    },
-    "features": [
-      "Odpowiedź w 24h",
-      "Brak zobowiązań",
-      "Zero spamu, nigdy"
+    "practiceTypes": [
+      "Praktyka indywidualna",
+      "Praktyka wielolokalizacyjna",
+      "Klinika estetyczna / kosmetyczna",
+      "Dermatologia dziecięca",
+      "Mohs / Chirurgiczna",
+      "Grupa dermatologiczna",
+      "Inne"
     ],
-    "socialProof": {
-      "rating": "4.9/5",
-      "trustedBy": "Zaufało nam",
-      "practices": "ponad 50 gabinetów dermatologicznych",
-      "worldwide": "na całym świecie",
-      "avatars": [
-        "Dr Sarah R.",
-        "Dr Michael K.",
-        "Dr Amanda L.",
-        "Dr James T.",
-        "Dr Rachel N."
-      ]
-    }
-  },
-  "sidebar": {
-    "officeHours": {
-      "title": "Godziny pracy",
-      "mondayToFriday": "Poniedziałek – Piątek",
-      "mondayToFridayTime": "9:00 – 18:00 EST",
-      "saturday": "Sobota",
-      "saturdayTime": "Po wcześniejszym umówieniu",
-      "sunday": "Niedziela",
-      "sundayTime": "Zamknięte"
-    },
-    "servingPractices": {
-      "title": "Kogo wspieramy",
-      "subtitle": "Globalny zasięg — zespół w pełni zdalny",
-      "description": "Współpracujemy z lekarzami prowadzącymi indywidualne praktyki, wielooddziałowymi klinikami, medycyną estetyczną, dermatologią dziecięcą oraz specjalistami chirurgii Mohsa."
-    },
-    "testimonial": {
-      "quote": "„Ich zespół odpowiada niesamowicie szybko. Czuję się, jakbym miała własnego programistę na wyciągnięcie ręki — bez ogromnych kosztów kadrowych.”",
-      "author": "Dr Nadia Fischer",
-      "role": "Właścicielka kliniki dermatologicznej",
-      "trustedBy": "Partner ponad 50 gabinetów"
-    },
-    "audit": {
-      "title": "Nie chcesz jeszcze rozmawiać?",
-      "description": "Zamów darmowy audyt strony — otrzymasz szybką ocenę jej kondycji i listę 3 kluczowych błędów, które hamują Twój wzrost.",
-      "link": "Zamów darmowy audyt"
-    }
-  },
-  "faq": {
-    "tag": "Częste pytania",
-    "title": "Odpowiedzi na start",
-    "items": [
-      {
-        "q": "Jaki jest typowy czas odpowiedzi?",
-        "a": "Na standardowe zapytania odpowiadamy w ciągu 24 godzin w dni robocze. W przypadku pilnych spraw dotyczących aktywnych projektów (np. awaria strony), dążymy do reakcji w mniej niż godzinę."
-      },
-      {
-        "q": "Czy współpracujecie z gabinetami spoza USA?",
-        "a": "Tak — obsługujemy kliniki dermatologiczne na całym świecie. Nasz zespół pracuje zdalnie, dzięki czemu sprawnie realizujemy projekty w różnych strefach czasowych."
-      },
-      {
-        "q": "Czy oferujecie usługi white-label dla agencji?",
-        "a": "Tak. Współpracujemy z agencjami marketingowymi i projektowymi, tworząc strony dla ich klientów z branży dermatologicznej pod ich marką. Wybierz „Pytanie ogólne” w formularzu i wspomnij o white-label."
-      },
-      {
-        "q": "Ile kosztuje nowa strona internetowa dla dermatologa?",
-        "a": "Ceny projektów zaczynają się zazwyczaj od około 2500 USD i zależą od zakresu prac, integracji oraz ilości treści. Napisz do nas, a przygotujemy dla Ciebie ofertę w 24 godziny."
-      }
-    ]
-  },
-  "cta": {
-    "tag": "Gotowy na rozwój?",
-    "title": "Porozmawiajmy o sukcesie.",
-    "description": "To strona internetowa powinna służyć Twojemu gabinetowi, a nie odwrotnie. Chętnie pomożemy Ci to osiągnąć. Omówmy Twoje potrzeby.",
-    "auditButton": "Zamów bezpłatny audyt strony",
-    "quoteButton": "Poproś o darmową wycenę"
-  },
-  "success": {
-    "title": "Wiadomość odebrana!",
-    "description": "Dziękujemy za kontakt — wrócimy do Ciebie z odpowiedzią na adres {{email}} w ciągu 24 godzin.",
-    "backToHome": "Wróć do strony głównej"
-  },
-  "mockup": {
-    "inbox": "Skrzynka · Nowe",
-    "messages": [
-      {
-        "name": "Dr Alex T.",
-        "message": "Oferta na redesign"
-      },
-      {
-        "name": "Skin & Co.",
-        "message": "Prośba o audyt SEO"
-      },
-      {
-        "name": "RS Institute",
-        "message": "Termin migracji?"
-      }
+    "needs": [
+      "Nowa strona internetowa",
+      "Przeprojektowanie strony",
+      "Migracja strony",
+      "SEO",
+      "Google Ads / PPC",
+      "Media społecznościowe",
+      "Jeszcze nie wiem"
     ],
-    "activeHeader": {
-      "initials": "DWS",
-      "name": "DW Design",
-      "status": "Online"
+    "validation": {
+      "name": "Podaj imię i nazwisko",
+      "email": "Podaj prawidłowy służbowy e-mail",
+      "website": "Podaj adres swojej strony",
+      "practiceType": "Wybierz typ praktyki",
+      "need": "Wybierz, czego potrzebujesz",
+      "message": "Maksymalnie 1000 znaków",
+      "consent": "Zgódź się na kontakt"
     },
-    "chat": [
-      "Cześć! Jak możemy dziś pomóc Twojej klinice?",
-      "Potrzebuję nowej strony dla mojego gabinetu."
-    ],
-    "typing": "pisze",
-    "placeholder": "Wpisz wiadomość...",
-    "replyStatus": "Wysłano · 2 min temu"
+    "errors": {
+      "fixFields": "Popraw zaznaczone pola.",
+      "cooldown": "Poczekaj {{seconds}} s przed ponownym wysłaniem.",
+      "global": "Coś poszło nie tak. Spróbuj ponownie lub napisz do nas bezpośrednio."
+    },
+    "hipaaNotice": "Nie umieszczaj w tym formularzu danych pacjentów ani chronionych informacji zdrowotnych (PHI).",
+    "consent": {
+      "label": "Zgadzam się na kontakt w sprawie mojego zgłoszenia audytu.",
+      "privacyLink": "Polityka prywatności"
+    },
+    "submitting": "Wysyłanie…",
+    "emailFallback": "Wolisz e-mail? Napisz do nas na"
+  },
+  "thankYou": {
+    "metaTitle": "Dziękujemy",
+    "metaDescription": "Otrzymaliśmy Twoje zgłoszenie audytu. Bezpłatny audyt strony dotrze w ciągu 48 godzin.",
+    "title": "Dziękujemy — Twoje zgłoszenie dotarło",
+    "description": "Otrzymaliśmy Twoje zgłoszenie audytu i wysłaliśmy potwierdzenie na Twój e-mail.",
+    "turnaround": "Wyślemy Twój audyt w ciągu 48 godzin",
+    "backHome": "Wróć na stronę główną"
   }
 }

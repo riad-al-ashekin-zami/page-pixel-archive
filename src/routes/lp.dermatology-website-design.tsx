@@ -1,8 +1,5 @@
 import { useEffect, useState } from "react";
-import { createFileRoute, useNavigate } from "@tanstack/react-router";
-import { useForm as useFormspree } from "@formspree/react";
-import { z } from "zod";
-import { captureLead } from "@/lib/capture-lead";
+import { createFileRoute } from "@tanstack/react-router";
 import {
   ArrowRight,
   CheckCircle2,
@@ -58,7 +55,7 @@ export const Route = createFileRoute("/lp/dermatology-website-design")({
 
 const BULBS = [
   { id: "hero", label: "Home" },
-  { id: "quote", label: "Free Quote" },
+  { id: "quote", label: "Free Audit" },
   { id: "services", label: "Services" },
   { id: "portfolio", label: "Portfolio" },
   { id: "results", label: "Results" },
@@ -94,59 +91,17 @@ const REVIEWS = [
   { quote: "Cosmetic bookings up 4× since launch. The Aesthetic, filler and laser pages alone have paid for the entire rebuild.", name: "Dr. Julien Moreau", site: "belfastskinclinic.com" },
 ];
 
-const schema = z.object({
-  name: z.string().trim().min(2, "Please enter your name").max(80),
-  email: z.string().trim().email("Enter a valid email").max(255),
-  practice: z.string().trim().max(120).optional().or(z.literal("")),
-  website: z.string().trim().max(255).optional().or(z.literal("")),
-  message: z.string().trim().max(1000).optional().or(z.literal("")),
-});
-
 function localShot(domain: string) {
   return `/portfolio-shots/${domain}.webp`;
 }
 
 function LandingPage() {
-  const navigate = useNavigate();
-  const [form, setForm] = useState({ name: "", email: "", practice: "", website: "", message: "" });
-  const [error, setError] = useState<string | null>(null);
-  const [fsState, fsSubmit] = useFormspree("xpqvllkl");
   const [openFaq, setOpenFaq] = useState<number | null>(0);
-
-  useEffect(() => {
-    if (fsState.succeeded) {
-      navigate({ to: "/lp/thank-you" });
-    }
-  }, [fsState.succeeded, navigate]);
 
   const scrollTo = (id: string) => {
     document.getElementById(id)?.scrollIntoView({ behavior: "smooth", block: "start" });
   };
 
-  const onSubmit = async (e: React.FormEvent) => {
-    e.preventDefault();
-    const parsed = schema.safeParse(form);
-    if (!parsed.success) {
-      setError(parsed.error.issues[0]?.message ?? "Please check your details");
-      return;
-    }
-    setError(null);
-    void captureLead({
-      name: form.name,
-      email: form.email,
-      company_name: form.practice,
-      website_url: form.website,
-      service_needed: "PPC landing — new website",
-      project_details: form.message,
-      preferred_contact: "Email",
-      source_page: "/lp/dermatology-website-design",
-    });
-    await fsSubmit({
-      ...form,
-      _subject: `PPC Landing Lead — ${form.name} (${form.email})`,
-      source: "google-ads-lp",
-    });
-  };
 
   return (
     <div className="min-h-screen bg-white text-slate-900 antialiased">
@@ -179,11 +134,10 @@ function LandingPage() {
             />
           </a>
           <a
-            href="#quote"
-            onClick={(e) => { e.preventDefault(); scrollTo("quote"); }}
+            href="/contact"
             className="inline-flex items-center gap-2 rounded-full bg-gradient-to-r from-teal-500 to-cyan-600 px-4 py-2 text-xs font-semibold text-white shadow-lg transition-transform hover:-translate-y-0.5 sm:px-5 sm:text-sm"
           >
-            Free Quote <ArrowRight className="h-3.5 w-3.5" />
+            Get Your Free Website Audit <ArrowRight className="h-3.5 w-3.5" />
           </a>
         </div>
         <nav aria-label="Section navigation" className="hidden border-t border-slate-200 bg-slate-50 sm:block">
@@ -245,12 +199,11 @@ function LandingPage() {
 
               <div className="mt-8 flex flex-col gap-3 sm:flex-row sm:flex-wrap">
                 <a
-                  href="#quote"
-                  onClick={(e) => { e.preventDefault(); scrollTo("quote"); }}
+                  href="/contact"
                   className="group inline-flex items-center justify-center gap-2 rounded-full px-7 py-3.5 text-sm font-semibold text-brand-primary-foreground shadow-[0_12px_30px_-10px_color-mix(in_oklch,var(--brand-primary),transparent_40%)] transition-all hover:-translate-y-0.5"
                   style={{ background: "linear-gradient(135deg, var(--brand-primary), color-mix(in oklch, var(--brand-primary), black 18%))" }}
                 >
-                  Get My Free Quote
+                  Get Your Free Website Audit
                   <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-0.5" />
                 </a>
                 <a
@@ -308,8 +261,7 @@ function LandingPage() {
             {TRUST_LOGOS.map((c) => (
               <a
                 key={c.name}
-                href="#quote"
-                onClick={(e) => { e.preventDefault(); scrollTo("quote"); }}
+                href="/contact"
                 className="group flex min-h-28 flex-col items-center justify-center gap-2 rounded-2xl border border-border/70 bg-card px-3 py-4 text-center transition-all hover:-translate-y-0.5 hover:border-brand-primary/40 hover:shadow-md"
                 title={c.name}
                 aria-label={c.name}
@@ -367,50 +319,24 @@ function LandingPage() {
 
           <div className="rounded-3xl border border-slate-200 bg-white p-6 shadow-[0_40px_100px_-30px_rgba(0,0,0,0.15)] sm:p-8">
             <div className="mb-4 flex items-center gap-2 text-xs font-semibold uppercase tracking-[0.18em] text-teal-600">
-              <Sparkles className="h-4 w-4" /> Free · No Obligation · 24-hr Reply
+              <Sparkles className="h-4 w-4" /> Free · No Obligation · 48-hr Delivery
             </div>
-            <h3 className="text-2xl font-semibold leading-tight sm:text-3xl">Request your free quote</h3>
-            <p className="mt-2 text-sm text-slate-600">Custom homepage mockup + SEO audit delivered in 48 hours.</p>
+            <h3 className="text-2xl font-semibold leading-tight sm:text-3xl">Get Your Free Website Audit</h3>
+            <p className="mt-2 text-sm text-slate-600">SEO, speed and conversion opportunities for your practice website — delivered within 48 hours.</p>
 
-            <form onSubmit={onSubmit} noValidate className="mt-5 space-y-4">
-              <Field id="name" label="Full Name *" placeholder="Dr. Jane Smith" value={form.name} onChange={(v) => setForm({ ...form, name: v })} />
-              <Field id="email" label="Email *" type="email" placeholder="you@clinic.com" value={form.email} onChange={(v) => setForm({ ...form, email: v })} />
-              <div className="grid gap-4 sm:grid-cols-2">
-                <Field id="practice" label="Practice Name" placeholder="Skin Care Clinic" value={form.practice} onChange={(v) => setForm({ ...form, practice: v })} />
-                <Field id="website" label="Current Website" placeholder="example.com" value={form.website} onChange={(v) => setForm({ ...form, website: v })} />
-              </div>
-              <div>
-                <label htmlFor="message" className="block text-xs font-semibold uppercase tracking-wider text-slate-500">
-                  What do you need help with?
-                </label>
-                <textarea
-                  id="message"
-                  rows={3}
-                  maxLength={1000}
-                  value={form.message}
-                  onChange={(e) => setForm({ ...form, message: e.target.value })}
-                  placeholder="New website, redesign, SEO, booking integration…"
-                  className="mt-2 w-full rounded-xl border border-slate-200 bg-white px-4 py-3 text-sm outline-none transition-colors placeholder:text-slate-400 focus:border-teal-500 focus:ring-2 focus:ring-teal-500/20"
-                />
-              </div>
+            <a
+              href="/contact"
+              className="group mt-6 inline-flex w-full items-center justify-center gap-2 rounded-full bg-gradient-to-r from-teal-500 to-cyan-600 px-7 py-4 text-sm font-semibold text-white shadow-[0_20px_45px_-15px_rgba(20,184,166,0.55)] transition-transform hover:-translate-y-0.5"
+            >
+              Get Your Free Website Audit
+              <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-0.5" />
+            </a>
 
-              {error && <p role="alert" className="text-xs font-medium text-red-600">{error}</p>}
-
-              <button
-                type="submit"
-                disabled={fsState.submitting}
-                className="group inline-flex w-full items-center justify-center gap-2 rounded-full bg-gradient-to-r from-teal-500 to-cyan-600 px-7 py-4 text-sm font-semibold text-white shadow-[0_20px_45px_-15px_rgba(20,184,166,0.55)] transition-transform hover:-translate-y-0.5 disabled:opacity-70"
-              >
-                {fsState.submitting ? "Sending..." : "Get My Free Quote"}
-                <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-0.5" />
-              </button>
-
-              <div className="flex flex-wrap items-center justify-center gap-x-4 gap-y-1 pt-1 text-[11px] text-slate-500">
-                <span className="inline-flex items-center gap-1"><Lock className="h-3 w-3" /> Your data is safe</span>
-                <span className="inline-flex items-center gap-1"><CheckCircle2 className="h-3 w-3" /> No spam</span>
-                <span className="inline-flex items-center gap-1"><Star className="h-3 w-3 fill-current text-amber-500" /> 5.0 Rated</span>
-              </div>
-            </form>
+            <div className="flex flex-wrap items-center justify-center gap-x-4 gap-y-1 pt-4 text-[11px] text-slate-500">
+              <span className="inline-flex items-center gap-1"><Lock className="h-3 w-3" /> Your data is safe</span>
+              <span className="inline-flex items-center gap-1"><CheckCircle2 className="h-3 w-3" /> No spam</span>
+              <span className="inline-flex items-center gap-1"><Star className="h-3 w-3 fill-current text-amber-500" /> 5.0 Rated</span>
+            </div>
           </div>
         </div>
       </section>
@@ -521,11 +447,10 @@ function LandingPage() {
 
           <div className="mt-10 text-center">
             <a
-              href="#quote"
-              onClick={(e) => { e.preventDefault(); scrollTo("quote"); }}
+              href="/contact"
               className="inline-flex items-center gap-2 rounded-full bg-[#0c2340] px-7 py-3.5 text-sm font-semibold text-white shadow-lg transition-transform hover:-translate-y-0.5"
             >
-              See What We Can Build For You <ArrowRight className="h-4 w-4" />
+              Get Your Free Website Audit <ArrowRight className="h-4 w-4" />
             </a>
           </div>
         </div>
@@ -666,8 +591,7 @@ function LandingPage() {
                 <p className="mt-2 text-sm text-white/80 sm:text-base">Free consultation, free mockup, free SEO audit. Zero commitment until you see the dermatology website design we've built for you.</p>
               </div>
               <a
-                href="#quote"
-                onClick={(e) => { e.preventDefault(); scrollTo("quote"); }}
+                href="/contact"
                 className="inline-flex items-center justify-center gap-2 rounded-full bg-white px-6 py-3 text-sm font-semibold text-[#0c2340] shadow-xl hover:-translate-y-0.5"
               >
                 Claim Free Mockup <ArrowRight className="h-4 w-4" />
@@ -805,14 +729,13 @@ function LandingPage() {
           <h2 className="mt-6 text-balance text-3xl font-light leading-tight sm:text-4xl lg:text-5xl">
             Ready for a <span className="font-medium">dermatology website that books patients?</span>
           </h2>
-          <p className="mt-4 text-base text-white/95 sm:text-lg">Free quote + custom dermatology mockup + SEO audit — delivered in 48 hours. No obligation.</p>
+          <p className="mt-4 text-base text-white/95 sm:text-lg">Free website audit + custom dermatology mockup + SEO opportunities — delivered in 48 hours. No obligation.</p>
           <div className="mt-8 flex flex-wrap items-center justify-center gap-3">
             <a
-              href="#quote"
-              onClick={(e) => { e.preventDefault(); scrollTo("quote"); }}
+              href="/contact"
               className="inline-flex items-center gap-2 rounded-full bg-white px-8 py-4 text-base font-semibold text-teal-700 shadow-2xl transition-transform hover:-translate-y-0.5"
             >
-              Get My Free Quote Now <ArrowRight className="h-5 w-5" />
+              Get Your Free Website Audit <ArrowRight className="h-5 w-5" />
             </a>
             <a
               href="mailto:info@dermatologywebsitedesign.com"
@@ -881,11 +804,10 @@ function LandingPage() {
       {/* Sticky mobile CTA */}
       <div className="fixed inset-x-0 bottom-0 z-40 border-t border-slate-200 bg-white/95 p-3 shadow-2xl backdrop-blur sm:hidden">
         <a
-          href="#quote"
-          onClick={(e) => { e.preventDefault(); scrollTo("quote"); }}
+          href="/contact"
           className="flex w-full items-center justify-center gap-2 rounded-full bg-gradient-to-r from-teal-500 to-cyan-600 px-5 py-3 text-sm font-semibold text-white shadow-lg"
         >
-          Get My Free Quote <ArrowRight className="h-4 w-4" />
+          Get Your Free Website Audit <ArrowRight className="h-4 w-4" />
         </a>
       </div>
 
@@ -898,27 +820,3 @@ function LandingPage() {
   );
 }
 
-function Field({
-  id, label, value, onChange, type = "text", placeholder,
-}: {
-  id: string; label: string; value: string; onChange: (v: string) => void;
-  type?: string; placeholder?: string;
-}) {
-  return (
-    <div>
-      <label htmlFor={id} className="block text-xs font-semibold uppercase tracking-wider text-slate-500">
-        {label}
-      </label>
-      <input
-        id={id}
-        name={id}
-        type={type}
-        value={value}
-        onChange={(e) => onChange(e.target.value)}
-        placeholder={placeholder}
-        maxLength={255}
-        className="mt-2 w-full rounded-xl border border-slate-200 bg-white px-4 py-3 text-sm outline-none transition-colors placeholder:text-slate-400 focus:border-teal-500 focus:ring-2 focus:ring-teal-500/20"
-      />
-    </div>
-  );
-}

@@ -2,6 +2,7 @@ import { useEffect, useRef, useState } from "react";
 import { AnimatePresence, motion, useMotionValueEvent, useReducedMotion, useScroll } from "framer-motion";
 import { createFileRoute, notFound } from "@tanstack/react-router";
 import { LocalLink as Link } from "@/components/local-link";
+import { CtaLabel } from "@/lib/cta";
 import { useTranslation, Trans } from "react-i18next";
 import { buildHreflangLinks, localizedUrl, resolveRouteLanguage, useCurrentLang, SITE_ORIGIN } from "@/lib/i18n-routing";
 import { formatLocalizedNumber } from "@/lib/locale-format";
@@ -530,14 +531,8 @@ function AboutPage() {
                       "linear-gradient(135deg, var(--brand-primary), color-mix(in oklch, var(--brand-primary), black 18%))",
                   }}
                 >
-                  {t("hero.ctaPrimary")}
+                  <CtaLabel />
                   <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-0.5" />
-                </Link>
-                <Link
-                  to="/dermatology-website-design"
-                  className="inline-flex items-center gap-2 rounded-full border border-brand-primary/30 bg-background/60 px-6 py-3 text-sm font-semibold text-brand-primary backdrop-blur transition-colors hover:bg-brand-primary/5 sm:px-7 sm:py-3.5"
-                >
-                  {t("hero.ctaSecondary")}
                 </Link>
               </div>
 
@@ -1332,17 +1327,11 @@ function AboutPage() {
                   </p>
                   <div className="mt-8 flex flex-wrap gap-3">
                     <Link
-                      to="/free-dermatologist-website-audit"
+                      to="/contact"
                       className="inline-flex items-center gap-2 rounded-full bg-brand-accent px-6 py-3 text-sm font-semibold text-foreground shadow-lg transition-transform hover:scale-[1.03] sm:px-7 sm:py-3.5"
                     >
-                      {t("cta.primary")}
+                      <CtaLabel />
                       <ArrowRight className="h-4 w-4" />
-                    </Link>
-                    <Link
-                      to="/contact"
-                      className="inline-flex items-center gap-2 rounded-full border border-white/30 bg-white/10 px-6 py-3 text-sm font-semibold text-brand-primary-foreground backdrop-blur transition-colors hover:bg-white/20 sm:px-7 sm:py-3.5"
-                    >
-                      {t("cta.secondary")}
                     </Link>
                   </div>
                 </div>

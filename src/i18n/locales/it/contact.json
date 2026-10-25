@@ -1,193 +1,84 @@
 {
   "meta": {
-    "title": "Contattaci — Web Design per la Dermatologia",
-    "description": "Contatta il nostro team di web design specializzato in dermatologia. Email, WhatsApp o messaggio: rispondiamo entro 24 ore.",
-    "ogTitle": "Contattaci — Web Design per la Dermatologia",
-    "ogDescription": "Domande sul sito web del tuo studio? Scrivici: rispondiamo entro 24 ore.",
+    "title": "Contattaci",
+    "description": "Raccontaci del tuo studio e del tuo sito web. Ti invieremo un audit gratuito e personalizzato con opportunità di SEO, velocità e conversione entro 48 ore.",
+    "ogTitle": "Contattaci",
+    "ogDescription": "Raccontaci del tuo studio e del tuo sito web. Ti invieremo un audit gratuito e personalizzato con opportunità di SEO, velocità e conversione entro 48 ore.",
     "breadcrumbHome": "Home",
     "breadcrumbContact": "Contatti"
   },
-  "form": {
-    "validation": {
-      "name": "Inserisci il tuo nome",
-      "email": "Inserisci un indirizzo email valido",
-      "topic": "Seleziona un argomento",
-      "message": "Scrivi un breve messaggio (almeno 10 caratteri)"
-    },
-    "subjects": [
-      "Nuovo Sito Web",
-      "Redesign Sito Web",
-      "Migrazione Sito",
-      "SEO / Marketing",
-      "Assistenza e Manutenzione",
-      "Informazioni Generali"
-    ],
-    "errors": {
-      "fixFields": "Per favore, correggi i campi evidenziati.",
-      "cooldown": "Attendi {{seconds}} secondi prima di inviare di nuovo.",
-      "global": "Spiacenti, si è verificato un errore. Riprova o inviaci un'email direttamente."
+  "auditForm": {
+    "hero": {
+      "tag": "Audit gratuito",
+      "intro": "Raccontaci del tuo studio e del tuo sito web attuale. Ti invieremo un audit gratuito e personalizzato con opportunità di SEO, velocità e conversione entro 48 ore.",
+      "points": [
+        "Audit gratuito e personalizzato",
+        "Consegnato entro 48 ore",
+        "Senza impegno"
+      ]
     },
     "labels": {
-      "name": "Il tuo nome",
-      "email": "Email",
-      "phone": "Telefono (opzionale)",
-      "website": "Sito web attuale (opzionale)",
-      "practice": "Nome della clinica/studio",
-      "subject": "Di cosa hai bisogno?",
-      "message": "Il tuo messaggio"
+      "name": "Nome completo",
+      "email": "Email di lavoro",
+      "website": "URL del sito attuale",
+      "practiceType": "Tipo di studio",
+      "need": "Di cosa hai bisogno?",
+      "message": "Qualcos'altro che dovremmo sapere?",
+      "optional": "(facoltativo)"
     },
     "placeholders": {
-      "name": "Dott. Mario Rossi",
-      "email": "mario.rossi@studio.it",
-      "phone": "+39 02 123 4567",
-      "website": "https://www.tuostudio.it",
-      "practice": "Istituto Dermatologico",
-      "message": "Parlaci del tuo studio e degli obiettivi che vorresti raggiungere..."
+      "name": "Dr.ssa Jane Doe",
+      "email": "jane@practice.com",
+      "website": "iltuostudio.it",
+      "select": "Seleziona…",
+      "message": "Raccontaci del tuo studio e dei tuoi obiettivi…"
     },
-    "header": "Inviaci un messaggio",
-    "disclaimer": "Inviando il modulo, acconsenti a essere ricontattato via email. Niente spam, promesso.",
-    "privacy": "Rispettiamo la tua privacy. I tuoi dati sono al sicuro con noi.",
-    "submit": "Invia messaggio",
-    "submitting": "Invio in corso..."
-  },
-  "channels": [
-    {
-      "label": "Email",
-      "value": "info@dermatologywebsitedesign.com",
-      "note": "Risposta entro 24 ore",
-      "action": "Contattaci"
-    },
-    {
-      "label": "WhatsApp",
-      "value": "Chatta con il nostro team",
-      "note": "Lun–Ven · 15:00–24:00 CET (9am–6pm EST)",
-      "action": "Chatta ora"
-    },
-    {
-      "label": "Preventivo Gratuito",
-      "value": "Ricevi una proposta su misura",
-      "note": "Senza impegno · Risposta in 24 ore",
-      "action": "Richiedi preventivo"
-    }
-  ],
-  "hero": {
-    "tag": "Contatti",
-    "title": {
-      "part1": "Costruiamo insieme",
-      "part2": "qualcosa di straordinario."
-    },
-    "description": "Hai domande sul tuo sito, sulla SEO o su come far crescere la tua attività? Scrivici: una persona del nostro team ti risponderà entro 24 ore.",
-    "avgReply": {
-      "label": "Tempo medio di risposta:",
-      "time": "3h 12m"
-    },
-    "features": [
-      "Risposta in 24 ore",
-      "Nessun impegno",
-      "Niente spam, mai"
+    "practiceTypes": [
+      "Studio individuale",
+      "Studio multi-sede",
+      "Clinica estetica / cosmetica",
+      "Dermatologia pediatrica",
+      "Mohs / Chirurgico",
+      "Gruppo dermatologico",
+      "Altro"
     ],
-    "socialProof": {
-      "rating": "4.9/5",
-      "trustedBy": "Scelto da",
-      "practices": "oltre 50 studi dermatologici",
-      "worldwide": "in tutto il mondo",
-      "avatars": [
-        "Dr. Sarah R.",
-        "Dr. Michael K.",
-        "Dr. Amanda L.",
-        "Dr. James T.",
-        "Dr. Rachel N."
-      ]
-    }
-  },
-  "sidebar": {
-    "officeHours": {
-      "title": "Orari di ufficio",
-      "mondayToFriday": "Lunedì – Venerdì",
-      "mondayToFridayTime": "15:00 – 24:00 CET",
-      "saturday": "Sabato",
-      "saturdayTime": "Su appuntamento",
-      "sunday": "Domenica",
-      "sundayTime": "Chiuso"
-    },
-    "servingPractices": {
-      "title": "Clienti",
-      "subtitle": "Globale — Team completamente remoto",
-      "description": "Lavoriamo con dermatologi liberi professionisti, centri medici polispecialistici, cliniche estetiche, dermatologia pediatrica e chirurgia dermatologica in tutto il mondo."
-    },
-    "testimonial": {
-      "quote": "“Il loro team risponde con una rapidità incredibile. È come avere uno sviluppatore interno, ma senza i costi fissi.”",
-      "author": "Dr. Nadia Fischer",
-      "role": "Titolare di Studio Dermatologico",
-      "trustedBy": "Scelto da oltre 50 studi di dermatologia"
-    },
-    "audit": {
-      "title": "Non sei ancora pronto a parlarne?",
-      "description": "Ottieni un audit gratuito del tuo sito: una valutazione rapida e l'analisi dei 3 principali problemi che limitano la tua visibilità.",
-      "link": "Richiedi audit gratuito"
-    }
-  },
-  "faq": {
-    "tag": "Domande Frequenti",
-    "title": "Le risposte che cerchi",
-    "items": [
-      {
-        "q": "Quali sono i vostri tempi tipici di risposta?",
-        "a": "Per richieste standard rispondiamo entro 24 ore nei giorni lavorativi. Per problemi urgenti su progetti attivi (come un sito offline), puntiamo a intervenire in meno di un'ora."
-      },
-      {
-        "q": "Lavorate con studi al di fuori degli Stati Uniti?",
-        "a": "Sì, collaboriamo con studi dermatologici in tutto il mondo. Il nostro team è completamente remoto e gestiamo progetti in diversi fusi orari."
-      },
-      {
-        "q": "Offrite servizi white-label per agenzie?",
-        "a": "Certamente. Collaboriamo con agenzie di design e marketing per sviluppare e gestire siti web dermatologici sotto il loro brand. Seleziona “Informazioni Generali” nel modulo e specifica la richiesta white-label."
-      },
-      {
-        "q": "Quanto costa un nuovo sito web per dermatologia?",
-        "a": "I progetti partono generalmente da $2.500 e variano in base a complessità, integrazioni e contenuti. Scrivici e ti invieremo un preventivo personalizzato entro 24 ore."
-      }
-    ]
-  },
-  "cta": {
-    "tag": "Pronto a crescere?",
-    "title": "Mettiamoci in contatto.",
-    "description": "Il tuo sito web deve essere al servizio della tua attività, non il contrario. Siamo qui per aiutarti: discutiamo delle esigenze del tuo studio web.",
-    "auditButton": "Richiedi audit gratuito",
-    "quoteButton": "Ottieni un preventivo"
-  },
-  "success": {
-    "title": "Messaggio ricevuto!",
-    "description": "Grazie per averci contattato — ti risponderemo entro 24 ore all'indirizzo {{email}}.",
-    "backToHome": "Torna alla home"
-  },
-  "mockup": {
-    "inbox": "In arrivo · Nuovi",
-    "messages": [
-      {
-        "name": "Dr. Alex T.",
-        "message": "Proposta di redesign"
-      },
-      {
-        "name": "Skin & Co.",
-        "message": "Richiesta audit SEO"
-      },
-      {
-        "name": "RS Institute",
-        "message": "Tempi di migrazione?"
-      }
+    "needs": [
+      "Nuovo sito web",
+      "Restyling del sito",
+      "Migrazione del sito",
+      "SEO",
+      "Google Ads / PPC",
+      "Social media",
+      "Non sono sicuro"
     ],
-    "activeHeader": {
-      "initials": "DWS",
-      "name": "DW Design",
-      "status": "Online ora"
+    "validation": {
+      "name": "Inserisci il tuo nome completo",
+      "email": "Inserisci un'email di lavoro valida",
+      "website": "Inserisci l'URL del tuo sito",
+      "practiceType": "Seleziona il tipo di studio",
+      "need": "Seleziona ciò di cui hai bisogno",
+      "message": "Massimo 1000 caratteri",
+      "consent": "Accetta di essere contattato"
     },
-    "chat": [
-      "Ciao! Come possiamo aiutare il tuo studio oggi?",
-      "Avrei bisogno di un nuovo sito web professionale."
-    ],
-    "typing": "sta scrivendo",
-    "placeholder": "Scrivi un messaggio...",
-    "replyStatus": "Risposta inviata · 2 min fa"
+    "errors": {
+      "fixFields": "Correggi i campi evidenziati.",
+      "cooldown": "Attendi {{seconds}} s prima di inviare di nuovo.",
+      "global": "Qualcosa è andato storto. Riprova o scrivici direttamente."
+    },
+    "hipaaNotice": "Non includere informazioni sui pazienti o informazioni sanitarie protette (PHI) in questo modulo.",
+    "consent": {
+      "label": "Accetto di essere contattato in merito alla mia richiesta di audit.",
+      "privacyLink": "Informativa sulla privacy"
+    },
+    "submitting": "Invio in corso…",
+    "emailFallback": "Preferisci l'email? Scrivici a"
+  },
+  "thankYou": {
+    "metaTitle": "Grazie",
+    "metaDescription": "Abbiamo ricevuto la tua richiesta di audit. Il tuo audit gratuito del sito arriverà entro 48 ore.",
+    "title": "Grazie — abbiamo ricevuto la tua richiesta",
+    "description": "Abbiamo ricevuto la tua richiesta di audit e inviato una conferma alla tua email.",
+    "turnaround": "Ti invieremo l'audit entro 48 ore",
+    "backHome": "Torna alla home"
   }
 }

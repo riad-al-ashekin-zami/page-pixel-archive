@@ -293,6 +293,10 @@
       "errorGeneric": "Valitettavasti jokin meni pieleen. Yritä uudelleen.",
       "successTitle": "Pyyntö vastaanotettu.",
       "successMessage": "Henkilökohtainen tarkistuksesi on matkalla. Lähetämme toimintasuunnitelmasi sähköpostitse 48 tunnin kuluessa."
+    },
+    "ctaCard": {
+      "title": "Valmis ilmaiseen auditointiin?",
+      "description": "Vastaaj muutamaan pikaiseen kysymykseen yhteydenottosivullamme, niin lähetämme henkilökohtaisen auditointisi 48 tunnissa."
     }
   },
   "faqSnippet": {

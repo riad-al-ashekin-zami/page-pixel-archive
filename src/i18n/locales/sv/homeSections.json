@@ -293,6 +293,10 @@
       "errorGeneric": "Tyvärr, något gick fel. Försök igen.",
       "successTitle": "Förfrågan mottagen.",
       "successMessage": "Din personliga revision är på väg. Vi skickar din handlingsplan via e-post inom 48 timmar."
+    },
+    "ctaCard": {
+      "title": "Redo för din kostnadsfria granskning?",
+      "description": "Svara på några snabba frågor på vår kontaktsida så skickar vi din personliga granskning inom 48 timmar."
     }
   },
   "faqSnippet": {

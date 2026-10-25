@@ -1,5 +1,6 @@
 import { createFileRoute, notFound } from "@tanstack/react-router";
 import { LocalLink as Link } from "@/components/local-link";
+import { CtaLabel } from "@/lib/cta";
 import { localizedUrl, resolveRouteLanguage, buildHreflangLinks } from "@/lib/i18n-routing";
 import { useMemo, useState } from "react";
 import { SiteHeader } from "@/components/site-header/site-header";
@@ -580,7 +581,7 @@ function PricingPage() {
                 </ul>
 
                 <Link
-                  to="/get-a-free-quote"
+                  to="/contact"
                   className={`mt-8 inline-flex min-h-11 items-center justify-center gap-2 rounded-full px-5 py-3 text-sm font-semibold transition-transform hover:scale-[1.02] ${
                     isPopular
                       ? "bg-brand-primary text-brand-primary-foreground shadow-[0_12px_36px_-14px_color-mix(in_oklch,var(--brand-primary),transparent_40%)]"
@@ -643,7 +644,7 @@ function PricingPage() {
                   <p className="mt-4 text-sm leading-relaxed text-muted-foreground">{t(`sections.specialty.items.${i}.desc`)}</p>
 
                   <Link
-                    to="/get-a-free-quote"
+                    to="/contact"
                     className="mt-6 inline-flex items-center gap-1.5 text-sm font-semibold text-brand-primary hover:underline"
                   >
                     {t("sections.specialty.cta")} <ArrowRight className="h-3.5 w-3.5" />
@@ -714,7 +715,7 @@ function PricingPage() {
               <p className="mt-4 flex-1 text-sm leading-relaxed text-foreground/90">{t(`sections.bundles.items.${i}.desc`)}</p>
 
               <Link
-                to="/get-a-free-quote"
+                to="/contact"
                 className={`mt-6 inline-flex min-h-11 items-center justify-center gap-2 rounded-full px-4 py-2.5 text-sm font-semibold transition-transform hover:scale-[1.02] ${
                   b.highlight
                     ? "bg-brand-primary text-brand-primary-foreground"
@@ -867,7 +868,7 @@ function PricingPage() {
                   to="/contact"
                   className="group inline-flex min-h-11 items-center gap-2 rounded-full bg-brand-primary px-6 py-3 text-sm font-semibold text-brand-primary-foreground shadow-[0_12px_36px_-14px_color-mix(in_oklch,var(--brand-primary),transparent_40%)] transition-transform hover:scale-[1.02]"
                 >
-                  {t("sections.custom.quoteCta")} <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-0.5" />
+                  <CtaLabel /> <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-0.5" />
                 </Link>
                 <Link
                   to="/plan-packages-and-costs"
@@ -942,10 +943,10 @@ function PricingPage() {
             </div>
             <div className="flex flex-col gap-3 md:items-end">
               <Link
-                to="/get-a-free-quote"
+                to="/contact"
                 className="group inline-flex min-h-11 items-center gap-2 rounded-full bg-brand-primary px-6 py-3 text-sm font-semibold text-brand-primary-foreground shadow-[0_12px_36px_-14px_color-mix(in_oklch,var(--brand-primary),transparent_40%)] transition-transform hover:scale-[1.02]"
               >
-                {t("cta.button")} <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-0.5" />
+                <CtaLabel /> <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-0.5" />
               </Link>
               <div className="flex items-center gap-2 text-xs text-muted-foreground">
                 <Clock className="h-3.5 w-3.5" /> {t("cta.delivery")}
@@ -972,10 +973,10 @@ function PricingPage() {
             <div className="truncate text-xs text-muted-foreground">{t("stickyCta.description")}</div>
           </div>
           <Link
-            to="/get-a-free-quote"
+            to="/contact"
             className="inline-flex min-h-11 shrink-0 items-center gap-1.5 rounded-full bg-brand-primary px-4 py-2.5 text-sm font-semibold text-brand-primary-foreground"
           >
-            {t("stickyCta.button")} <ArrowRight className="h-4 w-4" />
+            <CtaLabel /> <ArrowRight className="h-4 w-4" />
           </Link>
         </div>
       </div>
@@ -1106,10 +1107,10 @@ function CostEstimator() {
           </div>
         </div>
         <Link
-          to="/get-a-free-quote"
+          to="/contact"
           className="mt-6 inline-flex min-h-11 w-full items-center justify-center gap-2 rounded-full bg-brand-primary px-5 py-3 text-sm font-semibold text-brand-primary-foreground shadow-[0_12px_36px_-14px_color-mix(in_oklch,var(--brand-primary),transparent_40%)] transition-transform hover:scale-[1.02]"
         >
-          {t("estimator.summary.lockIn")} <ArrowRight className="h-4 w-4" />
+          <CtaLabel /> <ArrowRight className="h-4 w-4" />
         </Link>
       </div>
     </div>

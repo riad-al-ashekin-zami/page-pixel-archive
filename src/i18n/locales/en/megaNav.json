@@ -7,8 +7,7 @@
     "servicesCount_other": "{{count}} services",
     "needCustomPlan": "Need a custom plan?",
     "customPlanDesc": "Get a tailored quote for your practice.",
-    "getFreeQuote": "Get a Free Quote",
-    "requestFreeAudit": "Request Free Audit"
+    "ctaLabel": "Get Your Free Website Audit"
   },
   "sections": {
     "website": {
@@ -32,41 +31,131 @@
     }
   },
   "website": {
-    "design": { "label": "Website Design", "description": "Conversion-focused dermatology sites." },
-    "redesign": { "label": "Website Redesign", "description": "Modernize your existing practice site." },
-    "migration": { "label": "Website Migration", "description": "Move your site with zero downtime, no SEO loss." },
-    "maintenance": { "label": "Website Maintenance", "description": "Keep your site secure, updated, and fast." },
-    "management": { "label": "Website Management", "description": "Full-service ongoing website management." },
-    "support": { "label": "Website Support", "description": "On-demand expert support when you need it." },
-    "multiLocation": { "label": "Multi-Location", "description": "Scalable structure for multiple clinics." },
-    "ecommerce": { "label": "E-Commerce", "description": "Sell skincare products online." },
-    "patientPortal": { "label": "Patient Portal", "description": "Seamless patient experience." },
-    "beforeAfter": { "label": "Before & After Gallery", "description": "Showcase results beautifully." }
+    "design": {
+      "label": "Website Design",
+      "description": "Conversion-focused dermatology sites."
+    },
+    "redesign": {
+      "label": "Website Redesign",
+      "description": "Modernize your existing practice site."
+    },
+    "migration": {
+      "label": "Website Migration",
+      "description": "Move your site with zero downtime, no SEO loss."
+    },
+    "maintenance": {
+      "label": "Website Maintenance",
+      "description": "Keep your site secure, updated, and fast."
+    },
+    "management": {
+      "label": "Website Management",
+      "description": "Full-service ongoing website management."
+    },
+    "support": {
+      "label": "Website Support",
+      "description": "On-demand expert support when you need it."
+    },
+    "multiLocation": {
+      "label": "Multi-Location",
+      "description": "Scalable structure for multiple clinics."
+    },
+    "ecommerce": {
+      "label": "E-Commerce",
+      "description": "Sell skincare products online."
+    },
+    "patientPortal": {
+      "label": "Patient Portal",
+      "description": "Seamless patient experience."
+    },
+    "beforeAfter": {
+      "label": "Before & After Gallery",
+      "description": "Showcase results beautifully."
+    }
   },
   "marketing": {
-    "seo": { "label": "Dermatology SEO", "description": "Rank for high-intent searches." },
-    "localSeo": { "label": "Local SEO", "description": "Dominate your service area." },
-    "growth": { "label": "Practice Growth", "description": "Strategy for sustainable growth." },
-    "googleAds": { "label": "Google Ads / PPC", "description": "Predictable patient acquisition." },
-    "socialMedia": { "label": "Social Media", "description": "Build brand authority." },
-    "reputation": { "label": "Reputation Management", "description": "5-star review systems." },
-    "email": { "label": "Email Marketing", "description": "Nurture and re-engage patients." },
-    "cro": { "label": "CRO", "description": "Turn visitors into bookings." }
+    "seo": {
+      "label": "Dermatology SEO",
+      "description": "Rank for high-intent searches."
+    },
+    "localSeo": {
+      "label": "Local SEO",
+      "description": "Dominate your service area."
+    },
+    "growth": {
+      "label": "Practice Growth",
+      "description": "Strategy for sustainable growth."
+    },
+    "googleAds": {
+      "label": "Google Ads / PPC",
+      "description": "Predictable patient acquisition."
+    },
+    "socialMedia": {
+      "label": "Social Media",
+      "description": "Build brand authority."
+    },
+    "reputation": {
+      "label": "Reputation Management",
+      "description": "5-star review systems."
+    },
+    "email": {
+      "label": "Email Marketing",
+      "description": "Nurture and re-engage patients."
+    },
+    "cro": {
+      "label": "CRO",
+      "description": "Turn visitors into bookings."
+    }
   },
   "addons": {
-    "care": { "label": "Care & Maintenance", "description": "Ongoing site care, updates, and monitoring." },
-    "hosting": { "label": "Hosting & Compliance", "description": "Fast, secure, HIPAA-aware hosting." },
-    "content": { "label": "Content & Conversion", "description": "Copy, landing pages, and CRO experiments." },
-    "analytics": { "label": "SEO & Analytics", "description": "Tracking, dashboards, and search visibility." },
-    "integrations": { "label": "Integrations", "description": "EHR, booking, CRM, and marketing tools." },
-    "growth": { "label": "Growth Marketing", "description": "Ads, email, and reputation programs." }
+    "care": {
+      "label": "Care & Maintenance",
+      "description": "Ongoing site care, updates, and monitoring."
+    },
+    "hosting": {
+      "label": "Hosting & Compliance",
+      "description": "Fast, secure, HIPAA-aware hosting."
+    },
+    "content": {
+      "label": "Content & Conversion",
+      "description": "Copy, landing pages, and CRO experiments."
+    },
+    "analytics": {
+      "label": "SEO & Analytics",
+      "description": "Tracking, dashboards, and search visibility."
+    },
+    "integrations": {
+      "label": "Integrations",
+      "description": "EHR, booking, CRM, and marketing tools."
+    },
+    "growth": {
+      "label": "Growth Marketing",
+      "description": "Ads, email, and reputation programs."
+    }
   },
   "insights": {
-    "process": { "label": "Our Process", "description": "How we deliver every project." },
-    "about": { "label": "About Us", "description": "Who we are and what we believe." },
-    "caseStudies": { "label": "Case Studies", "description": "Real results from real practices." },
-    "blog": { "label": "Blog", "description": "Insights for growing practices." },
-    "faq": { "label": "FAQ", "description": "Answers to common questions." },
-    "audit": { "label": "Free Website Audit", "description": "Personalized recs in 48 hours." }
+    "process": {
+      "label": "Our Process",
+      "description": "How we deliver every project."
+    },
+    "about": {
+      "label": "About Us",
+      "description": "Who we are and what we believe."
+    },
+    "caseStudies": {
+      "label": "Case Studies",
+      "description": "Real results from real practices."
+    },
+    "blog": {
+      "label": "Blog",
+      "description": "Insights for growing practices."
+    },
+    "faq": {
+      "label": "FAQ",
+      "description": "Answers to common questions."
+    },
+    "audit": {
+      "label": "Free Website Audit",
+      "description": "Personalized recs in 48 hours."
+    }
   }
 }

@@ -1,15 +1,19 @@
 {
-  "language": { "select": "Idioma" },
-  "common": { "or": "ou" },
+  "language": {
+    "select": "Idioma"
+  },
+  "common": {
+    "or": "ou"
+  },
   "topBar": {
-    "whatsappUs": "Fale conosco no WhatsApp",
-    "whatsapp": "WhatsApp",
     "freeAudit24hLong": "Auditoria gratuita do site em 24 horas",
     "freeAudit24hShort": "Auditoria grátis · 24 h",
     "freeAudit": "Auditoria grátis",
     "hipaaAware": "Sites em conformidade com HIPAA",
     "hipaaAwareShort": "Conforme HIPAA",
-    "hipaa": "HIPAA"
+    "hipaa": "HIPAA",
+    "freeAudit48h": "Auditoria de website gratuita em 48 horas",
+    "freeAudit48hShort": "Auditoria gratuita · 48 h"
   },
   "nav": {
     "home": "Início",
@@ -26,13 +30,13 @@
   "cta": {
     "getFreeQuote": "Orçamento gratuito",
     "requestAudit": "Solicitar auditoria gratuita",
-    "viewAllAddons": "Ver todos os serviços adicionais"
+    "viewAllAddons": "Ver todos os serviços adicionais",
+    "label": "Obtenha a sua auditoria de website gratuita"
   },
   "drawer": {
     "websiteServices": "Serviços de site",
     "marketingServices": "Serviços de marketing",
     "addOnServices": "Serviços adicionais",
-    "chatWhatsApp": "Conversar no WhatsApp",
     "freeAuditBanner": "Auditoria gratuita · resposta em 24 h"
   },
   "chat": {
@@ -49,19 +53,35 @@
     "errorText": "Algo deu errado. Tente novamente ou",
     "contactUs": "fale conosco",
     "primary": {
-      "quote": "Orçamento",
       "audit": "Auditoria",
       "pricing": "Preços",
       "contact": "Contato"
     },
     "quick": {
-      "design":     { "label": "Design de site",       "prompt": "Conte-me sobre o serviço de design de site." },
-      "management": { "label": "Gestão de site",       "prompt": "O que inclui a gestão de site?" },
-      "seo":        { "label": "Serviços de SEO",       "prompt": "Como funciona o seu SEO para dermatologia?" },
-      "portfolio":  { "label": "Portfólio",             "prompt": "Posso ver o portfólio?" },
-      "pricing":    { "label": "Preços",                "prompt": "Quais são os preços e pacotes?" },
-      "audit":      { "label": "Auditoria gratuita",    "prompt": "Como obter uma auditoria gratuita do site?" },
-      "quote":      { "label": "Orçamento gratuito",    "prompt": "Como obter um orçamento gratuito?" }
+      "design": {
+        "label": "Design de site",
+        "prompt": "Conte-me sobre o serviço de design de site."
+      },
+      "management": {
+        "label": "Gestão de site",
+        "prompt": "O que inclui a gestão de site?"
+      },
+      "seo": {
+        "label": "Serviços de SEO",
+        "prompt": "Como funciona o seu SEO para dermatologia?"
+      },
+      "portfolio": {
+        "label": "Portfólio",
+        "prompt": "Posso ver o portfólio?"
+      },
+      "pricing": {
+        "label": "Preços",
+        "prompt": "Quais são os preços e pacotes?"
+      },
+      "audit": {
+        "label": "Auditoria gratuita",
+        "prompt": "Como obter uma auditoria gratuita do site?"
+      }
     }
   },
   "errorPages": {

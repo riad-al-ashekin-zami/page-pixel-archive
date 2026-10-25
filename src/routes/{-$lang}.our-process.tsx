@@ -1,5 +1,6 @@
 import { createFileRoute, notFound } from "@tanstack/react-router";
 import { LocalLink as Link } from "@/components/local-link";
+import { CtaLabel } from "@/lib/cta";
 import { localizedUrl, resolveRouteLanguage, buildHreflangLinks, useCurrentLang } from "@/lib/i18n-routing";
 import { formatLocalizedNumber } from "@/lib/locale-format";
 import { useEffect, useRef, useState } from "react";
@@ -342,8 +343,8 @@ function OurProcessPage() {
                   <a href="#steps" className="inline-flex min-h-11 items-center gap-2 rounded-full bg-brand-primary px-5 py-3 text-sm font-semibold text-brand-primary-foreground shadow-[0_12px_36px_-14px_color-mix(in_oklch,var(--brand-primary),transparent_40%)] transition-transform hover:scale-[1.02]">
                     {t("hero.buttons.seeSteps")} <ArrowRight className="h-4 w-4" />
                   </a>
-                  <Link to="/get-a-free-quote" className="inline-flex min-h-11 items-center gap-2 rounded-full border border-border bg-background/70 px-5 py-3 text-sm font-semibold text-foreground transition-colors hover:border-brand-primary/40 hover:text-brand-primary">
-                    <Play className="h-4 w-4" /> {t("hero.buttons.freeQuote")}
+                  <Link to="/contact" className="inline-flex min-h-11 items-center gap-2 rounded-full border border-border bg-background/70 px-5 py-3 text-sm font-semibold text-foreground transition-colors hover:border-brand-primary/40 hover:text-brand-primary">
+                    <Play className="h-4 w-4" /> <CtaLabel />
                   </Link>
                 </div>
               </div>
@@ -632,8 +633,8 @@ function OurProcessPage() {
                 </p>
               </div>
               <div className="flex flex-col gap-3 md:items-end">
-                <Link to="/get-a-free-quote" className="group inline-flex min-h-11 items-center gap-2 rounded-full bg-brand-primary px-6 py-3 text-sm font-semibold text-brand-primary-foreground shadow-[0_12px_36px_-14px_color-mix(in_oklch,var(--brand-primary),transparent_40%)] transition-transform hover:scale-[1.02]">
-                  {t("sections.cta.buttons.freeQuote")} <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-0.5" />
+                <Link to="/contact" className="group inline-flex min-h-11 items-center gap-2 rounded-full bg-brand-primary px-6 py-3 text-sm font-semibold text-brand-primary-foreground shadow-[0_12px_36px_-14px_color-mix(in_oklch,var(--brand-primary),transparent_40%)] transition-transform hover:scale-[1.02]">
+                  <CtaLabel /> <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-0.5" />
                 </Link>
                 <Link to="/plan-packages-and-costs" className="inline-flex min-h-11 items-center gap-2 rounded-full border border-border bg-background/70 px-5 py-3 text-sm font-semibold text-foreground transition-colors hover:border-brand-primary/40 hover:text-brand-primary">
                   <LineChart className="h-4 w-4" /> {t("sections.cta.buttons.pricing")}
@@ -662,8 +663,8 @@ function OurProcessPage() {
             <div className="text-[11px] font-bold uppercase tracking-widest text-brand-primary">{t("sections.mobileCta.subtitle")}</div>
             <div className="truncate text-xs text-muted-foreground">{t("sections.mobileCta.title")}</div>
           </div>
-          <Link to="/get-a-free-quote" className="inline-flex min-h-11 shrink-0 items-center gap-1.5 rounded-full bg-brand-primary px-4 py-2.5 text-sm font-semibold text-brand-primary-foreground">
-            {t("sections.mobileCta.button")} <ArrowRight className="h-4 w-4" />
+          <Link to="/contact" className="inline-flex min-h-11 shrink-0 items-center gap-1.5 rounded-full bg-brand-primary px-4 py-2.5 text-sm font-semibold text-brand-primary-foreground">
+            <CtaLabel /> <ArrowRight className="h-4 w-4" />
           </Link>
         </div>
       </div>

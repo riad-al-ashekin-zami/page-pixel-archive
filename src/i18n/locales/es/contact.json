@@ -1,193 +1,84 @@
 {
   "meta": {
-    "title": "Contacto — Diseño Web para Dermatología",
-    "description": "Póngase en contacto con nuestro equipo experto en diseño web dermatológico. Escríbanos por email, WhatsApp o envíenos un mensaje; respondemos en menos de 24 horas.",
-    "ogTitle": "Contacto — Diseño Web para Dermatología",
-    "ogDescription": "¿Tiene dudas sobre la web de su clínica? Escríbanos y le responderemos en un plazo de 24 horas.",
+    "title": "Contáctanos",
+    "description": "Cuéntanos sobre tu práctica y tu sitio web. Te enviaremos una auditoría gratuita y personalizada con oportunidades de SEO, velocidad y conversión en 48 horas.",
+    "ogTitle": "Contáctanos",
+    "ogDescription": "Cuéntanos sobre tu práctica y tu sitio web. Te enviaremos una auditoría gratuita y personalizada con oportunidades de SEO, velocidad y conversión en 48 horas.",
     "breadcrumbHome": "Inicio",
     "breadcrumbContact": "Contacto"
   },
-  "form": {
-    "validation": {
-      "name": "Por favor, introduzca su nombre",
-      "email": "Por favor, introduzca un email válido",
-      "topic": "Por favor, seleccione un tema",
-      "message": "Por favor, escriba un mensaje breve (mínimo 10 caracteres)"
-    },
-    "subjects": [
-      "Nueva página web",
-      "Rediseño web",
-      "Migración de sitio web",
-      "SEO / Marketing",
-      "Mantenimiento y soporte",
-      "Consulta general"
-    ],
-    "errors": {
-      "fixFields": "Por favor, corrija los campos marcados.",
-      "cooldown": "Por favor, espere {{seconds}}s antes de volver a enviar el formulario.",
-      "global": "Lo sentimos, ha ocurrido un error. Inténtelo de nuevo o envíenos un email directamente."
+  "auditForm": {
+    "hero": {
+      "tag": "Auditoría gratuita",
+      "intro": "Cuéntanos sobre tu práctica y tu sitio web actual. Te enviaremos una auditoría gratuita y personalizada con oportunidades de SEO, velocidad y conversión en 48 horas.",
+      "points": [
+        "Auditoría gratuita y personalizada",
+        "Entregada en 48 horas",
+        "Sin compromiso"
+      ]
     },
     "labels": {
       "name": "Nombre completo",
-      "email": "Correo electrónico",
-      "phone": "Teléfono (opcional)",
-      "website": "URL de su sitio web (opcional)",
-      "practice": "Nombre de la clínica",
-      "subject": "¿En qué podemos ayudarle?",
-      "message": "Su mensaje"
+      "email": "Correo de trabajo",
+      "website": "URL de tu sitio web actual",
+      "practiceType": "Tipo de práctica",
+      "need": "¿Qué necesitas?",
+      "message": "¿Algo que debamos saber?",
+      "optional": "(opcional)"
     },
     "placeholders": {
-      "name": "Dr. Juan Pérez",
-      "email": "juan@clinica.com",
-      "phone": "+34 600 000 000",
-      "website": "https://suclinica.com",
-      "practice": "RS Institute",
-      "message": "Cuéntenos un poco sobre su clínica y lo que busca..."
+      "name": "Dra. Jane Doe",
+      "email": "jane@practice.com",
+      "website": "tuclinica.com",
+      "select": "Seleccionar…",
+      "message": "Cuéntanos sobre tu práctica y tus objetivos…"
     },
-    "header": "Envíenos un mensaje",
-    "disclaimer": "Al enviar este formulario, acepta que le contactemos por email. Sin spam, garantizado.",
-    "privacy": "Respetamos su privacidad. Su información está segura con nosotros.",
-    "submit": "Enviar mensaje",
-    "submitting": "Enviando..."
-  },
-  "channels": [
-    {
-      "label": "Email",
-      "value": "info@dermatologywebsitedesign.com",
-      "note": "Respondemos en menos de 24h",
-      "action": "Escríbanos"
-    },
-    {
-      "label": "WhatsApp",
-      "value": "Chatee con nuestro equipo",
-      "note": "Lun–Vie · 9am–6pm EST",
-      "action": "Contactar"
-    },
-    {
-      "label": "Presupuesto Gratis",
-      "value": "Solicite una propuesta a medida",
-      "note": "Sin compromiso · Entrega en 24h",
-      "action": "Solicitar"
-    }
-  ],
-  "hero": {
-    "tag": "Contacto",
-    "title": {
-      "part1": "Construyamos algo",
-      "part2": "increíble juntos."
-    },
-    "description": "¿Tiene preguntas sobre su web, SEO o marketing de crecimiento? Envíenos un mensaje y un experto de nuestro equipo le responderá personalmente en menos de 24 horas.",
-    "avgReply": {
-      "label": "Tiempo medio de respuesta:",
-      "time": "3h 12m"
-    },
-    "features": [
-      "Respuesta en 24 horas",
-      "Sin compromiso",
-      "Cero spam, siempre"
+    "practiceTypes": [
+      "Práctica individual",
+      "Práctica multiubicación",
+      "Clínica estética / cosmética",
+      "Dermatología pediátrica",
+      "Mohs / Quirúrgica",
+      "Grupo de dermatología",
+      "Otro"
     ],
-    "socialProof": {
-      "rating": "4.9/5",
-      "trustedBy": "La confianza de",
-      "practices": "+50 clínicas dermatológicas",
-      "worldwide": "en todo el mundo",
-      "avatars": [
-        "Dra. Sara R.",
-        "Dr. Miguel K.",
-        "Dra. Amanda L.",
-        "Dr. Jaime T.",
-        "Dra. Raquel N."
-      ]
-    }
-  },
-  "sidebar": {
-    "officeHours": {
-      "title": "Horario de atención",
-      "mondayToFriday": "Lunes – Viernes",
-      "mondayToFridayTime": "9am – 6pm EST",
-      "saturday": "Sábado",
-      "saturdayTime": "Con cita previa",
-      "sunday": "Domingo",
-      "sundayTime": "Cerrado"
-    },
-    "servingPractices": {
-      "title": "Ámbito de servicio",
-      "subtitle": "Global — Equipo totalmente remoto",
-      "description": "Trabajamos con dermatólogos independientes, grupos con múltiples sedes, clínicas estéticas, dermatología pediátrica y especialistas en cirugía de Mohs a nivel internacional."
-    },
-    "testimonial": {
-      "quote": "“Su equipo responde con una rapidez increíble. Es como tener un desarrollador interno, pero sin los costes asociados.”",
-      "author": "Dra. Nadia Fischer",
-      "role": "Propietaria de clínica dermatológica",
-      "trustedBy": "Elegidos por más de 50 clínicas de dermatología"
-    },
-    "audit": {
-      "title": "¿Aún no está listo para hablar?",
-      "description": "Consiga una auditoría web gratuita: un diagnóstico rápido de salud digital y los 3 fallos principales que están frenando su web.",
-      "link": "Solicitar auditoría gratuita"
-    }
-  },
-  "faq": {
-    "tag": "Preguntas Frecuentes",
-    "title": "Respuestas a sus dudas",
-    "items": [
-      {
-        "q": "¿Cuál es su tiempo de respuesta habitual?",
-        "a": "Para consultas estándar, respondemos en un plazo de 24 horas en días laborables. En proyectos activos con incidencias urgentes (como caídas de servidor), nuestro objetivo es menos de 1 hora."
-      },
-      {
-        "q": "¿Trabajan con clínicas fuera de EE. UU.?",
-        "a": "Sí, colaboramos con clínicas dermatológicas de todo el mundo. Nuestro equipo es 100% remoto y gestionamos proyectos en diversos husos horarios."
-      },
-      {
-        "q": "¿Ofrecen servicios de 'marca blanca' para agencias?",
-        "a": "Sí. Colaboramos con agencias de diseño y marketing para desarrollar y mantener webs de dermatología bajo su propia marca. Seleccione “Consulta general” en el formulario y mencione la marca blanca."
-      },
-      {
-        "q": "¿Cuánto cuesta una web dermatológica nueva?",
-        "a": "Los proyectos suelen partir de los $2,500 y escalan según el alcance, integraciones y contenido. Envíenos una nota rápida y le daremos un presupuesto a medida en 24 horas."
-      }
-    ]
-  },
-  "cta": {
-    "tag": "¿Listo para crecer?",
-    "title": "Hablemos hoy mismo.",
-    "description": "Su sitio web debe estar al servicio de su clínica, y no al revés. Estaremos encantados de ayudarle a mejorar su presencia digital.",
-    "auditButton": "Auditoría web gratuita",
-    "quoteButton": "Pedir presupuesto gratis"
-  },
-  "success": {
-    "title": "¡Mensaje recibido!",
-    "description": "Gracias por contactar con nosotros. Le responderemos en un plazo de 24 horas a {{email}}.",
-    "backToHome": "Volver al inicio"
-  },
-  "mockup": {
-    "inbox": "Bandeja de entrada · Nuevo",
-    "messages": [
-      {
-        "name": "Dr. Alex T.",
-        "message": "Propuesta de rediseño"
-      },
-      {
-        "name": "Skin & Co.",
-        "message": "Solicitud auditoría SEO"
-      },
-      {
-        "name": "RS Institute",
-        "message": "¿Plazos de migración?"
-      }
+    "needs": [
+      "Sitio web nuevo",
+      "Rediseño de sitio web",
+      "Migración de sitio web",
+      "SEO",
+      "Google Ads / PPC",
+      "Redes sociales",
+      "Aún no lo sé"
     ],
-    "activeHeader": {
-      "initials": "DWS",
-      "name": "DW Design",
-      "status": "En línea"
+    "validation": {
+      "name": "Introduce tu nombre completo",
+      "email": "Introduce un correo de trabajo válido",
+      "website": "Introduce la URL de tu sitio web",
+      "practiceType": "Selecciona tu tipo de práctica",
+      "need": "Selecciona lo que necesitas",
+      "message": "Máximo 1000 caracteres",
+      "consent": "Acepta ser contactado"
     },
-    "chat": [
-      "¡Hola! ¿Cómo podemos ayudar a su clínica hoy?",
-      "Necesito una web nueva para mi consulta de dermatología."
-    ],
-    "typing": "escribiendo",
-    "placeholder": "Escriba un mensaje...",
-    "replyStatus": "Respuesta enviada · 2 min"
+    "errors": {
+      "fixFields": "Corrige los campos marcados.",
+      "cooldown": "Espera {{seconds}} s antes de enviar de nuevo.",
+      "global": "Algo salió mal. Inténtalo de nuevo o escríbenos directamente."
+    },
+    "hipaaNotice": "No incluyas información de pacientes ni información de salud protegida (PHI) en este formulario.",
+    "consent": {
+      "label": "Acepto ser contactado sobre mi solicitud de auditoría.",
+      "privacyLink": "Política de privacidad"
+    },
+    "submitting": "Enviando…",
+    "emailFallback": "¿Prefieres correo? Escríbenos a"
+  },
+  "thankYou": {
+    "metaTitle": "Gracias",
+    "metaDescription": "Recibimos tu solicitud de auditoría. Tu auditoría web gratuita llegará en 48 horas.",
+    "title": "Gracias — recibimos tu solicitud",
+    "description": "Hemos recibido tu solicitud de auditoría y enviamos una confirmación a tu correo.",
+    "turnaround": "Te enviaremos tu auditoría en 48 horas",
+    "backHome": "Volver al inicio"
   }
 }

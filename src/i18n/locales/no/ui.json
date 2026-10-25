@@ -1,15 +1,19 @@
 {
-  "language": { "select": "Språk" },
-  "common": { "or": "eller" },
+  "language": {
+    "select": "Språk"
+  },
+  "common": {
+    "or": "eller"
+  },
   "topBar": {
-    "whatsappUs": "Kontakt oss på WhatsApp",
-    "whatsapp": "WhatsApp",
     "freeAudit24hLong": "Gratis nettstedsanalyse på 24 timer",
     "freeAudit24hShort": "Gratis analyse · 24 t",
     "freeAudit": "Gratis analyse",
     "hipaaAware": "HIPAA-tilpassede nettsteder",
     "hipaaAwareShort": "HIPAA-tilpasset",
-    "hipaa": "HIPAA"
+    "hipaa": "HIPAA",
+    "freeAudit48h": "Gratis nettstedsanalyse innen 48 timer",
+    "freeAudit48hShort": "Gratis analyse · 48 t"
   },
   "nav": {
     "home": "Hjem",
@@ -26,13 +30,13 @@
   "cta": {
     "getFreeQuote": "Få gratis tilbud",
     "requestAudit": "Be om gratis analyse",
-    "viewAllAddons": "Se alle tilleggstjenester"
+    "viewAllAddons": "Se alle tilleggstjenester",
+    "label": "Få din gratis nettstedsanalyse"
   },
   "drawer": {
     "websiteServices": "Nettstedstjenester",
     "marketingServices": "Markedsføring",
     "addOnServices": "Tilleggstjenester",
-    "chatWhatsApp": "Chat på WhatsApp",
     "freeAuditBanner": "Gratis nettstedsanalyse · svar innen 24 t"
   },
   "chat": {
@@ -49,19 +53,35 @@
     "errorText": "Noe gikk galt. Prøv igjen eller",
     "contactUs": "kontakt oss",
     "primary": {
-      "quote": "Tilbud",
       "audit": "Analyse",
       "pricing": "Priser",
       "contact": "Kontakt"
     },
     "quick": {
-      "design":     { "label": "Nettstedsdesign",     "prompt": "Fortell om nettstedsdesign-tjenesten." },
-      "management": { "label": "Nettstedsdrift",      "prompt": "Hva inngår i nettstedsdriften?" },
-      "seo":        { "label": "SEO-tjenester",       "prompt": "Hvordan fungerer SEO for dermatologi?" },
-      "portfolio":  { "label": "Portefølje",          "prompt": "Kan jeg se porteføljen?" },
-      "pricing":    { "label": "Priser",              "prompt": "Hva er prisene og pakkene?" },
-      "audit":      { "label": "Gratis analyse",      "prompt": "Hvordan får jeg en gratis analyse?" },
-      "quote":      { "label": "Gratis tilbud",       "prompt": "Hvordan får jeg et gratis tilbud?" }
+      "design": {
+        "label": "Nettstedsdesign",
+        "prompt": "Fortell om nettstedsdesign-tjenesten."
+      },
+      "management": {
+        "label": "Nettstedsdrift",
+        "prompt": "Hva inngår i nettstedsdriften?"
+      },
+      "seo": {
+        "label": "SEO-tjenester",
+        "prompt": "Hvordan fungerer SEO for dermatologi?"
+      },
+      "portfolio": {
+        "label": "Portefølje",
+        "prompt": "Kan jeg se porteføljen?"
+      },
+      "pricing": {
+        "label": "Priser",
+        "prompt": "Hva er prisene og pakkene?"
+      },
+      "audit": {
+        "label": "Gratis analyse",
+        "prompt": "Hvordan får jeg en gratis analyse?"
+      }
     }
   },
   "errorPages": {

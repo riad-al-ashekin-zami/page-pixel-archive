@@ -1,193 +1,84 @@
 {
   "meta": {
-    "title": "Contact Us — Dermatology Website Design",
-    "description": "Get in touch with our dermatology website design team. Email, WhatsApp, or send us a message — we reply within 24 hours.",
-    "ogTitle": "Contact Us — Dermatology Website Design",
-    "ogDescription": "Questions about your practice website? Reach out — we reply within 24 hours.",
+    "title": "Contact Us",
+    "description": "Tell us about your practice and website. We'll send a free, personalized audit with SEO, speed and conversion opportunities within 48 hours.",
+    "ogTitle": "Contact Us",
+    "ogDescription": "Tell us about your practice and website. We'll send a free, personalized audit with SEO, speed and conversion opportunities within 48 hours.",
     "breadcrumbHome": "Home",
     "breadcrumbContact": "Contact"
   },
-  "form": {
-    "validation": {
-      "name": "Please enter your name",
-      "email": "Please enter a valid email",
-      "topic": "Please pick a topic",
-      "message": "Please write a short message (10+ chars)"
+  "auditForm": {
+    "hero": {
+      "tag": "Free audit",
+      "intro": "Tell us about your practice and your current website. We'll send you a free, personalized audit with SEO, speed and conversion opportunities within 48 hours.",
+      "points": [
+        "Free, personalized audit",
+        "Delivered within 48 hours",
+        "No obligation"
+      ]
     },
-    "subjects": [
-      "New Website",
-      "Website Redesign",
-      "Website Migration",
-      "SEO / Marketing",
-      "Care & Maintenance",
-      "General Question"
+    "labels": {
+      "name": "Full name",
+      "email": "Work email",
+      "website": "Current website URL",
+      "practiceType": "Practice type",
+      "need": "What do you need?",
+      "message": "Anything we should know?",
+      "optional": "(optional)"
+    },
+    "placeholders": {
+      "name": "Dr. Jane Doe",
+      "email": "jane@practice.com",
+      "website": "yourpractice.com",
+      "select": "Select…",
+      "message": "Tell us about your practice and goals…"
+    },
+    "practiceTypes": [
+      "Solo practice",
+      "Multi-location practice",
+      "Aesthetic / Cosmetic clinic",
+      "Pediatric dermatology",
+      "Mohs / Surgical",
+      "Dermatology group",
+      "Other"
     ],
+    "needs": [
+      "New website",
+      "Website redesign",
+      "Website migration",
+      "SEO",
+      "Google Ads / PPC",
+      "Social media",
+      "Not sure yet"
+    ],
+    "validation": {
+      "name": "Please enter your full name",
+      "email": "Please enter a valid work email",
+      "website": "Please enter your website URL",
+      "practiceType": "Please select your practice type",
+      "need": "Please select what you need",
+      "message": "Please keep it under 1000 characters",
+      "consent": "Please agree to be contacted"
+    },
     "errors": {
       "fixFields": "Please fix the highlighted fields.",
       "cooldown": "Please wait {{seconds}}s before submitting again.",
       "global": "Sorry, something went wrong. Please try again or email us directly."
     },
-    "labels": {
-      "name": "Your name",
-      "email": "Email",
-      "phone": "Phone (optional)",
-      "website": "Website URL (optional)",
-      "practice": "Practice name",
-      "subject": "What's this about?",
-      "message": "Your message"
+    "hipaaNotice": "Please do not include patient information or protected health information (PHI) in this form.",
+    "consent": {
+      "label": "I agree to be contacted about my audit request.",
+      "privacyLink": "Privacy Policy"
     },
-    "placeholders": {
-      "name": "Dr. Jane Doe",
-      "email": "jane@practice.com",
-      "phone": "+1 (555) 123-4567",
-      "website": "https://yourpractice.com",
-      "practice": "RS Institute",
-      "message": "Tell us a bit about your practice and what you're looking for…"
-    },
-    "header": "Send us a message",
-    "disclaimer": "By submitting, you agree we may email you back. No spam — ever.",
-    "privacy": "We respect your privacy. Your information is safe with us.",
-    "submit": "Send message",
-    "submitting": "Sending…"
+    "submitting": "Sending…",
+    "emailFallback": "Prefer email? Write to us at"
   },
-  "channels": [
-    {
-      "label": "Email",
-      "value": "info@dermatologywebsitedesign.com",
-      "note": "Replies within 24 hours",
-      "action": "Reach out"
-    },
-    {
-      "label": "WhatsApp",
-      "value": "Chat with our team",
-      "note": "Mon–Fri · 9am–6pm EST",
-      "action": "Reach out"
-    },
-    {
-      "label": "Free Quote",
-      "value": "Get a tailored proposal",
-      "note": "No obligation · 24-hr turnaround",
-      "action": "Reach out"
-    }
-  ],
-  "hero": {
-    "tag": "Contact Us",
-    "title": {
-      "part1": "Let's build something",
-      "part2": "great together."
-    },
-    "description": "Questions about your website, SEO, or growth marketing? Send us a message — a real human from our team will get back to you within 24 hours.",
-    "avgReply": {
-      "label": "Avg reply time:",
-      "time": "3h 12m"
-    },
-    "features": [
-      "24-hour response",
-      "No obligation",
-      "No spam, ever"
-    ],
-    "socialProof": {
-      "rating": "4.9/5",
-      "trustedBy": "Trusted by",
-      "practices": "50+ dermatology practices",
-      "worldwide": "worldwide",
-      "avatars": [
-        "Dr. Sarah R.",
-        "Dr. Michael K.",
-        "Dr. Amanda L.",
-        "Dr. James T.",
-        "Dr. Rachel N."
-      ]
-    }
-  },
-  "sidebar": {
-    "officeHours": {
-      "title": "Office hours",
-      "mondayToFriday": "Monday – Friday",
-      "mondayToFridayTime": "9am – 6pm EST",
-      "saturday": "Saturday",
-      "saturdayTime": "By appointment",
-      "sunday": "Sunday",
-      "sundayTime": "Closed"
-    },
-    "servingPractices": {
-      "title": "Serving practices",
-      "subtitle": "Worldwide — fully remote team",
-      "description": "We work with solo dermatologists, multi-location groups, aesthetic clinics, pediatric dermatology, and Mohs & surgical dermatology practices worldwide."
-    },
-    "testimonial": {
-      "quote": "“Their team responds incredibly fast. It feels like having an in-house developer — without the cost.”",
-      "author": "Dr. Nadia Fischer",
-      "role": "Dermatology Practice Owner",
-      "trustedBy": "Trusted by 50+ dermatology practices"
-    },
-    "audit": {
-      "title": "Not ready to talk yet?",
-      "description": "Get a free website audit — a quick health score and the top 3 issues holding your site back.",
-      "link": "Request free audit"
-    }
-  },
-  "faq": {
-    "tag": "Common Questions",
-    "title": "Answers before you ask",
-    "items": [
-      {
-        "q": "What is your typical response time?",
-        "a": "For standard inquiries we reply within 24 hours on business days. For urgent issues on active projects (like site downtime), we aim for under 1 hour."
-      },
-      {
-        "q": "Do you work with practices outside the US?",
-        "a": "Yes — we work with dermatology practices worldwide. Our team is fully remote and we handle projects across time zones."
-      },
-      {
-        "q": "Do you offer white-label services for agencies?",
-        "a": "Yes. We partner with design and marketing agencies to build and maintain dermatology websites under their brand. Pick “General Question” in the form above and mention white-label."
-      },
-      {
-        "q": "How much does a new dermatology website cost?",
-        "a": "Projects typically start around $2,500 and scale with scope, integrations, and content. Send us a quick note and we'll share a tailored quote within 24 hours."
-      }
-    ]
-  },
-  "cta": {
-    "tag": "Ready to grow?",
-    "title": "Let's get in touch.",
-    "description": "Your website should serve your practice — not the other way around. We're happy to help. Let's talk about your website's needs.",
-    "auditButton": "Get free website audit",
-    "quoteButton": "Get a free quote"
-  },
-  "success": {
-    "title": "Message received!",
-    "description": "Thanks for reaching out — we'll get back to you within 24 hours at {{email}}.",
-    "backToHome": "Back to home"
-  },
-  "mockup": {
-    "inbox": "Inbox · New",
-    "messages": [
-      {
-        "name": "Dr. Alex T.",
-        "message": "Redesign proposal"
-      },
-      {
-        "name": "Skin & Co.",
-        "message": "SEO audit request"
-      },
-      {
-        "name": "RS Institute",
-        "message": "Migration timeline?"
-      }
-    ],
-    "activeHeader": {
-      "initials": "DWS",
-      "name": "DW Design",
-      "status": "Online now"
-    },
-    "chat": [
-      "Hi! How can we help your practice today?",
-      "I need a new dermatology website."
-    ],
-    "typing": "typing",
-    "placeholder": "Type a message…",
-    "replyStatus": "Reply sent · 2 min"
+  "thankYou": {
+    "metaTitle": "Thank You",
+    "metaDescription": "We received your audit request. Your free website audit will arrive within 48 hours.",
+    "title": "Thank you — your request is in",
+    "description": "We've received your audit request and sent a confirmation to your email.",
+    "turnaround": "We'll send your audit within 48 hours",
+    "backHome": "Back to homepage"
   }
 }

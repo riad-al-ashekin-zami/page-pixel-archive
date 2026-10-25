@@ -6,14 +6,14 @@
     "or": "or"
   },
   "topBar": {
-    "whatsappUs": "WhatsApp Us",
-    "whatsapp": "WhatsApp",
     "freeAudit24hLong": "Free Website Audit in 48 Hours",
     "freeAudit24hShort": "Free Audit · 48h",
     "freeAudit": "Free Audit",
     "hipaaAware": "HIPAA-Aware Websites",
     "hipaaAwareShort": "HIPAA-Aware",
-    "hipaa": "HIPAA"
+    "hipaa": "HIPAA",
+    "freeAudit48h": "Free Website Audit within 48 hours",
+    "freeAudit48hShort": "Free Audit · 48h"
   },
   "nav": {
     "home": "Home",
@@ -28,15 +28,13 @@
     "main": "Main"
   },
   "cta": {
-    "getFreeQuote": "Get a Free Quote",
-    "requestAudit": "Request Free Audit",
-    "viewAllAddons": "View All Add-On Services"
+    "viewAllAddons": "View All Add-On Services",
+    "label": "Get Your Free Website Audit"
   },
   "drawer": {
     "websiteServices": "Website Services",
     "marketingServices": "Marketing Services",
     "addOnServices": "Add-On Services",
-    "chatWhatsApp": "Chat on WhatsApp",
     "freeAuditBanner": "Free Website Audit · 48h turnaround"
   },
   "chat": {
@@ -53,7 +51,6 @@
     "errorText": "Something went wrong. Please try again, or",
     "contactUs": "contact us",
     "primary": {
-      "quote": "Free Quote",
       "audit": "Free Audit",
       "pricing": "Pricing",
       "contact": "Contact"
@@ -82,10 +79,6 @@
       "audit": {
         "label": "Free Website Audit",
         "prompt": "How do I get a free website audit?"
-      },
-      "quote": {
-        "label": "Get a Free Quote",
-        "prompt": "How do I get a free quote?"
       }
     }
   },

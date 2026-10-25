@@ -293,6 +293,10 @@
       "errorGeneric": "Omlouváme se, něco se pokazilo. Zkuste to prosím znovu.",
       "successTitle": "Žádost přijata.",
       "successMessage": "Váš personalizovaný audit je na cestě. E-mail s akčním plánem vám zašleme do 48 hodin."
+    },
+    "ctaCard": {
+      "title": "Připraveni na bezplatný audit?",
+      "description": "Odpovězte na několik rychlých otázek na naší kontaktní stránce a my vám do 48 hodin zašleme váš personalizovaný audit."
     }
   },
   "faqSnippet": {

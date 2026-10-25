@@ -1,5 +1,6 @@
 import { createFileRoute, notFound } from "@tanstack/react-router";
 import { LocalLink as Link } from "@/components/local-link";
+import { CtaLabel } from "@/lib/cta";
 import {
   ArrowRight,
   Sparkles,
@@ -150,14 +151,8 @@ function PortfolioPage() {
                       "linear-gradient(135deg, var(--brand-primary), color-mix(in oklch, var(--brand-primary), black 18%))",
                   }}
                 >
-                  {t("hero.cta.start")}
+                  <CtaLabel />
                   <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-0.5" />
-                </Link>
-                <Link
-                  to="/free-dermatologist-website-audit"
-                  className="inline-flex min-h-11 items-center justify-center gap-2 rounded-full border border-brand-primary/30 bg-background/70 px-7 py-3.5 text-sm font-semibold text-brand-primary backdrop-blur transition-colors hover:bg-brand-primary/5"
-                >
-                  <PhoneCall className="h-4 w-4" /> {t("hero.cta.audit")}
                 </Link>
               </div>
 
@@ -334,14 +329,8 @@ function PortfolioPage() {
                       "linear-gradient(135deg, var(--brand-primary), color-mix(in oklch, var(--brand-primary), black 18%))",
                   }}
                 >
-                  {t("ctaSection.buttons.start")}
+                  <CtaLabel />
                   <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-0.5" />
-                </Link>
-                <Link
-                  to="/free-dermatologist-website-audit"
-                  className="inline-flex min-h-11 items-center justify-center gap-2 rounded-full border border-brand-primary/30 bg-background/80 px-7 py-3.5 text-sm font-semibold text-brand-primary backdrop-blur transition-colors hover:bg-brand-primary/5"
-                >
-                  <PhoneCall className="h-4 w-4" /> {t("ctaSection.buttons.audit")}
                 </Link>
                 <p className="text-center text-[11px] font-medium text-muted-foreground lg:mt-1">
                   {t("ctaSection.disclaimer")}

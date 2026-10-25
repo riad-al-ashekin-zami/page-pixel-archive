@@ -1,15 +1,19 @@
 {
-  "language": { "select": "Språk" },
-  "common": { "or": "eller" },
+  "language": {
+    "select": "Språk"
+  },
+  "common": {
+    "or": "eller"
+  },
   "topBar": {
-    "whatsappUs": "Kontakta oss på WhatsApp",
-    "whatsapp": "WhatsApp",
     "freeAudit24hLong": "Gratis webbplatsgranskning inom 24 timmar",
     "freeAudit24hShort": "Gratis granskning · 24 h",
     "freeAudit": "Gratis granskning",
     "hipaaAware": "HIPAA-anpassade webbplatser",
     "hipaaAwareShort": "HIPAA-anpassad",
-    "hipaa": "HIPAA"
+    "hipaa": "HIPAA",
+    "freeAudit48h": "Kostnadsfri webbplatsgranskning inom 48 timmar",
+    "freeAudit48hShort": "Gratis granskning · 48 h"
   },
   "nav": {
     "home": "Hem",
@@ -26,13 +30,13 @@
   "cta": {
     "getFreeQuote": "Få en gratis offert",
     "requestAudit": "Begär gratis granskning",
-    "viewAllAddons": "Visa alla tilläggstjänster"
+    "viewAllAddons": "Visa alla tilläggstjänster",
+    "label": "Få din kostnadsfria webbplatsgranskning"
   },
   "drawer": {
     "websiteServices": "Webbplatstjänster",
     "marketingServices": "Marknadsföring",
     "addOnServices": "Tilläggstjänster",
-    "chatWhatsApp": "Chatta på WhatsApp",
     "freeAuditBanner": "Gratis granskning · svar inom 24 h"
   },
   "chat": {
@@ -49,19 +53,35 @@
     "errorText": "Något gick fel. Försök igen eller",
     "contactUs": "kontakta oss",
     "primary": {
-      "quote": "Offert",
       "audit": "Granskning",
       "pricing": "Priser",
       "contact": "Kontakt"
     },
     "quick": {
-      "design":     { "label": "Webbdesign",          "prompt": "Berätta om er webbdesigntjänst." },
-      "management": { "label": "Webbplatshantering",  "prompt": "Vad ingår i webbplatshanteringen?" },
-      "seo":        { "label": "SEO-tjänster",        "prompt": "Hur fungerar er SEO för dermatologi?" },
-      "portfolio":  { "label": "Portfolio",           "prompt": "Kan jag se er portfolio?" },
-      "pricing":    { "label": "Priser",              "prompt": "Vad har ni för priser och paket?" },
-      "audit":      { "label": "Gratis granskning",   "prompt": "Hur får jag en gratis granskning?" },
-      "quote":      { "label": "Gratis offert",       "prompt": "Hur får jag en gratis offert?" }
+      "design": {
+        "label": "Webbdesign",
+        "prompt": "Berätta om er webbdesigntjänst."
+      },
+      "management": {
+        "label": "Webbplatshantering",
+        "prompt": "Vad ingår i webbplatshanteringen?"
+      },
+      "seo": {
+        "label": "SEO-tjänster",
+        "prompt": "Hur fungerar er SEO för dermatologi?"
+      },
+      "portfolio": {
+        "label": "Portfolio",
+        "prompt": "Kan jag se er portfolio?"
+      },
+      "pricing": {
+        "label": "Priser",
+        "prompt": "Vad har ni för priser och paket?"
+      },
+      "audit": {
+        "label": "Gratis granskning",
+        "prompt": "Hur får jag en gratis granskning?"
+      }
     }
   },
   "errorPages": {

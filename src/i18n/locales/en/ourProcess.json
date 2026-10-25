@@ -21,8 +21,7 @@
     "titleHighlight": "a 7-step, fixed-timeline build.",
     "description": "No mystery, no scope creep, no hourly surprises. Every step has a written deliverable, an owner, and a deadline — so you always know what's happening this week and what's next.",
     "buttons": {
-      "seeSteps": "See the 7 steps",
-      "freeQuote": "Get a Free Quote"
+      "seeSteps": "See the 7 steps"
     },
     "imageAlt": "Illustration of a seven-step process journey, with glowing connected nodes ascending on a curved path"
   },
@@ -368,7 +367,6 @@
       "title": "Start with Step 01 — a free website audit.",
       "description": "Free, no pressure. Come away with a project brief, a rough timeline, and a fixed-price proposal — even if you don't hire us.",
       "buttons": {
-        "freeQuote": "Get a Free Quote",
         "pricing": "See pricing first"
       }
     },
@@ -383,8 +381,7 @@
     },
     "mobileCta": {
       "subtitle": "Start with Step 01",
-      "title": "Free website audit — no cost.",
-      "button": "Get a Free Quote"
+      "title": "Free website audit — no cost."
     },
     "progressRail": {
       "title": "Journey progress",

@@ -1,5 +1,6 @@
 import { createFileRoute, notFound } from "@tanstack/react-router";
 import { LocalLink as Link } from "@/components/local-link";
+import { CtaLabel } from "@/lib/cta";
 import { buildHreflangLinks, localizedUrl, resolveRouteLanguage } from "@/lib/i18n-routing";
 import { FileText, Scale, Mail, ArrowRight, Gavel } from "lucide-react";
 import { SiteHeader } from "@/components/site-header/site-header";
@@ -249,7 +250,7 @@ function TermsOfServicePage() {
                   }}
                 >
                   <Mail className="h-4 w-4" />
-                  {t("cta.button")}
+                  <CtaLabel />
                   <ArrowRight className="h-4 w-4" />
                 </Link>
               </div>

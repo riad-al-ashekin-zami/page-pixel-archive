@@ -54,7 +54,30 @@ const submitSchema = z.object({
   preferred_contact: z.string().trim().max(60).optional().nullable(),
   nda_required: z.boolean().optional().nullable(),
   source_page: z.string().trim().max(500).optional().nullable(),
+  language: z.string().trim().max(10).optional().nullable(),
+  utm_source: z.string().trim().max(200).optional().nullable(),
+  utm_medium: z.string().trim().max(200).optional().nullable(),
+  utm_campaign: z.string().trim().max(200).optional().nullable(),
+  utm_term: z.string().trim().max(200).optional().nullable(),
+  utm_content: z.string().trim().max(200).optional().nullable(),
 });
+
+/** Basic server-side rate limit: max 3 lead submissions per IP per 10 minutes. */
+const RATE_WINDOW_MS = 10 * 60 * 1000;
+const RATE_MAX = 3;
+const rateBuckets = new Map<string, number[]>();
+function isRateLimited(ip: string | null): boolean {
+  if (!ip) return false;
+  const now = Date.now();
+  const hits = (rateBuckets.get(ip) ?? []).filter((t) => now - t < RATE_WINDOW_MS);
+  if (hits.length >= RATE_MAX) {
+    rateBuckets.set(ip, hits);
+    return true;
+  }
+  hits.push(now);
+  rateBuckets.set(ip, hits);
+  return false;
+}
 
 export type SubmitLeadInput = z.infer<typeof submitSchema>;
 
@@ -79,7 +102,28 @@ export const submitLead = createServerFn({ method: "POST" })
     const userAgent = h("user-agent") ?? null;
     const referrer = h("referer") ?? h("referrer") ?? null;
 
+    if (isRateLimited(ip)) {
+      return { ok: false as const, error: "Too many submissions. Please try again later." };
+    }
+
     const { score, points } = calculateLeadScore(data);
+
+    // Persist tracking values inside project_details (the leads table has no
+    // dedicated UTM columns on the external backend).
+    const trackingLines = [
+      data.language ? `Language: ${data.language}` : null,
+      data.utm_source ? `UTM source: ${data.utm_source}` : null,
+      data.utm_medium ? `UTM medium: ${data.utm_medium}` : null,
+      data.utm_campaign ? `UTM campaign: ${data.utm_campaign}` : null,
+      data.utm_term ? `UTM term: ${data.utm_term}` : null,
+      data.utm_content ? `UTM content: ${data.utm_content}` : null,
+    ].filter(Boolean);
+    const projectDetails = [
+      data.project_details?.trim() || null,
+      trackingLines.length ? `--- Tracking ---\n${trackingLines.join("\n")}` : null,
+    ]
+      .filter(Boolean)
+      .join("\n\n");
 
     const insert = {
       name: data.name,
@@ -90,7 +134,7 @@ export const submitLead = createServerFn({ method: "POST" })
       service_needed: data.service_needed || null,
       budget: data.budget || null,
       timeline: data.timeline || null,
-      project_details: data.project_details || null,
+      project_details: projectDetails || null,
       preferred_contact: data.preferred_contact || null,
       nda_required: Boolean(data.nda_required),
       source_page: data.source_page || null,
@@ -115,7 +159,17 @@ export const submitLead = createServerFn({ method: "POST" })
     }
 
     const { sendLeadEmails } = await import("./lead-mailer.server");
-    const result = await sendLeadEmails({ ...insert, id: row.id, lead_score: score });
+    const result = await sendLeadEmails({
+      ...insert,
+      id: row.id,
+      lead_score: score,
+      language: data.language,
+      utm_source: data.utm_source,
+      utm_medium: data.utm_medium,
+      utm_campaign: data.utm_campaign,
+      utm_term: data.utm_term,
+      utm_content: data.utm_content,
+    });
 
     await supabaseAdmin
       .from("leads")

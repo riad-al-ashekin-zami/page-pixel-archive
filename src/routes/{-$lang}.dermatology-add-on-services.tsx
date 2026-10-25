@@ -1,5 +1,6 @@
 import { createFileRoute, notFound } from "@tanstack/react-router";
 import { LocalLink as Link } from "@/components/local-link";
+import { CtaLabel } from "@/lib/cta";
 import { localizedUrl, resolveRouteLanguage, buildHreflangLinks, useCurrentLang } from "@/lib/i18n-routing";
 import { formatLocalizedNumber } from "@/lib/locale-format";
 import { useEffect, useRef, useState } from "react";
@@ -353,7 +354,7 @@ function AddOnServicesPage() {
                     "linear-gradient(135deg, var(--brand-primary), color-mix(in oklch, var(--brand-primary), black 18%))",
                 }}
               >
-                {t("hero.cta.bundle")}
+                <CtaLabel />
                 <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-1" />
               </Link>
               <a
@@ -599,14 +600,8 @@ function AddOnServicesPage() {
                     "linear-gradient(135deg, var(--brand-primary), color-mix(in oklch, var(--brand-primary), black 18%))",
                 }}
               >
-                {t("cta.primary")}
+                <CtaLabel />
                 <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-1" />
-              </Link>
-              <Link
-                to="/free-dermatologist-website-audit"
-                className="inline-flex min-h-11 items-center justify-center gap-2 rounded-full border border-border/70 bg-background px-7 py-3.5 text-sm font-semibold text-foreground transition-colors hover:border-brand-primary/40 hover:text-brand-primary focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-primary focus-visible:ring-offset-2"
-              >
-                {t("cta.secondary")}
               </Link>
             </div>
           </Reveal>

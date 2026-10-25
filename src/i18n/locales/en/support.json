@@ -376,10 +376,10 @@
   },
   "cta": {
     "title": "Meet the engineer who'll answer your next message.",
-    "highlight": "Get a free quote.",
     "description": "We'll review your site, your team's edit patterns, and which plan (if any) actually fits — then send a written quote.",
     "buttonQuote": "Start a Support Plan",
-    "buttonContact": "Contact Us"
+    "buttonContact": "Contact Us",
+    "highlight": "It starts with your free website audit."
   },
   "inboxWidget": {
     "title": "Support inbox",

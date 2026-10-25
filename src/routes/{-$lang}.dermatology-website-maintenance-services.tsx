@@ -1,5 +1,6 @@
 import { createFileRoute, notFound } from "@tanstack/react-router";
 import { LocalLink as Link } from "@/components/local-link";
+import { CtaLabel } from "@/lib/cta";
 import { buildHreflangLinks, useCurrentLang, type LanguageCode } from "@/lib/i18n-routing";
 import { formatLocalizedNumber } from "@/lib/locale-format";
 import { useEffect, useState } from "react";
@@ -292,16 +293,10 @@ function MaintenancePage() {
               </p>
               <div className="mt-7 flex flex-wrap items-center gap-3">
                 <Link
-                  to="/get-a-free-quote"
+                  to="/contact"
                   className="group inline-flex min-h-11 items-center gap-2 rounded-full bg-brand-primary px-5 py-3 text-sm font-semibold text-brand-primary-foreground shadow-[0_12px_36px_-14px_color-mix(in_oklch,var(--brand-primary),transparent_40%)] transition-transform hover:scale-[1.02]"
                 >
-                  {t("hero.cta_primary")} <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-0.5" />
-                </Link>
-                <Link
-                  to="/free-dermatologist-website-audit"
-                  className="inline-flex min-h-11 items-center gap-2 rounded-full border border-border bg-card px-5 py-3 text-sm font-semibold text-foreground transition-colors hover:border-brand-primary/40 hover:text-brand-primary"
-                >
-                  {t("hero.cta_secondary")}
+                  <CtaLabel /> <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-0.5" />
                 </Link>
               </div>
               <div className="mt-6 flex items-baseline gap-2 text-xs text-muted-foreground">
@@ -505,7 +500,7 @@ function MaintenancePage() {
                     ))}
                   </ul>
                   <Link
-                    to="/get-a-free-quote"
+                    to="/contact"
                     className={`mt-8 inline-flex min-h-11 items-center justify-center gap-2 rounded-full px-5 py-3 text-sm font-semibold transition-transform hover:scale-[1.02] ${
                       p.highlight
                         ? "bg-brand-primary text-brand-primary-foreground"
@@ -657,16 +652,10 @@ function MaintenancePage() {
             </div>
             <div className="flex flex-col gap-3 sm:flex-row md:flex-col">
               <Link
-                to="/get-a-free-quote"
+                to="/contact"
                 className="inline-flex min-h-11 items-center justify-center gap-2 rounded-full bg-brand-primary px-5 py-3 text-sm font-semibold text-brand-primary-foreground transition-transform hover:scale-[1.02]"
               >
-                {t("cta_bottom.primary")} <ArrowRight className="h-4 w-4" />
-              </Link>
-              <Link
-                to="/free-dermatologist-website-audit"
-                className="inline-flex min-h-11 items-center justify-center gap-2 rounded-full border border-border bg-card px-5 py-3 text-sm font-semibold text-foreground transition-colors hover:border-brand-primary/40 hover:text-brand-primary"
-              >
-                {t("cta_bottom.secondary")}
+                <CtaLabel /> <ArrowRight className="h-4 w-4" />
               </Link>
             </div>
           </div>

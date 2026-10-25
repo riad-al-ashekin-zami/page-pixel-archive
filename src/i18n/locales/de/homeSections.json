@@ -293,6 +293,10 @@
       "errorGeneric": "Entschuldigung, es ist etwas schiefgelaufen. Bitte versuchen Sie es erneut.",
       "successTitle": "Anfrage erhalten.",
       "successMessage": "Ihr personalisierter Audit ist auf dem Weg. Wir senden Ihnen Ihren Aktionsplan innerhalb von 48 Stunden per E-Mail zu."
+    },
+    "ctaCard": {
+      "title": "Bereit für Ihr kostenloses Audit?",
+      "description": "Beantworten Sie ein paar kurze Fragen auf unserer Kontaktseite und wir senden Ihnen Ihr personalisiertes Audit innerhalb von 48 Stunden."
     }
   },
   "faqSnippet": {

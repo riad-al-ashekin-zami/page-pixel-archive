@@ -1,15 +1,19 @@
 {
-  "language": { "select": "اللغة" },
-  "common": { "or": "أو" },
+  "language": {
+    "select": "اللغة"
+  },
+  "common": {
+    "or": "أو"
+  },
   "topBar": {
-    "whatsappUs": "راسلنا على واتساب",
-    "whatsapp": "واتساب",
     "freeAudit24hLong": "تدقيق مجاني للموقع خلال 24 ساعة",
     "freeAudit24hShort": "تدقيق مجاني · 24س",
     "freeAudit": "تدقيق مجاني",
     "hipaaAware": "مواقع متوافقة مع HIPAA",
     "hipaaAwareShort": "متوافق مع HIPAA",
-    "hipaa": "HIPAA"
+    "hipaa": "HIPAA",
+    "freeAudit48h": "تدقيق مجاني للموقع خلال 48 ساعة",
+    "freeAudit48hShort": "تدقيق مجاني · 48 ساعة"
   },
   "nav": {
     "home": "الرئيسية",
@@ -26,13 +30,13 @@
   "cta": {
     "getFreeQuote": "احصل على عرض مجاني",
     "requestAudit": "اطلب تدقيقًا مجانيًا",
-    "viewAllAddons": "عرض جميع الخدمات الإضافية"
+    "viewAllAddons": "عرض جميع الخدمات الإضافية",
+    "label": "احصل على تدقيق مجاني لموقعك"
   },
   "drawer": {
     "websiteServices": "خدمات المواقع",
     "marketingServices": "خدمات التسويق",
     "addOnServices": "الخدمات الإضافية",
-    "chatWhatsApp": "الدردشة على واتساب",
     "freeAuditBanner": "تدقيق مجاني للموقع · خلال 24 ساعة"
   },
   "chat": {
@@ -49,19 +53,35 @@
     "errorText": "حدث خطأ ما. حاول مرة أخرى أو",
     "contactUs": "تواصل معنا",
     "primary": {
-      "quote": "عرض سعر",
       "audit": "تدقيق",
       "pricing": "الأسعار",
       "contact": "تواصل"
     },
     "quick": {
-      "design":     { "label": "تصميم المواقع",     "prompt": "أخبرني عن خدمة تصميم المواقع." },
-      "management": { "label": "إدارة الموقع",      "prompt": "ما الذي تشمله إدارة الموقع؟" },
-      "seo":        { "label": "خدمات SEO",          "prompt": "كيف يعمل تحسين محركات البحث لديكم للجلدية؟" },
-      "portfolio":  { "label": "المعرض",             "prompt": "هل يمكنني رؤية أعمالكم؟" },
-      "pricing":    { "label": "الأسعار",             "prompt": "ما هي أسعاركم وباقاتكم؟" },
-      "audit":      { "label": "تدقيق مجاني",         "prompt": "كيف أحصل على تدقيق مجاني للموقع؟" },
-      "quote":      { "label": "عرض سعر مجاني",       "prompt": "كيف أحصل على عرض سعر مجاني؟" }
+      "design": {
+        "label": "تصميم المواقع",
+        "prompt": "أخبرني عن خدمة تصميم المواقع."
+      },
+      "management": {
+        "label": "إدارة الموقع",
+        "prompt": "ما الذي تشمله إدارة الموقع؟"
+      },
+      "seo": {
+        "label": "خدمات SEO",
+        "prompt": "كيف يعمل تحسين محركات البحث لديكم للجلدية؟"
+      },
+      "portfolio": {
+        "label": "المعرض",
+        "prompt": "هل يمكنني رؤية أعمالكم؟"
+      },
+      "pricing": {
+        "label": "الأسعار",
+        "prompt": "ما هي أسعاركم وباقاتكم؟"
+      },
+      "audit": {
+        "label": "تدقيق مجاني",
+        "prompt": "كيف أحصل على تدقيق مجاني للموقع؟"
+      }
     }
   },
   "errorPages": {

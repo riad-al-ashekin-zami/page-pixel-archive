@@ -1,6 +1,7 @@
 import { useEffect, useMemo, useRef, useState } from "react";
 import { createFileRoute, notFound } from "@tanstack/react-router";
 import { LocalLink as Link } from "@/components/local-link";
+import { CtaLabel } from "@/lib/cta";
 import { useTranslation } from "react-i18next";
 import { getStaticTranslation } from "@/i18n";
 import {
@@ -116,7 +117,7 @@ const CAT_STATIC_CONFIG = [
   { id: "general", icon: Sparkles, hue: 180, ctas: [{ to: "/our-process" }] },
   { id: "pricing", icon: Rocket, hue: 35, ctas: [{ to: "/plan-packages-and-costs" }] },
   { id: "seo", icon: Search, hue: 205, ctas: [] },
-  { id: "hipaa", icon: ShieldCheck, hue: 155, ctas: [{ to: "/free-dermatologist-website-audit" }] },
+  { id: "hipaa", icon: ShieldCheck, hue: 155, ctas: [{ to: "/contact" }] },
   { id: "design", icon: Sparkles, hue: 315, ctas: [] },
   { id: "support", icon: Lock, hue: 230, ctas: [] },
   { id: "integrations", icon: MousePointerClick, hue: 265, ctas: [] },
@@ -581,7 +582,7 @@ function FaqPage() {
                       to="/contact"
                       className="inline-flex min-h-11 items-center gap-2 rounded-full bg-brand-primary px-5 py-2.5 text-sm font-semibold text-brand-primary-foreground"
                     >
-                      {t("navigation.askUs")} <ArrowRight className="h-4 w-4" />
+                      <CtaLabel /> <ArrowRight className="h-4 w-4" />
                     </Link>
                   </div>
                 </div>
@@ -675,7 +676,7 @@ function FaqPage() {
                                             color: "var(--cat)",
                                           }}
                                         >
-                                          {it.cta.label}
+                                          {it.cta.to === "/contact" ? <CtaLabel /> : it.cta.label}
                                           <ArrowRight className="h-3.5 w-3.5" />
                                         </Link>
                                       )}
@@ -767,14 +768,8 @@ function FaqPage() {
                       "linear-gradient(135deg, var(--brand-primary), color-mix(in oklch, var(--brand-primary), black 18%))",
                   }}
                 >
-                  {t("cta.buttons.contact")}
+                  <CtaLabel />
                   <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-0.5" />
-                </Link>
-                <Link
-                  to="/free-dermatologist-website-audit"
-                  className="inline-flex min-h-11 items-center justify-center gap-2 rounded-full border border-brand-primary/30 bg-background/70 px-7 py-3.5 text-sm font-semibold text-brand-primary backdrop-blur transition-colors hover:bg-brand-primary/5"
-                >
-                  <PhoneCall className="h-4 w-4" /> {t("cta.buttons.audit")}
                 </Link>
               </div>
             </div>
@@ -795,7 +790,7 @@ function FaqPage() {
             {[
               { to: "/dermatology-website-checklists", icon: FileCheck, hue: 180 },
               { to: "/plan-packages-and-costs", icon: Rocket, hue: 35 },
-              { to: "/free-dermatologist-website-audit", icon: Gauge, hue: 205 },
+              { to: "/contact", icon: Gauge, hue: 205 },
               { to: "/our-process", icon: Smartphone, hue: 315 },
             ].map((c, i) => (
               <Link
@@ -831,7 +826,7 @@ function FaqPage() {
 
         <p className="mx-auto mt-16 mb-20 max-w-3xl px-4 text-center text-sm text-muted-foreground sm:mt-20 sm:mb-24 sm:px-6 lg:px-8">
           {t("footerLinks.text")}{" "}
-          <Link to="/free-dermatologist-website-audit" className="font-medium text-foreground underline-offset-4 hover:text-brand-primary hover:underline">{t("footerLinks.auditLink")}</Link>,{" "}
+          <Link to="/contact" className="font-medium text-foreground underline-offset-4 hover:text-brand-primary hover:underline">{t("footerLinks.auditLink")}</Link>,{" "}
           <Link to="/case-studies" className="font-medium text-foreground underline-offset-4 hover:text-brand-primary hover:underline">{t("footerLinks.caseStudiesLink")}</Link>, {t("common.or", { ns: "translation" })}{" "}
           <Link to="/plan-packages-and-costs" className="font-medium text-foreground underline-offset-4 hover:text-brand-primary hover:underline">{t("footerLinks.pricingLink")}</Link>.
         </p>

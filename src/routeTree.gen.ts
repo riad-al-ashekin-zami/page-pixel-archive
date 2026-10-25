@@ -52,6 +52,7 @@ import { Route as Char123LangChar125RefundPolicyRouteImport } from './routes/{-$
 import { Route as Char123LangChar125ServiceAgreementRouteImport } from './routes/{-$lang}.service-agreement'
 import { Route as Char123LangChar125ServicesRouteImport } from './routes/{-$lang}.services'
 import { Route as Char123LangChar125TermsOfServiceRouteImport } from './routes/{-$lang}.terms-of-service'
+import { Route as Char123LangChar125ThankYouRouteImport } from './routes/{-$lang}.thank-you'
 import { Route as AdminLeadsIndexRouteImport } from './routes/admin.leads.index'
 import { Route as AdminLeadsIdRouteImport } from './routes/admin.leads.$id'
 import { Route as ApiPublicSyncKnowledgeRouteImport } from './routes/api/public/sync-knowledge'
@@ -307,6 +308,12 @@ const Char123LangChar125TermsOfServiceRoute =
     path: '/{-$lang}/terms-of-service',
     getParentRoute: () => rootRouteImport,
   } as any)
+const Char123LangChar125ThankYouRoute =
+  Char123LangChar125ThankYouRouteImport.update({
+    id: '/{-$lang}/thank-you',
+    path: '/{-$lang}/thank-you',
+    getParentRoute: () => rootRouteImport,
+  } as any)
 const AdminLeadsIndexRoute = AdminLeadsIndexRouteImport.update({
   id: '/admin/leads/',
   path: '/admin/leads/',
@@ -378,6 +385,7 @@ export interface FileRoutesByFullPath {
   '/{-$lang}/service-agreement': typeof Char123LangChar125ServiceAgreementRoute
   '/{-$lang}/services': typeof Char123LangChar125ServicesRoute
   '/{-$lang}/terms-of-service': typeof Char123LangChar125TermsOfServiceRoute
+  '/{-$lang}/thank-you': typeof Char123LangChar125ThankYouRoute
   '/{-$lang}/': typeof Char123LangChar125IndexRoute
   '/admin/leads/$id': typeof AdminLeadsIdRoute
   '/api/public/sync-knowledge': typeof ApiPublicSyncKnowledgeRoute
@@ -427,6 +435,7 @@ export interface FileRoutesByTo {
   '/{-$lang}/service-agreement': typeof Char123LangChar125ServiceAgreementRoute
   '/{-$lang}/services': typeof Char123LangChar125ServicesRoute
   '/{-$lang}/terms-of-service': typeof Char123LangChar125TermsOfServiceRoute
+  '/{-$lang}/thank-you': typeof Char123LangChar125ThankYouRoute
   '/{-$lang}': typeof Char123LangChar125IndexRoute
   '/admin/leads/$id': typeof AdminLeadsIdRoute
   '/api/public/sync-knowledge': typeof ApiPublicSyncKnowledgeRoute
@@ -478,6 +487,7 @@ export interface FileRoutesById {
   '/{-$lang}/service-agreement': typeof Char123LangChar125ServiceAgreementRoute
   '/{-$lang}/services': typeof Char123LangChar125ServicesRoute
   '/{-$lang}/terms-of-service': typeof Char123LangChar125TermsOfServiceRoute
+  '/{-$lang}/thank-you': typeof Char123LangChar125ThankYouRoute
   '/{-$lang}/': typeof Char123LangChar125IndexRoute
   '/admin/leads/$id': typeof AdminLeadsIdRoute
   '/api/public/sync-knowledge': typeof ApiPublicSyncKnowledgeRoute
@@ -530,6 +540,7 @@ export interface FileRouteTypes {
     | '/{-$lang}/service-agreement'
     | '/{-$lang}/services'
     | '/{-$lang}/terms-of-service'
+    | '/{-$lang}/thank-you'
     | '/{-$lang}/'
     | '/admin/leads/$id'
     | '/api/public/sync-knowledge'
@@ -579,6 +590,7 @@ export interface FileRouteTypes {
     | '/{-$lang}/service-agreement'
     | '/{-$lang}/services'
     | '/{-$lang}/terms-of-service'
+    | '/{-$lang}/thank-you'
     | '/{-$lang}'
     | '/admin/leads/$id'
     | '/api/public/sync-knowledge'
@@ -629,6 +641,7 @@ export interface FileRouteTypes {
     | '/{-$lang}/service-agreement'
     | '/{-$lang}/services'
     | '/{-$lang}/terms-of-service'
+    | '/{-$lang}/thank-you'
     | '/{-$lang}/'
     | '/admin/leads/$id'
     | '/api/public/sync-knowledge'
@@ -680,6 +693,7 @@ export interface RootRouteChildren {
   Char123LangChar125ServiceAgreementRoute: typeof Char123LangChar125ServiceAgreementRoute
   Char123LangChar125ServicesRoute: typeof Char123LangChar125ServicesRoute
   Char123LangChar125TermsOfServiceRoute: typeof Char123LangChar125TermsOfServiceRoute
+  Char123LangChar125ThankYouRoute: typeof Char123LangChar125ThankYouRoute
   Char123LangChar125IndexRoute: typeof Char123LangChar125IndexRoute
   AdminLeadsIdRoute: typeof AdminLeadsIdRoute
   ApiPublicSyncKnowledgeRoute: typeof ApiPublicSyncKnowledgeRoute
@@ -989,6 +1003,13 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof Char123LangChar125TermsOfServiceRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/{-$lang}/thank-you': {
+      id: '/{-$lang}/thank-you'
+      path: '/{-$lang}/thank-you'
+      fullPath: '/{-$lang}/thank-you'
+      preLoaderRoute: typeof Char123LangChar125ThankYouRouteImport
+      parentRoute: typeof rootRouteImport
+    }
     '/admin/leads/': {
       id: '/admin/leads/'
       path: '/admin/leads'
@@ -1110,6 +1131,7 @@ const rootRouteChildren: RootRouteChildren = {
     Char123LangChar125ServiceAgreementRoute,
   Char123LangChar125ServicesRoute: Char123LangChar125ServicesRoute,
   Char123LangChar125TermsOfServiceRoute: Char123LangChar125TermsOfServiceRoute,
+  Char123LangChar125ThankYouRoute: Char123LangChar125ThankYouRoute,
   Char123LangChar125IndexRoute: Char123LangChar125IndexRoute,
   AdminLeadsIdRoute: AdminLeadsIdRoute,
   ApiPublicSyncKnowledgeRoute: ApiPublicSyncKnowledgeRoute,

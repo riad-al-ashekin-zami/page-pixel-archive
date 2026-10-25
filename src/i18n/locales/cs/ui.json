@@ -1,15 +1,19 @@
 {
-  "language": { "select": "Jazyk" },
-  "common": { "or": "nebo" },
+  "language": {
+    "select": "Jazyk"
+  },
+  "common": {
+    "or": "nebo"
+  },
   "topBar": {
-    "whatsappUs": "Napište nám na WhatsApp",
-    "whatsapp": "WhatsApp",
     "freeAudit24hLong": "Bezplatný audit webu do 24 hodin",
     "freeAudit24hShort": "Audit zdarma · 24 h",
     "freeAudit": "Audit zdarma",
     "hipaaAware": "Weby v souladu s HIPAA",
     "hipaaAwareShort": "V souladu s HIPAA",
-    "hipaa": "HIPAA"
+    "hipaa": "HIPAA",
+    "freeAudit48h": "Bezplatný audit webu do 48 hodin",
+    "freeAudit48hShort": "Audit zdarma · 48 h"
   },
   "nav": {
     "home": "Domů",
@@ -26,13 +30,13 @@
   "cta": {
     "getFreeQuote": "Nezávazná nabídka",
     "requestAudit": "Vyžádat audit zdarma",
-    "viewAllAddons": "Zobrazit všechny doplňkové služby"
+    "viewAllAddons": "Zobrazit všechny doplňkové služby",
+    "label": "Získejte bezplatný audit webu"
   },
   "drawer": {
     "websiteServices": "Webové služby",
     "marketingServices": "Marketing",
     "addOnServices": "Doplňkové služby",
-    "chatWhatsApp": "Chatovat na WhatsApp",
     "freeAuditBanner": "Bezplatný audit webu · odpověď do 24 h"
   },
   "chat": {
@@ -49,19 +53,35 @@
     "errorText": "Něco se pokazilo. Zkuste to znovu nebo",
     "contactUs": "nás kontaktujte",
     "primary": {
-      "quote": "Nabídka",
       "audit": "Audit",
       "pricing": "Ceník",
       "contact": "Kontakt"
     },
     "quick": {
-      "design":     { "label": "Návrh webu",         "prompt": "Řekněte mi o službě návrhu webu." },
-      "management": { "label": "Správa webu",        "prompt": "Co zahrnuje správa webu?" },
-      "seo":        { "label": "SEO služby",          "prompt": "Jak funguje vaše SEO pro dermatologii?" },
-      "portfolio":  { "label": "Portfolio",           "prompt": "Můžu vidět vaše portfolio?" },
-      "pricing":    { "label": "Ceník",               "prompt": "Jaké jsou vaše ceny a balíčky?" },
-      "audit":      { "label": "Audit zdarma",        "prompt": "Jak získám bezplatný audit webu?" },
-      "quote":      { "label": "Nabídka zdarma",      "prompt": "Jak získám nezávaznou nabídku?" }
+      "design": {
+        "label": "Návrh webu",
+        "prompt": "Řekněte mi o službě návrhu webu."
+      },
+      "management": {
+        "label": "Správa webu",
+        "prompt": "Co zahrnuje správa webu?"
+      },
+      "seo": {
+        "label": "SEO služby",
+        "prompt": "Jak funguje vaše SEO pro dermatologii?"
+      },
+      "portfolio": {
+        "label": "Portfolio",
+        "prompt": "Můžu vidět vaše portfolio?"
+      },
+      "pricing": {
+        "label": "Ceník",
+        "prompt": "Jaké jsou vaše ceny a balíčky?"
+      },
+      "audit": {
+        "label": "Audit zdarma",
+        "prompt": "Jak získám bezplatný audit webu?"
+      }
     }
   },
   "errorPages": {

@@ -9,6 +9,7 @@ import {
 import { useTranslation } from "react-i18next";
 
 import { LocalLink } from "@/components/local-link";
+import { CtaLabel } from "@/lib/cta";
 import { SiteFooter } from "@/components/site-footer/site-footer";
 import { SiteHeader } from "@/components/site-header/site-header";
 import {
@@ -145,11 +146,11 @@ function ServicesPage() {
               </p>
               <div className="mt-8 flex flex-col gap-3 sm:flex-row">
                 <LocalLink
-                  to="/get-a-free-quote"
+                  to="/contact"
                   className="inline-flex items-center justify-center gap-2 rounded-full px-6 py-3 text-sm font-semibold text-brand-primary-foreground shadow-[0_16px_34px_-16px_color-mix(in_oklch,var(--brand-primary),transparent_35%)] transition-transform hover:-translate-y-0.5"
                   style={{ background: "linear-gradient(135deg, var(--brand-primary), color-mix(in oklch, var(--brand-primary), black 18%))" }}
                 >
-                  {t("hero.ctaQuote")} <ArrowRight className="h-4 w-4" aria-hidden />
+                  <CtaLabel /> <ArrowRight className="h-4 w-4" aria-hidden />
                 </LocalLink>
                 <LocalLink
                   to="/plan-packages-and-costs"
@@ -194,10 +195,10 @@ function ServicesPage() {
               </p>
             </div>
             <LocalLink
-              to="/free-dermatologist-website-audit"
+              to="/contact"
               className="inline-flex shrink-0 items-center gap-2 rounded-full bg-brand-accent px-6 py-3 text-sm font-semibold text-foreground shadow-lg transition-transform hover:-translate-y-0.5"
             >
-              {t("cta.button")} <ArrowUpRight className="h-4 w-4" aria-hidden />
+              <CtaLabel /> <ArrowUpRight className="h-4 w-4" aria-hidden />
             </LocalLink>
           </div>
         </section>

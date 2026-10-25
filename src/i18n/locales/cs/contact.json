@@ -1,193 +1,84 @@
 {
   "meta": {
-    "title": "Kontaktujte nás — Tvorba webových stránek pro dermatology",
-    "description": "Spojte se s naším týmem specialistů na dermatology. E-mail, WhatsApp nebo zpráva — odpovídáme do 24 hodin.",
-    "ogTitle": "Kontaktujte nás — Tvorba webových stránek pro dermatology",
-    "ogDescription": "Máte dotazy k webu vaší ordinace? Ozvěte se nám — odpovíme vám do 24 hodin.",
+    "title": "Kontaktujte nás",
+    "description": "Povězte nám o své praxi a webu. Do 48 hodin vám zašleme bezplatný, personalizovaný audit s příležitostmi pro SEO, rychlost a konverze.",
+    "ogTitle": "Kontaktujte nás",
+    "ogDescription": "Povězte nám o své praxi a webu. Do 48 hodin vám zašleme bezplatný, personalizovaný audit s příležitostmi pro SEO, rychlost a konverze.",
     "breadcrumbHome": "Domů",
     "breadcrumbContact": "Kontakt"
   },
-  "form": {
-    "validation": {
-      "name": "Zadejte prosím své jméno",
-      "email": "Zadejte prosím platnou e-mailovou adresu",
-      "topic": "Vyberte prosím téma",
-      "message": "Napište nám prosím krátkou zprávu (alespoň 10 znaků)"
-    },
-    "subjects": [
-      "Nový web",
-      "Redesign stávajícího webu",
-      "Migrace webu",
-      "SEO / Marketing",
-      "Správa a údržba webu",
-      "Obecný dotaz"
-    ],
-    "errors": {
-      "fixFields": "Opravte prosím zvýrazněná pole.",
-      "cooldown": "Před dalším odesláním počkejte prosím {{seconds}} s.",
-      "global": "Omlouváme se, došlo k chybě. Zkuste to prosím znovu nebo nám napište přímo na e-mail."
+  "auditForm": {
+    "hero": {
+      "tag": "Bezplatný audit",
+      "intro": "Povězte nám o své praxi a svém současném webu. Do 48 hodin vám zašleme bezplatný, personalizovaný audit s příležitostmi pro SEO, rychlost a konverze.",
+      "points": [
+        "Bezplatný, personalizovaný audit",
+        "Doručení do 48 hodin",
+        "Nezávazně"
+      ]
     },
     "labels": {
-      "name": "Vaše jméno",
-      "email": "E-mail",
-      "phone": "Telefon (volitelný)",
-      "website": "URL webu (volitelná)",
-      "practice": "Název ordinace",
-      "subject": "S čím vám můžeme pomoci?",
-      "message": "Vaše zpráva"
+      "name": "Celé jméno",
+      "email": "Pracovní e-mail",
+      "website": "URL současného webu",
+      "practiceType": "Typ praxe",
+      "need": "Co potřebujete?",
+      "message": "Je něco, co bychom měli vědět?",
+      "optional": "(nepovinné)"
     },
     "placeholders": {
-      "name": "MUDr. Jana Nováková",
-      "email": "jana@ordinace.cz",
-      "phone": "+420 777 123 456",
-      "website": "https://vasedermatologie.cz",
-      "practice": "Institut zdravé pleti",
-      "message": "Napište nám něco o vaší ordinaci a o tom, co hledáte..."
+      "name": "Dr. Jane Doe",
+      "email": "jane@practice.com",
+      "website": "vaseklinika.cz",
+      "select": "Vyberte…",
+      "message": "Povězte nám o své praxi a cílech…"
     },
-    "header": "Napište nám zprávu",
-    "disclaimer": "Odesláním souhlasíte s tím, že vás budeme kontaktovat e-mailem. Žádný spam — slibujeme.",
-    "privacy": "Respektujeme vaše soukromí. Vaše údaje jsou u nás v bezpečí.",
-    "submit": "Odeslat zprávu",
-    "submitting": "Odesílám..."
-  },
-  "channels": [
-    {
-      "label": "E-mail",
-      "value": "info@dermatologywebsitedesign.com",
-      "note": "Odpovídáme do 24 hodin",
-      "action": "Napsat nám"
-    },
-    {
-      "label": "WhatsApp",
-      "value": "Chatujte s naším týmem",
-      "note": "Po–Pá · 9:00–18:00 EST",
-      "action": "Napsat nám"
-    },
-    {
-      "label": "Nezávazná nabídka",
-      "value": "Získejte návrh na míru",
-      "note": "Nezávazně · Zpracování do 24 h",
-      "action": "Napsat nám"
-    }
-  ],
-  "hero": {
-    "tag": "Kontaktujte nás",
-    "title": {
-      "part1": "Pojďme společně postavit",
-      "part2": "něco výjimečného."
-    },
-    "description": "Máte otázky ohledně vašeho webu, SEO nebo růstového marketingu? Pošlete nám zprávu — někdo z našeho týmu se vám osobně ozve nejpozději do 24 hodin.",
-    "avgReply": {
-      "label": "Průměrná doba odpovědi:",
-      "time": "3 h 12 min"
-    },
-    "features": [
-      "Odpověď do 24 hodin",
-      "Zcela nezávazně",
-      "Navždy bez spamu"
+    "practiceTypes": [
+      "Samostatná praxe",
+      "Praxe s více pobočkami",
+      "Estetická / kosmetická klinika",
+      "Dětská dermatologie",
+      "Mohs / Chirurgická",
+      "Dermatologická skupina",
+      "Jiné"
     ],
-    "socialProof": {
-      "rating": "4.9/5",
-      "trustedBy": "Naše služby využívá",
-      "practices": "50+ dermatologických ordinací",
-      "worldwide": "po celém světě",
-      "avatars": [
-        "MUDr. Sára R.",
-        "MUDr. Michal K.",
-        "MUDr. Amanda L.",
-        "MUDr. Jakub T.",
-        "MUDr. Rachel N."
-      ]
-    }
-  },
-  "sidebar": {
-    "officeHours": {
-      "title": "Provozní doba",
-      "mondayToFriday": "Pondělí – Pátek",
-      "mondayToFridayTime": "9:00 – 18:00 EST",
-      "saturday": "Sobota",
-      "saturdayTime": "Dle domluvy",
-      "sunday": "Neděle",
-      "sundayTime": "Zavřeno"
-    },
-    "servingPractices": {
-      "title": "Pro koho pracujeme",
-      "subtitle": "Po celém světě — plně remote tým",
-      "description": "Spolupracujeme se soukromými dermatology, sítěmi klinik, estetickými centry i specializovanými pracovišti pro dětskou dermatologii a Mohsovu chirurgii."
-    },
-    "testimonial": {
-      "quote": "„Jejich tým reaguje neuvěřitelně rychle. Je to jako mít vlastního vývojáře přímo v ordinaci — ale bez vysokých nákladů.“",
-      "author": "Dr. Nadia Fischer",
-      "role": "Majitelka dermatologické praxe",
-      "trustedBy": "Důvěřuje nám 50+ dermatologických klinik"
-    },
-    "audit": {
-      "title": "Ještě nejste připraveni mluvit?",
-      "description": "Získejte bezplatný audit webu — rychlé zhodnocení jeho stavu a výpis 3 hlavních problémů, které vás brzdí.",
-      "link": "Chci audit zdarma"
-    }
-  },
-  "faq": {
-    "tag": "Časté dotazy",
-    "title": "Odpovědi na to, co vás zajímá",
-    "items": [
-      {
-        "q": "Jaká je vaše běžná doba odpovědi?",
-        "a": "U standardních dotazů odpovídáme v pracovní dny do 24 hodin. U urgentních záležitostí u běžících projektů (např. výpadek webu) se snažíme odpovědět do 1 hodiny."
-      },
-      {
-        "q": "Pracujete i s klinikami mimo USA?",
-        "a": "Ano — spolupracujeme s dermatologickými praxemi po celém světě. Náš tým funguje plně online a projekty řešíme napříč časovými pásmy."
-      },
-      {
-        "q": "Nabízíte white-label služby pro agentury?",
-        "a": "Ano. Partnerům z řad designových a marketingových agentur pomáháme stavět a spravovat weby pro dermatology pod jejich vlastní značkou. Ve formuláři výše zvolte „Obecný dotaz“ a uveďte white-label."
-      },
-      {
-        "q": "Kolik stojí nový web pro dermatologii?",
-        "a": "Projekty obvykle začínají na 2 500 $ a cena se odvíjí od rozsahu, integrací a množství obsahu. Napište nám a my vám do 24 hodin pošleme kalkulaci na míru."
-      }
-    ]
-  },
-  "cta": {
-    "tag": "Jste připraveni růst?",
-    "title": "Pojďme se spojit.",
-    "description": "Webové stránky by měly sloužit vaší praxi — ne naopak. Rádi vám pomůžeme. Proberme společně potřeby vaší kliniky.",
-    "auditButton": "Získat audit webu zdarma",
-    "quoteButton": "Získat cenovou nabídku"
-  },
-  "success": {
-    "title": "Zpráva přijata!",
-    "description": "Děkujeme, že jste se nám ozvali — nejpozději do 24 hodin vám odpovíme na {{email}}.",
-    "backToHome": "Zpět na úvod"
-  },
-  "mockup": {
-    "inbox": "Doručená pošta · Nové",
-    "messages": [
-      {
-        "name": "MUDr. Alex T.",
-        "message": "Návrh redesignu"
-      },
-      {
-        "name": "Skin & Co.",
-        "message": "Žádost o SEO audit"
-      },
-      {
-        "name": "RS Institute",
-        "message": "Termín migrace?"
-      }
+    "needs": [
+      "Nový web",
+      "Redesign webu",
+      "Migrace webu",
+      "SEO",
+      "Google Ads / PPC",
+      "Sociální sítě",
+      "Ještě nevím"
     ],
-    "activeHeader": {
-      "initials": "DWS",
-      "name": "DW Design",
-      "status": "Právě online"
+    "validation": {
+      "name": "Zadejte své celé jméno",
+      "email": "Zadejte platný pracovní e-mail",
+      "website": "Zadejte URL svého webu",
+      "practiceType": "Vyberte typ své praxe",
+      "need": "Vyberte, co potřebujete",
+      "message": "Maximálně 1000 znaků",
+      "consent": "Souhlaste s kontaktováním"
     },
-    "chat": [
-      "Dobrý den! Jak můžeme vaší ordinaci dnes pomoci?",
-      "Potřebuji nové webové stránky pro naši dermatologii."
-    ],
-    "typing": "píše...",
-    "placeholder": "Napište zprávu...",
-    "replyStatus": "Odpověď odeslána · před 2 min"
+    "errors": {
+      "fixFields": "Opravte zvýrazněná pole.",
+      "cooldown": "Před opětovným odesláním počkejte {{seconds}} s.",
+      "global": "Něco se pokazilo. Zkuste to znovu nebo nám napište přímo."
+    },
+    "hipaaNotice": "Do tohoto formuláře neuvádějte informace o pacientech ani chráněné zdravotní údaje (PHI).",
+    "consent": {
+      "label": "Souhlasím s tím, aby mě kontaktovali ohledně mé žádosti o audit.",
+      "privacyLink": "Zásady ochrany osobních údajů"
+    },
+    "submitting": "Odesílání…",
+    "emailFallback": "Dáváte přednost e-mailu? Napište nám na"
+  },
+  "thankYou": {
+    "metaTitle": "Děkujeme",
+    "metaDescription": "Obdrželi jsme vaši žádost o audit. Váš bezplatný audit webu dorazí do 48 hodin.",
+    "title": "Děkujeme — vaši žádost jsme přijali",
+    "description": "Obdrželi jsme vaši žádost o audit a poslali potvrzení na váš e-mail.",
+    "turnaround": "Váš audit zašleme do 48 hodin",
+    "backHome": "Zpět na úvodní stránku"
   }
 }

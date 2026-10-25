@@ -1,5 +1,6 @@
 import { createFileRoute, notFound } from "@tanstack/react-router";
 import { LocalLink as Link } from "@/components/local-link";
+import { CtaLabel } from "@/lib/cta";
 import { localizedUrl, resolveRouteLanguage, buildHreflangLinks } from "@/lib/i18n-routing";
 import { useEffect, useRef, useState } from "react";
 import { useInView, useReducedMotion } from "framer-motion";
@@ -432,8 +433,8 @@ function EmailMarketingPage() {
 
               <Reveal delay={0.15}>
                 <div className="mt-8 flex flex-col gap-3 sm:flex-row sm:items-center">
-                  <Link to="/free-dermatologist-website-audit" className={`${ctaBtn} bg-brand-primary text-brand-primary-foreground shadow-lg shadow-brand-primary/25 hover:-translate-y-0.5`}>
-                    {t("hero.cta.audit")} <ArrowRight className="h-4 w-4" />
+                  <Link to="/contact" className={`${ctaBtn} bg-brand-primary text-brand-primary-foreground shadow-lg shadow-brand-primary/25 hover:-translate-y-0.5`}>
+                    <CtaLabel /> <ArrowRight className="h-4 w-4" />
                   </Link>
                   <a href="#flows" className={`${ctaBtn} border border-border/70 bg-background/70 text-foreground backdrop-blur hover:border-brand-primary/40 hover:text-brand-primary`}>
                     {t("hero.cta.flows")}
@@ -773,8 +774,7 @@ function EmailMarketingPage() {
                 <h2 id="cta-h" className="text-3xl font-bold tracking-tight text-brand-primary-foreground sm:text-4xl lg:text-5xl">{t("cta.heading")}</h2>
                 <p className="mt-5 max-w-xl text-base leading-relaxed text-brand-primary-foreground/90 sm:text-lg">{t("cta.description")}</p>
                 <div className="mt-8 flex flex-col gap-3 sm:flex-row">
-                  <Link to="/free-dermatologist-website-audit" className={`${ctaBtn} bg-background text-brand-primary shadow-lg hover:-translate-y-0.5`}>{t("cta.auditBtn")} <ArrowRight className="h-4 w-4" /></Link>
-                  <Link to="/contact" className={`${ctaBtn} border border-brand-primary-foreground/30 text-brand-primary-foreground hover:bg-brand-primary-foreground/10`}>{t("cta.contactBtn")}</Link>
+                  <Link to="/contact" className={`${ctaBtn} bg-background text-brand-primary shadow-lg hover:-translate-y-0.5`}><CtaLabel /> <ArrowRight className="h-4 w-4" /></Link>
                 </div>
               </div>
             </div>
@@ -782,8 +782,6 @@ function EmailMarketingPage() {
         </section>
 
         <div className="fixed inset-x-0 bottom-3 z-40 mx-auto flex w-[min(94%,420px)] items-center gap-2 rounded-full border border-border/70 bg-card/90 p-2 shadow-xl backdrop-blur-md lg:hidden">
-          <Link to="/free-dermatologist-website-audit" className="flex flex-1 items-center justify-center gap-1.5 rounded-full bg-brand-primary px-4 py-2.5 text-xs font-bold text-brand-primary-foreground">{t("cta.sticky.audit")}<ArrowRight className="h-3.5 w-3.5" /></Link>
-          <Link to="/contact" aria-label={t("cta.sticky.ariaPhone")} className="grid h-10 w-10 shrink-0 place-items-center rounded-full border border-brand-primary/30 text-brand-primary"><PhoneCall className="h-4 w-4" /></Link>
         </div>
       </main>
       <p className="mx-auto mt-16 mb-20 max-w-3xl px-4 text-center text-sm text-muted-foreground sm:mt-20 sm:mb-24 sm:px-6 lg:px-8">

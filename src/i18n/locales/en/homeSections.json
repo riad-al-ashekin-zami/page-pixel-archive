@@ -9,7 +9,6 @@
     "mostPopular": "Most Popular",
     "footerLead": "Not sure where to start?",
     "footerHighlight": "We'll build a custom plan for your practice.",
-    "footerCta": "Get a Free Quote",
     "items": {
       "customWebsite": {
         "title": "Custom Website Design for Skin Clinics",
@@ -285,7 +284,6 @@
       "websiteLabel": "Current website URL",
       "websiteOptional": "(optional)",
       "websitePlaceholder": "yourpractice.com",
-      "submit": "Get My Free Audit",
       "sending": "Sending…",
       "privacy": "We'll never share your email. No spam, ever.",
       "errorInvalidEmail": "Please enter a valid work email",
@@ -293,6 +291,10 @@
       "errorGeneric": "Sorry, something went wrong. Please try again.",
       "successTitle": "Request received.",
       "successMessage": "Your personalized audit is on the way. We'll email your action plan within 48 hours."
+    },
+    "ctaCard": {
+      "title": "Ready for your free audit?",
+      "description": "Answer a few quick questions on our contact page and we'll send your personalized audit within 48 hours."
     }
   },
   "faqSnippet": {

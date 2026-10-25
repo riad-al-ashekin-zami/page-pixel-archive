@@ -144,8 +144,7 @@
       "items": [
         {
           "q": "Are your websites HIPAA compliant?",
-          "a": "We build HIPAA-aware sites: forms transmit over TLS to a HIPAA-eligible endpoint, no PHI is captured in analytics or marketing pixels, BAAs are signed with hosting and form providers, and staff workflows keep PHI out of email. Compliance is a program, not a checkbox — we set the site up correctly and document it for you.",
-          "cta": "Get a free audit"
+          "a": "We build HIPAA-aware sites: forms transmit over TLS to a HIPAA-eligible endpoint, no PHI is captured in analytics or marketing pixels, BAAs are signed with hosting and form providers, and staff workflows keep PHI out of email. Compliance is a program, not a checkbox — we set the site up correctly and document it for you."
         },
         {
           "q": "Do you sign a BAA?",
