@@ -27,7 +27,7 @@
     "insights": {
       "audit": {
         "title": "Free Website Audit",
-        "description": "Actionable recommendations within 24 hours."
+        "description": "Actionable recommendations within 48 hours."
       }
     }
   },
@@ -67,6 +67,6 @@
     "caseStudies": { "label": "Case Studies", "description": "Real results from real practices." },
     "blog": { "label": "Blog", "description": "Insights for growing practices." },
     "faq": { "label": "FAQ", "description": "Answers to common questions." },
-    "audit": { "label": "Free Website Audit", "description": "Personalized recs in 24 hours." }
+    "audit": { "label": "Free Website Audit", "description": "Personalized recs in 48 hours." }
   }
 }

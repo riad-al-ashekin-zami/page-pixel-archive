@@ -3,7 +3,7 @@ import { AnimatePresence, motion, useMotionValueEvent, useReducedMotion, useScro
 import { createFileRoute, notFound } from "@tanstack/react-router";
 import { LocalLink as Link } from "@/components/local-link";
 import { useTranslation, Trans } from "react-i18next";
-import { buildHreflangLinks, localizedUrl, resolveRouteLanguage, useCurrentLang } from "@/lib/i18n-routing";
+import { buildHreflangLinks, localizedUrl, resolveRouteLanguage, useCurrentLang, SITE_ORIGIN } from "@/lib/i18n-routing";
 import { formatLocalizedNumber } from "@/lib/locale-format";
 import { getStaticTranslation } from "@/i18n";
 import { SiteHeader } from "@/components/site-header/site-header";
@@ -65,22 +65,24 @@ export const Route = createFileRoute("/{-$lang}/about")({
     const canonical = localizedUrl(lang, "/about");
     return {
       meta: [
-        { title: st?.meta?.title ?? "About Us — Dermatology Website Design Agency" },
+        { title: st?.meta?.title ?? "About Us" },
         {
           name: "description",
-          content: st?.meta?.description ?? "We build HIPAA-aware websites and growth marketing exclusively for dermatology practices. Meet the team behind the results.",
+          content: st?.meta?.description ?? "Meet the senior team that builds HIPAA-aware websites, SEO and patient acquisition for skin clinics. See how we work and what we stand for.",
         },
-        { property: "og:title", content: st?.meta?.ogTitle ?? "About Us — Dermatology Website Design" },
+        { property: "og:title", content: st?.meta?.ogTitle ?? "About Us" },
         {
           property: "og:description",
-          content: st?.meta?.ogDescription ?? "A niche agency serving dermatology practices with premium websites, SEO, and patient acquisition.",
+          content: st?.meta?.ogDescription ?? "Meet the senior team that builds HIPAA-aware websites, SEO and patient acquisition for skin clinics. See how we work and what we stand for.",
         },
         { property: "og:type", content: "website" },
         { property: "og:url", content: canonical },
         { property: "og:locale", content: lang },
         { name: "twitter:card", content: "summary_large_image" },
-        { property: "og:image", content: aboutHero },
-        { name: "twitter:image", content: aboutHero },
+        { name: "twitter:title", content: st?.meta?.ogTitle ?? "About Us" },
+        { name: "twitter:description", content: st?.meta?.ogDescription ?? "Meet the senior team that builds HIPAA-aware websites, SEO and patient acquisition for skin clinics. See how we work and what we stand for." },
+        { property: "og:image", content: aboutHero.startsWith("http") ? aboutHero : `${SITE_ORIGIN}${aboutHero}` },
+        { name: "twitter:image", content: aboutHero.startsWith("http") ? aboutHero : `${SITE_ORIGIN}${aboutHero}` },
       ],
       links: [
         { rel: "canonical", href: canonical },
@@ -463,7 +465,7 @@ function AboutPage() {
     { value: "50+", label: t("stats.launched") },
     { value: "100%", label: t("stats.niche") },
     { value: "95+", label: t("stats.performance") },
-    { value: "24h", label: t("stats.audit") },
+    { value: "48h", label: t("stats.audit") },
   ];
 
   return (
@@ -508,6 +510,7 @@ function AboutPage() {
                 <Building2 className="h-3.5 w-3.5" />
                 {t("hero.kicker")}
               </div>
+              {/* TODO(owner): verify the "4.9/5 client rating" and "Featured in" logos shown on this page. */}
               <h1 className="mt-6 text-balance text-4xl font-bold leading-[1.05] tracking-tight text-foreground sm:text-5xl lg:text-5xl xl:text-6xl">
                 <Trans i18nKey="hero.h1" ns="about">
                   <Trans t={t} i18nKey="hero.h1" components={{ 1: <span className="text-brand-primary" /> }} />

@@ -1,16 +1,16 @@
 {
   "meta": {
-    "title": "About Us — Dermatology Website Design Agency",
-    "description": "We build HIPAA-aware websites and growth marketing exclusively for dermatology practices. Meet the team behind the results.",
-    "ogTitle": "About Us — Dermatology Website Design",
-    "ogDescription": "A niche agency serving dermatology practices with premium websites, SEO, and patient acquisition.",
+    "title": "About Us",
+    "description": "Meet the senior team that builds HIPAA-aware websites, SEO and patient acquisition for skin clinics. See how we work and what we stand for.",
+    "ogTitle": "About Us",
+    "ogDescription": "Meet the senior team that builds HIPAA-aware websites, SEO and patient acquisition for skin clinics. See how we work and what we stand for.",
     "breadcrumbHome": "Home",
     "breadcrumbAbout": "About Us"
   },
   "hero": {
-    "kicker": "About Dermatology Website Design",
-    "h1": "The specialists behind <1>dermatology-only websites.</1>",
-    "p": "We build Experience, Expertise, Authority, and Trust (E-E-A-T) into every dermatology site — Google's core signal for healthcare (YMYL) niches. Not a generalist agency. The specialist.",
+    "kicker": "About Us",
+    "h1": "The Team Behind Your <1>Practice's Growth</1>",
+    "p": "We build Experience, Expertise, Authority, and Trust (E-E-A-T) into every skin clinic site, Google's core signal for healthcare (YMYL) niches. Not a generalist agency. The specialist.",
     "ctaPrimary": "Work with us",
     "ctaSecondary": "See services",
     "hipaa": "HIPAA-aware",
@@ -239,12 +239,12 @@
     "kicker": "FAQ",
     "header": "Common questions, <1>answered.</1>",
     "q1": {
-      "q": "Is my dermatology website HIPAA-compliant out of the box?",
+      "q": "Is my new site HIPAA-compliant out of the box?",
       "a": "Yes. Forms, hosting and data flows are designed with PHI safety in mind, and a Business Associate Agreement (BAA) is available on request. We also configure analytics to keep protected data out of third-party tools."
     },
     "q2": {
       "q": "How long does a typical build take?",
-      "a": "Most single-practice sites launch in 6–10 weeks from kickoff. Multi-location or migration-heavy projects usually run 10–14 weeks. You'll get a written timeline with milestones before we start."
+      "a": "Most single-practice sites launch in 4 to 6 weeks from kickoff. Multi-location or migration-heavy projects take longer. You'll get a written timeline with milestones before we start."
     },
     "q3": {
       "q": "Who owns the website and content after launch?",
@@ -256,7 +256,7 @@
     },
     "q5": {
       "q": "What does pricing look like?",
-      "a": "Fixed-scope projects start in the low five figures depending on page count and integrations. Ongoing care plans start at a low monthly retainer. You can see current bands on our Pricing page."
+      "a": "Packages start at $797 and are fully listed on our Pricing page."
     },
     "q6": {
       "q": "Do you provide maintenance after launch?",
@@ -269,7 +269,7 @@
   },
   "cta": {
     "kicker": "Free Website Audit",
-    "header": "Ready to grow your <1>dermatology practice?</1>",
+    "header": "Ready to grow your <1>practice online?</1>",
     "p": "A senior team, a clear plan, and a website built to bring in real patients — starting with a free 48-hour audit of your current site.",
     "primary": "Request Free Audit",
     "secondary": "Talk to us",
@@ -283,7 +283,7 @@
       "body": "A written plan with priorities, timeline and pricing — delivered to your inbox."
     },
     "step3": {
-      "title": "Launch in 6–10 weeks",
+      "title": "Launch in 4 to 6 weeks",
       "body": "Design, build, HIPAA-aware QA, and a smooth migration."
     },
     "footer": {

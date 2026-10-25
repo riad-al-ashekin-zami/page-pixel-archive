@@ -114,7 +114,7 @@ const socials = [
 
 
 
-export function SiteFooter() {
+export function SiteFooter({ hideCta = false }: { hideCta?: boolean } = {}) {
   const { t, i18n } = useTranslation("footer");
   const isRtl = i18n.resolvedLanguage === "ar" || i18n.language?.startsWith("ar");
   return (
@@ -143,7 +143,8 @@ export function SiteFooter() {
         }}
       />
 
-      {/* Hero CTA band */}
+      {/* Hero CTA band (hidden on legal pages) */}
+      {!hideCta && (
       <div className="mx-auto max-w-7xl px-4 pt-10 sm:px-6 sm:pt-12 md:px-8 md:pt-14">
         <div
           className="relative overflow-hidden rounded-2xl border border-white/10 px-5 py-6 sm:px-8 sm:py-7 md:px-10 md:py-8"
@@ -203,8 +204,7 @@ export function SiteFooter() {
                 >
                   {t("cta.headingLead")}{" "}
                   <span className="text-[#5cbdb9]">{t("cta.headingHighlight")}</span>
-                  <span className="lg:hidden">{t("cta.headingTailShort")}</span>
-                  <span className="hidden lg:inline">{t("cta.headingTailLong")}</span>
+                  {t("cta.headingTailLong")}
                 </h2>
                 <p className="mt-2 max-w-2xl text-sm text-slate-300/90">
                   <span className="lg:hidden">{t("cta.descriptionShort")}</span>
@@ -254,6 +254,7 @@ export function SiteFooter() {
           </div>
         </div>
       </div>
+      )}
 
       {/* Main grid */}
       <div className="mx-auto max-w-7xl px-4 pb-10 pt-10 sm:px-6 sm:pt-12 md:px-8">

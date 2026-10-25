@@ -1,8 +1,7 @@
 {
   "meta": {
-    "title": "Dermatology Websites Portfolio — Real Practice Redesigns",
-    "description": "A curated portfolio of dermatology websites we've designed and built — cosmetic, medical, pediatric, and multi-location practices with measurable growth in bookings, SEO, and speed.",
-    "keywords": "dermatology website portfolio, dermatology web design examples, dermatology website case studies, dermatology practice websites",
+    "title": "Our Work & Case Studies",
+    "description": "Browse our work, client results and case studies across cosmetic, medical and multi-location skin practices.",
     "breadcrumb": {
       "home": "Home",
       "portfolio": "Portfolio"
@@ -12,9 +11,9 @@
     "skipToContent": "Skip to content"
   },
   "hero": {
-    "badge": "Portfolio · 50+ dermatology practices",
-    "heading": "Real dermatology websites. Real growth.",
-    "subheading": "Every project below is a live practice — cosmetic, medical, pediatric, and multi-location groups. Custom design, HIPAA-aware builds, and SEO that moves bookings, not just rankings.",
+    "badge": "Our work · Case studies",
+    "heading": "Real Practices. Real Results.",
+    "subheading": "A sample case study from our work, followed by an inspiration gallery of skin practice sites we benchmark. Custom design, HIPAA-aware builds, and SEO that moves bookings, not just rankings.",
     "cta": {
       "start": "Start a project",
       "audit": "Free website audit"
@@ -36,25 +35,25 @@
   },
   "previews": {
     "backCard": {
-      "imageAlt": "CS Dermatology — medical practice website preview",
+      "imageAlt": "CS Dermatology site preview",
       "tags": {
         "hipaa": "HIPAA-aware",
         "performance": "99 · perf"
       }
     },
     "frontCard": {
-      "imageAlt": "Aventura Skin Studio — cosmetic dermatology website preview",
-      "category": "Cosmetic derm · Miami",
+      "imageAlt": "Aventura Skin Studio site preview (sample case study)",
+      "category": "Sample case study · Cosmetic derm · Miami",
       "practiceName": "Aventura Skin Studio",
       "result": "+214% consult requests · 90 days"
     }
   },
   "ctaSection": {
     "badge": "Ready when you are",
-    "heading": "Your practice deserves a website that books patients on its own.",
-    "description": "See what a dermatology-specialist build looks like for your practice. Free audit, fixed proposal, zero pressure — you get real numbers within 24 hours.",
+    "heading": "Your practice deserves a site that books patients on its own.",
+    "description": "See what a specialist build looks like for your practice. Free audit, fixed proposal, zero pressure. You get real numbers within 48 hours.",
     "features": [
-      "Free 24-hour website audit",
+      "Free 48-hour website audit",
       "Fixed-price proposal",
       "HIPAA-aware, WCAG AA",
       "Own everything — code, domain, data"
@@ -75,9 +74,9 @@
     }
   },
   "gallery": {
-    "eyebrow": "Live in the wild",
-    "heading": "Dermatology websites we study, benchmark & rebuild.",
-    "subheading": "A hand-picked gallery of dermatology, aesthetics and skincare brands from the US, MENA, UK and beyond — the exact category we design for, every day."
+    "eyebrow": "Industry inspiration",
+    "heading": "Industry Inspiration: Sites We Benchmark",
+    "subheading": "These sites are not our clients' work. We study them to understand what great looks like in the skin-health space."
   },
   "sites": {
     "centralaustinderm.com": {

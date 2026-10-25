@@ -1,10 +1,9 @@
 import { createFileRoute, notFound } from "@tanstack/react-router";
 import { LocalLink as Link } from "@/components/local-link";
-import { buildHreflangLinks } from "@/lib/i18n-routing";
+import { buildHreflangLinks, localizedUrl, resolveRouteLanguage } from "@/lib/i18n-routing";
 import { FileText, ShieldCheck, Scale, Mail, ArrowRight } from "lucide-react";
 import { SiteHeader } from "@/components/site-header/site-header";
 import { SiteFooter } from "@/components/site-footer/site-footer";
-import { FaqSnippetSection } from "@/components/sections/faq-snippet-section";
 import { isValidUrlLang } from "@/i18n/languages";
 import { useTranslation } from "react-i18next";
 import { getStaticTranslation } from "@/i18n";
@@ -27,16 +26,16 @@ export const Route = createFileRoute("/{-$lang}/service-agreement")({
       meta: [
         { title: st?.meta?.title ?? "Service Agreement — Terms of Engagement" },
         { name: "description", content: st?.meta?.description ?? "" },
-        { name: "robots", content: "index,follow" },
+        { name: "robots", content: "noindex,follow" },
         { property: "og:title", content: st?.meta?.title ?? "" },
         { property: "og:description", content: st?.meta?.description ?? "" },
         { property: "og:type", content: "article" },
-        { property: "og:url", content: PAGE_PATH },
+        { property: "og:url", content: localizedUrl(resolveRouteLanguage(lang), PAGE_PATH) },
         { name: "twitter:card", content: "summary" },
         { name: "twitter:title", content: st?.meta?.title ?? "" },
         { name: "twitter:description", content: st?.meta?.description ?? "" },
       ],
-      links: [{ rel: "canonical", href: PAGE_PATH }, ...buildHreflangLinks(PAGE_PATH)],
+      links: [{ rel: "canonical", href: localizedUrl(resolveRouteLanguage(lang), PAGE_PATH) }, ...buildHreflangLinks(PAGE_PATH)],
     };
   },
   component: ServiceAgreementPage,
@@ -280,8 +279,7 @@ function ServiceAgreementPage() {
         </section>
       </main>
 
-      <FaqSnippetSection />
-      <SiteFooter />
+      <SiteFooter hideCta />
     </div>
   );
 }

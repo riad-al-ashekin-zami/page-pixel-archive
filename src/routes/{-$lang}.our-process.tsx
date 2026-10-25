@@ -194,14 +194,14 @@ const comparison = [
   { row: "Lighthouse 95+ guarantee",              us: true,  agency: false,       freelance: false },
   { row: "Named account manager (post-launch)",   us: true,  agency: "Enterprise only", freelance: false },
   { row: "Slack access to the actual team",       us: true,  agency: "Email only", freelance: "Sometimes" },
-  { row: "Turnaround from kickoff → launch",      us: "6–10 weeks", agency: "3–6 months", freelance: "Unpredictable" },
+  { row: "Turnaround from kickoff → launch",      us: "4 to 6 weeks", agency: "3–6 months", freelance: "Unpredictable" },
 ];
 
 // ============================================================
 // FAQ
 // ============================================================
 const FAQS = [
-  { q: "How long does the full process take?",                 a: "Most dermatology sites launch 6–10 weeks from kickoff. Starter (1-page) sites launch in 1 week. Enterprise multi-site builds take 10–14 weeks. You get a written schedule with weekly milestones at kickoff — no vague timelines." },
+  { q: "How long does the full process take?",                 a: "Most dermatology sites launch 4 to 6 weeks from kickoff. Starter (1-page) sites launch in 1 week. Enterprise multi-site builds take 10–14 weeks. You get a written schedule with weekly milestones at kickoff — no vague timelines." },
   { q: "What do you need from us during the build?",           a: "Roughly 3–5 hours per week: a 60-min kickoff call, weekly 30-min check-ins, doctor interviews for content (30 min each), and approvals via Figma / Slack within 48 hours. We do the heavy lifting — you approve, we ship." },
   { q: "Can we start with just design and add development later?", a: "Yes. We offer standalone discovery + design engagements ($3,900) that produce a Figma prototype and design system you own. You can implement it yourself, hire another dev shop, or return to us later for build — no lock-in either way." },
   { q: "What if we need changes after launch?",                a: "Every package includes 30 days of post-launch fixes free of charge. After that, ongoing edits are covered by a monthly bundle (Essential, Growth, Marketing, or Full-Stack) or billed à la carte. You'll always see the invoice before we do the work." },

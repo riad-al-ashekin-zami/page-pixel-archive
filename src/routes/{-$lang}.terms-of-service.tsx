@@ -1,10 +1,9 @@
 import { createFileRoute, notFound } from "@tanstack/react-router";
 import { LocalLink as Link } from "@/components/local-link";
-import { buildHreflangLinks } from "@/lib/i18n-routing";
+import { buildHreflangLinks, localizedUrl, resolveRouteLanguage } from "@/lib/i18n-routing";
 import { FileText, Scale, Mail, ArrowRight, Gavel } from "lucide-react";
 import { SiteHeader } from "@/components/site-header/site-header";
 import { SiteFooter } from "@/components/site-footer/site-footer";
-import { FaqSnippetSection } from "@/components/sections/faq-snippet-section";
 import { isValidUrlLang } from "@/i18n/languages";
 import { useTranslation, Trans } from "react-i18next";
 import { getStaticTranslation } from "@/i18n";
@@ -26,18 +25,18 @@ export const Route = createFileRoute("/{-$lang}/terms-of-service")({
     const st = getStaticTranslation(lang, "termsOfService");
     return {
       meta: [
-        { title: st?.meta?.title ?? "Terms of Service — Website Use & Engagement" },
+        { title: st?.meta?.title ?? "Terms of Service" },
         { name: "description", content: st?.meta?.description ?? "The terms that govern your use of our website, communications, and any services you engage from our studio." },
-        { name: "robots", content: "index,follow" },
-        { property: "og:title", content: st?.meta?.og_title ?? "Terms of Service — Website Use & Engagement" },
+        { name: "robots", content: "noindex,follow" },
+        { property: "og:title", content: st?.meta?.og_title ?? "Terms of Service" },
         { property: "og:description", content: st?.meta?.og_description ?? "The terms that govern your use of our website, communications, and any services you engage from our studio." },
         { property: "og:type", content: "article" },
-        { property: "og:url", content: PAGE_PATH },
+        { property: "og:url", content: localizedUrl(resolveRouteLanguage(lang), PAGE_PATH) },
         { name: "twitter:card", content: "summary" },
-        { name: "twitter:title", content: st?.meta?.twitter_title ?? "Terms of Service — Website Use & Engagement" },
+        { name: "twitter:title", content: st?.meta?.twitter_title ?? "Terms of Service" },
         { name: "twitter:description", content: st?.meta?.twitter_description ?? "The terms that govern your use of our website, communications, and any services you engage from our studio." },
       ],
-      links: [{ rel: "canonical", href: PAGE_PATH }, ...buildHreflangLinks(PAGE_PATH)],
+      links: [{ rel: "canonical", href: localizedUrl(resolveRouteLanguage(lang), PAGE_PATH) }, ...buildHreflangLinks(PAGE_PATH)],
     };
   },
   component: TermsOfServicePage,
@@ -258,8 +257,7 @@ function TermsOfServicePage() {
         </section>
       </main>
 
-      <FaqSnippetSection />
-      <SiteFooter />
+      <SiteFooter hideCta />
     </div>
   );
 }

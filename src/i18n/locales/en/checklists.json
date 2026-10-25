@@ -244,7 +244,7 @@
   "cta": {
     "badge": "Done-for-you",
     "title": "Prefer we run the checklist for you?",
-    "description": "Get a personalized dermatology website audit — every checkpoint above, graded on your live site, with prioritized fixes delivered in 24 hours.",
+    "description": "Get a personalized dermatology website audit — every checkpoint above, graded on your live site, with prioritized fixes delivered in 48 hours.",
     "links": {
       "audit": "Request free audit",
       "contact": "Contact Us"
@@ -272,7 +272,7 @@
       },
       {
         "q": "Do you offer a done-for-you audit?",
-        "a": "Yes. Request a free dermatology website audit and we'll deliver a personalized 24-hour report against every checkpoint here."
+        "a": "Yes. Request a free dermatology website audit and we'll deliver a personalized 48-hour report against every checkpoint here."
       }
     ]
   },
