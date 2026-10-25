@@ -8,5 +8,7 @@ Formspree accepted the test; inbox delivery and visitor auto-replies are control
 
 ## Netlify deployment
 
-- [ ] Configure Netlify's server target and correct publish directory for GitHub deployments.
-- [ ] Verify configuration and document external-hosting limitations.
+- [x] Configure Netlify's server target and correct publish directory for GitHub deployments.
+- [x] Verify configuration and document external-hosting limitations.
+
+Configuration validated against the installed Nitro preset; a live Netlify deployment is not verified. Cloud credentials do not transfer through GitHub, so the existing submission flow needs a supported external backend or hosted endpoint before production use on Netlify.
