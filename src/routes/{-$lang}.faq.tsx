@@ -116,7 +116,7 @@ const CAT_STATIC_CONFIG = [
   { id: "general", icon: Sparkles, hue: 180, ctas: [{ to: "/our-process" }] },
   { id: "pricing", icon: Rocket, hue: 35, ctas: [{ to: "/plan-packages-and-costs" }] },
   { id: "seo", icon: Search, hue: 205, ctas: [] },
-  { id: "hipaa", icon: ShieldCheck, hue: 155, ctas: [{ to: "/free-dermatologist-website-audit" }] },
+  { id: "hipaa", icon: ShieldCheck, hue: 155, ctas: [{ to: "/contact" }] },
   { id: "design", icon: Sparkles, hue: 315, ctas: [] },
   { id: "support", icon: Lock, hue: 230, ctas: [] },
   { id: "integrations", icon: MousePointerClick, hue: 265, ctas: [] },
@@ -795,7 +795,7 @@ function FaqPage() {
             {[
               { to: "/dermatology-website-checklists", icon: FileCheck, hue: 180 },
               { to: "/plan-packages-and-costs", icon: Rocket, hue: 35 },
-              { to: "/free-dermatologist-website-audit", icon: Gauge, hue: 205 },
+              { to: "/contact", icon: Gauge, hue: 205 },
               { to: "/our-process", icon: Smartphone, hue: 315 },
             ].map((c, i) => (
               <Link
