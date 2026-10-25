@@ -50,7 +50,7 @@ function Thumbnail({ url, domain, name, gradient }: { url: string; domain: strin
       ) : (
         <img
           src={src}
-          alt={`${name} — website preview`}
+          alt={`${name} site preview`}
           loading="lazy"
           decoding="async"
           width={900}
