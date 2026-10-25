@@ -534,12 +534,6 @@ function AboutPage() {
                   <CtaLabel />
                   <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-0.5" />
                 </Link>
-                <Link
-                  to="/dermatology-website-design"
-                  className="inline-flex items-center gap-2 rounded-full border border-brand-primary/30 bg-background/60 px-6 py-3 text-sm font-semibold text-brand-primary backdrop-blur transition-colors hover:bg-brand-primary/5 sm:px-7 sm:py-3.5"
-                >
-                  {t("hero.ctaSecondary")}
-                </Link>
               </div>
 
               {/* trust row */}
