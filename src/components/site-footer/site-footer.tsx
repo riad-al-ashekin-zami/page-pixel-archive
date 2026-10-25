@@ -42,8 +42,8 @@ import {
   Shield,
   type LucideIcon,
 } from "lucide-react";
-import { WhatsAppIcon } from "@/components/site-header/whatsapp-icon";
 import footerLogo from "@/assets/dermwd-logo-footer.webp.asset.json";
+import { CTA_URL } from "@/lib/cta";
 
 type LinkItem = {
   labelKey: string;
@@ -276,19 +276,6 @@ export function SiteFooter({ hideCta = false }: { hideCta?: boolean } = {}) {
             <p className={`mt-5 text-sm leading-relaxed text-slate-300/90 text-justify md:mx-auto md:max-w-xl md:text-center xl:mx-0 xl:max-w-none ${isRtl ? "xl:text-right" : "xl:text-justify"}`}>
               {t("brand.tagline")}
             </p>
-            <a
-              href="https://wa.me/8801815840813"
-              target="_blank"
-              rel="noopener noreferrer"
-              aria-label={t("brand.whatsappLabel")}
-              className={`group mt-6 flex min-h-11 w-full items-center justify-center gap-2 rounded-full border border-[#5cbdb9]/40 bg-[#5cbdb9]/5 px-5 py-2.5 text-sm font-semibold text-white backdrop-blur transition-all duration-200 hover:-translate-y-0.5 hover:bg-[#5cbdb9]/15 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#5cbdb9] sm:inline-flex sm:w-auto md:mx-auto ${isRtl ? "xl:ml-auto xl:mr-0" : "xl:mx-0"}`}
-            >
-              <span className="grid h-6 w-6 place-items-center rounded-full bg-[#5cbdb9]/15 sm:bg-transparent">
-                <WhatsAppIcon className="h-4 w-4 text-[#25D366]" />
-              </span>
-              {t("brand.whatsappCta")}
-              <ChevronRight className={`${isRtl ? "mr-auto rotate-180 group-hover:-translate-x-0.5" : "ml-auto group-hover:translate-x-0.5"} h-4 w-4 text-slate-400 transition-transform sm:hidden`} aria-hidden />
-            </a>
             <ul className="mt-6 text-sm text-slate-300 sm:space-y-2.5 md:flex md:flex-wrap md:justify-center md:gap-x-6 md:gap-y-2.5 md:space-y-0 xl:block xl:space-y-2.5">
               <li className="flex items-center gap-2.5 border-b border-white/10 py-3 sm:border-0 sm:py-0">
                 <Mail className="h-4 w-4 shrink-0 text-[#5cbdb9]" aria-hidden />

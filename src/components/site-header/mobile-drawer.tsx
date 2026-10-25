@@ -5,7 +5,6 @@ import { useTranslation } from "react-i18next";
 import { ChevronDown, X, ArrowRight, Mail, Sparkles, Facebook, Instagram, Linkedin, Youtube, Twitter } from "lucide-react";
 import { addOnCategories, insightsItems, mainNav, marketingServices, websiteServices } from "./nav-data";
 import { Logo } from "./logo";
-import { WhatsAppIcon } from "./whatsapp-icon";
 import { LanguageSwitcher } from "@/components/language-switcher";
 
 function TumblrIcon({ className }: { className?: string }) {
@@ -134,9 +133,6 @@ export function MobileDrawer({ open, onClose }: { open: boolean; onClose: () => 
 
           {/* Contact mini-block */}
           <div className="mt-3 space-y-2 rounded-xl border border-border/60 bg-card/60 p-3">
-            <a href="https://wa.me/8801815840813" target="_blank" rel="noreferrer" className="flex min-h-10 items-center gap-2 rounded-md px-2 text-sm text-foreground hover:bg-accent">
-              <WhatsAppIcon className="h-4 w-4 text-brand-primary" /> {t("drawer.chatWhatsApp")}
-            </a>
             <a href="mailto:info@dermatologywebsitedesign.com" className="flex min-h-10 items-center gap-2 rounded-md px-2 text-sm text-foreground hover:bg-accent">
               <Mail className="h-4 w-4 text-brand-primary" /> info@dermatologywebsitedesign.com
             </a>
