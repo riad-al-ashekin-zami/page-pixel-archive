@@ -15,6 +15,14 @@ Nitro generates the server function in `.netlify/functions-internal` and
 routing automatically; do not add a static SPA fallback. Do not set
 `LOVABLE_NITRO_PRESET` on Netlify, since that selects a Lovable hosting target.
 
+The committed asset rewrite proxies only `/__l5e/assets-v1/*` to the public
+Lovable media-serving origin. Keep it ahead of Nitro's catch-all rules and do
+not remove the original asset pointers or delete the referenced CDN assets.
+This supplies header/footer logos, navigation preloader images, blog images,
+and page banners on the Netlify domain without requiring media credentials.
+Unprefixed pages open in English regardless of the browser's language;
+visitors can still choose another language from the language selector.
+
 ### External hosting limitations
 
 Lovable Cloud runtime secrets are not copied to Netlify by GitHub sync.

@@ -325,28 +325,8 @@ function RootComponent() {
     };
   }, [i18n]);
 
-  // Browser-language auto-detect: on first visit at English root ("/"),
-  // sniff navigator.languages, map to a supported non-English locale, and
-  // redirect once. Skipped if user already navigated to any locale prefix,
-  // if they've explicitly chosen a language before (localStorage flag),
-  // or when running under SSR.
-  useEffect(() => {
-    if (typeof window === "undefined") return;
-    if (urlLang !== "en") return; // already on a localized route
-    if (pathname !== "/" && !pathname.startsWith("/?")) return; // only auto-redirect from home
-    try {
-      if (window.localStorage.getItem("dwd-lang-choice")) return;
-    } catch {}
-    const prefs = (navigator.languages ?? [navigator.language ?? ""]).map((l) =>
-      l.toLowerCase().split("-")[0],
-    );
-    const pick = prefs.find((p) => (URL_LANGUAGE_CODES as string[]).includes(p));
-    if (!pick) return;
-    try {
-      window.localStorage.setItem("dwd-lang-choice", "auto");
-    } catch {}
-    window.location.replace(`/${pick}/${window.location.search}${window.location.hash}`);
-  }, [pathname, urlLang]);
+  // Unprefixed URLs always stay in English. Localized URLs are entered only
+  // through an explicit language selection or a shared localized link.
 
 
   return (

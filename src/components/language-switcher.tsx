@@ -59,8 +59,7 @@ export function LanguageSwitcher({
   const change = (code: LanguageCode) => {
     try {
       localStorage.setItem("dwd-language", code);
-      // Mark that the user has made an explicit language choice so the
-      // browser-language auto-redirect never overrides them again.
+      // Record an explicit choice; the URL remains the source of language.
       localStorage.setItem("dwd-lang-choice", "manual");
     } catch {
       /* ignore */
