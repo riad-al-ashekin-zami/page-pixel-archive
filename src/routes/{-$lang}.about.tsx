@@ -1332,7 +1332,7 @@ function AboutPage() {
                   </p>
                   <div className="mt-8 flex flex-wrap gap-3">
                     <Link
-                      to="/free-dermatologist-website-audit"
+                      to="/contact"
                       className="inline-flex items-center gap-2 rounded-full bg-brand-accent px-6 py-3 text-sm font-semibold text-foreground shadow-lg transition-transform hover:scale-[1.03] sm:px-7 sm:py-3.5"
                     >
                       {t("cta.primary")}

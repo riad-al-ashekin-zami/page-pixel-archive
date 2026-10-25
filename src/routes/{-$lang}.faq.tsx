@@ -771,7 +771,7 @@ function FaqPage() {
                   <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-0.5" />
                 </Link>
                 <Link
-                  to="/free-dermatologist-website-audit"
+                  to="/contact"
                   className="inline-flex min-h-11 items-center justify-center gap-2 rounded-full border border-brand-primary/30 bg-background/70 px-7 py-3.5 text-sm font-semibold text-brand-primary backdrop-blur transition-colors hover:bg-brand-primary/5"
                 >
                   <PhoneCall className="h-4 w-4" /> {t("cta.buttons.audit")}
@@ -831,7 +831,7 @@ function FaqPage() {
 
         <p className="mx-auto mt-16 mb-20 max-w-3xl px-4 text-center text-sm text-muted-foreground sm:mt-20 sm:mb-24 sm:px-6 lg:px-8">
           {t("footerLinks.text")}{" "}
-          <Link to="/free-dermatologist-website-audit" className="font-medium text-foreground underline-offset-4 hover:text-brand-primary hover:underline">{t("footerLinks.auditLink")}</Link>,{" "}
+          <Link to="/contact" className="font-medium text-foreground underline-offset-4 hover:text-brand-primary hover:underline">{t("footerLinks.auditLink")}</Link>,{" "}
           <Link to="/case-studies" className="font-medium text-foreground underline-offset-4 hover:text-brand-primary hover:underline">{t("footerLinks.caseStudiesLink")}</Link>, {t("common.or", { ns: "translation" })}{" "}
           <Link to="/plan-packages-and-costs" className="font-medium text-foreground underline-offset-4 hover:text-brand-primary hover:underline">{t("footerLinks.pricingLink")}</Link>.
         </p>

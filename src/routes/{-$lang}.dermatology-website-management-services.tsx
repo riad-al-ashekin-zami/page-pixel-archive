@@ -159,10 +159,10 @@ function ManagementPage() {
               {t("hero.subheading")}
             </p>
             <div className="mt-8 flex flex-wrap gap-3">
-              <Link to="/get-a-free-quote" className="inline-flex items-center gap-2 rounded-full bg-brand-primary px-6 py-3 text-sm font-semibold text-brand-primary-foreground shadow-lg shadow-brand-primary/20 transition hover:-translate-y-0.5">
+              <Link to="/contact" className="inline-flex items-center gap-2 rounded-full bg-brand-primary px-6 py-3 text-sm font-semibold text-brand-primary-foreground shadow-lg shadow-brand-primary/20 transition hover:-translate-y-0.5">
                 {t("hero.cta_primary")} <ArrowRight className="h-4 w-4" />
               </Link>
-              <Link to="/free-dermatologist-website-audit" className="inline-flex items-center gap-2 rounded-full border border-border bg-background px-6 py-3 text-sm font-semibold transition hover:bg-muted">
+              <Link to="/contact" className="inline-flex items-center gap-2 rounded-full border border-border bg-background px-6 py-3 text-sm font-semibold transition hover:bg-muted">
                 {t("hero.cta_secondary")}
               </Link>
             </div>
@@ -600,7 +600,7 @@ function ManagementPage() {
                     ))}
                   </ul>
                   <Link
-                    to="/get-a-free-quote"
+                    to="/contact"
                     className={`mt-6 inline-flex items-center justify-center gap-2 rounded-full px-5 py-3 text-sm font-semibold transition ${highlight ? "bg-brand-primary text-brand-primary-foreground hover:-translate-y-0.5" : "border border-border bg-background hover:bg-muted"}`}
                   >
                     {p.cta} <ArrowRight className="h-4 w-4" />
@@ -693,10 +693,10 @@ function ManagementPage() {
                 <h2 className="mt-5 text-3xl font-black sm:text-4xl">{t("cta_bottom.headline")}</h2>
                 <p className="mt-3 text-muted-foreground">{t("cta_bottom.subheading")}</p>
                 <div className="mt-7 flex flex-wrap justify-center gap-3">
-                  <Link to="/get-a-free-quote" className="inline-flex items-center gap-2 rounded-full bg-brand-primary px-6 py-3 text-sm font-semibold text-brand-primary-foreground shadow-lg shadow-brand-primary/20 transition hover:-translate-y-0.5">
+                  <Link to="/contact" className="inline-flex items-center gap-2 rounded-full bg-brand-primary px-6 py-3 text-sm font-semibold text-brand-primary-foreground shadow-lg shadow-brand-primary/20 transition hover:-translate-y-0.5">
                     {t("cta_bottom.primary")} <ArrowRight className="h-4 w-4" />
                   </Link>
-                  <Link to="/free-dermatologist-website-audit" className="inline-flex items-center gap-2 rounded-full border border-border bg-background px-6 py-3 text-sm font-semibold transition hover:bg-muted">
+                  <Link to="/contact" className="inline-flex items-center gap-2 rounded-full border border-border bg-background px-6 py-3 text-sm font-semibold transition hover:bg-muted">
                     {t("cta_bottom.secondary")}
                   </Link>
                 </div>

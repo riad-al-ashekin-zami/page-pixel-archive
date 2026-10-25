@@ -456,7 +456,7 @@ function BlogPostPage() {
           {t("footerCta.prefix")}{" "}
           <Link to="/blog" className="font-medium text-foreground underline-offset-4 hover:text-brand-primary hover:underline">{t("footerCta.moreArticles")}</Link>,{" "}
           <Link to="/case-studies" className="font-medium text-foreground underline-offset-4 hover:text-brand-primary hover:underline">{t("footerCta.caseStudies")}</Link>, {t("common.or", { ns: "translation" })}{" "}
-          <Link to="/free-dermatologist-website-audit" className="font-medium text-foreground underline-offset-4 hover:text-brand-primary hover:underline">{t("footerCta.freeAudit")}</Link>.
+          <Link to="/contact" className="font-medium text-foreground underline-offset-4 hover:text-brand-primary hover:underline">{t("footerCta.freeAudit")}</Link>.
         </p>
 
       <SiteFooter />

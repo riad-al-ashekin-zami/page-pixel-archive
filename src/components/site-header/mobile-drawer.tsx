@@ -153,7 +153,7 @@ export function MobileDrawer({ open, onClose }: { open: boolean; onClose: () => 
             <span className="truncate">{t("drawer.freeAuditBanner")}</span>
           </div>
           <LocalLink
-            to="/get-a-free-quote"
+            to="/contact"
             onClick={onClose}
             className="flex min-h-11 items-center justify-center gap-1.5 rounded-full bg-brand-accent px-5 text-sm font-semibold text-foreground shadow-lg transition-transform active:scale-[0.98]"
           >

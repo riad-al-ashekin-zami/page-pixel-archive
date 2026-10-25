@@ -248,7 +248,7 @@ function SocialPage() {
               <Reveal delay={0.15}>
                 <div className="mt-8 flex flex-col gap-3 sm:flex-row sm:items-center">
                   <Link
-                    to="/free-dermatologist-website-audit"
+                    to="/contact"
                     className={`${ctaBtn} bg-brand-primary text-brand-primary-foreground shadow-lg shadow-brand-primary/25 hover:-translate-y-0.5`}
                   >
                     {t("hero.cta.audit")} <ArrowRight className="h-4 w-4" />
@@ -700,13 +700,13 @@ function SocialPage() {
                   </div>
                   <div className="flex flex-col gap-3 sm:flex-row lg:flex-col">
                     <Link
-                      to="/free-dermatologist-website-audit"
+                      to="/contact"
                       className={`${ctaBtn} bg-brand-primary text-brand-primary-foreground shadow-lg shadow-brand-primary/25 hover:-translate-y-0.5`}
                     >
                       {t("cta.primary")} <ArrowRight className="h-4 w-4" />
                     </Link>
                     <Link
-                      to="/get-a-free-quote"
+                      to="/contact"
                       className={`${ctaBtn} border border-border/70 bg-background/70 text-foreground backdrop-blur hover:border-brand-primary/40 hover:text-brand-primary`}
                     >
                       {t("cta.secondary")}
@@ -728,7 +728,7 @@ function SocialPage() {
           <div className="flex items-center justify-between gap-3">
             <span className="truncate text-sm font-semibold text-foreground">{t("sticky_footer.label")}</span>
             <Link
-              to="/free-dermatologist-website-audit"
+              to="/contact"
               className="inline-flex items-center gap-1.5 rounded-full bg-brand-primary px-4 py-2 text-xs font-semibold text-brand-primary-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-primary focus-visible:ring-offset-2"
             >
               {t("sticky_footer.button")} <ArrowRight className="h-3.5 w-3.5" />

@@ -337,13 +337,13 @@ function BeforeAfterGalleryPage() {
               </p>
               <div className="mt-7 flex flex-wrap items-center gap-3">
                 <Link
-                  to="/get-a-free-quote"
+                  to="/contact"
                   className="group inline-flex min-h-11 items-center gap-2 rounded-full bg-brand-primary px-5 py-3 text-sm font-semibold text-brand-primary-foreground shadow-[0_12px_36px_-14px_color-mix(in_oklch,var(--brand-primary),transparent_40%)] transition-transform hover:scale-[1.02]"
                 >
                   {t("hero.ctaBuild")} <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-0.5" />
                 </Link>
                 <Link
-                  to="/free-dermatologist-website-audit"
+                  to="/contact"
                   className="inline-flex min-h-11 items-center gap-2 rounded-full border border-border bg-card px-5 py-3 text-sm font-semibold text-foreground transition-colors hover:border-brand-primary/40 hover:text-brand-primary"
                 >
                   {t("hero.ctaAudit")}
@@ -461,7 +461,7 @@ function BeforeAfterGalleryPage() {
                       <span className="inline-flex items-center gap-1"><BadgeCheck className="h-3.5 w-3.5" /> {c.provider}</span>
                     </div>
                     <Link
-                      to="/get-a-free-quote"
+                      to="/contact"
                       className="mt-5 inline-flex min-h-11 w-full items-center justify-center gap-2 rounded-full border border-brand-primary/30 bg-brand-primary/5 px-4 text-sm font-semibold text-brand-primary transition-colors hover:bg-brand-primary hover:text-brand-primary-foreground"
                     >
                       {t("gallery.card.bookCTA")} <ArrowRight className="h-4 w-4" />
@@ -611,7 +611,7 @@ function BeforeAfterGalleryPage() {
                 <p className="mt-3 text-muted-foreground">{t("cta.subheading")}</p>
               </div>
               <div className="flex flex-nowrap items-center gap-3 shrink-0">
-                <Link to="/get-a-free-quote" className="inline-flex min-h-11 items-center gap-2 whitespace-nowrap rounded-full bg-brand-primary px-5 text-sm font-semibold text-brand-primary-foreground shadow-lg transition-transform hover:scale-[1.02]">
+                <Link to="/contact" className="inline-flex min-h-11 items-center gap-2 whitespace-nowrap rounded-full bg-brand-primary px-5 text-sm font-semibold text-brand-primary-foreground shadow-lg transition-transform hover:scale-[1.02]">
                   {t("cta.btnQuote")} <ArrowRight className="h-4 w-4" />
                 </Link>
                 <Link to="/contact" className="inline-flex min-h-11 items-center gap-2 whitespace-nowrap rounded-full border border-border bg-card px-5 text-sm font-semibold text-foreground transition-colors hover:border-brand-primary/40 hover:text-brand-primary">

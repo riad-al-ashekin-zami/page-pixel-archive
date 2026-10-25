@@ -664,7 +664,7 @@ function BlogPage() {
         <p className="mx-auto mt-16 mb-20 max-w-3xl px-4 text-center text-sm text-muted-foreground sm:mt-20 sm:mb-24 sm:px-6 lg:px-8">
           {t("footer.keepReading")}{" "}
           <Link to="/case-studies" className="font-medium text-foreground underline-offset-4 hover:text-brand-primary hover:underline">{t("footer.caseStudies")}</Link>,{" "}
-          <Link to="/free-dermatologist-website-audit" className="font-medium text-foreground underline-offset-4 hover:text-brand-primary hover:underline">{t("footer.audit")}</Link>, {t("common.or", { ns: "translation" })}{" "}
+          <Link to="/contact" className="font-medium text-foreground underline-offset-4 hover:text-brand-primary hover:underline">{t("footer.audit")}</Link>, {t("common.or", { ns: "translation" })}{" "}
           <Link to="/faq" className="font-medium text-foreground underline-offset-4 hover:text-brand-primary hover:underline">{t("footer.faq")}</Link>.
         </p>
 

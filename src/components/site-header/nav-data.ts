@@ -56,7 +56,7 @@ export const insightsItems: NavItem[] = [
   { label: "Case Studies", href: "/case-studies", icon: BookOpen, description: "Real results from real practices.", i18nLabelKey: "insights.caseStudies.label", i18nDescKey: "insights.caseStudies.description" },
   { label: "Blog", href: "/blog", icon: Newspaper, description: "Insights for growing practices.", i18nLabelKey: "insights.blog.label", i18nDescKey: "insights.blog.description" },
   { label: "FAQ", href: "/faq", icon: HelpCircle, description: "Answers to common questions.", i18nLabelKey: "insights.faq.label", i18nDescKey: "insights.faq.description" },
-  { label: "Free Website Audit", href: "/free-dermatologist-website-audit", icon: FileCheck, description: "Personalized recs in 24 hours.", i18nLabelKey: "insights.audit.label", i18nDescKey: "insights.audit.description" },
+  { label: "Free Website Audit", href: "/contact", icon: FileCheck, description: "Personalized recs in 24 hours.", i18nLabelKey: "insights.audit.label", i18nDescKey: "insights.audit.description" },
 ];
 
 export const mainNav = [

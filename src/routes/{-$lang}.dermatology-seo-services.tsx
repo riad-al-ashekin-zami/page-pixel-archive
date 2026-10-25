@@ -202,7 +202,7 @@ function SeoServicesPage() {
             <Reveal delay={0.15}>
               <div className="mt-9 flex flex-col gap-3 sm:flex-row sm:items-center">
                 <Link
-                  to="/free-dermatologist-website-audit"
+                  to="/contact"
                   className="inline-flex min-h-11 items-center justify-center gap-2 rounded-full bg-brand-primary px-6 py-3 text-sm font-semibold text-brand-primary-foreground shadow-lg shadow-brand-primary/25 transition-transform hover:-translate-y-0.5 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-primary focus-visible:ring-offset-2"
                 >
                   {t("hero.cta_audit")} <ArrowRight className="h-4 w-4" />
@@ -427,13 +427,13 @@ function SeoServicesPage() {
               </div>
               <div className="flex flex-col gap-3 sm:flex-row lg:flex-col">
                 <Link
-                  to="/free-dermatologist-website-audit"
+                  to="/contact"
                   className="inline-flex min-h-11 items-center justify-center gap-2 rounded-full bg-brand-primary px-6 py-3 text-sm font-semibold text-brand-primary-foreground shadow-lg shadow-brand-primary/25 transition-transform hover:-translate-y-0.5"
                 >
                   {t("cta_bottom.btn_audit")} <ArrowRight className="h-4 w-4" />
                 </Link>
                 <Link
-                  to="/get-a-free-quote"
+                  to="/contact"
                   className="inline-flex min-h-11 items-center justify-center gap-2 rounded-full border border-border/70 bg-background/70 px-6 py-3 text-sm font-semibold text-foreground backdrop-blur hover:border-brand-primary/40 hover:text-brand-primary"
                 >
                   {t("cta_bottom.btn_quote")}
@@ -450,7 +450,7 @@ function SeoServicesPage() {
           <div className="flex items-center justify-between gap-3">
             <span className="truncate text-sm font-semibold text-foreground">{t("sticky_cta.text")}</span>
             <Link
-              to="/free-dermatologist-website-audit"
+              to="/contact"
               className="inline-flex items-center gap-1.5 rounded-full bg-brand-primary px-4 py-2 text-xs font-semibold text-brand-primary-foreground"
             >
               {t("sticky_cta.btn")} <ArrowRight className="h-3.5 w-3.5" />

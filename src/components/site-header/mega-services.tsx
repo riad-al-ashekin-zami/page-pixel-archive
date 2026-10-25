@@ -187,7 +187,7 @@ function FeatureCard({ onNavigate }: { onNavigate?: () => void }) {
           {t("common.customPlanDesc")}
         </p>
         <LocalLink
-          to="/get-a-free-quote"
+          to="/contact"
           onClick={onNavigate}
           className="mt-3 inline-flex items-center gap-1.5 rounded-full bg-brand-accent px-3 py-1.5 text-[11px] font-semibold text-foreground shadow-lg transition-transform hover:scale-[1.03]"
         >

@@ -211,13 +211,13 @@ function DermEcommercePage() {
 
               <div className="mt-7 flex flex-wrap items-center gap-3">
                 <Link
-                  to="/get-a-free-quote"
+                  to="/contact"
                   className="inline-flex min-h-11 items-center justify-center gap-2 rounded-full bg-brand-primary px-6 py-3.5 text-sm font-bold text-brand-primary-foreground shadow-lg transition-transform hover:scale-[1.03]"
                 >
                   {t("hero.cta.plan")} <ArrowRight className="h-4 w-4" />
                 </Link>
                 <Link
-                  to="/free-dermatologist-website-audit"
+                  to="/contact"
                   className="inline-flex min-h-11 items-center justify-center gap-2 rounded-full border border-border bg-card px-6 py-3.5 text-sm font-semibold text-foreground transition-colors hover:border-brand-primary hover:text-brand-primary"
                 >
                   {t("hero.cta.audit")}
@@ -553,7 +553,7 @@ function DermEcommercePage() {
           </h2>
           <p className="mt-4 text-muted-foreground">
             DSO or enterprise pharmacy integration —{" "}
-            <Link to="/get-a-free-quote" className="font-semibold text-brand-primary underline underline-offset-4">
+            <Link to="/contact" className="font-semibold text-brand-primary underline underline-offset-4">
               {t("pricing.customQuote")}
             </Link>
             .
@@ -607,7 +607,7 @@ function DermEcommercePage() {
                   ))}
                 </ul>
                 <Link
-                  to="/get-a-free-quote"
+                  to="/contact"
                   className={`mt-6 inline-flex min-h-11 items-center justify-center gap-2 rounded-full px-5 py-3 text-sm font-bold transition-transform hover:scale-[1.02] ${
                     highlighted
                       ? "bg-brand-primary text-brand-primary-foreground shadow-lg"
@@ -772,7 +772,7 @@ function DermEcommercePage() {
                 </p>
                 <div className="mt-6 flex flex-wrap items-center gap-3">
                   <Link
-                    to="/get-a-free-quote"
+                    to="/contact"
                     className="inline-flex min-h-11 items-center justify-center gap-2 rounded-full bg-brand-primary-foreground px-6 py-3.5 text-sm font-bold text-brand-primary shadow-lg transition-transform hover:scale-[1.03]"
                   >
                     {t("cta.buttons.quote")} <ArrowRight className="h-4 w-4" />

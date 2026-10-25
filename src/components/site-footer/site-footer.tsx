@@ -71,7 +71,7 @@ const company: LinkItem[] = [
 const resources: LinkItem[] = [
   { labelKey: "resources.blog", href: "/blog", icon: PenLine },
   { labelKey: "resources.faq", href: "/faq", icon: HelpCircle },
-  { labelKey: "resources.audit", href: "/free-dermatologist-website-audit", icon: BarChart3, badgeKey: "resources.auditBadge" },
+  { labelKey: "resources.audit", href: "/contact", icon: BarChart3, badgeKey: "resources.auditBadge" },
   { labelKey: "resources.checklists", href: "/dermatology-website-checklists", icon: ClipboardCheck },
   { labelKey: "resources.patientPortal", href: "/dermatology-patient-portal", icon: Stethoscope },
   { labelKey: "resources.addOns", href: "/dermatology-add-on-services", icon: ShoppingCart },
@@ -215,7 +215,7 @@ export function SiteFooter({ hideCta = false }: { hideCta?: boolean } = {}) {
 
             <div className="flex flex-col items-stretch gap-3 lg:items-start lg:border-l lg:border-white/10 lg:pl-8">
               <LocalLink
-                to="/get-a-free-quote"
+                to="/contact"
                 className="group inline-flex min-h-12 w-full items-center justify-center gap-2 rounded-full px-6 py-3 text-sm font-semibold text-[#0c2340] shadow-[0_18px_40px_-15px_rgba(201,168,76,0.7)] transition-all duration-200 hover:-translate-y-0.5 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#c9a84c] focus-visible:ring-offset-2 focus-visible:ring-offset-[#0c2340] lg:w-auto"
                 style={{ background: "linear-gradient(135deg, #e8c97a, #c9a84c)" }}
               >

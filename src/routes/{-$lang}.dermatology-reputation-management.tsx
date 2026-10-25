@@ -290,7 +290,7 @@ function ReputationPage() {
               <Reveal delay={0.15}>
                 <div className="mt-8 flex flex-col gap-3 sm:flex-row sm:items-center">
                   <Link
-                    to="/free-dermatologist-website-audit"
+                    to="/contact"
                     className={`${ctaBtn} bg-brand-primary text-brand-primary-foreground shadow-lg shadow-brand-primary/25 hover:-translate-y-0.5`}
                   >
                     {t("hero.cta_audit")} <ArrowRight className="h-4 w-4" />
@@ -688,7 +688,7 @@ function ReputationPage() {
                 </p>
                 <div className="mt-8 flex flex-col gap-3 sm:flex-row">
                   <Link
-                    to="/free-dermatologist-website-audit"
+                    to="/contact"
                     className={`${ctaBtn} bg-background text-brand-primary shadow-lg hover:-translate-y-0.5`}
                   >
                     {t("cta_bottom.cta_audit")} <ArrowRight className="h-4 w-4" />
@@ -707,7 +707,7 @@ function ReputationPage() {
 
         <div className="fixed inset-x-0 bottom-3 z-40 mx-auto flex w-[min(94%,420px)] items-center gap-2 rounded-full border border-border/70 bg-card/90 p-2 shadow-xl backdrop-blur-md lg:hidden">
           <Link
-            to="/free-dermatologist-website-audit"
+            to="/contact"
             className="flex flex-1 items-center justify-center gap-1.5 rounded-full bg-brand-primary px-4 py-2.5 text-xs font-bold text-brand-primary-foreground"
           >
             {t("mobile_sticky.audit")} <ArrowRight className="h-3.5 w-3.5" />

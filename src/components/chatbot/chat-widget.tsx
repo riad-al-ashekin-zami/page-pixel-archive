@@ -11,7 +11,7 @@ import { cn } from "@/lib/utils";
 
 const PRIMARY_ACTIONS: { key: "quote" | "audit" | "pricing" | "contact"; href: string }[] = [
   { key: "quote",   href: "/get-a-free-quote" },
-  { key: "audit",   href: "/free-dermatologist-website-audit" },
+  { key: "audit",   href: "/contact" },
   { key: "pricing", href: "/plan-packages-and-costs" },
   { key: "contact", href: "/contact" },
 ];

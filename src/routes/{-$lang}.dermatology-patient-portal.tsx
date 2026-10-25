@@ -188,7 +188,7 @@ function PatientPortalPage() {
             <Reveal delay={0.15}>
               <div className="mt-9 flex flex-col gap-3 sm:flex-row sm:flex-wrap">
                 <Link
-                  to="/get-a-free-quote"
+                  to="/contact"
                   className="group inline-flex min-h-11 items-center justify-center gap-2 rounded-full px-6 py-3 text-sm font-semibold text-brand-primary-foreground shadow-lg shadow-brand-primary/30 transition-all hover:-translate-y-0.5 hover:shadow-xl hover:shadow-brand-primary/40 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-primary focus-visible:ring-offset-2"
                   style={{
                     background:
@@ -506,7 +506,7 @@ function PatientPortalPage() {
             </p>
             <div className="mt-8 flex flex-col items-center justify-center gap-3 sm:flex-row">
               <Link
-                to="/get-a-free-quote"
+                to="/contact"
                 className="inline-flex min-h-11 items-center justify-center gap-2 rounded-full bg-background px-6 py-3 text-sm font-semibold text-foreground shadow-lg transition-transform hover:-translate-y-0.5"
               >
                 {t("cta.cta_quote")}
@@ -526,7 +526,7 @@ function PatientPortalPage() {
       {/* Sticky mobile CTA */}
       <div className="fixed inset-x-0 bottom-0 z-40 border-t border-border/70 bg-background/95 p-3 shadow-[0_-8px_30px_-10px_rgba(0,0,0,0.15)] backdrop-blur md:hidden">
         <Link
-          to="/get-a-free-quote"
+          to="/contact"
           className="flex min-h-11 w-full items-center justify-center gap-2 rounded-full bg-brand-primary px-6 py-3 text-sm font-semibold text-brand-primary-foreground shadow-lg"
         >
           {t("cta.cta_quote")} <ArrowRight className="h-4 w-4" />

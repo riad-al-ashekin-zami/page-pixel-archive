@@ -163,7 +163,7 @@ function Index() {
 
                 <div className="mt-8 flex flex-col gap-3 sm:flex-row sm:flex-wrap">
                   <LocalLink
-                    to="/get-a-free-quote"
+                    to="/contact"
                     className="group inline-flex items-center justify-center gap-2 rounded-full px-7 py-3.5 text-sm font-semibold text-brand-primary-foreground shadow-[0_12px_30px_-10px_color-mix(in_oklch,var(--brand-primary),transparent_40%)] transition-all hover:-translate-y-0.5"
                     style={{ background: "linear-gradient(135deg, var(--brand-primary), color-mix(in oklch, var(--brand-primary), black 18%))" }}
                   >
@@ -171,7 +171,7 @@ function Index() {
                     <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-0.5" />
                   </LocalLink>
                   <LocalLink
-                    to="/free-dermatologist-website-audit"
+                    to="/contact"
                     className="inline-flex items-center justify-center gap-2 rounded-full border border-brand-primary/30 bg-background/60 px-7 py-3.5 text-sm font-semibold text-brand-primary backdrop-blur transition-colors hover:bg-brand-primary/5"
                   >
                     {t("hero.ctaSecondary")}
@@ -246,7 +246,7 @@ function Index() {
           {t("footer.startPrefix")}{" "}
           <LocalLink to="/blog/dermatology-marketing-strategies" className="font-medium text-foreground underline-offset-4 hover:text-brand-primary hover:underline">{t("footer.guideLink")}</LocalLink>{t("footer.sep1")}{" "}
           <LocalLink to="/case-studies" className="font-medium text-foreground underline-offset-4 hover:text-brand-primary hover:underline">{t("footer.caseStudiesLink")}</LocalLink>{t("footer.sep2")}{" "}
-          <LocalLink to="/free-dermatologist-website-audit" className="font-medium text-foreground underline-offset-4 hover:text-brand-primary hover:underline">{t("footer.auditLink")}</LocalLink>{t("footer.suffix")}
+          <LocalLink to="/contact" className="font-medium text-foreground underline-offset-4 hover:text-brand-primary hover:underline">{t("footer.auditLink")}</LocalLink>{t("footer.suffix")}
         </p>
 
       <SiteFooter />

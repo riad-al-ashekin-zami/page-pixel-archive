@@ -318,7 +318,7 @@ function ChecklistsPage() {
                     <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-0.5" />
                   </a>
                   <Link
-                    to="/free-dermatologist-website-audit"
+                    to="/contact"
                     className="inline-flex min-h-11 items-center justify-center gap-2 rounded-full border border-brand-primary/30 bg-background/60 px-7 py-3.5 text-sm font-semibold text-brand-primary backdrop-blur transition-colors hover:bg-brand-primary/5"
                   >
                     {t("hero.actions.secondary")}
@@ -504,7 +504,7 @@ function ChecklistsPage() {
                   </p>
                 </div>
                 <Link
-                  to="/get-a-free-quote"
+                  to="/contact"
                   className="inline-flex items-center gap-2 rounded-full bg-brand-primary px-5 py-2.5 text-sm font-semibold text-brand-primary-foreground"
                 >
                   {t("feedback.quoteCta")} <ArrowRight className="h-4 w-4" />
@@ -657,7 +657,7 @@ function ChecklistsPage() {
               </div>
               <div className="flex flex-col gap-3 sm:flex-row lg:justify-end">
                 <Link
-                  to="/free-dermatologist-website-audit"
+                  to="/contact"
                   className="group inline-flex min-h-11 items-center justify-center gap-2 rounded-full px-7 py-3.5 text-sm font-semibold text-brand-primary-foreground shadow-[0_12px_30px_-10px_color-mix(in_oklch,var(--brand-primary),transparent_40%)] transition-all hover:-translate-y-0.5"
                   style={{
                     background:
@@ -722,7 +722,7 @@ function ChecklistsPage() {
       <div className="no-print">
         <p className="mx-auto mt-16 mb-20 max-w-3xl px-4 text-center text-sm text-muted-foreground sm:mt-20 sm:mb-24 sm:px-6 lg:px-8">
           {t("footer.more")}{" "}
-          <Link to="/free-dermatologist-website-audit" className="font-medium text-foreground underline-offset-4 hover:text-brand-primary hover:underline">{t("footer.links.audit")}</Link>,{" "}
+          <Link to="/contact" className="font-medium text-foreground underline-offset-4 hover:text-brand-primary hover:underline">{t("footer.links.audit")}</Link>,{" "}
           <Link to="/case-studies" className="font-medium text-foreground underline-offset-4 hover:text-brand-primary hover:underline">{t("footer.links.caseStudies")}</Link>, {t("common.or", { ns: "translation" })}{" "}
           <Link to="/blog" className="font-medium text-foreground underline-offset-4 hover:text-brand-primary hover:underline">{t("footer.links.blog")}</Link>.
         </p>

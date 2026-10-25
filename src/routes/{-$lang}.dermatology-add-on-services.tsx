@@ -603,7 +603,7 @@ function AddOnServicesPage() {
                 <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-1" />
               </Link>
               <Link
-                to="/free-dermatologist-website-audit"
+                to="/contact"
                 className="inline-flex min-h-11 items-center justify-center gap-2 rounded-full border border-border/70 bg-background px-7 py-3.5 text-sm font-semibold text-foreground transition-colors hover:border-brand-primary/40 hover:text-brand-primary focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-primary focus-visible:ring-offset-2"
               >
                 {t("cta.secondary")}

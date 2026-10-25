@@ -161,7 +161,7 @@ function CaseStudiesPage() {
                   <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-0.5" />
                 </Link>
                 <Link
-                  to="/free-dermatologist-website-audit"
+                  to="/contact"
                   className="inline-flex min-h-11 items-center justify-center gap-2 rounded-full border border-brand-primary/30 bg-background/70 px-7 py-3.5 text-sm font-semibold text-brand-primary backdrop-blur transition-colors hover:bg-brand-primary/5"
                 >
                   <PhoneCall className="h-4 w-4" /> {t("hero.actions.audit")}
@@ -291,7 +291,7 @@ function CaseStudiesPage() {
                   <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-0.5" />
                 </Link>
                 <Link
-                  to="/free-dermatologist-website-audit"
+                  to="/contact"
                   className="inline-flex min-h-11 items-center justify-center gap-2 rounded-full border border-brand-primary/30 bg-background/80 px-7 py-3.5 text-sm font-semibold text-brand-primary backdrop-blur transition-colors hover:bg-brand-primary/5"
                 >
                   <PhoneCall className="h-4 w-4" /> {t("cta.actions.audit")}
