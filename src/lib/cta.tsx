@@ -11,3 +11,11 @@ export const CTA_URL = "/contact";
 
 /** i18n key (ui.json / default namespace) holding the translated CTA label. */
 export const CTA_I18N_KEY = "cta.label";
+
+import { useTranslation } from "react-i18next";
+
+/** Renders the single shared CTA label, translated via ui.json "cta.label". */
+export function CtaLabel() {
+  const { t } = useTranslation();
+  return <>{t(CTA_I18N_KEY, { defaultValue: CTA_LABEL })}</>;
+}
