@@ -3,7 +3,7 @@
     "eyebrow": "Our Services",
     "headingLead": "Everything your practice needs to",
     "headingHighlight": "grow online.",
-    "intro": "From custom websites to SEO and patient acquisition, every service is designed to help dermatology practices attract, convert, and retain more patients online.",
+    "intro": "Our dermatology website design services, SEO and patient acquisition work together to help practices attract, convert, and retain more patients online.",
     "exploreAriaLabel": "Explore {{title}} services",
     "exploreCta": "Explore {{title}}",
     "mostPopular": "Most Popular",
@@ -11,15 +11,42 @@
     "footerHighlight": "We'll build a custom plan for your practice.",
     "footerCta": "Get a Free Quote",
     "items": {
-      "customWebsite": { "title": "Custom Website Design", "description": "Conversion-focused dermatology sites built around your brand and patient journey." },
-      "redesign": { "title": "Website Redesign", "description": "Modernize your existing site with faster load times, better UX, and higher conversion." },
-      "migration": { "title": "Website Migration", "description": "Seamlessly migrate your existing site with zero downtime and no lost SEO value." },
-      "multiLocation": { "title": "Multi-Location Practices", "description": "Scalable architecture and local SEO for clinics with multiple offices." },
-      "ecommerce": { "title": "E-commerce Websites", "description": "Sell skincare products online with secure checkout and inventory built in." },
-      "patientPortal": { "title": "Patient Portal", "description": "Secure, HIPAA-aware patient portals for intake, records, and communication." },
-      "maintenance": { "title": "Website Care & Maintenance", "description": "Ongoing updates, backups, security, and performance monitoring for peace of mind." },
-      "seo": { "title": "SEO for Dermatologists", "description": "Rank for high-intent searches and bring qualified patients to your practice." },
-      "googleAds": { "title": "Google Ads & PPC", "description": "Predictable, measurable patient acquisition with optimized ad campaigns." }
+      "customWebsite": {
+        "title": "Custom Website Design for Skin Clinics",
+        "description": "Conversion-focused dermatology sites built around your brand and patient journey."
+      },
+      "redesign": {
+        "title": "Website Redesign",
+        "description": "Modernize your existing site with faster load times, better UX, and higher conversion."
+      },
+      "migration": {
+        "title": "Website Migration",
+        "description": "Seamlessly migrate your existing site with zero downtime and no lost SEO value."
+      },
+      "multiLocation": {
+        "title": "Multi-Location Practices",
+        "description": "Scalable architecture and local SEO for clinics with multiple offices."
+      },
+      "ecommerce": {
+        "title": "E-commerce Websites",
+        "description": "Sell skincare products online with secure checkout and inventory built in."
+      },
+      "patientPortal": {
+        "title": "Patient Portal",
+        "description": "Secure, HIPAA-aware patient portals for intake, records, and communication."
+      },
+      "maintenance": {
+        "title": "Website Care & Maintenance",
+        "description": "Ongoing updates, backups, security, and performance monitoring for peace of mind."
+      },
+      "seo": {
+        "title": "SEO for Dermatologists",
+        "description": "Rank for high-intent searches and bring qualified patients to your practice."
+      },
+      "googleAds": {
+        "title": "Google Ads & PPC",
+        "description": "Predictable, measurable patient acquisition with optimized ad campaigns."
+      }
     }
   },
   "pricing": {
@@ -31,10 +58,26 @@
     "seeDetails": "See Details",
     "fullBreakdown": "See full pricing breakdown & feature comparison",
     "tiers": {
-      "starter": { "name": "Starter", "pages": "1 Page", "description": "Perfect for new dermatologists launching their first professional website." },
-      "clinicPro": { "name": "Clinic Pro", "pages": "5–8 Pages", "description": "Ideal for solo and small practices ready to attract more patient appointments." },
-      "practiceGrowth": { "name": "Practice Growth", "pages": "10–15 Pages", "description": "Built for growing clinics that need stronger SEO, conversions, and long-term growth." },
-      "enterprise": { "name": "Enterprise", "pages": "15+ Pages / Custom", "description": "Custom solutions for multi-location practices, enterprise dermatology groups, and skincare e-commerce brands." }
+      "starter": {
+        "name": "Starter",
+        "pages": "1 Page",
+        "description": "Perfect for new dermatologists launching their first professional website."
+      },
+      "clinicPro": {
+        "name": "Clinic Pro",
+        "pages": "5–8 Pages",
+        "description": "Ideal for solo and small practices ready to attract more patient appointments."
+      },
+      "practiceGrowth": {
+        "name": "Practice Growth",
+        "pages": "10–15 Pages",
+        "description": "Built for growing clinics that need stronger SEO, conversions, and long-term growth."
+      },
+      "enterprise": {
+        "name": "Enterprise",
+        "pages": "15+ Pages / Custom",
+        "description": "Custom solutions for multi-location practices, enterprise dermatology groups, and skincare e-commerce brands."
+      }
     }
   },
   "approach": {
@@ -122,12 +165,24 @@
     "eyebrowSuffix": "— DermatologyWebsiteDesign.com",
     "headingLead": "The Only Agency",
     "headingHighlight": "100% Focused on Dermatology",
-    "intro": "Generic web agencies build websites. We build patient pipelines — designed specifically for how dermatology practices grow.",
+    "intro": "Generic web agencies build websites. Our dermatology website design builds patient pipelines, made specifically for how dermatology practices grow.",
     "reasons": {
-      "pricing": { "title": "Transparent Pricing", "description": "Every package has a published price. No discovery calls required just to learn our rates. 75% of competitors hide pricing — we don't." },
-      "niche": { "title": "Dermatology-Only Niche", "description": "We don't build restaurant sites or e-commerce shops. We know HIPAA compliance, before/after photo rules, and cosmetic procedure SEO inside out." },
-      "noLockIn": { "title": "No Long-Term Lock-In", "description": "Month-to-month care plans. No 12-month agency contracts that hold you hostage. We earn your business every single month." },
-      "rank": { "title": "Built to Rank on Google", "description": "Every site ships with proper on-page SEO, schema markup, Core Web Vitals optimization, and a content strategy — not as an add-on, as a foundation." }
+      "pricing": {
+        "title": "Transparent Pricing",
+        "description": "Every package has a published price. No discovery calls required just to learn our rates. 75% of competitors hide pricing — we don't."
+      },
+      "niche": {
+        "title": "Dermatology-Only Niche",
+        "description": "We don't build restaurant sites or e-commerce shops. We know HIPAA compliance, before/after photo rules, and cosmetic procedure SEO inside out."
+      },
+      "noLockIn": {
+        "title": "No Long-Term Lock-In",
+        "description": "Month-to-month care plans. No 12-month agency contracts that hold you hostage. We earn your business every single month."
+      },
+      "rank": {
+        "title": "Built to Rank on Google",
+        "description": "Every site ships with proper on-page SEO, schema markup, Core Web Vitals optimization, and a content strategy — not as an add-on, as a foundation."
+      }
     }
   },
   "whySwitch": {
@@ -141,12 +196,36 @@
     "mobileOthersLabel": "Most agencies",
     "mobileUsLabel": "Our Approach",
     "rows": {
-      "focus": { "matter": "Industry Focus", "others": "Serve every industry", "us": "100% Dermatology focused" },
-      "seo": { "matter": "SEO Strategy", "others": "General SEO", "us": "Dermatology-specific SEO" },
-      "hipaa": { "matter": "HIPAA Knowledge", "others": "Limited healthcare experience", "us": "Compliance-aware from day one" },
-      "goal": { "matter": "Website Goal", "others": "Beautiful website", "us": "More patient inquiries" },
-      "afterLaunch": { "matter": "After Launch", "others": "Project completed", "us": "Continuous support & growth" },
-      "pricing": { "matter": "Pricing", "others": "Often custom quotes", "us": "Transparent published pricing" }
+      "focus": {
+        "matter": "Industry Focus",
+        "others": "Serve every industry",
+        "us": "100% Dermatology focused"
+      },
+      "seo": {
+        "matter": "SEO Strategy",
+        "others": "General SEO",
+        "us": "Dermatology-specific SEO"
+      },
+      "hipaa": {
+        "matter": "HIPAA Knowledge",
+        "others": "Limited healthcare experience",
+        "us": "Compliance-aware from day one"
+      },
+      "goal": {
+        "matter": "Website Goal",
+        "others": "Beautiful website",
+        "us": "More patient inquiries"
+      },
+      "afterLaunch": {
+        "matter": "After Launch",
+        "others": "Project completed",
+        "us": "Continuous support & growth"
+      },
+      "pricing": {
+        "matter": "Pricing",
+        "others": "Often custom quotes",
+        "us": "Transparent published pricing"
+      }
     }
   },
   "testimonials": {
@@ -157,12 +236,36 @@
     "nextAria": "Next testimonials",
     "goToSlide": "Go to slide {{n}}",
     "items": {
-      "sarahM": { "quote": "Our practice saw a 40% increase in new patient inquiries within 3 months of launching our new site. The HIPAA compliance setup was handled seamlessly — we didn't have to worry about a thing.", "role": "Board-Certified Dermatologist", "practice": "RS Institute" },
-      "rajK": { "quote": "I'd worked with three web agencies before — none of them understood dermatology. These guys knew exactly what treatment pages I needed, how to structure the before/after gallery, and the site ranks on page 1 now.", "role": "Cosmetic Dermatologist", "practice": "LA Dermatology" },
-      "jenniferL": { "quote": "The pricing was clear upfront, the build timeline was accurate, and they even helped us set up our skincare product store. Best investment our practice has made in years.", "role": "Practice Manager", "practice": "SC Associates" },
-      "ameliaC": { "quote": "They rewrote every service page in a way that actually sounds like our practice. Consult requests through the site have more than doubled since the relaunch.", "role": "Medical Director", "practice": "ND Group" },
-      "hanaS": { "quote": "Beautiful, fast, and genuinely on-brand. Patients comment on the site constantly — it sets the tone before they even walk in the door.", "role": "Lead Dermatologist", "practice": "MS Clinic" },
-      "elliotN": { "quote": "Transparent monthly reporting, real SEO progress, and a design team that pushes back when it matters. Exactly the partner we were hoping to find.", "role": "Managing Partner", "practice": "SD Partners" }
+      "sarahM": {
+        "quote": "Our practice saw a 40% increase in new patient inquiries within 3 months of launching our new site. The HIPAA compliance setup was handled seamlessly — we didn't have to worry about a thing.",
+        "role": "Board-Certified Dermatologist",
+        "practice": "RS Institute"
+      },
+      "rajK": {
+        "quote": "I'd worked with three web agencies before — none of them understood dermatology. These guys knew exactly what treatment pages I needed, how to structure the before/after gallery, and the site ranks on page 1 now.",
+        "role": "Cosmetic Dermatologist",
+        "practice": "LA Dermatology"
+      },
+      "jenniferL": {
+        "quote": "The pricing was clear upfront, the build timeline was accurate, and they even helped us set up our skincare product store. Best investment our practice has made in years.",
+        "role": "Practice Manager",
+        "practice": "SC Associates"
+      },
+      "ameliaC": {
+        "quote": "They rewrote every service page in a way that actually sounds like our practice. Consult requests through the site have more than doubled since the relaunch.",
+        "role": "Medical Director",
+        "practice": "ND Group"
+      },
+      "hanaS": {
+        "quote": "Beautiful, fast, and genuinely on-brand. Patients comment on the site constantly — it sets the tone before they even walk in the door.",
+        "role": "Lead Dermatologist",
+        "practice": "MS Clinic"
+      },
+      "elliotN": {
+        "quote": "Transparent monthly reporting, real SEO progress, and a design team that pushes back when it matters. Exactly the partner we were hoping to find.",
+        "role": "Managing Partner",
+        "practice": "SD Partners"
+      }
     }
   },
   "freeAudit": {
@@ -199,11 +302,26 @@
     "intro": "A quick look at what dermatology practices ask before working with us. Need more detail? The full FAQ has everything.",
     "seeAll": "See all FAQs",
     "items": {
-      "timeline": { "q": "How long does it take to launch a new dermatology website?", "a": "Most projects go live in 4–6 weeks — from discovery to launch. Timelines depend on content readiness and scope, and we share a clear week-by-week roadmap during onboarding." },
-      "hipaa": { "q": "Do you handle HIPAA compliance and patient privacy?", "a": "Yes. Every build is HIPAA-aware: secure hosting, encrypted forms, BAA-ready integrations for contact and intake, and a compliance review before launch." },
-      "ranking": { "q": "Will my new website actually help me rank on Google?", "a": "SEO is engineered in from day one — dermatology-specific schema, service and location pages, Core Web Vitals of 95+, and an on-page structure built to earn rankings for the searches that drive bookings." },
-      "migration": { "q": "Can you migrate my existing site without losing traffic?", "a": "We run a zero-downtime migration with full 301 redirect mapping, preserved metadata, and a post-launch crawl audit — so rankings and referral traffic carry over cleanly." },
-      "support": { "q": "What does ongoing support look like after launch?", "a": "You get a dedicated point of contact, monthly reporting, continuous CRO and SEO tuning, plus technical maintenance — so the site keeps compounding results, not going stale." }
+      "timeline": {
+        "q": "How long does it take to launch a new practice site?",
+        "a": "Most projects go live in 4–6 weeks — from discovery to launch. Timelines depend on content readiness and scope, and we share a clear week-by-week roadmap during onboarding."
+      },
+      "hipaa": {
+        "q": "Do you handle HIPAA compliance and patient privacy?",
+        "a": "Yes. Every build is HIPAA-aware: secure hosting, encrypted forms, BAA-ready integrations for contact and intake, and a compliance review before launch."
+      },
+      "ranking": {
+        "q": "Will my new website actually help me rank on Google?",
+        "a": "SEO is engineered in from day one — dermatology-specific schema, service and location pages, Core Web Vitals of 95+, and an on-page structure built to earn rankings for the searches that drive bookings."
+      },
+      "migration": {
+        "q": "Can you migrate my existing site without losing traffic?",
+        "a": "We run a zero-downtime migration with full 301 redirect mapping, preserved metadata, and a post-launch crawl audit — so rankings and referral traffic carry over cleanly."
+      },
+      "support": {
+        "q": "What does ongoing support look like after launch?",
+        "a": "You get a dedicated point of contact, monthly reporting, continuous CRO and SEO tuning, plus technical maintenance — so the site keeps compounding results, not going stale."
+      }
     }
   }
 }

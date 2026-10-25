@@ -2,9 +2,9 @@
   "cta": {
     "eyebrow": "Free Website Audit",
     "headingLead": "Ready to grow your",
-    "headingHighlight": "dermatology practice",
-    "headingTailShort": "?",
-    "headingTailLong": " online?",
+    "headingHighlight": "practice",
+    "headingTailShort": "",
+    "headingTailLong": " online",
     "descriptionShort": "Get a free website audit and a custom growth plan — at no cost.",
     "descriptionLong": "Get a free website audit. We'll review your site, identify growth gaps, and map a plan — at no cost.",
     "button": "Get a Free Quote",
@@ -25,7 +25,7 @@
     "legal": "Legal"
   },
   "services": {
-    "websiteDesign": "Website Design",
+    "websiteDesign": "Custom Website Design for Skin Clinics",
     "websiteRedesign": "Website Redesign",
     "websiteMigration": "Website Migration",
     "websiteManagement": "Website Management",
@@ -59,12 +59,30 @@
     "note": "Privacy & security built into every site"
   },
   "trustBadges": {
-    "hipaa": { "label": "HIPAA-Aware", "note": "Compliance-first design" },
-    "ada": { "label": "ADA Accessible", "note": "WCAG 2.1 Compliant" },
-    "ssl": { "label": "SSL Secured", "note": "256-bit Encryption" },
-    "seo": { "label": "SEO Optimized", "note": "Rank higher on Google" },
-    "mobile": { "label": "Mobile Friendly", "note": "Perfect on all devices" },
-    "speed": { "label": "Fast Loading", "note": "95+ Lighthouse Score" }
+    "hipaa": {
+      "label": "HIPAA-Aware",
+      "note": "Compliance-first design"
+    },
+    "ada": {
+      "label": "ADA Accessible",
+      "note": "WCAG 2.1 Compliant"
+    },
+    "ssl": {
+      "label": "SSL Secured",
+      "note": "256-bit Encryption"
+    },
+    "seo": {
+      "label": "SEO Optimized",
+      "note": "Rank higher on Google"
+    },
+    "mobile": {
+      "label": "Mobile Friendly",
+      "note": "Perfect on all devices"
+    },
+    "speed": {
+      "label": "Fast Loading",
+      "note": "95+ Lighthouse Score"
+    }
   },
   "bottom": {
     "copyright": "© 2026 {{brand}}.",

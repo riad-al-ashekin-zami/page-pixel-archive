@@ -1,31 +1,58 @@
 {
   "meta": {
-    "title": "Dermatology Website Design — HIPAA-Aware Growth Platforms",
-    "description": "HIPAA-aware websites, SEO, and marketing for dermatology practices. Free website audit in 24 hours.",
-    "orgDescription": "HIPAA-aware dermatology website design, SEO, and growth marketing for solo and multi-location practices."
+    "title": "Dermatology Website Design | HIPAA-Aware, SEO-Ready Websites",
+    "description": "Dermatology website design agency building HIPAA-aware, SEO-optimized websites for dermatology practices. Transparent pricing. Free audit.",
+    "orgDescription": "Dermatology website design, SEO, and growth marketing for solo and multi-location dermatology practices."
   },
   "hero": {
     "badge": "HIPAA-Aware",
     "badgeSecondary": "Conversion-Focused",
-    "headline": "Premium websites that grow modern",
-    "headlineAccent": "dermatology practices.",
+    "headline": "Dermatology Website Design That",
+    "headlineAccent": "Brings in More Patients",
     "subhead": "Custom-designed, SEO-optimized websites that build trust, attract new patients, and grow your practice online.",
     "ctaPrimary": "Get a Free Quote",
     "ctaSecondary": "Request Free Audit",
-    "heroImageAlt": "Dermatology website design composition showing desktop, mobile, analytics, booking and HIPAA compliance"
+    "heroImageAlt": "Websites for dermatologists shown on desktop and mobile with analytics, booking and HIPAA compliance"
   },
   "stats": {
-    "websites": { "label": "Dermatology", "sub": "Websites Launched" },
-    "niche": { "label": "Dermatology", "sub": "Niche Focused" },
-    "lighthouse": { "label": "Average Lighthouse", "sub": "Performance" }
+    "websites": {
+      "label": "Dermatology",
+      "sub": "Websites Launched"
+    },
+    "niche": {
+      "label": "Dermatology",
+      "sub": "Niche Focused"
+    },
+    "lighthouse": {
+      "label": "Average Lighthouse",
+      "sub": "Performance"
+    }
   },
   "trust": {
-    "hipaa": { "label": "HIPAA-Aware", "note": "Compliance-First" },
-    "ada": { "label": "ADA Accessible", "note": "WCAG 2.1 Compliant" },
-    "ssl": { "label": "SSL Secured", "note": "256-bit Encryption" },
-    "seo": { "label": "SEO Optimized", "note": "Rank Higher" },
-    "mobile": { "label": "Mobile Friendly", "note": "All Devices" },
-    "speed": { "label": "Fast Loading", "note": "Optimized Speed" }
+    "hipaa": {
+      "label": "HIPAA-Aware",
+      "note": "Compliance-First"
+    },
+    "ada": {
+      "label": "ADA Accessible",
+      "note": "WCAG 2.1 Compliant"
+    },
+    "ssl": {
+      "label": "SSL Secured",
+      "note": "256-bit Encryption"
+    },
+    "seo": {
+      "label": "SEO Optimized",
+      "note": "Rank Higher"
+    },
+    "mobile": {
+      "label": "Mobile Friendly",
+      "note": "All Devices"
+    },
+    "speed": {
+      "label": "Fast Loading",
+      "note": "Optimized Speed"
+    }
   },
   "footer": {
     "startPrefix": "New here? Start with",

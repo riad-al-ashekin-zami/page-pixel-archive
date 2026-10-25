@@ -1,10 +1,10 @@
 {
   "meta": {
     "title": "Free Dermatologist Website Audit — 24-Hour Actionable Report",
-    "description": "Get a free, dermatology-specific website audit. Personalized report on SEO, speed, HIPAA, UX and conversion — delivered within 24 hours.",
+    "description": "Get a free, dermatology-specific website audit. Personalized report on SEO, speed, HIPAA, UX and conversion — delivered within 48 hours.",
     "og": {
       "title": "Free Dermatologist Website Audit",
-      "description": "Personalized website audit for dermatology practices — SEO, speed, HIPAA, UX and conversion. Delivered in 24 hours."
+      "description": "Personalized website audit for dermatology practices — SEO, speed, HIPAA, UX and conversion. Delivered in 48 hours."
     },
     "jsonLd": {
       "home": "Home",
@@ -12,9 +12,9 @@
     }
   },
   "hero": {
-    "badge": "Free · No obligation · 24-hour turnaround",
+    "badge": "Free · No obligation · 48-hour turnaround",
     "title": "A free, human audit of your dermatology website.",
-    "subtitle": "Get a personalized report on SEO, speed, HIPAA, accessibility, and conversion — reviewed by a dermatology specialist, not an automated tool. Delivered within 24 hours.",
+    "subtitle": "Get a personalized report on SEO, speed, HIPAA, accessibility, and conversion — reviewed by a dermatology specialist, not an automated tool. Delivered within 48 hours.",
     "checklist": [
       "Website health scorecard (0–100)",
       "Top 3 priority issues, in plain English",
@@ -50,7 +50,7 @@
       "note": "100% niche focus"
     },
     {
-      "label": "24-hour turnaround",
+      "label": "48-hour turnaround",
       "note": "Report in your inbox"
     },
     {
@@ -122,7 +122,7 @@
       "title": "A report you can actually act on.",
       "description": "No 80-page PDF full of jargon. Just the specific issues that matter for a dermatology practice, ranked by impact, with clear next steps you can hand to any developer or agency — including us.",
       "tags": {
-        "delivery": "24-hour delivery",
+        "delivery": "48-hour delivery",
         "confidential": "Confidential",
         "obligation": "No obligation"
       },
@@ -143,7 +143,7 @@
     },
     "howItWorks": {
       "tag": "How it works",
-      "title": "From request to report in 24 hours.",
+      "title": "From request to report in 48 hours.",
       "steps": [
         {
           "label": "Step 1",
@@ -157,7 +157,7 @@
         },
         {
           "label": "Step 3",
-          "title": "Get your snapshot in 24 hours",
+          "title": "Get your snapshot in 48 hours",
           "body": "Your health score, top 3 issues, and a concise written summary — delivered to your inbox."
         },
         {
@@ -170,7 +170,7 @@
   },
   "form": {
     "tag": "Request your free audit",
-    "title": "Get your report in 24 hours",
+    "title": "Get your report in 48 hours",
     "subtitle": "A few quick fields. No account. No credit card.",
     "fields": {
       "website": {
@@ -211,7 +211,7 @@
     },
     "success": {
       "title": "Request received — thank you.",
-      "body": "We'll review your website and email your report to your email within 24 business hours.",
+      "body": "We'll review your website and email your report to your email within 48 business hours.",
       "cta": "View recent work"
     },
     "errors": {
@@ -246,7 +246,7 @@
       },
       {
         "q": "How long does it take?",
-        "a": "Delivered within 24 hours on business days. If it will take longer for any reason, we email you upfront."
+        "a": "Delivered within 48 hours on business days. If it will take longer for any reason, we email you upfront."
       }
     ]
   },
