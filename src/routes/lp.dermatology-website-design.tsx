@@ -137,7 +137,7 @@ function LandingPage() {
             href="/contact"
             className="inline-flex items-center gap-2 rounded-full bg-gradient-to-r from-teal-500 to-cyan-600 px-4 py-2 text-xs font-semibold text-white shadow-lg transition-transform hover:-translate-y-0.5 sm:px-5 sm:text-sm"
           >
-            Free Quote <ArrowRight className="h-3.5 w-3.5" />
+            Get Your Free Website Audit <ArrowRight className="h-3.5 w-3.5" />
           </a>
         </div>
         <nav aria-label="Section navigation" className="hidden border-t border-slate-200 bg-slate-50 sm:block">
@@ -729,7 +729,7 @@ function LandingPage() {
           <h2 className="mt-6 text-balance text-3xl font-light leading-tight sm:text-4xl lg:text-5xl">
             Ready for a <span className="font-medium">dermatology website that books patients?</span>
           </h2>
-          <p className="mt-4 text-base text-white/95 sm:text-lg">Free quote + custom dermatology mockup + SEO audit — delivered in 48 hours. No obligation.</p>
+          <p className="mt-4 text-base text-white/95 sm:text-lg">Free website audit + custom dermatology mockup + SEO opportunities — delivered in 48 hours. No obligation.</p>
           <div className="mt-8 flex flex-wrap items-center justify-center gap-3">
             <a
               href="/contact"

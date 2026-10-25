@@ -145,7 +145,7 @@ export const pageFaqs: Record<string, Faq[]> = {
     { q: "How quickly will I hear back after reaching out?", a: "Within 1 business day (usually much faster during US business hours). Urgent requests marked 'urgent' in the subject get same-day response." },
     { q: "What happens on the first call?", a: "A 20–30 minute discovery call — we learn about your practice, current site, patient goals, and market. You leave with a clear next-step recommendation whether you work with us or not." },
     { q: "Is the first call really free with no obligation?", a: "Yes. No sales pressure, no obligation. Even if we're not a fit, we send a written summary with pointers so the call is genuinely useful either way." },
-    { q: "Can I email or WhatsApp instead of scheduling a call?", a: "Yes — email info@dermatologywebsitedesign.com or message us on WhatsApp. Response times are the same as scheduled calls." },
+    { q: "Can I email instead of scheduling a call?", a: "Yes — email info@dermatologywebsitedesign.com. Response times are the same as scheduled calls." },
     { q: "Do you work with practices outside the US?", a: "Yes — we work with dermatology practices in the US, UK, Canada, Australia, EU, and the Middle East. Compliance and language handled per market." },
   ],
   "free-audit": [
