@@ -1,0 +1,370 @@
+{
+  "meta": {
+    "title": "E-postmarkedsføring for dermatologer | HIPAA-sikker innkalling, nyhetsbrev og automasjon",
+    "description": "HIPAA-sikker e-postmarkedsføring for hudlegekontor — velkomstserier, 6-måneders automatisert innkalling, sesongbasert opplæring og reaktivering av estetiske pasienter. Vi rapporterer på bestilte timer, ikke bare åpningsrate.",
+    "og": {
+      "title": "E-postmarkedsføring for hudleger — HIPAA-sikker og målbare timebestillinger",
+      "description": "Skreddersydde nyhetsbrev, PMS-baserte innkallingsløp og HIPAA-kompatibel automasjon for hudlegepraksiser. Klaviyo, HubSpot, Mailchimp."
+    },
+    "twitter": {
+      "title": "Tjenester innen e-postmarkedsføring for dermatologi",
+      "description": "HIPAA-sikker e-postmarkedsføring, automatisert innkalling og optimal levering til innboksen for hudlegepraksiser."
+    },
+    "jsonLd": {
+      "serviceType": "E-postmarkedsføring for hudlegepraksiser",
+      "providerName": "DermatologyWebsiteDesign.com",
+      "description": "HIPAA-sikker e-postmarkedsføring, automatisert innkalling og nyhetsbrev-tjenester for dermatologer.",
+      "breadcrumb": {
+        "home": "Hjem",
+        "services": "Tjenester",
+        "emailMarketing": "E-postmarkedsføring"
+      }
+    }
+  },
+  "hero": {
+    "badge": "E-postmarkedsføring for dermatologi",
+    "title": "Innbokser som fyller avtaleboken din.",
+    "description": "HIPAA-sikker e-postmarkedsføring for hudlegepraksiser — velkomstserier, PMS-triggere for automatisk innkalling, sesongbasert rådgivning og estetisk reaktivering. Alle kampanjer rapporteres basert på faktiske bookinger, ikke bare klikk.",
+    "cta": {
+      "audit": "Gratis e-postrevisjon",
+      "flows": "Se de 5 automatiserte løpene"
+    },
+    "stats": {
+      "industryLabel": "bransjesnitt 21 %",
+      "comparison": "+30 poeng vs. grunnlinje",
+      "opensLabel": "12 480 åpninger",
+      "hipaaBadge": "HIPAA-sikker",
+      "openRateLabel": "åpningsrate",
+      "openRateDescription": "Kampanjens åpningsrate"
+    }
+  },
+  "outcomes": {
+    "openRate": "Gjennomsnittlig åpningsrate",
+    "ctr": "Klikkrate (CTR)",
+    "recallLift": "Økning i innkallings-bookinger",
+    "hipaaReview": "HIPAA-sikker gjennomgang av innhold"
+  },
+  "trustBar": {
+    "title": "Foretrukket av over 50 hudlegepraksiser",
+    "badges": [
+      "SPF · Verifisert",
+      "DKIM · Verifisert",
+      "DMARC · Verifisert",
+      "CAN-SPAM"
+    ]
+  },
+  "liveActivity": {
+    "title": "Direkte fra kundedashbord",
+    "status": "Live",
+    "actions": {
+      "opened": "åpnet",
+      "booked": "booket",
+      "clicked": "klikket"
+    },
+    "events": [
+      {
+        "who": "Johanne R.",
+        "campaign": "Vinterplan for huden",
+        "when": "akkurat nå"
+      },
+      {
+        "who": "Priya K.",
+        "campaign": "6-måneders sjekk",
+        "when": "14s siden"
+      },
+      {
+        "who": "Marcus T.",
+        "campaign": "Velkomst · 3 av 5",
+        "when": "42s siden"
+      },
+      {
+        "who": "Sofia L.",
+        "campaign": "Aesthetic lojalitet",
+        "when": "1m siden"
+      },
+      {
+        "who": "David H.",
+        "campaign": "Estetisk reaktivering",
+        "when": "2m siden"
+      },
+      {
+        "who": "Ana M.",
+        "campaign": "Solkrem-guide",
+        "when": "3m siden"
+      }
+    ]
+  },
+  "flows": {
+    "title": "Løpene",
+    "heading": "Fem automatiserte løp som driver praksisens e-post.",
+    "description": "Trigget direkte fra din PMS/EHR — velkomst, innkalling, informasjon, estetiske tilbud og rapportering. Ingenting gjøres manuelt.",
+    "items": [
+      {
+        "step": "STEG 01",
+        "title": "Velkomst og onboarding",
+        "desc": "Serie på 5 e-poster til nye pasienter — hva de kan forvente, forberedelser, vanlige spørsmål og enkle lenker for ombooking."
+      },
+      {
+        "step": "STEG 02",
+        "title": "Innkalling og re-engasjement",
+        "desc": "Påminnelser om 6 / 12-måneders sjekk automatisk trigget fra din PMS — med full sporing av hver eneste booking."
+      },
+      {
+        "step": "STEG 03",
+        "title": "Opplæring og sesonger",
+        "desc": "Akne om sommeren, eksem om vinteren, solbeskyttelse i mai — en 12-måneders redaksjonell kalender tilpasset dine tjenester."
+      },
+      {
+        "step": "STEG 04",
+        "title": "Estetiske tilbud og mersalg",
+        "desc": "Samtykkebasert mersalg for kosmetiske tjenester — lojalitetsprogram for Aesthetic, laserserier og medisinsk hudpleie."
+      },
+      {
+        "step": "STEG 05",
+        "title": "Rapportering på bookinger",
+        "desc": "Hver kampanje måles på faktiske avtaler og omsetning — ikke bare hvem som har åpnet og klikket."
+      }
+    ]
+  },
+  "integrations": {
+    "title": "Integrasjoner for PMS / EHR og e-postplattformer",
+    "platforms": [
+      "ModMed / EMA",
+      "Nextech",
+      "DrChrono",
+      "athenahealth",
+      "Klaviyo",
+      "HubSpot",
+      "Mailchimp",
+      "Zapier"
+    ]
+  },
+  "servicesIncluded": {
+    "title": "Hva er inkludert",
+    "heading": "En komplett pakke for e-postmarkedsføring — ett fast månedsbeløp.",
+    "items": [
+      {
+        "title": "Strategi og 12-måneders kalender",
+        "desc": "Målgruppekartlegging, helsesjekk av lister, redaksjonell plan og KPI-er rettet mot faktiske timebestillinger."
+      },
+      {
+        "title": "Segmentert listestruktur",
+        "desc": "Nye pasienter, aktive, fraværende 6/12 mnd, estetiske vs. medisinske — med HIPAA-sikker tagging og samtykkesporing."
+      },
+      {
+        "title": "Skreddersydde maler",
+        "desc": "Responsive HTML-maler i din profil — tilgjengelige fargekontraster, mørk-modus-støtte og ryddig tekstformat."
+      },
+      {
+        "title": "Automatiserte løp og triggere",
+        "desc": "Velkomst, innkalling, bursdag, oppfølging etter besøk og reaktivering — trigget fra PMS/EHR via API eller Zapier."
+      },
+      {
+        "title": "Leveringsevne og autentisering",
+        "desc": "Oppsett av SPF, DKIM, DMARC, oppvarming av domene og overvåking av avsenderrykte — vi når innboksen, ikke søppelposten."
+      },
+      {
+        "title": "Analyse og booking-attribusjon",
+        "desc": "Åpninger, klikk og avmeldinger koblet mot PMS-data for å måle faktiske bookinger og generert omsetning."
+      }
+    ]
+  },
+  "deliverability": {
+    "title": "Leveringsevne",
+    "heading": "Fra søppelpost til primær innboks.",
+    "description": "Autentisering med SPF, DKIM og DMARC, oppvarming av avsender, kvartalsvis vask av lister og overvåking via Google Postmaster og Microsoft SNDS.",
+    "features": [
+      "SPF · DKIM · DMARC verifisert i løpet av 7 dager",
+      "Plan for oppvarming ved plattformbytte",
+      "Vask av e-postlister hver 90. dag",
+      "Ukentlig overvåking av 'bounces' og klager"
+    ],
+    "gaugeLabel": "Innboks-plassering",
+    "timeline": "Gjennomsnittskunde, 60–90 dager etter oppstart."
+  },
+  "abSection": {
+    "title": "Tekst som konverterer",
+    "heading": "Emnefeltet avgjør om det blir en booking eller et sveip.",
+    "demoTitle": "To ord endrer alt.",
+    "badge": "A/B-testing av emnefelt",
+    "inboxPreview": "Forhåndsvisning i innboks",
+    "sender": "Din klinikk",
+    "time": "14:14",
+    "openRateLabel": "Åpningsrate",
+    "whyWins": "Hvorfor B vinner:",
+    "buttons": {
+      "version": "Versjon",
+      "example": "Eksempel"
+    },
+    "notes": [
+      "Personalisering med fornavn + fokus på fordeler.",
+      "Spesifikt tidspunkt + språk som reduserer terskelen."
+    ]
+  },
+  "templateGallery": {
+    "title": "Malgalleri",
+    "heading": "Alltid profesjonell — alltid i henhold til din profil.",
+    "description": "Skreddersydde, responsive maler med universell utforming og korrekt visning i mørk modus.",
+    "cta": "Bestill nå",
+    "templates": [
+      {
+        "name": "Velkomst",
+        "tag": "Serie · 1 av 5",
+        "subject": "Velkommen til oss, Johanne",
+        "body": "Her er hva du kan forvente ved ditt første besøk — og 3 ting det er lurt å ha med for timen."
+      },
+      {
+        "name": "Innkalling",
+        "tag": "Auto · PMS-triggere",
+        "subject": "Tid for din 6-måneders sjekk",
+        "body": "Det er nå 5 måneder siden forrige besøk. Kontroller avdekker 95 % av utfordringer tidlig — book time på to sekunder her."
+      },
+      {
+        "name": "Sesongbasert",
+        "tag": "Redaksjonell · Vinter",
+        "subject": "Vinterhud i balanse — et tips fra Dr. Chen",
+        "body": "Kald luft og oppvarming tørker ut huden. Her er 5-stegsrutinen våre behandlere anbefaler nå."
+      }
+    ]
+  },
+  "liftSlider": {
+    "title": "Effekten",
+    "heading": "Fra 12 % til 42 % åpningsrate — se ringvirkningene.",
+    "description": "Dra bryteren for å flytte åpningsraten fra et typisk utgangspunkt til styrte 42 % — se hvordan bookinger og omsetning følger etter.",
+    "dragLabel": "Dra for å se effekten",
+    "before": "Før:",
+    "after": "Etter:",
+    "metrics": {
+      "booked": "Bookinger / mnd",
+      "revenue": "Omsetning / mnd",
+      "recall": "Gjenvisitt-rate"
+    },
+    "aria": {
+      "slider": "Regulator for åpningsrate på e-post"
+    }
+  },
+  "testimonials": {
+    "title": "Kunderesultater",
+    "heading": "Ekte hudleger. Målbare resultater.",
+    "items": [
+      {
+        "quote": "Bare innkallings-e-postene betalte for månedsprisen den første måneden. Bookingene til 6-måneders sjekk ble tredoblet, og tekstene høres ut som vår egen praksis.",
+        "author": "Dr. E. Park, MD",
+        "role": "Privatpraktiserende hudlege · Seattle, WA"
+      },
+      {
+        "quote": "Ett merke, sju lokasjoner, én felles kalender. HIPAA-sikker segmentering var biten vi aldri fikk til ordentlig på egen hånd.",
+        "author": "Markedsdirektør",
+        "role": "Hudlegegruppe · 7 klinikker · Texas"
+      },
+      {
+        "quote": "Leveringsevnen gikk fra 82 % til 98 % på seks uker. Attribusjon mot faktiske bookinger gjør at vi endelig kan forsvare markedsføringsbudsjettet overfor partnerne.",
+        "author": "Daglig leder",
+        "role": "Mohs og kirurgisk dermatologi · Boston"
+      }
+    ]
+  },
+  "audiences": {
+    "title": "Bygget for",
+    "heading": "Alle typer klinikkmodeller.",
+    "items": [
+      {
+        "title": "Privatpraktiserende hudleger",
+        "desc": "Nyhetsbrev med hudlegens egne stemme som holder timeplanen full — velkomst, reaktivering og oppfølging i én kalender."
+      },
+      {
+        "title": "Klinikker med flere lokasjoner",
+        "desc": "Utsendelser per lokasjon med delt profil — ett dashbord, samlet analyse og HIPAA-sikker segmentering."
+      },
+      {
+        "title": "Barne-dermatologi",
+        "desc": "Informasjonsløp rettet mot foreldre — eksemsesonger, sjekk før skolestart og skånsomme påminnelser."
+      },
+      {
+        "title": "Mohs og kirurgisk dermatologi",
+        "desc": "Forberedelse til operasjon, sjekk av sårtilheling og intervaller for sjekk av hudkreft — tilpasset kliniske milepæler."
+      }
+    ]
+  },
+  "medicalServices": {
+    "title": "Støttede medisinske tjenester",
+    "heading": "E-postløp finjustert for alle dine tjenester.",
+    "description": "Hver tjeneste får sitt eget samtykke-sikre løp med opplæring, riktige intervaller og reaktiveringstaktikk.",
+    "list": [
+      "Aknebehandling",
+      "Eksembehandling",
+      "Psoriasisbehandling",
+      "Behandling av hudinfeksjoner",
+      "Behandling av hudallergi",
+      "Scanning og behandling av hudkreft",
+      "Vurdering og fjerning av føflekker",
+      "Fjerning av cyster og lipomer",
+      "Vortefjerning",
+      "Behandling av neglesykdommer",
+      "Diagnostisering og medisinsk behandling av hårtap",
+      "Behandling av hodebunnslidelser",
+      "Rosaceabehandling",
+      "Hyperpigmentering og melasma",
+      "Arrbehandling (skade, kirurgi, sykdom)",
+      "Behandling av brannskadearr",
+      "Vitiligobehandling",
+      "Hudbiopsi og diagnostiske prosedyrer"
+    ]
+  },
+  "faq": {
+    "title": "Ofte stilte spørsmål",
+    "heading": "Hva hudlegepraksiser lurer på før de starter.",
+    "items": [
+      {
+        "q": "Er det virkelig mulig med HIPAA-kompatibel e-postmarkedsføring?",
+        "a": "Ja — med strenge regler. Vi inkluderer aldri PHI (personlig helseinformasjon) i innhold, emnefelt eller sporingsparametre. Segmentering bruker koder uten PHI (interesser, kampanjer, samtykke), og samtykke hentes eksplisitt. Når sensitive data må flyttes, ruter vi brukerne til en sikker pasientportal i stedet for å eksponere info i e-posten."
+      },
+      {
+        "q": "Hvilke e-postplattformer og PMS/EHR-systemer støtter dere?",
+        "a": "Vi bygger på Klaviyo, HubSpot, Mailchimp, ActiveCampaign eller Customer.io avhengig av størrelse og behov. Klinisk integrerer vi med ModMed / EMA, Nextech, DrChrono, athenahealth og andre via API, HL7 eller Zapier."
+      },
+      {
+        "q": "Hvordan måler dere resultater?",
+        "a": "Hver kampanje måles på faktiske timebestillinger og generert omsetning — ikke bare hvem som åpner eller klikker. Vi bruker UTM-koder på alle lenker, kobler klikk til ditt bookingsystem og leverer månedlige rapporter på inntekt per utsendelse."
+      },
+      {
+        "q": "Hva med leveringsevne og plassering i innboksen?",
+        "a": "Oppsettet inkluderer SPF, DKIM og DMARC-autentisering, oppvarmingsplan for domene, kvartalsvis vask av lister og overvåking via Google Postmaster og Microsoft SNDS. Klinikker går typisk fra 82–88 % til 96–98 % levering i innboksen i løpet av 60–90 dager."
+      },
+      {
+        "q": "Hvor ofte vil dere sende e-post til pasientene våre?",
+        "a": "Hyppigheten tilpasses din liste, ikke en fast mal. De fleste sender 2 nyhetsbrev i måneden pluss automatiske triggere (velkomst, innkalling, bursdag). Vi passer nøye på avmeldingsrater og justerer oss ned umiddelbart ved behov."
+      },
+      {
+        "q": "Skriver dere tekstene, eller gjør vi det selv?",
+        "a": "Vi skriver alt — emnefelt, brødtekst og innhold — med hudlegens stemme som fundament. Ditt team godkjenner hver kampanje i en delt kalender før noe sendes ut."
+      },
+      {
+        "q": "Hvordan er prisingen?",
+        "a": "Fast månedspris basert på listestørrelse og kampanjevolum. Inkludert er strategi, kalender, design, tekstforfatter, automasjon, PMS-integrasjon og månedsrapportering. Ingen skjulte gebyrer eller lange kontrakter etter de første 90 dagene."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Gjør pasientlisten din til din viktigste booking-kanal.",
+    "description": "Gratis 30-minutters e-postrevisjon — inkludert sjekk av leveringsevne, rapport om listehelse og en 90-dagers plan for automatisert innkalling. Ingen forpliktelser.",
+    "auditBtn": "Gratis nettsiderevisjon",
+    "contactBtn": "Kontakt oss",
+    "sticky": {
+      "audit": "Gratis e-postrevisjon",
+      "ariaPhone": "Kontakt oss"
+    }
+  },
+  "footerLinks": {
+    "preface": "Du vil kanskje også se på:",
+    "reputation": "løp for omdømme og anmeldelser",
+    "social": "sosial historiefortelling for praksiser",
+    "cro": "landingssider som konverterer"
+  },
+  "inboxCard": {
+    "conversionNote": "Vi inkluderer oppfølgingssteg, vanlige spørsmål og enkel booking med ett trykk — designet for å konvertere uten bruk av sensitiv helseinformasjon.",
+    "aria": {
+      "expand": "E-post-forhåndsvisning — hold over eller trykk for å utvide"
+    }
+  }
+}

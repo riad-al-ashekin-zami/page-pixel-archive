@@ -1,0 +1,340 @@
+{
+  "meta": {
+    "title": "Redesign dermatologického webu – Modernizace bez ztráty SEO pozic",
+    "description": "Prémiový redesign webových stránek pro dermatology: sólové praxe, multioborové kliniky, pediatrickou i chirurgickou dermatologii. Moderní, rychlé, v souladu se standardy HIPAA a s nulovým propadem SEO při spuštění.",
+    "og_title": "Redesign dermatologického webu – Nulová ztráta SEO",
+    "og_description": "Proměňte svůj zastaralý web na rychlou platformu zaměřenou na konverze a bezpečnost HIPAA. Redirekty 301 a SEO pozice zůstanou zachovány.",
+    "jsonLd": {
+      "serviceType": "Redesign dermatologických webových stránek",
+      "providerName": "DW Design",
+      "offerDescription": "Redesign webových stránek pro dermatologii – vyvolávací cena"
+    }
+  },
+  "hero": {
+    "scarcityBadge": "Poslední 3 volné termíny pro redesign v tomto čtvrtletí",
+    "category": "Redesign dermatologického webu",
+    "h1": {
+      "main": "Modernizujte svůj web. ",
+      "highlight": "Bez rizika propadu v Google vyhledávání."
+    },
+    "description": "Svěřte redesign své kliniky do rukou seniorních expertů. Rychlejší, bezpečnější a reprezentativnější web se zachováním 301 přesměrování, formuláři dle HIPAA a garantovanými SEO pozicemi.",
+    "cta": {
+      "primary": "Získat nezávaznou nabídku",
+      "secondary": "Audit webu zdarma"
+    },
+    "pricing": {
+      "label": "Cena redesignu od",
+      "value": "4 900 USD",
+      "detail": "· pevný rozsah, fakturace podle milníků"
+    },
+    "trustLabels": [
+      "Nulová ztráta SEO",
+      "Žádné výpadky",
+      "HIPAA-ready",
+      "Lighthouse 95+"
+    ],
+    "socialProof": "Důvěřuje nám více než 50 dermatologických klinik · Napsali o nás",
+    "dragHint": "← Posuňte pro porovnání →",
+    "badges": {
+      "before": "Před",
+      "after": "Po",
+      "performance": "Lighthouse 48 → 98",
+      "growth": "+3,4× více rezervací",
+      "seo": "Bez ztráty SEO"
+    },
+    "aria": {
+      "compare": "Zobrazit srovnání před a po redesignu"
+    }
+  },
+  "sections": {
+    "painPoints": {
+      "overhead": "Signály, že potřebujete nový web",
+      "heading": "Přejeďte myší pro řešení",
+      "description": "Každá červená karta představuje běžný problém dermatologických webů. Přejetím (nebo klepnutím) zjistíte, jak ho napravíme.",
+      "cards": [
+        {
+          "pain": "Pomalé načítání",
+          "painStat": "> 4s LCP",
+          "solution": "Edge caching + optimalizace obrázků",
+          "solutionStat": "< 1,2s LCP"
+        },
+        {
+          "pain": "Nefunkční na mobilu",
+          "painStat": "ztráta > 60 % návštěv",
+          "solution": "Mobile-first vývoj",
+          "solutionStat": "100% responzivní"
+        },
+        {
+          "pain": "Neviditelnost na Google",
+          "painStat": "Stránka 3+",
+          "solution": "Schema + on-page SEO",
+          "solutionStat": "Top 3 lokálně"
+        },
+        {
+          "pain": "Zastaralý vzhled",
+          "painStat": "Pokles důvěry",
+          "solution": "Design system na míru",
+          "solutionStat": "Prémiový brand"
+        },
+        {
+          "pain": "Riziko HIPAA",
+          "painStat": "Nezabezpečené formuláře",
+          "solution": "BAA-ready technologie",
+          "solutionStat": "Audit-friendly"
+        },
+        {
+          "pain": "Málo rezervací",
+          "painStat": "< 2% CVR",
+          "solution": "Průchody laděné na konverze",
+          "solutionStat": "6%+ CVR"
+        }
+      ]
+    },
+    "stats": {
+      "overhead": "Zásadní změna",
+      "heading": "Srovnání: Reálné výsledky redesignu",
+      "description": "Průměrné hodnoty u dermatologických klinik, které jsme spustili v posledních 24 měsících.",
+      "labels": {
+        "before": "Dříve",
+        "after": "Nyní"
+      },
+      "items": [
+        {
+          "label": "Načítání stránky (LCP)"
+        },
+        {
+          "label": "Lighthouse skóre"
+        },
+        {
+          "label": "Konverze rezervací"
+        },
+        {
+          "label": "Lokální pozice na Google"
+        }
+      ]
+    },
+    "seoTimeline": {
+      "overhead": "Ochrana SEO",
+      "heading": "Jak chráníme vaše pozice",
+      "description": "90denní pětikrokový protokol, který zajistí, že vás Google (i pacienti) najdou i po spuštění nového webu.",
+      "steps": [
+        {
+          "day": "Den 1",
+          "label": "Kompletní crawl URL + analýza pozic"
+        },
+        {
+          "day": "Týden 2",
+          "label": "Schválení mapy přesměrování 1:1"
+        },
+        {
+          "day": "Spuštění",
+          "label": "Aktivace 301 přesměrování při nasazení"
+        },
+        {
+          "day": "Den 30",
+          "label": "Kontrola a čištění Google Search Console"
+        },
+        {
+          "day": "Den 90",
+          "label": "Monitoring a ladění pozic"
+        }
+      ]
+    },
+    "audiences": {
+      "overhead": "Pro koho tvoříme",
+      "heading": "Redesign pro každý typ dermatologické praxe",
+      "items": [
+        {
+          "label": "Soukromí dermatologové",
+          "desc": "Butikový refresh, který posílí vaši značku a zvýší počet objednávek."
+        },
+        {
+          "label": "Kliniky s více pobočkami",
+          "desc": "Sjednocení roztříštěných webů do jednoho škálovatelného systému pro všechny lokace."
+        },
+        {
+          "label": "Dětská dermatologie",
+          "desc": "Přívětivé UX pro rodiče s jasnými postupy pro příjem a registraci dětí."
+        },
+        {
+          "label": "Mohsova chirurgie",
+          "desc": "Budování autority u referujících lékařů i pacientů vyžadujících specializovaný zákrok."
+        }
+      ]
+    },
+    "pillars": {
+      "overhead": "V čem spočívá kvalita",
+      "heading": "Šest standardů každého redesignu",
+      "description": "Design, technologie, SEO a soulad s předpisy – vše provázané od prvního dne.",
+      "items": [
+        {
+          "title": "Nulová ztráta SEO",
+          "desc": "Přesměrování 301, zachování struktury URL, mapování obsahu a 90denní tracking pozic."
+        },
+        {
+          "title": "100% design na míru",
+          "desc": "Žádné šablony – unikátní systém postavený na brandu a specializacích vaší kliniky."
+        },
+        {
+          "title": "Lighthouse 95+",
+          "desc": "Výkonnostně optimalizovaný kód – moderní formáty obrázků, edge caching a čistý JS."
+        },
+        {
+          "title": "HIPAA-ready",
+          "desc": "Zabezpečené formuláře, hosting s BAA, vyloučení citlivých dat z analytiky."
+        },
+        {
+          "title": "Plná responzivita",
+          "desc": "Perfektní zobrazení na počítačích, tabletech i mobilech – testováno na reálných zařízeních."
+        },
+        {
+          "title": "Přístupnost (WCAG AA)",
+          "desc": "Ovladatelnost klávesnicí, bezpečný kontrast a popisky pro čtečky obrazovky."
+        }
+      ]
+    },
+    "services": {
+      "overhead": "Pokrytí lékařských služeb",
+      "heading": "Stránky služeb optimalizované pro konverzi",
+      "description": "Strukturujeme a textujeme každou stránku léčby – přesně, srozumitelně pro pacienta a s ohledem na klíčová slova pro Google.",
+      "features": [
+        "Analýza klíčových slov v H1 / H2 / FAQ",
+        "Migrace obsahu se zachováním 301",
+        "Bezpečné kontaktní formuláře",
+        "Rychlé a Mobile-first řešení"
+      ],
+      "list": [
+        "Léčba akné",
+        "Léčba ekzému",
+        "Léčba lupénky",
+        "Kožní infekce",
+        "Kožní alergie",
+        "Screening a léčba rakoviny kůže",
+        "Kontrola a odstraňování mateřských znamének",
+        "Odstraňování cyst a lipomů",
+        "Odstraňování bradavic",
+        "Onemocnění nehtů",
+        "Léčba vypadávání vlasů",
+        "Onemocnění pokožky hlavy",
+        "Léčba růžovky (rosacea)",
+        "Hyperpigmentace a melasma",
+        "Léčba jizev",
+        "Korekce jizev po popáleninách",
+        "Léčba vitiliga",
+        "Kožní biopsie a diagnostika"
+      ]
+    },
+    "process": {
+      "overhead": "Proces redesignu",
+      "heading": "Čtyři fáze. Žádná překvapení.",
+      "items": [
+        {
+          "step": "01",
+          "title": "Audit a diagnóza",
+          "desc": "Analýza SEO, výkonu, UX a obsahu stávajícího webu. Určíme, co zachovat a co zlepšit."
+        },
+        {
+          "step": "02",
+          "title": "Architektura a redirekty",
+          "desc": "Nová mapa webu a plán přesměrování 1:1 dříve, než padne jediné rozhodnutí o designu."
+        },
+        {
+          "step": "03",
+          "title": "Design a vývoj",
+          "desc": "Unikátní vizuální styl, ručně psaný kód, formuláře dle HIPAA a implementace schémat."
+        },
+        {
+          "step": "04",
+          "title": "Migrace a spuštění",
+          "desc": "Přesun obsahu, nasazení přesměrování, spuštění bez výpadků a 90denní dozor nad pozicemi."
+        }
+      ]
+    },
+    "portfolio": {
+      "overhead": "Nedávné projekty",
+      "heading": "Proměny před a po",
+      "cta": "Zobrazit celé portfolio",
+      "items": [
+        {
+          "label": "LA Dermatology",
+          "meta": "Před → Po · +187 % rezervací, udržena 1. pozice",
+          "alt": "Redesign webu pro LA Dermatology"
+        },
+        {
+          "label": "RS Institute",
+          "meta": "Sjednocení 6 webů · +142 % návštěvnost",
+          "alt": "Redesign webu pro RS Institute"
+        },
+        {
+          "label": "CM Surgical",
+          "meta": "Redesign · +230 % poptávek od lékařů",
+          "alt": "Redesign webu pro CM Surgical"
+        }
+      ]
+    }
+  },
+  "testimonials": {
+    "aria": {
+      "button": "Reference"
+    },
+    "items": [
+      {
+        "name": "Dr. Ethan Caldwell, MD",
+        "role": "LA Dermatology",
+        "quote": "Redesign proběhl naprosto hladce – neztratili jsme jedinou pozici na Google a do 60 dnů se počet rezervací zdvojnásobil. Web konečně odpovídá kvalitě naší péče."
+      },
+      {
+        "name": "Dr. Ibrahim Okafor, MD",
+        "role": "RS Institute (6 poboček)",
+        "quote": "Sjednotit šest zastaralých webů do jednoho se zdálo nemožné. Tým to zvládl za osm týdnů bez ztráty SEO a každá pobočka se nyní umisťuje lépe než dřív."
+      },
+      {
+        "name": "Dr. Anika Vasquez, MD",
+        "role": "CM Surgical",
+        "quote": "Referující lékaři nám nový web sami chválí. Kvalita poptávek výrazně stoupla, nejen jejich počet. Nejlepší marketingové rozhodnutí roku."
+      }
+    ]
+  },
+  "faq": {
+    "overhead": "Časté dotazy",
+    "heading": "Vše o redesignu",
+    "items": [
+      {
+        "q": "Klesnou mi po redesignu SEO pozice?",
+        "a": "Ne – zachováváme strukturu URL, u změněných cest nastavujeme 301 přesměrování, přenášíme obsah i interní odkazy, migrujeme metadata a pozice monitorujeme 90 dní po spuštění."
+      },
+      {
+        "q": "Jak dlouho redesign trvá?",
+        "a": "Běžný web kliniky trvá 5–8 týdnů. Komplexnější systémy nebo vícepobočkové weby 8–12 týdnů. Postupujeme podle jasně daného harmonogramu."
+      },
+      {
+        "q": "Převedete můj stávající obsah?",
+        "a": "Ano. Revidujeme, strukturujeme a migrujeme každou stránku – služby, profily lékařů, fotogalerii před a po, blog i formuláře – do nové architektury."
+      },
+      {
+        "q": "Lze web propojit s mým rezervačním systémem?",
+        "a": "Ano. Integrujeme web s běžnými dermatologickými systémy pro správu pacientů, portály, rezervačními widgety i CRM nástroji. To vše s důrazem na HIPAA."
+      },
+      {
+        "q": "Co když mám smlouvu s jinou agenturou?",
+        "a": "Můžeme začít s plánováním během vaší výpovědní lhůty a web spustit přesně v den, kdy skončí platnost původních stránek. Bez jediné vteřiny výpadku."
+      }
+    ]
+  },
+  "cta": {
+    "overhead": "Audit webu zdarma",
+    "heading": "Je čas poslat váš starý web do důchodu?",
+    "description": "Pošlete nám svou URL. Osobně ji prověříme a ukážeme vám, co vás stojí nové pacienty – a jak to redesign vyřeší, aniž by ohrozil vaše dosavadní SEO.",
+    "logoAlt": "DW – Design dermatologických webů",
+    "providerName": "Dermatology Website Design",
+    "providerRole": "Pomáháme dermatologům růst v digitálním světě",
+    "primary": "Získat nabídku na redesign",
+    "secondary": "Kontaktujte nás",
+    "footerLinksPrefix": "Mohlo by vás také zajímat: ",
+    "footerLinks": {
+      "migration": "plánování kompletní migrace webu",
+      "maintenance": "následná péče po spuštění",
+      "portfolio": "ukázky dermatologických webů"
+    }
+  }
+}

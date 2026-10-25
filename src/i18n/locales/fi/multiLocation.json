@@ -1,0 +1,442 @@
+{
+  "meta": {
+    "title": "Dermatologisen monitoimipisteverkkosivuston suunnittelu | Yksi brändi, jokainen kaupunki",
+    "description": "Premium-tason verkkosivusuunnittelu usean toimipisteen ihotautiklinikoille. Hallittu brändijärjestelmä, toimipistekohtainen SEO, Google Business Profile jokaiselle klinikalle, yhtenäinen ajanvaraus ja HIPAA-valmius. Löydy jokaisessa palvelemassasi kaupungissa.",
+    "og_title": "Dermatologisen monitoimipisteverkkosivuston suunnittelu | Yksi brändi, jokainen kaupunki",
+    "og_description": "Suunnittelemme hallitun usean toimipisteen ihotautisivuston, joka sijoittuu kaupunkikohtaisesti, konvertoi paikallisesti ja skaalautuu klinikoiden määrän kasvaessa. HIPAA-valmius, Lighthouse 95+ ja aito paikallinen SEO.",
+    "jsonLd": {
+      "serviceType": "Multi-Location Dermatology Website Design",
+      "providerName": "DW Design",
+      "audienceType": "Multi-Location Dermatology Clinics",
+      "offerDescription": "Usean toimipisteen ihotautisivuston suunnittelu — alkaen-hinta"
+    }
+  },
+  "hero": {
+    "badge": "Yksi brändi · Jokainen kaupunki · Täysin indeksoitu",
+    "title": "Monitoimipistekohtainen ihotautisivusto, joka hallitsee hakutuloksia jokaisessa sijainnissa.",
+    "description": "Hallittu brändijärjestelmä, yksilöllinen indeksoitu sivu jokaiselle klinikalle, toimipistekohtainen schema, GBP, arvostelut ja ajanvaraus. Näin potilas näkee paikallisen asiantuntijan, ei kasvotonta ketjua.",
+    "cta": "Suunnittele toimipisteverkkosivustosi",
+    "secondary_cta": "Maksuton paikallinen SEO-auditointi",
+    "stats": {
+      "brand": {
+        "value": "1 brändi",
+        "description": "Hallittu design-järjestelmä"
+      },
+      "locations": "Skaalautuu toimipisteisiin",
+      "performance": "Lighthouse-tulos jokaisella sivulla"
+    },
+    "rank_badge": {
+      "label": "Reaaliaikainen sijoitus",
+      "value": "Top 3",
+      "subtext": "jokaisessa kaupungissa, ≤ 60 päivässä"
+    },
+    "image_alt": "Ihotautiklinikkaverkon kartta ja yhtenäinen brändin hallintapaneeli"
+  },
+  "scaler": {
+    "eyebrow": "Interaktiivinen · Sijaintien skaalaaja",
+    "title": "Vedä nähdäksesi paikallinen jalanjälkesi.",
+    "description": "Katso kuinka monta indeksoitua paikallissivua sivustosi sisältää – yksi jokaiselle klinikalle sekä tärkeimmät palvelusivut kaupunkikohtaisesti.",
+    "label": "Toimipisteet:",
+    "range_hint": "2 – 10",
+    "stat_indexed": "Indeksoitua paikallissivua",
+    "stat_gbp": "GBP-profiilia hallinnassa",
+    "browser_placeholder": "klinikkasi.fi/toimipisteet",
+    "local_number": "Paikallinen numero"
+  },
+  "sections": {
+    "audiences": {
+      "eyebrow": "Kenelle tämä on",
+      "title": "Rakennettu ihotautibrändeille, jotka toimivat useammalla postinumeroalueella.",
+      "items": [
+        {
+          "label": "Skaalautuvat yksityislääkärit",
+          "desc": "Avaat toista tai kolmatta toimipistettäsi ja yhden sivun taktiikka ei enää riitä."
+        },
+        {
+          "label": "Monitoimipisteiset klinikat",
+          "desc": "3–20 toimipistettä yhden brändin alla, jotka tarvitsevat kaupunkikohtaista näkyvyyttä ja yhden CMS-hallinnan."
+        },
+        {
+          "label": "Lasten ihotautiryhmät",
+          "desc": "Vanhemmille suunnattu asiointi, joka yhdistää potilaan oikeaan paikalliseen asiantuntijaan."
+        },
+        {
+          "label": "Mohs- ja kirurgiset verkostot",
+          "desc": "Lähettäville lääkäreille suunnatut portaalit klinikkatasoisella sisältöhallinnalla."
+        }
+      ]
+    },
+    "problems": {
+      "eyebrow": "Mitä me korjaamme",
+      "title": "Useimmat monitoimipistesivustot ovat vain yhden klinikan pohjia uudella nimellä.",
+      "description": "Google näkee vain yhden sivun. Potilaat näkevät vain yhden osoitteen. Arvostelut kasaantuvat väärille toimipisteille. Me rakennamme arkkitehtuurin uudelleen perustuksia myöten.",
+      "labels": {
+        "before": "Ennen",
+        "after": "Jälkeen"
+      },
+      "items": [
+        {
+          "before": "Yksi /yhteystiedot-sivu 6 klinikalle",
+          "after": "6 indeksoitua paikallista sivua"
+        },
+        {
+          "before": "Sama H1-otsikko joka sijainnissa",
+          "after": "Kaupunkikohtainen H1 + schema"
+        },
+        {
+          "before": "GBP hallinnoimatta tai vahvistamatta",
+          "after": "GBP per klinikka, kytkettynä sivustoon"
+        },
+        {
+          "before": "Potilaat varaavat väärästä toimipisteestä",
+          "after": "Postinumero- ja URL-tunnistava varaus"
+        },
+        {
+          "before": "Jaetut arvostelut, ei paikallista luottamusta",
+          "after": "Toimipistekohtaiset arvostelut & tähdet"
+        },
+        {
+          "before": "Uusi sijainti = 6 viikon remontti",
+          "after": "Uusi sijainti julkaistu < 7 päivässä"
+        }
+      ]
+    },
+    "pillars": {
+      "eyebrow": "Järjestelmä",
+      "title": "Kuusi pilaria jokaisen monitoimipistetoteutuksen takana.",
+      "items": [
+        {
+          "title": "Hallittu brändijärjestelmä",
+          "desc": "Yksi muotokieli, komponenttikirjasto ja tyylit – jokainen sijaintisivu perii ne automaattisesti."
+        },
+        {
+          "title": "Toimipistekohtainen SEO",
+          "desc": "Yksilölliset URL-osoitteet, schema-tiedot ja sisällöt jokaiselle toimistolle – indeksoidaan erillisinä klinikoina."
+        },
+        {
+          "title": "Älykäs sijainnin reititys",
+          "desc": "Postinumerotunnistus ja URL-tietoiset toimintakehotteet. Potilas ei koskaan päädy varaamaan väärään paikkaan."
+        },
+        {
+          "title": "Paikalliset tähtiarvostelut",
+          "desc": "Arvostelut kerätään ja näytetään erikseen jokaiselle klinikalle – aitoa paikallista sosiaalista todisteistoa."
+        },
+        {
+          "title": "Yhtenäinen varaus, paikalliset huoneet",
+          "desc": "Yksi potilaspolku, mutta erilliset kalenterit. Sijaintikohtaiset lääkärit, aukioloajat ja vakuutustiedot."
+        },
+        {
+          "title": "HIPAA-valmius kaikkialla",
+          "desc": "Lomakkeet, potilasportaalit ja analytiikka – BAA-valmius jokaisessa toimipisteessä."
+        }
+      ]
+    },
+    "architecture": {
+      "eyebrow": "URL-arkkitehtuuri",
+      "title": "Jokainen sijainti saa oman indeksoitavan kotinsa.",
+      "description": "Google käsittelee jokaista toimipistettä erillisenä klinikana. Potilaat laskeutuvat heidän hakuaan vastaavalle kaupunkisivulle. Arvostelut, aukioloajat ja lääkärit pysyvät oikeassa toimipisteessä.",
+      "items": [
+        "Toimipiste-indeksi: /toimipisteet",
+        "Sijaintisivu: /toimipisteet/helsinki",
+        "Paikallinen palvelu: /toimipisteet/helsinki/aknehuolto",
+        "Lääkärin esittely: /toimipisteet/helsinki/dr-maki",
+        "Rakenteinen data: LocalBusiness + MedicalClinic per URL"
+      ],
+      "visual": {
+        "title": "URL-suunnitelma",
+        "status": "Indeksoitu"
+      }
+    },
+    "seoMatrix": {
+      "eyebrow": "Paikallinen SEO-matriisi",
+      "title": "Jokainen kaupunki × jokainen palvelu, indeksoituna ja näkyvillä.",
+      "description": "Esimerkki 4 toimipisteen brändistä: 12 tärkeintä palvelusivua × 4 kaupunkia = 48 yksilöllisesti sijoittuvaa sivua sijaintisivujen lisäksi.",
+      "table": {
+        "head_service": "Palvelu",
+        "cities": [
+          "Helsinki",
+          "Espoo",
+          "Tampere",
+          "Vantaa"
+        ],
+        "services": [
+          "Aknehoidot",
+          "Ekseeman hoito",
+          "Luomitarkastus",
+          "Luomen poisto",
+          "Rosacean hoito",
+          "Psoriasis-hoidot"
+        ]
+      }
+    },
+    "medicalServices": {
+      "eyebrow": "Kattavat lääketieteelliset palvelut",
+      "title": "Kaikki tarvittavat palvelut toimipistekohtaisesti.",
+      "description": "Jokainen klinikka näyttää vain siellä todella tarjottavat palvelut, vakuutusyhteydet ja lääkärit. Ei sekaannuksia, ei turhia ajanvarausyrityksiä.",
+      "list": [
+        "Aknehoidot",
+        "Ekseeman hoito",
+        "Psoriasis-hoidot",
+        "Ihoinfektioiden hoito",
+        "Ihoallergioiden hoito",
+        "Ihosyövän seulonta ja hoito",
+        "Luomitarkastus ja poisto",
+        "Kystien ja lipoomien poisto",
+        "Syylien poisto",
+        "Kynsianomalioiden hoito",
+        "Hiustenlähdön hoito",
+        "Päänahan ongelmien hoito",
+        "Rosacean hoito",
+        "Hyperpigmentaatio ja melasma",
+        "Arpien hoito",
+        "Palovammojen arpien hoito",
+        "Vitiligon hoito",
+        "Ihonäytteet ja diagnostiikka"
+      ]
+    },
+    "deliverables": {
+      "eyebrow": "Mitä toimitetaan",
+      "title": "12 konkreettista julkaisutuotetta.",
+      "list": [
+        "Hallittu monitoimipiste-designjärjestelmä",
+        "Yksilöllinen ländäri jokaiselle klinikalle",
+        "LocalBusiness + MedicalClinic schema jokaiseen sijaintiin",
+        "Toimipistekohtainen Google Business Profile -asetus",
+        "Postinumero-pohjainen sijainninvalitsin",
+        "Paikalliset lääkäriesittelyt ja klinikkakuvat",
+        "Kaupunkikohtaiset palvelusivut",
+        "Toimipistekohtaisten arvostelujen keruu ja näyttö",
+        "Yhtenäinen ajanvarausvirta sijaintitietoisuudella",
+        "HIPAA-valmiit lomakkeet kaikissa sijainneissa",
+        "Core Web Vitals 95+ jokaisella sijaintisivulla",
+        "Sijaintitietoinen analytiikkapaneeli"
+      ]
+    },
+    "timeline": {
+      "eyebrow": "Prosessi",
+      "title": "Kuusi virstanpylvästä. Yksi julkaisupäivä.",
+      "steps": [
+        {
+          "step": "01",
+          "title": "Brändi- ja sijaintiauditointi",
+          "desc": "Kartoitamme jokaisen toimipisteen, lääkärin, palvelun, vakuutusyhtiön ja nykyiset GBP-profiilit. Etsimme päällekkäisyydet ja NAP-virheet."
+        },
+        {
+          "step": "02",
+          "title": "Hallittu design-järjestelmä",
+          "desc": "Yksi brändipaketti ja komponenttikirjasto. Jokainen uusi sijaintisivu noudattaa tätä automaattisesti ilman poikkeamia."
+        },
+        {
+          "step": "03",
+          "title": "Sijaintikohtainen IA ja sisältö",
+          "desc": "URL-rakenne, kaupunkikohtaiset H1-otsikot, lääkärikartoitus ja yksilölliset paikalliset sisältörungot."
+        },
+        {
+          "step": "04",
+          "title": "Rakennus ja paikallinen SEO",
+          "desc": "Jokainen sivu sisältää scheman, upotetun kartan, NAP-tiedot, GBP-linkin ja kaupunkikohtaiset palvelusivut."
+        },
+        {
+          "step": "05",
+          "title": "Laitetestaus ja HIPAA-katselmus",
+          "desc": "Jokainen sivu testataan kaikilla laitteilla. Lomakkeet auditoidaan BAA-vaatimusten mukaisesti."
+        },
+        {
+          "step": "06",
+          "title": "Julkaisu ja paikallinen näkyvyys",
+          "desc": "GBP-vahvistukset, Search Console + GA4 -määritykset ja paikallisten sijoitusten seuranta 90 päivän ajan."
+        }
+      ]
+    },
+    "comparison": {
+      "eyebrow": "Miksi valita meidät",
+      "title": "Tee-se-itse, yleistoimisto tai dermatologiaan erikoistunut kumppani.",
+      "table": {
+        "head_capability": "Ominaisuus",
+        "head_diy": "DIY-työkalut",
+        "head_generic": "Yleistoimisto",
+        "head_dw": "DW Design",
+        "recommended": "SUOSITELTU",
+        "rows": [
+          "Yksilölliset indeksoidut sivut per sijainti",
+          "LocalBusiness schema per klinikka",
+          "Toimipistekohtainen Google Business Profile",
+          "Paikkatiedon tunnistava ajanvaraus",
+          "Skaalautuva hallittu brändijärjestelmä",
+          "Sijaintikohtaiset arvostelut schemalla",
+          "HIPAA-valmiit lomakkeet kaikkialla",
+          "Lighthouse 95+ jokaisella sivulla"
+        ]
+      }
+    },
+    "pricing": {
+      "eyebrow": "Investointi",
+      "title": "Hinnoittelu perustuu klinikkamäärään.",
+      "custom_quote_text": "Yli 10 toimipistettä tai suuret ketjut — pyydä räätälöity tarjous.",
+      "custom_quote_link": "pyydä räätälöity tarjous",
+      "starting_label": "alkaen",
+      "most_popular": "Suosituin",
+      "market_label": "Markkinahinta:",
+      "tiers": [
+        {
+          "name": "2–3 Toimipistettä",
+          "price": "$6,900",
+          "tag": "Kasvava klinikka",
+          "market": "$15,000 – $28,000",
+          "savings": "54–75 % edullisempi",
+          "features": [
+            "Hallittu brändijärjestelmä",
+            "Jopa 3 indeksoitua sijaintisivua",
+            "LocalBusiness schema per klinikka",
+            "GBP-asetukset jokaiselle sijainnille",
+            "Sijaintitietoinen ajanvaraus",
+            "Julkaisu 5–7 viikossa"
+          ]
+        },
+        {
+          "name": "4–6 Toimipistettä",
+          "price": "$11,400",
+          "tag": "Suosituin",
+          "market": "$25,000 – $50,000",
+          "savings": "54–77 % edullisempi",
+          "features": [
+            "Kaikki Growing Practice -tason edut",
+            "Jopa 6 indeksoitua sijaintisivua",
+            "Kaupunkikohtaiset palvelusivut",
+            "Paikallisten arvostelujen keruu",
+            "Postinumerotunnistus",
+            "Julkaisu 7–9 viikossa"
+          ]
+        },
+        {
+          "name": "7–10 Toimipistettä",
+          "price": "$18,900",
+          "tag": "Alueellinen verkosto",
+          "market": "$45,000 – $90,000",
+          "savings": "58–79 % edullisempi",
+          "features": [
+            "Kaikki Most Popular -tason edut",
+            "Jopa 10 indeksoitua sijaintisivua",
+            "Lääkäri–toimipiste-matching",
+            "Klinikkakohtainen vakuutustietokanta",
+            "Sijaintikohtainen analytiikka",
+            "Julkaisu 9–12 viikossa"
+          ]
+        }
+      ],
+      "cta": "Aloita tästä"
+    },
+    "gallery": {
+      "eyebrow": "Toteutettuja projekteja",
+      "title": "Hallittu järjestelmä aidoilla klinikoilla.",
+      "description": "Kaksi sisäkuvaa toiminnassa olevista monitoimipistemerkeistä. Kuvat anonymisoitu HIPAA- ja salassapitosopimusten vuoksi.",
+      "nda_badge": "NDA",
+      "items": [
+        {
+          "label": "Vastaanotto · Toimipiste A",
+          "city": "Helsingin metropolialue"
+        },
+        {
+          "label": "Hoitohuone · Toimipiste B",
+          "city": "Tampereen seutu"
+        }
+      ]
+    },
+    "caseStudy": {
+      "eyebrow": "Anonymisoitu case-tutkimus",
+      "title": "6 toimipisteen ihotautiryhmä · 90 päivän tulokset.",
+      "description": "Nimet ja tiedot on poistettu salassapitosopimuksen nojalla. Metriikat haettu Google Search Consolesta ja GA4-palvelusta.",
+      "verified": "Vahvistettu",
+      "metrics": [
+        {
+          "k": "+41 %",
+          "label": "Uudet potilaspuhelut",
+          "sub": "vs. 90 pv ennen julkaisua"
+        },
+        {
+          "k": "Top 3",
+          "label": "Paikallinen hakunäkyvyys",
+          "sub": "jokaisessa 6 kaupungissa"
+        },
+        {
+          "k": "48",
+          "label": "Indeksoitua paikallissivua",
+          "sub": "aiemman 1 yhteystiedot-sivun sijaan"
+        },
+        {
+          "k": "97",
+          "label": "Lighthouse-keskiarvo",
+          "sub": "jokaisella sijaintisivulla"
+        }
+      ],
+      "chart": {
+        "title": "Uudet potilaspuhelut · viikoittain",
+        "description": "Ennen julkaisua → Päivä 90",
+        "pre": "Ennen julkaisua",
+        "post": "Julkaisun jälkeen",
+        "anonymized": "Asiakas anonymisoitu"
+      }
+    },
+    "testimonial": {
+      "quote": "Siirryimme yhdestä yhteystiedot-sivusta kuuteen täysin indeksoituun klinikkasivuun, joista jokainen sijoittui kaupunkinsa kärkeen 60 päivässä. Uusien potilaiden puhelut kasvoivat +41 % — ja avasimme 7. toimipisteen ilman, että sivuston arkkitehtuuriin tarvitsi edes koskea.",
+      "author": "Dr. Rachel Patel",
+      "title": "Toimitusjohtaja, 7 toimipisteen ihotautiryhmät",
+      "trust_strip": "Luotettavat ihotautiverkostot toimivat kaupungeissa",
+      "cities": [
+        "Helsinki",
+        "Espoo",
+        "Tampere",
+        "Vantaa",
+        "Oulu",
+        "Turku"
+      ]
+    }
+  },
+  "faq": {
+    "eyebrow": "Usein kysyttyä",
+    "title": "Vastauksia monitoimipistesivustoista.",
+    "items": [
+      {
+        "q": "Miten monitoimipistesivusto sijoittuu Googlessa jokaisessa kaupungissa?",
+        "a": "Jokainen toimipiste saa oman indeksoidun URL-osoitteen (esim. /toimipisteet/helsinki), jossa on uniikki H1, kaupunkikohtainen sisältö, oma LocalBusiness + MedicalClinic schema, upotettu Google Map ja toimipistekohtaiset arvostelut. Hakunäkyvyys rakentuu kaupunki kerrallaan, ei vain bränditasolla."
+      },
+      {
+        "q": "Voivatko potilaat varata ajan suoraan tiettyyn toimipisteeseen?",
+        "a": "Kyllä. Ajanvarausprosessi tunnistaa sijainnin heti alussa – joko URL-osoitteen, postinumerotunnistuksen tai valikon perusteella. Potilaan ei tarvitse arvailla, mihin toimistoon hän on aikaa varaamassa."
+      },
+      {
+        "q": "Miten pidätte huolen, ettei 10+ sijaintisivua tunnu kopioilta?",
+        "a": "Käytämme hallittua brändijärjestelmää, mutta uniikkia sisältöä: aitoja valokuvia, kyseisen toimiston lääkäriesittelyjä, paikallisia UKK-osioita, hyväksytyt vakuutukset kyseisellä klinikalla ja ajo-ohjeet paikallisten maamerkkien avulla.Google lukee ne erillisinä yksikköinä – potilas kokee paikallista asiantuntemusta."
+      },
+      {
+        "q": "Mitä jos lisäämme tai suljemme toimipisteen myöhemmin?",
+        "a": "Uudet sijainnit luodaan valmiista brändipohjasta alle viikossa. Suljetut sijainnit ohjataan 301-uudelleenohjauksella lähimpään toimipisteeseen lääkärin siirtymiskartan kera, jotta hakukonesijoitukset eivät katoa."
+      },
+      {
+        "q": "Hoituuko Google Business Profile -asetukset jokaiselle sijainnille?",
+        "a": "Kyllä. Vahvistamme ja optimoimme GBP:n jokaiselle pisteelle, kytkemme arvostelujen keruun sivustoon ja yhdenmukaistamme NAP-tiedot tärkeimmissä lääkärihakemistoissa. Paikallinen näkyvyys kuuluu julkaisuun, ei lisämyyntinä."
+      },
+      {
+        "q": "Kuinka kauan monitoimipistesivuston julkaisu kestää?",
+        "a": "5–7 viikkoa 2–4 sijainnille, 7–10 viikkoa 5–10 sijainnille ja 10–14 viikkoa suuremmille ketjuille tai monimutkaisille EHR-integraatioille. Meillä on kiinteät viikottaiset tavoitteet ja sovittu julkaisupäivä heti alussa."
+      }
+    ]
+  },
+  "cta_founder": {
+    "title": "Jokainen julkaistu sijainti on henkilökohtainen vastuullamme.",
+    "description": "Otamme vain rajoitetun määrän monitoimipisteprojekteja neljänneksittäin, jotta jokainen sivu valmistuu tinkimättömällä laadulla. Jos kasvusuunnitelmasi sisältää useamman osoitteen, suunnitellaan arkkitehtuuri ennen ensimmäistäkään pikseliä.",
+    "cta_quote": "Hanki maksuton tarjous",
+    "cta_msg": "Lähetä viesti",
+    "footer_title": "Ihotautisivustojen suunnittelu",
+    "footer_sub": "Autamme ihotautilääkäreitä kasvamaan digitaalisesti",
+    "logo_alt": "DW — Dermatologinen verkkosivusuunnittelu"
+  },
+  "footer_nav": {
+    "useful_hint": "Sinua saattaisi kiinnostaa myös:",
+    "links": {
+      "single": "yksittäisen klinikan sivusuunnittelu",
+      "seo": "miten paikallinen hakunäkyvyys toimii",
+      "portfolio": "kurkistus tuoreisiin klinikkayhteistöihin"
+    }
+  }
+}

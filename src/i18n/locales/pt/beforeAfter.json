@@ -1,0 +1,329 @@
+{
+  "meta": {
+    "title": "Galeria Antes e Depois em Dermatologia — Portefólio de Casos Premium",
+    "description": "Galeria antes e depois premium e conforme com HIPAA para clínicas de dermatologia. Slider interativo, filtros inteligentes por patologia e médico, vistas cronológicas e CTAs de marcação.",
+    "ogTitle": "Galeria Antes e Depois em Dermatologia — Portefólio de Casos Premium",
+    "ogDescription": "Slider interativo, consentimento HIPAA, filtros inteligentes e CTAs de conversão — concebida para práticas dermatológicas.",
+    "jsonLdName": "DermatologyWebsiteDesign.com",
+    "jsonLdServiceType": "Design de Galerias Antes e Depois para Dermatologia"
+  },
+  "hero": {
+    "badge": "Galeria Antes e Depois",
+    "headingMain": "Mostre a transformação.",
+    "headingAccent": "Aumente as marcações.",
+    "description": "Uma galeria antes e depois premium, em conformidade com HIPAA, desenhada para clínicas de dermatologia — com comparações interativas, filtros inteligentes, linhas do tempo e agendamento de consultas num toque.",
+    "ctaBuild": "Criar a minha Galeria",
+    "ctaAudit": "Auditoria Gratuita à Galeria",
+    "features": [
+      "Consentimento HIPAA",
+      "Slider interativo",
+      "Filtros inteligentes",
+      "60fps em dispositivos móveis"
+    ],
+    "imageAlt": "Antes e depois de tratamento de acne — resultado aos 3 meses",
+    "imageCaption": "Arraste o cursor — é em tempo real.",
+    "imageStats": "Acne · 3 meses · Dra. Vasquez"
+  },
+  "stats": [
+    {
+      "value": "2500+",
+      "label": "Casos documentados em galerias ativas"
+    },
+    {
+      "value": "100%",
+      "label": "Captura de consentimento HIPAA em cada upload"
+    },
+    {
+      "value": "60fps",
+      "label": "Interação do slider em mobile, tablet e desktop"
+    },
+    {
+      "value": "95+",
+      "label": "Pontuação média Lighthouse nas páginas da galeria"
+    }
+  ],
+  "pillars": {
+    "heading": "Cada detalhe projetado para converter.",
+    "subheading": "Seis pilares que distinguem uma galeria de resultados dermatológicos real de uma grelha de fotos comum.",
+    "items": [
+      {
+        "title": "Slider Interativo",
+        "desc": "Comparações antes/depois com arrasto fluido a 60fps em qualquer dispositivo."
+      },
+      {
+        "title": "Filtragem Inteligente",
+        "desc": "Filtre por patologia, tratamento, médico, tipo de pele e escala de Fitzpatrick — resultados instantâneos."
+      },
+      {
+        "title": "Imagens de Nível Profissional",
+        "desc": "Guias de iluminação, distância e ângulo consistentes para que cada caso pareça uma transformação real."
+      },
+      {
+        "title": "Consentimento HIPAA",
+        "desc": "Captura de consentimento integrada, fluxo de revogação e registo de auditoria em todos os casos carregados."
+      },
+      {
+        "title": "Marcos Cronológicos",
+        "desc": "Vistas comparativas: Semana 2 · Mês 1 · Mês 3 · Mês 6 para tratamentos com evolução gradual."
+      },
+      {
+        "title": "Atribuição ao Especialista",
+        "desc": "Cada caso ligado ao médico assistente — confiança, crédito e fluxos de recomendação integrados."
+      }
+    ]
+  },
+  "gallery": {
+    "heading": "A galeria, em direto.",
+    "subheading": "Exemplos de casos interativos. Filtre por patologia — cada cartão permite comparar ao arrastar.",
+    "filterLabel": "Filtrar",
+    "filters": [
+      "Todos",
+      "Acne",
+      "Melasmas",
+      "Rosácea",
+      "Revisão de Cicatrizes",
+      "Queda de Cabelo",
+      "Vitiligo"
+    ],
+    "card": {
+      "beforeLabel": "Antes",
+      "afterLabel": "Depois",
+      "ariaLabel": "Slider de comparação antes e depois",
+      "dragAriaLabel": "Arraste para comparar",
+      "bookCTA": "Marcar este tratamento"
+    },
+    "cases": [
+      {
+        "concern": "Acne",
+        "months": "3 meses",
+        "severity": "Moderada",
+        "provider": "Dra. Vasquez",
+        "desc": "Protocolo combinado de retinóide + LED, resolução de HPI documentada às 12 semanas."
+      },
+      {
+        "concern": "Melasmas",
+        "months": "4 meses",
+        "severity": "Dérmico profundo",
+        "provider": "Dr. Okafor",
+        "desc": "Creme de tripla ação manipulado + disciplina rigorosa de SPF. Fitzpatrick IV."
+      },
+      {
+        "concern": "Rosácea",
+        "months": "6 meses",
+        "severity": "Papulopustular",
+        "provider": "Dr. Caldwell",
+        "desc": "Laser vascular + terapia oral — eritema reduzido nas bochechas e nariz."
+      },
+      {
+        "concern": "Cicatrizes",
+        "months": "5 meses",
+        "severity": "Cicatrizes de acne atróficas",
+        "provider": "Dra. Vasquez",
+        "desc": "Série de laser fracionado (x4). Reconstrução da textura sem perda de pigmento."
+      },
+      {
+        "concern": "Queda de Cabelo",
+        "months": "9 meses",
+        "severity": "Androgenética (Ludwig II)",
+        "provider": "Dr. Okafor",
+        "desc": "PRP + terapia médica — recuperação de densidade medida nas zonas temporal e vértice."
+      },
+      {
+        "concern": "Vitiligo",
+        "months": "12 meses",
+        "severity": "Facial segmentar",
+        "provider": "Dr. Caldwell",
+        "desc": "UVB de banda estreita + inibidor tópico da calcineurina. Repigmentação em progresso."
+      }
+    ]
+  },
+  "timeline": {
+    "badge": "Vista Cronológica",
+    "heading": "Acompanhe a evolução do tratamento, semana a semana.",
+    "subheading": "Para tratamentos com resultados graduais — uma linha do tempo ajustável que mantém as expectativas dos pacientes realistas e otimistas.",
+    "caseDetails": "Melasmas · Fitzpatrick IV · Dra. Vasquez",
+    "caseDesc": "Protocolo de tripla ação manipulado com uso diário de SPF de amplo espetro. Marcos documentados às semanas 0, 4, 12 e 24 — os pacientes veem o percurso, não apenas o fim.",
+    "stages": [
+      {
+        "label": "Semana 0",
+        "short": "Base"
+      },
+      {
+        "label": "Semana 4",
+        "short": "Resposta inicial"
+      },
+      {
+        "label": "Semana 12",
+        "short": "Ponto de viragem"
+      },
+      {
+        "label": "Semana 24",
+        "short": "Resultado sustentado"
+      }
+    ]
+  },
+  "trustBar": {
+    "label": "A confiança de clínicas de dermatologia em destaque no",
+    "marks": [
+      {
+        "name": "Design Web Derm",
+        "sub": "50+ lançamentos"
+      },
+      {
+        "name": "HIPAA",
+        "sub": "Por predefinição"
+      },
+      {
+        "name": "SLA de Disponibilidade",
+        "sub": "99.99%"
+      },
+      {
+        "name": "Resposta de Emergência",
+        "sub": "<15 min"
+      },
+      {
+        "name": "Mensal",
+        "sub": "Sem fidelização"
+      },
+      {
+        "name": "Propriedade Total",
+        "sub": "Código + Conteúdo"
+      }
+    ]
+  },
+  "audiences": {
+    "heading": "Feito para todo o tipo de clínicas dermatológicas.",
+    "subheading": "Prática individual, multi-localização, pediátrica ou cirúrgica — uma estrutura de galeria adaptada a cada uma.",
+    "items": [
+      {
+        "label": "Dermatologistas Individuais",
+        "desc": "Exiba os seus resultados de assinatura com uma galeria que converte consultas em marcações."
+      },
+      {
+        "label": "Clínicas Multi-localização",
+        "desc": "Filtragem por clínica e por médico para que cada unidade receba crédito pelos seus sucessos."
+      },
+      {
+        "label": "Dermatologia Pediátrica",
+        "desc": "Fluxos de consentimento seguros para pais, anonimização de identificadores e um ritmo visual tranquilizador."
+      },
+      {
+        "label": "Cirurgia de Mohs e Dermatológica",
+        "desc": "Galerias de resultados cirúrgicos com linhas do tempo de cicatrização e notas clínicas prontas para referenciação."
+      }
+    ]
+  },
+  "medicalServices": {
+    "heading": "Cada serviço de dermatologia médica, documentado.",
+    "subheading": "Protocolos de caso e modelos fotográficos pré-configurados para os tratamentos mais procurados.",
+    "list": [
+      "Tratamento de Acne",
+      "Tratamento de Eczema",
+      "Tratamento de Psoríase",
+      "Infeções Cutâneas",
+      "Alergias Cutâneas",
+      "Rastreio de Cancro da Pele",
+      "Avaliação e Remoção de Sinais",
+      "Remoção de Quistos e Lipomas",
+      "Remoção de Verrugas",
+      "Tratamento de Doenças das Unhas",
+      "Tratamento de Queda de Cabelo",
+      "Doenças do Couro Cabeludo",
+      "Tratamento de Rosácea",
+      "Hiperpigmentação e Melasmas",
+      "Tratamento de Cicatrizes",
+      "Cicatrizes de Queimaduras",
+      "Tratamento de Vitiligo",
+      "Biópsia e Diagnósticos"
+    ]
+  },
+  "flow": {
+    "heading": "Da foto à consulta marcada.",
+    "subheading": "Um fluxo de quatro passos que a sua receção pode gerir — sem necessidade de programadores.",
+    "steps": [
+      {
+        "num": "01",
+        "title": "Recolha do Caso",
+        "desc": "Protocolo fotográfico estruturado — ângulo, distância, iluminação e fundo neutro capturados em cada visita."
+      },
+      {
+        "num": "02",
+        "title": "Consentimento e Tags",
+        "desc": "Assinatura digital de consentimento específico (web, impresso, social). Casos categorizados por patologia, médico e severidade."
+      },
+      {
+        "num": "03",
+        "title": "Curadoria e Publicação",
+        "desc": "A sua equipa publica na galeria com dois cliques. Slider, filtros e vista cronológica — tudo integrado."
+      },
+      {
+        "num": "04",
+        "title": "Conversão em Consulta",
+        "desc": "Cada cartão de caso tem um CTA 'Marcar este tratamento' que abre a página de serviço e formulário corretos."
+      }
+    ]
+  },
+  "testimonials": {
+    "heading": "Dermatologistas que entregam resultados.",
+    "subheading": "Clínicas reais, resultados tangíveis na galeria.",
+    "items": [
+      {
+        "name": "Dr. Ethan Caldwell, MD",
+        "role": "LA Dermatology",
+        "quote": "A nossa galeria antes/depois é agora a segunda página com mais tráfego. As marcações de consultas triplicaram em 90 dias."
+      },
+      {
+        "name": "Dra. Anika Vasquez, MD",
+        "role": "CM Surgical",
+        "quote": "Só o fluxo de consentimento já valeu o investimento. Finalmente publicamos resultados cirúrgicos sem dores de cabeça de compliance."
+      },
+      {
+        "name": "Dr. Ibrahim Okafor, MD",
+        "role": "RS Institute · 6 localizações",
+        "quote": "O filtro por médico mudou tudo. Cada especialista tem um portefólio que orgulhosamente envia para referenciações."
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Dúvidas sobre a galeria, respondidas.",
+    "subheading": "HIPAA, consentimento, performance e o que é necessário para lançar.",
+    "items": [
+      {
+        "q": "Como lidam com HIPAA e o consentimento do paciente?",
+        "a": "Cada caso exige um consentimento digital datado com permissões separadas para uso web, impresso e redes sociais — incluindo um fluxo de revogação que remove o caso em 24 horas. Todos os registos têm trilha de auditoria."
+      },
+      {
+        "q": "Posso filtrar casos por médico, tratamento e tipo de pele?",
+        "a": "Sim. Cada caso é etiquetado com patologia, protocolo, tipo de pele Fitzpatrick, gravidade, médico e tempo decorrido. Os visitantes filtram em tempo real com resultados partilháveis via URL."
+      },
+      {
+        "q": "Que qualidade e consistência de imagem são necessárias?",
+        "a": "Fornecemos um protocolo fotográfico (ângulo, distância, fundo neutro) e formação opcional. O nosso sistema sinaliza uploads inconsistentes antes de serem publicados."
+      },
+      {
+        "q": "O slider é adaptado para telemóveis?",
+        "a": "Sim. Arrastar, fazer pinch-to-zoom e deslizar entre casos está otimizado para mobile a 60fps. O cursor cumpre as diretrizes de acessibilidade e respeita preferências de movimento reduzido."
+      },
+      {
+        "q": "Podemos mostrar resultados cirúrgicos (Mohs, excisões)?",
+        "a": "Sim — com linhas do tempo de cicatrização (Semana 2 / Mês 1 / Mês 3 / Mês 6) e avisos de conteúdo sensível opcionais. Notas clínicas detalhadas acompanham cada caso cirúrgico."
+      },
+      {
+        "q": "A galeria vai tornar o meu site mais lento?",
+        "a": "Não. As imagens são carregadas via lazy-load, servidas em AVIF/WebP através de CDN e têm blur progressivo. As galerias mantêm habitualmente pontuações Lighthouse Performance superiores a 95."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Pronto para transformar resultados em faturação?",
+    "subheading": "Obtenha uma galeria antes e depois personalizada para dermatologia — segura (HIPAA), ultra-rápida e desenhada para gerar consultas.",
+    "btnQuote": "Pedir Orçamento",
+    "btnContact": "Fale connosco"
+  },
+  "footerLinks": {
+    "prefix": "Também útil:",
+    "link1": "design de sites para clínicas de dermatologia",
+    "link2": "como as redes sociais amplificam resultados",
+    "link3": "histórias reais de crescimento de clínicas"
+  }
+}

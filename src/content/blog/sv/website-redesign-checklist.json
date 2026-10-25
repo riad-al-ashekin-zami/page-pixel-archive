@@ -1,0 +1,78 @@
+{
+  "slug": "website-redesign-checklist",
+  "title": "Checklista för omdesign av webbplats för dermatologiska praktiker",
+  "excerpt": "32 frågor att besvara innan du rör en enda pixel – från HIPAA-formulär till omvandling av hjältar.",
+  "imageAlt": "Mockup av en modern dermatologikliniks webbplats på en stationär dator och surfplatta i ett ljust kontor",
+  "body": [
+    {
+      "text": "En omdesign som hoppar över förstudiefasen är bara en dyr uppfräschning. Innan vi öppnar ett designverktyg kör vi varje praktik genom denna 32-frågemchecklista gällande varumärke, konvertering, regelefterlevnad och teknisk beredskap. Syftet med checklistan är inte att sakta ner saker – det är att se till att de pixlar du så småningom trycker faktiskt tjänar en strategi istället för en moodboard."
+    },
+    {
+      "text": "De flesta omdesigner misslyckas av en av tre anledningar: praktiken definierade aldrig vad en 'bra' webbplats betyder för deras mål, intags- och bokningsflödet är utformat kring intern bekvämlighet istället för patientbeteende, eller teamet lanserar en webbplats som bryter mot HIPAA eftersom spårning ställdes in på autopilot. Varje avsnitt nedan är utformat för att fånga en av dessa misslyckandeorsaker innan det kostar dig 40k och sex månader."
+    },
+    {
+      "heading": "Varumärke och positionering"
+    },
+    {
+      "list": [
+        "Vem är din ideala patient i en mening? (ålder, kön, inkomst, primärt problem)",
+        "Vilka är de tre konkurrenterna dina patienter jämför dig med?",
+        "Vilken är den enda känslan du vill att besökare ska ha inom 5 sekunder?",
+        "Om någon beskrev din praktik för en vän i en mening, vad skulle du vilja att de sa?",
+        "Vilka bevis har du för att denna positionering är sann – recensioner, resultat, meriter?"
+      ]
+    },
+    {
+      "text": "Om du inte kan svara på dessa fem frågor i ett delat dokument som hela ditt team är överens om, är du inte redo att designa en startsida – du är redo att köra en positioneringsworkshop."
+    },
+    {
+      "heading": "Konvertering och bokningsflöde"
+    },
+    {
+      "text": "Varje extra fält i ditt intagsformulär minskar konverteringen med 4–6%. Varje extra klick mellan hero-sektionen och bokningsåtgärden minskar konverteringen med 8–12%. Omdesignen är rätt tillfälle att granska varje steg i tratten, skoningslöst ta bort allt som inte är nödvändigt och instrumentera sökvägen så att du kan bevisa vad som faktiskt påverkar resultatet efter lanseringen."
+    },
+    {
+      "list": [
+        "Hur många klick från startsidan till bokad tid idag?",
+        "Vad är din konverteringsgrad för mobilbokningar idag?",
+        "Hur många formulärfält krävs idag, och vilka används faktiskt?",
+        "Vad är den primära CTA:n på din startsida – och är den synlig utan att scrolla på mobilen?",
+        "Vad händer efter att ett formulär har skickats – finns det ett bekräftelsemejl inom 30 sekunder?"
+      ]
+    },
+    {
+      "heading": "HIPAA och efterlevnad"
+    },
+    {
+      "text": "HIPAA-efterlevnaden kring webbspårning har eskalerat dramatiskt sedan 2022. Om din omdesign ärver din nuvarande chattwidget, formulärleverantör eller analysinställning utan en efterlevnadsgranskning, lanserar du en ny webbplats med en gammal skuld."
+    },
+    {
+      "list": [
+        "Är chattwidgets konfigurerade för att ta bort PHI från loggar?",
+        "Skickar dina intagsformulär data via en krypterad kanal till en HIPAA-kompatibel destination?",
+        "Har du undertecknat BAA:er med varje tredjepartstjänst som hanterar patientdata?",
+        "Är din Meta Pixel konfigurerad med server-side filtrering på alla sidor som nämner tillstånd?",
+        "Döljer ditt session-replay-verktyg formulärfält som standard?"
+      ]
+    },
+    {
+      "heading": "Teknisk beredskap"
+    },
+    {
+      "text": "Den tekniska sektionen är där de flesta omdesigner tyst går sönder. En vacker webbplats som laddar på sex sekunder med 4G kommer att förlora mot en enkel webbplats som laddar på två. En webbplats med trasiga omdirigeringar kommer att förlora de placeringar du arbetat två år för att få. Hantera det tråkiga först."
+    },
+    {
+      "list": [
+        "Har du en komplett inventering av nuvarande URL:er och deras inkommande bakåtlänkar?",
+        "Har du en 1-till-1 omdirigeringskarta från den gamla webbplatsen till den nya?",
+        "Vad är din målbild för LCP, CLS och INP för lansering – och hur kommer du att verifiera det?",
+        "Vem äger åtkomsten till Search Console, och är egendomen verifierad?",
+        "Har du planerat en genomsökning av staging-webbplatsen innan DNS-omställningen?"
+      ]
+    },
+    {
+      "text": "Svara ärligt på varje fråga i denna checklista innan du skapar den första wireframen. De team som levererar omdesigner utan ånger är de team som behandlar upptäcktsfasen som en leverans, inte en eftertanke. Två veckor med disciplinerade svar nu sparar två kvartal av ombyggnad senare."
+    }
+  ],
+  "faqs": null
+}

@@ -1,0 +1,329 @@
+{
+  "meta": {
+    "title": "Før og etter-galleri for dermatologi — Premium caseshowcase",
+    "description": "Premium, HIPAA-aware før- og etter-galleri for hudlegepraksiser. Dra-for-å-sammenligne, smarte filtre for diagnose og behandler, tidslinjevisning og CTA-er for konsultasjonsbooking.",
+    "ogTitle": "Før og etter-galleri for dermatologi — Premium caseshowcase",
+    "ogDescription": "Interaktiv dra-for-å-sammenligne-funksjon, HIPAA-aware samtykke, smarte filtre og konverteringsdrevne CTA-er — bygget for hudleger.",
+    "jsonLdName": "DermatologyWebsiteDesign.com",
+    "jsonLdServiceType": "Design av før- og etter-gallerier for dermatologi"
+  },
+  "hero": {
+    "badge": "Før- og etter-galleri",
+    "headingMain": "Vis forvandlingen.",
+    "headingAccent": "Øk antall bookinger.",
+    "description": "Et premium, HIPAA-aware før- og etter-galleri skreddersydd for hudlegepraksiser — med interaktiv sammenligning, smarte filtre, tidslinjevisning og ett-klikks booking.",
+    "ctaBuild": "Bygg mitt galleri",
+    "ctaAudit": "Gratis gjennomgang av galleri",
+    "features": [
+      "HIPAA-aware samtykke",
+      "Interaktiv sammenligning",
+      "Smarte filtre",
+      "60fps på mobil"
+    ],
+    "imageAlt": "Aknebehandling før og etter — 3 måneders resultat",
+    "imageCaption": "Dra i håndtaket — opplev forskjellen live.",
+    "imageStats": "Akne · 3 måneder · Dr. Vasquez"
+  },
+  "stats": [
+    {
+      "value": "2500+",
+      "label": "Dokumenterte caser i aktive gallerier"
+    },
+    {
+      "value": "100%",
+      "label": "HIPAA-aware samtykke ved hver opplasting"
+    },
+    {
+      "value": "60fps",
+      "label": "Sømløs slider-interaksjon på alle enheter"
+    },
+    {
+      "value": "95+",
+      "label": "Gjennomsnittlig Lighthouse-score på gallerisider"
+    }
+  ],
+  "pillars": {
+    "heading": "Hver detalj er utviklet for å konvertere.",
+    "subheading": "Seks søyler som skiller et profesjonelt resultatgalleri fra et vanlig bildegalleri.",
+    "items": [
+      {
+        "title": "Interaktiv slider",
+        "desc": "Dra-for-å-sammenligne med silkemyk 60fps-respons på mobil, nettbrett og desktop."
+      },
+      {
+        "title": "Smart filtrering",
+        "desc": "Filtrer etter hudtilstand, behandling, behandler, hudtype og Fitzpatrick-skala — umiddelbare resultater."
+      },
+      {
+        "title": "Studio-kvalitet på bilder",
+        "desc": "Veiledning for konsistent belysning, avstand og vinkler, slik at hver case ser profesjonell ut."
+      },
+      {
+        "title": "HIPAA-aware samtykke",
+        "desc": "Integrert innhenting av pasientsamtykke, rutiner for tilbaketrekking og sporbarhet for hver case."
+      },
+      {
+        "title": "Tidslinje-milepæler",
+        "desc": "Visning av uke 2, måned 1, 3 og 6 for behandlinger som utvikler seg over tid."
+      },
+      {
+        "title": "Behandler-attribuering",
+        "desc": "Hver case knyttes til behandlende lege — bygger tillit og tydeliggjør ekspertise."
+      }
+    ]
+  },
+  "gallery": {
+    "heading": "Galleriet, live.",
+    "subheading": "Interaktive eksempler. Filtrer etter hudtilstand — dra for å sammenligne bildene.",
+    "filterLabel": "Filtrer",
+    "filters": [
+      "Alle",
+      "Akne",
+      "Melasma",
+      "Rosacea",
+      "Arr-korrigering",
+      "Hårtap",
+      "Vitiligo"
+    ],
+    "card": {
+      "beforeLabel": "Før",
+      "afterLabel": "Etter",
+      "ariaLabel": "Slider for sammenligning av før og etter",
+      "dragAriaLabel": "Dra for å sammenligne",
+      "bookCTA": "Book denne behandlingen"
+    },
+    "cases": [
+      {
+        "concern": "Akne",
+        "months": "3 måneder",
+        "severity": "Moderat",
+        "provider": "Dr. Vasquez",
+        "desc": "Kombinasjon av retinoid + LED-protokoll, dokumentert bedring av PIH etter 12 uker."
+      },
+      {
+        "concern": "Melasma",
+        "months": "4 måneder",
+        "severity": "Dyp dermal",
+        "provider": "Dr. Okafor",
+        "desc": "Spesialtilpasset lysningskrem + streng SPF-disiplin. Fitzpatrick IV."
+      },
+      {
+        "concern": "Rosacea",
+        "months": "6 måneder",
+        "severity": "Papulopustuløs",
+        "provider": "Dr. Caldwell",
+        "desc": "Vaskulær laser + oral terapi — rødhet redusert over kinn og nese."
+      },
+      {
+        "concern": "Arr-korrigering",
+        "months": "5 måneder",
+        "severity": "Atrofiske aknearr",
+        "provider": "Dr. Vasquez",
+        "desc": "Serie med fraksjonert laser (x4). Gjenoppbygging av tekstur uten pigmenttap."
+      },
+      {
+        "concern": "Hårtap",
+        "months": "9 måneder",
+        "severity": "Androgenetisk (Ludwig II)",
+        "provider": "Dr. Okafor",
+        "desc": "PRP + medisinsk terapi — målt gjenoppretting av tetthet i tinning- og vertex-områder."
+      },
+      {
+        "concern": "Vitiligo",
+        "months": "12 måneder",
+        "severity": "Segmental ansikt",
+        "provider": "Dr. Caldwell",
+        "desc": "Smalbånd UVB + lokal kalsineurininhibitor. Pågående repigmentering."
+      }
+    ]
+  },
+  "timeline": {
+    "badge": "Tidslinjevisning",
+    "heading": "Følg behandlingen uke for uke.",
+    "subheading": "For behandlinger der resultatene tar tid — en interaktiv tidslinje som gir pasientene realistiske forventninger.",
+    "caseDetails": "Melasma · Fitzpatrick IV · Dr. Vasquez",
+    "caseDesc": "Tredelt lysningsprotokoll kombinert med daglig bredspektret SPF. Dokumentert ved uke 0, 4, 12 og 24 — pasienter ser hele prosessen, ikke bare sluttresultatet.",
+    "stages": [
+      {
+        "label": "Uke 0",
+        "short": "Utgangspunkt"
+      },
+      {
+        "label": "Uke 4",
+        "short": "Tidlig respons"
+      },
+      {
+        "label": "Uke 12",
+        "short": "Tydelig vendepunkt"
+      },
+      {
+        "label": "Uke 24",
+        "short": "Varig resultat"
+      }
+    ]
+  },
+  "trustBar": {
+    "label": "Foretrukket av hudleger profilert på",
+    "marks": [
+      {
+        "name": "Dermatology Websites",
+        "sub": "50+ lansert"
+      },
+      {
+        "name": "HIPAA-Aware",
+        "sub": "Som standard"
+      },
+      {
+        "name": "Oppetid SLA",
+        "sub": "99.99%"
+      },
+      {
+        "name": "Responstid",
+        "sub": "<15 min"
+      },
+      {
+        "name": "Måned-til-måned",
+        "sub": "Ingen binding"
+      },
+      {
+        "name": "Fullt eierskap",
+        "sub": "Kode + innhold"
+      }
+    ]
+  },
+  "audiences": {
+    "heading": "Bygget for alle typer hudlegepraksiser.",
+    "subheading": "Fra solopraksiser til klinikker med flere lokasjoner og kirurgiske sentre.",
+    "items": [
+      {
+        "label": "Privatpraktiserende hudleger",
+        "desc": "Vis frem dine resultater med et galleri som gjør besøkende om til konsultasjoner."
+      },
+      {
+        "label": "Klinikkjeder",
+        "desc": "Filtrering per lokasjon og behandler, slik at hver klinikk får vist sine egne resultater."
+      },
+      {
+        "label": "Pediatrisk dermatologi",
+        "desc": "Trygge samtykkeprosesser for foreldre og beroligende visuell presentasjon."
+      },
+      {
+        "label": "Mohs og kirurgisk dermatologi",
+        "desc": "Gallerier for kirurgiske utfall med tidslinjer for tilheling og detaljerte casenotater."
+      }
+    ]
+  },
+  "medicalServices": {
+    "heading": "Alle medisinske hudtjenester, dokumentert.",
+    "subheading": "Case-protokoller og fotomaler forhåndsoppsatt for behandlingene pasienter søker mest etter.",
+    "list": [
+      "Aknebehandling",
+      "Eksembehandling",
+      "Psoriasisbehandling",
+      "Hudinfeksjoner",
+      "Hudallergier",
+      "Føflekksjekk og hudkreftscreening",
+      "Fjerning av føflekker",
+      "Fjerning av cyster og lipomer",
+      "Vortebehandling",
+      "Neglesykdommer",
+      "Hårtap-behandling",
+      "Hodebunnsproblemer",
+      "Rosaceabehandling",
+      "Hyperpigmentering og melasma",
+      "Arrbehandling",
+      "Behandling av brannskadearr",
+      "Vitiligobehandling",
+      "Hudbiopsi og diagnostikk"
+    ]
+  },
+  "flow": {
+    "heading": "Fra bilde til booket konsultasjon.",
+    "subheading": "En firetrinns arbeidsflyt som resepsjonen kan håndtere — ingen utviklere trengs.",
+    "steps": [
+      {
+        "num": "01",
+        "title": "Case-opptak",
+        "desc": "Strukturert fotoprotokoll — vinkel, avstand og lyssetting fanges opp ved hvert besøk."
+      },
+      {
+        "num": "02",
+        "title": "Samtykke og tagging",
+        "desc": "Pasienten signerer digitalt (web, print, sosiale medier). Caser tagges etter tilstand, behandler og alvorlighetsgrad."
+      },
+      {
+        "num": "03",
+        "title": "Kuratering og publisering",
+        "desc": "Teamet ditt publiserer til galleriet med to klikk. Slider, filtre og tidslinje er ferdig integrert."
+      },
+      {
+        "num": "04",
+        "title": "Konvertering",
+        "desc": "Hver case har en 'Book denne behandlingen'-knapp som leder direkte til riktig tjenesteside."
+      }
+    ]
+  },
+  "testimonials": {
+    "heading": "Hudleger som leverer resultater.",
+    "subheading": "Ekte praksiser, ekte resultater fra galleriet.",
+    "items": [
+      {
+        "name": "Dr. Ethan Caldwell, MD",
+        "role": "LA Dermatology",
+        "quote": "Før/etter-galleriet vårt er nå den nest mest besøkte siden etter forsiden. Bookinger fra denne siden ble tredoblet på 90 dager."
+      },
+      {
+        "name": "Dr. Anika Vasquez, MD",
+        "role": "CM Surgical",
+        "quote": "Arbeidsflyten for samtykke var verdt investeringen i seg selv. Endelig kan vi publisere kirurgiske resultater uten bekymring for samsvar."
+      },
+      {
+        "name": "Dr. Ibrahim Okafor, MD",
+        "role": "RS Institute · 6 avdelinger",
+        "quote": "Muligheten til å filtrere etter behandler endret alt. Hver lege har nå en portefølje de er stolte av å vise frem."
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Spørsmål og svar om galleriet.",
+    "subheading": "HIPAA, samtykke, ytelse og lansering.",
+    "items": [
+      {
+        "q": "Hvordan håndteres HIPAA og pasientsamtykke?",
+        "a": "Hver case krever et digitalt samtykke med tidsstempel, der pasienten velger bruk for web, print eller sosiale medier. Det finnes en egen flyt for tilbaketrekking av samtykke som fjerner casen innen 24 timer."
+      },
+      {
+        "q": "Kan jeg filtrere caser etter behandler, behandling og hudtype?",
+        "a": "Ja. Hver case tagges med hudtilstand, protokoll, Fitzpatrick-hudtype, alvorlighetsgrad og behandler. Besøkende kan filtrere live, og resultatene kan deles via URL."
+      },
+      {
+        "q": "Hvilke krav stilles til bildekvalitet?",
+        "a": "Vi leverer en fotoprotokoll (vinkel, avstand, nøytral bakgrunn) og valgfri opplæring for klinikken. Systemet varsler ved uoverensstemmelser før bildene publiseres."
+      },
+      {
+        "q": "Fungerer slideren godt på mobil?",
+        "a": "Ja. Optimalisert for berøring ved 60fps. Slideren følger retningslinjer for trykkflate (44px) og respekterer innstillinger for redusert bevegelse."
+      },
+      {
+        "q": "Kan vi vise kirurgiske resultater (Mohs, eksisjoner)?",
+        "a": "Ja — med tidslinjer for tilheling og valgfri advarsel før sensitivt innhold vises. Casenotater som er nyttige for henvisere kan legges til."
+      },
+      {
+        "q": "Vil galleriet gjøre nettsiden min tregere?",
+        "a": "Nei. Bilder lazy-loades og leveres i moderne formater (AVIF/WebP) via CDN. Galleriene oppnår vanligvis 95+ i Lighthouse Performance."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Klar til å gjøre resultater om til vekst?",
+    "subheading": "Få et skreddersydd før- og etter-galleri — HIPAA-aware, lynraskt og bygget for å øke antall konsultasjoner.",
+    "btnQuote": "Få et pristilbud",
+    "btnContact": "Kontakt oss"
+  },
+  "footerLinks": {
+    "prefix": "Også nyttig:",
+    "link1": "webdesign for hudleger",
+    "link2": "hvordan sosiale medier forsterker resultater",
+    "link3": "historier om praksisvekst"
+  }
+}

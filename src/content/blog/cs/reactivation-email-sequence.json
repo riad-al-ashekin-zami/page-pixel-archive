@@ -1,0 +1,55 @@
+{
+  "slug": "reactivation-email-sequence",
+  "title": "Emailová sekvence pro neaktivní pacienty v hodnotě 180 000 $ ročně",
+  "excerpt": "Šest e-mailů, jedna nabídka a logika segmentace, která vrátí spící pacienty do křesla.",
+  "imageAlt": "Chytrý telefon ukazující měkce osvětlenou schránku vedle šálku kávy a croissantu na plátně",
+  "body": [
+    {
+      "text": "U pacienta, který nenavštívil ordinaci po dobu 12 měsíců, je 4x vyšší pravděpodobnost, že si zarezervuje termín z e-mailu než z jakéhokoli placeného kanálu. Většina praxí jim však nikdy žádný nepošle. Zde je sekvence šesti e-mailů, kterou nasazujeme pro každého nového klienta, spolu s logikou segmentace, která rozhoduje, kteří pacienti dostanou jakou nabídku – protože obecný e-mail 'chybíte nám' pro 10 000 opuštěných pacientů má horší výsledky než cílený šesti-emailový oblouk pro 1 000."
+    },
+    {
+      "text": "Číslo 180 000 $ v titulku není marketingový humbuk. Jedná se o průměrný dodatečný příjem, který měříme v prvních dvanácti měsících po nasazení této sekvence pro středně velkou ordinaci s jedním sídlem a zhruba 8 000 neaktivními kontakty. Skupiny s více pobočkami rutinně vidí násobky. Matematika funguje, protože náklady na sekvenci jsou nulové dodatečné výdaje na reklamu a cílová skupina je již kvalifikovaná – navštívila ordinaci alespoň jednou."
+    },
+    {
+      "heading": "Segmentace před obsahem"
+    },
+    {
+      "text": "Než napíšete jediný e-mail, segmentujte publikum. Pokud seskupíte každého neaktivního pacienta do jednoho seznamu, každá nabídka bude pro někoho působit obecně. Rozdělte seznam na tři kohorty: 12–18 měsíců od poslední návštěvy (jemné pošťouchnutí), 18–36 měsíců (strukturované opětovné zapojení) a 36+ měsíců (agresivní získání zpět se skutečnou pobídkou). Každá kohorta dostane stejnou šesti-emailovou kostru, ale s jiným tónem, jinou nabídkou a jinými kritérii pro odstranění."
+    },
+    {
+      "heading": "Sekvence"
+    },
+    {
+      "list": [
+        "E-mail 1: Chybíte nám – přátelské pozdravy bez požadavku",
+        "E-mail 2: Co je nového v ordinaci",
+        "E-mail 3: Jemná výzva k rezervaci roční kontroly kůže",
+        "E-mail 4: Vzdělávací obsah o prevenci rakoviny kůže",
+        "E-mail 5: Časově omezená nabídka specifická pro typ jejich poslední návštěvy",
+        "E-mail 6: Poslední výzva, poté odstranit ze sekvence"
+      ]
+    },
+    {
+      "heading": "Proč je důležitý 'žádný požadavek' jako první e-mail"
+    },
+    {
+      "text": "První e-mail v sekvenci záměrně nic nepožaduje. Jde o vřelé znovuzavedení od vedoucího ordinace nebo asistentky lékaře, ideálně napsané v první osobě s opravdovým podpisem. Účelem je připomenout příjemci, že si ho ordinace pamatuje jako osobu, nikoli jako marketingový segment. Míra odpovědí na e-maily 'bez požadavku' překonává e-maily 'rezervujte si hned' 5–8krát a respondenti se sami identifikují jako vysoce záměrní."
+    },
+    {
+      "heading": "Nabídka přichází v e-mailu č. 5, nikoli v e-mailu č. 1"
+    },
+    {
+      "text": "Praxe se rutinně dopouštějí chyby, když začínají nabídkou. To učí neaktivní pacienty očekávat slevy pokaždé, když od vás slyší, a konvertuje to segment s nejnižším záměrem ve vašem seznamu pouze na základě ceny. Šestie-mailový oblouk posouvá nabídku na e-mail pět, po čtyřech kontaktních bodech vřelosti a vzdělávání. V době, kdy nabídka dorazí, je pacient znovu ukotven ke značce praxe, nikoli k její slevě."
+    },
+    {
+      "heading": "Krok odstranění chrání doručitelnost"
+    },
+    {
+      "text": "E-mail šest je e-mail pro poslední výzvu a je to také spouštěč odstranění. Každý příjemce, který neotevřel žádný z předchozích pěti e-mailů a neotevře e-mail šest, je ze sekvence odstraněn. To chrání vaši pověst odesílatele u Gmailu a Outlooku – odesílání na neangažované adresy je nejrychlejší způsob, jak se dostat do složky promo akcí nebo spamu. Agresivní odstranění skutečně zlepšuje výsledky další kampaně, protože zbývající seznam je hustší a angažovanější."
+    },
+    {
+      "text": "Nasazujte sekvenci jednou ročně pro každou kohortu, roční kopírování aktualizujte a s odstraněnými uživateli zacházejte jako se samostatnou kohortou s dlouhým zájmem, kterou znovu zapojíte každých 18 měsíců s novým jménem odesílatele. Spojte to po dobu tří let a částka 180 000 $ se má tendenci zdvojnásobit nebo ztrojnásobit, jak se sekvence vyvíjí a segmentace se stává přesnější."
+    }
+  ],
+  "faqs": null
+}

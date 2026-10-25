@@ -1,0 +1,107 @@
+{
+  "meta": {
+    "title": "Tietosuojaseloste — Näin käsittelemme tietojasi",
+    "description": "Lue kuinka studiomme kerää, käyttää, jakaa ja suojaa sivuston vierailijoiden, potentiaalisten asiakkaiden sekä yhteistyökumppaneina toimivien ihotautilääkäreiden tietoja.",
+    "og": {
+      "title": "Tietosuojaseloste — Näin käsittelemme tietojasi",
+      "description": "Lue kuinka studiomme kerää, käyttää, jakaa ja suojaa sivuston vierailijoiden, potentiaalisten asiakkaiden sekä yhteistyökumppaneina toimivien ihotautilääkäreiden tietoja."
+    },
+    "twitter": {
+      "title": "Tietosuojaseloste — Näin käsittelemme tietojasi",
+      "description": "Lue kuinka studiomme kerää, käyttää, jakaa ja suojaa sivuston vierailijoiden, potentiaalisten asiakkaiden sekä yhteistyökumppaneina toimivien ihotautilääkäreiden tietoja."
+    }
+  },
+  "layout": {
+    "skipToContent": "Siirry sisältöön"
+  },
+  "hero": {
+    "badge": "Lakitiedot · Tietosuojaseloste",
+    "title": "Tietosuojaseloste",
+    "description": "Kuvaus siitä, kuinka keräämme, käytämme ja suojaamme sivustomme vierailijoiden ja asiakasvastaanottojemme tietoja.",
+    "lastUpdated": "Päivitetty viimeksi:",
+    "lastUpdatedDate": "14. heinäkuuta 2026"
+  },
+  "sections": {
+    "sidebar": {
+      "title": "Sisällysluettelo",
+      "navAriaLabel": "Osioiden navigointi"
+    },
+    "overview": {
+      "title": "1. Yleiskatsaus",
+      "body": "Tämä tietosuojaseloste kertoo, kuinka studiomme (\"me\") kerää ja käyttää tietoja, kun vierailet sivustollamme, lähetät lomakkeen, pyydät tarjouksen tai tilaat meiltä projektin. Ylläpidämme tätä sivua vastataksemme markkinointisivustoamme ja asiakassuhteitamme koskeviin tietosuojakysymyksiin; tämä ei ole sertifikaatti tai juridinen neuvo."
+    },
+    "informationWeCollect": {
+      "title": "2. Keräämämme tiedot",
+      "items": {
+        "provided": {
+          "label": "Itse antamasi tiedot:",
+          "text": "nimi, vastaanoton nimi, sähköposti, puhelinnumero, projektin tiedot ja muu sisältö, jonka lähetät lomakkeiden, sähköpostin tai ajanvaraustyökalujen kautta."
+        },
+        "automatic": {
+          "label": "Automaattisesti kerätyt tiedot:",
+          "text": "IP-osoite, laite- ja selaintyyppi, katsellut sivut, viittaava sivusto ja likimääräinen sijainti — kerätään evästeiden ja analytiikan avulla."
+        },
+        "projectData": {
+          "label": "Asiakasprojektin tiedot:",
+          "text": "tunnukset, brändiaineistot ja sisältö, jonka jaat kanssamme palveluiden toteuttamiseksi allekirjoitetun sopimuksen mukaisesti."
+        }
+      }
+    },
+    "howWeUse": {
+      "title": "3. Tietojen käyttö",
+      "items": [
+        "Yhteydenottoihin vastaaminen, kustannusarvioiden teko ja tarjousten lähettäminen.",
+        "Tilattujen palveluiden toimitus, laskutus ja tuki.",
+        "Verkkosivustomme, sisältömme ja palveluidemme kehittäminen.",
+        "Satunnaisten uutiskirjeiden tai päivitysten lähettäminen suostumuksellasi.",
+        "Laki-, vero- ja kirjanpitovelvoitteiden täyttäminen."
+      ]
+    },
+    "noPhi": {
+      "title": "4. Suojatut terveystiedot (PHI)",
+      "body": "Tätä markkinointisivustoa ei ole tarkoitettu suojattujen terveystietojen (PHI) keräämiseen. Pyydämme, ettet lähetä potilaiden nimiä, sairauskertomuksia tai kliinisiä tietoja yhteydenottolomakkeillamme. Jos asiakasprojekti edellyttää PHI-tietojen käsittelyä (kuten potilasportaalit tai kliiniset esitietolomakkeet), solmimme erillisen Business Associate Agreement -sopimuksen ennen toiminnallisuuden käyttöönottoa."
+    },
+    "sharing": {
+      "title": "5. Tietojen jakaminen",
+      "body": "Emme myy henkilötietojasi. Jaamme tietoja vain palveluntarjoajille, jotka auttavat meitä toiminnassamme — kuten hosting, sähköposti, analytiikka, ajanvaraus, maksujen käsittely ja CRM — ja vain siinä laajuudessa kuin heidän tehtävänsä hoitaminen edellyttää. Voimme myös luovuttaa tietoja lain vaatiessa tai oikeuksiemme suojelemiseksi."
+    },
+    "cookies": {
+      "title": "6. Evästeet ja analytiikka",
+      "body": "Käytämme evästeitä ja vastaavia tekniikoita sivuston perustoimintoihin ja käyttötilastojen seurantaan. Voit hallita evästeitä selaimesi asetuksista; evästeiden estäminen voi vaikuttaa sivuston toimivuuteen."
+    },
+    "retention": {
+      "title": "7. Tietojen säilytys",
+      "body": "Säilytämme tietoja niin kauan kuin on tarpeen palveluiden tarjoamiseksi, lakisääteisten velvoitteiden täyttämiseksi, erimielisyyksien ratkaisemiseksi ja sopimusten noudattamiseksi. Sellaisten potentiaalisten asiakkaiden tiedot, jotka eivät johda asiakkuuteen, poistetaan säännöllisesti."
+    },
+    "security": {
+      "title": "8. Tietoturva",
+      "body": "Käytämme asianmukaisia hallinnollisia, teknisiä ja fyysisiä suojatoimia tietojesi suojaamiseksi — mukaan lukien salattu tiedonsiirto (HTTPS), pääsynhallinta ja palveluntarjoajien arviointi. Mikään tiedonsiirto- tai tallennustapa ei ole 100-prosenttisen turvallinen, joten emme voi taata täydellistä turvallisuutta."
+    },
+    "yourRights": {
+      "title": "9. Oikeutesi ja valintasi",
+      "body": "Asuinpaikastasi riippuen sinulla voi olla oikeus tarkastella, korjata, poistaa tai siirtää henkilötietojasi, sekä vastustaa tai rajoittaa tiettyä tietojen käyttöä. Käyttääksesi näitä oikeuksia, ota meihin yhteyttä alla olevilla tiedoilla. Voit myös peruuttaa markkinointiviestien tilauksen milloin tahansa viestin lopussa olevasta linkistä."
+    },
+    "thirdPartyLinks": {
+      "title": "10. Kolmannen osapuolen linkit",
+      "body": "Sivustomme saattaa sisältää linkkejä ulkopuolisiin sivustoihin ja työkaluihin. Heidän tietosuojakäytäntöjään hallitaan heidän omien ehtojensa mukaisesti — tutustu niihin ennen tietojen lähettämistä."
+    },
+    "children": {
+      "title": "11. Lasten tietosuoja",
+      "body": "Sivustomme on suunnattu ammattilaiskäyttöön, eikä sitä ole tarkoitettu alle 13-vuotiaille lapsille. Emme tietoisesti kerää henkilötietoja lapsilta."
+    },
+    "changes": {
+      "title": "12. Muutokset tähän selosteeseen",
+      "body": "Saatamme päivittää tätä tietosuojaselostetta ajoittain. Päivityksen yhteydessä muutamme sivun yläreunassa olevaa päivityspäivämäärää. Merkittävistä muutoksista ilmoitetaan erikseen sivustollamme."
+    },
+    "contact": {
+      "title": "13. Ota yhteyttä",
+      "paragraph": "Onko sinulla kysyttävää tai pyyntöjä koskien tietosuojaa tai tietojasi? Ota yhteyttä yhteydenottosivumme kautta, niin vastaamme sinulle kohtuullisen ajan kuluessa.",
+      "link": "yhteydenottosivun"
+    }
+  },
+  "cta": {
+    "title": "Kysyttävää tietosuojasta?",
+    "subtitle": "Vastaamme tiedusteluihin mahdollisimman pian.",
+    "buttonLabel": "Ota yhteyttä"
+  }
+}

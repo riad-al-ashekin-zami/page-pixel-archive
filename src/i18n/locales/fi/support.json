@@ -1,0 +1,416 @@
+{
+  "meta": {
+    "title": "Ihotautiklinikoiden verkkosivutuki — oma nimetty asiantuntija, 15 minuutin hätäapu",
+    "description": "Henkilökohtaista verkkosivutukea ihotautilääkäreille. Nimetty asiantuntija, live-chat, ensisijainen puhelinpalvelu, päivitystunnit, henkilökunnan koulutus ja HIPAA-huomioitu ohjeistus 24/7-päivystyksellä. Toistaiseksi voimassa oleva sopimus.",
+    "og": {
+      "title": "Ihotautiklinikoiden tukipalvelut — oikeat asiantuntijat, todelliset vasteajat",
+      "description": "Nimetty asiantuntija, alle tunnin vastausaika, sisältö- ja suunnittelupäivitykset sekä 24/7 hätäpäivystys — räätälöitynä ihotautiklinikoiden tarpeisiin."
+    },
+    "jsonLd": {
+      "serviceType": "Dermatology Website Support Services",
+      "provider": "DermatologyWebsiteDesign.com",
+      "offerDescription": "Ihotautiklinikan verkkosivujen tukipaketti — alkaen-hinta kuukaudessa"
+    }
+  },
+  "hero": {
+    "badgeOpen": "Tukipalvelu avoinna · keskim. vastausaika 42 sekuntia",
+    "badgeOpenMobile": "Auki · 42s vastausaika",
+    "badgeTitle": "Verkkosivujen tukipalvelut",
+    "titlePrefix": "Oikea asiantuntija, ",
+    "titleHighlight": "vain viestin päässä.",
+    "description": "Ihotautiklinikoille suunniteltu verkkosivutuki. Oma nimetty asiantuntija, live-chat, puhelinpalvelu, päivitystunnit, koulutus ja 24/7 hätäpäivystys — ei jonotusnumeroita.",
+    "ctaStart": "Valitse tukipaketti",
+    "ctaDemo": "Katso tuki-demo",
+    "pricing": {
+      "label": "Tukipaketit alkaen",
+      "value": "249 $",
+      "suffix": "/ kk · ilman sitoutumisaikaa"
+    },
+    "trustLabels": [
+      "Nimetty asiantuntija",
+      "Live-chat + puhelin",
+      "Päivitystunnit sisältyvät",
+      "24/7 hätäpäivystys"
+    ],
+    "imageAlt": "Ihotautisivuston tukihenkilö työpisteellään vastaamassa live-chatiin"
+  },
+  "stats": [
+    {
+      "value": "42s",
+      "label": "Keskimääräinen vastaus chatiin"
+    },
+    {
+      "value": "18min",
+      "label": "Keskimääräinen päivitysaika"
+    },
+    {
+      "value": "98%",
+      "label": "Ratkaisuaste yhdellä yhteydenotolla"
+    },
+    {
+      "value": "4.9/5",
+      "label": "Asiakastyytyväisyys (viim. 12 kk)"
+    }
+  ],
+  "channels": {
+    "tag": "Tavoita meidät haluamallasi tavalla",
+    "title": "Kuusi kanavaa. Yksi asiantuntija. Ei puhelinvalikkoja.",
+    "description": "Jokainen pyyntö päätyy samaan seurattuun postilaatikkoon SLA-takuulla — tuli se sitten chatin, sähköpostin, puhelimen tai yöpäivystyksen kautta.",
+    "items": [
+      {
+        "name": "Live-chat",
+        "desc": "Chat-palvelu klo 09–21 (ET), vastassa aina kokenut asiantuntija.",
+        "meta": "vast. keskim. 42s"
+      },
+      {
+        "name": "Suora puhelinlinja",
+        "desc": "Oma linja suoraan vastuuhenkilöllesi — unohda jonotusnauhoitteet.",
+        "meta": "ei jonoja"
+      },
+      {
+        "name": "Priorisoitu sähköposti",
+        "desc": "SLA-seurattu postilaatikko sopimuksen mukaisella takuulla.",
+        "meta": "≤ 1 h Pro-tasolla"
+      },
+      {
+        "name": "Tikettiportaali",
+        "desc": "Täysi historia, kuvakaappaukset ja tilanneseuranta pyynnöille.",
+        "meta": "itsepalvelu 24/7"
+      },
+      {
+        "name": "Video-opastukset",
+        "desc": "Ruudunjakosessiot koulutukseen ja monimutkaisiin muutoksiin.",
+        "meta": "tilauksesta"
+      },
+      {
+        "name": "Hätälinja",
+        "desc": "Sivuston toimintahäiriöiden eskalaatio 24/7.",
+        "meta": "15 min SLA"
+      }
+    ]
+  },
+  "helpTopics": {
+    "tag": "Miten voimme auttaa",
+    "title": "Yhden sanan korjauksesta varausjärjestelmän toimintahäiriöihin.",
+    "description": "Kuusi kategoriaa jokapäiväiseen työhön — asioita, jotka klinikka tarvitsee hoidettua tänään, ei ensi kuussa.",
+    "items": [
+      {
+        "title": "Sisältöpäivitykset",
+        "desc": "Lääkäriesittelyt, palvelusivut, blogit ja vakuutustiedot — valmiina muutamassa tunnissa."
+      },
+      {
+        "title": "Pienet visuaaliset muutokset",
+        "desc": "Banderollien vaihdot, kampanjat, uudet osiot ja asettelun hienosäädöt."
+      },
+      {
+        "title": "Henkilökunnan koulutus",
+        "desc": "Tallennetut ohjevideot ja livesessiot, jotta tiimisi voi päivittää sivuja itsevarmoina."
+      },
+      {
+        "title": "Integraatioiden tuki",
+        "desc": "Ajanvaraus-widgetit, EHR-upotukset, arvostelualustat ja analytiikka — asennettuna ja testattuna."
+      },
+      {
+        "title": "HIPAA-huomioitu ohjeistus",
+        "desc": "Jokainen lomake ja seurantakoodi tarkistetaan tietosuojan varalta ennen julkaisua."
+      },
+      {
+        "title": "Hätätilanteet",
+        "desc": "Sivusto alhaalla, fontit sekaisin tai varaus epäonnistuu? Eskaloi asiantuntijalle 24/7."
+      }
+    ]
+  },
+  "flow": {
+    "tag": "Näin tuki toimii",
+    "title": "Työnkulku, joka on suunniteltu kiireisille klinikoille.",
+    "steps": [
+      {
+        "id": "01",
+        "title": "Tapaa asiantuntijasi",
+        "desc": "Saat nimetyn vastuuhenkilön ensimmäisestä päivästä alkaen. Hän oppii tuntemaan sivustosi, tiimisi ja tavoitteesi."
+      },
+      {
+        "id": "02",
+        "title": "Pyydä apua mistä vain",
+        "desc": "Chat, sähköposti, puhelin tai Slack. Jokainen pyyntö seurataan keskitetysti SLA-lupauksen kera."
+      },
+      {
+        "id": "03",
+        "title": "Nopeaa toimintaa",
+        "desc": "Useimmat päivitykset valmistuvat tunnissa. Suuremmat työt suunnitellaan ja hyväksytetään ennen toteutusta."
+      },
+      {
+        "id": "04",
+        "title": "Kuukausittainen seuranta",
+        "desc": "30 minuutin puhelu kuukausittain pyyntöjen läpikäyntiin ja tulevan suunnitteluun — ennakoivaa ylläpitoa."
+      }
+    ]
+  },
+  "responseDesk": {
+    "badge": "Asiakaspalvelu · paikalla",
+    "title": "Valitse kanava. Katso kuinka nopeasti vastaamme.",
+    "description": "Realistinen esimerkki saman päivän tukipyynnöstä — viestistä valmiiseen korjaukseen.",
+    "meterLabel": "Reaaliaikainen vastemittari",
+    "meterSuffix": "s",
+    "meterComparison": "Nopeampi kuin 94 % toimistoista",
+    "status": "Online-tilassa",
+    "labels": {
+      "chatReply": "Chat-vastaus",
+      "emergencySla": "Hätätilanteen SLA"
+    },
+    "engineerInfo": {
+      "name": "Jordan R. · Asiantuntijasi",
+      "status": "Online",
+      "typing": "Jordan kirjoittaa…"
+    },
+    "demos": {
+      "chat": {
+        "label": "Live-chat",
+        "sla": "keskim. 42s vastaus",
+        "lines": [
+          "Moi – voidaanko vaihtaa Botuliini-sivun pääkuva tänään?",
+          "Onnistuu. Lähetä tiedosto, julkaisen sen n. 15 minuutissa.",
+          "Lähetetty. Lisäätkö samalla tohtori Chenin lääkärilistalle?",
+          "Molemmat valmiina. Esikatselulinkki tulossa 8 min kuluttua ✅"
+        ]
+      },
+      "phone": {
+        "label": "Suora puhelin",
+        "sla": "ei puhelinvalikkoa",
+        "lines": [
+          "📞 Puhelu — klinikkapäällikkö, LA Dermatology.",
+          "Moi Sara, täällä Jordan. Kuinka voin auttaa?",
+          "Varaus-widget antaa virheen iPhonella.",
+          "Näen ongelman. Korjaus livenä n. 6 minuutissa. Odota linjoilla."
+        ]
+      },
+      "email": {
+        "label": "Priorisoitu sähköposti",
+        "sla": "≤ 1 h Pro-tasolla",
+        "lines": [
+          "Aihe: Päivitä vakuutuslista kaikille 6 toimipisteelle",
+          "Selvä — lähetän vedoksen hyväksyttäväksi 20 minuutissa.",
+          "Hyväksytty. Poista samalla Aetnan logo, emme enää tee yhteistyötä.",
+          "Päivitetty kaikille 6 sivustolle. Vahvistusviesti lähetetty ✅"
+        ]
+      },
+      "ticket": {
+        "label": "Tikettiportaali",
+        "sla": "itsepalvelu 24/7",
+        "lines": [
+          "#4831 · Uusi: 'Lisää espanjankielinen PDF Yhteystiedot-sivulle'",
+          "Otettu työn alle. ETA: 45 min. Prioriteetti: normaali.",
+          "Tiedosto liitteenä. Linkitätkö myös alatunnisteeseen?",
+          "Julkaistu. Tiketti suljettu ja kuvakaappaukset lisätty ✅"
+        ]
+      }
+    }
+  },
+  "plans": {
+    "tag": "Tukipaketit",
+    "title": "Asiantuntevaa tukea ennakoitavaan hintaan.",
+    "description": "Kaikki paketit ovat kuukausikohtaisia nimetyn asiantuntijan kera. Peruuta milloin vain.",
+    "mostChosen": "Suosituin",
+    "marketLabel": "Markkinahinta:",
+    "choose": "Valitse",
+    "cards": [
+      {
+        "name": "Starter",
+        "tag": "Yksityisvastaanotoille",
+        "price": "249 $",
+        "per": "/kk",
+        "sla": "≤ 4 h vastausaika",
+        "edits": "Päivitykset: 2 h / kk",
+        "market": "500 – 1 000 $ /kk",
+        "savings": "50–75 % edullisempi",
+        "features": [
+          "Nimetty asiantuntija",
+          "Sähköposti + tikettiportaali",
+          "2 tuntia päivitystyötä kuukaudessa",
+          "Tuki toimistoaikoina (9–18 ET)",
+          "Kuukausittainen raportti",
+          "Käyttöönottopuhelu ja opastus"
+        ]
+      },
+      {
+        "name": "Professional",
+        "tag": "Kasvaville klinikoille",
+        "price": "549 $",
+        "per": "/kk",
+        "sla": "≤ 1 h vastausaika",
+        "edits": "Päivitykset: 6 h / kk",
+        "market": "1 100 – 2 500 $ /kk",
+        "savings": "50–78 % edullisempi",
+        "features": [
+          "Kaikki Starter-tasolta",
+          "Live-chat + priorisoitu puhelin",
+          "6 tuntia päivitystyötä kuukaudessa",
+          "Laajennetut aukioloajat (klo 21 asti)",
+          "Neljännesvuosittaiset koulutukset",
+          "Integraatiot ja analytiikkatuki",
+          "30 min strategiapuhelu kuukausittain"
+        ]
+      },
+      {
+        "name": "Enterprise",
+        "tag": "Monitoimipaikat ja Mohs-ryhmät",
+        "price": "1 299 $",
+        "per": "/kk",
+        "sla": "≤ 15 min hätäpäivystys",
+        "edits": "Päivitykset: Rajaton*",
+        "market": "2 800 – 5 500 $ /kk",
+        "savings": "54–76 % edullisempi",
+        "features": [
+          "Kaikki Professional-tasolta",
+          "24/7 hätänumero",
+          "Yhteinen Slack / Teams -kanava",
+          "Rajattomat* päivitystunnit (fair use)",
+          "Toimipistekohtainen seuranta",
+          "Nimetty varahenkilö",
+          "Neljännesvuosittainen toimintakatsaus"
+        ]
+      }
+    ]
+  },
+  "audiences": {
+    "tag": "Ketä tuemme",
+    "title": "Räätälöity tuki kaikille ihotautialan toimijoille.",
+    "items": [
+      {
+        "label": "Yksityiset ihotautilääkärit",
+        "desc": "Suora linja asiantuntijalle, joka tuntee sivustosi — ei hukkuneita tikettejä."
+      },
+      {
+        "label": "Monitoimipaikkaklinikat",
+        "desc": "Toimipistekohtainen seuranta ja yksi yhteyspiste kaikille esimiehille."
+      },
+      {
+        "label": "Lasten ihotautilääkärit",
+        "desc": "Sisältöpäivitykset ja lomakemuutokset hoidetaan kliinisellä huolellisuudella."
+      },
+      {
+        "label": "Mohs-kirurgia ja kirurginen dermatologia",
+        "desc": "Läheteportaalit ja lääkäritietojen päivitykset saman työpäivän aikana."
+      }
+    ]
+  },
+  "medicalServices": {
+    "tag": "Huolehdimme palvelusivuistasi",
+    "title": "Päivitykset kaikille tarjoamillesi ihotautipalveluille.",
+    "description": "Aknesta vitiligoon — hoidamme sisällön hienosäädön, hintamuutokset ja schema-päivitykset pyynnöstäsi.",
+    "items": [
+      "Aknen hoito",
+      "Ekseeman hoito",
+      "Psoriasiksen hoito",
+      "Ihoinfektioiden hoito",
+      "Ihoallergioiden hoito",
+      "Ihosyövän seulonta ja hoito",
+      "Luomien tarkastus ja poisto",
+      "Kystien ja lipoomien poisto",
+      "Syylien poisto",
+      "Kynsioireiden hoito",
+      "Hiustenlähdön diagnostiikka ja hoito",
+      "Hiuspohjan sairauksien hoito",
+      "Ruusufinnin hoito",
+      "Pigmenttihäiriöiden ja melasman hoito",
+      "Arpien hoito",
+      "Palovamma-arpien hoito",
+      "Vitiligon hoito",
+      "Ihon koepalat ja diagnostiikka"
+    ]
+  },
+  "testimonials": {
+    "tag": "Asiakkaiden kokemuksia",
+    "title": "Lääkäreitä, jotka saavat vihdoin ansaitsemaansa tukea.",
+    "items": [
+      {
+        "name": "Dr. Ethan Caldwell, MD",
+        "role": "LA Dermatology",
+        "quote": "Laitan viestin, joku vastaa minuutissa ja muutos on livenä ennen lounasta. Siinä kaikki. Se on koko arvostelu."
+      },
+      {
+        "name": "Dr. Anika Vasquez, MD",
+        "role": "CM Surgical",
+        "quote": "He kouluttivat vastaanottoni väen CMS-käyttöön yhdessä Zoom-istunnossa. Puolet tukipyynnöistä katosi kerralla — loput hoidetaan 15 minuutissa."
+      },
+      {
+        "name": "Dr. Ibrahim Okafor, MD",
+        "role": "RS Institute · 6 toimipistettä",
+        "quote": "Kuusi esimiestä, kuusi eri päivitystarvetta, yksi postilaatikko. Asiantuntijamme tuntee jokaisen klinikkamme. Se on kuin oma IT-tiimi ilman palkkakuluja."
+      }
+    ]
+  },
+  "faq": {
+    "tag": "UKK",
+    "title": "Kysymyksiä verkkosivutuesta.",
+    "items": [
+      {
+        "q": "Miten tämä eroaa ylläpitopaketeista?",
+        "a": "Ylläpito pitää sivuston teknisesti käynnissä — päivitykset, varmuuskopiot, tietoturva. Tuki on inhimillinen kerros siinä päällä: nimetty asiantuntija, työtunnit sisällön ja ulkoasun muuttamiseen sekä koulutus tiimillesi. Useimmat klinikat tilaavat molemmat."
+      },
+      {
+        "q": "Mikä lasketaan päivitystunniksi?",
+        "a": "Mikä tahansa sisältö-, muotoilu- tai konfigurointityö: lääkäriesittelyjen päivitys, uuden osion lisääminen, banderollin vaihto, ajanvarauksen korjaus, vakuutuslistojen muokkaus tai blogien julkaisu. Laajemmat kehitysprojektit sovitaan erikseen."
+      },
+      {
+        "q": "Kuinka nopeasti vastaatte oikeasti?",
+        "a": "Live-chatissa keskimäärin 42 sekunnissa työaikana. Priorisoitu sähköposti alle tunnissa Pro- ja Enterprise-paketeissa. Enterprise-tason hätätilanteet eskaloidaan päivystävälle asiantuntijalle 15 minuutissa, 24/7."
+      },
+      {
+        "q": "Tuetteko sivustoja, joita ette ole itse rakentaneet?",
+        "a": "Kyllä — olipa alustana WordPress, Webflow tai koodattu ratkaisu. Aloitamme teknisellä auditoinnilla, jotta otamme sivuston haltuun turvallisesti ja tiedämme tarkalleen, mitä tuemme."
+      },
+      {
+        "q": "Voiko muu henkilökunta pyytää päivityksiä?",
+        "a": "Kuka tahansa valtuuttamasi tiimin jäsen. Useimmiten oikeudet on lääkärillä, klinikkapäälliköllä ja markkinointivastaavalla. Jokainen pyyntö kirjataan portaaliin seurantaa varten."
+      },
+      {
+        "q": "Mitä jos en käytä kaikkia tuntejani kuukaudessa?",
+        "a": "Jopa 50 % käyttämättömistä tunneista siirtyy seuraavalle kuukaudelle. Haluamme, että saat rahallesi vastinetta ilman turhaa tyhjäkäyntiä."
+      },
+      {
+        "q": "Onko palvelussa määräaikaisuutta?",
+        "a": "Sopimus on toistaiseksi voimassa oleva, peruuta milloin vain. Säilytät kaiken sisällön, koodin ja tunnukset, jos päätät lopettaa palvelun."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Tapaa asiantuntija, joka vastaa seuraavaan viestiisi.",
+    "highlight": "Pyydä maksuton arvio.",
+    "description": "Käymme läpi sivustosi, tiimisi tarpeet ja katsomme, mikä paketti sopii teille parhaiten — saat kirjallisen tarjouksen.",
+    "buttonQuote": "Valitse tukipaketti",
+    "buttonContact": "Ota yhteyttä"
+  },
+  "inboxWidget": {
+    "title": "Tukipalvelun tila",
+    "status": "Tänään · 5 avoinna",
+    "replyMetric": "vastaus",
+    "engineer": {
+      "label": "Asiantuntijasi",
+      "status": "Jordan R. · paikalla"
+    },
+    "tickets": [
+      {
+        "id": "4821",
+        "subject": "Uusi lääkäriprofiili + kuva Esittely-sivulle",
+        "meta": "Dr. Caldwell · email · 18 min"
+      },
+      {
+        "id": "4822",
+        "subject": "Aesthetic-kampanja juhlapyhille",
+        "meta": "Vastaanotto · Lumen · chat · 9 min"
+      },
+      {
+        "id": "4823",
+        "subject": "Ajanvaraus ei lataudu iPhone Safarilla",
+        "meta": "Dr. Vasquez · phone · 22 min"
+      }
+    ]
+  },
+  "footerLinks": {
+    "preface": "Tutustu myös muihin palveluihimme:",
+    "maintenance": "ennakoiva ylläpito",
+    "management": "kokonaisvaltainen sivustonhallinta",
+    "faq": "usein kysytyt kysymykset tuesta"
+  }
+}

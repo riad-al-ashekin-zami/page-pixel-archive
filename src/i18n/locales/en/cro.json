@@ -1,0 +1,382 @@
+{
+  "meta": {
+    "title": "Dermatology CRO Services — Double Your Bookings From The Same Traffic",
+    "description": "Conversion rate optimization for dermatology practices. Heatmaps, A/B testing, booking-form rebuilds, mobile UX, and Core Web Vitals — turn more visitors into confirmed appointments. HIPAA-aware.",
+    "og_title": "Dermatology Conversion Rate Optimization — Ship More Bookings, Same Traffic",
+    "og_description": "Behavioral research, A/B testing, funnel optimization, and mobile-first rebuilds for dermatology practices. Measurable lift in 90 days — HIPAA-aware, month-to-month.",
+    "jsonLd": {
+      "serviceType": "Dermatology Conversion Rate Optimization",
+      "provider": "DermatologyWebsiteDesign.com",
+      "offerDescription": "Dermatology CRO diagnostic — starting price"
+    }
+  },
+  "hero": {
+    "badge_lift": "Avg. lift +184% in 90 days",
+    "badge_service": "Conversion Rate Optimization",
+    "title_main": "Same traffic.",
+    "title_highlight": "Twice the bookings.",
+    "description": "Behavioral research, A/B testing, booking-form rebuilds, and mobile-first funnels — engineered for dermatology practices. Every hypothesis tested, every winner compounded, every dollar of ad spend stretched further.",
+    "cta_audit": "Start with a CRO Audit",
+    "cta_case_study": "See a case study",
+    "pricing_note": "Diagnostic audits from",
+    "pricing_value": "$1,900",
+    "pricing_ongoing": "· ongoing programs $3.4k–$6.9k / mo",
+    "ticks": [
+      "Heatmaps + session replay",
+      "A/B testing",
+      "HIPAA-aware",
+      "Month-to-month"
+    ]
+  },
+  "stats": {
+    "lift": "Avg. lift in appointment requests",
+    "abandonment": "Drop in booking-form abandonment",
+    "roas": "Higher ROAS on paid traffic",
+    "wins": "To statistically-significant wins"
+  },
+  "trust": {
+    "label": "Trusted by 120+ dermatology practices nationwide",
+    "logos": [
+      "LA Dermatology",
+      "CP Dermatology",
+      "MM Center",
+      "NBS Laser",
+      "RS Institute",
+      "HD Group"
+    ]
+  },
+  "pillars": {
+    "label": "Six pillars, one compounding system",
+    "heading": "CRO isn't a button color. It's a discipline.",
+    "description": "We combine behavioral data, controlled experiments, and mobile-first engineering to turn every visit into a measurable step toward a confirmed appointment.",
+    "items": [
+      {
+        "name": "Behavioral Research",
+        "desc": "Heatmaps, scroll depth, session replay, and voice-of-patient surveys — we watch how real visitors decide.",
+        "meta": "Week 1–2"
+      },
+      {
+        "name": "A/B & Multivariate Testing",
+        "desc": "Hypotheses ranked by ICE score, tested with proper sample sizes — no vanity wins.",
+        "meta": "Ongoing"
+      },
+      {
+        "name": "Booking Form Optimization",
+        "desc": "Field-level analytics, progressive disclosure, and HIPAA-safe autofill that cuts drop-off in half.",
+        "meta": "Sprint 1"
+      },
+      {
+        "name": "Funnel & Journey Mapping",
+        "desc": "Every path from ad click to confirmed appointment, mapped and de-frictioned step by step.",
+        "meta": "Continuous"
+      },
+      {
+        "name": "Mobile-First Rebuilds",
+        "desc": "Over 70% of derm bookings happen on mobile — we redesign the flow for thumbs, not desktops.",
+        "meta": "Sprint 2"
+      },
+      {
+        "name": "Speed & Core Web Vitals",
+        "desc": "Every 100ms of load time costs bookings. We ship sub-1.5s LCP and green CWV on every page.",
+        "meta": "Foundational"
+      }
+    ]
+  },
+  "experiments": {
+    "label": "Six real experiments",
+    "heading": "What \"we tested it\" actually looks like.",
+    "description": "Every row below is a real, ship-then-measure hypothesis from a dermatology client. Numbers are median lifts across similar practices — not cherry-picked outliers.",
+    "table_header": "Experiment",
+    "before_label": "Before",
+    "after_label": "After",
+    "items": [
+      {
+        "label": "Hero CTA copy",
+        "before": "Contact Us",
+        "after": "Book in 60 seconds",
+        "metric": "Click-through to booking"
+      },
+      {
+        "label": "Booking form fields",
+        "before": "12 fields, one page",
+        "after": "4 steps, progress bar",
+        "metric": "Form completion rate"
+      },
+      {
+        "label": "Insurance clarity",
+        "before": "Buried in FAQ",
+        "after": "Live insurance picker in hero",
+        "metric": "Qualified consult requests"
+      },
+      {
+        "label": "Provider trust signals",
+        "before": "Generic stock photo",
+        "after": "Real headshot + 4.9★ badge",
+        "metric": "Time-on-page & bookings"
+      },
+      {
+        "label": "Mobile CTA placement",
+        "before": "Below fold, static",
+        "after": "Sticky bottom bar",
+        "metric": "Mobile booking conversion"
+      },
+      {
+        "label": "Service-page structure",
+        "before": "Wall of text",
+        "after": "Symptom → treatment → book",
+        "metric": "Page → booking conversion"
+      }
+    ]
+  },
+  "caseStudy": {
+    "label": "Case study · NBS Laser",
+    "heading": "Same $18k/mo in ads. 180% more bookings.",
+    "image_alt": "NBS Laser booking flow after CRO optimization",
+    "stats": {
+      "bookings": "Bookings / mo",
+      "completion": "Form completion",
+      "time": "Time to close"
+    },
+    "comparison": [
+      {
+        "label": "Booking form",
+        "before": "12 fields · 1 page · desktop-first",
+        "after": "4 steps · progress bar · thumb-zone CTAs"
+      },
+      {
+        "label": "Hero CTA",
+        "before": "Contact Us (generic)",
+        "after": "Book in 60 seconds · live insurance picker"
+      },
+      {
+        "label": "Mobile funnel",
+        "before": "Sticky header hid CTA on scroll",
+        "after": "Sticky bottom Book bar · 44px tap targets"
+      },
+      {
+        "label": "Trust signals",
+        "before": "Stock hero photo · no reviews",
+        "after": "Real provider · 4.9★ · certifications"
+      }
+    ],
+    "cta": "Read the full case study"
+  },
+  "process": {
+    "label": "How it works",
+    "heading": "A quarterly loop that compounds every month.",
+    "steps": [
+      {
+        "step": "01",
+        "title": "Baseline Audit",
+        "desc": "Full teardown of your funnel: analytics, heatmaps, form drop-off, page speed, mobile UX, and 20+ derm-specific benchmarks. You get a scored report in 10 business days."
+      },
+      {
+        "step": "02",
+        "title": "Hypothesis Backlog",
+        "desc": "Every insight becomes a testable hypothesis, ranked by Impact × Confidence × Ease. You approve the sprint — we don't guess."
+      },
+      {
+        "step": "03",
+        "title": "Design, Build, Test",
+        "desc": "Variants shipped through a real experimentation platform. Sample sizes calculated up front. No stopping tests early."
+      },
+      {
+        "step": "04",
+        "title": "Ship Winners, Loop",
+        "desc": "Winning variants become the new baseline. Losers become learnings. Every month, your funnel is measurably better than last month."
+      }
+    ]
+  },
+  "audiences": {
+    "label": "Who we work with",
+    "heading": "Dermatology practices of every shape.",
+    "description": "Programs tuned for the funnel that fits your practice model — from single-provider clinics to multi-location Mohs groups.",
+    "items": [
+      {
+        "label": "Solo Dermatologists",
+        "desc": "Turn a small ad budget into a full schedule — every visitor counts when you're the only provider."
+      },
+      {
+        "label": "Multi-location Dermatology Clinics",
+        "desc": "Per-location landing pages, geo-aware CTAs, and unified analytics across every clinic."
+      },
+      {
+        "label": "Pediatric Dermatology",
+        "desc": "Parent-friendly booking flows, trust signals, and forms tuned for how caregivers actually decide."
+      },
+      {
+        "label": "Mohs & Surgical Dermatology",
+        "desc": "Referral-driven pages, insurance clarity, and pre-op content that shortens the consult-to-book gap."
+      }
+    ]
+  },
+  "services": {
+    "label": "Medical services we optimize for",
+    "heading": "Every condition page, every service funnel — tuned to convert.",
+    "description": "We build symptom-to-treatment flows, condition-specific landing pages, and insurance-aware CTAs for the medical dermatology services your practice actually delivers.",
+    "list": [
+      "Acne Treatment",
+      "Eczema Treatment",
+      "Psoriasis Treatment",
+      "Skin Infection Treatment",
+      "Skin Allergy Treatment",
+      "Skin Cancer Screening & Treatment",
+      "Mole Evaluation & Medically Necessary Removal",
+      "Cyst & Lipoma Removal",
+      "Wart Removal",
+      "Nail Disorder Treatment",
+      "Hair Loss Diagnosis & Medical Treatment",
+      "Scalp Disorder Treatment",
+      "Rosacea Treatment",
+      "Hyperpigmentation & Melasma Treatment",
+      "Scar Treatment",
+      "Burn Scar Treatment",
+      "Vitiligo Treatment",
+      "Skin Biopsy & Diagnostic Procedures"
+    ]
+  },
+  "testimonials": {
+    "label": "What clients say",
+    "heading": "Numbers first. Then the story.",
+    "items": [
+      {
+        "name": "Dr. Meera Balakrishnan, MD",
+        "role": "NBS Laser",
+        "quote": "We were spending $18k a month on ads and getting 40 bookings. After 90 days of CRO work, same spend, 112 bookings. I stopped second-guessing the invoice."
+      },
+      {
+        "name": "Dr. Julian Reyes, MD",
+        "role": "CP Dermatology",
+        "quote": "They rebuilt our booking flow in three sprints. Form completion went from 34% to 71%. My front desk stopped fielding 'the form is broken' calls entirely."
+      },
+      {
+        "name": "Dr. Priya Anand, MD, MPH",
+        "role": "MM Center · 4 loc.",
+        "quote": "The per-location landing pages plus insurance picker were the unlocks. Consult-to-book time dropped from 11 days to 4. Referring PCPs noticed."
+      }
+    ]
+  },
+  "pricing": {
+    "label": "Programs & pricing",
+    "heading": "Three ways to start compounding.",
+    "description": "Every plan is month-to-month after the initial diagnostic. No annual contracts, no lock-in — the results have to earn the renewal.",
+    "popular": "Most popular",
+    "market_label": "Market:",
+    "get_started": "Get started",
+    "plans": [
+      {
+        "name": "Diagnostic",
+        "tag": "Single-audit engagement",
+        "price": "$1,900",
+        "per": "one-time",
+        "savings": "46–75% cheaper",
+        "features": [
+          "Full funnel + analytics audit",
+          "Heatmap & session-replay setup",
+          "Booking-form drop-off analysis",
+          "Mobile UX + Core Web Vitals scoring",
+          "Prioritized 12-hypothesis backlog",
+          "60-min findings walkthrough"
+        ]
+      },
+      {
+        "name": "Growth Sprint",
+        "tag": "3-month program",
+        "price": "$3,400",
+        "per": "/month",
+        "savings": "43–72% cheaper",
+        "features": [
+          "Everything in Diagnostic",
+          "2 A/B tests shipped per month",
+          "Booking-form rebuild included",
+          "Landing pages for top ad campaigns",
+          "Session replay + monthly insights",
+          "Slack channel + weekly standups"
+        ]
+      },
+      {
+        "name": "Compounding CRO",
+        "tag": "Multi-location & Mohs groups",
+        "price": "$6,900",
+        "per": "/month",
+        "savings": "43–72% cheaper",
+        "features": [
+          "Everything in Growth Sprint",
+          "4+ concurrent experiments",
+          "Per-location landing systems",
+          "Personalization & audience segmentation",
+          "Server-side experimentation setup",
+          "Quarterly executive business review"
+        ]
+      }
+    ]
+  },
+  "faq": {
+    "label": "Frequently asked",
+    "heading": "Answers before you ask.",
+    "items": [
+      {
+        "q": "How is CRO different from SEO or PPC?",
+        "a": "SEO and PPC bring people to your site. CRO turns more of those people into booked appointments. Without CRO, every dollar you spend on traffic is capped by the conversion rate you already have — usually 1–3% for dermatology sites. Doubling your conversion rate effectively doubles the ROI of every marketing dollar you're already spending."
+      },
+      {
+        "q": "How quickly will I see results?",
+        "a": "Baseline audit and first shipped variants land in the first 30 days. Statistically-significant test results typically appear between weeks 4 and 12 depending on your traffic volume. Practices with 5,000+ monthly visitors usually see the first confirmed win within 6 weeks; lower-traffic clinics take longer because sample sizes matter more than speed."
+      },
+      {
+        "q": "Do you need access to my site to run tests?",
+        "a": "Yes — we install an experimentation platform (VWO, Convert, or Optimizely, your choice) and analytics, plus a heatmap tool. Everything is HIPAA-aware: no PHI is captured, session replays mask form fields by default, and we sign a BAA where required."
+      },
+      {
+        "q": "What if a test loses?",
+        "a": "Roughly 60% of well-designed tests either lose or come back inconclusive — that's normal and healthy. A losing test is a learning: it tells you the assumption behind the change was wrong, which is often more valuable than a small win. Winners compound; learnings prevent expensive redesigns down the road."
+      },
+      {
+        "q": "Can you work with our existing site, or do we need a rebuild?",
+        "a": "We work with any modern stack — WordPress, Webflow, custom React, headless. If your site has structural problems (poor Core Web Vitals, no mobile-first templates, no analytics wiring), we'll flag them in the audit and recommend targeted rebuilds only where the ROI justifies it. CRO doesn't require a full redesign."
+      },
+      {
+        "q": "Is this compliant with HIPAA and medical advertising rules?",
+        "a": "Every experiment is reviewed against HIPAA, state medical-board advertising standards, and platform policies (Meta, Google Ads health verticals). We don't test claims about outcomes we can't substantiate, and we never capture PHI in analytics or session replay."
+      },
+      {
+        "q": "Is there a contract?",
+        "a": "Diagnostic is a one-time engagement. Growth Sprint and Compounding CRO are month-to-month with a 30-day notice. You keep all test data, insights, playbooks, and analytics configuration when you offboard."
+      }
+    ]
+  },
+  "cta": {
+    "label": "Free Website Audit",
+    "heading": "Ready to stop leaking bookings?",
+    "description": "We'll audit your funnel, show you the three biggest leaks, and give you a testable playbook — whether or not you work with us afterward.",
+    "button_quote": "Get a Free Quote",
+    "button_contact": "Contact Us"
+  },
+  "footer_nav": {
+    "label": "Keep exploring:",
+    "link_seo": "SEO fundamentals for dermatology",
+    "link_ppc": "paid campaigns that pay back",
+    "link_design": "designing for conversion from day one"
+  },
+  "mobile_sticky": {
+    "label": "Free CRO audit",
+    "description": "30-min call · 3 biggest leaks",
+    "button": "Free Website Audit"
+  },
+  "funnel_panel": {
+    "title": "Booking Funnel — Last 30 days",
+    "status": "Live · test #4821 running",
+    "winning": "Winning",
+    "stages": {
+      "visitors": "Visitors",
+      "engaged": "Engaged",
+      "form_starts": "Form starts",
+      "booked": "Booked"
+    },
+    "stats": {
+      "conv_rate": "Conv. rate",
+      "cpa": "CPA",
+      "confidence": "Confidence"
+    }
+  }
+}

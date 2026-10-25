@@ -1,0 +1,74 @@
+{
+  "meta": {
+    "title": "Polityka zwrotów — zaliczki, etapy prac i plany abonamentowe",
+    "description": "Zasady rozliczania zaliczek, płatności etapowych oraz planów cyklicznych w przypadku rezygnacji lub braku satysfakcji z usług.",
+    "og": {
+      "title": "Polityka zwrotów — zaliczki, etapy prac i plany abonamentowe",
+      "description": "Zasady rozliczania zaliczek, płatności etapowych oraz planów cyklicznych w przypadku rezygnacji lub braku satysfakcji z usług."
+    },
+    "twitter": {
+      "title": "Polityka zwrotów — zaliczki, etapy prac i plany abonamentowe",
+      "description": "Zasady rozliczania zaliczek, płatności etapowych oraz planów cyklicznych w przypadku rezygnacji lub braku satysfakcji z usług."
+    }
+  },
+  "layout": {
+    "skip_to_content": "Przejdź do treści"
+  },
+  "hero": {
+    "badge": "Nota prawna · Polityka zwrotów",
+    "title": "Polityka zwrotów",
+    "description": "Przejrzyste zasady dotyczące zaliczek, etapów prac i planów abonamentowych — bez niespodzianek w przypadku zmiany planów.",
+    "last_updated": "Ostatnia aktualizacja:",
+    "date": "14 lipca 2026 r."
+  },
+  "sidebar": {
+    "contents_label": "Spis treści",
+    "nav_aria_label": "Nawigacja po sekcjach"
+  },
+  "sections": {
+    "overview": {
+      "title": "1. Informacje ogólne",
+      "body": "Niniejsza Polityka zwrotów określa zasady rozliczania płatności w przypadku anulowania projektu, jego wstrzymania lub niespełnienia oczekiwań. Dokument ten stanowi uzupełnienie naszej Umowy Serwisowej; w przypadku rozbieżności, wiążące są zapisy podpisanej oferty lub zakresu prac (SOW)."
+    },
+    "deposits": {
+      "title": "2. Zaliczki",
+      "body": "Zaliczki projektowe są bezzwrotne. Rezerwują one miejsce w naszym harmonogramie i pokrywają koszty etapu discovery, strategii oraz wstępnych prac projektowych, które rozpoczynają się niezwłocznie po akceptacji warunków."
+    },
+    "milestones": {
+      "title": "3. Płatności etapowe",
+      "list_items": [
+        "Płatności etapowe dotyczą prac już wykonanych i zaakceptowanych. Wpłaty za dostarczone etapy projektu nie podlegają zwrotowi.",
+        "W przypadku rezygnacji w trakcie realizacji projektu, klient ponosi odpowiedzialność za opłacenie prac wykonanych oraz kosztów poniesionych do dnia rezygnacji. Wszelkie nadpłaty ponad tę kwotę są zwracane w ciągu 14 dni roboczych."
+      ]
+    },
+    "recurring": {
+      "title": "4. Plany abonamentowe (opieka, hosting, ryczałt)",
+      "list_items": [
+        "Plany abonamentowe są fakturowane z góry w cyklu miesięcznym i są bezzwrotne za bieżący okres rozliczeniowy.",
+        "Z subskrypcji można zrezygnować w dowolnym momencie z zachowaniem 30-dniowego okresu wypowiedzenia w formie pisemnej. Usługa jest świadczona do końca opłaconego okresu; po zakończeniu współpracy nie są naliczane żadne dodatkowe opłaty.",
+        "Niewykorzystane godziny w ramach ryczałtu miesięcznego nie przechodzą na kolejny miesiąc i nie podlegają zwrotowi."
+      ]
+    },
+    "third_party": {
+      "title": "5. Opłaty na rzecz podmiotów trzecich",
+      "body": "Opłaty uiszczone w imieniu klienta na rzecz zewnętrznych dostawców — domeny, hosting, media stockowe, wtyczki premium, wydatki reklamowe — są bezzwrotne od momentu zakupu, niezależnie od statusu projektu."
+    },
+    "chargebacks": {
+      "title": "6. Reklamacje płatności (Chargeback)",
+      "body": "Prosimy o kontakt przed zainicjowaniem procedury chargeback. Dołożymy wszelkich starań, aby szybko rozwiązać każdą sporną kwestię. Zgłoszenie chargeback bez uprzedniego kontaktu może skutkować natychmiastowym zawieszeniem usług i jest traktowane jako istotne naruszenie warunków umowy."
+    },
+    "request": {
+      "title": "7. Jak ubiegać się o zwrot",
+      "body": "Prosimy o przesłanie pisemnego wniosku poprzez naszą stronę kontaktową, podając nazwę projektu, numer faktury oraz przyczynę. Zakwalifikowane zwroty są realizowane przy użyciu pierwotnej metody płatności w ciągu 14 dni roboczych od momentu zatwierdzenia."
+    },
+    "changes": {
+      "title": "8. Zmiany w polityce",
+      "body": "Zastrzegamy sobie prawo do okresowej aktualizacji niniejszej Polityki zwrotów. Data „Ostatniej aktualizacji” powyżej wskazuje na wersję obowiązującą."
+    }
+  },
+  "cta": {
+    "title": "Chcesz porozmawiać o zwrocie?",
+    "description": "Skontaktuj się z nami najpierw — wspólnie wypracujemy satysfakcjonujące rozwiązanie.",
+    "button": "Skontaktuj się z nami"
+  }
+}

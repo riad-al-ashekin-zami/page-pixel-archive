@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "title": "Umowa Świadczenia Usług — Warunki Współpracy",
+    "description": "Umowa serwisowa regulująca współpracę między naszym studio a gabinetami dermatologicznymi — zakres, produkty prac, płatności, IP, poufność, gwarancje i wypowiedzenie.",
+    "page_title": "Umowa Świadczenia Usług — Warunki Współpracy",
+    "page_description": "Umowa serwisowa regulująca współpracę między naszym studio a gabinetami dermatologicznymi — zakres, produkty prac, płatności, IP, poufność, gwarancje i wypowiedzenie."
+  },
+  "common": {
+    "skip_to_content": "Przejdź do treści",
+    "last_updated": "Ostatnia aktualizacja:",
+    "last_updated_date": "14 lipca 2026"
+  },
+  "hero": {
+    "badge": "Dokumenty Prawne · Umowa Świadczenia Usług",
+    "h1": "Umowa Świadczenia Usług",
+    "description": "Przejrzyste zasady regulujące projektowanie, programowanie oraz bieżącą współpracę między naszym studio a Twoją praktyką. Prosimy o lekturę wraz z ofertą projektową lub zakresem prac (SOW)."
+  },
+  "sections": {
+    "toc_title": "Spis treści",
+    "navigation_aria_label": "Nawigacja po sekcjach",
+    "parties": {
+      "title": "1. Strony i Akceptacja",
+      "body": "Niniejsza Umowa Świadczenia Usług („Umowa”) zostaje zawarta pomiędzy naszym studio („Wykonawca”, „my”, „nas”) a praktyką lekarską, podmiotem lub osobą fizyczną wskazaną w towarzyszącej ofercie lub zakresie prac („Klient”, „Ty”). Podpisanie oferty, wpłacenie zadatku lub inne zlecenie nam rozpoczęcia prac oznacza akceptację poniższych warunków."
+    },
+    "scope": {
+      "title": "2. Zakres Usług",
+      "body": "Konkretne usługi, produkty prac, kamienie milowe oraz terminy są zdefiniowane w ofercie lub zakresie prac („SOW”) odwołującym się do niniejszej Umowy. Wszystko, co wykracza poza ten dokument SOW — nowe podstrony, dodatkowe integracje, nadprogramowe tury poprawek, zmiana zakresu po zatwierdzeniu — traktowane jest jako zlecenie zmiany i wymaga odrębnej wyceny pisemnej."
+    },
+    "fees": {
+      "title": "3. Opłaty i Płatności",
+      "items": [
+        "Bezzwrotny zadatek w wysokości 50% jest wymagany do rezerwacji terminu i rozpoczęcia prac.",
+        "Pozostała należność jest fakturowana zgodnie z kamieniami milowymi w SOW; końcowe rozliczenie następuje przed wdrożeniem produkcyjnym lub przekazaniem plików.",
+        "Termin płatności faktur wynosi 7 dni. Opóźnione płatności generują odsetki w wysokości 1,5% miesięcznie, a prace mogą zostać wstrzymane do czasu uregulowania salda.",
+        "Plany abonamentowe (hosting, opieka techniczna, ryczałt) są fakturowane miesięcznie z góry."
+      ]
+    },
+    "timeline": {
+      "title": "4. Harmonogram i Odpowiedzialność Klienta",
+      "body": "Terminy zakładają odpowiedzi na recenzje i prośby o treści w ciągu 3 dni roboczych. Opóźnienia w informacjach zwrotnych, dostarczaniu treści lub zatwierdzeniach zewnętrznych przesuwają harmonogram o odpowiednią liczbę dni. Klient jest odpowiedzialny za dostarczanie rzetelnych treści, materiałów marki oraz danych dostępowych, a także za zapewnienie, że dostarczone materiały są prawdziwe i nie naruszają praw osób trzecich."
+    },
+    "revisions": {
+      "title": "5. Poprawki",
+      "body": "Każdy etap prac obejmuje dwie tury zbiorczych poprawek, chyba że SOW stanowi inaczej. Poprawki zgłoszone po pisemnym zatwierdzeniu etapu lub przekraczające liczbę zawartych tur są rozliczane według naszej aktualnej stawki godzinowej."
+    },
+    "ip": {
+      "title": "6. Własność Intelektualna",
+      "body": "Po dokonaniu pełnej płatności Klient staje się właścicielem końcowych produktów prac stworzonych specjalnie dla niego — projektu strony, autorskiego kodu i treści przygotowanych w ramach SOW. Zachowujemy prawa do wcześniej istniejących frameworków, narzędzi i ogólnych komponentów użytych w budowie, udzielając Klientowi wieczystej licencji na korzystanie z nich w ramach projektu. Zastrzegamy sobie prawo do prezentacji gotowego dzieła w naszym portfolio i studiach przypadku, chyba że Klient złoży pisemny sprzeciw."
+    },
+    "third_party": {
+      "title": "7. Usługi Zewnętrzne",
+      "body": "Projekty mogą opierać się na usługach podmiotów trzecich (hosting, CMS, analityka, integracje EHR/rezerwacje, DNS, procesory płatności). Klient jest odpowiedzialny za opłacanie tych usług i akceptację ich regulaminów. Nie ponosimy odpowiedzialności za przerwy w działaniu, zmiany lub wady spowodowane przez dostawców zewnętrznych."
+    },
+    "hipaa": {
+      "title": "8. HIPAA i Przetwarzanie Danych",
+      "body": "Nasze standardowe strony są budowane w standardzie HIPAA-aware: unikają zbierania Chronionych Informacji Zdrowotnych (PHI) w formularzach, trackerach lub logach. W przypadkach, gdy projekt celowo obsługuje PHI (np. portale pacjenta, formularze kliniczne), strony podpiszą odrębną Umowę o Przetwarzaniu Danych (BAA) przed wdrożeniem tych funkcji. Klient odpowiada za konfigurację narzędzi zewnętrznych dodanych po przekazaniu projektu w sposób zgodny z HIPAA."
+    },
+    "confidentiality": {
+      "title": "9. Poufność",
+      "body": "Każda ze stron zobowiązuje się do zachowania w tajemnicy poufnych informacji biznesowych, finansowych, technicznych oraz danych pacjentów drugiej strony i wykorzystywania ich wyłącznie w celu realizacji Umowy. Obowiązek poufności pozostaje w mocy po rozwiązaniu Umowy."
+    },
+    "warranty": {
+      "title": "10. Gwarancja i Wyłączenia",
+      "body": "Gwarantujemy, że usługi zostaną wykonane w sposób profesjonalny, zgodnie ze standardami branżowymi. Przez 30 dni po wdrożeniu bezpłatnie naprawimy błędy w napisanym przez nas kodzie. Po tym terminie prace naprawcze są objęte planem opieki lub rozliczane godzinowo. Z wyjątkiem wyraźnych postanowień, usługi i produkty są dostarczane w stanie, w jakim się znajdują („as-is”), a my wyłączamy wszelkie inne gwarancje, w tym przydatności do określonego celu i nienaruszalności usług osób trzecich."
+    },
+    "liability": {
+      "title": "11. Ograniczenie Odpowiedzialności",
+      "body": "W maksymalnym zakresie dozwolonym przez prawo, żadna ze stron nie ponosi odpowiedzialności za szkody pośrednie, przypadkowe, wynikowe lub utracone zyski. Nasza łączna odpowiedzialność wynikająca z niniejszej Umowy ograniczona jest do kwoty wynagrodzenia wpłaconego przez Klienta w ciągu trzech (3) miesięcy poprzedzających zgłoszenie roszczenia."
+    },
+    "termination": {
+      "title": "12. Rozwiązanie Umowy",
+      "body": "Każda ze stron może rozwiązać umowę z powodu istotnego naruszenia jej postanowień, jeżeli naruszenie nie zostanie usunięte w ciągu 14 dni od pisemnego powiadomienia. W przypadku wypowiedzenia umowy przez Klienta z innych przyczyn, jest on zobowiązany do zapłaty za wszystkie wykonane prace i poniesione koszty do dnia rozwiązania; zadatek pozostaje bezzwrotny. Plany abonamentowe wymagają 30-dniowego okresu wypowiedzenia."
+    },
+    "misc": {
+      "title": "13. Prawo Właściwe i Postanowienia Końcowe",
+      "body": "Niniejsza Umowa podlega prawu jurysdykcji określonej w SOW. Stanowi ona pełne porozumienie stron w tym przedmiocie i zastępuje wszelkie wcześniejsze ustalenia. Jeśli którekolwiek z postanowień okaże się niewykonalne, pozostała część pozostaje w mocy. Wszelkie zmiany wymagają formy pisemnej pod rygorem nieważności i podpisów obu stron."
+    }
+  },
+  "cta": {
+    "title": "Masz pytania dotyczące tych warunków?",
+    "description": "Z chęcią omówimy każdy punkt przed podpisaniem umowy.",
+    "button": "Skontaktuj się z nami"
+  }
+}

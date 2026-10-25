@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "title": "Serviços de Websites para Dermatologia — Design, SEO e Crescimento",
+    "description": "Explore serviços de websites para dermatologia com conformidade HIPAA, SEO, marketing local, portais de pacientes, manutenção e suporte ao crescimento de clínicas modernas.",
+    "ogTitle": "Serviços de Websites para Dermatologia",
+    "ogDescription": "Design de websites, SEO, anúncios pagos, gestão de reputação, portais, galerias e manutenção contínua para clínicas de dermatologia.",
+    "schema": {
+      "name": "Serviços de Websites para Dermatologia",
+      "serviceType": "Design de websites, SEO e marketing de crescimento para clínicas de dermatologia",
+      "providerName": "Dermatology Website Design"
+    }
+  },
+  "hero": {
+    "eyebrow": "Serviços",
+    "title": "Serviços de websites para dermatologia criados para converter visitantes em pacientes.",
+    "description": "Escolha um projeto individual ou um sistema de crescimento completo: design de websites personalizado, SEO, angariação de pacientes, integrações, manutenção e otimização para clínicas de dermatologia.",
+    "ctaQuote": "Pedir Orçamento Gratuito",
+    "ctaPricing": "Ver Preços",
+    "proofPoints": {
+      "hipaa": "Implementação com conformidade HIPAA",
+      "responsive": "Responsivo em todos os dispositivos",
+      "seo": "Bases de SEO on-page",
+      "conversion": "Percursos do paciente focados na conversão"
+    }
+  },
+  "sections": {
+    "website": {
+      "label": "Serviços de Website",
+      "eyebrow": "Construir",
+      "description": "Websites personalizados, redesigns, migrações, portais, galerias e planos de manutenção focados na confiança do paciente e na conversão."
+    },
+    "marketing": {
+      "label": "Serviços de Marketing",
+      "eyebrow": "Crescer",
+      "description": "SEO, visibilidade local, aquisição paga, reputação, redes sociais, email e sistemas de CRO que atraem pacientes qualificados."
+    },
+    "support": {
+      "label": "Serviços Adicionais",
+      "eyebrow": "Suporte",
+      "description": "Alojamento, suporte de conformidade, integrações, analítica, conteúdos e melhorias contínuas para clínicas que procuram manter o dinamismo após o lançamento."
+    }
+  },
+  "cta": {
+    "title": "Não sabe qual o serviço ideal para a sua clínica?",
+    "description": "Comece com uma auditoria gratuita e delinearemos o caminho de maior impacto para o seu site, visibilidade nos motores de busca e fluxo de conversão de pacientes.",
+    "button": "Solicitar Auditoria Gratuita"
+  }
+}

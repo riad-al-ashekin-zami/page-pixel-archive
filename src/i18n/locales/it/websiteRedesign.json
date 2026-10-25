@@ -1,0 +1,340 @@
+{
+  "meta": {
+    "title": "Restyling Siti Web per Dermatologia — Rinnova Senza Perdere SEO",
+    "description": "Restyling premium per studi dermatologici singoli, multi-sede, pediatrici e chirurgia di Mohs. Moderni, veloci, HIPAA-aware — con zero perdite SEO al lancio.",
+    "og_title": "Restyling Siti per Dermatologia — Zero Perdite SEO",
+    "og_description": "Trasforma il tuo vecchio sito in un'esperienza veloce, orientata alla conversione e HIPAA-aware. Redirect 301 e SEO preservati.",
+    "jsonLd": {
+      "serviceType": "Dermatology Website Redesign",
+      "providerName": "DW Design",
+      "offerDescription": "Restyling sito web per dermatologia — prezzo di partenza"
+    }
+  },
+  "hero": {
+    "scarcityBadge": "Solo 3 slot disponibili per il restyling questo trimestre",
+    "category": "Restyling Siti Web per Dermatologia",
+    "h1": {
+      "main": "Rinnova il sito del tuo studio. ",
+      "highlight": "Senza perdere il posizionamento SEO."
+    },
+    "description": "Un restyling curato da esperti per studi dermatologici: più veloce, più sicuro, più elegante. Gestione redirect 301, moduli HIPAA-aware e posizionamento garantito.",
+    "cta": {
+      "primary": "Richiedi un Preventivo",
+      "secondary": "Audit Gratuito del Sito"
+    },
+    "pricing": {
+      "label": "Restyling a partire da",
+      "value": "€4.900",
+      "detail": "· ambito fisso, fatturazione per obiettivi"
+    },
+    "trustLabels": [
+      "Zero perdite SEO",
+      "Zero tempi di inattività",
+      "Qualifica HIPAA",
+      "Lighthouse 95+"
+    ],
+    "socialProof": "Scelto da oltre 50 studi dermatologici · Visto su",
+    "dragHint": "← Trascina per confrontare →",
+    "badges": {
+      "before": "Prima",
+      "after": "Dopo",
+      "performance": "Lighthouse 48 → 98",
+      "growth": "+3.4x prenotazioni",
+      "seo": "Zero perdite SEO"
+    },
+    "aria": {
+      "compare": "Mostra prima / dopo il restyling"
+    }
+  },
+  "sections": {
+    "painPoints": {
+      "overhead": "Segnali che indicano la necessità di un restyling",
+      "heading": "Passa il mouse per scoprire la soluzione",
+      "description": "Ogni scheda rossa indica un problema comune dei siti dermatologici. Passa sopra (o tocca) per vedere come il restyling lo risolve.",
+      "cards": [
+        {
+          "pain": "Caricamento lento",
+          "painStat": "> 4s LCP",
+          "solution": "Edge caching + ottimizzazione immagini",
+          "solutionStat": "< 1.2s LCP"
+        },
+        {
+          "pain": "Non ottimizzato per mobile",
+          "painStat": ">60% traffico perso",
+          "solution": "Rifacimento mobile-first",
+          "solutionStat": "100% responsive"
+        },
+        {
+          "pain": "Invisibile su Google",
+          "painStat": "Pagina 3+",
+          "solution": "Schema + SEO on-page",
+          "solutionStat": "Top 3 locale"
+        },
+        {
+          "pain": "Design datato",
+          "painStat": "Calo della fiducia",
+          "solution": "Design system personalizzato",
+          "solutionStat": "Brand Premium"
+        },
+        {
+          "pain": "Rischio HIPAA",
+          "painStat": "Moduli non sicuri",
+          "solution": "Stack conforme BAA",
+          "solutionStat": "Pronto per audit"
+        },
+        {
+          "pain": "Poche prenotazioni",
+          "painStat": "< 2% CVR",
+          "solution": "Flussi ottimizzati per CRO",
+          "solutionStat": "> 6% CVR"
+        }
+      ]
+    },
+    "stats": {
+      "overhead": "Cosa Cambia Concretamente",
+      "heading": "Prima vs. Dopo un vero restyling",
+      "description": "Dati medi basati sugli studi dermatologici rilanciati negli ultimi 24 mesi.",
+      "labels": {
+        "before": "Prima",
+        "after": "Dopo"
+      },
+      "items": [
+        {
+          "label": "Caricamento pagina (LCP)"
+        },
+        {
+          "label": "Punteggio Lighthouse"
+        },
+        {
+          "label": "Conversione prenotazioni"
+        },
+        {
+          "label": "Ranking locale Google"
+        }
+      ]
+    },
+    "seoTimeline": {
+      "overhead": "Preservazione SEO",
+      "heading": "Come proteggiamo il tuo posizionamento",
+      "description": "Un protocollo in cinque fasi su 90 giorni per garantire che Google (e i pazienti) continuino a trovarti durante il passaggio.",
+      "steps": [
+        {
+          "day": "Giorno 1",
+          "label": "Crawl completo URL + snapshot ranking"
+        },
+        {
+          "day": "Settimana 2",
+          "label": "Approvazione mappa redirect 1:1"
+        },
+        {
+          "day": "Lancio",
+          "label": "Redirect 301 attivati al passaggio"
+        },
+        {
+          "day": "Giorno 30",
+          "label": "Pulizia Google Search Console"
+        },
+        {
+          "day": "Giorno 90",
+          "label": "Monitoraggio e tuning ranking"
+        }
+      ]
+    },
+    "audiences": {
+      "overhead": "Target",
+      "heading": "Restyling per ogni tipologia di studio",
+      "items": [
+        {
+          "label": "Dermatologi Liberi Professionisti",
+          "desc": "Un refresh boutique per riposizionare il tuo brand e aumentare gli appuntamenti."
+        },
+        {
+          "label": "Cliniche Multi-sede",
+          "desc": "Consolida siti frammentati in un unico sistema scalabile per ogni sede."
+        },
+        {
+          "label": "Dermatologia Pediatrica",
+          "desc": "UX accogliente per i genitori con flussi di accettazione chiari per i tutori."
+        },
+        {
+          "label": "Chirurgia di Mohs",
+          "desc": "Aumenta l'autorevolezza per i medici referenti e per i pazienti diretti."
+        }
+      ]
+    },
+    "pillars": {
+      "overhead": "Perché Scegliere un Servizio Premium",
+      "heading": "Sei standard garantiti ad ogni restyling",
+      "description": "Design, ingegneria web, SEO e conformità: tutto integrato sin dal primo giorno.",
+      "items": [
+        {
+          "title": "Zero Perdite SEO",
+          "desc": "Redirect 301, struttura URL preservata, mapping dei contenuti e monitoraggio ranking per 90 giorni."
+        },
+        {
+          "title": "Design 100% Su Misura",
+          "desc": "Nessun template pronto: un sistema creato appositamente per il brand e le specializzazioni della tua clinica."
+        },
+        {
+          "title": "Lighthouse 95+",
+          "desc": "Performance estreme: pipeline immagini, edge caching e JavaScript leggero."
+        },
+        {
+          "title": "HIPAA-Aware",
+          "desc": "Moduli sicuri, hosting BAA-ready, nessun PHI negli analytics e stack conforme agli audit."
+        },
+        {
+          "title": "Totalmente Responsive",
+          "desc": "Perfetto su desktop, laptop, tablet e smartphone; testato su dispositivi reali."
+        },
+        {
+          "title": "Accessibilità (WCAG AA)",
+          "desc": "Navigabile da tastiera, contrasti sicuri e compatibile con screen-reader; inclusivo per natura."
+        }
+      ]
+    },
+    "services": {
+      "overhead": "Copertura Servizi Medici",
+      "heading": "Ogni pagina servizio ricostruita per convertire",
+      "description": "Ristrutturiamo e riscriviamo ogni pagina trattamento: testi accurati, chiari per il paziente, mappati per la SEO e con dati strutturati per i rich result di Google.",
+      "features": [
+        "Mappatura Keyword H1 / H2 / FAQ",
+        "Contenuti migrati con i relativi 301",
+        "Moduli di accettazione HIPAA-aware",
+        "Veloce, indicizzabile, mobile-first"
+      ],
+      "list": [
+        "Trattamento Acne",
+        "Trattamento Eczema",
+        "Trattamento Psoriasi",
+        "Infezioni Cutanee",
+        "Allergie Cutanee",
+        "Screening e Trattamento Tumori della Pelle",
+        "Valutazione e Rimozione Nei",
+        "Rimozione Cisti e Lipomi",
+        "Rimozione Verruche",
+        "Onicopatie (Disturbi delle Unghie)",
+        "Trattamento Calvizie",
+        "Disturbi del Cuoio Capelluto",
+        "Trattamento Rosacea",
+        "Iperpigmentazione e Melasma",
+        "Trattamento Cicatrici",
+        "Cicatrici da Ustione",
+        "Trattamento Vitiligine",
+        "Biopsia Cutanea e Diagnostica"
+      ]
+    },
+    "process": {
+      "overhead": "Il Nostro Processo",
+      "heading": "Quattro fasi. Zero sorprese.",
+      "items": [
+        {
+          "step": "01",
+          "title": "Audit & Diagnosi",
+          "desc": "Analisi SEO, performance, UX e contenuti del sito attuale. Definiamo cosa mantenere, correggere o sostituire."
+        },
+        {
+          "step": "02",
+          "title": "Architettura & Mappa Redirect",
+          "desc": "Nuova sitemap e mapping URL 1:1 con i 301 pianificati prima ancora di iniziare il design."
+        },
+        {
+          "step": "03",
+          "title": "Design & Sviluppo",
+          "desc": "Design system personalizzato, codice scritto a mano, moduli HIPAA-aware e markup schema integrato."
+        },
+        {
+          "step": "04",
+          "title": "Migrazione & Lancio",
+          "desc": "Migrazione contenuti, attivazione redirect, passaggio senza tempi di inattività e monitoraggio ranking per 90 giorni."
+        }
+      ]
+    },
+    "portfolio": {
+      "overhead": "Restyling Recenti",
+      "heading": "Trasformazioni Prima e Dopo",
+      "cta": "Vedi il portfolio completo",
+      "items": [
+        {
+          "label": "LA Dermatology",
+          "meta": "Prima → Dopo · +187% prenotazioni, mantenuta posizione #1",
+          "alt": "Restyling sito web LA Dermatology"
+        },
+        {
+          "label": "RS Institute",
+          "meta": "Consolidamento 6 siti · +142% traffico",
+          "alt": "Restyling sito web RS Institute"
+        },
+        {
+          "label": "CM Surgical",
+          "meta": "Restyling · +230% lead da referenti",
+          "alt": "Restyling sito web CM Surgical"
+        }
+      ]
+    }
+  },
+  "testimonials": {
+    "aria": {
+      "button": "Recensione"
+    },
+    "items": [
+      {
+        "name": "Dr. Ethan Caldwell, MD",
+        "role": "LA Dermatology · Studio Singolo",
+        "quote": "Il restyling è stato impeccabile: non abbiamo perso una singola posizione su Google e in 60 giorni le prenotazioni sono raddoppiate. Finalmente il sito riflette la qualità del nostro lavoro."
+      },
+      {
+        "name": "Dr. Ibrahim Okafor, MD",
+        "role": "RS Institute · 6 sedi",
+        "quote": "Consolidare sei siti datati in uno solo sembrava impossibile. Lo hanno fatto in otto settimane con zero perdite SEO e ogni pagina sede si posiziona meglio di prima."
+      },
+      {
+        "name": "Dr. Anika Vasquez, MD",
+        "role": "CM Surgical",
+        "quote": "I medici referenti ora ci fanno i complimenti per il nuovo sito. La qualità dei lead è aumentata drasticamente, non solo la quantità. La migliore decisione di marketing che abbiamo mai preso."
+      }
+    ]
+  },
+  "faq": {
+    "overhead": "DOMANDE FREQUENTI",
+    "heading": "Tutto sul restyling",
+    "items": [
+      {
+        "q": "Il mio posizionamento SEO calerà dopo il restyling?",
+        "a": "No — preserviamo la struttura degli URL, implementiamo redirect 301 per i percorsi modificati, manteniamo contenuti e link interni, migriamo metadati e schemi, e monitoriamo il ranking per 90 giorni dopo il lancio."
+      },
+      {
+        "q": "Quanto tempo richiede il restyling?",
+        "a": "Per uno studio dermatologico standard occorrono dalle 5 alle 8 settimane. Siti multi-sede o complessi richiedono 8-12 settimane. Seguiamo un programma settimanale basato su obiettivi chiari."
+      },
+      {
+        "q": "Vi occupate di migrare i miei contenuti attuali?",
+        "a": "Sì. Analizziamo, ristrutturiamo e migriamo ogni pagina (servizi, medici, gallerie prima-e-dopo, blog, moduli e sedi) nella nuova architettura senza perdite di dati."
+      },
+      {
+        "q": "Potete integrare il sito con il mio attuale sistema di prenotazione/EHR?",
+        "a": "Certamente. Ci integriamo con i principali EHR dermatologici, portali pazienti, widget di prenotazione e strumenti CRM, garantendo una gestione conforme a HIPAA."
+      },
+      {
+        "q": "Cosa succede se sono a metà contratto con la mia attuale agenzia?",
+        "a": "Possiamo iniziare la pianificazione durante il periodo di preavviso ed entrare in modalità live il giorno esatto in cui il vecchio sito può essere sostituito. Zero tempi di inattività al lancio."
+      }
+    ]
+  },
+  "cta": {
+    "overhead": "Audit Gratuito del Sito Web",
+    "heading": "È ora di rinnovare il sito del tuo studio?",
+    "description": "Inviaci l'URL. Lo analizzeremo personalmente e ti mostreremo esattamente cosa ti sta costando in termini di pazienti — e come un restyling possa risolvere tutto senza intaccare la tua SEO.",
+    "logoAlt": "DW — Design Siti per Dermatologia",
+    "providerName": "Dermatology Website Design",
+    "providerRole": "Aiutiamo i Dermatologi a Crescere Online",
+    "primary": "Richiedi un Preventivo",
+    "secondary": "Contattaci",
+    "footerLinksPrefix": "Potrebbe interessarti anche: ",
+    "footerLinks": {
+      "migration": "pianificare una migrazione completa",
+      "maintenance": "manutenzione continua post-lancio",
+      "portfolio": "guarda i siti dermatologici attivi"
+    }
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "meta": {
+    "title": "Kostnadsfri analys av din dermatologiska hemsida — Rapport inom 24 timmar",
+    "description": "Få en gratis sajtanalys inriktad på dermatologi. Personlig rapport om SEO, hastighet, HIPAA, UX och konvertering — levereras inom 24 timmar.",
+    "og": {
+      "title": "Gratis hemsidesanalys för hudläkare",
+      "description": "Personlig analys för dermatologiska kliniker — SEO, hastighet, HIPAA, UX och konvertering. Leverans inom 24 timmar."
+    },
+    "jsonLd": {
+      "home": "Hem",
+      "breadcrumb": "Gratis hemsidesanalys"
+    }
+  },
+  "hero": {
+    "badge": "Gratis · Inga förpliktelser · 24 timmars leverans",
+    "title": "En kostnadsfri, mänsklig granskning av din hudvårdssajt.",
+    "subtitle": "Få en personlig rapport om SEO, hastighet, HIPAA, tillgänglighet och konvertering — granskad av en expert på dermatologi, inte ett automatiserat verktyg. Levereras inom 24 timmar.",
+    "checklist": [
+      "Hemsidans hälsopoäng (0–100)",
+      "De 3 viktigaste åtgärderna, förklarade på lättbegriplig svenska",
+      "Koncis skriftlig sammanfattning direkt till din inkorg",
+      "Inga krav — sammanställningen är din att behålla"
+    ],
+    "audiencesLabel": "Perfekt för",
+    "audiences": [
+      "Privatpraktiserande hudläkare",
+      "Kliniker med flera mottagningar",
+      "Estetiska kliniker",
+      "Barn- och ungdomsdermatologi",
+      "Mohs & kirurgisk dermatologi"
+    ],
+    "stats": {
+      "websites": {
+        "label": "Hemsidor",
+        "sub": "Granskade & levererade"
+      },
+      "delivery": {
+        "label": "Leverans",
+        "sub": "Under arbetsdagar"
+      },
+      "niche": {
+        "label": "Dermatologi",
+        "sub": "Nischat fokus"
+      }
+    }
+  },
+  "trustItems": [
+    {
+      "label": "Nischade på dermatologi",
+      "note": "100 % branschfokus"
+    },
+    {
+      "label": "24 timmars leverans",
+      "note": "Rapport i din inkorg"
+    },
+    {
+      "label": "Inga förpliktelser",
+      "note": "Ingen säljpresentation"
+    },
+    {
+      "label": "Mänsklig granskning",
+      "note": "Inte bara en Lighthouse-dump"
+    }
+  ],
+  "sections": {
+    "auditAreas": {
+      "tag": "Vad vi granskar",
+      "title": "Sex perspektiv. En dermatologspecifik rapport.",
+      "subtitle": "Varje analys görs manuellt — inget kopieras från ett skanningsverktyg.",
+      "items": [
+        {
+          "title": "SEO & lokal synlighet",
+          "body": "On-page SEO, schema-markup, sökord du bör ranka på, signaler från Google Business Profile och din närvaro i lokala sökresultat."
+        },
+        {
+          "title": "Hastighet & Core Web Vitals",
+          "body": "LCP, INP, CLS, mobilprestanda, bildoptimering och snabba lösningar som din utvecklare kan åtgärda redan denna vecka."
+        },
+        {
+          "title": "HIPAA & säkerhet",
+          "body": "Hantering av formulär, PHI-exponering, SSL, spårningsläckage och samtyckeshantering — granskat med expertis inom dermatologi."
+        },
+        {
+          "title": "ADA & tillgänglighet",
+          "body": "WCAG 2.1-kontrollpunkter: kontrast, fokuslägen, tangentbordsnavigering, alt-texter och läsordning för verkliga patienter."
+        },
+        {
+          "title": "UX & konvertering",
+          "body": "Hur nya patienter upplever bokningsflödet, tjänstesidor, före/efter-gallerier — och var de väljer att lämna sajten."
+        },
+        {
+          "title": "Mobilupplevelse",
+          "body": "Granskning på fysiska enheter, klickytor, friktion vid samtal/bokning och hur din sajt beter sig på 4G i ett väntrum."
+        }
+      ]
+    },
+    "benefits": {
+      "tag": "Varför göra en gratis analys?",
+      "title": "Fördelen med att veta hur det faktiskt ligger till.",
+      "subtitle": "Få en tydlig bild av din sajts hälsa idag — så att varje krona du lägger på marknadsföring imorgon ger bättre effekt.",
+      "items": [
+        {
+          "title": "Hitta dolda problem",
+          "body": "De flesta problem syns inte på ytan — trasig schema-markup, långsam LCP eller spårningsläckage. Vi synliggör dem."
+        },
+        {
+          "title": "Förbättra prestandan",
+          "body": "En snabbare och renare sajt innebär en bättre patientupplevelse och mätbart högre konvertering i bokningsformulär."
+        },
+        {
+          "title": "Stärk HIPAA & säkerhet",
+          "body": "Förebygg PHI-läckor, felkonfigurerade trackers och SSL-problem innan de blir ett regelefterlevnadsproblem."
+        },
+        {
+          "title": "Klättra på Google",
+          "body": "Att åtgärda teknisk SEO och lokala signaler hjälper din klinik att stiga i kartresultat och organiska sökningar."
+        }
+      ]
+    },
+    "deliverables": {
+      "tag": "Vad du får",
+      "title": "En rapport du faktiskt kan använda.",
+      "description": "Ingen 80-sidors PDF full av jargong. Bara de specifika frågor som är viktiga för en hudklinik, rankade efter effekt, med tydliga nästa steg som du kan ge till valfri utvecklare eller byrå — inklusive oss.",
+      "tags": {
+        "delivery": "24 timmars leverans",
+        "confidential": "Konfidentiellt",
+        "obligation": "Inga förpliktelser"
+      },
+      "items": [
+        {
+          "title": "Hälsopoäng för hemsidan",
+          "body": "En enda poäng (0–100) med en snabb uppdelning per kategori (SEO, Hastighet, HIPAA, UX, Mobil) — så att du direkt ser var du står."
+        },
+        {
+          "title": "Topp 3 prioriterade åtgärder",
+          "body": "De tre mest kritiska problemen vi hittar på din sajt, förklarade på enkel svenska — tillräckligt för att agera på, inte en 20-sidig genomgång."
+        },
+        {
+          "title": "Koncis skriftlig sammanfattning",
+          "body": "Ett kortfattat sammandrag av dina poäng och fokusområden till din inkorg. En fördjupad rapport och 90-dagarsplan finns som betald uppföljning."
+        }
+      ]
+    },
+    "howItWorks": {
+      "tag": "SÅ GÅR DET TILL",
+      "title": "Från förfrågan till rapport på 24 timmar.",
+      "steps": [
+        {
+          "label": "Steg 1",
+          "title": "Fyll i din information",
+          "body": "Dela din URL och några korta detaljer. Det tar ungefär 60 sekunder."
+        },
+        {
+          "label": "Steg 2",
+          "title": "Våra experter analyserar allt",
+          "body": "En människa — inte ett verktyg — granskar hastighet, SEO, HIPAA, UX och mobil genom ett dermatologiskt perspektiv."
+        },
+        {
+          "label": "Steg 3",
+          "title": "Få din sammanställning inom 24h",
+          "body": "Dina hälsopoäng, topp 3-åtgärder och en koncis sammanfattning levereras till din inkorg."
+        },
+        {
+          "label": "Steg 4",
+          "title": "Fixa det själv eller ta hjälp",
+          "body": "Ge rapporten till ditt team, eller be oss genomföra förbättringarna. Ingen press oavsett vad du väljer."
+        }
+      ]
+    }
+  },
+  "form": {
+    "tag": "Beställ din gratis analys",
+    "title": "Få din rapport inom 24 timmar",
+    "subtitle": "Några korta fält. Inget konto. Inget kreditkort.",
+    "fields": {
+      "website": {
+        "label": "Webbadress (URL)",
+        "placeholder": "https://dinklinik.se"
+      },
+      "name": {
+        "label": "Ditt namn",
+        "placeholder": "Dr. Erik Svensson"
+      },
+      "role": {
+        "label": "Roll",
+        "placeholder": "Ägare, Verksamhetschef…"
+      },
+      "practice": {
+        "label": "Klinikens namn",
+        "placeholder": "Svenssons Dermatologi"
+      },
+      "email": {
+        "label": "E-post",
+        "placeholder": "namn@klinik.se"
+      },
+      "phone": {
+        "label": "Telefon",
+        "placeholder": "(valfritt)"
+      },
+      "goals": {
+        "label": "Vad vill du att vi fokuserar på?",
+        "optionalLabel": "(valfritt)",
+        "placeholder": "t.ex. vi har trafik men inga bokningar, eller vi vill ranka på Mohs-kirurgi i Stockholm."
+      }
+    },
+    "submit": "Beställ min gratis analys",
+    "disclaimer": {
+      "spam": "Ingen spam-policy",
+      "obligation": "Inga förpliktelser",
+      "confidential": "Konfidentiellt — delas aldrig"
+    },
+    "success": {
+      "title": "Förfrågan mottagen — tack!",
+      "body": "Vi kommer att granska din hemsida och skicka rapporten till din e-post inom 24 timmar (arbetsdagar).",
+      "cta": "Se våra senaste projekt"
+    },
+    "errors": {
+      "name": "Vänligen ange ditt namn",
+      "email": "Vänligen ange en giltig e-postadress",
+      "practice": "Vänligen ange klinikens namn",
+      "website": "Vänligen ange din webbadress",
+      "generic": "Vänligen kontrollera formuläret",
+      "cooldown": "Vänligen vänta {{seconds}}s innan du skickar igen.",
+      "submissionError": "Tyvärr uppstod ett fel. Försök igen eller kontakta oss direkt via e-post."
+    }
+  },
+  "faq": {
+    "tag": "Vanliga frågor",
+    "title": "Svar på ren svenska.",
+    "items": [
+      {
+        "q": "Är det verkligen gratis? Vad är haken?",
+        "a": "Ja — det är genuint gratis. Det är vårt sätt att presentera oss. De flesta kliniker utför rekommendationerna själva; vissa ber oss om hjälp. Båda alternativen fungerar för oss."
+      },
+      {
+        "q": "Vem utför analysen?",
+        "a": "En senior medlem i vårt team som har lanserat över 50 hemsidor inom dermatologi. Inga juniorer tar över och ingen automatiskt genererad PDF."
+      },
+      {
+        "q": "Hur skiljer sig detta från en Lighthouse- eller SEMrush-rapport?",
+        "a": "Automatiska verktyg flaggar generiska problem. Vi tolkar dem utifrån din specifika kontext inom dermatologi — vad som är viktigt för en estetisk klinik kontra en medicinsk/Mohs-klinik, och vad som bör prioriteras först."
+      },
+      {
+        "q": "Måste jag anlita er efteråt?",
+        "a": "Nej. Rapporten är din att behålla och använda hur du vill. Vi följer bara upp en gång, och endast om du ber oss om det."
+      },
+      {
+        "q": "Hur lång tid tar det?",
+        "a": "Leverans sker inom 24 timmar under arbetsdagar. Om det av någon anledning skulle ta längre tid meddelar vi dig direkt."
+      }
+    ]
+  },
+  "footerLinks": {
+    "prefix": "Även användbart: ",
+    "portfolio": "bläddra i vår portfolio",
+    "process": "hur våra samarbeten ser ut",
+    "costs": "vad våra paket brukar kosta"
+  }
+}

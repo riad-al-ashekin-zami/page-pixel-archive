@@ -1,0 +1,344 @@
+{
+  "meta": {
+    "title": "Portfolio de sites web pour dermatologues — Refontes concrètes de cabinets",
+    "description": "Une sélection de sites web en dermatologie conçus par nos soins : cabinets esthétiques, médicaux, pédiatriques et multi-sites, avec une croissance mesurable de la prise de rendez-vous, du SEO et de la vitesse.",
+    "keywords": "portfolio site web dermatologie, exemples design web dermatologie, études de cas site dermatologue, sites web pour cabinets de dermatologie",
+    "breadcrumb": {
+      "home": "Accueil",
+      "portfolio": "Portfolio"
+    }
+  },
+  "accessibility": {
+    "skipToContent": "Passer au contenu"
+  },
+  "hero": {
+    "badge": "Portfolio · Plus de 50 cabinets de dermatologie",
+    "heading": "De vrais sites de dermatologie. Une croissance réelle.",
+    "subheading": "Chaque projet ci-dessous est celui d'un cabinet en activité : dermatologie esthétique, médicale, pédiatrique ou groupes multi-sites. Design sur-mesure, développement conforme HIPAA et un SEO qui booste vos réservations, pas seulement votre classement.",
+    "cta": {
+      "start": "Lancer un projet",
+      "audit": "Audit gratuit de votre site"
+    },
+    "stats": [
+      {
+        "label": "Cabinets",
+        "value": "50+"
+      },
+      {
+        "label": "Hausse moyenne des réservations",
+        "value": "3,4×"
+      },
+      {
+        "label": "Médiane Lighthouse",
+        "value": "98"
+      }
+    ]
+  },
+  "previews": {
+    "backCard": {
+      "imageAlt": "CS Dermatology — aperçu du site web d'un cabinet médical",
+      "tags": {
+        "hipaa": "Conformité HIPAA",
+        "performance": "99 · perf"
+      }
+    },
+    "frontCard": {
+      "imageAlt": "Aventura Skin Studio — aperçu du site web de dermatologie esthétique",
+      "category": "Derm. esthétique · Miami",
+      "practiceName": "Aventura Skin Studio",
+      "result": "+214 % de demandes de consultation en 90 jours"
+    }
+  },
+  "ctaSection": {
+    "badge": "Prêts quand vous l'êtes",
+    "heading": "Votre cabinet mérite un site qui génère des patients en toute autonomie.",
+    "description": "Découvrez l'impact d'une conception spécialisée en dermatologie pour votre cabinet. Audit gratuit, proposition à tarif fixe, aucune pression — recevez des chiffres concrets sous 24 heures.",
+    "features": [
+      "Audit de site gratuit en 24h",
+      "Proposition à prix fixe",
+      "Conformité HIPAA, WCAG AA",
+      "Pleine propriété : code, domaine, données"
+    ],
+    "buttons": {
+      "start": "Lancer un projet",
+      "audit": "Audit gratuit"
+    },
+    "disclaimer": "Sans carte bancaire · Sans discours commercial"
+  },
+  "footerLinks": {
+    "text": "Vous pourriez aussi être intéressé par :",
+    "caseStudies": "nos études de cas axées sur les résultats",
+    "process": "les étapes de chaque projet",
+    "pricing": "nos forfaits actuels",
+    "conjunctions": {
+      "or": "ou"
+    }
+  },
+  "gallery": {
+    "eyebrow": "En ligne",
+    "heading": "Sites de dermatologie que nous étudions, analysons et refondons.",
+    "subheading": "Une galerie sélectionnée de marques de dermatologie, d'esthétique et de skincare aux États-Unis, MENA, Royaume-Uni et au-delà."
+  },
+  "sites": {
+    "centralaustinderm.com": {
+      "tagline": "Dermatologie à service complet au centre-ville d'Austin.",
+      "location": "Austin, Texas"
+    },
+    "cleardermatology.net": {
+      "tagline": "Soins médicaux et cosmétiques certifiés.",
+      "location": "Scottsdale, Arizona"
+    },
+    "olanskydermatology.com": {
+      "tagline": "Suite dermatologie esthétique + aesthetic.",
+      "location": "Atlanta, Géorgie"
+    },
+    "sanovadermatology.com": {
+      "tagline": "Dermatologie esthétique, médicale et chirurgicale.",
+      "location": "Texas et Los Angeles"
+    },
+    "dermsanantonio.com": {
+      "tagline": "Campus laser + dermatologie médicale.",
+      "location": "San Antonio, Texas"
+    },
+    "directderm.com": {
+      "tagline": "Télédermatologie directe au patient.",
+      "location": "États-Unis"
+    },
+    "clinicaldermatologycenter.com": {
+      "tagline": "Dermatologie clinique avant-gardiste.",
+      "location": "Cincinnati, Ohio"
+    },
+    "dermlasercenter.com": {
+      "tagline": "Centre avancé de laser + cancer de la peau.",
+      "location": "États-Unis"
+    },
+    "coloradodermatology.com": {
+      "tagline": "Dermatologie médicale de première gamme.",
+      "location": "Colorado"
+    },
+    "skymd.com": {
+      "tagline": "Réseau de télédermatologie de 50 États.",
+      "location": "États-Unis"
+    },
+    "chicagodermatology.co": {
+      "tagline": "Boutique de dermatologie médicale et cosmétique.",
+      "location": "Chicago, Illinois"
+    },
+    "cura.sa": {
+      "tagline": "Dermatologie et bien-être haut de gamme en Arabie Saoudite.",
+      "location": "Arabie Saoudite"
+    },
+    "galderma.com": {
+      "tagline": "Dermatologie mondiale, pharmacie et esthétique.",
+      "location": "Mondial"
+    },
+    "badrhealth.com": {
+      "tagline": "Groupe de dermatologie multi-spécialités.",
+      "location": "Arabie Saoudite"
+    },
+    "zmmcomedical.com": {
+      "tagline": "Groupe de dermatologie médicale + esthétique.",
+      "location": "MENA"
+    },
+    "naturium.com": {
+      "tagline": "Marque de soins de la peau appréciée des dermatologues.",
+      "location": "États-Unis"
+    },
+    "westdermatology.com": {
+      "tagline": "Réseau de plus de 60 emplacements dans l’ouest des États-Unis.",
+      "location": "AZ · CA · NV · NM"
+    },
+    "baydermatology.com": {
+      "tagline": "Dermatologie générale et pédiatrique.",
+      "location": "Floride"
+    },
+    "lasercarespecialists.com": {
+      "tagline": "Laser ciblé + rajeunissement de la peau.",
+      "location": "États-Unis"
+    },
+    "fwdermatology.com": {
+      "tagline": "Dermatologie familiale et chirurgicale.",
+      "location": "Fort Worth, Texas"
+    },
+    "westlakedermatology.com": {
+      "tagline": "Marque de dermatologie cosmétique de premier plan.",
+      "location": "Texas"
+    },
+    "platinumderm.com": {
+      "tagline": "Groupe de pratique moderne de niveau platine.",
+      "location": "États-Unis"
+    },
+    "sdfamilyderm.com": {
+      "tagline": "Dermatologie familiale d'abord à San Diego.",
+      "location": "San Diego, Californie"
+    },
+    "candelamedical.com": {
+      "tagline": "Fabricant mondial d’appareils esthétiques.",
+      "location": "Mondial"
+    },
+    "edermatology.com": {
+      "tagline": "Conciergerie en dermatologie médicale.",
+      "location": "États-Unis"
+    },
+    "dermatologistoncall.com": {
+      "tagline": "Visites virtuelles de dermatologie à la demande.",
+      "location": "États-Unis"
+    },
+    "neodermatologist.com": {
+      "tagline": "Dermatologie conciergerie nouvelle génération.",
+      "location": "États-Unis"
+    },
+    "doraclinic.sa": {
+      "tagline": "Dermatologie de luxe en Arabie Saoudite.",
+      "location": "Arabie Saoudite"
+    },
+    "reveal-clinics.com": {
+      "tagline": "Chaîne de cliniques esthétiques basée au Royaume-Uni.",
+      "location": "Royaume-Uni"
+    },
+    "dermskincancercenter.com": {
+      "tagline": "Mohs et spécialistes du cancer de la peau.",
+      "location": "États-Unis"
+    },
+    "coloradospringsdermatologyclinic.com": {
+      "tagline": "Dermatologie cosmétique + médicale.",
+      "location": "Colorado Springs, Colorado"
+    },
+    "azcdps.com": {
+      "tagline": "Pratique complète de dermatologie AZ.",
+      "location": "Arizona"
+    },
+    "lumenis.com": {
+      "tagline": "Technologie esthétique basée sur l'énergie.",
+      "location": "Mondial"
+    },
+    "skinsight.com": {
+      "tagline": "Bibliothèque de référence sur les affections cutanées visuelles.",
+      "location": "Mondial"
+    },
+    "skinofcolorsociety.org": {
+      "tagline": "Association à but non lucratif pour la recherche sur les peaux de couleur.",
+      "location": "Mondial"
+    },
+    "clini-derma.com": {
+      "tagline": "Clinique de dermatologie esthétique moderne.",
+      "location": "Europe"
+    },
+    "skinandme.com": {
+      "tagline": "Soins de la peau sur ordonnance, livrés mensuellement.",
+      "location": "Royaume-Uni"
+    },
+    "unionmd.ca": {
+      "tagline": "Soins médicaux et esthétiques haut de gamme.",
+      "location": "Montréal, Californie"
+    },
+    "sydneyderm.com.au": {
+      "tagline": "Dermatologie spécialisée à Sydney CBD.",
+      "location": "Sydney, Australie"
+    },
+    "drhausdermatology.com": {
+      "tagline": "Dermatologie et esthétique Harley Street.",
+      "location": "Londres, Royaume-Uni"
+    },
+    "teladochealth.com": {
+      "tagline": "Entreprise mondiale de soins virtuels.",
+      "location": "Mondial"
+    },
+    "skincarebydrv.com": {
+      "tagline": "Marque experte en peau de couleur.",
+      "location": "Royaume-Uni"
+    },
+    "sunparkdermatology.ca": {
+      "tagline": "Cabinet de dermatologie médicale familiale.",
+      "location": "Calgary, Californie"
+    },
+    "almalasers.com": {
+      "tagline": "Fabricant mondial d’appareils basés sur l’énergie.",
+      "location": "Mondial"
+    },
+    "cpso.on.ca": {
+      "tagline": "Organisme de réglementation des médecins de l'Ontario.",
+      "location": "Ontario, Californie"
+    },
+    "ottawahospital.on.ca": {
+      "tagline": "Hôpital universitaire multi-campus.",
+      "location": "Ottawa, Californie"
+    },
+    "thedermaco.com": {
+      "tagline": "Marque de soins de la peau soutenue par la science.",
+      "location": "Inde"
+    },
+    "vancouver.rejuv.ca": {
+      "tagline": "Esthétique médicale et rajeunissement.",
+      "location": "Vancouver, Californie"
+    },
+    "eudelo.com": {
+      "tagline": "Dermatologie et bien-être de la peau à Londres.",
+      "location": "Londres, Royaume-Uni"
+    },
+    "derma-clinic.co.uk": {
+      "tagline": "Dermatologie britannique dirigée par un consultant.",
+      "location": "Royaume-Uni"
+    },
+    "belfastskinclinic.com": {
+      "tagline": "Spécialistes de la peau d'Irlande du Nord.",
+      "location": "Belfast, Royaume-Uni"
+    },
+    "cathedraldermatology.com": {
+      "tagline": "Soins dermatologiques complets.",
+      "location": "États-Unis"
+    },
+    "themoleclinic.co.uk": {
+      "tagline": "Le premier service de dépistage des taupes au Royaume-Uni.",
+      "location": "Royaume-Uni"
+    },
+    "blemishclinic.co.uk": {
+      "tagline": "Spécialistes de l'élimination des lésions cutanées.",
+      "location": "Royaume-Uni"
+    },
+    "norvichospital.com": {
+      "tagline": "Hôpital privé multi-spécialités.",
+      "location": "Bangladesh"
+    },
+    "heidelbergmedical.com.au": {
+      "tagline": "Dermatologie cosmétique & anti-âge.",
+      "location": "Melbourne, Australie"
+    },
+    "dermscreen.com.au": {
+      "tagline": "Spécialistes du dépistage du cancer de la peau.",
+      "location": "Australie"
+    },
+    "stgeorgedermatology.com.au": {
+      "tagline": "Dermatologie spécialisée à Sydney.",
+      "location": "Sydney, Australie"
+    },
+    "theskinlab.com.au": {
+      "tagline": "Dermatologie cosmétique et aesthetic.",
+      "location": "Australie"
+    },
+    "asec.net.au": {
+      "tagline": "Centre australien d'excellence de la peau.",
+      "location": "Australie"
+    }
+  },
+  "categoryLabels": {
+    "aesthetic": "Esthétique",
+    "medical": "Médical",
+    "multiLocation": "Multi-sites",
+    "brand": "Marque / Entreprise",
+    "international": "Internationale",
+    "specialty": "Spécialité"
+  },
+  "filters": {
+    "all": "Toutes les pratiques",
+    "aesthetic": "Esthétique & cosmétique",
+    "medical": "Dermatologie médicale",
+    "multiLocation": "Groupes multi-sites",
+    "brand": "Entreprise et marque",
+    "international": "MENA et international",
+    "specialty": "Spécialité et ressources"
+  },
+  "actions": {
+    "visitSite": "Visiter le site"
+  }
+}

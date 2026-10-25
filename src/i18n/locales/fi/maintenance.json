@@ -1,0 +1,351 @@
+{
+  "meta": {
+    "title": "Ihotautiklinikoiden ylläpitopalvelut — 24/7 HIPAA-huomioitu tuki",
+    "description": "Premium-tason kuukausittainen tuki ja ylläpito ihotautisivustoille. 24/7-valvonta, HIPAA-mukaiset päivitykset, päivittäiset varmuuskopiot, tietoturvapaikkaukset, Core Web Vitals ja SEO-terveys.",
+    "og": {
+      "title": "Ihotautiklinikoiden ylläpitopalvelut — 24/7 huolenpitosuunnitelmat",
+      "description": "Pidä ihotautiklinikkasi sivusto nopeana, turvallisena ja hakukonelistoilla. Valvonta, varmuuskopiot, HIPAA-päivitykset, SEO-terveys ja sisältömuutokset — kuukausi kerrallaan."
+    },
+    "jsonLd": {
+      "serviceType": "Dermatology Website Maintenance Services",
+      "provider": "DermatologyWebsiteDesign.com",
+      "areaServed": "United States",
+      "offerDescription": "Ihotautisivuston ylläpitosuunnitelma — alkaen-hinta per kuukausi"
+    }
+  },
+  "hero": {
+    "status": "Kaikki järjestelmät toiminnassa · 99,99 % käytettävyys tällä neljänneksellä",
+    "badge": "Verkkosivuston ylläpitopalvelut",
+    "title": "Ihotautisivustosi — nopea, turvallinen, aina verkossa.",
+    "description": "Kuukausittaiset ylläpitosuunnitelmat räätälöitynä ihotautiklinikoille. 24/7-valvonta, HIPAA-huomioidut päivitykset, päivittäiset varmuuskopiot ja SEO-terveys — nimetyn teknisen asiantuntijan hoivassa.",
+    "cta_primary": "Aloita ylläpitosuunnitelma",
+    "cta_secondary": "Maksuton verkkosivuauditointi",
+    "pricing_note": "Ylläpitosuunnitelmat alkaen",
+    "pricing_value": "299 $",
+    "pricing_interval": "/ kk · toistaiseksi voimassa oleva, ei sitoutumispakkoa",
+    "usp": [
+      "24/7-valvonta",
+      "HIPAA-valmius",
+      "Päivittäiset varmuuskopiot",
+      "Nimetty asiantuntija"
+    ],
+    "visual": {
+      "image_alt": "Ihotautiklinikan verkkosivuston tuki- ja ylläpitonäkymä",
+      "uptime_label": "Käytettävyys · 30 pv",
+      "uptime_status": "LIVENÄ",
+      "vitals_label": "Core Web Vitals",
+      "vitals_metrics": "INP 92ms · CLS 0.02"
+    }
+  },
+  "stats": {
+    "uptime": "Keskimääräinen käytettävyys ylläpitosivustoilla",
+    "interval": "Valvontaväli, 5 globaalia aluetta",
+    "sla": "Enterprise-tason vasteaika-SLA",
+    "count": "Ihotautiklinikoita hoidossamme"
+  },
+  "status_wall": {
+    "badge": "Reaaliaikainen tila",
+    "title": "Jokainen asiakassivusto — seurannassa reaaliajassa.",
+    "note": "Esimerkkinäkymä · päivitys 60 sekunnin välein",
+    "table": {
+      "client": "Asiakassivusto",
+      "region": "Alue",
+      "uptime": "Käytettävyys · 30 pv",
+      "response": "Vaste",
+      "checked": "Tarkistettu",
+      "time_ago": "s sitten"
+    }
+  },
+  "pillars": {
+    "badge": "Mitä ylläpitosuunnitelma sisältää",
+    "title": "Sivustosi jokainen taso — valvottuna, paikattuna ja optimoituna.",
+    "description": "Kuukausittaisen työn kuusi pilaria. Ei piilokuluja tai yllätyslaskuja.",
+    "items": [
+      {
+        "title": "24/7 Käytettävyyden valvonta",
+        "desc": "Kuntotarkastus 60 sekunnin välein 5 eri alueelta. Hälytykset tavoittavat päivystäjämme ennen kuin vastaanottonne huomaa mitään."
+      },
+      {
+        "title": "HIPAA-huomioidut päivitykset",
+        "desc": "CMS-, lisäosa- ja riippuvuuspäivitykset testataan ja julkaistaan BAA-valmiissa ympäristössä."
+      },
+      {
+        "title": "Päivittäiset salatut varmuuskopiot",
+        "desc": "Palvelimen ulkopuoliset, versioidut tallenteet ja palautus yhdellä klikkauksella. Testattu kuukausittain — ei pelkkää ajastusta."
+      },
+      {
+        "title": "Haittaohjelma- ja haavoittuvuusskannaukset",
+        "desc": "Viikoittaiset skannaukset, neljännesvuosittaiset penetraatiotestit ja välitön paikkaus tekniseen pinoonne vaikuttaviin havaintoihin."
+      },
+      {
+        "title": "Core Web Vitals -seuranta",
+        "desc": "Jatkuva LCP, INP ja CLS -seuranta — suorituskyvyn laskut korjataan ennen kuin Google rankaisee sijoitustasi."
+      },
+      {
+        "title": "Sivuston SEO-terveys",
+        "desc": "Rikkoutuneet linkit, puuttuvat skeemat ja indeksointivirheet tarkistetaan ja korjataan kuukausittain osana suunnitelmaa."
+      }
+    ]
+  },
+  "incidents": {
+    "badge": "Tuoreimmat tapahtumalokit",
+    "title": "Mitä 24/7-valvonta todellisuudessa tarkoittaa.",
+    "description": "Reaaliaikainen ote tapauksista, jotka havaitsimme ja ratkaisimme tällä neljänneksellä — ennen kuin asiakkaamme huomasivat mitään.",
+    "log": [
+      {
+        "title": "PHP RCE -haavoittuvuus julkaistu",
+        "detail": "Paikattu 47 asiakassivustolle 33 minuutissa. Kriittinen altistusaika nolla."
+      },
+      {
+        "title": "Sertifikaatti vanhenemassa 6 päivän päästä",
+        "detail": "Automaattinen uusinta ja asennus yön aikana ennen maanantaiaamun liikennettä."
+      },
+      {
+        "title": "Origin 502 -virhe yhdellä sivustolla",
+        "detail": "Varajärjestelmän cache-käynnistys 40 sekunnissa. Päivystävä insinööri palautti pääpalvelimen 8 minuutissa."
+      },
+      {
+        "title": "Google-indeksoinnin heikkeneminen havaittu",
+        "detail": "Lisäosapäivityksen aiheuttama noindex-tägi — palautettu ja uusi indeksointipyyntö tehty tunnissa."
+      },
+      {
+        "title": "Yhteydenottolomake vuosi PHI-tietoja analytiikkaan",
+        "detail": "PII-suodatin otettu käyttöön, GA4-tapahtumat puhdistettu ja vaatimustenmukaisuusloki päivitetty."
+      }
+    ]
+  },
+  "included": {
+    "badge": "Sisältyy joka kuukausi",
+    "title": "16 palvelua, jotka teemme puolestasi — joka ikinen kuukausi.",
+    "items": [
+      "24/7 käytettävyyden ja SSL:n valvonta",
+      "Viikoittaiset CMS- ja lisäosapäivitykset",
+      "Päivittäiset salatut varmuuskopiot (off-site)",
+      "Haittaohjelmien skannaus ja CVE-paikkaukset",
+      "HIPAA-huomioidut lomake- ja PHI-auditoinnit",
+      "Core Web Vitals -seuranta",
+      "SEO-terveystarkastukset ja linkkien korjaukset",
+      "Tietokannan optimointi",
+      "CDN- ja välimuistin hienosäätö",
+      "Bugien priorisointi ja korjauspäivitykset",
+      "Sisältö- ja suunnittelumuutosten työtunnit",
+      "Kuukausittainen suorituskykyraportti",
+      "Ennakoivat häiriöilmoitukset",
+      "Vaatimustenmukaisuuden muutosloki",
+      "Saavutettavuustarkastukset (WCAG AA)",
+      "Nimetty tekninen yhteyshenkilö"
+    ]
+  },
+  "plans": {
+    "badge": "Ylläpitosuunnitelmat",
+    "title": "Ennakoitava hinnoittelu. Ei sitoutumista. Oikeat asiantuntijat.",
+    "description": "Jokainen suunnitelma on kuukausikohtainen. Peru milloin vain, kaikki koodi ja tunnukset säilyvät sinulla.",
+    "labels": {
+      "popular": "Suosituin",
+      "market": "Markkinahinta:",
+      "edits_prefix": "Muutokset:",
+      "sla_prefix": "SLA",
+      "cta": "Valitse {{name}}"
+    },
+    "tiers": [
+      {
+        "name": "Essential",
+        "tag": "Yksityisvastaanotot",
+        "price": "299 $",
+        "per": "/kk",
+        "sla": "< 4 tunnin vaste",
+        "edits": "2 t / kk",
+        "market": "500 – 1 000 $ /kk",
+        "savings": "40–70 % edullisempi",
+        "features": [
+          "24/7 käytettävyyden valvonta",
+          "Viikoittaiset lisäosa- ja CMS-päivitykset",
+          "Päivittäiset salatut varmuuskopiot",
+          "Haittaohjelmien skannaus + paikkaus",
+          "HIPAA-lomakeauditointi (neljännesvuosittain)",
+          "Core Web Vitals -seuranta",
+          "Kuukausittainen suorituskykyraportti",
+          "2 t / kk sisältöpäivityksiä"
+        ]
+      },
+      {
+        "name": "Growth",
+        "tag": "Moniammatilliset klinikat",
+        "price": "599 $",
+        "per": "/kk",
+        "sla": "< 1 tunnin vaste",
+        "edits": "5 t / kk",
+        "market": "1 200 – 2 500 $ /kk",
+        "savings": "50–76 % edullisempi",
+        "features": [
+          "Kaikki Essential-tason palvelut",
+          "Viikoittaiset HIPAA-lomakeauditoinnit",
+          "SEO-terveystarkastukset ja korjaukset",
+          "Rikkoutuneiden linkkien ja skeemojen seuranta",
+          "CDN- ja välimuistin optimointi",
+          "Bugien hallinta ja hotfix-julkaisut",
+          "Nimetty asiantuntija",
+          "5 t / kk muutostöitä (sisältö + design)"
+        ]
+      },
+      {
+        "name": "Enterprise",
+        "tag": "Ketjut ja Mohs-kirurgiaryhmät",
+        "price": "1 499 $",
+        "per": "/kk",
+        "sla": "< 15 min vaste",
+        "edits": "Rajoittamaton*",
+        "market": "3 000 – 6 000 $ /kk",
+        "savings": "50–75 % edullisempi",
+        "features": [
+          "Kaikki Growth-tason palvelut",
+          "Toimipistekohtaiset seurantanäkymät",
+          "24/7 päivystävä insinööri",
+          "Neljännesvuosittaiset penetraatiotestit",
+          "Lähete- ja potilastietojärjestelmien integraatiotuki",
+          "Saavutettavuusauditoinnit (WCAG AA)",
+          "Compliance-muutosloki ja hyväksynnät",
+          "Rajoittamaton* tuntimäärä (fair use)"
+        ]
+      }
+    ]
+  },
+  "flow": {
+    "badge": "Miten palvelu toimii",
+    "title": "Käyttöönotosta huolettomaan arkeen.",
+    "items": [
+      {
+        "step": "01",
+        "title": "Käyttöönotto ja auditointi",
+        "desc": "Perehdymme sivustoosi täydellisellä tietoturva-, suorituskyky-, SEO- ja HIPAA-auditoinnilla — emme valvo mitään sokkona."
+      },
+      {
+        "step": "02",
+        "title": "Suojaus ja perustaso",
+        "desc": "Paikkaukset, varmuuskopioiden varmentaminen, valvonnan asennus ja Core Web Vitals -lähtötason dokumentointi."
+      },
+      {
+        "step": "03",
+        "title": "Valvonta ja ylläpito",
+        "desc": "24/7-seuranta, viikoittaiset päivitykset ja kuukausittaiset raportit — sekä sovitut työtunnit kehitystä varten."
+      },
+      {
+        "step": "04",
+        "title": "Raportointi ja kehitys",
+        "desc": "Kuukausittainen läpikäynti asiantuntijan kanssa. Kuinka teemme sivustostasi nopeamman, turvallisemman ja paremmin sijoittuvan ensi kuussa?"
+      }
+    ]
+  },
+  "audiences": {
+    "badge": "Kenelle palvelu sopii",
+    "title": "Rakennettu ihotautialan eri toimintamalleille.",
+    "items": [
+      {
+        "label": "Yksityiset ihotautilääkärit",
+        "desc": "Ensiluokkaista huolenpitoa, jotta sivustosi ei koskaan vie huomiota potilastyöltä."
+      },
+      {
+        "label": "Monitoimipisteklinikat",
+        "desc": "Toimipistekohtainen valvonta, yksi hallintapaneeli ja yksi ennakoitava kuukausihinta."
+      },
+      {
+        "label": "Lasten ihotautilääkärit",
+        "desc": "Vanhemmille selkeät lomakkeet, joiden käytettävyys ja PHI-turva tarkistetaan kuukausittain."
+      },
+      {
+        "label": "Mohs- ja kirurginen dermatologia",
+        "desc": "Läheteportaalit pidetään verkossa, turvattuina ja valmiina auditointia varten ympäri vuoden."
+      }
+    ]
+  },
+  "medical_services": {
+    "badge": "Palvelusivut aina ajan tasalla",
+    "title": "Ylläpidämme sivuja, jotka tuovat potilaat sisään.",
+    "description": "Sisältöpäivitykset, skeemojen päivitykset, sisäiset linkitykset ja Core Web Vitals — jokaiselle tarjoamallesi palvelulle.",
+    "list": [
+      "Aknehoidot",
+      "Ekseeman hoito",
+      "Psoriasiksen hoito",
+      "Ihoinfektioiden hoito",
+      "Ihoallergioiden hoito",
+      "Ihosyöpäkartoitus",
+      "Luomien tarkastus ja poisto",
+      "Kystien ja lipoomien poisto",
+      "Syylien poisto",
+      "Kynsien sairaudet",
+      "Hiustenlähdön hoito",
+      "Hiuspohjan sairaudet",
+      "Ruusufinnin hoito",
+      "Hyperpigmentaatio ja maksaläiskät",
+      "Arpien hoito",
+      "Palovamma-arpien hoito",
+      "Vitiligon hoito",
+      "Ihon koepalat ja diagnostiikka"
+    ]
+  },
+  "testimonials": {
+    "badge": "Kokemuksia klinikoilta",
+    "title": "Ihotautilääkärit, jotka lakkasivat murehtimasta verkkosivuistaan.",
+    "items": [
+      {
+        "name": "Dr. Ethan Caldwell, MD",
+        "role": "LA Dermatology",
+        "quote": "Sunnuntaina kello 02 SSL-sertifikaatti oli vanhenemassa. He korjasivat sen ennen maanantain ensimmäistä potilasta. Emme edes tienneet ongelmasta."
+      },
+      {
+        "name": "Dr. Anika Vasquez, MD",
+        "role": "CM Surgical",
+        "quote": "Joka kuukausi saamme asiantuntijan laatiman raportin — emme pelkkää pohjaa. Kun lisäosa rikkoi ajanvarauksemme, he julkaisivat korjauksen 22 minuutissa."
+      },
+      {
+        "name": "Dr. Ibrahim Okafor, MD",
+        "role": "RS Institute · 6 toimipistettä",
+        "quote": "Kuusi toimipistettä, yksi näkymä, yksi lasku. Saatoin lopettaa nettisivujen miettimisen ja keskittyä taas klinikan johtamiseen."
+      }
+    ]
+  },
+  "faq": {
+    "badge": "UKK",
+    "title": "Kysymyksiä ylläpitosuunnitelmista.",
+    "items": [
+      {
+        "q": "Mitä kuukausittaiseen tukeen ja ylläpitoon sisältyy?",
+        "a": "24/7-valvonta, viikoittaiset lisäosa/CMS/tietoturvapäivitykset, päivittäiset salatut varmuuskopiot, haittaohjelmaskannaukset, HIPAA-lomakeauditoinnit, Core Web Vitals -seuranta, SEO-tarkistukset, kuukausiraportointi sekä sovitut työtunnit sisältömuutoksille."
+      },
+      {
+        "q": "Kuinka nopeasti reagoitte, jos sivusto kaatuu?",
+        "a": "Essential-taso: alle 4 tuntia. Growth-taso: alle 1 tunti. Enterprise-taso: alle 15 minuuttia omalla päivystäjällä. Kaikki tasot sisältävät automaattisen valvonnan, joten tiedämme viasta yleensä ennen sinua."
+      },
+      {
+        "q": "Onko ylläpitonne HIPAA-yhteensopivaa?",
+        "a": "Kyllä. Käytämme BAA-valmiita palvelimia, auditoimme lomakkeet PHI-altistumisen varalta, pidämme analytiikan puhtaana henkilötiedoista ja lokitamme kaiken pääsyn. Insinöörimme on koulutettu ihotautialan compliance-riskeihin."
+      },
+      {
+        "q": "Tuetteko sivustoja, joita ette ole itse rakentaneet?",
+        "a": "Kyllä. Otamme hoitoon olemassa olevat WordPress-, Webflow- ja räätälöidyt sivustot maksullisen teknisen auditoinnin jälkeen. Näin tiedämme tarkalleen, mitä alamme ylläpitää."
+      },
+      {
+        "q": "Voinko peruuttaa tilauksen milloin vain?",
+        "a": "Kyllä — sopimukset ovat toistaiseksi voimassa ilman määräaikaisuutta. Ansaitsemme luottamuksesi joka kuukausi. Sopimuksen päättyessä pidät kaiken koodin, tunnukset, varmuuskopiot ja dokumentaation."
+      },
+      {
+        "q": "Lasketaanko sisältömuutokset työtunteihin?",
+        "a": "Kyllä, jokainen suunnitelma sisältää työtunteja (2 / 5 / rajoittamaton). Voit käyttää niitä asiantuntijoiden esittelyihin, uusiin palveluihin, kamppanjabannereihin, ennen ja jälkeen -kuviin tai blogeihin."
+      }
+    ]
+  },
+  "cta_bottom": {
+    "title": "Lopeta murehtiminen. Me huolehdimme sivustostasi puolestasi.",
+    "description": "Maksuton verkkosivuauditointi — asiantuntijamme tarkistaa suorituskyvyn, tietoturvan, HIPAA-valmiuden ja SEO:n. Sen jälkeen suosittelemme oikeaa ratkaisua.",
+    "primary": "Aloita ylläpitosuunnitelma",
+    "secondary": "Tilaa maksuton auditointi"
+  },
+  "footer_nav": {
+    "label": "Lue myös nämä:",
+    "links": {
+      "management": "kokonaisvaltainen sivuston hallinta",
+      "support": "asiantuntijatuki tarvittaessa",
+      "addons": "suositellut lisäpalvelut"
+    }
+  }
+}

@@ -1,0 +1,327 @@
+{
+  "services": {
+    "eyebrow": "Våre tjenester",
+    "headingLead": "Alt din praksis trenger for å",
+    "headingHighlight": "vokse online.",
+    "intro": "Fra tilpassede nettsider til SEO og pasientanskaffelse, hver tjeneste er designet for å hjelpe dermatologipraksiser med å tiltrekke, konvertere og beholde flere pasienter online.",
+    "exploreAriaLabel": "Utforsk {{title}} tjenester",
+    "exploreCta": "Utforsk {{title}}",
+    "mostPopular": "Mest populær",
+    "footerLead": "Ikke sikker på hvor du skal starte?",
+    "footerHighlight": "Vi lager en tilpasset plan for din praksis.",
+    "footerCta": "Få et gratis tilbud",
+    "items": {
+      "customWebsite": {
+        "title": "Tilpasset nettsidedesign",
+        "description": "Konverteringsfokuserte dermatologisider bygget rundt din merkevare og pasientreise."
+      },
+      "redesign": {
+        "title": "Nettsideredesign",
+        "description": "Moderniser din eksisterende side med raskere lastetider, bedre brukeropplevelse og høyere konvertering."
+      },
+      "migration": {
+        "title": "Nettsidemigrering",
+        "description": "Migrer sømløst din eksisterende side med null nedetid og ingen tap av SEO-verdi."
+      },
+      "multiLocation": {
+        "title": "Praksiser med flere lokasjoner",
+        "description": "Skalerbar arkitektur og lokal SEO for klinikker med flere kontorer."
+      },
+      "ecommerce": {
+        "title": "E-handelsnettsteder",
+        "description": "Selg hudpleieprodukter online med sikker kasse og innebygd varelager."
+      },
+      "patientPortal": {
+        "title": "Pasientportal",
+        "description": "Sikre, HIPAA-kompatible pasientportaler for inntak, journaler og kommunikasjon."
+      },
+      "maintenance": {
+        "title": "Vedlikehold og omsorg av nettsider",
+        "description": "Løpende oppdateringer, sikkerhetskopier, sikkerhet og ytelsesovervåking for trygghet."
+      },
+      "seo": {
+        "title": "SEO for dermatologer",
+        "description": "Ranger for høyintensitetssøk og bring kvalifiserte pasienter til din praksis."
+      },
+      "googleAds": {
+        "title": "Google Ads og PPC",
+        "description": "Forutsigbar, målbar pasientanskaffelse med optimaliserte annonsekampanjer."
+      }
+    }
+  },
+  "pricing": {
+    "eyebrow": "Transparent prissetting",
+    "heading": "Ingen skjulte avgifter. Ingen lange kontrakter.",
+    "intro": "De fleste byråer skjuler prisene sine. Det gjør ikke vi – se nøyaktig hva du kommer til å betale før du i det hele tatt snakker med oss.",
+    "mostPopular": "Mest populær",
+    "startingAt": "Starter fra ",
+    "seeDetails": "Se detaljer",
+    "fullBreakdown": "Se full prisoversikt og funksjonssammenligning",
+    "tiers": {
+      "starter": {
+        "name": "Starter",
+        "pages": "1 side",
+        "description": "Perfekt for nye dermatologer som lanserer sin første profesjonelle nettside."
+      },
+      "clinicPro": {
+        "name": "Klinikk Pro",
+        "pages": "5–8 sider",
+        "description": "Ideell for solo- og småpraksiser som er klare til å tiltrekke seg flere pasientavtaler."
+      },
+      "practiceGrowth": {
+        "name": "Praksisvekst",
+        "pages": "10–15 sider",
+        "description": "Bygget for voksende klinikker som trenger sterkere SEO, konverteringer og langsiktig vekst."
+      },
+      "enterprise": {
+        "name": "Enterprise",
+        "pages": "15+ sider / Tilpasset",
+        "description": "Tilpassede løsninger for praksiser med flere lokasjoner, enterprisedermatologigrupper og hudpleie-e-handelsmerker."
+      }
+    }
+  },
+  "approach": {
+    "eyebrow": "Metodologien",
+    "headingLead": "En systematisk tilnærming til",
+    "headingHighlight": "bærekraftig pasientvekst.",
+    "intro": "Et presisjonskonstruert, seksfaset rammeverk designet spesifikt for høyvekst dermatologipraksiser. Klikk på et trinn for å utforske.",
+    "phaseLabel": "Fase",
+    "stepLabel": "Trinn {{n}}",
+    "prevAria": "Forrige trinn",
+    "nextAria": "Neste trinn",
+    "deliverables": "{{count}} leveranser",
+    "whatHappens": "Hva skjer i denne fasen",
+    "seeFullProcess": "Se hele prosessen",
+    "steps": {
+      "discovery": {
+        "title": "Oppdagelse og avtale",
+        "short": "Oppdagelse",
+        "description": "Det starter når du tar kontakt. Vi gjennomgår din praksis, samkjører mål og omfang, og ferdigstiller en klar avtale – slik at begge parter vet nøyaktig hva som skal leveres før noe arbeid begynner.",
+        "details": [
+          "Første kontakt og gjennomgang av krav",
+          "Omfang, tidslinje og leveranser samkjørt",
+          "Transparent forslag og prissetting",
+          "Signert avtale for å fortsette"
+        ]
+      },
+      "onboarding": {
+        "title": "Ombordstigning",
+        "short": "Ombordstigning",
+        "description": "Når betalingen er bekreftet, er du offisielt ombord. Vi samler inn alt vi trenger – merkevaremateriell, innholdsretning og tilgang – gjennom en smidig, veiledet overlevering.",
+        "details": [
+          "Betaling bekreftet og prosjekt startet",
+          "Merkevaremateriell og innhold samlet – eller laget og foreslått av oss hvis du ikke har det",
+          "Tilgang og kontoer satt opp sikkert",
+          "Prosjektveikart delt med teamet ditt"
+        ]
+      },
+      "design": {
+        "title": "Design",
+        "short": "Design",
+        "description": "Vi oversetter din praksis' autoritet til et premium, merkevaretilpasset visuelt språk – fokusert på tillit, klarhet og friksjonsfri pasientbestilling.",
+        "details": [
+          "Merkevaretilpasset visuell design for hver nøkkelside",
+          "Konverteringsfokusert UX for bestillingsflyter",
+          "Tilgjengelige, mobil-først-oppsett"
+        ]
+      },
+      "build": {
+        "title": "Bygge",
+        "short": "Bygge",
+        "description": "Vi håndbygger nettstedet ditt med SEO, ytelse og medisinsk-gradert struktur bakt inn – slik at det er klart til å rangere og konvertere fra dag én.",
+        "details": [
+          "Håndkodede, lynraske sider",
+          "Skemamarkering for dermatologitjenester",
+          "Core Web Vitals-optimalisering (95+ score)",
+          "On-page SEO for hver tjeneste og lokasjon"
+        ]
+      },
+      "launch": {
+        "title": "Lansering",
+        "short": "Lansering",
+        "description": "Nettstedet ditt blir lansert med en ren migrering uten nedetid – analyse, sporing og samsvarskontroller fullstendig på plass fra den første besøkende.",
+        "details": [
+          "Full QA på tvers av enheter og nettlesere",
+          "HIPAA-kompatibel samsvarsgjennomgang",
+          "Analyse, sporing og anropstildeling",
+          "Null nedetid migrering og 301-mapping"
+        ]
+      },
+      "growth": {
+        "title": "Vekst og gjennomgang",
+        "short": "Vekst",
+        "description": "Etter lansering samler vi inn tilbakemeldinger og forbedrer etter behov. Derfra fokuserer vi på sammensatt vekst – innhold, optimalisering og rapportering måned etter måned.",
+        "details": [
+          "Gjennomgang og forbedringer etter lansering",
+          "Løpende SEO-innhold og optimalisering",
+          "Kontinuerlig CRO og ytelsesjustering",
+          "Transparent månedlig rapportering"
+        ]
+      }
+    }
+  },
+  "whyChoose": {
+    "eyebrow": "Hvorfor oss",
+    "eyebrowSuffix": "— DermatologyWebsiteDesign.com",
+    "headingLead": "Det eneste byrået",
+    "headingHighlight": "100 % fokusert på dermatologi",
+    "intro": "Generiske webbyråer bygger nettsider. Vi bygger pasientflyter – spesifikt designet for hvordan dermatologipraksiser vokser.",
+    "reasons": {
+      "pricing": {
+        "title": "Transparent prissetting",
+        "description": "Hver pakke har en publisert pris. Ingen oppdagelsessamtaler kreves bare for å lære våre priser. 75 % av konkurrentene skjuler prissetting – det gjør ikke vi."
+      },
+      "niche": {
+        "title": "Nisje kun for dermatologi",
+        "description": "Vi bygger ikke restaurantnettsteder eller e-handelsbutikker. Vi kjenner HIPAA-overholdelse, regler for før/etter-bilder og kosmetisk prosedyre-SEO ut og inn."
+      },
+      "noLockIn": {
+        "title": "Ingen langvarig binding",
+        "description": "Månedlige vedlikeholdsplaner. Ingen 12-måneders byråkontrakter som holder deg som gissel. Vi gjør oss fortjent til din virksomhet hver eneste måned."
+      },
+      "rank": {
+        "title": "Bygget for å rangere på Google",
+        "description": "Hvert nettsted leveres med riktig on-page SEO, skjemamarkering, Core Web Vitals-optimalisering og en innholdsstrategi – ikke som et tillegg, men som et fundament."
+      }
+    }
+  },
+  "whySwitch": {
+    "eyebrow": "Hvorfor praksiser bytter til oss",
+    "headingLead": "Ikke alle nettsidebyråer er",
+    "headingHighlight": "bygget likt.",
+    "intro": "Se nøyaktig hva som endres når du jobber med et team som kun bygger for dermatologi.",
+    "colWhatMatters": "Hva som betyr noe",
+    "colOthers": "De fleste webbyråer",
+    "colUs": "Dermatology Website Design",
+    "mobileOthersLabel": "De fleste byråer",
+    "mobileUsLabel": "Vår tilnærming",
+    "rows": {
+      "focus": {
+        "matter": "Bransjefokus",
+        "others": "Betjener alle bransjer",
+        "us": "100 % dermatologifokusert"
+      },
+      "seo": {
+        "matter": "SEO-strategi",
+        "others": "Generell SEO",
+        "us": "Dermatologispesifikk SEO"
+      },
+      "hipaa": {
+        "matter": "HIPAA-kunnskap",
+        "others": "Begrenset helseerfaring",
+        "us": "Samsvarsbevisst fra dag én"
+      },
+      "goal": {
+        "matter": "Nettsidemål",
+        "others": "Vakre nettsider",
+        "us": "Flere pasientforespørsler"
+      },
+      "afterLaunch": {
+        "matter": "Etter lansering",
+        "others": "Prosjektet fullført",
+        "us": "Kontinuerlig støtte og vekst"
+      },
+      "pricing": {
+        "matter": "Prissetting",
+        "others": "Ofte tilpassede tilbud",
+        "us": "Transparent publisert prissetting"
+      }
+    }
+  },
+  "testimonials": {
+    "eyebrow": "Attester",
+    "headingLead": "Stol på fra",
+    "headingHighlight": "moderne dermatologipraksiser.",
+    "prevAria": "Forrige attester",
+    "nextAria": "Neste attester",
+    "goToSlide": "Gå til lysbilde {{n}}",
+    "items": {
+      "sarahM": {
+        "quote": "Vår praksis så en økning på 40 % i nye pasienthenvendelser innen 3 måneder etter lanseringen av vår nye nettside. HIPAA-samsvarsoppsettet ble håndtert sømløst – vi trengte ikke å bekymre oss for noe.",
+        "role": "Sertifisert hudlege",
+        "practice": "RS Institute"
+      },
+      "rajK": {
+        "quote": "Jeg hadde jobbet med tre webbyråer før – ingen av dem forsto dermatologi. Disse gutta visste nøyaktig hvilke behandlingssider jeg trengte, hvordan jeg skulle strukturere før/etter-galleriet, og nettstedet rangeres nå på side 1.",
+        "role": "Kosmetisk hudlege",
+        "practice": "LA Dermatology"
+      },
+      "jenniferL": {
+        "quote": "Prissettingen var tydelig fra starten, byggetidslinjen var nøyaktig, og de hjalp oss til og med med å sette opp vår hudpleieproduktbutikk. Beste investering vår praksis har gjort på mange år.",
+        "role": "Praktisksjef",
+        "practice": "SC Associates"
+      },
+      "ameliaC": {
+        "quote": "De skrev om hver tjenesteside på en måte som faktisk høres ut som vår praksis. Konsultasjonsforespørsler via nettstedet har mer enn doblet seg siden relanseringen.",
+        "role": "Medisinsk direktør",
+        "practice": "ND Group"
+      },
+      "hanaS": {
+        "quote": "Vakkert, raskt og genuint merkevaretilpasset. Pasientene kommenterer nettstedet konstant – det setter tonen før de i det hele tatt kommer inn døren.",
+        "role": "Ledende hudlege",
+        "practice": "MS Clinic"
+      },
+      "elliotN": {
+        "quote": "Gjennomsiktig månedlig rapportering, reell SEO-fremgang og et designteam som gir motstandsdyktighet når det er viktig. Akkurat den partneren vi håpet å finne.",
+        "role": "Administrerende partner",
+        "practice": "SD Partners"
+      }
+    }
+  },
+  "freeAudit": {
+    "eyebrow": "Gratis nettsidegjennomgang",
+    "headingLead": "Få din gratis",
+    "headingHighlight": "dermatologi nettsidegjennomgang.",
+    "intro": "Vi gjennomgår din nåværende nettside, identifiserer muligheter for SEO, hastighet, design og konvertering, og sender deg deretter en personlig handlingsplan innen 48 timer – helt gratis.",
+    "features": {
+      "actionPlan": "Personlig handlingsplan",
+      "delivered": "Leveres innen 48 timer",
+      "free": "Ingen forpliktelse, 100 % gratis",
+      "insights": "SEO, hastighet og konverteringsinnsikt"
+    },
+    "form": {
+      "emailLabel": "Din jobb-e-post",
+      "emailPlaceholder": "du@dinpraksis.com",
+      "websiteLabel": "Nåværende nettside-URL",
+      "websiteOptional": "(valgfritt)",
+      "websitePlaceholder": "dinpraksis.com",
+      "submit": "Få min gratis nettsidegjennomgang",
+      "sending": "Sender …",
+      "privacy": "Vi deler aldri din e-post. Ingen spam, noensinne.",
+      "errorInvalidEmail": "Vennligst oppgi en gyldig arbeids-e-post",
+      "errorInvalidInput": "Ugyldig input",
+      "errorGeneric": "Beklager, noe gikk galt. Vennligst prøv igjen.",
+      "successTitle": "Forespørsel mottatt.",
+      "successMessage": "Din personlige gjennomgang er på vei. Vi sender deg handlingsplanen din via e-post innen 48 timer."
+    }
+  },
+  "faqSnippet": {
+    "eyebrow": "Ofte stilte spørsmål",
+    "headingLead": "Svar på spørsmålene",
+    "headingHighlight": "vi får mest.",
+    "intro": "En rask titt på hva dermatologipraksiser spør før de jobber med oss. Trenger du mer detaljer? Hele FAQ-en har alt.",
+    "seeAll": "Se alle spørsmål og svar",
+    "items": {
+      "timeline": {
+        "q": "Hvor lang tid tar det å lansere en ny dermatologinettsted?",
+        "a": "De fleste prosjekter går live på 4–6 uker – fra oppdagelse til lansering. Tidslinjer avhenger av innholdsklarhet og omfang, og vi deler et klart uke-for-uke veikart under ombordstigning."
+      },
+      "hipaa": {
+        "q": "Håndterer dere HIPAA-samsvar og pasientvern?",
+        "a": "Ja. Hvert bygg er HIPAA-bevisst: sikker hosting, krypterte skjemaer, BAA-klare integrasjoner for kontakt og inntak, og en samsvarsgjennomgang før lansering."
+      },
+      "ranking": {
+        "q": "Vil min nye nettside faktisk hjelpe meg med å rangere på Google?",
+        "a": "SEO er konstruert inn fra dag én – dermatologispesifikk skjema, tjeneste- og lokasjonssider, Core Web Vitals på 95+, og en on-page struktur bygget for å oppnå rangeringer for søkene som driver bestillinger."
+      },
+      "migration": {
+        "q": "Kan dere migrere min eksisterende side uten å miste trafikk?",
+        "a": "Vi utfører en null-nedetidsmigrering med full 301 omadressering, bevarte metadata og en revisjon etter lansering – slik at rangeringer og henvisningstrafikk overføres rent."
+      },
+      "support": {
+        "q": "Hvordan ser den løpende støtten ut etter lansering?",
+        "a": "Du får et dedikert kontaktpunkt, månedlig rapportering, kontinuerlig CRO og SEO-tuning, i tillegg til teknisk vedlikehold – slik at nettstedet fortsetter å øke resultatene, i stedet for å stagnere."
+      }
+    }
+  }
+}

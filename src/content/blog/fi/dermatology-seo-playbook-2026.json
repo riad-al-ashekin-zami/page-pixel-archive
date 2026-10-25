@@ -1,0 +1,64 @@
+{
+  "slug": "dermatology-seo-playbook-2026",
+  "title": "Vuoden 2026 ihotautien SEO-strategia: Nousu listan kärkeen 90 päivässä",
+  "excerpt": "Täsmälliset avainsanaryppäät, tekniset korjaukset ja sisältötahti, joita käytämme siirtääksemme ihotautiklinikat ensimmäiselle sivulle – todellisilla aikatauluilla.",
+  "imageAlt": "Analytiikan kojelauta kannettavalla tietokoneella valoisassa ihotautiklinikan toimistossa",
+  "body": [
+    {
+      "text": "Ihotautiklinikan sijoittuminen yhdeksässäkymmenessä päivässä ei ole lupaus, jonka antaa kevyesti – mutta oikealla arkkitehtuurilla se on toistettavissa. Tässä strategiassa esitämme tarkan yhdeksänkymmenen päivän järjestelmän, jota käytämme jokaiselle uudelle asiakkaalle ensimmäisestä teknisestä auditoinnista aina lopulliseen sisältöpainostukseen, joka kääntää kytkimen ja siirtää kohdeavainsanat Googlen ensimmäiselle sivulle."
+    },
+    {
+      "text": "Suurin virhe, jonka useimmat klinikat tekevät, on kohdella SEO:ta taktiikoiden tarkistuslistana eikä järjestelmänä. Ne jahtaavat yksittäisiä blogikirjoituksia, muokkaavat otsikkotageja ja toivovat, että vauhti kiihtyy. Se ei kiihty. Vauhtia kiihdyttää klusterikeskeinen arkkitehtuuri, puhdas tekninen perusta ja sisältötahti, joka kumuloituu viikosta toiseen. Kun nämä kolme ovat kunnossa, sijoitukset muuttuvat viivästyneeksi indikaattoriksi – oikean työn teon luonnolliseksi seuraukseksi oikeassa järjestyksessä."
+    },
+    {
+      "heading": "1. Rakenna aihealueen klusteri ennen kuin kirjoitat sanaakaan"
+    },
+    {
+      "text": "Useimmat ihotautisivustot häviävät SERP:issä, koska niiden sisältö sijaitsee erillisillä sivuilla. Aesthetic-sivu täällä, ruusufinni-artikkeli siellä, sijaintisivu toisessa siilossa – mikään niistä ei ole sisäisesti linkitetty siten, että Googlelle kerrottaisiin, mistä sivusto on auktoriteetti. Sen sijaan, että kirjoittaisimme itsenäisiä kappaleita, ryhmittelemme palvelut, sairaudet ja sijainnit aiheklustereiksi. Jokaisen klusterin ankkurina on ”pilarisivu” (esimerkiksi 'Aknen hoito Denverissä'), joka linkittää sisäisesti jokaiseen tukevaan artikkeliin – 'kystisen aknen syyt', 'parhaat in-office aknehoidot', 'hormonaalisen aknen ruokavaliomyytit' – ja jokainen tukeva artikkeli linkittää takaisin pilarisivulle."
+    },
+    {
+      "text": "Tämä rakenne tekee kaksi asiaa. Ensinnäkin se keskittää aiheen auktoriteetin: jokainen tukevalle artikkelille tuleva takaisinlinkki siirtää arvoa pilarisivulle. Toiseksi se tekee sisäisestä linkityksestä ilmeistä. Ei enää arvailua siitä, minkä pitäisi linkittää mihinkin – klusterikartta kertoo sen."
+    },
+    {
+      "heading": "2. Korjaa tekninen perusta ensin"
+    },
+    {
+      "text": "Ennen kuin kirjoitat mitään, suorita tekninen auditointi ja korjaa ei-neuvoteltavissa olevat asiat. Sijoitus on kilpailua painoluokassa – jos Core Web Vitals -arvosi ovat alle 90 mobiilissa, sinulla on jo haittapaino ennen kuin kilpailu alkaa. Ensimmäisten kahden viikon aikana jokaisen uuden klinikan kanssa toteutamme seuraavat asiat:"
+    },
+    {
+      "list": [
+        "Pakkaa jokainen hero-kuva WebP- tai AVIF-muotoon (keskimäärin 70 % koon pieneneminen)",
+        "Tee jokaisesta sivusta yli 90 mobiilin Core Web Vitals -osiossa – LCP alle 2,5 s, CLS alle 0,1, INP alle 200 ms",
+        "Lisää FAQPage- ja MedicalBusiness-jäsennelty data jokaiselle palvelusivulle",
+        "Yhdistä päällekkäiset sijaintisivut kanonisilla tageilla",
+        "Korjaa kaikki 404-virheet, joilla on sisäisiä linkkejä, ja ohjaa poistetut URL-osoitteet",
+        "Lähetä puhdas XML-sivukartta ja vahvista se Search Consolessa"
+      ]
+    },
+    {
+      "text": "Nämä eivät ole näyttäviä voittoja, mutta ne kertaantuvat. Kun perusta on puhdas, jokainen julkaisemasi sisältöpala perii tämän nopeuden ja rakenteen – mikä tarkoittaa, että Google indeksoi sen nopeammin ja käyttäjät konvertoituvat sen perusteella useammin."
+    },
+    {
+      "heading": "3. Sisältötahti, joka todella kumuloituu"
+    },
+    {
+      "text": "Yksittäinen suurin sijoitusnopeuden ennustaja on julkaisujen johdonmukaisuus. Kaksi pilarisivua kuukaudessa, neljä sairauteen keskittyvää postausta ja kuukausittaiset päivitykset kolmelle parhaiten sijoittuneelle sivulle. Se on tahti – ei enempää, ei vähempää. Klinikat, jotka yrittävät spurttailla, palavat loppuun. Klinikat, jotka julkaisevat vain neljännesvuosittain, eivät koskaan rakenna tarpeeksi pinta-alaa saadakseen pitkähäntäliikennettä."
+    },
+    {
+      "text": "Jokainen pilarisivu on 1 800–2 400 sanaa pitkä, ja se on rakennettu avainsanan takana olevan tarkoituksen ympärille. Jokainen tukeva artikkeli on 900–1 400 sanaa pitkä, ja se keskittyy tarkasti yhteen kysymykseen, jonka potilas todella kirjoittaa Googleen. Ja jokainen päivitys on todellinen päivitys – uusi johdanto, uudet alaotsikot, päivitetty tilastotieto, uudet sisäiset linkit. Google palkitsee tuoreuden, kun ympäröivä aihealueen auktoriteetti on jo olemassa."
+    },
+    {
+      "quote": "Klinikat, jotka voittavat 90 päivässä, ovat niitä, jotka lopettavat taktiikoiden jahtaamisen ja sitoutuvat järjestelmään. Sijoitukset ovat viivästynyt indikaattori oikean asian toistuvasta tekemisestä."
+    },
+    {
+      "heading": "4. 90 päivän aikataulu, viikko viikolta"
+    },
+    {
+      "text": "Viikot 1–2 ovat auditointia ja klusterien kartoitusta. Luetteloimme jokaisen olemassa olevan sivun, poistamme tai yhdistämme kaiken, joka heikentää sivustoa, ja kartoitamme kolme suurimman vaikutuksen omaavaa klusteria palvelutulojen ja hakukysynnän perusteella. Viikot 3–6 ovat teknisiä korjauksia ja pilarisivujen uudelleenkirjoituksia. Viikot 7–10 ovat sisällön painostusta – julkaisemme kuusi uutta tukevaa artikkelia ja kaksi uutta pilarisivua. Viikot 11–13 ovat sisäistä linkitystä, päivityksiä ja ulottuvuutta, jossa ansaitsemme ensimmäiset brändätyt takaisinlinkkimme."
+    },
+    {
+      "text": "Päivään 90 mennessä liike on mitattavissa – yleensä 8–15 kohdeavainsanaa on siirtynyt yli 50. sijalta top 20:een, ja yksi tai kaksi koputtelelee jo ensimmäiselle sivulle. Siitä eteenpäin kertaantuminen ottaa vallan: jokainen uusi artikkeli perii auktoriteetin klusterista, jokainen takaisinlinkki virtaa sivulle, joka on jo sijoittunut, ja järjestelmä toimii itsestään kuukausittaisella ylläpidolla neljännesvuosittaisten uudelleenrakentamisten sijaan."
+    }
+  ],
+  "faqs": null
+}

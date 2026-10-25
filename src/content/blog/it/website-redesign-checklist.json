@@ -1,0 +1,78 @@
+{
+  "slug": "website-redesign-checklist",
+  "title": "Checklist per la riprogettazione del sito web per studi di dermatologia",
+  "excerpt": "32 domande a cui rispondere prima di toccare un singolo pixel — dai moduli HIPAA alla conversione dell'eroe.",
+  "imageAlt": "Mockup di un moderno sito web di dermatologia su desktop e tablet in un ufficio luminoso",
+  "body": [
+    {
+      "text": "Una riprogettazione che salta la fase di scoperta è solo un costoso aggiornamento. Prima di aprire uno strumento di progettazione, esaminiamo ogni studio attraverso questa checklist di 32 domande su brand, conversione, conformità e prontezza tecnica. Lo scopo della checklist non è rallentare le cose, ma assicurarsi che i pixel che alla fine pubblicherai servano effettivamente una strategia invece di una mood board."
+    },
+    {
+      "text": "La maggior parte delle riprogettazioni fallisce per uno dei tre motivi seguenti: lo studio non ha mai definito cosa significhi un sito web 'buono' per i propri obiettivi, il flusso di acquisizione e prenotazione è progettato in base alla convenienza interna invece che al comportamento del paziente, o il team lancia un sito che viola HIPAA perché il tracciamento è stato impostato in automatico. Ogni sezione seguente è progettata per intercettare una di queste modalità di fallimento prima che ti costi 40.000 e sei mesi."
+    },
+    {
+      "heading": "Brand e posizionamento"
+    },
+    {
+      "list": [
+        "Chi è il tuo paziente ideale in una frase? (età, sesso, reddito, principale preoccupazione)",
+        "Quali sono i tre concorrenti a cui i tuoi pazienti ti paragonano?",
+        "Qual è la singola sensazione che vuoi che i visitatori provino in 5 secondi?",
+        "Se qualcuno descrivesse la tua pratica a un amico in una frase, cosa vorresti che dicesse?",
+        "Quali prove hai che questo posizionamento sia vero — recensioni, risultati, credenziali?"
+      ]
+    },
+    {
+      "text": "Se non riesci a rispondere a queste cinque domande in un documento condiviso su cui tutto il tuo team è d'accordo, non sei pronto per progettare una homepage, sei pronto per organizzare un workshop sul posizionamento."
+    },
+    {
+      "heading": "Conversione e flusso di prenotazione"
+    },
+    {
+      "text": "Ogni campo aggiuntivo nel modulo di acquisizione riduce la conversione del 4-6%. Ogni clic aggiuntivo tra l'eroe e l'azione di prenotazione riduce la conversione dell'8-12%. La riprogettazione è il momento di verificare ogni fase del funnel, eliminare spietatamente tutto ciò che non è essenziale e strumentare il percorso in modo da poter dimostrare cosa produce risultati dopo il lancio."
+    },
+    {
+      "list": [
+        "Quanti clic dalla homepage alla prenotazione di un appuntamento oggi?",
+        "Qual è il tuo tasso di conversione delle prenotazioni mobili oggi?",
+        "Quanti campi del modulo sono richiesti oggi e quali sono effettivamente utilizzati?",
+        "Qual è la CTA principale sulla tua homepage — ed è visibile senza scorrere su mobile?",
+        "Cosa succede dopo l'invio di un modulo — c'è un'e-mail di conferma in meno di 30 secondi?"
+      ]
+    },
+    {
+      "heading": "HIPAA e conformità"
+    },
+    {
+      "text": "L'applicazione delle norme HIPAA relative al tracciamento dei siti web è aumentata drasticamente dal 2022. Se la tua riprogettazione eredita il tuo attuale widget di chat, provider di moduli o configurazione analitica senza una revisione di conformità, stai lanciando un nuovo sito con una vecchia responsabilità."
+    },
+    {
+      "list": [
+        "I widget di chat sono configurati per eliminare le PHI dai log?",
+        "I tuoi moduli di acquisizione inviano dati tramite un canale crittografato a una destinazione conforme a HIPAA?",
+        "Hai firmato accordi BAA con ogni servizio di terze parti che gestisce i dati dei pazienti?",
+        "Il tuo Meta Pixel è configurato con il filtraggio lato server su qualsiasi pagina che menzioni condizioni?",
+        "Il tuo strumento di session-replay maschera i campi del modulo per impostazione predefinita?"
+      ]
+    },
+    {
+      "heading": "Prontezza tecnica"
+    },
+    {
+      "text": "La sezione tecnica è dove la maggior parte delle riprogettazioni si interrompe silenziosamente. Un bel sito che si carica in sei secondi su 4G perderà contro un sito semplice che si carica in due. Un sito con reindirizzamenti interrotti perderà le classifiche che hai impiegato due anni per guadagnare. Gestisci prima le cose noiose."
+    },
+    {
+      "list": [
+        "Hai un inventario completo degli URL attuali e dei loro backlink in entrata?",
+        "Hai una mappa di reindirizzamento 1 a 1 dal vecchio sito al nuovo?",
+        "Qual è il tuo LCP, CLS e INP target per il lancio — e come verificherai?",
+        "Chi possiede l'accesso a Search Console e la proprietà è verificata?",
+        "Hai programmato una scansione del sito di staging prima del passaggio del DNS?"
+      ]
+    },
+    {
+      "text": "Rispondi onestamente a ogni domanda di questa checklist prima di abbozzare il primo wireframe. I team che lanciano riprogettazioni senza rimpianti sono i team che trattano la scoperta come un risultato finale, non come un ripensamento. Due settimane di risposte disciplinate ora risparmiano due trimestri di ricostruzione dopo."
+    }
+  ],
+  "faqs": null
+}

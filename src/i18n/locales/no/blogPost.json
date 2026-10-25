@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "notFoundTitle": "Artikkelen ble ikke funnet — DermGrowth Blogg",
+    "titleSuffix": "— DermGrowth Blogg",
+    "keywordsTemplate": "{{category}}, markedsføring for dermatologer, {{title}}",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+    "robotsNoindex": "noindex",
+    "ogType": "article",
+    "publisherName": "DermGrowth"
+  },
+  "breadcrumb": {
+    "home": "Hjem",
+    "blog": "Blogg"
+  },
+  "notFound": {
+    "code": "404",
+    "title": "Artikkelen ikke funnet.",
+    "description": "Artikkelen du leter etter har enten blitt flyttet eller fått nytt navn.",
+    "backButton": "Tilbake til bloggen"
+  },
+  "header": {
+    "nav": {
+      "blog": "Blogg"
+    },
+    "meta": {
+      "readTimeSuffix": "min. lesetid"
+    }
+  },
+  "actions": {
+    "allArticles": "Alle artikler",
+    "share": "Del",
+    "shareOnFacebook": "Del på Facebook",
+    "shareOnX": "Del på X",
+    "shareOnLinkedIn": "Del på LinkedIn",
+    "shareOnTumblr": "Del på Tumblr",
+    "openInstagram": "Åpne Instagram"
+  },
+  "faq": {
+    "badge": "FAQ",
+    "heading": "Ofte stilte spørsmål"
+  },
+  "related": {
+    "badge": "Les videre",
+    "heading": "Mer om {{category}}",
+    "viewAll": "Alle artikler",
+    "readLabel": "Les: {{title}}",
+    "readTimeSuffix": "min"
+  },
+  "footerCta": {
+    "prefix": "Syntes du dette var nyttig? Ta en titt på:",
+    "moreArticles": "flere artikler om vekst for klinikker",
+    "caseStudies": "reelle resultater fra våre kunder",
+    "freeAudit": "en gratis analyse av ditt nettsted"
+  }
+}

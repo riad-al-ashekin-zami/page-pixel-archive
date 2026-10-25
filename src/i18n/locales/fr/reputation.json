@@ -1,0 +1,317 @@
+{
+  "meta": {
+    "title": "Gestion de l'e-réputation en dermatologie | Avis, GBP et croissance 5 étoiles",
+    "description": "Gestion d'e-réputation conforme à HIPAA pour cabinets de dermatologie — Google, Healthgrades, RealSelf, Zocdoc, Yelp. Génération d'avis, SLA de réponse sous 24h et récupération d'avis négatifs basée sur les consultations réservées.",
+    "og_title": "Gestion de l'e-réputation en dermatologie — Croissance 5 étoiles, conforme HIPAA",
+    "og_description": "Boostez vos notes à 4,9 étoiles sur Google, Healthgrades, RealSelf, Zocdoc et Yelp. Invitations aux avis, réponses professionnelles et traitement des avis négatifs pour les dermatologues.",
+    "twitter_title": "Services de gestion d'e-réputation pour dermatologues",
+    "twitter_description": "Avis, GBP et croissance 5 étoiles pour cabinets de dermatologie — mesurés par consultations réservées.",
+    "jsonLd": {
+      "serviceType": "Gestion de l'e-réputation en ligne pour cabinets de dermatologie",
+      "providerName": "DermatologyWebsiteDesign.com",
+      "areaServed": "United States",
+      "description": "Gestion d'e-réputation conforme à HIPAA, génération d'avis, optimisation GBP et récupération d'avis négatifs pour les dermatologues.",
+      "breadcrumb_home": "Accueil",
+      "breadcrumb_services": "Services",
+      "breadcrumb_current": "Gestion de l'e-réputation"
+    }
+  },
+  "hero": {
+    "badge": "Gestion de l'e-réputation en dermatologie",
+    "title_part1": "Des notes 5 étoiles qui",
+    "title_highlight": "transforment les recherches en consultations.",
+    "description": "Gestion de réputation conforme à HIPAA pour les cabinets de dermatologie — Google, Healthgrades, RealSelf, Zocdoc, Yelp et Vitals. Génération d'avis, engagement de réponse sous 24h et protocole de récupération d'avis négatifs — résultats basés sur les rendez-vous pris, pas sur des métriques de vanité.",
+    "cta_audit": "Audit de réputation gratuit",
+    "cta_workflow": "Découvrez notre méthode en 5 étapes"
+  },
+  "outcomes": {
+    "rating": "Note moyenne obtenue",
+    "volume": "Volume de nouveaux avis en 90 jours",
+    "visibility": "Hausse de visibilité dans le Google Map Pack",
+    "sla": "SLA de réponse sur chaque avis"
+  },
+  "live_dashboard": {
+    "label": "Note globale",
+    "reviews_count": "1 284 avis",
+    "growth": "+0,6 étoile",
+    "sample_review": "\"L'équipe a expliqué chaque option avant le traitement. L'accueil était chaleureux, les résultats sont incroyables — je recommande vivement à quiconque cherche un dermatologue.\"",
+    "sample_author": "Jamie R.",
+    "sample_platform": "Google Business",
+    "sample_time": "il y a 2j",
+    "hipaa_badge": "Conforme HIPAA"
+  },
+  "trust_bar": {
+    "title": "Plus de 50 cabinets de dermatologie nous font confiance",
+    "items": [
+      "Processus respectant HIPAA",
+      "Prestataires SOC 2 Type II",
+      "Agence Partenaire Google",
+      "Focus certifications ABMS"
+    ]
+  },
+  "ticker": {
+    "badge": "En direct des tableaux de bord clients",
+    "title": "Avis reçus à l'instant.",
+    "status": "Direct",
+    "reviews": [
+      {
+        "text": "Meilleure expérience dermato à ce jour — réservé en ligne en 2 minutes.",
+        "author": "Jamie R.",
+        "src": "Google"
+      },
+      {
+        "text": "Le Dr Chen est patient, minutieux, et mon acné a disparu en quelques semaines.",
+        "author": "Priya K.",
+        "src": "Healthgrades"
+      },
+      {
+        "text": "Accueil chaleureux, les résultats sont incroyables. Je recommande vivement.",
+        "author": "Marcus T.",
+        "src": "Yelp"
+      },
+      {
+        "text": "Suivi de guérison à chaque étape. Des soins vraiment exceptionnels.",
+        "author": "Sofia L.",
+        "src": "RealSelf"
+      },
+      {
+        "text": "Rendez-vous dans la semaine, tarifs transparents. Équipe de confiance.",
+        "author": "David H.",
+        "src": "Zocdoc"
+      },
+      {
+        "text": "Le praticien a pris le temps d'expliquer chaque option — sans pression.",
+        "author": "Ana M.",
+        "src": "Vitals"
+      }
+    ]
+  },
+  "platforms": {
+    "badge": "Plateformes couvertes",
+    "title": "Toutes les plateformes qui comptent pour un dermatologue.",
+    "description": "Nous gérons les six sites que les patients consultent réellement avant de réserver — plus de 40 annuaires pour renforcer la confiance des moteurs de recherche.",
+    "client_avg": "note moyenne client",
+    "items": {
+      "google": {
+        "name": "Google Business",
+        "note": "Signal SEO local n°1"
+      },
+      "healthgrades": {
+        "name": "Healthgrades",
+        "note": "Index axé sur le médecin"
+      },
+      "realself": {
+        "name": "RealSelf",
+        "note": "Moteur de décision esthétique"
+      },
+      "zocdoc": {
+        "name": "Zocdoc",
+        "note": "Avis intégrés à la réservation"
+      },
+      "yelp": {
+        "name": "Yelp",
+        "note": "Recherche locale à forte intention"
+      },
+      "vitals": {
+        "name": "Vitals",
+        "note": "Confiance des réseaux d'assurance"
+      }
+    }
+  },
+  "services_included": {
+    "badge": "Ce qui est inclus",
+    "title": "Un écosystème complet de réputation — un seul forfait mensuel.",
+    "items": [
+      {
+        "title": "Audit de réputation & analyse concurrentielle",
+        "desc": "Note de base, vitesse d'acquisition des avis, analyse de sentiment et rapport d'écart concurrentiel sur votre zone géographique."
+      },
+      {
+        "title": "Gestion du Profil Google Business",
+        "desc": "Publications hebdomadaires, modération des Q&R, catalogue produits/services, photos et optimisation des catégories pour le classement local."
+      },
+      {
+        "title": "Invitations d'avis automatisées",
+        "desc": "Flux SMS + e-mail post-visite intégrés à votre PMS/EHR — programmés, basés sur le consentement et sans PHI."
+      },
+      {
+        "title": "Réponses professionnelles aux avis",
+        "desc": "Chaque avis — de 1 à 5 étoiles — traité sous 24h avec votre ton, conforme HIPAA, sans jamais confirmer le statut de patient."
+      },
+      {
+        "title": "Récupération d'avis négatifs",
+        "desc": "Protocole d'escalade, résolution hors ligne et — en cas de violation des politiques — signalement pour suppression sur Google, Yelp, Healthgrades."
+      },
+      {
+        "title": "Rapports mensuels",
+        "desc": "Progression de la note, volume d'avis, taux de réponse, sentiments, appels GBP, demandes d'itinéraires et attribution des consultations réservées."
+      }
+    ]
+  },
+  "workflow": {
+    "badge": "Le processus",
+    "title": "Cinq étapes pour atteindre 4,9 étoiles.",
+    "steps": [
+      {
+        "label": "ÉTAPE 01",
+        "title": "Audit de réputation",
+        "desc": "Analyse complète sur Google, Healthgrades, RealSelf, Zocdoc, Yelp, Vitals — plus état des lieux de la note de base."
+      },
+      {
+        "label": "ÉTAPE 02",
+        "title": "Nettoyage des listings & schéma",
+        "desc": "Cohérence NAP sur plus de 40 annuaires, balisage Schema Physician + AggregateRating et optimisation Google Business pour chaque cabinet."
+      },
+      {
+        "label": "ÉTAPE 03",
+        "title": "Moteur de génération d'avis",
+        "desc": "Invitations par SMS + e-mail post-visite, cartes QR à l'accueil et suivis sans PHI. Textes axés sur le consentement et conformes HIPAA."
+      },
+      {
+        "label": "ÉTAPE 04",
+        "title": "Suivi, réponse, escalade",
+        "desc": "Engagement de réponse sous 24h pour chaque nouvel avis — les préoccupations cliniques sont transmises à votre équipe le jour même."
+      },
+      {
+        "label": "ÉTAPE 05",
+        "title": "Rapport sur les consultations réservées",
+        "desc": "Le rapport mensuel lie l'amélioration de la note au volume de rendez-vous, aux appels GBP et au chiffre d'affaires."
+      }
+    ]
+  },
+  "testimonials": {
+    "badge": "Résultats clients",
+    "title": "De vrais cabinets. Des résultats mesurables.",
+    "items": [
+      {
+        "quote": "Notre note Google est passée de 3,9 à 4,9 en cinq mois. Les appels via le Map Pack ont doublé. Le flux de réponses libère des heures chaque semaine à notre accueil.",
+        "author": "Dr. A. Nguyen, MD",
+        "role": "Cabinet individuel · Austin, TX"
+      },
+      {
+        "quote": "Déployer un système de réputation unique sur sept sites était la pièce manquante. Chaque site affiche maintenant une moyenne de 4,8+ étoiles.",
+        "author": "Directeur de Cabinet",
+        "role": "Groupe multi-sites · 7 cliniques · Floride"
+      },
+      {
+        "quote": "Le protocole de récupération d'avis négatifs a justifié l'investissement à lui seul. Deux avis non conformes supprimés, quatre convertis en 5 étoiles après résolution.",
+        "author": "Dr. M. Rao, MD",
+        "role": "Chirurgie de Mohs · Los Angeles"
+      }
+    ]
+  },
+  "audiences": {
+    "badge": "Conçu pour",
+    "title": "Tous les modèles de pratique dermatologique.",
+    "items": [
+      {
+        "title": "Dermatologues en cabinet individuel",
+        "desc": "Stratégie de réputation centrée sur le fondateur — votre nom domine la première page de Google dans votre ville."
+      },
+      {
+        "title": "Cliniques multi-sites",
+        "desc": "Boîtes de réception d'avis par site, modèles de réponse sécurisés et un tableau de bord global consolidé."
+      },
+      {
+        "title": "Dermatologie pédiatrique",
+        "desc": "Flux d'avis axés sur les parents, langage sécurisé et collecte de témoignages familiaux au moment du départ."
+      },
+      {
+        "title": "Chirurgie de Mohs & Dermatologie chirurgicale",
+        "desc": "Invitations d'avis post-opératoires programmées selon les étapes de la cicatrisation — jamais durant la phase aiguë."
+      }
+    ]
+  },
+  "medical_services": {
+    "badge": "Services médicaux pris en charge",
+    "title": "Des flux d'avis adaptés à chaque spécialité.",
+    "description": "Chaque spécialité bénéficie d'une cadence d'invitation sécurisée, de directives de réponse spécifiques et de règles d'approbation des témoignages.",
+    "list": [
+      "Traitement de l'acné",
+      "Traitement de l'eczéma",
+      "Traitement du psoriasis",
+      "Traitement des infections cutanées",
+      "Traitement des allergies cutanées",
+      "Dépistage et traitement du cancer de la peau",
+      "Évaluation de grains de beauté & excision médicale",
+      "Excision de kystes et lipomes",
+      "Traitement des verrues",
+      "Traitement des troubles de l'ongle",
+      "Diagnostic et traitement médical de la perte de cheveux",
+      "Traitement des troubles du cuir chevelu",
+      "Traitement de la couperose et rosacée",
+      "Hyperpigmentation & Mélasma (indication médicale)",
+      "Traitement des cicatrices (lésions, chirurgie, maladie)",
+      "Traitement des cicatrices de brûlures",
+      "Traitement du vitiligo",
+      "Biopsies cutanées & Procédures de diagnostic"
+    ]
+  },
+  "lift_slider": {
+    "badge": "Le boost",
+    "title": "De 3,9 à 4,9 — observez l'effet cumulatif.",
+    "description": "Faites glisser le curseur pour passer d'une note de base classique à un 4,9 géré — chaque indicateur de rentabilité suit la courbe.",
+    "cta_drag": "Glissez pour voir l'impact",
+    "stars_total": "/ 5,0 étoiles",
+    "before": "Avant :",
+    "after": "Après :",
+    "metrics": {
+      "reviews": "Avis / mois",
+      "calls": "Appels GBP / mois",
+      "consults": "Consultations réservées"
+    },
+    "aria_label": "Curseur de progression de la note"
+  },
+  "faq": {
+    "badge": "FAQ",
+    "title": "Les questions que posent les dermatologues avant de s'engager.",
+    "items": [
+      {
+        "q": "La gestion de la réputation est-elle conforme à HIPAA pour un dermatologue ?",
+        "a": "Oui. Chaque invitation, réponse et publication publique est rédigée selon les règles HIPAA — nous ne confirmons jamais le statut de patient publiquement, ne mentionnons aucun diagnostic et ne citons aucun PHI. Les invitations sont basées sur le consentement lors de la visite."
+      },
+      {
+        "q": "À quelle vitesse la note globale s'améliore-t-elle ?",
+        "a": "Pour la plupart des cabinets individuels, la note Google grimpe de 0,3 à 0,7 étoile dans les 60 à 90 premiers jours. Les groupes multi-sites se stabilisent généralement au-dessus de 4,7 en un ou deux trimestres. Cela dépend de la fréquentation du cabinet."
+      },
+      {
+        "q": "Comment gérez-vous les avis négatifs ou injustes ?",
+        "a": "Via trois axes. (1) Une réponse publique professionnelle sous 24h pour apaiser et déplacer la discussion hors ligne. (2) Un protocole de contact pour résoudre le problème — beaucoup d'internautes modifient leur avis après résolution. (3) Le signalement aux plateformes en cas de violation avérée des politiques Google, Yelp ou Healthgrades."
+      },
+      {
+        "q": "Quelles plateformes d'avis couvrez-vous ?",
+        "a": "Le profil Google Business est le socle. Nous gérons aussi Healthgrades, RealSelf, Zocdoc, Yelp, Vitals et les recommandations Facebook. La cohérence NAP s'étend à plus de 40 annuaires pour renforcer la confiance des moteurs de recherche."
+      },
+      {
+        "q": "Pouvez-vous vous intégrer à notre EHR / PMS pour les invitations ?",
+        "a": "Oui. Nous nous intégrons aux PMS/EHR courants (ModMed / EMA, Nextech, DrChrono, athenahealth, etc. via CSV, API ou Zapier). Les invitations SMS + e-mail se déclenchent 24h après le rendez-vous."
+      },
+      {
+        "q": "Gérez-vous les demandes de photos avant/après ou les témoignages esthétiques ?",
+        "a": "Oui, via un flux de consentement distinct. Les témoignages cosmétiques nécessitent une décharge spécifique. Une fois signés, ils alimentent votre site et vos avis avec photos avant/après si consenti."
+      },
+      {
+        "q": "Quel est le tarif ?",
+        "a": "Un forfait mensuel fixe basé sur le nombre de sites et le volume d'avis — pas de frais par avis, pas de contrat long après les 90 premiers jours. Inclut la gestion des réponses, les campagnes d'invitation, l'optimisation GBP et les rapports mensuels."
+      }
+    ]
+  },
+  "cta_bottom": {
+    "title": "Dominez le sommet des résultats de recherche de votre ville.",
+    "description": "Audit de réputation gratuit de 30 minutes — bilan de votre note, analyse de la concurrence et plan d'action sur 90 jours. Sans engagement.",
+    "cta_audit": "Audit de site gratuit",
+    "cta_contact": "Contactez-nous"
+  },
+  "mobile_sticky": {
+    "audit": "Audit gratuit",
+    "contact_aria": "Contactez-nous"
+  },
+  "related": {
+    "text": "Sujets connexes qui pourraient vous intéresser :",
+    "links": {
+      "seo": "gagner en visibilité locale sur les cartes",
+      "social": "réseaux sociaux et confiance patient",
+      "email": "fidélisation des patients par e-mail"
+    }
+  }
+}

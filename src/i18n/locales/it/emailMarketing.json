@@ -1,0 +1,370 @@
+{
+  "meta": {
+    "title": "Email Marketing per Dermatologia | Recall HIPAA-Safe, Newsletter e Automazione",
+    "description": "Email marketing a norma HIPAA per studi dermatologici: serie di benvenuto, automazione recall a 6 mesi, educazione stagionale e riattivazione estetica. Risultati misurati su appuntamenti prenotati, non sulle aperture.",
+    "og": {
+      "title": "Email Marketing Dermatologico — HIPAA-Safe e Attribuzione Prenotazioni",
+      "description": "Newsletter personalizzate, flussi di recall attivati da PMS e automazione conforme a HIPAA per studi dermatologici. Klaviyo, HubSpot, Mailchimp."
+    },
+    "twitter": {
+      "title": "Servizi di Email Marketing per la Dermatologia",
+      "description": "Email marketing HIPAA-safe, automazione dei richiami e deliverability garantita per studi dermatologici."
+    },
+    "jsonLd": {
+      "serviceType": "Email Marketing per Studi Dermatologici",
+      "providerName": "DermatologyWebsiteDesign.com",
+      "description": "Servizi di email marketing HIPAA-safe, automazione recall e newsletter per studi di dermatologia.",
+      "breadcrumb": {
+        "home": "Home",
+        "services": "Servizi",
+        "emailMarketing": "Email Marketing"
+      }
+    }
+  },
+  "hero": {
+    "badge": "Email Marketing per la Dermatologia",
+    "title": "Inbox che riempiono la tua agenda.",
+    "description": "Email marketing a norma HIPAA per dermatologi specializzati: serie di benvenuto, recall attivati da PMS, educazione stagionale e riattivazione estetica. Monitoriamo ogni campagna in base alle visite prenotate, non alle metriche di vanità.",
+    "cta": {
+      "audit": "Audit email gratuito",
+      "flows": "Scopri i 5 flussi automatizzati"
+    },
+    "stats": {
+      "industryLabel": "media del settore 21%",
+      "comparison": "+30 punti rispetto alla base",
+      "opensLabel": "12.480 aperture",
+      "hipaaBadge": "HIPAA-safe",
+      "openRateLabel": "tasso di apertura",
+      "openRateDescription": "Open rate della campagna"
+    }
+  },
+  "outcomes": {
+    "openRate": "Tasso di apertura medio",
+    "ctr": "Tasso di clic (CTR)",
+    "recallLift": "Incremento prenotazioni da recall",
+    "hipaaReview": "Revisione testi conforme HIPAA"
+  },
+  "trustBar": {
+    "title": "Scelto da oltre 50 studi dermatologici",
+    "badges": [
+      "SPF · Verificato",
+      "DKIM · Verificato",
+      "DMARC · Verificato",
+      "CAN-SPAM"
+    ]
+  },
+  "liveActivity": {
+    "title": "Live dalle dashboard dei clienti",
+    "status": "Live",
+    "actions": {
+      "opened": "ha aperto",
+      "booked": "ha prenotato",
+      "clicked": "ha cliccato"
+    },
+    "events": [
+      {
+        "who": "Jamie R.",
+        "campaign": "Piano pelle invernale",
+        "when": "proprio ora"
+      },
+      {
+        "who": "Priya K.",
+        "campaign": "Check-up pelle 6 mesi",
+        "when": "14s fa"
+      },
+      {
+        "who": "Marcus T.",
+        "campaign": "Benvenuto · 3 di 5",
+        "when": "42s fa"
+      },
+      {
+        "who": "Sofia L.",
+        "campaign": "Fidelity Aesthetic",
+        "when": "1m fa"
+      },
+      {
+        "who": "David H.",
+        "campaign": "Riattivazione estetica",
+        "when": "2m fa"
+      },
+      {
+        "who": "Ana M.",
+        "campaign": "Guida solari",
+        "when": "3m fa"
+      }
+    ]
+  },
+  "flows": {
+    "title": "I Flussi",
+    "heading": "Cinque flussi automatizzati che gestiscono le email del tuo studio.",
+    "description": "Attivati direttamente dal tuo PMS/EHR: benvenuto, recall, educazione, offerte estetiche e reportistica. Tutto in automatico.",
+    "items": [
+      {
+        "step": "STEP 01",
+        "title": "Benvenuto e onboarding",
+        "desc": "Serie di 5 email per i nuovi pazienti: cosa aspettarsi, come prepararsi, FAQ sull'assicurazione e link diretti per la prenotazione."
+      },
+      {
+        "step": "STEP 02",
+        "title": "Recall e riattivazione",
+        "desc": "Promemoria per il controllo della pelle a 6/12 mesi attivati dal PMS, con sistema di attribuzione delle prenotazioni integrato."
+      },
+      {
+        "step": "STEP 03",
+        "title": "Educazione e stagionalità",
+        "desc": "Acne in estate, eczema in inverno, protezione solare a maggio: un calendario editoriale di 12 mesi studiato per le tue prestazioni."
+      },
+      {
+        "step": "STEP 04",
+        "title": "Offerte estetiche e add-on",
+        "desc": "Upsell basati sul consenso per servizi cosmetici: programmi fedeltà Aesthetic, cicli laser e dermocosmesi medicale."
+      },
+      {
+        "step": "STEP 05",
+        "title": "Report sulle visite prenotate",
+        "desc": "Valutiamo ogni campagna in base agli appuntamenti fissati e al fatturato generato, non solo su aperture e clic."
+      }
+    ]
+  },
+  "integrations": {
+    "title": "Integrazioni PMS / EHR e Piattaforme Email",
+    "platforms": [
+      "ModMed / EMA",
+      "Nextech",
+      "DrChrono",
+      "athenahealth",
+      "Klaviyo",
+      "HubSpot",
+      "Mailchimp",
+      "Zapier"
+    ]
+  },
+  "servicesIncluded": {
+    "title": "Cosa è Incluso",
+    "heading": "Uno stack completo di email marketing — un unico canone mensile.",
+    "items": [
+      {
+        "title": "Strategia e calendario a 12 mesi",
+        "desc": "Mappatura dell'audience, audit della lista, calendario editoriale per prestazioni e KPI allineati alle prenotazioni."
+      },
+      {
+        "title": "Architettura delle liste segmentata",
+        "desc": "Nuovi pazienti, attivi, inattivi da 6/12 mesi, pazienti estetici o solo medici — con tagging HIPAA-safe."
+      },
+      {
+        "title": "Template dal design personalizzato",
+        "desc": "Template HTML responsive basati sul tuo brand: contrasto accessibile, dark-mode-safe e fallback testuale pulito."
+      },
+      {
+        "title": "Flussi e trigger automatizzati",
+        "desc": "Benvenuto, recall, compleanno, post-visita e riattivazione estetica — attivati dal tuo PMS/EHR tramite API o Zapier."
+      },
+      {
+        "title": "Deliverability e autenticazione",
+        "desc": "Configurazione SPF, DKIM, DMARC, warm-up e monitoraggio della reputazione del mittente per arrivare dritti in inbox."
+      },
+      {
+        "title": "Analytics e attribuzione prenotazioni",
+        "desc": "Aperture, clic e disiscrizioni più attribuzione appuntamenti collegata al PMS — report mensili focalizzati sul ROI."
+      }
+    ]
+  },
+  "deliverability": {
+    "title": "Deliverability",
+    "heading": "Dalla cartella spam alla posta in arrivo.",
+    "description": "Autenticazione SPF, DKIM e DMARC, warm-up del mittente, pulizia trimestrale delle liste e monitoraggio costante tramite Google Postmaster + Microsoft SNDS.",
+    "features": [
+      "Verifica SPF · DKIM · DMARC nei primi 7 giorni",
+      "Piano di warm-up del mittente per migrazioni",
+      "Pulizia e igiene della lista ogni 90 giorni",
+      "Monitoraggio settimanale di bounce e reclami"
+    ],
+    "gaugeLabel": "Piazzamento in inbox",
+    "timeline": "Media clienti dopo 60–90 giorni dall'onboarding."
+  },
+  "abSection": {
+    "title": "Testi che Convertono",
+    "heading": "L'oggetto dell'email decide tra una prenotazione e un cestino.",
+    "demoTitle": "Due parole cambiano tutto.",
+    "badge": "A/B Test Oggetto",
+    "inboxPreview": "Anteprima inbox",
+    "sender": "La tua clinica",
+    "time": "14:14",
+    "openRateLabel": "Tasso di apertura",
+    "whyWins": "Perché vince la versione B:",
+    "buttons": {
+      "version": "Versione",
+      "example": "Esempio"
+    },
+    "notes": [
+      "Personalizzazione con nome + focus sul beneficio.",
+      "Timing specifico + linguaggio orientato alla facilità d'uso."
+    ]
+  },
+  "templateGallery": {
+    "title": "Galleria Template",
+    "heading": "Ogni invio in linea con il brand, sempre.",
+    "description": "Template responsive e personalizzati con contrasto accessibile e resa dark-mode-safe.",
+    "cta": "Prenota ora",
+    "templates": [
+      {
+        "name": "Benvenuto",
+        "tag": "Serie · 1 di 5",
+        "subject": "Benvenuto in studio, Jamie",
+        "body": "Ecco cosa aspettarsi dalla tua prima visita — e 3 dettagli da portare per rendere l'appuntamento più semplice."
+      },
+      {
+        "name": "Recall",
+        "tag": "Auto · Trigger da PMS",
+        "subject": "È ora del tuo controllo pelle semestrale",
+        "body": "Sono passati 5 mesi dalla tua ultima visita. I controlli periodici identificano il 95% delle criticità precocemente."
+      },
+      {
+        "name": "Stagionale",
+        "tag": "Editoriale · Inverno",
+        "subject": "Pelle d'inverno: i consigli del Dr. Chen",
+        "body": "Aria fredda e riscaldamento danneggiano la barriera cutanea. Ecco la routine in 5 step consigliata dai nostri esperti."
+      }
+    ]
+  },
+  "liftSlider": {
+    "title": "L'Incremento",
+    "heading": "Dal 12% al 42% di aperture: scopri l'effetto moltiplicatore.",
+    "description": "Trascina lo slider per confrontare una situazione tipo con la nostra gestione al 42% — guarda come aumentano prenotazioni e ricavi.",
+    "dragLabel": "Trascina per vedere l'incremento",
+    "before": "Prima:",
+    "after": "Dopo:",
+    "metrics": {
+      "booked": "Prenotati / mese",
+      "revenue": "Fatturato / mese",
+      "recall": "Tasso di recall"
+    },
+    "aria": {
+      "slider": "Slider tasso apertura email"
+    }
+  },
+  "testimonials": {
+    "title": "Risultati dei Clienti",
+    "heading": "Studi dermatologici reali. Risultati misurati.",
+    "items": [
+      {
+        "quote": "Solo le email di recall hanno ripagato il canone nel primo mese. Le prenotazioni per i controlli semestrali sono triplicate e i testi riflettono davvero il nostro stile.",
+        "author": "Dr. E. Park, MD",
+        "role": "Dermatologo · Seattle, WA"
+      },
+      {
+        "quote": "Un brand, sette location, un unico calendario email. La segmentazione HIPAA-safe era l'unico tassello che non riuscivamo a gestire internamente.",
+        "author": "Direttore Marketing",
+        "role": "Gruppo multi-sede · 7 cliniche · Texas"
+      },
+      {
+        "quote": "La deliverability è passata dall'82% al 98% in sei settimane. L'attribuzione alle prenotazioni rende finalmente giustificabile l'investimento agli occhi dei soci.",
+        "author": "Practice Manager",
+        "role": "Chirurgia Dermatologica e Mohs · Boston"
+      }
+    ]
+  },
+  "audiences": {
+    "title": "Pensato Per",
+    "heading": "Ogni modello di pratica dermatologica.",
+    "items": [
+      {
+        "title": "Dermatologi Individuali",
+        "desc": "Newsletter con la voce del medico per mantenere l'agenda piena: benvenuto, riattivazione e follow-up post-visita gestiti in autonomia."
+      },
+      {
+        "title": "Cliniche Multi-sede",
+        "desc": "Invii differenziati per sede con template di brand condivisi: un'unica dashboard, analytics unificate e segmentazione sicura."
+      },
+      {
+        "title": "Dermatologia Pediatrica",
+        "desc": "Flussi educativi per i genitori: stagionalità eczemi, controlli pre-scolastici e promemoria delicati."
+      },
+      {
+        "title": "Chirurgia Dermatologica e Mohs",
+        "desc": "Preparazione pre-operatoria, check-in post-operatorio e screening periodico per i tumori della pelle, tutto sincronizzato con le tappe cliniche."
+      }
+    ]
+  },
+  "medicalServices": {
+    "title": "Servizi Medici Supportati",
+    "heading": "Flussi email tarati su ogni prestazione.",
+    "description": "Ogni linea di servizio ha la propria cadenza educativa, intervalli di recall e testi di riattivazione specifici e conformi.",
+    "list": [
+      "Trattamento Acne",
+      "Trattamento Eczema",
+      "Trattamento Psoriasi",
+      "Infezioni Cutanee",
+      "Allergie Cutanee",
+      "Screening e Trattamento Tumori della Pelle",
+      "Valutazione Nei e Asportazioni Mediche",
+      "Rimozione Cisti e Lipomi",
+      "Rimozione Verruche",
+      "Patologie delle Unghie",
+      "Diagnosi e Cura della Caduta dei Capelli",
+      "Disturbi del Cuoio Capelluto",
+      "Trattamento Rosacea",
+      "Iperpigmentazione e Melasma (indicazioni mediche)",
+      "Trattamento Cicatrici (traumi, chirurgia, malattie)",
+      "Cicatrici da Ustione",
+      "Trattamento Vitiligine",
+      "Biopsie e Procedure Diagnostiche"
+    ]
+  },
+  "faq": {
+    "title": "FAQ",
+    "heading": "Le domande che gli studi ci pongono prima di iniziare.",
+    "items": [
+      {
+        "q": "L'email marketing è davvero possibile a norma HIPAA?",
+        "a": "Sì, seguendo regole rigorose. Non includiamo mai PHI nell'oggetto, nel corpo o nei parametri di tracciamento. La segmentazione usa tag non-PHI (interessi, campagne, stato consenso), il consenso è esplicito e ogni invio segue una checklist di conformità. Se devono essere trasmessi dati protetti, indirizziamo l'utente verso il portale paziente sicuro."
+      },
+      {
+        "q": "Quali piattaforme email e sistemi PMS/EHR supportate?",
+        "a": "Lavoriamo con Klaviyo, HubSpot, Mailchimp, ActiveCampaign o Customer.io. Lato clinico, ci integriamo con ModMed / EMA, Nextech, DrChrono, athenahealth e altri tramite API o Zapier: i trigger si attivano su dati reali, non su database manuali."
+      },
+      {
+        "q": "Come misurate i risultati?",
+        "a": "Valutiamo ogni campagna sulle prenotazioni effettive e il fatturato attribuito, non solo su aperture e clic. Utilizziamo tag UTM su ogni link e monitoriamo l'intero funnel fino al portale di prenotazione, fornendo report mensili dettagliati sul valore generato per invio."
+      },
+      {
+        "q": "Come gestite la deliverability e lo spam?",
+        "a": "La configurazione include autenticazione SPF, DKIM e DMARC, un piano di warm-up del mittente, pulizia trimestrale delle liste e monitoraggio continuo tramite Google Postmaster e Microsoft SNDS. In genere portiamo il piazzamento in inbox dall'85% al 98% entro 90 giorni."
+      },
+      {
+        "q": "Con che frequenza invierete email ai nostri pazienti?",
+        "a": "La cadenza è tarata sulla tua lista: solitamente 2 email educative al mese più i trigger automatici (benvenuto, recall). Monitoriamo settimanalmente i tassi di disiscrizione e reclami per garantire che il volume di invio sia sempre ottimale."
+      },
+      {
+        "q": "Chi scrive i testi delle email?",
+        "a": "Scriviamo noi tutto il copy — oggetti, testi, versioni plain-text — adattandolo al tono di voce del tuo studio e verificandolo con la nostra checklist HIPAA. Il tuo team approva ogni campagna su un calendario condiviso prima di ogni invio."
+      },
+      {
+        "q": "Qual è il modello di prezzo?",
+        "a": "Un canone mensile fisso basato sulla dimensione della lista e sul volume delle campagne. Include strategia, calendario, design, copywriting, deliverability, automazione e integrazione PMS. Nessun costo per invio e contratti flessibili dopo i primi 90 giorni."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Trasforma la tua lista pazienti nel tuo canale di prenotazione n. 1.",
+    "description": "Audit email gratuito di 30 minuti: controllo della deliverability, stato della lista e un piano di automazione recall a 90 giorni. Senza impegno.",
+    "auditBtn": "Audit Sito Gratuito",
+    "contactBtn": "Contattaci",
+    "sticky": {
+      "audit": "Audit email gratuito",
+      "ariaPhone": "Contattaci"
+    }
+  },
+  "footerLinks": {
+    "preface": "Potrebbero interessarti anche:",
+    "reputation": "reputazione e flussi recensioni",
+    "social": "social storytelling per il settore medico",
+    "cro": "landing page ad alta conversione"
+  },
+  "inboxCard": {
+    "conversionNote": "Includiamo step di recupero, FAQ assicurative e prenotazione in un tap — progettato per convertire senza mai esporre dati PHI.",
+    "aria": {
+      "expand": "Card anteprima email — tocca per espandere il testo"
+    }
+  }
+}

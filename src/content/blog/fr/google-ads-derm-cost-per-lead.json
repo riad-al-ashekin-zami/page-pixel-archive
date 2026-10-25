@@ -1,0 +1,60 @@
+{
+  "slug": "google-ads-derm-cost-per-lead",
+  "title": "Comment nous avons réduit le coût par prospect de 47 % sur Google Ads",
+  "excerpt": "Une stratégie d'enchères spécifique à la dermatologie, une bibliothèque de mots-clés négatifs et un modèle de page de destination qui se multiplient.",
+  "imageAlt": "Responsable marketing examinant les graphiques de performances des annonces payantes sur un moniteur grand écran",
+  "body": [
+    {
+      "text": "Le coût par prospect sur les campagnes Google Ads en dermatologie est généralement un désastre – gonflé par des mots-clés génériques, des pages de destination mal assorties et une stratégie d'enchères qui n'a pas été touchée depuis le lancement de la campagne par quelqu'un qui ne travaille plus dans le cabinet. Voici le cadre exact que nous avons utilisé pour réduire un CPL de 180 $ à 95 $ en un trimestre dans trois cabinets multi-sites."
+    },
+    {
+      "text": "La réduction de 47 % n'est pas le résultat d'une solution miracle unique. C'était l'effet cumulatif de trois changements disciplinés : une bibliothèque impitoyable de mots-clés négatifs, une structure de page de destination avec une offre par page, et un passage de « Maximiser les conversions » génériques à une stratégie de CPA cible ancrée sur des données de réservation réelles, et non sur des données de remplissage de formulaire. Chacun de ces éléments isolément fait bouger l'aiguille de 10 à 15 %. Ensemble, ils se cumulent pour atteindre près de la moitié."
+    },
+    {
+      "heading": "1. La bibliothèque de mots-clés négatifs"
+    },
+    {
+      "text": "Commencez par notre liste de 240 termes négatifs en dermatologie. Elle filtre les clics de curiosité bon marché et les recherches d'informations cliniques avant qu'elles ne vous coûtent un centime. Si quelqu'un cherche sur Google « comment fonctionne Accutane », il s'agit presque certainement d'un étudiant ou d'un patient curieux, et non d'une personne sur le point de prendre rendez-vous – mais votre annonce s'affichera volontiers et dépensera votre budget à leur sujet, à moins que vous ne lui disiez de ne pas le faire."
+    },
+    {
+      "list": [
+        "Termes à intention éducative : « qu'est-ce que », « comment faire », « signification de », « diagramme », « étapes de »",
+        "Termes à intention professionnelle : « salaire dermatologue », « emplois dermatologue près de chez moi », « résidence »",
+        "Termes de bricolage et d'alternatives bon marché : « remède maison », « naturel », « DIY », « pas cher », « gratuit »",
+        "Termes pour public inadapté : étudiant, enfants (sauf si vous servez la pédiatrie), avis, forum, reddit",
+        "Termes de concurrents sauf si vous avez une stratégie de conquête documentée"
+      ]
+    },
+    {
+      "text": "Reconstruisez votre liste négative chaque trimestre. Le comportement de recherche évolue, de nouvelles tendances TikTok génèrent de nouvelles requêtes de curiosité, et un mot-clé propre hier devient un seau qui fuit demain. Une révision trimestrielle de quatre-vingt-dix minutes a un retour sur investissement démesuré."
+    },
+    {
+      "heading": "2. Modèle de page de destination"
+    },
+    {
+      "text": "Le plus grand gain dans l'étude de cas est venu de l'abandon de la page de destination partagée « contactez-nous » et de son remplacement par une offre par campagne. Les campagnes Aesthetic mènent à une page Aesthetic. Les campagnes Acné mènent à une page Acné. Chaque page a le même squelette — héros, preuve, offre, formulaire — mais le contenu est adapté à l'intention du groupe d'annonces."
+    },
+    {
+      "list": [
+        "Une offre par page — ne mélangez jamais l'intention cosmétique et médicale",
+        "Empilement de la confiance au-dessus de la ligne de flottaison : badge certifié par le conseil, note d'avis, nombre de patients",
+        "Formulaire unique avec 4 champs max et aucun téléphone obligatoire",
+        "CTA mobile fixe visible au défilement",
+        "Deux modules de preuve sociale — un carrousel d'avis, un avant/après avec consentement"
+      ]
+    },
+    {
+      "heading": "3. Stratégie d'enchères ancrée sur les réservations, pas sur les prospects"
+    },
+    {
+      "text": "Les algorithmes de Google optimisent pour le signal de conversion que vous leur fournissez. Si vous leur donnez des remplissages de formulaires, ils trouveront les remplissages de formulaires les moins chers – qui sont souvent ceux à la plus faible intention. La clé est de fournir à Google un événement de conversion en aval : « rendez-vous pris » ou « rendez-vous honoré ». Nous le faisons en renvoyant le PMS ou le CRM du cabinet dans Google Ads via le suivi des conversions hors ligne, puis en passant de « Maximiser les conversions » à CPA cible avec une cible liée à l'événement de rendez-vous réservé."
+    },
+    {
+      "text": "Ce seul changement a tendance à augmenter le CPL visible pendant quelques semaines — l'algorithme a besoin de données d'apprentissage — avant de se stabiliser à un coût par patient réservé matériellement plus bas. C'est la métrique qui compte réellement. Un remplissage de formulaire à 60 $ qui ne prend jamais de rendez-vous est plus cher qu'un remplissage de formulaire à 140 $ qui devient un patient à vie."
+    },
+    {
+      "text": "Appliquez ces trois changements pendant un trimestre complet avant de juger du résultat. Quatre-vingt-dix jours suffisent à l'algorithme pour apprendre, à la liste négative pour faire son effet, et aux pages de destination pour accumuler suffisamment de trafic pour les tests A/B. Les cabinets qui abandonnent à la sixième semaine manquent presque toujours l'effet cumulatif."
+    }
+  ],
+  "faqs": null
+}

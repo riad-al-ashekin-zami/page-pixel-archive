@@ -1,0 +1,377 @@
+{
+  "meta": {
+    "title": "Tilleggstjenester for dermatologiske nettsider — Drift, SEO, vekst og integrasjoner",
+    "description": "Premium tilleggstjenester for hudleger: 24/7 vedlikehold, HIPAA-sikker hosting, innhold og CRO, lokal SEO, integrasjon mot pasientjournal (EHR) og fullfunnels vekstsmarkedsføring. Måned til måned.",
+    "og": {
+      "title": "Tilleggstjenester for dermatologiske nettsider",
+      "description": "Styrk din dermatologiske nettside med profesjonell drift, hosting, SEO og integrasjoner – utviklet for vedvarende pasientvekst."
+    },
+    "jsonLd": {
+      "serviceType": "Tilleggstjenester for dermatologiske nettsider",
+      "provider": "DermatologyWebsiteDesign.com",
+      "catalogName": "Tilvalg for dermatologiske nettsider",
+      "breadcrumbs": {
+        "home": "Hjem",
+        "services": "Tjenester",
+        "current": "Tilleggstjenester"
+      }
+    }
+  },
+  "hero": {
+    "badge": "Tilleggstjenester for hudleger",
+    "heading": "Alt annet din klinikk behøver —",
+    "headingAccent": "samlet på én faktura, ett team, ett dashbord.",
+    "description": "HIPAA-sikre tillegg — drift og vedlikehold, hosting, innhold, SEO, integrasjoner og vekstmarkedsføring — utviklet for å øke pasienttilstrømningen hver eneste måned.",
+    "cta": {
+      "bundle": "Sett sammen min pakke",
+      "browse": "Se hele katalogen"
+    },
+    "stats": [
+      {
+        "label": "Tilleggstjenester"
+      },
+      {
+        "label": "Oppetid SLA"
+      },
+      {
+        "label": "Responstid ved nødstilfeller"
+      },
+      {
+        "label": "Ingen binding",
+        "value": "Måned til måned"
+      }
+    ]
+  },
+  "trust": {
+    "audiences": {
+      "label": "Bygget for",
+      "items": [
+        "Spesialistpraksiser",
+        "Dermatologiske klinikker med flere lokasjoner",
+        "Barne- og ungdomsdermatologi",
+        "Mohs-kirurgi og kirurgisk dermatologi"
+      ]
+    },
+    "medicalServices": {
+      "label": "Støtter alle medisinske tjenester",
+      "items": [
+        "Aknebehandling",
+        "Eksembehandling",
+        "Psoriasisbehandling",
+        "Hudinfeksjoner",
+        "Hudallergier",
+        "Føflekkontroll og hudkreftbehandling",
+        "Vurdering og fjerning av føflekker",
+        "Fjerning av cyster og lipomer",
+        "Vortefjerning",
+        "Sykdommer i negler",
+        "Diagnostikk og behandling av hårtap",
+        "Behandling av hodebunnsplager",
+        "Rosaceabehandling",
+        "Hyperpigmentering og melasma",
+        "Arrbehandling",
+        "Behandling av brannskadearr",
+        "Vitiligobehandling",
+        "Hudbiopsi og diagnostikk"
+      ]
+    }
+  },
+  "sections": {
+    "catalog": {
+      "badge": "Katalogen",
+      "heading": "Seks kategorier.",
+      "headingItalic": "Ett dedikert team.",
+      "searchPlaceholder": "Søk blant {{count}}+ tillegg…",
+      "searchAria": "Søk i tilleggstjenester",
+      "noResults": "Ingen treff på \"{{query}}\". Prøv et annet søk.",
+      "serviceCount": "tjenester",
+      "ctaAdd": "Legg {{title}} til i pakken",
+      "categories": {
+        "care": {
+          "title": "Nettsidepleie og vedlikehold",
+          "tagline": "Alltid på. Alltid oppdatert. Alltid din.",
+          "items": [
+            {
+              "name": "Vedlikehold og support",
+              "blurb": "Ukentlige oppdateringer av CMS, plugins og sikkerhet med tekniker på vakt."
+            },
+            {
+              "name": "Nødhjelp",
+              "blurb": "Nede? En fast tekniker svarer i løpet av mindre enn 15 minutter."
+            },
+            {
+              "name": "Migrering av nettside",
+              "blurb": "Flytting uten nedetid med full 301-omdirigering og bevart SEO."
+            },
+            {
+              "name": "Løpende oppdateringer",
+              "blurb": "Innhold, legeprofiler og sesongkampanjer – levert på timer, ikke uker."
+            },
+            {
+              "name": "Månedlige serviceavtaler",
+              "blurb": "Fast månedspris. Alt inkludert. Ingen skjulte kostnader."
+            },
+            {
+              "name": "Daglig backup og gjenoppretting",
+              "blurb": "Kryptert ekstern lagring. Ett-klikks gjenoppretting med 30 dagers historikk."
+            },
+            {
+              "name": "Overvåking av oppetid",
+              "blurb": "Sjekk hvert 60. sekund fra 6 regioner. Vi varsles før pasientene merker noe."
+            },
+            {
+              "name": "Ytelsesovervåking",
+              "blurb": "Core Web Vitals spores daglig. Eventuelle avvik fanges opp umiddelbart."
+            }
+          ]
+        },
+        "hosting": {
+          "title": "Hosting, sikkerhet og etterlevelse",
+          "tagline": "HIPAA-sikker infrastruktur spesialbygget for dermatologi.",
+          "items": [
+            {
+              "name": "Administrert hosting",
+              "blurb": "Edge-caching, automatisk skalering og 99,99 % oppetid SLA."
+            },
+            {
+              "name": "Domene- og DNS-håndtering",
+              "blurb": "Vi håndterer det tekniske slik at domener aldri utløper ved en feil."
+            },
+            {
+              "name": "SSL-oppsett og overvåking",
+              "blurb": "Autofornyede sertifikater med varsling uker før utløp."
+            },
+            {
+              "name": "Sikkerhetsovervåking",
+              "blurb": "24/7 WAF, inntrengningsdeteksjon og sikkerhetsoppdatering."
+            },
+            {
+              "name": "Beskyttelse mot skadevare",
+              "blurb": "Daglige skanninger, umiddelbar karantene og rensegaranti."
+            },
+            {
+              "name": "HIPAA-gjennomgang",
+              "blurb": "Årlig revisjon av skjemaer, hosting, analyse og BAA-avtaler."
+            },
+            {
+              "name": "HIPAA-sikre skjemaer",
+              "blurb": "Krypterte inntaks-, samtykke- og kontaktskjemaer – PHI er trygt."
+            },
+            {
+              "name": "ADA-tilgjengelighet",
+              "blurb": "WCAG 2.1 AA-tilpasning og løpende overvåking av universell utforming."
+            },
+            {
+              "name": "Personvern og informasjonskapsler",
+              "blurb": "GDPR-bannere, samtykkelogger og oppdaterte personvernerklæringer."
+            }
+          ]
+        },
+        "content": {
+          "title": "Innhold og konvertering",
+          "tagline": "Ord og design som forvandler besøkende til pasienter.",
+          "items": [
+            {
+              "name": "Innholdsproduksjon",
+              "blurb": "SEO-optimaliserte sider skrevet for faktiske dermatologiske praksiser."
+            },
+            {
+              "name": "Medisinsk copywriting",
+              "blurb": "Klinisk nøyaktig, pasientvennlig og godkjent av fagpersonell."
+            },
+            {
+              "name": "Bloggadministrasjon",
+              "blurb": "Redaksjonskalender, skriving, publisering og internlenking."
+            },
+            {
+              "name": "Landingssider",
+              "blurb": "Spesialbygde sider for tjenester, kampanjer og annonsetrafikk."
+            },
+            {
+              "name": "Tjenestesider",
+              "blurb": "Konverteringsoptimaliserte sider for hver tilstand eller behandling."
+            },
+            {
+              "name": "Konverteringsoptimalisering (CRO)",
+              "blurb": "Hypotesedrevet A/B-testing på reell pasienttrafikk."
+            },
+            {
+              "name": "Lead-magneter",
+              "blurb": "Hudguider, sjekklister og quizer som fanger opp potensielle pasienter."
+            },
+            {
+              "name": "Nyhetsbrev-oppsett",
+              "blurb": "Branded maler, automatiseringer og segmentering av e-postlister."
+            },
+            {
+              "name": "CTA-optimalisering",
+              "blurb": "Knapper, skjemaer og brukerreiser testet for flere bookinger."
+            }
+          ]
+        },
+        "seo": {
+          "title": "SEO og analyse",
+          "tagline": "Ranger høyere. Mål det som betyr noe. Bevis ROI.",
+          "items": [
+            {
+              "name": "Lokal SEO",
+              "blurb": "Dominer kartresultatene i ditt nærområde."
+            },
+            {
+              "name": "Teknisk SEO-revisjon",
+              "blurb": "Gjennomgang av indeksering, schema, og Core Web Vitals."
+            },
+            {
+              "name": "Implementering av Schema-markup",
+              "blurb": "Strukturert data for MedicalBusiness, FAQ og anmeldelser."
+            },
+            {
+              "name": "Google Business Profile-optimalisering",
+              "blurb": "Bilder, innlegg, Q&A og kategorier – finjustert for lokal synlighet."
+            },
+            {
+              "name": "Analyse og rapportering",
+              "blurb": "Månedlige rapporter på forståelig norsk, knyttet til faktiske bookinger."
+            },
+            {
+              "name": "Sporing av konverteringer",
+              "blurb": "Komplett oppsett av GA4, GTM og CRM-hendelser."
+            },
+            {
+              "name": "Sporing av anrop",
+              "blurb": "Dynamiske numre per kilde. Hver samtale spores korrekt."
+            },
+            {
+              "name": "Heatmaps og brukeratferd",
+              "blurb": "Se nøyaktig hvor pasientene nøler – og fiks det."
+            },
+            {
+              "name": "SEO-konkurrentanalyse",
+              "blurb": "Gap-analyse av klinikkene som rangerer over deg."
+            }
+          ]
+        },
+        "integrations": {
+          "title": "Integrasjoner og automatisering",
+          "tagline": "En sømløs plattform. Ingen dobbeltføring. Ingen tapte henvendelser.",
+          "items": [
+            {
+              "name": "Timebestilling på nett",
+              "blurb": "Zocdoc, NexHealth, Modernizing Medicine – integrert sømløst."
+            },
+            {
+              "name": "Pasientportal-integrasjon",
+              "blurb": "Sikker SSO til din pasientportal, mobilvennlig utført."
+            },
+            {
+              "name": "CRM-integrasjon",
+              "blurb": "HubSpot, Salesforce, Keap – leads flyter inn i sanntid."
+            },
+            {
+              "name": "Live Chat",
+              "blurb": "Hybrid chat med AI og mennesker, trent på dine tjenester og FAQ."
+            },
+            {
+              "name": "E-postmarkedsføring",
+              "blurb": "Mailchimp, Klaviyo, ActiveCampaign eller ConvertKit."
+            },
+            {
+              "name": "Markedsautomatisering",
+              "blurb": "Oppfølgingsløp, påminnelser og bursdagstilbud."
+            },
+            {
+              "name": "Betalingsløsninger",
+              "blurb": "Stripe, Square, CareCredit – HIPAA-sikker utsjekking."
+            },
+            {
+              "name": "Telemedisin-integrasjon",
+              "blurb": "Doxy.me, Zoom for Healthcare eller din eksisterende plattform."
+            },
+            {
+              "name": "Tredjeparts programvare",
+              "blurb": "Uansett API eller verktøy – vi bygger broen."
+            }
+          ]
+        },
+        "growth": {
+          "title": "Vekstmarkedsføring",
+          "tagline": "Økende pasienttilstrømning, måned etter måned.",
+          "items": [
+            {
+              "name": "Omdømmehåndtering",
+              "blurb": "Overvåk, svar på og beskytt klinikkens navn på nettet."
+            },
+            {
+              "name": "System for brukeranmeldelser",
+              "blurb": "Automatiserte forespørsler etter besøk – etisk og skalerbart."
+            },
+            {
+              "name": "Administrasjon av sosiale medier",
+              "blurb": "Innhold, engasjement og strategi for Instagram og TikTok."
+            },
+            {
+              "name": "Google Ads-styring",
+              "blurb": "Søke- og Performance Max-kampanjer optimalisert for lavest pris per booking."
+            },
+            {
+              "name": "Annonsering på Facebook og Instagram",
+              "blurb": "Trakter for estetiske og medisinske tjenester med hyppig fornyelse."
+            },
+            {
+              "name": "Retargeting-kampanjer",
+              "blurb": "Hent tilbake de 96 % som forlot siden uten å booke."
+            },
+            {
+              "name": "Netthandel-markedsføring",
+              "blurb": "Selg hudpleieprodukter på nett – Shopify, annonser, e-post og SEO."
+            },
+            {
+              "name": "Månedlig vekstrapport",
+              "blurb": "Ett dashbord. Reelle tall. Knyttet direkte til din omsetning."
+            }
+          ]
+        }
+      }
+    }
+  },
+  "cta": {
+    "heading": "Usikker på hva du trenger?",
+    "headingItalic": "Få en skreddersydd plan innen 24 timer.",
+    "description": "Del dine mål, nåværende systemer og antall klinikker. Vi sender deg et forslag med priser, tidslinjer og forventet effekt – helt uforpliktende.",
+    "primary": "Be om min pakke",
+    "secondary": "Gratis nettside-revisjon først"
+  },
+  "faq": {
+    "badge": "Vanlige spørsmål om tillegg",
+    "heading": "Svar på det du lurer på.",
+    "description": "Dette spør hudlegeklinikker oss om før de velger tilleggstjenester. Trenger du mer informasjon? Vår komplette FAQ har alle detaljer.",
+    "items": [
+      {
+        "q": "Kan jeg legge til tjenester på min eksisterende plan?",
+        "a": "Ja. Hvert tillegg er designet for å integreres med din nåværende plan hos DermatologyWebsiteDesign.com eller en eksisterende side vi tar over ansvaret for. Pakking av flere tjenester gir rabatter som vises i ditt tilbud."
+      },
+      {
+        "q": "Er disse tilleggstjenestene HIPAA-sikre?",
+        "a": "Alle integrasjoner, skjemaer, hostingvalg og analyseoppsett er HIPAA-sikre som standard. Vi leverer BAA der det er relevant og reviderer PHI-eksponering på tvers av skjemaer, chat og markedsføringspiksler."
+      },
+      {
+        "q": "Må jeg binde meg til en lang kontrakt?",
+        "a": "Nei. Tilvalgene er måned-til-måned med mindre du velger en årsplan for rabatt. Du eier alle verdier — kildekode, innhold, tilgangskoder, backuper — hvis du velger å forlate oss."
+      },
+      {
+        "q": "Hvor raskt kan dere lansere en tilleggstjeneste?",
+        "a": "De fleste integrasjoner, sporingsløsninger og innholdstjenester er operative innen 3–10 virkedager. Større prosjekter som spesialbygde CRO-programmer følger en avtalt fremdriftsplan."
+      },
+      {
+        "q": "Støtter dere nettsider dere ikke har bygget selv?",
+        "a": "Ja. Etter en betalt teknisk revisjon tar vi over ansvaret for eksisterende sider — WordPress, Webflow, spesialbygde eller headless — og implementerer ønskede tilleggstjenester."
+      }
+    ]
+  },
+  "footerLinks": {
+    "prefix": "Relevante sider verdt å lese:",
+    "management": "komplett nettside-administrasjon",
+    "maintenance": "planer for løpende vedlikehold",
+    "pricing": "hva som er inkludert i pakkene"
+  }
+}

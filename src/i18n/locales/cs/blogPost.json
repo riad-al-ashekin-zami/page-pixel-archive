@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "notFoundTitle": "Článek nebyl nalezen — Blog DermGrowth",
+    "titleSuffix": "— Blog DermGrowth",
+    "keywordsTemplate": "{{category}}, marketing pro dermatology, {{title}}",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+    "robotsNoindex": "noindex",
+    "ogType": "article",
+    "publisherName": "DermGrowth"
+  },
+  "breadcrumb": {
+    "home": "Domů",
+    "blog": "Blog"
+  },
+  "notFound": {
+    "code": "404",
+    "title": "Článek nenalezen.",
+    "description": "Článek, který hledáte, byl pravděpodobně přesunut nebo přejmenován.",
+    "backButton": "Zpět na blog"
+  },
+  "header": {
+    "nav": {
+      "blog": "Blog"
+    },
+    "meta": {
+      "readTimeSuffix": "min čtení"
+    }
+  },
+  "actions": {
+    "allArticles": "Všechny články",
+    "share": "Sdílet",
+    "shareOnFacebook": "Sdílet na Facebooku",
+    "shareOnX": "Sdílet na X",
+    "shareOnLinkedIn": "Sdílet na LinkedIn",
+    "shareOnTumblr": "Sdílet na Tumblr",
+    "openInstagram": "Otevřít Instagram"
+  },
+  "faq": {
+    "badge": "Časté dotazy",
+    "heading": "Často kladené otázky"
+  },
+  "related": {
+    "badge": "Přečtěte si také",
+    "heading": "Více z kategorie {{category}}",
+    "viewAll": "Všechny články",
+    "readLabel": "Článek: {{title}}",
+    "readTimeSuffix": "min"
+  },
+  "footerCta": {
+    "prefix": "Pokud pro vás byl článek užitečný, mohlo by vás zajímat:",
+    "moreArticles": "další články pro růst vaší praxe",
+    "caseStudies": "reálné výsledky našich klientů",
+    "freeAudit": "bezplatný audit vašeho webu"
+  }
+}

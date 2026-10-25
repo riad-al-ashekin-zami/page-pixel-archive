@@ -1,0 +1,275 @@
+{
+  "meta": {
+    "title": "FAQ – Tvorba webů pro dermatologii, SEO a HIPAA otázky",
+    "description": "Jasné odpovědi na dotazy ohledně cen, termínů, SEO, HIPAA, redesignu a správy webů pro rostoucí dermatologické kliniky a ordinace.",
+    "keywords": "FAQ dermatologický web, SEO pro dermatology, HIPAA dotazy, cena webu pro dermatology, harmonogram tvorby webu",
+    "breadcrumbList": {
+      "home": "Domů",
+      "faq": "FAQ"
+    }
+  },
+  "hero": {
+    "badge": "{{totalCount}} odpovědí · Specializace na dermatologii",
+    "heading": "Všechny odpovědi, které dermatologická praxe skutečně potřebuje.",
+    "subheading": "Ceny, termíny, SEO, HIPAA, redesigny, migrace i integrace. Konkrétně, narovinu a přímo od týmu, který na vašem projektu bude pracovat.",
+    "search": {
+      "label": "Hledat v FAQ",
+      "placeholder": "Cena, HIPAA, redesign, SEO…",
+      "hint": "Pro hledání stiskněte / nebo ⌘K",
+      "results": "{{count}} nalezená odpověď pro „{{query}}“",
+      "results_plural": "{{count}} nalezených odpovědí pro „{{query}}“"
+    },
+    "stats": [
+      {
+        "label": "Dodání auditu",
+        "value": "24h"
+      },
+      {
+        "label": "Derm. ambulancí",
+        "value": "50+"
+      },
+      {
+        "label": "Lighthouse cíl",
+        "value": "95+"
+      }
+    ]
+  },
+  "navigation": {
+    "skipToContent": "Přeskočit k obsahu",
+    "browseByTopic": "Procházet podle témat",
+    "onThisPage": "Na této stránce",
+    "all": "Vše",
+    "clearFilters": "Vymazat filtry",
+    "askUs": "Zeptejte se nás"
+  },
+  "popular": {
+    "badge": "Nejčastější",
+    "heading": "Populární dotazy"
+  },
+  "searchNoResults": {
+    "heading": "Pro tento dotaz zatím nemáme odpověď.",
+    "subheading": "Zkuste jedno z těchto témat – nebo nám pošlete dotaz a my vám odpovíme do 24 hodin.",
+    "suggested": [
+      "cena",
+      "HIPAA",
+      "termíny",
+      "SEO",
+      "redesign",
+      "EHR"
+    ]
+  },
+  "feedback": {
+    "question": "Byla tato odpověď užitečná?",
+    "success": "Děkujeme za zpětnou vazbu!",
+    "clarify": "Děkujeme – brzy to v textu upřesníme.",
+    "ariaHelpful": "Označit jako užitečné",
+    "ariaNotHelpful": "Označit jako neužitečné"
+  },
+  "categories": {
+    "general": {
+      "title": "Obecné a začátek spolupráce",
+      "short": "Obecné",
+      "intro": "S kým spolupracujeme, jak projekty začínají a co můžete očekávat.",
+      "items": [
+        {
+          "q": "Pro koho weby tvoříte?",
+          "a": "Pracujeme výhradně s dermatologickými praxemi – od soukromých lékařů přes skupinové kliniky až po estetickou, korektivní a dětskou dermatologii. Specializace na jeden segment znamená, že každý prvek webu i integrace jsou už vyladěny podle toho, jak pacienti v dermatologii hledají a objednávají se."
+        },
+        {
+          "q": "Jak projekt začíná?",
+          "a": "Odrazovým můstkem je úvodní konzultace a bezplatný audit vašeho současného webu – zaměříme se na SEO, rychlost, HIPAA, UX a konverze. Poté vypracujeme fixní nabídku s jasnými výstupy, milníky a cenou. Žádné nekonečné hodinové sazby.",
+          "cta": "Jak pracujeme"
+        },
+        {
+          "q": "Nahradíte naši stávající agenturu?",
+          "a": "Někdy ano. Mnoho klientů si nás ponechává jako dlouhodobého partnera pro dermatologický marketing, zatímco s obecnou agenturou řeší tiskoviny nebo PR. Rádi budeme spolupracovat – my si bereme na starost web, SEO a strategii placených kampaní od A do Z."
+        },
+        {
+          "q": "Vlastníme web my?",
+          "a": "Ano. Jste vlastníkem domény, kódové základny, obsahu i každého účtu, který vaším jménem vytvoříme. Nic si nenecháváme jako rukojmí. Pokud byste se rozhodli odejít, vše vám čistě předáme."
+        }
+      ]
+    },
+    "pricing": {
+      "title": "Ceny a termíny",
+      "short": "Ceny",
+      "intro": "Kolik projekty stojí, jak dlouho trvají a jak funguje fakturace.",
+      "items": [
+        {
+          "q": "Kolik stojí web pro dermatologickou praxi?",
+          "a": "Většina našich zakázkových webů se pohybuje v rozmezí 150 000 až 430 000 Kč v závislosti na počtu stran, integraci EHR systému, složitosti galerie výsledků (před/po) a tvorbě obsahu. U skupinových praxí s více lokalitami se cena pohybuje v horním pásmu. Všechny kalkulace jsou fixní.",
+          "cta": "Zobrazit ceník"
+        },
+        {
+          "q": "Jak dlouho trvá tvorba webu?",
+          "a": "Web pro jednu pobočku spustíme za 4–7 týdnů. Projekty pro více lokalit, e-shopy nebo rozsáhlé migrace obsahu trvají 8–12 týdnů. Tyto termíny předpokládají hladkou komunikaci a zpětnou vazbu z vaší strany – máme přesný harmonogram, aby se nic nezaseklo."
+        },
+        {
+          "q": "Nabízíte platební plány?",
+          "a": "Ano – standardně 40 % při zahájení, 40 % po schválení designu a 20 % při spuštění. U větších projektů lze platby rozložit do měsíčních splátek. Marketingová správa je pak fakturována měsíčně."
+        },
+        {
+          "q": "Co je zahrnuto v ceně?",
+          "a": "Strategie, design, vývoj, copywriting, on-page SEO, strukturovaná data, nastavení analytiky, formuláře v souladu s HIPAA, testovací prostředí, QA, spuštění a 30denní podpora po startu. Žádné skryté příplatky."
+        }
+      ]
+    },
+    "seo": {
+      "title": "SEO a růst",
+      "short": "SEO",
+      "intro": "Jak zajistíme přední pozice ve vyhledávání ve vaší oblasti.",
+      "items": [
+        {
+          "q": "Poškodí nový web naše současné SEO?",
+          "a": "Plánujeme to přesně naopak. Auditujeme každou rankující URL, nastavíme 301 přesměrování, zachováme sílu zpětných odkazů a během migrace posílíme on-page signály. Většina klientů vidí stabilizaci nebo zlepšení pozic do 30–60 dnů."
+        },
+        {
+          "q": "Řešíte lokální SEO pro praxe s více pobočkami?",
+          "a": "Ano. Každá pobočka dostane svou optimalizovanou podstránku, sladění s Firemním profilem Google, unikátní texty a strukturovaná data. Sledujeme pozice individuálně pro každou lokalitu a službu, nejen pro homepage."
+        },
+        {
+          "q": "Kdy se dostaví výsledky SEO?",
+          "a": "V lokálních mapách se změny projeví často už během 4–8 týdnů. Konkurenční klíčová slova (Aesthetic, Mohsova mikrochirurgie, laserový resurfacing) obvykle vyžadují 3–6 měsíců soustavné práce. Reportujeme měsíčně s reálnými daty o pozicích a konverzích."
+        },
+        {
+          "q": "Píšete texty za nás?",
+          "a": "Ano, s vaší odbornou revizí. Naši copywriteři se specializují na zdravotnický obsah – píší srozumitelně pro pacienty, dbají na principy E-E-A-T a před publikací vše projde schválením vaším lékařským týmem."
+        }
+      ]
+    },
+    "hipaa": {
+      "title": "HIPAA a shoda",
+      "short": "HIPAA",
+      "intro": "Zajištění bezpečnosti citlivých dat pacientů.",
+      "items": [
+        {
+          "q": "Jsou vaše weby v souladu s HIPAA?",
+          "a": "Stavíme weby plně respektující HIPAA standardy: formuláře využívají TLS šifrování, v analytických nástrojích nejsou žádné PHI informace, s poskytovateli hostingu podepisujeme BAA a firemní workflow nastavujeme tak, aby citlivá data nekončila v nekrytých e-mailech.",
+          "cta": "Získat audit zdarma"
+        },
+        {
+          "q": "Podepisujete BAA (Business Associate Agreement)?",
+          "a": "Ano, u všech služeb, kde je to relevantní (hosting, sběr formulářů, úložiště). Doporučujeme pouze ty partnery, kteří jsou ochotni tuto smlouvu podepsat, pokud se pracuje s PHI."
+        },
+        {
+          "q": "Můžete auditovat naše stávající zabezpečení?",
+          "a": "Ano – je to součást našeho webového auditu zdarma. Prověříme rizikové trackery, nezabezpečené formuláře i úniky PHI skrze URL adresy a vytvoříme seznam prioritních oprav."
+        },
+        {
+          "q": "A co soulad s ADA / přístupností?",
+          "a": "Každý náš web splňuje standardy WCAG 2.2 AA, obsahuje prohlášení o přístupnosti a funkční kanál pro zpětnou vazbu. Přístupnost integrujeme přímo do designu – od kontrastu barev až po ovládání klávesnicí."
+        }
+      ]
+    },
+    "design": {
+      "title": "Design a redesign",
+      "short": "Design",
+      "intro": "Náš přístup k vizuální identitě, uživatelskému zážitku a přestavbě webů.",
+      "items": [
+        {
+          "q": "Je design na míru, nebo používáte šablony?",
+          "a": "Vše je 100% na míru. Každý projekt začíná analýzou vaší značky, potřeb pacientů a nabízených služeb. Nepřevlékáme šablony – každou stránku navrhujeme pro maximální konverze vaší praxe."
+        },
+        {
+          "q": "Můžete navázat na naši stávající značku?",
+          "a": "Ano. Pokud máte brand manuál, budeme se ho držet. Pokud ne, můžeme vaši identitu (logo, barvy, typografii) v rámci projektu osvěžit, aby web působil moderním a uceleným dojmem."
+        },
+        {
+          "q": "Jak redesign ochrání naši stávající návštěvnost?",
+          "a": "Zmapujeme všechny zaindexované stránky, nastavíme přesměrování a nový web ladíme v neveřejném prostředí. Spuštění probíhá pod bedlivým dohledem, abychom jakýkoliv výkyv vyřešili v řádu hodin, ne týdnů."
+        },
+        {
+          "q": "Zajišťujete i fotografie?",
+          "a": "V případě potřeby koordinujeme focení s lokálními fotografy. Pro galerie „před a po“ nastavujeme procesy pro získávání souhlasů a škálovatelný systém, který zvládne obsluhovat váš personál."
+        }
+      ]
+    },
+    "support": {
+      "title": "Podpora a údržba",
+      "short": "Podpora",
+      "intro": "Co se děje po spuštění a jak vám zůstáváme k dispozici.",
+      "items": [
+        {
+          "q": "Co se děje po spuštění webu?",
+          "a": "V ceně máte 30 dní intenzivní podpory. Poté většina klientů přechází na plán péče: aktualizace, monitoring, zálohy, bezpečnostní záplaty, drobné úpravy obsahu a měsíční revize výkonu."
+        },
+        {
+          "q": "Jak rychlá je vaše podpora?",
+          "a": "Klienti s plánem péče dostávají odpověď ve stejný pracovní den. Kritické problémy (pád webu, nefunkční formuláře) řešíme v řádu hodin. Mluvíte se skutečným člověkem, ne s robotem."
+        },
+        {
+          "q": "Zajišťujete hosting?",
+          "a": "Ano. Hostujeme na infrastruktuře splňující HIPAA standardy, s CDN, automatickými zálohami a SSL. Pokud preferujete vlastní hosting, web nasadíme k vám a vše zdokumentujeme."
+        },
+        {
+          "q": "Můžeme si web upravovat sami?",
+          "a": "Ano. Každý web má redakční systém (CMS), ve kterém váš tým zvládne měnit texty, blogové příspěvky, seznamy lékařů i fotky před a po bez nutnosti znát kód."
+        }
+      ]
+    },
+    "integrations": {
+      "title": "Integrace a nástroje",
+      "short": "Integrace",
+      "intro": "Jak web propojíme s vašimi stávajícími systémy.",
+      "items": [
+        {
+          "q": "Propojíte web s naším EHR nebo rezervačním systémem?",
+          "a": "Ano – máme zkušenosti s většinou hlavních derm. systémů (Nextech, ModMed, Zocdoc, Klara a další). Pokud existuje API nebo možnost vložení, čistě je implementujeme. Pokud ne, navrhneme náhradní řešení."
+        },
+        {
+          "q": "Můžeme přes web prodávat produkty?",
+          "a": "Ano. Stavíme zabezpečené e-shopy pro kosmetické řady na platformě Shopify nebo bezhlavém (headless) e-commerce řešení, včetně předplatného a synchronizace skladu."
+        },
+        {
+          "q": "Nastavujete měření hovorů a analytiku?",
+          "a": "Ano. GA4, měření konverzí z volání a formulářů i sledování tržeb podle kanálů. Vše je nastaveno s ohledem na HIPAA standardy."
+        },
+        {
+          "q": "A co e-mail marketing a CRM?",
+          "a": "Propojíme web s vaším stávajícím CRM/ESP nebo doporučíme takové, které vyhovuje potřebám dermatologie. Automatizace následné péče po konzultaci je oblíbeným doplňkem."
+        }
+      ]
+    }
+  },
+  "cta": {
+    "badge": "Máte další otázky?",
+    "heading": "Zeptejte se nás na cokoliv – odpovíme do 24 hodin.",
+    "subheading": "Žádné prodejní skripty, žádné kličkování. Pošlete nám otázku, které se vaše minulá agentura vyhnula, a my vám odpovíme konkrétně.",
+    "buttons": {
+      "contact": "Kontaktujte nás",
+      "audit": "Webový audit zdarma"
+    }
+  },
+  "related": {
+    "badge": "Související",
+    "heading": "Prozkoumejte dále",
+    "items": [
+      {
+        "title": "Webové checklisty",
+        "desc": "108 kontrolních bodů v 9 kategoriích.",
+        "link": "Prozkoumat"
+      },
+      {
+        "title": "Plány a ceny",
+        "desc": "Transparentní balíčky pro každou fázi růstu.",
+        "link": "Prozkoumat"
+      },
+      {
+        "title": "Audit zdarma",
+        "desc": "Personalizovaný report do 24 hodin.",
+        "link": "Prozkoumat"
+      },
+      {
+        "title": "Náš proces",
+        "desc": "Jak postupujeme při realizaci projektů.",
+        "link": "Prozkoumat"
+      }
+    ]
+  },
+  "footerLinks": {
+    "text": "Stále váháte? Mohlo by pomoci: ",
+    "auditLink": "začněte auditem webu zdarma",
+    "caseStudiesLink": "prohlédněte si naše případové studie",
+    "pricingLink": "podívejte se na naši cenovou strukturu"
+  }
+}

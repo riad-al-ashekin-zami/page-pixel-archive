@@ -1,0 +1,370 @@
+{
+  "meta": {
+    "title": "Dermatologian sähköpostimarkkinointi | HIPAA-turvalliset kutsut, uutiskirjeet ja automaatio",
+    "description": "HIPAA-yhteensopivaa sähköpostimarkkinointia ihotautiklinikoille — tervetulosarjat, 6 kuukauden automaattiset kutsut, kausittainen neuvonta ja esteettinen aktivointi. Raportointi varattujen aikojen, ei avausten perusteella.",
+    "og": {
+      "title": "Dermatologian sähköpostimarkkinointi — HIPAA-turvallista ja tuloshakuista",
+      "description": "Räätälöidyt uutiskirjeet, potilastietojärjestelmästä laukeavat muistutukset ja HIPAA-yhteensopiva automaatio ihotautiklinikoille. Klaviyo, HubSpot, Mailchimp."
+    },
+    "twitter": {
+      "title": "Dermatologian sähköpostimarkkinoinnin palvelut",
+      "description": "HIPAA-turvallinen sähköpostimarkkinointi, automaattiset kutsut ja huippuluokan perillemenoaste ihotautiklinikoille."
+    },
+    "jsonLd": {
+      "serviceType": "Sähköpostimarkkinointi ihotautiklinikoille",
+      "providerName": "DermatologyWebsiteDesign.com",
+      "description": "HIPAA-turvallinen sähköpostimarkkinointi, automaattiset kutsut ja uutiskirjepalvelut ihotautiklinikoille.",
+      "breadcrumb": {
+        "home": "Etusivu",
+        "services": "Palvelut",
+        "emailMarketing": "Sähköpostimarkkinointi"
+      }
+    }
+  },
+  "hero": {
+    "badge": "Dermatologian sähköpostimarkkinointi",
+    "title": "Saapuneet-kansioita, jotka täyttävät ajanvarauskirjasi.",
+    "description": "HIPAA-turvallista markkinointia ihotautiklinikoille — tervetulosarjat, automaattiset tarkastuskutsut, kausittainen neuvonta ja esteettinen aktivointi. Jokainen kampanja raportoidaan varattuina käynteinä, ei turhina avauslukuina.",
+    "cta": {
+      "audit": "Maksuton sähköpostiauditointi",
+      "flows": "Katso 5 automaatio-flow’ta"
+    },
+    "stats": {
+      "industryLabel": "alan keskiarvo 21 %",
+      "comparison": "+30 pistettä yli perustason",
+      "opensLabel": "12 480 avausta",
+      "hipaaBadge": "HIPAA-turvallinen",
+      "openRateLabel": "avausprosentti",
+      "openRateDescription": "Kampanjan avausprosentti"
+    }
+  },
+  "outcomes": {
+    "openRate": "Keskimääräinen avausprosentti",
+    "ctr": "Klikkausprosentti",
+    "recallLift": "Kutsu-varaus-suhteen kasvu",
+    "hipaaReview": "HIPAA-turvallinen tekstien tarkistus"
+  },
+  "trustBar": {
+    "title": "Yli 50 ihotautiklinikan luottama",
+    "badges": [
+      "SPF · Vahvistettu",
+      "DKIM · Vahvistettu",
+      "DMARC · Vahvistettu",
+      "CAN-SPAM"
+    ]
+  },
+  "liveActivity": {
+    "title": "Suoraa dataa asiakkaidemme hallintapaneeleista",
+    "status": "Livenä",
+    "actions": {
+      "opened": "avasi",
+      "booked": "varasi ajan",
+      "clicked": "klikkasi"
+    },
+    "events": [
+      {
+        "who": "Jamie R.",
+        "campaign": "Talvi-ihon hoitosuunnitelma",
+        "when": "juuri nyt"
+      },
+      {
+        "who": "Priya K.",
+        "campaign": "6 kk ihotarkastus",
+        "when": "14 s sitten"
+      },
+      {
+        "who": "Marcus T.",
+        "campaign": "Tervetuloa · 3/5",
+        "when": "42 s sitten"
+      },
+      {
+        "who": "Sofia L.",
+        "campaign": "Aesthetic-kanta-asiakkuus",
+        "when": "1 min sitten"
+      },
+      {
+        "who": "David H.",
+        "campaign": "Esteettinen uudelleenaktivointi",
+        "when": "2 min sitten"
+      },
+      {
+        "who": "Ana M.",
+        "campaign": "Aurinkosuojaopas",
+        "when": "3 min sitten"
+      }
+    ]
+  },
+  "flows": {
+    "title": "Automaatiot",
+    "heading": "Viisi automaattista flow'ta, jotka hoitavat klinikkasi viestinnän.",
+    "description": "Laukeavat suoraan potilastietojärjestelmästäsi (PMS/EHR) — tervetuloviestit, kutsut, neuvonta, esteettiset tarjoukset ja raportointi. Kaikki tapahtuu automaattisesti.",
+    "items": [
+      {
+        "step": "VAIHE 01",
+        "title": "Tervetuloa & perehdytys",
+        "desc": "5 sähköpostin sarja uusille potilaille — mitä odottaa, miten valmistautua, vakuutusasiat ja suorat varauslinkit."
+      },
+      {
+        "step": "VAIHE 02",
+        "title": "Kutsut & uudelleenaktivointi",
+        "desc": "6 / 12 kuukauden ihotarkastusmuistutukset automaattisesti järjestelmästäsi — suora seuranta varattuihin aikoihin."
+      },
+      {
+        "step": "VAIHE 03",
+        "title": "Neuvonta & sesongit",
+        "desc": "Akne kesällä, ekseema talvella, aurinkosuoja toukokuussa — 12 kuukauden toimituksellinen kalenteri palveluittesi tueksi."
+      },
+      {
+        "step": "VAIHE 04",
+        "title": "Esteettiset palvelut & lisäedut",
+        "desc": "Suostumukseen perustuvat esteettiset tarjoukset — Aesthetic-edut, lasersarjat ja lääketieteellinen ihonhoito."
+      },
+      {
+        "step": "VAIHE 05",
+        "title": "Raportointi varatuista käynneistä",
+        "desc": "Jokainen kampanja pisteytetään varattujen aikojen ja tuoton perusteella — ei vain avausten mukaan."
+      }
+    ]
+  },
+  "integrations": {
+    "title": "PMS / EHR & Sähköpostialustojen integraatiot",
+    "platforms": [
+      "ModMed / EMA",
+      "Nextech",
+      "DrChrono",
+      "athenahealth",
+      "Klaviyo",
+      "HubSpot",
+      "Mailchimp",
+      "Zapier"
+    ]
+  },
+  "servicesIncluded": {
+    "title": "Mitä palveluun kuuluu",
+    "heading": "Täydellinen sähköpostimarkkinoinnin paketti — kiinteällä kuukausihinnalla.",
+    "items": [
+      {
+        "title": "Strategia & 12 kuukauden kalenteri",
+        "desc": "Kohderyhmien määrittely, listojen siivous, palvelukohtainen kalenteri ja KPI-mittarit varatuille ajoille."
+      },
+      {
+        "title": "Segmentoitu listakokonaisuus",
+        "desc": "Uudet potilaat, aktiiviset, 6 kk tauko, 12 kk tauko, esteettiset hoidot — HIPAA-turvallinen tägitys ja suostumusten hallinta."
+      },
+      {
+        "title": "Yksilölliset pohjat",
+        "desc": "Responsiiviset HTML-pohjat brändisi mukaan — esteettömät kontrastit, dark mode -tuki ja selkeä tekstiversio."
+      },
+      {
+        "title": "Automaattiset flow't & triggerit",
+        "desc": "Tervetuloa, kutsut, syntymäpäivät ja aktivointi — laukeavat potilastietojärjestelmästäsi API:n tai Zapierin kautta."
+      },
+      {
+        "title": "Perillemeno & autentikointi",
+        "desc": "SPF, DKIM, DMARC-määritykset, listojen lämmitys ja maineen seuranta — viestit perille asti, eivät roskapostiin."
+      },
+      {
+        "title": "Analytiikka & varauksien seuranta",
+        "desc": "Avaukset, klikkaukset ja peruutukset yhdistettynä järjestelmäsi ajanvarauksiin — kuukausittainen tulosraportointi."
+      }
+    ]
+  },
+  "deliverability": {
+    "title": "Perillemeno",
+    "heading": "Roskakorista ensisijaiseen kansioon.",
+    "description": "SPF-, DKIM- ja DMARC-autentikoinnit, lähettäjän maineenseuranta ja neljännesvuosittainen listojen puhdistus Google Postmasterin ja Microsoft SNDS:n avulla.",
+    "features": [
+      "SPF · DKIM · DMARC vahvistettu ensi viikolla",
+      "Suunnitelma lähettäjän maineen rakentamiseen siirroissa",
+      "Listojen suursiivous 90 päivän välein",
+      "Viikoittainen virheiden ja valitusten seuranta"
+    ],
+    "gaugeLabel": "Inbox-sijoittuminen",
+    "timeline": "Tyypillinen asiakas, 60–90 päivää aloituksesta."
+  },
+  "abSection": {
+    "title": "Tekstiä, joka muuttaa lukijat potilaiksi",
+    "heading": "Otsikko on joko uusi ajanvaraus tai pyyhkäisy roskiin.",
+    "demoTitle": "Kaksi sanaa muuttaa kaiken.",
+    "badge": "Otsikon A/B-testaus",
+    "inboxPreview": "Esikatselu",
+    "sender": "Klinikkasi",
+    "time": "14.14",
+    "openRateLabel": "Avausprosentti",
+    "whyWins": "Miksi B voittaa:",
+    "buttons": {
+      "version": "Versio",
+      "example": "Esimerkki"
+    },
+    "notes": [
+      "Personointi etunimellä + hyöty edellä -lähestymistapa.",
+      "Täsmällinen ajankohta + vaivattomuutta korostava kieli."
+    ]
+  },
+  "templateGallery": {
+    "title": "Pohjagalleria",
+    "heading": "Jokainen viesti brändisi mukainen — joka kerta.",
+    "description": "Räätälöidyt, responsiiviset pohjat esteettömillä väreillä ja dark mode -tuella.",
+    "cta": "Varaa nyt",
+    "templates": [
+      {
+        "name": "Tervetuloa",
+        "tag": "Sarja · 1/5",
+        "subject": "Tervetuloa klinikalle, Jamie",
+        "body": "Tässä ohjeet ensimmäiselle käynnillesi — sekä 3 asiaa, jotka helpottavat ihotautilääkärin tarkastusta."
+      },
+      {
+        "name": "Kutsu",
+        "tag": "Automaatio · PMS-triggeri",
+        "subject": "Aika 6 kuukauden ihotarkastukselle",
+        "body": "Viime käynnistäsi on 5 kuukautta. Tarkastukset löytävät 95 % ongelmista varhain — varaa uusi aika kahdella klikkauksella."
+      },
+      {
+        "name": "Kausittainen",
+        "tag": "Toimituksellinen · Talvi",
+        "subject": "Talvi-iho kuntoon — terveisin tri Chen",
+        "body": "Kylmä ilma ja kuumat suihkut kuivattavat ihoasi. Tässä on 5 askeleen rutiini, jota asiantuntijamme suosittelevat."
+      }
+    ]
+  },
+  "liftSlider": {
+    "title": "Tehon kasvu",
+    "heading": "12 % avauksista 42 prosenttiin — näe kerrannaisvaikutus.",
+    "description": "Liikuta säädintä nähdäksesi, miten avausprosentin nousu vaikuttaa suoraan varattuihin aikoihin ja liikevaihtoon.",
+    "dragLabel": "Vedä nähdäksesi tehon kasvun",
+    "before": "Ennen:",
+    "after": "Jälkeen:",
+    "metrics": {
+      "booked": "Varaukset / kk",
+      "revenue": "Liikevaihto / kk",
+      "recall": "Kutsujen vasteaste"
+    },
+    "aria": {
+      "slider": "Sähköpostien avausprosentin säädin"
+    }
+  },
+  "testimonials": {
+    "title": "Tuloksia asiakkaillemme",
+    "heading": "Oikeita klinikoita. Mitattavia tuloksia.",
+    "items": [
+      {
+        "quote": "Jo pelkät muistutussähköpostit maksoivat palvelun hinnan takaisin ensimmäisen kuukauden aikana. Ihotarkastusten varaukset kolminkertaistuivat ja viestit kuulostavat oikeasti meidän klinikalta.",
+        "author": "Dr. E. Park, MD",
+        "role": "Yksityislääkäri · Seattle, WA"
+      },
+      {
+        "quote": "Yksi brändi, seitsemän toimipistettä, yksi kalenteri. HIPAA-turvallinen segmentointi oli osa-alue, jota emme koskaan saaneet itse toimimaan.",
+        "author": "Markkinointijohtaja",
+        "role": "Monitoimipisteryhmä · 7 klinikkaa · Texas"
+      },
+      {
+        "quote": "Perillemeno nousi 82 prosentista 98 prosenttiin kuudessa viikossa. Mahdollisuus nähdä varatut ajat tekee sähköpostimarkkinoinnin panostuksista vihdoin perusteltuja osakkaille.",
+        "author": "Klinikkapäällikkö",
+        "role": "Mohs-kirurgia & sairaaladermatologia · Boston"
+      }
+    ]
+  },
+  "audiences": {
+    "title": "Kenelle palvelu on",
+    "heading": "Sopii kaikenlaisille ihotautiklinikoille.",
+    "items": [
+      {
+        "title": "Yksityisvastaanotot",
+        "desc": "Lääkärin omalla äänellä kirjoitetut kirjeet, jotka pitävät kalenterin täynnä — tervetuloa, aktivointi ja jälkihoito samassa kalenterissa."
+      },
+      {
+        "title": "Monitoimipisteklinikat",
+        "desc": "Toimipistekohtaiset lähetykset yhteisillä pohjilla — yksi hallintapaneeli, yhtenäinen analytiikka ja HIPAA-turvallinen jako."
+      },
+      {
+        "title": "Lastendermatologia",
+        "desc": "Vanhemmille suunnattu neuvonta — ekseemakaudet, koulujen alku ja hienovaraiset tarkastusmuistutukset."
+      },
+      {
+        "title": "Mohs- & kirurginen dermatologia",
+        "desc": "Valmistautumisohjeet, post-operatiivinen seuranta ja ihosyöpäseulonnan rytmi — ajoitettuna kliinisiin virstanpylväisiin."
+      }
+    ]
+  },
+  "medicalServices": {
+    "title": "Tuetut lääketieteelliset palvelut",
+    "heading": "Sähköpostivirrat optimoituna jokaiseen palveluun.",
+    "description": "Jokaisella palvelulla on oma suostumukseen perustuva neuvontarytminsä, kutsuvälinsä ja aktivointitekstinsä.",
+    "list": [
+      "Aknen hoito",
+      "Ekseeman hoito",
+      "Psoriasiksen hoito",
+      "Ihoinfektioiden hoito",
+      "Ihoallergioiden tutkimus",
+      "Ihosyövän seulonta ja hoito",
+      "Luomien tarkastus ja poisto (lääketieteellinen)",
+      "Kystien ja lipoomien poisto",
+      "Syylien poisto",
+      "Kynsivaivojen hoito",
+      "Hiustenlähdön diagnostiikka ja lääkehoito",
+      "Hiuspohjan sairauksien hoito",
+      "Rosacean hoito",
+      "Häiriintyneen pigmentaation ja melasman hoito (lääketieteellinen)",
+      "Arpien hoito (vammat, leikkaukset, sairaudet)",
+      "Palovamma-arpien hoito",
+      "Vitiligon hoito",
+      "Ihovirheet ja diagnostiset toimenpiteet"
+    ]
+  },
+  "faq": {
+    "title": "UKK",
+    "heading": "Kysymyksiä, joita klinikat pohtivat ennen aloitusta.",
+    "items": [
+      {
+        "q": "Onko HIPAA-yhteensopiva sähköpostimarkkinointi todella mahdollista?",
+        "a": "Kyllä — tiukkojen sääntöjen puitteissa. Emme koskaan sisällytä suojattuja terveystietoja (PHI) viestin sisältöön, otsikoihin tai seurantaan. Segmentointi käyttää vain yleisiä tägejä (kiinnostus, kampanja, suostumus). Kun tarvitaan potilastietoja (esim. potilaskorttiin sidotut linkit), ohjaamme käyttäjän suoraan suojattuun potilasportaaliin sen sijaan, että tietoja avattaisiin sähköpostissa."
+      },
+      {
+        "q": "Mitä alustoja ja potilastietojärjestelmiä tuette?",
+        "a": "Käytämme klinikkasi koon mukaan Klaviyoa, HubSpotia, Mailchimpia tai Customer.iota. Kliinisellä puolella integroimme järjestelmiin kuten ModMed / EMA, Nextech, DrChrono ja athenahealth API:n, HL7:n tai Zapierin kautta — automaatiot perustuvat todelliseen dataan, eivät manuaalisiin listoihin."
+      },
+      {
+        "q": "Miten mittaatte tuloksia?",
+        "a": "Jokainen kampanja raportoidaan varattuina aikoina ja tuottona, ei vain avauksina. Käytämme UTM-tageja jokaisessa linkissä ja yhdistämme klikkaukset klinikkasi ajanvarausjärjestelmään, jolloin näemme suoran vaikutuksen liikevaihtoon."
+      },
+      {
+        "q": "Miten varmistatte viestien perillemenon?",
+        "a": "Määrityksiin kuuluvat SPF, DKIM ja DMARC -autentikoinnit sekä tekninen ”warm-up” uudelle alustalle siirryttäessä. Puhdistamme listat säännöllisesti ja seuraamme lähettäjän mainetta Google Postmasterin ja Microsoft SNDS:n kautta. Pystymme tyypillisesti nostamaan perillemenon 80-luvulta lähelle sataa prosenttia parissa kuukaudessa."
+      },
+      {
+        "q": "Kuinka usein lähetätte viestejä potilaille?",
+        "a": "Rytmi sovitetaan listallesi sopivaksi. Useimmat klinikat lähettävät 2 neuvovaa kirjettä kuukaudessa plus automaattiset viestit (tervetuloa, kutsut, syntymäpäivät). Seuraamme tarkasti peruutuksia ja valituksia, jotta emme koskaan lähetä liikaa postia."
+      },
+      {
+        "q": "Kirjoitatteko te tekstit vai meidän tiimimme?",
+        "a": "Me kirjoitamme kaiken — otsikot, sisällöt ja tekstiversiot — lääkärin äänellä ja HIPAA-tarkastuslistaa noudattaen. Tiiminne hyväksyy jokaisen kampanjan jaetussa kalenterissa ennen lähetystä."
+      },
+      {
+        "q": "Miten hinnoittelu toimii?",
+        "a": "Kiinteä kuukausihinta, joka perustuu listan kokoon ja viestimääriin. Hinta sisältää strategian, sisällöt, ulkoasun, automaatiot, integraatiot ja raportoinnin. Ei piilokuluja tai sitovia pitkiä sopimuksia alkujakson jälkeen."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Muuta potilaslistasi tärkeimmäksi varauskanavaksesi.",
+    "description": "Maksuton 30 minuutin auditointi — perillemenon tarkistus, listan kunto ja 90 päivän automaatiosuunnitelma. Ei painetta, ei sitoumuksia.",
+    "auditBtn": "Maksuton auditointi",
+    "contactBtn": "Ota yhteyttä",
+    "sticky": {
+      "audit": "Maksuton auditointi",
+      "ariaPhone": "Ota yhteyttä"
+    }
+  },
+  "footerLinks": {
+    "preface": "Saatat olla kiinnostunut myös näistä:",
+    "reputation": "maineenhallinta ja arvostelut",
+    "social": "sosiaalisen median tarinankerronta",
+    "cro": "laskeutumissivut, jotka konvertoivat"
+  },
+  "inboxCard": {
+    "conversionNote": "Lisäämme viesteihin ohjeet, vakuutusinfot ja pikalinkit varaukseen — suunniteltu konvertoimaan rikkomatta HIPAA-säädöksiä.",
+    "aria": {
+      "expand": "Sähköpostin esikatselu — klikkaa nähdäksesi sisältö"
+    }
+  }
+}

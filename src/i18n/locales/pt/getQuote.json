@@ -1,0 +1,285 @@
+{
+  "meta": {
+    "title": "Pedir Orçamento Gratuito — Design de Websites de Dermatologia",
+    "description": "Peça um orçamento personalizado para o website da sua clínica de dermatologia. Preços transparentes, proposta detalhada em 24 horas.",
+    "ogTitle": "Pedir Orçamento Gratuito — Design de Websites de Dermatologia",
+    "ogDescription": "Fale-nos sobre a sua clínica e receba uma proposta personalizada no prazo de 24 horas."
+  },
+  "hero": {
+    "badge": "Orçamento Gratuito",
+    "title": "Peça um",
+    "titleHighlight": "orçamento personalizado",
+    "titleSuffix": "para a sua clínica.",
+    "description": "Fale-nos um pouco sobre a sua clínica de dermatologia e os seus objetivos. Enviaremos uma proposta à sua medida — com preços transparentes e um plano de ação claro — em 24 horas.",
+    "features": [
+      "Resposta em 24 horas",
+      "Sem qualquer compromisso",
+      "Preços transparentes"
+    ],
+    "trust": {
+      "repliesWithin": "Respondemos em",
+      "repliesValue": "24 horas",
+      "launchedValue": "+50",
+      "launchedText": "sites de dermatologia lançados",
+      "focusValue": "100%",
+      "focusText": "foco exclusivo em dermatologia"
+    }
+  },
+  "sidebar": {
+    "whatHappensNext": {
+      "title": "O que acontece a seguir",
+      "steps": [
+        "Analisamos o seu pedido e o site atual.",
+        "A nossa equipa elabora um plano de trabalho e proposta.",
+        "Recebe preços, prazos e próximos passos em 24 horas."
+      ]
+    },
+    "preferToTalk": {
+      "title": "Prefere falar connosco?",
+      "email": "info@dermatologywebsitedesign.com",
+      "chat": "Conversar no WhatsApp"
+    },
+    "guarantee": {
+      "title": "Garantia de Satisfação a 100%",
+      "description": "Sem compromissos nem pressões. Se a nossa proposta não for o que procura, pode desistir — sem perguntas.",
+      "benefits": [
+        "Sem spam, nunca",
+        "Privacidade total de dados",
+        "Cancele em qualquer altura"
+      ]
+    }
+  },
+  "form": {
+    "success": {
+      "title": "Obrigado — o seu pedido foi enviado.",
+      "description": "Um membro da nossa equipa entrará em contacto em 24 horas com a sua proposta personalizada."
+    },
+    "progress": {
+      "step": "Passo",
+      "of": "de",
+      "labels": [
+        "Contacto",
+        "Website",
+        "Serviços",
+        "Orçamento"
+      ]
+    },
+    "sections": {
+      "contactInfo": "Informações de Contacto",
+      "websiteDetails": "Detalhes do Website",
+      "helpWith": "Em que podemos ajudar?",
+      "budgetTimeline": "Orçamento e Prazos"
+    },
+    "fields": {
+      "yourName": {
+        "label": "O seu nome",
+        "placeholder": "Dr. João Silva"
+      },
+      "workEmail": {
+        "label": "E-mail profissional",
+        "placeholder": "você@suaclinica.pt"
+      },
+      "phone": {
+        "label": "Telefone",
+        "placeholder": "+351 000 000 000",
+        "hint": "(opcional)"
+      },
+      "practiceName": {
+        "label": "Nome da clínica",
+        "placeholder": "Clínica DermatoCare"
+      },
+      "currentWebsite": {
+        "label": "Website atual",
+        "placeholder": "suaclinica.pt",
+        "hint": "(opcional)"
+      },
+      "numberOfLocations": {
+        "label": "Número de localizações",
+        "select": "Selecionar"
+      },
+      "websiteSize": {
+        "label": "Tamanho do website",
+        "select": "Selecionar"
+      },
+      "adminAccess": {
+        "label": "Tem acesso de administrador?"
+      },
+      "estimatedBudget": {
+        "label": "Orçamento estimado",
+        "select": "Selecione um intervalo"
+      },
+      "urgency": {
+        "label": "Para quando precisa do projeto?",
+        "select": "Selecione a urgência"
+      },
+      "projectDetails": {
+        "label": "Detalhes do projeto",
+        "placeholder": "Fale-nos dos seus objetivos, localizações e qualquer detalhe específico que tenha em mente.",
+        "hint": "(opcional)"
+      }
+    },
+    "servicesText": {
+      "select": "Selecione todas as opções aplicáveis. Escolheu",
+      "service": "serviço",
+      "services": "serviços"
+    },
+    "buttons": {
+      "back": "Voltar",
+      "continue": "Continuar",
+      "sending": "A enviar...",
+      "submit": "Pedir o meu Orçamento Gratuito"
+    },
+    "footerText": "Os seus dados estão 100% seguros. Sem spam, nunca.",
+    "validation": {
+      "name": "Por favor, introduza o seu nome",
+      "email": "Introduza um e-mail válido",
+      "practiceName": "Introduza o nome da sua clínica",
+      "service": "Selecione pelo menos um serviço",
+      "locations": "Selecione o número de localizações",
+      "websiteSize": "Selecione o tamanho do website",
+      "adminAccess": "Indique se tem acesso de administrador",
+      "budget": "Selecione um orçamento",
+      "urgency": "Selecione a urgência",
+      "completeStep": "Por favor, complete este passo",
+      "checkForm": "Por favor, verifique o formulário",
+      "wait": "Por favor, aguarde {{seconds}}s antes de tentar enviar novamente."
+    }
+  },
+  "options": {
+    "services": [
+      "Design de Website",
+      "Redesign de Website",
+      "Migração de Website",
+      "Galeria Antes e Depois",
+      "SEO / SEO Local",
+      "Google Ads / PPC",
+      "Site Multi-localização",
+      "E-Commerce",
+      "Portal do Paciente",
+      "Reputação e Avaliações",
+      "Conteúdos e Copywriting",
+      "Gestão e Manutenção"
+    ],
+    "locations": [
+      "1 localização",
+      "2-3 localizações",
+      "4-10 localizações",
+      "Mais de 10 localizações"
+    ],
+    "pages": [
+      "1 página",
+      "5–8 páginas",
+      "10–15 páginas",
+      "15–20 páginas",
+      "20+ páginas"
+    ],
+    "admin": [
+      "Sim",
+      "Não",
+      "Não tenho a certeza"
+    ],
+    "budgets": [
+      "Menos de $1k",
+      "$1k – $2k",
+      "$4k – $5k",
+      "$7k – $10k",
+      "$10k+"
+    ],
+    "urgencies": [
+      "Em 48 horas",
+      "Em 7 dias",
+      "Em 1 mês",
+      "Em 3 meses",
+      "Em 6 meses",
+      "Sem pressa / Flexível"
+    ]
+  },
+  "sections": {
+    "whyQuote": {
+      "title": "Porquê pedir um",
+      "titleHighlight": "orçamento?",
+      "subtitle": "Valores reais, ajustados à sua clínica — sem qualquer obrigação.",
+      "items": [
+        {
+          "title": "100% Grátis e Sem Compromisso",
+          "body": "Receba valores reais personalizados ao tamanho da sua clínica, plataforma e objetivos."
+        },
+        {
+          "title": "À Medida da Sua Clínica",
+          "body": "Cada clínica de dermatologia é única. Orçamentos baseados no seu CMS, localizações e serviços."
+        },
+        {
+          "title": "Preços Transparentes",
+          "body": "Detalharmos tarefas, prazos e entregáveis — saberá exatamente pelo que está a pagar."
+        },
+        {
+          "title": "Resposta Rápida",
+          "body": "A nossa equipa analisa o seu pedido imediatamente e responde em 24 horas ou menos."
+        }
+      ]
+    },
+    "whatWeCanHelpWith": {
+      "title": "Como o podemos",
+      "titleHighlight": "ajudar",
+      "subtitle": "Os nossos orçamentos cobrem todo o espectro de serviços digitais para dermatologia.",
+      "footer": "Precisa de algo específico? Basta mencionar — personalizamos cada plano.",
+      "categories": [
+        {
+          "label": "Design",
+          "items": [
+            "Design de Sites à Medida",
+            "Redesign de Sites",
+            "Migração de Sites",
+            "Sites Multi-localização",
+            "Galerias de Antes e Depois",
+            "Portais do Paciente"
+          ]
+        },
+        {
+          "label": "Crescimento",
+          "items": [
+            "SEO para Dermatologia",
+            "SEO Local",
+            "Google Ads / PPC",
+            "E-Commerce",
+            "Conteúdos e Copywriting",
+            "Analytics e CRO"
+          ]
+        },
+        {
+          "label": "Cuidado",
+          "items": [
+            "Reputação e Avaliações",
+            "Otimização de Velocidade",
+            "Alojamento com Norma HIPAA",
+            "Gestão e Manutenção"
+          ]
+        }
+      ]
+    },
+    "howItWorks": {
+      "title": "Como",
+      "titleHighlight": "funciona",
+      "subtitle": "Do pedido à proposta em quatro passos simples.",
+      "stepLabel": "Passo",
+      "items": [
+        {
+          "title": "Submeta o Formulário",
+          "body": "Partilhe detalhes da clínica, o site atual e em que áreas precisa de assistência."
+        },
+        {
+          "title": "Análise Especializada",
+          "body": "A nossa equipa analisa o seu site, o estado do SEO e os requisitos técnicos."
+        },
+        {
+          "title": "Receba o seu Orçamento",
+          "body": "Obtenha uma proposta detalhada e personalizada — clara, simples e transparente."
+        },
+        {
+          "title": "Comece com Confiança",
+          "body": "Aprove o plano e damos início ao projeto com um processo de integração estruturado."
+        }
+      ]
+    }
+  }
+}

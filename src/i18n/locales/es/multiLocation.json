@@ -1,0 +1,442 @@
+{
+  "meta": {
+    "title": "Diseño Web para Dermatología Multi-Sede | Una Marca, Cada Ciudad",
+    "description": "Diseño premium de sitios web dermatológicos para múltiples sedes. Sistema de marca unificado, SEO por ubicación, Google Business Profile por clínica y reserva centralizada. HIPAA-aware. Posiciónese en cada ciudad donde opere.",
+    "og_title": "Diseño Web para Dermatología Multi-Sede | Una Marca, Cada Ciudad",
+    "og_description": "Diseñe un sitio web dermatológico con control de marca que posicione por ciudad, convierta por sede y escale con su red. HIPAA-aware, Lighthouse 95+, SEO local real.",
+    "jsonLd": {
+      "serviceType": "Diseño Web para Dermatología Multi-Sede",
+      "providerName": "DW Design",
+      "audienceType": "Clínicas Dermatológicas Multi-Sede",
+      "offerDescription": "Diseño de sitios web para dermatología multi-sede — precio inicial"
+    }
+  },
+  "hero": {
+    "badge": "Una marca · Cada ciudad · Totalmente indexado",
+    "title": "Diseño web para dermatología multi-sede que posiciona en cada ciudad donde abre.",
+    "description": "Un sistema de marca unificado con páginas indexadas individuales por clínica, schema por ubicación, GBP, reseñas y citas. Así, un paciente en Austin y otro en Plano verán una consulta dermatológica local, no una cadena corporativa.",
+    "cta": "Planificar mi sitio multi-sede",
+    "secondary_cta": "Auditoría gratuita de SEO local",
+    "stats": {
+      "brand": {
+        "value": "1 marca",
+        "description": "Sistema de diseño unificado"
+      },
+      "locations": "Sedes escaladas hasta",
+      "performance": "Lighthouse en cada página"
+    },
+    "rank_badge": {
+      "label": "Ranking local en vivo",
+      "value": "Top 3",
+      "subtext": "en cada ciudad activa, ≤ 60 días"
+    },
+    "image_alt": "Mapa de red de clínicas dermatológicas con panel de control de marca unificado"
+  },
+  "scaler": {
+    "eyebrow": "Interactivo · Escalador de Sedes",
+    "title": "Deslice para previsualizar su huella local.",
+    "description": "Vea cuántas páginas locales indexadas incluirá su sitio: una por clínica, más las páginas de servicios principales por ciudad.",
+    "label": "Sedes:",
+    "range_hint": "2 – 10",
+    "stat_indexed": "Páginas locales indexadas",
+    "stat_gbp": "GBPs verificados y vinculados",
+    "browser_placeholder": "tuclinica.com/sedes",
+    "local_number": "Número local"
+  },
+  "sections": {
+    "audiences": {
+      "eyebrow": "Para quién es esto",
+      "title": "Creado para marcas dermatológicas que viven en más de un código postal.",
+      "items": [
+        {
+          "label": "Dermatólogos independientes en expansión",
+          "desc": "Al abrir su 2ª o 3ª oficina, superando las capacidades de un sitio de una sola página."
+        },
+        {
+          "label": "Clínicas Multi-Sede",
+          "desc": "De 3 a 20 oficinas bajo una sola marca, con necesidad de posicionamiento por ciudad y un solo CMS."
+        },
+        {
+          "label": "Grupos de Dermatología Pediátrica",
+          "desc": "Captación de pacientes enfocada en padres con asignación de proveedores por sede."
+        },
+        {
+          "label": "Redes Quirúrgicas y de Mohs",
+          "desc": "Portales para médicos referentes con contenido de casos por clínica."
+        }
+      ]
+    },
+    "problems": {
+      "eyebrow": "Lo que solucionamos",
+      "title": "La mayoría de los sitios multi-sede son solo una plantilla básica disfrazada.",
+      "description": "Google ve una sola página. Los pacientes ven una sola dirección. Las reseñas se acumulan en la oficina que se indexó primero. Reconstruimos la arquitectura desde cero.",
+      "labels": {
+        "before": "Antes",
+        "after": "Después"
+      },
+      "items": [
+        {
+          "before": "Una página de contacto para 6 clínicas",
+          "after": "6 páginas locales indexadas"
+        },
+        {
+          "before": "Mismo H1 en cada ubicación",
+          "after": "H1 específico por ciudad + schema"
+        },
+        {
+          "before": "GBP sin reclamar o verificar",
+          "after": "GBP por clínica, vinculado al sitio"
+        },
+        {
+          "before": "Pacientes reservan en la sede errónea",
+          "after": "Reserva inteligente por ZIP + URL"
+        },
+        {
+          "before": "Reseñas compartidas, sin confianza local",
+          "after": "Reseñas y valoraciones por sede"
+        },
+        {
+          "before": "Añadir sede = 6 semanas de rediseño",
+          "after": "Nueva sede activa en < 7 días"
+        }
+      ]
+    },
+    "pillars": {
+      "eyebrow": "El sistema",
+      "title": "Seis pilares detrás de cada desarrollo multi-sede.",
+      "items": [
+        {
+          "title": "Sistema de Marca Controlado",
+          "desc": "Un solo lenguaje de diseño y librería de componentes que cada sede hereda automáticamente."
+        },
+        {
+          "title": "SEO por ubicación",
+          "desc": "URLs, schema, H1s y contenido único para cada oficina, indexadas como clínicas individuales."
+        },
+        {
+          "title": "Enrutamiento inteligente",
+          "desc": "Detector de código postal y CTAs adaptables. Los pacientes nunca reservan en la clínica equivocada."
+        },
+        {
+          "title": "Reseñas por Sede",
+          "desc": "Valoraciones recopiladas y marcadas individualmente por clínica para una prueba social local real."
+        },
+        {
+          "title": "Reserva Unificada, Agendas Locales",
+          "desc": "Flujo de paciente único con N calendarios. Proveedores, horarios y seguros específicos por sede."
+        },
+        {
+          "title": "Normativa HIPAA Integral",
+          "desc": "Formularios de registro, portales y analíticas con BAA en cada una de las ubicaciones."
+        }
+      ]
+    },
+    "architecture": {
+      "eyebrow": "Arquitectura de URL",
+      "title": "Cada sede tiene su propio hogar indexable.",
+      "description": "Google trata a cada oficina como una clínica distinta. Los pacientes aterrizan en la página de la ciudad relevante para su búsqueda. Reseñas, horarios y seguros se mantienen vinculados a la oficina correcta.",
+      "items": [
+        "Índice de sedes: /sedes",
+        "Página de sede: /sedes/madrid",
+        "Servicio local: /sedes/madrid/tratamiento-acne",
+        "Bio de proveedor: /sedes/madrid/dra-garcia",
+        "Datos estructurados: LocalBusiness + MedicalClinic por URL"
+      ],
+      "visual": {
+        "title": "Plano de URLs",
+        "status": "Indexado"
+      }
+    },
+    "seoMatrix": {
+      "eyebrow": "Matriz de SEO Local",
+      "title": "Cada ciudad x cada servicio, indexado y posicionado.",
+      "description": "Ejemplo para una marca de 4 sedes: 12 servicios principales x 4 ciudades = 48 páginas locales posicionadas individualmente.",
+      "table": {
+        "head_service": "Servicio",
+        "cities": [
+          "Austin, TX",
+          "Plano, TX",
+          "Fort Worth, TX",
+          "Round Rock, TX"
+        ],
+        "services": [
+          "Tratamiento de Acné",
+          "Tratamiento de Eczema",
+          "Detección de Cáncer de Piel",
+          "Eliminación de Lunares",
+          "Tratamiento de Rosácea",
+          "Tratamiento de Psoriasis"
+        ]
+      }
+    },
+    "medicalServices": {
+      "eyebrow": "Servicios médicos cubiertos",
+      "title": "Cada servicio médico necesario, por ubicación.",
+      "description": "Cada clínica muestra solo los servicios que realmente ofrece, vinculados a seguros y especialistas locales. Sin confusiones ni citas fallidas.",
+      "list": [
+        "Tratamiento de Acné",
+        "Tratamiento de Eczema",
+        "Tratamiento de Psoriasis",
+        "Infecciones cutáneas",
+        "Alergias dermatológicas",
+        "Cáncer de Piel: Detección y Tratamiento",
+        "Evaluación y Eliminación de Lunares",
+        "Eliminación de Quistes y Lipomas",
+        "Eliminación de Verrugas",
+        "Tratamiento de Uñas",
+        "Tratamiento de Alopecia",
+        "Trastornos del Cuero Cabelludo",
+        "Tratamiento de Rosácea",
+        "Hiperpigmentación y Melasma",
+        "Tratamiento de Cicatrices",
+        "Cicatrices por Quemaduras",
+        "Tratamiento de Vitíligo",
+        "Biopsia y Diagnóstico Cutáneo"
+      ]
+    },
+    "deliverables": {
+      "eyebrow": "Qué incluye",
+      "title": "12 entregables concretos para el lanzamiento.",
+      "list": [
+        "Sistema de diseño multi-sede unificado",
+        "Landing page única por ubicación de clínica",
+        "Schema LocalBusiness + MedicalClinic por sede",
+        "Configuración de Google Business Profile por sede",
+        "Selector de ubicación por código postal",
+        "Bios de especialistas y fotografía por oficina",
+        "Páginas de servicios por ciudad (Top servicios x N ciudades)",
+        "Captación y visualización de reseñas por sede",
+        "Flujo de reserva unificado con contexto local",
+        "Formularios HIPAA-aware en todas las sedes",
+        "Core Web Vitals 95+ en todas las páginas locales",
+        "Panel de analíticas segmentado por ubicación"
+      ]
+    },
+    "timeline": {
+      "eyebrow": "El proceso",
+      "title": "Seis hitos. Una fecha de lanzamiento.",
+      "steps": [
+        {
+          "step": "01",
+          "title": "Auditoría de Marca y Sedes",
+          "desc": "Inventariamos cada sede, proveedor e información de GBP. Identificamos duplicados y brechas en la información de contacto (NAP)."
+        },
+        {
+          "step": "02",
+          "title": "Sistema de Diseño Controlado",
+          "desc": "Kit de marca y librería de componentes únicos. Cada página de sede hereda este diseño para mantener la coherencia total."
+        },
+        {
+          "step": "03",
+          "title": "IA y Contenido por Sede",
+          "desc": "Estructura de URLs, H1s por ciudad, asignación de especialistas y pautas de contenido local único."
+        },
+        {
+          "step": "04",
+          "title": "Desarrollo y Conexión SEO Local",
+          "desc": "Sedes con schema, mapas embebidos, NAP y páginas de servicios específicos por ciudad."
+        },
+        {
+          "step": "05",
+          "title": "QA Multidispositivo y Revisión HIPAA",
+          "desc": "Pruebas en escritorio, tablet y móvil. Auditoría de formularios bajo acuerdo BAA."
+        },
+        {
+          "step": "06",
+          "title": "Lanzamiento y Activación Local",
+          "desc": "Verificación de GBP, alineación de menciones y configuración de GA4 por sede. Monitoreo de ranking por 90 días."
+        }
+      ]
+    },
+    "comparison": {
+      "eyebrow": "Por qué no elegir la alternativa",
+      "title": "DIY, agencia generalista o expertos en redes dermatológicas.",
+      "table": {
+        "head_capability": "Capacidad",
+        "head_diy": "Plataforma DIY",
+        "head_generic": "Agencia Generalista",
+        "head_dw": "DW Design",
+        "recommended": "RECOMENDADO",
+        "rows": [
+          "Página única indexada por sede",
+          "Schema LocalBusiness por clínica",
+          "Configuración de Google Business Profile por sede",
+          "Flujo de reserva inteligente por ZIP/URL",
+          "Sistema de marca escalable a +N sedes",
+          "Reseñas por sede con schema",
+          "Formularios HIPAA-aware en cada sede",
+          "Lighthouse 95+ en cada página local"
+        ]
+      }
+    },
+    "pricing": {
+      "eyebrow": "Inversión",
+      "title": "Precios basados en el número de clínicas.",
+      "custom_quote_text": "Para más de 10 sedes, grupos corporativos o redes con respaldo de DSO, solicite una cotización personalizada.",
+      "custom_quote_link": "solicite una cotización personalizada",
+      "starting_label": "desde",
+      "most_popular": "Más popular",
+      "market_label": "Mercado:",
+      "tiers": [
+        {
+          "name": "2–3 Sedes",
+          "price": "$6,900",
+          "tag": "Práctica en Crecimiento",
+          "market": "$15,000 – $28,000",
+          "savings": "54–75% más económico",
+          "features": [
+            "Sistema de marca controlado",
+            "Hasta 3 páginas de sedes indexadas",
+            "Schema LocalBusiness por clínica",
+            "Configuración de GBP por sede",
+            "Reserva unificada personalizada",
+            "Lanzamiento en 5–7 semanas"
+          ]
+        },
+        {
+          "name": "4–6 Sedes",
+          "price": "$11,400",
+          "tag": "Más Popular",
+          "market": "$25,000 – $50,000",
+          "savings": "54–77% más económico",
+          "features": [
+            "Todo lo de Práctica en Crecimiento",
+            "Hasta 6 páginas de sedes indexadas",
+            "Páginas de servicios por ciudad",
+            "Captación de reseñas por sede",
+            "Detector de ubicación por ZIP",
+            "Lanzamiento en 7–9 semanas"
+          ]
+        },
+        {
+          "name": "7–10 Sedes",
+          "price": "$18,900",
+          "tag": "Red Regional",
+          "market": "$45,000 – $90,000",
+          "savings": "58–79% más económico",
+          "features": [
+            "Todo lo de Más Popular",
+            "Hasta 10 páginas de sedes indexadas",
+            "Asignación de especialista por sede",
+            "Base de datos de seguros por clínica",
+            "Panel de analíticas avanzado",
+            "Lanzamiento en 9–12 semanas"
+          ]
+        }
+      ],
+      "cta": "Empezar ahora"
+    },
+    "gallery": {
+      "eyebrow": "Proyectos reales",
+      "title": "Un sistema sólido en clínicas reales.",
+      "description": "Interiores de dos sedes de marcas dermatológicas activas que hemos lanzado. Identidad anonimizada por cumplimiento HIPAA y acuerdos de confidencialidad (NDA).",
+      "nda_badge": "NDA",
+      "items": [
+        {
+          "label": "Recepción · Sede A",
+          "city": "Área metropolitana de Austin"
+        },
+        {
+          "label": "Sala de tratamiento · Sede B",
+          "city": "Área de Dallas-Fort Worth"
+        }
+      ]
+    },
+    "caseStudy": {
+      "eyebrow": "Caso de estudio anonimizado",
+      "title": "Grupo dermatológico de 6 sedes en Texas · Resultados a 90 días.",
+      "description": "Nombres omitidos por NDA. Métricas extraídas de Google Search Console y GA4, verificadas trimestralmente.",
+      "verified": "Verificado",
+      "metrics": [
+        {
+          "k": "+41%",
+          "label": "Llamadas de nuevos pacientes",
+          "sub": "vs 90 días pre-lanzamiento"
+        },
+        {
+          "k": "Top 3",
+          "label": "Ranking en Local Pack",
+          "sub": "en las 6 ciudades lanzadas"
+        },
+        {
+          "k": "48",
+          "label": "Páginas locales indexadas",
+          "sub": "antes solo 1 de contacto"
+        },
+        {
+          "k": "97",
+          "label": "Mediana de Lighthouse",
+          "sub": "en todas las sedes"
+        }
+      ],
+      "chart": {
+        "title": "Llamadas de nuevos pacientes · semanal",
+        "description": "Pre-lanzamiento → Día 90",
+        "pre": "Pre-lanzamiento",
+        "post": "Post-lanzamiento",
+        "anonymized": "Cliente anonimizado"
+      }
+    },
+    "testimonial": {
+      "quote": "Pasamos de 3 oficinas compartiendo una página de contacto a 6 páginas de clínicas totalmente indexadas, cada una posicionada en su ciudad en menos de 60 días. Las llamadas de nuevos pacientes crecieron un 41% y abrimos nuestra séptima sede sin tocar la arquitectura del sitio.",
+      "author": "Dra. Rachel Patel",
+      "title": "Socia Gerente, Grupo Dermatológico de 7 sedes (Texas)",
+      "trust_strip": "Redes dermatológicas multi-sede en",
+      "cities": [
+        "Austin",
+        "Plano",
+        "Fort Worth",
+        "Round Rock",
+        "Frisco",
+        "San Antonio"
+      ]
+    }
+  },
+  "faq": {
+    "eyebrow": "Preguntas frecuentes",
+    "title": "Respuestas directas sobre la gestión multi-sede.",
+    "items": [
+      {
+        "q": "¿Cómo posicionan en Google los sitios multi-sede para cada ciudad?",
+        "a": "Cada sede recibe su propia URL indexada (ej. /sedes/madrid) con H1 único, contenido de servicios local, bloque de schema LocalBusiness + MedicalClinic, mapa embebido de Google y consistencia de datos NAP. El posicionamiento local se potencia por ciudad, no solo por marca."
+      },
+      {
+        "q": "¿Pueden los pacientes reservar en una sede específica sin confusiones?",
+        "a": "Sí. El flujo de reserva identifica la ubicación primero, ya sea por la URL de origen, el detector de código postal o el selector manual. El paciente nunca tiene que adivinar en qué clínica está agendando."
+      },
+      {
+        "q": "¿Cómo evitan que 10 sedes parezcan contenido duplicado?",
+        "a": "Usamos un sistema visual compartido pero contenido local único: fotografía real, bios de especialistas asignadas a esa oficina, FAQs locales, seguros específicos de la clínica e indicaciones basadas en puntos de referencia cercanos. Google las lee como entidades distintas."
+      },
+      {
+        "q": "¿Qué pasa si abrimos o cerramos una sede en el futuro?",
+        "a": "Las nuevas sedes se activan desde una plantilla controlada en menos de una semana. Las sedes cerradas se redireccionan (301) a la más cercana, preservando el mapa de especialistas para que el posicionamiento no se pierda."
+      },
+      {
+        "q": "¿Gestionan la configuración de Google Business Profile por sede?",
+        "a": "Sí. Reclamamos, verificamos y optimizamos el GBP de cada ubicación, vinculamos las reseñas al sitio y alineamos las citaciones en los directorios médicos principales. La visibilidad local es parte del proyecto, no un costo extra."
+      },
+      {
+        "q": "¿Cuánto tiempo toma lanzar un sitio dermatológico multi-sede?",
+        "a": "De 5 a 7 semanas para 2-4 sedes; 7 a 10 semanas para 5-10 sedes; y 10 a 14 semanas para más de 10 sedes o integraciones complejas de EHR. Definimos cronogramas fijos desde el inicio."
+      }
+    ]
+  },
+  "cta_founder": {
+    "title": "Cada sede lanzada es nuestra responsabilidad personal.",
+    "description": "Aceptamos un número limitado de proyectos multi-sede cada trimestre para asegurar la máxima calidad en cada página. Si su plan de crecimiento incluye más de una dirección, planifiquemos la arquitectura antes de mover el primer píxel.",
+    "cta_quote": "Obtener presupuesto gratis",
+    "cta_msg": "Enviar un mensaje",
+    "footer_title": "Diseño Web para Dermatología",
+    "footer_sub": "Ayudando a dermatólogos a crecer online",
+    "logo_alt": "DW — Diseño Web para Dermatología"
+  },
+  "footer_nav": {
+    "useful_hint": "También le puede interesar:",
+    "links": {
+      "single": "diseño web para clínica única",
+      "seo": "cómo funciona la visibilidad local",
+      "portfolio": "ver lanzamientos recientes de multi-clínicas"
+    }
+  }
+}

@@ -1,0 +1,345 @@
+{
+  "meta": {
+    "title": "Precios de Páginas Web para Dermatología: Planes, Paquetes y Costos Transparentes",
+    "description": "Precios transparentes para sitios web de dermatología. Creación desde $797 hasta $18,999+, paquetes mensuales desde $399 y complementos a la carta. Conozca el costo exacto antes de contactarnos.",
+    "og": {
+      "title": "Precios de Páginas Web para Dermatología: Planes, Paquetes y Tarifas",
+      "description": "Seis paquetes de diseño web, tres de especialidad, cuatro planes mensuales y más de 20 complementos, con estimador de costos en vivo. Precios totalmente transparentes."
+    },
+    "jsonLd": {
+      "breadcrumb": {
+        "home": "Inicio",
+        "plans": "Planes y Precios"
+      },
+      "priceSpec": {
+        "name": "Paquetes de Sitios Web para Dermatología"
+      }
+    }
+  },
+  "hero": {
+    "badge": "Precios Transparentes",
+    "heading": "Todas las tarifas a la vista. Sin facturas sorpresa.",
+    "description": "Seis paquetes de diseño web, tres de especialidad, cuatro planes mensuales y más de 20 complementos. Use nuestro estimador en vivo para conocer su presupuesto antes de hablar con nosotros.",
+    "cta": "Ver paquetes web",
+    "estimatorCta": "Estimador de costos en vivo"
+  },
+  "stats": {
+    "launched": "Clínicas dermatológicas lanzadas",
+    "satisfaction": "Satisfacción media de clientes",
+    "startingPrice": "Precio inicial de diseño",
+    "turnaround": "Tiempo medio de edición"
+  },
+  "trust": {
+    "ariaLabel": "Confianza y garantías",
+    "guarantee": "30 días de garantía de devolución",
+    "guaranteeSub": "¿No está conforme antes del lanzamiento? Reembolso prorrateado, sin preguntas.",
+    "features": [
+      "Compatible con HIPAA",
+      "SSL + Copias de seguridad",
+      "Sin permanencia obligatoria",
+      "Usted es dueño de su sitio"
+    ]
+  },
+  "sections": {
+    "websitePackages": {
+      "label": "01 — Paquetes de diseño web",
+      "title": "Pago único. Seis niveles claros.",
+      "description": "Elija la escala que necesite hoy y crezca después. Todos los precios incluyen diseño, desarrollo, lanzamiento y revisiones.",
+      "popular": "Más popular",
+      "flagship": "Servicio estrella",
+      "otherAgencies": "Otras agencias:",
+      "bestFor": "Ideal para:",
+      "startWith": "Comenzar con {{name}}",
+      "footer": "Precios en USD. Tarifas por creación única. No se requiere permanencia mensual.",
+      "items": [
+        {
+          "name": "Starter",
+          "subtitle": "One Page",
+          "bestFor": "Clínicas nuevas, dermatólogos independientes o landing pages",
+          "price": "$797",
+          "priceNote": "pago único",
+          "savings": "20–68% más económico",
+          "features": [
+            "Sitio web de una sola página (scrolling)",
+            "Diseño responsivo (móvil)",
+            "Formulario de contacto + clic para llamar",
+            "Mapa de Google integrado",
+            "SEO básico on-page",
+            "Guía de configuración de SSL + Hosting",
+            "Entrega: 1 semana",
+            "1 ronda de revisiones"
+          ],
+          "cons": [
+            "Sin blog ni portal del paciente"
+          ]
+        },
+        {
+          "name": "Clinic Pro",
+          "subtitle": "5–8 Páginas",
+          "bestFor": "Dermatólogos establecidos o clínicas pequeñas",
+          "price": "$1,997",
+          "priceNote": "pago único",
+          "savings": "33–60% más económico",
+          "features": [
+            "Inicio, Nosotros, Servicios (3–5), Contacto",
+            "Reserva de citas en línea",
+            "Galería de fotos Antes/Después",
+            "Biografía del doctor y credenciales",
+            "SEO Local + optimización de GBP",
+            "Formularios compatibles con HIPAA",
+            "Optimización de velocidad",
+            "Entrega: 2–3 semanas",
+            "2 rondas de revisiones"
+          ]
+        },
+        {
+          "name": "Practice Growth",
+          "subtitle": "10–15 Páginas",
+          "bestFor": "Clínicas en crecimiento, dermatología estética",
+          "price": "$4,499",
+          "priceNote": "pago único",
+          "savings": "10–55% más económico",
+          "features": [
+            "Sitio web completo multipágina",
+            "Landings individuales por tratamiento",
+            "Integración de portal del paciente",
+            "Configuración de blog (5 posts iniciales)",
+            "SEO Local avanzado",
+            "Optimización de Core Web Vitals",
+            "Logotipo + branding básico",
+            "Etiquetas OG + Schema",
+            "Entrega: 3–4 semanas",
+            "3 rondas de revisiones"
+          ]
+        },
+        {
+          "name": "E-Commerce",
+          "subtitle": "Tienda de productos",
+          "bestFor": "Dermatólogos que venden productos para la piel",
+          "price": "$6,999",
+          "priceNote": "pago único",
+          "savings": "12–53% más económico",
+          "features": [
+            "Sitio de clínica (10+ páginas)",
+            "Tienda WooCommerce o Shopify",
+            "Catálogo de productos (30 SKUs)",
+            "Pasarela de pago (Stripe / PayPal)",
+            "Sistema de gestión de pedidos",
+            "Suite completa de SEO",
+            "Citas y tienda integradas",
+            "Entrega: 4–6 semanas"
+          ]
+        },
+        {
+          "name": "Authority Brand",
+          "subtitle": "Personalizado Premium",
+          "bestFor": "Múltiples sedes, clínicas de alta facturación",
+          "price": "$12,999",
+          "priceNote": "pago único",
+          "savings": "13–56% más económico",
+          "features": [
+            "Diseño 100% a medida (sin plantillas)",
+            "20+ páginas + páginas por ubicación",
+            "Identidad visual completa y logotipos",
+            "Tienda e-commerce incluida",
+            "Portal del paciente y portal médico",
+            "Configuración completa de HIPAA",
+            "30 artículos de blog / tratamientos",
+            "Integración de video",
+            "6 meses de SEO incluidos",
+            "Gestor de cuenta exclusivo",
+            "Entrega: 6–10 semanas"
+          ]
+        },
+        {
+          "name": "Enterprise Multi-Site",
+          "subtitle": "DSO / Multi-Sedes",
+          "bestFor": "Grupos médicos, 3+ sedes, prácticas nacionales",
+          "price": "$18,999+",
+          "priceNote": "a medida",
+          "savings": "24%+ más económico",
+          "features": [
+            "Arquitectura para sedes múltiples",
+            "Landing page individual por sede",
+            "Control centralizado mediante CMS",
+            "Marca unificada en todos los sitios",
+            "SEO local para múltiples ubicaciones",
+            "Portal de empleados por sede",
+            "Presupuesto adaptado al alcance",
+            "Soporte prioritario"
+          ]
+        }
+      ]
+    },
+    "specialty": {
+      "label": "02 — Paquetes de especialidad",
+      "title": "Soluciones diseñadas con un propósito.",
+      "description": "Opciones específicas para necesidades puntuales: lanzamientos rápidos, telemedicina o desarrollos a medida de gama media.",
+      "market": "Mercado:",
+      "cta": "Obtener este paquete",
+      "items": [
+        {
+          "name": "Sitio de Plantilla",
+          "desc": "Plantilla dermatológica preconfigurada, personalizada con su marca y contenido. Entrega en 5 días. Económico y ágil."
+        },
+        {
+          "name": "Telemedicina / Portal",
+          "desc": "Integración de telemedicina (Doxy.me, Zoom Health), portal del paciente, mensajería segura y gestión de citas. Añádalo a cualquier paquete."
+        },
+        {
+          "name": "Personalizado Premium",
+          "desc": "Nivel intermedio. 15–20 páginas, diseño personalizado sin plantillas, SEO avanzado y 3 meses de soporte post-lanzamiento."
+        }
+      ]
+    },
+    "bundles": {
+      "label": "03 — Planes mensuales combinados",
+      "title": "Servicios recurrentes, integrados para ahorrar.",
+      "description": "Combine un plan mensual con cualquier paquete web. Los bundles ahorran entre 15–25% en comparación con servicios individuales. Cancele cuando quiera con 30 días de aviso.",
+      "recommended": "Más recomendado",
+      "bestLtv": "Mejor valor comercial",
+      "add": "Añadir {{name}}",
+      "items": [
+        {
+          "name": "Essential Bundle",
+          "tag": "Hosting + Mantenimiento + SEO Local",
+          "desc": "Alojamiento, seguridad, actualizaciones mensuales, monitoreo de SEO local y gestión de Google Business Profile. Ahorre $99/mes."
+        },
+        {
+          "name": "Growth Bundle",
+          "tag": "Essential + Campaña SEO Completa",
+          "desc": "Todo lo de Essential más campaña SEO integral (contenido, backlinks, SEO técnico e informes de ranking). Nuestro plan más rentable."
+        },
+        {
+          "name": "Marketing Bundle",
+          "tag": "SEO + Google Ads + Redes + Reseñas",
+          "desc": "SEO completo, gestión de Google Ads, Redes Sociales (8 posts/mes) y sistema de generación de reseñas. Cobertura digital total."
+        },
+        {
+          "name": "Full-Stack Bundle",
+          "tag": "Todo incluido — Máximo Crecimiento",
+          "desc": "Marketing Bundle, campañas de CRM por email, 2 posts de blog al mes, gestión de reputación y estrategia trimestral con soporte prioritario."
+        }
+      ]
+    },
+    "addOns": {
+      "label": "04 — Servicios adicionales y precios a la carta",
+      "title": "Todos los extras, todos los precios.",
+      "description": "Treinta y siete servicios con precios individuales, incluyendo configuración de correo transaccional SMTP. Compare nuestras tarifas con el mercado y vea cuánto está ahorrando.",
+      "table": {
+        "service": "Servicio adicional",
+        "ourPrice": "Nuestro precio",
+        "market": "Rango de mercado",
+        "type": "Tipo",
+        "bestFor": "Ideal para"
+      }
+    },
+    "custom": {
+      "badge": "¿Necesita algo a medida?",
+      "title": "¿DSO, afiliados a hospitales o proyectos complejos?",
+      "description": "Para grupos médicos (DSO), instituciones hospitalarias y redes de más de 3 sedes, diseñamos programas de tarifa plana con ingeniería dedicada y equipo de cuenta exclusivo.",
+      "quoteCta": "Solicitar presupuesto a medida",
+      "pricingCta": "Ver Precios y Paquetes"
+    }
+  },
+  "estimator": {
+    "label": "05 — Estimador de costos en vivo",
+    "title": "Vea el total antes de contactarnos.",
+    "description": "Elija un paquete web, añada un plan mensual y sume los complementos que necesite. El total se actualiza al instante.",
+    "form": {
+      "websitePackage": "Paquete web",
+      "monthlyBundle": "Plan mensual",
+      "logo": "Diseño de logo · $450 c/u",
+      "extraPages": "Páginas de tratamiento extra · $200 c/u",
+      "blogPosts": "Artículos de blog · $120 c/u",
+      "portal": "Integración de portal del paciente",
+      "portalAdd": "+$999 pago único"
+    },
+    "aria": {
+      "decrease": "Disminuir",
+      "increase": "Aumentar"
+    },
+    "summary": {
+      "title": "Su presupuesto",
+      "build": "Creación web",
+      "bundle": "Plan mensual",
+      "oneTime": "Total pago único",
+      "monthly": "Mensualidad recurrente",
+      "yearOne": "Total primer año",
+      "ongoing": "Luego {{amount}} / año recurrentes",
+      "lockIn": "Reservar esta cotización"
+    }
+  },
+  "testimonials": {
+    "label": "Lo que dicen nuestros clientes",
+    "title": "Precios predecibles, resultados garantizados.",
+    "items": [
+      {
+        "name": "Dra. Meera Balakrishnan, MD",
+        "role": "NBS Laser",
+        "quote": "Precios transparentes. Sin facturas sorpresa. Sabíamos exactamente cuánto íbamos a pagar antes de firmar, y la factura siempre coincidió."
+      },
+      {
+        "name": "Dr. Julian Reyes, MD",
+        "role": "CP Dermatology",
+        "quote": "El paquete Clinic Pro se pagó solo en el segundo mes. La optimización del flujo de reservas duplicó nuestras solicitudes de citas."
+      }
+    ]
+  },
+  "faq": {
+    "label": "06 — Preguntas frecuentes",
+    "title": "Resolvemos sus dudas sobre precios.",
+    "items": [
+      {
+        "q": "¿Pago una sola vez, mensualmente o ambos?",
+        "a": "Los paquetes web son pagos únicos por la creación del sitio. Los servicios continuos (hosting, SEO, anuncios, contenido) son planes mensuales u opcionales a la carta. La mayoría de las clínicas combinan un paquete de creación con un plan mensual. Verá el monto final exacto en su propuesta por escrito."
+      },
+      {
+        "q": "¿Qué se incluye en el precio de creación única?",
+        "a": "Diseño, desarrollo, estructura de contenido, SEO on-page, integraciones listadas, formularios compatibles con HIPAA y las rondas de revisión especificadas. No facturamos por horas durante la creación: el precio acordado es el que paga."
+      },
+      {
+        "q": "¿Estoy obligado a contratar un plan mensual?",
+        "a": "No. Los planes mensuales son opcionales. Puede usar su propio hosting y gestionar el sitio usted mismo, o elegir servicios a la carta. Los bundles simplemente ofrecen un ahorro mayor que contratar servicios por separado."
+      },
+      {
+        "q": "¿Puedo escalar de Starter a Clinic Pro más adelante?",
+        "a": "Sí. Todos los paquetes utilizan el mismo sistema de diseño. Escalar es un cambio de alcance acreditando lo que ya pagó más la diferencia del trabajo adicional. No se desperdicia nada del trabajo previo."
+      },
+      {
+        "q": "¿Ustedes son dueños de mi sitio si dejo de pagar la mensualidad?",
+        "a": "Usted es el único dueño. El dominio, los activos de marca, el contenido, el código y la base de datos le pertenecen. Si cancela un plan mensual, se detiene el servicio contratado, pero el sitio sigue funcionando en el hosting que elija."
+      },
+      {
+        "q": "¿Se incluye HIPAA / BAA?",
+        "a": "La arquitectura compatible con HIPAA se incluye desde el plan Clinic Pro en adelante. El contrato BAA firmado se incluye en Authority Brand y Enterprise Multi-Site, y está disponible como extra para otros planes si recolectan información de salud protegida (PHI)."
+      },
+      {
+        "q": "¿Qué pasa si necesito algo que no está en la lista?",
+        "a": "Los proyectos a medida (integraciones específicas, sincronización con EHR, importación de catálogos) se presupuestan como tarifa plana tras una sesión de análisis. Siempre tendrá el precio por escrito antes de comenzar."
+      },
+      {
+        "q": "¿Ofrecen reembolsos?",
+        "a": "La creación web es reembolsable de forma prorrateada hasta la aprobación final del lanzamiento. Los planes mensuales no son reembolsables para el ciclo en curso, pero puede cancelar cuando quiera con 30 días de aviso."
+      }
+    ]
+  },
+  "cta": {
+    "badge": "Sin permanencia · Sea dueño de su sitio",
+    "title": "¿Listo para conocer su presupuesto exacto?",
+    "description": "Obtenga un alcance detallado, una cotización fija y una recomendación de plan en una llamada de 20 minutos. Sin presiones ni compromisos.",
+    "button": "Obtener mi propuesta",
+    "delivery": "Propuesta por escrito en 48 horas"
+  },
+  "related": {
+    "text": "Lecturas recomendadas: ",
+    "process": "cómo entregamos cada proyecto",
+    "portfolio": "nuestros lanzamientos más recientes",
+    "caseStudies": "resultados reales con clientes"
+  },
+  "stickyCta": {
+    "label": "Presupuesto fijo",
+    "description": "Propuesta por escrito · 48 horas",
+    "button": "Cotizar"
+  }
+}

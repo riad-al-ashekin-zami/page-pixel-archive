@@ -1,0 +1,272 @@
+{
+  "meta": {
+    "title": "Servicios de crecimiento para clínicas dermatológicas | Citas agendadas, no impresiones",
+    "description": "Impulsamos el crecimiento de clínicas dermatológicas: captación de pacientes, optimización de conversiones, automatización de retención y analítica de ingresos vinculada a citas reales y rentabilidad por servicio.",
+    "og": {
+      "title": "Crecimiento de clínicas dermatológicas: Citas agendadas, no impresiones",
+      "description": "Crecimiento integral para consultas privadas y clínicas con múltiples sedes: captación, conversión, retención y analítica de ingresos."
+    },
+    "twitter": {
+      "title": "Servicios de crecimiento profesional para dermatología",
+      "description": "Aumente sus citas agendadas: resultados medibles directamente en su estado de resultados (P&L)."
+    },
+    "jsonLd": {
+      "serviceType": "Servicios de crecimiento para clínicas dermatológicas",
+      "provider": "DermatologyWebsiteDesign.com",
+      "description": "Servicios de crecimiento para clínicas de dermatología: captación de pacientes, retención, reputación y analítica de ingresos.",
+      "breadcrumbs": {
+        "home": "Inicio",
+        "services": "Servicios",
+        "current": "Crecimiento de clínicas"
+      }
+    }
+  },
+  "hero": {
+    "badge": "Crecimiento para Dermatología",
+    "title": "Citas agendadas. No simples impresiones.",
+    "description": "Crecimiento integral para clínicas dermatológicas: captación de pacientes, optimización de conversión, automatización de retención y analítica de ingresos. Medimos cada canal basándonos en el costo por cita agendada y la rentabilidad de cada servicio.",
+    "cta": {
+      "primary": "Obtenga una auditoría de crecimiento gratuita",
+      "secondary": "Ver nuestro ecosistema de crecimiento"
+    },
+    "stats": [
+      {
+        "value": "42%",
+        "label": "Pacientes nuevos"
+      },
+      {
+        "value": "3.4×",
+        "label": "Solicitudes de consulta"
+      },
+      {
+        "value": "31%",
+        "label": "Menor CPBV"
+      },
+      {
+        "value": "HIPAA",
+        "label": "Entorno seguro"
+      }
+    ]
+  },
+  "sections": {
+    "levers": {
+      "badge": "Ecosistema de crecimiento",
+      "heading": "Ocho palancas de crecimiento. Conectadas a su P&L.",
+      "description": "El crecimiento solo se multiplica cuando la captación, la conversión, la retención y la reputación avanzan juntas, y cuando cada dólar se atribuye a un servicio específico, no solo a un canal.",
+      "items": [
+        {
+          "title": "Motor de captación de pacientes",
+          "desc": "Entrada multicanal (SEO, búsquedas locales, pauta digital y referidos) dirigida a un flujo de citas agendadas totalmente medible."
+        },
+        {
+          "title": "Optimización de la tasa de conversión",
+          "desc": "Pruebas en páginas de destino, eliminación de fricción en formularios y ajuste del flujo de reserva para elevar las consultas sin aumentar el gasto publicitario."
+        },
+        {
+          "title": "Retención y rellamada de pacientes",
+          "desc": "Secuencias automáticas de contacto para chequeos anuales de la piel, seguimiento de procedimientos estéticos y reactivación de pacientes inactivos."
+        },
+        {
+          "title": "Reputación y reseñas",
+          "desc": "Flujos de reseña post-visita, redacción de respuestas seguras bajo normas HIPAA y monitoreo de reputación en Google, Healthgrades y RealSelf."
+        },
+        {
+          "title": "Analítica de ingresos",
+          "desc": "Rentabilidad por línea de servicio, utilización de especialistas y atribución de marketing a través de un panel de control vinculado a su PMS."
+        },
+        {
+          "title": "Crecimiento de red de referidos",
+          "desc": "Programas de referidos con médicos generales y ginecólogos, material de co-marketing y seguimiento trimestral vinculado a casos cerrados."
+        },
+        {
+          "title": "Gestión de medios pagados",
+          "desc": "Campañas en Google, Meta y YouTube enfocadas en el margen de cada servicio, sin métricas de vanidad ni retargeting excesivo."
+        },
+        {
+          "title": "Automatización con seguridad HIPAA",
+          "desc": "Cada punto de contacto (SMS, email, chat) opera sobre infraestructura con BAA y limpieza automática de PHI de forma predeterminada."
+        }
+      ]
+    },
+    "outcomes": {
+      "srTitle": "Resultados medidos",
+      "items": [
+        {
+          "k": "42%",
+          "v": "Reservas de nuevos pacientes en 6 meses"
+        },
+        {
+          "k": "78%",
+          "v": "Aumento en reseñas de 5 estrellas en Google"
+        },
+        {
+          "k": "3.4×",
+          "v": "Solicitudes de consulta trimestre a trimestre"
+        },
+        {
+          "k": "31%",
+          "v": "Reducción en el costo por cita agendada"
+        }
+      ],
+      "quote": "Dejamos de leer informes de marketing y empezamos a leer el estado de resultados. En seis meses, las citas de nuevos pacientes subieron un 42% y el costo por cita bajó un 31%. Ahora sé exactamente qué servicio generó cada centavo.",
+      "attribution": "Dra. Alicia Renner · Grupo Dermatológico de 4 sedes"
+    },
+    "audiences": {
+      "badge": "Para quiénes trabajamos",
+      "heading": "Diseñado para cada modelo de negocio dermatológico.",
+      "description": "Ya sea práctica privada, múltiples sedes, pediatría o cirugía de Mohs, adaptamos cada modelo a su capacidad operativa y márgenes de servicio.",
+      "items": [
+        {
+          "title": "Dermatólogos independientes",
+          "desc": "Un solo especialista, márgenes ajustados y alto valor por paciente: crezca sin necesidad de contratar un equipo interno de marketing."
+        },
+        {
+          "title": "Clínicas dermatológicas multisitio",
+          "desc": "P&L a nivel de sede, presupuestos de marketing por clínica y gobernanza de marca centralizada."
+        },
+        {
+          "title": "Dermatología Pediátrica",
+          "desc": "Embudos enfocados en la decisión de los padres, señales de confianza infantil y planificación basada en la estacionalidad escolar."
+        },
+        {
+          "title": "Cirugía de Mohs y Dermatología Quirúrgica",
+          "desc": "Flujos dependientes de referidos, validación de seguros y gestión de reputación post-operatoria."
+        }
+      ]
+    },
+    "services": {
+      "badge": "Líneas de servicio que impulsamos",
+      "heading": "Cada servicio. Cada intención. Cada cita agendada.",
+      "description": "Modelamos cada servicio médico como su propio embudo, rastreando por separado el costo de captación, tasa de conversión y valor de vida del paciente.",
+      "list": [
+        "Tratamiento de acné",
+        "Tratamiento de eccema",
+        "Tratamiento de psoriasis",
+        "Tratamiento de infecciones cutáneas",
+        "Tratamiento de alergias en la piel",
+        "Detección y tratamiento de cáncer de piel",
+        "Evaluación de lunares y extracción médica necesaria",
+        "Extracción de quistes y lipomas",
+        "Eliminación de verrugas",
+        "Tratamiento de trastornos de las uñas",
+        "Diagnóstico y tratamiento médico de la caída del cabello",
+        "Tratamiento de trastornos del cuero cabelludo",
+        "Tratamiento de rosácea",
+        "Tratamiento de hiperpigmentación y melasma (indicación médica)",
+        "Tratamiento de cicatrices (lesiones, cirugía, enfermedades)",
+        "Tratamiento de cicatrices por quemaduras",
+        "Tratamiento de vitíligo",
+        "Biopsias cutáneas y procedimientos de diagnóstico"
+      ]
+    },
+    "workflow": {
+      "badge": "Cómo funciona",
+      "heading": "Lanzamiento en 90 días. Crecimiento compuesto después.",
+      "description": "Hitos transparentes vinculados a citas agendadas y rentabilidad, sin informes opacos.",
+      "steps": [
+        {
+          "step": "01",
+          "phase": "Fase 01",
+          "title": "Diagnóstico y línea base",
+          "desc": "Auditoría total de captación y retención, revisión de rentabilidad por servicio y modelo de crecimiento a 12 meses según su capacidad física."
+        },
+        {
+          "step": "02",
+          "phase": "Fase 02",
+          "title": "Cimientos de embudo y marca",
+          "desc": "Rediseño de conversión web, ajuste de flujos de reserva, alineación de voz de marca y configuración de atribución analítica."
+        },
+        {
+          "step": "03",
+          "phase": "Fase 03",
+          "title": "Activación de canales de captación",
+          "desc": "Lanzamiento paralelo de SEO, local, pauta y programas de referidos, cada uno bajo un objetivo de costo por cita."
+        },
+        {
+          "step": "04",
+          "phase": "Fase 04",
+          "title": "Retención, reportes y escalado",
+          "desc": "Secuencias de rellamada, gestión de reputación, informes ejecutivos mensuales y expansión trimestral de servicios."
+        }
+      ]
+    },
+    "whyUs": {
+      "badge": "Por qué las clínicas nos eligen",
+      "heading": "Un socio de crecimiento especializado, no una agencia más.",
+      "items": [
+        {
+          "title": "P&L, no tableros vacíos",
+          "desc": "Cada resultado se vincula con citas reales, ingresos por servicio y costo por cita, revisados mensualmente en una sola página."
+        },
+        {
+          "title": "Seguro bajo HIPAA de serie",
+          "desc": "Infraestructura con BAA, automatizaciones que omiten PHI e integraciones de PMS auditadas antes de iniciar cualquier flujo."
+        },
+        {
+          "title": "Conscientes de su capacidad",
+          "desc": "Regulamos el crecimiento según su agenda; no generamos demanda que sus especialistas no puedan atender."
+        },
+        {
+          "title": "Atribución de citas reales",
+          "desc": "Rastreo de llamadas, atribución de formularios e integración con PMS para que ninguna cita quede sin rastro ni métricas de vanidad."
+        },
+        {
+          "title": "Redactores médicos reales",
+          "desc": "Escritores con formación clínica y revisión dermatológica en cada página. Sin contenido genérico de IA ni artículos vacíos."
+        },
+        {
+          "title": "Cortamos lo que no funciona",
+          "desc": "Cada canal tiene un límite de costo por cita. Si falla dos meses seguidos, rotamos el presupuesto hacia lo rentable sin excusas."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "Respuestas a dudas frecuentes de propietarios de clínicas.",
+    "items": [
+      {
+        "q": "¿En qué se diferencia esto de una agencia de marketing?",
+        "a": "Una agencia vende impresiones, clics o posiciones. Nosotros generamos visitas reales de pacientes e ingresos por servicio. Si un canal no cumple con el costo por cita acordado, lo eliminamos en lugar de justificarlo."
+      },
+      {
+        "q": "¿Cómo son los primeros 90 días?",
+        "a": "Días 1–30: diagnóstico, línea base, modelo de crecimiento y rediseño del embudo. Días 31–60: ajuste de flujos de reserva, activación de SEO local y motor de reseñas. Días 61–90: canales de pago activos bajo metas de costo por cita, inicio de red de referidos y primer informe ejecutivo mensual."
+      },
+      {
+        "q": "¿Trabajan con clínicas de múltiples sedes?",
+        "a": "Sí, es nuestra especialidad. Creamos P&L por ubicación, presupuestos específicos por clínica y rastreo de utilización por especialista, manteniendo una gobernanza de marca centralizada."
+      },
+      {
+        "q": "¿Es todo seguro bajo HIPAA?",
+        "a": "Sí. Cada automatización, integración y flujo de reseñas opera sobre infraestructura protegida con BAA. Nuestras plantillas no contienen PHI y auditamos cualquier widget o formulario previo antes de integrarlos."
+      },
+      {
+        "q": "¿Se integran con nuestro sistema de gestión (PMS)?",
+        "a": "Nos integramos con las principales plataformas como Nextech, ModMed, EMA y AdvancedMD para reportes y atribución. Donde no es posible una integración profunda, configuramos rastreo en la capa de reserva para que ninguna visita pase inadvertida."
+      },
+      {
+        "q": "¿Qué pasa si un canal no rinde lo esperado?",
+        "a": "Se corta. Acordamos un techo mensual de costo por cita. Si se supera ese límite dos meses seguidos sin razón estacional clara, el presupuesto se mueve a canales efectivos. Sin reportes defensivos."
+      }
+    ]
+  },
+  "cta": {
+    "badge": "Auditoría de crecimiento gratuita",
+    "title": "Descubra dónde está perdiendo citas hoy mismo.",
+    "description": "Auditoría de captación, análisis de conversión, brechas de retención y un plan de crecimiento a 90 días alineado a la rentabilidad de su clínica. Gratis y sin presentaciones de ventas agresivas.",
+    "primary": "Solicitar mi auditoría gratuita",
+    "secondary": "Solicitar una propuesta técnica"
+  },
+  "stickyCta": {
+    "label": "Auditoría de crecimiento — 48 hrs",
+    "button": "Solicitar"
+  },
+  "related": {
+    "prefix": "Lecturas recomendadas: ",
+    "links": {
+      "marketing": "Guía para propietarios: marketing para dermatología",
+      "googleAds": "Captación pagada con Google Ads",
+      "reputation": "Sistemas de reputación y reseñas médicas"
+    }
+  }
+}

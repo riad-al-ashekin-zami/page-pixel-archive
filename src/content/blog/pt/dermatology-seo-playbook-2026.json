@@ -1,0 +1,64 @@
+{
+  "slug": "dermatology-seo-playbook-2026",
+  "title": "O Manual de SEO para Dermatologia 2026: Classifique em 90 Dias",
+  "excerpt": "Os exatos clusters de palavras-chave, correções técnicas e cadência de conteúdo que usamos para mover clínicas de dermatologia para a primeira página — com cronogramas reais.",
+  "imageAlt": "Painel de análise em um laptop em um escritório de dermatologia iluminado",
+  "body": [
+    {
+      "text": "Classificar uma clínica de dermatologia em noventa dias não é uma promessa que se faz levianamente — mas com a arquitetura certa, é repetível. Neste manual, descrevemos o sistema exato de noventa dias que aplicamos para cada novo cliente, desde a primeira auditoria técnica até o empurrão final de conteúdo que \"liga a chave\" e move as palavras-chave alvo para a primeira página do Google."
+    },
+    {
+      "text": "O erro que a maioria das clínicas comete é tratar o SEO como uma lista de verificação de táticas, em vez de um sistema. Eles perseguem posts de blog individuais, ajustam meta titles e esperam que o impulso se construa. Não acontece. O que constrói impulso é uma arquitetura \"cluster-first\", uma base técnica limpa e uma cadência de conteúdo que se acumula semana após semana. Acertando esses três pontos, as classificações se tornam um indicador atrasado — a consequência natural de fazer o trabalho certo na ordem certa."
+    },
+    {
+      "heading": "1. Construa o cluster tópico antes de escrever uma única palavra"
+    },
+    {
+      "text": "A maioria dos sites de dermatologia perde na SERP porque seu conteúdo vive em páginas isoladas. Uma página sobre Aesthetic aqui, um artigo sobre rosácea ali, uma página de localização em outro silo — nenhuma delas interligada de forma a dizer ao Google sobre o que o site é autoritário. Em vez de escrever peças isoladas, agrupamos serviços, condições e localizações em clusters tópicos. Cada cluster é ancorado por uma \"pilar page\" (por exemplo, 'Tratamento de Acne em Denver') que se conecta internamente a todos os artigos de apoio — 'causas da acne cística', 'melhores tratamentos de acne no consultório', 'mitos da dieta da acne hormonal' — e cada artigo de apoio se conecta de volta à página principal."
+    },
+    {
+      "text": "Essa estrutura faz duas coisas. Primeiro, concentra a autoridade tópica: cada backlink para um artigo de apoio passa valor para a página pilar. Segundo, torna a Linkagem Interna óbvia. Não há mais dúvidas sobre o que deve ser ligado ao quê — o mapa do cluster informa você."
+    },
+    {
+      "heading": "2. Corrija a base técnica primeiro"
+    },
+    {
+      "text": "Antes de escrever qualquer coisa, execute uma auditoria técnica e corrija os pontos inegociáveis. A classificação é uma corrida com uma categoria de peso — se seus Core Web Vitals estão abaixo de 90 no celular, você já está carregando um peso extra antes mesmo da corrida começar. Nas nossas duas primeiras semanas com qualquer nova clínica, executamos o seguinte:"
+    },
+    {
+      "list": [
+        "Comprima cada imagem \"hero\" para WebP ou AVIF (redução média de 70% no tamanho)",
+        "Faça com que todas as páginas atinjam mais de 90 nos Core Web Vitals móveis — LCP abaixo de 2,5s, CLS abaixo de 0,1, INP abaixo de 200ms",
+        "Adicione dados estruturados FAQPage e MedicalBusiness a cada página de serviço",
+        "Consolide páginas de localização duplicadas com tags canônicas",
+        "Corrija todos os erros 404 que possuem links de entrada e redirecione URLs excluídos",
+        "Envie um sitemap XML limpo e valide-o no Search Console"
+      ]
+    },
+    {
+      "text": "Estas não são vitórias glamorosas, mas se acumulam. Uma vez que a fundação está limpa, cada peça de conteúdo que você publica herda essa velocidade e estrutura — o que significa que o Google a indexa mais rapidamente e os usuários convertem mais frequentemente."
+    },
+    {
+      "heading": "3. Cadência de conteúdo que realmente se acumula"
+    },
+    {
+      "text": "O maior preditor único da velocidade de classificação é a consistência na publicação. Dois artigos pilares por mês, quatro posts focados em condições e atualizações mensais das três páginas mais bem classificadas. Essa é a cadência — nada mais, nada menos. Clínicas que tentam dar um sprint se esgotam. Clínicas que publicam uma vez por trimestre nunca constroem área de superfície suficiente para capturar tráfego de cauda longa."
+    },
+    {
+      "text": "Cada artigo pilar tem 1.800 a 2.400 palavras, estruturado em torno da intenção por trás da palavra-chave. Cada artigo de apoio tem 900 a 1.400 palavras, focado em uma única pergunta que um paciente realmente digita no Google. E cada atualização é uma atualização real — nova introdução, novas subseções, estatísticas atualizadas, novos links internos. O Google recompensa a atualidade quando a autoridade tópica circundante já está presente."
+    },
+    {
+      "quote": "As clínicas que vencem em 90 dias são as que param de perseguir táticas e se comprometem com um sistema. As classificações são um indicador atrasado de fazer a coisa certa repetidamente."
+    },
+    {
+      "heading": "4. O cronograma de 90 dias, semana a semana"
+    },
+    {
+      "text": "As semanas 1 a 2 são de auditoria e mapeamento de clusters. Inventariamos todas as páginas existentes, eliminamos ou consolidamos o que dilui o site e mapeamos os três clusters de maior alavancagem com base na receita de serviços e na demanda de busca. As semanas 3 a 6 são de correções técnicas e reescritas de páginas pilares. As semanas 7 a 10 são o empurrão de conteúdo — publicamos seis novos artigos de apoio e duas novas páginas pilares. As semanas 11 a 13 são de linkagem interna, atualizações e a camada de divulgação onde conquistamos nossos primeiros backlinks de marca."
+    },
+    {
+      "text": "No dia 90, o movimento é mensurável — geralmente 8 a 15 palavras-chave alvo se moveram de posições acima de 50 para o top 20, e uma ou duas já estão \"batendo à porta\" da primeira página. Daquele ponto em diante, o efeito composto assume o controle: cada novo artigo herda a autoridade do cluster, cada backlink flui para uma página que já está ranqueando, e o sistema funciona sozinho com manutenção mensal em vez de reconstruções trimestrais."
+    }
+  ],
+  "faqs": null
+}

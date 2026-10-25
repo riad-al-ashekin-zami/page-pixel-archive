@@ -1,0 +1,377 @@
+{
+  "meta": {
+    "title": "Dermatologian verkkosivujen lisäpalvelut — ylläpito, SEO, kasvu ja integraatiot",
+    "description": "Premium-tason lisäpalvelut ihotautiklinikoille: 24/7-ylläpito, HIPAA-yhteensopiva hostaus, sisällöt, konversio-optimointi, paikallinen SEO, potilastietojärjestelmien integraatiot ja kasvumarkkinointi. Kuukausisopimuksella.",
+    "og": {
+      "title": "Dermatologian verkkosivujen lisäpalvelut",
+      "description": "Lisää ylläpito, hostaus, SEO, integraatiot ja kasvumarkkinointi klinikkasi verkkosivuille — suunniteltu kasvattamaan potilasmääriä kestävästi."
+    },
+    "jsonLd": {
+      "serviceType": "Dermatology Website Add-On Services",
+      "provider": "DermatologyWebsiteDesign.com",
+      "catalogName": "Dermatology Website Add-Ons",
+      "breadcrumbs": {
+        "home": "Etusivu",
+        "services": "Palvelut",
+        "current": "Lisäpalvelut"
+      }
+    }
+  },
+  "hero": {
+    "badge": "Dermatologian lisäpalvelut",
+    "heading": "Kaikki mitä ihotautiklinikkasi tarvitsee —",
+    "headingAccent": "yhdellä laskulla, yhdeltä tiimiltä, yhdestä hallintapaneelista.",
+    "description": "HIPAA-huomioidut lisäpalvelut — ylläpito, hostaus, sisällöt, SEO, integraatiot ja kasvumarkkinointi — suunniteltu vauhdittamaan potilasvirran kasvua kuukausi kuukaudelta.",
+    "cta": {
+      "bundle": "Rakenna oma pakettisi",
+      "browse": "Selaa koko valikoimaa"
+    },
+    "stats": [
+      {
+        "label": "Lisäpalvelua"
+      },
+      {
+        "label": "Uptime SLA"
+      },
+      {
+        "label": "Vasteaika hätätilanteissa"
+      },
+      {
+        "label": "Ei sitoutumispakkoa",
+        "value": "Toistaiseksi voimassa"
+      }
+    ]
+  },
+  "trust": {
+    "audiences": {
+      "label": "Rakennettu seuraaville:",
+      "items": [
+        "Yksityiset ihotautilääkärit",
+        "Monitoimipisteiset klinikat",
+        "Lasten ihotautilääkärit",
+        "Mohs-kirurgia ja kirurginen dermatologia"
+      ]
+    },
+    "medicalServices": {
+      "label": "Tuki kaikille lääketieteellisille palveluille",
+      "items": [
+        "Akne-hoidot",
+        "Ekseeman hoito",
+        "Psoriasiksen hoito",
+        "Ihoinfektioiden hoito",
+        "Ihoallergioiden hoito",
+        "Ihosyövän seulonta ja hoito",
+        "Luomitarkastukset ja poistot",
+        "Kystien ja lipoomien poisto",
+        "Syylien poisto",
+        "Kynsisairauksien hoito",
+        "Hiustenlähdön diagnostiikka ja hoito",
+        "Hiuspohjan ongelmat",
+        "Ruusufinnin hoito",
+        "Pigmenttimuutokset ja melasma",
+        "Arpien hoito",
+        "Palovamma-arpien hoito",
+        "Vitiligon hoito",
+        "Ihonäytteet ja diagnostiikka"
+      ]
+    }
+  },
+  "sections": {
+    "catalog": {
+      "badge": "Palveluvalikoima",
+      "heading": "Kuusi kategoriaa.",
+      "headingItalic": "Yksi asiantuntijatiimi tukenasi.",
+      "searchPlaceholder": "Etsi {{count}}+ lisäpalvelun joukosta…",
+      "searchAria": "Hae lisäpalveluita",
+      "noResults": "Hakusanalla \"{{query}}\" ei löytynyt palveluita. Kokeile toista hakusanaa.",
+      "serviceCount": "palvelua",
+      "ctaAdd": "Lisää {{title}} pakettiin",
+      "categories": {
+        "care": {
+          "title": "Sivuston huolto ja ylläpito",
+          "tagline": "Aina päällä. Aina ajan tasalla. Aina hallussasi.",
+          "items": [
+            {
+              "name": "Verkkosivujen ylläpito ja tuki",
+              "blurb": "Viikoittaiset CMS-, lisäosa- ja tietoturvapäivitykset päivystävän asiantuntijan voimin."
+            },
+            {
+              "name": "Hätätuki",
+              "blurb": "Sivusto alhaalla? Nimetty insinööri vastaa alle 15 minuutissa."
+            },
+            {
+              "name": "Sivustomigraatiot",
+              "blurb": "Siirrot ilman käyttökatkoja, täydellä 301-ohjauskartalla ja säilytetyllä SEO-arvolla."
+            },
+            {
+              "name": "Sivuston päivitykset",
+              "blurb": "Sisällöt, lääkäriesittelyt, kausikampanjat — toteutettu tunneissa, ei viikoissa."
+            },
+            {
+              "name": "Kuukausittaiset huoltosuunnitelmat",
+              "blurb": "Kiinteä kuukausihinta. Kaikki mukana. Ei määräaikaista sitoutumista."
+            },
+            {
+              "name": "Päivittäiset varmuuskopiot",
+              "blurb": "Salatut off-site-varmuuskopiot. Palautus yhdellä klikkauksella, 30 päivän säilytys."
+            },
+            {
+              "name": "Käyntivarmuuden seuranta",
+              "blurb": "Tarkistukset 60 sekunnin välein 6 eri alueelta. Halytykset ennen kuin potilaat huomaavat."
+            },
+            {
+              "name": "Suorituskyvyn seuranta",
+              "blurb": "Päivittäinen Core Web Vitals -seuranta. Suorituskykyheikennykset huomataan samana päivänä."
+            }
+          ]
+        },
+        "hosting": {
+          "title": "Hostaus, tietoturva ja vaatimustenmukaisuus",
+          "tagline": "Dermatologiaan suunniteltu HIPAA-yhteensopiva infrastruktuuri.",
+          "items": [
+            {
+              "name": "Hallinnoitu hostaus",
+              "blurb": "Edge-välimuistitus, automaattinen skaalautuvuus ja 99,99 % käytettävyyden SLA."
+            },
+            {
+              "name": "Verkkotunnusten ja DNS:n hallinta",
+              "blurb": "Me hoidamme tekniset yksityiskohdat, jotta uusinnat eivät koskaan unohdu."
+            },
+            {
+              "name": "SSL-asennus ja valvonta",
+              "blurb": "Automaattisesti uusiutuvat sertifikaatit ja vanhenemishälytykset viikkoja etukäteen."
+            },
+            {
+              "name": "Tietoturvan valvonta",
+              "blurb": "24/7 WAF, tunkeutumisen havaitseminen ja haavoittuvuuksien paikkaus."
+            },
+            {
+              "name": "Haittaohjelmien esto",
+              "blurb": "Päivittäiset skannaukset, välitön karanteeni ja puhdistustakuu."
+            },
+            {
+              "name": "HIPAA-yhteensopivuuden arviointi",
+              "blurb": "Vuosittainen auditointi lomakkeille, hostaukselle, analytiikalle ja BAA-sopimuksille."
+            },
+            {
+              "name": "HIPAA-huomioidut lomakkeet",
+              "blurb": "Salatut esitietolomakkeet, suostumukset ja yhteydenotot — PHI on turvassa."
+            },
+            {
+              "name": "ADA-saavutettavuusoptimointi",
+              "blurb": "WCAG 2.2 AA -korjaukset ja jatkuva saavutettavuuden seuranta."
+            },
+            {
+              "name": "Yksityisyys ja evästesuostumukset",
+              "blurb": "GDPR-bannerit, suostumuslokit ja tietosuojaselosteiden päivitykset."
+            }
+          ]
+        },
+        "content": {
+          "title": "Sisältö ja konversio",
+          "tagline": "Sisältöjä ja ulkoasuja, jotka kääntävät vierailijat potilaiksi.",
+          "items": [
+            {
+              "name": "Sisällöntuotanto",
+              "blurb": "SEO-optimoituja sivuja, jotka on kirjoitettu aidoille ihotautiklinikoille."
+            },
+            {
+              "name": "Lääketieteellinen copy-kirjoittaminen",
+              "blurb": "Kliinisesti tarkkaa, potilasystävällistä ja lääkäreiden hyväksymää tekstiä."
+            },
+            {
+              "name": "Blogin hallinta",
+              "blurb": "Julkaisukalenteri, kirjoittaminen, julkaisu ja sisäinen linkitys."
+            },
+            {
+              "name": "Laskeutumissivujen suunnittelu",
+              "blurb": "Täsmäsivut palveluille, kampanjoille ja mainosliikenteelle."
+            },
+            {
+              "name": "Palvelusivujen luominen",
+              "blurb": "Yksi konversio-optimoitu sivu kutakin vaivaa tai hoitomuotoa kohden."
+            },
+            {
+              "name": "Konversio-optimointi (CRO)",
+              "blurb": "Hypoteesilähtöinen A/B-testaus todellisella potilasliikenteellä."
+            },
+            {
+              "name": "Liidimagneettien luominen",
+              "blurb": "Iho-oppaat, tarkistuslistat ja testit, jotka aktivoivat potilaita."
+            },
+            {
+              "name": "Uutiskirjeiden käyttöönotto",
+              "blurb": "Brändätyt pohjat, automaatiot ja sähköpostilistan segmentointi."
+            },
+            {
+              "name": "Call-to-Action -optimointi",
+              "blurb": "Painikkeiden, lomakkeiden ja ostopolkujen testaus ajanvarausten maksimoimiseksi."
+            }
+          ]
+        },
+        "seo": {
+          "title": "SEO ja analytiikka",
+          "tagline": "Nouse hakutuloksissa. Mittaa olennaista. Osoita ROI.",
+          "items": [
+            {
+              "name": "Paikallinen SEO",
+              "blurb": "Hallitse karttahakuja jokaisella alueella, jolla palvelet."
+            },
+            {
+              "name": "Tekninen SEO-auditointi",
+              "blurb": "Indeksointi, skeemat ja Core Web Vitals — perusteellisesti tarkistettuna."
+            },
+            {
+              "name": "Schema-merkintöjen toteutus",
+              "blurb": "MedicalBusiness, FAQ, ja Service -skeemat asennettuna."
+            },
+            {
+              "name": "Google Business Profile -optimointi",
+              "blurb": "Kuvat, postaukset ja UKK — viritetty paikalliseen hakuun."
+            },
+            {
+              "name": "Analytiikka ja raportointi",
+              "blurb": "Selkokieliset kuukausiraportit, jotka linkittyvät varattuihin aikoihin."
+            },
+            {
+              "name": "Konversioseurannan asennus",
+              "blurb": "GA4-, GTM- ja CRM-tapahtumat yhdistettynä päästä päähän."
+            },
+            {
+              "name": "Puheluseurannan asennus",
+              "blurb": "Dynaamiset numerot lähteittäin. Jokainen puhelu kohdistetaan oikein."
+            },
+            {
+              "name": "Lämpökartat ja käyttäjäseuranta",
+              "blurb": "Näe missä potilaat epäröivät — ja korjaa pullonkaulat."
+            },
+            {
+              "name": "Kilpailija-analyysi SEO:ssa",
+              "blurb": "Analyysi klinikoista, jotka sijoittuvat hakutuloksissa yläpuolellesi."
+            }
+          ]
+        },
+        "integrations": {
+          "title": "Integraatiot ja automaatio",
+          "tagline": "Yksi saumaton kokonaisuus. Ei kopiointia. Ei menetettyjä liidejä.",
+          "items": [
+            {
+              "name": "Online-ajanvarauksen integraatio",
+              "blurb": "Zocdoc, NexHealth, Modernizing Medicine — natiivisti yhdistettynä."
+            },
+            {
+              "name": "Potilasportaalin integraatio",
+              "blurb": "Turvallinen kertakirjautuminen (SSO) potilastietojärjestelmään, mobiilioptimoitu."
+            },
+            {
+              "name": "CRM-integraatio",
+              "blurb": "HubSpot, Salesforce, Keap — liidit siirtyvät reaaliajassa."
+            },
+            {
+              "name": "Live Chat -käyttöönotto",
+              "blurb": "AI:n ja ihmisen hybridi-chat, koulutettu vastaamaan palveluihisi ja UKK:ihin."
+            },
+            {
+              "name": "Sähköpostimarkkinoinnin integraatio",
+              "blurb": "Mailchimp, Klaviyo, ActiveCampaign, ConvertKit."
+            },
+            {
+              "name": "Markkinointiautomaation asennus",
+              "blurb": "Hoitopolut, muistutukset ja syntymäpäiväedut."
+            },
+            {
+              "name": "Maksupalveluintegraatio",
+              "blurb": "Stripe, Square, CareCredit — HIPAA-huomioitu maksaminen."
+            },
+            {
+              "name": "Etävastaanotto-integraatio",
+              "blurb": "Doxy.me, Zoom for Healthcare tai klinikkasi nykyinen alusta."
+            },
+            {
+              "name": "Kolmannen osapuolen ohjelmistot",
+              "blurb": "Mikä tahansa API tai työkalu — me rakennamme sillan."
+            }
+          ]
+        },
+        "growth": {
+          "title": "Kasvumarkkinointi",
+          "tagline": "Potilasmäärien kasvattamista kuukausi kuukaudelta.",
+          "items": [
+            {
+              "name": "Maineenhallinta",
+              "blurb": "Valvo, vastaa ja suojele klinikkasi mainetta verkossa."
+            },
+            {
+              "name": "Arvioiden keräysjärjestelmä",
+              "blurb": "Automatisoidut arvostelupyynnöt käynnin jälkeen — eettisesti ja laajasti."
+            },
+            {
+              "name": "Sosiaalisen median hallinta",
+              "blurb": "Sisällöt, vuorovaikutus ja strategia Instagramiin sekä TikTokiin."
+            },
+            {
+              "name": "Google Ads -hallinta",
+              "blurb": "Hakusanamainonta ja Performance Max optimoituna varauksen hintaan."
+            },
+            {
+              "name": "Facebook- ja Instagram-mainokset",
+              "blurb": "Esteettiset ja lääketieteelliset myyntiputket jatkuvalla visuaalisella uudistuksella."
+            },
+            {
+              "name": "Uudelleenmarkkinointi (Retargeting)",
+              "blurb": "Tavoita uudelleen ne 96 % vierailijoista, jotka poistuivat varaamatta aikaa."
+            },
+            {
+              "name": "Verkkokaupan markkinointi",
+              "blurb": "Ihonhoitotuotteiden myynti verkossa — Shopify, mainokset, sähköposti ja SEO."
+            },
+            {
+              "name": "Kuukausittainen kasvun raportointi",
+              "blurb": "Yksi näkymä. Todelliset luvut. Suora yhteys liikevaihtoon."
+            }
+          ]
+        }
+      }
+    }
+  },
+  "cta": {
+    "heading": "Etkö ole varma mitä klinikkasi tarvitsee?",
+    "headingItalic": "Saat räätälöidyn suunnitelman 24 tunnissa.",
+    "description": "Kerro tavoitteistasi, nykyisistä työkaluistasi ja toimipisteistäsi. Luomme lisäpalvelusuunnitelman hintoineen ja aikatauluineen — ilman sitoumuksia.",
+    "primary": "Pyydä räätälöity suunnitelma",
+    "secondary": "Tilaa ensin ilmainen sivustoauditointi"
+  },
+  "faq": {
+    "badge": "UKK",
+    "heading": "Vastauksia kysymyksiisi.",
+    "description": "Yleisimmät kysymykset ihotautiklinikoilta ennen palveluiden yhdistämistä. Tarvitsetko lisätietoja? Täydellisestä UKK:stamme löytyy kaikki.",
+    "items": [
+      {
+        "q": "Voinko lisätä palveluita nykyiseen verkkosivusopimukseeni?",
+        "a": "Kyllä. Jokainen lisäpalvelu on suunniteltu toimimaan nykyisellä DermatologyWebsiteDesign.com-alustallasi tai sivustolla, jonka otamme ylläpitoomme. Useamman palvelun yhdistäminen tuo paljousalennuksen, joka näkyy tarjouksellasi."
+      },
+      {
+        "q": "Ovatko nämä lisäpalvelut HIPAA-yhteensopivia?",
+        "a": "Kaikki integraatiot, lomakkeet, hostausratkaisut ja analytiikka-asennukset ovat oletusarvoisesti HIPAA-huomioituja. Toimitamme tarvittavat BAA-sopimukset ja auditoimme PHI-suojan lomakkeissa, chateissa ja markkinointipikseleissä."
+      },
+      {
+        "q": "Täytyykö minun sitoutua pitkään sopimukseen?",
+        "a": "Ei. Lisäpalvelut laskutetaan kuukausittain, ellet valitse alennukseen oikeuttavaa vuosisopimusta. Kaikki aineisto — koodi, sisältö, tunnukset ja varmuuskopiot — säilyvät sinulla, jos päätät lopettaa."
+      },
+      {
+        "q": "Kuinka nopeasti lisäpalvelu saadaan käyttöön?",
+        "a": "Useimmat integraatiot, seuranta-asennukset ja sisältötyöt valmistuvat 3–10 arkipäivässä. Suuremmat projektit, kuten laajat CRO-ohjelmat tai migraatiot, noudattavat erikseen sovittua aikataulua."
+      },
+      {
+        "q": "Tuetteko sivustoja, joita ette ole itse rakentaneet?",
+        "a": "Kyllä. Maksullisen teknisen auditoinnin jälkeen voimme ottaa ylläpitoomme olemassa olevat dermatologian sivustot (WordPress, Webflow, kustomoidut tai headless-ratkaisut) ja lisätä niihin palveluitamme."
+      }
+    ]
+  },
+  "footerLinks": {
+    "prefix": "Lue myös näistä:",
+    "management": "verkkosivujen kokonaishallinta",
+    "maintenance": "jatkuvat ylläpitosuunnitelmat",
+    "pricing": "mitä kuhunkin pakettiin kuuluu"
+  }
+}

@@ -1,0 +1,345 @@
+{
+  "meta": {
+    "title": "Tarifs Site Web Dermatologie — Forfaits, Packs & Coûts Transparents",
+    "description": "Tarification transparente pour sites de dermatologie. Création unique de 797 $ à 18 999 $+, packs mensuels dès 399 $ et options à la carte. Anticipez votre budget avant de nous contacter.",
+    "og": {
+      "title": "Tarifs Site Web Dermatologie — Forfaits, Packs & Coûts",
+      "description": "Six forfaits web, trois solutions spécialisées, quatre packs mensuels et plus de 20 options à la carte — avec simulateur de coût en direct. Une transparence totale."
+    },
+    "jsonLd": {
+      "breadcrumb": {
+        "home": "Accueil",
+        "plans": "Forfaits & Tarifs"
+      },
+      "priceSpec": {
+        "name": "Packs Création de Site Dermatologie"
+      }
+    }
+  },
+  "hero": {
+    "badge": "Tarification Transparente",
+    "heading": "Tous nos prix, sans détour. Aucune facture surprise.",
+    "description": "Six forfaits de création, trois solutions métiers, quatre packs mensuels et plus de 20 options à la carte — profitez de notre simulateur en direct pour connaître votre budget avant même de nous parler.",
+    "cta": "Voir les forfaits web",
+    "estimatorCta": "Simulateur de coût en direct"
+  },
+  "stats": {
+    "launched": "Cabinets lancés avec succès",
+    "satisfaction": "Satisfaction client moyenne",
+    "startingPrice": "Prix de départ (création)",
+    "turnaround": "Délai moyen des retouches"
+  },
+  "trust": {
+    "ariaLabel": "Confiance et garanties",
+    "guarantee": "Garantie 30 jours sur les frais de création",
+    "guaranteeSub": "Pas satisfait avant le lancement ? Remboursement au prorata, sans justificatif.",
+    "features": [
+      "Compatible HIPAA",
+      "SSL + Sauvegardes",
+      "Sans engagement",
+      "Propriété intégrale du site"
+    ]
+  },
+  "sections": {
+    "websitePackages": {
+      "label": "01 — Forfaits de création de site",
+      "title": "Coût fixe. Six paliers clairs.",
+      "description": "Choisissez la dimension adaptée à vos besoins actuels — évoluez à mesure que votre cabinet grandit. Chaque prix inclut le design, le développement, le lancement et les révisions.",
+      "popular": "Le plus populaire",
+      "flagship": "Version Flagship",
+      "otherAgencies": "Autres agences :",
+      "bestFor": "Idéal pour :",
+      "startWith": "Commencer avec {{name}}",
+      "footer": "Tous les prix sont en USD. Frais de création uniques. Aucun abonnement mensuel obligatoire.",
+      "items": [
+        {
+          "name": "Starter",
+          "subtitle": "One Page",
+          "bestFor": "Nouveau cabinet, dermatologue libéral, page de destination",
+          "price": "797 $",
+          "priceNote": "paiement unique",
+          "savings": "20 à 68 % moins cher",
+          "features": [
+            "Site d'une seule page (scrolling)",
+            "Design responsive mobile",
+            "Formulaire de contact + Click-to-call",
+            "Intégration Google Map",
+            "SEO technique de base",
+            "Guide d'installation SSL + Hébergement",
+            "Livraison : 1 semaine",
+            "1 cycle de révisions"
+          ],
+          "cons": [
+            "Pas de blog ni de portail patient"
+          ]
+        },
+        {
+          "name": "Clinic Pro",
+          "subtitle": "5 à 8 Pages",
+          "bestFor": "Cabinet individuel ou petite clinique établie",
+          "price": "1 997 $",
+          "priceNote": "paiement unique",
+          "savings": "33 à 60 % moins cher",
+          "features": [
+            "Accueil, À propos, Services (3-5), Contact",
+            "Réservation de rendez-vous en ligne",
+            "Galerie photos Avant/Après",
+            "Bio du médecin + page de diplômes",
+            "SEO local + optimisation GBP",
+            "Formulaire de contact compatible HIPAA",
+            "Optimisation de la vitesse",
+            "Livraison : 2 à 3 semaines",
+            "2 cycles de révisions"
+          ]
+        },
+        {
+          "name": "Practice Growth",
+          "subtitle": "10 à 15 Pages",
+          "bestFor": "Cabinet en croissance, dermato esthétique",
+          "price": "4 499 $",
+          "priceNote": "paiement unique",
+          "savings": "10 à 55 % moins cher",
+          "features": [
+            "Site multi-pages complet",
+            "Pages dédiées par type de traitement",
+            "Intégration du portail patient",
+            "Configuration Blog (5 premiers articles)",
+            "SEO local avancé",
+            "Optimisation Core Web Vitals",
+            "Logo + identité visuelle de base",
+            "Balises Open Graph + Schema",
+            "Livraison : 3 à 4 semaines",
+            "3 cycles de révisions"
+          ]
+        },
+        {
+          "name": "E-Commerce",
+          "subtitle": "Boutique de Produits",
+          "bestFor": "Dermatologue vendant des soins cutanés",
+          "price": "6 999 $",
+          "priceNote": "paiement unique",
+          "savings": "12 à 53 % moins cher",
+          "features": [
+            "Site vitrine (10+ pages)",
+            "Boutique WooCommerce OU Shopify",
+            "Catalogue produits (30 références)",
+            "Passerelle de paiement (Stripe / PayPal)",
+            "Système de gestion des commandes",
+            "Suite SEO e-commerce complète",
+            "RDV + Boutique combinés",
+            "Livraison : 4 à 6 semaines"
+          ]
+        },
+        {
+          "name": "Authority Brand",
+          "subtitle": "Sur-mesure Premium",
+          "bestFor": "Multi-sites, cabinet à fort CA",
+          "price": "12 999 $",
+          "priceNote": "paiement unique",
+          "savings": "13 à 56 % moins cher",
+          "features": [
+            "Design sur mesure (aucun template)",
+            "20+ pages + pages localisées",
+            "Branding complet + pack logo",
+            "Boutique e-commerce incluse",
+            "Portail patient + portail médecin",
+            "Configuration HIPAA complète",
+            "30 articles de blog / pages de soins",
+            "Intégration vidéo",
+            "SEO inclus pendant 6 mois",
+            "Gestionnaire de compte dédié",
+            "Livraison : 6 à 10 semaines"
+          ]
+        },
+        {
+          "name": "Enterprise Multi-Site",
+          "subtitle": "DSO / Multi-Établissements",
+          "bestFor": "Groupements DSO, 3+ sites, réseaux nationaux",
+          "price": "18 999 $+",
+          "priceNote": "sur devis",
+          "savings": "24 %+ moins cher",
+          "features": [
+            "Architecture multi-sites",
+            "Page dédiée pour chaque établissement",
+            "Contrôle CMS centralisé",
+            "Branding unifié sur tout le réseau",
+            "SEO local multi-sites",
+            "Portail personnel par site",
+            "Devis personnalisé selon l'ampleur",
+            "Support prioritaire"
+          ]
+        }
+      ]
+    },
+    "specialty": {
+      "label": "02 — Forfaits spécialisés",
+      "title": "Des alternatives conçues pour des besoins précis.",
+      "description": "Des options hors-forfait pour des besoins spécifiques : lancement rapide sur template, télé-médecine ou sur-mesure haut de gamme.",
+      "market": "Marché :",
+      "cta": "Choisir ce forfait",
+      "items": [
+        {
+          "name": "Site Template",
+          "desc": "Site basé sur un modèle dermatologique pré-conçu, personnalisé avec votre logo et vos textes. Livraison : 5 jours. Personnalisation limitée mais rapide et économique."
+        },
+        {
+          "name": "Configuration Télé-santé / Portail",
+          "desc": "Intégration télémédecine (Doxy.me, Zoom Health), portail patient, messagerie sécurisée et prise de RDV. Peut être ajouté à n'importe quel pack."
+        },
+        {
+          "name": "Site Custom Premium",
+          "desc": "Le compromis idéal entre Practice Growth et Authority Brand. 15-20 pages, design 100% sur mesure, SEO avancé et 3 mois de support post-lancement."
+        }
+      ]
+    },
+    "bundles": {
+      "label": "03 — Packs mensuels tout-en-un",
+      "title": "Services récurrents, groupés pour économiser.",
+      "description": "Ajoutez un pack mensuel à n'importe quelle création de site. Économisez de 15 à 25 % par rapport aux services à la carte — résiliation sous 30 jours, à tout moment.",
+      "recommended": "Le plus recommandé",
+      "bestLtv": "Meilleure valeur à long terme",
+      "add": "Ajouter {{name}}",
+      "items": [
+        {
+          "name": "Pack Essentiel",
+          "tag": "Hébergement + Maintenance + SEO Local",
+          "desc": "Hébergement + sécurité + mises à jour mensuelles + suivi SEO local + gestion GBP. Économisez 99 $/mois vs. tarifs unitaires."
+        },
+        {
+          "name": "Pack Croissance",
+          "tag": "Essentiel + Campagne SEO complète",
+          "desc": "Tout le Pack Essentiel + campagne SEO intégrale (contenu, backlinks, SEO technique, rapports de positionnement). Notre recommandation principale."
+        },
+        {
+          "name": "Pack Marketing",
+          "tag": "SEO + Google Ads + Social + Avis",
+          "desc": "SEO complet + gestion Google Ads + réseaux sociaux (8 posts/mois) + système de génération d'avis. Couverture digitale totale."
+        },
+        {
+          "name": "Pack Full-Stack",
+          "tag": "Tout inclus — Croissance Maximale",
+          "desc": "Pack Marketing + campagnes CRM email + 2 articles de blog/mois + veille de réputation + session stratégique trimestrielle + support prioritaire."
+        }
+      ]
+    },
+    "addOns": {
+      "label": "04 — Services complémentaires & tarifs à la carte",
+      "title": "Chaque option, chaque prix.",
+      "description": "Trente-sept services tarifés individuellement — incluant la configuration d'emails transactionnels SMTP. Visualisez vos économies grâce au comparatif des prix du marché.",
+      "table": {
+        "service": "Service complémentaire",
+        "ourPrice": "Notre prix",
+        "market": "Prix du marché",
+        "type": "Type",
+        "bestFor": "Idéal pour"
+      }
+    },
+    "custom": {
+      "badge": "Besoin de sur-mesure ?",
+      "title": "DSO, réseau hospitalier ou projet spécifique ?",
+      "description": "Pour les groupes DSO et les réseaux multi-sites, nous concevons un programme sur mesure à prix forfaitaire avec ingénierie dédiée et équipe de gestion de compte nommée.",
+      "quoteCta": "Demander un devis sur mesure",
+      "pricingCta": "Voir les Tarifs & Forfaits"
+    }
+  },
+  "estimator": {
+    "label": "05 — Simulateur de coût en direct",
+    "title": "Calculez votre budget avant de nous contacter.",
+    "description": "Choisissez un forfait, ajoutez un pack mensuel et cumulez les options — le total se met à jour instantanément.",
+    "form": {
+      "websitePackage": "Forfait création de site",
+      "monthlyBundle": "Pack mensuel",
+      "logo": "Design de logo · 450 $ l'unité",
+      "extraPages": "Pages de soins supplémentaires · 200 $ l'unité",
+      "blogPosts": "Articles de blog · 120 $ l'unité",
+      "portal": "Intégration portail patient",
+      "portalAdd": "+999 $ (paiement unique)"
+    },
+    "aria": {
+      "decrease": "Diminuer",
+      "increase": "Augmenter"
+    },
+    "summary": {
+      "title": "Votre estimation",
+      "build": "Création du site",
+      "bundle": "Pack mensuel",
+      "oneTime": "Total paiement unique",
+      "monthly": "Mensualité récurrente",
+      "yearOne": "Total première année",
+      "ongoing": "Puis {{amount}} / an par la suite",
+      "lockIn": "Bloquer ce devis"
+    }
+  },
+  "testimonials": {
+    "label": "Témoignages clients",
+    "title": "Des prix prévisibles, des résultats concrets.",
+    "items": [
+      {
+        "name": "Dr Meera Balakrishnan, MD",
+        "role": "NBS Laser",
+        "quote": "Des tarifs transparents. Aucune facture surprise. Nous connaissions le montant exact avant de signer — et la facturation a été identique chaque mois."
+      },
+      {
+        "name": "Dr Julian Reyes, MD",
+        "role": "CP Dermatology",
+        "quote": "Le forfait Clinic Pro a été rentabilisé dès le deuxième mois. La seule refonte du flux de réservation a doublé nos demandes de rendez-vous."
+      }
+    ]
+  },
+  "faq": {
+    "label": "06 — Questions fréquentes",
+    "title": "Vos questions sur nos tarifs, nos réponses.",
+    "items": [
+      {
+        "q": "Dois-je payer une fois, mensuellement, ou les deux ?",
+        "a": "Les forfaits web sont des frais de création uniques (de Starter à Enterprise). Les services récurrents — hébergement, SEO, publicités, contenu, maintenance — font l'objet de packs mensuels ou d'achats à la carte. La plupart des cliniques combinent un pack de création et un abonnement mensuel. La somme totale exacte figurera toujours sur votre proposition écrite."
+      },
+      {
+        "q": "Qu'est-ce qui est inclus dans le prix de création unique ?",
+        "a": "Le design, le développement, la structuration du contenu, le SEO technique, les intégrations du forfait choisi, les formulaires HIPAA si applicable, le lancement et les révisions prévues. Aucun coût horaire n'est facturé pendant la création — le prix annoncé est le prix payé."
+      },
+      {
+        "q": "Suis-je obligé de souscrire à un pack mensuel ?",
+        "a": "Non. Les packs mensuels sont optionnels. Vous pouvez conserver votre propre hébergement et gérer le site vous-même, ou choisir des options à la carte. Les packs permettent simplement d'économiser par rapport à l'achat individuel des services."
+      },
+      {
+        "q": "Puis-je passer du forfait Starter à Clinic Pro plus tard ?",
+        "a": "Oui. Chaque forfait repose sur le même système de conception. L'évolution se fait par ajustement de périmètre : vous payez la différence et les éventuels travaux de migration. Rien n'est perdu."
+      },
+      {
+        "q": "Suis-je propriétaire de mon site si j'arrête le paiement mensuel ?",
+        "a": "Vous êtes propriétaire de votre site dans tous les cas. Le domaine, les éléments visuels, le contenu, le code et la base de données vous appartiennent. L'arrêt d'un pack mensuel interrompt le service associé, mais le site continue de fonctionner sur l'hébergement de votre choix."
+      },
+      {
+        "q": "La conformité HIPAA / BAA est-elle incluse ?",
+        "a": "L'architecture compatible HIPAA est incluse dès le forfait Clinic Pro. Un accord BAA signé est inclus dans les forfaits Authority Brand et Enterprise Multi-Site, et disponible en option pour les autres forfaits si un formulaire collecte des données de santé (PHI)."
+      },
+      {
+        "q": "Et si j'ai besoin d'une fonctionnalité non répertoriée ?",
+        "a": "Les demandes spécifiques — intégrations sur mesure, nouvelles fonctionnalités, synchronisation EHR, import de catalogues — font l'objet d'un devis forfaitaire après étude. Vous recevrez toujours un périmètre et un prix écrits avant tout début de travaux."
+      },
+      {
+        "q": "Proposez-vous des remboursements ?",
+        "a": "La création du site est remboursable au prorata jusqu'à l'approbation finale avant lancement. Les packs mensuels ne sont pas remboursables pour le cycle en cours, mais vous pouvez annuler à tout moment avec un préavis de 30 jours."
+      }
+    ]
+  },
+  "cta": {
+    "badge": "Sans engagement · Propriété totale",
+    "title": "Prêt à connaître votre tarif exact ?",
+    "description": "Obtenez un périmètre écrit, un devis fixe de création et une recommandation de pack lors d'un appel de 20 minutes. Sans pression ni obligation.",
+    "button": "Obtenir mon devis",
+    "delivery": "Proposition écrite sous 48 heures"
+  },
+  "related": {
+    "text": "Lectures complémentaires : ",
+    "process": "notre méthode de réalisation",
+    "portfolio": "aperçu de nos derniers lancements",
+    "caseStudies": "résultats réels de nos clients"
+  },
+  "stickyCta": {
+    "label": "Obtenir un devis fixe",
+    "description": "Proposition écrite · 48h",
+    "button": "Demander un devis"
+  }
+}

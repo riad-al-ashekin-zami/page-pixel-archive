@@ -1,0 +1,333 @@
+{
+  "meta": {
+    "title": "Chi siamo — Agenzia di web design per la dermatologia",
+    "description": "Realizziamo siti web conformi HIPAA e strategie di marketing per studi dermatologici. Scopri il team dietro i nostri successi.",
+    "ogTitle": "Chi siamo — Web Design per la Dermatologia",
+    "ogDescription": "Un'agenzia di nicchia al servizio degli studi dermatologici con siti web premium, SEO e acquisizione pazienti.",
+    "breadcrumbHome": "Home",
+    "breadcrumbAbout": "Chi siamo"
+  },
+  "hero": {
+    "kicker": "Dermatology Website Design",
+    "h1": "Gli specialisti dei <1>siti web per dermatologi.</1>",
+    "p": "Integriamo Esperienza, Competenza, Autorevolezza e Affidabilità (E-E-A-T) in ogni sito: i segnali fondamentali di Google per il settore sanitario (YMYL). Non siamo un'agenzia generalista. Siamo gli specialisti.",
+    "ctaPrimary": "Lavora con noi",
+    "ctaSecondary": "Scopri i servizi",
+    "hipaa": "Conformità HIPAA",
+    "ada": "Accessibilità ADA",
+    "rating": "Valutazione clienti 4.9/5",
+    "imgAlt": "Dermatologo certificato in una clinica moderna — rappresentazione degli studi per cui realizziamo siti web",
+    "badgeKicker": "Creato per la dermatologia",
+    "badgeText": "E · E · A · T — Segnale YMYL di Google"
+  },
+  "socialProof": {
+    "kicker": "Scelto da rinomati studi dermatologici · Presente su"
+  },
+  "stats": {
+    "launched": "Siti dermatologici lanciati",
+    "niche": "Specializzazione di nicchia",
+    "performance": "Punteggio medio Lighthouse",
+    "audit": "Tempi per l'audit gratuito"
+  },
+  "missionVision": {
+    "mission": {
+      "tag": "La nostra missione",
+      "title": "Aiutare i dermatologi a crescere senza lo stress del marketing.",
+      "body": "Uniamo design di alto livello, SEO etica e reportistica trasparente, permettendo ai medici di concentrarsi sui pazienti, non sulla gestione delle agenzie."
+    },
+    "vision": {
+      "tag": "La nostra visione",
+      "title": "Il partner digitale più affidabile della dermatologia.",
+      "body": "Una sola nicchia. Competenza profonda. Prezzi trasparenti. Vogliamo essere la scelta ovvia per ogni dermatologo che punta all'eccellenza."
+    }
+  },
+  "values": {
+    "kicker": "I nostri valori",
+    "header": "I principi che guidano ogni progetto.",
+    "cta": "Scopri come lavoriamo",
+    "compliance": {
+      "title": "Conformità al primo posto",
+      "description": "Architettura HIPAA, accessibilità ADA e hosting sicuro sono integrati nativamente, non aggiunti a posteriori."
+    },
+    "focus": {
+      "title": "Solo dermatologia",
+      "description": "Rifiutiamo progetti al di fuori di questo settore. Questa specializzazione spiega perché i nostri siti convertono il triplo."
+    },
+    "partnership": {
+      "title": "Veri partner",
+      "description": "Piani di assistenza mensili. Nessun contratto vincolante. Guadagniamo la tua fiducia ogni singolo mese."
+    },
+    "craft": {
+      "title": "Qualità, non quantità",
+      "description": "Seguiamo pochi studi alla volta affinché ogni progetto riceva l'attenzione dei nostri esperti senior dall'inizio alla fine."
+    }
+  },
+  "timeline": {
+    "h2": "La nostra storia <1>finora.</1>",
+    "p": "Una breve cronologia del nostro percorso — scorri per navigare tra gli anni.",
+    "kicker": "Il nostro percorso",
+    "hint": "Anno",
+    "2019": {
+      "title": "L'idea",
+      "description": "Dopo aver visto troppi dermatologi delusi da agenzie generiche, abbiamo deciso di creare qualcosa di meglio, dedicato esclusivamente a questa nicchia."
+    },
+    "2021": {
+      "title": "I primi 10 studi",
+      "description": "Abbiamo perfezionato le nostre strategie di conversione lavorando con singoli professionisti e piccole cliniche."
+    },
+    "2023": {
+      "title": "Braccio marketing per la crescita",
+      "description": "Abbiamo integrato SEO, PPC e sistemi di reputazione per permettere ai clienti di capitalizzare i risultati, non solo lanciare un sito."
+    },
+    "2026": {
+      "title": "Oltre 50 studi, un solo focus",
+      "description": "Sempre e solo dermatologia. Sempre guidati da esperti senior. Sempre con prezzi trasparenti."
+    }
+  },
+  "team": {
+    "kicker": "Il Team",
+    "header": "Guidati da esperti senior, focalizzati sulla specialità.",
+    "p": "Ogni progetto è curato da designer, sviluppatori e marketer senior: non deleghiamo mai il lavoro a figure junior.",
+    "design": {
+      "name": "Design Studio",
+      "role": "Brand & UI",
+      "bio": "Designer ossessionati da interfacce pulite e professionali, studiate per trasmettere fiducia in ambito medico."
+    },
+    "engineering": {
+      "name": "Sviluppo",
+      "role": "Web & Performance",
+      "bio": "Sviluppatori senior che realizzano siti veloci, accessibili e conformi HIPAA su stack tecnologici moderni."
+    },
+    "growth": {
+      "name": "Team Crescita",
+      "role": "SEO & Ads",
+      "bio": "Specialisti che comprendono come cercano i pazienti: SEO locale, campagne e CRO per la crescita dello studio."
+    }
+  },
+  "process": {
+    "kicker": "Il nostro metodo",
+    "header": "Sei fasi, <1>risultati prevedibili.</1>",
+    "p": "Ogni progetto segue lo stesso rigoroso processo — scorri per scoprire le tappe.",
+    "hint": "Fase",
+    "step1": {
+      "title": "Analisi",
+      "body": "Analizziamo il tuo sito attuale, mappiamo la concorrenza e definiamo gli obiettivi precisi che il tuo studio deve raggiungere."
+    },
+    "step2": {
+      "title": "Strategia e Proposta",
+      "body": "Riceverai per email un piano dettagliato: ambito, sitemap, tempistiche e prezzi trasparenti. Senza giri di parole."
+    },
+    "step3": {
+      "title": "Design",
+      "body": "Designer senior creano un sistema visivo specifico per la dermatologia: orientato alla fiducia, coerente col brand e ottimizzato per le conversioni."
+    },
+    "step4": {
+      "title": "Sviluppo",
+      "body": "Codice moderno e accessibile con CMS per i trattamenti, moduli conformi HIPAA e Core Web Vitals integrati."
+    },
+    "step5": {
+      "title": "QA e Conformità",
+      "body": "Controlli indipendenti su ogni pagina per accessibilità, sicurezza HIPAA, rifiniture cross-device e integrità SEO."
+    },
+    "step6": {
+      "title": "Lancio e Manutenzione",
+      "body": "Migrazione fluida con mappatura dei redirect, seguita da aggiornamenti costanti, monitoraggio e miglioramenti continui."
+    }
+  },
+  "clients": {
+    "kicker": "A chi ci rivolgiamo",
+    "header": "Creato per ogni tipologia di <1>studio dermatologico.</1>",
+    "p": "Dal singolo professionista ai gruppi multisede: adattiamo il sito alla gestione operativa del tuo studio.",
+    "solo": {
+      "title": "Dermatologi singoli",
+      "body": "Siti mirati e di grande impatto che stabiliscono credibilità e generano prenotazioni fin dal primo giorno."
+    },
+    "multi": {
+      "title": "Cliniche multi-sede",
+      "body": "Pagine dedicate alle sedi, branding unificato e Local SEO progettati per scalare su ogni indirizzo della clinica."
+    },
+    "aesthetic": {
+      "title": "Dermatologia Estetica",
+      "body": "Cataloghi trattamenti, gallerie prima/dopo e flussi di prenotazione specifici per la medicina estetica."
+    },
+    "pediatric": {
+      "title": "Dermatologia Pediatrica",
+      "body": "Design accogliente per i genitori con guide chiare alle patologie e percorsi di prenotazione facilitati."
+    },
+    "mohs": {
+      "title": "Chirurgia di Mohs e Chirurgica",
+      "body": "Pagine focalizzate sulle procedure, flussi per i referenti e materiale educativo orientato ai risultati."
+    },
+    "groups": {
+      "title": "Gruppi Dermatologici",
+      "body": "Elenchi dei medici, percorsi per i pazienti e flussi di gestione dei contenuti di livello enterprise."
+    }
+  },
+  "compliance": {
+    "kicker": "Fiducia e Conformità",
+    "header": "La privacy dei pazienti, protetta <1>fin dall'origine.</1>",
+    "p": "Architettura conforme HIPAA, accordi NDA e hosting pronto per BAA. La conformità è nel nostro DNA, non è un accessorio.",
+    "hipaa": {
+      "title": "Strutture conformi HIPAA",
+      "body": "Moduli, hosting e flussi di dati progettati pensando alla sicurezza dei dati sanitari (PHI)."
+    },
+    "baa": {
+      "title": "Hosting pronto per BAA",
+      "body": "Contratti Business Associate Agreement disponibili per ogni progetto lanciato."
+    },
+    "nda": {
+      "title": "Accordi NDA",
+      "body": "Standard per ogni incarico — file, comunicazioni e accessi sono rigorosamente protetti."
+    },
+    "phi": {
+      "title": "Niente PHI negli Analytics",
+      "body": "Tracciamento configurato per escludere i dati sensibili dagli strumenti di terze parti."
+    }
+  },
+  "tech": {
+    "kicker": "Tecnologia e Competenze",
+    "header": "Uno stack tecnologico <1>focalizzato e affidabile.</1>",
+    "p": "Scelto per stabilità, prestazioni e manutenibilità a lungo termine — non per moda.",
+    "stack": {
+      "title": "Next.js & WordPress",
+      "body": "React moderno o CMS headless, scelti in base alle esigenze del tuo team."
+    },
+    "hosting": {
+      "title": "Hosting conforme HIPAA",
+      "body": "Infrastruttura gestita, monitorata e idonea per accordi BAA."
+    },
+    "seo": {
+      "title": "SEO Tecnica",
+      "body": "Schema, gerarchia e indicizzabilità ottimizzati fin dal primo giorno."
+    },
+    "cwv": {
+      "title": "Core Web Vitals",
+      "body": "Budget di performance e pipeline degli asset perfettamente calibrati."
+    },
+    "cms": {
+      "title": "CMS Trattamenti",
+      "body": "Modelli di contenuti strutturati creati appositamente per i servizi dermatologici."
+    },
+    "cro": {
+      "title": "Analytics & CRO",
+      "body": "Misurazioni attente alla privacy e ottimizzazione costante dei tassi di conversione."
+    },
+    "a11y": {
+      "title": "Accessibilità (WCAG)",
+      "body": "Standard di livello AA integrati in ogni componente del sito."
+    },
+    "care": {
+      "title": "Manutenzione continua",
+      "body": "Aggiornamenti, backup e monitoraggio dell'uptime: il tuo sito sarà sempre al top."
+    }
+  },
+  "structure": {
+    "kicker": "Struttura Operativa",
+    "header": "Dipartimenti reali, <1>non una rete di freelance.</1>",
+    "p": "Sei team specializzati e un Project Manager dedicato: ruoli chiari, responsabilità certa e nessun passaggio di consegne a sconosciuti.",
+    "status": "Attivo",
+    "pm": {
+      "title": "Project Management",
+      "body": "Un PM dedicato responsabile di tempistiche, obiettivi e comunicazioni."
+    },
+    "content": {
+      "title": "Contenuti",
+      "body": "Copywriting pronto per la revisione medica che riflette l'identità del tuo studio."
+    }
+  },
+  "faq": {
+    "kicker": "FAQ",
+    "header": "Domande frequenti, <1>risposte chiare.</1>",
+    "q1": {
+      "q": "Il mio sito dermatologico sarà conforme HIPAA fin da subito?",
+      "a": "Sì. Moduli, hosting e flussi di dati sono progettati per la sicurezza dei dati PHI, e un BAA è disponibile su richiesta. Configuriamo anche gli analytics per tenere i dati protetti fuori dai tool di terze parti."
+    },
+    "q2": {
+      "q": "Quanto tempo richiede la creazione di un sito?",
+      "a": "La maggior parte dei siti per studi singoli viene lanciata in 6-10 settimane. Progetti multisede o migrazioni complesse solitamente richiedono 10-14 settimane. Riceverai un cronoprogramma dettagliato prima di iniziare."
+    },
+    "q3": {
+      "q": "Di chi sarà la proprietà del sito e dei contenuti dopo il lancio?",
+      "a": "Tua al 100%. Codice, contenuti, asset, account hosting e dominio rimangono di tua proprietà. Nessun legame forzato o CMS proprietario da cui non poter uscire."
+    },
+    "q4": {
+      "q": "Vi occupate della migrazione dal nostro sito attuale?",
+      "a": "Sì. Migriamo contenuti, redirect, media e autorità SEO da WordPress, Squarespace, Wix o strutture personalizzate, con una mappatura dei redirect per non perdere posizionamento."
+    },
+    "q5": {
+      "q": "Quali sono i costi?",
+      "a": "I progetti a canone fisso partono da una base di cinque cifre (nell'ordine delle migliaia) a seconda del numero di pagine e integrazioni. I piani di assistenza partono da un canone mensile ridotto. Trovi le fasce di prezzo nella nostra pagina Prezzi."
+    },
+    "q6": {
+      "q": "Fornite assistenza dopo il lancio?",
+      "a": "Certamente. Ogni lancio include l'opzione per un piano di assistenza che copre aggiornamenti, backup, monitoraggio, patch di sicurezza e modifiche mensili ai contenuti."
+    },
+    "q7": {
+      "q": "Potete lavorare sotto accordo di riservatezza (NDA)?",
+      "a": "Assolutamente. Gli NDA sono lo standard per ogni nostra collaborazione, con accessi limitati, spazi di lavoro privati e gestione riservata dei dati."
+    }
+  },
+  "cta": {
+    "kicker": "Audit gratuito del sito",
+    "header": "Pronto a far crescere il tuo <1>studio dermatologico?</1>",
+    "p": "Un team senior, un piano chiaro e un sito web costruito per attirare pazienti reali — partendo da un audit gratuito in 48 ore del tuo sito attuale.",
+    "primary": "Richiedi audit gratuito",
+    "secondary": "Parla con noi",
+    "next": "Cosa succede dopo",
+    "step1": {
+      "title": "Audit gratuito in 48 ore",
+      "body": "Analizziamo il tuo sito attuale: SEO, UX, HIPAA e performance."
+    },
+    "step2": {
+      "title": "Proposta personalizzata",
+      "body": "Un piano scritto con priorità, tempistiche e costi — consegnato direttamente nella tua casella email."
+    },
+    "step3": {
+      "title": "Lancio in 6–10 settimane",
+      "body": "Design, sviluppo, controllo qualità HIPAA e una migrazione senza intoppi."
+    },
+    "footer": {
+      "hipaa": "Conformità HIPAA",
+      "nda": "Pronto per NDA",
+      "ownership": "Tua la piena proprietà"
+    }
+  },
+  "footerLinks": {
+    "text": "Potrebbe interessarti anche:",
+    "portfolio": "uno sguardo ai nostri lavori recenti",
+    "process": "come gestiamo ogni progetto",
+    "pricing": "i dettagli sull'investimento"
+  },
+  "testimonials": {
+    "ariaLabel": "Mostra testimonianza {{index}}",
+    "ariaStars": "5 stelle su 5",
+    "t1": {
+      "quote": "Hanno rifatto il nostro sito e le prenotazioni di nuovi pazienti sono balzate del 62% in 90 giorni.",
+      "name": "Dott.ssa Alicia Moreno",
+      "role": "Dermatologa Certificata"
+    },
+    "t2": {
+      "quote": "Finalmente un'agenzia che capisce davvero HIPAA, YMYL e la SEO per la dermatologia.",
+      "name": "Dott. Rahul Menon",
+      "role": "Chirurgia di Mohs e Dermatologia Estetica"
+    },
+    "t3": {
+      "quote": "Design pulito, sito veloce e un team che risponde in giornata. Raro.",
+      "name": "Dott.ssa Emily Chen",
+      "role": "Dermatologia Pediatrica"
+    },
+    "p1": {
+      "quote": "Hanno ricostruito il nostro sito, raddoppiato le prenotazioni in 90 giorni e capiscono davvero la dermatologia medica. Nessuna agenzia provata in precedenza si è minimamente avvicinata.",
+      "name": "Dott.ssa Rachel Meyers, MD, FAAD"
+    },
+    "p2": {
+      "quote": "Ogni pagina sembra scritta da un vero dermatologo. Le richieste di trattamento sono aumentate in poche settimane e il sito finalmente riflette il livello di cura che offriamo.",
+      "name": "Dott. Jonathan Pierce, MD"
+    },
+    "p3": {
+      "quote": "Prezzi chiari, niente chiacchiere e un team capace di dare consigli onesti. Il rilancio del sito è stata la migliore decisione di marketing che abbiamo preso.",
+      "name": "Dott.ssa Priya Shah, MD"
+    }
+  },
+  "skip": "Vai al contenuto principale"
+}

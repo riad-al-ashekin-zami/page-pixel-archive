@@ -1,0 +1,64 @@
+{
+  "slug": "dermatology-seo-playbook-2026",
+  "title": "2026 års SEO-strategi för dermatologi: Rankas på 90 dagar",
+  "excerpt": "De exakta sökordsklustren, tekniska lösningarna och innehållsrytmen vi använder för att flytta dermatologmottagningar till första sidan – med verkliga tidslinjer.",
+  "imageAlt": "Analysinstrumentpanel på en bärbar dator i en ljus dermatologmottagning",
+  "body": [
+    {
+      "text": "Att ranka en dermatologmottagning på nittio dagar är inget löfte man avger lätt – men med rätt arkitektur är det repeterbart. I denna strategi presenterar vi det exakta nittiodagarsystemet vi använder för varje ny klient, från den första tekniska revisionen till den sista innehållspushen som vänder på situationen och flyttar målsökord till första sidan av Google."
+    },
+    {
+      "text": "Misstaget de flesta mottagningar gör är att behandla SEO som en checklista med taktiker snarare än ett system. De jagar enskilda blogginlägg, justerar titel-taggar och hoppas att momentum byggs upp. Det gör det inte. Vad som bygger momentum är en kluster-först-arkitektur, en ren teknisk grund och en innehållsrytm som ökar vecka efter vecka. Få dessa tre rätt, så blir rankningar en eftersläpande indikator – den naturliga konsekvensen av att göra rätt arbete i rätt ordning."
+    },
+    {
+      "heading": "1. Bygg det ämnesrelaterade klustret innan du skriver ett enda ord"
+    },
+    {
+      "text": "De flesta dermatologsajter förlorar i SERP eftersom deras innehåll finns på isolerade sidor. En Aesthetic-sida här, en rosacea-artikel där, en platssida i en annan silo – ingen av dem internt länkad på ett sätt som talar om för Google vad sajten är auktoritativ om. Istället för att skriva fristående artiklar grupperar vi tjänster, tillstånd och platser i ämnesrelaterade kluster. Varje kluster förankras av en pelarsida (säg, 'Aknebehandling i Denver') som internt länkar till varje stödjande artikel – 'orsaker till cystisk akne', 'bästa aknebehandlingar på klinik', 'myter om kost vid hormonell akne' – och varje stödjande artikel länkar tillbaka till pelaren."
+    },
+    {
+      "text": "Denna struktur gör två saker. För det första koncentrerar den ämnesauktoritet: varje bakåtlänk till en stödjande artikel överför värde till pelaren. För det andra gör den intern länkning uppenbar. Det finns ingen mer gissning om vad som ska länka till vad – klusterkartan talar om det för dig."
+    },
+    {
+      "heading": "2. Åtgärda den tekniska grunden först"
+    },
+    {
+      "text": "Innan du skriver något, kör en teknisk revision och fixa de icke förhandlingsbara. Rankning är ett lopp med viktklass – om dina Core Web Vitals är under 90 på mobilen, bär du redan på handikappvikt innan loppet börjar. Under våra första två veckor med en ny mottagning utför vi följande:"
+    },
+    {
+      "list": [
+        "Komprimera varje hjältebild till WebP eller AVIF (genomsnittlig 70% storleksminskning)",
+        "Få varje sida över 90 på mobila Core Web Vitals – LCP under 2.5s, CLS under 0.1, INP under 200ms",
+        "Lägg till FAQPage och MedicalBusiness strukturerad data till varje tjänstesida",
+        "Konsolidera duplicerade platssidor med kanoniska taggar",
+        "Åtgärda varje 404-fel som har inåtgående länkar och omdirigera borttagna URL:er",
+        "Skicka in en ren XML-sitemap och validera den i Search Console"
+      ]
+    },
+    {
+      "text": "Detta är inga glamorösa vinster, men de ackumuleras. När den tekniska grunden är ren, ärver allt innehåll du publicerar den hastigheten och strukturen – vilket innebär att Google indexerar det snabbare och användare konverterar på det oftare."
+    },
+    {
+      "heading": "3. Innehållsrytm som faktiskt ökar värdet"
+    },
+    {
+      "text": "Den enskilt viktigaste prediktorn för hastigheten på rankingen är publiceringskonsistens. Två pelarartiklar per månad, fyra tillståndsfokuserade inlägg och månadsvisa uppdateringar av de tre högst rankade sidorna. Det är rytmen – inget mer, inget mindre. Mottagningar som försöker sprinta bränner ut sig. Mottagningar som publicerar en gång i kvartalet bygger aldrig upp tillräckligt med yta för att fånga långsvanstrafik."
+    },
+    {
+      "text": "Varje pelarartikel är 1,800–2,400 ord, strukturerad kring intentionen bakom sökordet. Varje stödjande artikel är 900–1,400 ord, laserfokuserad på en enda fråga som en patient faktiskt skriver in i Google. Och varje uppdatering är en verklig uppdatering – ny introduktion, nya underavsnitt, uppdaterad statistik, färska interna länkar. Google belönar aktualitet när den omgivande ämnesauktoriteten redan finns där."
+    },
+    {
+      "quote": "De mottagningar som vinner på 90 dagar är de som slutar jaga taktiker och åtar sig ett system. Rankningar är en eftersläpande indikator på att upprepade gånger göra rätt sak."
+    },
+    {
+      "heading": "4. Tidslinjen på 90 dagar, vecka för vecka"
+    },
+    {
+      "text": "Veckorna 1–2 är revision och klusterkartläggning. Vi inventerar varje befintlig sida, tar bort eller konsoliderar allt som späder ut webbplatsen, och kartlägger de tre mest inflytelserika klustren baserat på tjänsteintäkter och sökbehov. Veckorna 3–6 är tekniska lösningar och omskrivningar av pelarsidor. Veckorna 7–10 är innehållspushen – vi publicerar sex nya stödjande artiklar och två nya pelare. Veckorna 11–13 är intern länkning, uppdateringar och utåtriktad verksamhet där vi förtjänar våra första märkta baklänkar."
+    },
+    {
+      "text": "Vid dag 90 är rörelsen mätbar – oftast har 8–15 målsökord flyttats från bortom position 50 in i topp 20, och ett eller två knackar redan på dörren till första sidan. Från den punkten tar ackumuleringen över: varje ny artikel ärver auktoritet från klustret, varje bakåtlänk flödar in i en sida som redan rankas, och systemet sköter sig självt med månabunden underhåll istället för kvartalsvisa ombyggnader."
+    }
+  ],
+  "faqs": null
+}

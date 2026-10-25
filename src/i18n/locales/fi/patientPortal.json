@@ -1,0 +1,257 @@
+{
+  "meta": {
+    "title": "Dermatologian potilasportaalin suunnittelu ja kehitys | HIPAA-yhteensopiva",
+    "description": "Räätälöity HIPAA-yhteensopiva potilasportaali dermatologian tarpeisiin: verkkoajanvaraus, suojatut viestit, etädermatologia, digitaaliset lomakkeet, laskun maksu ja EHR-integraatio. Suunniteltu solo-vastaanotoille, ketjuille ja erikoistuneille klinikoille.",
+    "og_title": "Dermatologian potilasportaalin suunnittelu ja kehitys",
+    "og_description": "Erityisesti ihotautilääkärien tarpeisiin kehitetyt HIPAA-tietoturvalliset potilasportaalit – ajanvaraus, viestintä, etävastaanotot ja potilastietojärjestelmien integraatiot.",
+    "twitter_title": "Dermatologian potilasportaalin suunnittelu ja kehitys",
+    "twitter_description": "HIPAA-tietoturvalliset potilasportaalit ihotautilääkärien ja dermatologian klinikoille.",
+    "jsonLd": {
+      "serviceType": "Dermatologian potilasportaalin suunnittelu ja kehitys",
+      "provider": "DermatologyWebsiteDesign.com",
+      "areaServed": "United States",
+      "description": "HIPAA-yhteensopivien potilasportaalien suunnittelu ja kehitys ihotautiklinikoille.",
+      "breadcrumb_home": "Etusivu",
+      "breadcrumb_services": "Palvelut",
+      "breadcrumb_portal": "Potilasportaali"
+    }
+  },
+  "hero": {
+    "badge": "Dermatologian potilasportaali",
+    "title_start": "Potilasportaali, jota klinikkasi ",
+    "title_highlight": "oikeasti haluaa käyttää.",
+    "description": "Yksilöllisesti toteutetut, HIPAA-vaatimukset täyttävät portaalit: 24/7 ajanvaraus, suojattu viestintä, etädermatologia, digitaalinen esitietolomake ja saumaton EHR-integraatio – suunniteltu kaikenkokoisille klinikoille.",
+    "cta_quote": "Pyydä maksuton tarjous",
+    "cta_features": "Tutustu ominaisuuksiin",
+    "stats": [
+      {
+        "value": "4–6 vk",
+        "label": "Julkaisuaika"
+      },
+      {
+        "value": "HIPAA",
+        "label": "Sertifioitu tietoturva"
+      },
+      {
+        "value": "24/7",
+        "label": "Itsepalveluvaraus"
+      },
+      {
+        "value": "Ei",
+        "label": "Potilaskohtaisia kuluja"
+      }
+    ]
+  },
+  "mockPortal": {
+    "header_category": "Potilasportaali",
+    "header_greeting": "Hyvää iltapäivää, Sarah",
+    "status": "Suojattu",
+    "items": [
+      {
+        "label": "Vuosittainen luomitarkastus",
+        "meta": "Pe · klo 14:30 · Dr. Patel"
+      },
+      {
+        "label": "Viesti lääkäriltä (Dr. Nguyen)",
+        "meta": "Biopsian tulos — hyvänlaatuinen ✓"
+      },
+      {
+        "label": "Reseptin uusimispyyntö",
+        "meta": "Tretinoin 0.05% · Apteekki #402"
+      },
+      {
+        "label": "Avoin lasku",
+        "meta": "48,20 € · Maksa yhdellä klikkauksella"
+      }
+    ],
+    "footer_encryption": "Päästä päähän -salattu",
+    "footer_biometrics": "Face ID käytössä"
+  },
+  "sections": {
+    "audiences": {
+      "title": "Suunniteltu seuraaville",
+      "items": [
+        "Yksityisvastaanotot",
+        "Monitoimipisteiset klinikkaketjut",
+        "Pediatrinen dermatologia",
+        "Mohs-kirurgia ja kirurginen dermatologia"
+      ]
+    },
+    "medical_services": {
+      "title": "Tukee kaikkia lääketieteellisiä palveluita",
+      "items": [
+        "Aknehoidot",
+        "Ekseeman hoito",
+        "Psoriasiksen hoito",
+        "Ihoinfektioiden hoito",
+        "Ihoallergioiden hoito",
+        "Ihosyövän seulonta ja hoito",
+        "Luomien arviointi ja poisto",
+        "Kystien ja lipoomien poisto",
+        "Syylien poisto",
+        "Kynsioireiden hoito",
+        "Hiustenlähdön hoito",
+        "Hiuspohjan vaivojen hoito",
+        "Rosacean hoito",
+        "Hyperpigmentaatio ja maksaläiskät",
+        "Arpien hoidot",
+        "Palovamma-arpien hoito",
+        "Vitiligon hoito",
+        "Ihonäytteet ja diagnostiikka"
+      ]
+    },
+    "metrics": {
+      "items": [
+        {
+          "value": "38 %",
+          "label": "Vähemmän no-show-peruutuksia"
+        },
+        {
+          "value": "4.9×",
+          "label": "Nopeampi vastausaika asiakaspalvelussa"
+        },
+        {
+          "value": "22 h",
+          "label": "Säästettyä työaikaa viikossa / henkilöstö"
+        }
+      ]
+    },
+    "testimonial": {
+      "quote": "Potilaamme lakkasivat viimeinkin soittamasta siirtääkseen aikoja. Varaukset, uusinnat ja biopsiatulokset hoituvat portaalissa – hoitajamme saivat iltapäivänsä takaisin.",
+      "author": "Dr. Priya Desai, MD",
+      "clinic": "Desai Dermatology · 3 sijaintia"
+    },
+    "core_features": {
+      "badge": "Ydinominaisuudet",
+      "title": "Kaikki mitä dermatologian potilas – ja klinikkasi henkilökunta – tarvitsee.",
+      "description": "Yksi suojattu alusta ajanvaraukseen, viestintään, kliinisiin työnkulkuihin ja maksuihin. Korvaa erilliset ja irralliset ohjelmistot yhdellä tehokkaalla ratkaisulla.",
+      "items": [
+        {
+          "title": "Ajanvaraus verkossa",
+          "desc": "Reaaliaikaiset kalenterit, vakuutustietojen esitarkistus ja automaattiset vahvistukset. 24/7-itsepalvelu, joka täyttää kalenterisi."
+        },
+        {
+          "title": "Suojattu potilasviestintä",
+          "desc": "HIPAA-salattu kahdensuuntainen chat potilaiden ja henkilökunnan välillä – sisältää lokitiedot ja lukukuittaukset."
+        },
+        {
+          "title": "Digitaaliset esitietolomakkeet",
+          "desc": "Salatut esitietolomakkeet ja sähköiset suostumukset täytetään ennen käyntiä – tiedot siirtyvät suoraan potilastietojärjestelmään."
+        },
+        {
+          "title": "Verkkomaksut ja laskutus",
+          "desc": "PCI-yhteensopivat korttimaksut ja paperittomat laskut. Kerää maksut nopeammin ja vaivattomammin."
+        },
+        {
+          "title": "Reseptien uusimispyynnöt",
+          "desc": "Yhden klikkauksen uusimispyynnöt suoraan oikealle lääkärille, sisältäen lääkityshistorian ja allergiatiedot."
+        },
+        {
+          "title": "Laboratorio- ja biopsiatulokset",
+          "desc": "Julkaise patologian ja laboratorion tulokset selkokielisillä yhteenvedoilla, jotka potilas oikeasti ymmärtää."
+        },
+        {
+          "title": "Etädermatologian vastaanotot",
+          "desc": "Salattu HD-video virtuaalisella odotushuoneella ja kuvien latauksella – ei tarvetta erilliselle telehealth-toimittajalle."
+        },
+        {
+          "title": "Älykkäät muistutukset",
+          "desc": "Tekstiviesti- ja sähköpostimuistutukset sekä vuosittaiset kutsut, jotka palauttavat 20–30 % menetetystä liikevaihdosta."
+        }
+      ]
+    },
+    "security": {
+      "badge": "Turvallisuus ja vaatimustenmukaisuus",
+      "title": "HIPAA-valmis ensimmäisestä koodirivistä alkaen.",
+      "description": "Tietoturva ei ole päälleliimattu ominaisuus. Jokainen arkkitehtuurinen päätös – hostauksesta tietokantoihin ja analytiikkaan – on suunniteltu suojaamaan terveystietoja ja läpäisemään auditoinnit.",
+      "cta": "Pyydä tietoturvaselvityksemme",
+      "items": [
+        {
+          "title": "HIPAA-tietoturva-arkkitehtuuri",
+          "desc": "Tiedot salattu (AES-256 ja TLS 1.3). BAA-sopimukset kaikkien alihankkijoiden kanssa."
+        },
+        {
+          "title": "Roolipohjainen pääsynhallinta",
+          "desc": "Yksityiskohtaiset käyttöoikeudet lääkäreille, hoitajille ja laskutukselle – täydellinen lokiseuranta."
+        },
+        {
+          "title": "MFA ja biometrinen kirjautuminen",
+          "desc": "Passkeys-, Face ID- ja TOTP-tunnistautuminen. Ei enää unohtuneita salasanoja tai kalastelualttiutta."
+        },
+        {
+          "title": "Perheen ja huoltajien pääsy",
+          "desc": "Valtuutettu pääsy vanhemmille ja omaishoitajille ikäperusteisella automaattisella oikeuksien hallinnalla."
+        }
+      ]
+    },
+    "workflow": {
+      "badge": "Näin toimimme",
+      "title": "Aloituksesta julkaisuun 4–6 viikossa.",
+      "steps": [
+        {
+          "step": "Vaihe 01",
+          "title": "Kartoitus ja EHR-auditointi",
+          "desc": "Käymme läpi nykyiset järjestelmäsi ja työnkulkusi 60 minuutin työpajassa."
+        },
+        {
+          "step": "Vaihe 02",
+          "title": "Portaalin suunnittelu ja brändäys",
+          "desc": "Yksilöllinen käyttöliittymä, joka vastaa klinikkasi visuaalista ilmettä."
+        },
+        {
+          "step": "Vaihe 03",
+          "title": "Integraatiot ja migraatio",
+          "desc": "EHR, e-reseptit ja maksutapojen yhdistäminen. Potilasdatan siirto turvallisesti."
+        },
+        {
+          "step": "Vaihe 04",
+          "title": "Koulutus ja julkaisu",
+          "desc": "Henkilöstön koulutus, ohjeistus ja 30 päivän tehostettu tukijakso julkaisun jälkeen."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "badge": "Kysymyksiä",
+    "title": "Usein kysyttyä potilasportaalista",
+    "items": [
+      {
+        "q": "Onko potilasportaali HIPAA-yhteensopiva?",
+        "a": "Kyllä. Jokainen taso hostauksesta viestintään ja analytiikkaan täyttää HIPAA-vaatimukset. Allekirjoitamme BAA-sopimuksen ja toimitamme dokumentaation salauksesta ja lokienhallinnasta."
+      },
+      {
+        "q": "Integroituuko se nykyiseen potilastietojärjestelmääni?",
+        "a": "Integroimme portaalin yleisimpiin dermatologian järjestelmiin (kuten Modernizing Medicine / EMA, Nextech, DrChrono, Epic) HL7-, FHIR- tai API-rajapintojen kautta."
+      },
+      {
+        "q": "Voivatko potilaat varata aikoja ilman tiliä?",
+        "a": "Kyllä. Tukee vierasvarausta uusille potilaille – portaalitili luodaan automaattisesti ensimmäisen varauksen vahvistuksen yhteydessä."
+      },
+      {
+        "q": "Kuinka kauan käyttöönotto kestää?",
+        "a": "Yksittäisen klinikan portaali julkaistaan 4–6 viikossa. Monimutkaisemmat migraatiot ja ketjut vievät tyypillisesti 8–12 viikkoa."
+      },
+      {
+        "q": "Omistammeko portaalin julkaisun jälkeen?",
+        "a": "Kyllä. Omistat koodin, sisällön, brändin ja potilasdatan. Ei sitoutumispakkoa, ei potilaskohtaisia maksuja – voit irtisanoa milloin tahansa ja viedä datasi mukanasi."
+      },
+      {
+        "q": "Onko etävastaanotto lisäpalvelu vai kuuluuko se hintaan?",
+        "a": "Se sisältyy hintaan. HIPAA-yhteensopiva HD-video, odotushuone ja kuvien lataus on sisäänrakennettu ilman ylimääräisiä käyntikohtaisia kuluja."
+      }
+    ]
+  },
+  "cta": {
+    "badge": "Valmiina kun sinäkin",
+    "title": "Tarjoa potilaillesi ja tiimillesi portaali, josta he kiittävät.",
+    "description": "Pyydä maksuton esittely. Arvioimme nykyiset järjestelmäsi, annamme selkeän aikataulun ja lähetämme tarjouksen vielä saman päivän aikana.",
+    "cta_quote": "Pyydä maksuton tarjous",
+    "cta_contact": "Ota yhteyttä"
+  },
+  "footer_related": {
+    "text": "Sinua saattaa kiinnostaa myös: ",
+    "link_website": "klinikan pääverkkosivusto",
+    "link_multi_location": "ratkaisut useille toimipisteille",
+    "link_packages": "nykyiset palvelupaketit"
+  }
+}

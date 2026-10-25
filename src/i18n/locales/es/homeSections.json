@@ -1,0 +1,327 @@
+{
+  "services": {
+    "eyebrow": "Nuestros Servicios",
+    "headingLead": "Todo lo que su consulta necesita para",
+    "headingHighlight": "crecer online.",
+    "intro": "Desde sitios web personalizados hasta SEO y adquisición de pacientes, cada servicio está diseñado para ayudar a las consultas de dermatología a atraer, convertir y retener más pacientes en línea.",
+    "exploreAriaLabel": "Explorar servicios de {{title}}",
+    "exploreCta": "Explorar {{title}}",
+    "mostPopular": "Más Popular",
+    "footerLead": "¿No está seguro por dónde empezar?",
+    "footerHighlight": "Crearemos un plan personalizado para su consulta.",
+    "footerCta": "Obtenga un Presupuesto Gratuito",
+    "items": {
+      "customWebsite": {
+        "title": "Diseño de sitios web personalizados",
+        "description": "Sitios de dermatología enfocados en la conversión, construidos alrededor de su marca y el recorrido del paciente."
+      },
+      "redesign": {
+        "title": "Rediseño de sitios web",
+        "description": "Modernice su sitio existente con tiempos de carga más rápidos, mejor UX y mayor conversión."
+      },
+      "migration": {
+        "title": "Migración de sitios web",
+        "description": "Migre su sitio existente sin problemas, sin tiempo de inactividad y sin pérdida de valor SEO."
+      },
+      "multiLocation": {
+        "title": "Consultas Multisede",
+        "description": "Arquitectura escalable y SEO local para clínicas con múltiples oficinas."
+      },
+      "ecommerce": {
+        "title": "Sitios web de comercio electrónico",
+        "description": "Venda productos para el cuidado de la piel en línea con pago seguro e inventario integrado."
+      },
+      "patientPortal": {
+        "title": "Portal para el paciente",
+        "description": "Portales de pacientes seguros y compatibles con HIPAA para admisión, registros y comunicación."
+      },
+      "maintenance": {
+        "title": "Cuidado y mantenimiento de sitios web",
+        "description": "Actualizaciones continuas, copias de seguridad, seguridad y monitoreo de rendimiento para su tranquilidad."
+      },
+      "seo": {
+        "title": "SEO para dermatólogos",
+        "description": "Posiciónese en búsquedas de alta intención y atraiga pacientes cualificados a su consulta."
+      },
+      "googleAds": {
+        "title": "Google Ads y PPC",
+        "description": "Adquisición de pacientes predecible y medible con campañas publicitarias optimizadas."
+      }
+    }
+  },
+  "pricing": {
+    "eyebrow": "Precios Transparentes",
+    "heading": "Sin cargos ocultos. Sin contratos largos.",
+    "intro": "La mayoría de las agencias ocultan sus precios. Nosotros no: vea exactamente lo que pagará antes de hablar con nosotros.",
+    "mostPopular": "Más Popular",
+    "startingAt": "A partir de ",
+    "seeDetails": "Ver detalles",
+    "fullBreakdown": "Ver desglose completo de precios y comparación de características",
+    "tiers": {
+      "starter": {
+        "name": "Inicial",
+        "pages": "1 Página",
+        "description": "Perfecto para dermatólogos nuevos que lanzan su primer sitio web profesional."
+      },
+      "clinicPro": {
+        "name": "Clínica Pro",
+        "pages": "5–8 Páginas",
+        "description": "Ideal para consultas individuales y pequeñas listas para atraer más citas de pacientes."
+      },
+      "practiceGrowth": {
+        "name": "Crecimiento de la consulta",
+        "pages": "10–15 Páginas",
+        "description": "Diseñado para clínicas en crecimiento que necesitan un SEO más fuerte, más conversiones y un crecimiento a largo plazo."
+      },
+      "enterprise": {
+        "name": "Empresa",
+        "pages": "Más de 15 Páginas / Personalizado",
+        "description": "Soluciones personalizadas para consultas multisede, grupos de dermatología empresariales y marcas de comercio electrónico de cuidado de la piel."
+      }
+    }
+  },
+  "approach": {
+    "eyebrow": "La Metodología",
+    "headingLead": "Un enfoque sistemático para un",
+    "headingHighlight": "crecimiento sostenible del paciente.",
+    "intro": "Un marco de seis fases, diseñado con precisión específicamente para consultas de dermatología de alto crecimiento. Haga clic en cualquier paso para explorar.",
+    "phaseLabel": "Fase",
+    "stepLabel": "Paso {{n}}",
+    "prevAria": "Paso anterior",
+    "nextAria": "Paso siguiente",
+    "deliverables": "{{count}} entregables",
+    "whatHappens": "Lo que sucede en esta fase",
+    "seeFullProcess": "Ver el proceso completo",
+    "steps": {
+      "discovery": {
+        "title": "Descubrimiento y Acuerdo",
+        "short": "Descubrimiento",
+        "description": "Comienza cuando nos contacta. Revisamos su consulta, acordamos objetivos y alcance, y finalizamos un acuerdo claro, para que ambas partes sepan exactamente qué se entregará antes de que comience cualquier trabajo.",
+        "details": [
+          "Contacto inicial y revisión de requisitos",
+          "Alcance, cronograma y entregables acordados",
+          "Propuesta y precios transparentes",
+          "Acuerdo firmado para avanzar"
+        ]
+      },
+      "onboarding": {
+        "title": "Incorporación",
+        "short": "Incorporación",
+        "description": "Una vez confirmado el pago, usted se incorpora oficialmente. Recopilamos todo lo que necesitamos —activos de marca, dirección de contenido y acceso— a través de una transferencia fluida y guiada.",
+        "details": [
+          "Pago confirmado y proyecto iniciado",
+          "Activos de marca y contenido recopilados — o creados y sugeridos por nosotros si no los tiene",
+          "Acceso y cuentas configurados de forma segura",
+          "Hoja de ruta del proyecto compartida con su equipo"
+        ]
+      },
+      "design": {
+        "title": "Diseño",
+        "short": "Diseño",
+        "description": "Traducimos la autoridad de su consulta en un lenguaje visual premium y coherente con la marca, centrado en la confianza, la claridad y la reserva de pacientes sin fricciones.",
+        "details": [
+          "Diseño visual de marca para cada página clave",
+          "UX enfocado en la conversión para flujos de reserva",
+          "Diseños accesibles y con prioridad móvil"
+        ]
+      },
+      "build": {
+        "title": "Construcción",
+        "short": "Construcción",
+        "description": "Construimos su sitio a mano con SEO, rendimiento y una estructura de grado médico incorporada, para que esté listo para posicionarse y convertir desde el primer día.",
+        "details": [
+          "Páginas codificadas a mano, ultrarrápidas",
+          "Marcado de esquema para servicios de dermatología",
+          "Optimización de Core Web Vitals (puntuaciones de más de 95)",
+          "SEO en la página para cada servicio y ubicación"
+        ]
+      },
+      "launch": {
+        "title": "Lanzamiento",
+        "short": "Lanzamiento",
+        "description": "Su sitio se activa con una migración limpia y sin tiempo de inactividad; análisis, seguimiento y verificaciones de cumplimiento totalmente implementados desde el primer visitante.",
+        "details": [
+          "Control de calidad completo en todos los dispositivos y navegadores",
+          "Revisión de cumplimiento compatible con HIPAA",
+          "Análisis, seguimiento y atribución de llamadas",
+          "Migración sin tiempo de inactividad y mapeo 301"
+        ]
+      },
+      "growth": {
+        "title": "Crecimiento y Revisión",
+        "short": "Crecimiento",
+        "description": "Después del lanzamiento, recopilamos sus comentarios y refinamos según sea necesario. A partir de ahí, nos centramos en el crecimiento compuesto: contenido, optimización e informes mes tras mes.",
+        "details": [
+          "Revisión y refinamientos posteriores al lanzamiento",
+          "Contenido SEO y optimización continuos",
+          "CRO y ajuste de rendimiento continuos",
+          "Informes mensuales transparentes"
+        ]
+      }
+    }
+  },
+  "whyChoose": {
+    "eyebrow": "Por qué elegirnos",
+    "eyebrowSuffix": "— DermatologyWebsiteDesign.com",
+    "headingLead": "La Única Agencia",
+    "headingHighlight": "100% Enfocada en Dermatología",
+    "intro": "Las agencias web genéricas construyen sitios web. Nosotros construimos carteras de pacientes, diseñadas específicamente para cómo crecen las consultas de dermatología.",
+    "reasons": {
+      "pricing": {
+        "title": "Precios Transparentes",
+        "description": "Cada paquete tiene un precio publicado. No se requieren llamadas de descubrimiento solo para conocer nuestras tarifas. El 75% de los competidores ocultan los precios, nosotros no."
+      },
+      "niche": {
+        "title": "Nicho Exclusivo de Dermatología",
+        "description": "No construimos sitios de restaurantes o tiendas de comercio electrónico. Conocemos perfectamente el cumplimiento de HIPAA, las reglas de fotos de antes/después y el SEO de procedimientos cosméticos."
+      },
+      "noLockIn": {
+        "title": "Sin Contratos a Largo Plazo",
+        "description": "Planes de atención mensuales. Sin contratos de agencia de 12 meses que lo mantengan cautivo. Nos ganamos su negocio cada mes."
+      },
+      "rank": {
+        "title": "Construido para Posicionarse en Google",
+        "description": "Cada sitio se envía con SEO on-page adecuado, marcado de esquema, optimización de Core Web Vitals y una estrategia de contenido, no como un complemento, sino como una base."
+      }
+    }
+  },
+  "whySwitch": {
+    "eyebrow": "Por qué las consultas se cambian a nosotros",
+    "headingLead": "No todas las agencias web están",
+    "headingHighlight": "construidas de la misma manera.",
+    "intro": "Vea exactamente qué cambia cuando trabaja con un equipo que solo construye para dermatología.",
+    "colWhatMatters": "Lo que importa",
+    "colOthers": "La mayoría de las agencias web",
+    "colUs": "Diseño web para dermatología",
+    "mobileOthersLabel": "La mayoría de las agencias",
+    "mobileUsLabel": "Nuestro Enfoque",
+    "rows": {
+      "focus": {
+        "matter": "Enfoque de la industria",
+        "others": "Sirven a todas las industrias",
+        "us": "100% enfocado en dermatología"
+      },
+      "seo": {
+        "matter": "Estrategia SEO",
+        "others": "SEO general",
+        "us": "SEO específico para dermatología"
+      },
+      "hipaa": {
+        "matter": "Conocimiento de HIPAA",
+        "others": "Experiencia limitada en atención médica",
+        "us": "Consciente del cumplimiento desde el primer día"
+      },
+      "goal": {
+        "matter": "Objetivo del sitio web",
+        "others": "Hermoso sitio web",
+        "us": "Más consultas de pacientes"
+      },
+      "afterLaunch": {
+        "matter": "Después del lanzamiento",
+        "others": "Proyecto completado",
+        "us": "Soporte y crecimiento continuos"
+      },
+      "pricing": {
+        "matter": "Precios",
+        "others": "A menudo cotizaciones personalizadas",
+        "us": "Precios publicados transparentes"
+      }
+    }
+  },
+  "testimonials": {
+    "eyebrow": "Testimonios",
+    "headingLead": "Con la confianza de",
+    "headingHighlight": "consultas de dermatología modernas.",
+    "prevAria": "Testimonios anteriores",
+    "nextAria": "Siguientes testimonios",
+    "goToSlide": "Ir a la diapositiva {{n}}",
+    "items": {
+      "sarahM": {
+        "quote": "Nuestra consulta experimentó un aumento del 40% en las consultas de nuevos pacientes en los 3 meses posteriores al lanzamiento de nuestro nuevo sitio. La configuración de cumplimiento de HIPAA se manejó sin problemas, no tuvimos que preocuparnos por nada.",
+        "role": "Dermatóloga certificada por la junta",
+        "practice": "RS Institute"
+      },
+      "rajK": {
+        "quote": "Había trabajado con tres agencias web antes; ninguna de ellas entendió la dermatología. Estos chicos sabían exactamente qué páginas de tratamiento necesitaba, cómo estructurar la galería de antes/después, y el sitio ahora ocupa el puesto 1.",
+        "role": "Dermatólogo Cosmético",
+        "practice": "LA Dermatology"
+      },
+      "jenniferL": {
+        "quote": "El precio fue claro desde el principio, el cronograma de construcción fue preciso e incluso nos ayudaron a configurar nuestra tienda de productos para el cuidado de la piel. La mejor inversión que nuestra consulta ha hecho en años.",
+        "role": "Gerente de la consulta",
+        "practice": "SC Associates"
+      },
+      "ameliaC": {
+        "quote": "Reescribieron cada página de servicio de una manera que realmente suena como nuestra consulta. Las solicitudes de consulta a través del sitio se han duplicado con creces desde el relanzamiento.",
+        "role": "Directora Médica",
+        "practice": "ND Group"
+      },
+      "hanaS": {
+        "quote": "Hermoso, rápido y genuinamente fiel a la marca. Los pacientes comentan sobre el sitio constantemente, establece el tono antes incluso de que entren por la puerta.",
+        "role": "Dermatóloga Principal",
+        "practice": "MS Clinic"
+      },
+      "elliotN": {
+        "quote": "Informes mensuales transparentes, progreso real en SEO y un equipo de diseño que insiste cuando importa. Exactamente el socio que esperábamos encontrar.",
+        "role": "Socio Director",
+        "practice": "SD Partners"
+      }
+    }
+  },
+  "freeAudit": {
+    "eyebrow": "Auditoría Gratuita de Sitio Web",
+    "headingLead": "Obtenga su auditoría gratuita de",
+    "headingHighlight": "sitio web de dermatología.",
+    "intro": "Revisaremos su sitio web actual, identificaremos oportunidades de SEO, velocidad, diseño y conversión, y luego le enviaremos un plan de acción personalizado en un plazo de 48 horas, completamente gratis.",
+    "features": {
+      "actionPlan": "Plan de acción personalizado",
+      "delivered": "Entregado en 48 horas",
+      "free": "Sin obligación, 100% gratis",
+      "insights": "Análisis de SEO, velocidad y conversión"
+    },
+    "form": {
+      "emailLabel": "Su correo electrónico de trabajo",
+      "emailPlaceholder": "usted@suconsulta.com",
+      "websiteLabel": "URL del sitio web actual",
+      "websiteOptional": "(opcional)",
+      "websitePlaceholder": "suconsulta.com",
+      "submit": "Obtener Mi Auditoría Gratuita",
+      "sending": "Enviando…",
+      "privacy": "Nunca compartiremos su correo electrónico. Sin spam, nunca.",
+      "errorInvalidEmail": "Por favor, introduzca un correo electrónico de trabajo válido",
+      "errorInvalidInput": "Entrada inválida",
+      "errorGeneric": "Lo sentimos, algo salió mal. Por favor, inténtelo de nuevo.",
+      "successTitle": "Solicitud recibida.",
+      "successMessage": "Su auditoría personalizada está en camino. Le enviaremos su plan de acción por correo electrónico en un plazo de 48 horas."
+    }
+  },
+  "faqSnippet": {
+    "eyebrow": "Preguntas Frecuentes",
+    "headingLead": "Respuestas a las preguntas que",
+    "headingHighlight": "más nos hacen.",
+    "intro": "Un vistazo rápido a lo que las consultas de dermatología preguntan antes de trabajar con nosotros. ¿Necesita más detalles? Las Preguntas Frecuentes completas tienen todo.",
+    "seeAll": "Ver todas las Preguntas Frecuentes",
+    "items": {
+      "timeline": {
+        "q": "¿Cuánto tiempo se tarda en lanzar un nuevo sitio web de dermatología?",
+        "a": "La mayoría de los proyectos se activan en 4 a 6 semanas, desde el descubrimiento hasta el lanzamiento. Los plazos dependen de la preparación del contenido y el alcance, y compartimos una hoja de ruta semanal clara durante la incorporación."
+      },
+      "hipaa": {
+        "q": "¿Manejan el cumplimiento de HIPAA y la privacidad del paciente?",
+        "a": "Sí. Cada construcción tiene en cuenta HIPAA: alojamiento seguro, formularios cifrados, integraciones listas para BAA para contacto y admisión, y una revisión de cumplimiento antes del lanzamiento."
+      },
+      "ranking": {
+        "q": "¿Mi nuevo sitio web realmente me ayudará a clasificar en Google?",
+        "a": "El SEO se incorpora desde el primer día: esquema específico para dermatología, páginas de servicio y ubicación, Core Web Vitals de más de 95, y una estructura en la página construida para obtener clasificaciones para las búsquedas que generan reservas."
+      },
+      "migration": {
+        "q": "¿Pueden migrar mi sitio existente sin perder tráfico?",
+        "a": "Realizamos una migración sin tiempo de inactividad con un mapeo de redirección 301 completo, metadatos preservados y una auditoría de rastreo posterior al lanzamiento, para que las clasificaciones y el tráfico de referencia se transfieran limpiamente."
+      },
+      "support": {
+        "q": "¿Cómo es el soporte continuo después del lanzamiento?",
+        "a": "Obtiene un punto de contacto dedicado, informes mensuales, CRO y ajuste de SEO continuos, además de mantenimiento técnico, para que el sitio siga generando resultados, en lugar de estancarse."
+      }
+    }
+  }
+}

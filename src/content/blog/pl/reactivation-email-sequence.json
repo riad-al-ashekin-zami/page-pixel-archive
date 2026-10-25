@@ -1,0 +1,55 @@
+{
+  "slug": "reactivation-email-sequence",
+  "title": "Sekwencja e-maili do pacjentów, którzy przestali przychodzić, warta 180 tys. dolarów rocznie",
+  "excerpt": "Sześć e-maili, jedna oferta i logika segmentacji, która przyciąga z powrotem nieaktywnych pacjentów.",
+  "imageAlt": "Smartfon pokazujący skrzynkę odbiorczą w miękkim świetle obok filiżanki kawy i rogalika na płótnie",
+  "body": [
+    {
+      "text": "Pacjent, który nie odwiedził gabinetu od 12 miesięcy, jest 4 razy bardziej skłonny do umówienia wizyty za pomocą e-maila niż za pośrednictwem płatnego kanału. Ale większość gabinetów nigdy im go nie wysyła. Oto sześcioczęściowa sekwencja e-maili, którą wdrażamy dla każdego nowego klienta, wraz z logiką segmentacji, która decyduje, którzy pacjenci otrzymują którą ofertę — ponieważ generyczny e-mail 'tęsknimy za tobą' wysłany do 10 000 nieaktywnych pacjentów przynosi gorsze rezultaty niż ukierunkowana, sześcioczęściowa sekwencja do 1000 osób."
+    },
+    {
+      "text": "Liczba 180 tys. dolarów w nagłówku to nie marketingowy szum. To średni przyrostowy dochód, który mierzymy w pierwszych dwunastu miesiącach po wdrożeniu tej sekwencji dla średniej wielkości praktyki w jednej lokalizacji z około 8 000 nieaktywnych kontaktów. Grupy wielolokalizacyjne rutynowo odnotowują wielokrotność tej kwoty. Matematyka działa, ponieważ koszt sekwencji to zerowe dodatkowe wydatki na reklamę, a odbiorcy są już zakwalifikowani — odwiedzili gabinet przynajmniej raz."
+    },
+    {
+      "heading": "Segmentacja przed treścią"
+    },
+    {
+      "text": "Zanim napiszesz choćby jeden e-mail, posegmentuj odbiorców. Zgrupuj każdego nieaktywnego pacjenta na jednej liście, a każda oferta będzie dla kogoś generyczna. Podziel listę na trzy kohorty: 12–18 miesięcy od ostatniej wizyty (delikatne przypomnienie), 18–36 miesięcy (strukturalne ponowne angażowanie) i 36+ miesięcy (agresywne odzyskiwanie z prawdziwą zachętą). Każda kohorta otrzymuje ten sam sześcioczęściowy szkielet e-maila, ale z innym tonem, inną ofertą i różnymi kryteriami usunięcia."
+    },
+    {
+      "heading": "Sekwencja"
+    },
+    {
+      "list": [
+        "E-mail 1: Tęsknimy za Tobą — przyjazne powitanie bez prośby",
+        "E-mail 2: Co nowego w praktyce",
+        "E-mail 3: Delikatne przypomnienie o rezerwacji corocznego badania skóry",
+        "E-mail 4: Treści edukacyjne dotyczące zapobiegania rakowi skóry",
+        "E-mail 5: Oferta ograniczona czasowo, specyficzna dla ostatniego typu wizyty",
+        "E-mail 6: Ostatnie wezwanie, a następnie usunięcie z sekwencji"
+      ]
+    },
+    {
+      "heading": "Dlaczego ‘brak prośby’ w pierwszym e-mailu ma znaczenie"
+    },
+    {
+      "text": "Pierwszy e-mail w sekwencji celowo o nic nie prosi. Jest to ciepłe ponowne wprowadzenie od menedżera praktyki lub asystenta lekarza, najlepiej napisane w pierwszej osobie z prawdziwym podpisem. Celem jest przypomnienie odbiorcy, że ta praktyka pamięta ich jako osobę, a nie segment marketingowy. Wskaźniki odpowiedzi na e-maile 'bez prośby' przewyższają e-maile 'zarezerwuj teraz' o 5–8 razy, a respondenci sami identyfikują się jako wysoce zainteresowani."
+    },
+    {
+      "heading": "Oferta pojawia się w e-mailu 5, a nie w e-mailu 1"
+    },
+    {
+      "text": "Praktyki rutynowo popełniają błąd, przedstawiając ofertę jako pierwszą. To uczy nieaktywnych pacjentów, aby spodziewali się zniżek za każdym razem, gdy się z nimi skontaktujesz, i konwertuje najmniej zainteresowany segment listy wyłącznie na podstawie ceny. Sześcioczęściowa sekwencja przesuwa ofertę na e-mail numer pięć, po czterech etapach budowania życzliwości i edukacji. Zanim oferta dotrze, pacjent został ponownie zakotwiczony w marce praktyki, a nie jej zniżce."
+    },
+    {
+      "heading": "Krok usunięcia chroni dostarczalność"
+    },
+    {
+      "text": "E-mail szósty to e-mail 'ostatnie wezwanie' i jest również wyzwalaczem usunięcia. Każdy odbiorca, który nie otworzył żadnego z pięciu poprzednich e-maili i nie otworzy e-maila szóstego, zostaje usunięty z sekwencji. To chroni reputację nadawcy w Gmailu i Outlooku — wysyłanie na niezaangażowane adresy jest najszybszym sposobem na wpadnięcie do folderu z promocjami lub spamu. Agresywne usuwanie faktycznie poprawia wyniki następnej kampanii, ponieważ pozostała lista jest gęstsza i bardziej zaangażowana."
+    },
+    {
+      "text": "Wdrażaj sekwencję raz w roku dla każdej kohorty, odświeżaj teksty co roku i traktuj usuniętą publiczność jako oddzielną kohortę długoterminową, którą ponownie zaangażujesz co 18 miesięcy, używając nowej nazwy nadawcy. Po trzech latach liczba 180 tys. dolarów zazwyczaj podwaja się lub potraja, gdy sekwencja dojrzewa, a segmentacja staje się bardziej precyzyjna."
+    }
+  ],
+  "faqs": null
+}

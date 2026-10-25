@@ -1,0 +1,62 @@
+{
+  "slug": "hipaa-website-mistakes",
+  "title": "7 błędów na stronie internetowej związanych z HIPAA, które nadal obserwujemy w 2026 roku",
+  "excerpt": "Piksele Meta, formularze przyjęć, widżety czatu – miejsca, w których wycieka PHI i jak to powstrzymać w tym tygodniu.",
+  "imageAlt": "Mosiężna kłódka spoczywająca na stosie dokumentów zgodności z HIPAA",
+  "body": [
+    {
+      "text": "Egzekwowanie HIPAA w zakresie śledzenia witryn internetowych zmieniło się od czasu wytycznych OCR z 2022 roku. Jeśli Twoja witryna nadal polega na domyślnym Meta Pixelu, domyślnej konfiguracji GA4 lub widżecie czatu bez BAA, masz przeciek – i prawdopodobnie o tym nie wiesz, ponieważ wycieki są ciche. Dobra wiadomość: każdy z siedmiu poniższych błędów można naprawić w ciągu tygodnia dzięki skoordynowanym działaniom technicznym i prawnym. Zła wiadomość: większość praktyk jeszcze nie zaczęła."
+    },
+    {
+      "text": "Celem tego posta nie jest przestraszenie Cię do paraliżu. Ma on na celu dostarczenie konkretnej listy kontrolnej, którą możesz przekazać osobie odpowiedzialnej za Twoją stronę internetową, a także prostego wyjaśnienia, dlaczego każdy punkt stanowi ryzyko. Przejrzyj listę, zaznacz te, o których wiesz, że są otwarte, i rozpocznij od najwyższego ryzyka w poniedziałek rano."
+    },
+    {
+      "heading": "Siedem błędów"
+    },
+    {
+      "list": [
+        "Pixel Meta uruchamiany na stronach rezerwacji bez filtrowania po stronie serwera",
+        "GA4 śledzący parametry URL zawierające nazwy warunków",
+        "Widżety czatu przechowujące logi rozmów na infrastrukturze niezgodnej z HIPAA",
+        "Formularze przyjęć wysyłane do zewnętrznych usług formularzy bez BAA",
+        "Adresy IP odwiedzających czat na żywo przechowywane razem z zapytaniami zdrowotnymi",
+        "Osadzone filmy stron trzecich ładowane przed uzyskaniem zgody",
+        "Narzędzia do odtwarzania sesji rejestrujące wprowadzane dane w polach formularzy"
+      ]
+    },
+    {
+      "heading": "Dlaczego Pixel Meta stanowi największe pojedyncze ryzyko"
+    },
+    {
+      "text": "Pixel Meta jest elementem o najwyższym stopniu ryzyka na liście, ponieważ jest najbardziej niezauważalny. Domyślna instalacja uruchamia się przy każdym ładowaniu strony i wysyła adres URL, referrer oraz wszelkie dane z formularzy, które Meta może pozyskać, z powrotem na serwery Facebooka – w tym adresy URL takie jak /schedule/acne-consult lub /request/mole-check. Ten adres URL jest prawdopodobnie PHI w momencie, gdy zostanie powiązany z adresem IP, który można przypisać do osoby."
+    },
+    {
+      "text": "Rozwiązaniem nie jest usunięcie piksela. Rozwiązaniem jest uruchomienie go za pośrednictwem serwera Conversions API z rygorystycznym filtrowaniem adresów URL i zdarzeń oraz usunięcie wszelkich ciągów zapytań, segmentów ścieżki lub ładunków zdarzeń, które mogłyby ujawnić intencje dotyczące schorzenia. Ta praca zajmuje inżynierowi około dwóch dni. Jest to praca związana ze zgodnością o najwyższym ROI, jaką można wykonać w tym kwartale."
+    },
+    {
+      "heading": "GA4 jest drugim najczęstszym źródłem wycieków"
+    },
+    {
+      "text": "GA4 wycieka w inny sposób: parametry URL zawierające język diagnostyczny lub ładunki zdarzeń, które zostały skonfigurowane automatycznie i nigdy nie były recenzowane. Posortuj swoje zdarzenia GA4 według częstotliwości i przeczytaj 50 najważniejszych. Jeśli jakakolwiek nazwa zdarzenia lub parametr zawiera tekst warunku, te dane były przesyłane na serwery Google niezaszyfrowane z perspektywy HIPAA. Zmień nazwy, usuń lub zastąp te zdarzenia czystymi identyfikatorami."
+    },
+    {
+      "heading": "Widżety czatu i formularze przyjęć"
+    },
+    {
+      "text": "Widżety czatu i formularze przyjęć to trzecia kategoria. Każde narzędzie, które przechwytuje dane z rozmów, wymaga umowy Business Associate Agreement, zanim dotknie zapytania pacjenta. Jeśli Twój obecny dostawca czatu nie może przedstawić podpisanej BAA w ciągu godziny od zapytania, zastąp go. Dobrzy, zgodni z HIPAA dostawcy mają gotowe umowy BAA; ryzykowni ich nie mają."
+    },
+    {
+      "text": "Ta sama zasada dotyczy formularzy przyjęć. Jeśli Twój dostawca formularzy przechowuje zgłoszenia na swoich serwerach bez BAA, każde zgłoszenie jest zdarzeniem naruszającym zgodność. Przed uruchomieniem następnej kampanii przejdź na rozwiązanie formularzy z podpisaną BAA (lub samodzielnie hostuj na własnej infrastrukturze spełniającej wymogi HIPAA)."
+    },
+    {
+      "heading": "Odtwarzanie sesji, osadzone wideo i długi ogon"
+    },
+    {
+      "text": "Narzędzia do odtwarzania sesji to niezwykłe narzędzia do badań produktów i niezwykłe miny HIPAA. Każde narzędzie do odtwarzania musi być skonfigurowane tak, aby domyślnie maskować każde pole formularza, maskować każdy element zawierający tekst, który mógłby być PHI, i przechowywać nagrania na infrastrukturze objętej BAA. Osadzone filmy z YouTube lub Vimeo ładują pliki cookie stron trzecich przed zgodą użytkownika – zamień je na osadzenie z priorytetem prywatności lub lekkie narzędzie ładujące, które inicjuje się dopiero po wyraźnej akcji."
+    },
+    {
+      "text": "Przekaz jest następujący: zgodność z HIPAA w 2026 roku to problem inżynierii strony internetowej w takim samym stopniu, co problem prawny. Traktuj to jako cykliczną konserwację, a nie jednorazowy audyt. Kwartalnie przeglądaj swoją sieć śledzenia, wycofuj dostawców, którzy nie mogą podpisać umów BAA, i dokumentuj każdą poprawkę w dzienniku zgodności, do którego Twój zespół zarządzający będzie mógł się odwołać, gdy w końcu nadejdzie list z OCR."
+    }
+  ],
+  "faqs": null
+}

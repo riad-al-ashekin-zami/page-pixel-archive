@@ -1,0 +1,310 @@
+{
+  "meta": {
+    "title": "Dermatology Social Media Marketing Services | Instagram, TikTok, Meta Ads",
+    "description": "Social media marketing for dermatology practices — Instagram, TikTok, Facebook, YouTube, and LinkedIn. HIPAA-safe content, monthly in-clinic shoots, and paid social measured on booked consults.",
+    "og": {
+      "title": "Dermatology Social Media Marketing — Content That Books Consults",
+      "description": "Full-service social media for dermatology practices — content shoots, Reels-first strategy, DM management, and paid social priced on booked consults."
+    },
+    "twitter": {
+      "title": "Dermatology Social Media Marketing Services",
+      "description": "Social content and paid campaigns scoped to booked consults for dermatology practices."
+    }
+  },
+  "jsonLd": {
+    "service": {
+      "name": "Social Media Marketing for Dermatology Practices",
+      "provider": "DermatologyWebsiteDesign.com",
+      "description": "Full-service social media management, content production, and paid social for dermatology practices measured on booked consults."
+    },
+    "breadcrumbs": {
+      "home": "Home",
+      "services": "Services",
+      "social": "Social Media"
+    }
+  },
+  "hero": {
+    "badge": "Dermatology Social Media",
+    "heading": "Content that builds trust — and books consults.",
+    "description": "Full-service social media for dermatology practices — Instagram, TikTok, Facebook, YouTube, and LinkedIn. Monthly in-clinic shoots, HIPAA-safe captions, DM management, and paid social measured on booked consults.",
+    "cta": {
+      "audit": "Free social audit",
+      "platforms": "See platforms"
+    },
+    "stats": [
+      {
+        "label": "312%",
+        "value": "Follower growth"
+      },
+      {
+        "label": "48+",
+        "value": "Consults / mo"
+      },
+      {
+        "label": "5.4M",
+        "value": "Reel views/yr"
+      },
+      {
+        "label": "HIPAA",
+        "value": "Safe content"
+      }
+    ],
+    "trust": {
+      "imgAlt": "Dermatology client",
+      "rating": "4.9/5",
+      "subtext": "Trusted by 50+ dermatology practices",
+      "badge": "HIPAA-safe"
+    }
+  },
+  "socialMock": {
+    "handle": "@yourdermpractice",
+    "status": "Board-certified · 24.8k",
+    "live": "live",
+    "imgAlt": "Dermatology practice Instagram feed preview showing skincare content",
+    "metrics": {
+      "reach": "Reach",
+      "dms": "DMs",
+      "booked": "Booked"
+    },
+    "reels": [
+      {
+        "label": "Reels — Acne routine",
+        "value": "1.2M"
+      },
+      {
+        "label": "Reels — Mohs walkthrough",
+        "value": "342k"
+      },
+      {
+        "label": "Static — Provider intro",
+        "value": "58k"
+      }
+    ],
+    "outcome": "+48 consults this month",
+    "timeframe": "30d"
+  },
+  "sections": {
+    "platforms": {
+      "badge": "Platform coverage",
+      "heading": "Six platforms. One booked-consult goal.",
+      "description": "Each platform gets its own content format, cadence, and KPI — no copy-paste posts across channels.",
+      "items": [
+        {
+          "title": "Instagram Growth",
+          "desc": "Reels-first strategy — before/after carousels, provider spotlights, and DM-to-booking funnels tuned to the derm patient journey."
+        },
+        {
+          "title": "TikTok for Derm",
+          "desc": "Short-form skin-education content that ranks in TikTok search and Google — HIPAA-safe, compliance-reviewed before it ships."
+        },
+        {
+          "title": "Facebook & Meta Ads",
+          "desc": "Local awareness, lookalike patient audiences, and lead-form campaigns priced per booked consult — not per follower."
+        },
+        {
+          "title": "YouTube Shorts & Long-form",
+          "desc": "Procedure explainers, provider Q&As, and evergreen skin-condition videos that rank on Google and YouTube search."
+        },
+        {
+          "title": "LinkedIn for Providers",
+          "desc": "Personal-brand LinkedIn for board-certified derms — thought leadership, referrer network, and recruiter-grade profile."
+        },
+        {
+          "title": "DM & Community Management",
+          "desc": "Trained response templates, 4-hour SLA, PHI-scrubbed replies, and a booked-consult handoff to your front desk."
+        }
+      ]
+    },
+    "outcomes": {
+      "heading": "Measured outcomes",
+      "items": [
+        {
+          "k": "312%",
+          "v": "Follower growth in 90 days"
+        },
+        {
+          "k": "48+",
+          "v": "Consults booked from Instagram / month"
+        },
+        {
+          "k": "5.4M",
+          "v": "Organic Reel views (12-month avg)"
+        },
+        {
+          "k": "4.9",
+          "v": "Average brand-sentiment score"
+        }
+      ],
+      "quote": "\"We went from posting once a week to a full monthly content system. Followers tripled, but the number that actually matters — new patient consults from Instagram — went from 4 a month to 48.\"",
+      "author": "Dr. Priya Anand · Solo Dermatology Practice"
+    },
+    "pillars": {
+      "badge": "Content pillars",
+      "heading": "Six content pillars, every month, every platform.",
+      "description": "Your 90-day pillars document maps every Reel, static post, and DM template to a service line and a consult-booking goal. No random posting.",
+      "items": [
+        "Provider spotlights & board-certification credibility",
+        "Skin condition education (acne, eczema, rosacea, psoriasis)",
+        "Before / after transformations with signed consent",
+        "In-clinic Reels — treatments, technology, walkthroughs",
+        "Patient FAQ and myth-busting short-form video",
+        "Seasonal skincare & sun-protection campaigns"
+      ]
+    },
+    "audiences": {
+      "badge": "Who we build content for",
+      "heading": "Built for every dermatology model.",
+      "description": "Solo, multi-location, pediatric, or Mohs — content strategy scoped to your voice, patient panel, and service-line mix.",
+      "items": [
+        {
+          "title": "Solo Dermatologists",
+          "desc": "Founder-led social strategy — your voice, your face, your patients. Batch-shot monthly, published weekly."
+        },
+        {
+          "title": "Multi-location Clinics",
+          "desc": "One brand system, per-location content calendars, and staff-generated content pipelines governed from a single dashboard."
+        },
+        {
+          "title": "Pediatric Dermatology",
+          "desc": "Parent-facing content — reassurance-first captions, dayparted to school-run hours, imagery cleared by your clinical team."
+        },
+        {
+          "title": "Mohs & Surgical Dermatology",
+          "desc": "Referrer-visible thought leadership on LinkedIn, patient-education Reels, and consent-first before/after content workflows."
+        }
+      ]
+    },
+    "medical_services": {
+      "badge": "Service lines we create content for",
+      "heading": "Every condition. Every treatment. Every consult.",
+      "description": "Each medical service gets its own content pillar and hashtag map — Reels, carousels, and evergreen posts scoped to the patient search journey.",
+      "items": [
+        "Acne Treatment",
+        "Eczema Treatment",
+        "Psoriasis Treatment",
+        "Skin Infection Treatment",
+        "Skin Allergy Treatment",
+        "Skin Cancer Screening & Treatment",
+        "Mole Evaluation & Medically Necessary Removal",
+        "Cyst & Lipoma Removal",
+        "Wart Removal",
+        "Nail Disorder Treatment",
+        "Hair Loss Diagnosis & Medical Treatment",
+        "Scalp Disorder Treatment",
+        "Rosacea Treatment",
+        "Hyperpigmentation & Melasma Treatment (medical indication)",
+        "Scar Treatment (injury, surgery, disease)",
+        "Burn Scar Treatment",
+        "Vitiligo Treatment",
+        "Skin Biopsy & Diagnostic Procedures"
+      ]
+    },
+    "workflow": {
+      "badge": "How it works",
+      "heading": "A 90-day social launch. Compounding after.",
+      "description": "Transparent milestones tied to booked consults — not vanity metrics.",
+      "items": [
+        {
+          "step": "01",
+          "phase": "Phase 01",
+          "title": "Brand & content audit",
+          "desc": "Voice, visual system, competitor scan, hashtag map, and a 90-day content pillars document scoped to your service lines."
+        },
+        {
+          "step": "02",
+          "phase": "Phase 02",
+          "title": "Monthly content shoot",
+          "desc": "One in-clinic shoot day per month — Reels, static, provider intros, patient testimonials (consent-first). Batch = consistency."
+        },
+        {
+          "step": "03",
+          "phase": "Phase 03",
+          "title": "Publish, engage, iterate",
+          "desc": "Native scheduling across IG, TikTok, FB, YouTube, LinkedIn. Same-day DM triage. Weekly analytics against booked-consult KPIs."
+        },
+        {
+          "step": "04",
+          "phase": "Phase 04",
+          "title": "Amplify with paid",
+          "desc": "Top-performing organic posts boosted as Meta / TikTok ads — retargeting website visitors and lookalike patient audiences."
+        }
+      ]
+    },
+    "why_us": {
+      "badge": "Why practices choose us",
+      "heading": "A dermatology social partner — not a generic content agency.",
+      "items": [
+        {
+          "title": "HIPAA-safe workflows",
+          "desc": "Signed release before any patient content ships. DMs run PHI-scrubbed templates. Captions compliance-reviewed before scheduling."
+        },
+        {
+          "title": "Monthly in-clinic shoots",
+          "desc": "One shoot day = 3–4 weeks of Reels, static posts, provider intros, and testimonial clips. No scrambling for content."
+        },
+        {
+          "title": "Brand-consistent design",
+          "desc": "One visual system across every channel — colors, type, motion, cover art — so your feed looks like a premium practice, not a template."
+        },
+        {
+          "title": "Reels-first strategy",
+          "desc": "Short-form video is the growth engine. Every pillar ships as a Reel first, then repurposed to TikTok, Shorts, and static carousels."
+        },
+        {
+          "title": "DM & community management",
+          "desc": "Trained response templates, 4-hour reply SLA, and a booked-consult handoff to your front desk. No lost inbox leads."
+        },
+        {
+          "title": "Booked consults, not likes",
+          "desc": "Every monthly report ties reach and DMs back to booked consults and revenue per service line — no vanity dashboards."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "Answers dermatology owners ask first.",
+    "items": [
+      {
+        "q": "How is social different from Google Ads for a dermatology practice?",
+        "a": "Google Ads captures existing demand — someone typing 'acne dermatologist near me.' Social creates demand and trust. Reels, TikToks, and provider content build the brand a patient chooses when they finally search. Best practices run both; social lowers your Google Ads CPBV over 6–12 months by warming the market."
+      },
+      {
+        "q": "Are your social posts HIPAA-aware?",
+        "a": "Yes. Before-and-after and testimonial content only ships after a signed, service-specific media release. DMs are triaged through PHI-scrubbed templates — no diagnosis or treatment recommendations in DMs, only booked-consult offers. Every caption is compliance-reviewed before scheduling."
+      },
+      {
+        "q": "Do you shoot the content or do we?",
+        "a": "We shoot. One in-clinic content day per month captures 3–4 weeks of Reels, static posts, provider intros, and testimonial clips. Clinics that already have a strong in-house creator can flip to a hybrid model — we edit, script, and publish their raw footage."
+      },
+      {
+        "q": "What's the minimum commitment?",
+        "a": "90 days. Social compounds — 30 days isn't enough to read signal. After the initial 90-day sprint we move to a rolling monthly retainer you can cancel with 30 days' notice."
+      },
+      {
+        "q": "Do you manage paid social ads too?",
+        "a": "Yes. Meta and TikTok ad campaigns are included in the growth tier — top-performing organic posts get amplified, and we run dedicated lead-gen campaigns priced on cost-per-booked-consult, not cost-per-lead."
+      },
+      {
+        "q": "Can you handle multi-location practices?",
+        "a": "Yes — we run per-location content calendars off a single brand system, with location-tagged posts, geo-targeted paid campaigns, and per-location reporting on one dashboard."
+      }
+    ]
+  },
+  "cta": {
+    "badge": "Free social audit",
+    "heading": "See exactly where your social is leaking consults — in 48 hours.",
+    "description": "Content teardown, competitor scan, hashtag & pillar map, DM funnel audit, and a prioritized 90-day social plan tied to booked consults. Free, no pitch deck.",
+    "primary": "Claim my free audit",
+    "secondary": "Request a proposal"
+  },
+  "sticky_footer": {
+    "label": "Free social audit — 48 hrs",
+    "button": "Claim"
+  },
+  "internal_links": {
+    "prefix": "Also worth a look: ",
+    "reputation": "collecting five-star reviews",
+    "email": "email nurture for returning patients",
+    "gallery": "your before-and-after showcase"
+  }
+}

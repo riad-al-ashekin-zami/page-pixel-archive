@@ -1,0 +1,89 @@
+{
+  "meta": {
+    "title": "Käyttöehdot — Verkkosivuston käyttö ja yhteistyö",
+    "description": "Ehdot, jotka säätelevät verkkosivustomme käyttöä, viestintää ja studioltamme tilaamiasi palveluita.",
+    "og_title": "Käyttöehdot — Verkkosivuston käyttö ja yhteistyö",
+    "og_description": "Ehdot, jotka säätelevät verkkosivustomme käyttöä, viestintää ja studioltamme tilaamiasi palveluita.",
+    "twitter_title": "Käyttöehdot — Verkkosivuston käyttö ja yhteistyö",
+    "twitter_description": "Ehdot, jotka säätelevät verkkosivustomme käyttöä, viestintää ja studioltamme tilaamiasi palveluita."
+  },
+  "a11y": {
+    "skip_to_content": "Siirry sisältöön",
+    "section_navigation": "Osion navigointi"
+  },
+  "hero": {
+    "badge": "Lakitiedot · Käyttöehdot",
+    "title": "Käyttöehdot",
+    "description": "Sivustomme käytön, yhteydenottojen ja palveluidemme tilaamisen perussäännöt. Luethan nämä yhdessä <0>palvelusopimuksemme</0> ja <1>tietosuojaselosteemme</1> kanssa.",
+    "last_updated": "Päivitetty viimeksi: <0>14. heinäkuuta 2026</0>"
+  },
+  "sections": {
+    "contents_label": "Sisältö",
+    "acceptance": {
+      "title": "1. Ehtojen hyväksyminen",
+      "body": "Käyttämällä tätä verkkosivustoa (”Sivusto”), lähettämällä tiedustelun tai tilaamalla palveluitamme, hyväksyt nämä käyttöehdot (”Ehdot”). Jos et hyväksy ehtoja, pyydämme lopettamaan Sivuston käytön."
+    },
+    "eligibility": {
+      "title": "2. Käyttöoikeus",
+      "body": "Sinun on oltava vähintään 18-vuotias ja oikeustoimikelpoinen voidaksesi käyttää Sivustoa tai tilata palveluitamme. Jos edustat organisaatiota, vakuutat, että sinulla on valtuudet sitouttaa se näihin ehtoihin."
+    },
+    "services": {
+      "title": "3. Palvelumme",
+      "body": "Tämä Sivusto on ensisijaisesti markkinointisisältöä. Varsinaista projektityötä – kuten suunnittelua, kehitystä, SEO-palveluita tai ylläpitoa – säätelee erillinen tarjous tai työnkuvaus sekä <0>palvelusopimuksemme</0>. Mikäli kyseiset asiakirjat ovat ristiriidassa näiden Ehtojen kanssa, palvelusopimus on ensisijainen."
+    },
+    "acceptable_use": {
+      "title": "4. Sallittu käyttö",
+      "list": [
+        "Älä käytä Sivustoa väärin, häiritse sen toimintaa tai yritä murtautua Sivustoon tai sen infrastruktuuriin.",
+        "Sisällön automaattinen kerääminen (scraping), indeksointi tai kopiointi on kielletty lukuun ottamatta kohtuullista, ei-kaupallista viittaamista.",
+        "Älä lähetä lomakkeiden kautta lainvastaista, loukkaavaa, haitallista tai harhaanjohtavaa sisältöä.",
+        "Älä lähetä suojattuja terveystietoja (PHI) julkisten lomakkeiden kautta."
+      ]
+    },
+    "ip": {
+      "title": "5. Immateriaalioikeudet",
+      "body": "Kaikki tämän Sivuston sisältö – teksti, grafiikka, logot, koodi ja ulkoasu – on meidän tai lisensoijiemme omaisuutta ja suojattu immateriaalioikeuslainsäädännöllä. Voit tarkastella ja jakaa linkkejä Sivustolle, mutta sisällön kopioiminen, muokkaaminen tai uudelleenjulkaisu ilman kirjallista lupaamme on kielletty."
+    },
+    "submissions": {
+      "title": "6. Lähetetyt aineistot",
+      "body": "Jos lähetät meille palautetta, ideoita tai ehdotuksia, annat meille maailmanlaajuisen ja maksuttoman oikeuden käyttää niitä ilman sitoumuksia. Älä lähetä luottamukselliseksi katsomaasi aineistoa, ellei asiasta ole sovittu erikseen kirjallisesti."
+    },
+    "third_party": {
+      "title": "7. Kolmannen osapuolen linkit ja palvelut",
+      "body": "Sivustolla saattaa olla linkkejä kolmansien osapuolten sivuille tai palveluihin. Emme hallitse tai tue niitä, emmekä vastaa niiden sisällöstä, saatavuudesta tai toimintatavoista."
+    },
+    "disclaimer": {
+      "title": "8. Vastuuvapauslauseke",
+      "body": "Sivusto ja sen sisältö tarjotaan ”sellaisena kuin se on” ilman minkäänlaisia suoria tai välillisiä takuita, mukaan lukien takuut kaupallisesta hyödynnettävyydestä tai soveltuvuudesta tiettyyn tarkoitukseen. Mikään Sivustolla ei ole oikeudellista, lääketieteellistä tai taloudellista neuvontaa."
+    },
+    "liability": {
+      "title": "9. Vastuunrajoitus",
+      "body": "Lain sallimissa rajoissa emme ole vastuussa mistään välillisistä, satunnaisista tai seurauksellisista vahingoista tai voitonmenetyksistä, jotka johtuvat Sivuston käytöstä. Kokonaisvastuumme Sivustoon liittyen on rajoitettu 100 Yhdysvaltain dollariin (USD)."
+    },
+    "indemnity": {
+      "title": "10. Vahingonkorvausvelvollisuus",
+      "body": "Sitoudut vapauttamaan meidät vastuusta ja korvaamaan kulut, jotka aiheutuvat Sivuston väärinkäytöstäsi tai näiden Ehtojen rikkomisesta."
+    },
+    "termination": {
+      "title": "11. Päättäminen",
+      "body": "Voimme keskeyttää tai lopettaa pääsysi Sivustolle milloin tahansa ilman erillistä ilmoitusta, jos uskomme sinun rikkoneen näitä Ehtoja tai aiheuttaneen riskejä meille tai muille käyttäjille."
+    },
+    "governing_law": {
+      "title": "12. Sovellettava laki",
+      "body": "Näihin Ehtoihin sovelletaan palvelusopimuksessamme määritellyn lainkäyttöalueen lakeja. Mikäli tällaista ei ole määritelty, sovelletaan studion rekisteröintimaan lainsäädäntöä."
+    },
+    "changes": {
+      "title": "13. Muutokset ehtoihin",
+      "body": "Saatamme päivittää näitä Ehtoja ajoittain. Sivun yläreunassa oleva päivämäärä kertoo voimassa olevan version. Jatkamalla Sivuston käyttöä muutosten jälkeen hyväksyt päivitetyt Ehdot."
+    },
+    "contact_section": {
+      "title": "14. Yhteystiedot",
+      "body": "Onko sinulla kysyttävää näistä Ehdoista? Ota yhteyttä <0>yhteydenottosivumme</0> kautta."
+    }
+  },
+  "cta": {
+    "title": "Kysyttävää ehdoista?",
+    "description": "Vastaamme mielellämme kysymyksiisi ennen yhteistyön aloittamista.",
+    "button": "Ota yhteyttä"
+  }
+}

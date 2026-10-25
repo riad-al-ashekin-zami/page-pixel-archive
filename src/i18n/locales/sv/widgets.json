@@ -1,0 +1,72 @@
+{
+  "growthKpi": {
+    "header": "Tillväxtprojektor",
+    "bookingLift": "{{pct}}% bokningsökning",
+    "projectedRevenueLabel": "Beräknad årlig ökad intäkt",
+    "roiSuffix": "× avkastning på månadsbasis",
+    "bookedVisitsCaption": "Bokade besök · 8-månaders prognos",
+    "addedPerMonth": "+{{n}}/mån",
+    "monthlyInvestment": "Månatlig investering",
+    "currentMonthlyVisits": "Aktuella månatliga besök",
+    "kpi": {
+      "newVisits": "Nya besök/mån",
+      "totalVisits": "Totala besök/mån",
+      "monthlyRevenue": "Månatliga intäkter"
+    }
+  },
+  "cpc": {
+    "header": "CPC-kalkylator",
+    "badge": "jämfört med riktmärke",
+    "costPerBookedLabel": "Beräknad kostnad per bokat besök",
+    "bookedVisitsSuffix": "· {{n}} bokade besök/mån",
+    "serviceLineLabel": "Tjänstelinje",
+    "avgCpcSuffix": "genomsnittlig CPC",
+    "monthlySpend": "Månatlig mediespendering",
+    "kpi": {
+      "clicks": "Klick/mån",
+      "leads": "Leads/mån",
+      "avgCpc": "Genomsnittlig CPC"
+    },
+    "footer": "{{booked}} bokade besök · {{cost}} styck",
+    "footerBadge": "beräknad",
+    "services": {
+      "acne": "Acnebehandling",
+      "mohs": "Mohs kirurgi",
+      "aesthetic": "Aesthetic / kosmetisk",
+      "general": "Allmän dermatologi"
+    }
+  },
+  "radius": {
+    "header": "Tjänsteområdesplanerare",
+    "radiusBadge": "{{n}} mil radie",
+    "mapCaption": "Din klinik · {{n}} mil",
+    "sliderAria": "Tjänsteradie i miles",
+    "sliderMin": "{{n}} mil",
+    "sliderMax": "{{n}} mil",
+    "kpi": {
+      "residents": "Boende nådda",
+      "searches": "Lokala sökningar",
+      "visits": "Potentiella besök"
+    },
+    "coveragePrefix": "Täckning över",
+    "coverageSuffix": "— nätverksrankad för varje postnummer inom ringen."
+  },
+  "rank": {
+    "header": "Live rankningstracker",
+    "live": "live",
+    "fromRank": "från #{{n}}",
+    "quarterFooter": "+{{n}} positioner detta kvartal",
+    "updating": "uppdateras",
+    "keywords": {
+      "nearMe": "dermatolog nära mig",
+      "acneCity": "acnebehandling [city]",
+      "aesthetic": "estetikspecialist",
+      "mohs": "mohs kirurgi klinik"
+    }
+  },
+  "preloader": {
+    "brandLead": "Dermatologi",
+    "brandHighlight": "Webbplatsdesign",
+    "tagline": "HIPAA-medveten · Konverteringsfokuserad"
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "meta": {
+    "title": "Design og utvikling av pasientportal for dermatologi | HIPAA-kompatibel",
+    "description": "Skreddersydd HIPAA-kompatibel pasientportal for hudleger: nettbooking, sikre meldinger, teledermatologi, digitale skjemaer, betaling og EPJ-integrasjon. Bygget for klinikker, barnehudleger og Mohs-kirurgi.",
+    "og_title": "Design og utvikling av pasientportal for dermatologi",
+    "og_description": "HIPAA-tilpassede pasientportaler utviklet for hudlegepraksis – booking, meldinger, teledermatologi, digitale inntaksskjemaer og EPJ-integrasjon.",
+    "twitter_title": "Design og utvikling av pasientportal for dermatologi",
+    "twitter_description": "HIPAA-tilpassede pasientportaler utviklet spesifikt for hudlegepraksis.",
+    "jsonLd": {
+      "serviceType": "Design og utvikling av pasientportal for dermatologi",
+      "provider": "DermatologyWebsiteDesign.com",
+      "areaServed": "USA",
+      "description": "Design og utvikling av HIPAA-kompatible pasientportaler for hudlegesentre.",
+      "breadcrumb_home": "Hjem",
+      "breadcrumb_services": "Tjenester",
+      "breadcrumb_portal": "Pasientportal"
+    }
+  },
+  "hero": {
+    "badge": "Pasientportal for dermatologi",
+    "title_start": "En pasientportal din klinikk ",
+    "title_highlight": "faktisk ønsker å bruke.",
+    "description": "Skreddersydde, HIPAA-tilpassede pasientportaler med døgnåpen booking, sikre meldinger, teledermatologi, digitalt inntak og dyp EPJ-integrasjon – designet for alt fra solopraksis til store klinikk-kjeder.",
+    "cta_quote": "Få et gratis pristilbud",
+    "cta_features": "Utforsk funksjoner",
+    "stats": [
+      {
+        "value": "4–6 uker",
+        "label": "Lanseringstid"
+      },
+      {
+        "value": "HIPAA",
+        "label": "Sikkerhet som standard"
+      },
+      {
+        "value": "24/7",
+        "label": "Selvbetjent booking"
+      },
+      {
+        "value": "Ingen",
+        "label": "Avgift per pasient"
+      }
+    ]
+  },
+  "mockPortal": {
+    "header_category": "Pasientportal",
+    "header_greeting": "God ettermiddag, Sarah",
+    "status": "Sikker",
+    "items": [
+      {
+        "label": "Årlig hudkontroll",
+        "meta": "Fre · 14:30 · Dr. Patel"
+      },
+      {
+        "label": "Melding fra Dr. Nguyen",
+        "meta": "Biopsisvar – godartet ✓"
+      },
+      {
+        "label": "Reseptfornyelse bestilt",
+        "meta": "Tretinoin 0,05 % · Vitusapotek #402"
+      },
+      {
+        "label": "Ubetalt faktura",
+        "meta": "$48,20 · Betal med ett trykk"
+      }
+    ],
+    "footer_encryption": "Ende-til-ende-kryptert",
+    "footer_biometrics": "Face ID aktivert"
+  },
+  "sections": {
+    "audiences": {
+      "title": "Bygget for",
+      "items": [
+        "Selvstendige hudleger",
+        "Hudlegeklinikker med flere lokasjoner",
+        "Pediatrisk dermatologi",
+        "Mohs- og kirurgisk dermatologi"
+      ]
+    },
+    "medical_services": {
+      "title": "Støtter alle medisinske tjenester",
+      "items": [
+        "Aknebehandling",
+        "Eksembehandling",
+        "Psoriasisbehandling",
+        "Hudsmittebehandling",
+        "Allergibehandling for hud",
+        "Hudkreftscreening og behandling",
+        "Vurdering og fjerning av føflekker",
+        "Fjerning av cyster og lipomer",
+        "Vortefjerning",
+        "Behandling av neglesykdommer",
+        "Hårtapsbehandling",
+        "Hodebunnsbehandling",
+        "Rosaceabehandling",
+        "Hyperpigmentering og melasma",
+        "Arrbehandling",
+        "Behandling av brannskadearr",
+        "Vitiligobehandling",
+        "Hudbiopsi og diagnostikk"
+      ]
+    },
+    "metrics": {
+      "items": [
+        {
+          "value": "38%",
+          "label": "Færre manglende oppmøter etter lansering"
+        },
+        {
+          "value": "4,9×",
+          "label": "Raskere responstid i resepsjonen"
+        },
+        {
+          "value": "22 timer",
+          "label": "Frigjort arbeidstid per uke"
+        }
+      ]
+    },
+    "testimonial": {
+      "quote": "Pasientene våre sluttet endelig å ringe for å flytte timer. Booking, resepter og biopsisvar skjer i portalen – mine helsesekretærer fikk ettermiddagene sine tilbake.",
+      "author": "Dr. Priya Desai, MD",
+      "clinic": "Desai Dermatology · 3 lokasjoner"
+    },
+    "core_features": {
+      "badge": "Kjernefunksjoner",
+      "title": "Alt en hudpasient – og din resepsjon – trenger.",
+      "description": "Én sikker plattform for booking, kommunikasjon, klinisk flyt og betaling. Erstatter de 5–7 ulike verktøyene de fleste klinikker sliter med i dag.",
+      "items": [
+        {
+          "title": "Nettbasert timebestilling",
+          "desc": "Sanntidskalendere for behandlere, forsikringssjekk og automatiske bekreftelser – 24/7 selvbetjening som fyller timelisten."
+        },
+        {
+          "title": "Sikker pasientkommunikasjon",
+          "desc": "HIPAA-kryptert toveischat mellom pasienter, resepsjon og klinisk personell – med fullstendig historikk og lesebekreftelser."
+        },
+        {
+          "title": "Digitale inntaks- og samtykkeskjemaer",
+          "desc": "Krypterte skjemaer for helsehistorikk og e-signaturer fullføres før besøket – og synkroniseres direkte med din EPJ."
+        },
+        {
+          "title": "Betaling og fakturering på nett",
+          "desc": "PCI-kompatibel betaling med kort og betalingsplaner. Papirløse fakturaer gir raskere oppgjør med mindre friksjon."
+        },
+        {
+          "title": "Forespørsel om reseptfornyelse",
+          "desc": "Ett-trykks forespørsler rutes til riktig behandler med full oversikt over medisinereing, allergier og foretrukket apotek."
+        },
+        {
+          "title": "Prøvesvar og biopsirapporter",
+          "desc": "Publiser patologi- og biopsisvar med forklaringer på vanlig norsk og behandlernotater som pasientene faktisk forstår."
+        },
+        {
+          "title": "Teledermatologiske konsultasjoner",
+          "desc": "Kryptert HD-video med venterom, bildeopplasting og integrert journalføring – ingen separat videoløsning nødvendig."
+        },
+        {
+          "title": "Smarte påminnelser og innkallinger",
+          "desc": "SMS- og e-postpåminnelser, årlige innkallinger og automatisert oppfølging av ubenyttede timer som henter inn 20–30 % av tapt omsetning."
+        }
+      ]
+    },
+    "security": {
+      "badge": "Sikkerhet og samsvar",
+      "title": "HIPAA-tilpasset fra første kodelinje.",
+      "description": "Ikke bare lagt på i etterkant. Hver arkitektonisk beslutning – hosting, database, meldinger, video, lagring og analyse – er designet for å beskytte sensitive helseopplysninger.",
+      "cta": "Be om vår sikkerhetspakke",
+      "items": [
+        {
+          "title": "HIPAA-arkitektur",
+          "desc": "Helseopplysninger er kryptert ved lagring (AES-256) og under sending (TLS 1.3). BAA-avtaler signeres med alle underleverandører."
+        },
+        {
+          "title": "Rollebasert tilgangskontroll",
+          "desc": "Spesifikke tilganger for leger, sykepleiere og sekretærer – med fullstendig revisjonslogg."
+        },
+        {
+          "title": "MFA og biometrisk innlogging",
+          "desc": "Passkeys, Face ID og TOTP for pasienter og ansatte. Ingen passord på avveie. Ingen phishing."
+        },
+        {
+          "title": "Tilgang for pårørende og verge",
+          "desc": "Fullmaktstilgang for foreldre, ektefeller og omsorgspersoner med automatisk opphør basert på alder."
+        }
+      ]
+    },
+    "workflow": {
+      "badge": "Slik lanserer vi",
+      "title": "Fra oppstart til ferdig portal på 4–6 uker.",
+      "steps": [
+        {
+          "step": "Steg 01",
+          "title": "Gjennomgang og EPJ-revisjon",
+          "desc": "Vi kartlegger din nåværende EPJ, fagsystem og arbeidsflyt i et 60-minutters arbeidsmøte."
+        },
+        {
+          "step": "Steg 02",
+          "title": "Portaldesign og merkevare",
+          "desc": "Skreddersydd brukergrensesnitt tilpasset din klinikk – ikke en generisk mal."
+        },
+        {
+          "step": "Steg 03",
+          "title": "Integrasjoner og migrering",
+          "desc": "EPJ, e-resepter, prøvesvar og betaling kobles sammen. Pasientdata migreres sømløst."
+        },
+        {
+          "step": "Steg 04",
+          "title": "Opplæring og lansering",
+          "desc": "Live opplæring, dokumentert arbeidsflyt og en 30-dagers periode med ekstra tett oppfølging."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "badge": "Spørsmål",
+    "title": "Ofte stilte spørsmål om pasientportaler",
+    "items": [
+      {
+        "q": "Er pasientportalen HIPAA-kompatibel?",
+        "a": "Ja. Alle lag – hosting, database, meldinger, video, lagring og analyse – er HIPAA-tilpasset. Vi signerer en BAA og leverer en dokumentert samsvarspakke."
+      },
+      {
+        "q": "Integreres den med mitt journalsystem (EPJ)?",
+        "a": "Vi integrerer med de største dermatologiske systemene (Modernizing Medicine / EMA, Nextech, EZDERM, DrChrono, Athena, eClinicalWorks, Practice Fusion, Epic, Cerner) via HL7, FHIR eller API-er. For mindre systemer bygger vi skreddersydde integrasjoner."
+      },
+      {
+        "q": "Kan pasienter bestille time uten å opprette konto?",
+        "a": "Ja. Gjestebestilling støttes for nye pasienter. En portalkonto opprettes automatisk etter at den første timen er bekreftet, med en velkomst-e-post."
+      },
+      {
+        "q": "Hvor lang tid tar implementeringen?",
+        "a": "En portal for én lokasjon lanseres på 4–6 uker. For klinikker med flere lokasjoner og komplekse migreringer tar det vanligvis 8–12 uker."
+      },
+      {
+        "q": "Eier vi portalen etter lansering?",
+        "a": "Ja. Dere eier koden, innholdet, designet og pasientdataene. Ingen bindingstid, ingen avgifter per pasient, og ingen månedsgebyrer påkrevd – avslutt når som helst med full eksport av data."
+      },
+      {
+        "q": "Er telemedisin et tillegg eller er det inkludert?",
+        "a": "Det er inkludert. HIPAA-kompatibel HD-video med venterom og bildeopplasting er innebygd i portalen uten ekstra kostnad per konsultasjon."
+      }
+    ]
+  },
+  "cta": {
+    "badge": "Klar når du er",
+    "title": "Gi pasientene og resepsjonen en portal de vil elske.",
+    "description": "Be om en gratis gjennomgang av portalen. Vi vurderer ditt nåværende oppsett, foreslår en tidsplan og sender et tilbud samme dag.",
+    "cta_quote": "Få et gratis pristilbud",
+    "cta_contact": "Kontakt oss"
+  },
+  "footer_related": {
+    "text": "Relaterte sider: ",
+    "link_website": "din hovednettside",
+    "link_multi_location": "løsninger for flere lokasjoner",
+    "link_packages": "aktuelle pakkeløsninger"
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "meta": {
+    "title": "Get a Free Quote — Dermatology Website Design",
+    "description": "Request a personalized quote for your dermatology practice website. Transparent pricing, tailored proposal within 24 hours.",
+    "ogTitle": "Get a Free Quote — Dermatology Website Design",
+    "ogDescription": "Tell us about your practice and get a tailored proposal within 24 hours."
+  },
+  "hero": {
+    "badge": "Free Quote",
+    "title": "Get a",
+    "titleHighlight": "personalized quote",
+    "titleSuffix": "for your practice.",
+    "description": "Tell us a bit about your dermatology practice and goals. We'll send you a tailored proposal — with transparent pricing and a clear plan — within 24 hours.",
+    "features": [
+      "Response in 24 hours",
+      "No obligation",
+      "Transparent pricing"
+    ],
+    "trust": {
+      "repliesWithin": "Replies within",
+      "repliesValue": "24 hours",
+      "launchedValue": "50+",
+      "launchedText": "dermatology websites launched",
+      "focusValue": "100%",
+      "focusText": "dermatology-only focus"
+    }
+  },
+  "sidebar": {
+    "whatHappensNext": {
+      "title": "What happens next",
+      "steps": [
+        "We review your submission and current site.",
+        "Our team drafts a tailored scope and proposal.",
+        "You get pricing, timeline, and next steps within 24 hours."
+      ]
+    },
+    "preferToTalk": {
+      "title": "Prefer to talk?",
+      "email": "info@dermatologywebsitedesign.com",
+      "chat": "Chat on WhatsApp"
+    },
+    "guarantee": {
+      "title": "100% Satisfaction Guarantee",
+      "description": "No obligation, no pressure. If our proposal isn't the right fit, walk away — no questions asked.",
+      "benefits": [
+        "No spam, ever",
+        "Your data stays private",
+        "Cancel anytime"
+      ]
+    }
+  },
+  "form": {
+    "success": {
+      "title": "Thanks — your request is in.",
+      "description": "A member of our team will reach out within 24 hours with your personalized proposal."
+    },
+    "progress": {
+      "step": "Step",
+      "of": "of",
+      "labels": [
+        "Contact",
+        "Website",
+        "Services",
+        "Budget"
+      ]
+    },
+    "sections": {
+      "contactInfo": "Contact Information",
+      "websiteDetails": "Website Details",
+      "helpWith": "What do you need help with?",
+      "budgetTimeline": "Budget & Timeline"
+    },
+    "fields": {
+      "yourName": {
+        "label": "Your name",
+        "placeholder": "Dr. Jane Smith"
+      },
+      "workEmail": {
+        "label": "Work email",
+        "placeholder": "you@yourpractice.com"
+      },
+      "phone": {
+        "label": "Phone",
+        "placeholder": "+1 (555) 000-0000",
+        "hint": "(optional)"
+      },
+      "practiceName": {
+        "label": "Practice name",
+        "placeholder": "BS Dermatology"
+      },
+      "currentWebsite": {
+        "label": "Current website",
+        "placeholder": "yourpractice.com",
+        "hint": "(optional)"
+      },
+      "numberOfLocations": {
+        "label": "Number of locations",
+        "select": "Select"
+      },
+      "websiteSize": {
+        "label": "Website size",
+        "select": "Select"
+      },
+      "adminAccess": {
+        "label": "Admin access available?"
+      },
+      "estimatedBudget": {
+        "label": "Estimated budget",
+        "select": "Select a range"
+      },
+      "urgency": {
+        "label": "How soon do you need this?",
+        "select": "Select urgency"
+      },
+      "projectDetails": {
+        "label": "Project details",
+        "placeholder": "Tell us about your goals, locations, and anything specific you have in mind.",
+        "hint": "(optional)"
+      }
+    },
+    "servicesText": {
+      "select": "Select all that apply. You've picked",
+      "service": "service",
+      "services": "services"
+    },
+    "buttons": {
+      "back": "Back",
+      "continue": "Continue",
+      "sending": "Sending…",
+      "submit": "Request My Free Quote"
+    },
+    "footerText": "Your details are 100% secure. No spam, ever.",
+    "validation": {
+      "name": "Please enter your name",
+      "email": "Please enter a valid email",
+      "practiceName": "Please enter your practice name",
+      "service": "Please select at least one service",
+      "locations": "Please select number of locations",
+      "websiteSize": "Please select website size",
+      "adminAccess": "Please tell us about admin access",
+      "budget": "Please select a budget",
+      "urgency": "Please select an urgency",
+      "completeStep": "Please complete this step",
+      "checkForm": "Please check the form",
+      "wait": "Please wait {{seconds}}s before submitting again."
+    }
+  },
+  "options": {
+    "services": [
+      "Website Design",
+      "Website Redesign",
+      "Website Migration",
+      "Before & After Gallery",
+      "SEO / Local SEO",
+      "Google Ads / PPC",
+      "Multi-Location Site",
+      "E-Commerce",
+      "Patient Portal",
+      "Reputation & Reviews",
+      "Content & Copywriting",
+      "Care & Maintenance"
+    ],
+    "locations": [
+      "1 location",
+      "2–3 locations",
+      "4–10 locations",
+      "10+ locations"
+    ],
+    "pages": [
+      "1 page",
+      "5–8 pages",
+      "10–15 pages",
+      "15–20 pages",
+      "20+ pages"
+    ],
+    "admin": [
+      "Yes",
+      "No",
+      "Not sure"
+    ],
+    "budgets": [
+      "Under $1k",
+      "$1k – $2k",
+      "$4k – $5k",
+      "$7k – $10k",
+      "$10k+"
+    ],
+    "urgencies": [
+      "Within 48 hours",
+      "Within 7 days",
+      "Within 1 month",
+      "Within 3 months",
+      "Within 6 months",
+      "No rush / Flexible"
+    ]
+  },
+  "sections": {
+    "whyQuote": {
+      "title": "Why request a",
+      "titleHighlight": "quote?",
+      "subtitle": "Real numbers, tailored to your practice — no obligations attached.",
+      "items": [
+        {
+          "title": "100% Free & No Obligation",
+          "body": "Get real numbers customized to your practice size, platform, and goals."
+        },
+        {
+          "title": "Tailored to Your Practice",
+          "body": "Every dermatology practice is different. Quotes based on your CMS, locations, and services."
+        },
+        {
+          "title": "Transparent Pricing",
+          "body": "We break down tasks, timelines, and deliverables — you know exactly what you're paying for."
+        },
+        {
+          "title": "Fast Response",
+          "body": "Our team reviews your request immediately and replies within 24 hours or less."
+        }
+      ]
+    },
+    "whatWeCanHelpWith": {
+      "title": "What we can",
+      "titleHighlight": "help you with",
+      "subtitle": "Our quotes cover the full spectrum of dermatology digital services.",
+      "footer": "Need something specific? Just mention it — we customize every plan.",
+      "categories": [
+        {
+          "label": "Design",
+          "items": [
+            "Custom Website Design",
+            "Website Redesign",
+            "Website Migration",
+            "Multi-Location Sites",
+            "Before & After Galleries",
+            "Patient Portals"
+          ]
+        },
+        {
+          "label": "Growth",
+          "items": [
+            "Dermatology SEO",
+            "Local SEO",
+            "Google Ads / PPC",
+            "E-Commerce",
+            "Content & Copywriting",
+            "Analytics & CRO"
+          ]
+        },
+        {
+          "label": "Care",
+          "items": [
+            "Reputation & Reviews",
+            "Speed Optimization",
+            "HIPAA-Aware Hosting",
+            "Care & Maintenance"
+          ]
+        }
+      ]
+    },
+    "howItWorks": {
+      "title": "How it",
+      "titleHighlight": "works",
+      "subtitle": "From request to proposal in four simple steps.",
+      "stepLabel": "Step",
+      "items": [
+        {
+          "title": "Submit the Form",
+          "body": "Share your practice details, website, and what you need help with."
+        },
+        {
+          "title": "Expert Review",
+          "body": "Our team analyzes your current site, SEO health, and requirements."
+        },
+        {
+          "title": "Receive Your Quote",
+          "body": "Get a detailed, personalized proposal — clear, simple, transparent."
+        },
+        {
+          "title": "Start with Confidence",
+          "body": "Approve the plan and we kick off with a structured onboarding."
+        }
+      ]
+    }
+  }
+}

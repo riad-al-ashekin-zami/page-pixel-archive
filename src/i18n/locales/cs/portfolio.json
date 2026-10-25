@@ -1,0 +1,344 @@
+{
+  "meta": {
+    "title": "Portfolio webů pro dermatology – Ukázky úspěšných redesignů",
+    "description": "Výběr webových stránek pro dermatologické kliniky z naší dílny – estetická, lékařská i dětská dermatologie s prokazatelným růstem rezervací, lepším SEO a bleskovou rychlostí.",
+    "keywords": "portfolio webů pro dermatology, design webu pro dermatologii, případové studie dermatologických praxí, webové stránky pro dermatology",
+    "breadcrumb": {
+      "home": "Domů",
+      "portfolio": "Portfolio"
+    }
+  },
+  "accessibility": {
+    "skipToContent": "Přeskočit na obsah"
+  },
+  "hero": {
+    "badge": "Portfolio · Více než 50 dermatologických praxí",
+    "heading": "Skutečné weby pro dermatology. Skutečný růst.",
+    "subheading": "Každý projekt níže patří reálné klinice – od estetické medicíny po dětskou dermatologii a sítě s více pobočkami. Nabízíme design na míru, řešení v souladu s HIPAA a SEO, které plní kalendáře, nejen statistiky.",
+    "cta": {
+      "start": "Zahájit projekt",
+      "audit": "Webový audit zdarma"
+    },
+    "stats": [
+      {
+        "label": "Praxí",
+        "value": "50+"
+      },
+      {
+        "label": "Průměrný nárůst rezervací",
+        "value": "3,4×"
+      },
+      {
+        "label": "Lighthouse medián",
+        "value": "98"
+      }
+    ]
+  },
+  "previews": {
+    "backCard": {
+      "imageAlt": "CS Dermatology – ukázka webu lékařské praxe",
+      "tags": {
+        "hipaa": "HIPAA-aware",
+        "performance": "99 · výkon"
+      }
+    },
+    "frontCard": {
+      "imageAlt": "Aventura Skin Studio – ukázka webu estetické dermatologie",
+      "category": "Estetická dermatologie · Miami",
+      "practiceName": "Aventura Skin Studio",
+      "result": "+214 % poptávek po konzultaci · 90 dní"
+    }
+  },
+  "ctaSection": {
+    "badge": "Jsme připraveni, až budete vy",
+    "heading": "Vaše praxe si zaslouží web, který pacienty objednává sám.",
+    "description": "Podívejte se, jak vypadá web navržený specialisty na dermatologii přímo pro vás. Audit zdarma, fixní cenová nabídka a žádný nátlak – reálná čísla získáte do 24 hodin.",
+    "features": [
+      "Audit webu zdarma do 24 hodin",
+      "Nabídka s fixní cenou",
+      "Soulad s HIPAA a WCAG AA",
+      "Vlastníte vše – kód, doménu i data"
+    ],
+    "buttons": {
+      "start": "Zahájit projekt",
+      "audit": "Audit zdarma"
+    },
+    "disclaimer": "Bez kreditní karty · Žádné prodejní triky"
+  },
+  "footerLinks": {
+    "text": "Mohlo by vás také zajímat:",
+    "caseStudies": "případové studie zaměřené na výsledky",
+    "process": "jak probíhá realizace projektu",
+    "pricing": "aktuální nabídka balíčků",
+    "conjunctions": {
+      "or": "nebo"
+    }
+  },
+  "gallery": {
+    "eyebrow": "Živě na webu",
+    "heading": "Dermatologické weby, které studujeme a přestavujeme.",
+    "subheading": "Ručně vybraná galerie dermatologických, estetických a skincare značek z USA, MENA, UK a dalších zemí."
+  },
+  "sites": {
+    "centralaustinderm.com": {
+      "tagline": "Kompletní dermatologie v centru Austinu.",
+      "location": "Austin, TX"
+    },
+    "cleardermatology.net": {
+      "tagline": "Certifikovaná lékařská a kosmetická péče.",
+      "location": "Scottsdale, AZ"
+    },
+    "olanskydermatology.com": {
+      "tagline": "Estetická dermatologie + sada injekčních přípravků.",
+      "location": "Atlanta, GA"
+    },
+    "sanovadermatology.com": {
+      "tagline": "Kosmetická, lékařská a chirurgická dermatologie.",
+      "location": "TX a LA"
+    },
+    "dermsanantonio.com": {
+      "tagline": "Areál laserové + lékařské dermatologie.",
+      "location": "San Antonio, TX"
+    },
+    "directderm.com": {
+      "tagline": "Teledermatologie přímo u pacienta.",
+      "location": "USA"
+    },
+    "clinicaldermatologycenter.com": {
+      "tagline": "Klinická dermatologie zaměřená do budoucna.",
+      "location": "Cincinnati, OH"
+    },
+    "dermlasercenter.com": {
+      "tagline": "Pokročilý laser + centrum rakoviny kůže.",
+      "location": "USA"
+    },
+    "coloradodermatology.com": {
+      "tagline": "Lékařská dermatologie Front Range.",
+      "location": "Colorado"
+    },
+    "skymd.com": {
+      "tagline": "50-státní teledermatologická síť.",
+      "location": "USA"
+    },
+    "chicagodermatology.co": {
+      "tagline": "Butik lékařská a kosmetická dermatologie.",
+      "location": "Chicago, IL"
+    },
+    "cura.sa": {
+      "tagline": "Prémiová dermatologie a wellness v KSA.",
+      "location": "Saúdská Arábie"
+    },
+    "galderma.com": {
+      "tagline": "Globální dermatologie, farmacie a estetika.",
+      "location": "Globální"
+    },
+    "badrhealth.com": {
+      "tagline": "Multioborová dermatologická skupina.",
+      "location": "Saúdská Arábie"
+    },
+    "zmmcomedical.com": {
+      "tagline": "Skupina lékařské + estetické dermatologie.",
+      "location": "MENA"
+    },
+    "naturium.com": {
+      "tagline": "Značka péče o pleť milovaná dermatology.",
+      "location": "USA"
+    },
+    "westdermatology.com": {
+      "tagline": "60+ umístění v západní síti USA.",
+      "location": "AZ · CA · NV · NM"
+    },
+    "baydermatology.com": {
+      "tagline": "Obecná a dětská dermatologie.",
+      "location": "Florida"
+    },
+    "lasercarespecialists.com": {
+      "tagline": "Zaměřený laser + omlazení pleti.",
+      "location": "USA"
+    },
+    "fwdermatology.com": {
+      "tagline": "Rodinná a chirurgická dermatologie.",
+      "location": "Fort Worth, TX"
+    },
+    "westlakedermatology.com": {
+      "tagline": "Špičková značka kosmetické dermatologie.",
+      "location": "Texas"
+    },
+    "platinumderm.com": {
+      "tagline": "Moderní cvičná skupina platinové úrovně.",
+      "location": "USA"
+    },
+    "sdfamilyderm.com": {
+      "tagline": "Rodinná dermatologie v San Diegu.",
+      "location": "San Diego, CA"
+    },
+    "candelamedical.com": {
+      "tagline": "Globální výrobce estetických zařízení.",
+      "location": "Globální"
+    },
+    "edermatology.com": {
+      "tagline": "Concierge lékařská dermatologie.",
+      "location": "USA"
+    },
+    "dermatologistoncall.com": {
+      "tagline": "Virtuální dermatologické návštěvy na vyžádání.",
+      "location": "USA"
+    },
+    "neodermatologist.com": {
+      "tagline": "Next-gen concierge dermatologie.",
+      "location": "USA"
+    },
+    "doraclinic.sa": {
+      "tagline": "Luxusní dermatologie v Saúdské Arábii.",
+      "location": "Saúdská Arábie"
+    },
+    "reveal-clinics.com": {
+      "tagline": "Řetězec estetických klinik se sídlem ve Velké Británii.",
+      "location": "Spojené království"
+    },
+    "dermskincancercenter.com": {
+      "tagline": "Mohs & specialisté na rakovinu kůže.",
+      "location": "USA"
+    },
+    "coloradospringsdermatologyclinic.com": {
+      "tagline": "Kosmetika + lékařská dermatologie.",
+      "location": "Colorado Springs, CO"
+    },
+    "azcdps.com": {
+      "tagline": "Komplexní praxe AZ dermatologie.",
+      "location": "Arizona"
+    },
+    "lumenis.com": {
+      "tagline": "Estetická technologie založená na energii.",
+      "location": "Globální"
+    },
+    "skinsight.com": {
+      "tagline": "Vizuální referenční knihovna stavu kůže.",
+      "location": "Globální"
+    },
+    "skinofcolorsociety.org": {
+      "tagline": "Nezisková organizace pro výzkum barvy pleti.",
+      "location": "Globální"
+    },
+    "clini-derma.com": {
+      "tagline": "Moderní klinika estetické dermatologie.",
+      "location": "Evropě"
+    },
+    "skinandme.com": {
+      "tagline": "Péče o pleť na předpis, dodávaná měsíčně.",
+      "location": "Spojené království"
+    },
+    "unionmd.ca": {
+      "tagline": "Prvotřídní lékařská a estetická péče.",
+      "location": "Montreal, CA"
+    },
+    "sydneyderm.com.au": {
+      "tagline": "Specialista na dermatologii v Sydney CBD.",
+      "location": "Sydney, AU"
+    },
+    "drhausdermatology.com": {
+      "tagline": "Dermatologie a estetika Harley Street.",
+      "location": "Londýn, Velká Británie"
+    },
+    "teladochealth.com": {
+      "tagline": "Globální podnik virtuální péče.",
+      "location": "Globální"
+    },
+    "skincarebydrv.com": {
+      "tagline": "Pleť barev expert značky.",
+      "location": "Spojené království"
+    },
+    "sunparkdermatology.ca": {
+      "tagline": "Praxe rodinné lékařské dermatologie.",
+      "location": "Calgary, CA"
+    },
+    "almalasers.com": {
+      "tagline": "Globální výrobce energetických zařízení.",
+      "location": "Globální"
+    },
+    "cpso.on.ca": {
+      "tagline": "Regulační orgán lékařů Ontaria.",
+      "location": "Ontario, CA"
+    },
+    "ottawahospital.on.ca": {
+      "tagline": "Akademická nemocnice s více kampusy.",
+      "location": "Ottawa, CA"
+    },
+    "thedermaco.com": {
+      "tagline": "Vědecky podložená značka péče o pleť.",
+      "location": "Indie"
+    },
+    "vancouver.rejuv.ca": {
+      "tagline": "Lékařská estetika a omlazení.",
+      "location": "Vancouver, CA"
+    },
+    "eudelo.com": {
+      "tagline": "Londýnská dermatologie a péče o pleť.",
+      "location": "Londýn, Velká Británie"
+    },
+    "derma-clinic.co.uk": {
+      "tagline": "Britská dermatologie pod vedením konzultanta.",
+      "location": "Spojené království"
+    },
+    "belfastskinclinic.com": {
+      "tagline": "Specialisté na pleť ze Severního Irska.",
+      "location": "Belfast, Spojené království"
+    },
+    "cathedraldermatology.com": {
+      "tagline": "Komplexní dermatologická péče.",
+      "location": "USA"
+    },
+    "themoleclinic.co.uk": {
+      "tagline": "Přední britská služba pro screening krtků.",
+      "location": "Spojené království"
+    },
+    "blemishclinic.co.uk": {
+      "tagline": "Specialisté na odstraňování kožních lézí.",
+      "location": "Spojené království"
+    },
+    "norvichospital.com": {
+      "tagline": "Víceodborná soukromá nemocnice.",
+      "location": "Bangladéš"
+    },
+    "heidelbergmedical.com.au": {
+      "tagline": "Kosmetická dermatologie a anti-ageing.",
+      "location": "Melbourne, AU"
+    },
+    "dermscreen.com.au": {
+      "tagline": "Specialisté na screening rakoviny kůže.",
+      "location": "Austrálie"
+    },
+    "stgeorgedermatology.com.au": {
+      "tagline": "Specializovaná dermatologie v Sydney.",
+      "location": "Sydney, AU"
+    },
+    "theskinlab.com.au": {
+      "tagline": "Kosmetická dermatologie a injekce.",
+      "location": "Austrálie"
+    },
+    "asec.net.au": {
+      "tagline": "Australian Skin Excellence Centre.",
+      "location": "Austrálie"
+    }
+  },
+  "categoryLabels": {
+    "aesthetic": "Estetické",
+    "medical": "Lékařské",
+    "multiLocation": "Více umístění",
+    "brand": "Značka / podnik",
+    "international": "mezinárodní",
+    "specialty": "Specialita"
+  },
+  "filters": {
+    "all": "Všechny praktiky",
+    "aesthetic": "Estetické a kosmetické",
+    "medical": "Lékařská dermatologie",
+    "multiLocation": "Skupiny s více místy",
+    "brand": "Podnik a značka",
+    "international": "MENA & mezinárodní",
+    "specialty": "Specialita a zdroje"
+  },
+  "actions": {
+    "visitSite": "Navštivte web"
+  }
+}

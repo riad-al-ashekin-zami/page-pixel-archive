@@ -1,0 +1,275 @@
+{
+  "meta": {
+    "title": "FAQ — Dermatology Website Design, SEO & HIPAA Answers",
+    "description": "Straight answers on dermatology website pricing, timelines, SEO, HIPAA, redesigns, migrations, and ongoing support for growing practices.",
+    "keywords": "dermatology website FAQ, dermatology SEO FAQ, HIPAA website questions, dermatology website cost, dermatology website timeline",
+    "breadcrumbList": {
+      "home": "Home",
+      "faq": "FAQ"
+    }
+  },
+  "hero": {
+    "badge": "{{totalCount}} answers · Dermatology-specific",
+    "heading": "Every answer a dermatology practice actually needs.",
+    "subheading": "Pricing, timelines, SEO, HIPAA, redesigns, migrations, integrations. Straight, specific, and written by the team that will do the work.",
+    "search": {
+      "label": "Search FAQs",
+      "placeholder": "Search cost, HIPAA, redesign, SEO…",
+      "hint": "Press / or ⌘K to search",
+      "results": "{{count}} answer matches \"{{query}}\"",
+      "results_plural": "{{count}} answers match \"{{query}}\""
+    },
+    "stats": [
+      {
+        "label": "Audit turnaround",
+        "value": "24h"
+      },
+      {
+        "label": "Derm practices",
+        "value": "50+"
+      },
+      {
+        "label": "Lighthouse target",
+        "value": "95+"
+      }
+    ]
+  },
+  "navigation": {
+    "skipToContent": "Skip to content",
+    "browseByTopic": "Browse by topic",
+    "onThisPage": "On this page",
+    "all": "All",
+    "clearFilters": "Clear filters",
+    "askUs": "Ask us"
+  },
+  "popular": {
+    "badge": "Most asked",
+    "heading": "Popular questions"
+  },
+  "searchNoResults": {
+    "heading": "No answers match that yet.",
+    "subheading": "Try one of these topics — or send us the question and we'll answer in 24 hours.",
+    "suggested": [
+      "pricing",
+      "HIPAA",
+      "timeline",
+      "SEO",
+      "redesign",
+      "EHR"
+    ]
+  },
+  "feedback": {
+    "question": "Was this helpful?",
+    "success": "Thanks for the feedback!",
+    "clarify": "Thanks — we'll clarify this soon.",
+    "ariaHelpful": "Mark helpful",
+    "ariaNotHelpful": "Mark not helpful"
+  },
+  "categories": {
+    "general": {
+      "title": "General & Getting Started",
+      "short": "General",
+      "intro": "Who we work with, how projects start, and what to expect.",
+      "items": [
+        {
+          "q": "Who do you build websites for?",
+          "a": "We work exclusively with dermatology practices — solo derms, group clinics, cosmetic/medical/pediatric sub-specialties, and multi-location groups. Focusing on one niche means every page pattern, integration, and playbook is already refined for how dermatology patients search and book."
+        },
+        {
+          "q": "How does a project start?",
+          "a": "It starts with a discovery session, followed by a free website audit of your current site — SEO, speed, HIPAA, UX, and conversion. From there we scope a fixed proposal with clear deliverables, milestones, and price. No open-ended hourly billing.",
+          "cta": "See our process"
+        },
+        {
+          "q": "Do you replace our current agency?",
+          "a": "Sometimes. Many clients keep us as their long-term dermatology-specialist partner and use a general agency for print or PR. We're happy to co-exist — we just own the website, SEO, and paid acquisition roadmap end to end."
+        },
+        {
+          "q": "Do we own the website?",
+          "a": "Yes. You own the domain, the codebase, the content, and every account we create on your behalf. Nothing is held hostage. If you ever leave, we hand over everything cleanly."
+        }
+      ]
+    },
+    "pricing": {
+      "title": "Pricing & Timelines",
+      "short": "Pricing",
+      "intro": "What projects cost, how long they take, and how billing works.",
+      "items": [
+        {
+          "q": "How much does a dermatology website cost?",
+          "a": "Most custom dermatology websites land between $6,500 and $18,500 depending on page count, integrations (EHR, portal, e-commerce), before/after gallery complexity, and content production. Multi-location groups typically fall into a higher band. Every quote is fixed, not hourly.",
+          "cta": "See plans & pricing"
+        },
+        {
+          "q": "How long does a build take?",
+          "a": "A focused single-location site ships in 4–7 weeks. Multi-location, e-commerce, or heavy content-migration projects run 8–12 weeks. Timelines assume timely content and feedback from your team — we send a schedule so nothing slips silently."
+        },
+        {
+          "q": "Do you offer payment plans?",
+          "a": "Yes — a common structure is 40% at kickoff, 40% at design approval, 20% at launch. Larger projects can be split monthly across the build. Ongoing marketing retainers are billed monthly."
+        },
+        {
+          "q": "What's included in the price?",
+          "a": "Strategy, design, build, copywriting support, on-page SEO, schema, analytics setup, HIPAA-aware form handling, staging environment, QA, launch, and 30 days of post-launch support. No surprise add-ons."
+        }
+      ]
+    },
+    "seo": {
+      "title": "SEO & Growth",
+      "short": "SEO",
+      "intro": "How we make you rank — and keep ranking — in your service area.",
+      "items": [
+        {
+          "q": "Will the new site hurt our current SEO?",
+          "a": "The opposite is the plan. We audit every ranking URL, map 301 redirects, preserve backlink equity, and tighten on-page signals during the migration. Most clients see stable or improved rankings within 30–60 days."
+        },
+        {
+          "q": "Do you handle local SEO for multi-location practices?",
+          "a": "Yes. Each location gets its own optimized page, Google Business Profile alignment, unique location copy (no boilerplate), and structured data. We track rankings by location and service, not just the homepage."
+        },
+        {
+          "q": "How long until SEO results show up?",
+          "a": "Local map results often move within 4–8 weeks. Competitive service keywords (Aesthetic, Mohs, laser resurfacing) typically take 3–6 months of consistent content and links. We report monthly with real ranking, traffic, and lead data."
+        },
+        {
+          "q": "Do you write the content?",
+          "a": "Yes, with your medical review. Our writers specialize in derm-adjacent health content — patient-friendly, E-E-A-T-aligned, and reviewed by your clinical team before publication."
+        }
+      ]
+    },
+    "hipaa": {
+      "title": "HIPAA & Compliance",
+      "short": "HIPAA",
+      "intro": "How we keep PHI out of the wrong tools and pipes.",
+      "items": [
+        {
+          "q": "Are your websites HIPAA compliant?",
+          "a": "We build HIPAA-aware sites: forms transmit over TLS to a HIPAA-eligible endpoint, no PHI is captured in analytics or marketing pixels, BAAs are signed with hosting and form providers, and staff workflows keep PHI out of email. Compliance is a program, not a checkbox — we set the site up correctly and document it for you.",
+          "cta": "Get a free audit"
+        },
+        {
+          "q": "Do you sign a BAA?",
+          "a": "Yes, for the services where a BAA is applicable (hosting, form intake, storage). We only recommend vendors that will sign one when PHI is in play."
+        },
+        {
+          "q": "Can you audit our existing HIPAA posture?",
+          "a": "Yes — it's part of the free website audit. We flag risky trackers, insecure forms, PHI-in-URL leaks, and vendor gaps, and give you a prioritized fix list."
+        },
+        {
+          "q": "What about ADA / accessibility compliance?",
+          "a": "Every site ships to WCAG 2.2 AA, with an ADA statement and a working feedback channel. Accessibility is baked into the design system — color contrast, keyboard focus, screen-reader labels — not bolted on with an overlay."
+        }
+      ]
+    },
+    "design": {
+      "title": "Design & Redesign",
+      "short": "Design",
+      "intro": "How we approach visual identity, UX, and rebuilds.",
+      "items": [
+        {
+          "q": "Is the design custom, or template-based?",
+          "a": "100% custom. Every project starts with your brand, patient personas, and services. We don't reskin a template — every page is designed for the conversions that matter for your practice."
+        },
+        {
+          "q": "Can you match our existing brand?",
+          "a": "Yes. If you have a brand guide we honor it. If you don't, we can refresh your identity — logo, colors, typography — as an add-on so the site launches with a cohesive look end to end."
+        },
+        {
+          "q": "How does the redesign process protect our current traffic?",
+          "a": "We audit every ranking page, map redirects, preserve schema, and stage the new site behind auth for QA. Launches happen with monitoring in place so any regression is caught within hours, not weeks."
+        },
+        {
+          "q": "Do you handle photography?",
+          "a": "We coordinate with local medical photographers when needed. For before/after galleries we set up consent workflows and a scalable content pipeline your staff can maintain."
+        }
+      ]
+    },
+    "support": {
+      "title": "Support & Maintenance",
+      "short": "Support",
+      "intro": "What happens after launch, and how we stay on call.",
+      "items": [
+        {
+          "q": "What happens after launch?",
+          "a": "You get 30 days of hands-on support included. After that, most clients move to a care plan: updates, monitoring, backups, security patches, uptime, small content changes, and monthly performance reviews."
+        },
+        {
+          "q": "How fast is support?",
+          "a": "Care-plan clients get a same-business-day response, with critical issues (site down, form broken) addressed within hours. You get a real human — not a ticket queue."
+        },
+        {
+          "q": "Do you handle hosting?",
+          "a": "Yes. We host on HIPAA-eligible infrastructure with CDN, automatic backups, and SSL. If you prefer to self-host, we can deploy to your environment and document handoff."
+        },
+        {
+          "q": "Can we edit the site ourselves?",
+          "a": "Yes. Every site ships with a CMS your team can use — pages, blog posts, providers, locations, and before/after entries are editable without touching code."
+        }
+      ]
+    },
+    "integrations": {
+      "title": "Integrations & Tools",
+      "short": "Integrations",
+      "intro": "How the site connects to the rest of your stack.",
+      "items": [
+        {
+          "q": "Do you integrate with our EHR or scheduling tool?",
+          "a": "Yes — we've integrated with most major dermatology EHRs and scheduling platforms (Nextech, ModMed, Zocdoc, Klara, and more). If a public API or embed exists, we wire it in cleanly. If it doesn't, we design around it."
+        },
+        {
+          "q": "Can we sell products online?",
+          "a": "Yes. We build compliant e-commerce for skincare product lines with Shopify or a headless commerce backend, including subscription refills and inventory sync."
+        },
+        {
+          "q": "Do you set up call tracking and analytics?",
+          "a": "Yes. GA4, conversion tracking for calls and form fills, call recording (where legally permitted), and revenue attribution by channel. Everything is HIPAA-aware."
+        },
+        {
+          "q": "What about email marketing and CRM?",
+          "a": "We integrate with the CRM/ESP you already use, or recommend one that fits derm workflows. Automated nurture sequences for consult requests are a common add-on."
+        }
+      ]
+    }
+  },
+  "cta": {
+    "badge": "Still have questions?",
+    "heading": "Ask us anything — get a real answer within 24 hours.",
+    "subheading": "No sales script, no gatekeeping. Send us the question your last agency dodged, and we'll come back with specifics.",
+    "buttons": {
+      "contact": "Contact us",
+      "audit": "Free website audit"
+    }
+  },
+  "related": {
+    "badge": "Related",
+    "heading": "Keep exploring",
+    "items": [
+      {
+        "title": "Website Checklists",
+        "desc": "108 checkpoints across 9 categories.",
+        "link": "Explore"
+      },
+      {
+        "title": "Plans & Pricing",
+        "desc": "Transparent packages for every stage.",
+        "link": "Explore"
+      },
+      {
+        "title": "Free Audit",
+        "desc": "Personalized report in 24 hours.",
+        "link": "Explore"
+      },
+      {
+        "title": "Our Process",
+        "desc": "How we deliver every project.",
+        "link": "Explore"
+      }
+    ]
+  },
+  "footerLinks": {
+    "text": "Still looking? These might help: ",
+    "auditLink": "start with a free site audit",
+    "caseStudiesLink": "read recent client stories",
+    "pricingLink": "see our pricing structure"
+  }
+}

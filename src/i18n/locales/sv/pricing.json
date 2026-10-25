@@ -1,0 +1,345 @@
+{
+  "meta": {
+    "title": "Prissättning för hemsidor inom dermatologi — Paket & Transparenta kostnader",
+    "description": "Transparent prissättning för hemsidor till hudläkare. Engångskostnader från $797 till $18,999+, månadspaket från $399 och tilläggstjänster. Se exakt vad du betalar innan vi pratar.",
+    "og": {
+      "title": "Prissättning för hemsidor inom dermatologi — Paket & Kostnader",
+      "description": "Sex hemsidespaket, tre specialbyggen, fyra månadspaket och över 20 tillägg — med en kostnadskalkylator i realtid. Fullständigt transparent prissättning."
+    },
+    "jsonLd": {
+      "breadcrumb": {
+        "home": "Hem",
+        "plans": "Paket & Priser"
+      },
+      "priceSpec": {
+        "name": "Hemsidespaket för dermatologi"
+      }
+    }
+  },
+  "hero": {
+    "badge": "Transparent prissättning",
+    "heading": "Varje pris är öppet redovisat. Inga dolda fakturor.",
+    "description": "Sex fasta hemsidespaket, tre speciallösningar, fyra månadspaket och över 20 tilläggstjänster — med en kostnadskalkylator så att du vet summan innan du kontaktar oss.",
+    "cta": "Se hemsidespaket",
+    "estimatorCta": "Kostnadskalkylator"
+  },
+  "stats": {
+    "launched": "Lanserade hudläkarkliniker",
+    "satisfaction": "Genomsnittlig kundnöjdhet",
+    "startingPrice": "Frånpris (engångskostnad)",
+    "turnaround": "Genomsnittlig leveranstid för ändringar"
+  },
+  "trust": {
+    "ariaLabel": "Förtroende och garantier",
+    "guarantee": "30 dagars pengarna-tillbaka-garanti",
+    "guaranteeSub": "Inte nöjd före lansering? Proportionell återbetalning utan frågor.",
+    "features": [
+      "HIPAA-medveten",
+      "SSL + Säkerhetskopiering",
+      "Inga bindningstider",
+      "Du äger din sajt"
+    ]
+  },
+  "sections": {
+    "websitePackages": {
+      "label": "01 — Paket för hemsidesbygge",
+      "title": "Engångskostnad. Sex tydliga nivåer.",
+      "description": "Välj den storlek som passar idag — uppgradera senare när kliniken växer. Varje pris inkluderar design, utveckling, lansering och revideringar.",
+      "popular": "Populärast",
+      "flagship": "Flaggskepp",
+      "otherAgencies": "Andra byråer:",
+      "bestFor": "Passar bäst för:",
+      "startWith": "Kom igång med {{name}}",
+      "footer": "Alla priser i USD. Engångsavgifter för bygge. Ingen månatlig bindning krävs.",
+      "items": [
+        {
+          "name": "Starter",
+          "subtitle": "One Page",
+          "bestFor": "Nystartad klinik, hudläkare med egen praktik, landningssida",
+          "price": "$797",
+          "priceNote": "engångskostnad",
+          "savings": "20–68 % billigare",
+          "features": [
+            "Hemsida med skrollning på en sida",
+            "Mobilanpassad design",
+            "Kontaktformulär + Klicka-för-att-ringa",
+            "Inbäddad Google Map",
+            "Grundläggande on-page SEO",
+            "SSL + Guide för webbhotell",
+            "Leverans: 1 vecka",
+            "1 revideringsrunda"
+          ],
+          "cons": [
+            "Ingen blogg eller patientportal"
+          ]
+        },
+        {
+          "name": "Clinic Pro",
+          "subtitle": "5–8 sidor",
+          "bestFor": "Etablerad mindre praktik",
+          "price": "$1,997",
+          "priceNote": "engångskostnad",
+          "savings": "33–60 % billigare",
+          "features": [
+            "Hem, Om oss, Tjänster (3–5), Kontakt",
+            "Bokning av tider online",
+            "Före- och efter-galleri",
+            "Läkarpresentation + Meriter",
+            "Lokal SEO-konfiguration + GBP-optimering",
+            "HIPAA-kompatibelt kontaktformulär",
+            "Hastighetsoptimering",
+            "Leverans: 2–3 veckor",
+            "2 revideringsrundor"
+          ]
+        },
+        {
+          "name": "Practice Growth",
+          "subtitle": "10–15 sidor",
+          "bestFor": "Växande klinik, estetisk dermatologi",
+          "price": "$4,499",
+          "priceNote": "engångskostnad",
+          "savings": "10–55 % billigare",
+          "features": [
+            "Fullständig flersidig hemsida",
+            "Landningssidor för specifika behandlingar",
+            "Integration av patientportal",
+            "Bloggkonfiguration (5 startinlägg)",
+            "Avancerad lokal SEO",
+            "Optimering av Core Web Vitals",
+            "Logotyp + grafisk profil",
+            "Sociala OG-taggar + Schema",
+            "Leverans: 3–4 veckor",
+            "3 revideringsrundor"
+          ]
+        },
+        {
+          "name": "E-Commerce",
+          "subtitle": "Webbutik",
+          "bestFor": "Kliniker som säljer hudvårdsprodukter",
+          "price": "$6,999",
+          "priceNote": "engångskostnad",
+          "savings": "12–53 % billigare",
+          "features": [
+            "Klinikhemsida (10+ sidor)",
+            "WooCommerce eller Shopify-butik",
+            "Produktkatalog (30 artiklar)",
+            "Betalningslösning (Stripe / PayPal)",
+            "Orderhanteringssystem",
+            "Komplett SEO-paket",
+            "Kombinerad tidsbokning + butik",
+            "Leverans: 4–6 veckor"
+          ]
+        },
+        {
+          "name": "Authority Brand",
+          "subtitle": "Skräddarsydd Enterprise",
+          "bestFor": "Större kliniker med flera platser",
+          "price": "$12,999",
+          "priceNote": "engångskostnad",
+          "savings": "13–56 % billigare",
+          "features": [
+            "Fullständig unik design (ej mallar)",
+            "20+ sidor + lokala landningssidor",
+            "Komplett varumärkespaket + logotyper",
+            "E-handelsbutik inkluderad",
+            "Patientportal + läkarportal",
+            "Fullständig HIPAA-konfiguration",
+            "30 blogginlägg / behandlingssidor",
+            "Videointegration",
+            "6 månaders SEO-förvaltning ingår",
+            "Dedikerad Account Manager",
+            "Leverans: 6–10 veckor"
+          ]
+        },
+        {
+          "name": "Enterprise Multi-Site",
+          "subtitle": "Koncern / Flera orter",
+          "bestFor": "Dermatologiska grupper, 3+ platser, nationella kliniker",
+          "price": "$18,999+",
+          "priceNote": "offert",
+          "savings": "24 %+ billigare",
+          "features": [
+            "Arkitektur för flera platser",
+            "Varje klinik får en egen landningssida",
+            "Centraliserad CMS-kontroll",
+            "Enhetlig profilering på alla sajter",
+            "Lokal SEO för flera platser",
+            "Personalportal för varje klinik",
+            "Anpassad offert baserat på omfattning",
+            "Prioriterad support"
+          ]
+        }
+      ]
+    },
+    "specialty": {
+      "label": "02 — Specialpaket",
+      "title": "Syftesbyggda alternativ.",
+      "description": "Alternativ för specifika behov — snabba mallar, renodlade telemedicin-kliniker eller exklusiva skräddarsydda lösningar.",
+      "market": "Marknadsvärde:",
+      "cta": "Välj detta paket",
+      "items": [
+        {
+          "name": "Template Site",
+          "desc": "Färdigbyggd dermatologimall, anpassad med din logotyp och profil. Leverans: 5 dagar. Begränsade ändringar men snabbt och prisvärt."
+        },
+        {
+          "name": "Telehealth / Portal-konfiguration",
+          "desc": "Integration av telemedicin (Doxy.me, Zoom Health etc.), patientportal, säkra meddelanden och tidsbokning. Kan läggas till valfritt paket."
+        },
+        {
+          "name": "Premium Custom Site",
+          "desc": "En mellanliggande nivå. 15–20 sidor, helt unik design utan mallar, avancerad SEO och 3 månaders support efter lansering."
+        }
+      ]
+    },
+    "bundles": {
+      "label": "03 — Månatliga paketlösningar",
+      "title": "Löpande tjänster i prisvärda paket.",
+      "description": "Lägg till ett månadspaket till valfri hemsida. Paketen sparar dig 15–25 % jämfört med att köpa tjänsterna separat — uppsägningstid 30 dagar.",
+      "recommended": "Rekommenderas",
+      "bestLtv": "Bäst värde över tid",
+      "add": "Lägg till {{name}}",
+      "items": [
+        {
+          "name": "Essential Bundle",
+          "tag": "Drift + Underhåll + Lokal SEO",
+          "desc": "Hosting + säkerhet + månatliga uppdateringar + lokal SEO-övervakning + GBP-hantering. Spara $99/mån mot separat köp."
+        },
+        {
+          "name": "Growth Bundle",
+          "tag": "Essential + Fullständig SEO-kampanj",
+          "desc": "Allt i Essential + komplett SEO-satsning (innehåll, länkar, teknisk SEO, rankningsrapporter). Vår mest rekommenderade tjänst."
+        },
+        {
+          "name": "Marketing Bundle",
+          "tag": "SEO + Google Ads + Socialt + Recensioner",
+          "desc": "Full SEO + Google Ads-hantering + Sociala medier (8 inlägg/mån) + system för recensionsinsamling. Total digital täckning."
+        },
+        {
+          "name": "Full-Stack Bundle",
+          "tag": "Allt — Maximal tillväxt",
+          "desc": "Marketing Bundle + CRM-kampanjer via e-post + 2 blogginlägg/mån + ryktesövervakning + kvartalsvisa strategimöten + prioriterad support."
+        }
+      ]
+    },
+    "addOns": {
+      "label": "04 — Tilläggstjänster & styckpriser",
+      "title": "Varje tillägg, varje pris.",
+      "description": "37 individuella tjänster — inklusive SMTP och konfiguration av transaktionsmail. Jämför våra priser direkt mot marknadssnittet.",
+      "table": {
+        "service": "Tilläggstjänst",
+        "ourPrice": "Vårt pris",
+        "market": "Marknadspris",
+        "type": "Typ",
+        "bestFor": "Passar bäst för"
+      }
+    },
+    "custom": {
+      "badge": "Behöver du något unikt?",
+      "title": "Koncern, sjukhusanknuten eller specialbygge?",
+      "description": "För större grupper och kliniker med 3+ platser tar vi fram ett skräddarsytt program med fast pris, dedikerade utvecklare och kvartalsvisa affärsgenomgångar.",
+      "quoteCta": "Begär anpassad offert",
+      "pricingCta": "Visa priser & paket"
+    }
+  },
+  "estimator": {
+    "label": "05 — Kostnadskalkylator",
+    "title": "Se totalsumman innan vi hörs.",
+    "description": "Välj ett paket, lägg till månatliga tjänster och välj tillägg — priset uppdateras direkt.",
+    "form": {
+      "websitePackage": "Hemsidespaket",
+      "monthlyBundle": "Månadspaket",
+      "logo": "Logotyp · $450/st",
+      "extraPages": "Extra behandlingssidor · $200/st",
+      "blogPosts": "Blogginlägg · $120/st",
+      "portal": "Integration av patientportal",
+      "portalAdd": "+$999 engångskostnad"
+    },
+    "aria": {
+      "decrease": "Minska",
+      "increase": "Öka"
+    },
+    "summary": {
+      "title": "Din beräkning",
+      "build": "Hemsidesbygge",
+      "bundle": "Månadspaket",
+      "oneTime": "Totalt engångskostnad",
+      "monthly": "Löpande månadskostnad",
+      "yearOne": "Totalt år 1",
+      "ongoing": "Därefter {{amount}} / år löpande",
+      "lockIn": "Lås detta prisförslag"
+    }
+  },
+  "testimonials": {
+    "label": "Vad säger kunderna",
+    "title": "Förutsägbara priser, förutsägbara resultat.",
+    "items": [
+      {
+        "name": "Dr. Meera Balakrishnan",
+        "role": "NBS Laser",
+        "quote": "Transparent prissättning. Inga överraskningar på fakturan. Vi visste exakt vad vi skulle betala innan vi skrev på — och fakturan stämde varje månad."
+      },
+      {
+        "name": "Dr. Julian Reyes",
+        "role": "CP Dermatology",
+        "quote": "Clinic Pro-paketet betalade sig redan under månad två. Bara optimeringen av bokningsflödet fördubblade antalet bokningsförfrågningar."
+      }
+    ]
+  },
+  "faq": {
+    "label": "06 — Vanliga frågor",
+    "title": "Svar på frågor om prissättning.",
+    "items": [
+      {
+        "q": "Betalar jag en engångsavgift, per månad eller både och?",
+        "a": "Hemsidespaketen är engångsavgifter (från Starter till Enterprise). Löpande tjänster — hosting, SEO, annonser, innehåll — är månadspaket eller tillägg. De flesta kliniker väljer ett bygge kombinerat med ett månadspaket. Du ser alltid det exakta totalbeloppet i din offert."
+      },
+      {
+        "q": "Vad ingår i engångskostnaden för bygget?",
+        "a": "Design, utveckling, innehållsstruktur, on-page SEO, integrationer som listas för paketet, HIPAA-förberedda formulär där det är relevant, lansering och angivna revideringsrundor. Inget debiteras per timme under bygget — priset i offerten är det du betalar."
+      },
+      {
+        "q": "Måste jag köpa ett månadspaket?",
+        "a": "Nej. Månadspaketen är helt valfria. Du kan använda eget webbhotell och sköta sajten själv, eller välja enstaka tilläggstjänster. Paketen finns till för att spara pengar jämfört med att köpa tjänsterna separat."
+      },
+      {
+        "q": "Kan jag uppgradera från Starter till Clinic Pro senare?",
+        "a": "Ja. Varje paket bygger på samma grundsystem, så en uppgradering räknas som en utökning av omfattningen — du betalar mellanskillnaden plus eventuellt migreringsarbete. Inget arbete går till spillo."
+      },
+      {
+        "q": "Äger ni min sajt om jag slutar betala månadsvis?",
+        "a": "Du äger din sajt helt och hållet. Domän, varumärkesfiler, innehåll, kod och databas är dina. Om du avslutar ett månadspaket upphör tjänsten, men sajten fortsätter fungera på det webbhotell du väljer."
+      },
+      {
+        "q": "Ingår HIPAA / BAA?",
+        "a": "HIPAA-förberedd arkitektur ingår i Clinic Pro och uppåt. Ett signerat Business Associate Agreement (BAA) ingår i Authority Brand och Enterprise, och finns som tillägg för andra paket där formulär samlar in känslig patientdata (PHI)."
+      },
+      {
+        "q": "Vad händer om jag behöver något som inte listas?",
+        "a": "Specialanpassningar — unika integrationer, nya funktioner, synk mot journalsystem (EHR) — offereras till fast pris efter ett genomgångsmöte. Du får alltid ett skriftligt förslag med pris innan arbetet påbörjas."
+      },
+      {
+        "q": "Erbjuder ni återbetalning?",
+        "a": "Bygget är återbetalningsbart proportionellt fram till slutligt godkännande inför lansering. Månadspaket återbetalas inte för innevarande period, men kan sägas upp när som helst med 30 dagars varsel — du blir aldrig debiterad för en månad du inte påbörjat."
+      }
+    ]
+  },
+  "cta": {
+    "badge": "Ingen bindningstid · Du äger din sajt",
+    "title": "Redo att se ditt exakta pris?",
+    "description": "Få en skriftlig specifikation, en fast offert och en rekommendation på ett 20-minuters samtal. Inga krav, inga förpliktelser.",
+    "button": "Hämta min offert",
+    "delivery": "Skriftlig offert inom 48 timmar"
+  },
+  "related": {
+    "text": "Mer läsning för dig: ",
+    "process": "hur vi genomför projekt",
+    "portfolio": "se våra senaste lanseringar",
+    "caseStudies": "resultat från verkliga kunder"
+  },
+  "stickyCta": {
+    "label": "Få en fast offert",
+    "description": "Skriftligt förslag · 48 timmar",
+    "button": "Få offert"
+  }
+}

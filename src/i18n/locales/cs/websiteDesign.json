@@ -1,0 +1,220 @@
+{
+  "meta": {
+    "title": "Webové stránky pro dermatology na míru — v souladu s HIPAA a rychlé",
+    "description": "Prémiový design webových stránek pro dermatology – od sólových lékařů přes kliniky s více pobočkami po dětskou dermatologii a Mohsovu chirurgii. Soulad s HIPAA, rychlost, SEO a zaměření na konverze.",
+    "ogTitle": "Design webu pro dermatologii — Na míru a s důrazem na konverze",
+    "ogDescription": "Zcela unikátní weby pro dermatology, chirurgické kliniky a ordinace. Vyvinuto pro pacienty i pro algoritmy Google.",
+    "jsonLd": {
+      "serviceType": "Dermatology Website Design",
+      "provider": "DW Design",
+      "areaServed": "United States",
+      "description": "Zakázkový design webových stránek s důrazem na HIPAA a SEO, vytvořený exkluzivně pro dermatologické praxe."
+    }
+  },
+  "hero": {
+    "badge": "Design webu pro dermatologii",
+    "title": "Dermatologické weby na míru, které vám zaplní kalendář.",
+    "description": "100% unikátní design, technické řešení v souladu s HIPAA a on-page SEO — vytvořeno pro soukromé dermatology, sítě klinik i specializovaná pracoviště Mohsovy chirurgie.",
+    "ctaPrimary": "Získat nezávaznou nabídku",
+    "ctaSecondary": "Bezplatný audit webu",
+    "visual": {
+      "imageAlt": "Prostředí moderní dermatologické kliniky",
+      "secureHeading": "Soulad s HIPAA · Lighthouse 98",
+      "secureSubheading": "Zabezpečené formuláře, bleskové načítání",
+      "status": "Online",
+      "statLighthouse": "Lighthouse",
+      "statBookings": "+3,4x rezervací",
+      "statAverage": "Průměr za 90 dní"
+    },
+    "outcomes": {
+      "bookingLift": "Nárůst rezervací",
+      "lighthouse": "Lighthouse",
+      "lcp": "LCP na 4G",
+      "practices": "Ordinací"
+    },
+    "trust": "Důvěřuje nám více než 50 dermatologických pracovišť · Napsali o nás"
+  },
+  "sections": {
+    "audience": {
+      "tag": "Cílová skupina",
+      "title": "Řešení pro každý typ dermatologické praxe",
+      "description": "Od ordinací s jedním lékařem až po rozsáhlé chirurgické skupiny s více pobočkami.",
+      "items": [
+        {
+          "label": "Soukromí dermatologové",
+          "desc": "Butikové weby, které odráží vaši odbornou značku a zajistí plný stav pacientů."
+        },
+        {
+          "label": "Kliniky s více pobočkami",
+          "desc": "Škálovatelná architektura se samostatnými stránkami pro pobočky, personál a ordinační hodiny."
+        },
+        {
+          "label": "Dětská dermatologie",
+          "desc": "Přívětivé uživatelské prostředí pro rodiče s jasným postupem pro objednání dětí."
+        },
+        {
+          "label": "Mohsova chirurgie",
+          "desc": "Design budující autoritu pro spolupracující lékaře i pacienty s doporučením."
+        }
+      ]
+    },
+    "pillars": {
+      "tag": "V čem spočívá prémiová kvalita",
+      "title": "Šest pilířů každého našeho projektu",
+      "description": "Design, technologie, SEO a právní shoda – od prvního dne navrženo jako jeden celek.",
+      "items": [
+        {
+          "title": "100% originální design",
+          "desc": "Žádné šablony. Každá sekce, ilustrace a interakce je navržena přímo pro vaši kliniku."
+        },
+        {
+          "title": "Lighthouse 95+",
+          "desc": "Důraz na extrémní výkon — optimalizace obrázků, edge caching a úsporný JS."
+        },
+        {
+          "title": "On-Page SEO",
+          "desc": "Sémantické HTML, schémata a struktura obsahu pro lokální i odborné lékařské dotazy."
+        },
+        {
+          "title": "V souladu s HIPAA",
+          "desc": "Zabezpečené formuláře, ochrana citlivých dat a technologický stack připravený na audity."
+        },
+        {
+          "title": "Plně responzivní",
+          "desc": "Dokonalé zobrazení na mobilech, tabletech i počítačích. Testováno na reálných zařízeních."
+        },
+        {
+          "title": "Přístupnost (WCAG AA)",
+          "desc": "Ovládání klávesnicí, vysoký kontrast a podpora čteček – inkluzivní web pro každého."
+        }
+      ]
+    },
+    "medicalServices": {
+      "tag": "Pokrytí lékařských služeb",
+      "title": "Stránky služeb navržené pro výkon a konverzi",
+      "description": "SEO optimalizované stránky pro každý zákrok, který nabízíte — s odbornou přesností, srozumitelným vysvětlením pro pacienty a jasnou výzvou k akci.",
+      "features": [
+        "Odborně revidovaná struktura obsahu",
+        "Nadpisy a FAQ sekce dle analýzy klíčových slov",
+        "Zabezpečené vstupní a konzultační formuláře",
+        "Rychlé a indexovatelné šablony pro mobily"
+      ],
+      "list": [
+        "Léčba akné",
+        "Léčba ekzémů",
+        "Léčba lupénky",
+        "Kožní infekce",
+        "Kožní alergie",
+        "Prevence a léčba rakoviny kůže",
+        "Vyšetření a odstraňování mateřských znamének",
+        "Odstraňování cyst a lipomů",
+        "Odstraňování bradavic",
+        "Onemocnění nehtů",
+        "Léčba vypadávání vlasů",
+        "Onemocnění vlasové pokožky",
+        "Léčba rosacey",
+        "Hyperpigmentace a melasma",
+        "Léčba jizev",
+        "Jizvy po popáleninách",
+        "Léčba vitiliga",
+        "Kožní biopsie a diagnostika"
+      ]
+    },
+    "portfolio": {
+      "tag": "Nedávné projekty",
+      "title": "Weby, které jsme spustili",
+      "viewAll": "Zobrazit celé portfolio",
+      "items": [
+        {
+          "label": "MS Clinic",
+          "meta": "Soukromá ordinace · +187 % rezervací",
+          "alt": "Design webu pro MS Clinic"
+        },
+        {
+          "label": "ND Group",
+          "meta": "Více poboček · 6 klinik",
+          "alt": "Design webu pro ND Group"
+        },
+        {
+          "label": "SM Surgical",
+          "meta": "Chirurgie · +230 % doporučení",
+          "alt": "Design webu pro SM Surgical"
+        }
+      ]
+    },
+    "process": {
+      "tag": "Náš proces",
+      "title": "Transparentní přístup pod vedením expertů",
+      "description": "Čtyři jasné fáze — bez průtahů a bez nepříjemných překvapení.",
+      "steps": [
+        {
+          "step": "01",
+          "title": "Analýza a pozicioning",
+          "desc": "Audit praxe, definice pacientských person, analýza konkurence a stanovení cílů."
+        },
+        {
+          "step": "02",
+          "title": "Design systém",
+          "desc": "Typografie, paleta barev a knihovna komponent vytvořená unikátně pro vaši značku."
+        },
+        {
+          "step": "03",
+          "title": "Vývoj a SEO",
+          "desc": "Čistý kód se strukturovanými daty a optimalizací pro maximální viditelnost ve vyhledávačích."
+        },
+        {
+          "step": "04",
+          "title": "Spuštění a růst",
+          "desc": "Analytika, testování konverzí a plán péče pro dlouhodobé zlepšování výsledků."
+        }
+      ]
+    }
+  },
+  "testimonial": {
+    "quote": "Během 90 dnů počet rezervací nových pacientů vzrostl 3,4krát. Web se načítá okamžitě, skvěle se umísťuje v místním vyhledávání a konečně odráží kvalitu péče, kterou poskytujeme.",
+    "author": "MUDr. Nora Whitfield",
+    "role": "MS Clinic · Soukromá ordinace",
+    "imageAlt": "MUDr. Nora Whitfield"
+  },
+  "faq": {
+    "tag": "Časté dotazy",
+    "title": "Odpovědi na vaše otázky",
+    "items": [
+      {
+        "q": "Jak dlouho trvá tvorba dermatologického webu na míru?",
+        "a": "Standardní doba je 6–10 týdnů od zahájení po spuštění, v závislosti na rozsahu a připravenosti podkladů. Díky týdenním revizím postupujeme velmi efektivně."
+      },
+      {
+        "q": "Je web v souladu s HIPAA?",
+        "a": "Stránky stavíme na architektuře plně připravené pro HIPAA — šifrované formuláře, zabezpečený hosting s BAA, žádné úniky citlivých dat do analytiky a auditní stopa u odeslaných dat."
+      },
+      {
+        "q": "Budu mít vlastnická práva k designu a kódu?",
+        "a": "Ano. Okamžikem spuštění přechází plné vlastnictví designových souborů, kódu i obsahu na vás. Žádné skryté poplatky ani závislost na uzavřeném redakčním systému."
+      },
+      {
+        "q": "Co vše zahrnuje on-page SEO?",
+        "a": "Strukturu nadpisů dle klíčových slov, schema markup (LocalBusiness, MedicalClinic, FAQ), optimalizovaná metadata, vnitřní prolinkování a optimalizaci obrázků."
+      },
+      {
+        "q": "Nabízíte po spuštění webu následnou podporu?",
+        "a": "Ano. Naše plány péče o web zahrnují aktualizace, zabezpečení, zálohování, monitoring dostupnosti, ladění výkonu a pravidelné úpravy obsahu."
+      }
+    ]
+  },
+  "cta": {
+    "tag": "Bezplatný audit webu",
+    "title": "Chcete web, který bude skutečně objednávat pacienty?",
+    "description": "Řekněte nám o své praxi. Ukážeme vám, kde přesně váš současný web ztrácí pacienty a jak to napravit.",
+    "buttonPrimary": "Získat nezávaznou nabídku",
+    "buttonSecondary": "Kontaktujte nás"
+  },
+  "footer": {
+    "relatedTitle": "Další zajímavé čtení:",
+    "relatedLinks": {
+      "redesign": "modernizace staršího webu",
+      "costs": "kolik obvykle stojí designové projekty",
+      "portfolio": "prohlédněte si naše realizace"
+    }
+  }
+}

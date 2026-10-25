@@ -1,0 +1,377 @@
+{
+  "meta": {
+    "title": "Doplňkové služby pro dermatologické weby — správa, SEO, růst a integrace",
+    "description": "Prémiové doplňkové služby pro dermatologické praxe: nepřetržitá péče a údržba, HIPAA hosting, obsah a CRO, lokální SEO, integrace EHR a rezervací a komplexní růstový marketing. Bez závazků.",
+    "og": {
+      "title": "Doplňkové služby pro dermatologické weby",
+      "description": "Doplňte svůj dermatologický web o špičkovou správu, hosting, SEO, integrace a růstový marketing – navrženo pro trvalý příliv nových pacientů."
+    },
+    "jsonLd": {
+      "serviceType": "Dermatology Website Add-On Services",
+      "provider": "DermatologyWebsiteDesign.com",
+      "catalogName": "Dermatology Website Add-Ons",
+      "breadcrumbs": {
+        "home": "Domů",
+        "services": "Služby",
+        "current": "Doplňkové služby"
+      }
+    }
+  },
+  "hero": {
+    "badge": "Doplňkové služby pro dermatologii",
+    "heading": "Vše ostatní, co vaše dermatologická praxe potřebuje —",
+    "headingAccent": "na jedné faktuře, od jednoho týmu, v jednom rozhraní.",
+    "description": "Služby v souladu s HIPAA — správa a údržba, hosting, obsah, SEO, integrace a růstový marketing — navržené pro systematické navyšování počtu pacientů měsíc po měsíci.",
+    "cta": {
+      "bundle": "Sestavit vlastní balíček",
+      "browse": "Prohlédnout celý katalog"
+    },
+    "stats": [
+      {
+        "label": "Doplňkových služeb"
+      },
+      {
+        "label": "Uptime SLA"
+      },
+      {
+        "label": "Nouzová odezva"
+      },
+      {
+        "label": "Bez závazků",
+        "value": "Měsíc po měsíci"
+      }
+    ]
+  },
+  "trust": {
+    "audiences": {
+      "label": "Vytvořeno pro",
+      "items": [
+        "Soukromé dermatology",
+        "Dermatologické kliniky s více pobočkami",
+        "Dětskou dermatologii",
+        "Mohsovu a chirurgickou dermatologii"
+      ]
+    },
+    "medicalServices": {
+      "label": "Podpora pro všechny lékařské služby",
+      "items": [
+        "Léčba akné",
+        "Léčba ekzémů",
+        "Léčba lupénky",
+        "Léčba kožních infekcí",
+        "Léčba kožních alergií",
+        "Screening a léčba rakoviny kůže",
+        "Vyšetření a odstraňování mateřských znamének",
+        "Odstraňování cyst a lipomů",
+        "Odstraňování bradavic",
+        "Léčba onemocnění nehtů",
+        "Diagnostika a léčba vypadávání vlasů",
+        "Léčba onemocnění pokožky hlavy",
+        "Léčba růžovky (Rosacea)",
+        "Hyperpigmentace a melasma",
+        "Léčba jizev",
+        "Léčba jizev po popáleninách",
+        "Léčba vitiliga",
+        "Kožní biopsie a diagnostika"
+      ]
+    }
+  },
+  "sections": {
+    "catalog": {
+      "badge": "Katalog",
+      "heading": "Šest kategorií.",
+      "headingItalic": "Jeden tým v pozadí.",
+      "searchPlaceholder": "Hledat mezi {{count}}+ doplňky…",
+      "searchAria": "Hledat doplňkové služby",
+      "noResults": "Pro dotaz \"{{query}}\" nebyly nalezeny žádné doplňky. Zkuste hledat jinak.",
+      "serviceCount": "služby",
+      "ctaAdd": "Přidat {{title}} do balíčku",
+      "categories": {
+        "care": {
+          "title": "Správa a údržba webu",
+          "tagline": "Vždy online. Vždy aktuální. Vždy vaše.",
+          "items": [
+            {
+              "name": "Údržba a podpora webu",
+              "blurb": "Týdenní aktualizace CMS, pluginů a zabezpečení pod dohledem specialisty."
+            },
+            {
+              "name": "Nouzová podpora",
+              "blurb": "Výpadek webu? Náš inženýr reaguje do 15 minut."
+            },
+            {
+              "name": "Migrace webu",
+              "blurb": "Přesun bez výpadku s kompletním 301 přesměrováním a zachováním SEO."
+            },
+            {
+              "name": "Aktualizace obsahu",
+              "blurb": "Obsah, profily lékařů, sezónní akce – nasazeno během hodin, nikoliv týdnů."
+            },
+            {
+              "name": "Měsíční plány péče",
+              "blurb": "Fixní paušál. Vše v ceně. Bez dlouhodobých závazků."
+            },
+            {
+              "name": "Denní zálohování a obnova",
+              "blurb": "Šifrované externí zálohy. Obnova na jedno kliknutí, uchování 30 dní."
+            },
+            {
+              "name": "Monitorování dostupnosti",
+              "blurb": "Kontrola každých 60 sekund ze 6 regionů. Upozornění dříve, než si pacienti všimnou."
+            },
+            {
+              "name": "Sledování výkonu",
+              "blurb": "Denní měření Core Web Vitals. Zachycení propadů výkonu v reálném čase."
+            }
+          ]
+        },
+        "hosting": {
+          "title": "Hosting, zabezpečení a shoda",
+          "tagline": "Infrastruktura splňující HIPAA standardy navržená pro dermatologii.",
+          "items": [
+            {
+              "name": "Managed Hosting",
+              "blurb": "Edge-caching, automatické škálování, SLA dostupnost 99,99 %."
+            },
+            {
+              "name": "Správa domén a DNS",
+              "blurb": "Staráme se o technickou stránku, aby vaše domény nikdy neexpirovaly."
+            },
+            {
+              "name": "Nastavení a monitoring SSL",
+              "blurb": "Automaticky obnovované certifikáty s varováním týdny předem."
+            },
+            {
+              "name": "Monitorování bezpečnosti",
+              "blurb": "Nepřetržitý WAF, detekce průniků a opravy zranitelností."
+            },
+            {
+              "name": "Ochrana proti malwaru",
+              "blurb": "Denní skenování, okamžitá karanténa a garance vyčištění webu."
+            },
+            {
+              "name": "Audit HIPAA shody",
+              "blurb": "Každoroční revize formulářů, hostingu, analytiky a BAA smluv."
+            },
+            {
+              "name": "Nastavení formulářů dle HIPAA",
+              "blurb": "Šifrovaný příjem pacienta, souhlasy a kontaktní formuláře – PHI v bezpečí."
+            },
+            {
+              "name": "Optimalizace přístupnosti ADA",
+              "blurb": "Soulad s WCAG 2.2 AA a průběžné monitorování přístupnosti."
+            },
+            {
+              "name": "Soukromí a cookie shoda",
+              "blurb": "GDPR / CCPA lišty, logování souhlasů a aktualizace zásad."
+            }
+          ]
+        },
+        "content": {
+          "title": "Obsah a konverze",
+          "tagline": "Texty a design, které promění návštěvníky v objednané pacienty.",
+          "items": [
+            {
+              "name": "Psaní obsahu",
+              "blurb": "Stránky zaměřené na SEO, napsané pro reálné dermatologické potřeby."
+            },
+            {
+              "name": "Lékařský copywriting",
+              "blurb": "Odborně správné, srozumitelné pro pacienty a schválené lékaři."
+            },
+            {
+              "name": "Správa blogu",
+              "blurb": "Redakční kalendář, psaní, publikace a interní prolinkování."
+            },
+            {
+              "name": "Design přistávacích stránek",
+              "blurb": "Stránky na míru službám, akcím a reklamním kampaním."
+            },
+            {
+              "name": "Tvorba stránek služeb",
+              "blurb": "Pro každý stav kůže nebo zákrok jedna stránka optimalizovaná na konverzi."
+            },
+            {
+              "name": "Optimalizace konverzního poměru (CRO)",
+              "blurb": "Hypotézami podložené A/B testování na reálném provozu."
+            },
+            {
+              "name": "Tvorba magnetů na leady",
+              "blurb": "Průvodci péčí o pleť, checklisty a kvízy, které získají kontakt."
+            },
+            {
+              "name": "Nastavení e-mailových newsletterů",
+              "blurb": "Branding šablon, automatizace a segmentace seznamů."
+            },
+            {
+              "name": "Optimalizace výzev k akci (CTA)",
+              "blurb": "Testování tlačítek, formulářů a cest uživatele pro více rezervací."
+            }
+          ]
+        },
+        "seo": {
+          "title": "SEO a analytika",
+          "tagline": "Buďte výš ve výsledcích. Měřte, co je podstatné. Dokažte ROI.",
+          "items": [
+            {
+              "name": "Lokální SEO",
+              "blurb": "Ovládněte mapy v každé lokalitě, kde působíte."
+            },
+            {
+              "name": "Technický SEO audit",
+              "blurb": "Kompletní revize procházení webu, indexace, schémat a Core Web Vitals."
+            },
+            {
+              "name": "Implementace strukturovaných dat",
+              "blurb": "Nasazení schémat MedicalBusiness, FAQ, Review a Service."
+            },
+            {
+              "name": "Optimalizace Firemního profilu Google",
+              "blurb": "Fotky, příspěvky, dotazy a kategorie – optimalizované pro lokální hledání."
+            },
+            {
+              "name": "Analytika a reporting",
+              "blurb": "Měsíční srozumitelné reporty provázané s počtem rezervací."
+            },
+            {
+              "name": "Nastavení sledování konverzí",
+              "blurb": "Propojení událostí GA4, GTM a CRM v celém uživatelském procesu."
+            },
+            {
+              "name": "Nastavení sledování hovorů",
+              "blurb": "Dynamická čísla dle zdroje. Každý hovor přesně přiřazen kampani."
+            },
+            {
+              "name": "Sledování heatmap a chování",
+              "blurb": "Zjistěte přesně, kde pacienti váhají – a okamžitě to napravte."
+            },
+            {
+              "name": "SEO analýza konkurence",
+              "blurb": "Analýza mezer u ordinací, které se ve výsledcích zobrazují nad vámi."
+            }
+          ]
+        },
+        "integrations": {
+          "title": "Integrace a automatizace",
+          "tagline": "Propojený ekosystém. Žádné kopírování. Žádné ztracené kontakty.",
+          "items": [
+            {
+              "name": "Integrace online rezervací",
+              "blurb": "Nativní napojení na Zocdoc, NexHealth, Modernizing Medicine a další."
+            },
+            {
+              "name": "Integrace pacientského portálu",
+              "blurb": "Zabezpečené SSO do vašeho EHR portálu, optimalizované pro mobily."
+            },
+            {
+              "name": "Integrace CRM",
+              "blurb": "HubSpot, Salesforce, Keap – kontakty tečou do systému v reálném čase."
+            },
+            {
+              "name": "Nastavení Live Chatu",
+              "blurb": "Hybridní chat (AI + člověk) vyškolený na vaše služby a časté dotazy."
+            },
+            {
+              "name": "Integrace e-mail marketingu",
+              "blurb": "Mailchimp, Klaviyo, ActiveCampaign, ConvertKit."
+            },
+            {
+              "name": "Nastavení marketingové automatizace",
+              "blurb": "Nurturing sekvence, připomínky prohlídek, narozeninové nabídky."
+            },
+            {
+              "name": "Integrace platebních bran",
+              "blurb": "Stripe, Square, CareCredit – checkout v souladu s HIPAA."
+            },
+            {
+              "name": "Integrace telemedicíny",
+              "blurb": "Doxy.me, Zoom for Healthcare nebo vaše stávající platforma."
+            },
+            {
+              "name": "Integrace softwaru třetích stran",
+              "blurb": "Jakékoli API, jakýkoli nástroj – postavíme most mezi systémy."
+            }
+          ]
+        },
+        "growth": {
+          "title": "Růstový marketing",
+          "tagline": "Měsíční navyšování počtu pacientů díky chytrým strategiím.",
+          "items": [
+            {
+              "name": "Správa reputace",
+              "blurb": "Sledování, reakce a ochrana dobrého jména vaší praxe online."
+            },
+            {
+              "name": "Systém generování recenzí",
+              "blurb": "Automatizované žádosti o recenzi po návštěvě – eticky a ve velkém."
+            },
+            {
+              "name": "Správa sociálních sítí",
+              "blurb": "Obsah, interakce a strategie pro Instagram a TikTok."
+            },
+            {
+              "name": "Správa Google Ads",
+              "blurb": "Vyhledávací a Performance Max kampaně laděné na cenu za rezervaci."
+            },
+            {
+              "name": "Reklamy na Facebooku a Instagramu",
+              "blurb": "Trychtýře pro estetickou i lékařskou péči s pravidelnou obměnou kreativ."
+            },
+            {
+              "name": "Nastavení retargetingových kampaní",
+              "blurb": "Přiveďte zpět těch 96 % lidí, kteří odešli bez objednání."
+            },
+            {
+              "name": "E-commerce marketing",
+              "blurb": "Prodávejte kosmetiku online – Shopify, reklamy, e-maily a SEO."
+            },
+            {
+              "name": "Měsíční reporty růstu",
+              "blurb": "Jeden dashboard. Reálná čísla. Propojeno s vašimi tržbami."
+            }
+          ]
+        }
+      }
+    }
+  },
+  "cta": {
+    "heading": "Nevíte, co si vybrat?",
+    "headingItalic": "Získejte plán na míru do 24 hodin.",
+    "description": "Sdílejte s námi své cíle, stávající technologie a lokace. Vrátíme vám na míru sestavený plán doplňků s naceněním a očekávaným dopadem – zcela nezávazně.",
+    "primary": "Vyžádat si individuální plán",
+    "secondary": "Nejdříve bezplatný audit webu"
+  },
+  "faq": {
+    "badge": "Časté dotazy k doplňkům",
+    "heading": "Odpovědi dříve, než se zeptáte.",
+    "description": "Vše, na co se nás dermatologické praxe ptají před výběrem doplňků. Potřebujete více detailů? Naše kompletní FAQ obsahuje vše.",
+    "items": [
+      {
+        "q": "Mohu doplňky kombinovat s mým stávajícím webem?",
+        "a": "Ano. Každý doplněk je navržen tak, aby se dal napojit na váš aktuální plán u nás nebo na externí web, který převezmeme do správy. Při kombinaci více doplňků získáte výhodnější balíčkovou cenu."
+      },
+      {
+        "q": "Jsou tyto doplňky v souladu s HIPAA?",
+        "a": "Každá integrace, formulář, hosting i nastavení analytiky jsou primárně nastaveny s ohledem na HIPAA. Poskytujeme BAA smlouvy a provádíme audity expozice PHI u formulářů, chatů a marketingových pixelů."
+      },
+      {
+        "q": "Musím se zavázat k dlouhodobé smlouvě?",
+        "a": "Ne. Doplňkové služby fungují na měsíční bázi, pokud si nezvolíte roční předplatné se slevou. Veškerá aktiva – kód, obsah, přístupy, zálohy – zůstávají vám i v případě ukončení spolupráce."
+      },
+      {
+        "q": "Jak rychle dokážete doplněk spustit?",
+        "a": "Většina integrací, měření a obsahových služeb je hotová během 3–10 pracovních dnů. Větší projekty, jako programy pro CRO nebo migrace, mají individuální harmonogram sdílený předem."
+      },
+      {
+        "q": "Podporujete i weby, které jste sami nevytvořili?",
+        "a": "Ano. Po úvodním placeném technickém auditu převezmeme stávající dermatologické weby – ať už běží na WordPressu, Webflow, vlastním řešení nebo headless CMS – a následně aplikujeme doplňky."
+      }
+    ]
+  },
+  "footerLinks": {
+    "prefix": "Související stránky:",
+    "management": "kompletní správa webu",
+    "maintenance": "plány průběžné údržby",
+    "pricing": "co obsahuje každý balíček"
+  }
+}

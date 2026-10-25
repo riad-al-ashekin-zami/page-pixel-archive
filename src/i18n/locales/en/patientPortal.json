@@ -1,0 +1,257 @@
+{
+  "meta": {
+    "title": "Dermatology Patient Portal Design & Development | HIPAA-Compliant",
+    "description": "Custom HIPAA-compliant dermatology patient portal design: online booking, secure messaging, teledermatology, e-forms, bill pay, refills, and EHR integration. Built for solo, multi-location, pediatric, and Mohs clinics.",
+    "og_title": "Dermatology Patient Portal Design & Development",
+    "og_description": "HIPAA-aware patient portals engineered for dermatology practices — booking, messaging, teledermatology, e-intake, bill pay, and EHR integration.",
+    "twitter_title": "Dermatology Patient Portal Design & Development",
+    "twitter_description": "HIPAA-aware patient portals engineered for dermatology practices.",
+    "jsonLd": {
+      "serviceType": "Dermatology Patient Portal Design & Development",
+      "provider": "DermatologyWebsiteDesign.com",
+      "areaServed": "United States",
+      "description": "HIPAA-compliant patient portal design and development for dermatology clinics.",
+      "breadcrumb_home": "Home",
+      "breadcrumb_services": "Services",
+      "breadcrumb_portal": "Patient Portal"
+    }
+  },
+  "hero": {
+    "badge": "Dermatology Patient Portal",
+    "title_start": "A patient portal your dermatology practice ",
+    "title_highlight": "actually wants to use.",
+    "description": "Custom-built, HIPAA-aware patient portals with 24/7 booking, secure messaging, teledermatology, e-intake, bill pay, and deep EHR integration — designed for solo, multi-location, pediatric, and Mohs clinics.",
+    "cta_quote": "Get a Free Quote",
+    "cta_features": "Explore features",
+    "stats": [
+      {
+        "value": "4–6 wk",
+        "label": "Launch time"
+      },
+      {
+        "value": "HIPAA",
+        "label": "Aware by default"
+      },
+      {
+        "value": "24/7",
+        "label": "Self-scheduling"
+      },
+      {
+        "value": "No",
+        "label": "Per-patient fees"
+      }
+    ]
+  },
+  "mockPortal": {
+    "header_category": "Patient Portal",
+    "header_greeting": "Good afternoon, Sarah",
+    "status": "Secure",
+    "items": [
+      {
+        "label": "Annual skin check",
+        "meta": "Fri · 2:30 PM · Dr. Patel"
+      },
+      {
+        "label": "Message from Dr. Nguyen",
+        "meta": "Biopsy result — benign ✓"
+      },
+      {
+        "label": "Refill requested",
+        "meta": "Tretinoin 0.05% · CVS #402"
+      },
+      {
+        "label": "Bill due",
+        "meta": "$48.20 · Pay in 1 tap"
+      }
+    ],
+    "footer_encryption": "Encrypted end-to-end",
+    "footer_biometrics": "Face ID enabled"
+  },
+  "sections": {
+    "audiences": {
+      "title": "Built for",
+      "items": [
+        "Solo Dermatologists",
+        "Multi-location Dermatology Clinics",
+        "Pediatric Dermatology",
+        "Mohs & Surgical Dermatology"
+      ]
+    },
+    "medical_services": {
+      "title": "Supporting every medical service",
+      "items": [
+        "Acne Treatment",
+        "Eczema Treatment",
+        "Psoriasis Treatment",
+        "Skin Infection Treatment",
+        "Skin Allergy Treatment",
+        "Skin Cancer Screening & Treatment",
+        "Mole Evaluation & Removal",
+        "Cyst & Lipoma Removal",
+        "Wart Removal",
+        "Nail Disorder Treatment",
+        "Hair Loss Treatment",
+        "Scalp Disorder Treatment",
+        "Rosacea Treatment",
+        "Hyperpigmentation & Melasma",
+        "Scar Treatment",
+        "Burn Scar Treatment",
+        "Vitiligo Treatment",
+        "Skin Biopsy & Diagnostics"
+      ]
+    },
+    "metrics": {
+      "items": [
+        {
+          "value": "38%",
+          "label": "Fewer no-shows after portal launch"
+        },
+        {
+          "value": "4.9×",
+          "label": "Faster front-desk response time"
+        },
+        {
+          "value": "22 hr",
+          "label": "Staff hours reclaimed / week"
+        }
+      ]
+    },
+    "testimonial": {
+      "quote": "Our patients finally stopped calling to reschedule. Booking, refills, and biopsy results all happen in the portal — my MAs got their afternoons back.",
+      "author": "Dr. Priya Desai, MD",
+      "clinic": "Desai Dermatology · 3 locations"
+    },
+    "core_features": {
+      "badge": "Core features",
+      "title": "Everything a dermatology patient — and your front desk — needs.",
+      "description": "A single, secure surface for scheduling, communication, clinical workflows, and payments — replacing the 5–7 disconnected tools most clinics wrestle with today.",
+      "items": [
+        {
+          "title": "Online Appointment Booking",
+          "desc": "Real-time provider calendars, insurance pre-check, and automatic confirmations — 24/7 self-scheduling that fills your chair."
+        },
+        {
+          "title": "Secure Patient Messaging",
+          "desc": "HIPAA-encrypted two-way chat between patients, front desk, and clinical staff — with audit trails and read receipts."
+        },
+        {
+          "title": "Digital Intake & Consent Forms",
+          "desc": "Encrypted intake, medical history, and e-signature consents completed before the visit — synced straight to your EHR."
+        },
+        {
+          "title": "Online Bill Pay & Statements",
+          "desc": "PCI-compliant card, HSA, and FSA payments, payment plans, and paperless statements — collect faster with less friction."
+        },
+        {
+          "title": "Prescription Refill Requests",
+          "desc": "One-tap refill requests routed to the correct provider with medication history, allergies, and pharmacy on file."
+        },
+        {
+          "title": "Lab Results & Biopsy Reports",
+          "desc": "Release pathology, lab, and biopsy results with plain-English summaries and provider notes patients actually understand."
+        },
+        {
+          "title": "Teledermatology Visits",
+          "desc": "Encrypted HD video with waiting room, image upload, and integrated charting — no separate telehealth vendor required."
+        },
+        {
+          "title": "Smart Reminders & Recalls",
+          "desc": "SMS + email reminders, annual skin-check recalls, and no-show recovery automations that recover 20–30% of lost revenue."
+        }
+      ]
+    },
+    "security": {
+      "badge": "Security & compliance",
+      "title": "HIPAA-aware from the first line of code.",
+      "description": "Not bolted on. Not a checkbox. Every architectural decision — hosting, database, messaging, video, storage, analytics — is designed around PHI protection and OCR-audit readiness.",
+      "cta": "Request our compliance package",
+      "items": [
+        {
+          "title": "HIPAA-Aware Architecture",
+          "desc": "PHI encrypted at rest (AES-256) and in transit (TLS 1.3). BAAs signed with every sub-processor."
+        },
+        {
+          "title": "Role-Based Access Control",
+          "desc": "Granular permissions for providers, MAs, billers, and front desk — with full audit logging."
+        },
+        {
+          "title": "MFA & Biometric Login",
+          "desc": "Passkeys, Face ID, and TOTP for patients and staff. Zero password resets. Zero phishing."
+        },
+        {
+          "title": "Family & Caregiver Access",
+          "desc": "Proxy access for parents, spouses, and caregivers with age-based automatic revocation."
+        }
+      ]
+    },
+    "workflow": {
+      "badge": "How we launch it",
+      "title": "From kickoff to live portal in 4–6 weeks.",
+      "steps": [
+        {
+          "step": "Step 01",
+          "title": "Discovery & EHR audit",
+          "desc": "We map your current EHR, PMS, and workflows in a 60-minute working session."
+        },
+        {
+          "step": "Step 02",
+          "title": "Portal design & branding",
+          "desc": "Custom UI matched to your practice — not a generic vendor template."
+        },
+        {
+          "step": "Step 03",
+          "title": "Integrations & migration",
+          "desc": "EHR, e-Rx, labs, payment, and telehealth wired end-to-end. Patient data migrated cleanly."
+        },
+        {
+          "step": "Step 04",
+          "title": "Staff training & launch",
+          "desc": "Live training, printed workflows, and a 30-day white-glove hypercare window."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "badge": "Questions",
+    "title": "Patient portal FAQs",
+    "items": [
+      {
+        "q": "Is the patient portal HIPAA compliant?",
+        "a": "Yes. Every layer — hosting, database, messaging, video, storage, and analytics — is HIPAA-aware. We sign a BAA and provide a documented compliance package covering encryption, access control, audit logs, and breach response."
+      },
+      {
+        "q": "Does it integrate with my EHR?",
+        "a": "We integrate with the major dermatology EHRs (Modernizing Medicine / EMA, Nextech, EZDERM, DrChrono, Athena, eClinicalWorks, Practice Fusion, Epic, Cerner) via HL7, FHIR, or vendor APIs. If you use a niche EHR, we scope a custom integration."
+      },
+      {
+        "q": "Can patients book without creating an account?",
+        "a": "Yes. Guest booking is supported for new patients — the portal account is created automatically after the first appointment is confirmed, with a magic-link welcome email."
+      },
+      {
+        "q": "How long does implementation take?",
+        "a": "A single-location portal launches in 4–6 weeks. Multi-location and complex EHR migrations typically take 8–12 weeks including staff training and hypercare."
+      },
+      {
+        "q": "Do we own the portal after launch?",
+        "a": "Yes. You own the code, content, branding, and patient data. There is no lock-in, no per-patient fee, and no month-to-month contract required — cancel anytime with full data export."
+      },
+      {
+        "q": "Is telehealth an add-on or included?",
+        "a": "Included. HIPAA-compliant HD video with waiting room, image upload, and charting is built into the portal — no separate telehealth vendor or per-visit fee."
+      }
+    ]
+  },
+  "cta": {
+    "badge": "Ready when you are",
+    "title": "Give your patients — and your front desk — a portal they'll thank you for.",
+    "description": "Request a free portal walkthrough. We'll review your current stack, share a fixed timeline, and send a quote the same day.",
+    "cta_quote": "Get a Free Quote",
+    "cta_contact": "Contact Us"
+  },
+  "footer_related": {
+    "text": "Related pages you may like: ",
+    "link_website": "your core practice website",
+    "link_multi_location": "multi-location clinic setups",
+    "link_packages": "current package options"
+  }
+}

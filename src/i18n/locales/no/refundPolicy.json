@@ -1,0 +1,74 @@
+{
+  "meta": {
+    "title": "Refusjonsregler — depositum, milepæler og faste avtaler",
+    "description": "Slik håndteres depositum, milepælsbetalinger og løpende avtaler dersom du kansellerer eller ikke er fornøyd med våre tjenester.",
+    "og": {
+      "title": "Refusjonsregler — depositum, milepæler og faste avtaler",
+      "description": "Slik håndteres depositum, milepælsbetalinger og løpende avtaler dersom du kansellerer eller ikke er fornøyd med våre tjenester."
+    },
+    "twitter": {
+      "title": "Refusjonsregler — depositum, milepæler og faste avtaler",
+      "description": "Slik håndteres depositum, milepælsbetalinger og løpende avtaler dersom du kansellerer eller ikke er fornøyd med våre tjenester."
+    }
+  },
+  "layout": {
+    "skip_to_content": "Hopp til innholdet"
+  },
+  "hero": {
+    "badge": "Juridisk · Refusjonsregler",
+    "title": "Refusjonsregler",
+    "description": "Tydelige regler for depositum, delbetalinger og løpende planer – slik at du unngår overraskelser dersom planene endrer seg.",
+    "last_updated": "Sist oppdatert:",
+    "date": "14. juli 2026"
+  },
+  "sidebar": {
+    "contents_label": "Innhold",
+    "nav_aria_label": "Seksjonsnavigasjon"
+  },
+  "sections": {
+    "overview": {
+      "title": "1. Oversikt",
+      "body": "Disse refusjonsreglene forklarer hvordan betalinger håndteres dersom et prosjekt blir kansellert, satt på pause eller ikke lever opp til forventningene. Dokumentet fungerer som et tillegg til vår tjenesteavtale; ved eventuelle konflikter er det det signerte tilbudet eller arbeidsbeskrivelsen (SOW) som er gjeldende."
+    },
+    "deposits": {
+      "title": "2. Depositum",
+      "body": "Depositum for prosjekter refunderes ikke. Depositumet reserverer plass i vår kalender og dekker innsiktsarbeid, strategi og innledende designarbeid som påbegynnes umiddelbart etter signering."
+    },
+    "milestones": {
+      "title": "3. Milepælsbetalinger",
+      "list_items": [
+        "Milepælsbetalinger dekker arbeid som allerede er fullført og godkjent. Betalinger for leverte milepæler refunderes ikke.",
+        "Hvis du kansellerer midt i et prosjekt, er du ansvarlig for utført arbeid og påløpte kostnader frem til kanselleringsdatoen. Eventuelle forhåndsbetalte beløp utover dette refunderes innen 14 virkedager."
+      ]
+    },
+    "recurring": {
+      "title": "4. Løpende avtaler (vedlikehold, hosting, faste oppdrag)",
+      "list_items": [
+        "Løpende planer faktureres månedlig på forskudd og refunderes ikke for inneværende måned.",
+        "Du kan si opp avtalen når som helst med 30 dagers skriftlig varsel. Tjenesten fortsetter ut den betalte perioden; ingen ytterligere kostnader påløper etter at oppsigelsen har trådt i kraft.",
+        "Ubrukte timer i en fast månedsavtale overføres ikke til neste måned og refunderes ikke."
+      ]
+    },
+    "third_party": {
+      "title": "5. Tredjepartsgebyrer",
+      "body": "Kostnader betalt til tredjepartsleverandører på dine vegne — som domener, hosting, arkivbilder, premium-plugins eller annonsekostnader — refunderes ikke etter at de er kjøpt, uavhengig av prosjektets status."
+    },
+    "chargebacks": {
+      "title": "6. Tilbakeføringer (Chargebacks)",
+      "body": "Vennligst kontakt oss før du iverksetter en tilbakeføring via banken. Vi vil strekke oss langt for å løse eventuelle problemer raskt. Tilbakeføringskrav sendt uten forvarsel kan føre til umiddelbar stans i tjenestene og betraktes som et vesentlig mislighold av avtalen."
+    },
+    "request": {
+      "title": "7. Slik ber du om refusjon",
+      "body": "Send en skriftlig forespørsel via vår kontaktside med prosjektnavn, fakturanummer og årsak. Kvalifiserte refusjoner utbetales til den opprinnelige betalingsmetoden innen 14 virkedager etter godkjenning."
+    },
+    "changes": {
+      "title": "8. Endringer i refusjonsreglene",
+      "body": "Vi kan oppdatere disse refusjonsreglene fra tid til annen. Datoen for «Sist oppdatert» øverst på siden viser gjeldende versjon."
+    }
+  },
+  "cta": {
+    "title": "Trenger du å snakke med oss om en refusjon?",
+    "description": "Ta kontakt med oss først – vi finner som regel en god løsning sammen.",
+    "button": "Kontakt oss"
+  }
+}

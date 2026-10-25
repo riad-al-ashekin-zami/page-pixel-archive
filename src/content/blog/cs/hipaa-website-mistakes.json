@@ -1,0 +1,62 @@
+{
+  "slug": "hipaa-website-mistakes",
+  "title": "7 chyb na webových stránkách souvisejících s HIPAA, které stále vidíme v roce 2026",
+  "excerpt": "Meta pixely, přijímací formuláře, chatovací widgety – kde dochází k únikům PHI a jak je tento týden zastavit.",
+  "imageAlt": "Mosazný visací zámek opřený o hromadu dokumentů o shodě s HIPAA",
+  "body": [
+    {
+      "text": "Vynucování HIPAA ohledně sledování webových stránek se od pokynů OCR z roku 2022 dramaticky změnilo. Pokud se vaše stránky stále spoléhají na výchozí Meta Pixel, výchozí konfiguraci GA4 nebo chatovací widget bez BAA, máte únik – a pravděpodobně o tom nevíte, protože úniky jsou tiché. Dobrá zpráva: každá z níže uvedených sedmi chyb může být odstraněna za týden s koordinovaným technologickým a právním úsilím. Špatná zpráva: většina praxí s tím ještě nezačala."
+    },
+    {
+      "text": "Účelem tohoto příspěvku není vás vyděsit k nečinnosti. Je to, abychom vám poskytli konkrétní kontrolní seznam, který můžete předat tomu, kdo vlastní váš web, a srozumitelný popis, proč je každá položka rizikem. Projděte si seznam, označte ty, o kterých víte, že jsou otevřené, a v pondělí ráno začněte s nejzávažnějším únikem."
+    },
+    {
+      "heading": "Sedm chyb"
+    },
+    {
+      "list": [
+        "Meta Pixel se spouští na rezervačních stránkách bez filtrování na straně serveru",
+        "GA4 sleduje URL parametry, které obsahují názvy stavů",
+        "Chatovací widgety ukládající protokoly konverzací na infrastrukturu bez podpory HIPAA",
+        "Přijímací formuláře odesílající data službám třetích stran bez BAA",
+        "IP adresy návštěvníků live-chatu uložené spolu se zdravotními dotazy",
+        "Vložená videa třetích stran se načítají před souhlasem",
+        "Nástroje pro opakování relací nahrávající vstupy do formulářových polí"
+      ]
+    },
+    {
+      "heading": "Proč je Meta Pixel největším rizikem"
+    },
+    {
+      "text": "Meta Pixel je položka s nejvyšší závažností na seznamu, protože je nejméně zřetelná. Výchozí instalace se spustí při každém načtení stránky a odešle URL, odkazující stránku a jakýkoli vstup z formuláře, který Meta dokáže získat zpět na servery Facebooku – včetně adres URL jako /schedule/acne-consult nebo /request/mole-check. Tato URL je pravděpodobně PHI v okamžiku, kdy je spojena s IP adresou, kterou lze přiřadit k osobě."
+    },
+    {
+      "text": "Řešením není odstranit pixel. Řešením je spustit jej skrze Conversions API na straně serveru s přísným filtrováním URL a událostí a odstranit jakýkoli řetězec dotazů, segment cesty nebo datovou zátěž události, která by mohla odhalit záměr stavu. Taková práce zabere inženýrovi přibližně dva dny. Je to práce v oblasti dodržování předpisů s nejvyšší návratností investic, kterou můžete v tomto čtvrtletí provést."
+    },
+    {
+      "heading": "GA4 je druhá nejběžnější chyba"
+    },
+    {
+      "text": "GA4 uniká jiným způsobem: parametry URL, které obsahují diagnostický jazyk, nebo datové zátěže událostí, které byly nastaveny automaticky a nikdy nebyly zkontrolovány. Seřaďte své události GA4 podle frekvence a přečtěte si prvních 50. Pokud název události nebo parametr obsahuje text o stavu, tato data proudila do serverů Google nešifrovaně z pohledu HIPAA. Přejmenujte, odstraňte nebo nahraďte tyto události čistými identifikátory."
+    },
+    {
+      "heading": "Chatovací widgety a přijímací formuláře"
+    },
+    {
+      "text": "Chatovací widgety a přijímací formuláře tvoří třetí kategorii. Jakýkoli nástroj, který zachycuje konverzační vstupy, potřebuje Business Associate Agreement, než se dotkne dotazu pacienta. Pokud váš současný dodavatel chatu nemůže předložit podepsanou BAA do hodiny od vyžádání, nahraďte ho. Dobří dodavatelé v souladu s HIPAA mají BAA k dispozici; rizikoví nikoli."
+    },
+    {
+      "text": "Stejné pravidlo platí pro přijímací formuláře. Pokud váš poskytovatel formulářů ukládá odeslané formuláře na svých serverech bez BAA, každé odeslání je událostí související s dodržováním předpisů. Přejděte na řešení formulářů s podepsanou BAA (nebo hostujte sami na vlastní infrastruktuře splňující požadavky HIPAA), než spustíte svou další kampaň."
+    },
+    {
+      "heading": "Opakování sezení, vložené video a dlouhý konec"
+    },
+    {
+      "text": "Nástroje pro opětovné přehrávání relací jsou mimořádné nástroje pro výzkum produktů a mimořádné miny HIPAA. Každý nástroj pro opětovné přehrávání musí být nakonfigurován tak, aby ve výchozím nastavení maskoval každé pole formuláře, maskoval jakýkoli prvek obsahující text, který by mohl být PHI, a ukládal nahrávky na infrastrukturu pokrytou BAA. Vložená videa z YouTube nebo Vimeo načítají soubory cookie třetích stran před souhlasem uživatele – přepněte na vložení s důrazem na soukromí nebo zjednodušený načítací modul, který se inicializuje pouze po explicitní akci."
+    },
+    {
+      "text": "Souhrnným poselstvím je toto: Soulad s HIPAA v roce 2026 je stejně tak problémem inženýrství webových stránek jako právním problémem. Považujte to za opakovanou údržbu, nikoli za jednorázový audit. Čtvrtletně kontrolujte svůj sledovací stack, rušte dodavatele, kteří nemohou podepsat BAA, a dokumentujte každou opravu v protokolu o dodržování předpisů, na který se váš vedoucí tým může odvolat, až nakonec dorazí dopis od OCR."
+    }
+  ],
+  "faqs": null
+}

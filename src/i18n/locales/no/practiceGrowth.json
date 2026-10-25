@@ -1,0 +1,272 @@
+{
+  "meta": {
+    "title": "Veksttjenester for hudlegepraksis | Bookede timer, ikke bare visninger",
+    "description": "Vekst for din hudlegepraksis – pasientinnstrømming, konverteringsoptimalisering, automatisert oppfølging og omsetningsanalyse knyttet direkte til bookede besøk og lønnsomhet per tjeneste.",
+    "og": {
+      "title": "Vekst for hudleger – Bookede timer, ikke visninger",
+      "description": "Helhetlig vekst for selvstendige klinikker og kjeder – anskaffelse, konvertering, lojalitet og økonomiske analyser."
+    },
+    "twitter": {
+      "title": "Veksttjenester for dermatologiske klinikker",
+      "description": "Øk antall bookede timer for din praksis – målt direkte i regnskapet."
+    },
+    "jsonLd": {
+      "serviceType": "Veksttjenester for hudlegepraksis",
+      "provider": "DermatologyWebsiteDesign.com",
+      "description": "Veksttjenester for hudlegepraksis – pasientrekruttering, lojalitet, omdømme og økonomiske resultater.",
+      "breadcrumbs": {
+        "home": "Hjem",
+        "services": "Tjenester",
+        "current": "Vekst for hudlegepraksis"
+      }
+    }
+  },
+  "hero": {
+    "badge": "Vekst for hudlegepraksis",
+    "title": "Bookede timer. Ikke bare visninger.",
+    "description": "Helhetlig vekst for hudleger – pasientrekruttering, konverteringsoptimalisering, automatisk oppfølging og resultatstyring. Hver kanal måles mot kostnad per bestilt time og lønnsomhet per tjenesteområde.",
+    "cta": {
+      "primary": "Få en gratis vekst-revisjon",
+      "secondary": "Se våre verktøy"
+    },
+    "stats": [
+      {
+        "value": "42%",
+        "label": "Nye pasienter"
+      },
+      {
+        "value": "3,4×",
+        "label": "Konsultasjonsforespørsler"
+      },
+      {
+        "value": "31%",
+        "label": "Lavere CPBV"
+      },
+      {
+        "value": "HIPAA",
+        "label": "Sikker plattform"
+      }
+    ]
+  },
+  "sections": {
+    "levers": {
+      "badge": "Vekstplattformen",
+      "heading": "Åtte vekstfaktorer. Én samlet bunnlinje.",
+      "description": "Veksten skyter fart når anskaffelse, konvertering, oppfølging og omdømme jobber sammen – og hver krone spores til tjenesten, ikke bare kanalen.",
+      "items": [
+        {
+          "title": "Motor for pasientrekruttering",
+          "desc": "Flerkanals inntak – SEO, lokalt søk, betalt annonsering og henvisninger – rutet inn i én oversiktlig pipeline for timebestillinger."
+        },
+        {
+          "title": "Konverteringsoptimalisering",
+          "desc": "Testing av landingssider, forenkling av skjemaer og finjustering av bookingsflyten som øker antall forespørsler uten ekstra annonsekostnader."
+        },
+        {
+          "title": "Pasientoppfølging og gjeninnkalling",
+          "desc": "Automatiserte sekvenser for årlig føflekkontroll, kosmetisk oppfølging og reaktivering av pasienter som ikke har vært inne på en stund."
+        },
+        {
+          "title": "Omdømme og anmeldelser",
+          "desc": "Automatisk utsendelse av evalueringsskjemaer etter besøk, HIPAA-sikre svarforslag og omdømmeovervåking på Google og bransjeportaler."
+        },
+        {
+          "title": "Resultatanalyse",
+          "desc": "Lønnsomhet per tjeneste, ressursutnyttelse og sporing av markedsføringskilder – alt i ett dashbord koblet til ditt pasientjournalsystem."
+        },
+        {
+          "title": "Vekst i henvisningsnettverk",
+          "desc": "Programmer for henvisning fra fastleger og gynekologer, informasjonsmateriell og kvartalsvis oppfølging sporet til faktiske pasientavtaler."
+        },
+        {
+          "title": "Håndtering av betalt media",
+          "desc": "Kampanjer på Google, Meta og YouTube styrt etter marginer på tjenestenivå – ingen overflødige visninger eller unødvendig retargeting."
+        },
+        {
+          "title": "HIPAA-sikker automatisering",
+          "desc": "Hvert kontaktpunkt – SMS, e-post, chat – kjører på BAA-dekket infrastruktur der sensitive opplysninger er skjermet som standard."
+        }
+      ]
+    },
+    "outcomes": {
+      "srTitle": "Målbar effekt",
+      "items": [
+        {
+          "k": "42%",
+          "v": "Økning i nye pasienter, 6 md."
+        },
+        {
+          "k": "78%",
+          "v": "Løft i 5-stjerners Google-anmeldelser"
+        },
+        {
+          "k": "3,4×",
+          "v": "Flere konsultasjonsforespørsler kvartal over kvartal"
+        },
+        {
+          "k": "31%",
+          "v": "Reduksjon i kostnad per bestilt time"
+        }
+      ],
+      "quote": "Vi sluttet å se på markedsføringsrapporter og begynte å lese regnskapet. Etter seks måneder er nye bestillinger opp 42 %, og kostnaden per bestilling er ned 31 % – og jeg vet nøyaktig hvilken tjeneste som skapte hver eneste krone.",
+      "attribution": "Dr. Alicia Renner · Hudlegegruppe med 4 lokasjoner"
+    },
+    "audiences": {
+      "badge": "Hvem vi hjelper",
+      "heading": "Bygget for alle type hudlegepraksiser.",
+      "description": "Enten du er alene, har flere lokasjoner eller spesialiserer deg på pediatri eller Mohs kirurgi – våre modeller tilpasses din kapasitet og dine marginer.",
+      "items": [
+        {
+          "title": "Selvstendige hudleger",
+          "desc": "Én behandler, stramme marginer, høy pasientverdi – vekst uten behov for å ansette en egen markedsavdeling."
+        },
+        {
+          "title": "Klinikker med flere lokasjoner",
+          "desc": "Resultatstyring per lokasjon, egne budsjetter for hver klinikk og sentralisert merkevarestyring."
+        },
+        {
+          "title": "Barnesykdommer / Pediatri",
+          "desc": "Beslutningsstier rettet mot foreldre og sesongvariasjoner bygget inn i planleggingen."
+        },
+        {
+          "title": "Mohs og kirurgisk dermatologi",
+          "desc": "Fokus på henvisninger, forsikringsverifisering og omdømmehåndtering etter operasjon."
+        }
+      ]
+    },
+    "services": {
+      "badge": "Medisinske tjenester vi løfter",
+      "heading": "Hvert område. Hele veien til timebestilling.",
+      "description": "Hver tjeneste behandles som sin egen trakter – med egne tall for anskaffelseskostnad, konverteringsrate og livstidsverdi.",
+      "list": [
+        "Aknebehandling",
+        "Eksembehandling",
+        "Psoriasisbehandling",
+        "Behandling av hudinfeksjoner",
+        "Hudallergier",
+        "Screening og behandling av hudkreft",
+        "Føflekkvurdering og medisinsk fjerning",
+        "Fjerning av cyster og lipomer",
+        "Vortefjerning",
+        "Neglesykdommer",
+        "Diagnostikk og medisinsk behandling av hårtap",
+        "Hodebunnsproblemer",
+        "Rosaceabehandling",
+        "Hyperpigmentering og melasma (medisinsk indikasjon)",
+        "Arrbehandling (skade, kirurgi, sykdom)",
+        "Behandling av brannskadearr",
+        "Vitiligo-behandling",
+        "Hudbiopsier og diagnostiske prosedyrer"
+      ]
+    },
+    "workflow": {
+      "badge": "Slik fungerer det",
+      "heading": "En 90-dagers utrulling. Vedvarende vekst etterpå.",
+      "description": "Gjennomsiktige milepæler knyttet til faktiske bestillinger og resultater – ingen skjulte tall.",
+      "steps": [
+        {
+          "step": "01",
+          "phase": "Fase 01",
+          "title": "Situasjonsanalyse og nullpunkt",
+          "desc": "Full gjennomgang av inntak + oppfølging, analyse av tjenestemarginer og en 12-måneders plan basert på behandlerkapasitet."
+        },
+        {
+          "step": "02",
+          "phase": "Fase 02",
+          "title": "Fundament for merkevare og trakter",
+          "desc": "Ombygging av nettsidens konverteringspunkter, optimalisering av bookingflyt og oppsett av korrekt sporing."
+        },
+        {
+          "step": "03",
+          "phase": "Fase 03",
+          "title": "Aktivering av vekstkanaler",
+          "desc": "SEO, lokal synlighet, betalt søk og henvisningsprogrammer lanseres parallelt – alle med et klart mål for kostnad per bestilling."
+        },
+        {
+          "step": "04",
+          "phase": "Fase 04",
+          "title": "Oppfølging, rapportering og skalering",
+          "desc": "Innkallingsrutiner, omdømmestyring, månedlige ledelsesrapporter og kvartalsvis utvidelse av tjenesteområder."
+        }
+      ]
+    },
+    "whyUs": {
+      "badge": "Hvorfor velge oss",
+      "heading": "En partner for vekst – ikke bare et reklamebyrå.",
+      "items": [
+        {
+          "title": "Regnskapstall, ikke dashbord",
+          "desc": "Alt vi leverer spores til bookede timer, omsetning og kostnad per time – gjennomgått månedlig på én side."
+        },
+        {
+          "title": "HIPAA-sikkerhet som standard",
+          "desc": "BAA-dekket infrastruktur og sikker integrasjon mot journalsystemer sikrer pasientvernet fra dag én."
+        },
+        {
+          "title": "Tilpasset din kapasitet",
+          "desc": "Vi justerer veksten etter kalenderen din – vi skaper ikke etterspørsel dine leger ikke har tid til å håndtere."
+        },
+        {
+          "title": "Full sporing av bestillinger",
+          "desc": "Telefonsamtaler og skjemaer spores direkte til pasientsystemet slik at ingen timebestilling forsvinner i statistikken."
+        },
+        {
+          "title": "Ekte medisinske skribenter",
+          "desc": "Tekster skrives av folk med klinisk bakgrunn og kvalitetssikres av hudleger – ikke AI-produsert tomprat."
+        },
+        {
+          "title": "Kutt det som ikke funker",
+          "desc": "Hver kanal har et tak for maksimal kostnad per time. Hvis målet ikke nås, flyttes budsjettet – uten bortforklaringer."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "Vanlige spørsmål fra klinikkeiere.",
+    "items": [
+      {
+        "q": "Hvordan skiller dette seg fra et vanlig markedsføringsbyrå?",
+        "a": "Et byrå selger visninger og klikk. Vi skaffer faktiske pasientavtaler og omsetning. Hver leveranse måles mot bunnlinjen i ditt regnskap. Hvis en kanal ikke lønner seg, kutter vi den i stedet for å forsvare den."
+      },
+      {
+        "q": "Hvordan ser de første 90 dagene ut?",
+        "a": "Dag 1–30: Analyse, veikart og optimalisering av nettside. Dag 31–60: Bookingflyt, SEO og lansering av omdømmemotor. Dag 61–90: Betalte kanaler går live med klare resultatmål og den første skikkelige lederrapporten leveres."
+      },
+      {
+        "q": "Jobber dere med praksiser som har flere lokasjoner?",
+        "a": "Ja, dette er vår spesialitet. Vi bygger budsjetter og lønnsomhetsoversikter per klinikk, sporer utnyttelsen for hver lege og sørger for sentral kontroll over merkevaren."
+      },
+      {
+        "q": "Er alt HIPAA-sikkert?",
+        "a": "Ja. All automatisering og integrasjon kjører på godkjent infrastruktur. Vi bruker aldri sensitive personopplysninger i maler og reviderer eksisterende løsninger for sikkerhetshull."
+      },
+      {
+        "q": "Integreres verktøyene med vårt pasientjournalsystem?",
+        "a": "Vi integrerer med de største plattformene som Nextech, ModMed og EMA for nøyaktig sporing. Der direkte integrasjon ikke er mulig, setter vi opp konverteringssporing i selve bestillingsleddet."
+      },
+      {
+        "q": "Hva skjer hvis en kanal underperformer?",
+        "a": "Da kutter vi den. Hver kanal har et forhåndsavtalt tak for kostnad per bestilling. Overskrides dette to måneder på rad, flyttes budsjettet til kanaler som leverer – ingen forsvarstaler, bare resultater."
+      }
+    ]
+  },
+  "cta": {
+    "badge": "Gratis gjennomgang",
+    "title": "Se nøyaktig hvor du mister potensielle pasienter – på 48 timer.",
+    "description": "Revisjon av pasientinntak, konverteringsanalyse og en prioritert 90-dagers vekstplan basert på ditt regnskap. Helt gratis, ingen salgsmas.",
+    "primary": "Bestill min gratis revisjon",
+    "secondary": "Be om et tilbud"
+  },
+  "stickyCta": {
+    "label": "Gratis vekst-revisjon – 48 timer",
+    "button": "Bestill"
+  },
+  "related": {
+    "prefix": "Anbefalt lesing: ",
+    "links": {
+      "marketing": "en klinikkeiers guide til markedsføring av hudleger",
+      "googleAds": "effektiv pasientrekruttering med Google Ads",
+      "reputation": "systemer for anmeldelser og omdømme"
+    }
+  }
+}

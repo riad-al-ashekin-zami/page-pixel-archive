@@ -1,0 +1,89 @@
+{
+  "meta": {
+    "title": "Termos de Serviço — Utilização do Website e Vínculo",
+    "description": "Os termos que regem a sua utilização do nosso website, as comunicações e quaisquer serviços contratados ao nosso estúdio.",
+    "og_title": "Termos de Serviço — Utilização do Website e Vínculo",
+    "og_description": "Os termos que regem a sua utilização do nosso website, as comunicações e quaisquer serviços contratados ao nosso estúdio.",
+    "twitter_title": "Termos de Serviço — Utilização do Website e Vínculo",
+    "twitter_description": "Os termos que regem a sua utilização do nosso website, as comunicações e quaisquer serviços contratados ao nosso estúdio."
+  },
+  "a11y": {
+    "skip_to_content": "Saltar para o conteúdo",
+    "section_navigation": "Navegação da secção"
+  },
+  "hero": {
+    "badge": "Jurídico · Termos de Serviço",
+    "title": "Termos de Serviço",
+    "description": "As regras base para utilizar o nosso website, contactar-nos e contratar o nosso estúdio. Leia-os em conjunto com o nosso <0>Contrato de Prestação de Serviços</0> e a nossa <1>Política de Privacidade</1>.",
+    "last_updated": "Última atualização: <0>14 de julho de 2026</0>"
+  },
+  "sections": {
+    "contents_label": "Conteúdos",
+    "acceptance": {
+      "title": "1. Aceitação dos Termos",
+      "body": "Ao aceder ou utilizar este website (\"Site\"), submeter um pedido de informação ou contratar os nossos serviços, concorda com estes Termos de Serviço (\"Termos\"). Se não concordar, por favor, interrompa a utilização do Site."
+    },
+    "eligibility": {
+      "title": "2. Elegibilidade",
+      "body": "Deve ter pelo menos 18 anos de idade e capacidade para celebrar um contrato vinculativo para utilizar o Site ou contratar os nossos serviços. Se estiver a agir em nome de uma organização, declara que tem autoridade para a vincular."
+    },
+    "services": {
+      "title": "3. Os Nossos Serviços",
+      "body": "Este Site contém principalmente conteúdos de marketing. Qualquer contratação efetiva de projetos — design, desenvolvimento, SEO ou manutenção contínua — é regida por uma proposta ou documento de especificações separado e pelo nosso <0>Contrato de Prestação de Serviços</0>. Em caso de conflito entre esses documentos e estes Termos, prevalece o Contrato de Prestação de Serviços."
+    },
+    "acceptable_use": {
+      "title": "4. Utilização Aceitável",
+      "list": [
+        "Não utilize indevidamente, interrompa ou tente violar a segurança do Site ou da sua infraestrutura.",
+        "Não execute scraping, crawl ou reprodução de conteúdos além da referência justa e não comercial.",
+        "Não submeta conteúdos ilegais, infratores, prejudiciais ou enganosos através de formulários.",
+        "Não submeta Informações de Saúde Protegidas (PHI/HIPAA) através de formulários públicos."
+      ]
+    },
+    "ip": {
+      "title": "5. Propriedade Intelectual",
+      "body": "Todo o conteúdo deste Site — texto, gráficos, logótipos, código e design — é propriedade nossa ou dos nossos licenciadores e está protegido por leis de propriedade intelectual. Pode visualizar e partilhar links para o Site; não pode copiar, modificar ou republicar conteúdos sem a nossa autorização por escrito."
+    },
+    "submissions": {
+      "title": "6. Submissões",
+      "body": "Se nos enviar feedback, ideias ou sugestões, concede-nos uma licença não exclusiva, mundial e isenta de royalties para os utilizar sem qualquer obrigação. Não envie nada que considere confidencial, a menos que tenhamos acordado em contrário por escrito."
+    },
+    "third_party": {
+      "title": "7. Links e Serviços de Terceiros",
+      "body": "O Site pode referenciar sites, ferramentas ou serviços de terceiros. Não controlamos nem endossamos os mesmos e não somos responsáveis pelos seus conteúdos, disponibilidade ou práticas."
+    },
+    "disclaimer": {
+      "title": "8. Exclusão de Responsabilidade",
+      "body": "O Site e o seu conteúdo são fornecidos \"tal como estão\" e \"conforme disponíveis\", sem garantias de qualquer tipo — expressas ou implícitas — incluindo comercialização, adequação a um fim específico e não infração. Nada no Site constitui aconselhamento jurídico, médico ou financeiro."
+    },
+    "liability": {
+      "title": "9. Limitação de Responsabilidade",
+      "body": "Até ao limite máximo permitido por lei, não somos responsáveis por quaisquer danos indiretos, incidentais, consequenciais ou perda de lucros resultantes da sua utilização do Site. A nossa responsabilidade agregada relacionada com o Site está limitada a 100 USD."
+    },
+    "indemnity": {
+      "title": "10. Indemnização",
+      "body": "Concorda em defender e indemnizar o nosso estúdio contra reclamações, danos e despesas resultantes da sua utilização indevida do Site ou violação destes Termos."
+    },
+    "termination": {
+      "title": "11. Cessação",
+      "body": "Podemos suspender ou terminar o acesso ao Site a qualquer momento, com ou sem aviso prévio, se acreditarmos que violou estes Termos ou criou riscos para nós ou para outros utilizadores."
+    },
+    "governing_law": {
+      "title": "12. Lei Aplicável",
+      "body": "Estes Termos são regidos pelas leis da jurisdição mencionada no nosso Contrato de Prestação de Serviços ou, na sua ausência, pela jurisdição onde o nosso estúdio está registado — sem considerar princípios de conflitos de leis."
+    },
+    "changes": {
+      "title": "13. Alterações a estes Termos",
+      "body": "Podemos atualizar estes Termos periodicamente. A data da \"Última atualização\" no topo reflete a versão atual. A utilização continuada do Site após as alterações significa que aceita os Termos atualizados."
+    },
+    "contact_section": {
+      "title": "14. Contacto",
+      "body": "Dúvidas sobre estes Termos? Contacte-nos através da nossa <0>página de contacto</0>."
+    }
+  },
+  "cta": {
+    "title": "Dúvidas sobre estes Termos?",
+    "description": "Teremos todo o gosto em esclarecer qualquer ponto antes de iniciarmos a colaboração.",
+    "button": "Contacte-nos"
+  }
+}

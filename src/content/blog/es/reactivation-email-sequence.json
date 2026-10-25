@@ -1,0 +1,55 @@
+{
+  "slug": "reactivation-email-sequence",
+  "title": "La secuencia de correos electrónicos para pacientes inactivos que vale $180k / año",
+  "excerpt": "Seis correos electrónicos, una oferta y la lógica de segmentación que trae de vuelta a los pacientes inactivos a la consulta.",
+  "imageAlt": "Smartphone mostrando una bandeja de entrada suavemente iluminada junto a una taza de café y un croissant sobre una tela de lino",
+  "body": [
+    {
+      "text": "Un paciente que no ha visitado la consulta en 12 meses tiene 4 veces más probabilidades de reservar a través de un correo electrónico que de cualquier canal de pago. Pero la mayoría de las clínicas nunca les envía uno. Aquí está la secuencia de seis correos electrónicos que implementamos para cada nuevo cliente, junto con la lógica de segmentación que decide qué pacientes reciben qué oferta, porque un correo electrónico genérico de 'te extrañamos' a 10,000 pacientes inactivos tiene un rendimiento inferior a un arco de seis correos electrónicos dirigido a 1,000."
+    },
+    {
+      "text": "El número de $180k en el título no es exageración de marketing. Es el ingreso incremental promedio que medimos en los primeros doce meses después de implementar esta secuencia para una clínica de tamaño medio con una sola ubicación y aproximadamente 8,000 contactos inactivos. Los grupos con múltiples ubicaciones suelen ver múltiplos de eso. La matemática funciona porque el costo de la secuencia es cero gasto adicional en publicidad y la audiencia ya está calificada: han visitado la clínica al menos una vez."
+    },
+    {
+      "heading": "Segmentación antes del contenido"
+    },
+    {
+      "text": "Antes de escribir un solo correo electrónico, segmente la audiencia. Agrupe a cada paciente inactivo en una lista y cada oferta se sentirá genérica para alguien. Divida la lista en tres cohortes: 12-18 meses desde la última visita (incentivo suave), 18-36 meses (reenganche estructurado) y más de 36 meses (recuperación agresiva con un incentivo real). Cada cohorte recibe el mismo esqueleto de seis correos electrónicos pero con diferente tono, diferente oferta y diferentes criterios de eliminación."
+    },
+    {
+      "heading": "La secuencia"
+    },
+    {
+      "list": [
+        "Correo electrónico 1: Te extrañamos — saludo amigable sin pedir nada",
+        "Correo electrónico 2: Novedades en la clínica",
+        "Correo electrónico 3: Un suave recordatorio para reservar su revisión anual de la piel",
+        "Correo electrónico 4: Contenido educativo sobre la prevención del cáncer de piel",
+        "Correo electrónico 5: Una oferta por tiempo limitado específica para su último tipo de visita",
+        "Correo electrónico 6: Última llamada, luego eliminar de la secuencia"
+      ]
+    },
+    {
+      "heading": "Por qué la 'no petición' como primer correo electrónico importa"
+    },
+    {
+      "text": "El primer correo electrónico de la secuencia deliberadamente no pide nada. Es una cálida reintroducción del gerente de la clínica o del asistente médico, idealmente escrito en primera persona con una firma real. El propósito es recordar al destinatario que esta clínica lo recuerda como persona, no como un segmento de marketing. Las tasas de respuesta de los correos electrónicos 'sin petición' superan a los correos electrónicos de 'reservar ahora' en 5 a 8 veces, y los que responden se autoidentifican como de alta intención."
+    },
+    {
+      "heading": "La oferta llega en el correo electrónico 5, no en el correo electrónico 1"
+    },
+    {
+      "text": "Las clínicas cometen rutinariamente el error de empezar con la oferta. Eso entrena a los pacientes inactivos a esperar descuentos cada vez que se comunican, y convierte el segmento de menor intención de su lista solo por el precio. El arco de seis correos electrónicos retrasa la oferta hasta el correo electrónico cinco, después de cuatro puntos de contacto de calidez y educación. Para cuando llega la oferta, el paciente ha sido reenganchado a la marca de la clínica, no a su descuento."
+    },
+    {
+      "heading": "El paso de eliminación protege la entregabilidad"
+    },
+    {
+      "text": "El correo electrónico seis es el correo electrónico de última llamada y también es el disparador de eliminación. Cualquier destinatario que no haya abierto ninguno de los cinco correos electrónicos anteriores y no abra el correo electrónico seis es eliminado de la secuencia. Eso protege la reputación de su remitente con Gmail y Outlook: enviar a direcciones no comprometidas es la forma más rápida de caer en promociones o spam. La eliminación agresiva mejora en realidad los resultados de la siguiente campaña porque la lista restante es más densa y está más comprometida."
+    },
+    {
+      "text": "Despliegue la secuencia una vez al año para cada cohorte, actualice el texto anualmente y trate a la audiencia eliminada como una cohorte de cola larga separada a la que vuelve a involucrar cada 18 meses con un nuevo nombre de remitente. Al compilar durante tres años, la cifra de $180k tiende a duplicarse o triplicarse a medida que la secuencia madura y la segmentación se vuelve más precisa."
+    }
+  ],
+  "faqs": null
+}

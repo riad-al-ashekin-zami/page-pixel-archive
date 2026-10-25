@@ -1,0 +1,72 @@
+{
+  "growthKpi": {
+    "header": "Vekstkalkulator",
+    "bookingLift": "{{pct}}% økning i bestillinger",
+    "projectedRevenueLabel": "Estimert årlig ekstrainntekt",
+    "roiSuffix": "× avkastning på månedlig investering",
+    "bookedVisitsCaption": "Bestilte besøk · 8-måneders prognose",
+    "addedPerMonth": "+{{n}}/mnd",
+    "monthlyInvestment": "Månedlig investering",
+    "currentMonthlyVisits": "Nåværende månedlige besøk",
+    "kpi": {
+      "newVisits": "Nye besøk/mnd",
+      "totalVisits": "Totalt antall besøk/mnd",
+      "monthlyRevenue": "Månedlig omsetning"
+    }
+  },
+  "cpc": {
+    "header": "CPC-kalkulator",
+    "badge": "benchmark",
+    "costPerBookedLabel": "Estimert kostnad per bestilt besøk",
+    "bookedVisitsSuffix": "· {{n}} bestilte besøk/mnd",
+    "serviceLineLabel": "Tjenestelinje",
+    "avgCpcSuffix": "gj.sn. CPC",
+    "monthlySpend": "Månedlig mediebudsjett",
+    "kpi": {
+      "clicks": "Klikk/mnd",
+      "leads": "Leads/mnd",
+      "avgCpc": "Gj.sn. CPC"
+    },
+    "footer": "{{booked}} bestilte besøk · {{cost}} hver",
+    "footerBadge": "estim.",
+    "services": {
+      "acne": "Kviserbehandling",
+      "mohs": "Mohs kirurgi",
+      "aesthetic": "Aesthetic / kosmetisk",
+      "general": "Generell hud"
+    }
+  },
+  "radius": {
+    "header": "Planlegger for serviceområde",
+    "radiusBadge": "{{n}} mil radius",
+    "mapCaption": "Din klinikk · {{n}} mil",
+    "sliderAria": "Serviceradius i miles",
+    "sliderMin": "{{n}} mil",
+    "sliderMax": "{{n}} mil",
+    "kpi": {
+      "residents": "Innbyggere nådd",
+      "searches": "Lokale søk",
+      "visits": "Potensielle besøk"
+    },
+    "coveragePrefix": "Dekning over",
+    "coverageSuffix": "— nettranket for hvert postnummer innenfor ringen."
+  },
+  "rank": {
+    "header": "Live rangeringssporing",
+    "live": "live",
+    "fromRank": "fra #{{n}}",
+    "quarterFooter": "+{{n}} posisjoner dette kvartalet",
+    "updating": "oppdaterer",
+    "keywords": {
+      "nearMe": "hudlege nær meg",
+      "acneCity": "kviserbehandling [city]",
+      "aesthetic": "estetikkspesialist",
+      "mohs": "mohs kirurgi klinikk"
+    }
+  },
+  "preloader": {
+    "brandLead": "Dermatologi",
+    "brandHighlight": "Nettsted Design",
+    "tagline": "HIPAA-bevisst · Konverteringsfokusert"
+  }
+}

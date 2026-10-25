@@ -1,0 +1,259 @@
+{
+  "meta": {
+    "title": "Maksuton ihotautilääkärin verkkosivuanalyysi — Raportti 24 tunnissa",
+    "description": "Tilaa maksuton, ihotautialalle erikoistunut verkkosivuanalyysi. Henkilökohtainen raportti SEO-toimivuudesta, nopeudesta, HIPAA-vaatimuksista, käyttökokemuksesta ja konversiosta.",
+    "og": {
+      "title": "Maksuton ihotautilääkärin verkkosivuanalyysi",
+      "description": "Henkilökohtainen arvio ihotautiklinikoiden verkkosivuille: SEO, nopeus, HIPAA, käyttökokemus ja konversio 24 tunnissa."
+    },
+    "jsonLd": {
+      "home": "Etusivu",
+      "breadcrumb": "Maksuton verkkosivuanalyysi"
+    }
+  },
+  "hero": {
+    "badge": "Maksuton · Ei sitoutumista · Toimitus 24 tunnissa",
+    "title": "Asiantuntijan tekemä maksuton analyysi ihotautiklinikkasi verkkosivuista.",
+    "subtitle": "Saat henkilökohtaisen raportin SEO:sta, nopeudesta, HIPAA-yhteensopivuudesta, saavutettavuudesta ja konversiosta — dermatology-alan asiantuntijan arvioimana, ilman automaatiotyökaluja.",
+    "checklist": [
+      "Verkkosivuston kuntopisteet (0–100)",
+      "3 tärkeintä korjauskohdetta selkokielellä",
+      "Tiivis kirjallinen yhteenveto suoraan sähköpostiisi",
+      "Ei sitoutumista — raportti on kokonaan sinun"
+    ],
+    "audiencesLabel": "Täydellinen ratkaisu näille:",
+    "audiences": [
+      "Yksityiset ihotautilääkärit",
+      "Monitoimipisteiset klinikat",
+      "Esteettiset klinikat",
+      "Lasten ihotautilääkärit",
+      "Mohs- ja kirurginen dermatologia"
+    ],
+    "stats": {
+      "websites": {
+        "label": "Verkkosivua",
+        "sub": "Analysoitu ja toimitettu"
+      },
+      "delivery": {
+        "label": "Toimitus",
+        "sub": "Arkipäivien kuluessa"
+      },
+      "niche": {
+        "label": "Dermatologia",
+        "sub": "Erikoistunut fokuksemme"
+      }
+    }
+  },
+  "trustItems": [
+    {
+      "label": "Vain ihotautialalle",
+      "note": "100 % toimialafokus"
+    },
+    {
+      "label": "Toimitus 24 tunnissa",
+      "note": "Raportti sähköpostiisi"
+    },
+    {
+      "label": "Ei sitoutumispakkoa",
+      "note": "Ei myyntipuheita"
+    },
+    {
+      "label": "Asiantuntijan arvio",
+      "note": "Ei pelkkä Lighthouse-raportti"
+    }
+  ],
+  "sections": {
+    "auditAreas": {
+      "tag": "Mitä analysoimme",
+      "title": "Kuusi näkökulmaa. Yksi toimialakohtainen raportti.",
+      "subtitle": "Jokainen analyysi tehdään käsityönä — emme käytä suoria kopioita automaattisista työkaluista.",
+      "items": [
+        {
+          "title": "SEO ja paikallinen näkyvyys",
+          "body": "Sivun sisäinen SEO, schema-merkinnät, tärkeimmät hakusanat, Google Business Profile -signaalit ja sijoittuminen paikallisissa hauissa."
+        },
+        {
+          "title": "Nopeus ja Core Web Vitals",
+          "body": "LCP, INP, CLS, mobiilisuorituskyky, kuvien optimointi ja nopeat korjaukset, jotka kehittäjäsi voi toteuttaa heti."
+        },
+        {
+          "title": "HIPAA ja tietoturva",
+          "body": "Lomakkeiden käsittely, PHI-tietojen tietoturva, SSL, seurantatietojen vuodot ja suostumushallinta – ihotautialan asiantuntijan tarkastamana."
+        },
+        {
+          "title": "ADA-saavutettavuus",
+          "body": "WCAG 2.1 -tarkistuspisteet: kontrastit, fokus-tilat, näppäimistönavigointi, alt-tekstit ja luettavuus todellisille potilaille."
+        },
+        {
+          "title": "Käyttökokemus ja konversio",
+          "body": "Miten uudet potilaat kokevat ajanvarauksen, palvelusivut ja ennen/jälkeen-kuvagalleriat — ja missä vaiheessa he poistuvat sivuilta."
+        },
+        {
+          "title": "Mobiilikokemus",
+          "body": "Testaus oikeilla laitteilla: painikkeiden koko, soitto- ja varaustoimintojen sujuvuus sekä sivuston toiminta odotushuoneen 4G-verkossa."
+        }
+      ]
+    },
+    "benefits": {
+      "tag": "Miksi tilata maksuton analyysi",
+      "title": "Tieto on valtaa markkinoinnissa.",
+      "subtitle": "Selkeä kuva sivustosi nykytilasta varmistaa, että jokainen markkinointiin käytetty euro tuottaa paremmin jatkossa.",
+      "items": [
+        {
+          "title": "Löydä piilevät ongelmat",
+          "body": "Useimmat viat eivät näy päällepäin, kuten rikkinäinen schema tai hidas LCP. Me tuomme ne esiin."
+        },
+        {
+          "title": "Paranna suorituskykyä",
+          "body": "Nopeampi ja selkeämpi sivusto tarkoittaa parempaa potilaskokemusta ja mitattavasti enemmän ajanvarauksia."
+        },
+        {
+          "title": "Vahvista HIPAA-yhteensopivuutta",
+          "body": "Vältä PHI-tietovuodot, seurantatyökalujen virheelliset asetukset ja SSL-ongelmat ennen kuin niistä tulee säädöksiin liittyvä rasite."
+        },
+        {
+          "title": "Nosta Google-sijoitustasi",
+          "body": "Teknisen SEO:n ja paikallisten signaalien korjaaminen auttaa klinikkaasi nousemaan karttatuloksissa ja hakutulosten kärkeen."
+        }
+      ]
+    },
+    "deliverables": {
+      "tag": "Mitä saat",
+      "title": "Raportti, jonka pohjalta voit todella toimia.",
+      "description": "Emme lähetä 80-sivuista teknistä PDF-jargonia. Saat selkeän listauksen ihotautiklinikalle merkityksellisistä asioista tärkeysjärjestyksessä. Voit antaa ohjeet suoraan kehittäjällesi tai toimistollesi — tai meille.",
+      "tags": {
+        "delivery": "Toimitus 24 tunnissa",
+        "confidential": "Luottamuksellinen",
+        "obligation": "Ei sitoutumista"
+      },
+      "items": [
+        {
+          "title": "Verkkosivuston kuntopisteet",
+          "body": "Yksittäinen pistemäärä 0–100 välillä jaoteltuna kategorioittain (SEO, nopeus, HIPAA, UX, mobiili) – näet heti, missä mennään."
+        },
+        {
+          "title": "3 kriittisintä kehityskohdetta",
+          "body": "Kolme merkittävintä ongelmaa selkokielellä selitettynä. Riittävästi tietoa korjausten tekemiseen ilman turhaa turvotusta."
+        },
+        {
+          "title": "Tiivis kirjallinen yhteenveto",
+          "body": "Lyhyt ja ytimekäs tiivistelmä pisteistäsi ja kehityskohteistasi sähköpostiisi. Kattavampi raportti ja 90 päivän suunnitelma ovat saatavilla erikseen."
+        }
+      ]
+    },
+    "howItWorks": {
+      "tag": "Miten se toimii",
+      "title": "Pyynnöstä raporttiin 24 tunnissa.",
+      "steps": [
+        {
+          "label": "Vaihe 1",
+          "title": "Lähetä sivustosi tiedot",
+          "body": "Ilmoita URL-osoitteesi ja muutamat perustiedot. Vie noin minuutin."
+        },
+        {
+          "label": "Vaihe 2",
+          "title": "Asiantuntijamme analysoivat kaiken",
+          "body": "Ihminen — ei kone — tarkistaa nopeuden, SEO:n, HIPAA-asiat ja käytettävyyden dermatology-näkökulmasta."
+        },
+        {
+          "label": "Vaihe 3",
+          "title": "Raportti 24 tunnin kuluessa",
+          "body": "Kuntopisteet, 3 tärkeintä korjauskohdetta ja tiivis yhteenveto toimitetaan suoraan sähköpostiisi."
+        },
+        {
+          "label": "Vaihe 4",
+          "title": "Korjaa itse tai anna meidän auttaa",
+          "body": "Toimita raportti tiimillesi tai anna meidän hoitaa optimointi. Ei painostusta kumpaankaan suuntaan."
+        }
+      ]
+    }
+  },
+  "form": {
+    "tag": "Tilaa maksuton analyysi",
+    "title": "Saat raporttisi 24 tunnissa",
+    "subtitle": "Muutama kenttä riittää. Ei rekisteröitymistä tai luottokorttia.",
+    "fields": {
+      "website": {
+        "label": "Verkkosivuston URL",
+        "placeholder": "https://klinikkasi.fi"
+      },
+      "name": {
+        "label": "Nimesi",
+        "placeholder": "Tohtori Meikäläinen"
+      },
+      "role": {
+        "label": "Rooli",
+        "placeholder": "Omistaja, Klinikkayrittäjä, Markkinointipäällikkö..."
+      },
+      "practice": {
+        "label": "Klinikan nimi",
+        "placeholder": "Ihotautiklinikka Esimerkki"
+      },
+      "email": {
+        "label": "Sähköposti",
+        "placeholder": "etunimi@klinikka.fi"
+      },
+      "phone": {
+        "label": "Puhelinnumero",
+        "placeholder": "(valinnainen)"
+      },
+      "goals": {
+        "label": "Mihin haluaisit meidän keskittyvän?",
+        "optionalLabel": "(valinnainen)",
+        "placeholder": "Esim. saamme kävijöitä mutta emme varauksia, tai haluamme näkyä Mohs-kirurgian hakutuloksissa."
+      }
+    },
+    "submit": "Tilaa maksuton analyysi",
+    "disclaimer": {
+      "spam": "Ei roskapostia",
+      "obligation": "Ei sitoutumispakkoa",
+      "confidential": "Luottamuksellinen — tietoja ei jaeta"
+    },
+    "success": {
+      "title": "Pyyntö vastaanotettu — kiitos.",
+      "body": "Analysoimme sivustosi ja lähetämme raportin sähköpostiisi 24 arkivuorokauden sisällä.",
+      "cta": "Katso aiempia töitämme"
+    },
+    "errors": {
+      "name": "Syötä nimesi",
+      "email": "Syötä voimassa oleva sähköpostiosoite",
+      "practice": "Syötä klinikan nimi",
+      "website": "Syötä verkkosivuston URL-osoite",
+      "generic": "Tarkista lomakkeen tiedot",
+      "cooldown": "Odota {{seconds}}s ennen uutta lähetystä.",
+      "submissionError": "Hups, jotain meni pieleen. Yritä uudelleen tai ota yhteyttä sähköpostitse."
+    }
+  },
+  "faq": {
+    "tag": "UKK",
+    "title": "Vastauksia selkokielellä.",
+    "items": [
+      {
+        "q": "Onko tämä todella ilmainen? Mikä on juoni?",
+        "a": "Kyllä – se on täysin maksuton. Se on tapamme esittäytyä. Useimmat klinikat tekevät suositellut korjaukset itse, jotkut pyytävät meitä apuun. Kumpi tahansa sopii meille."
+      },
+      {
+        "q": "Kuka analyysin tekee?",
+        "a": "Tiimimme kokenut asiantuntija, joka on toteuttanut yli 50 ihotautialan sivustoa. Emme käytä harjoittelijoita tai pelkkiä automaattisia työkaluja."
+      },
+      {
+        "q": "Miten tämä eroaa Lighthouse- tai SEMrush-raporteista?",
+        "a": "Automaatiot raportoivat geneerisiä virheitä. Me tulkitsemme tiedot ihotautialan kontekstissa – mikä on tärkeää esteettiselle klinikkalle versus lääketieteelliselle toimenpideklinikalle, ja mitä kannattaa korjata ensin."
+      },
+      {
+        "q": "Täytyykö minun palkata teidät analyysin jälkeen?",
+        "a": "Ei. Raportti on sinun, ja voit hyödyntää sen tietoja haluamallasi tavalla. Otamme yhteyttä vain kerran, ellet erikseen pyydä jatkokeskusteluja."
+      },
+      {
+        "q": "Kuinka kauan toimitus kestää?",
+        "a": "Toimitamme raportin 24 tunnin sisällä arkipäivisin. Jos toimitus jostain syystä viivästyy, ilmoitamme siitä sinulle välittömästi."
+      }
+    ]
+  },
+  "footerLinks": {
+    "prefix": "Hyödyllistä luettavaa: ",
+    "portfolio": "tutustu tuoreimpiin projekteihimme",
+    "process": "näin työskentelemme asiakkaidemme kanssa",
+    "costs": "palvelupakettien suuntaa-antavat hinnat"
+  }
+}

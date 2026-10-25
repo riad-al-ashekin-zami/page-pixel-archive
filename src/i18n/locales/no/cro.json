@@ -1,0 +1,382 @@
+{
+  "meta": {
+    "title": "CRO-tjenester for dermatologer — doble antall bestillinger fra samme trafikk",
+    "description": "Konverteringsoptimalisering for hudlegeklinikker. Varmekart, A/B-testing, optimalisering av bestillingsskjemaer, mobil UX og Core Web Vitals — gjør flere besøkende til bekreftede avtaler. HIPAA-aware.",
+    "og_title": "Konverteringsoptimalisering for dermatologi — flere bookinger med samme trafikk",
+    "og_description": "Atferdsanalyse, A/B-testing, traktoptimalisering og mobilfokuserte løsninger for hudlegeklinikker. Målbar vekst innen 90 dager — HIPAA-aware, løpende avtaler.",
+    "jsonLd": {
+      "serviceType": "Konverteringsoptimalisering for dermatologi",
+      "provider": "DermatologyWebsiteDesign.com",
+      "offerDescription": "CRO-diagnose for dermatologi — startpris"
+    }
+  },
+  "hero": {
+    "badge_lift": "Gjennomsnittlig løft +184 % på 90 dager",
+    "badge_service": "Konverteringsoptimalisering",
+    "title_main": "Samme trafikk.",
+    "title_highlight": "Dobbelt så mange bookinger.",
+    "description": "Atferdsanalyse, A/B-testing, gjenoppbygging av bestillingsskjemaer og mobilfokuserte trakter — skreddersydd for dermatologiske klinikker. Hver hypotese testes, hver vinner gir merverdi, og hver krone i annonsebudsjettet strekker lenger.",
+    "cta_audit": "Start med en CRO-revisjon",
+    "cta_case_study": "Se et kundecase",
+    "pricing_note": "Diagnostisk revisjon fra",
+    "pricing_value": "$1 900",
+    "pricing_ongoing": "· løpende programmer $3.4k–$6.9k / mnd",
+    "ticks": [
+      "Varmekart + sesjonsavspilling",
+      "A/B-testing",
+      "HIPAA-aware",
+      "Ingen bindingstid"
+    ]
+  },
+  "stats": {
+    "lift": "Gjennomsnittlig løft i timebestillinger",
+    "abandonment": "Nedgang i frafall fra bestillingsskjema",
+    "roas": "Høyere ROAS på betalt trafikk",
+    "wins": "Statistisk signifikante forbedringer"
+  },
+  "trust": {
+    "label": "Over 120 klinikker over hele landet stoler på oss",
+    "logos": [
+      "LA Dermatology",
+      "CP Dermatology",
+      "MM Center",
+      "NBS Laser",
+      "RS Institute",
+      "HD Group"
+    ]
+  },
+  "pillars": {
+    "label": "Seks pilarer, ett helhetlig system",
+    "heading": "CRO handler ikke om fargen på en knapp. Det er en disiplin.",
+    "description": "Vi kombinerer atferdsdata, kontrollerte eksperimenter og mobilfokusert utvikling for å gjøre hvert besøk til et målbart steg mot en bekreftet time.",
+    "items": [
+      {
+        "name": "Atferdsanalyse",
+        "desc": "Varmekart, rulledybde, sesjonsavspilling og spørreundersøkelser blant pasienter — vi observerer hvordan ekte besøkende tar beslutninger.",
+        "meta": "Uke 1–2"
+      },
+      {
+        "name": "A/B- og multivariabel testing",
+        "desc": "Hypoteser rangert etter ICE-score, testet med korrekte utvalgsstørrelser — ingen tilfeldige gevinster.",
+        "meta": "Løpende"
+      },
+      {
+        "name": "Optimalisering av bestillingsskjema",
+        "desc": "Analyse på feltnivå, progressiv visning og HIPAA-sikker autofyll som halverer frafallet.",
+        "meta": "Sprint 1"
+      },
+      {
+        "name": "Kartlegging av trakt og kundereise",
+        "desc": "Hver vei fra annonseklikk til bekreftet avtale blir kartlagt og forenklet steg for steg.",
+        "meta": "Kontinuerlig"
+      },
+      {
+        "name": "Mobilfokusert gjenoppbygging",
+        "desc": "Over 70 % av alle timereservasjoner skjer på mobil — vi redesigner flyten for tomler, ikke skjermer.",
+        "meta": "Sprint 2"
+      },
+      {
+        "name": "Hastighet og Core Web Vitals",
+        "desc": "Hvert 100. millisekund i lastetid koster bookinger. Vi leverer LCP under 1,5 s og grønn score på alle sider.",
+        "meta": "Grunnleggende"
+      }
+    ]
+  },
+  "experiments": {
+    "label": "Seks reelle eksperimenter",
+    "heading": "Slik ser \"testing\" ut i praksis.",
+    "description": "Hver rad nedenfor er en reell hypotese som er testet og målt for en hudlegekunde. Tallene viser medianvekst på tvers av lignende klinikker — ikke håndplukkede unntak.",
+    "table_header": "Eksperiment",
+    "before_label": "Før",
+    "after_label": "Etter",
+    "items": [
+      {
+        "label": "Tekst på Hero-knapp",
+        "before": "Kontakt oss",
+        "after": "Bestill på 60 sekunder",
+        "metric": "Klikkrate til booking"
+      },
+      {
+        "label": "Felt i bestillingsskjema",
+        "before": "12 felt, én side",
+        "after": "4 steg, fremdriftslinje",
+        "metric": "Fullføringsgrad"
+      },
+      {
+        "label": "Tydelighet rundt forsikring",
+        "before": "Gjemt i FAQ",
+        "after": "Forsikringsvelger i Hero-seksjonen",
+        "metric": "Kvalifiserte henvendelser"
+      },
+      {
+        "label": "Tillitssignaler for behandler",
+        "before": "Generisk arkivbilde",
+        "after": "Ekte portrett + 4.9★-merke",
+        "metric": "Tid på siden & bookinger"
+      },
+      {
+        "label": "Plassering av CTA på mobil",
+        "before": "Under bretten, statisk",
+        "after": "Låst meny nederst (sticky bar)",
+        "metric": "Konvertering på mobil"
+      },
+      {
+        "label": "Struktur på tjenestesider",
+        "before": "Mye tett tekst",
+        "after": "Symptom → behandling → bestilling",
+        "metric": "Side-til-booking konvertering"
+      }
+    ]
+  },
+  "caseStudy": {
+    "label": "Kundecase · NBS Laser",
+    "heading": "Samme annonsebudsjett på $18k/mnd. 180 % flere bookinger.",
+    "image_alt": "NBS Laser bookingflyt etter CRO-optimalisering",
+    "stats": {
+      "bookings": "Bookinger i måneden",
+      "completion": "Fullføring av skjema",
+      "time": "Tid til konvertering"
+    },
+    "comparison": [
+      {
+        "label": "Bestillingsskjema",
+        "before": "12 felt · 1 side · skrivebordsfokusert",
+        "after": "4 steg · fremdriftslinje · mobilvennlige knapper"
+      },
+      {
+        "label": "Hero CTA",
+        "before": "Kontakt oss (generisk)",
+        "after": "Bestill på 60 sekunder · live forsikringsvelger"
+      },
+      {
+        "label": "Mobiltrakt",
+        "before": "Fast toppmeny skjulte CTA ved rulling",
+        "after": "Sticky bestillingsknapp nederst · 44px trykkflater"
+      },
+      {
+        "label": "Tillitssignaler",
+        "before": "Arkivbilde · ingen vurderinger",
+        "after": "Ekte behandler · 4.9★ · sertifiseringer"
+      }
+    ],
+    "cta": "Les hele caset her"
+  },
+  "process": {
+    "label": "Slik fungerer det",
+    "heading": "En kvartalsvis loop som bygger verdi hver måned.",
+    "steps": [
+      {
+        "step": "01",
+        "title": "Grunnleggende revisjon",
+        "desc": "Full gjennomgang av trakten: analyse, varmekart, frafall i skjemaer, sidehastighet, mobil-UX og 20+ bransjespesifikke benchmarks. Du får rapporten innen 10 virkedager."
+      },
+      {
+        "step": "02",
+        "title": "Hypotese-backlog",
+        "desc": "Hver innsikt blir en testbar hypotese, rangert etter effekt, sikkerhet og enkelhet. Du godkjenner sprinten — vi gjetter ikke."
+      },
+      {
+        "step": "03",
+        "title": "Design, bygg og test",
+        "desc": "Varianter lanseres gjennom en profesjonell testplattform. Utvalgsstørrelser beregnes på forhånd. Ingen tester avsluttes prematurt."
+      },
+      {
+        "step": "04",
+        "title": "Lanser vinnere, gjenta",
+        "desc": "Vinner-varianter blir den nye standarden. Tapende tester gir oss viktig lærdom. Hver måned er trakten din beviselig bedre enn den forrige."
+      }
+    ]
+  },
+  "audiences": {
+    "label": "Hvem vi jobber med",
+    "heading": "Hudlegeklinikker av alle slag.",
+    "description": "Programmer tilpasset din klinikkmodell — fra solopraktikere til store grupper med flere lokasjoner.",
+    "items": [
+      {
+        "label": "Selvstendige hudleger",
+        "desc": "Gjør et lite annonsebudsjett til en full kalender — hver besøkende teller når du er alene."
+      },
+      {
+        "label": "Klinikker med flere lokasjoner",
+        "desc": "Lokasjonsspesifikke landingssider, geografisk tilpassede knapper og samlet analyse for hele kjeden."
+      },
+      {
+        "label": "Pediatrisk dermatologi",
+        "desc": "Foreldrevennlige bestillingsløp, tillitssignaler og skjemaer tilpasset hvordan foresatte tar beslutninger."
+      },
+      {
+        "label": "Mohs & kirurgisk dermatologi",
+        "desc": "Sider optimalisert for henvisninger, tydelighet rundt forsikring og innhold som forkorter veien fra konsultasjon til inngrep."
+      }
+    ]
+  },
+  "services": {
+    "label": "Medisinske tjenester vi optimaliserer for",
+    "heading": "Hver tilstand og hver tjeneste — finjustert for konvertering.",
+    "description": "Vi bygger flyter fra symptom til behandling, spesifikke landingssider for diagnoser og forsikringstilpassede løsninger for de tjenestene klinikken din faktisk leverer.",
+    "list": [
+      "Aknebehandling",
+      "Eksembehandling",
+      "Psoriasisbehandling",
+      "Hudinfeksjoner",
+      "Hudallergier",
+      "Føflekksjekk og kreftbehandling",
+      "Vurdering og fjerning av føflekker",
+      "Fjerning av cyster og lipomer",
+      "Vortefjerning",
+      "Neglesykdommer",
+      "Håravfall — utredning og behandling",
+      "Hodebunnslidelser",
+      "Rosaceabehandling",
+      "Hyperpigmentering og melasma",
+      "Arrbehandling",
+      "Behandling av brannskadearr",
+      "Vitiligobehandling",
+      "Hudbiopsi og diagnostikk"
+    ]
+  },
+  "testimonials": {
+    "label": "Hva kundene våre sier",
+    "heading": "Først tallene. Så historien.",
+    "items": [
+      {
+        "name": "Dr. Meera Balakrishnan, MD",
+        "role": "NBS Laser",
+        "quote": "Vi brukte $18 000 i måneden på annonser og fikk 40 bookinger. Etter 90 dager med CRO-arbeid fikk vi 112 bookinger med samme budsjett. Nå betaler jeg fakturaen med glede."
+      },
+      {
+        "name": "Dr. Julian Reyes, MD",
+        "role": "CP Dermatology",
+        "quote": "De bygde om bestillingsflyten vår på tre sprinter. Fullføringsgraden gikk fra 34 % til 71 %. Resepsjonen min slipper nå å svare på telefoner om at skjemaet ikke fungerer."
+      },
+      {
+        "name": "Dr. Priya Anand, MD, MPH",
+        "role": "MM Center (4 klinikker)",
+        "quote": "Landingssider for hver lokasjon kombinert med forsikringsvelger var nøkkelen. Tid fra konsultasjon til booking falt fra 11 til 4 dager. Fastlegene som henviser til oss la merke til det."
+      }
+    ]
+  },
+  "pricing": {
+    "label": "Programmer og priser",
+    "heading": "Tre veier til økt vekst.",
+    "description": "Alle planer løper måned for måned etter den innledende diagnosen. Ingen årsavtaler, ingen binding — resultatene må tale for seg selv.",
+    "popular": "Mest populær",
+    "market_label": "Marked:",
+    "get_started": "Kom i gang",
+    "plans": [
+      {
+        "name": "Diagnose",
+        "tag": "Enkeltstående revisjon",
+        "price": "$1 900",
+        "per": "engangsbeløp",
+        "savings": "46–75 % rimeligere",
+        "features": [
+          "Full gjennomgang av trakt og analyse",
+          "Oppsett av varmekart og sesjonsavspilling",
+          "Analyse av frafall i bestillingsskjema",
+          "Score for mobil-UX og Core Web Vitals",
+          "Prioritert backlog med 12 hypoteser",
+          "60-minutters gjennomgang av funn"
+        ]
+      },
+      {
+        "name": "Vekstsprint",
+        "tag": "3-måneders program",
+        "price": "$3 400",
+        "per": "/mnd",
+        "savings": "43–72 % rimeligere",
+        "features": [
+          "Alt i diagnosepakken",
+          "2 A/B-tester utført per måned",
+          "Ombygging av bestillingsskjema inkludert",
+          "Landingssider for viktigste annonsekampanjer",
+          "Sesjonsavspilling + månedlig innsikt",
+          "Slack-kanal + ukentlige møter"
+        ]
+      },
+      {
+        "name": "Løpende CRO",
+        "tag": "Klinikkgrupper & Mohs-sentre",
+        "price": "$6 900",
+        "per": "/mnd",
+        "savings": "43–72 % rimeligere",
+        "features": [
+          "Alt i vekstsprinten",
+          "4+ samtidige eksperimenter",
+          "System for lokasjonsbaserte landingssider",
+          "Personlig tilpasning og segmentering",
+          "Oppsett for testing på serversiden",
+          "Kvartalsvis forretningsgjennomgang"
+        ]
+      }
+    ]
+  },
+  "faq": {
+    "label": "Ofte stilte spørsmål",
+    "heading": "Svarene du leter etter.",
+    "items": [
+      {
+        "q": "Hvordan skiller CRO seg fra SEO eller PPC?",
+        "a": "SEO og PPC bringer folk til nettstedet ditt. CRO sørger for at flere av disse menneskene faktisk bestiller time. Uten CRO vil avkastningen på hver krone begrenses av din nåværende konverteringsrate — som vanligvis er 1–3 % for hudleger. Ved å doble konverteringsraten, dobler du i praksis verdien av alt markedsføringsarbeid du allerede gjør."
+      },
+      {
+        "q": "Hvor raskt vil jeg se resultater?",
+        "a": "Den første revisjonen og de første testvariantene lanseres i løpet av de første 30 dagene. Statistisk signifikante resultater kommer vanligvis mellom uke 4 og 12, avhengig av trafikkvolum. Klinikker med over 5 000 besøkende i måneden ser ofte den første store gevinsten innen 6 uker."
+      },
+      {
+        "q": "Trenger dere tilgang til nettsiden min for å kjøre tester?",
+        "a": "Ja — vi installerer en testplattform (som VWO, Convert eller Optimizely) og analyseverktøy. Alt er HIPAA-aware: ingen pasientopplysninger (PHI) blir fanget opp, sesjonsavspilling maskerer skjemafelt automatisk, og vi signerer BAA der det er påkrevd."
+      },
+      {
+        "q": "Hva skjer om en test taper?",
+        "a": "Rundt 60 % av profesjonelle tester ender enten med et tap eller et uklart resultat — det er helt normalt. En test som taper er en lærdom: den forteller oss at antakelsen vår var feil, noe som ofte er mer verdifullt enn en liten gevinst. Vinnerne bygger videre suksess, mens lærdommene hindrer dyre feilgrep i fremtiden."
+      },
+      {
+        "q": "Jobber dere med min nåværende side, eller må den bygges på nytt?",
+        "a": "Vi jobber med alle moderne plattformer — WordPress, Webflow, React eller headless. Hvis siden har strukturelle problemer (dårlig Core Web Vitals eller manglende mobiloptimalisering), påpeker vi dette i revisjonen og anbefaler utbedringer der avkastningen forsvarer det."
+      },
+      {
+        "q": "Er dette i samsvar med regler for medisinsk markedsføring?",
+        "a": "Hvert eksperiment vurderes mot HIPAA, nasjonale retningslinjer for medisinsk markedsføring og plattformenes regler (Meta, Google Ads). Vi tester aldri påstander om resultater som ikke kan dokumenteres, og vi samler aldri inn sensitive helseopplysninger i våre analyseverktøy."
+      },
+      {
+        "q": "Er det bindingstid på kontrakten?",
+        "a": "Diagnose er et engangsoppdrag. Vekstsprint og Løpende CRO faktureres månedsvis med 30 dagers oppsigelsestid. Du beholder alle data, innsikt og konfigurasjoner dersom du avslutter samarbeidet."
+      }
+    ]
+  },
+  "cta": {
+    "label": "Gratis nettstedsrevisjon",
+    "heading": "Klar for å tette hullene i bestillingsflyten?",
+    "description": "Vi analyserer trakten din, viser deg de tre største svakhetene og gir deg en plan for testing — helt uavhengig av om du velger å jobbe med oss videre eller ikke.",
+    "button_quote": "Få et uforpliktende tilbud",
+    "button_contact": "Kontakt oss"
+  },
+  "footer_nav": {
+    "label": "Utforsk mer:",
+    "link_seo": "Grunnleggende SEO for hudleger",
+    "link_ppc": "Betalte kampanjer som lønner seg",
+    "link_design": "Design for konvertering fra dag én"
+  },
+  "mobile_sticky": {
+    "label": "Gratis CRO-revisjon",
+    "description": "30 min samtale · 3 største lekkasjer",
+    "button": "Gratis nettstedsrevisjon"
+  },
+  "funnel_panel": {
+    "title": "Bestillingstrakt — siste 30 dager",
+    "status": "Live · test #4821 kjører",
+    "winning": "Vinner",
+    "stages": {
+      "visitors": "Besøkende",
+      "engaged": "Engasjerte",
+      "form_starts": "Påbegynte skjema",
+      "booked": "Bestilt"
+    },
+    "stats": {
+      "conv_rate": "Konv. rate",
+      "cpa": "CPA",
+      "confidence": "Sikkerhet"
+    }
+  }
+}

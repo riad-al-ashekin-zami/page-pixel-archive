@@ -1,0 +1,162 @@
+{
+  "common": {
+    "explore": "Esplora",
+    "featured": "In evidenza",
+    "free": "Gratis",
+    "servicesCount_one": "{{count}} servizio",
+    "servicesCount_other": "{{count}} servizi",
+    "needCustomPlan": "Hai bisogno di un piano personalizzato?",
+    "customPlanDesc": "Ricevi un preventivo su misura per il tuo studio.",
+    "getFreeQuote": "Ottieni un Preventivo Gratuito",
+    "requestFreeAudit": "Richiedi Audit Gratuito"
+  },
+  "sections": {
+    "website": {
+      "label": "Servizi di Siti Web",
+      "tagline": "Siti belli, veloci e orientati alla conversione, creati per studi dermatologici."
+    },
+    "marketing": {
+      "label": "Servizi di Marketing",
+      "tagline": "Attira più pazienti qualificati con SEO, annunci e sistemi di reputazione."
+    },
+    "addons": {
+      "label": "Servizi Aggiuntivi",
+      "tagline": "Cura, hosting, contenuti e integrazioni per una crescita continua.",
+      "ctaLabel": "Visualizza tutti gli add-on"
+    },
+    "insights": {
+      "audit": {
+        "title": "Audit Gratuito del Sito Web",
+        "description": "Raccomandazioni attuabili entro 24 ore."
+      }
+    }
+  },
+  "website": {
+    "design": {
+      "label": "Progettazione Siti Web",
+      "description": "Siti di dermatologia orientati alla conversione."
+    },
+    "redesign": {
+      "label": "Restyling Siti Web",
+      "description": "Modernizza il tuo sito esistente."
+    },
+    "migration": {
+      "label": "Migrazione Siti Web",
+      "description": "Sposta il tuo sito senza tempi di inattività, senza perdita di SEO."
+    },
+    "maintenance": {
+      "label": "Manutenzione Siti Web",
+      "description": "Mantieni il tuo sito sicuro, aggiornato e veloce."
+    },
+    "management": {
+      "label": "Gestione Siti Web",
+      "description": "Gestione completa e continua del sito web."
+    },
+    "support": {
+      "label": "Supporto Siti Web",
+      "description": "Supporto esperto su richiesta quando ne hai bisogno."
+    },
+    "multiLocation": {
+      "label": "Multi-Sede",
+      "description": "Struttura scalabile per cliniche multiple."
+    },
+    "ecommerce": {
+      "label": "E-Commerce",
+      "description": "Vendi prodotti per la cura della pelle online."
+    },
+    "patientPortal": {
+      "label": "Portale Paziente",
+      "description": "Esperienza paziente senza interruzioni."
+    },
+    "beforeAfter": {
+      "label": "Galleria Prima e Dopo",
+      "description": "Mostra i risultati in modo eccellente."
+    }
+  },
+  "marketing": {
+    "seo": {
+      "label": "SEO per Dermatologia",
+      "description": "Raggiungi un buon posizionamento per ricerche ad alta intenzione."
+    },
+    "localSeo": {
+      "label": "SEO Locale",
+      "description": "Domina la tua area di servizio."
+    },
+    "growth": {
+      "label": "Crescita dello Studio",
+      "description": "Strategia per una crescita sostenibile."
+    },
+    "googleAds": {
+      "label": "Google Ads / PPC",
+      "description": "Acquisizione prevedibile di pazienti."
+    },
+    "socialMedia": {
+      "label": "Social Media",
+      "description": "Costruisci l'autorità del marchio."
+    },
+    "reputation": {
+      "label": "Gestione della Reputazione",
+      "description": "Sistemi di revisione a 5 stelle."
+    },
+    "email": {
+      "label": "Email Marketing",
+      "description": "Nutri e riattiva i pazienti."
+    },
+    "cro": {
+      "label": "CRO",
+      "description": "Trasforma i visitatori in prenotazioni."
+    }
+  },
+  "addons": {
+    "care": {
+      "label": "Cura e Manutenzione",
+      "description": "Cura continua del sito, aggiornamenti e monitoraggio."
+    },
+    "hosting": {
+      "label": "Hosting e Conformità",
+      "description": "Hosting veloce, sicuro e conforme HIPAA."
+    },
+    "content": {
+      "label": "Contenuto e Conversione",
+      "description": "Testi, landing page ed esperimenti CRO."
+    },
+    "analytics": {
+      "label": "SEO e Analytics",
+      "description": "Monitoraggio, dashboard e visibilità di ricerca."
+    },
+    "integrations": {
+      "label": "Integrazioni",
+      "description": "EHR, prenotazioni, CRM e strumenti di marketing."
+    },
+    "growth": {
+      "label": "Marketing della Crescita",
+      "description": "Annunci, email e programmi di reputazione."
+    }
+  },
+  "insights": {
+    "process": {
+      "label": "Il Nostro Processo",
+      "description": "Come realizziamo ogni progetto."
+    },
+    "about": {
+      "label": "Chi Siamo",
+      "description": "Chi siamo e in cosa crediamo."
+    },
+    "caseStudies": {
+      "label": "Case Study",
+      "description": "Risultati reali da pratiche reali."
+    },
+    "blog": {
+      "label": "Blog",
+      "description": "Approfondimenti per studi in crescita."
+    },
+    "faq": {
+      "label": "FAQ",
+      "description": "Risposte alle domande più comuni."
+    },
+    "audit": {
+      "label": "Audit Gratuito del Sito Web",
+      "description": "Raccomandazioni personalizzate in 24 ore."
+    }
+  }
+}

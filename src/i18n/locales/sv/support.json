@@ -1,0 +1,416 @@
+{
+  "meta": {
+    "title": "Supporttjänster för webbplatser inom dermatologi — Dedikerad tekniker, 15 min SLA för nödfall",
+    "description": "Personlig webbsupport för hudläkarmottagningar. Egen tekniker, livechatt, prioriterad telefon, tid för redigeringar, personalutbildning, HIPAA-medveten rådgivning och jour dygnet runt. Månadsvis utan bindningstid.",
+    "og": {
+      "title": "Supporttjänster för webbplatser inom dermatologi — Riktiga tekniker, snabb svarstid",
+      "description": "En dedikerad tekniker, svar under en timme, redigeringstid för innehåll och design, samt 24/7 jour för akuta ärenden — skapat för dermatologer."
+    },
+    "jsonLd": {
+      "serviceType": "Dermatology Website Support Services",
+      "provider": "DermatologyWebsiteDesign.com",
+      "offerDescription": "Supportavtal för dermatologiska webbplatser — startpris per månad"
+    }
+  },
+  "hero": {
+    "badgeOpen": "Supporten är öppen · genomsnittlig svarstid 42 sekunder",
+    "badgeOpenMobile": "Öppet · 42 s svarstid",
+    "badgeTitle": "Supporttjänster för webbplatsen",
+    "titlePrefix": "En riktig tekniker, ",
+    "titleHighlight": "bara ett meddelande bort.",
+    "description": "Webbsupport anpassad för dermatologiska kliniker. Dedikerad tekniker, livechatt, prioriterad telefon, redigeringstid, personalutbildning och eskalering vid nödfall dygnet runt – inga ärenden tappas bort i en lång kö.",
+    "ctaStart": "Starta ett supportavtal",
+    "ctaDemo": "Se en demo av supporten",
+    "pricing": {
+      "label": "Supportavtal från",
+      "value": "249 $",
+      "suffix": "/ månad · löpande, ingen bindningstid"
+    },
+    "trustLabels": [
+      "Dedikerad tekniker",
+      "Livechatt + telefon",
+      "Redigeringstid ingår",
+      "Jour 24/7"
+    ],
+    "imageAlt": "Supporttekniker för dermatologiska webbplatser vid skrivbordet med livechatt och inkorg för ärenden"
+  },
+  "stats": [
+    {
+      "value": "42 s",
+      "label": "Snittid för första svar i chatten"
+    },
+    {
+      "value": "18 min",
+      "label": "Genomsnittlig tid för utförd ändring"
+    },
+    {
+      "value": "98 %",
+      "label": "Lösta ärenden vid första kontakt"
+    },
+    {
+      "value": "4.9/5",
+      "label": "Kundnöjdhet (senaste 12 mån)"
+    }
+  ],
+  "channels": {
+    "tag": "Kontakta oss på det sätt som passar dig",
+    "title": "Sex kanaler. En tekniker. Inga tonvalsköer.",
+    "description": "Varje förfrågan hamnar i samma spårbara inkorg med garanterad svarstid (SLA) – oavsett om den kommer via chatt, e-post, telefon eller larm mitt i natten.",
+    "items": [
+      {
+        "name": "Livechatt",
+        "desc": "Chatt i appen, kl. 15–03 svensk tid (9–9 ET), bemannad av riktiga tekniker.",
+        "meta": "snitt 42 s svarstid"
+      },
+      {
+        "name": "Direktnummer",
+        "desc": "Direktlinje till din dedikerade tekniker – ingen telefonkö.",
+        "meta": "ingen kö"
+      },
+      {
+        "name": "Prioriterad e-post",
+        "desc": "SLA-spårad inkorg med svarsgaranti baserad på ditt avtal.",
+        "meta": "≤ 1 timme på Pro"
+      },
+      {
+        "name": "Ärendeportal",
+        "desc": "Fullständig historik, skärmdumpar och status för varje begäran.",
+        "meta": "självservice 24/7"
+      },
+      {
+        "name": "Videogenomgångar",
+        "desc": "Skärmdelning för utbildning och mer komplexa redigeringar.",
+        "meta": "vid behov"
+      },
+      {
+        "name": "Nödnummer",
+        "desc": "Eskalering direkt till jourhavande tekniker om sidan ligger nere, 24/7.",
+        "meta": "15 min SLA"
+      }
+    ]
+  },
+  "helpTopics": {
+    "tag": "Vad vi faktiskt hjälper till med",
+    "title": "Från \"ändra det här ordet\" till \"bokningsformuläret fungerar inte.\"",
+    "description": "Sex kategorier av dagligt arbete – det som en upptagen mottagning behöver få gjort idag, inte nästa månad.",
+    "items": [
+      {
+        "title": "Innehållsredigering",
+        "desc": "Biografier för läkare, tjänstesidor, blogginlägg, försäkringslistor – fixas inom några timmar."
+      },
+      {
+        "title": "Designjusteringar",
+        "desc": "Nya banners, kampanjer, nya sektioner eller justeringar i layouten."
+      },
+      {
+        "title": "Personalutbildning",
+        "desc": "Inspelade genomgångar och livesessioner så att ditt team kan sköta webbplatsen själva med trygghet."
+      },
+      {
+        "title": "Integrationshjälp",
+        "desc": "Bokningswidgets, EHR-inbäddningar, recensionsplattformar, analysverktyg – konfigurerade och felsökta."
+      },
+      {
+        "title": "HIPAA-medveten rådgivning",
+        "desc": "Varje formulär, tracker och skript från tredje part granskas för PHI-säkerhet innan det publiceras."
+      },
+      {
+        "title": "Nödfallsrespons",
+        "desc": "Ligger sidan nere eller är bokningen trasig? Eskalera direkt till din tekniker, dygnet runt."
+      }
+    ]
+  },
+  "flow": {
+    "tag": "Så här fungerar supporten",
+    "title": "Ett arbetsflöde byggt för intensiva dermatologiska mottagningar.",
+    "steps": [
+      {
+        "id": "01",
+        "title": "Möt din tekniker",
+        "desc": "Du får en dedikerad tekniker från dag ett – ingen roterande supportpool. De lär känna din sajt, ditt team och din terminologi."
+      },
+      {
+        "id": "02",
+        "title": "Skicka ärenden varifrån som helst",
+        "desc": "Chatt, e-post, telefon, portal eller delad Slack-kanal. Varje förfrågan hamnar i samma spårbara inkorg med ett tydligt SLA."
+      },
+      {
+        "id": "03",
+        "title": "Riktiga människor, snabbt",
+        "desc": "De flesta ändringar publiceras inom en timme. Större önskemål får en plan, ett kostnadsförslag och en granskning före driftsättning."
+      },
+      {
+        "id": "04",
+        "title": "Månatlig avstämning",
+        "desc": "Ett 30-minuters samtal varje månad för att gå igenom ärenden, färdplan och framtida planer — proaktivt, inte reaktivt."
+      }
+    ]
+  },
+  "responseDesk": {
+    "badge": "Supportdesk · live",
+    "title": "Välj en kanal. Se hur snabbt vi svarar.",
+    "description": "En realistisk inblick i en supporttråd under en dag – från första meddelande till publicerad fix.",
+    "meterLabel": "Live-svarstid",
+    "meterSuffix": "s",
+    "meterComparison": "Snabbare än 94 % av alla webbyråer",
+    "status": "Online",
+    "labels": {
+      "chatReply": "Svar i chatten",
+      "emergencySla": "SLA för nödfall"
+    },
+    "engineerInfo": {
+      "name": "Jordan R. · Din tekniker",
+      "status": "Live",
+      "typing": "Jordan skriver…"
+    },
+    "demos": {
+      "chat": {
+        "label": "Livechatt",
+        "sla": "snitt 42 s svarstid",
+        "lines": [
+          "Hej – kan vi byta ut huvudbilden på Aesthetic-sidan idag?",
+          "Absolut. Skicka filen när du vill – jag lägger upp den på ca 15 min.",
+          "Skickat. Kan du även lägga till Dr. Chen i medarbetarlistan?",
+          "Båda är nu live. Förhandsgranskningslänk kommer om 8 min ✅"
+        ]
+      },
+      "phone": {
+        "label": "Direktnummer",
+        "sla": "ingen telefonkö",
+        "lines": [
+          "📞 Ringer — klinikchef, LA Dermatology.",
+          "Hej Sara, det är Jordan här. Vad kan jag hjälpa till med?",
+          "Bokningswidgeten visar ett fel på iPhone.",
+          "Jag ser det. Publicerar en fix nu – tar ca 6 min. Häng kvar ett tag."
+        ]
+      },
+      "email": {
+        "label": "Prioriterad e-post",
+        "sla": "≤ 1 timme på Pro",
+        "lines": [
+          "Ämne: Uppdatera försäkringslistan för alla 6 mottagningar",
+          "Uppfattat – skickar ett utkast för godkännande om 20 min.",
+          "Godkänt. Ta även bort Aetna-loggan, vi tar inte längre emot dem.",
+          "Fixat på alla 6 sajter. Bekräftelse skickad via mejl ✅"
+        ]
+      },
+      "ticket": {
+        "label": "Ärendeportal",
+        "sla": "självservice 24/7",
+        "lines": [
+          "#4831 · Nytt: 'Lägg till spansk PDF för inskrivning på kontaktsidan'",
+          "Tilldelat mig. ETA: 45 min. Prioritet: normal.",
+          "Har bifogat filen. Kan du länka den från sidfoten också?",
+          "Publicerat och klart. Ärendet stängt med skärmdumpar ✅"
+        ]
+      }
+    }
+  },
+  "plans": {
+    "tag": "Supportavtal",
+    "title": "Personlig support till ett förutsägbart pris.",
+    "description": "Varje plan löper månadsvis med en dedikerad tekniker. Avsluta när du vill.",
+    "mostChosen": "Populärast",
+    "marketLabel": "Marknadspris:",
+    "choose": "Välj",
+    "cards": [
+      {
+        "name": "Starter",
+        "tag": "För den mindre mottagningen",
+        "price": "249 $",
+        "per": "/månad",
+        "sla": "≤ 4 tim svarstid",
+        "edits": "Ändringar: 2 tim / mån",
+        "market": "500 – 1 000 $ / mån",
+        "savings": "50–75 % billigare",
+        "features": [
+          "Dedikerad account engineer",
+          "E-post + ärendeportal",
+          "2 timmars redigering per månad",
+          "Support under kontorstid (9–18 ET)",
+          "Månatlig sammanfattningsrapport",
+          "Uppstartsmöte med genomgång"
+        ]
+      },
+      {
+        "name": "Professional",
+        "tag": "För medelstora kliniker",
+        "price": "549 $",
+        "per": "/månad",
+        "sla": "≤ 1 tim svarstid",
+        "edits": "Ändringar: 6 tim / mån",
+        "market": "1 100 – 2 500 $ / mån",
+        "savings": "50–78 % billigare",
+        "features": [
+          "Allt i Starter",
+          "Livechatt + prioriterad telefonlinje",
+          "6 timmars redigering per månad",
+          "Utökade öppettider (kl. 15–03)",
+          "Kvartalsvisa utbildningar",
+          "Hjälp med integrationer & analys",
+          "30 minuters strategimöte varje månad"
+        ]
+      },
+      {
+        "name": "Enterprise",
+        "tag": "Stora grupper & Mohs-kliniker",
+        "price": "1 299 $",
+        "per": "/månad",
+        "sla": "≤ 15 min nödfall",
+        "edits": "Ändringar: Obegränsat*",
+        "market": "2 800 – 5 500 $ / mån",
+        "savings": "54–76 % billigare",
+        "features": [
+          "Allt i Professional",
+          "Nödnummer dygnet runt",
+          "Delad kanal i Slack / Teams",
+          "Obegränsad* redigeringstid (fair use)",
+          "Ärendespårning per mottagning",
+          "Dedikerad back-up tekniker",
+          "Kvartalsvis verksamhetsöversyn"
+        ]
+      }
+    ]
+  },
+  "audiences": {
+    "tag": "Vilka vi stöttar",
+    "title": "Specialbyggt för alla typer av dermatologisk verksamhet.",
+    "items": [
+      {
+        "label": "Privata hudläkare",
+        "desc": "En direktlinje till en person som kan din sajt utan och innan – inga ärenden som försvinner."
+      },
+      {
+        "label": "Dermatologiska kliniker med flera lägen",
+        "desc": "Spårning av ändringar per plats, delad inkorg och en kontaktpunkt för alla era chefer."
+      },
+      {
+        "label": "Pediatrisk dermatologi",
+        "desc": "Redigering av patientinnehåll och uppdateringar av blanketter för föräldrar hanteras med stor omsorg."
+      },
+      {
+        "label": "Mohs-kirurgi & kirurgisk dermatologi",
+        "desc": "Ändringar i remissportaler och uppdateringar av läkare publiceras samma arbetsdag."
+      }
+    ]
+  },
+  "medicalServices": {
+    "tag": "Tjänstesidor vi hanterar",
+    "title": "Redigeringar och uppdateringar för alla era tjänster.",
+    "description": "Från akne till vitiligo — vi sköter uppdatering av innehåll, prisändringar, nya läkare och schema-uppdateringar på begäran.",
+    "items": [
+      "Aknebehandling",
+      "Eksembehandling",
+      "Psoriasisbehandling",
+      "Behandling av hudinfektioner",
+      "Hudallergibehandling",
+      "Screening & behandling av hudcancer",
+      "Bedömning & borttagning av födelsemärken",
+      "Borttagning av cystor & lipom",
+      "Vårtborttagning",
+      "Behandling av nagelsjukdomar",
+      "Diagnostik & behandling av håravfall",
+      "Behandling av hårbottensjukdomar",
+      "Rosaceabehandling",
+      "Hyperpigmentering & melasmabehandling",
+      "Ärrbehandling",
+      "Behandling av brännskadeärr",
+      "Vitiligobehandling",
+      "Hudbiopsi & diagnostiska ingrepp"
+    ]
+  },
+  "testimonials": {
+    "tag": "Vad våra kunder säger",
+    "title": "Hudläkare som äntligen känner sig trygga med supporten.",
+    "items": [
+      {
+        "name": "Dr. Ethan Caldwell, MD",
+        "role": "LA Dermatology",
+        "quote": "Jag sms:ar ett nummer, någon svarar på en minut och ändringen är live innan lunch. Det är allt. Hela recensionen."
+      },
+      {
+        "name": "Dr. Anika Vasquez, MD",
+        "role": "CM Surgical",
+        "quote": "De utbildade min reception i CMS:et via Zoom. Hälften av våra ärenden försvann över en natt – men de vi skickar in hanteras på 15 minuter."
+      },
+      {
+        "name": "Dr. Ibrahim Okafor, MD",
+        "role": "RS Institute · 6 kliniker",
+        "quote": "Sex chefer, sex listor med ändringar, en inkorg. Min tekniker känner till varje klinik vid namn. Det känns som ett internt team men utan lönekostnaderna."
+      }
+    ]
+  },
+  "faq": {
+    "tag": "FAQ",
+    "title": "Frågor och svar om webbsupport.",
+    "items": [
+      {
+        "q": "Hur skiljer sig detta från era underhållsplaner?",
+        "a": "Underhåll håller din sajt igång – uppdateringar, backuper, övervakning och säkerhet. Supporten är det mänskliga lagret ovanpå: en dedikerad tekniker du kan prata med, tid för redigering av innehåll och design, personalutbildning och hjälp med integrationer. De flesta mottagningar kombinerar båda."
+      },
+      {
+        "q": "Vad räknas som en 'redigeringstimme'?",
+        "a": "Allt arbete med innehåll, mindre designändringar eller konfiguration: uppdatera biografier, lägga till nya avsnitt på tjänstesidor, byta banners, fixa en trasig bokningslänk, ändra försäkringslistor, ladda upp före- och efterbilder eller publicera blogginlägg. Större designjobb eller nya funktioner offereras separat."
+      },
+      {
+        "q": "Hur snabbt svarar ni egentligen?",
+        "a": "Livechatten har ett snitt på 42 sekunder under kontorstid. Prioriterad e-post besvaras under 1 timme på Professional och Enterprise. Akuta ärenden på Enterprise-nivå eskaleras inom 15 minuter, dygnet runt, till din jourhavande tekniker."
+      },
+      {
+        "q": "Ger ni support på sajter som ni inte har byggt?",
+        "a": "Ja – WordPress, Webflow, egendesignade och 'headless' dermatologisajter. Vi börjar med en betald teknisk revision för att ta över sajten på ett säkert sätt och veta exakt vad vi ger support på."
+      },
+      {
+        "q": "Kan min personal beställa ändringar, eller bara läkarna?",
+        "a": "Alla teammedlemmar som du godkänner. De flesta kliniker ger åtkomst till läkaren, klinikchefen och marknadsansvarig. Varje förfrågan loggas i portalen med full historik."
+      },
+      {
+        "q": "Vad händer om jag inte använder mina timmar en månad?",
+        "a": "Upp till 50 % av outnyttjade timmar rullar över till nästa månad. Vi ser hellre att du får äkta värde än att vi hittar på onödigt arbete – de flesta kunder använder alla sina timmar och lite till."
+      },
+      {
+        "q": "Finns det någon bindningstid?",
+        "a": "Nej, vi kör månadsvis och du kan avsluta när du vill. Du behåller allt ditt innehåll, kod, inloggningsuppgifter och ärendehistorik om du väljer att sluta."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Möt teknikern som svarar på ditt nästa meddelande.",
+    "highlight": "Få en kostnadsfri offert.",
+    "description": "Vi går igenom din sajt, ditt teams behov av ändringar och ser vilken plan som passar bäst – sedan får du en skriftlig offert.",
+    "buttonQuote": "Starta ett supportavtal",
+    "buttonContact": "Kontakta oss"
+  },
+  "inboxWidget": {
+    "title": "Supportinkorg",
+    "status": "Idag · 5 öppna",
+    "replyMetric": "svar",
+    "engineer": {
+      "label": "Din tekniker",
+      "status": "Jordan R. · online"
+    },
+    "tickets": [
+      {
+        "id": "4821",
+        "subject": "Ny läkarbio + bild på Om oss-sidan",
+        "meta": "Dr. Caldwell · e-post · 18 min"
+      },
+      {
+        "id": "4822",
+        "subject": "Lägg till Aesthetic-banner för helgkampanj",
+        "meta": "Reception · Lumen · chatt · 9 min"
+      },
+      {
+        "id": "4823",
+        "subject": "Bokningswidget laddar inte i iPhone Safari",
+        "meta": "Dr. Vasquez · telefon · 22 min"
+      }
+    ]
+  },
+  "footerLinks": {
+    "preface": "Om du utvärderar support, se även:",
+    "maintenance": "proaktiva underhållsplaner",
+    "management": "helhetslösning för webbplatshantering",
+    "faq": "vanliga frågor om support"
+  }
+}

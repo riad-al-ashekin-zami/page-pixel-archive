@@ -1,0 +1,310 @@
+{
+  "meta": {
+    "title": "Sosiaalisen median markkinointi ihotautilääkäreille | Instagram, TikTok, Meta-mainonta",
+    "description": "Somemarkkinointia ihotautiklinikoille – Instagram, TikTok, Facebook, YouTube ja LinkedIn. HIPAA-yhteensopiva sisältö, kuukausittaiset kuvaukset klinikalla ja tulospohjainen maksettu mainonta.",
+    "og": {
+      "title": "Ihotautiklinikoiden some-markkinointi – Sisältöä, joka tuo varauksia",
+      "description": "Kokonaisvaltainen somen hallinta ihotautiklinikoille – videokuvaukset, Reels-painotteinen strategia, DM-hallinta ja varattuihin konsultaatioihin perustuva mainonta."
+    },
+    "twitter": {
+      "title": "Sosiaalisen median markkinointipalvelut ihotautiklinikoille",
+      "description": "Sisällöntuotanto ja maksetut kampanjat, joiden tavoitteena on ihotautiklinikan varatut konsultaatiot."
+    }
+  },
+  "jsonLd": {
+    "service": {
+      "name": "Sosiaalisen median markkinointi ihotautiklinikoille",
+      "provider": "DermatologyWebsiteDesign.com",
+      "description": "Kokonaisvaltainen sosiaalisen median hallinta, sisällöntuotanto ja maksettu mainonta ihotautiklinikoille tulospohjaisesti."
+    },
+    "breadcrumbs": {
+      "home": "Etusivu",
+      "services": "Palvelut",
+      "social": "Sosiaalinen media"
+    }
+  },
+  "hero": {
+    "badge": "Ihotautiklinikoiden some-markkinointi",
+    "heading": "Sisältöä, joka rakentaa luottamusta – ja tuo uusia potilaita.",
+    "description": "Täyden palvelun some-markkinointia ihotautiklinikoille – Instagram, TikTok, Facebook, YouTube ja LinkedIn. Kuukausittaiset kuvaukset, HIPAA-turvalliset tekstit, DM-viestien hallinta ja varattuihin aikoihin perustuva mainonta.",
+    "cta": {
+      "audit": "Tilaa ilmainen auditointi",
+      "platforms": "Tutustu kanaviin"
+    },
+    "stats": [
+      {
+        "label": "312 %",
+        "value": "Seuraajamäärän kasvu"
+      },
+      {
+        "label": "48+",
+        "value": "Varausta kuukaudessa"
+      },
+      {
+        "label": "5,4 milj.",
+        "value": "Reels-katselua vuodessa"
+      },
+      {
+        "label": "HIPAA",
+        "value": "Turvallinen sisältö"
+      }
+    ],
+    "trust": {
+      "imgAlt": "Ihotautiklientti",
+      "rating": "4.9/5",
+      "subtext": "Yli 50 ihotautiklinikan luottokumppani",
+      "badge": "HIPAA-safe"
+    }
+  },
+  "socialMock": {
+    "handle": "@yourdermpractice",
+    "status": "Erikoislääkärit · 24.8k",
+    "live": "live",
+    "imgAlt": "Ihotautiklinikan Instagram-syötteen esikatselu, jossa ihonhoitosisältöä",
+    "metrics": {
+      "reach": "Tavoittavuus",
+      "dms": "Yhteydenotot",
+      "booked": "Varattu"
+    },
+    "reels": [
+      {
+        "label": "Reels — Aknerutiini",
+        "value": "1.2M"
+      },
+      {
+        "label": "Reels — Mohs-leikkaus",
+        "value": "342k"
+      },
+      {
+        "label": "Kuva — Asiantuntijaesittely",
+        "value": "58k"
+      }
+    ],
+    "outcome": "+48 varausta tässä kuussa",
+    "timeframe": "30 vrk"
+  },
+  "sections": {
+    "platforms": {
+      "badge": "Kanavahallinta",
+      "heading": "Kuusi kanavaa. Yksi tavoite: varatut ajat.",
+      "description": "Jokaisella alustalla on oma sisältömuotonsa, julkaisutahtinsa ja mittarinsa – emme harrasta pelkkää kopiointia kanavien välillä.",
+      "items": [
+        {
+          "title": "Instagramin kasvu",
+          "desc": "Reels-painotteinen strategia – ennen/jälkeen-karusellit, asiantuntijaesittelyt ja DM-myyntiputket ihotautipotilaan polulle optimoituna."
+        },
+        {
+          "title": "TikTok ihotautilääkäreille",
+          "desc": "Lyhytvideoita ihon hoidosta, jotka sijoittuvat korkealle TikTok- ja Google-hauissa – aina HIPAA-yhteensopivasti."
+        },
+        {
+          "title": "Facebook & Meta Ads",
+          "desc": "Paikallinen näkyvyys, Lookalike-yleisöt ja liidikampanjat, joiden hinta perustuu varattuihin aikoihin – ei pelkkiin seuraajiin."
+        },
+        {
+          "title": "YouTube Shorts ja pitkät videot",
+          "desc": "Toimenpidevideot, asiantuntija-Q&A:t ja ikivihreä sisältö, joka löytyy Googlesta ja YouTubesta vuodesta toiseen."
+        },
+        {
+          "title": "LinkedIn ammattilaisille",
+          "desc": "Henkilöbrändäys ihotautien erikoislääkäreille – asiantuntijamielikuva, verkostoituminen ja huippuprofiili kollegoiden silmissä."
+        },
+        {
+          "title": "DM & Yhteisönhallinta",
+          "desc": "Koulutetut vastauspohjat, 4 tunnin vastausviive, PHI-suodatetut vastaukset ja suora ohjaus ajanvaraukseen."
+        }
+      ]
+    },
+    "outcomes": {
+      "heading": "Todistetut tulokset",
+      "items": [
+        {
+          "k": "312 %",
+          "v": "Seuraajien kasvu 90 päivässä"
+        },
+        {
+          "k": "48+",
+          "v": "Instagramista varattua aikaa / kk"
+        },
+        {
+          "k": "5,4 milj.",
+          "v": "Orgaanista Reels-katselua (12 kk keskiarvo)"
+        },
+        {
+          "k": "4,9",
+          "v": "Brändin mielikuvapisteet"
+        }
+      ],
+      "quote": "\"Siirryimme kerran viikossa postaamisesta täysivaltaiseen järjestelmään. Seuraajamäärä kolminkertaistui, mutta todella merkittävä luku on Instagram-varausten nousu neljästä jopa 48:aan kuukaudessa.\"",
+      "author": "Dr. Priya Anand · Ihotautiklinikka"
+    },
+    "pillars": {
+      "badge": "Sisällön kulmakivet",
+      "heading": "Kuusi teemaa, joka kuukausi, joka kanavassa.",
+      "description": "90 päivän sisältösuunnitelmamme yhdistää jokaisen videon ja postauksen suoraan tiettyyn palveluun ja varaustavoitteeseen. Ei satunnaista postaamista.",
+      "items": [
+        "Asiantuntijaesittelyt ja lääketieteellisen uskottavuuden rakentaminen",
+        "Ihosairauksien tietopankki (akne, ekseema, ruusufinni, psoriasis)",
+        "Ennen ja jälkeen -muutokset potilaan suostumuksella",
+        "Klinikkavideot – hoidot, teknologia ja tilojen esittely",
+        "UKK ja myyttien murtaminen lyhytvideoilla",
+        "Kausittaiset ihonhoito- ja aurinkosuojakampanjat"
+      ]
+    },
+    "audiences": {
+      "badge": "Kenelle palvelumme on?",
+      "heading": "Rakennettu jokaiselle ihotautialan toimijalle.",
+      "description": "Yksityislääkärit, monitoimipaikkaklinikat tai kirurgiset yksiköt – räätälöimme strategian klinikkasi äänen ja potilaspohjan mukaan.",
+      "items": [
+        {
+          "title": "Yksityisvastaanotot",
+          "desc": "Lääkärivetoinen somestrategia – sinun äänesi, kasvosi ja potilaasi. Kuvaukset kerran kuussa, julkaisut viikoittain."
+        },
+        {
+          "title": "Suuret lääkäriasemat",
+          "desc": "Yhtenäinen brändi, toimipistekohtaiset kalenterit ja henkilöstön tuottama sisältö hallittuna yhdestä paikasta."
+        },
+        {
+          "title": "Lasten ihotautilääkärit",
+          "desc": "Vanhemmille suunnattu sisältö – rauhoittavat tekstit, oikea-aikaiset postaukset ja kliinisen tiimin hyväksymät kuvat."
+        },
+        {
+          "title": "Mohs- ja kirurginen dermatologia",
+          "desc": "Asiantuntijuuden korostaminen LinkedInissä, potilasopastusvideot ja suostumusvetoiset ennen/jälkeen-prosessit."
+        }
+      ]
+    },
+    "medical_services": {
+      "badge": "Sisältöaiheet",
+      "heading": "Jokainen sairaus. Jokainen hoito. Jokainen varaus.",
+      "description": "Jokainen lääketieteellinen palvelu saa oman sisältöteemansa ja avainsanakartan potilaan hakupolun mukaisesti.",
+      "items": [
+        "Aknen hoito",
+        "Atooppinen ihottuma ja ekseema",
+        "Psoriasiksen hoito",
+        "Ihoinfektioiden hoito",
+        "Ihoallergiat",
+        "Luomitarkastukset ja ihosyövän hoito",
+        "Lääketieteelliset luomenpoistot",
+        "Kystien ja lipoomien poisto",
+        "Syylien poisto",
+        "Kynsisairauksien hoito",
+        "Hiustenlähdön diagnostiikka ja hoito",
+        "Hiuspohjan sairauksien hoito",
+        "Ruusufinnin hoito",
+        "Pigmenttimuutosten ja melasman hoito",
+        "Arpien hoito (vammat, leikkaukset)",
+        "Palovammojen jälkihoito",
+        "Vitiligon hoito",
+        "Ihon koepalat ja diagnostiikka"
+      ]
+    },
+    "workflow": {
+      "badge": "Miten se toimii?",
+      "heading": "90 päivän lähtölaukaus. Sen jälkeen jatkuva kasvu.",
+      "description": "Läpinäkyvät virstanpylväät, jotka on sidottu varattuihin aikoihin – ei pelkkiin turhiin tykkäyksiin.",
+      "items": [
+        {
+          "step": "01",
+          "phase": "Vaihe 01",
+          "title": "Brändi- ja sisältöauditointi",
+          "desc": "Äänensävy, visuaalinen linja, kilpailija-analyysi ja 90 päivän sisältösuunnitelma klinikkasi palveluiden mukaan."
+        },
+        {
+          "step": "02",
+          "phase": "Vaihe 02",
+          "title": "Kuukausittaiset kuvaukset",
+          "desc": "Yksi kuvauspäivä kuukaudessa tuottaa kaiken tarvittavan: Reels-videot, asiantuntijaesittelyt ja potilaskokemukset."
+        },
+        {
+          "step": "03",
+          "phase": "Vaihe 03",
+          "title": "Julkaisu, vuorovaikutus, optimointi",
+          "desc": "Ajastus kaikkiin kanaviin. Päivittäinen DM-viestien hoito. Viikoittainen analytiikka suhteessa varattuihin aikoihin."
+        },
+        {
+          "step": "04",
+          "phase": "Vaihe 04",
+          "title": "Tulosten skaalaus mainonnalla",
+          "desc": "Parhaiten toimivien orgaanisten postausten vahvistaminen mainoksilla – uudelleenmarkkinointi verkkosivukävijöille."
+        }
+      ]
+    },
+    "why_us": {
+      "badge": "Miksi valita meidät?",
+      "heading": "Erikoistunut kumppani, ei yleismarkkinointitoimisto.",
+      "items": [
+        {
+          "title": "HIPAA-varmistettu prosessi",
+          "desc": "Kirjalliset luvat jokaisesta potilasvideosta. DM-vastauspohjat on turvattu, ja tekstit tarkistetaan vaatimustenmukaisuuden vuoksi."
+        },
+        {
+          "title": "Kuukausittaiset kuvaukset klinikalla",
+          "desc": "Yksi kuvauspäivä = 3–4 viikon sisällöt. Teidän ei tarvitse murehtia materiaalin tuottamisesta arjen keskellä."
+        },
+        {
+          "title": "Yhtenäinen ja laadukas design",
+          "desc": "Sama visuaalinen linja väreistä typografiaan kaikilla kanavilla – klinikkasi näyttää arvostetulta ja ammattimaiselta."
+        },
+        {
+          "title": "Reels-painotteinen strategia",
+          "desc": "Lyhytvideo on kasvun moottori. Jokainen teema luodaan ensin videomuotoon ja jaetaan sitten muihin kanaviin."
+        },
+        {
+          "title": "DM- ja yhteisöhallinta",
+          "desc": "Vastaamme puolestanne 4 tunnin kuluessa ja ohjaamme kyselyt suoraan ajanvaraukseen. Ei hukattuja liidejä."
+        },
+        {
+          "title": "Varaukset, ei tykkäykset",
+          "desc": "Kuukausiraporttimme yhdistää tavoittavuuden suoraan toteutuneisiin varauksiin ja palvelukohtaiseen liikevaihtoon."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "Kysymyksiä, joita ihotautilääkärit usein kysyvät.",
+    "items": [
+      {
+        "q": "Miten some eroaa Google-mainonnasta ihotautiklinikalle?",
+        "a": "Google-mainonta vastaa olemassa olevaan kysyntään, kuten 'ihotautilääkäri lähelläni'. Sosiaalinen media taas luo kysyntää ja rakentaa luottamusta. Kun potilas lopulta tekee haun Googlesta, hän valitsee klinikan, jonka asiantuntijuuden hän jo tuntee somesta. Some laskee Google-mainonnan kustannuksia pitkällä aikavälillä."
+      },
+      {
+        "q": "Ovatko somepostaukset HIPAA-yhteensopivia?",
+        "a": "Kyllä. Ennen ja jälkeen -kuvia sekä potilaskertomuksia julkaistaan vain kirjallisella, palvelukohtaisella suostumuksella. DM-vastauksissa emme anna diagnooseja tai hoitosuosituksia, vaan tarjoamme vain ajanvarausmahdollisuutta."
+      },
+      {
+        "q": "Kuvaatteko te sisällön vai me?",
+        "a": "Me kuvaamme. Yksi säännöllinen kuvauspäivä kuukaudessa klinikallanne kattaa 3–4 viikon tarpeet. Jos klinikallanne on jo oma sisällöntuottaja, voimme toimia hybridimallilla: me käsikirjoitamme, editoimme ja julkaisemme hänen raakamateriaalinsa."
+      },
+      {
+        "q": "Mikä on sitoutumisaika?",
+        "a": "90 päivää. Sosiaalinen media vaatii aikaa tuottaakseen tulosta – 30 päivää ei riitä analysoimaan dataa. Alkujakson jälkeen voitte jatkaa toistaiseksi voimassa olevalla sopimuksella 30 päivän irtisanomisajalla."
+      },
+      {
+        "q": "Hallinnoitteko te myös maksettua mainontaa?",
+        "a": "Kyllä. Meta- ja TikTok-mainoskampanjat sisältyvät kasvusopimukseen. Tehostamme parhaita orgaanisia postauksia ja ajamme kohdennettuja kampanjoita, joiden hinta lasketaan varattua aikaa kohden."
+      },
+      {
+        "q": "Toimiiko palvelu monitoimipaikkaisille klinikoille?",
+        "a": "Kyllä – hallinnoimme toimipistekohtaisia kalentereita yhden brändijärjestelmän alla. Tarjoamme paikkakohtaiset mainokset ja raportoinnin yhteen koottuna."
+      }
+    ]
+  },
+  "cta": {
+    "badge": "Ilmainen auditointi",
+    "heading": "Selvitä 48 tunnissa, miksi somesi ei tuota tarpeeksi varauksia.",
+    "description": "Sisältöanalyysi, kilpailijavertailu, avainsanakartta ja 90 päivän suunnitelma varattujen aikojen kasvattamiseksi. Ilmaiseksi, ilman myyntipuheita.",
+    "primary": "Tilaa ilmainen analyysi",
+    "secondary": "Pyydä tarjous"
+  },
+  "sticky_footer": {
+    "label": "Ilmainen some-auditointi – 48 h",
+    "button": "Tilaa"
+  },
+  "internal_links": {
+    "prefix": "Lue myös: ",
+    "reputation": "viiden tähden arvosteluiden kerääminen",
+    "email": "sähköpostimarkkinointi palaaville potilaille",
+    "gallery": "ennen ja jälkeen -kuvagalleria"
+  }
+}

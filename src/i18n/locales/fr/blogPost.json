@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "notFoundTitle": "Article introuvable — Blog DermGrowth",
+    "titleSuffix": "— Blog DermGrowth",
+    "keywordsTemplate": "{{category}}, marketing pour dermatologues, {{title}}",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+    "robotsNoindex": "noindex",
+    "ogType": "article",
+    "publisherName": "DermGrowth"
+  },
+  "breadcrumb": {
+    "home": "Accueil",
+    "blog": "Blog"
+  },
+  "notFound": {
+    "code": "404",
+    "title": "Article introuvable.",
+    "description": "L'article que vous recherchez a peut-être été déplacé ou renommé.",
+    "backButton": "Retour au blog"
+  },
+  "header": {
+    "nav": {
+      "blog": "Blog"
+    },
+    "meta": {
+      "readTimeSuffix": "min de lecture"
+    }
+  },
+  "actions": {
+    "allArticles": "Tous les articles",
+    "share": "Partager",
+    "shareOnFacebook": "Partager sur Facebook",
+    "shareOnX": "Partager sur X",
+    "shareOnLinkedIn": "Partager sur LinkedIn",
+    "shareOnTumblr": "Partager sur Tumblr",
+    "openInstagram": "Suivez-nous sur Instagram"
+  },
+  "faq": {
+    "badge": "FAQ",
+    "heading": "Questions fréquentes"
+  },
+  "related": {
+    "badge": "À découvrir",
+    "heading": "Actualités : {{category}}",
+    "viewAll": "Tout voir",
+    "readLabel": "Lire : {{title}}",
+    "readTimeSuffix": "min"
+  },
+  "footerCta": {
+    "prefix": "Si cet article vous a intéressé, découvrez :",
+    "moreArticles": "plus de conseils stratégiques pour votre cabinet",
+    "caseStudies": "les résultats concrets de nos clients",
+    "freeAudit": "un audit gratuit de votre site actuel"
+  }
+}

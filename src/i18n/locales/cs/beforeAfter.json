@@ -1,0 +1,329 @@
+{
+  "meta": {
+    "title": "Dermatologická galerie Před a Po — přehlídka prémiových výsledků",
+    "description": "Prémiová galerie Před a Po pro dermatologické ambulance splňující normy HIPAA. Posuvník s plynulým přechodem, chytré filtry podle obtíží a lékaře, časové osy a tlačítka pro rezervaci konzultací.",
+    "ogTitle": "Dermatologická galerie Před a Po — přehlídka prémiových výsledků",
+    "ogDescription": "Interaktivní posuvník, souhlasy v souladu s HIPAA, chytré filtry a konverzní prvky pro rezervaci konzultací – vytvořeno přímo pro dermatology.",
+    "jsonLdName": "DermatologyWebsiteDesign.com",
+    "jsonLdServiceType": "Design dermatologické galerie Před a Po"
+  },
+  "hero": {
+    "badge": "Galerie Před a Po",
+    "headingMain": "Ukažte výsledky.",
+    "headingAccent": "Získejte více pacientů.",
+    "description": "Prémiová galerie Před a Po navržená pro dermatologickou praxi s důrazem na HIPAA. Nabízí srovnání tahem, chytré filtry, časové osy a rezervaci konzultace na jedno kliknutí.",
+    "ctaBuild": "Vytvořit mou galerii",
+    "ctaAudit": "Audit galerie zdarma",
+    "features": [
+      "Souhlasy v souladu s HIPAA",
+      "Plynulý srovnávací posuvník",
+      "Chytré filtrování",
+      "60fps na mobilu"
+    ],
+    "imageAlt": "Léčba akné před a po — výsledek po 3 měsících",
+    "imageCaption": "Zkuste posuvník — je to interaktivní.",
+    "imageStats": "Akné · 3 měsíce · Dr. Vasquezová"
+  },
+  "stats": [
+    {
+      "value": "2500+",
+      "label": "Zdokumentovaných případů v ostrém provozu"
+    },
+    {
+      "value": "100%",
+      "label": "Zajištění souhlasů HIPAA při každém nahrání"
+    },
+    {
+      "value": "60fps",
+      "label": "Plynulost posuvníku na mobilu, tabletu i desktopu"
+    },
+    {
+      "value": "95+",
+      "label": "Průměrné skóre Lighthouse u stránek galerie"
+    }
+  ],
+  "pillars": {
+    "heading": "Každý detail je navržen pro konverzi.",
+    "subheading": "Šest pilířů, které odlišují profesionální dermatologickou galerii od náhodné sítě fotek.",
+    "items": [
+      {
+        "title": "Interaktivní posuvník",
+        "desc": "Srovnání před a po tahem s dokonale plynulou interakcí 60fps na každém zařízení."
+      },
+      {
+        "title": "Chytré filtrování",
+        "desc": "Filtrujte podle diagnózy, léčby, lékaře, typu pleti nebo Fitzpatrickovy stupnice — výsledky jsou okamžité."
+      },
+      {
+        "title": "Studiová kvalita snímků",
+        "desc": "Návody pro konzistentní osvětlení, vzdálenost a úhel, aby každá proměna vypadala profesionálně."
+      },
+      {
+        "title": "Souhlasy dle HIPAA",
+        "desc": "Integrovaný sběr souhlasů pacienta, proces odvolání a auditní stopa u každého nahraného případu."
+      },
+      {
+        "title": "Časové milníky",
+        "desc": "Srovnání po 2 týdnech, měsíci či půl roce u procedur, jejichž výsledek se rozvíjí postupně."
+      },
+      {
+        "title": "Přiřazení lékaře",
+        "desc": "Každý případ je propojen s ošetřujícím lékařem — budování důvěry, kreditu a sítě doporučení přímo v galerii."
+      }
+    ]
+  },
+  "gallery": {
+    "heading": "Galerie v akci.",
+    "subheading": "Interaktivní ukázky případů. Filtrujte podle diagnózy — u každé karty můžete porovnávat tahem.",
+    "filterLabel": "Filtr",
+    "filters": [
+      "Vše",
+      "Akné",
+      "Melasma",
+      "Rosacea",
+      "Korekce jizev",
+      "Vypadávání vlasů",
+      "Vitiligo"
+    ],
+    "card": {
+      "beforeLabel": "Před",
+      "afterLabel": "Po",
+      "ariaLabel": "Posuvník pro srovnání před a po",
+      "dragAriaLabel": "Tahem porovnejte",
+      "bookCTA": "Objednat se na tuto léčbu"
+    },
+    "cases": [
+      {
+        "concern": "Akné",
+        "months": "3 měsíce",
+        "severity": "Středně těžké",
+        "provider": "Dr. Vasquezová",
+        "desc": "Kombinovaný protokol s retinoidy + LED, zdokumentované vymizení PIH po 12 týdnech."
+      },
+      {
+        "concern": "Melasma",
+        "months": "4 měsíce",
+        "severity": "Hluboké dermální",
+        "provider": "Dr. Okafor",
+        "desc": "Kombinovaný bělící krém + přísná SPF disciplína. Fitzpatrick IV."
+      },
+      {
+        "concern": "Rosacea",
+        "months": "6 měsíců",
+        "severity": "Papulopustulózní",
+        "provider": "Dr. Caldwell",
+        "desc": "Cévní laser + perorální léčba — redukce erytému na tvářích a nose."
+      },
+      {
+        "concern": "Korekce jizev",
+        "months": "5 měsíců",
+        "severity": "Atrofické jizvy po akné",
+        "provider": "Dr. Vasquezová",
+        "desc": "Série frakční rejuvenace (4x). Obnova textury pleti bez ztráty pigmentu."
+      },
+      {
+        "concern": "Vypadávání vlasů",
+        "months": "9 měsíců",
+        "severity": "Androgenetická (Ludwig II)",
+        "provider": "Dr. Okafor",
+        "desc": "PRP + medikamentózní léčba — naměřená obnova hustoty v temporální a vertexové zóně."
+      },
+      {
+        "concern": "Vitiligo",
+        "months": "12 měsíců",
+        "severity": "Segmentální obličejové",
+        "provider": "Dr. Caldwell",
+        "desc": "Úzkopásmové UVB + lokální inhibitor kalcineurinu. Probíhající repigmentace."
+      }
+    ]
+  },
+  "timeline": {
+    "badge": "Časová osa",
+    "heading": "Sledujte průběh léčby týden po týdnu.",
+    "subheading": "U procedur, kde se výsledky nedostaví přes noc — plynulá časová osa, která pacientům dodá realistické očekávání i naději.",
+    "caseDetails": "Melasma · Fitzpatrick IV · Dr. Vasquezová",
+    "caseDesc": "Protokol s bělícími látkami s denním širokospektrálním SPF. Milníky zdokumentované v týdnu 0, 4, 12 a 24 — pacienti vidí celou cestu, nejen výsledek.",
+    "stages": [
+      {
+        "label": "Týden 0",
+        "short": "Výchozí stav"
+      },
+      {
+        "label": "Týden 4",
+        "short": "První reakce"
+      },
+      {
+        "label": "Týden 12",
+        "short": "Bod zlomu"
+      },
+      {
+        "label": "Týden 24",
+        "short": "Trvalý výsledek"
+      }
+    ]
+  },
+  "trustBar": {
+    "label": "Důvěřují nám dermatologické kliniky uvedené v",
+    "marks": [
+      {
+        "name": "Dermatologické weby",
+        "sub": "50+ spuštěných"
+      },
+      {
+        "name": "HIPAA-Aware",
+        "sub": "Standardně"
+      },
+      {
+        "name": "SLA dostupnost",
+        "sub": "99,99 %"
+      },
+      {
+        "name": "Krizová podpora",
+        "sub": "<15 min"
+      },
+      {
+        "name": "Měsíční platba",
+        "sub": "Bez závazků"
+      },
+      {
+        "name": "Plné vlastnictví",
+        "sub": "Kód i obsah"
+      }
+    ]
+  },
+  "audiences": {
+    "heading": "Pro každou dermatologickou praxi.",
+    "subheading": "Individuální ordinace, kliniky s více pobočkami i chirurgická pracoviště — jedna galerie vyladěná pro všechny.",
+    "items": [
+      {
+        "label": "Samostatní dermatologové",
+        "desc": "Prezentujte své výsledky v galerii, která promění zájemce ve skutečné pacienty."
+      },
+      {
+        "label": "Sítě klinik",
+        "desc": "Filtrování dle poboček a lékařů zajistí, že každé pracoviště získá uznání za své úspěchy."
+      },
+      {
+        "label": "Dětská dermatologie",
+        "desc": "Bezpečné procesy souhlasů pro rodiče, anonymizace prvků a citlivé vizuální zpracování."
+      },
+      {
+        "label": "Mohsova a chirurgická dermatologie",
+        "desc": "Galerie chirurgických výsledků s fázemi hojení a poznámkami pro doporučující lékaře."
+      }
+    ]
+  },
+  "medicalServices": {
+    "heading": "Zdokumentujeme každou dermatologickou službu.",
+    "subheading": "Protokoly a šablony fotografií předpřipravené pro zákroky, které pacienti hledají nejčastěji.",
+    "list": [
+      "Léčba akné",
+      "Léčba ekzému",
+      "Léčba lupénky",
+      "Léčba kožních infekcí",
+      "Léčba kožních alergií",
+      "Screening rakoviny kůže",
+      "Vyšetření a odstranění mateřských znamének",
+      "Odstranění cyst a lipomů",
+      "Odstraňování bradavic",
+      "Léčba onemocnění nehtů",
+      "Léčba vypadávání vlasů",
+      "Léčba onemocnění pokožky hlavy",
+      "Léčba rosacey",
+      "Hyperpigmentace a melasma",
+      "Léčba jizev",
+      "Léčba jizev po popáleninách",
+      "Léčba vitiliga",
+      "Kožní biopsie a diagnostika"
+    ]
+  },
+  "flow": {
+    "heading": "Od fotky k rezervaci konzultace.",
+    "subheading": "Pracovní postup o čtyřech krocích, který zvládne vaše recepce — bez vývojářů.",
+    "steps": [
+      {
+        "num": "01",
+        "title": "Založení případu",
+        "desc": "Strukturovaný fotoprotokol — úhel, vzdálenost, světlo a neutrální pozadí zachycené při každé návštěvě."
+      },
+      {
+        "num": "02",
+        "title": "Souhlas a štítkování",
+        "desc": "Pacient podepisuje rozsah souhlasu (web, tisk, sítě – každý zvlášť). Případy jsou rozřazeny dle diagnózy a lékaře."
+      },
+      {
+        "num": "03",
+        "title": "Schválení a publikace",
+        "desc": "Váš tým publikuje případ do galerie dvěma kliknutími. Posuvník, filtry i časová osa jsou vytvořeny automaticky."
+      },
+      {
+        "num": "04",
+        "title": "Konverze na konzultace",
+        "desc": "Každá karta má tlačítko 'Objednat se', které nasměruje pacienta na správnou službu a vstupní formulář."
+      }
+    ]
+  },
+  "testimonials": {
+    "heading": "Dermatologové, co mají výsledky.",
+    "subheading": "Skutečné kliniky, reálné přínosy galerie.",
+    "items": [
+      {
+        "name": "Dr. Ethan Caldwell, MD",
+        "role": "LA Dermatology",
+        "quote": "Naše galerie Před a Po je nyní hned po úvodní straně nejnavštěvovanější částí webu. Počet rezervací z této sekce se za 90 dní ztrojnásobil."
+      },
+      {
+        "name": "Dr. Anika Vasquezová, MD",
+        "role": "CM Surgical",
+        "quote": "Už jen ten proces získávání souhlasů stál za to. Konečně můžeme publikovat chirurgické výsledky bez obav z právních komplikací."
+      },
+      {
+        "name": "Dr. Ibrahim Okafor, MD",
+        "role": "RS Institute · 6 poboček",
+        "quote": "Filtrování podle lékařů změnilo vše. Každý náš doktor má teď portfolio, které může hrdě prezentovat kolegům."
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Časté dotazy ke galerii.",
+    "subheading": "HIPAA, souhlasy, rychlost a co obnáší spuštění.",
+    "items": [
+      {
+        "q": "Jak řešíte HIPAA a souhlasy pacientů?",
+        "a": "Každý případ vyžaduje elektronický souhlas s časovým razítkem a volitelnými právy pro web, tisk a sociální sítě. Systém obsahuje proces odvolání souhlasu, který případ odstraní do 24 hodin."
+      },
+      {
+        "q": "Lze případy filtrovat podle lékaře, léčby a typu pleti?",
+        "a": "Ano. Každý případ lze označit diagnózou, protokolem, Fitzpatrickovým typem pleti, závažností, lékařem a dobou léčby. Návštěvníci filtrují v reálném čase."
+      },
+      {
+        "q": "Jakou kvalitu fotografií vyžadujete?",
+        "a": "Dodáváme fotoprotokol (úhel, vzdálenost, pozadí, osvětlení) a nabízíme zaškolení personálu. Systém sám upozorní na nesourodé snímky před jejich zveřejněním."
+      },
+      {
+        "q": "Je srovnávací posuvník vhodný pro mobily?",
+        "a": "Ano. Ovládání tahem, přibližování prsty a přecházení mezi případy je optimalizováno na 60fps. Ovládací prvky splňují standardy přístupnosti."
+      },
+      {
+        "q": "Můžeme zobrazovat chirurgické výsledky (Mohsova chirurgie, excize)?",
+        "a": "Ano — s fázemi hojení (2. týden / 1. měsíc atd.) a volitelným varováním před grafickým obsahem. Chirurgické případy lze doplnit odbornými poznámkami."
+      },
+      {
+        "q": "Nezpomalí galerie můj web?",
+        "a": "Ne. Obrázky jsou líně načítány (lazy-loading), servírovány ve formátech AVIF/WebP přes CDN a progresivně vykreslovány. Galerie si drží Lighthouse skóre 95+."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Chcete proměnit výsledky v zisk?",
+    "subheading": "Získejte galerii Před a Po navrženou speciálně pro dermatologii — v souladu s HIPAA, bleskově rychlou a připravenou prodávat vaše služby.",
+    "btnQuote": "Získat cenovou nabídku",
+    "btnContact": "Kontaktujte nás"
+  },
+  "footerLinks": {
+    "prefix": "Mohlo by vás zajímat:",
+    "link1": "webdesign pro dermatologické ambulance",
+    "link2": "jak sociální sítě zesilují výsledky",
+    "link3": "příběhy růstu skutečných klinik"
+  }
+}

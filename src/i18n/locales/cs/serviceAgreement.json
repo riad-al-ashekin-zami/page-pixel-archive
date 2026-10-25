@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "title": "Smlouva o poskytování služeb — Podmínky spolupráce",
+    "description": "Smlouva o poskytování služeb upravující projekty mezi naším studiem a dermatologickými ordinacemi – rozsah, výstupy, platby, duševní vlastnictví, důvěrnost, záruky a ukončení.",
+    "page_title": "Smlouva o poskytování služeb — Podmínky spolupráce",
+    "page_description": "Smlouva o poskytování služeb upravující projekty mezi naším studiem a dermatologickými ordinacemi – rozsah, výstupy, platby, duševní vlastnictví, důvěrnost, záruky a ukončení."
+  },
+  "common": {
+    "skip_to_content": "Přejít k obsahu",
+    "last_updated": "Poslední aktualizace:",
+    "last_updated_date": "14. července 2026"
+  },
+  "hero": {
+    "badge": "Právní náležitosti · Smlouva o poskytování služeb",
+    "h1": "Smlouva o poskytování služeb",
+    "description": "Srozumitelné podmínky, které upravují design, vývoj a průběžnou spolupráci mezi naším studiem a vaší praxí. Čtěte prosím společně s návrhem projektu nebo zadáním práce (SOW)."
+  },
+  "sections": {
+    "toc_title": "Obsah",
+    "navigation_aria_label": "Navigace sekce",
+    "parties": {
+      "title": "1. Smluvní strany a souhlas",
+      "body": "Tato Smlouva o poskytování služeb (dále jen „Smlouva“) se uzavírá mezi naším studiem (dále jen „Poskytovatel“ nebo „my“) a ordinací, subjektem nebo jednotlivcem uvedeným v přiloženém návrhu nebo zadání práce (dále jen „Klient“ nebo „vy“). Podpisem návrhu, složením zálohy nebo jiným pokynem k zahájení prací vyjadřujete souhlas s níže uvedenými podmínkami."
+    },
+    "scope": {
+      "title": "2. Rozsah služeb",
+      "body": "Konkrétní služby, výstupy, milníky a časové harmonogramy jsou definovány v návrhu nebo v zadání práce („SOW“), které na tuto Smlouvu odkazuje. Cokoli nad rámec SOW – nové stránky, integrace navíc, další kola revizí nebo změna rozsahu po schválení – je považováno za změnový list a bude naceněno samostatně v písemné formě."
+    },
+    "fees": {
+      "title": "3. Poplatky a platby",
+      "items": [
+        "Pro naplánování a zahájení prací je vyžadována nevratná záloha ve výši 50 %.",
+        "Zbytek částky je fakturován podle milníků v SOW; konečný zůstatek je splatný před spuštěním ostrého provozu nebo předáním souborů.",
+        "Faktury jsou splatné do 7 dnů. U faktur po splatnosti naskakuje měsíční úrok ve výši 1,5 % a práce mohou být pozastaveny až do vyrovnání zůstatku.",
+        "Pravidelné plány (hosting, správa, paušály) jsou fakturovány měsíčně předem."
+      ]
+    },
+    "timeline": {
+      "title": "4. Harmonogram a odpovědnost klienta",
+      "body": "Časové plány předpokládají reakce na revize a požadavky na obsah do 3 pracovních dnů. Prodlení v poskytování zpětné vazby, dodání obsahu nebo schvalování třetími stranami posouvá harmonogram o odpovídající dobu. Odpovídáte za poskytnutí přesného obsahu, značkových prvků a přístupových údajů a za zajištění toho, že vámi dodaný obsah je pravdivý a neporušuje cizí práva."
+    },
+    "revisions": {
+      "title": "5. Revize",
+      "body": "Každý výstup zahrnuje dvě kola souhrnných revizí, pokud SOW nestanoví jinak. Revize požadované po písemném schválení dané fáze nebo revize nad rámec zahrnutých kol jsou účtovány podle naší aktuální hodinové sazby."
+    },
+    "ip": {
+      "title": "6. Duševní vlastnictví",
+      "body": "Po úplném zaplacení se stáváte vlastníky finálních výstupů vytvořených přímo pro vás – tedy webového designu, vlastního kódu a obsahu vytvořeného v rámci SOW. Ponecháváme si práva k již existujícím frameworkům, nástrojům a obecným komponentám použitým při tvorbě a udělujeme vám trvalou licenci k jejich používání v rámci vašeho projektu. Hotové dílo můžeme uvést v našem portfoliu a případových studiích, pokud písemně nepožádáte o opak."
+    },
+    "third_party": {
+      "title": "7. Služby třetích stran",
+      "body": "Projekty mohou využívat služby třetích stran (hosting, CMS, analytika, integrace EHR/rezervačních systémů, DNS, platební brány). Jste zodpovědní za jejich poplatky a za souhlas s jejich podmínkami. Neneseme odpovědnost za výpadky, změny nebo vady způsobené poskytovateli těchto třetích stran."
+    },
+    "hipaa": {
+      "title": "8. HIPAA a nakládání s daty",
+      "body": "Naše standardní weby jsou stavěny s ohledem na HIPAA: nesbírají chráněné zdravotní informace (PHI) ve formulářích, trackerech ani lozích. V případech, kdy projekt záměrně pracuje s PHI (např. pacientské portály, systémy pro příjem dat s klinickými údaji), uzavřou strany před spuštěním takové funkce samostatnou smlouvu o zpracování (BAA). Odpovídáte za to, že nástroje třetích stran, které si přidáte po předání webu, budou nakonfigurovány v souladu s HIPAA."
+    },
+    "confidentiality": {
+      "title": "9. Důvěrnost informací",
+      "body": "Obě strany se zavazují zachovávat mlčenlivost o neveřejných obchodních, finančních, technických informacích a informacích o pacientech té druhé strany a využívat je výhradně k plnění této Smlouvy. Povinnost mlčenlivosti trvá i po ukončení spolupráce."
+    },
+    "warranty": {
+      "title": "10. Záruka a prohlášení",
+      "body": "Zaručujeme, že služby budou provedeny profesionálně v souladu s oborovými standardy. Po dobu 30 dnů od spuštění bezplatně opravíme vady v námi vytvořeném kódu. Poté jsou opravy kryty plánem správy nebo účtovány hodinově. S výjimkou výslovně uvedených případů jsou služby a výstupy poskytovány „tak, jak jsou“, a odmítáme veškeré ostatní záruky, včetně vhodnosti pro konkrétní účel nebo neporušení práv služeb třetích stran."
+    },
+    "liability": {
+      "title": "11. Omezení odpovědnosti",
+      "body": "V maximálním rozsahu povoleném zákonem nenese ani jedna ze stran odpovědnost za nepřímé, náhodné, následné škody ani ušlý zisk. Naše celková odpovědnost vyplývající z této Smlouvy je omezena na poplatky, které jste nám uhradili během tří (3) měsíců předcházejících nároku."
+    },
+    "termination": {
+      "title": "12. Ukončení smlouvy",
+      "body": "Kterákoli ze stran může vypovědět smlouvu pro podstatné porušení, pokud toto porušení není napraveno do 14 dnů od písemného upozornění. Pokud smlouvu ukončíte bez uvedení důvodu, odpovídáte za veškeré dokončené práce a náklady vzniklé do data ukončení; záloha zůstává nevratná. U pravidelných plánů je vyžadována výpovědní lhůta 30 dnů písemně."
+    },
+    "misc": {
+      "title": "13. Rozhodné právo a různé",
+      "body": "Tato Smlouva se řídí zákony jurisdikce uvedené v SOW, bez ohledu na kolizní normy. Představuje úplnou dohodu mezi stranami v této věci a nahrazuje předchozí diskuse. Pokud bude jakékoli ustanovení shledáno nevymahatelným, ostatní zůstávají v platnosti. Jakékoli změny musí být provedeny písemně a podepsány oběma stranami."
+    }
+  },
+  "cta": {
+    "title": "Máte k těmto podmínkám dotazy?",
+    "description": "Rádi s vámi projdeme jakýkoli bod ještě předtím, než smlouvu podepíšete.",
+    "button": "Kontaktujte nás"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "title": "Webbtjänster för dermatologer — Design, SEO & Tillväxt",
+    "description": "Utforska HIPAA-anpassade webblösningar för hudläkare: SEO, lokal marknadsföring, patientportaler, underhåll och tillväxtstöd för moderna kliniker.",
+    "ogTitle": "Webbtjänster för dermatologkliniker",
+    "ogDescription": "Webbdesign, SEO, betald annonsering, rykteshantering, portaler, bildgallerier och löpande support för din hudläkarklinik.",
+    "schema": {
+      "name": "Webbtjänster för dermatologer",
+      "serviceType": "Webbdesign, SEO och digital marknadsföring för dermatologkliniker",
+      "providerName": "Dermatology Website Design"
+    }
+  },
+  "hero": {
+    "eyebrow": "Tjänster",
+    "title": "Webbtjänster skapade för att förvandla besökare till patienter.",
+    "description": "Välj ett enskilt projekt eller ett komplett tillväxtsystem: skräddarsydd webbdesign, SEO, patientanskaffning, integrationer, underhåll och optimering för din klinik.",
+    "ctaQuote": "Få en kostnadsfri offert",
+    "ctaPricing": "Se priser",
+    "proofPoints": {
+      "hipaa": "HIPAA-medveten implementering",
+      "responsive": "Responsiv design för alla enheter",
+      "seo": "Grundläggande on-page SEO",
+      "conversion": "Konverteringsfokuserade patientresor"
+    }
+  },
+  "sections": {
+    "website": {
+      "label": "Webbtjänster",
+      "eyebrow": "Bygg",
+      "description": "Skräddarsydda webbplatser, redesign, migreringar, portaler, gallerier och driftplaner byggda på patienternas förtroende och konvertering."
+    },
+    "marketing": {
+      "label": "Marknadsföringstjänster",
+      "eyebrow": "Väx",
+      "description": "SEO, lokal synlighet, betald annonsering, ryktestjänster, sociala medier, e-post och CRO-system som attraherar rätt patienter."
+    },
+    "support": {
+      "label": "Tilläggstjänster",
+      "eyebrow": "Support",
+      "description": "Hosting, efterlevnadssupport, integrationer, analys, innehåll och löpande förbättringar för kliniker som vill behålla drivet efter lansering."
+    }
+  },
+  "cta": {
+    "title": "Osäker på vilken tjänst som passar din klinik bäst?",
+    "description": "Börja med en kostnadsfri granskning så tar vi fram den mest effektiva vägen för din sajt, sökbarhet och patientflöde.",
+    "button": "Boka kostnadsfri audit"
+  }
+}

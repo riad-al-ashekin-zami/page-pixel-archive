@@ -1,0 +1,72 @@
+{
+  "growthKpi": {
+    "header": "Proyector de crecimiento",
+    "bookingLift": "{{pct}}% aumento de reservas",
+    "projectedRevenueLabel": "Ingresos anuales adicionales proyectados",
+    "roiSuffix": "× retorno de la inversión mensual",
+    "bookedVisitsCaption": "Visitas reservadas · Proyección de 8 meses",
+    "addedPerMonth": "+{{n}}/mes",
+    "monthlyInvestment": "Inversión mensual",
+    "currentMonthlyVisits": "Visitas mensuales actuales",
+    "kpi": {
+      "newVisits": "Nuevas visitas/mes",
+      "totalVisits": "Visitas totales/mes",
+      "monthlyRevenue": "Ingresos mensuales"
+    }
+  },
+  "cpc": {
+    "header": "Calculadora de CPC",
+    "badge": "comparado",
+    "costPerBookedLabel": "Costo proyectado por visita reservada",
+    "bookedVisitsSuffix": "· {{n}} visitas reservadas/mes",
+    "serviceLineLabel": "Línea de servicio",
+    "avgCpcSuffix": "CPC promedio",
+    "monthlySpend": "Gasto mensual en medios",
+    "kpi": {
+      "clicks": "Clics/mes",
+      "leads": "Leads/mes",
+      "avgCpc": "CPC promedio"
+    },
+    "footer": "{{booked}} visitas reservadas · {{cost}} cada una",
+    "footerBadge": "est.",
+    "services": {
+      "acne": "Tratamiento del acné",
+      "mohs": "Cirugía de Mohs",
+      "aesthetic": "Bótox / cosmético",
+      "general": "Dermatología general"
+    }
+  },
+  "radius": {
+    "header": "Planificador de área de servicio",
+    "radiusBadge": "{{n}} mi de radio",
+    "mapCaption": "Su clínica · {{n}} mi",
+    "sliderAria": "Radio de servicio en millas",
+    "sliderMin": "{{n}} mi",
+    "sliderMax": "{{n}} mi",
+    "kpi": {
+      "residents": "Residentes alcanzados",
+      "searches": "Búsquedas locales",
+      "visits": "Visitas potenciales"
+    },
+    "coveragePrefix": "Cobertura a través de",
+    "coverageSuffix": "— clasificado por cuadrícula para cada código postal dentro del anillo."
+  },
+  "rank": {
+    "header": "Rastreador de ranking en vivo",
+    "live": "en vivo",
+    "fromRank": "desde #{{n}}",
+    "quarterFooter": "+{{n}} posiciones este trimestre",
+    "updating": "actualizando",
+    "keywords": {
+      "nearMe": "dermatólogo cerca de mí",
+      "acneCity": "tratamiento del acné [city]",
+      "aesthetic": "especialista en bótox",
+      "mohs": "clínica de cirugía de mohs"
+    }
+  },
+  "preloader": {
+    "brandLead": "Dermatología",
+    "brandHighlight": "Diseño de Sitios Web",
+    "tagline": "Consciente de HIPAA · Enfocado en la Conversión"
+  }
+}

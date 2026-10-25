@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "title": "Dermatology Website Services — Design, SEO & Growth",
+    "description": "Explore HIPAA-aware dermatology website services, SEO, local marketing, patient portals, maintenance, and growth support for modern practices.",
+    "ogTitle": "Dermatology Website Services",
+    "ogDescription": "Website design, SEO, paid ads, reputation, portals, galleries, and ongoing care for dermatology practices.",
+    "schema": {
+      "name": "Dermatology Website Services",
+      "serviceType": "Website design, SEO, and growth marketing for dermatology practices",
+      "providerName": "Dermatology Website Design"
+    }
+  },
+  "hero": {
+    "eyebrow": "Services",
+    "title": "Dermatology website services built to turn visitors into patients.",
+    "description": "Choose a single project or a complete growth system: custom website design, SEO, patient acquisition, integrations, maintenance, and optimization for dermatology practices.",
+    "ctaQuote": "Get a Free Quote",
+    "ctaPricing": "View Pricing",
+    "proofPoints": {
+      "hipaa": "HIPAA-aware implementation",
+      "responsive": "Responsive across every device",
+      "seo": "On-page SEO foundations",
+      "conversion": "Conversion-focused patient journeys"
+    }
+  },
+  "sections": {
+    "website": {
+      "label": "Website Services",
+      "eyebrow": "Build",
+      "description": "Custom websites, redesigns, migrations, portals, galleries, and care plans built around patient trust and conversion."
+    },
+    "marketing": {
+      "label": "Marketing Services",
+      "eyebrow": "Grow",
+      "description": "SEO, local visibility, paid acquisition, reputation, social, email, and CRO systems that bring qualified patients in."
+    },
+    "support": {
+      "label": "Add-On Services",
+      "eyebrow": "Support",
+      "description": "Hosting, compliance support, integrations, analytics, content, and ongoing improvements for practices that want momentum after launch."
+    }
+  },
+  "cta": {
+    "title": "Not sure which service fits your practice?",
+    "description": "Start with a free audit and we’ll map the highest-impact path for your site, search visibility, and patient conversion flow.",
+    "button": "Request Free Audit"
+  }
+}

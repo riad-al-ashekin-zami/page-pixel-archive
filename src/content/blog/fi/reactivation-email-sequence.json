@@ -1,0 +1,55 @@
+{
+  "slug": "reactivation-email-sequence",
+  "title": "Nukahtaneiden potilaiden sähköpostisarja, jonka arvo on 180 000 dollaria vuodessa",
+  "excerpt": "Kuusi sähköpostia, yksi tarjous ja segmentointilogiikka, joka tuo passiiviset potilaat takaisin hoitoon.",
+  "imageAlt": "Älypuhelin, joka näyttää pehmeässä valossa olevan postilaatikon kahvikupin ja croissantin vieressä pellavalla",
+  "body": [
+    {
+      "text": "Potilas, joka ei ole käynyt klinikalla 12 kuukauteen, varaa ajan sähköpostin kautta 4 kertaa todennäköisemmin kuin minkään maksetun kanavan kautta. Mutta useimmat klinikat eivät koskaan lähetä heille tällaista. Tässä on kuuden sähköpostin sarja, jonka otamme käyttöön jokaiselle uudelle asiakkaalle, sekä segmentointilogiikka, joka päättää, mitkä potilaat saavat minkäkin tarjouksen – sillä yleinen 'kaipaamme sinua' -sähköposti 10 000 nukahtaneelle potilaalle alittaa kohdennetun kuuden sähköpostin sarjan 1 000 potilaalle."
+    },
+    {
+      "text": "Otsikon 180 000 dollarin luku ei ole markkinointihypetystä. Se on keskimääräinen lisätulo, jonka mittaamme ensimmäisten kahdentoista kuukauden aikana tämän sarjan käyttöönoton jälkeen keskisuurelle, yhden toimipisteen klinikalle, jolla on noin 8 000 nukahtanutta kontaktia. Monitoimisipaikkaiset ryhmät näkevät säännöllisesti moninkertaisia lukuja. Matematiikka toimii, koska sarjan kustannukset ovat nolla lisämainoskuluja ja yleisö on jo pätevöity – he ovat käyneet klinikalla vähintään kerran."
+    },
+    {
+      "heading": "Segmentointi ennen sisältöä"
+    },
+    {
+      "text": "Ennen kuin kirjoitat yhtäkään sähköpostia, segmentoi yleisö. Jos niputat kaikki nukahtaneet potilaat yhdelle listalle, jokainen tarjous tuntuu jollekin yleisluonteiselta. Jaa lista kolmeen ryhmään: 12–18 kuukautta viimeisestä käynnistä (hellävarainen muistutus), 18–36 kuukautta (strukturoitu uudelleen sitouttaminen) ja 36+ kuukautta (aggressiivinen takaisin saaminen todellisella kannustimella). Jokainen ryhmä saa saman kuuden sähköpostin rungon, mutta eri sävyllä, eri tarjouksella ja eri poistokriteereillä."
+    },
+    {
+      "heading": "Sarja"
+    },
+    {
+      "list": [
+        "Sähköposti 1: Kaipaamme sinua – ystävällinen tervehdys ilman pyyntöä",
+        "Sähköposti 2: Mitä uutta klinikalla",
+        "Sähköposti 3: Hellävarainen kehotus varata vuosittainen ihontarkastus",
+        "Sähköposti 4: Koulutussisältöä ihosyövän ehkäisystä",
+        "Sähköposti 5: Aikarajoitettu tarjous, joka on spesifinen heidän viimeisimpään käyntityyppiinsä",
+        "Sähköposti 6: Viimeinen kutsu, sitten poisto sarjasta"
+      ]
+    },
+    {
+      "heading": "Miksi 'ei pyyntöä' ensimmäisenä sähköpostina on tärkeää"
+    },
+    {
+      "text": "Sarjan ensimmäinen sähköposti ei tarkoituksella pyydä mitään. Se on lämmin uudelleenesittely klinikkan johtajalta tai lääkärin assistentilta, mieluiten kirjoitettu ensimmäisessä persoonassa aidolla allekirjoituksella. Tarkoitus on muistuttaa vastaanottajaa, että tämä klinikka muistaa heidät henkilönä, ei markkinointisegmenttinä. 'Ei pyyntöä' -sähköpostien vastausprosentit ovat 5–8 kertaa parempia kuin 'varaa nyt' -sähköpostien, ja vastaajat tunnistavat itsensä korkean aikomuksen omaaviksi."
+    },
+    {
+      "heading": "Tarjous saapuu sähköpostissa 5, ei sähköpostissa 1"
+    },
+    {
+      "text": "Klinikat tekevät rutiininomaisesti virheen aloittamalla tarjouksella. Se opettaa nukahtaneita potilaita odottamaan alennuksia aina, kun he kuulevat sinusta, ja se muuntaa listasi matalan aikomuksen segmentin pelkällä hinnalla. Kuuden sähköpostin sarja siirtää tarjouksen viidenteen sähköpostiin, neljän lämmön ja koulutuksen kosketuspisteen jälkeen. Kun tarjous saapuu, potilas on kiinnittynyt takaisin klinikan brändiin, ei sen alennukseen."
+    },
+    {
+      "heading": "Poistovaihe suojaa toimitettavuutta"
+    },
+    {
+      "text": "Sähköposti kuusi on viimeinen kutsu -sähköposti ja se on myös poistokäynnistin. Jokainen vastaanottaja, joka ei ole avannut mitään viidestä edellisestä sähköpostista ja ei avaa sähköpostia kuusi, poistetaan sarjasta. Tämä suojaa lähettäjän mainettasi Gmailin ja Outlookin kanssa – lähettäminen sitoutumattomille osoitteille on nopein tapa pudota tarjouksiin tai roskapostiin. Aggressiivinen poistaminen itse asiassa parantaa seuraavan kampanjan tuloksia, koska jäljellä oleva lista on tiheämpi ja sitoutuneempi."
+    },
+    {
+      "text": "Toteuta sarja kerran vuodessa jokaiseen ryhmään, päivitä teksti vuosittain, ja käsittele poistettua yleisöä erillisenä 'pitkähäntä' -ryhmänä, jonka kanssa sitoudut uudelleen 18 kuukauden välein uudella lähettäjän nimellä. Yhdistettynä kolmen vuoden aikana 180 000 dollarin luku yleensä kaksinkertaistuu tai kolminkertaistuu sarjan kypsyessä ja segmentoinnin tarkentuessa."
+    }
+  ],
+  "faqs": null
+}

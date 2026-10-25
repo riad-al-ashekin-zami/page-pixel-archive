@@ -1,0 +1,345 @@
+{
+  "meta": {
+    "title": "Dermatologian verkkosivujen hinnoittelu — Paketit ja läpinäkyvät kustannukset",
+    "description": "Selkeä dermatologian verkkosivujen hinnoittelu. Kertamaksulliset toteutukset 797 $ – 18 999 $+, kuukausipaketit alk. 399 $ sekä erilliset lisäpalvelut. Tiedä tarkka hinta jo ennen yhteydenottoa.",
+    "og": {
+      "title": "Dermatologian verkkosivujen hinnoittelu — Paketit ja kustannustiedot",
+      "description": "Kuusi verkkosivupakettia, kolme erikoistoteutusta, neljä kuukausipakettia ja yli 20 lisäpalvelua – mukana reaaliaikainen hintalaskuri. Täysin läpinäkyvä hinnoittelu."
+    },
+    "jsonLd": {
+      "breadcrumb": {
+        "home": "Etusivu",
+        "plans": "Paketit ja hinnoittelu"
+      },
+      "priceSpec": {
+        "name": "Dermatologian verkkosivupaketit"
+      }
+    }
+  },
+  "hero": {
+    "badge": "Läpinäkyvä hinnoittelu",
+    "heading": "Kaikki hinnat esillä. Ei yllätyslaskuja.",
+    "description": "Kuusi kertamaksullista sivustopakettia, kolme erikoistoteutusta, neljä kuukausipakettia ja yli 20 lisäpalvelua – reaaliaikaisen hintalaskurin avulla tiedät summan jo ennen kuin keskustelemme.",
+    "cta": "Katso sivustopaketit",
+    "estimatorCta": "Reaaliaikainen hintalaskuri"
+  },
+  "stats": {
+    "launched": "Julkaistua klinikkasivustoa",
+    "satisfaction": "Asiakastyytyväisyys keskimäärin",
+    "startingPrice": "Kertamaksullinen alkaen-hinta",
+    "turnaround": "Keskimääräinen muokkausaika"
+  },
+  "trust": {
+    "ariaLabel": "Luottamus ja takuut",
+    "guarantee": "30 päivän tyytyväisyystakuu",
+    "guaranteeSub": "Etkö ole tyytyväinen ennen julkaisua? Palautamme maksun suhteutettuna, ilman kyselyitä.",
+    "features": [
+      "HIPAA-valmius",
+      "SSL + varmuuskopiot",
+      "Ei sitoutumispakkoa",
+      "Omistat sivustosi itse"
+    ]
+  },
+  "sections": {
+    "websitePackages": {
+      "label": "01 — Verkkosivujen toteutuspaketit",
+      "title": "Kertatoteutus. Kuusi selkeää tasoa.",
+      "description": "Valitse nykyiseen tarpeeseesi sopiva koko – voit päivittää myöhemmin klinikkasi kasvaessa. Jokainen hinta sisältää suunnittelun, kehityksen, julkaisun ja muutokset.",
+      "popular": "Suosituin",
+      "flagship": "Lippulaiva",
+      "otherAgencies": "Muut toimistot:",
+      "bestFor": "Sopii parhaiten:",
+      "startWith": "Aloita tästä: {{name}}",
+      "footer": "Kaikki hinnat dollareissa (USD). Kertaluonteiset toteutusmaksut. Ei vaadi kuukausittaista sitoutumista.",
+      "items": [
+        {
+          "name": "Starter",
+          "subtitle": "Yksisivuinen",
+          "bestFor": "Uusi klinikka, itsenäinen ihotautilääkäri, laskeutumissivu",
+          "price": "797 $",
+          "priceNote": "kertamaksu",
+          "savings": "20–68 % edullisempi",
+          "features": [
+            "Yhden sivun skrollattava sivusto",
+            "Mobiiliresponsiivinen suunnittelu",
+            "Yhteystietolomake + soitto-painike",
+            "Google Maps -upotus",
+            "Perustason hakukoneoptimointi (SEO)",
+            "SSL + hosting-asennusopas",
+            "Toimitus: 1 viikko",
+            "1 editointikierros"
+          ],
+          "cons": [
+            "Ei blogia tai potilasportaalia"
+          ]
+        },
+        {
+          "name": "Clinic Pro",
+          "subtitle": "5–8 sivua",
+          "bestFor": "Vakiintunut yksityislääkäri / pieni klinikka",
+          "price": "1 997 $",
+          "priceNote": "kertamaksu",
+          "savings": "33–60 % edullisempi",
+          "features": [
+            "Etusivu, Esittely, Palvelut (3–5), Yhteystiedot",
+            "Verkkoajanvaraus",
+            "Ennen/Jälkeen -kuvagalleria",
+            "Lääkärin esittely + pätevyydet",
+            "Paikallinen SEO + GBP-optimointi",
+            "HIPAA-yhteensopiva lomake",
+            "Nopeusoptimointi",
+            "Toimitus: 2–3 viikkoa",
+            "2 editointikierrosta"
+          ]
+        },
+        {
+          "name": "Practice Growth",
+          "subtitle": "10–15 sivua",
+          "bestFor": "Kasvava klinikka, esteettinen dermatologia",
+          "price": "4 499 $",
+          "priceNote": "kertamaksu",
+          "savings": "10–55 % edullisempi",
+          "features": [
+            "Laaja monisivuinen sivusto",
+            "Yksilölliset laskeutumissivut hoidoille",
+            "Potilasportaalin integrointi",
+            "Blogi (sis. 5 aloituskirjoitusta)",
+            "Edistynyt paikallinen SEO",
+            "Core Web Vitals -optimointi",
+            "Logo + brändi-ilmeen perusteet",
+            "Social OG -tagit + Schema",
+            "Toimitus: 3–4 viikkoa",
+            "3 editointikierrosta"
+          ]
+        },
+        {
+          "name": "E-Commerce",
+          "subtitle": "Verkkokauppa",
+          "bestFor": "Ihonhoitotuotteita myyvä klinikka",
+          "price": "6 999 $",
+          "priceNote": "kertamaksu",
+          "savings": "12–53 % edullisempi",
+          "features": [
+            "Klinikkasivusto (10+ sivua)",
+            "WooCommerce- tai Shopify-kauppa",
+            "Tuotekatalogin pystytys (30 tuotetta)",
+            "Maksupalvelu (Stripe / PayPal)",
+            "Tilaustenhallintajärjestelmä",
+            "Täysi SEO-paketti",
+            "Ajanvarauksen ja kaupan yhdistelmä",
+            "Toimitus: 4–6 viikkoa"
+          ]
+        },
+        {
+          "name": "Authority Brand",
+          "subtitle": "Räätälöity suuryritys",
+          "bestFor": "Useiden toimipisteiden klinikat, suuri liikevaihto",
+          "price": "12 999 $",
+          "priceNote": "kertamaksu",
+          "savings": "13–56 % edullisempi",
+          "features": [
+            "Täysin uniikki design (ei valmispohjia)",
+            "20+ sivua + toimipistekohtaiset sivut",
+            "Kattava brändikirja + logopaketti",
+            "Sisältää verkkokaupan",
+            "Potilas- ja lääkäriportaalit",
+            "Täysi HIPAA-yhteensopivuuden asennus",
+            "30 blogikirjoitusta / hoitosivua",
+            "Videointegraatiot",
+            "Sisältää 6 kk SEO-optimoinnin",
+            "Nimetty asiakkuuspäällikkö",
+            "Toimitus: 6–10 viikkoa"
+          ]
+        },
+        {
+          "name": "Enterprise Multi-Site",
+          "subtitle": "DSO / Ketjut",
+          "bestFor": "Lääkärikeskusketjut, 3+ toimipistettä",
+          "price": "18 999 $ +",
+          "priceNote": "räätälöity",
+          "savings": "väh. 24 % edullisempi",
+          "features": [
+            "Monitoimipisterakenne",
+            "Oma laskeutumissivu jokaiselle sijainnille",
+            "Keskitetty CMS-hallinta",
+            "Yhtenäinen brändi kaikilla sivustoilla",
+            "Laaja monitoimipiste-SEO",
+            "Henkilöstöportaali joka pisteelle",
+            "Tarjous projektin laajuuden mukaan",
+            "Priorisoitu tuki"
+          ]
+        }
+      ]
+    },
+    "specialty": {
+      "label": "02 — Erikoispaketit",
+      "title": "Tiettyyn tarkoitukseen rakentuvat ratkaisut.",
+      "description": "Vaihtoehtoja erityistarpeisiin – nopeat julkaisut valmispohjilla, etävastaanottoon keskittyvät klinikat tai korkealaatuiset räätälöidyt toteutukset.",
+      "market": "Markkinahinta:",
+      "cta": "Valitse tämä paketti",
+      "items": [
+        {
+          "name": "Valmispohjasivusto",
+          "desc": "Dermatologiaan suunniteltu pohja, joka personoidaan brändilläsi. Toimitus: 5 päivää. Rajallinen muokattavuus, mutta nopea ja edullinen."
+        },
+        {
+          "name": "Etälääketiede / Portaali",
+          "desc": "Telelääketieteen integraatio (Doxy.me, Zoom Health tms.), potilasportaalin pystytys, suojattu viestintä ja ajanvaraus. Voidaan lisätä mihin tahansa pakettiin."
+        },
+        {
+          "name": "Premium Custom -sivusto",
+          "desc": "Keskivaihtoehto kasvupaketin ja suuryrityspaketin välillä. 15–20 sivua, täysin uniikki ulkoasu, edistynyt SEO ja 3 kk tuki julkaisun jälkeen."
+        }
+      ]
+    },
+    "bundles": {
+      "label": "03 — Kuukausittaiset palvelupaketit",
+      "title": "Jatkuvalla ylläpidolla säästät enemmän.",
+      "description": "Lisää kuukausipaketti mihin tahansa sivustototeutukseen. Paketit säästävät 15–25 % verrattuna palveluiden ostamiseen erikseen – voit perua milloin vain 30 päivän irtisanomisajalla.",
+      "recommended": "Suositeltu",
+      "bestLtv": "Paras vastine rahalle",
+      "add": "Lisää {{name}}",
+      "items": [
+        {
+          "name": "Essential-paketti",
+          "tag": "Hosting + Ylläpito + Paikallinen SEO",
+          "desc": "Hosting + tietoturva + kuukausittaiset päivitykset + paikallinen SEO-seuranta + GBP-hallinta. Säästä 99 $/kk erillishintoihin verrattuna."
+        },
+        {
+          "name": "Growth-paketti",
+          "tag": "Essential + Täysi SEO-kampanja",
+          "desc": "Kaikki Essential-sisältö + täysi SEO-kampanja (sisällöt, takalinkit, tekninen optimointi, raportointi). Suosituin valinta kasvuhaluisille."
+        },
+        {
+          "name": "Marketing-paketti",
+          "tag": "SEO + Google Ads + Some + Arvostelut",
+          "desc": "Täysi SEO + Google Ads -hallinta + sosiaalinen media (8 postausta/kk) + arvostelujen keräämisjärjestelmä. Täydellinen digitaalinen näkyvyys."
+        },
+        {
+          "name": "Full-Stack -paketti",
+          "tag": "Kaikki mahdollinen – Maksimaalinen kasvu",
+          "desc": "Marketing-paketti + sähköpostimarkkinointi (CRM) + 2 blogia/kk + maineenhallinta + neljännesvuosittainen strategia ja priorisoitu tuki."
+        }
+      ]
+    },
+    "addOns": {
+      "label": "04 — Lisäpalvelut ja erillishinnasto",
+      "title": "Jokainen palvelu, jokainen hinta.",
+      "description": "37 yksittäistä palvelua – mukaan lukien SMTP- ja sähköpostiasennukset. Lisää mikä tahansa pakettiin. Vertaa hintoja markkinahintoihin ja katso kuinka paljon säästät.",
+      "table": {
+        "service": "Lisäpalvelu",
+        "ourPrice": "Meidän hintamme",
+        "market": "Markkinahinta",
+        "type": "Tyyppi",
+        "bestFor": "Sopii parhaiten"
+      }
+    },
+    "custom": {
+      "badge": "Tarvitsetko jotain täysin räätälöityä?",
+      "title": "Ketjut, sairaaloiden dermatologit tai erikoisratkaisut?",
+      "description": "Tarjoamme monitoimipisteketjuille ja sairaala-affiliaateille kiinteähintaisen projektin, johon sisältyy oma kehitystiimi, neljännesvuosittaiset katsaukset ja nimetty asiakkuutiimi.",
+      "quoteCta": "Pyydä räätälöity tarjous",
+      "pricingCta": "Katso paketit ja hinnat"
+    }
+  },
+  "estimator": {
+    "label": "05 — Reaaliaikainen hintalaskuri",
+    "title": "Tiedä hinta ennen kuin juttelemme.",
+    "description": "Valitse sivustopaketti, lisää kuukausittainen jatkuva palvelu ja poimi lisäosat – kokonaishinta päivittyy silmiesi edessä.",
+    "form": {
+      "websitePackage": "Verkkosivupaketti",
+      "monthlyBundle": "Kuukausipaketti",
+      "logo": "Logon suunnittelu · 450 $ / kpl",
+      "extraPages": "Lisäsivut hoidoille · 200 $ / kpl",
+      "blogPosts": "Blogikirjoitukset · 120 $ / kpl",
+      "portal": "Potilasportaalin integrointi",
+      "portalAdd": "+999 $ kertamaksu"
+    },
+    "aria": {
+      "decrease": "Vähennä",
+      "increase": "Lisää"
+    },
+    "summary": {
+      "title": "Arviosi",
+      "build": "Sivuston toteutus",
+      "bundle": "Kuukausipaketti",
+      "oneTime": "Kertamaksut yhteensä",
+      "monthly": "Jatkuva kuukausimaksu",
+      "yearOne": "Ensimmäisen vuoden kokonaishinta",
+      "ongoing": "Tämän jälkeen {{amount}} / vuosi",
+      "lockIn": "Lukitse tämä hinta-arvio"
+    }
+  },
+  "testimonials": {
+    "label": "Mitä asiakkaamme sanovat",
+    "title": "Ennakoitava hinnoittelu, optimaaliset tulokset.",
+    "items": [
+      {
+        "name": "Dr. Meera Balakrishnan, MD",
+        "role": "NBS Laser",
+        "quote": "Läpinäkyvä hinnoittelu. Ei yllätyslaskuja. Tiesimme tarkan summan ennen sopimusta – ja lasku oli joka kuukausi täysin sovitun mukainen."
+      },
+      {
+        "name": "Dr. Julian Reyes, MD",
+        "role": "CP Dermatology",
+        "quote": "Clinic Pro -paketti maksoi itsensä takaisin jo toisena kuukautena. Pelkkä ajanvarauksen uudistus tuplasi yhteydenottomme määrän."
+      }
+    ]
+  },
+  "faq": {
+    "label": "06 — Usein kysyttyä",
+    "title": "Kysymyksiä hinnoittelusta?",
+    "items": [
+      {
+        "q": "Maksanko kertamaksun, kuukausimaksun vai molemmat?",
+        "a": "Sivustopaketit ovat kertaluonteisia toteutusmaksuja. Jatkuvat palvelut – kuten hosting, SEO, mainonta ja ylläpito – ovat kuukausipaketteja tai erikseen ostettavia palveluita. Useimmat klinikat valitsevat yhden sivustopaketin ja yhden ylläpitopaketin. Näet lopullisen yhteissumman kirjallisessa tarjouksessa."
+      },
+      {
+        "q": "Mitä kertamaksullinen toteutus sisältää?",
+        "a": "Suunnittelun, teknisen kehityksen, sisällön rakenteen, perus-SEO:n, pakettiin kuuluvat integraatiot, HIPAA-valmiit lomakkeet, julkaisun ja sovitut muutoskierrokset. Emme laskuta projektin aikana tunneittain; sovittu hinta on se, minkä maksat."
+      },
+      {
+        "q": "Täytyykö minun ostaa kuukausipaketti?",
+        "a": "Ei. Kuukausipaketit ovat valinnaisia. Voit hoitaa hostingin ja ylläpidon itse tai valita vain yksittäisiä lisäpalveluja. Paketit on kuitenkin suunniteltu säästämään rahaa verrattuna palveluiden ostamiseen erikseen."
+      },
+      {
+        "q": "Voinko päivittää Starter-paketista Clinic Pro -tasolle myöhemmin?",
+        "a": "Kyllä. Kaikki pakettimme perustuvat samaan suunnittelujärjestelmään. Päivitys onnistuu hyvityspohjaisella muutostilauksella: maksat vain pakettien välisen erotuksen ja mahdollisen siirtotyön."
+      },
+      {
+        "q": "Omistanko sivustoni, jos lopetan kuukausimaksut?",
+        "a": "Kyllä, omistat sivustosi aina. Verkkotunnus, brändimateriaalit, sisältö, koodi ja tietokanta ovat sinun. Kuukausipaketin peruminen päättää vain jatkuvan palvelun; sivusto pysyy sinulla ja toimii valitsemallasi palvelimella."
+      },
+      {
+        "q": "Kuuluuko HIPAA / BAA hintaan?",
+        "a": "HIPAA-valmis arkkitehtuuri sisältyy Clinic Pro -tasosta alkaen. Allekirjoitettu BAA (Business Associate Agreement) sisältyy Authority Brand- ja Enterprise Multi-Site -paketteihin. Muihin paketteihin se on saatavilla lisäpalveluna, jos lomakkeilla kerätään potilastietoja (PHI)."
+      },
+      {
+        "q": "Mitä jos tarvitsen jotain, mitä ei ole listattu?",
+        "a": "Räätälöidyt ratkaisut – kuten erikoisintegraatiot, potilastietojärjestelmän synkronointi tai laajat tuoteimportit – hinnoitellaan kiinteällä tarjouksella määrittelypalaverin jälkeen."
+      },
+      {
+        "q": "Onko palveluilla palautusoikeutta?",
+        "a": "Sivuston toteutusmaksu on palautuskelpoinen suhteutettuna tehtyyn työhön aina julkaisuhyväksyntään saakka. Kuukausipaketit eivät ole palautuskelpoisia jo alkaneen jakson osalta, mutta voit irtisanoa ne 30 päivän varoajalla."
+      }
+    ]
+  },
+  "cta": {
+    "badge": "Ei sitoutumispakkoa · Omistat sivustosi itse",
+    "title": "Haluatko tietää tarkan hinnan?",
+    "description": "Saat kirjallisen työmäärittelyn, kiinteän tarjouksen ja suositellun palvelupaketin 20 minuutin puhelun jälkeen. Ei ostopakkoa.",
+    "button": "Pyydä tarjous",
+    "delivery": "Kirjallinen tarjous 48 tunnin sisällä"
+  },
+  "related": {
+    "text": "Sinua saattaisi kiinnostaa myös: ",
+    "process": "näin viemme projektit maaliin",
+    "portfolio": "katso viimeisimmät julkaisumme",
+    "caseStudies": "tuloksia asiakkailtamme"
+  },
+  "stickyCta": {
+    "label": "Pyydä kiinteä tarjous",
+    "description": "Kirjallinen tarjous · 48h",
+    "button": "Pyydä tarjous"
+  }
+}

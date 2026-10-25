@@ -1,0 +1,257 @@
+{
+  "meta": {
+    "title": "Design e Desenvolvimento de Portais do Paciente para Dermatologia | Conformidade HIPAA",
+    "description": "Design personalizado de portais do paciente com conformidade HIPAA para dermatologia: marcação online, mensagens seguras, teledermatologia, formulários eletrónicos, pagamento de faturas e integração com EHR. Criado para clínicas individuais, multilocais, pediátricas e de Mohs.",
+    "og_title": "Design e Desenvolvimento de Portais do Paciente para Dermatologia",
+    "og_description": "Portais de pacientes com foco em HIPAA, desenvolvidos para clínicas de dermatologia — marcações, mensagens, teledermatologia, admissão eletrónica e integração EHR.",
+    "twitter_title": "Design e Desenvolvimento de Portais do Paciente para Dermatologia",
+    "twitter_description": "Portais de pacientes com foco em HIPAA, desenvolvidos para clínicas de dermatologia.",
+    "jsonLd": {
+      "serviceType": "Design e Desenvolvimento de Portais do Paciente para Dermatologia",
+      "provider": "DermatologyWebsiteDesign.com",
+      "areaServed": "United States",
+      "description": "Design e desenvolvimento de portais do paciente com conformidade HIPAA para clínicas de dermatologia.",
+      "breadcrumb_home": "Início",
+      "breadcrumb_services": "Serviços",
+      "breadcrumb_portal": "Portal do Paciente"
+    }
+  },
+  "hero": {
+    "badge": "Portal do Paciente de Dermatologia",
+    "title_start": "Um portal do paciente que a sua clínica de dermatologia ",
+    "title_highlight": "vai realmente querer usar.",
+    "description": "Portais de pacientes personalizados e prontos para HIPAA com marcação 24/7, mensagens seguras, teledermatologia, admissão digital e integração profunda com EHR — desenhados para clínicas individuais, de Mohs e pediátricas.",
+    "cta_quote": "Pedir Orçamento Gratuito",
+    "cta_features": "Explorar funcionalidades",
+    "stats": [
+      {
+        "value": "4–6 sem",
+        "label": "Tempo de lançamento"
+      },
+      {
+        "value": "HIPAA",
+        "label": "Foco em conformidade"
+      },
+      {
+        "value": "24/7",
+        "label": "Auto-agendamento"
+      },
+      {
+        "value": "Sem",
+        "label": "Taxas por paciente"
+      }
+    ]
+  },
+  "mockPortal": {
+    "header_category": "Portal do Paciente",
+    "header_greeting": "Boa tarde, Sara",
+    "status": "Seguro",
+    "items": [
+      {
+        "label": "Exame dermatológico anual",
+        "meta": "Sex · 14:30 · Dr. Patel"
+      },
+      {
+        "label": "Mensagem do Dr. Nguyen",
+        "meta": "Resultado da biópsia — benigno ✓"
+      },
+      {
+        "label": "Renovação pedida",
+        "meta": "Tretinoína 0.05% · CVS #402"
+      },
+      {
+        "label": "Fatura pendente",
+        "meta": "48,20 € · Pagar com 1 toque"
+      }
+    ],
+    "footer_encryption": "Encriptação ponto-a-ponto",
+    "footer_biometrics": "Face ID ativo"
+  },
+  "sections": {
+    "audiences": {
+      "title": "Criado para",
+      "items": [
+        "Dermatologistas Independentes",
+        "Clínicas de Dermatologia Multi-local",
+        "Dermatologia Pediátrica",
+        "Dermatologia Cirúrgica e de Mohs"
+      ]
+    },
+    "medical_services": {
+      "title": "Apoio a todos os serviços médicos",
+      "items": [
+        "Tratamento de Acne",
+        "Tratamento de Eczema",
+        "Tratamento de Psoríase",
+        "Infeções Cutâneas",
+        "Alergias Cutâneas",
+        "Rastreio e Tratamento de Cancro da Pele",
+        "Avaliação e Remoção de Sinais",
+        "Remoção de Quistos e Lipomas",
+        "Remoção de Verrugas",
+        "Tratamento de Doenças Ungueais",
+        "Tratamento de Queda de Cabelo",
+        "Tratamento do Couro Cabeludo",
+        "Tratamento de Rosácea",
+        "Hiperpigmentação e Melasma",
+        "Tratamento de Cicatrizes",
+        "Tratamento de Cicatrizes de Queimaduras",
+        "Tratamento de Vitiligo",
+        "Biópsias e Diagnósticos Cutâneos"
+      ]
+    },
+    "metrics": {
+      "items": [
+        {
+          "value": "38%",
+          "label": "Menos faltas após lançamento do portal"
+        },
+        {
+          "value": "4.9×",
+          "label": "Resposta mais rápida na receção"
+        },
+        {
+          "value": "22 h",
+          "label": "Horas recuperadas p/ semana pela equipa"
+        }
+      ]
+    },
+    "testimonial": {
+      "quote": "Os nossos pacientes finalmente pararam de ligar para reagendar. Marcações, renovações e resultados de biópsias acontecem todos no portal — os meus assistentes recuperaram as suas tardes.",
+      "author": "Dr.ª Priya Desai, MD",
+      "clinic": "Desai Dermatology · 3 localizações"
+    },
+    "core_features": {
+      "badge": "Principais funcionalidades",
+      "title": "Tudo o que um paciente de dermatologia — e a sua receção — precisa.",
+      "description": "Uma plataforma única e segura para agendamentos, comunicação, fluxos clínicos e pagamentos — substituindo as 5 a 7 ferramentas isoladas com que a maioria das clínicas lida hoje.",
+      "items": [
+        {
+          "title": "Marcação de Consultas Online",
+          "desc": "Calendários em tempo real, pré-verificação de seguro e confirmações automáticas — auto-agendamento 24/7 para preencher a sua agenda."
+        },
+        {
+          "title": "Mensagens Seguras para Pacientes",
+          "desc": "Chat bidirecional com encriptação HIPAA entre pacientes e equipa clínica — com histórico de auditoria e recibos de leitura."
+        },
+        {
+          "title": "Admissão Digital e Consentimentos",
+          "desc": "Histórico médico e formulários de consentimento com assinatura eletrónica preenchidos antes da consulta — sincronizados diretamente com o seu EHR."
+        },
+        {
+          "title": "Pagamento de Faturas Online",
+          "desc": "Pagamentos com cartão em conformidade PCI, planos de pagamento e faturas digitais — receba mais depressa e com menos atrito."
+        },
+        {
+          "title": "Pedidos de Renovação de Receitas",
+          "desc": "Pedidos de renovação com um toque, encaminhados para o médico correto com histórico de medicação e alergias em arquivo."
+        },
+        {
+          "title": "Resultados de Exames e Biópsias",
+          "desc": "Disponibilize resultados de patologia e laboratório com resumos em linguagem clara e notas médicas que os pacientes entendem."
+        },
+        {
+          "title": "Consultas de Teledermatologia",
+          "desc": "Vídeo HD encriptado com sala de espera, upload de imagens e registo clínico integrado — sem necessidade de fornecedores externos."
+        },
+        {
+          "title": "Lembretes e Avisos Inteligentes",
+          "desc": "Lembretes por SMS e e-mail para check-ups anuais e automações de recuperação de faltas que resgatam 20–30% da receita perdida."
+        }
+      ]
+    },
+    "security": {
+      "badge": "Segurança e conformidade",
+      "title": "Foco em HIPAA desde a primeira linha de código.",
+      "description": "Não é um extra, nem apenas um visto numa lista. Cada decisão de arquitetura — alojamento, base de dados, mensagens, vídeo — é desenhada para a proteção de dados de saúde e auditorias OCR.",
+      "cta": "Solicite o nosso dossier de conformidade",
+      "items": [
+        {
+          "title": "Arquitetura Focada em HIPAA",
+          "desc": "Dados PHI encriptados em repouso (AES-256) e em trânsito (TLS 1.3). BAAs assinados com todos os sub-processadores."
+        },
+        {
+          "title": "Controlo de Acesso Baseado em Funções",
+          "desc": "Permissões granulares para médicos, assistentes e receção — com registo total de acessos."
+        },
+        {
+          "title": "Autenticação Forte e Biométrica",
+          "desc": "Passkeys, Face ID e TOTP para pacientes e staff. Zero reposições de passwords. Zero phishing."
+        },
+        {
+          "title": "Acesso de Família e Cuidadores",
+          "desc": "Acesso por procuração para pais ou cônjuges com revogação automática baseada na idade."
+        }
+      ]
+    },
+    "workflow": {
+      "badge": "Como lançamos",
+      "title": "Do arranque ao portal ativo em 4–6 semanas.",
+      "steps": [
+        {
+          "step": "Passo 01",
+          "title": "Descoberta e Auditoria EHR",
+          "desc": "Mapeamos o seu EHR, PMS e fluxos atuais numa sessão de trabalho de 60 minutos."
+        },
+        {
+          "step": "Passo 02",
+          "title": "Design e Imagem do Portal",
+          "desc": "Interface personalizada para a sua clínica — nada de templates genéricos."
+        },
+        {
+          "step": "Passo 03",
+          "title": "Integrações e Migração",
+          "desc": "Sincronização de EHR, receitas, exames e pagamentos. Migração limpa de dados de pacientes."
+        },
+        {
+          "step": "Passo 04",
+          "title": "Formação e Lançamento",
+          "desc": "Formação em direto, fluxos de trabalho documentados e 30 dias de suporte premium pós-lançamento."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "badge": "Perguntas",
+    "title": "Perguntas Frequentes sobre o Portal",
+    "items": [
+      {
+        "q": "O portal do paciente está em conformidade com o HIPAA?",
+        "a": "Sim. Todas as camadas — alojamento, base de dados, mensagens, vídeo e métricas — respeitam o HIPAA. Assinamos um BAA e fornecemos documentação de conformidade que abrange encriptação, controlo de acesso e registos de auditoria."
+      },
+      {
+        "q": "Integra-se com o meu EHR?",
+        "a": "Integramos com os principais EHRs de dermatologia (Modernizing Medicine / EMA, Nextech, EZDERM, DrChrono, Athena, eClinicalWorks, Practice Fusion, Epic, Cerner) via HL7, FHIR ou APIs dedicadas. Para EHRs menos comuns, criamos uma integração à medida."
+      },
+      {
+        "q": "Os pacientes podem marcar sem criar conta?",
+        "a": "Sim. Suportamos agendamento como convidado para novos pacientes — a conta no portal é criada automaticamente após a confirmação do agendamento, com um e-mail de boas-vindas seguro."
+      },
+      {
+        "q": "Quanto tempo demora a implementação?",
+        "a": "Um portal para uma única localização é lançado em 4–6 semanas. Configurações multi-local ou migrações complexas demoram geralmente 8–12 semanas, incluindo formação."
+      },
+      {
+        "q": "O portal passa a ser nosso após o lançamento?",
+        "a": "Sim. É proprietário do código, conteúdo, marca e dados dos pacientes. Não há taxas por paciente nem contratos de fidelização — pode cancelar a qualquer momento com exportação total de dados."
+      },
+      {
+        "q": "A teledermatologia é um extra ou está incluída?",
+        "a": "Está incluída. Vídeo HD seguro, sala de espera e upload de imagens estão integrados no portal — sem custos por consulta ou fornecedores externos."
+      }
+    ]
+  },
+  "cta": {
+    "badge": "Pronto para começar",
+    "title": "Dê aos seus pacientes — e à sua receção — um portal que todos vão agradecer.",
+    "description": "Peça uma demonstração gratuita do portal. Analisaremos o seu software atual, definiremos um prazo fixo e enviamos um orçamento no próprio dia.",
+    "cta_quote": "Pedir Orçamento Gratuito",
+    "cta_contact": "Contacte-nos"
+  },
+  "footer_related": {
+    "text": "Páginas relacionadas: ",
+    "link_website": "site principal da clínica",
+    "link_multi_location": "clínicas com várias localizações",
+    "link_packages": "opções de pacotes atuais"
+  }
+}

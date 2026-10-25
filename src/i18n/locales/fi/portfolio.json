@@ -1,0 +1,344 @@
+{
+  "meta": {
+    "title": "Ihotautiklinikoiden portfoliosivusto — Käytännön esimerkkejä verkkosivuuudistuksista",
+    "description": "Valikoitu portfolio suunnittelemistamme ja toteuttamistamme ihotautiklinikoiden sivustoista – mukana kosmeettisia, lääketieteellisiä ja pediatrisia klinikoita, joilla on mitattavaa kasvua varauksissa, SEO-tuloksissa ja latausnopeudessa.",
+    "keywords": "ihotautiklinikan verkkosivusto portfolio, ihotautiklinikan verkkosivusuunnittelu esimerkit, ihotautiklinikan case-tutkimukset, ihotautilääkärin verkkosivut",
+    "breadcrumb": {
+      "home": "Etusivu",
+      "portfolio": "Portfolio"
+    }
+  },
+  "accessibility": {
+    "skipToContent": "Siirry suoraan sisältöön"
+  },
+  "hero": {
+    "badge": "Portfolio · Yli 50 ihotautiklinikkaa",
+    "heading": "Aitoja ihotautiklinikoiden sivustoja. Todellista kasvua.",
+    "subheading": "Jokainen alla oleva projekti on toiminnassa oleva klinikka – kosmeettisia, lääketieteellisiä, lapsille suunnattuja ja usean toimipisteen ketjuja. Yksilöllinen design, HIPAA-vaatimukset huomioiva toteutus ja SEO-optimointi, joka lisää varauksia – ei pelkkiä sijoituksia.",
+    "cta": {
+      "start": "Aloita projekti",
+      "audit": "Maksuton analyysi"
+    },
+    "stats": [
+      {
+        "label": "Klinikkaa",
+        "value": "50+"
+      },
+      {
+        "label": "Keskim. varausten kasvu",
+        "value": "3.4-kertainen"
+      },
+      {
+        "label": "Lighthouse-mediaani",
+        "value": "98"
+      }
+    ]
+  },
+  "previews": {
+    "backCard": {
+      "imageAlt": "CS Dermatology — lääketieteellisen klinikan sivustoesikatselu",
+      "tags": {
+        "hipaa": "HIPAA-yhteensopiva",
+        "performance": "99 · suorituskyky"
+      }
+    },
+    "frontCard": {
+      "imageAlt": "Aventura Skin Studio — kosmeettisen ihotautiklinikan sivustoesikatselu",
+      "category": "Kosmeettinen dermatologia · Miami",
+      "practiceName": "Aventura Skin Studio",
+      "result": "+214 % konsultaatiopyyntöjä · 90 päivässä"
+    }
+  },
+  "ctaSection": {
+    "badge": "Valmiina kun sinäkin",
+    "heading": "Klinikkasi ansaitsee verkkosivuston, joka hankkii potilaat automaattisesti.",
+    "description": "Katso, miltä ihotautilääkäreihin erikoistunut toteutus näyttää yrityksellesi. Ilmainen analyysi, kiinteä tarjous, ei painostusta — saat tarkat luvut 24 tunnin kuluessa.",
+    "features": [
+      "Maksuton 24h verkkosivuanalyysi",
+      "Kiinteähintainen tarjous",
+      "HIPAA-huomioitu, WCAG AA",
+      "Omista kaikki — koodi, verkkotunnus, data"
+    ],
+    "buttons": {
+      "start": "Aloita projekti",
+      "audit": "Maksuton analyysi"
+    },
+    "disclaimer": "Ei luottokorttia · Ei myyntipuheita"
+  },
+  "footerLinks": {
+    "text": "Saattaisit olla kiinnostunut myös näistä:",
+    "caseStudies": "tuloshakuiset case-tutkimukset",
+    "process": "projektin etenemisprosessi",
+    "pricing": "ajankohtaiset paketit",
+    "conjunctions": {
+      "or": "tai"
+    }
+  },
+  "gallery": {
+    "eyebrow": "Live verkossa",
+    "heading": "Ihotautisivustoja, joita tutkimme, vertailemme ja rakennamme uudelleen.",
+    "subheading": "Käsin poimittu galleria dermatologia-, estetiikka- ja skincare-brändeistä ympäri maailmaa."
+  },
+  "sites": {
+    "centralaustinderm.com": {
+      "tagline": "Täyden palvelun ihotauti Austinin keskustassa.",
+      "location": "Austin, TX"
+    },
+    "cleardermatology.net": {
+      "tagline": "Hallitussertifioitu lääketieteellinen ja kosmeettinen hoito.",
+      "location": "Scottsdale, AZ"
+    },
+    "olanskydermatology.com": {
+      "tagline": "Esteettinen ihotauti + injektiosarja.",
+      "location": "Atlanta, GA"
+    },
+    "sanovadermatology.com": {
+      "tagline": "Kosmeettinen, lääketieteellinen ja kirurginen ihotauti.",
+      "location": "TX & LA"
+    },
+    "dermsanantonio.com": {
+      "tagline": "Laser + lääketieteellisen ihotautien kampus.",
+      "location": "San Antonio, TX"
+    },
+    "directderm.com": {
+      "tagline": "Teledermatologia suoraan potilaalle.",
+      "location": "USA"
+    },
+    "clinicaldermatologycenter.com": {
+      "tagline": "Tutkimus eteenpäin suuntautuva kliininen dermatologia.",
+      "location": "Cincinnati, OH"
+    },
+    "dermlasercenter.com": {
+      "tagline": "Edistyksellinen laser + ihosyöpäkeskus.",
+      "location": "USA"
+    },
+    "coloradodermatology.com": {
+      "tagline": "Front Range lääketieteellinen ihotauti.",
+      "location": "Colorado"
+    },
+    "skymd.com": {
+      "tagline": "50 osavaltion teledermatologiaverkosto.",
+      "location": "USA"
+    },
+    "chicagodermatology.co": {
+      "tagline": "Boutique-lääketieteellinen ja kosmeettinen ihotauti.",
+      "location": "Chicago, IL"
+    },
+    "cura.sa": {
+      "tagline": "Ensiluokkaista ihotautia ja hyvinvointia KSA:ssa.",
+      "location": "Saudi-Arabia"
+    },
+    "galderma.com": {
+      "tagline": "Maailmanlaajuinen dermatologinen lääketiede ja estetiikka.",
+      "location": "Maailmanlaajuinen"
+    },
+    "badrhealth.com": {
+      "tagline": "Monipuolinen ihotautiryhmä.",
+      "location": "Saudi-Arabia"
+    },
+    "zmmcomedical.com": {
+      "tagline": "Lääketieteellinen + esteettinen ihotautiryhmä.",
+      "location": "MENA"
+    },
+    "naturium.com": {
+      "tagline": "Ihotautilääkärien rakastama ihonhoitobrändi.",
+      "location": "USA"
+    },
+    "westdermatology.com": {
+      "tagline": "Yli 60 sijaintia Länsi-USA:n verkkoon.",
+      "location": "AZ · CA · NV · NM"
+    },
+    "baydermatology.com": {
+      "tagline": "Yleinen ja lasten ihotauti.",
+      "location": "Florida"
+    },
+    "lasercarespecialists.com": {
+      "tagline": "Kohdistettu laser + ihon nuorentaminen.",
+      "location": "USA"
+    },
+    "fwdermatology.com": {
+      "tagline": "Perhe- ja kirurginen ihotauti.",
+      "location": "Fort Worth, TX"
+    },
+    "westlakedermatology.com": {
+      "tagline": "Huippuluokan kosmeettinen ihotautibrändi.",
+      "location": "Texas"
+    },
+    "platinumderm.com": {
+      "tagline": "Moderni platinatason harjoitusryhmä.",
+      "location": "USA"
+    },
+    "sdfamilyderm.com": {
+      "tagline": "Perheensininen ihotauti San Diegossa.",
+      "location": "San Diego, CA"
+    },
+    "candelamedical.com": {
+      "tagline": "Maailmanlaajuinen esteettisten laitteiden valmistaja.",
+      "location": "Maailmanlaajuinen"
+    },
+    "edermatology.com": {
+      "tagline": "Concierge lääketieteellinen ihotauti.",
+      "location": "USA"
+    },
+    "dermatologistoncall.com": {
+      "tagline": "Virtuaaliset ihotautikäynnit tilauksesta.",
+      "location": "USA"
+    },
+    "neodermatologist.com": {
+      "tagline": "Seuraavan sukupolven concierge-dermatologia.",
+      "location": "USA"
+    },
+    "doraclinic.sa": {
+      "tagline": "Ylellinen ihotauti Saudi-Arabiassa.",
+      "location": "Saudi-Arabia"
+    },
+    "reveal-clinics.com": {
+      "tagline": "Esteettinen klinikkaketju, Iso-Britannia.",
+      "location": "Yhdistynyt kuningaskunta"
+    },
+    "dermskincancercenter.com": {
+      "tagline": "Mohsin ja ihosyövän asiantuntijat.",
+      "location": "USA"
+    },
+    "coloradospringsdermatologyclinic.com": {
+      "tagline": "Kosmeettinen + lääketieteellinen ihotauti.",
+      "location": "Colorado Springs, CO"
+    },
+    "azcdps.com": {
+      "tagline": "Kattava AZ-ihotautikäytäntö.",
+      "location": "Arizona"
+    },
+    "lumenis.com": {
+      "tagline": "Energiaan perustuva esteettinen tekniikka.",
+      "location": "Maailmanlaajuinen"
+    },
+    "skinsight.com": {
+      "tagline": "Visuaalinen ihon kunnon viitekirjasto.",
+      "location": "Maailmanlaajuinen"
+    },
+    "skinofcolorsociety.org": {
+      "tagline": "Voittoa tavoittelematon ihonväritutkimus.",
+      "location": "Maailmanlaajuinen"
+    },
+    "clini-derma.com": {
+      "tagline": "Nykyaikainen esteettisen ihotautien klinikka.",
+      "location": "Euroopassa"
+    },
+    "skinandme.com": {
+      "tagline": "Reseptimääräinen ihonhoito, toimitetaan kuukausittain.",
+      "location": "Yhdistynyt kuningaskunta"
+    },
+    "unionmd.ca": {
+      "tagline": "Ensiluokkaista lääketieteellistä ja esteettistä hoitoa.",
+      "location": "Montreal, CA"
+    },
+    "sydneyderm.com.au": {
+      "tagline": "Ihotautien erikoislääkäri Sydneyn CBD:ssä.",
+      "location": "Sydney, AU"
+    },
+    "drhausdermatology.com": {
+      "tagline": "Harley Streetin ihotauti ja estetiikka.",
+      "location": "Lontoo, Iso-Britannia"
+    },
+    "teladochealth.com": {
+      "tagline": "Globaali virtuaalihoitoyritys.",
+      "location": "Maailmanlaajuinen"
+    },
+    "skincarebydrv.com": {
+      "tagline": "Väriasiantuntijabrändin iho.",
+      "location": "Yhdistynyt kuningaskunta"
+    },
+    "sunparkdermatology.ca": {
+      "tagline": "Perhelääkärin ihotautilääkäri.",
+      "location": "Calgary, CA"
+    },
+    "almalasers.com": {
+      "tagline": "Maailmanlaajuinen energiapohjaisten laitteiden valmistaja.",
+      "location": "Maailmanlaajuinen"
+    },
+    "cpso.on.ca": {
+      "tagline": "Ontarion lääkäreiden sääntelyelin.",
+      "location": "Ontario, CA"
+    },
+    "ottawahospital.on.ca": {
+      "tagline": "Akateeminen monikampussairaala.",
+      "location": "Ottawa, CA"
+    },
+    "thedermaco.com": {
+      "tagline": "Tieteen tukema ihonhoitobrändi.",
+      "location": "Intia"
+    },
+    "vancouver.rejuv.ca": {
+      "tagline": "Lääketieteellinen estetiikka ja nuorentaminen.",
+      "location": "Vancouver, CA"
+    },
+    "eudelo.com": {
+      "tagline": "Lontoon dermatologia ja ihon hyvinvointi.",
+      "location": "Lontoo, Iso-Britannia"
+    },
+    "derma-clinic.co.uk": {
+      "tagline": "Konsultin johtama Ison-Britannian ihotauti.",
+      "location": "Yhdistynyt kuningaskunta"
+    },
+    "belfastskinclinic.com": {
+      "tagline": "Pohjois-Irlannin ihoasiantuntijat.",
+      "location": "Belfast, Iso-Britannia"
+    },
+    "cathedraldermatology.com": {
+      "tagline": "Kattava ihotautihoito.",
+      "location": "USA"
+    },
+    "themoleclinic.co.uk": {
+      "tagline": "Iso-Britannian johtava myyräseulontapalvelu.",
+      "location": "Yhdistynyt kuningaskunta"
+    },
+    "blemishclinic.co.uk": {
+      "tagline": "Ihovaurioiden poistoasiantuntijat.",
+      "location": "Yhdistynyt kuningaskunta"
+    },
+    "norvichospital.com": {
+      "tagline": "Monipuolinen yksityinen sairaala.",
+      "location": "Bangladesh"
+    },
+    "heidelbergmedical.com.au": {
+      "tagline": "Kosmeettinen ihotauti ja anti-ageing.",
+      "location": "Melbourne, AU"
+    },
+    "dermscreen.com.au": {
+      "tagline": "Ihosyövän seulontaasiantuntijat.",
+      "location": "Australia"
+    },
+    "stgeorgedermatology.com.au": {
+      "tagline": "Sydneyn erikoislääkärin ihotauti.",
+      "location": "Sydney, AU"
+    },
+    "theskinlab.com.au": {
+      "tagline": "Kosmeettinen ihotauti ja ruiskeet.",
+      "location": "Australia"
+    },
+    "asec.net.au": {
+      "tagline": "Australian Skin Excellence Centre.",
+      "location": "Australia"
+    }
+  },
+  "categoryLabels": {
+    "aesthetic": "Esteettinen",
+    "medical": "Lääketieteellinen",
+    "multiLocation": "Monitoimipaikka",
+    "brand": "Tuotemerkki / yritys",
+    "international": "Kansainvälinen",
+    "specialty": "Erikoisuus"
+  },
+  "filters": {
+    "all": "Kaikki käytännöt",
+    "aesthetic": "Esteettinen ja kosmeettinen",
+    "medical": "Lääketieteellinen ihotauti",
+    "multiLocation": "Usean sijainnin ryhmät",
+    "brand": "Yritys & brändi",
+    "international": "MENA & kansainvälinen",
+    "specialty": "Erikoisala ja resurssit"
+  },
+  "actions": {
+    "visitSite": "Vieraile sivustolla"
+  }
+}

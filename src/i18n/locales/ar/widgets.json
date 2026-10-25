@@ -1,0 +1,72 @@
+{
+  "growthKpi": {
+    "header": "نموذج النمو",
+    "bookingLift": "زيادة في الحجوزات بنسبة {{pct}}%",
+    "projectedRevenueLabel": "إيرادات سنوية إضافية متوقعة",
+    "roiSuffix": "× عائد على الاستثمار الشهري",
+    "bookedVisitsCaption": "الزيارات المحجوزة · توقعات 8 أشهر",
+    "addedPerMonth": "+{{n}}/شهر",
+    "monthlyInvestment": "الاستثمار الشهري",
+    "currentMonthlyVisits": "الزيارات الشهرية الحالية",
+    "kpi": {
+      "newVisits": "زيارات جديدة/شهر",
+      "totalVisits": "إجمالي الزيارات/شهر",
+      "monthlyRevenue": "الإيرادات الشهرية"
+    }
+  },
+  "cpc": {
+    "header": "حاسبة التكلفة بالنقرة",
+    "badge": "معيارية",
+    "costPerBookedLabel": "التكلفة المتوقعة لكل زيارة محجوزة",
+    "bookedVisitsSuffix": "· {{n}} زيارة محجوزة/شهر",
+    "serviceLineLabel": "خط الخدمة",
+    "avgCpcSuffix": "متوسط التكلفة بالنقرة",
+    "monthlySpend": "الإنفاق الشهري على الوسائط",
+    "kpi": {
+      "clicks": "النقرات/شهر",
+      "leads": "العملاء المحتملون/شهر",
+      "avgCpc": "متوسط التكلفة بالنقرة"
+    },
+    "footer": "{{booked}} زيارة محجوزة · {{cost}} لكل منها",
+    "footerBadge": "تقديري",
+    "services": {
+      "acne": "علاج حب الشباب",
+      "mohs": "جراحة موس",
+      "aesthetic": "الالتجميل / التجميل",
+      "general": "أمراض جلدية عامة"
+    }
+  },
+  "radius": {
+    "header": "مخطط منطقة الخدمة",
+    "radiusBadge": "{{n}} ميل نصف قطر",
+    "mapCaption": "عيادتك · {{n}} ميل",
+    "sliderAria": "نصف قطر الخدمة بالأميال",
+    "sliderMin": "{{n}} ميل",
+    "sliderMax": "{{n}} ميل",
+    "kpi": {
+      "residents": "السكان الذين تم الوصول إليهم",
+      "searches": "عمليات البحث المحلية",
+      "visits": "الزيارات المحتملة"
+    },
+    "coveragePrefix": "التغطية عبر",
+    "coverageSuffix": "– مرتبة حسب الشبكة لكل رمز بريدي داخل الحلقة."
+  },
+  "rank": {
+    "header": "متعقب الترتيب المباشر",
+    "live": "مباشر",
+    "fromRank": "من #{{n}}",
+    "quarterFooter": "+{{n}} مركز هذا الربع",
+    "updating": "جارٍ التحديث",
+    "keywords": {
+      "nearMe": "طبيب جلدية بالقرب مني",
+      "acneCity": "علاج حب الشباب [مدينة]",
+      "aesthetic": "أخصائي التجميل",
+      "mohs": "عيادة جراحة موس"
+    }
+  },
+  "preloader": {
+    "brandLead": "تصميم مواقع لأمراض الجلد",
+    "brandHighlight": "الجلدية",
+    "tagline": "متوافق مع HIPAA · يركز على التحويل"
+  }
+}

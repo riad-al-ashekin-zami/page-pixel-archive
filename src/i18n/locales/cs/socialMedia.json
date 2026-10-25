@@ -1,0 +1,310 @@
+{
+  "meta": {
+    "title": "Marketingové služby pro dermatologii na sociálních sítích | Instagram, TikTok, Meta Ads",
+    "description": "Marketing na sociálních sítích pro dermatologické praxe – Instagram, TikTok, Facebook, YouTube a LinkedIn. Obsah v souladu s HIPAA, měsíční natáčení na klinice a placená reklama měřená počtem objednaných konzultací.",
+    "og": {
+      "title": "Marketing dermatologie na sociálních sítích – obsah, který plní termíny",
+      "description": "Kompletní správa sociálních sítí pro dermatology – tvorba obsahu, strategie zaměřená na Reels, správa zpráv a placená reklama s cenou dle objednaných konzultací."
+    },
+    "twitter": {
+      "title": "Služby marketingu na sociálních sítích pro dermatology",
+      "description": "Obsah a placené kampaně pro dermatologické praxe zaměřené na získávání nových konzultací."
+    }
+  },
+  "jsonLd": {
+    "service": {
+      "name": "Marketing na sociálních sítích pro dermatologické praxe",
+      "provider": "DermatologyWebsiteDesign.com",
+      "description": "Full-servis správa sociálních sítí, produkce obsahu a placená reklama pro dermatology měřená počtem sjednaných konzultací."
+    },
+    "breadcrumbs": {
+      "home": "Domů",
+      "services": "Služby",
+      "social": "Sociální sítě"
+    }
+  },
+  "hero": {
+    "badge": "Sociální sítě pro dermatology",
+    "heading": "Obsah, který buduje důvěru – a plní vaši čekárnu.",
+    "description": "Kompletní servis pro vaši praxi na Instagramu, TikToku, Facebooku, YouTube a LinkedInu. Měsíční natáčecí dny, popisky v souladu s HIPAA, správa zpráv a placené kampaně měřené reálnými konzultacemi.",
+    "cta": {
+      "audit": "Bezplatný audit sítí",
+      "platforms": "Zobrazit platformy"
+    },
+    "stats": [
+      {
+        "label": "312 %",
+        "value": "Nárůst sledujících"
+      },
+      {
+        "label": "48+",
+        "value": "Konzultací měsíčně"
+      },
+      {
+        "label": "5.4M",
+        "value": "Zhlédnutí Reels/rok"
+      },
+      {
+        "label": "HIPAA",
+        "value": "Bezpečný obsah"
+      }
+    ],
+    "trust": {
+      "imgAlt": "Klient dermatologie",
+      "rating": "4.9/5",
+      "subtext": "Důvěřuje nám více než 50 dermatologických klinik",
+      "badge": "HIPAA-safe"
+    }
+  },
+  "socialMock": {
+    "handle": "@vase_derm_praxe",
+    "status": "Atestovaný lékař · 24.8k",
+    "live": "živě",
+    "imgAlt": "Náhled feedu dermatologické praxe na Instagramu s obsahem o péči o pleť",
+    "metrics": {
+      "reach": "Dosah",
+      "dms": "Zprávy",
+      "booked": "Objednáno"
+    },
+    "reels": [
+      {
+        "label": "Reels – Rutina na akné",
+        "value": "1.2M"
+      },
+      {
+        "label": "Reels – Průvodce Mohsovou operací",
+        "value": "342k"
+      },
+      {
+        "label": "Statický – Představení lékaře",
+        "value": "58k"
+      }
+    ],
+    "outcome": "+48 konzultací tento měsíc",
+    "timeframe": "30d"
+  },
+  "sections": {
+    "platforms": {
+      "badge": "Pokrytí platforem",
+      "heading": "Šest sítí. Jeden cíl: objednaná konzultace.",
+      "description": "Každá platforma dostává vlastní formát, kadenci a klíčové metriky – žádné kopírování stejných příspěvků napříč kanály.",
+      "items": [
+        {
+          "title": "Růst na Instagramu",
+          "desc": "Strategie orientovaná na Reels – carouselové příspěvky před/po, profilace lékařů a prodejní trychtýře ve zprávách optimalizované pro cestu pacienta."
+        },
+        {
+          "title": "TikTok pro dermatology",
+          "desc": "Krátká edukační videa, která se umisťují ve vyhledávání na TikToku i Google. Vždy v souladu s HIPAA a schválené před publikací."
+        },
+        {
+          "title": "Facebook & Meta Ads",
+          "desc": "Lokální povědomí, lookalike publika podobná vašim pacientům a kampaně s olověnými formuláři s cenou za konzultaci, nikoliv za like."
+        },
+        {
+          "title": "YouTube Shorts & Long-form",
+          "desc": "Vysvětlení procedur, dotazy a odpovědi s lékaři a nadčasová videa o kožních onemocněních, která dominují ve vyhledávání."
+        },
+        {
+          "title": "LinkedIn pro odborníky",
+          "desc": "Budování osobní značky pro atestované dermatology – odborná autorita, síť spolupracujících lékařů a profesionální profil."
+        },
+        {
+          "title": "Správa zpráv a komunity",
+          "desc": "Proškolené šablony odpovědí, garantovaná reakce do 4 hodin, anonymizace citlivých dat a hladké předání pacienta na recepci."
+        }
+      ]
+    },
+    "outcomes": {
+      "heading": "Měřitelné výsledky",
+      "items": [
+        {
+          "k": "312 %",
+          "v": "Nárůst sledujících za 90 dní"
+        },
+        {
+          "k": "48+",
+          "v": "Konzultací měsíčně z Instagramu"
+        },
+        {
+          "k": "5.4M",
+          "v": "Organických zhlédnutí Reels (roční průměr)"
+        },
+        {
+          "k": "4.9",
+          "v": "Průměrné skóre sentimentu značky"
+        }
+      ],
+      "quote": "\"Přešli jsme od publikování jednou týdně k plnohodnotnému měsíčnímu systému. Počet sledujících se ztrojnásobil, ale co je hlavní – počet nových pacientů z Instagramu stoupl ze 4 na 48 měsíčně.\"",
+      "author": "MUDr. Priya Anand · Soukromá dermatologická praxe"
+    },
+    "pillars": {
+      "badge": "Obsahové pilíře",
+      "heading": "Šest pilířů obsahu, každý měsíc, na všech sítích.",
+      "description": "Váš 90denní plán obsahu propojuje každé Reel video, statický post i šablonu zprávy s konkrétní službou a cílem objednávky. Žádné náhodné příspěvky.",
+      "items": [
+        "Profilace lékařů a budování odborné důvěryhodnosti",
+        "Edukace o kožních onemocněních (akné, ekzém, rosacea, lupénka)",
+        "Transformace před/po se stvrzeným souhlasem pacienta",
+        "Videa z kliniky – zákroky, technologie, prohlídky prostor",
+        "Časté dotazy pacientů a vyvracení mýtů formou krátkých videí",
+        "Sezónní kampaně zaměřené na péči o pleť a ochranu před sluncem"
+      ]
+    },
+    "audiences": {
+      "badge": "Pro koho tvoříme",
+      "heading": "Přizpůsobeno každému modelu dermatologie.",
+      "description": "Samostatní lékaři, kliniky s více pobočkami, pediatrie nebo Mohsova chirurgie – strategie odpovídá vašemu tónu a spektru služeb.",
+      "items": [
+        {
+          "title": "Samostatní dermatologové",
+          "desc": "Strategie postavená na osobnosti lékaře – vaše tvář, váš hlas. Hromadné natáčení jednou měsíčně, publikace každý týden."
+        },
+        {
+          "title": "Kliniky s více pobočkami",
+          "desc": "Jednotný vizuální styl, kalendáře pro jednotlivé lokality a správa obsahu od personálu z jednoho centrálního dashboardu."
+        },
+        {
+          "title": "Dětská dermatologie",
+          "desc": "Obsah pro rodiče – uklidňující komunikace, plánování příspěvků na časy školních rozvozů a klinicky schválené snímky."
+        },
+        {
+          "title": "Mohsova a chirurgická dermatologie",
+          "desc": "Budování odborného renomé pro síť referujících lékařů na LinkedIn a edukační Reels s důrazem na souhlas pacienta."
+        }
+      ]
+    },
+    "medical_services": {
+      "badge": "Obsah pro lékařské služby",
+      "heading": "Každá diagnóza. Každý zákrok. Každá konzultace.",
+      "description": "Každá lékařská služba má svůj vlastní obsahový pilíř a mapu hashtagů – Reels, carousely a nadčasové posty pro různé fáze hledání pacienta.",
+      "items": [
+        "Léčba akné",
+        "Léčba ekzému",
+        "Léčba lupénky",
+        "Léčba kožních infekcí",
+        "Léčba kožních alergií",
+        "Screening a léčba rakoviny kůže",
+        "Vyšetření a odstranění mateřských znamének",
+        "Odstranění cyst a lipomů",
+        "Odstraňování bradavic",
+        "Léčba onemocnění nehtů",
+        "Diagnostika a léčba vypadávání vlasů",
+        "Léčba onemocnění vlasové pokožky",
+        "Léčba růžovky (rosacea)",
+        "Léčba hyperpigmentace a melasmy",
+        "Léčba jizev (po úrazech, operacích, nemocech)",
+        "Léčba jizev po popáleninách",
+        "Léčba vitiliga",
+        "Kožní biopsie a diagnostické postupy"
+      ]
+    },
+    "workflow": {
+      "badge": "Jak to funguje",
+      "heading": "90denní start. Následně trvalý růst.",
+      "description": "Transparentní milníky vázané na sjednané konzultace – ne na prázdné statistiky.",
+      "items": [
+        {
+          "step": "01",
+          "phase": "Fáze 01",
+          "title": "Audit značky a obsahu",
+          "desc": "Analýza stylu komunikace, vizuálního systému, konkurence, mapa hashtagů a 90denní plán pilířů pro vaše klíčové služby."
+        },
+        {
+          "step": "02",
+          "phase": "Fáze 02",
+          "title": "Měsíční natáčecí den",
+          "desc": "Jeden den natáčení na klinice měsíčně – Reels, fotky, představení týmu, reference. Efektivní tvorba = dlouhodobá konzistence."
+        },
+        {
+          "step": "03",
+          "phase": "Fáze 03",
+          "title": "Publikace a interakce",
+          "desc": "Plánování na IG, TikTok, FB, YouTube a LinkedIn. Třídění zpráv v den doručení. Týdenní reporting výsledků dle počtu konzultací."
+        },
+        {
+          "step": "04",
+          "phase": "Fáze 04",
+          "title": "Škálování pomocí reklam",
+          "desc": "Nejúspěšnější organické příspěvky podpoříme jako Meta / TikTok reklamy – retargeting webu a zacílení na podobné typy pacientů."
+        }
+      ]
+    },
+    "why_us": {
+      "badge": "Proč nás kliniky volí",
+      "heading": "Specializovaný partner pro dermatologii – ne generická agentura.",
+      "items": [
+        {
+          "title": "Postupy bezpečné pro HIPAA",
+          "desc": "Podepsané souhlasy před zveřejněním čehokoliv. Zprávy obsluhujeme přes bezpečné šablony. Všechny popisky procházejí kontrolou shody."
+        },
+        {
+          "title": "Měsíční natáčení na klinice",
+          "desc": "Jeden natáčecí den zajistí obsah na celý měsíc. Reels, statické posty i klipy s referencemi. Už žádné narychlo tvořené příspěvky."
+        },
+        {
+          "title": "Prémiový design značky",
+          "desc": "Jednotný vizuální styl na všech kanálech – barvy, písmo, animace. Váš profil bude vypadat jako špičková klinika, ne jako šablona."
+        },
+        {
+          "title": "Strategie Reel-first",
+          "desc": "Krátká videa jsou motorem růstu. Každý pilíř vzniká primárně jako Reel a poté se adaptuje pro TikTok, Shorts a statické carousely."
+        },
+        {
+          "title": "Správa zpráv a komunity",
+          "desc": "Proškolené odpovědi a reakce do 4 hodin. Zajišťujeme předání zájemců na recepci, aby žádná poptávka nezapadla."
+        },
+        {
+          "title": "Konzultace místo laiků",
+          "desc": "Měsíční reporty propojují dosah a zprávy přímo s počtem nových pacientů a tržbami za jednotlivé služby. Žádná data pro okrasu."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "Na co se majitelé klinik nejčastěji ptají.",
+    "items": [
+      {
+        "q": "Jak se liší sociální sítě od Google Ads pro dermatologii?",
+        "a": "Google Ads zachycují stávající poptávku – někoho, kdo hledá 'dermatolog u mě'. Sítě poptávku a důvěru vytvářejí. Obsah s lékaři buduje značku, kterou si pacient vybere, až bude skutečně hledat. Nejlepší kliniky dělají obojí; sítě postupně snižují cenu za konverzi v Google Ads."
+      },
+      {
+        "q": "Jsou vaše příspěvky v souladu s HIPAA?",
+        "a": "Ano. Obsah před/po a reference zveřejňujeme pouze s podepsaným souhlasem pro danou službu. Zprávy řešíme přes šablony bez citlivých údajů – v chatu neprovádíme diagnózu, pouze nabízíme termíny konzultací."
+      },
+      {
+        "q": "Natáčíte obsah vy, nebo my?",
+        "a": "My. Jeden natáčecí den na klinice měsíčně pokryje kompletní potřebu obsahu. U klinik, které už mají šikovného tvůrce v týmu, můžeme fungovat v hybridním modelu – my dodáme scénáře, střih a strategii pro jejich záběry."
+      },
+      {
+        "q": "Jaký je minimální závazek?",
+        "a": "90 dní. Sociální sítě mají kumulativní efekt – 30 dní nestačí na vyhodnocení výsledků. Po úvodním sprintu přejdeme na měsíční spolupráci s výpovědní lhůtou 30 dní."
+      },
+      {
+        "q": "Spravujete i placenou reklamu?",
+        "a": "Ano. Reklamní kampaně na Meta a TikToku jsou součástí růstového tarifu. Zesilujeme nejlepší organické posty a spouštíme kampaně zaměřené na cenu za objednanou konzultaci."
+      },
+      {
+        "q": "Zvládnete kliniky s více pobočkami?",
+        "a": "Ano – spravujeme kalendáře pro každou pobočku zvlášť v rámci jednoho vizuálního stylu, včetně lokálně cílených reklam a individuálního reportingu na jednom dashboardu."
+      }
+    ]
+  },
+  "cta": {
+    "badge": "Bezplatný audit sítí",
+    "heading": "Zjistěte, kde vaše sítě přicházejí o pacienty – do 48 hodin.",
+    "description": "Rozbor obsahu, analýza konkurence, mapa hashtagů a pilířů, audit prodejního trychtýře a prioritní 90denní plán pro získání konzultací. Zdarma a bez závazků.",
+    "primary": "Chci audit zdarma",
+    "secondary": "Vyžádat nabídku"
+  },
+  "sticky_footer": {
+    "label": "Bezplatný audit sítí – do 48 h",
+    "button": "Chci audit"
+  },
+  "internal_links": {
+    "prefix": "Také by vás mohlo zajímat: ",
+    "reputation": "sbírání pětihvězdičkových recenzí",
+    "email": "e-mailová péče o stávající pacienty",
+    "gallery": "vaše galerie výsledků před a po"
+  }
+}

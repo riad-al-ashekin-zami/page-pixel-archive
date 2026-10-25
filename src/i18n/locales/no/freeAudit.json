@@ -1,0 +1,259 @@
+{
+  "meta": {
+    "title": "Gratis nettstedsrevisjon for hudleger — få rapporten innen 24 timer",
+    "description": "Få en gratis, spesialtilpasset analyse av din hudlegeklinikks nettside. Personlig rapport om SEO, hastighet, HIPAA, brukeropplevelse og konvertering — levert innen 24 timer.",
+    "og": {
+      "title": "Gratis nettsideanalyse for hudleger",
+      "description": "Personlig nettsideanalyse for hudlegepraksiser — SEO, hastighet, HIPAA, brukeropplevelse og konvertering. Klar på 24 timer."
+    },
+    "jsonLd": {
+      "home": "Hjem",
+      "breadcrumb": "Gratis nettsideanalyse"
+    }
+  },
+  "hero": {
+    "badge": "Gratis · Uforpliktende · 24 timers leveringstiden",
+    "title": "En gratis, personlig gjennomgang av din klinikknettside.",
+    "subtitle": "Få en skreddersydd rapport om SEO, hastighet, HIPAA, brukervennlighet og konvertering — vurdert av en spesialist på dermatologi, ikke et automatisert verktøy. Levert innen 24 timer.",
+    "checklist": [
+      "Resultatkort for nettsidehelse (0–100)",
+      "De 3 viktigste utbedringene, forklart på en enkel måte",
+      "Kortfattet skriftlig oppsummering rett i innboksen",
+      "Helt uforpliktende — rapporten er din til odel og eie"
+    ],
+    "audiencesLabel": "Perfekt for",
+    "audiences": [
+      "Privatpraktiserende hudleger",
+      "Klinikkgrupper med flere avdelinger",
+      "Estetiske klinikker",
+      "Pediatrisk dermatologi",
+      "Mohs-kirurgi og hudkirurgi"
+    ],
+    "stats": {
+      "websites": {
+        "label": "Nettsider",
+        "sub": "Analysert og levert"
+      },
+      "delivery": {
+        "label": "Levering",
+        "sub": "På virkedager"
+      },
+      "niche": {
+        "label": "Dermatologi",
+        "sub": "Nisjefokus"
+      }
+    }
+  },
+  "trustItems": [
+    {
+      "label": "Ekspertise på hudleger",
+      "note": "100 % nisjefokus"
+    },
+    {
+      "label": "24 timers levering",
+      "note": "Rapport i din innboks"
+    },
+    {
+      "label": "Null forpliktelser",
+      "note": "Ingen pågående selgere"
+    },
+    {
+      "label": "Gjennomgang av mennesker",
+      "note": "Ikke bare en Lighthouse-dump"
+    }
+  ],
+  "sections": {
+    "auditAreas": {
+      "tag": "Dette sjekker vi",
+      "title": "Seks vinklinger. Én dermatologi-spesifikk rapport.",
+      "subtitle": "Hver analyse utføres manuelt — ingenting er kopiert fra et skanneverktøy.",
+      "items": [
+        {
+          "title": "SEO og lokal synlighet",
+          "body": "On-page SEO, schema, søkeordene du bør rangere på, Google Business Profile-signaler og synlighet i lokal-søk."
+        },
+        {
+          "title": "Hastighet og Core Web Vitals",
+          "body": "LCP, INP, CLS, mobilytelse, bildeoptimalisering og raske forbedringer utvikleren din kan fikse denne uken."
+        },
+        {
+          "title": "HIPAA og sikkerhet",
+          "body": "Håndtering av skjemaer, PHI-eksponering, SSL, informasjonskapsler og samtykke — vurdert med et trent øye for helsesektoren."
+        },
+        {
+          "title": "Universell utforming (WCAG)",
+          "body": "WCAG 2.1-sjekkpunkter: kontrast, fokusstater, tastaturnavigasjon og alt-tekst for faktiske pasienter."
+        },
+        {
+          "title": "UX og konvertering",
+          "body": "Hvordan nye pasienter opplever booking, tjenestesider og før/etter-gallerier — og hvor du mister dem."
+        },
+        {
+          "title": "Mobilopplevelse",
+          "body": "Gjennomgang på ekte enheter, trykkpunkter, friksjon ved booking og hvordan siden fungerer på 4G i et venterom."
+        }
+      ]
+    },
+    "benefits": {
+      "tag": "Hvorfor be om en gratis analyse?",
+      "title": "Verdien av å vite hva som foregår under overflaten.",
+      "subtitle": "Et tydelig bilde av nettsidens helse i dag — slik at hver markedsføringskrone du bruker i morgen fungerer bedre.",
+      "items": [
+        {
+          "title": "Avdekk skjulte problemer",
+          "body": "De fleste problemer er usynlige — ødelagt schema, treg LCP eller sporingslekkasjer. Vi finner dem."
+        },
+        {
+          "title": "Forbedre ytelsen",
+          "body": "En raskere og ryddigere nettside gir bedre pasientopplevelser og målbart høyere konvertering på bookingskjemaer."
+        },
+        {
+          "title": "Styrk HIPAA og sikkerhet",
+          "body": "Forebygg lekkasjer av pasientinformasjon og sikkerhetsfeil før de blir et compliance-problem."
+        },
+        {
+          "title": "Klatre på Google",
+          "body": "Bedre teknisk SEO og lokale signaler hjelper klinikken din med å klatre i kartvisninger og organiske søkeresultater."
+        }
+      ]
+    },
+    "deliverables": {
+      "tag": "Dette mottar du",
+      "title": "En rapport du faktisk kan bruke.",
+      "description": "Ingen 80-siders PDF full av fagsjargong. Bare de spesifikke problemene som betyr noe for en hudlegeklinikk, rangert etter effekt, med klare steg du kan gi til en utvikler — eller oss.",
+      "tags": {
+        "delivery": "24-timers levering",
+        "confidential": "Konfidensielt",
+        "obligation": "Uforpliktende"
+      },
+      "items": [
+        {
+          "title": "Resultatkort for nettsidehelse",
+          "body": "En samlet poengsum fra 0–100 med rask oversikt over kategorier (SEO, fart, HIPAA, UX, mobil) — så du vet nøyaktig hvor du står."
+        },
+        {
+          "title": "De 3 viktigste utbedringene",
+          "body": "De tre mest kritiske problemene vi finner på siden din, forklart på vanlig norsk. Nok til å ta grep, uten å bli overveldet."
+        },
+        {
+          "title": "Kortfattet skriftlig oppsummering",
+          "body": "En kort oppsummering av scoren din levert til din innboks. En dypere rapport og 90-dagers plan er tilgjengelig som en betalt oppfølging."
+        }
+      ]
+    },
+    "howItWorks": {
+      "tag": "Slik fungerer det",
+      "title": "Fra forespørsel til rapport på 24 timer.",
+      "steps": [
+        {
+          "label": "Steg 1",
+          "title": "Send inn info om nettsiden",
+          "body": "Del nettadressen din og et par detaljer. Det tar ca. 60 sekunder."
+        },
+        {
+          "label": "Steg 2",
+          "title": "Våre eksperter analyserer alt",
+          "body": "Et menneske — ikke et verktøy — vurderer fart, SEO, HIPAA, UX og mobil spesifikt for dermatologi."
+        },
+        {
+          "label": "Steg 3",
+          "title": "Få analysen innen 24 timer",
+          "body": "Ditt resultatkort, de 3 viktigste utbedringene og en kort skriftlig oppsummering sendes direkte til din e-post."
+        },
+        {
+          "label": "Steg 4",
+          "title": "Fiks det selv eller la oss hjelpe",
+          "body": "Gi rapporten til ditt team, eller be oss fjerne flaskehalsene. Ingen kjøpspress uansett."
+        }
+      ]
+    }
+  },
+  "form": {
+    "tag": "Be om din gratis analyse",
+    "title": "Få rapporten din innen 24 timer",
+    "subtitle": "Noen få felt. Ingen konto. Ingen kredittkort.",
+    "fields": {
+      "website": {
+        "label": "Nettsidens URL",
+        "placeholder": "https://dinklinikk.no"
+      },
+      "name": {
+        "label": "Ditt navn",
+        "placeholder": "Dr. Ola Nordmann"
+      },
+      "role": {
+        "label": "Rolle",
+        "placeholder": "Eier, Daglig leder..."
+      },
+      "practice": {
+        "label": "Klinikkens navn",
+        "placeholder": "Helse Hudklinikk"
+      },
+      "email": {
+        "label": "E-post",
+        "placeholder": "navn@klinikk.no"
+      },
+      "phone": {
+        "label": "Telefon",
+        "placeholder": "(valgfritt)"
+      },
+      "goals": {
+        "label": "Hva vil du at vi skal fokusere på?",
+        "optionalLabel": "(valgfritt)",
+        "placeholder": "f.eks. vi har trafikk men få bestillinger, eller vi vil rangere bedre på hudkreftsjekk i Oslo."
+      }
+    },
+    "submit": "Send meg min gratis analyse",
+    "disclaimer": {
+      "spam": "Null spam-garanti",
+      "obligation": "Helt uforpliktende",
+      "confidential": "Konfidensielt — deles aldri"
+    },
+    "success": {
+      "title": "Forespørsel mottatt — takk!",
+      "body": "Vi vil gå gjennom nettsiden din og sende rapporten til din e-postadresse innen 24 virketimer.",
+      "cta": "Se våre nylige prosjekter"
+    },
+    "errors": {
+      "name": "Vennligst oppgi navnet ditt",
+      "email": "Vennligst oppgi en gyldig e-postadresse",
+      "practice": "Vennligst oppgi navnet på klinikken",
+      "website": "Vennligst oppgi nettsidens URL",
+      "generic": "Vennligst sjekk skjemaet for feil",
+      "cooldown": "Vennligst vent {{seconds}} sekunder før du prøver igjen.",
+      "submissionError": "Beklager, noe gikk galt. Vennligst prøv igjen eller send oss en e-post direkte."
+    }
+  },
+  "faq": {
+    "tag": "Ofte stilte spørsmål",
+    "title": "Svar på godt norsk.",
+    "items": [
+      {
+        "q": "Er dette virkelig gratis? Hva er haken?",
+        "a": "Ja — det er helt gratis. Det er vår måte å introdusere oss på. De fleste klinikker utfører anbefalingene selv, mens noen ber oss om hjelp. Begge deler er helt i orden."
+      },
+      {
+        "q": "Hvem utfører analysen?",
+        "a": "Et senior-teammedlem som har levert over 50 nettsider for hudleger. Ingen overlating til juniorer, og ingen automatisert PDF fra et skannerverktøy."
+      },
+      {
+        "q": "Hvordan skiller dette seg fra en Lighthouse- eller SEMrush-rapport?",
+        "a": "Automatiserte verktøy finner generelle feil. Vi tolker dem i din spesifikke kontekst — hva som betyr noe for en kosmetisk klinikk vs. en medisinsk praksis, og hva som bør prioriteres først."
+      },
+      {
+        "q": "Må jeg ansette dere etterpå?",
+        "a": "Nei. Rapporten er din, og du kan bruke den akkurat som du vil. Vi følger kun opp én gang, og bare hvis du ber oss om det."
+      },
+      {
+        "q": "Hvor lang tid tar det?",
+        "a": "Den leveres innen 24 timer på hverdager. Skulle det av en eller annen grunn ta lengre tid, gir vi deg beskjed med en gang."
+      }
+    ]
+  },
+  "footerLinks": {
+    "prefix": "Også nyttig: ",
+    "portfolio": "se våre siste prosjekter",
+    "process": "hvordan vi jobber",
+    "costs": "hva pakkene våre vanligvis koster"
+  }
+}

@@ -1,0 +1,442 @@
+{
+  "meta": {
+    "title": "Webdesign pro dermatologické sítě a více poboček | Jedna značka, každé město",
+    "description": "Prémiový webdesign pro dermatologické kliniky s více pobočkami. Jednotný vizuální styl, SEO pro každou lokalitu zvlášť, Google Business Profily, sjednocená rezervace a shoda s HIPAA. Dominujte v každém městě, kde působíte.",
+    "og_title": "Webdesign pro dermatologické sítě a více poboček | Jedna značka, každé město",
+    "og_description": "Navrhněte řízený web pro dermatologickou síť s vysokým hodnocením pro každou lokalitu. HIPAA-aware, Lighthouse 95+, reálné lokální SEO pro každou pobočku.",
+    "jsonLd": {
+      "serviceType": "Multi-Location Dermatology Website Design",
+      "providerName": "DW Design",
+      "audienceType": "Multi-Location Dermatology Clinics",
+      "offerDescription": "Webdesign pro dermatologické kliniky s více pobočkami – základní cena"
+    }
+  },
+  "hero": {
+    "badge": "Jedna značka · Každé město · Plně indexováno",
+    "title": "Webdesign pro dermatology s více pobočkami, který vítězí v každém vyhledávaném městě.",
+    "description": "Řízený brandový systém, unikátní indexovaná stránka pro každou pobočku, lokální schémata, GBP, recenze a rezervace. Pacienti v Brně, Ostravě i Praze uvidí lokální praxi, nikoliv jen anonymní firemní řetězec.",
+    "cta": "Naplánovat web pro více poboček",
+    "secondary_cta": "Bezplatný audit lokálního SEO",
+    "stats": {
+      "brand": {
+        "value": "1 značka",
+        "description": "Jednotný designový systém"
+      },
+      "locations": "Škálovatelné pobočky",
+      "performance": "Lighthouse skóre na každé stránce"
+    },
+    "rank_badge": {
+      "label": "Lokální pozice live",
+      "value": "Top 3",
+      "subtext": "v každém spuštěném městě, do 60 dnů"
+    },
+    "image_alt": "Mapa sítě dermatologických klinik s jednotným ovládacím panelem značky"
+  },
+  "scaler": {
+    "eyebrow": "Interaktivní · Škálování poboček",
+    "title": "Posunutím zobrazte svůj lokální dosah.",
+    "description": "Podívejte se, kolik indexovaných stránek váš web získá – jedna pro každou kliniku, plus klíčové služby pro každé město.",
+    "label": "Pobočky:",
+    "range_hint": "2 – 10",
+    "stat_indexed": "Indexovaných lokálních stránek",
+    "stat_gbp": "Nastavených a propojených GBP",
+    "browser_placeholder": "vasesite.cz/pobocky",
+    "local_number": "Lokální číslo"
+  },
+  "sections": {
+    "audiences": {
+      "eyebrow": "Pro koho je řešení určeno",
+      "title": "Stvořeno pro dermatologické značky, které působí na více adresách.",
+      "items": [
+        {
+          "label": "Dermatologové v rozkvětu",
+          "desc": "Otevíráte svou druhou nebo třetí ordinaci a jednostránkový web vám už nestačí."
+        },
+        {
+          "label": "Kliniky s více pobočkami",
+          "desc": "3–20 pracovišť pod jednou značkou, vyžadující pozice ve vyhledávání pro každé město a jeden společný CMS."
+        },
+        {
+          "label": "Skupiny dětské dermatologie",
+          "desc": "Příjem pacientů orientovaný na rodiče s párováním lékařů podle lokality."
+        },
+        {
+          "label": "Sítě pro Mohsovu chirurgii",
+          "desc": "Portály pro spolupracující lékaře s obsahem specifickým pro konkrétní klinické případy."
+        }
+      ]
+    },
+    "problems": {
+      "eyebrow": "Co řešíme",
+      "title": "Většina webů pro dermatologické sítě je jen převlečená šablona pro jednu kliniku.",
+      "description": "Google vidí jen jednu stránku. Pacienti jednu adresu. Recenze se kupí u pobočky, kterou algoritmus zaindexoval jako první. My celou architekturu stavíme od základu správně.",
+      "labels": {
+        "before": "Původní stav",
+        "after": "S námi"
+      },
+      "items": [
+        {
+          "before": "Jedna stránka /kontakt pro 6 klinik",
+          "after": "6 unikátních indexovaných lokálních stránek"
+        },
+        {
+          "before": "Stejný H1 nadpis na každé pobočce",
+          "after": "Místně specifické H1 + schéma"
+        },
+        {
+          "before": "GBP neověřené nebo neaktivní",
+          "after": "GBP pro každou pobočku, propojeno s webem"
+        },
+        {
+          "before": "Pacienti se objednávají na špatnou pobočku",
+          "after": "Rezervace reagující na PSČ a URL"
+        },
+        {
+          "before": "Sdílené recenze, nulová lokální důvěra",
+          "after": "Recenze a hodnocení pro každou lokalitu zvlášť"
+        },
+        {
+          "before": "Přidání pobočky = 6 týdnů práce",
+          "after": "Nová lokalita v provozu do 7 dnů"
+        }
+      ]
+    },
+    "pillars": {
+      "eyebrow": "Náš systém",
+      "title": "Šest pilířů, na kterých stavíme weby pro sítě klinik.",
+      "items": [
+        {
+          "title": "Řízený brandový systém",
+          "desc": "Jeden designový jazyk a knihovna komponent – každá nová stránka pobočky je dědí automaticky."
+        },
+        {
+          "title": "SEO pro každou lokalitu",
+          "desc": "Unikátní URL, schémata, nadpisy a obsah pro každou ordinaci – indexováno jako samostatné kliniky."
+        },
+        {
+          "title": "Chytré směrování pacientů",
+          "desc": "Detekce GPS, přepínač v hlavičce a chytré CTA. Pacient se už nikdy neobjedná na špatnou adresu."
+        },
+        {
+          "title": "Hvězdičkové hodnocení pro každou pobočku",
+          "desc": "Recenze sbírané a zobrazované odděleně pro každou kliniku – skutečný lokální důkaz kvality."
+        },
+        {
+          "title": "Jednotná rezervace, lokální ordinace",
+          "desc": "Jeden proces objednání, N kalendářů. Lékaři, otevírací doba a pojišťovny specifické pro dané místo."
+        },
+        {
+          "title": "HIPAA-aware v každém kroku",
+          "desc": "Vstupní formuláře, pacientské portály a analytika – připraveno na BAA smlouvy ve všech lokalitách."
+        }
+      ]
+    },
+    "architecture": {
+      "eyebrow": "URL architektura",
+      "title": "Každá lokalita má svůj indexovatelný domov.",
+      "description": "Google přistupuje ke každé pobočce jako k samostatné klinice. Pacienti přistávají na stránce města, které hledali. Recenze, hodiny a lékaři zůstávají u správné pobočky – nikdy se nemíchají.",
+      "items": [
+        "Rozcestník poboček: /pobocky",
+        "Stránka pobočky: /pobocky/brno",
+        "Lokální služba: /pobocky/brno/lecba-akne",
+        "Medailonek lékaře: /pobocky/brno/mudr-novak",
+        "Strukturovaná data: LocalBusiness + MedicalClinic pro každou URL"
+      ],
+      "visual": {
+        "title": "Plán URL struktury",
+        "status": "Indexováno"
+      }
+    },
+    "seoMatrix": {
+      "eyebrow": "Lokální SEO matice",
+      "title": "Každé město × každá služba, indexováno a hodnoceno.",
+      "description": "Příklad sítě se 4 lokalitami – 12 klíčových služeb × 4 města = 48 unikátně hodnocených stránek nad rámec samotných profilů poboček.",
+      "table": {
+        "head_service": "Služba",
+        "cities": [
+          "Praha",
+          "Brno",
+          "Ostrava",
+          "Plzeň"
+        ],
+        "services": [
+          "Léčba akné",
+          "Léčba ekzému",
+          "Screening rakoviny kůže",
+          "Odstranění mateřských znamének",
+          "Léčba růžovky",
+          "Léčba lupénky"
+        ]
+      }
+    },
+    "medicalServices": {
+      "eyebrow": "Pokryté medicínské služby",
+      "title": "Každý výkon dostupný podle lokality.",
+      "description": "U každé kliniky se zobrazují pouze ty služby, které tam skutečně nabízíte, včetně příslušných lékařů a pojišťoven. Žádné zmatky při rezervaci.",
+      "list": [
+        "Léčba akné",
+        "Léčba ekzému",
+        "Léčba lupénky",
+        "Léčba kožních infekcí",
+        "Léčba kožních alergií",
+        "Screening a léčba rakoviny kůže",
+        "Vyšetření a odstranění znamének",
+        "Odstranění cyst a lipomů",
+        "Odstraňování bradavic",
+        "Léčba onemocnění nehtů",
+        "Léčba vypadávání vlasů",
+        "Léčba onemocnění vlasové pokožky",
+        "Léčba růžovky (rosacea)",
+        "Hyperpigmentace a melasma",
+        "Léčba jizev",
+        "Léčba jizev po popáleninách",
+        "Léčba vitiliga",
+        "Kožní biopsie a diagnostika"
+      ]
+    },
+    "deliverables": {
+      "eyebrow": "Co dostanete",
+      "title": "12 konkrétních výstupů při spuštění.",
+      "list": [
+        "Řízený designový systém pro více poboček",
+        "Unikátní landing page pro každou lokalitu",
+        "Schéma LocalBusiness + MedicalClinic pro každou adresu",
+        "Nastavení Google Business Profilu pro každou pobočku",
+        "Přepínač lokalit na základě PSČ a hlavičky",
+        "Profily lékařů a fotografie prostor pro každou kliniku",
+        "Služby specifické pro dané město (top stránky × N měst)",
+        "Sběr a zobrazení recenzí pro každou lokalitu",
+        "Sjednocený rezervační proces s kontextem místa",
+        "Formuláře v souladu s HIPAA pro všechny lokality",
+        "Core Web Vitals 95+ na každé stránce pobočky",
+        "Analytický přehled (dashboard) rozdělený podle lokalit"
+      ]
+    },
+    "timeline": {
+      "eyebrow": "Proces spolupráce",
+      "title": "Šest milníků. Jeden termín spuštění.",
+      "steps": [
+        {
+          "step": "01",
+          "title": "Audit značky a lokalit",
+          "desc": "Provedeme inventuru všech poboček, lékařů, služeb, pojišťoven a stávajících GBP. Identifikujeme duplicity a mezery v datech (NAP)."
+        },
+        {
+          "step": "02",
+          "title": "Řízený designový systém",
+          "desc": "Vytvoření jednotné sady prvků a komponent. Každá nová stránka pobočky je z nich složena – vizuální styl zůstává konzistentní."
+        },
+        {
+          "step": "03",
+          "title": "Architektura a obsah pro lokality",
+          "desc": "Struktura URL, H1 nadpisy pro města, mapování lékařů a pojišťoven na pobočky a příprava unikátních textů."
+        },
+        {
+          "step": "04",
+          "title": "Vývoj a propojení lokálního SEO",
+          "desc": "Každá stránka pobočky obsahuje schéma, mapu, kontaktní údaje, odkaz na GBP a stránky služeb pro dané město."
+        },
+        {
+          "step": "05",
+          "title": "Testování a HIPAA revize",
+          "desc": "Všechny stránky poboček testujeme na desktopu, tabletech i mobilech. Formuláře procházejí bezpečnostním auditem."
+        },
+        {
+          "step": "06",
+          "title": "Start a podpora lokálních pozic",
+          "desc": "Ověření GBP, sjednocení citací, konfigurace Search Console a GA4 pro každou pobočku. Monitoring pozic po dobu 90 dnů."
+        }
+      ]
+    },
+    "comparison": {
+      "eyebrow": "Proč chtít víc",
+      "title": "Vlastní cesta, obecná agentura, nebo specialisté na dermatologii.",
+      "table": {
+        "head_capability": "Funkce",
+        "head_diy": "DIY nástroje",
+        "head_generic": "Obecná agentura",
+        "head_dw": "DW Design",
+        "recommended": "DOPORUČENO",
+        "rows": [
+          "Unikátní indexovaná stránka pro každou lokalitu",
+          "Schéma LocalBusiness pro každou kliniku",
+          "Nastavení Google Business Profilů",
+          "Rezervace reagující na lokalitu a URL",
+          "Designový systém škálovatelný na +N poboček",
+          "Recenze pro každou pobočku se schématem",
+          "HIPAA-aware formuláře na celém webu",
+          "Lighthouse 95+ na každé stránce pobočky"
+        ]
+      }
+    },
+    "pricing": {
+      "eyebrow": "Investice",
+      "title": "Cena podle počtu obsluhovaných lokalit.",
+      "custom_quote_text": "Pro 10+ poboček, velké klinické skupiny nebo sítě podporované investory – vyžádejte si individuální nabídku.",
+      "custom_quote_link": "vyžádat individuální nabídku",
+      "starting_label": "již od",
+      "most_popular": "Nejžádanější",
+      "market_label": "Běžná tržní cena:",
+      "tiers": [
+        {
+          "name": "2–3 pobočky",
+          "price": "$6,900",
+          "tag": "Rostoucí praxe",
+          "market": "$15,000 – $28,000",
+          "savings": "o 54–75 % levnější",
+          "features": [
+            "Řízený brandový systém",
+            "Až 3 indexované stránky poboček",
+            "Schéma LocalBusiness pro kliniku",
+            "Nastavení GBP pro každé místo",
+            "Jednotná rezervace s kontextem",
+            "Spuštění za 5–7 týdnů"
+          ]
+        },
+        {
+          "name": "4–6 poboček",
+          "price": "$11,400",
+          "tag": "Nejžádanější",
+          "market": "$25,000 – $50,000",
+          "savings": "o 54–77 % levnější",
+          "features": [
+            "Vše z balíčku Rostoucí praxe",
+            "Až 6 indexovaných stránek poboček",
+            "Služby specifické pro každé město",
+            "Sběr recenzí pro každou lokalitu",
+            "Detekce lokality podle PSČ",
+            "Spuštění za 7–9 týdnů"
+          ]
+        },
+        {
+          "name": "7–10 poboček",
+          "price": "$18,900",
+          "tag": "Regionální síť",
+          "market": "$45,000 – $90,000",
+          "savings": "o 58–79 % levnější",
+          "features": [
+            "Vše z balíčku Nejžádanější",
+            "Až 10 indexovaných stránek poboček",
+            "Přiřazení lékařů ke konkrétním místům",
+            "Databáze pojišťoven pro každou kliniku",
+            "Dashboard s analytikou lokalit",
+            "Spuštění za 9–12 týdnů"
+          ]
+        }
+      ],
+      "cta": "Začít spolupráci"
+    },
+    "gallery": {
+      "eyebrow": "Z našich projektů",
+      "title": "Řízený systém v reálném provozu klinik.",
+      "description": "Interiéry dvou poboček aktivních dermatologických sítí, které jsme spustili. Fotografie a identita jsou anonymizovány z důvodu HIPAA a NDA.",
+      "nda_badge": "NDA",
+      "items": [
+        {
+          "label": "Recepce · Lokalita A",
+          "city": "Metropolitní oblast Austin"
+        },
+        {
+          "label": "Ošetřovna · Lokalita B",
+          "city": "Metropolitní oblast Dallas-Fort Worth"
+        }
+      ]
+    },
+    "caseStudy": {
+      "eyebrow": "Anonymizovaná případová studie",
+      "title": "Dermatologická skupina (6 poboček) · výsledky po 90 dnech.",
+      "description": "Jména a identifikační údaje vynechány pod NDA. Data čerpána z Google Search Console + GA4, ověřována čtvrtletně.",
+      "verified": "Ověřeno",
+      "metrics": [
+        {
+          "k": "+41 %",
+          "label": "Hovory od nových pacientů",
+          "sub": "oproti 90 dnům před spuštěním"
+        },
+        {
+          "k": "Top 3",
+          "label": "Pozice v lokálních výsledcích",
+          "sub": "v 6 ze 6 spuštěných měst"
+        },
+        {
+          "k": "48",
+          "label": "Indexovaných lokálních stránek",
+          "sub": "nárůst z původní 1 sdílené stránky /kontakt"
+        },
+        {
+          "k": "97",
+          "label": "Medián Lighthouse skóre",
+          "sub": "napříč všemi stránkami poboček"
+        }
+      ],
+      "chart": {
+        "title": "Týdenní hovory nových pacientů",
+        "description": "Před spuštěním → 90. den",
+        "pre": "Před spuštěním",
+        "post": "Po spuštění",
+        "anonymized": "Klient anonymizován"
+      }
+    },
+    "testimonial": {
+      "quote": "Přešli jsme ze tří ordinací sdílejících jednu kontaktní stránku na šest plně indexovaných klinik, z nichž každá se do 60 dnů umístila v lokální špičce svého města. Počet hovorů od nových pacientů vzrostl o 41 % – a naši sedmou pobočku jsme otevřeli, aniž bychom museli zasahovat do architektury webu.",
+      "author": "Dr. Rachel Patel",
+      "title": "Vedoucí partner, dermatologická skupina se 7 pobočkami (Texas)",
+      "trust_strip": "Dermatologické sítě, pro které pracujeme",
+      "cities": [
+        "Austin",
+        "Plano",
+        "Fort Worth",
+        "Round Rock",
+        "Frisco",
+        "San Antonio"
+      ]
+    }
+  },
+  "faq": {
+    "eyebrow": "Časté dotazy",
+    "title": "Odpovědi na otázky k webům pro více poboček.",
+    "items": [
+      {
+        "q": "Jak se web s více pobočkami umisťuje v Google pro každé město?",
+        "a": "Každá lokalita získá vlastní indexovanou URL (např. /pobocky/brno) s unikátním H1 nadpisem, popisem služeb pro dané město, dedikovaným blokem schémat LocalBusiness + MedicalClinic, vloženou mapou Google, konzistentními údaji NAP a recenzemi přímo pro toto místo. Pozice v lokálních výsledcích se sčítají pro každé město zvlášť, nikoliv pro značku jako celek."
+      },
+      {
+        "q": "Mohou se pacienti objednat na konkrétní pobočku bez zmatků?",
+        "a": "Ano. Rezervační proces vždy začíná určením lokality – buď z URL, na kterou pacient přišel, pomocí detekce PSČ, nebo přes přepínač v hlavičce. Pacient nikdy nemusí hádat, na kterou adresu se vlastně objednává."
+      },
+      {
+        "q": "Jak zajistíte, aby 10+ stránek nepůsobilo jako přes kopírák?",
+        "a": "Využíváme sdílený vizuální systém, ale obsah je unikátní: reálné fotografie daného místa, profily lékařů, kteří tam působí, FAQ specifické pro město, pojišťovny akceptované na TÉTO klinice a navigaci z místních orientačních bodů. Google je čte jako samostatné subjekty – pacienti vnímají lokální péči, ne řetězec."
+      },
+      {
+        "q": "Co když později přidáme nebo zrušíme pobočku?",
+        "a": "Nové lokality se vytvoří z řízené šablony za méně než týden – stejný design, unikátní obsah. Zrušené pobočky jsou přesměrovány (301) na nejbližší sesterskou kliniku se zachováním mapy přesměrování lékařů, takže pozice a doporučení se neztratí, ale přenesou."
+      },
+      {
+        "q": "Řešíte také nastavení Google Business Profilů pro každé místo?",
+        "a": "Ano. Získáváme, ověřujeme a optimalizujeme GBP pro každou pobočku, propojujeme sběr recenzí s webem a sjednocujeme kontaktní údaje v top 40 lékařských katalozích. Viditelnost v lokálních výsledcích je standardní součástí spuštění, nikoliv příplatkem."
+      },
+      {
+        "q": "Jak dlouho trvá spuštění webu pro dermatologickou síť?",
+        "a": "5–7 týdnů pro 2–4 pobočky, 7–10 týdnů pro 5–10 poboček a 10–14 týdnů pro více než 10 lokalit nebo komplexní integraci EHR. Pevné týdenní milníky a jasné datum spuštění stanovujeme hned na začátku."
+      }
+    ]
+  },
+  "cta_founder": {
+    "title": "Za každou spuštěnou pobočku neseme osobní odpovědnost.",
+    "description": "Každé čtvrtletí přijímáme jen omezený počet projektů pro více poboček, abychom zaručili preciznost každé stránky. Pokud váš plán růstu zahrnuje více než jednu adresu, pojďme navrhnout architekturu dříve, než se pohne první pixel.",
+    "cta_quote": "Získat nezávaznou nabídku",
+    "cta_msg": "Poslat zprávu",
+    "footer_title": "Dermatology Website Design",
+    "footer_sub": "Pomáháme dermatologům růst online",
+    "logo_alt": "DW — Webdesign pro dermatology"
+  },
+  "footer_nav": {
+    "useful_hint": "Mohlo by vás také zajímat:",
+    "links": {
+      "single": "webdesign pro samostatné praxe",
+      "seo": "jak funguje lokální viditelnost vyhledávání",
+      "portfolio": "ukázky nedávno spuštěných sítí klinik"
+    }
+  }
+}

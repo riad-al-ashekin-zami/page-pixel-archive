@@ -1,0 +1,272 @@
+{
+  "meta": {
+    "title": "Rozwój kliniki dermatologicznej | Skupienie na umówionych wizytach, nie wyświetleniach",
+    "description": "Usługi wzrostu dla placówek dermatologicznych – pozyskiwanie pacjentów, optymalizacja konwersji, automatyzacja retencji i analityka przychodów powiązana z realnymi wizytami oraz P&L linii zabiegowych.",
+    "og": {
+      "title": "Rozwój praktyki dermatologicznej – liczą się umówione wizyty, nie wyświetlenia",
+      "description": "Kompleksowe wsparcie wzrostu dla gabinetów oraz sieci klinik dermatologicznych – od akwizycji po analitykę finansową."
+    },
+    "twitter": {
+      "title": "Usługi rozwoju dla klinik dermatologicznych",
+      "description": "Wzrost liczby umówionych wizyt w gabinetach dermatologicznych – mierzalny wynik w Twoim rachunku zysków i strat."
+    },
+    "jsonLd": {
+      "serviceType": "Dermatology Practice Growth Services",
+      "provider": "DermatologyWebsiteDesign.com",
+      "description": "Usługi wzrostu dla praktyk dermatologicznych – akwizycja pacjentów, retencja, reputacja i analityka przychodów.",
+      "breadcrumbs": {
+        "home": "Strona główna",
+        "services": "Usługi",
+        "current": "Rozwój praktyki dermatologicznej"
+      }
+    }
+  },
+  "hero": {
+    "badge": "Rozwój Praktyki Dermatologicznej",
+    "title": "Realne wizyty. Nie puste wyświetlenia.",
+    "description": "Kompleksowy wzrost placówek dermatologicznych – pozyskiwanie pacjentów, optymalizacja konwersji i automatyzacja retencji. Każdy kanał mierzymy kosztem pozyskania umówionej wizyty oraz rentownością linii zabiegowej.",
+    "cta": {
+      "primary": "Odbierz bezpłatny audyt wzrostu",
+      "secondary": "Zobacz nasz stos technologiczny"
+    },
+    "stats": [
+      {
+        "value": "42%",
+        "label": "Nowych pacjentów"
+      },
+      {
+        "value": "3.4×",
+        "label": "Więcej zapytań o konsultację"
+      },
+      {
+        "value": "31%",
+        "label": "Niższy CPBV"
+      },
+      {
+        "value": "HIPAA",
+        "label": "Bezpieczny stos IT"
+      }
+    ]
+  },
+  "sections": {
+    "levers": {
+      "badge": "Silnik wzrostu",
+      "heading": "Osiem dźwigni wzrostu. Jeden wspólny rachunek zysków i strat.",
+      "description": "Prawdziwy wzrost następuje tylko wtedy, gdy akwizycja, konwersja, retencja i reputacja współpracują ze sobą – a każda złotówka jest przypisana do konkretnej usługi, a nie tylko kanału marketingowego.",
+      "items": [
+        {
+          "title": "Silnik pozyskiwania pacjentów",
+          "desc": "Wielokanałowy lejek – SEO, wyszukiwanie lokalne, płatne reklamy i polecenia – zintegrowany w jeden mierzalny system umówionych wizyt."
+        },
+        {
+          "title": "Optymalizacja współczynnika konwersji",
+          "desc": "Testy stron lądowania, upraszczanie formularzy i dostrajanie procesu rezerwacji, które zwiększają liczbę konsultacji bez zwiększania budżetu na reklamy."
+        },
+        {
+          "title": "Retencja i przypomnienia dla pacjentów",
+          "desc": "Automatyczne sekwencje przypominające o corocznych badaniach znamion, wizytach kontrolnych i reaktywacja pacjentów, którzy dawno u nas nie byli."
+        },
+        {
+          "title": "Reputacja i opinie",
+          "desc": "Systemy zbierania opinii po wizycie, bezpieczne (zgodne z HIPAA) szablony odpowiedzi i monitoring w Google, Healthgrades oraz portalach branżowych."
+        },
+        {
+          "title": "Analityka przychodów",
+          "desc": "Rentowność poszczególnych usług (P&L), obłożenie lekarzy i atrybucja źródeł marketingu – jeden dashboard zintegrowany z Twoim systemem zarządzania (PMS)."
+        },
+        {
+          "title": "Budowa sieci poleceń",
+          "desc": "Programy współpracy z lekarzami rodzinnymi i ginekologami, pakiety co-marketingowe i kwartalne działania outreach powiązane z wizytami."
+        },
+        {
+          "title": "Zarządzanie kampaniami płatnymi",
+          "desc": "Kampanie Google, Meta i YouTube zorientowane na marżę usług – żadnych pustych wyświetleń i przepalonych budżetów na retargeting."
+        },
+        {
+          "title": "Automatyzacja zgodna z HIPAA",
+          "desc": "Każdy punkt styku – SMS, e-mail, czat – działa w oparciu o infrastrukturę BAA z domyślnym usuwaniem danych wrażliwych PHI."
+        }
+      ]
+    },
+    "outcomes": {
+      "srTitle": "Mierzalne efekty",
+      "items": [
+        {
+          "k": "42%",
+          "v": "Więcej wizyt nowych pacjentów w 6 m-cy"
+        },
+        {
+          "k": "78%",
+          "v": "Wzrost liczby opinii 5-gwiazdkowych"
+        },
+        {
+          "k": "3.4×",
+          "v": "Więcej zapytań o konsultacje kwartał do kwartału"
+        },
+        {
+          "k": "31%",
+          "v": "Redukcja kosztu pozyskania umówionej wizyty"
+        }
+      ],
+      "quote": "Przestaliśmy analizować raporty marketingowe, a zaczęliśmy patrzeć na rachunek zysków i strat. W pół roku liczba nowych pacjentów wzrosła o 42%, a koszt pozyskania wizyty spadł o 31% – teraz dokładnie wiem, ile zarobiła każda linia zabiegowa.",
+      "attribution": "Dr. Alicia Renner · Grupa dermatologiczna z 4 lokalizacjami"
+    },
+    "audiences": {
+      "badge": "Dla kogo pracujemy",
+      "heading": "Rozwiązania skrojone pod każdy model praktyki.",
+      "description": "Niezależnie czy prowadzisz indywidualny gabinet, sieć klinik, dermatologię dziecięcą czy chirurgię Mohsa – model wzrostu dopasowujemy do Twoich mocy przerobowych i marżowości.",
+      "items": [
+        {
+          "title": "Indywidualni dermatolodzy",
+          "desc": "Jeden lekarz, wąskie marże, wysoka wartość pacjenta – wzrost bez konieczności zatrudniania własnego zespołu marketingu."
+        },
+        {
+          "title": "Sieci klinik dermatologicznych",
+          "desc": "Raporty P&L dla poszczególnych lokalizacji, budżety per klinika i centralne zarządzanie standardami marki."
+        },
+        {
+          "title": "Dermatologia dziecięca",
+          "desc": "Lejki sprzedażowe nakierowane na rodziców, komunikacja przyjazna dzieciom i uwzględnienie sezonowości roku szkolnego."
+        },
+        {
+          "title": "Chirurgia Mohsa i dermatologia zabiegowa",
+          "desc": "Ścieżki oparte na poleceniach, weryfikacja ubezpieczeń i zarządzanie reputacją po zabiegach chirurgicznych."
+        }
+      ]
+    },
+    "services": {
+      "badge": "Obsługiwane linie zabiegowe",
+      "heading": "Każda usługa. Każda intencja. Każda umówiona wizyta.",
+      "description": "Każda usługa medyczna jest modelowana jako osobny lejek – z własnym kosztem pozyskania, współczynnikiem konwersji i wartością LTV.",
+      "list": [
+        "Leczenie trądziku",
+        "Leczenie egzemy",
+        "Leczenie łuszczycy",
+        "Leczenie infekcji skóry",
+        "Alergie skórne",
+        "Badanie znamion i leczenie nowotworów skóry",
+        "Ocena znamion i usuwanie medyczne",
+        "Usuwanie torbieli i tłuszczaków",
+        "Usuwanie brodawek",
+        "Choroby paznokci",
+        "Diagnostyka i leczenie łysienia",
+        "Choroby skóry głowy",
+        "Leczenie trądziku różowatego",
+        "Leczenie przebarwień i melasmy (wskazania medyczne)",
+        "Usuwanie blizn (urazy, operacje, choroby)",
+        "Leczenie blizn pooparzeniowych",
+        "Leczenie bielactwa",
+        "Biopsje skóry i procedury diagnostyczne"
+      ]
+    },
+    "workflow": {
+      "badge": "Jak to działa",
+      "heading": "90-dniowy program startowy. Potem efekt skali.",
+      "description": "Przejrzyste kamienie milowe oparte na wizytach i finansach – żadnych raportów typu „czarna skrzynka”.",
+      "steps": [
+        {
+          "step": "01",
+          "phase": "Faza 01",
+          "title": "Diagnostyka i baza wyjściowa",
+          "desc": "Pełny audyt akwizycji i retencji, przegląd P&L usług oraz 12-miesięczny model wzrostu dopasowany do dostępności lekarzy."
+        },
+        {
+          "step": "02",
+          "phase": "Faza 02",
+          "title": "Fundament lejka i marki",
+          "desc": "Przebudowa konwersji na stronie, optymalizacja procesu rezerwacji, spójność głosu marki oraz konfiguracja analityki i atrybucji."
+        },
+        {
+          "step": "03",
+          "phase": "Faza 03",
+          "title": "Uruchomienie kanałów akwizycji",
+          "desc": "Równoległy start SEO, kampanii lokalnych, płatnych i programów poleceń – każdy z określonym celem kosztu pozyskania wizyty."
+        },
+        {
+          "step": "04",
+          "phase": "Faza 04",
+          "title": "Retencja, raportowanie i skalowanie",
+          "desc": "Sekwencje przypominające, zarządzanie opiniami, comiesięczne raporty zarządcze i kwartalna ekspansja linii zabiegowych."
+        }
+      ]
+    },
+    "whyUs": {
+      "badge": "Dlaczego wybierają nas lekarze",
+      "heading": "Partner w rozwoju biznesu dermatologicznego – a nie zwykła agencja.",
+      "items": [
+        {
+          "title": "P&L zamiast dashboardów",
+          "desc": "Każdy efekt raportu odnosi się do realnych wizyt, przychodów z usług i kosztu ich pozyskania – wszystko na jednej czytelnej stronie."
+        },
+        {
+          "title": "Domyślnie bezpieczne (HIPAA)",
+          "desc": "Infrastruktura z BAA i usuwanie danych PHI to u nas podstawa, a nie opcja – audytujemy Twoje systemy przed wprowadzeniem zmian."
+        },
+        {
+          "title": "Respektujemy moce przerobowe",
+          "desc": "Dostosowujemy tempo wzrostu do Twojego kalendarza – nie generujemy popytu, którego Twoi lekarze nie są w stanie obsłużyć."
+        },
+        {
+          "title": "Atrybucja umówionych wizyt",
+          "desc": "Call tracking, atrybucja formularzy i integracja z PMS zapewniają pełną jasność – nie płacisz za puste wyświetlenia."
+        },
+        {
+          "title": "Copywriting medyczny",
+          "desc": "Treści tworzone przez specjalistów medycznych i weryfikowane przez dermatologów – żadnego spamu AI ani niskiej jakości treści."
+        },
+        {
+          "title": "Eliminacja nierentownych działań",
+          "desc": "Każdy kanał ma nieprzekraczalny limit kosztu za wizytę. Brak wyników przez dwa miesiące oznacza relokację budżetu – bez wymówek."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "O co najczęściej pytają właściciele klinik.",
+    "items": [
+      {
+        "q": "Czym różni się to od zwykłej agencji marketingowej?",
+        "a": "Agencje sprzedają wyświetlenia, kliknięcia lub pozycje w Google. My dostarczamy umówione wizyty pacjentów i realny przychód. Każde nasze działanie jest rozliczane z wyniku finansowego w Twoim P&L, a nie z wykresów w Google Analytics. Jeśli kanał się nie opłaca, zamykamy go zamiast go bronić."
+      },
+      {
+        "q": "Jak wygląda pierwsze 90 dni współpracy?",
+        "a": "Dni 1–30: diagnostyka, model wzrostu i przebudowa lejka. Dni 31–60: optymalizacja procesu rezerwacji, start SEO i kampanii lokalnych, uruchomienie systemu opinii. Dni 61–90: start kampanii płatnych z celem kosztu na wizytę, działania w sieci poleceń i pierwszy pełny raport zarządczy."
+      },
+      {
+        "q": "Czy obsługujecie kliniki wielooddziałowe?",
+        "a": "Tak, to nasza specjalizacja. Tworzymy osobne P&L dla każdej lokalizacji, zarządzamy budżetami per placówka i śledzimy obłożenie lekarzy, dbając o spójność wizerunku całej marki."
+      },
+      {
+        "q": "Czy rozwiązania są zgodne z normami bezpieczeństwa (HIPAA)?",
+        "a": "Tak. Cała automatyzacja i integracje działają w oparciu o infrastrukturę BAA. Szablony odpowiedzi nigdy nie zawierają danych wrażliwych, a przed startem audytujemy Twoje formularze i integracje PMS pod kątem wycieków danych."
+      },
+      {
+        "q": "Czy integrujecie się z naszym systemem do zarządzania placówką?",
+        "a": "Integrujemy się z wiodącymi systemami dla dermatologii (Nextech, ModMed, EMA, AdvancedMD) w celu precyzyjnej atrybucji. Tam, gdzie głęboka integracja nie jest możliwa, stosujemy tracking na poziomie warstwy rezerwacyjnej."
+      },
+      {
+        "q": "Co się dzieje, gdy dany kanał nie przynosi efektów?",
+        "a": "Rezygnujemy z niego. Każdy kanał ma ustalony maksymalny koszt pozyskania wizyty. Jeśli przez dwa miesiące z rzędu cel nie jest dowożony, budżet trafia tam, gdzie zwrot z inwestycji jest najwyższy – żadnego marnowania środków."
+      }
+    ]
+  },
+  "cta": {
+    "badge": "Bezpłatny audyt wzrostu",
+    "title": "Dowiedz się, gdzie tracisz pacjentów – w 48 godzin.",
+    "description": "Audyt akwizycji, analiza konwersji, luki w retencji i priorytetowy plan na 90 dni – wszystko dopasowane do rentowności Twoich usług. Bez opłat, bez zobowiązań.",
+    "primary": "Zamów bezpłatny audyt",
+    "secondary": "Poproś o ofertę"
+  },
+  "stickyCta": {
+    "label": "Bezpłatny audyt wzrostu – 48h",
+    "button": "Odbierz"
+  },
+  "related": {
+    "prefix": "Czytaj także: ",
+    "links": {
+      "marketing": "przewodnik właściciela po marketingu dermatologicznym",
+      "googleAds": "płatne pozyskiwanie z Google Ads",
+      "reputation": "systemy opinii i zarządzanie reputacją"
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "title": "Tjenesteavtale — Vilkår for engasjement",
+    "description": "Tjenesteavtalen som regulerer prosjekter mellom studioet vårt og hudlegepraksiser — omfang, leveranser, betaling, IP, konfidensialitet, garantier og oppsigelse.",
+    "page_title": "Tjenesteavtale — Vilkår for engasjement",
+    "page_description": "Tjenesteavtalen som regulerer prosjekter mellom studioet vårt og hudlegepraksiser — omfang, leveranser, betaling, IP, konfidensialitet, garantier og oppsigelse."
+  },
+  "common": {
+    "skip_to_content": "Gå til innhold",
+    "last_updated": "Sist oppdatert:",
+    "last_updated_date": "14. juli 2026"
+  },
+  "hero": {
+    "badge": "Juridisk · Tjenesteavtale",
+    "h1": "Tjenesteavtale",
+    "description": "Vilkår skrevet på et forståelig språk som regulerer design, utvikling og løpende arbeid mellom studioet vårt og din praksis. Les dette sammen med ditt prosjektforslag eller arbeidsomfang (SOW)."
+  },
+  "sections": {
+    "toc_title": "Innhold",
+    "navigation_aria_label": "Seksjonsnavigering",
+    "parties": {
+      "title": "1. Parter og aksept",
+      "body": "Denne tjenesteavtalen («Avtalen») er inngått mellom vårt studio («Leverandøren», «vi», «oss») og klinikken, enheten eller personen som er identifisert i det vedlagte prosjektforslaget eller arbeidsbeskrivelsen («Kunden», «du»). Ved å signere et forslag, sende et depositum eller på annen måte instruere oss om å starte arbeidet, aksepterer du vilkårene nedenfor."
+    },
+    "scope": {
+      "title": "2. Tjenestenes omfang",
+      "body": "De spesifikke tjenestene, leveransene, milepælene og tidslinjene er definert i prosjektforslaget eller arbeidsbeskrivelsen («SOW») som refererer til denne avtalen. Alt som faller utenfor denne SOW-en — som nye sider, ytterligere integrasjoner, ekstra revisjonsrunder eller endring av omfang etter godkjenning — behandles som en endringsordre og kvoteres separat skriftlig."
+    },
+    "fees": {
+      "title": "3. Gebyrer og betaling",
+      "items": [
+        "Et ikke-refunderbart depositum på 50 % kreves for å planlegge og påbegynne arbeidet.",
+        "Restbeløpet faktureres i henhold til milepælene i SOW; sluttbeløpet forfaller før produksjonsstart eller overlevering av filer.",
+        "Fakturaer forfaller innen 7 dager. Forsinkede fakturaer påløper 1,5 % månedlig rente, og arbeidet kan pauses inntil saldoen er gjort opp.",
+        "Løpende planer (hosting, vedlikehold, faste avtaler) faktureres månedlig på forskudd."
+      ]
+    },
+    "timeline": {
+      "title": "4. Tidslinje og kundens ansvar",
+      "body": "Tidslinjer forutsetter svar på gjennomganger og forespørsler om innhold innen 3 virkedager. Forsinkelser i tilbakemeldinger, levering av innhold eller tredjepartsgodkjenninger forskyver tidsplanen dag-for-dag. Du er ansvarlig for å levere nøyaktig innhold, merkevareelementer og tilgangsdata, samt å sikre at innholdet du leverer er sannferdig og ikke krenker andres rettigheter."
+    },
+    "revisions": {
+      "title": "5. Revisjoner",
+      "body": "Hver leveranse inkluderer to runder med samlede revisjoner, med mindre SOW spesifiserer noe annet. Revisjoner som forespørres etter skriftlig godkjenning av et stadium, eller som overstiger de inkluderte rundene, faktureres etter vår til enhver tid gjeldende timesats."
+    },
+    "ip": {
+      "title": "6. Immaterielle rettigheter",
+      "body": "Ved full betaling eier du de endelige leveransene produsert spesielt for deg — nettsteddesign, tilpasset kode og innhold forfattet under SOW. Vi beholder rettighetene til eksisterende rammeverk, verktøy og generiske komponenter som brukes i prosjektet, og gir deg en evigvarende lisens til å bruke disse som en del av ditt prosjekt. Vi kan vise frem det ferdige arbeidet i vår portefølje og som casestudier, med mindre du ber om noe annet skriftlig."
+    },
+    "third_party": {
+      "title": "7. Tredjepartstjenester",
+      "body": "Prosjekter kan avhenge av tredjepartstjenester (hosting, CMS, analyse, integrasjoner mot journalsystem (EHR)/booking, DNS, betalingsløsninger). Du er selv ansvarlig for deres gebyrer og for å akseptere deres vilkår. Vi er ikke ansvarlige for avbrudd, endringer eller feil forårsaket av tredjepartsleverandører."
+    },
+    "hipaa": {
+      "title": "8. HIPAA og datahåndtering",
+      "body": "Våre standard nettsteder bygges med fokus på personvern: de unngår innsamling av beskyttet helseinformasjon (PHI) i skjemaer, sporingsverktøy eller logger. Der et prosjekt bevisst håndterer PHI (f.eks. pasientportaler eller inntaksskjemaer med kliniske data), vil partene inngå en egen Business Associate Agreement («BAA») før slik funksjonalitet tas i bruk. Du er selv ansvarlig for å konfigurere tredjepartsverktøy du legger til etter overlevering på en HIPAA-kompatibel måte."
+    },
+    "confidentiality": {
+      "title": "9. Konfidensialitet",
+      "body": "Begge parter skal holde den andres ikke-offentlige forretningsmessige, økonomiske, pasientrelaterte og tekniske informasjon konfidensiell, og kun bruke den til å gjennomføre denne avtalen. Taushetsplikten vedvarer etter avtalens opphør."
+    },
+    "warranty": {
+      "title": "10. Garanti og ansvarsfraskrivelse",
+      "body": "Vi garanterer at tjenestene vil bli utført på en profesjonell måte i samsvar med bransjestandarder. I 30 dager etter lansering vil vi rette feil i koden vi har skrevet uten kostnad. Utover dette dekkes utbedringsarbeid av en vedlikeholdsplan eller faktureres per time. Med mindre annet er uttrykkelig angitt, leveres tjenester og produkter «som de er», og vi fraskriver oss alle andre garantier, inkludert egnethet for et bestemt formål og ikke-krenkelse av tredjepartstjenester."
+    },
+    "liability": {
+      "title": "11. Ansvarsbegrensning",
+      "body": "I den grad loven tillater det, er ingen av partene ansvarlige for indirekte skader, tilfeldige skader, følgeskader eller tap av fortjeneste. Vårt samlede ansvar under denne avtalen er begrenset til gebyrene du har betalt oss i de tre (3) månedene før kravet oppstod."
+    },
+    "termination": {
+      "title": "12. Oppsigelse",
+      "body": "Begge parter kan si opp avtalen ved vesentlig mislighold dersom misligholdet ikke er rettet innen 14 dager etter skriftlig varsel. Hvis du sier opp avtalen uten saklig grunn, er du ansvarlig for alt utført arbeid og påløpte utgifter frem til oppsigelsesdatoen; depositumet forblir ikke-refunderbart. Løpende planer krever 30 dagers skriftlig varsel."
+    },
+    "misc": {
+      "title": "13. Lovvalg og diverse",
+      "body": "Denne avtalen styres av lovene i jurisdiksjonen oppgitt i SOW. Dette utgjør hele avtalen mellom partene om dette emnet og erstatter tidligere diskusjoner. Hvis noen bestemmelse anses som ikke rettslig bindende, forblir resten av avtalen i kraft. Endringer må skje skriftlig og signeres av begge parter."
+    }
+  },
+  "cta": {
+    "title": "Spørsmål om disse vilkårene?",
+    "description": "Vi går gjerne gjennom alle punkter med deg før du signerer.",
+    "button": "Kontakt oss"
+  }
+}

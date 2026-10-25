@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "title": "Palvelusopimus — Sopimusehdot",
+    "description": "Studiomme ja ihotautiklinikoiden välisiä projekteja hallinnoiva palvelusopimus — laajuus, toimitukset, maksut, immateriaalioikeudet, luottamuksellisuus, takuut ja irtisanominen.",
+    "page_title": "Palvelusopimus — Sopimusehdot",
+    "page_description": "Tämä palvelusopimus määrittelee studiomme ja ihotautiklinikoiden välisen yhteistyön puitteet: työn laajuuden, toimitussisällön, maksuehdot, immateriaalioikeudet, tietosuojan ja vastuut."
+  },
+  "common": {
+    "skip_to_content": "Siirry suoraan sisältöön",
+    "last_updated": "Päivitetty viimeksi:",
+    "last_updated_date": "14. heinäkuuta 2026"
+  },
+  "hero": {
+    "badge": "Lakitiedot · Palvelusopimus",
+    "h1": "Palvelusopimus",
+    "description": "Selkokieliset ehdot, jotka ohjaavat suunnittelua, kehitystä ja jatkuvaa yhteistyötä studiomme ja klinikkasi välillä. Luethan nämä yhdessä projektitarjouksen tai työselosteen (SOW) kanssa."
+  },
+  "sections": {
+    "toc_title": "Sisällysluettelo",
+    "navigation_aria_label": "Osioiden navigointi",
+    "parties": {
+      "title": "1. Osapuolet ja hyväksyminen",
+      "body": "Tämä palvelusopimus (\"Sopimus\") on solmittu studiomme (\"Toimittaja\", \"me\") ja tarjouksessa tai työselosteessa mainitun klinikan, yrityksen tai henkilön (\"Asiakas\", \"te\") välillä. Allekirjoittamalla tarjouksen, maksamalla ennakkomaksun tai valtuuttamalla meidät aloittamaan työn, hyväksytte alla olevat ehdot."
+    },
+    "scope": {
+      "title": "2. Palvelun laajuus",
+      "body": "Palvelut, toimitussisällöt, välitavoitteet ja aikataulut määritellään tähän Sopimukseen viittaavassa tarjouksessa tai työselosteessa (\"SOW\"). Kaikki kyseisen SOW:n ulkopuolinen työ — kuten uudet sivut, lisäintegraatiot, ylimääräiset muokkauskierrokset tai laajuuden muutos hyväksynnän jälkeen — käsitellään muutostyönä ja tarjotaan erikseen kirjallisesti."
+    },
+    "fees": {
+      "title": "3. Palkkiot ja maksuehdot",
+      "items": [
+        "Työn aikataulutus ja aloittaminen edellyttää 50 %:n ennakkomaksua, jota ei palauteta.",
+        "Loppuosa laskutetaan SOW:n välitavoitteiden mukaisesti; lopullinen saldo erääntyy maksettavaksi ennen julkaisua tai tiedostojen luovutusta.",
+        "Laskujen maksuaika on 7 päivää. Myöhästymiskorko on 1,5 % kuukaudessa, ja voimme keskeyttää työn, kunnes maksut on suoritettu.",
+        "Jatkuvat palvelut (ylläpito, tuki, kuukausisopimukset) laskutetaan kuukausittain etukäteen."
+      ]
+    },
+    "timeline": {
+      "title": "4. Aikataulu ja asiakkaan vastuut",
+      "body": "Aikataulut edellyttävät, että katselmointeihin ja sisältöpyyntöihin vastataan 3 arkipäivän kuluessa. Viiveet palautteessa, sisällön toimituksessa tai kolmansien osapuolten hyväksynnöissä siirtävät aikataulua vastaavasti päivä päivältä. Te vastaatte sisällön oikeellisuudesta, brändiaineistoista ja käyttöoikeuksista sekä siitä, että toimittamanne aineisto on totuudenmukaista eikä loukkaa muiden oikeuksia."
+    },
+    "revisions": {
+      "title": "5. Muutostyöt",
+      "body": "Jokaiseen toimitukseen sisältyy kaksi koottua muokkauskierrosta, ellei SOW:ssa toisin mainita. Muutostyöt, jotka pyydetään vaiheen kirjallisen hyväksynnän jälkeen tai jotka ylittävät sovitut kierrokset, laskutetaan voimassa olevan tuntihinnastomme mukaan."
+    },
+    "ip": {
+      "title": "6. Immateriaalioikeudet",
+      "body": "Kun täysi maksu on suoritettu, omistatte lopulliset, teille räätälöidyt toimitukset — kuten verkkosivuston visuaalisen ilmeen, koodin ja SOW:n puitteissa tuotetun sisällön. Säilytämme oikeudet olemassa oleviin kehitysalustoihin, työkaluihin ja yleisiin komponentteihin, ja myönnämme teille jatkuvan lisenssin niiden käyttöön osana projektianne. Saamme esitellä valmista työtä portfoliossamme ja referensseissämme, ellei toisin ole kirjallisesti sovittu."
+    },
+    "third_party": {
+      "title": "7. Kolmannen osapuolen palvelut",
+      "body": "Projektit voivat tukeutua ulkopuolisiin palveluihin (webhotelli, CMS, analytiikka, EHR/ajanvarausintegraatiot, DNS, maksunvälittäjät). Te vastaatte näiden palveluiden maksuista ja ehtojen noudattamisesta. Emme ole vastuussa kolmansien osapuolten aiheuttamista käyttökatkoista, muutoksista tai virheistä."
+    },
+    "hipaa": {
+      "title": "8. HIPAA ja tietosuoja",
+      "body": "Sivustomme rakennetaan HIPAA-yhteensopivuus huomioiden: ne välttävät suojattujen terveystietojen (PHI) keräämistä lomakkeisiin tai lokeihin. Jos projektissa käsitellään tarkoituksella PHI-tietoja (esim. potilasportaalit), osapuolet allekirjoittavat erillisen BAA-sopimuksen ennen toiminnallisuuden julkaisua. Vastaatte itse luovutuksen jälkeen lisäämienne työkalujen HIPAA-vaatimustenmukaisuudesta."
+    },
+    "confidentiality": {
+      "title": "9. Luottamuksellisuus",
+      "body": "Molemmat osapuolet sitoutuvat pitämään toistensa liikesalaisuudet, taloudelliset tiedot ja potilastiedot luottamuksellisina. Luottamuksellisuusvelvoite säilyy voimassa myös sopimuksen päättymisen jälkeen."
+    },
+    "warranty": {
+      "title": "10. Takuu ja vastuuvapaus",
+      "body": "Takaamme, että palvelut suoritetaan ammattimaisesti alan standardien mukaisesti. Korjaamme koodissamme olevat virheet veloituksetta 30 päivän ajan julkaisusta. Tämän jälkeen korjaustyöt kuuluvat ylläpitosopimukseen tai laskutetaan tuntityönä. Palvelut toimitetaan \"sellaisena kuin ne ovat\", emmekä anna muita takuita soveltuvuudesta tiettyyn tarkoitukseen."
+    },
+    "liability": {
+      "title": "11. Vastuunrajoitus",
+      "body": "Lain sallimissa rajoissa kumpikaan osapuoli ei ole vastuussa välillisistä tai epäsuorista vahingoista. Kokonaisvastuumme tämän Sopimuksen puitteissa rajoittuu summaan, jonka olette maksaneet meille vaatimusta edeltävän kolmen (3) kuukauden aikana."
+    },
+    "termination": {
+      "title": "12. Irtisanominen",
+      "body": "Kumpikin osapuoli voi irtisanoa sopimuksen olennaisen sopimusrikkomuksen vuoksi, jos rikkomusta ei korjata 14 päivän kuluessa kirjallisesta ilmoituksesta. Jos irtisanotte sopimuksen ilman erityistä syytä, vastaatte kaikesta tehdystä työstä ja kuluista irtisanomispäivään asti; ennakkomaksua ei palauteta. Jatkuvat sopimukset edellyttävät 30 päivän irtisanomisaikaa."
+    },
+    "misc": {
+      "title": "13. Sovellettava laki ja muut ehdot",
+      "body": "Tähän sopimukseen sovelletaan SOW:ssa määritetyn lainkäyttöalueen lakeja. Tämä on osapuolten välinen koko sopimus ja korvaa aiemmat keskustelut. Jos jokin osa todetaan pätemättömäksi, muu sopimus pysyy voimassa. Muutokset on tehtävä kirjallisesti ja molempien allekirjoitettava."
+    }
+  },
+  "cta": {
+    "title": "Kysyttävää näistä ehdoista?",
+    "description": "Käymme mielellämme läpi kaikki kohdat kanssanne ennen allekirjoitusta.",
+    "button": "Ota yhteyttä"
+  }
+}

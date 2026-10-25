@@ -1,0 +1,74 @@
+{
+  "meta": {
+    "title": "Política de Reembolso — Depósitos, Hitos y Planes Recurrentes",
+    "description": "Información detallada sobre la gestión de depósitos, pagos por hitos y planes de suscripción en caso de cancelación o falta de satisfacción con nuestros servicios.",
+    "og": {
+      "title": "Política de Reembolso — Depósitos, Hitos y Planes Recurrentes",
+      "description": "Información detallada sobre la gestión de depósitos, pagos por hitos y planes de suscripción en caso de cancelación o falta de satisfacción con nuestros servicios."
+    },
+    "twitter": {
+      "title": "Política de Reembolso — Depósitos, Hitos y Planes Recurrentes",
+      "description": "Información detallada sobre la gestión de depósitos, pagos por hitos y planes de suscripción en caso de cancelación o falta de satisfacción con nuestros servicios."
+    }
+  },
+  "layout": {
+    "skip_to_content": "Saltar al contenido"
+  },
+  "hero": {
+    "badge": "Legal · Política de Reembolso",
+    "title": "Política de Reembolso",
+    "description": "Normas claras sobre depósitos, pagos por hitos y planes mensuales para evitar sorpresas ante cualquier cambio de planes.",
+    "last_updated": "Última actualización:",
+    "date": "14 de julio de 2026"
+  },
+  "sidebar": {
+    "contents_label": "Contenido",
+    "nav_aria_label": "Navegación de secciones"
+  },
+  "sections": {
+    "overview": {
+      "title": "1. Descripción General",
+      "body": "Esta Política de Reembolso detalla el manejo de pagos en caso de cancelación, pausa o incumplimiento de expectativas en un proyecto. Este documento complementa nuestro Contrato de Servicios; en caso de discrepancia, prevalecerá la propuesta firmada o el desglose de trabajo (SOW)."
+    },
+    "deposits": {
+      "title": "2. Depósitos",
+      "body": "Los depósitos iniciales del proyecto no son reembolsables. Estos fondos garantizan un lugar en nuestra agenda y cubren la fase de auditoría, estrategia y diseño preliminar que comienza inmediatamente tras su aprobación."
+    },
+    "milestones": {
+      "title": "3. Pagos por Hitos",
+      "list_items": [
+        "Los pagos por hitos corresponden a trabajos ya ejecutados y aprobados. Los pagos por etapas entregadas no son reembolsables.",
+        "Si decide cancelar a mitad del proyecto, será responsable del trabajo realizado y los gastos incurridos hasta la fecha de cancelación. Cualquier saldo prepagado excedente será reembolsado en un plazo de 14 días hábiles."
+      ]
+    },
+    "recurring": {
+      "title": "4. Planes Recurrentes (Mantenimiento, Hosting, Retainers)",
+      "list_items": [
+        "Los planes recurrentes se facturan mensualmente por adelantado y no son reembolsables durante el mes en curso.",
+        "Puede cancelar el servicio en cualquier momento con un aviso previo de 30 días por escrito. El servicio continuará activo hasta finalizar el periodo abonado; no se realizarán más cargos tras la cancelación efectiva.",
+        "Las horas no utilizadas en un Plan de Retainer mensual no son acumulables ni reembolsables."
+      ]
+    },
+    "third_party": {
+      "title": "5. Tarifas de Terceros",
+      "body": "Los pagos realizados a proveedores externos en su nombre —tales como dominios, hosting, licencias multimedia, plugins premium o inversión publicitaria— no son reembolsables una vez adquiridos, independientemente del estado del proyecto."
+    },
+    "chargebacks": {
+      "title": "6. Reclamaciones de Pago (Chargebacks)",
+      "body": "Le solicitamos contactarnos antes de iniciar una reclamación bancaria. Trabajaremos para resolver cualquier incidencia con agilidad. Las reclamaciones presentadas sin previo aviso pueden derivar en la suspensión inmediata de los servicios y se considerarán un incumplimiento sustancial del contrato."
+    },
+    "request": {
+      "title": "7. Cómo Solicitar un Reembolso",
+      "body": "Envíe una solicitud por escrito a través de nuestra página de contacto incluyendo el nombre del proyecto, número de factura y el motivo. Los reembolsos aprobados se procesarán al método de pago original en un plazo máximo de 14 días hábiles."
+    },
+    "changes": {
+      "title": "8. Cambios en esta Política",
+      "body": "Nos reservamos el derecho de actualizar esta Política de Reembolso periódicamente. La fecha de \"Última actualización\" indica la versión vigente."
+    }
+  },
+  "cta": {
+    "title": "¿Necesita consultar un reembolso?",
+    "description": "Contáctenos primero; trabajaremos con usted para encontrar la mejor solución.",
+    "button": "Contactar con nosotros"
+  }
+}

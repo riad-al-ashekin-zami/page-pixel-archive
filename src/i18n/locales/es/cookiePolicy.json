@@ -1,0 +1,108 @@
+{
+  "meta": {
+    "title": "Política de cookies — Uso y gestión de cookies",
+    "description": "Información sobre las cookies y tecnologías similares que utilizamos en nuestro sitio web, su finalidad y cómo puede gestionarlas.",
+    "og": {
+      "title": "Política de cookies — Uso y gestión de cookies",
+      "description": "Información sobre las cookies y tecnologías similares que utilizamos en nuestro sitio web, su finalidad y cómo puede gestionarlas."
+    },
+    "twitter": {
+      "title": "Política de cookies — Uso y gestión de cookies",
+      "description": "Información sobre las cookies y tecnologías similares que utilizamos en nuestro sitio web, su finalidad y cómo puede gestionarlas."
+    }
+  },
+  "layout": {
+    "skipToContent": "Saltar al contenido"
+  },
+  "hero": {
+    "badge": "Legal · Política de cookies",
+    "title": "Política de cookies",
+    "description": "Detalle sobre las cookies y tecnologías similares que utilizamos, sus objetivos y cómo controlarlas. Consulte también nuestra",
+    "privacyPolicyLink": "Política de privacidad",
+    "lastUpdated": "Última actualización:",
+    "lastUpdatedDate": "14 de julio de 2026"
+  },
+  "sidebar": {
+    "contents": "Contenido",
+    "navAriaLabel": "Navegación de secciones"
+  },
+  "sections": {
+    "whatAreCookies": {
+      "title": "1. ¿Qué son las cookies?",
+      "body": "Las cookies son pequeños archivos de texto que se almacenan en su dispositivo al visitar un sitio web. Ayudan a que el sitio recuerde sus acciones y preferencias a lo largo del tiempo. También utilizamos tecnologías similares, como el almacenamiento local y etiquetas de píxel, denominadas colectivamente \"cookies\" en esta política."
+    },
+    "types": {
+      "title": "2. Tipos de cookies que utilizamos",
+      "strictlyNecessary": {
+        "label": "Estrictamente necesarias:",
+        "description": "Requeridas para el funcionamiento básico del sitio, como la navegación, la seguridad y el registro de sus preferencias de consentimiento. No se pueden desactivar."
+      },
+      "performance": {
+        "label": "Rendimiento y analítica:",
+        "description": "Nos ayudan a entender cómo interactúan los visitantes con el sitio para mejorarlo (ej. páginas visitadas, tiempo de estancia, fuentes de tráfico agregado)."
+      },
+      "functional": {
+        "label": "Funcionales:",
+        "description": "Recuerdan las elecciones que usted realiza (como el idioma preferido o su región) para ofrecerle una experiencia más personalizada."
+      },
+      "marketing": {
+        "label": "Marketing:",
+        "description": "Utilizadas por nosotros o nuestros socios para medir la eficacia de las campañas y, si procede, mostrar contenido relevante en otros sitios."
+      }
+    },
+    "firstVsThird": {
+      "title": "3. Cookies propias frente a cookies de terceros",
+      "firstPartyLabel": "Propias",
+      "firstPartyDescription": "Son cookies establecidas directamente por este sitio.",
+      "thirdPartyLabel": "De terceros",
+      "thirdPartyDescription": "Son cookies configuradas por servicios que utilizamos, como proveedores de analítica, vídeo, programación de citas o publicidad. Los terceros son responsables del tratamiento de los datos que recopilan; consulte sus respectivas políticas de cookies y privacidad."
+    },
+    "howWeUse": {
+      "title": "4. Uso de las cookies",
+      "items": [
+        "Mantener la seguridad y el correcto funcionamiento del sitio.",
+        "Recordar su consentimiento y preferencias de navegación.",
+        "Medir el tráfico y entender el comportamiento de los usuarios en la web.",
+        "Optimizar el contenido, el rendimiento y la experiencia de usuario."
+      ]
+    },
+    "manage": {
+      "title": "5. Cómo gestionar sus cookies",
+      "intro": "Dispone de varias formas de controlar las cookies:",
+      "browserSettings": {
+        "label": "Ajustes del navegador:",
+        "description": "La mayoría de los navegadores permiten bloquear o eliminar cookies; consulte las páginas de ayuda de su navegador."
+      },
+      "optOutTools": {
+        "label": "Herramientas de exclusión:",
+        "description": "Muchos proveedores de analítica y publicidad ofrecen sus propios mecanismos de inhabilitación (opt-out)."
+      },
+      "consentBanner": {
+        "label": "Banner de consentimiento:",
+        "description": "Cuando la ley lo requiera, podrá actualizar sus preferencias de consentimiento a través del banner o el enlace de configuración de este sitio."
+      },
+      "footer": "Tenga en cuenta que el bloqueo de ciertas cookies puede afectar a la funcionalidad de algunas secciones del sitio."
+    },
+    "doNotTrack": {
+      "title": "6. Do Not Track (No rastrear)",
+      "body": "Algunos navegadores ofrecen la señal \"Do Not Track\". Actualmente no existe un estándar industrial uniforme para responder a ella, por lo que nuestro sitio no altera su comportamiento en función de dichas señales."
+    },
+    "changes": {
+      "title": "7. Cambios en esta política",
+      "body": "Podemos actualizar esta Política de cookies en función de cambios en nuestras prácticas o en la legislación aplicable. La fecha de \"Última actualización\" indica la versión vigente."
+    },
+    "contact": {
+      "title": "8. Contacto",
+      "body": "¿Tiene dudas sobre el uso de cookies? Puede contactarnos a través de nuestra",
+      "contactLink": "página de contacto",
+      "privacySuffix": ", o consultar nuestra",
+      "privacyLink": "Política de privacidad",
+      "privacyEnd": "para saber cómo tratamos sus datos personales."
+    }
+  },
+  "cta": {
+    "title": "¿Alguna duda sobre las cookies?",
+    "description": "Estaremos encantados de explicarle qué tecnologías utilizamos y por qué.",
+    "button": "Contactar"
+  }
+}

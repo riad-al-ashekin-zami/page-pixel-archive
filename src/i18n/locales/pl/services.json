@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "title": "Usługi tworzenia stron dla dermatologów — Design, SEO i rozwój",
+    "description": "Profesjonalne strony internetowe dla dermatologii: zgodność z HIPAA, SEO, marketing lokalny, portale pacjenta, wsparcie techniczne i strategie rozwoju nowoczesnych gabinetów.",
+    "ogTitle": "Strony internetowe dla dermatologii – Kompleksowe usługi",
+    "ogDescription": "Projektowanie stron, SEO, kampanie płatne, budowanie reputacji, portale oraz galerie efektów zabiegowych dla praktyk dermatologicznych.",
+    "schema": {
+      "name": "Usługi tworzenia stron dla dermatologów",
+      "serviceType": "Projektowanie stron, SEO i marketing wzrostowy dla gabinetów dermatologicznych",
+      "providerName": "Dermatology Website Design"
+    }
+  },
+  "hero": {
+    "eyebrow": "Nasze Usługi",
+    "title": "Strony dla dermatologii stworzone, by zamieniać użytkowników w stałych pacjentów.",
+    "description": "Wybierz konkretny projekt lub kompletny system rozwoju: od autorskiego designu i SEO, przez pozyskiwanie pacjentów, po integracje oraz pełne wsparcie techniczne dla Twojego gabinetu.",
+    "ctaQuote": "Uzyskaj bezpłatną wycenę",
+    "ctaPricing": "Sprawdź cennik",
+    "proofPoints": {
+      "hipaa": "Wdrożenia uwzględniające standardy HIPAA",
+      "responsive": "Pełna responsywność na każdym urządzeniu",
+      "seo": "Solidne fundamenty on-page SEO",
+      "conversion": "Ścieżki pacjenta zorientowane na konwersję"
+    }
+  },
+  "sections": {
+    "website": {
+      "label": "Strony internetowe",
+      "eyebrow": "Buduj",
+      "description": "Dedykowane serwisy, redesign, migracje, portale pacjenta oraz galerie zdjęć „przed i po”, budujące zaufanie i skłaniające do zapisu na wizytę."
+    },
+    "marketing": {
+      "label": "Marketing medyczny",
+      "eyebrow": "Rozwijaj",
+      "description": "Pozycjonowanie SEO, widoczność lokalna, kampanie płatne, zarządzanie opiniami i CRO – systemy przyciągające wartościowych pacjentów."
+    },
+    "support": {
+      "label": "Usługi dodatkowe",
+      "eyebrow": "Wspieraj",
+      "description": "Hosting, wsparcie w zakresie compliance, integracje systemowe, analityka i content marketing dla gabinetów stawiających na ciągły wzrost."
+    }
+  },
+  "cta": {
+    "title": "Nie wiesz, które rozwiązanie będzie najlepsze dla Twojej praktyki?",
+    "description": "Zacznij od bezpłatnego audytu. Wskażemy Ci najbardziej efektywną drogę do zwiększenia widoczności w sieci i optymalizacji konwersji pacjentów.",
+    "button": "Zamów bezpłatny audyt"
+  }
+}

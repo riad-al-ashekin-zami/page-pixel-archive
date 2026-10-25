@@ -1,0 +1,74 @@
+{
+  "meta": {
+    "title": "Peruutusehdot — Ennakkomaksut, välitavoitteet ja jatkuvat palvelut",
+    "description": "Lue kuinka käsittelemme ennakkomaksut, välitavoitteet ja kuukausitilaukset peruutustilanteissa tai mikäli et ole tyytyväinen palveluumme.",
+    "og": {
+      "title": "Peruutusehdot — Ennakkomaksut, välitavoitteet ja jatkuvat palvelut",
+      "description": "Lue kuinka käsittelemme ennakkomaksut, välitavoitteet ja kuukausitilaukset peruutustilanteissa tai mikäli et ole tyytyväinen palveluumme."
+    },
+    "twitter": {
+      "title": "Peruutusehdot — Ennakkomaksut, välitavoitteet ja jatkuvat palvelut",
+      "description": "Lue kuinka käsittelemme ennakkomaksut, välitavoitteet ja kuukausitilaukset peruutustilanteissa tai mikäli et ole tyytyväinen palveluumme."
+    }
+  },
+  "layout": {
+    "skip_to_content": "Siirry sisältöön"
+  },
+  "hero": {
+    "badge": "Oikeudelliset tiedot · Peruutusehdot",
+    "title": "Peruutusehdot",
+    "description": "Selkeät säännöt ennakkomaksuille, välitavoitteille ja jatkuville palveluille — jotta vältyt yllätyksiltä suunnitelmien muuttuessa.",
+    "last_updated": "Päivitetty viimeksi:",
+    "date": "14. heinäkuuta 2026"
+  },
+  "sidebar": {
+    "contents_label": "Sisällysluettelo",
+    "nav_aria_label": "Osion navigointi"
+  },
+  "sections": {
+    "overview": {
+      "title": "1. Yleiskatsaus",
+      "body": "Nämä peruutusehdot määrittelevät, kuinka maksuja käsitellään, jos projekti peruutetaan, keskeytetään tai se ei vastaa odotuksia. Ehdot täydentävät palvelusopimustamme; ristiriitatilanteissa sovelletaan allekirjoitettua tarjousta tai projektisuunnitelmaa."
+    },
+    "deposits": {
+      "title": "2. Ennakkomaksut",
+      "body": "Projektien ennakkomaksuja ei palauteta. Ennakkomaksulla varataan tarvittava kapasiteetti aikataulustamme, ja se kattaa kartoitus-, strategia- ja suunnittelutyön, joka alkaa välittömästi sopimuksen hyväksymisen jälkeen."
+    },
+    "milestones": {
+      "title": "3. Välitavoitteiden maksut",
+      "list_items": [
+        "Välitavoitteiden maksut kattavat jo tehdyn ja hyväksytyn työn. Toimitettujen välitavoitteiden maksuja ei palauteta.",
+        "Jos peruutat tilauksen kesken projektin, vastaat peruutusajankohtaan mennessä tehdystä työstä ja syntyneistä kuluista. Tämän ylittävä ennakkoon maksettu osuus palautetaan 14 arkipäivän kuluessa."
+      ]
+    },
+    "recurring": {
+      "title": "4. Jatkuvat palvelut (ylläpito, hosting, retainer-sopimukset)",
+      "list_items": [
+        "Jatkuvat palvelut laskutetaan kuukausittain etukäteen, eikä kuluvan kuukauden maksua palauteta.",
+        "Voit irtisanoa tilauksen milloin tahansa 30 päivän kirjallisella irtisanomisajalla. Palvelu jatkuu maksetun kauden loppuun saakka, eikä irtisanomisen voimaantulon jälkeen peritä uusia maksuja.",
+        "Kuukausittaiseen kiinteään sopimukseen (retainer) sisältyvät käyttämättömät tunnit eivät siirry seuraavalle kuukaudelle eikä niitä hyvitetä."
+      ]
+    },
+    "third_party": {
+      "title": "5. Kolmannen osapuolen maksut",
+      "body": "Puolestasi maksettuja kolmannen osapuolen maksuja — kuten verkkotunnuksia, hosting-palveluita, kuvapankkimateriaaleja, maksullisia lisäosia tai mainosbudjetteja — ei palauteta oston jälkeen, riippumatta projektin tilasta."
+    },
+    "chargebacks": {
+      "title": "6. Maksunpalautusvaatimukset (Chargebacks)",
+      "body": "Pyydämme ottamaan meihin yhteyttä ennen pankille tehtävää maksunpalautusvaatimusta. Pyrimme ratkaisemaan kaikki epäselvyydet nopeasti. Ilman ennakkoilmoitusta tehdyt vaatimukset voivat johtaa palveluiden välittömään keskeyttämiseen, ja niitä käsitellään sopimusrikkomuksena."
+    },
+    "request": {
+      "title": "7. Hyvityksen pyytäminen",
+      "body": "Lähetä kirjallinen pyyntö yhteydenottosivumme kautta ja ilmoita projektin nimi, laskun numero sekä perustelu pyynnölle. Hyväksytyt palautukset suoritetaan alkuperäiselle maksutavalle 14 arkipäivän kuluessa hyväksymisestä."
+    },
+    "changes": {
+      "title": "8. Muutokset ehtoihin",
+      "body": "Saatamme päivittää näitä peruutusehtoja ajoittain. Yllä oleva \"Päivitetty viimeksi\" -päivämäärä osoittaa nykyisen version voimassaolon."
+    }
+  },
+  "cta": {
+    "title": "Tarvitsetko lisätietoja peruutuksista?",
+    "description": "Ole meihin yhteydessä — etsitään yhdessä reilu ratkaisu tilanteeseen.",
+    "button": "Ota yhteyttä"
+  }
+}

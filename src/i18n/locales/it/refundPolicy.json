@@ -1,0 +1,74 @@
+{
+  "meta": {
+    "title": "Informativa sui rimborsi — Acconti, traguardi e piani ricorrenti",
+    "description": "Scopri come gestiamo acconti, pagamenti per milestone e piani ricorrenti in caso di cancellazione o insoddisfazione dei nostri servizi.",
+    "og": {
+      "title": "Informativa sui rimborsi — Acconti, traguardi e piani ricorrenti",
+      "description": "Scopri come gestiamo acconti, pagamenti per milestone e piani ricorrenti in caso di cancellazione o insoddisfazione dei nostri servizi."
+    },
+    "twitter": {
+      "title": "Informativa sui rimborsi — Acconti, traguardi e piani ricorrenti",
+      "description": "Scopri come gestiamo acconti, pagamenti per milestone e piani ricorrenti in caso di cancellazione o insoddisfazione dei nostri servizi."
+    }
+  },
+  "layout": {
+    "skip_to_content": "Vai al contenuto principale"
+  },
+  "hero": {
+    "badge": "Note Legali · Politica di Rimborso",
+    "title": "Informativa sui rimborsi",
+    "description": "Regole trasparenti per acconti, pagamenti a fasi e piani ricorrenti — per garantire massima chiarezza anche se i tuoi piani cambiano.",
+    "last_updated": "Ultimo aggiornamento:",
+    "date": "14 luglio 2026"
+  },
+  "sidebar": {
+    "contents_label": "Indice",
+    "nav_aria_label": "Navigazione della sezione"
+  },
+  "sections": {
+    "overview": {
+      "title": "1. Panoramica",
+      "body": "La presente Informativa sui rimborsi illustra come vengono gestiti i pagamenti in caso di annullamento, sospensione o mancata conformità di un progetto. Integra il nostro Contratto di Servizio; in caso di discrepanze, fa fede la proposta firmata o il documento programmatico dei lavori."
+    },
+    "deposits": {
+      "title": "2. Acconti",
+      "body": "Gli acconti versati per l'avvio del progetto non sono rimborsabili. Tali somme riservano la nostra disponibilità operativa e coprono le attività di analisi, strategia e progettazione iniziale che iniziano immediatamente dopo la tua approvazione."
+    },
+    "milestones": {
+      "title": "3. Pagamenti per milestone (fasi)",
+      "list_items": [
+        "I pagamenti legati alle milestone coprono il lavoro già completato e approvato. Gli importi versati per le fasi consegnate non sono rimborsabili.",
+        "In caso di annullamento a progetto in corso, sarai responsabile del compenso per il lavoro svolto e per le spese sostenute fino alla data di cancellazione. Qualsiasi eccedenza prepagata sarà rimborsata entro 14 giorni lavorativi."
+      ]
+    },
+    "recurring": {
+      "title": "4. Piani ricorrenti (Care, Hosting, Retainer)",
+      "list_items": [
+        "I piani ricorrenti vengono fatturati mensilmente in anticipo e non sono rimborsabili per il mese in corso.",
+        "Puoi recedere in qualsiasi momento con un preavviso scritto di 30 giorni. Il servizio proseguirà per tutto il periodo già pagato; non verranno effettuati ulteriori addebiti dopo l'efficacia della cancellazione.",
+        "Le ore non utilizzate in un piano retainer mensile non sono cumulabili con il mese successivo e non sono rimborsabili."
+      ]
+    },
+    "third_party": {
+      "title": "5. Spese di terze parti",
+      "body": "Le spese sostenute per tuo conto presso fornitori terzi — come domini, hosting, media d'archivio, plugin premium o budget pubblicitari — non sono rimborsabili una volta acquistate, indipendentemente dallo stato del progetto."
+    },
+    "chargebacks": {
+      "title": "6. Chargeback (Storni)",
+      "body": "Ti preghiamo di contattarci prima di avviare una procedura di chargeback. Ci impegneremo a risolvere tempestivamente ogni tua preoccupazione. Gli storni avviati senza preavviso possono comportare la sospensione immediata dei servizi e saranno trattati come una violazione sostanziale dell'accordo."
+    },
+    "request": {
+      "title": "7. Come richiedere un rimborso",
+      "body": "Invia una richiesta scritta tramite la nostra pagina contatti specificando il nome del progetto, il numero della fattura e la motivazione. I rimborsi approvati verranno accreditati sul metodo di pagamento originale entro 14 giorni lavorativi dall'approvazione."
+    },
+    "changes": {
+      "title": "8. Modifiche alla presente informativa",
+      "body": "Ci riserviamo il diritto di aggiornare periodicamente questa Informativa sui rimborsi. La data dell'ultimo aggiornamento riportata sopra indica la versione corrente."
+    }
+  },
+  "cta": {
+    "title": "Hai bisogno di discutere un rimborso?",
+    "description": "Contattaci prima: lavoreremo insieme per trovare la soluzione migliore.",
+    "button": "Contattaci"
+  }
+}

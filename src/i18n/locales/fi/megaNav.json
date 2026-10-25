@@ -1,0 +1,162 @@
+{
+  "common": {
+    "explore": "Tutustu",
+    "featured": "Suositellut",
+    "free": "Ilmainen",
+    "servicesCount_one": "{{count}} palvelu",
+    "servicesCount_other": "{{count}} palvelua",
+    "needCustomPlan": "Tarvitsetko räätälöidyn suunnitelman?",
+    "customPlanDesc": "Pyydä räätälöity tarjous käytäntöäsi varten.",
+    "getFreeQuote": "Pyydä ilmainen tarjous",
+    "requestFreeAudit": "Pyydä ilmainen tarkastus"
+  },
+  "sections": {
+    "website": {
+      "label": "Verkkosivupalvelut",
+      "tagline": "Kauniita, nopeita, konversioon keskittyviä sivustoja ihotautilääkäreiden vastaanotoille."
+    },
+    "marketing": {
+      "label": "Markkinointipalvelut",
+      "tagline": "Hanki lisää päteviä potilaita SEO:n, mainosten ja maineenhallintajärjestelmien avulla."
+    },
+    "addons": {
+      "label": "Lisäpalvelut",
+      "tagline": "Hoito, hosting, sisältö ja integraatiot kasvun jatkuvuuden varmistamiseksi.",
+      "ctaLabel": "Näytä kaikki lisäosat"
+    },
+    "insights": {
+      "audit": {
+        "title": "Ilmainen verkkosivustotarkastus",
+        "description": "Toistettavia suosituksia 24 tunnin sisällä."
+      }
+    }
+  },
+  "website": {
+    "design": {
+      "label": "Verkkosivustojen suunnittelu",
+      "description": "Konversioon keskittyvät ihotautisivustot."
+    },
+    "redesign": {
+      "label": "Verkkosivuston uudistus",
+      "description": "Modernisoi olemassa oleva vastaanottosi sivusto."
+    },
+    "migration": {
+      "label": "Verkkosivuston siirto",
+      "description": "Siirrä sivustosi ilman käyttökatkoksia, ilman SEO-menetystä."
+    },
+    "maintenance": {
+      "label": "Verkkosivuston ylläpito",
+      "description": "Pidä sivustosi turvallisena, ajan tasalla ja nopeana."
+    },
+    "management": {
+      "label": "Verkkosivuston hallinta",
+      "description": "Täyden palvelun jatkuva verkkosivustojen hallinta."
+    },
+    "support": {
+      "label": "Verkkosivustotuki",
+      "description": "Asiantuntijatuki tarvittaessa."
+    },
+    "multiLocation": {
+      "label": "Usean toimipisteen hallinta",
+      "description": "Skaalautuva rakenne useille klinikoille."
+    },
+    "ecommerce": {
+      "label": "Verkkokauppa",
+      "description": "Myy ihonhoitotuotteita verkossa."
+    },
+    "patientPortal": {
+      "label": "Potilasportaali",
+      "description": "Saumaton potilaskokemus."
+    },
+    "beforeAfter": {
+      "label": "Ennen ja jälkeen -galleria",
+      "description": "Esittele tuloksia kauniisti."
+    }
+  },
+  "marketing": {
+    "seo": {
+      "label": "Dermatologia SEO",
+      "description": "Sijoitu korkealle hakutuloksissa korkean ostoaikeen hauissa."
+    },
+    "localSeo": {
+      "label": "Paikallinen SEO",
+      "description": "Hallitse palvelualuettasi."
+    },
+    "growth": {
+      "label": "Vastaanoton kasvu",
+      "description": "Strategia kestävään kasvuun."
+    },
+    "googleAds": {
+      "label": "Google Ads / PPC",
+      "description": "Ennustettava potilaiden hankinta."
+    },
+    "socialMedia": {
+      "label": "Sosiaalinen media",
+      "description": "Rakenna brändin auktoriteettia."
+    },
+    "reputation": {
+      "label": "Maineenhallinta",
+      "description": "5 tähden arvostelujärjestelmät."
+    },
+    "email": {
+      "label": "Sähköpostimarkkinointi",
+      "description": "Hoivaa ja aktivoi potilaita uudelleen."
+    },
+    "cro": {
+      "label": "CRO",
+      "description": "Muuta kävijät varauksiksi."
+    }
+  },
+  "addons": {
+    "care": {
+      "label": "Hoito ja ylläpito",
+      "description": "Jatkuva sivuston hoito, päivitykset ja seuranta."
+    },
+    "hosting": {
+      "label": "Hosting ja vaatimustenmukaisuus",
+      "description": "Nopea, turvallinen, HIPAA-tietoinen hosting."
+    },
+    "content": {
+      "label": "Sisältö ja konversio",
+      "description": "Tekstit, laskeutumissivut ja CRO-kokeilut."
+    },
+    "analytics": {
+      "label": "SEO ja analytiikka",
+      "description": "Seuranta, kojelaudat ja hakunäkyvyys."
+    },
+    "integrations": {
+      "label": "Integraatiot",
+      "description": "EHR-, varaus-, CRM- ja markkinointityökalut."
+    },
+    "growth": {
+      "label": "Kasvumarkkinointi",
+      "description": "Mainokset, sähköposti ja mainejärjestelmät."
+    }
+  },
+  "insights": {
+    "process": {
+      "label": "Prosessimme",
+      "description": "Miten toimitamme jokaisen projektin."
+    },
+    "about": {
+      "label": "Meistä",
+      "description": "Keitä olemme ja mihin uskomme."
+    },
+    "caseStudies": {
+      "label": "Tapaustutkimukset",
+      "description": "Todellisia tuloksia todellisista käytäytännöistä."
+    },
+    "blog": {
+      "label": "Blogi",
+      "description": "Näkemyksiä kasvaville käytännöille."
+    },
+    "faq": {
+      "label": "Usein kysytyt kysymykset",
+      "description": "Vastauksia yleisimpiin kysymyksiin."
+    },
+    "audit": {
+      "label": "Ilmainen verkkosivustotarkastus",
+      "description": "Henkilökohtaisia suosituksia 24 tunnissa."
+    }
+  }
+}

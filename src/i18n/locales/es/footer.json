@@ -1,0 +1,99 @@
+{
+  "cta": {
+    "eyebrow": "Auditoría web gratuita",
+    "headingLead": "¿Listo para hacer crecer tu",
+    "headingHighlight": "clínica dermatológica",
+    "headingTailShort": "?",
+    "headingTailLong": " online?",
+    "descriptionShort": "Obtén una auditoría web gratuita y un plan de crecimiento personalizado — sin costo.",
+    "descriptionLong": "Obtén una auditoría web gratuita. Revisaremos tu sitio, identificaremos las deficiencias de crecimiento y trazaremos un plan — sin costo.",
+    "button": "Obtener un presupuesto gratuito",
+    "trustedBy": "Con la confianza de dermatólogos de todo el mundo"
+  },
+  "brand": {
+    "logoAlt": "Diseño web de dermatología",
+    "homeAria": "Diseño web de dermatología — Inicio",
+    "tagline": "Sitios web creados exclusivamente para dermatólogos y clínicas de la piel. Sitios web compatibles con HIPAA, optimizados para SEO y centrados en la conversión, diseñados para ayudar a las clínicas a crecer en línea.",
+    "whatsappLabel": "Chatea con nosotros en WhatsApp",
+    "whatsappCta": "Chatear en WhatsApp",
+    "location": "Sirviendo a clínicas dermatológicas en todo el mundo"
+  },
+  "columns": {
+    "services": "Servicios",
+    "company": "Empresa",
+    "resources": "Recursos",
+    "legal": "Legal"
+  },
+  "services": {
+    "websiteDesign": "Diseño web",
+    "websiteRedesign": "Rediseño web",
+    "websiteMigration": "Migración web",
+    "websiteManagement": "Gestión web",
+    "ecommerce": "Sitio web de e-Commerce",
+    "socialMedia": "Gestión de redes sociales"
+  },
+  "company": {
+    "about": "Nosotros",
+    "process": "Nuestro proceso",
+    "caseStudies": "Casos de estudio",
+    "contact": "Contáctanos"
+  },
+  "resources": {
+    "blog": "Blog",
+    "faq": "Preguntas frecuentes",
+    "audit": "Auditoría web gratuita",
+    "auditBadge": "GRATIS",
+    "checklists": "Listas de verificación",
+    "patientPortal": "Portal del paciente",
+    "addOns": "Servicios adicionales"
+  },
+  "legal": {
+    "serviceAgreement": "Acuerdo de servicio",
+    "privacy": "Política de privacidad",
+    "terms": "Términos de servicio",
+    "refund": "Política de reembolso",
+    "cookies": "Política de cookies"
+  },
+  "hipaaBadge": {
+    "title": "Consciente de HIPAA",
+    "note": "Privacidad y seguridad integradas en cada sitio"
+  },
+  "trustBadges": {
+    "hipaa": {
+      "label": "Consciente de HIPAA",
+      "note": "Diseño enfocado en el cumplimiento"
+    },
+    "ada": {
+      "label": "Accesible por ADA",
+      "note": "Conforme a WCAG 2.1"
+    },
+    "ssl": {
+      "label": "SSL seguro",
+      "note": "Cifrado de 256 bits"
+    },
+    "seo": {
+      "label": "SEO optimizado",
+      "note": "Mejor posicionamiento en Google"
+    },
+    "mobile": {
+      "label": "Optimizado para móviles",
+      "note": "Perfecto en todos los dispositivos"
+    },
+    "speed": {
+      "label": "Carga rápida",
+      "note": "Puntuación Lighthouse de 95+"
+    }
+  },
+  "bottom": {
+    "copyright": "© 2026 {{brand}}.",
+    "brand": "Dermatology Website Design",
+    "rights": "Todos los derechos reservados.",
+    "madeWith": "Hecho con",
+    "madeFor": "para clínicas dermatológicas",
+    "backToTop": "Volver arriba"
+  },
+  "compliance": {
+    "heading": "Aviso de cumplimiento",
+    "body": "Construimos sitios web compatibles con HIPAA e implementamos las mejores prácticas de seguridad. Los clientes son responsables de garantizar que su clínica cumpla con todas las regulaciones de atención médica y los requisitos legales aplicables, incluida la obtención de un Acuerdo de Asociado Comercial (BAA) firmado donde se procese la Información de Salud Protegida (PHI). El contenido de este sitio es solo para fines informativos y no constituye asesoramiento médico, legal o financiero. Los resultados de los servicios de marketing, SEO y conversión varían según la clínica, el mercado y el esfuerzo, y no están garantizados. Todos los nombres, logotipos y marcas comerciales de terceros pertenecen a sus respectivos propietarios y se utilizan únicamente con fines de identificación."
+  }
+}

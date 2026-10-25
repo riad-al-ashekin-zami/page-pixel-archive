@@ -1,0 +1,301 @@
+{
+  "meta": {
+    "title": "Website-Migration für die Dermatologie — Keine Ausfallzeiten, kein SEO-Verlust",
+    "description": "Premium-Website-Migration für Einzelpraxen, MVZs, pädiatrische Dermatologie und Mohs-Chirurgen. Plattform- oder CMS-Wechsel ohne Downtime, mit 1:1 301-Redirects, HIPAA-konformem Transfer und Erhalt Ihrer Google-Rankings.",
+    "ogTitle": "Website-Migration für die Dermatologie — Keine Ausfallzeiten, kein SEO-Verlust",
+    "ogDescription": "Migrieren Sie Ihre Dermatologie-Website ohne Ausfallzeiten und Ranking-Verluste. WordPress, Wix, Squarespace, Webflow, HubSpot — HIPAA-konform, vollständig weitergeleitet, 90 Tage lang überwacht."
+  },
+  "jsonLd": {
+    "serviceType": "Website-Migration für die Dermatologie",
+    "provider": "DW Design",
+    "areaServed": "United States",
+    "audienceType": "Dermatologische Praxen",
+    "offerDescription": "Dermatologie-Website-Migration — Einstiegspreis"
+  },
+  "hero": {
+    "badge": "Null Downtime · Null SEO-Verlust",
+    "heading": "Website-Migration für Hautärzte — ohne ein einziges Ranking zu verlieren.",
+    "subheading": "Wechseln Sie von WordPress, Wix, Squarespace, Webflow, GoDaddy, HubSpot oder Altsystemen auf eine schnellere, HIPAA-konforme und konversionsstarke Plattform. Jede URL wird 1:1 weitergeleitet, Ihre Patienten merken nichts und Ihre Google-Rankings bleiben stabil.",
+    "primaryCta": "Migration planen",
+    "secondaryCta": "Kostenloses Migrations-Audit",
+    "stats": {
+      "downtimeLabel": "Gemessene Downtime",
+      "redirectLabel": "100% URL-Redirect-Abdeckung",
+      "rankingsLabel": "0 Ranking-Verluste"
+    }
+  },
+  "liveProof": [
+    {
+      "label": "Migrierte Dermatologie-Seiten"
+    },
+    {
+      "label": "Bisherige Ranking-Verluste"
+    },
+    {
+      "label": "Durchschn. Umschaltzeit"
+    },
+    {
+      "label": "Ø Lighthouse nach Launch"
+    }
+  ],
+  "audiences": {
+    "badge": "Entwickelt für",
+    "heading": "Migrationen, perfekt abgestimmt auf den Praxisalltag.",
+    "items": [
+      {
+        "label": "Einzelpraxen",
+        "desc": "Wechseln Sie von Wix oder GoDaddy, ohne Ihre Google-Platzierungen zu riskieren."
+      },
+      {
+        "label": "ÜBAGs & MVZs",
+        "desc": "Bündeln Sie verschiedene Standort-Subdomains unter einer zentralen, verwalteten Plattform."
+      },
+      {
+        "label": "Kinderdermatologie",
+        "desc": "Erhalt von Patienten-Aufnahmeprozessen und familienfreundlicher UX."
+      },
+      {
+        "label": "Mohs-Chirurgie & Operative Dermatologie",
+        "desc": "Behalten Sie Zuweiser-URLs und medizinische Fallstudien exakt bei."
+      }
+    ]
+  },
+  "platforms": {
+    "badge": "Jede Plattform, jeder Host",
+    "heading": "Wir migrieren von dort, wo Sie heute stehen.",
+    "subheading": "WordPress → Webflow. Wix → WordPress. Squarespace → HubSpot. Legacy-Systeme → Modern Edge Stack. Was auch immer die Quelle ist – wir haben es bereits migriert.",
+    "status": "Migrieren ✓"
+  },
+  "pillars": {
+    "badge": "Die Migrations-Garantie",
+    "heading": "Was Sie behalten. Was Sie gewinnen.",
+    "items": [
+      {
+        "title": "Umschaltung ohne Downtime",
+        "desc": "Pre-warmed Cache und DNS-Staging sorgen dafür, dass Patienten auch während des Wechsels Termine buchen können."
+      },
+      {
+        "title": "1:1 301-Redirect-Map",
+        "desc": "Jede alte URL wird präzise auf ihr neues Ziel geleitet – keine toten Links, kein Verlust der Link-Autorität."
+      },
+      {
+        "title": "HIPAA-konformer Transfer",
+        "desc": "BAA-fähige Prozesse für Formulare, Patientenaufnahmen und alle sensiblen Datenströme."
+      },
+      {
+        "title": "Lighthouse 95+ Launch",
+        "desc": "Ihre neue Seite ist vom ersten Tag an schneller als die alte – nicht erst Monate später."
+      },
+      {
+        "title": "SEO-sicherer Umzug",
+        "desc": "Schema-Daten, Meta-Tags, Überschriften und interne Verlinkungen werden ohne Verluste übertragen."
+      },
+      {
+        "title": "Vollständig responsiver Neuaufbau",
+        "desc": "Desktop, Tablet und Smartphone – pixelgenau und auf echten Endgeräten getestet."
+      }
+    ]
+  },
+  "lighthouse": {
+    "badge": "Beweise statt Versprechen",
+    "heading": "Jede Migration wird mit einem echten Lighthouse-Audit geliefert.",
+    "description": "Wir behaupten nicht nur, dass wir schnell sind. Bevor wir die Seite übergeben, führen wir ein vollständiges Google Lighthouse-Audit durch. Unten sehen Sie ein typisches Ergebnis nach dem Launch – reproduzierbar, kein Marketing-Hype.",
+    "tags": [
+      "Auf echten Geräten getestet",
+      "Mobile + Desktop",
+      "Rohdaten-Report inklusive"
+    ],
+    "ui": {
+      "title": "Google Lighthouse · Mobil",
+      "subtitle": "Audit nach der Migration",
+      "labels": {
+        "performance": "Leistung",
+        "accessibility": "Barrierefreiheit",
+        "bestPractices": "Best Practices",
+        "seo": "SEO"
+      }
+    }
+  },
+  "gains": {
+    "badge": "Vorher → Nachher",
+    "heading": "Ein sicherer, schnellerer und sauberer Umzug.",
+    "labels": {
+      "redirects": "URL-Weiterleitungen",
+      "downtime": "Umschalt-Downtime",
+      "risk": "Ranking-Risiko",
+      "score": "Lighthouse Score"
+    }
+  },
+  "process": {
+    "badge": "Der 6-Schritte-Plan",
+    "heading": "Von der Analyse bis zum stabilen, überwachten Live-Gang.",
+    "steps": [
+      {
+        "title": "Analyse & Full Site Crawl",
+        "desc": "Wir crawlen jede URL, erfassen Ranking-Daten, inventarisieren Formulare und identifizieren HIPAA-kritische Endpunkte."
+      },
+      {
+        "title": "URL- & Redirect-Blueprint",
+        "desc": "Eine freigegebene 1:1 Redirect-Map und ein Strukturplan stehen fest, bevor das Design angerührt wird."
+      },
+      {
+        "title": "Staging-Neuaufbau",
+        "desc": "Die neue Seite entsteht auf einer privaten Staging-Domain. Inhalte, Schema und Metadaten werden mit Paritätsprüfung übertragen."
+      },
+      {
+        "title": "Qualitätssicherung & Abnahme",
+        "desc": "Vergleich jeder migrierten Seite — Performance, SEO, Barrierefreiheit und HIPAA erhalten grünes Licht."
+      },
+      {
+        "title": "DNS-Umschaltung",
+        "desc": "Cache-Vorbereitung, minimierte TTLs und Live-Redirects – der DNS-Wechsel erfolgt in Sekunden. Patienten buchen unterbrechungsfrei."
+      },
+      {
+        "title": "90-Tage Ranking-Wache",
+        "desc": "Tägliches Monitoring der Search Console, Redirect-Audits und Core Web Vitals Tuning während der Stabilisierungsphase."
+      }
+    ]
+  },
+  "checklist": {
+    "badge": "Ranking-Checkliste",
+    "heading": "Was wir alles übertragen — Punkt für Punkt.",
+    "items": [
+      "Jede URL 1:1 weitergeleitet",
+      "Meta-Titel & Beschreibungen migriert",
+      "Schema-Markup übernommen",
+      "Interne Linkstruktur erhalten",
+      "Bilder optimiert, Alt-Texte beibehalten",
+      "Core Web Vitals von Grund auf neu aufgebaut",
+      "Search Console + Analytics neu verknüpft",
+      "HIPAA-Formulare unter BAA neu geprüft"
+    ]
+  },
+  "services": {
+    "badge": "Abgedeckte Leistungen",
+    "heading": "Jede Behandlungsseite wird übertragen, gemappt und erhalten.",
+    "description": "Jede Leistungsseite wird neu indexiert, wobei Schema-Daten, Intention und Ranking-Keywords intakt bleiben.",
+    "list": [
+      "Aknebehandlung",
+      "Ekzembehandlung",
+      "Psoriasis-Therapie",
+      "Hautinfektionen",
+      "Hautallergien",
+      "Hautkrebsvorsorge & -therapie",
+      "Muttermal-Untersuchung & Entfernung",
+      "Zysten- & Lipomentfernung",
+      "Warzenbehandlung",
+      "Nagelerkrankungen",
+      "Haarausfall-Therapie",
+      "Kopfhauterkrankungen",
+      "Rosacea-Behandlung",
+      "Hyperpigmentierung & Melasma",
+      "Narbenbehandlung",
+      "Brandnarben-Therapie",
+      "Vitiligo-Behandlung",
+      "Hautbiopsien & Diagnostik"
+    ]
+  },
+  "comparison": {
+    "badge": "Warum Praxen uns wählen",
+    "heading": "Selbst machen, Generalisten beauftragen oder mit Dermatologie-Spezialisten arbeiten.",
+    "headers": {
+      "label": "Was Sie erhalten",
+      "diy": "DIY / Intern",
+      "generalist": "Allround-Agentur",
+      "dw": "DW Design"
+    },
+    "rows": {
+      "downtime": "Umschaltung ohne Downtime",
+      "redirects": "1:1 URL-Redirect-Map",
+      "hipaa": "HIPAA-konformer Datentransfer",
+      "schema": "Schema- & Metadaten-Parität",
+      "monitoring": "90 Tage Ranking-Monitoring",
+      "lighthouse": "Lighthouse 95+ am ersten Tag",
+      "timeline": "Fester Zeitplan & Meilensteine"
+    }
+  },
+  "testimonial": {
+    "quote": "Wir haben vier Praxis-Seiten in sechs Wochen von einem Altsystem auf eine moderne Plattform migriert. Kein einziger Link ging kaputt, kein Keyword verloren, und die Seitengeschwindigkeit hat sich sofort verdoppelt.",
+    "author": "Dr. Yasmin Delgado, MD",
+    "role": "HV Dermatology · 4 Standorte",
+    "video": {
+      "badge": "Success Story ansehen · 47s",
+      "heading": "Keine Ausfallzeiten, keine Panik — und die Rankings sind sogar gestiegen.",
+      "ariaLabel": "Video-Testimonial abspielen",
+      "authorFooter": "Dr. Yasmin Delgado, MD",
+      "titleFooter": "Migration von 4 Kliniken",
+      "stats": {
+        "timeline": "6 Wochen",
+        "timelineLabel": "Gesamtdauer",
+        "traffic": "+18%",
+        "trafficLabel": "Traffic-Plus",
+        "links": "0",
+        "linksLabel": "Defekte Links"
+      }
+    }
+  },
+  "faq": {
+    "badge": "FAQ",
+    "heading": "Ehrliche Antworten zur Migration.",
+    "items": [
+      {
+        "q": "Gibt es während der Migration Ausfallzeiten für Patienten?",
+        "a": "Nein. Wir bauen die neue Seite auf einer Spiegel-Domain auf, führen eine vollständige Qualitätsprüfung durch und schalten den DNS mit vorbereitetem Cache um. Nutzer erleben einen nahtlosen Wechsel – die gemessene Downtime liegt meist unter 30 Sekunden."
+      },
+      {
+        "q": "Verlieren wir durch die Migration unsere Google-Rankings?",
+        "a": "Nein. Jede URL wird 1:1 mittels 301-Redirects gemappt, Metadaten und Schema-Daten bleiben erhalten. Wir überwachen die Search Console nach dem Launch 90 Tage lang täglich. Verlustfreie Migrationen sind bei uns der Standard."
+      },
+      {
+        "q": "Von welchen Plattformen migrieren Sie?",
+        "a": "WordPress, Wix, Squarespace, Webflow, GoDaddy, Duda, Weebly, HubSpot CMS, Drupal, Joomla sowie individuelle Altsysteme. Wir übernehmen auch Host-zu-Host-Umzüge und komplette CMS-Wechsel."
+      },
+      {
+        "q": "Wie werden Patientendaten beim Transfer behandelt?",
+        "a": "Alle Patientenformulare, Portale oder Aufnahmedaten werden über BAA-konforme Workflows abgewickelt. Es werden niemals PHI (personenbezogene Gesundheitsdaten) in unsichere Umgebungen exportiert; wir nutzen ausschließlich verschlüsselte Transfers."
+      },
+      {
+        "q": "Wie lange dauert eine vollständige Migration der Website?",
+        "a": "4–7 Wochen für eine Standardpraxis, 6–10 Wochen für mehrere Standorte und 8–12 Wochen bei komplexen EHR-Integrationen. Wir arbeiten mit festen wöchentlichen Meilensteinen."
+      },
+      {
+        "q": "Was passiert, wenn meine alte Seite ein Chaos aus PDFs und ungenutzten Blogs ist?",
+        "a": "Wir bereinigen und konsolidieren. Veraltete oder wertlose URLs werden auf das beste Ziel umgeleitet, wertvolle Inhalte strukturiert und Duplikate zusammengeführt – für eine saubere Informationsarchitektur."
+      }
+    ]
+  },
+  "cta": {
+    "badge": "Kostenloser 30-Minuten-Plan",
+    "heading": "Senden Sie uns Ihre aktuelle Website. Wir zeigen Ihnen den sichersten Weg für den Umzug.",
+    "subheading": "Sie erhalten einen Entwurf der Redirect-Map, eine Plattform-Empfehlung und einen realistischen Zeitplan – völlig unverbindlich. Wir prüfen jeden Migrationsplan persönlich.",
+    "footerName": "Dermatology Website Design",
+    "footerTag": "Wir helfen Dermatologen, online zu wachsen",
+    "primaryLink": "Meinen Migrationsplan anfordern",
+    "secondaryLink": "Kontakt aufnehmen",
+    "altImg": "DW — Dermatology Website Design"
+  },
+  "footerLinks": {
+    "preface": "Auch interessant: ",
+    "redesign": "Unser Ansatz für ein frisches Redesign",
+    "management": "Wie wir Seiten langfristig verwalten",
+    "costs": "Typische Kosten einer Migration"
+  },
+  "simulator": {
+    "badge": "Live testen",
+    "heading": "Vorschau Ihrer Redirect-Map in 4 Sekunden.",
+    "inputPlaceholder": "ihre-praxis.de",
+    "buttonLabel": "Migration simulieren",
+    "srLabel": "Ihre aktuelle Website-URL",
+    "headers": {
+      "old": "Alte URL",
+      "action": "301 →",
+      "new": "Neue URL"
+    },
+    "result": "5 von 5 URLs gemappt · 0 Rankings gefährdet · Bereit zur Migration.",
+    "floatingOne": "Umschaltung in 27s",
+    "floatingTwo": {
+      "rankings": "100% Rankings erhalten",
+      "audit": "Tag-30-Audit"
+    }
+  }
+}

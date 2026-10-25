@@ -1,0 +1,193 @@
+{
+  "meta": {
+    "title": "Kontakt oss — Nettsidedesign for hudleger",
+    "description": "Ta kontakt med vårt team for nettsidedesign innen dermatologi. E-post, WhatsApp eller send oss en melding — vi svarer innen 24 timer.",
+    "ogTitle": "Kontakt oss — Nettsidedesign for hudleger",
+    "ogDescription": "Spørsmål om klinikkens nettside? Ta kontakt — vi svarer innen 24 timer.",
+    "breadcrumbHome": "Forside",
+    "breadcrumbContact": "Kontakt"
+  },
+  "form": {
+    "validation": {
+      "name": "Vennligst oppgi navnet ditt",
+      "email": "Vennligst oppgi en gyldig e-postadresse",
+      "topic": "Vennligst velg et emne",
+      "message": "Vennligst skriv en kort melding (min. 10 tegn)"
+    },
+    "subjects": [
+      "Ny nettside",
+      "Redesign av nettside",
+      "Migrering av nettside",
+      "SEO / Markedsføring",
+      "Drift og vedlikehold",
+      "Generelle spørsmål"
+    ],
+    "errors": {
+      "fixFields": "Vennligst rett opp i de markerte feltene.",
+      "cooldown": "Vennligst vent {{seconds}} sekunder før du prøver igjen.",
+      "global": "Beklager, noe gikk galt. Vennligst prøv igjen eller send oss en e-post direkte."
+    },
+    "labels": {
+      "name": "Navn",
+      "email": "E-post",
+      "phone": "Telefon (valgfritt)",
+      "website": "Nettadresse (valgfritt)",
+      "practice": "Klinikkens navn",
+      "subject": "Hva gjelder det?",
+      "message": "Din melding"
+    },
+    "placeholders": {
+      "name": "Dr. Kari Nordmann",
+      "email": "kari@klinikk.no",
+      "phone": "+47 900 00 000",
+      "website": "https://dinklinikk.no",
+      "practice": "Oslo Hudlegesenter",
+      "message": "Fortell oss litt om klinikken din og hva du ønsker hjelp med…"
+    },
+    "header": "Send oss en melding",
+    "disclaimer": "Ved å sende inn godtar du at vi kan kontakte deg per e-post. Vi sender aldri spam.",
+    "privacy": "Vi tar personvern på alvor. Informasjonen din er trygg hos oss.",
+    "submit": "Send melding",
+    "submitting": "Sender…"
+  },
+  "channels": [
+    {
+      "label": "E-post",
+      "value": "info@dermatologywebsitedesign.com",
+      "note": "Svar innen 24 timer",
+      "action": "Kontakt oss"
+    },
+    {
+      "label": "WhatsApp",
+      "value": "Chat med vårt team",
+      "note": "Man–fre · 09:00–18:00 EST",
+      "action": "Start chat"
+    },
+    {
+      "label": "Gratis pristilbud",
+      "value": "Få et skreddersydd forslag",
+      "note": "Uforpliktende · svar innen 24t",
+      "action": "Be om tilbud"
+    }
+  ],
+  "hero": {
+    "tag": "Kontakt oss",
+    "title": {
+      "part1": "La oss skape noe",
+      "part2": "stort sammen."
+    },
+    "description": "Har du spørsmål om nettsider, SEO eller vekstmarkedsføring? Send oss en melding — et ekte menneske fra vårt team vil svare deg innen 24 timer.",
+    "avgReply": {
+      "label": "Gjennomsnittlig svartid:",
+      "time": "3t 12m"
+    },
+    "features": [
+      "Svar innen 24 timer",
+      "Helt uforpliktende",
+      "Ingen spam, noensinne"
+    ],
+    "socialProof": {
+      "rating": "4.9/5",
+      "trustedBy": "Brukt av",
+      "practices": "50+ hudlegeklinikker",
+      "worldwide": "verden over",
+      "avatars": [
+        "Dr. Sarah R.",
+        "Dr. Michael K.",
+        "Dr. Amanda L.",
+        "Dr. James T.",
+        "Dr. Rachel N."
+      ]
+    }
+  },
+  "sidebar": {
+    "officeHours": {
+      "title": "Åpningstider",
+      "mondayToFriday": "Mandag – fredag",
+      "mondayToFridayTime": "09:00 – 18:00 EST",
+      "saturday": "Lørdag",
+      "saturdayTime": "Etter avtale",
+      "sunday": "Søndag",
+      "sundayTime": "Stengt"
+    },
+    "servingPractices": {
+      "title": "Våre klienter",
+      "subtitle": "Globalt — fullt distribuert team",
+      "description": "Vi jobber med alt fra selvstendige hudleger og større klinikk-kjeder til estetiske klinikker og spesialpraksiser innen barnehudlegevakt og kirurgisk dermatologi over hele verden."
+    },
+    "testimonial": {
+      "quote": "«Teamet svarer utrolig raskt. Det føles som å ha en egen utvikler i hus — bare uten de høye kostnadene.»",
+      "author": "Dr. Nadia Fischer",
+      "role": "Klinikkeier",
+      "trustedBy": "Brukt av 50+ hudlegeklinikker"
+    },
+    "audit": {
+      "title": "Ikke helt klar for en prat?",
+      "description": "Få en gratis analyse av nettsiden din — vi gir deg en helsesjekk og viser de 3 viktigste punktene som holder deg tilbake.",
+      "link": "Bestill gratis analyse"
+    }
+  },
+  "faq": {
+    "tag": "Ofte stilte spørsmål",
+    "title": "Svar på det du lurer på",
+    "items": [
+      {
+        "q": "Hva er deres typiske svartid?",
+        "a": "For vanlige henvendelser svarer vi innen 24 timer på hverdager. For kritiske problemer på aktive prosjekter (som nedetid) har vi som mål å svare innen 1 time."
+      },
+      {
+        "q": "Jobber dere med klinikker utenfor USA?",
+        "a": "Ja — vi jobber med hudleger over hele verden. Teamet vårt er heldigitalt, og vi håndterer prosjekter på tvers av alle tidssoner."
+      },
+      {
+        "q": "Tilbyr dere white-label-tjenester for byråer?",
+        "a": "Ja. Vi samarbeider med design- og markedsføringsbyråer for å bygge og vedlikeholde nettsider under deres merkevare. Velg «Generelle spørsmål» i skjemaet og nevn white-label."
+      },
+      {
+        "q": "Hva koster en ny nettside for en hudlege?",
+        "a": "Prosjekter starter vanligvis rundt 25 000 kr og skalerer basert på omfang, integrasjoner og innhold. Send oss en kort melding, så sender vi et skreddersydd tilbud innen 24 timer."
+      }
+    ]
+  },
+  "cta": {
+    "tag": "Klar for vekst?",
+    "title": "La oss ta en prat.",
+    "description": "Nettsiden din skal jobbe for klinikken — ikke omvendt. Vi hjelper deg gjerne. La oss snakke om ditt behov.",
+    "auditButton": "Få gratis nettsideanalyse",
+    "quoteButton": "Få et uforpliktende tilbud"
+  },
+  "success": {
+    "title": "Melding mottatt!",
+    "description": "Takk for at du tok kontakt — vi svarer deg på {{email}} innen 24 timer.",
+    "backToHome": "Tilbake til forsiden"
+  },
+  "mockup": {
+    "inbox": "Innboks · Ny",
+    "messages": [
+      {
+        "name": "Dr. Alex T.",
+        "message": "Forslag til redesign"
+      },
+      {
+        "name": "Skin & Co.",
+        "message": "Forespørsel om SEO-analyse"
+      },
+      {
+        "name": "RS Institute",
+        "message": "Tidslinje for migrering?"
+      }
+    ],
+    "activeHeader": {
+      "initials": "DWS",
+      "name": "DW Design",
+      "status": "Online nå"
+    },
+    "chat": [
+      "Hei! Hvordan kan vi hjelpe din klinikk i dag?",
+      "Jeg trenger en ny nettside for min praksis."
+    ],
+    "typing": "skriver",
+    "placeholder": "Skriv en melding…",
+    "replyStatus": "Svar sendt · 2 min"
+  }
+}

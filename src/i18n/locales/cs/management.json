@@ -1,0 +1,458 @@
+{
+  "meta": {
+    "title": "Správa dermatologických webů — Tým zaměřený na růst",
+    "description": "Komplexní správa webu pro dermatology: dedikovaný manažer, měsíční obsah, SEO, A/B testování a optimalizace konverzí. Bez závazků.",
+    "og": {
+      "title": "Správa dermatologických webů — Váš tým pro růst",
+      "description": "Váš web spravuje každý týden dedikovaný tým — obsah, SEO, CRO, kampaně a reporting. HIPAA-aware. Měsíc po měsíci."
+    }
+  },
+  "hero": {
+    "badge": "Správa dermatologických webů",
+    "headline": "Tým pro růst, který se stará o váš web — každý týden.",
+    "subheading": "Strategie, obsah, SEO, testy konverzí a reporting pod taktovkou dedikovaného týmu. Přestaňte řešit web a začněte díky němu získávat nové pacienty.",
+    "cta_primary": "Získat růstový plán",
+    "cta_secondary": "Bezplatný audit zdarma",
+    "trust": {
+      "account_manager": "Vlastní account manažer",
+      "contract": "Smlouva měsíc po měsíci",
+      "hipaa": "HIPAA-aware"
+    }
+  },
+  "dashboard": {
+    "title": "Dashboard růstu",
+    "status": "Posledních 30 dní · živě",
+    "badge": "PODLE PLÁNU",
+    "kpis": {
+      "bookings": "Organické rezervace",
+      "conversion": "Konverze formulářů",
+      "rankings": "Stránky v Top 10",
+      "session": "Prům. doba relace (s)"
+    },
+    "roadmap": {
+      "title": "Roadmapa na tento měsíc",
+      "progress": "z 5 hotovo",
+      "items": [
+        "Nová stránka Mohsovy chirurgie spuštěna",
+        "A/B test CTA na úvodní straně — varianta B +18 %",
+        "Publikováno 6 článků o akné",
+        "Aktualizace medailonků lékařů — ke schválení",
+        "Podzimní kampaň na péči o pleť — zadáno"
+      ]
+    }
+  },
+  "stats": {
+    "label": "Reálná čísla",
+    "headline": "9 měsíců se správou od našeho týmu.",
+    "description": "Souhrnné výsledky u 24 dermatologických klinik, které spravujeme.",
+    "items": [
+      {
+        "value": "+214 %",
+        "label": "Organických rezervací"
+      },
+      {
+        "value": "+3,2×",
+        "label": "Více stránek v Top 10"
+      },
+      {
+        "value": "+41 %",
+        "label": "Míra konverze formulářů"
+      }
+    ]
+  },
+  "pillars": {
+    "label": "Co spravujeme",
+    "headline": "Šest pilířů, jeden dedikovaný tým.",
+    "subheading": "Nejsme agentura na odškrtávání políček. Jsme multifunkční tým, který přebírá plnou zodpovědnost za růst vašeho webu.",
+    "items": [
+      {
+        "title": "Strategie a roadmapa",
+        "desc": "Kvartální růstový plán propojený s vašimi klíčovými službami, náborem nových lékařů a sezónní poptávkou."
+      },
+      {
+        "title": "Správa obsahu",
+        "desc": "Měsíční ediční plán — stránky diagnóz, biografie lékařů, blog, fotogalerie před/po a sezónní nabídky."
+      },
+      {
+        "title": "Optimalizace konverzí",
+        "desc": "A/B testy titulních stran, formulářů a výzev k akci. Každé čtvrtletí přinášíme měřitelné zvýšení počtu rezervací."
+      },
+      {
+        "title": "Analytika a reporting",
+        "desc": "Jeden přehledný dashboard — návštěvnost, hovory, formuláře a tržby podle služeb. Každý měsíc konzultace s manažerem."
+      },
+      {
+        "title": "SEO dohled",
+        "desc": "Průběžné on-page SEO, nasazování schémat, vnitřní prolinkování a technická údržba s tím, jak váš web roste."
+      },
+      {
+        "title": "Realizace kampaní",
+        "desc": "Stránky pro nové služby, lékaře, pobočky či akce — připravené, postavené a spuštěné během pár dnů."
+      }
+    ]
+  },
+  "pod": {
+    "label": "Poznejte svůj tým",
+    "headline": "Dedikovaný tým — každý měsíc ti samí lidé.",
+    "subheading": "Pět specialistů pracujících pro vaši praxi. Žádné střídání kontaktů, žádné předávání kolegům.",
+    "members": [
+      {
+        "role": "Account Manager",
+        "name": "Jordan R.",
+        "desc": "Hlídá vaši roadmapu. Váš jediný kontaktní bod."
+      },
+      {
+        "role": "Content Strategist",
+        "name": "Priya S.",
+        "desc": "Každý měsíc sestavuje ediční plán obsahu."
+      },
+      {
+        "role": "Medical Writer",
+        "name": "Dr. Alex M.",
+        "desc": "Odborně podložený obsah pro každou diagnózu."
+      },
+      {
+        "role": "SEO Lead",
+        "name": "Marcus L.",
+        "desc": "Spravuje pozice ve vyhledávání, schémata a zdraví webu."
+      },
+      {
+        "role": "Developer",
+        "name": "Sana K.",
+        "desc": "Nasadí landing pages, testy a integrace."
+      }
+    ]
+  },
+  "sprint": {
+    "label": "Jak pracujeme",
+    "headline": "Měsíční sprint — předvídatelný a měřitelný.",
+    "subheading": "Každý měsíc dodržujeme stejný rytmus, abyste vždy věděli, co se právě děje.",
+    "phases": [
+      {
+        "id": "1. týden",
+        "title": "Revize a prioritizace",
+        "items": [
+          "Vyhodnocení KPI vs. cíle",
+          "Revize rozdělané práce",
+          "Výběr 3 hlavních priorit"
+        ]
+      },
+      {
+        "id": "2. týden",
+        "title": "Tvorba a publikace",
+        "items": [
+          "Publikování obsahu",
+          "Spuštění nových stránek",
+          "Nasazení A/B testů"
+        ]
+      },
+      {
+        "id": "3. týden",
+        "title": "Měření a učení",
+        "items": [
+          "Data o návštěvnosti a rezervacích",
+          "Analýza heatmap",
+          "Nasazení vítězných variant"
+        ]
+      },
+      {
+        "id": "4. týden",
+        "title": "Reporty a plány",
+        "items": [
+          "Manažerský report",
+          "Strategická konzultace",
+          "Roadmapa na další měsíc"
+        ]
+      }
+    ]
+  },
+  "deliverables": {
+    "label": "Každý měsíc u vás v e-mailu",
+    "headline": "Uvidíte přesně, co dostanete.",
+    "tabs": {
+      "content": {
+        "label": "Obsahový kalendář",
+        "title": "Ediční plán na tento měsíc",
+        "desc": "Každý kus obsahu má zadání, odbornou revizi a termín publikace.",
+        "items": [
+          {
+            "date": "3. říj",
+            "text": "Akné u dospělých — přepsání stránky",
+            "tag": "SEO"
+          },
+          {
+            "date": "9. říj",
+            "text": "Mohsova chirurgie: co očekávat (blog)",
+            "tag": "Důvěra"
+          },
+          {
+            "date": "15. říj",
+            "text": "Profil Dr. Chen + video medailonek",
+            "tag": "Bio"
+          },
+          {
+            "date": "22. říj",
+            "text": "Landing page: Podzimní péče o suchou pleť",
+            "tag": "Promo"
+          },
+          {
+            "date": "29. říj",
+            "text": "Dětský ekzém — průvodce pro rodiče",
+            "tag": "SEO"
+          }
+        ]
+      },
+      "seo": {
+        "label": "SEO správa",
+        "title": "SEO dohled v praxi",
+        "desc": "Průběžná péče, díky které vaše pozice měsíc od měsíce sílí.",
+        "items": [
+          "Nasazeno 24 on-page optimalizací",
+          "Strukturovaná data u 6 nových stránek",
+          "Přidáno 138 interních odkazů",
+          "Vyřešeno 12 duplicitních klíčových slov",
+          "Core Web Vitals: LCP z 1.8s na 1.2s"
+        ]
+      },
+      "cro": {
+        "label": "CRO Experimenty",
+        "title": "Živé A/B testy",
+        "desc": "Každý kvartál přinášíme jasné zlepšení míry rezervací.",
+        "items": [
+          {
+            "test": "Textace CTA na úvodní straně",
+            "result": "+18 % prokliků"
+          },
+          {
+            "test": "Fixní rezervační lišta (mobil)",
+            "result": "+11 % zahájení rezervace"
+          },
+          {
+            "test": "3krokový vs. 1stránkový formulář",
+            "result": "Probíhá · 62 %"
+          },
+          {
+            "test": "Styl fotografií lékařů",
+            "result": "+7 % prokliknutí profilu"
+          }
+        ]
+      },
+      "reports": {
+        "label": "Manažerský report",
+        "title": "Měsíční manažerský přehled",
+        "desc": "Jedna strana. Co se udělalo, co se pohnulo a co bude dál.",
+        "items": [
+          "Rozbor návštěvnosti a zdrojů",
+          "Rezervace nových pacientů podle služeb",
+          "Nárůsty a propady v pozicích",
+          "Realizované práce a jejich dopad",
+          "Priority na příští měsíc"
+        ]
+      }
+    }
+  },
+  "audiences": {
+    "label": "Pro koho pracujeme",
+    "headline": "Navrženo pro každý model dermatologické praxe.",
+    "items": [
+      {
+        "label": "Soukromí dermatologové",
+        "desc": "Jeden dedikovaný manažer, který spravuje celou vaši online prezentaci jako interní tým."
+      },
+      {
+        "label": "Kliniky s více pobočkami",
+        "desc": "Obsahové plány pro každou lokalitu, sjednocená značka a jedna společná strategie."
+      },
+      {
+        "label": "Dětská dermatologie",
+        "desc": "Obsahová strategie zaměřená na rodiče, sezónní kampaně a uživatelské prostředí přátelské k rodinám."
+      },
+      {
+        "label": "Mohsova a chirurgická dermatologie",
+        "desc": "Obsah zaměřený na reference, profily chirurgů a databáze případových studií s výsledky léčby."
+      }
+    ]
+  },
+  "medical_services": {
+    "label": "Každá služba, každá stránka",
+    "headline": "Odborné služby, pro které spravujeme obsah.",
+    "subheading": "Stránky diagnóz, biografie, průvodci léčbou a kampaně — vše pod lékařským dohledem.",
+    "list": [
+      "Léčba akné",
+      "Léčba ekzému",
+      "Léčba lupénky",
+      "Léčba kožních infekcí",
+      "Léčba kožních alergií",
+      "Screening a léčba rakoviny kůže",
+      "Vyšetření a odstranění mateřských znamének",
+      "Odstranění cyst a lipomů",
+      "Odstranění bradavic",
+      "Léčba onemocnění nehtů",
+      "Léčba vypadávání vlasů",
+      "Léčba onemocnění vlasové pokožky",
+      "Léčba růžovky (rosacea)",
+      "Hyperpigmentace a melasma",
+      "Léčba jizev",
+      "Léčba jizev po popáleninách",
+      "Léčba vitiliga",
+      "Kožní biopsie a diagnostika"
+    ]
+  },
+  "comparison": {
+    "label": "Zvolte správnou úroveň podpory",
+    "headline": "Správa vs. Údržba vs. Svépomoc.",
+    "subheading": "Údržba vás udrží online. Správa se postará o váš růst.",
+    "headers": {
+      "feature": "Funkce",
+      "mgmt": "Správa",
+      "maint": "Údržba",
+      "diy": "Svépomoc"
+    },
+    "rows": [
+      "Vlastní account manažer",
+      "24/7 funkčnost + bezpečnostní záplaty",
+      "Měsíční obsah + landing pages",
+      "Průběžná SEO správa",
+      "A/B testování a CRO",
+      "Měsíční manažerský report",
+      "Strategické schůzky s týmem",
+      "Předvídatelné měsíční náklady"
+    ],
+    "tags": {
+      "add_on": "doplněk",
+      "basic": "základní"
+    },
+    "footer": "Potřebujete i údržbu? Můžeme ji zahrnout do jakéhokoli plánu Správy.",
+    "footer_link": "Zobrazit údržbu →"
+  },
+  "plans": {
+    "label": "Plány správy",
+    "headline": "Jasná cena. Skuteční lidé. Reálné výsledky.",
+    "items": [
+      {
+        "name": "Managed",
+        "price": "$799",
+        "term": "/měsíc",
+        "tag": "Pro soukromé praxe",
+        "market_label": "Tržní cena:",
+        "market_value": "$1 500 – $3 500 /měs",
+        "savings": "o 47–77 % výhodnější",
+        "features": [
+          "Vlastní account manažer",
+          "4 kusy obsahu měsíčně",
+          "2 landing pages čtvrtletně",
+          "Měsíční strategická schůzka",
+          "Analytický dashboard",
+          "SEO správa"
+        ],
+        "cta": "Začít s Managed"
+      },
+      {
+        "name": "Managed Plus",
+        "price": "$1 499",
+        "term": "/měsíc",
+        "tag": "Nejčastější volba",
+        "market_label": "Tržní cena:",
+        "market_value": "$3 000 – $7 000 /měs",
+        "savings": "o 50–79 % výhodnější",
+        "features": [
+          "Vše z plánu Managed",
+          "8 kusů obsahu měsíčně",
+          "1 landing page měsíčně",
+          "Strategická schůzka každých 14 dní",
+          "Kvartální A/B testovací program",
+          "Optimalizace konverzí",
+          "Prioritní spouštění kampaní"
+        ],
+        "cta": "Začít s Managed Plus"
+      },
+      {
+        "name": "Multi-location",
+        "price": "Individuální",
+        "tag": "Pro 3 a více poboček",
+        "market_label": "Tržní cena:",
+        "market_value": "$6 000+ /měs",
+        "savings": "Až o 60 % výhodnější",
+        "features": [
+          "Obsahový plán pro každou lokalitu",
+          "Reporting na úrovni poboček",
+          "Systém tvorby medailonků lékařů",
+          "Týdenní strategický synch",
+          "Dedikovaný tým pro růst",
+          "Neomezené stránky kampaní"
+        ],
+        "cta": "Začít s Multi-location"
+      }
+    ]
+  },
+  "testimonials": {
+    "label": "Co říkají kliniky",
+    "headline": "Správa jako od interního týmu.",
+    "items": [
+      {
+        "name": "MUDr. Nadia Patel",
+        "role": "NL Dermatology",
+        "quote": "Je to jako mít marketingového ředitele bez nutnosti platit plnohodnotný plat. Každý měsíc spustíme něco nového, co skutečně zvyšuje počet rezervací."
+      },
+      {
+        "name": "MUDr. Marcus Whitfield",
+        "role": "Whitfield Skin & Mohs",
+        "quote": "Během 9 měsíců se naše organické rezervace ztrojnásobily. Není to zásluha jedné věci, ale toho, že se někdo webu věnuje každý jeden týden."
+      },
+      {
+        "name": "MUDr. Serena Kohli",
+        "role": "KP Dermatology · 4 pobočky",
+        "quote": "Čtyři lokality, čtyři obsahové kalendáře, jeden tým. Mám jeden dashboard a jedno číslo, kam zavolat. To samo o sobě za to stojí."
+      }
+    ]
+  },
+  "faq": {
+    "label": "Časté dotazy",
+    "headline": "Odpovědi na vaše otázky.",
+    "items": [
+      {
+        "q": "Jak se správa liší od údržby?",
+        "a": "Údržba udržuje váš web online, zabezpečený a aktualizovaný. Správa se stará o růst — nový obsah, nové stránky, průběžné SEO, A/B testy, ladění konverzí, kampaně a měsíční strategie. Většina klinik potřebuje obojí, proto naše plány umožňují údržbu zahrnout."
+      },
+      {
+        "q": "Kdo bude na webu skutečně pracovat?",
+        "a": "Získáte dedikovaného account manažera se zkušenostmi v dermatologii a celý tým: stratéga, medicínského copywritera, designéra, vývojáře a SEO specialistu. Každý měsíc ty samé tváře."
+      },
+      {
+        "q": "Za jak dlouho uvidíme výsledky?",
+        "a": "Výrazný nárůst v SEO a počtu rezervací se obvykle dostaví mezi 3. a 6. měsícem. Obsah, landing pages a optimalizace CTA často vykazují lepší konverze už během prvních 30–60 dní."
+      },
+      {
+        "q": "Píšete i odborný lékařský obsah?",
+        "a": "Ano — každou stránku diagnózy i článek na blogu připravuje medical writer. Vše je kontrolováno podle dermatologických standardů a před publikací schváleno vaším týmem."
+      },
+      {
+        "q": "Můžeme spolupráci pozastavit nebo zrušit?",
+        "a": "Smlouva je měsíc po měsíci, zrušit ji můžete kdykoli. I po ukončení spolupráce vám zůstávají veškeré výstupy — obsah, stránky, podklady, analytika i grafické soubory."
+      },
+      {
+        "q": "Integrujete web s naším ambulantním systémem nebo kalendářem?",
+        "a": "Ano. Integrujeme s hlavními dermatologickými EHR a rezervačními platformami (ModMed, Nextech, Athenahealth, Zocdoc a další), takže rezervace plynou přímo do vašeho stávajícího workflow."
+      }
+    ]
+  },
+  "cta_bottom": {
+    "headline": "Jste připraveni svěřit svůj web týmu, který ho rozhýbe?",
+    "subheading": "Začněte bezplatným auditem. Pokud si budeme rozumět, váš dedikovaný tým může začít do 7 dnů.",
+    "primary": "Získat růstový plán",
+    "secondary": "Audit webu zdarma"
+  },
+  "footer_considerations": {
+    "prefix": "Mohlo by vás také zajímat:",
+    "links": {
+      "maintenance": "běžná údržba webu",
+      "support": "hodinová podpora při potížích",
+      "full_management": "co vše zahrnuje plná správa"
+    }
+  },
+  "json_ld": {
+    "service_type": "Dermatology Website Management Services",
+    "provider_name": "DermatologyWebsiteDesign.com",
+    "offer_description": "Správa dermatologických webů — počáteční měsíční cena"
+  }
+}

@@ -1,0 +1,301 @@
+{
+  "meta": {
+    "title": "Migrace dermatologických webů – nulové výpadky, žádná ztráta SEO",
+    "description": "Prémiová migrace webových stránek pro dermatology: od samostatných ordinací po sítě klinik a dětskou dermatologii. Změna platformy nebo hostingu bez výpadků, s přesměrováním 1:1, v souladu s HIPAA a se zachováním pozic na Google.",
+    "ogTitle": "Migrace dermatologických webů – bez výpadků a ztráty pozic",
+    "ogDescription": "Přeneste svůj web bez výpadků a ztráty pozic ve vyhledávačích. WordPress, Wix, Squarespace, Webflow i HubSpot – plně v souladu s HIPAA, s kompletním přesměrováním a 90denním monitoringem."
+  },
+  "jsonLd": {
+    "serviceType": "Migrace dermatologických webových stránek",
+    "provider": "DW Design",
+    "areaServed": "Spojené státy",
+    "audienceType": "Dermatologické praxe",
+    "offerDescription": "Migrace dermatologických webů – vyvolávací cena"
+  },
+  "hero": {
+    "badge": "Nulové výpadky · Žádné ztráty v SEO",
+    "heading": "Migrace webu pro dermatology – aniž byste přišli o jedinou pozici.",
+    "subheading": "Převeďte svůj web z platforem jako WordPress, Wix, Squarespace, Webflow, GoDaddy, HubSpot nebo ze zastaralých systémů na rychlejší řešení orientované na konverze a HIPAA standardy. Každé URL přesměrujeme 1:1, pacienti nic nepoznají a pozice na Google zůstanou zachovány.",
+    "primaryCta": "Naplánovat migraci",
+    "secondaryCta": "Bezplatný audit migrace",
+    "stats": {
+      "downtimeLabel": "Měřený výpadek",
+      "redirectLabel": "100% pokrytí přesměrování",
+      "rankingsLabel": "0 ztracených pozic"
+    }
+  },
+  "liveProof": [
+    {
+      "label": "Zmigrovaných webů"
+    },
+    {
+      "label": "Ztracených pozic"
+    },
+    {
+      "label": "Průměrný čas přepnutí"
+    },
+    {
+      "label": "Průměrné skóre Lighthouse"
+    }
+  ],
+  "audiences": {
+    "badge": "Navrženo pro",
+    "heading": "Migrace vyladěné pro reálný provoz dermatologických praxí.",
+    "items": [
+      {
+        "label": "Soukromí dermatologové",
+        "desc": "Přejděte z Wixu nebo GoDaddy, aniž byste ohrozili své výsledky vyhledávání."
+      },
+      {
+        "label": "Kliniky s více pobočkami",
+        "desc": "Sjednoťte subdomény poboček pod jednu spravovanou platformu."
+      },
+      {
+        "label": "Dětská dermatologie",
+        "desc": "Zachovejte plynulý příjem pacientů a UX přívětivé pro rodiny."
+      },
+      {
+        "label": "Mohsova a chirurgická dermatologie",
+        "desc": "Udržte v integritě URL adresy pro doporučující lékaře i odborný obsah."
+      }
+    ]
+  },
+  "platforms": {
+    "badge": "Jakákoliv platforma i hosting",
+    "heading": "Migrujeme z místa, kde se právě nacházíte.",
+    "subheading": "WordPress → Webflow. Wix → WordPress. Squarespace → HubSpot. Zastaralý kód → moderní technologie. Ať je zdroj jakýkoliv, už jsme ho úspěšně přenášeli.",
+    "status": "Migrovat ✓"
+  },
+  "pillars": {
+    "badge": "Záruka bezpečné migrace",
+    "heading": "Co vám zůstane. Co navíc získáte.",
+    "items": [
+      {
+        "title": "Přepnutí bez výpadku",
+        "desc": "Díky předvytvořené mezipaměti a DNS stagingu mohou pacienti objednávat i během změny."
+      },
+      {
+        "title": "Mapování 301 přesměrování 1:1",
+        "desc": "Každá stará adresa směřuje na ideální nové místo – žádné nefunkční odkazy."
+      },
+      {
+        "title": "Přenos v souladu s HIPAA",
+        "desc": "Bezpečný proces pro formuláře a data pacientů připravený na podpis BAA."
+      },
+      {
+        "title": "Skóre Lighthouse 95+",
+        "desc": "Váš nový web bude od prvního dne rychlejší než ten starý. Žádné čekání měsíce."
+      },
+      {
+        "title": "SEO zabezpečené proti propadu",
+        "desc": "Schema, metadata, nadpisy a interní prolinkování přeneseme bez jediné chyby."
+      },
+      {
+        "title": "Plně responzivní sestavení",
+        "desc": "Desktop, tablet i mobil – pixelově dokonalé a testované na reálných zařízeních."
+      }
+    ]
+  },
+  "lighthouse": {
+    "badge": "Důkazy místo slibů",
+    "heading": "Každá migrace končí reálným Lighthouse auditem.",
+    "description": "Nestačí jen tvrdit, že jsme rychlí. Před předáním klíčů spustíme kompletní Google Lighthouse audit a ukážeme vám čisté skóre. Níže uvádíme typický výsledek po spuštění – realita, ne marketing.",
+    "tags": [
+      "Testováno na reálných zařízeních",
+      "Mobil i desktop",
+      "Včetně zdrojového reportu"
+    ],
+    "ui": {
+      "title": "Google Lighthouse · Mobil",
+      "subtitle": "audit po migraci",
+      "labels": {
+        "performance": "Výkon",
+        "accessibility": "Přístupnost",
+        "bestPractices": "Doporučené postupy",
+        "seo": "SEO"
+      }
+    }
+  },
+  "gains": {
+    "badge": "Před → Po",
+    "heading": "Bezpečnější, rychlejší a čistší přesun.",
+    "labels": {
+      "redirects": "Přesměrování URL",
+      "downtime": "Výpadek při přepnutí",
+      "risk": "Riziko ztráty pozic",
+      "score": "Lighthouse skóre"
+    }
+  },
+  "process": {
+    "badge": "6 kroků migrace",
+    "heading": "Od analýzy po stabilní spuštění pod dohledem.",
+    "steps": [
+      {
+        "title": "Analýza a kompletní crawl",
+        "desc": "Projdeme každé URL, zaznamenáme pozice, zmapujeme formuláře a identifikujeme HIPAA citlivá data."
+      },
+      {
+        "title": "Plán URL a přesměrování",
+        "desc": "Schválená mapa přesměrování 1:1 a plán architektury dříve, než pohneme jediným pixelem."
+      },
+      {
+        "title": "Vývoj na stagingu",
+        "desc": "Nový web stavíme na neveřejné doméně. Obsah, schema i metadata přenášíme s důrazem na paritu."
+      },
+      {
+        "title": "QA a finální schválení",
+        "desc": "Porovnání každé stránky bok po boku – výkon, SEO, přístupnost i HIPAA musí mít zelenou."
+      },
+      {
+        "title": "Ostré přepnutí DNS",
+        "desc": "Příprava cache, zkrácení TTL a přepnutí DNS během vteřin. Objednávání pacientů běží dál."
+      },
+      {
+        "title": "90denní hlídání pozic",
+        "desc": "Denní monitoring v Search Console, audit přesměrování a ladění Core Web Vitals pro stabilitu."
+      }
+    ]
+  },
+  "checklist": {
+    "badge": "Kontrolní seznam pro SEO",
+    "heading": "Co všechno přenášíme – položku po položce.",
+    "items": [
+      "Každé URL přesměrováno 1:1",
+      "Migrace meta titulků a popisků",
+      "Zachování strukturovaných dat (Schema)",
+      "Udržení sítě interních odkazů",
+      "Optimalizace obrázků se zachováním alt textů",
+      "Core Web Vitals postavené od nuly",
+      "Znovunapojení Search Console a Analytics",
+      "Audit HIPAA formulářů v rámci BAA"
+    ]
+  },
+  "services": {
+    "badge": "Zdravotnické služby pod kontrolou",
+    "heading": "Každá stránka výkonu – přenesená, zmapovaná a chráněná.",
+    "description": "Stránky služeb reindexujeme se všemi daty, záměrem a klíčovými slovy v neporušeném stavu.",
+    "list": [
+      "Léčba akné",
+      "Léčba ekzému",
+      "Léčba lupénky",
+      "Léčba kožních infekcí",
+      "Léčba kožních alergií",
+      "Screening a léčba rakoviny kůže",
+      "Vyšetření a odstranění mateřských znamének",
+      "Odstranění cyst a lipomů",
+      "Odstranění bradavic",
+      "Léčba onemocnění nehtů",
+      "Léčba vypadávání vlasů",
+      "Léčba onemocnění vlasové pokožky",
+      "Léčba růžovky (rosacea)",
+      "Hyperpigmentace a melasma",
+      "Léčba jizev",
+      "Léčba jizev po popáleninách",
+      "Léčba vitiliga",
+      "Kožní biopsie a diagnostika"
+    ]
+  },
+  "comparison": {
+    "badge": "Proč si kliniky vybírají nás",
+    "heading": "Migrace svépomocí, s obecnou agenturou, nebo se specialisty na dermatologii.",
+    "headers": {
+      "label": "Co získáte",
+      "diy": "Svépomocí / In-house",
+      "generalist": "Běžná agentura",
+      "dw": "DW Design"
+    },
+    "rows": {
+      "downtime": "Přepnutí bez výpadku",
+      "redirects": "Mapa 301 přesměrování 1:1",
+      "hipaa": "Přenos dat v souladu s HIPAA",
+      "schema": "Parita Schema a metadat",
+      "monitoring": "90denní monitoring pozic",
+      "lighthouse": "Skóre Lighthouse 95+ od 1. dne",
+      "timeline": "Pevné termíny a milníky"
+    }
+  },
+  "testimonial": {
+    "quote": "Během šesti týdnů jsme zmigrovali weby čtyř našich klinik ze zastaralého systému na moderní platformu. Nerozbil se ani jeden odkaz, neztratili jsme žádné klíčové slovo a rychlost webu se hned první den zdvojnásobila.",
+    "author": "Dr. Yasmin Delgado, MD",
+    "role": "HV Dermatology · 4 pobočky",
+    "video": {
+      "badge": "Přehrát příběh · 47s",
+      "heading": "Nulové výpadky, nula stresu – a pozice šly dokonce nahoru.",
+      "ariaLabel": "Přehrát video referenci",
+      "authorFooter": "Dr. Yasmin Delgado, MD",
+      "titleFooter": "Migrace 4 klinik",
+      "stats": {
+        "timeline": "6 týdnů",
+        "timelineLabel": "Celý přesun",
+        "traffic": "+18 %",
+        "trafficLabel": "Nárůst návštěvnosti",
+        "links": "0",
+        "linksLabel": "Rozbitých odkazů"
+      }
+    }
+  },
+  "faq": {
+    "badge": "Časté dotazy",
+    "heading": "Upřímné odpovědi o migraci.",
+    "items": [
+      {
+        "q": "Budou mít pacienti během migrace výpadek?",
+        "a": "Ne. Nový web připravíme na zrcadlové doméně, provedeme kontrolu parity a poté přepneme DNS s předvytvořenou mezipamětí. Uživatelé uvidí plynulou změnu – typický výpadek je pod 30 sekund."
+      },
+      {
+        "q": "Ztratíme po migraci pozice na Google?",
+        "a": "Ne. Každá URL adresa je namapována 1:1 pomocí 301 přesměrování, metadata i schema zůstávají a 90 dní po spuštění denně sledujeme Search Console. Migrace bez ztráty pozic je u nás standardem."
+      },
+      {
+        "q": "Z jakých platforem migrujete?",
+        "a": "WordPress, Wix, Squarespace, Webflow, GoDaddy, Duda, Weebly, HubSpot CMS, Drupal, Joomla i vlastní systémy. Řešíme i přesuny mezi hostingy a kompletní změny redakčních systémů."
+      },
+      {
+        "q": "Jak nakládáte s daty pacientů během přenosu?",
+        "a": "Veškeré formuláře a vstupní data řešíme v rámci workflow připraveného na BAA. Žádná citlivá data (PHI) neexportujeme do nezabezpečeného prostředí; využíváme výhradně šifrované přenosy."
+      },
+      {
+        "q": "Jak dlouho migrace dermatologického webu trvá?",
+        "a": "Standardní praxe 4–7 týdnů, sítě klinik 6–10 týdnů a složité migrace s integrací EHR 8–12 týdnů. Pracujeme s fixními milníky a pevným datem spuštění."
+      },
+      {
+        "q": "Co když je můj starý web chaos plný PDF a starých blogů?",
+        "a": "Provedeme audit a konsolidaci. Nefunkční a nekvalitní URL přesměrujeme, cenný obsah restrukturalizujeme a duplicity sloučíme. Z chaosu uděláme čistý web."
+      }
+    ]
+  },
+  "cta": {
+    "badge": "Plán migrace zdarma (30 min)",
+    "heading": "Pošlete nám svůj web. Ukážeme vám nejbezpečnější cestu k jeho přesunu.",
+    "subheading": "Získáte návrh přesměrování všech URL, doporučení platformy a reálný časový plán – to vše nezávazně. Každý plán osobně revidujeme, než ho odešleme.",
+    "footerName": "Dermatology Website Design",
+    "footerTag": "Pomáháme dermatologům růst v online světě",
+    "primaryLink": "Získat plán migrace",
+    "secondaryLink": "Kontaktujte nás",
+    "altImg": "DW — Dermatology Website Design"
+  },
+  "footerLinks": {
+    "preface": "Mohlo by vás také zajímat: ",
+    "redesign": "náš přístup k modernímu redesignu",
+    "management": "jak weby dlouhodobě spravujeme",
+    "costs": "kolik migrace obvykle stojí"
+  },
+  "simulator": {
+    "badge": "Vyzkoušejte si to",
+    "heading": "Náhled mapy přesměrování během 4 sekund.",
+    "inputPlaceholder": "vasedermatologie.cz",
+    "buttonLabel": "Simulovat migraci",
+    "srLabel": "URL vašeho současného webu",
+    "headers": {
+      "old": "Stará URL",
+      "action": "301 →",
+      "new": "Nová URL"
+    },
+    "result": "5 z 5 URL namapováno · 0 pozic v ohrožení · Připraveno k migraci.",
+    "floatingOne": "Přepnutí za 27s",
+    "floatingTwo": {
+      "rankings": "100 % pozic zachováno",
+      "audit": "Audit (30. den)"
+    }
+  }
+}

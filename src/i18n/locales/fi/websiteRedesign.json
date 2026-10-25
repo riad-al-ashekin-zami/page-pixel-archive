@@ -1,0 +1,340 @@
+{
+  "meta": {
+    "title": "Ihotautiklinikan verkkosivuston uudistus — Modernisoi menettämättä SEO-näkyvyyttä",
+    "description": "Ensiluokkaiset verkkosivustouudistukset ihotautilääkäreille, monitoimipisteklinikoille ja kirurgisille yksiköille. Moderni, nopea ja HIPAA-yhteensopiva — nolla SEO-hävikkiä julkaisussa.",
+    "og_title": "Ihotautiklinikan verkkosivuston uudistus — Nolla SEO-hävikkiä",
+    "og_description": "Muuta vanhentunut ihotautisivustosi nopeaksi, konversio-optimoiduksi ja HIPAA-yhteensopivaksi elämykseksi. 301-uudelleenohjaukset ja SEO säilytetään täysin.",
+    "jsonLd": {
+      "serviceType": "Ihotautiklinikan verkkosivuston uudistus",
+      "providerName": "DW Design",
+      "offerDescription": "Ihotautisivuston uudistus — alkaen-hinta"
+    }
+  },
+  "hero": {
+    "scarcityBadge": "Vain 3 vapaata paikkaa tälle vuosineljännekselle",
+    "category": "Ihotautiklinikan verkkosivuston uudistus",
+    "h1": {
+      "main": "Modernisoi klinikkasi sivusto. ",
+      "highlight": "Menettämättä SEO-tuloksia."
+    },
+    "description": "Hallittu, asiantuntijavetoinen uudistus ihotautiklinikoille — nopeampi, turvallisempi ja tyylikkäämpi. 301-ohjaukset, HIPAA-yhteensopivat lomakkeet ja hakukonenäkyvyys varmistettu.",
+    "cta": {
+      "primary": "Pyydä tarjous uudistuksesta",
+      "secondary": "Maksuton analyysi nykyisestä sivustosta"
+    },
+    "pricing": {
+      "label": "Uudistukset alkaen",
+      "value": "4 900 $",
+      "detail": "· kiinteä budjetti, vaiheittainen laskutus"
+    },
+    "trustLabels": [
+      "Nolla SEO-hävikkiä",
+      "Ei käyttökatkoja",
+      "HIPAA-yhteensopiva",
+      "Lighthouse 95+"
+    ],
+    "socialProof": "Yli 50 ihotautiklinikan luottama · Esillä: ",
+    "dragHint": "← Vedä vertaillaksesi →",
+    "badges": {
+      "before": "Ennen",
+      "after": "Jälkeen",
+      "performance": "Lighthouse 48 → 98",
+      "growth": "+3,4x varaukset",
+      "seo": "Säilynyt SEO-teho"
+    },
+    "aria": {
+      "compare": "Näytä ennen / jälkeen -uudistus"
+    }
+  },
+  "sections": {
+    "painPoints": {
+      "overhead": "Merkkejä siitä, että tarvitset uudistuksen",
+      "heading": "Vie hiiri päälle nähdäksesi ratkaisun",
+      "description": "Jokainen punainen kortti on yleinen ihotautisivustojen ongelma. Vie hiiri päälle (tai napauta) nähdäksesi, miten uudistus korjaa sen.",
+      "cards": [
+        {
+          "pain": "Hidas latausaika",
+          "painStat": "> 4s LCP",
+          "solution": "Edge-välimuisti + kuvaputki",
+          "solutionStat": "< 1.2s LCP"
+        },
+        {
+          "pain": "Rikki mobiilissa",
+          "painStat": "Yli 60 % kävijöistä menetetään",
+          "solution": "Mobiililähtöinen toteutus",
+          "solutionStat": "100 % responsiivinen"
+        },
+        {
+          "pain": "Näkymätön Googlessa",
+          "painStat": "Sivu 3 tai huonompi",
+          "solution": "Schema-merkinnät + On-page SEO",
+          "solutionStat": "Paikallinen kärkisija"
+        },
+        {
+          "pain": "Vanhentunut ulkoasu",
+          "painStat": "Heikko luottamus",
+          "solution": "Räätälöity design-järjestelmä",
+          "solutionStat": "Premium-brändi"
+        },
+        {
+          "pain": "HIPAA-tietoturvariski",
+          "painStat": "Suojaamattomat lomakkeet",
+          "solution": "BAA-valmis teknologia",
+          "solutionStat": "Auditointivalmis"
+        },
+        {
+          "pain": "Vähän varauksia",
+          "painStat": "< 2 % CVR",
+          "solution": "CRO-optimoitu ostopolku",
+          "solutionStat": "Yli 6 % CVR"
+        }
+      ]
+    },
+    "stats": {
+      "overhead": "Muutos lukuina",
+      "heading": "Todellinen ennen vs. jälkeen -vertailu",
+      "description": "Keskiarvo viimeisten 24 kuukauden aikana uudistetuista ihotautisivustoistamme.",
+      "labels": {
+        "before": "Ennen",
+        "after": "Jälkeen"
+      },
+      "items": [
+        {
+          "label": "Sivun lataus (LCP)"
+        },
+        {
+          "label": "Lighthouse-pisteet"
+        },
+        {
+          "label": "Varauskonversio"
+        },
+        {
+          "label": "Paikallinen Google-sijoitus"
+        }
+      ]
+    },
+    "seoTimeline": {
+      "overhead": "SEO:n turvaaminen",
+      "heading": "Näin säästämme hakukonesijoituksesi",
+      "description": "Viisivaiheinen, 90 päivän protokolla, joka varmistaa, että Google (ja potilaat) löytävät sinut myös siirtymän aikana.",
+      "steps": [
+        {
+          "day": "Päivä 1",
+          "label": "Koko sivuston läpikäynti + sijoitusten taltiointi"
+        },
+        {
+          "day": "Viikko 2",
+          "label": "Yksilöllisen uudelleenohjauskartan (1:1) vahvistus"
+        },
+        {
+          "day": "Julkaisu",
+          "label": "301-uudelleenohjausten käyttöönotto siirtymässä"
+        },
+        {
+          "day": "Päivä 30",
+          "label": "Google Search Console -tietojen siivous"
+        },
+        {
+          "day": "Päivä 90",
+          "label": "Sijoitusten seuranta ja hienosäätö"
+        }
+      ]
+    },
+    "audiences": {
+      "overhead": "Kohderyhmät",
+      "heading": "Sivustouudistukset kaikenkokoisille klinikoille",
+      "items": [
+        {
+          "label": "Yksityislääkärit",
+          "desc": "Brändin kirkastus ja varauksien kasvu laadukkaalla, kompaktilla uudistuksella."
+        },
+        {
+          "label": "Monitoimipisteklinikat",
+          "desc": "Yhdistä hajanaiset sivustot yhdeksi skaalautuvaksi järjestelmäksi."
+        },
+        {
+          "label": "Lasten ihotautilääkärit",
+          "desc": "Lämmin, vanhempia puhutteleva UX ja selkeät ajanvarauspolut huoltajille."
+        },
+        {
+          "label": "Mohs- ja kirurginen dermatologia",
+          "desc": "Vahvista asiantuntija-asemaasi lähettäville lääkäreille ja potilaille."
+        }
+      ]
+    },
+    "pillars": {
+      "overhead": "Mikä tekee siitä Premiumin",
+      "heading": "Kuusi laatustandardia jokaisessa uudistuksessa",
+      "description": "Muotoilu, tekninen toteutus, SEO ja vaatimustenmukaisuus — alusta asti yhteen sovitettuna.",
+      "items": [
+        {
+          "title": "Nolla SEO-hävikkiä",
+          "desc": "301-uudelleenohjaukset, säilytetty URL-rakenne, sisällön mäppäys ja 90 päivän seuranta."
+        },
+        {
+          "title": "100 % Uniikki Design",
+          "desc": "Ei valmispohjia — täysin räätälöity järjestelmä klinikkasi brändille ja erikoisaloille."
+        },
+        {
+          "title": "Lighthouse 95+",
+          "desc": "Suorituskykyyn keskittyvä toteutus — optimoidut kuvat, välimuisti ja kevyt koodi."
+        },
+        {
+          "title": "HIPAA-tietoinen",
+          "desc": "Turvalliset lomakkeet, BAA-valmis isännöinti ja täysin auditointivalmis kokonaisuus."
+        },
+        {
+          "title": "Täysin responsiivinen",
+          "desc": "Pikselintarkka kaikilla laitteilla — testattu aidoilla puhelimilla ja tableteilla."
+        },
+        {
+          "title": "Saavutettavuus (WCAG AA)",
+          "desc": "Näppäimistökäyttöinen, riittävät kontrastit ja ruudunlukijayhteensopiva oletuksena."
+        }
+      ]
+    },
+    "services": {
+      "overhead": "Lääketieteellisten palveluiden kattavuus",
+      "heading": "Jokainen palvelusivu rakennettu konvertoimaan",
+      "description": "Uudistamme ja kirkastamme jokaisen hoitosivun — lääketieteellisesti tarkka, potilasystävällinen ja hakukoneoptimoitu.",
+      "features": [
+        "Avainsanaoptimoidut H1 / H2 / UKK",
+        "Sisällön siirto 301-ohjauksilla",
+        "HIPAA-yhteensopivat lomakkeet",
+        "Nopea, indeksoitava ja mobiililähtöinen"
+      ],
+      "list": [
+        "Aknehoidot",
+        "Ekseeman hoito",
+        "Psoriaasin hoito",
+        "Ihoinfektioiden hoito",
+        "Ihoallergiat",
+        "Ihosyövän seulonta ja hoidot",
+        "Luomitarkastukset ja poistot",
+        "Kystien ja lipoomien poisto",
+        "Syylien poisto",
+        "Kynsioireiden hoito",
+        "Hiustenlähdön hoito",
+        "Hiuspohjan sairauksien hoito",
+        "Ruusufinnin hoito",
+        "Hyperpigmentaatio ja melasma",
+        "Arpien hoito",
+        "Palovamma-arpien hoito",
+        "Vitiligon hoito",
+        "Ihonäytteet ja diagnostiikka"
+      ]
+    },
+    "process": {
+      "overhead": "Uudistusprosessi",
+      "heading": "Neljä vaihetta. Ei yllätyksiä.",
+      "items": [
+        {
+          "step": "01",
+          "title": "Auditointi & Diagnoosi",
+          "desc": "SEO-, suorituskyky-, UX- ja sisältöanalyysi nykyisestä sivustostasi. Määritämme mitä säilytetään ja mitä parannetaan."
+        },
+        {
+          "step": "02",
+          "title": "IA & Ohjauskartta",
+          "desc": "Uusi sivustorakenne ja 301-uudelleenohjaussuunnitelma ennen yhtäkään design-päätöstä."
+        },
+        {
+          "step": "03",
+          "title": "Suunnittelu & Toteutus",
+          "desc": "Yksilöllinen design, käsin koodattu runko, HIPAA-lomakkeet ja valmis Rich Schema -merkintä."
+        },
+        {
+          "step": "04",
+          "title": "Migraatio & Julkaisu",
+          "desc": "Sisällön siirto, ohjausten aktivointi, käyttökatkoton julkaisu ja 90 päivän näkyvyyden seuranta."
+        }
+      ]
+    },
+    "portfolio": {
+      "overhead": "Viimeisimmät uudistukset",
+      "heading": "Muodonmuutoksia ennen ja jälkeen",
+      "cta": "Katso koko portfolio",
+      "items": [
+        {
+          "label": "LA Dermatology",
+          "meta": "Ennen → Jälkeen · +187 % varauksia, sijoitus #1 säilyi",
+          "alt": "LA Dermatology ihotautisivuston uudistus"
+        },
+        {
+          "label": "RS Institute",
+          "meta": "6 sivuston yhdistäminen · +142 % liikennettä",
+          "alt": "RS Institute ihotautisivuston uudistus"
+        },
+        {
+          "label": "CM Surgical",
+          "meta": "Uudistus · +230 % läheteyhteydenottoja",
+          "alt": "CM Surgical ihotautisivuston uudistus"
+        }
+      ]
+    }
+  },
+  "testimonials": {
+    "aria": {
+      "button": "Asiakaspalaute"
+    },
+    "items": [
+      {
+        "name": "Dr. Ethan Caldwell, MD",
+        "role": "LA Dermatology · Yksityisvastaanotto",
+        "quote": "Uudistus oli saumaton — emme menettäneet yhtäkään Google-sijoitusta, ja 60 päivän sisällä varauksemme tuplaantuivat. Sivusto vastaa vihdoin toimintamme laatua."
+      },
+      {
+        "name": "Dr. Ibrahim Okafor, MD",
+        "role": "RS Institute · 6 toimipistettä",
+        "quote": "Kuuden vanhan sivuston yhdistäminen tuntui mahdottomalta. He tekivät sen kahdeksassa viikossa ilman SEO-hävikkiä, ja jokainen toimipistesivu sijoittuu nyt paremmin kuin ennen."
+      },
+      {
+        "name": "Dr. Anika Vasquez, MD",
+        "role": "CM Surgical",
+        "quote": "Lähettävät lääkärit antavat nykyään positiivista palautetta sivustostamme. Yhteydenottojen laatu parani, ei pelkästään määrä. Paras markkinointipäätös, jonka olemme tehneet."
+      }
+    ]
+  },
+  "faq": {
+    "overhead": "UKK",
+    "heading": "Kysymyksiä uudistuksesta",
+    "items": [
+      {
+        "q": "Laskevatko SEO-sijoitukseni uudistuksen jälkeen?",
+        "a": "Eivät — säilytämme URL-rakenteen, teemme 301-ohjaukset muuttuneille poluille, siirrämme sisällöt ja sisäiset linkit sekä valvomme sijoituksia 90 päivää julkaisun jälkeen."
+      },
+      {
+        "q": "Kuinka kauan uudistus kestää?",
+        "a": "Tyypillinen ihotautiklinikan uudistus kestää 5–8 viikkoa. Monitoimipisteklinikat tai monimutkaiset kokonaisuudet vievät 8–12 viikkoa. Etenemme viikoittaisten välitavoitteiden mukaan."
+      },
+      {
+        "q": "Siirrettekö nykyisen sisältöni?",
+        "a": "Kyllä. Auditoimme, rakentelemme ja siirrämme jokaisen sivun — palvelut, asiantuntijat, ennen ja jälkeen -kuvat, blogit ja yhteystiedot — uuteen sivustoon hävittämättä mitään."
+      },
+      {
+        "q": "Voiko uudistuksen integroida nykyiseen potilastietojärjestelmääni?",
+        "a": "Kyllä. Integroimme sivuston yleisimpiin potilasportaaleihin, ajanvarausohjelmistoihin ja CRM-työkaluihin HIPAA-yhteensopivuus huomioiden."
+      },
+      {
+        "q": "Mitä jos minulla on sopimus voimassa toisen toimiston kanssa?",
+        "a": "Voimme aloittaa suunnittelun irtisanomisaikasi aikana ja julkaista uuden sivuston heti sopimuksesi päättyessä. Ei käyttökatkoja julkaisupäivänä."
+      }
+    ]
+  },
+  "cta": {
+    "overhead": "Maksuton analyysi",
+    "heading": "Onko aika päivittää ihotautisivustosi nykyaikaan?",
+    "description": "Lähetä meille URL-osoitteesi. Analysoimme sen ja osoitamme tarkalleen, missä menetät potilaita — ja miten uudistus korjaa tilanteen vaarantamatta hakukonenäkyvyyttäsi.",
+    "logoAlt": "DW — Ihotautiklinikoiden verkkosivusuunnittelu",
+    "providerName": "Dermatology Website Design",
+    "providerRole": "Autamme ihotautilääkäreitä kasvamaan verkossa",
+    "primary": "Pyydä tarjous uudistuksesta",
+    "secondary": "Ota yhteyttä",
+    "footerLinksPrefix": "Saatat olla kiinnostunut myös näistä: ",
+    "footerLinks": {
+      "migration": "kattavan sivustomigraation suunnittelu",
+      "maintenance": "jatkuva ylläpito julkaisun jälkeen",
+      "portfolio": "katso toteuttamiamme ihotautisivustoja"
+    }
+  }
+}

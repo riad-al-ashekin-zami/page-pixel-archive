@@ -1,0 +1,340 @@
+{
+  "meta": {
+    "title": "Refonte de site web en dermatologie — Modernisez sans perdre votre SEO",
+    "description": "Refonte de sites web premium pour dermatologues (cabinets solos, multi-sites, pédiatrie et Mohs). Moderne, rapide, HIPAA-aware — avec aucune perte SEO au lancement.",
+    "og_title": "Refonte de site web en dermatologie — Zéro perte SEO",
+    "og_description": "Transformez votre site obsolète en une expérience rapide, axée sur la conversion et HIPAA-aware. Redirections 301 et SEO préservés.",
+    "jsonLd": {
+      "serviceType": "Refonte de site web en dermatologie",
+      "providerName": "DW Design",
+      "offerDescription": "Refonte de site web en dermatologie — prix de départ"
+    }
+  },
+  "hero": {
+    "scarcityBadge": "Plus que 3 créneaux de refonte disponibles ce trimestre",
+    "category": "Refonte de site web en dermatologie",
+    "h1": {
+      "main": "Modernisez le site de votre cabinet. ",
+      "highlight": "Sans sacrifier votre SEO."
+    },
+    "description": "Une refonte sereine, dirigée par des experts, pour les cabinets de dermatologie : plus rapide, plus sécurisé, plus esthétique. Redirections 301, formulaires HIPAA-aware et positionnement Google préservé.",
+    "cta": {
+      "primary": "Obtenir un devis de refonte",
+      "secondary": "Audit de refonte gratuit"
+    },
+    "pricing": {
+      "label": "Refontes à partir de",
+      "value": "4 900 $",
+      "detail": "· périmètre fixe, facturation par étapes"
+    },
+    "trustLabels": [
+      "Zéro perte SEO",
+      "Zéro interruption",
+      "HIPAA-aware",
+      "Lighthouse 95+"
+    ],
+    "socialProof": "La confiance de plus de 50 cabinets de dermatologie · Présenté dans",
+    "dragHint": "← Faites glisser pour comparer →",
+    "badges": {
+      "before": "Avant",
+      "after": "Après",
+      "performance": "Lighthouse 48 → 98",
+      "growth": "Réservations x 3.4",
+      "seo": "Zéro perte SEO"
+    },
+    "aria": {
+      "compare": "Révéler l'avant / après la refonte"
+    }
+  },
+  "sections": {
+    "painPoints": {
+      "overhead": "Signes que vous avez besoin d'une refonte",
+      "heading": "Survolez pour voir la solution",
+      "description": "Chaque carte rouge ci-dessous représente un problème fréquent. Survolez (ou appuyez) pour voir le correctif apporté par la refonte.",
+      "cards": [
+        {
+          "pain": "Chargements lents",
+          "painStat": "> 4s LCP",
+          "solution": "Edge caching + optimisation images",
+          "solutionStat": "< 1.2s LCP"
+        },
+        {
+          "pain": "Inadapté au mobile",
+          "painStat": "60 %+ de trafic perdu",
+          "solution": "Reconstruction mobile-first",
+          "solutionStat": "100 % responsive"
+        },
+        {
+          "pain": "Invisible sur Google",
+          "painStat": "Page 3+",
+          "solution": "Schema + SEO on-page",
+          "solutionStat": "Top 3 local"
+        },
+        {
+          "pain": "Design obsolète",
+          "painStat": "Baisse de confiance",
+          "solution": "Système de design sur mesure",
+          "solutionStat": "Image de marque Premium"
+        },
+        {
+          "pain": "Risque HIPAA",
+          "painStat": "Formulaires non sécurisés",
+          "solution": "Stack prête pour BAA",
+          "solutionStat": "Conforme aux audits"
+        },
+        {
+          "pain": "Peu de réservations",
+          "painStat": "< 2 % CVR",
+          "solution": "Flux optimisés pour la conversion",
+          "solutionStat": "6 %+ CVR"
+        }
+      ]
+    },
+    "stats": {
+      "overhead": "Ce qui change",
+      "heading": "Avant vs après une refonte réelle",
+      "description": "Moyenne constatée sur les sites de dermatologie relancés au cours des 24 derniers mois.",
+      "labels": {
+        "before": "Avant",
+        "after": "Après"
+      },
+      "items": [
+        {
+          "label": "Chargement de page (LCP)"
+        },
+        {
+          "label": "Score Lighthouse"
+        },
+        {
+          "label": "Conversion des réservations"
+        },
+        {
+          "label": "Classement local Google"
+        }
+      ]
+    },
+    "seoTimeline": {
+      "overhead": "Préservation SEO",
+      "heading": "Comment nous protégeons votre classement",
+      "description": "Un protocole en cinq étapes sur 90 jours pour que Google (et vos patients) continuent de vous trouver pendant la transition.",
+      "steps": [
+        {
+          "day": "Jour 1",
+          "label": "Crawl complet des URL + capture du positionnement"
+        },
+        {
+          "day": "Semaine 2",
+          "label": "Validation du plan de redirection 1:1"
+        },
+        {
+          "day": "Lancement",
+          "label": "Déploiement des redirections 301 lors du basculement"
+        },
+        {
+          "day": "Jour 30",
+          "label": "Nettoyage Google Search Console"
+        },
+        {
+          "day": "Jour 90",
+          "label": "Suivi et ajustement du classement"
+        }
+      ]
+    },
+    "audiences": {
+      "overhead": "Public cible",
+      "heading": "Des refontes pour chaque type de cabinet",
+      "items": [
+        {
+          "label": "Dermatologues en cabinet solo",
+          "desc": "Un rafraîchissement boutique qui repositionne votre marque et booste les prises de rendez-vous."
+        },
+        {
+          "label": "Cliniques multi-sites",
+          "desc": "Consolidez des sites disparates en un seul système évolutif, géré par emplacement."
+        },
+        {
+          "label": "Dermatologie pédiatrique",
+          "desc": "Une expérience plus chaleureuse pour les parents, avec des flux d'inscription simplifiés."
+        },
+        {
+          "label": "Chirurgie de Mohs et dermatologique",
+          "desc": "Renforcez votre autorité auprès des confrères référents et des patients en accès direct."
+        }
+      ]
+    },
+    "pillars": {
+      "overhead": "L'excellence Premium",
+      "heading": "Six standards appliqués à chaque refonte",
+      "description": "Design, ingénierie, SEO et conformité — conçus ensemble dès le premier jour.",
+      "items": [
+        {
+          "title": "Zéro perte SEO",
+          "desc": "Redirections 301, structure d'URL préservée, mapping de contenu et suivi du classement sur 90 jours."
+        },
+        {
+          "title": "Design 100 % sur mesure",
+          "desc": "Aucun template — un système unique adapté à l'image et aux spécialités de votre clinique."
+        },
+        {
+          "title": "Lighthouse 95+",
+          "desc": "Reconstruction axée sur la performance : pipeline d'images, edge caching et code JavaScript léger."
+        },
+        {
+          "title": "Respect de la norme HIPAA",
+          "desc": "Formulaires sécurisés, hébergement BAA-ready, pas de données sensibles dans analytics, stack auditable."
+        },
+        {
+          "title": "Entièrement Responsive",
+          "desc": "Un rendu parfait sur ordinateur, tablette et mobile — testé sur appareils réels."
+        },
+        {
+          "title": "Accessibilité (WCAG AA)",
+          "desc": "Navigation clavier, contrastes sécurisés, compatible lecteurs d'écran — inclusif par défaut."
+        }
+      ]
+    },
+    "services": {
+      "overhead": "Couverture des services médicaux",
+      "heading": "Chaque page de service optimisée pour convertir",
+      "description": "Nous restructurons et réécrivons chaque page de traitement : précises, accessibles aux patients, optimisées SEO et structurées pour les résultats enrichis Google.",
+      "features": [
+        "H1 / H2 / FAQ optimisés pour les mots-clés",
+        "Migration de contenu avec 301",
+        "Formulaires d'admission HIPAA-aware",
+        "Rapide, indexable et mobile-first"
+      ],
+      "list": [
+        "Traitement de l'acné",
+        "Traitement de l'eczéma",
+        "Traitement du psoriasis",
+        "Infections cutanées",
+        "Allergies cutanées",
+        "Dépistage et traitement du cancer de la peau",
+        "Évaluation et ablation de grains de beauté",
+        "Exérèse de kystes et lipomes",
+        "Traitement des verrues",
+        "Pathologies de l'ongle",
+        "Traitement de la chute de cheveux",
+        "Pathologies du cuir chevelu",
+        "Traitement de la rosacée",
+        "Hyperpigmentation et mélasma",
+        "Traitement des cicatrices",
+        "Cicatrices de brûlures",
+        "Traitement du vitiligo",
+        "Biopsies et diagnostics cutanés"
+      ]
+    },
+    "process": {
+      "overhead": "Le processus de refonte",
+      "heading": "Quatre phases. Zéro surprise.",
+      "items": [
+        {
+          "step": "01",
+          "title": "Audit & Diagnostic",
+          "desc": "Audit SEO, performance, UX et contenu de votre site actuel. Nous identifions ce qu'il faut garder, corriger ou remplacer."
+        },
+        {
+          "step": "02",
+          "title": "Architecture & Plan de redirection",
+          "desc": "Nouveau plan de site et mapping d'URL 1:1 avec les 301 planifiées avant toute décision graphique."
+        },
+        {
+          "step": "03",
+          "title": "Design & Construction",
+          "desc": "Système de design personnalisé, développement manuel, formulaires HIPAA-aware et balisage schema intégré."
+        },
+        {
+          "step": "04",
+          "title": "Migration & Lancement",
+          "desc": "Migration des contenus, déploiement des redirections, basculement sans interruption et suivi SEO sur 90 jours."
+        }
+      ]
+    },
+    "portfolio": {
+      "overhead": "Récentes refontes",
+      "heading": "Transformations Avant/Après",
+      "cta": "Voir tout le portfolio",
+      "items": [
+        {
+          "label": "LA Dermatology",
+          "meta": "Avant → Après · +187 % de réservations, maintien du rang #1",
+          "alt": "Refonte site web LA Dermatology"
+        },
+        {
+          "label": "RS Institute",
+          "meta": "Consolidation de 6 sites · +142 % de trafic",
+          "alt": "Refonte site web RS Institute"
+        },
+        {
+          "label": "CM Surgical",
+          "meta": "Refonte · +230 % de prospects via référencement",
+          "alt": "Refonte site web CM Surgical"
+        }
+      ]
+    }
+  },
+  "testimonials": {
+    "aria": {
+      "button": "Témoignage"
+    },
+    "items": [
+      {
+        "name": "Dr Ethan Caldwell, MD",
+        "role": "LA Dermatology · Solo",
+        "quote": "La refonte a été totalement fluide : nous n'avons pas perdu une seule place sur Google et nos réservations ont doublé en 60 jours. Le site reflète enfin la qualité de notre cabinet."
+      },
+      {
+        "name": "Dr Ibrahim Okafor, MD",
+        "role": "RS Institute · 6 sites",
+        "quote": "Consolider six sites vieillissants semblait impossible. Ils l'ont fait en huit semaines avec une perte SEO nulle et un meilleur classement pour chaque implantation locale."
+      },
+      {
+        "name": "Dr Anika Vasquez, MD",
+        "role": "CM Surgical",
+        "quote": "Les confrères qui nous recommandent des patients nous parlent désormais du site. La qualité des contacts a explosé, pas seulement la quantité. Notre meilleure décision marketing."
+      }
+    ]
+  },
+  "faq": {
+    "overhead": "FAQ",
+    "heading": "La refonte en questions",
+    "items": [
+      {
+        "q": "Mon classement SEO va-t-il chuter après la refonte ?",
+        "a": "Non. Nous préservons votre structure d'URL, appliquons des redirections 301, conservons vos contenus et liens internes, migrons les métadonnées et schémas, et surveillons votre positionnement pendant 90 jours après le lancement."
+      },
+      {
+        "q": "Combien de temps prend une refonte ?",
+        "a": "Comptez généralement 5 à 8 semaines pour un cabinet standard. Les projets multi-sites ou complexes prennent 8 à 12 semaines. Nous fonctionnons par étapes hebdomadaires."
+      },
+      {
+        "q": "Allez-vous migrer mon contenu actuel ?",
+        "a": "Oui. Nous auditons, restructurons et migrons chaque page — services, fiches praticiens, avant-après, blog et formulaires — vers la nouvelle architecture sans aucune déperdition."
+      },
+      {
+        "q": "La refonte s'intègre-t-elle à mon logiciel de gestion (EHR) / réservation ?",
+        "a": "Oui. Nous intégrons les principaux logiciels de dermatologie, portails patients, widgets de réservation et CRM, avec une gestion HIPAA-aware sur l'ensemble du flux."
+      },
+      {
+        "q": "Que faire si je suis encore sous contrat avec une autre agence ?",
+        "a": "Nous pouvons débuter la planification pendant votre période de préavis et mettre le site en ligne dès que l'ancien peut être remplacé. Zéro interruption le jour J."
+      }
+    ]
+  },
+  "cta": {
+    "overhead": "Audit de site gratuit",
+    "heading": "Prêt à remplacer votre ancien site de dermatologie ?",
+    "description": "Envoyez-nous votre URL. Nous l'analyserons personnellement pour vous montrer ce qui vous fait perdre des patients — et comment une refonte règle le problème sans impacter votre SEO.",
+    "logoAlt": "DW — Design de sites web pour dermatologues",
+    "providerName": "Dermatology Website Design",
+    "providerRole": "Accompagner la croissance digitale des dermatologues",
+    "primary": "Obtenir un devis de refonte",
+    "secondary": "Contactez-nous",
+    "footerLinksPrefix": "Exploration suggérée : ",
+    "footerLinks": {
+      "migration": "planifier une migration complète de site",
+      "maintenance": "maintenance continue après lancement",
+      "portfolio": "voir nos réalisations"
+    }
+  }
+}

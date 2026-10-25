@@ -1,0 +1,74 @@
+{
+  "meta": {
+    "title": "Återbetalningspolicy — depositioner, milstolpar och löpande abonnemang",
+    "description": "Information om hur depositioner, delbetalningar och löpande abonnemang hanteras vid avbokning eller om du inte är nöjd med våra tjänster.",
+    "og": {
+      "title": "Återbetalningspolicy — depositioner, milstolpar och löpande abonnemang",
+      "description": "Information om hur depositioner, delbetalningar och löpande abonnemang hanteras vid avbokning eller om du inte är nöjd med våra tjänster."
+    },
+    "twitter": {
+      "title": "Återbetalningspolicy — depositioner, milstolpar och löpande abonnemang",
+      "description": "Information om hur depositioner, delbetalningar och löpande abonnemang hanteras vid avbokning eller om du inte är nöjd med våra tjänster."
+    }
+  },
+  "layout": {
+    "skip_to_content": "Hoppa till innehållet"
+  },
+  "hero": {
+    "badge": "Juridisk information · Återbetalningspolicy",
+    "title": "Återbetalningspolicy",
+    "description": "Tydliga regler för depositioner, milstolpsbetalningar och löpande abonnemang — inga överraskningar om planerna ändras.",
+    "last_updated": "Senast uppdaterad:",
+    "date": "14 juli 2026"
+  },
+  "sidebar": {
+    "contents_label": "Innehåll",
+    "nav_aria_label": "Navigering i sektioner"
+  },
+  "sections": {
+    "overview": {
+      "title": "1. Översikt",
+      "body": "Denna återbetalningspolicy förklarar hur betalningar hanteras om ett projekt avbryts, pausas eller inte lever upp till förväntningarna. Den fungerar som ett komplement till vårt tjänsteavtal; vid eventuella avvikelser är det det signerade prisförslaget eller projektbeskrivningen (Statement of Work) som gäller."
+    },
+    "deposits": {
+      "title": "2. Depositioner",
+      "body": "Depositioner för projekt är ej återbetalningsbara. Depositionen reserverar plats i vår planering och täcker förarbete, strategi och det initiala designarbete som påbörjas omedelbart efter godkännande."
+    },
+    "milestones": {
+      "title": "3. Milstolpsbetalningar",
+      "list_items": [
+        "Milstolpsbetalningar avser arbete som redan har slutförts och godkänts. Betalningar för levererade milstolpar är ej återbetalningsbara.",
+        "Om du avbryter ett pågående projekt ansvarar du för ersättning av utfört arbete och uppkomna kostnader fram till avbokningsdatumet. Eventuellt förskottsbetalat belopp utöver detta återbetalas inom 14 arbetsdagar."
+      ]
+    },
+    "recurring": {
+      "title": "4. Löpande abonnemang (Support, hosting, retainers)",
+      "list_items": [
+        "Löpande abonnemang faktureras månadsvis i förskott och är ej återbetalningsbara för den innevarande månaden.",
+        "Du kan säga upp tjänsten när som helst med 30 dagars skriftlig uppsägningstid. Tjänsten fortsätter löpa under den betalda perioden; inga ytterligare avgifter tillkommer efter att uppsägningen har trätt i kraft.",
+        "Outnyttjade timmar i en månatlig retainer kan inte sparas till nästa månad och är ej återbetalningsbara."
+      ]
+    },
+    "third_party": {
+      "title": "5. Tredjepartsavgifter",
+      "body": "Avgifter som betalats till tredjepartsleverantörer för din räkning — såsom domäner, hosting, bildlicenser, premium-tillägg och annonskostnader — är ej återbetalningsbara efter inköp, oavsett projektets status."
+    },
+    "chargebacks": {
+      "title": "6. Chargebacks och reklamationer",
+      "body": "Vänligen kontakta oss innan du initierar en chargeback via din bank. Vi strävar efter att lösa alla eventuella problem snabbt och smidigt. Chargebacks som görs utan föregående kontakt kan leda till omedelbar avstängning av tjänster och betraktas som ett väsentligt avtalsbrott."
+    },
+    "request": {
+      "title": "7. Så begär du en återbetalning",
+      "body": "Skicka en skriftlig begäran via vår kontaktsida och ange projektnamn, fakturanummer samt anledning. Godkända återbetalningar görs till den ursprungliga betalningsmetoden inom 14 arbetsdagar."
+    },
+    "changes": {
+      "title": "8. Ändringar i policyn",
+      "body": "Vi kan komma att uppdatera denna återbetalningspolicy från tid till annan. Datumet för \"Senast uppdaterad\" ovan visar den aktuella versionen."
+    }
+  },
+  "cta": {
+    "title": "Behöver du diskutera en återbetalning?",
+    "description": "Hör av dig till oss först — vi gör vårt bästa för att hitta en lösning som fungerar för båda parter.",
+    "button": "Kontakta oss"
+  }
+}

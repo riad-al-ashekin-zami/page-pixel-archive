@@ -1,0 +1,55 @@
+{
+  "slug": "reactivation-email-sequence",
+  "title": "E-postsekvensen för inaktiva patienter värd 180 000 USD/år",
+  "excerpt": "Sex e-postmeddelanden, ett erbjudande och segmenteringslogiken som får inaktiva patienter tillbaka till stolen.",
+  "imageAlt": "Smartphone som visar en mjukt belyst inkorg bredvid en kaffekopp och en croissant på linne",
+  "body": [
+    {
+      "text": "En patient som inte har besökt oss på 12 månader är 4 gånger mer benägen att boka via e-post än via någon betalkanal. Men de flesta praktiker skickar aldrig ett sådant. Här är den sex-e-postmeddelandesekvens som vi använder för varje ny klient, tillsammans med segmenteringslogiken som avgör vilka patienter som får vilket erbjudande – för ett generiskt 'vi saknar dig'-e-postmeddelande till 10 000 inaktiva patienter underpresterar jämfört med en riktad sex-e-postmeddelandesekvens till 1 000."
+    },
+    {
+      "text": "Siffran 180 000 USD i rubriken är inte marknadsföringshype. Det är den genomsnittliga inkrementella intäkten vi mäter under de första tolv månaderna efter att ha implementerat denna sekvens för en medelstor klinik med en enda plats med cirka 8 000 inaktiva kontakter. Grupper med flera platser ser rutinmässigt multiplar av det. Matematiken fungerar eftersom kostnaden för sekvensen är noll inkrementella annonsutgifter och målgruppen är redan kvalificerad – de har besökt kliniken minst en gång."
+    },
+    {
+      "heading": "Segmentering före innehåll"
+    },
+    {
+      "text": "Innan du skriver ett enda e-postmeddelande, segmentera målgruppen. Slå ihop alla inaktiva patienter i en lista och varje erbjudande kommer att kännas generiskt för någon. Dela upp listan i tre kohorter: 12–18 månader sedan senaste besöket (mjuk påminnelse), 18–36 månader (strukturerad återengagemang), och 36+ månader (aggressiv återfångst med ett verkligt incitament). Varje kohort får samma sex-e-postskelett men med olika ton, olika erbjudande och olika borttagningskriterier."
+    },
+    {
+      "heading": "Sekvensen"
+    },
+    {
+      "list": [
+        "E-post 1: Vi saknar dig – vänligt hej utan krav",
+        "E-post 2: Vad är nytt på kliniken",
+        "E-post 3: En mild uppmaning att boka sin årliga hudkontroll",
+        "E-post 4: Utbildningsmaterial om förebyggande av hudcancer",
+        "E-post 5: Ett tidsbegränsat erbjudande specifikt för deras senaste besökstyp",
+        "E-post 6: Sista chansen, ta sedan bort från sekvensen"
+      ]
+    },
+    {
+      "heading": "Varför 'inget krav' som första e-postmeddelande är viktigt"
+    },
+    {
+      "text": "Det första e-postmeddelandet i sekvensen ber medvetet inte om något. Det är en varm återintroduktion från klinikchefen eller medicinska assistenten, helst skriven i första person med en riktig signatur. Syftet är att påminna mottagaren om att kliniken kommer ihåg dem som en person, inte ett marknadsföringssegment. Svarsfrekvensen på e-postmeddelanden med 'inget krav' överträffar e-postmeddelanden med 'boka nu' med 5–8 gånger, och de som svarar identifierar sig själva som högt intresserade."
+    },
+    {
+      "heading": "Erbjudandet kommer i e-post 5, inte e-post 1"
+    },
+    {
+      "text": "Praktiker gör rutinmässigt misstaget att börja med erbjudandet. Det tränar inaktiva patienter att förvänta sig rabatter varje gång de hör från dig, och det konverterar segmentet med lägst intresse på din lista enbart baserat på pris. Den sex-e-postmeddelandesekvensen flyttar erbjudandet till e-post fem, efter fyra kontaktpunkter av värme och utbildning. När erbjudandet anländer har patienten återigen förankrats i klinikens varumärke, inte dess rabatt."
+    },
+    {
+      "heading": "Borttagningssteget skyddar leveransbarheten"
+    },
+    {
+      "text": "E-post sex är sista-chansen-e-postmeddelandet och är också triggern för borttagning. Alla mottagare som inte har öppnat något av de fem föregående e-postmeddelandena och inte öppnar e-post sex tas bort från sekvensen. Detta skyddar din avsändares rykte hos Gmail och Outlook – att skicka till oengagerade adresser är det snabbaste sättet att hamna i kampanjer eller skräppost. Aggressiv borttagning förbättrar faktiskt resultaten för nästa kampanj eftersom den återstående listan är tätare och mer engagerad."
+    },
+    {
+      "text": "Implementera sekvensen en gång per år för varje kohort, uppdatera texten årligen, och behandla den borttagna målgruppen som en separat långsiktig kohort som du återengagerar var 18:e månad med ett nytt avsändarnamn. Ackumuleras över tre år och siffran 180 000 USD tenderar att fördubblas eller tredubblas när sekvensen mognar och segmenteringen blir mer exakt."
+    }
+  ],
+  "faqs": null
+}

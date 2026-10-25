@@ -1,0 +1,272 @@
+{
+  "meta": {
+    "title": "Tillväxttjänster för dermatologi | Fler bokade besök, inte bara exponeringar",
+    "description": "Tillväxt för hudläkarmottagningar — patientanskaffning, konverteringsoptimering, automatiserad lojalitet och intäktsanalys kopplad till bokade besök och tjänstespecifika resultaträkningar.",
+    "og": {
+      "title": "Tillväxt för hudläkarmottagningar — Bokade besök, inte bara exponeringar",
+      "description": "Helhetslösning för tillväxt för både enskilda hudläkare och klinikkedjor — anskaffning, konvertering, lojalitet och intäktsanalys."
+    },
+    "twitter": {
+      "title": "Tillväxttjänster för dermatologi",
+      "description": "Öka antalet bokade besök på din hudläkarmottagning — mätbart direkt i din resultaträkning."
+    },
+    "jsonLd": {
+      "serviceType": "Tillväxttjänster för dermatologi",
+      "provider": "DermatologyWebsiteDesign.com",
+      "description": "Tillväxttjänster för hudläkarmottagningar — patientanskaffning, lojalitet, rykteshantering och intäktsanalys.",
+      "breadcrumbs": {
+        "home": "Hem",
+        "services": "Tjänster",
+        "current": "Tillväxt för dermatologi"
+      }
+    }
+  },
+  "hero": {
+    "badge": "Tillväxt för dermatologi",
+    "title": "Bokade besök. Inte bara exponeringar.",
+    "description": "Total tillväxt för hudläkarmottagningar — patientanskaffning, konverteringsoptimering, automatiserad lojalitet och intäktsanalys. Varje kanal mäts mot kostnad per bokat besök och lönsamhet per tjänsteområde.",
+    "cta": {
+      "primary": "Få en kostnadsfri tillväxtanalys",
+      "secondary": "Se vår growth stack"
+    },
+    "stats": [
+      {
+        "value": "42%",
+        "label": "Nya patienter"
+      },
+      {
+        "value": "3.4×",
+        "label": "Konsultationsförfrågningar"
+      },
+      {
+        "value": "31%",
+        "label": "Lägre CPBV"
+      },
+      {
+        "value": "HIPAA",
+        "label": "Säker stack"
+      }
+    ]
+  },
+  "sections": {
+    "levers": {
+      "badge": "Vår growth stack",
+      "heading": "Åtta tillväxtfaktorer. En resultaträkning.",
+      "description": "Tillväxt sker bara när anskaffning, konvertering, lojalitet och rykte samverkar — och varje krona kan härledas till ett tjänsteområde snarare än en marknadsföringskanal.",
+      "items": [
+        {
+          "title": "Motor för patientanskaffning",
+          "desc": "Flerkanaligt inflöde — SEO, lokalt sök, betald annonsering och remisser — samlat i en mätbar pipeline för bokade besök."
+        },
+        {
+          "title": "Konverteringsoptimering",
+          "desc": "A/B-tester av landningssidor, förenklade formulär och finjusterade bokningsflöden som ökar förfrågningar utan högre annonskostnad."
+        },
+        {
+          "title": "Lojalitet & återkallelse",
+          "desc": "Automatiserade påminnelser för årliga hudkontroller, kosmetisk uppföljning och reaktivering av vilande patienter."
+        },
+        {
+          "title": "Rykte & omdömen",
+          "desc": "Flöden för omdömen efter besök, HIPAA-säkra svarsmallar och bevakning på Google, Healthgrades och RealSelf."
+        },
+        {
+          "title": "Intäktsanalys",
+          "desc": "Lönsamhet per tjänst, utnyttjandegrad per läkare och källspårning av marknadsföring — en dashboard kopplad till ditt PMS."
+        },
+        {
+          "title": "Tillväxt av remissnätverk",
+          "desc": "Remissprogram för vårdcentraler och gynekologer samt kvartalsvis uppsökande verksamhet som spåras till bokade patientfall."
+        },
+        {
+          "title": "Betalda medier",
+          "desc": "Kampanjer på Google, Meta och YouTube optimerade efter marginal per tjänst — inga fåfänga siffror eller onödig retargeting."
+        },
+        {
+          "title": "HIPAA-säker automatisering",
+          "desc": "Varje kontaktpunkt — SMS, e-post, chatt — körs på BAA-täckt infrastruktur där PHI rensas som standard."
+        }
+      ]
+    },
+    "outcomes": {
+      "srTitle": "Uppmätta resultat",
+      "items": [
+        {
+          "k": "42%",
+          "v": "Bokningar av nya patienter, 6 mån"
+        },
+        {
+          "k": "78%",
+          "v": "Fler 5-stjärniga betyg på Google"
+        },
+        {
+          "k": "3.4×",
+          "v": "Konsultationsförfrågningar, kvartal mot kvartal"
+        },
+        {
+          "k": "31%",
+          "v": "Minskad kostnad per bokat besök"
+        }
+      ],
+      "quote": "Vi slutade läsa marknadsföringsrapporter och började läsa resultaträkningen. Efter sex månader har bokningarna av nya patienter ökat med 42 % och kostnaden per bokning sjunkit med 31 % — och jag kan se exakt vilken tjänst som genererade varje krona.",
+      "attribution": "Dr. Alicia Renner · Dermatologiklinik med 4 mottagningar"
+    },
+    "audiences": {
+      "badge": "Vilka vi hjälper",
+      "heading": "Byggt för alla typer av hudläkarmottagningar.",
+      "description": "Enskilda kliniker, kedjor, pediatrisk dermatologi eller Mohs-kirurgi — varje tillväxtmodell anpassas efter kapacitet och marginal.",
+      "items": [
+        {
+          "title": "Enskilda hudläkare",
+          "desc": "En behandlare, tajta marginaler, högt patientvärde — tillväxt utan behovet av att anställa ett eget marknadsteam."
+        },
+        {
+          "title": "Dermatologikliniker med flera kontor",
+          "desc": "Resultaträkning på lokal nivå, klinikspecifika budgetar och centraliserad varumärkesstyrning."
+        },
+        {
+          "title": "Pediatrisk dermatologi",
+          "desc": "Trattar anpassade för föräldrars beslutsprocesser, barnvänlig kommunikation och planering utifrån skolterminer."
+        },
+        {
+          "title": "Mohs och kirurgisk dermatologi",
+          "desc": "Remissfokuserade flöden, försäkringsverifierat intag och rykteshantering efter operation."
+        }
+      ]
+    },
+    "services": {
+      "badge": "Medicinska tjänster vi skalar upp",
+      "heading": "Varje tjänst. Varje avsikt. Varje bokat besök.",
+      "description": "Varje medicinsk tjänst modelleras som en egen funnel — där anskaffningskostnad, konverteringsgrad och livstidsvärde spåras separat.",
+      "list": [
+        "Aknebehandling",
+        "Eksembehandling",
+        "Psoriasisbehandling",
+        "Behandling av hudinfektioner",
+        "Hudallergier",
+        "Screening och behandling av hudcancer",
+        "Leverfläcksanalys och kirurgiskt borttagande",
+        "Borttagning av cystor och lipom",
+        "Vårtbehandling",
+        "Nagelsjukdomar",
+        "Diagnostik och medicinsk behandling av håravfall",
+        "Behandling av hårbottenbesvär",
+        "Rosaceabehandling",
+        "Hyperpigmentering och melasmabehandling (medicinsk)",
+        "Ärrbehandling (skada, kirurgi, sjukdom)",
+        "Brännskadeärr",
+        "Vitiligobehandling",
+        "Hudbiopsier och diagnostiska ingrepp"
+      ]
+    },
+    "workflow": {
+      "badge": "Så fungerar det",
+      "heading": "En 90-dagars tillväxtresa. Därefter synergieffekter.",
+      "description": "Transparenta milstolpar kopplade till bokade besök och resultaträkning — ingen svårtydd rapportering.",
+      "steps": [
+        {
+          "step": "01",
+          "phase": "Fas 01",
+          "title": "Diagnostik & nulägesanalys",
+          "desc": "Fullständig granskning av anskaffning och lojalitet, genomgång av resultaträkning och en 12-månaders tillväxtmodell baserad på kapacitet."
+        },
+        {
+          "step": "02",
+          "phase": "Fas 02",
+          "title": "Konvertering & varumärkesbas",
+          "desc": "Ombyggnad av webbplatsens konvertering, optimering av bokningsflöden och uppsättning av spårning och analys."
+        },
+        {
+          "step": "03",
+          "phase": "Fas 03",
+          "title": "Lansering av kanaler",
+          "desc": "SEO, lokalt sök, betald annonsering och remissprogram startas parallellt — alla med mål för kostnad per bokat besök."
+        },
+        {
+          "step": "04",
+          "phase": "Fas 04",
+          "title": "Lojalitet, rapport & skalning",
+          "desc": "Återkallelsesekvenser, rykteshantering, månatliga ledningsrapporter och kvartalsvis expansion av tjänsteområden."
+        }
+      ]
+    },
+    "whyUs": {
+      "badge": "Varför kliniker väljer oss",
+      "heading": "En partner för tillväxt inom dermatologi — inte en vanlig reklambyrå.",
+      "items": [
+        {
+          "title": "Resultaträkning framför dashboards",
+          "desc": "Varje leverans kopplas till bokade besök, intäkt per tjänst och kostnad per bokning — sammanställt på en enda sida varje månad."
+        },
+        {
+          "title": "HIPAA-säkert från start",
+          "desc": "BAA-täckt infrastruktur, PHI-rensad automatisering och granskade PMS-integrationer innan vi rör ett arbetsflöde."
+        },
+        {
+          "title": "Kapacitetsmedvetna",
+          "desc": "Tillväxten anpassas efter din kalender — vi driver inte in mer efterfrågan än vad dina läkare faktiskt kan hantera."
+        },
+        {
+          "title": "Attribuering av bokade besök",
+          "desc": "Samtalsspårning, formulärspårning och PMS-integration säkerställer att varje bokat besök kan härledas till källan."
+        },
+        {
+          "title": "Medicinska skribenter",
+          "desc": "Skribenter med klinisk bakgrund och granskning av hudläkare på varje sida — inget AI-skräp eller tomt innehåll."
+        },
+        {
+          "title": "Sluta med det som inte fungerar",
+          "desc": "Varje kanal har ett tak för kostnad per bokat besök. Missas målet två månader i rad omfördelas budgeten."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "Svaren klinikägare vill ha.",
+    "items": [
+      {
+        "q": "Hur skiljer sig detta från en vanlig marknadsföringsbyrå?",
+        "a": "En byrå säljer exponeringar, klick eller ranking. Vi säljer bokade patientbesök och intäkter — varje leverans mäts mot dina nyckeltal, inte en marknadsföringsrapport. Om en kanal inte levererar bokat besök till rätt kostnad, stänger vi av den."
+      },
+      {
+        "q": "Hur ser de första 90 dagarna ut?",
+        "a": "Dag 1–30: diagnostik, baslinje, tillväxtmodell och optimerad funnel. Dag 31–60: finslipning av bokningsflöden, SEO och lokalt sök går live, omdömessystem lanseras. Dag 61–90: betalda kanaler aktiveras, remissprogram startas och första ledningsrapporten levereras."
+      },
+      {
+        "q": "Jobbar ni med kliniker som har flera mottagningar?",
+        "a": "Ja — det är en av våra specialiteter. Vi bygger resultaträkningar per plats, klinikspecifika budgetar och centraliserad styrning så att varumärket förblir enhetligt."
+      },
+      {
+        "q": "Är allt HIPAA-säkert?",
+        "a": "Ja. All automatisering, integration och omdömesflöden körs på BAA-täckt infrastruktur. Svarsmallar refererar aldrig till patientdata (PHI)."
+      },
+      {
+        "q": "Integrerar ni med vårt journalsystem (PMS)?",
+        "a": "Vi integrerar med de största plattformarna som Nextech, ModMed, EMA och AdvancedMD för attribuering och rapportering."
+      },
+      {
+        "q": "Vad händer om en kanal underpresterar?",
+        "a": "Vi stänger av den. Varje kanal har ett förutbestämt tak för kostnad per bokat besök. Om målet missas två månader i rad flyttas budgeten dit den gör mest nytta."
+      }
+    ]
+  },
+  "cta": {
+    "badge": "Gratis tillväxtanalys",
+    "title": "Se exakt var bokningarna läcker — inom 48 timmar.",
+    "description": "Analys av anskaffning, genomgång av konvertering och lojalitet samt en prioriterad 90-dagarsplan — kopplad till din resultaträkning. Helt kostnadsfritt.",
+    "primary": "Boka min analys",
+    "secondary": "Be om en offert"
+  },
+  "stickyCta": {
+    "label": "Gratis tillväxtanalys — 48 timmar",
+    "button": "Boka nu"
+  },
+  "related": {
+    "prefix": "Relaterad läsning: ",
+    "links": {
+      "marketing": "guide till marknadsföring för hudläkare",
+      "googleAds": "betald anskaffning med Google Ads",
+      "reputation": "system för omdömen och rykte"
+    }
+  }
+}

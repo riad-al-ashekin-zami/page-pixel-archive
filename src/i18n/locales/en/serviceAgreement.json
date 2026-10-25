@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "title": "Service Agreement — Terms of Engagement",
+    "description": "The service agreement that governs projects between our studio and dermatology practices — scope, deliverables, payment, IP, confidentiality, warranties, and termination.",
+    "page_title": "Service Agreement — Terms of Engagement",
+    "page_description": "The service agreement that governs projects between our studio and dermatology practices — scope, deliverables, payment, IP, confidentiality, warranties, and termination."
+  },
+  "common": {
+    "skip_to_content": "Skip to content",
+    "last_updated": "Last updated:",
+    "last_updated_date": "July 14, 2026"
+  },
+  "hero": {
+    "badge": "Legal · Service Agreement",
+    "h1": "Service Agreement",
+    "description": "The plain-English terms that govern design, development, and ongoing work between our studio and your practice. Read this alongside your project proposal or statement of work."
+  },
+  "sections": {
+    "toc_title": "Contents",
+    "navigation_aria_label": "Section navigation",
+    "parties": {
+      "title": "1. Parties & Acceptance",
+      "body": "This Service Agreement (\"Agreement\") is entered into between our studio (\"Provider,\" \"we,\" \"us\") and the practice, entity, or individual identified in the accompanying proposal or statement of work (\"Client,\" \"you\"). By signing a proposal, submitting a deposit, or otherwise instructing us to begin work, you accept the terms below."
+    },
+    "scope": {
+      "title": "2. Scope of Services",
+      "body": "The specific services, deliverables, milestones, and timelines are defined in the proposal or statement of work (\"SOW\") referencing this Agreement. Anything outside that SOW — new pages, additional integrations, extra revision rounds, re-scoping after approval — is treated as a change order and quoted separately in writing."
+    },
+    "fees": {
+      "title": "3. Fees & Payment",
+      "items": [
+        "A non-refundable deposit of 50% is required to schedule and begin work.",
+        "The balance is invoiced per the milestones in the SOW; final balance is due before production launch or file handover.",
+        "Invoices are due within 7 days. Late invoices accrue 1.5% monthly interest, and work may be paused until the balance is cleared.",
+        "Recurring plans (hosting, care, retainers) are billed monthly in advance."
+      ]
+    },
+    "timeline": {
+      "title": "4. Timeline & Client Responsibilities",
+      "body": "Timelines assume responses to reviews and content requests within 3 business days. Delays in feedback, content delivery, or third-party approvals shift the schedule on a day-for-day basis. You are responsible for providing accurate content, brand assets, and access credentials, and for ensuring the content you supply is truthful and non-infringing."
+    },
+    "revisions": {
+      "title": "5. Revisions",
+      "body": "Each deliverable includes two rounds of consolidated revisions unless the SOW states otherwise. Revisions requested after written approval of a stage, or that exceed the included rounds, are billed at our then-current hourly rate."
+    },
+    "ip": {
+      "title": "6. Intellectual Property",
+      "body": "On full payment, you own the final deliverables produced specifically for you — website design, custom code, and content authored under the SOW. We retain rights to pre-existing frameworks, tooling, and generic components used in the build, and grant you a perpetual license to use them as part of your project. We may display the finished work in our portfolio and case studies unless you request otherwise in writing."
+    },
+    "third_party": {
+      "title": "7. Third-Party Services",
+      "body": "Projects may rely on third-party services (hosting, CMS, analytics, EHR/booking integrations, DNS, payment processors). You are responsible for their fees and for agreeing to their terms. We are not liable for outages, changes, or defects caused by third-party providers."
+    },
+    "hipaa": {
+      "title": "8. HIPAA & Data Handling",
+      "body": "Our standard websites are built HIPAA-aware: they avoid collecting Protected Health Information (PHI) in forms, trackers, or logs. Where a project intentionally handles PHI (e.g. patient portals, intake forms with clinical data), the parties will execute a separate Business Associate Agreement (\"BAA\") before that functionality goes live. You are responsible for configuring third-party tools you add after handover in a HIPAA-compliant way."
+    },
+    "confidentiality": {
+      "title": "9. Confidentiality",
+      "body": "Each party will keep the other's non-public business, financial, patient, and technical information confidential, and use it only to perform this Agreement. Confidentiality obligations survive termination."
+    },
+    "warranty": {
+      "title": "10. Warranty & Disclaimers",
+      "body": "We warrant that services will be performed in a professional manner consistent with industry standards. For 30 days after launch we will fix defects in code we authored at no charge. Beyond that, remedial work is covered under a care plan or billed hourly. Except as expressly stated, services and deliverables are provided \"as-is,\" and we disclaim all other warranties, including fitness for a particular purpose and non-infringement of third-party services."
+    },
+    "liability": {
+      "title": "11. Limitation of Liability",
+      "body": "To the maximum extent permitted by law, neither party is liable for indirect, incidental, consequential, or lost-profits damages. Our aggregate liability under this Agreement is limited to the fees you paid us in the three (3) months preceding the claim."
+    },
+    "termination": {
+      "title": "12. Termination",
+      "body": "Either party may terminate for material breach if the breach is not cured within 14 days of written notice. If you terminate for convenience, you are responsible for all work completed and expenses incurred through the termination date; the deposit remains non-refundable. Recurring plans require 30 days' written notice."
+    },
+    "misc": {
+      "title": "13. Governing Law & Miscellaneous",
+      "body": "This Agreement is governed by the laws of the jurisdiction stated in the SOW, without regard to conflict-of-laws principles. It is the entire agreement between the parties on this subject and supersedes prior discussions. If any provision is held unenforceable, the remainder stays in effect. Amendments must be in writing and signed by both parties."
+    }
+  },
+  "cta": {
+    "title": "Questions about these terms?",
+    "description": "We're happy to walk through any clause before you sign.",
+    "button": "Contact us"
+  }
+}

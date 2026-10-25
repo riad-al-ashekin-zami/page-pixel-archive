@@ -1,0 +1,62 @@
+{
+  "slug": "hipaa-website-mistakes",
+  "title": "7 Errores de Sitios Web con HIPAA Que Todavía Vemos en 2026",
+  "excerpt": "Píxeles de Meta, formularios de admisión, widgets de chat: donde ocurren las fugas de PHI y cómo cerrarlas esta semana.",
+  "imageAlt": "Candado de latón sobre una pila de documentos de cumplimiento de HIPAA",
+  "body": [
+    {
+      "text": "La aplicación de HIPAA en torno al seguimiento de sitios web ha cambiado drásticamente desde la guía de la OCR de 2022. Si su sitio aún depende de un Meta Pixel predeterminado, una configuración predeterminada de GA4 o un widget de chat sin BAA, tiene una fuga, y probablemente no lo sabe porque las fugas son silenciosas. La buena noticia: cada uno de los siete errores a continuación se puede cerrar en una semana con un impulso tecnológico y legal coordinado. La mala noticia: la mayoría de las prácticas no han comenzado."
+    },
+    {
+      "text": "El propósito de esta publicación no es asustarlo hasta la parálisis. Es para darle una lista de verificación concreta que puede entregar a quien sea el dueño de su sitio web, además de una descripción sencilla de por qué cada elemento es un riesgo. Revise la lista, marque los que sabe que están abiertos y comience con la fuga de mayor gravedad el lunes por la mañana."
+    },
+    {
+      "heading": "Los siete errores"
+    },
+    {
+      "list": [
+        "Meta Pixel activándose en páginas de reserva sin filtrado del lado del servidor",
+        "Parámetros de URL de seguimiento de GA4 que contienen nombres de condiciones",
+        "Widgets de chat que almacenan registros de conversaciones en infraestructura no compatible con HIPAA",
+        "Formularios de admisión que se publican en servicios de formularios de terceros sin un BAA",
+        "IP de visitantes de chat en vivo almacenadas junto con consultas de salud",
+        "Videos incrustados de terceros que se cargan antes del consentimiento",
+        "Herramientas de reproducción de sesión que graban la entrada de campos de formulario"
+      ]
+    },
+    {
+      "heading": "Por qué el Meta Pixel es el mayor riesgo individual"
+    },
+    {
+      "text": "El Meta Pixel es el elemento de mayor gravedad en la lista porque es el más invisible. Una instalación predeterminada se activa en cada carga de página y envía la URL, el remitente y cualquier entrada de formulario que Meta pueda obtener a los servidores de Facebook, incluidas URL como /schedule/acne-consult o /request/mole-check. Esa URL es posiblemente PHI en el momento en que se vincula a una dirección IP que se puede resolver a una persona."
+    },
+    {
+      "text": "La solución no es eliminar el pixel. La solución es ejecutarlo a través de la API de Conversiones del lado del servidor con un filtrado estricto de URL y eventos, y eliminar cualquier cadena de consulta, segmento de ruta o carga útil de evento que pueda revelar la intención de la condición. Ese trabajo le toma a un ingeniero aproximadamente dos días. Es el trabajo de cumplimiento de mayor ROI que puede hacer este trimestre."
+    },
+    {
+      "heading": "GA4 es la segunda fuga más común"
+    },
+    {
+      "text": "GA4 tiene fugas de una manera diferente: parámetros de URL que contienen lenguaje de diagnóstico, o cargas útiles de eventos que se configuraron en piloto automático y nunca se revisaron. Ordene sus eventos de GA4 por frecuencia y lea los 50 principales. Si algún nombre de evento o parámetro contiene texto de condición, esos datos se han estado transmitiendo a los servidores de Google sin cifrar desde una perspectiva de HIPAA. Renombre, elimine o reemplace esos eventos con identificadores limpios."
+    },
+    {
+      "heading": "Widgets de chat y formularios de admisión"
+    },
+    {
+      "text": "Los widgets de chat y los formularios de admisión son la tercera categoría. Cualquier herramienta que capture la entrada conversacional necesita un Acuerdo de Asociado Comercial (BAA) antes de tocar una consulta de paciente. Si su proveedor de chat actual no puede producir un BAA firmado dentro de una hora de solicitarlo, reemplácelo. Los buenos proveedores compatibles con HIPAA tienen BAAs disponibles; los riesgosos no."
+    },
+    {
+      "text": "La misma regla se aplica a los formularios de admisión. Si su proveedor de formularios almacena las envíos en sus servidores sin un BAA, cada envío es un evento de cumplimiento. Cambie a una solución de formularios con un BAA firmado (o auto-aloje en su propia infraestructura elegible para HIPAA) antes de lanzar su próxima campaña."
+    },
+    {
+      "heading": "Reproducción de sesión, video incrustado y la cola larga"
+    },
+    {
+      "text": "Las herramientas de reproducción de sesión son herramientas extraordinarias de investigación de productos y extraordinarias minas terrestres de HIPAA. Cada herramienta de reproducción debe configurarse para enmascarar cada campo de formulario de forma predeterminada, enmascarar cualquier elemento que contenga texto que pueda ser PHI y almacenar grabaciones en infraestructura cubierta por un BAA. Los videos incrustados de YouTube o Vimeo cargan cookies de terceros antes del consentimiento del usuario; cambie a una incrustación que priorice la privacidad o a un cargador ligero que solo se inicialice después de una acción explícita."
+    },
+    {
+      "text": "El mensaje compuesto es este: el cumplimiento de HIPAA en 2026 es tanto un problema de ingeniería de sitios web como uno legal. Trátelo como un mantenimiento recurrente, no como una auditoría única. Revise su pila de seguimiento trimestralmente, retire a los proveedores que no puedan firmar BAAs y documente cada corrección en un registro de cumplimiento que su equipo de liderazgo pueda señalar cuando finalmente llegue la carta de la OCR."
+    }
+  ],
+  "faqs": null
+}

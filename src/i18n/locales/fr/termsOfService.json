@@ -1,0 +1,89 @@
+{
+  "meta": {
+    "title": "Conditions Générales d'Utilisation — Site Web et Prestations",
+    "description": "Les conditions régissant votre utilisation de notre site, nos communications et les services que vous sollicitez auprès de notre studio.",
+    "og_title": "Conditions Générales d'Utilisation — Site Web et Prestations",
+    "og_description": "Les conditions régissant votre utilisation de notre site, nos communications et les services que vous sollicitez auprès de notre studio.",
+    "twitter_title": "Conditions Générales d'Utilisation — Site Web et Prestations",
+    "twitter_description": "Les conditions régissant votre utilisation de notre site, nos communications et les services que vous sollicitez auprès de notre studio."
+  },
+  "a11y": {
+    "skip_to_content": "Passer au contenu",
+    "section_navigation": "Navigation de la section"
+  },
+  "hero": {
+    "badge": "Juridique · Conditions Générales d'Utilisation",
+    "title": "Conditions Générales d'Utilisation",
+    "description": "Les règles de base pour utiliser notre site web, nous contacter et collaborer avec notre studio. À lire conjointement avec notre <0>Contrat de Services</0> et notre <1>Politique de Confidentialité</1>.",
+    "last_updated": "Dernière mise à jour : <0>14 juillet 2026</0>"
+  },
+  "sections": {
+    "contents_label": "Sommaire",
+    "acceptance": {
+      "title": "1. Acceptation des conditions",
+      "body": "En accédant à ce site web (le « Site »), en soumettant une demande ou en engageant nos services, vous acceptez les présentes Conditions Générales d'Utilisation (« Conditions »). Si vous ne les acceptez pas, veuillez cesser d'utiliser le Site."
+    },
+    "eligibility": {
+      "title": "2. Éligibilité",
+      "body": "Vous devez être âgé d'au moins 18 ans et être en mesure de conclure un contrat contraignant pour utiliser le Site ou engager nos services. Si vous agissez au nom d'une organisation, vous déclarez avoir l'autorité nécessaire pour l'engager."
+    },
+    "services": {
+      "title": "3. Nos Services",
+      "body": "Ce Site contient principalement du contenu marketing. Tout engagement de projet réel — design, développement, SEO ou maintenance — est régi par un devis ou un énoncé de travail distinct ainsi que par notre <0>Contrat de Services</0>. En cas de conflit entre ces documents et les présentes Conditions, le Contrat de Services prévaut."
+    },
+    "acceptable_use": {
+      "title": "4. Utilisation acceptable",
+      "list": [
+        "Ne pas faire d'usage abusif du Site, ne pas perturber ou tenter de forcer l'infrastructure du Site.",
+        "Ne pas extraire (scraping), explorer ou reproduire le contenu au-delà d'une référence loyale et non commerciale.",
+        "Ne pas soumettre de contenu illicite, contrefaisant, nuisible ou trompeur via nos formulaires.",
+        "Ne pas soumettre d'Informations de Santé Protégées (PHI) via les formulaires publics."
+      ]
+    },
+    "ip": {
+      "title": "5. Propriété intellectuelle",
+      "body": "Tout le contenu de ce Site — textes, graphiques, logos, code et design — appartient à notre studio ou à nos concédants de licence et est protégé par les lois sur la propriété intellectuelle. Vous pouvez consulter et partager les liens vers le Site ; vous ne pouvez pas copier, modifier ou republier le contenu sans notre autorisation écrite préalable."
+    },
+    "submissions": {
+      "title": "6. Soumissions",
+      "body": "Si vous nous envoyez des commentaires, des idées ou des suggestions, vous nous accordez une licence non exclusive, mondiale et libre de redevances pour les utiliser sans obligation. N'envoyez rien que vous considérez comme confidentiel, sauf accord écrit contraire de notre part."
+    },
+    "third_party": {
+      "title": "7. Liens et services tiers",
+      "body": "Le Site peut faire référence à des sites, outils ou services tiers. Nous ne les contrôlons ni ne les approuvons, et nous ne sommes pas responsables de leur contenu, de leur disponibilité ou de leurs pratiques."
+    },
+    "disclaimer": {
+      "title": "8. Exonération de responsabilité",
+      "body": "Le Site et son contenu sont fournis « tels quels » et « selon la disponibilité », sans garantie d'aucune sorte — expresse ou implicite — y compris de qualité marchande, d'adéquation à un usage particulier et d'absence de contrefaçon. Rien sur ce Site ne constitue un conseil juridique, médical ou financier."
+    },
+    "liability": {
+      "title": "9. Limitation de responsabilité",
+      "body": "Dans la pleine mesure permise par la loi, nous ne serons pas responsables des dommages indirects, accessoires, consécutifs ou des pertes de profits résultant de votre utilisation du Site. Notre responsabilité globale liée au Site est limitée à 100 USD."
+    },
+    "indemnity": {
+      "title": "10. Indemnisation",
+      "body": "Vous acceptez de nous défendre et de nous indemniser contre toute réclamation, dommage et dépense découlant de votre utilisation abusive du Site ou de la violation des présentes Conditions."
+    },
+    "termination": {
+      "title": "11. Résiliation",
+      "body": "Nous pouvons suspendre ou résilier l'accès au Site à tout moment, avec ou sans préavis, si nous estimons que vous avez violé les présentes Conditions ou créé un risque pour nous ou d'autres utilisateurs."
+    },
+    "governing_law": {
+      "title": "12. Droit applicable",
+      "body": "Les présentes Conditions sont régies par les lois de la juridiction indiquée dans notre Contrat de Services ou, à défaut, la juridiction où notre studio est enregistré — sans égard aux principes de conflit de lois."
+    },
+    "changes": {
+      "title": "13. Modifications des présentes Conditions",
+      "body": "Nous pouvons mettre à jour ces Conditions périodiquement. La date de « Dernière mise à jour » en haut de page indique la version actuelle. Votre utilisation continue du Site après modification signifie que vous acceptez les Conditions mises à jour."
+    },
+    "contact_section": {
+      "title": "14. Contact",
+      "body": "Des questions sur ces Conditions ? Contactez-nous via notre <0>page de contact</0>."
+    }
+  },
+  "cta": {
+    "title": "Des questions sur ces conditions ?",
+    "description": "Nous nous ferons un plaisir d'éclaircir tout point avant de commencer notre collaboration.",
+    "button": "Contactez-nous"
+  }
+}

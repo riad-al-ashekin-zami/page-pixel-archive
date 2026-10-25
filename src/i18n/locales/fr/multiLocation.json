@@ -1,0 +1,442 @@
+{
+  "meta": {
+    "title": "Conception de sites web dermatologiques multi-sites | Une marque, chaque ville",
+    "description": "Design premium pour sites web de dermatologie multi-sites. Système de marque centralisé, SEO par cabinet, fiche Google Business Profile par clinique, prise de rendez-vous unifiée et conformité HIPAA. Dominez le classement dans chaque ville desservie.",
+    "og_title": "Conception de sites web dermatologiques multi-sites | Une marque, chaque ville",
+    "og_description": "Créez un site web dermatologique multi-sites cohérent qui performe par ville, convertit par cabinet et évolue avec vos nouvelles cliniques. Conforme HIPAA, score Lighthouse 95+, véritable SEO local.",
+    "jsonLd": {
+      "serviceType": "Conception de sites web dermatologiques multi-sites",
+      "providerName": "DW Design",
+      "audienceType": "Cliniques de dermatologie multi-sites",
+      "offerDescription": "Conception de sites web dermatologiques multi-sites — prix de départ"
+    }
+  },
+  "hero": {
+    "badge": "Une marque · Chaque ville · Entièrement indexé",
+    "title": "Un design web pour dermatologues multi-sites qui performe dans chaque ville que vous ouvrez.",
+    "description": "Un système de marque unifié, une page indexée unique par cabinet, un balisage schema par ville, GBP, avis clients et réservations — pour qu'un patient à Austin, Plano ou Fort Worth voie un cabinet local, pas une chaîne corporate.",
+    "cta": "Planifier mon site multi-sites",
+    "secondary_cta": "Audit SEO local gratuit",
+    "stats": {
+      "brand": {
+        "value": "1 marque",
+        "description": "Système de design centralisé"
+      },
+      "locations": "Sites déployés jusqu'à",
+      "performance": "Lighthouse sur chaque page"
+    },
+    "rank_badge": {
+      "label": "Classement local en direct",
+      "value": "Top 3",
+      "subtext": "dans chaque ville lancée, en ≤ 60 jours"
+    },
+    "image_alt": "Carte du réseau de cliniques dermatologiques multi-sites avec tableau de bord unifié"
+  },
+  "scaler": {
+    "eyebrow": "Interactif · Simulateur de croissance",
+    "title": "Faites glisser pour prévisualiser votre empreinte locale.",
+    "description": "Découvrez le nombre de pages locales indexées avec lesquelles votre site sera livré — une par clinique, plus les pages de services clés par ville.",
+    "label": "Cabinets :",
+    "range_hint": "2 – 10",
+    "stat_indexed": "Pages locales indexées",
+    "stat_gbp": "Fiches GBP revendiquées & liées",
+    "browser_placeholder": "votreclinique.com/emplacements",
+    "local_number": "Numéro local"
+  },
+  "sections": {
+    "audiences": {
+      "eyebrow": "À qui s'adresse cette offre",
+      "title": "Conçu pour les marques de dermatologie présentes dans plusieurs codes postaux.",
+      "items": [
+        {
+          "label": "Dermatologues Solo en expansion",
+          "desc": "Vous ouvrez votre 2e ou 3e cabinet et votre site monopage ne suffit plus."
+        },
+        {
+          "label": "Cliniques multi-sites",
+          "desc": "De 3 à 20 bureaux sous une même marque, nécessitant un classement par ville et un CMS unique."
+        },
+        {
+          "label": "Groupes de dermatologie pédiatrique",
+          "desc": "Parcours patient dédié aux parents avec mise en relation par cabinet."
+        },
+        {
+          "label": "Réseaux de chirurgie de Mohs",
+          "desc": "Portails pour médecins référents avec contenus de cas cliniques par centre."
+        }
+      ]
+    },
+    "problems": {
+      "eyebrow": "Ce que nous résolvons",
+      "title": "La plupart des sites multi-sites ne sont que des modèles clones mal adaptés.",
+      "description": "Google ne voit qu'une page. Les patients ne voient qu'une adresse. Les avis s'accumulent sur le premier bureau indexé. Nous reconstruisons l'architecture de zéro.",
+      "labels": {
+        "before": "Avant",
+        "after": "Après"
+      },
+      "items": [
+        {
+          "before": "Une page /contact pour 6 cliniques",
+          "after": "6 pages locales indexées distinctes"
+        },
+        {
+          "before": "Même H1 sur chaque emplacement",
+          "after": "H1 spécifique à la ville + schema"
+        },
+        {
+          "before": "GBP non revendiqué / non vérifié",
+          "after": "GBP par clinique, connecté au site"
+        },
+        {
+          "before": "Erreur de lieu lors de la réservation",
+          "after": "Réservation intelligente par ZIP/URL"
+        },
+        {
+          "before": "Avis partagés, pas de confiance locale",
+          "after": "Avis et notes spécifiques par cabinet"
+        },
+        {
+          "before": "Ajouter un lieu = 6 semaines de travaux",
+          "after": "Nouveau cabinet en ligne en < 7 jours"
+        }
+      ]
+    },
+    "pillars": {
+      "eyebrow": "Le système",
+      "title": "Six piliers derrière chaque projet multi-sites.",
+      "items": [
+        {
+          "title": "Système de marque centralisé",
+          "desc": "Une charte graphique, des jetons et une bibliothèque de composants — chaque page de lieu en hérite automatiquement."
+        },
+        {
+          "title": "SEO par emplacement",
+          "desc": "URLs uniques, balisage schema, titres H1 et contenus propres à chaque bureau — indexés comme des cliniques distinctes."
+        },
+        {
+          "title": "Routage local intelligent",
+          "desc": "Détecteur de code postal, sélecteur d'en-tête et appels à l'action contextuels. Fini les erreurs de prise de rendez-vous."
+        },
+        {
+          "title": "Avis étoilés par cabinet",
+          "desc": "Avis collectés, affichés et balisés séparément pour chaque clinique — une preuve sociale locale authentique."
+        },
+        {
+          "title": "Réservation unifiée, salles locales",
+          "desc": "Un seul flux patient, N calendriers. Praticiens, horaires et assurances spécifiques par lieu."
+        },
+        {
+          "title": "Prêt pour HIPAA partout",
+          "desc": "Formulaires d'admission, portails patients et analytique — compatible BAA pour chaque emplacement."
+        }
+      ]
+    },
+    "architecture": {
+      "eyebrow": "Architecture d'URL",
+      "title": "Chaque adresse a sa propre page d'accueil indexable.",
+      "description": "Google traite chaque bureau comme une clinique distincte. Les patients atterrissent sur la page ville correspondant à leur recherche. Les avis, horaires, assurances et praticiens restent liés au bon cabinet — sans jamais être mélangés.",
+      "items": [
+        "Index des lieux : /emplacements",
+        "Page de lieu : /emplacements/paris-75",
+        "Service local : /emplacements/paris-75/traitement-acne",
+        "Bio du praticien : /emplacements/paris-75/dr-martin",
+        "Données structurées : LocalBusiness + MedicalClinic par URL"
+      ],
+      "visual": {
+        "title": "Plan d'URL",
+        "status": "Indexé"
+      }
+    },
+    "seoMatrix": {
+      "eyebrow": "Matrice SEO locale",
+      "title": "Chaque ville × chaque service, indexé et classé.",
+      "description": "Exemple pour une marque à 4 sites — 12 pages de services × 4 villes = 48 pages locales classées individuellement, en plus des pages d'accueil des cabinets.",
+      "table": {
+        "head_service": "Service",
+        "cities": [
+          "Austin, TX",
+          "Plano, TX",
+          "Fort Worth, TX",
+          "Round Rock, TX"
+        ],
+        "services": [
+          "Traitement de l'acné",
+          "Traitement de l'eczéma",
+          "Dépistage cancer de la peau",
+          "Retrait de grains de beauté",
+          "Traitement de la couperose",
+          "Traitement du psoriasis"
+        ]
+      }
+    },
+    "medicalServices": {
+      "eyebrow": "Services médicaux couverts",
+      "title": "Tous les soins médicaux, cabinet par cabinet.",
+      "description": "Chaque clinique ne présente que les services réellement offerts sur place, avec les assurances et praticiens correspondants. Zéro confusion.",
+      "list": [
+        "Traitement de l'acné",
+        "Traitement de l'eczéma",
+        "Traitement du psoriasis",
+        "Infections cutanées",
+        "Allergies cutanées",
+        "Dépistage et traitement du cancer de la peau",
+        "Évaluation et retrait de grains de beauté",
+        "Retrait de kystes et lipomes",
+        "Traitement des verrues",
+        "Troubles des ongles",
+        "Traitement de la chute de cheveux",
+        "Affections du cuir chevelu",
+        "Traitement de la rosacée",
+        "Hyperpigmentation et Mélasma",
+        "Traitement des cicatrices",
+        "Cicatrices de brûlures",
+        "Traitement du vitiligo",
+        "Biopsie cutanée et diagnostics"
+      ]
+    },
+    "deliverables": {
+      "eyebrow": "Ce que nous livrons",
+      "title": "12 livrables concrets pour votre lancement.",
+      "list": [
+        "Système de design multi-sites centralisé",
+        "Page de destination unique par emplacement",
+        "Schema LocalBusiness + MedicalClinic par site",
+        "Configuration Google Business Profile par cabinet",
+        "Sélecteur de lieu par code postal et en-tête",
+        "Bios des praticiens et photos locales par bureau",
+        "Pages de services spécifiques à la ville (Top pages × N villes)",
+        "Récupération et affichage des avis par cabinet",
+        "Flux de réservation unifié avec contexte local",
+        "Formulaires conformes HIPAA sur tous les sites",
+        "Core Web Vitals 95+ sur chaque page locale",
+        "Tableau de bord analytique par emplacement"
+      ]
+    },
+    "timeline": {
+      "eyebrow": "Le processus",
+      "title": "Six étapes clés. Une date de lancement.",
+      "steps": [
+        {
+          "step": "01",
+          "title": "Audit de marque et de lieux",
+          "desc": "Inventaire de chaque cabinet, praticien, service, assurance et fiches GBP. Identification des doublons et des failles d'information."
+        },
+        {
+          "step": "02",
+          "title": "Système de design centralisé",
+          "desc": "Un kit de marque, une bibliothèque de composants, un thème unique. Toutes les pages de lieux héritent de cette cohérence."
+        },
+        {
+          "step": "03",
+          "title": "Architecture et Contenu Local",
+          "desc": "Structure d'URL, titres H1 par ville, cartographie des praticiens, assurances par clinique et rédactions locales uniques."
+        },
+        {
+          "step": "04",
+          "title": "Construction et Branchement SEO",
+          "desc": "Chaque page est livrée avec schema, carte intégrée, NAP, lien GBP et pages de services géo-ciblées."
+        },
+        {
+          "step": "05",
+          "title": "QA multi-support et Revue HIPAA",
+          "desc": "Test de chaque page sur ordinateur, tablette et mobile. Audit des formulaires sous contrat BAA."
+        },
+        {
+          "step": "06",
+          "title": "Lancement et Boost Local",
+          "desc": "Vérification GBP, alignement des citations, configuration Search Console + GA4 par lieu. Suivi des positions pendant 90 jours."
+        }
+      ]
+    },
+    "comparison": {
+      "eyebrow": "Pourquoi nous choisir",
+      "title": "Bricolage, agence généraliste ou expert dermatologique ?",
+      "table": {
+        "head_capability": "Fonctionnalités",
+        "head_diy": "Outil DIY",
+        "head_generic": "Agence Généraliste",
+        "head_dw": "DW Design",
+        "recommended": "RECOMMANDÉ",
+        "rows": [
+          "Page indexée unique par cabinet",
+          "Schema LocalBusiness par clinique",
+          "Configuration Google Business Profile par lieu",
+          "Flux de réservation intelligent (ZIP/URL)",
+          "Système de marque évolutif jusqu'à N sites",
+          "Avis par emplacement avec balisage schema",
+          "Formulaires conformes HIPAA partout",
+          "Score Lighthouse 95+ sur chaque page"
+        ]
+      }
+    },
+    "pricing": {
+      "eyebrow": "Investissement",
+      "title": "Un tarif adapté au nombre de cliniques.",
+      "custom_quote_text": "Plus de 10 cabinets, groupes d'envergure ou réseaux DSO — demandez un devis sur mesure.",
+      "custom_quote_link": "demander un devis sur mesure",
+      "starting_label": "à partir de",
+      "most_popular": "Le plus populaire",
+      "market_label": "Prix du marché :",
+      "tiers": [
+        {
+          "name": "2–3 Cabinets",
+          "price": "6 900 $",
+          "tag": "Pratique en croissance",
+          "market": "15 000 $ – 28 000 $",
+          "savings": "54–75 % moins cher",
+          "features": [
+            "Système de marque centralisé",
+            "Jusqu'à 3 pages de lieux indexées",
+            "Schema LocalBusiness par clinique",
+            "Configuration GBP pour chaque site",
+            "Réservation unifiée par contexte",
+            "Lancement en 5–7 semaines"
+          ]
+        },
+        {
+          "name": "4–6 Cabinets",
+          "price": "11 400 $",
+          "tag": "Le plus populaire",
+          "market": "25 000 $ – 50 000 $",
+          "savings": "54–77 % moins cher",
+          "features": [
+            "Tout le forfait Croissance",
+            "Jusqu'à 6 pages de lieux indexées",
+            "Pages de services géo-ciblées",
+            "Capture d'avis par emplacement",
+            "Détecteur de lieu par code postal",
+            "Lancement en 7–9 semaines"
+          ]
+        },
+        {
+          "name": "7–10 Cabinets",
+          "price": "18 900 $",
+          "tag": "Réseau régional",
+          "market": "45 000 $ – 90 000 $",
+          "savings": "58–79 % moins cher",
+          "features": [
+            "Tout le forfait Populaire",
+            "Jusqu'à 10 pages de lieux indexées",
+            "Mise en relation praticien-lieu",
+            "Base de données d'assurances par site",
+            "Tableau de bord analytique localisé",
+            "Lancement en 9–12 semaines"
+          ]
+        }
+      ],
+      "cta": "Démarrer mon projet"
+    },
+    "gallery": {
+      "eyebrow": "Projets en direct",
+      "title": "Un système maîtrisé pour des cliniques réelles.",
+      "description": "Exemples d'intérieurs de deux marques dermatologiques multi-sites actives. Photographies et identités anonymisées pour respect HIPAA + NDA client.",
+      "nda_badge": "Confidentialité (NDA)",
+      "items": [
+        {
+          "label": "Réception · Cabinet A",
+          "city": "Agglomération d'Austin"
+        },
+        {
+          "label": "Salle de soin · Cabinet B",
+          "city": "Agglomération de Dallas-Fort Worth"
+        }
+      ]
+    },
+    "caseStudy": {
+      "eyebrow": "Étude de cas anonymisée",
+      "title": "Groupe de dermatologie (6 sites) · Résultats à 90 jours.",
+      "description": "Noms et données d'identification omis par confidentialité. Statistiques issues de Google Search Console + GA4, vérifiées trimestriellement.",
+      "verified": "Vérifié",
+      "metrics": [
+        {
+          "k": "+41 %",
+          "label": "Appels de nouveaux patients",
+          "sub": "vs 90 jours avant lancement"
+        },
+        {
+          "k": "Top 3",
+          "label": "Classement local pack",
+          "sub": "dans 6 / 6 villes lancées"
+        },
+        {
+          "k": "48",
+          "label": "Pages locales indexées",
+          "sub": "au lieu d'une seule page /contact"
+        },
+        {
+          "k": "97",
+          "label": "Médiane Lighthouse",
+          "sub": "sur l'ensemble des pages de lieux"
+        }
+      ],
+      "chart": {
+        "title": "Appels nouveaux patients · Hebdomadaire",
+        "description": "Pré-lancement → Jour 90",
+        "pre": "Pré-lancement",
+        "post": "Après lancement",
+        "anonymized": "Client anonymisé"
+      }
+    },
+    "testimonial": {
+      "quote": "Nous sommes passés de 3 bureaux partageant une page contact à 6 pages de cliniques entièrement indexées, chacune classée dans le top local de sa ville en 60 jours. Les appels de nouveaux patients ont augmenté de 41 % — et nous avons ouvert notre 7e cabinet sans avoir à toucher à l'architecture du site.",
+      "author": "Dr. Rachel Patel",
+      "title": "Associée Gérante, groupe dermatologique de 7 sites (Texas)",
+      "trust_strip": "Les réseaux multi-sites nous font confiance à",
+      "cities": [
+        "Austin",
+        "Plano",
+        "Fort Worth",
+        "Round Rock",
+        "Frisco",
+        "San Antonio"
+      ]
+    }
+  },
+  "faq": {
+    "eyebrow": "Questions fréquentes",
+    "title": "Réponses directes sur les stratégies multi-sites.",
+    "items": [
+      {
+        "q": "Comment les sites dermatologiques multi-sites sont-ils référencés par Google pour chaque ville ?",
+        "a": "Chaque emplacement possède sa propre URL indexée (ex: /emplacements/paris-75), avec un H1 unique, un contenu de service localisé, un bloc schema LocalBusiness + MedicalClinic dédié, une carte Google Map intégrée, une cohérence NAP et des avis liés au lieu. La force du classement local se cumule par ville, pas seulement par marque."
+      },
+      {
+        "q": "Les patients peuvent-ils réserver dans un cabinet spécifique sans se tromper ?",
+        "a": "Oui. Le parcours de réservation détermine toujours le lieu en priorité — soit via l'URL sur laquelle le patient se trouve, soit via un détecteur de code postal, soit par un sélecteur manuel. Le patient sait toujours exactement où il prend rendez-vous."
+      },
+      {
+        "q": "Comment éviter que 10 pages de lieux ne ressemblent à du copier-coller ?",
+        "a": "Nous utilisons un système de marque partagé mais des contenus locaux uniques : photos réelles, bios des praticiens affectés au bureau, FAQ par ville, assurances acceptées DANS ce cabinet, itinéraires depuis des points d'intérêt proches et avis locaux. Google les voit comme des entités distinctes — les patients ressentent la proximité d'un cabinet local, pas d'une chaîne."
+      },
+      {
+        "q": "Que se passe-t-il si nous ajoutons ou fermons un cabinet plus tard ?",
+        "a": "Les nouveaux sites sont créés à partir d'un modèle centralisé en moins d'une semaine. Les sites fermés font l'objet d'une redirection 301 vers le cabinet le plus proche avec une redirection spécifique pour le praticien, afin que le référencement et les patients ne soient pas perdus."
+      },
+      {
+        "q": "Gérez-vous la configuration de Google Business Profile pour chaque lieu ?",
+        "a": "Absolument. Nous revendiquons, vérifions et optimisons un profil GBP pour chaque site, intégrons la capture d'avis localisée et alignons les citations NAP dans les 40 principaux annuaires médicaux. La visibilité locale est incluse, ce n'est pas une option."
+      },
+      {
+        "q": "Combien de temps faut-il pour lancer un site dermatologique multi-sites ?",
+        "a": "5 à 7 semaines pour 2 à 4 sites, 7 à 10 semaines pour 5 à 10 sites, et 10 à 14 semaines pour plus de 10 sites ou en cas d'intégration complexe de dossiers patients (EHR). Les jalons sont fixes et la date de lancement est définie dès le départ."
+      }
+    ]
+  },
+  "cta_founder": {
+    "title": "Chaque nouveau cabinet est notre responsabilité personnelle.",
+    "description": "Nous limitons le nombre de projets multi-sites par trimestre pour garantir à chaque cabinet une finition parfaite. Si votre plan de croissance inclut plusieurs adresses, concevons l'architecture avant de placer le premier pixel.",
+    "cta_quote": "Obtenir un devis gratuit",
+    "cta_msg": "Envoyer un message",
+    "footer_title": "Conception de sites Web Dermatologiques",
+    "footer_sub": "Aider les dermatologues à se développer en ligne",
+    "logo_alt": "DW — Design de Sites Web pour Dermatologues"
+  },
+  "footer_nav": {
+    "useful_hint": "Ces ressources pourraient également vous intéresser :",
+    "links": {
+      "single": "conception de sites pour cabinet individuel",
+      "seo": "comprendre la visibilité locale",
+      "portfolio": "aperçu de nos derniers lancements multi-cliniques"
+    }
+  }
+}

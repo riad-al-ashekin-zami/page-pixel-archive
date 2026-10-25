@@ -1,0 +1,395 @@
+{
+  "meta": {
+    "title": "Vår arbetsprocess — Bygg din webbplats för dermatologi i 7 steg | Upptäck → Lansera → Väx",
+    "description": "Vår beprövade sjustegsprocess för dermatologiska webbplatser: Strategi, SEO-audit, design, innehåll, utveckling, lansering och tillväxt. Fasta tidsramar, veckostämningar, HIPAA-säkrat och garanterat Lighthouse 95+.",
+    "ogTitle": "Vår arbetsprocess — 7 steg från start till tillväxt",
+    "ogDescription": "En transparent process med fast tidsplan för webbdesign och SEO inom dermatologi. Se exakt vad som händer vecka för vecka — från strategi till löpande tillväxt."
+  },
+  "jsonLd": {
+    "breadcrumb": {
+      "home": "Hem",
+      "ourProcess": "Vår arbetsprocess"
+    },
+    "howTo": {
+      "name": "Process för utveckling av dermatologisk webbplats",
+      "description": "En sjustegsprocess för att lansera en högpresterande webbplats för hudläkare och kliniker."
+    }
+  },
+  "hero": {
+    "badge": "Vår arbetsprocess",
+    "title": "Från första samtal till första patientbokning — ",
+    "titleHighlight": "en strukturerad process i 7 steg med fast tidsplan.",
+    "description": "Inga mysterier, ingen 'scope creep' och inga timbaserade överraskningar. Varje steg har en skriftlig leverans, en ansvarig och en deadline — så att du alltid vet vad som händer nu och härnäst.",
+    "buttons": {
+      "seeSteps": "Se de 7 stegen",
+      "freeQuote": "Få en kostnadsfri offert"
+    },
+    "imageAlt": "Illustration av en sjustegsprocess, med lysande sammankopplade noder som stiger längs en kurva"
+  },
+  "stats": {
+    "items": [
+      {
+        "num": "7",
+        "suffix": "",
+        "label": "Strukturerade steg"
+      },
+      {
+        "num": "6",
+        "suffix": "–10 v",
+        "label": "Från start till lansering"
+      },
+      {
+        "num": "95",
+        "suffix": "+",
+        "label": "Lighthouse-garanti"
+      },
+      {
+        "num": "48",
+        "suffix": "t",
+        "label": "Genomsnittlig svarstid"
+      }
+    ]
+  },
+  "sections": {
+    "journeyMap": {
+      "ariaLabel": "Processöversikt",
+      "subtitle": "Din resa med oss",
+      "title": "Sju steg, visualiserade."
+    },
+    "steps": {
+      "ariaLabel": "Vår process steg för steg",
+      "subtitle": "Bygget i 7 steg",
+      "title": "Följ resan framåt.",
+      "step": "Steg",
+      "divider": "/",
+      "total": "07",
+      "bulletSeparator": "·",
+      "labels": {
+        "youProvide": "Detta bidrar du med",
+        "weDeliver": "Detta levererar vi",
+        "deliverables": "Inkluderade leveranser",
+        "items": "punkter"
+      },
+      "items": [
+        {
+          "n": "01",
+          "title": "Analys & Strategi",
+          "duration": "3–5 dagar",
+          "tagline": "Vi förstår kliniken innan vi rör en enda pixel.",
+          "summary": "En 60-minuters strategisession plus en skriftlig brief. Vi granskar din nuvarande sajt, analyserar konkurrenter och fastställer patientprofiler, tjänsteprioriteringar och konverteringsmål innan designarbetet påbörjas.",
+          "deliverables": [
+            "60 min strategisession",
+            "Konkurrent- & sökordsanalys",
+            "Kartläggning av patientprofiler & sökintention",
+            "Skriftlig projektbrief (PDF)",
+            "Sajtkarta v1 + innehållsplan"
+          ],
+          "youProvide": [
+            "Varumärkesmaterial (om tillgängligt)",
+            "Tillgång till nuvarande analysverktyg",
+            "3 länkar till konkurrenter du inspireras av"
+          ],
+          "weDeliver": [
+            "Skriftlig brief",
+            "Projektförslag med fast omfattning",
+            "Tidsplan för uppstart"
+          ]
+        },
+        {
+          "n": "02",
+          "title": "SEO & Teknisk Audit",
+          "duration": "2–3 dagar",
+          "tagline": "Hitta läckorna innan vi bygger båten.",
+          "summary": "Vid ombygganationer gör vi en fullständig genomgång av din befintliga sajt — indexering, Core Web Vitals, länkprofil, HIPAA-brister och flaskhalsar för konvertering. Helt nya sajter får istället en plan för sökordsmöjligheter och SERP-strategi.",
+          "deliverables": [
+            "Fullständig teknisk SEO-rapport",
+            "Core Web Vitals-resultatkort",
+            "Genomgång av länkkraft & auktoritet",
+            "Granskning av HIPAA & tillgänglighet",
+            "Plan för omdirigering (redirects) av gamla länkar"
+          ],
+          "youProvide": [
+            "GSC + GA4-åtkomst (läsbehörighet)",
+            "Inloggningsuppgifter till befintligt CMS"
+          ],
+          "weDeliver": [
+            "Audit-rapport i PDF",
+            "Prioriterad åtgärdslista",
+            "Redirect-karta"
+          ]
+        },
+        {
+          "n": "03",
+          "title": "Design & Prototyp",
+          "duration": "1–2 veckor",
+          "tagline": "Specialanpassad design, inga mallar, dermatologiskt fokus.",
+          "summary": "Vi skapar ett unikt visuellt system — färger, typsnitt, ikoner och komponentbibliotek — och tar fram klickbara Figma-prototyper av alla nyckelsidor. Två korrekturrundor ingår alltid.",
+          "deliverables": [
+            "Unikt designsystem (Figma)",
+            "Startsida + 3 mallar för undersidor",
+            "Interaktiv, klickbar prototyp",
+            "Mobil-, platt- & desktopversioner",
+            "Två korrekturrundor inkluderade"
+          ],
+          "youProvide": [
+            "Feedback inom 48 timmar",
+            "Godkännanden via Figma-kommentarer"
+          ],
+          "weDeliver": [
+            "Designsystem",
+            "Klickbar prototyp",
+            "Checklista för Design QA"
+          ]
+        },
+        {
+          "n": "04",
+          "title": "Innehåll & Copywriting",
+          "duration": "1–2 veckor (parallellt)",
+          "tagline": "Medicinskt korrekt. Optimerat för konvertering.",
+          "summary": "Våra medicinska copywriters skriver allt innehåll i din ton — kliniskt korrekt, patientvänligt och SEO-optimerat. Detta sker parallellt med utvecklingen för att inte försena tidsplanen.",
+          "deliverables": [
+            "SEO-optimerad copy (alla sidor)",
+            "Innehåll för behandlingssidor (upp till 15 st)",
+            "Läkarbiografier + meriter",
+            "Meta-titlar & beskrivningar",
+            "Schema-markup (LocalBusiness, FAQ)"
+          ],
+          "youProvide": [
+            "Intervjuer med läkare (30 min/st)",
+            "Granskning & faktiskt godkännande"
+          ],
+          "weDeliver": [
+            "Fullständigt dokument med sajtens copy",
+            "SEO-metadata-ark",
+            "Schema JSON-LD"
+          ]
+        },
+        {
+          "n": "05",
+          "title": "Utveckling & Integration",
+          "duration": "2–4 veckor",
+          "tagline": "Rent kodat. Snabbt. HIPAA-anpassat från start.",
+          "summary": "Semantisk HTML, tillgänglighetsanpassade komponenter, bildoptimering och inbyggt fokus på Core Web Vitals. Alla integrationer — bokning, EHR, chatt, analys — kopplas ihop och testas rigoröst.",
+          "deliverables": [
+            "Kod av högsta klass (inga 'page builders')",
+            "Integration av bokning / EHR",
+            "Uppsättning av GA4 + Search Console",
+            "Hastighetsoptimering (Lighthouse 95+)",
+            "Tillgänglighet (WCAG 2.1 AA)"
+          ],
+          "youProvide": [
+            "API-nycklar för integrationer (vid behov)",
+            "Godkännande av innehåll"
+          ],
+          "weDeliver": [
+            "Staging-länk (testmiljö)",
+            "Testuppgifter",
+            "QA-checklista"
+          ]
+        },
+        {
+          "n": "06",
+          "title": "QA, Lansering & Överlämning",
+          "duration": "3–5 dagar",
+          "tagline": "Sömlös driftsättning. Dokumenterad överlämning.",
+          "summary": "En QA-genomgång med 300 punkter i alla webbläsare, enheter, formulär och integrationer. DNS-ompekning sker enligt schema med en tydlig reservplan. Du får en genomgångsvideo och en skriftlig manual.",
+          "deliverables": [
+            "300-punkters QA-checklista",
+            "Testning i olika webbläsare & enheter",
+            "DNS-flytt utan nedtid",
+            "Redirects live & övervakade",
+            "45-minuters genomgång & utbildning"
+          ],
+          "youProvide": [
+            "DNS-åtkomst",
+            "Godkänt lanseringsfönster"
+          ],
+          "weDeliver": [
+            "Lanserad webbplats",
+            "Utbildningsvideo",
+            "Driftsmanual"
+          ]
+        },
+        {
+          "n": "07",
+          "title": "Tillväxt & Optimering",
+          "duration": "Löpande (månadsvis)",
+          "tagline": "Lanseringen är startskottet, inte mållinjen.",
+          "summary": "Månadsvis SEO, nytt innehåll, CRO-experiment och övervakning baserat på valt paket. Kvartalsvisa affärsgenomgångar med din dedikerade kontaktperson håller strategin på rätt spår.",
+          "deliverables": [
+            "Månadsvis SEO- & innehållsarbete",
+            "CRO-experiment (A/B-tester)",
+            "Dashboards för ranking & konvertering",
+            "Kvartalsvisa strategisamtal",
+            "Dedikerad Account Manager"
+          ],
+          "youProvide": [
+            "Månadsvis avstämning (30 min)",
+            "Godkännande av strategiska satsningar"
+          ],
+          "weDeliver": [
+            "Månadsrapport",
+            "Ranking-dashboard",
+            "Uppdaterad roadmap"
+          ]
+        }
+      ]
+    },
+    "principles": {
+      "subtitle": "Principerna bakom processen",
+      "title": "Sex regler vi aldrig tummar på.",
+      "description": "Varje steg ovan vilar på dessa sex åtaganden. Det är detta som förhindrar att dermatologiska projekt blir de skräckhistorier du kanske har hört om.",
+      "items": [
+        {
+          "title": "HIPAA-först i arkitekturen",
+          "desc": "Varje formulär och integration granskas mot HIPAA innan lansering. Ingen patientdata i analysverktyg."
+        },
+        {
+          "title": "Lighthouse 95+ eller så bygger vi om",
+          "desc": "Prestanda är ett krav för lansering, inte en eftertanke. Om vi inte når målet fixar vi det — på vår nota."
+        },
+        {
+          "title": "En enda kontaktperson",
+          "desc": "En namngiven projektledare från start till mål. Ingen karusell med olika projektledare."
+        },
+        {
+          "title": "Revisioner ingår",
+          "desc": "Två design- och två utvecklingsrundor för ändringar ingår i varje paket. Inga dolda småavgifter."
+        },
+        {
+          "title": "Fasta tidsramar, veckovis avstämning",
+          "desc": "Skriftligt schema vid start. Veckovisa samtal. Förseningar flaggas tidigt, inte vid deadline."
+        },
+        {
+          "title": "Slack-kanal, inte ärendesystem",
+          "desc": "Skicka meddelanden direkt till teamet när som helst. Svarstid mäts i timmar, inte dagar."
+        }
+      ]
+    },
+    "comparison": {
+      "subtitle": "Därför vinner vår process",
+      "title": "Vi vs. byråer vs. frilansare.",
+      "table": {
+        "headers": {
+          "matters": "Vad som räknas",
+          "us": "Vår process",
+          "agency": "Typisk byrå",
+          "freelance": "Solo-frilansare"
+        },
+        "rows": [
+          {
+            "row": "Unik design (inga mallar)",
+            "us": true,
+            "agency": "Ibland",
+            "freelance": false
+          },
+          {
+            "row": "Fast pris & omfattning i förväg",
+            "us": true,
+            "agency": "Löpande timme",
+            "freelance": "Vagt"
+          },
+          {
+            "row": "Medicinsk copywriter i teamet",
+            "us": true,
+            "agency": "Extra avgift",
+            "freelance": false
+          },
+          {
+            "row": "HIPAA-granskning före lansering",
+            "us": true,
+            "agency": "Extra avgift",
+            "freelance": false
+          },
+          {
+            "row": "Lighthouse 95+ garanti",
+            "us": true,
+            "agency": false,
+            "freelance": false
+          },
+          {
+            "row": "Personlig Account Manager",
+            "us": true,
+            "agency": "Enbart storkunder",
+            "freelance": false
+          },
+          {
+            "row": "Direkt Slack-kontakt med teamet",
+            "us": true,
+            "agency": "Endast e-post",
+            "freelance": "Ibland"
+          },
+          {
+            "row": "Genomloppstid (Start → Lansering)",
+            "us": "6–10 veckor",
+            "agency": "3–6 månader",
+            "freelance": "Oförutsägbart"
+          }
+        ]
+      }
+    },
+    "testimonial": {
+      "quote": "\"Bara de veckovisa avstämningarna var värda priset. Vi visste varje måndag vad som blev färdigt förra veckan och vad som skulle hända härnäst. Det första projektet på fem år som lanserades exakt på det datum de lovade vid start.\"",
+      "author": "Dr. Anika Patel, MD, FAAD",
+      "role": "BH Dermatology · 3 kliniker"
+    },
+    "faq": {
+      "subtitle": "Frågor om processen",
+      "title": "Vanliga frågor.",
+      "items": [
+        {
+          "q": "Hur lång tid tar hela processen?",
+          "a": "De flesta dermatologisajter lanseras 6–10 veckor efter kick-off. Mindre sajter (Starter) kan lanseras på en vecka, medan stora företagslösningar tar 10–14 veckor. Du får ett skriftligt schema med milstolpar direkt vid start — inga luddiga löften."
+        },
+        {
+          "q": "Vad behöver ni från oss under byggets gång?",
+          "a": "Räkna med ca 3–5 timmar per vecka: ett startmöte på 60 min, korta veckostämningar, läkarintervjuer för innehåll (30 min st) samt godkännanden via Figma/Slack. Vi sköter grovjobbet — du godkänner och vi levererar."
+        },
+        {
+          "q": "Kan vi börja med bara design och lägga till utveckling senare?",
+          "a": "Ja. Vi erbjuder fristående uppdrag för analys och design (från $3,900) som resulterar i en Figma-prototyp och ett designsystem som du äger helt. Du kan sedan bygga det själv, anlita någon annan eller komma tillbaka till oss – du binder inte upp dig."
+        },
+        {
+          "q": "Vad händer om vi behöver ändringar efter lansering?",
+          "a": "Alla paket inkluderar 30 dagars fria korrigeringar efter lansering. Därefter täcks löpande ändringar av våra månadspaket (Essential, Growth, Marketing eller Full-Stack) eller faktureras per uppdrag. Du ser alltid priset innan vi påbörjar arbetet."
+        },
+        {
+          "q": "Skriver ni det medicinska innehållet, eller gör vi det?",
+          "a": "Våra medicinska copywriters skriver allt, sedan granskas och godkänns det av din medicinska chef. Du behöver aldrig börja med ett tomt papper. Om ni föredrar att skriva själva justerar vi priset i paketet därefter."
+        },
+        {
+          "q": "Hur hanterar ni HIPAA-efterlevnad?",
+          "a": "HIPAA-anpassad arkitektur ingår i varje bygge: ingen PHI i analysverktyg, krypterad överföring av formulär, maskerad loggning och säker hosting. Ett signerat BAA ingår i våra mer omfattande planer och finns som tillval för övriga."
+        }
+      ]
+    },
+    "cta": {
+      "badge": "Redo när du är det",
+      "title": "Börja med steg 1 – en kostnadsfri audit.",
+      "description": "Gratis och helt utan köpkrav. Du får en projektbrief, en preliminär tidsplan och ett förslag med fast pris – även om du inte väljer att anlita oss.",
+      "buttons": {
+        "freeQuote": "Få en kostnadsfri offert",
+        "pricing": "Se priser först"
+      }
+    },
+    "footerLinks": {
+      "prefix": "Du kanske även vill se: ",
+      "about": "vilka vi är och hur vi jobbar",
+      "comma": ", ",
+      "portfolio": "live-projekt vi har levererat",
+      "or": ", eller ",
+      "pricing": "aktuella priser och paket",
+      "suffix": "."
+    },
+    "mobileCta": {
+      "subtitle": "Börja med steg 1",
+      "title": "Kostnadsfri audit — inget köpkrav.",
+      "button": "Få en gratis offert"
+    },
+    "progressRail": {
+      "title": "Status i processen",
+      "step": "Steg",
+      "of": "av 07"
+    }
+  }
+}

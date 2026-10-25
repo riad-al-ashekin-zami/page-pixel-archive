@@ -1,0 +1,317 @@
+{
+  "meta": {
+    "title": "Ihotautilääkärien maineenhallinta | Arvostelut, GBP & 5 tähden kasvu",
+    "description": "HIPAA-turvallinen verkkomaineen hallinta ihotautiklinikoille — Google, Healthgrades, RealSelf, Zocdoc, Yelp. Arvostelujen generointi, 24 tunnin vastausviive (SLA) ja negatiivisten arvostelujen hallinta varattuihin konsultaatioihin keskittyen.",
+    "og_title": "Ihotautiklinikan maineenhallinta — 5 tähden kasvu, HIPAA-turvallinen",
+    "og_description": "Kasvata arvosanasi 4,9 tähteen alustoilla Google, Healthgrades, RealSelf, Zocdoc & Yelp. Arvostelukutsut, ammattimaiset vastaukset ja negatiivisten palautteiden hallinta ihotautilääkäreille.",
+    "twitter_title": "Ihotautilääkärien maineenhallintapalvelut",
+    "twitter_description": "Arvostelut, GBP ja 5 tähden kasvu ihotautiklinikoille — mitattuna varatuilla konsultaatioilla.",
+    "jsonLd": {
+      "serviceType": "Online Reputation Management for Dermatology Practices",
+      "providerName": "DermatologyWebsiteDesign.com",
+      "areaServed": "United States",
+      "description": "HIPAA-turvallinen maineenhallinta, arvostelujen generointi, GBP-optimointi ja negatiivisten arvostelujen hallinta ihotautiklinikoille.",
+      "breadcrumb_home": "Etusivu",
+      "breadcrumb_services": "Palvelut",
+      "breadcrumb_current": "Maineenhallinta"
+    }
+  },
+  "hero": {
+    "badge": "Ihotautilääkärien maineenhallinta",
+    "title_part1": "Viiden tähden arviot,",
+    "title_highlight": "jotka muuttavat haut varauksiksi.",
+    "description": "HIPAA-turvallinen verkkomaineen hallinta ihotautiklinikoille — Google, Healthgrades, RealSelf, Zocdoc, Yelp ja Vitals. Arvostelujen generointi, 24 tunnin vastausviive (SLA) ja negatiivisten arvioiden pelastussuunnitelma — raportoituna varattuina aikoina, ei turhina metriikoina.",
+    "cta_audit": "Maksuton maineanalyysi",
+    "cta_workflow": "Katso 5-vaiheinen prosessi"
+  },
+  "outcomes": {
+    "rating": "Keskimääräinen tähtiluokitus",
+    "volume": "Uusien arvostelujen määrä (90 pv)",
+    "visibility": "Google Map Pack -näkyvyyden kasvu",
+    "sla": "Vastausviive jokaisessa arvostelussa"
+  },
+  "live_dashboard": {
+    "label": "Yhdistetty arvosana",
+    "reviews_count": "1 284 arvostelua",
+    "growth": "+0,6 tähteä",
+    "sample_review": "\"Tiimi selitti jokaisen vaihtoehdon ennen hoitoa. Vastaanotto oli lämmin ja tulokset ovat uskomattomia — suosittelen lämpimästi kaikille ihotautilääkäriä harkitseville.\"",
+    "sample_author": "Jamie R.",
+    "sample_platform": "Google Business",
+    "sample_time": "2 pv sitten",
+    "hipaa_badge": "HIPAA-safe"
+  },
+  "trust_bar": {
+    "title": "Yli 50 ihotautiklinikan luottama",
+    "items": [
+      "HIPAA-tietoiset prosessit",
+      "SOC 2 Type II -kumppanit",
+      "Google Partner -toimisto",
+      "Fokus ABMS Board-Cert -lääkäreissä"
+    ]
+  },
+  "ticker": {
+    "badge": "Suoraan asiakkaiden hallintapaneeleista",
+    "title": "Uusimmat arvostelut juuri nyt.",
+    "status": "Livenä",
+    "reviews": [
+      {
+        "text": "Paras kokemus ihotautilääkärillä ikinä — varaus netissä vei 2 minuuttia.",
+        "author": "Jamie R.",
+        "src": "Google"
+      },
+      {
+        "text": "Tohtori Chen oli kärsivällinen ja perusteellinen, akne parani viikoissa.",
+        "author": "Priya K.",
+        "src": "Healthgrades"
+      },
+      {
+        "text": "Vastaanotto oli lämmin ja tulokset upeita. Suosittelen vahvasti.",
+        "author": "Marcus T.",
+        "src": "Yelp"
+      },
+      {
+        "text": "Toipumistani seurattiin tarkasti. Todella poikkeuksellista hoitoa.",
+        "author": "Sofia L.",
+        "src": "RealSelf"
+      },
+      {
+        "text": "Aika samalle viikolle, selkeä hinnoittelu. Luotettava tiimi.",
+        "author": "David H.",
+        "src": "Zocdoc"
+      },
+      {
+        "text": "Lääkäri selitti rauhassa kaikki vaihtoehdot — ei painostusta.",
+        "author": "Ana M.",
+        "src": "Vitals"
+      }
+    ]
+  },
+  "platforms": {
+    "badge": "Katetut alustat",
+    "title": "Kaikki ihotautiklinikalle merkittävät arvostelusivustot.",
+    "description": "Hallitsemme kuusi alustaa, jotka potilaat todella tarkistavat ennen varausta — sekä yli 40 hakemistoa hakukonenäkyvyyden varmistamiseksi.",
+    "client_avg": "asiakkaiden keskiarvo",
+    "items": {
+      "google": {
+        "name": "Google Business",
+        "note": "Tärkein paikallinen SEO-signaali"
+      },
+      "healthgrades": {
+        "name": "Healthgrades",
+        "note": "Lääkärikeskeinen hakemisto"
+      },
+      "realself": {
+        "name": "RealSelf",
+        "note": "Esteettisten hoitojen ostopäätös"
+      },
+      "zocdoc": {
+        "name": "Zocdoc",
+        "note": "Ajanvaraukseen integroituvat arviot"
+      },
+      "yelp": {
+        "name": "Yelp",
+        "note": "Korkean ostoaikeen paikallinen haku"
+      },
+      "vitals": {
+        "name": "Vitals",
+        "note": "Vakuutusverkostojen luottamus"
+      }
+    }
+  },
+  "services_included": {
+    "badge": "Mitä palvelu sisältää",
+    "title": "Täysi maineenhallinnan kokonaisuus — yhdellä kuukausimaksulla.",
+    "items": [
+      {
+        "title": "Maineen analyysi ja kilpailijavertailu",
+        "desc": "Lähtötilanteen tähtiluokitus, arvostelujen tahti, yleinen ilmapiiri ja paikallinen kilpailija-analyysi."
+      },
+      {
+        "title": "Google Business Profile -hallinta",
+        "desc": "Viikoittaiset postaukset, Q&A-osio, tuote/palvelu-katalogi, valokuvat ja kategorioiden optimointi Map Pack -sijoituksiin."
+      },
+      {
+        "title": "Automatisoidut arvostelukutsut",
+        "desc": "Käynnin jälkeiset SMS- ja sähköpostiviestit integroituna potilastietojärjestelmään (PMS/EHR) — ajastettu, suostumukseen perustuva ja ilman henkilötietoja (PHI)."
+      },
+      {
+        "title": "Ammattimaiset vastaukset arvosteluihin",
+        "desc": "Jokaiseen arvosteluun vastataan 24 tunnin kuluessa klinikan tyylillä, HIPAA-vaatimusten mukaisesti ja paljastamatta potilassuhdetta."
+      },
+      {
+        "title": "Negatiivisten arvostelujen hallinta",
+        "desc": "Eskalointiprosessi, ongelmien ratkaisu verkon ulkopuolella ja sääntöjä rikkovien arvioiden poistopyynnöt Googleen, Yelpiin ja muihin."
+      },
+      {
+        "title": "Kuukausittainen raportointi",
+        "desc": "Arvosanan nousu, arvostelumäärät, vastausaste, puhelut, reittiohjeet ja varattujen konsultaatioiden seuranta."
+      }
+    ]
+  },
+  "workflow": {
+    "badge": "Prosessimme",
+    "title": "Viisi vaihetta matkalla 4,9 tähteen.",
+    "steps": [
+      {
+        "label": "VAIHE 01",
+        "title": "Maineanalyysi",
+        "desc": "Käymme läpi Google, Healthgrades, RealSelf, Zocdoc, Yelp ja Vitals -profiilit sekä luomme vertailun kilpailijoihin."
+      },
+      {
+        "label": "VAIHE 02",
+        "title": "Tietojen ja scheman siivous",
+        "desc": "Yhteystietojen (NAP) yhtenäistäminen, Physician- ja AggregateRating-skeemat sekä Google Business -optimointi kaikille toimipisteille."
+      },
+      {
+        "label": "VAIHE 03",
+        "title": "Arvostelukoneisto",
+        "desc": "Käynnin jälkeiset SMS- ja sähköpostikutsut, QR-koodit ja HIPAA-turvalliset seurantaviestit suostumus edellä."
+      },
+      {
+        "label": "VAIHE 04",
+        "title": "Monitorointi ja vastaukset",
+        "desc": "24 tunnin vastausviive (SLA) jokaiseen uuteen arvioon — kliiniset huolenaiheet eskaloidaan tiimillenne saman päivän aikana."
+      },
+      {
+        "label": "VAIHE 05",
+        "title": "Tulosten raportointi",
+        "desc": "Kuukausiraportti yhdistää maineen kasvun suoraan ajanvarauksiin ja liikevaihtoon, ei vain arvostelujen määrään."
+      }
+    ]
+  },
+  "testimonials": {
+    "badge": "Asiakastulokset",
+    "title": "Aitoja ihotautiklinikoita. Mitattavia tuloksia.",
+    "items": [
+      {
+        "quote": "Google-arvosanamme nousi 3,9:stä 4,9:ään viidessä kuukaudessa. Puhelut Map Packista tuplautuivat. Vastausprosessi säästää vastaanottomme aikaa tunteja viikoittain.",
+        "author": "Dr. A. Nguyen, MD",
+        "role": "Yksityislääkäri · Austin, TX"
+      },
+      {
+        "quote": "Yhden maineenhallintajärjestelmän käyttöönotto seitsemässä toimipisteessä oli puuttuva palanen. Kaikkien toimipisteiden keskiarvo on nyt yli 4,8.",
+        "author": "Klinikan johtaja",
+        "role": "Ketju · 7 klinikkaa · Florida"
+      },
+      {
+        "quote": "Negatiivisten arvioiden hallintasuunnitelma yksistään maksoi vaivan. Kaksi sääntöjä rikkovaa arviota poistettiin ja neljä muutettiin viideksi tähdeksi ratkaisun jälkeen.",
+        "author": "Dr. M. Rao, MD",
+        "role": "Mohs-kirurgi · Los Angeles"
+      }
+    ]
+  },
+  "audiences": {
+    "badge": "Kenelle palvelu on",
+    "title": "Sopii jokaiselle ihotautiklinikan mallille.",
+    "items": [
+      {
+        "title": "Yksityislääkärit",
+        "desc": "Lääkärikeskeinen strategiamme takaa, että nimesi hallitsee Googlen ensimmäistä sivua kaupungissasi."
+      },
+      {
+        "title": "Monitoimipisteklinikat",
+        "desc": "Toimipistekohtaiset postilaatikot, brändin mukaiset vastauspohjat ja yksi koottu hallintapaneeli kaikille pisteille."
+      },
+      {
+        "title": "Lasten ihotautilääkärit",
+        "desc": "Vanhemmille suunnatut arvosteluprosessit, huoliteltu kieli ja perheystävällinen palautteen keruu."
+      },
+      {
+        "title": "Mohs- ja kirurginen dermatologia",
+        "desc": "Leikkauksen jälkeiset kutsut, jotka on ajastettu toipumisen vaiheisiin — ei koskaan kriittisimmän toipumisajan aikana."
+      }
+    ]
+  },
+  "medical_services": {
+    "badge": "Tuetut lääketieteelliset palvelut",
+    "title": "Arvosteluprosessit optimoituna jokaiselle palvelulle.",
+    "description": "Jokainen lääketieteellinen palvelu saa oman tietosuojatun kutsuaikataulun, vastausohjeet ja potilaskuvien hyväksymissäännöt.",
+    "list": [
+      "Aknen hoito",
+      "Ekseeman hoito",
+      "Psoriasiksen hoito",
+      "Ihoinfektioiden hoito",
+      "Ihoallergioiden hoito",
+      "Ihosyövän seulonta ja hoito",
+      "Luomien tarkastus ja poisto",
+      "Kystien ja lipoomien poisto",
+      "Syylien poisto",
+      "Kynsisairauksien hoito",
+      "Hiustenlähdön diagnostiikka ja hoito",
+      "Hiuspohjan sairauksien hoito",
+      "Ruusufinnin hoito",
+      "Hyperpigmentaation ja melasman hoito",
+      "Arpien hoito (vammat, leikkaukset)",
+      "Palovamma-arpien hoito",
+      "Vitiligon hoito",
+      "Ihon koepalat ja diagnostiikka"
+    ]
+  },
+  "lift_slider": {
+    "badge": "Vaikutus",
+    "title": "3,9 tähtestä 4,9:ään — katso kerrannaisvaikutus.",
+    "description": "Vedä liukusäädintä nähdäksesi, miten arvosanan nostaminen vaikuttaa kaikkiin liiketoiminnan kannalta tärkeisiin metriikoihin.",
+    "cta_drag": "Vedä nähdäksesi kasvu",
+    "stars_total": "/ 5,0 tähteä",
+    "before": "Ennen:",
+    "after": "Jälkeen:",
+    "metrics": {
+      "reviews": "Arviota / kk",
+      "calls": "GBP-puhelut / kk",
+      "consults": "Varatut ajat"
+    },
+    "aria_label": "Tähtiluokituksen muutosmittari"
+  },
+  "faq": {
+    "badge": "UKK",
+    "title": "Kysymyksiä, joita ihotautilääkärit kysyvät meiltä.",
+    "items": [
+      {
+        "q": "Onko maineenhallinta HIPAA-yhteensopivaa ihotautiklinikalle?",
+        "a": "Kyllä. Jokainen kutsu, vastaus ja julkaistu teksti kirjoitetaan HIPAA-sääntöjen mukaisesti. Emme koskaan vahvista potilassuhdetta julkisesti, emme viittaa diagnooseihin emmekä käytä henkilötietoja. Kutsut perustuvat potilaan suostumukseen ja kaikki pohjat tarkistetaan Compliance-listan mukaan."
+      },
+      {
+        "q": "Kuinka nopeasti tähtiluokitus oikeasti paranee?",
+        "a": "Useimmilla yhden toimipisteen klinikoilla näemme Google-arvosanan nousevan 0,3–0,7 tähteä ensimmäisten 60–90 päivän aikana. Ketjut saavuttavat yleensä yli 4,7 tähden tason kaikissa pisteissä 3–6 kuukaudessa. Aktiivisimmat klinikat liikkuvat nopeimmin."
+      },
+      {
+        "q": "Miten toimitte negatiivisten tai epäreilujen arvostelujen kanssa?",
+        "a": "Käytämme kolmitahoista strategiaa: (1) Ammattimainen vastaus 24 tunnin sisällä tilanteen rauhoittamiseksi. (2) Prosessi asian ratkaisemiseksi klinikan ulkopuolella. (3) Jos arvio rikkoo alustan (Google, Yelp tms.) sääntöjä, teemme sääntöperusteisen poistopyynnön."
+      },
+      {
+        "q": "Mitä arvustelualustoja hallitsette?",
+        "a": "Google Business Profile on tärkein. Lisäksi hallitsemme aktiivisesti Healthgrades, RealSelf, Zocdoc, Yelp, Vitals ja Facebook-suositukset. Lisäksi huolehdimme klinikan tiedoista yli 40 muussa hakemistossa."
+      },
+      {
+        "q": "Integroituuko palvelu potilastietojärjestelmäämme (EHR / PMS)?",
+        "a": "Kyllä. Integroidumme yleisimpiin järjestelmiin kuten ModMed / EMA, Nextech, DrChrono ja athenahealth. Arvostelukutsut lähtevät automaattisesti 24 tuntia käynnin jälkeen."
+      },
+      {
+        "q": "Käsittelettekö ennen/jälkeen-kuviin liittyviä arvosteluja?",
+        "a": "Kyllä, käytämme niihin erillistä suostumusprosessia. Esteettiset hoidot vaativat tarkat luvat kuvien käyttöön. Suostumuksen jälkeen nämä arvostelut näkyvät sekä verkkosivustollasi että arvostelualustoilla."
+      },
+      {
+        "q": "Miten palvelu on hinnoiteltu?",
+        "a": "Palvelu perustuu kiinteään kuukausimaksuun, joka määräytyy toimipisteiden ja arvostelujen määrän mukaan. Ei piilokuluja tai arvostelukohtaisia maksuja. Sopimus voidaan irtisanoa ensimmäisen 90 päivän jälkeen."
+      }
+    ]
+  },
+  "cta_bottom": {
+    "title": "Ota paikkasi kaupunkisi hakutulosten kärjessä.",
+    "description": "Maksuton 30 minuutin maineen auditointi — arvosanan lähtötaso, kilpailija-analyysi ja 90 päivän toimintasuunnitelma. Ei sitoumuksia.",
+    "cta_audit": "Maksuton analyysi",
+    "cta_contact": "Ota yhteyttä"
+  },
+  "mobile_sticky": {
+    "audit": "Maksuton analyysi",
+    "contact_aria": "Ota yhteyttä"
+  },
+  "related": {
+    "text": "Sinua saattaisi kiinnostaa myös:",
+    "links": {
+      "seo": "paikallisen karttanäkyvyyden voittaminen",
+      "social": "luottamusta rakentavat some-kanavat",
+      "email": "potilaiden sitouttaminen sähköpostilla"
+    }
+  }
+}

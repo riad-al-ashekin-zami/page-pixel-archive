@@ -1,0 +1,382 @@
+{
+  "meta": {
+    "title": "CRO služby pro dermatology – Zdvojnásobte počet rezervací při stejné návštěvnosti",
+    "description": "Optimalizace konverzního poměru pro dermatologické praxe. Heatmapy, A/B testování, redesign rezervačních formulářů, mobilní UX a Core Web Vitals – proměňte návštěvníky v potvrzené termíny. Plně v souladu s HIPAA.",
+    "og_title": "Optimalizace konverzí pro dermatologii – Získejte více rezervací ze stávajícího provozu",
+    "og_description": "Behaviorální výzkum, A/B testování, optimalizace prodejního trychtýře a mobilní redesigny pro dermatology. Měřitelný nárůst za 90 dní – HIPAA-aware, měsíční spolupráce.",
+    "jsonLd": {
+      "serviceType": "Dermatology Conversion Rate Optimization",
+      "provider": "DermatologyWebsiteDesign.com",
+      "offerDescription": "Diagnostika CRO pro dermatologii – startovací cena"
+    }
+  },
+  "hero": {
+    "badge_lift": "Průměrný nárůst +184 % za 90 dní",
+    "badge_service": "Optimalizace konverzního poměru",
+    "title_main": "Stejná návštěvnost.",
+    "title_highlight": "Dvojnásobek rezervací.",
+    "description": "Behaviorální výzkum, A/B testování, úpravy rezervačních formulářů a prodejní cesty zaměřené na mobilní zařízení – navrženo přímo pro dermatologické praxe. Každou hypotézu testujeme, každou výhru škálujeme a z každé koruny v reklamě vytěžíme maximum.",
+    "cta_audit": "Začít CRO auditem",
+    "cta_case_study": "Zobrazit případovou studii",
+    "pricing_note": "Diagnostické audity od",
+    "pricing_value": "1 900 $",
+    "pricing_ongoing": "· dlouhodobé programy 3,4k–6,9k $ / měs.",
+    "ticks": [
+      "Heatmapy + nahrávání relací",
+      "A/B testování",
+      "HIPAA-aware",
+      "Měsíční báze bez závazků"
+    ]
+  },
+  "stats": {
+    "lift": "Průměrný nárůst žádostí o termín",
+    "abandonment": "Pokles nedokončených rezervací",
+    "roas": "Vyšší ROAS u placené reklamy",
+    "wins": "Statisticky významných vítězných testů"
+  },
+  "trust": {
+    "label": "Důvěřuje nám více než 120 dermatologických klinik",
+    "logos": [
+      "LA Dermatology",
+      "CP Dermatology",
+      "MM Center",
+      "NBS Laser",
+      "RS Institute",
+      "HD Group"
+    ]
+  },
+  "pillars": {
+    "label": "Šest pilířů, jeden systém růstu",
+    "heading": "CRO není o barvě tlačítka. Je to disciplína.",
+    "description": "Kombinujeme behaviorální data, kontrolované experimenty a mobilní inženýrství, abychom z každé návštěvy udělali měřitelný krok k potvrzené schůzce.",
+    "items": [
+      {
+        "name": "Behaviorální výzkum",
+        "desc": "Heatmapy, hloubka scrollování, nahrávky relací a průzkumy mezi pacienty – sledujeme, jak se skuteční návštěvníci rozhodují.",
+        "meta": "Měsíc 1–2"
+      },
+      {
+        "name": "A/B & multivariantní testování",
+        "desc": "Hypotézy řazené podle ICE skóre, testované na relevantních vzorcích dat – žádné náhodné výhry.",
+        "meta": "Průběžně"
+      },
+      {
+        "name": "Optimalizace rezervačního formuláře",
+        "desc": "Analytika na úrovni polí, postupné odkrývání informací a autofill v souladu s HIPAA, který snižuje míru opuštění o polovinu.",
+        "meta": "Sprint 1"
+      },
+      {
+        "name": "Mapování cesty pacienta",
+        "desc": "Mapujeme a čistíme cestu od kliknutí na reklamu až po potvrzený termín – krok za krokem, bez třecích ploch.",
+        "meta": "Kontinuálně"
+      },
+      {
+        "name": "Mobile-first redesign",
+        "desc": "Více než 70 % rezervací v dermatologii probíhá na mobilu – navrhujeme průchod webem pro palce, ne pro myš.",
+        "meta": "Sprint 2"
+      },
+      {
+        "name": "Rychlost & Core Web Vitals",
+        "desc": "Každých 100 ms načítání vás stojí rezervace. Zajišťujeme LCP pod 1,5 s a zelené hodnoty CWV na každé stránce.",
+        "meta": "Základy"
+      }
+    ]
+  },
+  "experiments": {
+    "label": "Šest reálných experimentů",
+    "heading": "Jak vypadá „otestováno“ v praxi.",
+    "description": "Každý řádek níže je skutečná hypotéza typu „nasadit a změřit“ od našich klientů. Čísla představují medián nárůstu u podobných praxí – nejsou to jen náhodné výstřelky.",
+    "table_header": "Experiment",
+    "before_label": "Předtím",
+    "after_label": "Potom",
+    "items": [
+      {
+        "label": "Text v úvodním tlačítku (CTA)",
+        "before": "Kontaktujte nás",
+        "after": "Rezervovat za 60 sekund",
+        "metric": "Proklik na rezervaci"
+      },
+      {
+        "label": "Pole rezervačního formuláře",
+        "before": "12 polí, jedna stránka",
+        "after": "4 kroky, ukazatel postupu",
+        "metric": "Míra dokončení formuláře"
+      },
+      {
+        "label": "Srozumitelnost pojištění",
+        "before": "Skryto v FAQ",
+        "after": "Výběr pojišťovny přímo v úvodu",
+        "metric": "Kvalifikované poptávky"
+      },
+      {
+        "label": "Budování důvěry u lékaře",
+        "before": "Obecná fotka z fotobanky",
+        "after": "Reálný portrét + odznak 4.9★",
+        "metric": "Čas na stránce a konverze"
+      },
+      {
+        "label": "Umístění CTA na mobilu",
+        "before": "Pod ohybem, statické",
+        "after": "Fixní spodní lišta",
+        "metric": "Mobilní konverze rezervací"
+      },
+      {
+        "label": "Struktura stránky služby",
+        "before": "Blok textu",
+        "after": "Symptom → léčba → rezervace",
+        "metric": "Konverze stránky na rezervaci"
+      }
+    ]
+  },
+  "caseStudy": {
+    "label": "Případová studie · NBS Laser",
+    "heading": "Stejných 18 000 $/měs do reklam. O 180 % více rezervací.",
+    "image_alt": "Rezervační proces NBS Laser po CRO optimalizaci",
+    "stats": {
+      "bookings": "Rezervací / měs.",
+      "completion": "Dokončení formuláře",
+      "time": "Čas k uzavření"
+    },
+    "comparison": [
+      {
+        "label": "Rezervační formulář",
+        "before": "12 polí · 1 stránka · desktop-first",
+        "after": "4 kroky · stav postupu · tlačítka v zóně palce"
+      },
+      {
+        "label": "Hlavní CTA",
+        "before": "Kontaktujte nás (obecné)",
+        "after": "Rezervovat za 60 s · výběr pojištění"
+      },
+      {
+        "label": "Mobilní průchod (funnel)",
+        "before": "Lišta při scrollování skrývala CTA",
+        "after": "Fixní tlačítko „Rezervovat“ · 44px dotykové plochy"
+      },
+      {
+        "label": "Prvky důvěry",
+        "before": "Fotobanka v úvodu · bez recenzí",
+        "after": "Reálný lékař · 4.9★ · certifikace"
+      }
+    ],
+    "cta": "Přečíst celou případovou studii"
+  },
+  "process": {
+    "label": "Jak to funguje",
+    "heading": "Kvartální cyklus, který se každý měsíc zhodnocuje.",
+    "steps": [
+      {
+        "step": "01",
+        "title": "Vstupní audit",
+        "desc": "Kompletní rozbor vašeho funnelu: analytika, heatmapy, výpadky ve formulářích, rychlost webu, mobilní UX a více než 20 benchmarků specifických pro dermatologii. Výslednou zprávu dostanete do 10 pracovních dnů."
+      },
+      {
+        "step": "02",
+        "title": "Backlog hypotéz",
+        "desc": "Každý poznatek proměníme v testovatelnou hypotézu seřazenou podle skóre dopadu, jistoty a náročnosti (ICE). Vy schválíte sprint – my netipujeme."
+      },
+      {
+        "step": "03",
+        "title": "Design, vývoj, testování",
+        "desc": "Varianty nasazujeme přes profesionální platformy pro experimenty. Velikost vzorku počítáme předem. Testy nikdy neukončujeme předčasně."
+      },
+      {
+        "step": "04",
+        "title": "Nasazení vítězů a cyklus",
+        "desc": "Vítězné varianty se stávají novým standardem. Neúspěšné testy nám přinášejí ponaučení. Každý měsíc je váš web měřitelně lepší než ten předchozí."
+      }
+    ]
+  },
+  "audiences": {
+    "label": "S kým spolupracujeme",
+    "heading": "Dermatologické praxe všech typů.",
+    "description": "Programy vyladěné pro prodejní cesty, které odpovídají vašemu modelu – od samostatných lékařů po multioborová centra operující techniku Mohs.",
+    "items": [
+      {
+        "label": "Samostatní dermatologové",
+        "desc": "Proměňte i malý rozpočet na reklamu v plný kalendář – když jste na to sami, počítá se každý návštěvník."
+      },
+      {
+        "label": "Kliniky s více pobočkami",
+        "desc": "Vstupní stránky pro jednotlivé lokality, geograficky cílená CTA a sjednocená analytika napříč celou sítí."
+      },
+      {
+        "label": "Dětská dermatologie",
+        "desc": "Rezervační procesy přívětivé pro rodiče, prvky důvěry a formuláře vyladěné podle toho, jak se rozhodují pečující osoby."
+      },
+      {
+        "label": "Mohsova chirurgie a operační dermatologie",
+        "desc": "Stránky orientované na doporučení, jasné informace o pojištění a předoperační obsah zkracující cestu ke konzultaci."
+      }
+    ]
+  },
+  "services": {
+    "label": "Lékařské služby, které optimalizujeme",
+    "heading": "Každá stránka o diagnóze, každá služba – vyladěná na konverzi.",
+    "description": "Vytváříme cesty od symptomu k léčbě, specifické vstupní stránky a CTA s ohledem na pojištění pro služby, které vaše praxe skutečně poskytuje.",
+    "list": [
+      "Léčba akné",
+      "Léčba ekzémů",
+      "Léčba lupénky (psoriázy)",
+      "Léčba kožních infekcí",
+      "Léčba kožních alergií",
+      "Screening a léčba rakoviny kůže",
+      "Vyšetření mateřských znamének a jejich odstranění",
+      "Odstranění cyst a lipomů",
+      "Odstranění bradavic",
+      "Léčba onemocnění nehtů",
+      "Diagnostika a léčba vypadávání vlasů",
+      "Léčba onemocnění pokožky hlavy",
+      "Léčba růžovky (rosacea)",
+      "Léčba hyperpigmentace a melasmatu",
+      "Léčba jizev",
+      "Léčba jizev po popáleninách",
+      "Léčba vitiliga",
+      "Kožní biopsie a diagnostické zákroky"
+    ]
+  },
+  "testimonials": {
+    "label": "Co říkají klienti",
+    "heading": "Nejdříve čísla. Potom příběh.",
+    "items": [
+      {
+        "name": "Dr. Meera Balakrishnan, MD",
+        "role": "NBS Laser",
+        "quote": "Do reklam jsme dávali 18 000 $ měsíčně a získávali 40 rezervací. Po 90 dnech CRO máme při stejných nákladech 112 rezervací. O faktuře už vůbec nedebatuji."
+      },
+      {
+        "name": "Dr. Julian Reyes, MD",
+        "role": "CP Dermatology",
+        "quote": "Během tří sprintů kompletně přestavěli náš rezervační proces. Dokončení formuláře vyskočilo z 34 % na 71 %. Na recepci přestali brát hovory typu 'ten web nefunguje'."
+      },
+      {
+        "name": "Dr. Priya Anand, MD, MPH",
+        "role": "MM Center · 4 pobočky",
+        "quote": "Zlomem byly landing pages pro jednotlivé lokality a výběr pojištění. Čas od první konzultace po objednání klesl z 11 dnů na 4. Všimli si toho i spolupracující lékaři."
+      }
+    ]
+  },
+  "pricing": {
+    "label": "Programy a ceny",
+    "heading": "Tři způsoby, jak začít růst.",
+    "description": "Po vstupní diagnostice fungujeme na měsíční bázi. Žádné roční smlouvy, žádné závazky – naše výsledky si musí prodloužení zasloužit.",
+    "popular": "Nejoblíbenější",
+    "market_label": "Trh:",
+    "get_started": "Začít",
+    "plans": [
+      {
+        "name": "Diagnostika",
+        "tag": "Jednorázový audit",
+        "price": "1 900 $",
+        "per": "jednorázově",
+        "savings": "o 46–75 % levnější",
+        "features": [
+          "Kompletní audit funnelu a analytiky",
+          "Nastavení heatmap a nahrávání relací",
+          "Analýza výpadků v rezervačním formuláři",
+          "Skórování mobilního UX a Core Web Vitals",
+          "Prioritizovaný backlog 12 hypotéz",
+          "60minutová prezentace výsledků"
+        ]
+      },
+      {
+        "name": "Growth Sprint",
+        "tag": "3měsíční program",
+        "price": "3 400 $",
+        "per": "/ měsíc",
+        "savings": "o 43–72 % levnější",
+        "features": [
+          "Vše obsažené v Diagnostice",
+          "2 nasazené A/B testy měsíčně",
+          "Redesign rezervačního formuláře v ceně",
+          "Landing pages pro klíčové kampaně",
+          "Analýza relací + měsíční reporty",
+          "Slack kanál + týdenní standupy"
+        ]
+      },
+      {
+        "name": "Compounding CRO",
+        "tag": "Pro sítě klinik a Mohs centra",
+        "price": "6 900 $",
+        "per": "/ měsíc",
+        "savings": "o 43–72 % levnější",
+        "features": [
+          "Vše obsažené v Growth Sprint",
+          "4+ simultánní experimenty",
+          "Systém stránek pro jednotlivé pobočky",
+          "Personalizace a segmentace publika",
+          "Server-side nastavení experimentů",
+          "Kvartální byznys review pro vedení"
+        ]
+      }
+    ]
+  },
+  "faq": {
+    "label": "Časté dotazy",
+    "heading": "Odpovědi dříve, než se zeptáte.",
+    "items": [
+      {
+        "q": "Jak se CRO liší od SEO nebo PPC?",
+        "a": "SEO a PPC přivádějí lidi na váš web. CRO tyto lidi mění v objednané pacienty. Bez CRO je každá koruna vložená do návštěvnosti omezena vaším stávajícím konverzním poměrem – u dermatologie obvykle 1–3 %. Zdvojnásobení konverzí efektivně zdvojnásobí ROI každé koruny, kterou už do marketingu dáváte."
+      },
+      {
+        "q": "Jak rychle uvidím výsledky?",
+        "a": "Vstupní audit a první varianty nasazujeme v prvních 30 dnech. Statisticky významné výsledky se obvykle dostaví mezi 4. a 12. týdnem v závislosti na návštěvnosti. Praxe s více než 5 000 návštěvníky měsíčně vidí první vítězství do 6 týdnů; u menších klinik to trvá déle, protože na velikosti vzorku záleží."
+      },
+      {
+        "q": "Potřebujete přístup k mému webu pro spuštění testů?",
+        "a": "Ano – instalujeme platformu pro experimenty (VWO, Convert nebo Optimizely dle výběru), analytiku a nástroj pro heatmapy. Vše splňuje HIPAA: nesbíráme osobní údaje (PHI), nahrávky automaticky maskují pole formulářů a v případě potřeby podepisujeme BAA."
+      },
+      {
+        "q": "Co když test dopadne neúspěšně?",
+        "a": "Zhruba 60 % správně navržených testů skončí prohrou nebo neprůkazně – to je naprosto normální. Neúspěšný test je cenné poznání: říká nám, že předpoklad pro danou změnu byl chybný, což je často důležitější než malá výhra. Vítězné testy se sčítají, ty neúspěšné brání drahým a zbytečným redesignům v budoucnu."
+      },
+      {
+        "q": "Můžete pracovat s naším stávajícím webem, nebo potřebujeme nový?",
+        "a": "Pracujeme s jakýmkoliv moderním řešením – WordPress, Webflow, React či headless. Pokud má váš web strukturální vady (špatné Core Web Vitals, chybějící mobilní šablony), upozorníme na ně a doporučíme cílené úpravy pouze tam, kde se to vyplatí. CRO nevyžaduje kompletní redesign."
+      },
+      {
+        "q": "Je to v souladu s HIPAA a pravidly lékařské reklamy?",
+        "a": "Každý experiment kontrolujeme z hlediska HIPAA, etických kodexů a zásad platforem (Meta, Google Ads pro zdravotnictví). Netestujeme neprokazatelná tvrzení a nikdy nesbíráme osobní údaje pacientů do analytiky."
+      },
+      {
+        "q": "Existuje smlouva se závazkem?",
+        "a": "Diagnostika je jednorázová. Growth Sprint a Compounding CRO jsou na měsíční bázi s 30denní výpovědní lhůtou. Po ukončení vám zůstávají veškerá data z testů, poznatky, metodika i nastavení analytiky."
+      }
+    ]
+  },
+  "cta": {
+    "label": "Bezplatný audit webu",
+    "heading": "Jste připraveni zastavit únik rezervací?",
+    "description": "Zauditujeme váš prodejní proces, ukážeme vám tři největší slabiny a dáme vám plán testů – bez ohledu na to, zda se rozhodnete s námi spolupracovat.",
+    "button_quote": "Získat nezávaznou nabídku",
+    "button_contact": "Kontaktujte nás"
+  },
+  "footer_nav": {
+    "label": "Další informace:",
+    "link_seo": "Základy SEO pro dermatologii",
+    "link_ppc": "Placené kampaně, které se vyplatí",
+    "link_design": "Navrhování webu pro konverze od prvního dne"
+  },
+  "mobile_sticky": {
+    "label": "Bezplatný CRO audit",
+    "description": "30min hovor · 3 největší úniky",
+    "button": "Audit webu zdarma"
+  },
+  "funnel_panel": {
+    "title": "Rezervační funnel – posledních 30 dní",
+    "status": "Aktivní · běží test č. 4821",
+    "winning": "Vítězná varianta",
+    "stages": {
+      "visitors": "Návštěvníci",
+      "engaged": "Interakce",
+      "form_starts": "Zahájení formuláře",
+      "booked": "Rezervováno"
+    },
+    "stats": {
+      "conv_rate": "Konv. poměr",
+      "cpa": "CPA",
+      "confidence": "Spolehlivost"
+    }
+  }
+}

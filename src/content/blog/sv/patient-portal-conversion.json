@@ -1,0 +1,50 @@
+{
+  "slug": "patient-portal-conversion",
+  "title": "Patientintagningsformuläret som fördubblade bokningarna",
+  "excerpt": "Ett fyrastegsformulär designat kring kognitiv belastning — med A/B-testdata från tre mottagningar.",
+  "imageAlt": "Patient fyller i ett intagningsformulär på en surfplatta i ett ljust väntrum",
+  "body": [
+    {
+      "text": "En lång blankett skapar friktion. Fyra korta steg känns som ett samtal. Denna enda mönsterförändring fördubblade konverteringen över tre testmottagningar på under 60 dagar — och det är en av de billigaste vinsterna i hela marknadsföringskatalogen för dermatologi eftersom formuläret var den enda variabeln vi rörde."
+    },
+    {
+      "text": "Anledningen till att fyrasstegsmönstret fungerar är enkel: människor slutför uppgifter som känns ändliga. Ett långt formulär med 12 synliga fält signalerar ett långt åtagande, och varje extra obligatoriskt fält är en ny möjlighet för besökaren att stänga fliken. Ett fyrasstegsformulär visar endast det första fältet vid laddning, och den visuella framstegsindikatorn belönar varje slutfört steg med en liten dopamin-kick. När besökaren väl ser telefonnummerssteget har de redan åtagit sig känslomässigt att avsluta."
+    },
+    {
+      "heading": "De fyra stegen"
+    },
+    {
+      "list": [
+        "Steg 1: Vad söker du för? (enkelt val, 4–6 alternativ)",
+        "Steg 2: När skulle du vilja bli sedd? (dag + tidsintervall)",
+        "Steg 3: Lite om dig (namn + e-post)",
+        "Steg 4: Bästa telefonnummer att nå dig på (med tidsinställning)"
+      ]
+    },
+    {
+      "heading": "Varför stegordning spelar roll"
+    },
+    {
+      "text": "Ordningen på de fyra stegen är inte godtycklig. Det första steget fångar avsikt, vilket är den data ditt mottagning mest behöver och den data besökaren är gladast att ge – ingen tvekar att säga varför de besöker. Det andra steget fångar schemaläggningspreferens, vilket ökar besökarens mentala engagemang eftersom de nu har visualiserat mötet i sin kalender. Först efter dessa två åtaganden ber du om identifierande information."
+    },
+    {
+      "text": "Mottagningar som vänder på ordningen – genom att först fråga efter namn och e-post – ser att konverteringen minskar med 30–40%. Besökaren har ännu inte engagerat sig i något, och 'ge mig din e-postadress' känns transaktionellt. I det ögonblick du ber om identifierande information efter att besökaren redan har föreställt sig mötet, känns utbytet som ett samtal."
+    },
+    {
+      "heading": "Det enda fält du aldrig bör kräva: telefonnummer"
+    },
+    {
+      "text": "Alla A/B-tester vi körde på telefonnummerfältet pekade mot samma slutsats: obligatoriskt telefonnummer sänker konverteringen med 12–18%. Ändå har nästan varje mottagning vi integrerar krävt telefonnummer. Lösningen är att göra telefonnummer valfritt på formuläret och följa upp via e-post för schemaläggning. Mottagningar som gör denna förändring behåller vanligtvis 90% av de telefonnummerdata de tidigare krävde (folk anger det frivilligt) och vinner de 12–18% av besökarna som annars skulle ha avbrutit."
+    },
+    {
+      "heading": "Testmetodik och vad man ska mäta"
+    },
+    {
+      "text": "Mät inte enbart formulärutfyllnadsgrad. Mät bokningsgrad för tider och, helst, andelen patienter som faktiskt dyker upp. Ett formulär som fylls i snabbare men genererar uteblivna besök är ingen vinst. Instrumentera tratten från annons- eller organisk klickning till bokad tid, och A/B-testa fyrastegsmönstret mot ditt nuvarande långa formulär under minst tre veckor per variant för att samla statistiskt meningsfull trafik."
+    },
+    {
+      "text": "När fyrastegsmönstret slår baslinjen (det gör det nästan alltid), lås det och gå vidare till nästa test – vanligtvis CTA-texten, förtroendestapeln ovanför formuläret, eller bekräftelsemejlet som skickas efter inskick. Var och en av dessa har ytterligare 5–10% som väntar på att upptäckas när själva formuläret är avklarat."
+    }
+  ],
+  "faqs": null
+}

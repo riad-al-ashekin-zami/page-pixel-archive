@@ -1,0 +1,274 @@
+{
+  "meta": {
+    "title": "Dermatology Google Ads & PPC Management | Booked Visits, Not Clicks",
+    "description": "Google Ads and PPC management for dermatology practices — Search, LSA, YouTube, and Performance Max campaigns measured on cost-per-booked-visit and service-line P&L. HIPAA-safe tracking.",
+    "og": {
+      "title": "Dermatology Google Ads & PPC — Booked Visits, Not Clicks",
+      "description": "PPC that pays for itself — Search, LSA, YouTube, and remarketing scoped to booked-visit ROI for dermatology practices."
+    },
+    "twitter": {
+      "title": "Dermatology Google Ads & PPC Management",
+      "description": "PPC scoped to cost-per-booked-visit for dermatology practices."
+    },
+    "jsonLd": {
+      "serviceType": "Google Ads & PPC Management for Dermatology Practices",
+      "provider": "DermatologyWebsiteDesign.com",
+      "description": "Google Ads, LSA, YouTube, and Performance Max campaign management for dermatology practices, measured on booked visits and service-line P&L.",
+      "breadcrumb": {
+        "home": "Home",
+        "services": "Services",
+        "ads": "Google Ads & PPC"
+      }
+    }
+  },
+  "hero": {
+    "badge": "Dermatology Google Ads & PPC",
+    "heading": "Every click, a booked visit.",
+    "description": "Google Ads and PPC management for dermatology practices — Search, LSA, YouTube, and Performance Max campaigns scoped to cost-per-booked-visit, not vanity clicks. HIPAA-safe tracking, service-line P&L reporting.",
+    "cta": {
+      "audit": "Free PPC audit",
+      "campaigns": "See campaign types"
+    },
+    "stats": [
+      {
+        "label": "Lower CPBV",
+        "value": "38%"
+      },
+      {
+        "label": "Consult calls",
+        "value": "4.2×"
+      },
+      {
+        "label": "Wasted spend cut",
+        "value": "62%"
+      },
+      {
+        "label": "Safe tracking",
+        "value": "HIPAA"
+      }
+    ]
+  },
+  "sections": {
+    "campaigns": {
+      "badge": "Campaign coverage",
+      "heading": "Six campaign engines. One booked-visit target.",
+      "description": "Every campaign type is scoped to a service line and a monthly cost-per-booked-visit ceiling. Nothing runs on autopilot without a P&L attached.",
+      "items": [
+        {
+          "title": "Google Search Ads",
+          "desc": "High-intent keyword campaigns — 'dermatologist near me', 'acne specialist', 'Mohs surgery' — routed to service-specific landing pages, not the homepage."
+        },
+        {
+          "title": "Local Service Ads (LSA)",
+          "desc": "Google-guaranteed lead flow with pay-per-lead pricing and dispute credits. We manage verification, badges, and lead review."
+        },
+        {
+          "title": "YouTube & Video Ads",
+          "desc": "Provider intros, procedure explainers, and remarketing videos that keep your practice top-of-mind at the consideration stage."
+        },
+        {
+          "title": "Performance Max",
+          "desc": "Automated placements across Search, Display, YouTube, and Gmail — tuned with first-party conversion data, not vanity signals."
+        },
+        {
+          "title": "Remarketing & RLSA",
+          "desc": "Bring back the 92% who bounce without booking — segmented by service line, page depth, and consult intent."
+        },
+        {
+          "title": "Conversion Tracking & Attribution",
+          "desc": "Call tracking, form attribution, and offline conversion imports so booked visits — not clicks — drive bidding."
+        }
+      ]
+    },
+    "outcomes": {
+      "ariaLabel": "Measured outcomes",
+      "items": [
+        {
+          "label": "Cost per booked visit reduction",
+          "value": "38%"
+        },
+        {
+          "label": "Qualified consult calls in 90 days",
+          "value": "4.2×"
+        },
+        {
+          "label": "Wasted spend recovered on audit",
+          "value": "62%"
+        },
+        {
+          "label": "Average Google quality score",
+          "value": "9.1"
+        }
+      ],
+      "testimonial": {
+        "quote": "\"Our previous agency reported 'clicks' and 'impressions.' These guys reported booked visits and revenue per service line. Six months later cost per booked visit is down 38% and we finally cancelled the campaigns that were burning budget.\"",
+        "author": "Dr. Marcus Halden · 3-location Dermatology Group"
+      }
+    },
+    "wastedSpend": {
+      "badge": "Where the money leaks",
+      "heading": "Six ways dermatology practices burn PPC budget.",
+      "description": "We audit for these before we ever touch a bid. On average we recover 62% of wasted spend in the first 30 days — before adding a single new campaign.",
+      "items": [
+        "Bidding on your own brand terms when organic already ranks #1",
+        "Broad-match keywords burning budget on 'skin care jobs' or 'DIY acne'",
+        "Sending all clicks to the homepage instead of service pages",
+        "No negative keyword list — competitors and job-seekers eating budget",
+        "Conversion tracking based on 'clicks to contact page' instead of booked visits",
+        "Remarketing lists that never expire — chasing patients who already booked"
+      ]
+    },
+    "audiences": {
+      "badge": "Who we run ads for",
+      "heading": "Built for every dermatology model.",
+      "description": "Solo, multi-location, pediatric, or Mohs — every campaign strategy is scoped to your provider capacity and service-line margin.",
+      "items": [
+        {
+          "title": "Solo Dermatologists",
+          "desc": "Tight budget, high per-patient value — campaigns scoped to your top 2 service lines, not everything."
+        },
+        {
+          "title": "Multi-location Clinics",
+          "desc": "Location-level P&L, geo-bid modifiers, and per-clinic budget governance from one account."
+        },
+        {
+          "title": "Pediatric Dermatology",
+          "desc": "Parent-decision funnels, dayparting around school hours, and family-friendly ad creative."
+        },
+        {
+          "title": "Mohs & Surgical Dermatology",
+          "desc": "Referral-supplement campaigns, insurance-verified intake, and premium-CPC service lines managed on margin, not clicks."
+        }
+      ]
+    },
+    "services": {
+      "badge": "Service lines we run ads for",
+      "heading": "Every service line. Every intent. Every booked visit.",
+      "description": "Each medical service gets its own campaign, landing page, and cost-per-booked-visit target — no lumped \"practice\" budget.",
+      "list": [
+        "Acne Treatment",
+        "Eczema Treatment",
+        "Psoriasis Treatment",
+        "Skin Infection Treatment",
+        "Skin Allergy Treatment",
+        "Skin Cancer Screening & Treatment",
+        "Mole Evaluation & Medically Necessary Removal",
+        "Cyst & Lipoma Removal",
+        "Wart Removal",
+        "Nail Disorder Treatment",
+        "Hair Loss Diagnosis & Medical Treatment",
+        "Scalp Disorder Treatment",
+        "Rosacea Treatment",
+        "Hyperpigmentation & Melasma Treatment (medical indication)",
+        "Scar Treatment (injury, surgery, disease)",
+        "Burn Scar Treatment",
+        "Vitiligo Treatment",
+        "Skin Biopsy & Diagnostic Procedures"
+      ]
+    },
+    "workflow": {
+      "badge": "How it works",
+      "heading": "A 90-day PPC launch. Compounding after.",
+      "description": "Transparent milestones tied to booked visits and P&L — no black-box dashboards.",
+      "steps": [
+        {
+          "phase": "Phase 01",
+          "title": "Account audit & baseline",
+          "desc": "Historical spend teardown, wasted-spend map, keyword and geo gap analysis, and a monthly cost-per-booked-visit target per service line."
+        },
+        {
+          "phase": "Phase 02",
+          "title": "Tracking & landing pages",
+          "desc": "Conversion tracking rebuild — calls, forms, offline imports — and service-specific landing pages engineered for booking, not browsing."
+        },
+        {
+          "phase": "Phase 03",
+          "title": "Campaigns live",
+          "desc": "Search, LSA, Performance Max, and remarketing launched in staged rollout — each pod capped at a cost-per-booked-visit ceiling."
+        },
+        {
+          "phase": "Phase 04",
+          "title": "Optimize & scale",
+          "desc": "Weekly bid, budget, and creative iteration. Monthly executive P&L. Losing pods cut, winning pods scaled — no defensive reporting."
+        }
+      ]
+    },
+    "whyUs": {
+      "badge": "Why practices choose us",
+      "heading": "A dermatology PPC partner — not a generic Google Ads shop.",
+      "items": [
+        {
+          "title": "P&L, not clicks",
+          "desc": "Every campaign ties back to booked visits, service-line revenue, and cost per booked visit — reviewed monthly on one page."
+        },
+        {
+          "title": "HIPAA-safe pixels",
+          "desc": "BAA-covered call tracking, PHI-scrubbed forms, and remarketing lists built without patient data. Audited before we touch."
+        },
+        {
+          "title": "Capacity-aware bidding",
+          "desc": "Bids throttle when your calendar fills — we don't push clicks past what your providers can see next week."
+        },
+        {
+          "title": "Service-line campaigns",
+          "desc": "One campaign per service line — acne, Mohs, cosmetic — each with its own CPBV target. No lumped 'practice' budgets."
+        },
+        {
+          "title": "Landing pages included",
+          "desc": "Every campaign ships with a matched, conversion-tested landing page — not a click routed to your homepage."
+        },
+        {
+          "title": "Zap",
+          "desc": "Cut what doesn't work",
+          "details": "Every campaign has a monthly cost-per-booked-visit ceiling. Miss two months, budget rotates — no defensive reporting."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "Answers dermatology owners ask first.",
+    "items": [
+      {
+        "q": "How much should a dermatology practice spend on Google Ads?",
+        "a": "Depends on service mix and geography — for most single-location practices we start at $3,500–$7,500/month in media spend to hit a statistically meaningful cost-per-booked-visit read within 60 days. Multi-location or cosmetic-heavy practices scale higher. We publish the target CPBV before you commit — no vague 'depends on your goals' answers."
+      },
+      {
+        "q": "Are you HIPAA-aware with Google Ads tracking?",
+        "a": "Yes. We configure conversion tracking so no PHI ever hits Google — call tracking runs through BAA-covered platforms, forms scrub sensitive fields before firing pixels, and remarketing lists are built from non-PHI page signals only. We audit any existing pixel or GTM setup before we touch it."
+      },
+      {
+        "q": "Do you manage Local Service Ads (LSA) too?",
+        "a": "Yes — LSA is often the first channel we launch for local dermatology. We handle Google verification, badge maintenance, lead review, and dispute filing for non-qualified leads (which you shouldn't be paying for)."
+      },
+      {
+        "q": "What's a realistic timeline to see results?",
+        "a": "Search and LSA typically show booked-visit signal within 21–30 days. Performance Max needs 4–6 weeks to exit the learning phase. Every month we ship a P&L-formatted report — no black-box dashboards, no cherry-picked screenshots."
+      },
+      {
+        "q": "Do you build the landing pages too?",
+        "a": "Yes — Google Ads without a matched landing page is wasted spend. Every campaign gets a service-specific landing page with a booking-first layout, HIPAA-safe form, and CRO iteration built into the retainer."
+      },
+      {
+        "q": "What happens if a campaign underperforms?",
+        "a": "Every campaign has a monthly cost-per-booked-visit ceiling agreed upfront. Miss it two months in a row without a clear seasonality reason and the budget rotates into a campaign that's hitting target — no defensive reporting, no sunk-cost pitches."
+      }
+    ]
+  },
+  "cta": {
+    "badge": "Free PPC audit",
+    "heading": "See exactly where your ad spend is leaking — in 48 hours.",
+    "description": "Wasted-spend teardown, keyword and geo gap analysis, landing page audit, and a prioritized 90-day PPC plan mapped to your service-line P&L. Free, no pitch deck.",
+    "audit": "Claim my free audit",
+    "proposal": "Request a proposal"
+  },
+  "stickyMobile": {
+    "text": "Free PPC audit — 48 hrs",
+    "cta": "Claim"
+  },
+  "footerLinks": {
+    "pretext": "You might also explore:",
+    "seo": "long-term SEO for dermatology",
+    "cro": "landing pages that actually convert",
+    "email": "nurture through email"
+  }
+}

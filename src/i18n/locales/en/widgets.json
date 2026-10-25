@@ -1,0 +1,72 @@
+{
+  "growthKpi": {
+    "header": "Growth projector",
+    "bookingLift": "{{pct}}% booking lift",
+    "projectedRevenueLabel": "Projected annual added revenue",
+    "roiSuffix": "× return on monthly investment",
+    "bookedVisitsCaption": "Booked visits · 8-month projection",
+    "addedPerMonth": "+{{n}}/mo",
+    "monthlyInvestment": "Monthly investment",
+    "currentMonthlyVisits": "Current monthly visits",
+    "kpi": {
+      "newVisits": "New visits/mo",
+      "totalVisits": "Total visits/mo",
+      "monthlyRevenue": "Monthly revenue"
+    }
+  },
+  "cpc": {
+    "header": "CPC calculator",
+    "badge": "benchmarked",
+    "costPerBookedLabel": "Projected cost per booked visit",
+    "bookedVisitsSuffix": "· {{n}} booked visits/mo",
+    "serviceLineLabel": "Service line",
+    "avgCpcSuffix": "avg CPC",
+    "monthlySpend": "Monthly media spend",
+    "kpi": {
+      "clicks": "Clicks/mo",
+      "leads": "Leads/mo",
+      "avgCpc": "Avg CPC"
+    },
+    "footer": "{{booked}} booked visits · {{cost}} each",
+    "footerBadge": "est.",
+    "services": {
+      "acne": "Acne treatment",
+      "mohs": "Mohs surgery",
+      "aesthetic": "Aesthetic / cosmetic",
+      "general": "General derm"
+    }
+  },
+  "radius": {
+    "header": "Service area planner",
+    "radiusBadge": "{{n}} mi radius",
+    "mapCaption": "Your clinic · {{n}} mi",
+    "sliderAria": "Service radius in miles",
+    "sliderMin": "{{n}} mi",
+    "sliderMax": "{{n}} mi",
+    "kpi": {
+      "residents": "Residents reached",
+      "searches": "Local searches",
+      "visits": "Potential visits"
+    },
+    "coveragePrefix": "Coverage across",
+    "coverageSuffix": "— grid-ranked for every zip inside the ring."
+  },
+  "rank": {
+    "header": "Live rank tracker",
+    "live": "live",
+    "fromRank": "from #{{n}}",
+    "quarterFooter": "+{{n}} positions this quarter",
+    "updating": "updating",
+    "keywords": {
+      "nearMe": "dermatologist near me",
+      "acneCity": "acne treatment [city]",
+      "aesthetic": "aesthetic specialist",
+      "mohs": "mohs surgery clinic"
+    }
+  },
+  "preloader": {
+    "brandLead": "Dermatology",
+    "brandHighlight": "Website Design",
+    "tagline": "HIPAA-Aware · Conversion-Focused"
+  }
+}

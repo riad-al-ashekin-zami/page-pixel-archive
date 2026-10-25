@@ -1,0 +1,272 @@
+{
+  "meta": {
+    "title": "Ihotautiklinikan kasvuympäristö | Tuloksena varatut käynnit, ei vain näyttökertoja",
+    "description": "Ihotautiklinikoiden kasvupalvelut: potilashankinta, konversio-optimointi, automaatio ja tulosanalytiikka sidottuna varattuihin käynteihin ja palvelulinjakohtaiseen kannattavuuteen.",
+    "og": {
+      "title": "Dermatologian klinikan kasvu – varatut käynnit, ei vain näkyvyyttä",
+      "description": "Kokonaisvaltainen kasvu yksittäisille lääkäreille ja monitoimipaikkaisille klinikoille – hankinta, konversio, sitouttaminen ja analytiikka."
+    },
+    "twitter": {
+      "title": "Ihotautiklinikan kasvupalvelut",
+      "description": "Kasvua varatuissa käynneissä – mitattuna suoraan klinikan tuloslaskelmassa."
+    },
+    "jsonLd": {
+      "serviceType": "Ihotautiklinikan kasvupalvelut",
+      "provider": "DermatologyWebsiteDesign.com",
+      "description": "Kasvupalvelut ihotautiklinikoille: potilashankinta, sitouttaminen, maine ja tulosanalytiikka.",
+      "breadcrumbs": {
+        "home": "Etusivu",
+        "services": "Palvelut",
+        "current": "Ihotautiklinikan kasvu"
+      }
+    }
+  },
+  "hero": {
+    "badge": "Ihotautiklinikan kasvu",
+    "title": "Varattuja käyntejä. Ei pelkkiä näyttökertoja.",
+    "description": "Kokonaisvaltainen kasvu ihotautiklinikoille – potilashankinta, konversio-optimointi, automaatio ja analytiikka. Jokaista kanavaa mitataan varatun käynnin kustannuksen ja palvelulinjan kannattavuuden mukaan.",
+    "cta": {
+      "primary": "Tilaa maksuton kasvu-auditointi",
+      "secondary": "Tutustu kasvuprosessiin"
+    },
+    "stats": [
+      {
+        "value": "42 %",
+        "label": "Uusia potilaita"
+      },
+      {
+        "value": "3.4×",
+        "label": "Konsultaatiopyyntöjä"
+      },
+      {
+        "value": "31 %",
+        "label": "Alhaisempi CPBV"
+      },
+      {
+        "value": "HIPAA",
+        "label": "Turvallinen alusta"
+      }
+    ]
+  },
+  "sections": {
+    "levers": {
+      "badge": "Kasvukoneisto",
+      "heading": "Kahdeksan kasvun vipuvartta. Tehostamassa tulostasi.",
+      "description": "Kasvu kerrantuu vain, kun hankinta, konversio, sitouttaminen ja maine toimivat yhdessä – ja jokainen euro kohdistetaan palvelulinjaan, ei pelkkään markkinointikanavaan.",
+      "items": [
+        {
+          "title": "Potilashankintakone",
+          "desc": "Monikanavainen vastaanotto – SEO, paikallinen haku, maksettu mainonta ja suositukset – ohjattuna yhteen mitattavaan varausputkeen."
+        },
+        {
+          "title": "Konversio-optimointi",
+          "desc": "Laskeutumissivujen testaus ja varaamisen esteiden poistaminen, jotka kasvattavat konsultaatiopyyntöjä ilman mainosbudjetin nostamista."
+        },
+        {
+          "title": "Potilaiden sitouttaminen ja kutsuminen",
+          "desc": "Automatisoidut muistutukset vuositarkastuksiin, esteettisiin jatkohoitoihin ja passiivisten potilaiden uudelleenaktivointi."
+        },
+        {
+          "title": "Maine ja arvostelut",
+          "desc": "Käynnin jälkeiset arvostelupyynnöt, HIPAA-yhteensopivat vastauspohjat ja maineenhallinta Googlessa, Healthgradesissa ja RealSelfissä."
+        },
+        {
+          "title": "Tuottoanalytiikka",
+          "desc": "Palvelulinjakohtainen tuloslaskenta, lääkärien käyttöaste ja markkinointilähteiden attribuutio – kaikki yhdessä, potilastietojärjestelmään kytketyssä näkymässä."
+        },
+        {
+          "title": "Suositteluverkoston kasvu",
+          "desc": "Yhteistyöohjelmat yleislääkäreille ja gynekologeille sekä neljännesvuosittainen yhteydenpito, jota seurataan varattuina toimenpiteinä."
+        },
+        {
+          "title": "Maksetun median hallinta",
+          "desc": "Google-, Meta- ja YouTube-kampanjat, jotka on mitoitettu palvelulinjan katteeseen – ei turhia näyttökertoja tai turvotettua uudelleenmarkkinointia."
+        },
+        {
+          "title": "HIPAA-turvallinen automaatio",
+          "desc": "Jokainen kontaktipiste – tekstiviesti, sähköposti, chat – toimii suojatulla infrastruktuurilla, jossa potilastiedot on turvattu oletusarvoisesti."
+        }
+      ]
+    },
+    "outcomes": {
+      "srTitle": "Mitatut tulokset",
+      "items": [
+        {
+          "k": "42 %",
+          "v": "Lisää uusia varauksia, 6 kk"
+        },
+        {
+          "k": "78 %",
+          "v": "Kasvu Googlen 5 tähden arvosteluissa"
+        },
+        {
+          "k": "3.4×",
+          "v": "Enemmän konsultaatiopyyntöjä kvartaalissa"
+        },
+        {
+          "k": "31 %",
+          "v": "Varatun käynnin hankintakustannuksen lasku"
+        }
+      ],
+      "quote": "Lopetimme markkinointiraporttien lukemisen ja aloimme seurata tuloslaskelmaa. Kuuden kuukauden jälkeen uudet varaukset kasvoivat 42 % ja varatun käynnin kustannus laski 31 % – ja pystyn sanomaan tarkalleen, mikä palvelulinja toi minkäkin euron.",
+      "attribution": "Dr. Alicia Renner · neli-toimipaikkainen ihotautiklinikka"
+    },
+    "audiences": {
+      "badge": "Kenelle kasvu on tarkoitettu",
+      "heading": "Rakennettu jokaiselle ihotautialan toimintamallille.",
+      "description": "Yksittäinen lääkäri, ketju, pediatria tai Mohs-kirurgia – jokainen kasvuohjelma on sovitettu lääkärikapasiteettiinne ja katemarginaaleihinne.",
+      "items": [
+        {
+          "title": "Itsenäiset ihotautilääkärit",
+          "desc": "Yksittäinen asiantuntija, tiukat marginaalit, korkea potilaskohtainen arvo – kasvua ilman erillisen markkinointitiimin palkkaamista."
+        },
+        {
+          "title": "Monitoimipaikkaiset klinikat",
+          "desc": "Toimipistekohtainen tulosseuranta, klinikkakohtaiset budjetit ja keskitetty brändinhallinta."
+        },
+        {
+          "title": "Lasten ihotautilääketiede",
+          "desc": "Vanhempien päätöksentekoon vaikuttavat polut, lapsiystävällinen viestintä ja lukuvuosien sesonkien huomioiminen."
+        },
+        {
+          "title": "Mohs-kirurgia ja kirurginen ihotauti",
+          "desc": "Lähetekeskeiset kanavat, vakuutusvarmennettu vastaanotto ja toimenpiteen jälkeinen maineenhallinta."
+        }
+      ]
+    },
+    "services": {
+      "badge": "Kasvatettavat lääketieteelliset palvelut",
+      "heading": "Jokainen palvelulinja. Jokainen haku. Jokainen varaus.",
+      "description": "Jokainen lääketieteellinen palvelu mallinnetaan omana putkenaan – seuraten palvelukohtaista hankintakustannusta, konversiota ja elinkaariarvoa.",
+      "list": [
+        "Akne-hoidot",
+        "Ekseeman hoito",
+        "Psoriasiksen hoito",
+        "Ihoinfektioiden hoito",
+        "Ihoallergioiden hoito",
+        "Ihosyövän seulonta ja hoito",
+        "Luomien tarkastus ja lääketieteellinen poisto",
+        "Kystien ja lipoomien poisto",
+        "Syylien poisto",
+        "Kynsisairauksien hoito",
+        "Hiustenlähdön diagnostiikka ja lääkehoito",
+        "Hiuspohjan sairauksien hoito",
+        "Rosacean hoito",
+        "Pigmenttihäiriöiden ja melasman hoito",
+        "Arpien hoito (vammat, leikkaukset, sairaudet)",
+        "Palovamma-arpien hoito",
+        "Vitiligon hoito",
+        "Ihonäytteet ja diagnostiset toimenpiteet"
+      ]
+    },
+    "workflow": {
+      "badge": "Miten se toimii",
+      "heading": "90 päivän kasvuspurtti. Jatkuva kehitys.",
+      "description": "Läpinäkyvät tavoitteet sidottuna varattuihin käynteihin ja tulokseen – ei epämääräistä raportointia.",
+      "steps": [
+        {
+          "step": "01",
+          "phase": "Vaihe 01",
+          "title": "Nykytilan kartoitus ja perustaso",
+          "desc": "Täysi hankinnan ja sitouttamisen auditointi, palvelulinjojen tulosanalyysi ja 12 kuukauden kasvumalli lääkärikapasiteetin mukaan."
+        },
+        {
+          "step": "02",
+          "phase": "Vaihe 02",
+          "title": "Ostopolun ja brändin perusta",
+          "desc": "Verkkosivuston konversio-optimointi, varausprosessin hienosäätö, brändi-ilmeen yhtenäistäminen ja analytiikan kytkentä."
+        },
+        {
+          "step": "03",
+          "phase": "Vaihe 03",
+          "title": "Kasvukanavien avaaminen",
+          "desc": "SEO, paikallinen näkyvyys, maksettu mainonta ja suositteluohjelmat rinnakkain – jokaisella on tavoitehinta per varattu käynti."
+        },
+        {
+          "step": "04",
+          "phase": "Vaihe 04",
+          "title": "Sitouttaminen, raportointi ja skaalaus",
+          "desc": "Uudelleenaktivointi, maineenhallinta, kuukausittaiset johdon raportit ja neljännesvuosittainen laajentaminen uusiin palveluihin."
+        }
+      ]
+    },
+    "whyUs": {
+      "badge": "Miksi klinikat valitsevat meidät",
+      "heading": "Kumppani ihotautiklinikan kasvuun – ei pelkkä markkinointitoimisto.",
+      "items": [
+        {
+          "title": "Tulos laskelmassa, ei vain hallintapaneelissa",
+          "desc": "Jokainen toimenpide kytkeytyy varattuihin käynteihin ja liikevaihtoon – tarkasteltuna yhdellä sivulla kuukausittain."
+        },
+        {
+          "title": "Oletusarvoisesti HIPAA-turvallinen",
+          "desc": "Suojattu infrastruktuuri ja tarkastetut rajapinnat varmistavat potilastiedon turvallisuuden ennen kuin koskemme yhteenkään työnkulkuun."
+        },
+        {
+          "title": "Lääkärikapasiteetin huomioiminen",
+          "desc": "Kasvu sovitetaan kalenteriinne – emme luo kysyntää yli sen, mitä lääkärinne pystyvät ottamaan vastaan."
+        },
+        {
+          "title": "Varatun käynnin attribuutio",
+          "desc": "Puheluseuranta, lomakkeiden lähdetiedot ja järjestelmäintegraatiot varmistavat, ettei yksikään varaus jää vaille selkeää lähdettä."
+        },
+        {
+          "title": "Oikeat lääketieteelliset kirjoittajat",
+          "desc": "Kliinisen taustan omaavat kirjoittajat ja lääkärin tarkastama sisältö jokaisella sivulla – ei tekoälyroskaa tai pintapuolista tekstiä."
+        },
+        {
+          "title": "Poistamme sen, mikä ei toimi",
+          "desc": "Jokaisella kanavalla on hintakatto per varattu käynti. Jos tavoite jää saavuttamatta kahdesti, budjetti siirretään muualle."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "Vastauksia klinikan omistajien yleisimpiin kysymyksiin.",
+    "items": [
+      {
+        "q": "Miten tämä eroaa markkinointitoimistosta?",
+        "a": "Markkinointitoimisto myy näyttökertoja, klikkauksia tai sijoituksia. Me tuotamme varattuja potilaskäyntejä ja palvelulinjan tuottoa – jokainen toimitus mitataan tuloslaskelman kasvuna, ei markkinointiraporttina. Jos kanava ei tuota varauksia tavoitehinnalla, se suljetaan."
+      },
+      {
+        "q": "Miltä ensimmäiset 90 päivää näyttävät?",
+        "a": "Päivät 1–30: diagnostiikka, perustaso, kasvumalli ja ostopolun uudistus. Päivät 31–60: varausprosessin hienosäätö, SEO ja paikallinen näkyvyys käyntiin, arvosteluautomaation aloitus. Päivät 61–90: maksettu mainonta tavoitehinnoilla, suosittelijayhteistyö ja ensimmäinen kattava tulosraportti."
+      },
+      {
+        "q": "Työskentelettekö usean toimipisteen klinikoille?",
+        "a": "Kyllä – se on yksi ydinosaamisistamme. Rakennamme toimipistekohtaiset tulosseurannat, kapasiteetin seurannan ja keskitetyn brändinhallinnan, jotta yksikään klinikka ei poikkea budjetista tai brändistä."
+      },
+      {
+        "q": "Onko kaikki HIPAA-yhteensopivaa?",
+        "a": "Kyllä. Kaikki automaatiot, integraatiot ja arvostelutyökalut toimivat suojatulla infrastruktuurilla. Vastauspohjissa ei koskaan viitata potilastietoihin, ja auditoimme kaikki nykyiset lomakkeet ja integraatiot tietoturvan varmistamiseksi."
+      },
+      {
+        "q": "Integroituuko palvelu potilastietojärjestelmäämme?",
+        "a": "Integroimme yleisimpiin ihotautialan järjestelmiin – kuten Nextech, ModMed, EMA ja AdvancedMD – raportointia varten. Jos suora integraatio ei ole mahdollinen, asetamme konversioseurannan varausvaiheeseen."
+      },
+      {
+        "q": "Mitä tapahtuu, jos kanava ei tuota tuloksia?",
+        "a": "Se lopetetaan. Sovimme jokaiselle kanavalle varatun käynnin hintakaton etukäteen. Jos kanava ylittää sen kahdesti peräkkäin ilman selkeää syytä, budjetti siirretään tavoitteet saavuttavaan kanavaan."
+      }
+    ]
+  },
+  "cta": {
+    "badge": "Maksuton kasvu-auditointi",
+    "title": "Selvitä 48 tunnissa, mistä menetätte varattuja käyntejä.",
+    "description": "Hankinnan auditointi, konversioanalyysi, sitouttamisen aukot ja priorisoitu 90 päivän kasvusuunnitelma – suoraan palvelulinjakohtaiseen tulokseen peilattuna. Maksuton, ilman myyntipuheita.",
+    "primary": "Tilaa maksuton auditointi",
+    "secondary": "Pyydä ehdotus"
+  },
+  "stickyCta": {
+    "label": "Kasvu-auditointi – 48 h",
+    "button": "Tilaa"
+  },
+  "related": {
+    "prefix": "Lue myös: ",
+    "links": {
+      "marketing": "Ihotautiklinikan omistajan opas markkinointiin",
+      "googleAds": "Maksettu potilashankinta Google Adsilla",
+      "reputation": "Arvostelut ja maineenhallintajärjestelmät"
+    }
+  }
+}

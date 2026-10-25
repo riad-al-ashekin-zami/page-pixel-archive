@@ -1,0 +1,78 @@
+{
+  "slug": "website-redesign-checklist",
+  "title": "Sjekkliste for redesign av nettsted for hudlegepraksiser",
+  "excerpt": "32 spørsmål å svare på før du rører en eneste piksel — fra HIPAA-skjemaer til konvertering av heltelementer.",
+  "imageAlt": "Moderne nettsidemockup for hudlege på en stasjonær PC og et nettbrett på et lyst kontor",
+  "body": [
+    {
+      "text": "En redesign som hopper over oppdagelsesfasen er bare en kostbar oppfriskning. Før vi åpner et designverktøy, kjører vi hver praksis gjennom denne sjekklisten med 32 spørsmål som dekker merkevare, konvertering, samsvar og teknisk beredskap. Poenget med sjekklisten er ikke å bremse ting – det er å sørge for at pikslene du til slutt skyver ut, faktisk tjener en strategi i stedet for et stemningsbrett."
+    },
+    {
+      "text": "De fleste redesign mislykkes av en av tre grunner: praksisen definerte aldri hva en 'god' nettside betyr for deres mål, inntaks- og bookingsflyten er designet rundt intern bekvemmelighet i stedet for pasientatferd, eller teamet lanserer et nettsted som bryter HIPAA fordi sporing ble satt opp på autopilot. Hver seksjon nedenfor er designet for å fange en av disse feilmodiene før det koster deg 40.000 og seks måneder."
+    },
+    {
+      "heading": "Merkevare og posisjonering"
+    },
+    {
+      "list": [
+        "Hvem er din ideelle pasient med én setning? (alder, kjønn, inntekt, hovedbekymring)",
+        "Hvilke tre konkurrenter sammenligner pasientene dine deg med?",
+        "Hvilken følelse ønsker du at besøkende skal ha i løpet av 5 sekunder?",
+        "Hvis noen beskrev din praksis til en venn med én setning, hva ønsker du at de skulle si?",
+        "Hvilket bevis har du på at denne posisjoneringen er sann — anmeldelser, resultater, meritter?"
+      ]
+    },
+    {
+      "text": "Hvis du ikke kan svare på disse fem spørsmålene i et delt dokument som hele teamet ditt er enige om, er du ikke klar til å designe en hjemmeside – du er klar til å kjøre en posisjoneringsworkshop."
+    },
+    {
+      "heading": "Konvertering og bestillingsflyt"
+    },
+    {
+      "text": "Hvert ekstra felt på inntaksskjemaet ditt reduserer konverteringen med 4–6%. Hvert ekstra klikk mellom helteelementet og bestillingshandlingen reduserer konverteringen med 8–12%. Redesign er øyeblikket for å revidere hvert trinn i trakten, nådeløst kutte alt som ikke er essensielt, og instrumentere stien slik at du kan bevise hva som faktisk flytter nålen etter lansering."
+    },
+    {
+      "list": [
+        "Hvor mange klikk fra hjemmeside til bestilt time i dag?",
+        "Hva er konverteringsraten for mobilbestilling i dag?",
+        "Hvor mange skjema-felt er obligatoriske i dag, og hvilke brukes faktisk?",
+        "Hva er den primære CTA-en på hjemmesiden din – og er den synlig uten å måtte scrolle på mobil?",
+        "Hva skjer etter at et skjema er sendt inn – er det en bekreftelses-e-post innen 30 sekunder?"
+      ]
+    },
+    {
+      "heading": "HIPAA og samsvar"
+    },
+    {
+      "text": "HIPAA-håndhevelsen rundt nettstedsporing har eskalert dramatisk siden 2022. Hvis din redesign arver din nåværende chat-widget, skjemaleverandør eller analyseoppsett uten en samsvarsanmeldelse, lanserer du et nytt nettsted med en gammel forpliktelse."
+    },
+    {
+      "list": [
+        "Er chat-widgets konfigurert til å fjerne PHI fra logger?",
+        "Sender inntaksskjemaene dine data over en kryptert kanal til en HIPAA-kompatibel destinasjon?",
+        "Har du signert BAA-er med alle tredjepartstjenester som håndterer pasientdata?",
+        "Er din Meta Pixel konfigurert med server-side filtrering på en hvilken som helst side som nevner tilstander?",
+        "Maskerer verktøyet for øktavspilling skjema-felt som standard?"
+      ]
+    },
+    {
+      "heading": "Teknisk beredskap"
+    },
+    {
+      "text": "Den tekniske delen er der de fleste redesigner stille og rolig bryter sammen. En vakker side som lastes på seks sekunder på 4G vil tape mot en enkel side som lastes på to. Et nettsted med ødelagte omdirigeringer vil miste rangeringene du brukte to år på å oppnå. Håndter de kjedelige tingene først."
+    },
+    {
+      "list": [
+        "Har du en fullstendig oversikt over gjeldende URL-er og deres inngående baklenker?",
+        "Har du et 1-til-1 omdirigeringskart fra den gamle til den nye siden?",
+        "Hva er ditt mål for LCP, CLS og INP for lansering – og hvordan vil du verifisere det?",
+        "Hvem eier Search Console-tilgangen, og er eiendommen verifisert?",
+        "Har du planlagt en gjennomgang av testmiljøet før DNS-overgangen?"
+      ]
+    },
+    {
+      "text": "Svar ærlig på hvert spørsmål i denne sjekklisten før du utarbeider den første trådrammen. Teamene som leverer redesign uten anger er teamene som behandler oppdagelsesfasen som et leverbart, ikke som en ettertanke. To uker med disiplinerte svar nå sparer to kvartaler med ombygging senere."
+    }
+  ],
+  "faqs": null
+}

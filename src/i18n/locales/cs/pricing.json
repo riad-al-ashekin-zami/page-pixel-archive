@@ -1,0 +1,345 @@
+{
+  "meta": {
+    "title": "Ceník webů pro dermatologii — Plány, balíčky a transparentní náklady",
+    "description": "Transparentní ceník webů pro dermatology. Jednorázová tvorba od 797 do 18 999 USD+, měsíční balíčky od 399 USD a individuální doplňky. Zjistěte přesně, kolik zaplatíte, než nás kontaktujete.",
+    "og": {
+      "title": "Ceník webů pro dermatologii — Plány, balíčky a náklady",
+      "description": "Šest webových balíčků, tři speciální řešení, čtyři měsíční balíčky a více než 20 doplňků — s kalkulačkou nákladů v reálném čase. Zcela transparentní ceny."
+    },
+    "jsonLd": {
+      "breadcrumb": {
+        "home": "Domů",
+        "plans": "Plány a ceník"
+      },
+      "priceSpec": {
+        "name": "Webové balíčky pro dermatologii"
+      }
+    }
+  },
+  "hero": {
+    "badge": "Transparentní ceny",
+    "heading": "Všechny ceny přehledně. Žádné překvapivé faktury.",
+    "description": "Šest jednorázových webových balíčků, tři speciální řešení, čtyři měsíční balíčky a více než 20 doplňků — s kalkulačkou nákladů, abyste znali výslednou částku dříve, než s námi promluvíte.",
+    "cta": "Zobrazit webové balíčky",
+    "estimatorCta": "Kalkulačka nákladů"
+  },
+  "stats": {
+    "launched": "Spuštěných dermatologických praxí",
+    "satisfaction": "Průměrná spokojenost klientů",
+    "startingPrice": "Počáteční jednorázová cena",
+    "turnaround": "Průměrná doba zapracování úprav"
+  },
+  "trust": {
+    "ariaLabel": "Důvěra a záruky",
+    "guarantee": "30denní záruka vrácení peněz za tvorbu",
+    "guaranteeSub": "Nejste před spuštěním spokojeni? Poměrná část peněz zpět, bez otázek.",
+    "features": [
+      "V souladu s HIPAA",
+      "SSL + Zálohování",
+      "Bez vázanosti",
+      "Web vlastníte vy"
+    ]
+  },
+  "sections": {
+    "websitePackages": {
+      "label": "01 — Balíčky tvorby webu",
+      "title": "Jednorázová tvorba. Šest jasných úrovní.",
+      "description": "Vyberte si velikost, která vám vyhovuje dnes – a s růstem vaší praxe ji snadno upgradujte. Každá cena zahrnuje design, vývoj, spuštění a revize.",
+      "popular": "Nejoblíbenější",
+      "flagship": "Vlajková loď",
+      "otherAgencies": "Ostatní agentury:",
+      "bestFor": "Ideální pro:",
+      "startWith": "Začít s balíčkem {{name}}",
+      "footer": "Všechny ceny v USD. Jednorázové poplatky za tvorbu. Bez nutnosti měsíčních úvazků.",
+      "items": [
+        {
+          "name": "Starter",
+          "subtitle": "Jednostránkový web",
+          "bestFor": "Nová klinika, sólo dermatolog, landing page",
+          "price": "$797",
+          "priceNote": "jednorázově",
+          "savings": "o 20–68 % levnější",
+          "features": [
+            "Jednostránkový responzivní web",
+            "Optimalizace pro mobilní zařízení",
+            "Kontaktní formulář + vytáčení čísla kliknutím",
+            "Integrovaná Google Mapa",
+            "Základní on-page SEO",
+            "Průvodce nastavením SSL + hostingu",
+            "Dodání: 1 týden",
+            "1 kolo revizí"
+          ],
+          "cons": [
+            "Bez blogu nebo pacientského portálu"
+          ]
+        },
+        {
+          "name": "Clinic Pro",
+          "subtitle": "5–8 stránek",
+          "bestFor": "Etablovaná samostatná / malá praxe",
+          "price": "$1,997",
+          "priceNote": "jednorázově",
+          "savings": "o 33–60 % levnější",
+          "features": [
+            "Domů, O nás, Služby (3–5), Kontakt",
+            "Online rezervace termínů",
+            "Fotogalerie Před/Po",
+            "Profil lékaře a certifikace",
+            "Nastavení lokálního SEO + optimalizace GBP",
+            "Kontaktní formulář splňující HIPAA",
+            "Optimalizace rychlosti",
+            "Dodání: 2–3 týdny",
+            "2 kola revizí"
+          ]
+        },
+        {
+          "name": "Practice Growth",
+          "subtitle": "10–15 stránek",
+          "bestFor": "Rostoucí praxe, estetická dermatologie",
+          "price": "$4,499",
+          "priceNote": "jednorázově",
+          "savings": "o 10–55 % levnější",
+          "features": [
+            "Kompletní vícestránkový web",
+            "Landing pages pro jednotlivé zákroky",
+            "Integrace pacientského portálu",
+            "Nastavení blogu (5 úvodních článků)",
+            "Pokročilé lokální SEO",
+            "Optimalizace Core Web Vitals",
+            "Logo + základní vizuální identita",
+            "Sociální OG tagy + Schema markup",
+            "Dodání: 3–4 týdny",
+            "3 kola revizí"
+          ]
+        },
+        {
+          "name": "E-Commerce",
+          "subtitle": "E-shop s produkty",
+          "bestFor": "Dermatolog prodej kosmetiky",
+          "price": "$6,999",
+          "priceNote": "jednorázově",
+          "savings": "o 12–53 % levnější",
+          "features": [
+            "Web praxe (10+ stránek)",
+            "E-shop na WooCommerce nebo Shopify",
+            "Nastavení katalogu (30 produktů)",
+            "Platební brána (Stripe / PayPal)",
+            "Systém správy objednávek",
+            "Kompletní SEO balíček",
+            "Kombinace rezervací a e-shopu",
+            "Dodání: 4–6 týdnů"
+          ]
+        },
+        {
+          "name": "Authority Brand",
+          "subtitle": "Vlastní Enterprise řešení",
+          "bestFor": "Praxe s více pobočkami, vysoký obrat",
+          "price": "$12,999",
+          "priceNote": "jednorázově",
+          "savings": "o 13–56 % levnější",
+          "features": [
+            "Plně individuální design (bez šablon)",
+            "20+ stránek + stránky pro pobočky",
+            "Kompletní identita značky + logo set",
+            "Včetně e-shopu",
+            "Portál pro pacienty i lékaře",
+            "Kompletní nastavení HIPAA shody",
+            "30 článků na blogu / stránek služeb",
+            "Integrace videa",
+            "6 měsíců SEO v ceně",
+            "Dedikovaný account manager",
+            "Dodání: 6–10 týdnů"
+          ]
+        },
+        {
+          "name": "Enterprise Multi-Site",
+          "subtitle": "DSO / Více lokalit",
+          "bestFor": "Skupiny DSO, 3+ pobočky, celostátní praxe",
+          "price": "$18,999+",
+          "priceNote": "individuální",
+          "savings": "o 24 %+ levnější",
+          "features": [
+            "Architektura pro více poboček",
+            "Samostatná landing page pro každou lokalitu",
+            "Centrální správa CMS",
+            "Jednotný branding napříč weby",
+            "Lokální SEO pro všechny pobočky",
+            "Portál pro personál každé lokality",
+            "Cena na míru dle rozsahu",
+            "Prioritní podpora"
+          ]
+        }
+      ]
+    },
+    "specialty": {
+      "label": "02 — Speciální balíčky",
+      "title": "Cílené alternativy.",
+      "description": "Možnosti mimo standardní úrovně pro specifické potřeby — rychlé spuštění šablony, telehealth praxe nebo prémiové řešení na míru.",
+      "market": "Tržní cena:",
+      "cta": "Získat tento balíček",
+      "items": [
+        {
+          "name": "Šablonový web",
+          "desc": "Předpřipravená dermatologická šablona upravená podle vaší značky a obsahu. Dodání: 5 dní. Omezené úpravy, ale rychlé a cenově dostupné."
+        },
+        {
+          "name": "Telehealth / Nastavení portálu",
+          "desc": "Integrace telemedicíny (Doxy.me, Zoom Health apod.), nastavení pacientského portálu, zabezpečené zprávy a plánování schůzek. Lze přidat k jakémukoli balíčku."
+        },
+        {
+          "name": "Premium Custom Site",
+          "desc": "Zlatá střední cesta mezi Practice Growth a Authority Brand. 15–20 stránek, plně individuální design, žádná šablona, pokročilé SEO, 3 měsíce podpora po spuštění."
+        }
+      ]
+    },
+    "bundles": {
+      "label": "03 — Měsíční výhodné balíčky",
+      "title": "Pravidelné služby se slevou.",
+      "description": "Přidejte měsíční servis k jakémukoli webovému balíčku. Ušetříte 15–25 % oproti nákupu služeb samostatně — zrušení kdykoli s výpovědní lhůtou 30 dní.",
+      "recommended": "Nejvíce doporučujeme",
+      "bestLtv": "Nejlepší hodnota",
+      "add": "Přidat {{name}}",
+      "items": [
+        {
+          "name": "Essential Bundle",
+          "tag": "Hosting + Údržba + Lokální SEO",
+          "desc": "Hosting + zabezpečení + měsíční údržba + monitoring lokálního SEO + správa GBP. Ušetříte $99/měs. oproti samostatným službám."
+        },
+        {
+          "name": "Growth Bundle",
+          "tag": "Essential + Kompletní SEO kampaň",
+          "desc": "Vše z balíčku Essential + plnohodnotná SEO kampaň (obsah, zpětné odkazy, technické SEO, reporty pozic). Nejdoporučovanější paušál."
+        },
+        {
+          "name": "Marketing Bundle",
+          "tag": "SEO + Google Ads + Sociální sítě + Recenze",
+          "desc": "Kompletní SEO + správa Google Ads + sociální sítě (8 příspěvků/měs.) + systém pro generování recenzí. Úplné digitální pokrytí."
+        },
+        {
+          "name": "Full-Stack Bundle",
+          "tag": "Vše — Maximální růst",
+          "desc": "Marketing Bundle + e-mailové CRM kampaně + 2 blogy měsíčně + monitoring reputace + čtvrtletní strategické konzultace + prioritní podpora. Nejlepší LTV."
+        }
+      ]
+    },
+    "addOns": {
+      "label": "04 — Doplňkové služby a individuální ceny",
+      "title": "Všechny doplňky, přehledné ceny.",
+      "description": "Třicet sedm samostatně naceněných služeb — včetně nastavení SMTP / transakčních e-mailů. Přidejte si jakoukoli k balíčku a uvidíte srovnání s tržní cenou, abyste věděli, kolik šetříte.",
+      "table": {
+        "service": "Doplňková služba",
+        "ourPrice": "Naše cena",
+        "market": "Běžná tržní cena",
+        "type": "Typ",
+        "bestFor": "Ideální pro"
+      }
+    },
+    "custom": {
+      "badge": "Potřebujete něco na míru?",
+      "title": "DSO, nemocniční síť nebo atypický projekt?",
+      "description": "Pro skupiny DSO, nemocniční pracoviště a sítě s 3+ lokalitami navrhujeme individuální program za fixní cenu s dedikovaným vývojem, čtvrtletním hodnocením a vlastním týmem podpory.",
+      "quoteCta": "Vyžádat individuální nabídku",
+      "pricingCta": "Zobrazit ceník a balíčky"
+    }
+  },
+  "estimator": {
+    "label": "05 — Kalkulačka nákladů",
+    "title": "Zjistěte částku dříve, než nás kontaktujete.",
+    "description": "Vyberte si webový balíček, přidejte měsíční servis a navolte doplňky — celková cena se aktualizuje okamžitě.",
+    "form": {
+      "websitePackage": "Webový balíček",
+      "monthlyBundle": "Měsíční balíček",
+      "logo": "Návrh loga · $450 za kus",
+      "extraPages": "Stránky zákroků navíc · $200 za každou",
+      "blogPosts": "Články na blog · $120 za kus",
+      "portal": "Integrace pacientského portálu",
+      "portalAdd": "+$999 jednorázově"
+    },
+    "aria": {
+      "decrease": "Snížit",
+      "increase": "Zvýšit"
+    },
+    "summary": {
+      "title": "Váš odhad",
+      "build": "Tvorba webu",
+      "bundle": "Měsíční paušál",
+      "oneTime": "Jednorázově celkem",
+      "monthly": "Měsíční platba",
+      "yearOne": "Náklady za první rok",
+      "ongoing": "Dále pak {{amount}} / rok",
+      "lockIn": "Zafixovat tuto cenovou nabídku"
+    }
+  },
+  "testimonials": {
+    "label": "Co říkají klienti",
+    "title": "Předvídatelné ceny, předvídatelné výsledky.",
+    "items": [
+      {
+        "name": "Dr. Meera Balakrishnan, MD",
+        "role": "NBS Laser",
+        "quote": "Transparentní ceny. Žádné překvapivé faktury. Přesně jsme věděli, kolik zaplatíme ještě před podpisem smlouvy – a faktura každý měsíc souhlasila."
+      },
+      {
+        "name": "Dr. Julian Reyes, MD",
+        "role": "CP Dermatology",
+        "quote": "Balíček Clinic Pro se zaplatil sám už ve druhém měsíci. Samotná přestavba rezervačního procesu zdvojnásobila počet žádostí o termín."
+      }
+    ]
+  },
+  "faq": {
+    "label": "06 — Často kladené dotazy",
+    "title": "Odpovědi na otázky k cenám.",
+    "items": [
+      {
+        "q": "Platím jednorázově, měsíčně, nebo obojí?",
+        "a": "Webové balíčky (Starter až Enterprise) jsou za jednorázový poplatek. Pravidelné služby — hosting, SEO, reklamy, obsah, údržba — jsou řešeny měsíčními balíčky nebo individuálně. Většina klinik kombinuje jeden balíček tvorby s jedním měsíčním paušálem. V písemném návrhu vždy uvidíte přesnou výslednou částku."
+      },
+      {
+        "q": "Co všechno zahrnuje jednorázová cena za tvorbu?",
+        "a": "Design, vývoj, strukturu obsahu, on-page SEO, integrace uvedené u balíčku, formuláře v souladu s HIPAA (kde je to relevantní), spuštění a specifikovaný počet kol revizí. Během tvorby neúčtujeme nic hodinově — platíte citovanou fixní cenu."
+      },
+      {
+        "q": "Musím si koupit měsíční balíček?",
+        "a": "Ne. Měsíční balíčky jsou volitelné. Můžete zůstat u svého hostingu a web si spravovat sami, nebo si vybrat jen konkrétní doplňky. Balíčky jsou tu od toho, aby vám ušetřily peníze oproti nákupu služeb jednotlivě."
+      },
+      {
+        "q": "Mohu později upgradovat ze Starteru na Clinic Pro?",
+        "a": "Ano. Každý balíček staví na stejném designovém systému, takže upgrade řešíme jako změnu rozsahu formou kreditu — doplatíte rozdíl a případné práce spojené s migrací. Nic z původní práce nepřijde nazmar."
+      },
+      {
+        "q": "Vlastním web i v případě, že přestanu platit měsíční paušál?",
+        "a": "Web vlastníte v každém případě. Doména, grafika, obsah, kód i databáze jsou vaše. Zrušením měsíčního balíčku pouze přestanou běžet doprovodné služby; web poběží dál na hostingu, který si zvolíte."
+      },
+      {
+        "q": "Je zahrnuta shoda s HIPAA / BAA?",
+        "a": "Architektura splňující HIPAA je zahrnuta u balíčku Clinic Pro a vyšších. Podepsaná smlouva BAA je součástí balíčků Authority Brand a Enterprise Multi-Site. U ostatních balíčků, kde formuláře sbírají citlivé údaje, je k dispozici jako doplněk."
+      },
+      {
+        "q": "Co když potřebuji něco, co v ceníku není?",
+        "a": "Individuální požadavky — specifické integrace, vývoj nových funkcí, synchronizace s EHR, importy katalogů — naceňujeme fixní částkou po úvodní analýze. Vždy dostanete písemný rozsah a cenu před zahájením prací."
+      },
+      {
+        "q": "Nabízíte vrácení peněz?",
+        "a": "Práci na tvorbě webu lze vrátit poměrnou částí až do finálního schválení před spuštěním. Měsíční balíčky jsou nevratné pro aktuální cyklus, ale můžete je kdykoli zrušit s 30denní výpovědní lhůtou — nikdy vám nebudeme účtovat měsíc, který jste nevyužili."
+      }
+    ]
+  },
+  "cta": {
+    "badge": "Bez vázanosti · Web je váš",
+    "title": "Chcete znát svou přesnou cenu?",
+    "description": "Získejte písemný rozsah prací, fixní cenovou nabídku a doporučený balíček během 20minutového hovoru. Bez tlaku a závazků.",
+    "button": "Získat mou nabídku",
+    "delivery": "Písemný návrh do 48 hodin"
+  },
+  "related": {
+    "text": "Další zajímavé čtení: ",
+    "process": "jak realizujeme jednotlivé projekty",
+    "portfolio": "jak vypadají naše poslední realizace",
+    "caseStudies": "výsledky reálných klientů"
+  },
+  "stickyCta": {
+    "label": "Získat fixní nabídku",
+    "description": "Písemný návrh · do 48 hod",
+    "button": "Poptat cenu"
+  }
+}

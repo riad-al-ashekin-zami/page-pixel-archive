@@ -1,0 +1,78 @@
+{
+  "slug": "website-redesign-checklist",
+  "title": "Lista de Verificación para el Rediseño de Sitios Web para Consultorios Dermatológicos",
+  "excerpt": "32 preguntas que debe responder antes de tocar un solo píxel, desde formularios HIPAA hasta la conversión de héroes.",
+  "imageAlt": "Maqueta moderna de un sitio web de dermatología en una computadora de escritorio y una tableta en una oficina luminosa",
+  "body": [
+    {
+      "text": "Un rediseño que omite la fase de descubrimiento es solo una actualización costosa. Antes de abrir una herramienta de diseño, revisamos cada práctica a través de esta lista de verificación de 32 preguntas que abarca la marca, la conversión, el cumplimiento y la preparación técnica. El objetivo de la lista de verificación no es ralentizar las cosas, sino asegurarse de que los píxeles que finalmente impulse realmente sirvan a una estrategia en lugar de un mood board."
+    },
+    {
+      "text": "La mayoría de los rediseños fallan por una de tres razones: la práctica nunca definió lo que significa un sitio web 'bueno' para sus objetivos, el flujo de admisión y reserva está diseñado en torno a la conveniencia interna en lugar del comportamiento del paciente, o el equipo lanza un sitio que viola HIPAA porque el seguimiento se configuró en piloto automático. Cada sección a continuación está diseñada para detectar uno de esos modos de falla antes de que le cueste 40k y seis meses."
+    },
+    {
+      "heading": "Marca y posicionamiento"
+    },
+    {
+      "list": [
+        "¿Quién es su paciente ideal en una oración? (edad, género, ingresos, preocupación principal)",
+        "¿Cuáles son los tres competidores con los que sus pacientes lo comparan?",
+        "¿Cuál es el único sentimiento que quiere que los visitantes tengan en 5 segundos?",
+        "Si alguien describiera su práctica a un amigo en una oración, ¿qué le gustaría que dijeran?",
+        "¿Qué pruebas tiene de que este posicionamiento es cierto: reseñas, resultados, credenciales?"
+      ]
+    },
+    {
+      "text": "Si no puede responder a estas cinco preguntas en un documento compartido en el que todo su equipo esté de acuerdo, no está listo para diseñar una página de inicio, está listo para realizar un taller de posicionamiento."
+    },
+    {
+      "heading": "Conversión y flujo de reservas"
+    },
+    {
+      "text": "Cada campo adicional en su formulario de admisión reduce la conversión entre un 4 y un 6%. Cada clic adicional entre el héroe y la acción de reserva reduce la conversión entre un 8 y un 12%. El rediseño es el momento de auditar cada paso del embudo, eliminar implacablemente cualquier cosa no esencial e instrumentar la ruta para que pueda demostrar qué es lo que realmente mueve la aguja después del lanzamiento."
+    },
+    {
+      "list": [
+        "¿Cuántos clics desde la página de inicio hasta la cita reservada hoy?",
+        "¿Cuál es su tasa de conversión de reservas móviles hoy?",
+        "¿Cuántos campos de formulario son obligatorios hoy y cuáles se utilizan realmente?",
+        "¿Cuál es la CTA principal en su página de inicio, y es visible sin desplazarse en el móvil?",
+        "¿Qué sucede después de enviar un formulario? ¿Hay un correo electrónico de confirmación en menos de 30 segundos?"
+      ]
+    },
+    {
+      "heading": "HIPAA y cumplimiento"
+    },
+    {
+      "text": "La aplicación de las normas HIPAA en lo que respecta al seguimiento de sitios web ha aumentado drásticamente desde 2022. Si su rediseño hereda su widget de chat actual, proveedor de formularios o configuración de análisis sin una revisión de cumplimiento, está lanzando un nuevo sitio con una antigua responsabilidad."
+    },
+    {
+      "list": [
+        "¿Están los widgets de chat configurados para eliminar la PHI de los registros?",
+        "¿Sus formularios de admisión envían datos a través de un canal cifrado a un destino compatible con HIPAA?",
+        "¿Ha firmado BAAs con cada servicio de terceros que maneja datos de pacientes?",
+        "¿Su Meta Pixel está configurado con filtrado del lado del servidor en cualquier página que mencione condiciones?",
+        "¿Su herramienta de reproducción de sesiones enmascara los campos del formulario por defecto?"
+      ]
+    },
+    {
+      "heading": "Preparación técnica"
+    },
+    {
+      "text": "La sección técnica es donde la mayoría de los rediseños se rompen silenciosamente. Un sitio hermoso que se carga en seis segundos en 4G perderá frente a un sitio simple que se carga en dos. Un sitio con redirecciones rotas perderá las clasificaciones que tardó dos años en obtener. Ocuparse primero de las cosas aburridas."
+    },
+    {
+      "list": [
+        "¿Tiene un inventario completo de las URL actuales y sus enlaces de retroceso entrantes?",
+        "¿Tiene un mapa de redirección 1 a 1 del sitio antiguo al nuevo?",
+        "¿Cuál es su LCP, CLS e INP objetivo para el lanzamiento, y cómo lo verificará?",
+        "¿Quién posee el acceso a Search Console y está verificada la propiedad?",
+        "¿Ha programado un rastreo del sitio de prueba antes del cambio de DNS?"
+      ]
+    },
+    {
+      "text": "Responda cada pregunta de esta lista de verificación honestamente antes de redactar el primer wireframe. Los equipos que lanzan rediseños sin arrepentimientos son los equipos que tratan el descubrimiento como un entregable, no como una ocurrencia tardía. Dos semanas de respuestas disciplinadas ahora ahorran dos trimestres de reconstrucción posterior."
+    }
+  ],
+  "faqs": null
+}

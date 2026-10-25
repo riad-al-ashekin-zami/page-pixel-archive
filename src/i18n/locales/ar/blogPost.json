@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "notFoundTitle": "المقال غير موجود — مدونة DermGrowth",
+    "titleSuffix": "— مدونة DermGrowth",
+    "keywordsTemplate": "{{category}}، تسويق عيادات الجلدية، {{title}}",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+    "robotsNoindex": "noindex",
+    "ogType": "article",
+    "publisherName": "DermGrowth"
+  },
+  "breadcrumb": {
+    "home": "الرئيسية",
+    "blog": "المدونة"
+  },
+  "notFound": {
+    "code": "404",
+    "title": "عذراً، المقال غير موجود.",
+    "description": "يبدو أن المقال الذي تبحث عنه قد تم نقله أو تغيير عنوانه.",
+    "backButton": "العودة إلى المدونة"
+  },
+  "header": {
+    "nav": {
+      "blog": "المدونة"
+    },
+    "meta": {
+      "readTimeSuffix": "دقائق قراءة"
+    }
+  },
+  "actions": {
+    "allArticles": "كافة المقالات",
+    "share": "مشاركة",
+    "shareOnFacebook": "مشاركة عبر فيسبوك",
+    "shareOnX": "مشاركة عبر X",
+    "shareOnLinkedIn": "مشاركة عبر لينكد إن",
+    "shareOnTumblr": "مشاركة عبر تمبلر",
+    "openInstagram": "تابعنا على إنستغرام"
+  },
+  "faq": {
+    "badge": "الأسئلة الشائعة",
+    "heading": "الأسئلة الأكثر تكراراً"
+  },
+  "related": {
+    "badge": "استمر في القراءة",
+    "heading": "المزيد عن {{category}}",
+    "viewAll": "جميع المقالات",
+    "readLabel": "اقرأ: {{title}}",
+    "readTimeSuffix": "دقائق"
+  },
+  "footerCta": {
+    "prefix": "إذا استفدت من هذا المقال، ننصحك بالاطلاع على:",
+    "moreArticles": "مزيد من المقالات لتطوير عيادتك",
+    "caseStudies": "نتائج حقيقية لعملائنا",
+    "freeAudit": "تدقيق مجاني لموقعك الحالي"
+  }
+}

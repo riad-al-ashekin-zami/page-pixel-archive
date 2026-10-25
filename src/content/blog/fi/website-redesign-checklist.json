@@ -1,0 +1,78 @@
+{
+  "slug": "website-redesign-checklist",
+  "title": "Verkkosivuston uudistamisen tarkistuslista dermatologian vastaanotoille",
+  "excerpt": "32 kysymystä, joihin on vastattava ennen kuin kosketkaan yhteenkään pikseliin – HIPAA-lomakkeista sankarikonversioon.",
+  "imageAlt": "Modernin dermatologian verkkosivuston sommittelu työpöydällä ja tabletilla valoisassa toimistossa",
+  "body": [
+    {
+      "text": "Uudistus, joka jättää löytövaiheen väliin, on vain kallis päivitys. Ennen kuin avaamme suunnittelutyökalun, käymme läpi jokaisen vastaanoton tällä 32 kysymyksen tarkistuslistalla, joka kattaa brändin, konversion, vaatimustenmukaisuuden ja teknisen valmiuden. Tarkistuslistan tarkoitus ei ole hidastaa asioita – vaan varmistaa, että myöhemmin siirtämäsi pikselit todella palvelevat strategiaa moodboardin sijaan."
+    },
+    {
+      "text": "Useimmat uudistukset epäonnistuvat jostain kolmesta syystä: vastaanotto ei koskaan määritellyt, mitä 'hyvä' verkkosivusto tarkoittaa heidän tavoitteilleen, ajanvarausta ja sisäänkirjautumista ei ole suunniteltu potilaan käyttäytymisen vaan sisäisen mukavuuden pohjalta, tai tiimi julkaisee sivuston, joka rikkoo HIPAA-säädöksiä, koska seuranta oli asetettu automaattisesti. Jokainen alla oleva osio on suunniteltu havaitsemaan yksi näistä epäonnistumistavoista ennen kuin se maksaa sinulle 40 000 euroa ja kuusi kuukautta."
+    },
+    {
+      "heading": "Brändi ja positiointi"
+    },
+    {
+      "list": [
+        "Kuka on ihanteellinen potilaasi yhdessä virkkeessä? (ikä, sukupuoli, tulot, ensisijainen huolenaihe)",
+        "Mitkä ovat ne kolme kilpailijaa, joihin potilaasi vertaavat sinua?",
+        "Minkä tunteen haluat kävijöiden kokevan viidessä sekunnissa?",
+        "Jos joku kuvailisi vastaanottoasi ystävälle yhdessä virkkeessä, mitä haluaisit heidän sanovan?",
+        "Mitä näyttöä sinulla on siitä, että tämä positiointi pitää paikkansa – arvosteluja, tuloksia, pätevyyksiä?"
+      ]
+    },
+    {
+      "text": "Jos et pysty vastaamaan näihin viiteen kysymykseen jaettuun dokumenttiin, josta koko tiimisi on samaa mieltä, et ole valmis suunnittelemaan etusivua – olet valmis järjestämään positiointityöpajan."
+    },
+    {
+      "heading": "Konversio ja ajanvaraamispolku"
+    },
+    {
+      "text": "Jokainen ylimääräinen kenttä sisäänottolomakkeellasi laskee konversiota 4–6 %. Jokainen ylimääräinen klikkaus sankarin ja varauskutsun välillä laskee konversiota 8–12 %. Uudelleensuunnittelu on hetki tarkistaa jokainen suppilon vaihe, leikata armotta kaikki tarpeeton ja instrumentoida polku, jotta voit todistaa, mikä todella liikuttaa neulaa käynnistyksen jälkeen."
+    },
+    {
+      "list": [
+        "Kuinka monta klikkausta etusivulta varattuun tapaamiseen tänään?",
+        "Mikä on mobiilivarauksen konversiolukusi tänään?",
+        "Kuinka monta lomakekenttää vaaditaan tänään, ja mitkä niistä todella käytetään?",
+        "Mikä on etusivusi ensisijainen CTA – ja onko se näkyvissä ilman mobiilirullausta?",
+        "Mitä tapahtuu lomakkeen lähettämisen jälkeen – tuleeko vahvistussähköposti alle 30 sekunnissa?"
+      ]
+    },
+    {
+      "heading": "HIPAA ja vaatimustenmukaisuus"
+    },
+    {
+      "text": "HIPAA-valvonta verkkosivustojen seurannan osalta on kiihtynyt dramaattisesti vuodesta 2022. Jos uudellesuunnittelusi perii nykyisen chat-widgetin, lomakepalveluntarjoajan tai analytiikka-asetukset ilman vaatimustenmukaisuustarkastusta, lanseeraat uuden sivuston vanhalla vastuulla."
+    },
+    {
+      "list": [
+        "Onko chat-widgetit määritetty poistamaan PHI lokista?",
+        "Lähettävätkö sisäänottolomakkeesi tietoja salatun kanavan kautta HIPAA-yhteensopivaan kohteeseen?",
+        "Oletko allekirjoittanut BAA:t jokaisen potilastietoihin koskevan kolmannen osapuolen palvelun kanssa?",
+        "Onko Meta Pixelisi määritetty palvelinpuolen suodatuksella millä tahansa sairauksia mainitsevalla sivulla?",
+        "Peittääkö istunnon uudelleentoistotyökalusi lomakekentät oletuksena?"
+      ]
+    },
+    {
+      "heading": "Tekninen valmius"
+    },
+    {
+      "text": "Tekninen osio on se, missä useimmat uudistukset hiljaa hajoavat. Kaunis sivusto, joka latautuu kuudessa sekunnissa 4G:llä, häviää tavalliselle sivustolle, joka latautuu kahdessa. Sivusto, jolla on rikkinäisiä uudelleenohjauksia, menettää ne sijoitukset, joiden eteen olet tehnyt työtä kaksi vuotta. Hoida tylsät asiat ensin."
+    },
+    {
+      "list": [
+        "Onko sinulla täydellinen luettelo nykyisistä URL-osoitteista ja niiden saapuvista takalinkkeistä?",
+        "Onko sinulla 1:1 uudelleenohjauskartta vanhalta sivustolta uudelle?",
+        "Mikä on tavoite LCP, CLS ja INP käynnistystä varten – ja miten varmistat sen?",
+        "Kuka omistaa Search Consolen pääsyn, ja onko omaisuus vahvistettu?",
+        "Oletko ajoittanut staging-sivuston indeksoinnin ennen DNS-vaihtoa?"
+      ]
+    },
+    {
+      "text": "Vastaa jokaiseen tämän tarkistuslistan kysymykseen rehellisesti ennen ensimmäisen wireframen luonnostelua. Tiimit, jotka julkaisevat uudistuksia ilman katumusta, ovat niitä tiimejä, jotka käsittelevät löytövaihetta tuloksena, ei jälkikäteen mietittynä. Kaksi viikkoa kurinalaisia vastauksia nyt säästää kaksi neljännestä uudelleenrakennusta myöhemmin."
+    }
+  ],
+  "faqs": null
+}

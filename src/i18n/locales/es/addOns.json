@@ -1,0 +1,377 @@
+{
+  "meta": {
+    "title": "Servicios Adicionales para Sitios Web de Dermatología — Mantenimiento, SEO y Crecimiento",
+    "description": "Servicios premium para clínicas dermatológicas: mantenimiento 24/7, hosting preparado para HIPAA, contenido, SEO local, integraciones con EHR y marketing de crecimiento. Sin contratos a largo plazo.",
+    "og": {
+      "title": "Complementos y Servicios para Sitios Web de Dermatología",
+      "description": "Potencie su presencia digital con hosting, SEO e integraciones diseñadas específicamente para el crecimiento constante de su cartera de pacientes."
+    },
+    "jsonLd": {
+      "serviceType": "Servicios Adicionales para Sitios Web de Dermatología",
+      "provider": "DermatologyWebsiteDesign.com",
+      "catalogName": "Complementos para Sitios Web de Dermatología",
+      "breadcrumbs": {
+        "home": "Inicio",
+        "services": "Servicios",
+        "current": "Servicios Adicionales"
+      }
+    }
+  },
+  "hero": {
+    "badge": "Servicios de Dermatología",
+    "heading": "Todo lo que su clínica dermatológica necesita —",
+    "headingAccent": "en una sola factura, con un solo equipo y un solo panel.",
+    "description": "Complementos preparados para HIPAA: mantenimiento, hosting, contenido, SEO y marketing de resultados, diseñados para multiplicar sus pacientes mes tras mes.",
+    "cta": {
+      "bundle": "Crear mi paquete personalizado",
+      "browse": "Ver catálogo completo"
+    },
+    "stats": [
+      {
+        "label": "Servicios adicionales"
+      },
+      {
+        "label": "SLA de tiempo de actividad"
+      },
+      {
+        "label": "Respuesta ante emergencias"
+      },
+      {
+        "label": "Sin permanencia",
+        "value": "Mes a mes"
+      }
+    ]
+  },
+  "trust": {
+    "audiences": {
+      "label": "Diseñado para",
+      "items": [
+        "Dermatólogos Independientes",
+        "Clínicas Dermatológicas Multisede",
+        "Dermatología Pediátrica",
+        "Cirugía de Mohs y Dermatología Quirúrgica"
+      ]
+    },
+    "medicalServices": {
+      "label": "Soporte para todas las especialidades",
+      "items": [
+        "Tratamiento de Acné",
+        "Tratamiento de Eccema",
+        "Tratamiento de Psoriasis",
+        "Infecciones de la Piel",
+        "Alergias Cutáneas",
+        "Detección y Tratamiento de Cáncer de Piel",
+        "Evaluación y Extracción de Lunares",
+        "Eliminación de Quistes y Lipomas",
+        "Eliminación de Verrugas",
+        "Tratamiento de Trastornos de las Uñas",
+        "Diagnóstico y Tratamiento de Alopecia",
+        "Trastornos del Cuero Cabelludo",
+        "Tratamiento de Rosácea",
+        "Hiperpigmentación y Melasma",
+        "Tratamiento de Cicatrices",
+        "Cicatrices por Quemaduras",
+        "Tratamiento de Vitíligo",
+        "Biopsias y Diagnósticos"
+      ]
+    }
+  },
+  "sections": {
+    "catalog": {
+      "badge": "El Catálogo",
+      "heading": "Seis categorías.",
+      "headingItalic": "Un solo equipo detrás de todo.",
+      "searchPlaceholder": "Buscar entre {{count}}+ servicios…",
+      "searchAria": "Buscar servicios adicionales",
+      "noResults": "No hay resultados para \"{{query}}\". Intente con otra búsqueda.",
+      "serviceCount": "servicios",
+      "ctaAdd": "Añadir {{title}} al paquete",
+      "categories": {
+        "care": {
+          "title": "Cuidado y Mantenimiento Web",
+          "tagline": "Siempre activo. Siempre al día. Siempre bajo control.",
+          "items": [
+            {
+              "name": "Soporte y Mantenimiento Web",
+              "blurb": "Actualizaciones semanales de CMS, plugins y seguridad con soporte humano directo."
+            },
+            {
+              "name": "Soporte de Emergencia",
+              "blurb": "¿Sitio caído? Un ingeniero asignado responderá en menos de 15 minutos."
+            },
+            {
+              "name": "Migración de Sitio Web",
+              "blurb": "Traslados sin tiempo de inactividad, con mapeo 301 completo y SEO preservado."
+            },
+            {
+              "name": "Actualizaciones Web",
+              "blurb": "Cambios de contenido, biografías y promociones en horas, no en semanas."
+            },
+            {
+              "name": "Planes Mensuales de Cuidado",
+              "blurb": "Tarifa plana sin sorpresas. Todo incluido. Mes a mes."
+            },
+            {
+              "name": "Backups Diarios y Recuperación",
+              "blurb": "Copias de seguridad externas cifradas. Restauración en un clic y retención de 30 días."
+            },
+            {
+              "name": "Monitoreo de Uptime",
+              "blurb": "Revisiones cada 60 segundos desde 6 regiones. Alertas antes de que el paciente lo note."
+            },
+            {
+              "name": "Monitoreo de Rendimiento",
+              "blurb": "Seguimiento diario de Core Web Vitals para evitar caídas en Lighthouse."
+            }
+          ]
+        },
+        "hosting": {
+          "title": "Hosting, Seguridad y Cumplimiento",
+          "tagline": "Infraestructura preparada para HIPAA diseñada para dermatología.",
+          "items": [
+            {
+              "name": "Hosting Gestionado",
+              "blurb": "Caché en el borde (edge), escalado automático y SLA de disponibilidad del 99.99%."
+            },
+            {
+              "name": "Gestión de Dominios y DNS",
+              "blurb": "Nos encargamos de la parte técnica para que sus renovaciones nunca caduquen."
+            },
+            {
+              "name": "Configuración y Monitoreo SSL",
+              "blurb": "Certificados con renovación automática y alertas de expiración anticipadas."
+            },
+            {
+              "name": "Vigilancia de Seguridad",
+              "blurb": "WAF 24/7, detección de intrusos y parcheo de vulnerabilidades en tiempo real."
+            },
+            {
+              "name": "Protección contra Malware",
+              "blurb": "Escaneos diarios, cuarentena instantánea y garantía de limpieza de sitio."
+            },
+            {
+              "name": "Revisión de Cumplimiento HIPAA",
+              "blurb": "Auditoría anual de formularios, hosting, analíticas y acuerdos BAA."
+            },
+            {
+              "name": "Formularios Preparados para HIPAA",
+              "blurb": "Captura de datos, consentimientos y contacto cifrados — PHI 100% seguro."
+            },
+            {
+              "name": "Optimización de Accesibilidad ADA",
+              "blurb": "Remediación WCAG 2.2 AA y monitoreo continuo de cumplimiento legal."
+            },
+            {
+              "name": "Privacidad y Cookies",
+              "blurb": "Banners de GDPR / CCPA, registros de consentimiento y actualización de políticas."
+            }
+          ]
+        },
+        "content": {
+          "title": "Contenido y Conversión",
+          "tagline": "Textos y estructuras que convierten visitantes en pacientes citados.",
+          "items": [
+            {
+              "name": "Redacción de Contenido",
+              "blurb": "Páginas optimizadas para SEO escritas específicamente para clínicas dermatológicas."
+            },
+            {
+              "name": "Copywriting Médico",
+              "blurb": "Clínicamente preciso, amigable para el paciente y aprobado por médicos."
+            },
+            {
+              "name": "Gestión de Blog",
+              "blurb": "Calendario editorial, redacción, publicación y estrategia de enlaces internos."
+            },
+            {
+              "name": "Diseño de Landing Pages",
+              "blurb": "Páginas creadas para servicios específicos, promociones y tráfico publicitario."
+            },
+            {
+              "name": "Creación de Páginas de Servicio",
+              "blurb": "Una página optimizada para conversión por cada patología o tratamiento."
+            },
+            {
+              "name": "Optimización de Tasa de Conversión (CRO)",
+              "blurb": "Pruebas A/B basadas en hipótesis con tráfico real de pacientes."
+            },
+            {
+              "name": "Imanes de Prospectos (Lead Magnets)",
+              "blurb": "Guías de cuidado de la piel, listas de verificación y tests interactivos."
+            },
+            {
+              "name": "Configuración de Newsletters",
+              "blurb": "Plantillas corporativas, automatizaciones y segmentación de bases de datos."
+            },
+            {
+              "name": "Optimización de CTA",
+              "blurb": "Botones, formularios y rutas de navegación probados para aumentar reservas."
+            }
+          ]
+        },
+        "seo": {
+          "title": "SEO y Analítica",
+          "tagline": "Posicione mejor. Mida lo importante. Demuestre el ROI.",
+          "items": [
+            {
+              "name": "SEO Local",
+              "blurb": "Domine el mapa en cada localidad donde preste servicio."
+            },
+            {
+              "name": "Auditoría SEO Técnica",
+              "blurb": "Rastreo, indexación, schema y Core Web Vitals — auditados a fondo."
+            },
+            {
+              "name": "Implementación de Marcado Schema",
+              "blurb": "Datos estructurados para MedicalBusiness, FAQ, reseñas y servicios."
+            },
+            {
+              "name": "Optimización de Perfil de Empresa en Google",
+              "blurb": "Fotos, posts y Q&A optimizados para captar intención de búsqueda local."
+            },
+            {
+              "name": "Analítica e Informes",
+              "blurb": "Reportes mensuales en lenguaje claro vinculados a citas agendadas."
+            },
+            {
+              "name": "Configuración de Seguimiento de Conversiones",
+              "blurb": "GA4, GTM y eventos de CRM conectados de principio a fin."
+            },
+            {
+              "name": "Seguimiento de Llamadas",
+              "blurb": "Números dinámicos por fuente para atribuir cada llamada correctamente."
+            },
+            {
+              "name": "Mapas de Calor y Comportamiento",
+              "blurb": "Identifique dónde dudan los pacientes para optimizar la experiencia."
+            },
+            {
+              "name": "Análisis SEO de la Competencia",
+              "blurb": "Estudio de brechas frente a las clínicas mejor posicionadas en su zona."
+            }
+          ]
+        },
+        "integrations": {
+          "title": "Integraciones y Automatización",
+          "tagline": "Un ecosistema conectado. Sin copiar y pegar. Sin perder leads.",
+          "items": [
+            {
+              "name": "Pasarela de Citas Online",
+              "blurb": "Zocdoc, NexHealth, Modernizing Medicine — conectados de forma nativa."
+            },
+            {
+              "name": "Integración del Portal del Paciente",
+              "blurb": "Acceso seguro mediante SSO a su portal de EHR, optimizado para móviles."
+            },
+            {
+              "name": "Integración con CRM",
+              "blurb": "HubSpot, Salesforce, Keap — los leads fluyen en tiempo real."
+            },
+            {
+              "name": "Configuración de Chat en Vivo",
+              "blurb": "Chat híbrido (IA + humano) entrenado con sus servicios y preguntas frecuentes."
+            },
+            {
+              "name": "Marketing por Email",
+              "blurb": "Conexión con Mailchimp, Klaviyo, ActiveCampaign o ConvertKit."
+            },
+            {
+              "name": "Automatización de Marketing",
+              "blurb": "Flujos de nutrición, recordatorios de revisión y ofertas de cumpleaños."
+            },
+            {
+              "name": "Pasarelas de Pago",
+              "blurb": "Stripe, Square, CareCredit — pago seguro y preparado para HIPAA."
+            },
+            {
+              "name": "Telemedicina",
+              "blurb": "Doxy.me, Zoom for Healthcare o su plataforma actual integrada en su web."
+            },
+            {
+              "name": "Integraciones a Medida",
+              "blurb": "Cualquier API o herramienta — construimos el puente tecnológico."
+            }
+          ]
+        },
+        "growth": {
+          "title": "Marketing de Crecimiento",
+          "tagline": "Crecimiento de pacientes exponencial, mes tras mes.",
+          "items": [
+            {
+              "name": "Gestión de Reputación",
+              "blurb": "Monitoreo, respuesta y protección del nombre de su clínica online."
+            },
+            {
+              "name": "Sistema de Generación de Reseñas",
+              "blurb": "Solicitudes automáticas de opinión post-visita de forma ética y a escala."
+            },
+            {
+              "name": "Gestión de Redes Sociales",
+              "blurb": "Contenido, interacción y estrategia para Instagram y TikTok."
+            },
+            {
+              "name": "Gestión de Google Ads",
+              "blurb": "Campañas de Búsqueda y Performance Max ajustadas por coste por cita."
+            },
+            {
+              "name": "Publicidad en Facebook e Instagram",
+              "blurb": "Embudos para servicios estéticos y médicos con renovación de creatividades."
+            },
+            {
+              "name": "Campañas de Retargeting",
+              "blurb": "Recupere al 96% de los usuarios que abandonan su web sin reservar."
+            },
+            {
+              "name": "Marketing para E-Commerce",
+              "blurb": "Venda productos dermatológicos online — Shopify, ads y SEO."
+            },
+            {
+              "name": "Informes de Crecimiento Mensuales",
+              "blurb": "Un solo panel con números reales vinculados a sus ingresos."
+            }
+          ]
+        }
+      }
+    }
+  },
+  "cta": {
+    "heading": "¿No sabe qué servicios elegir?",
+    "headingItalic": "Reciba un plan a medida en 24 horas.",
+    "description": "Cuéntenos sus objetivos, sistema actual y sedes. Le enviaremos un plan detallado con precios, plazos e impacto esperado en su flujo de pacientes, sin compromiso.",
+    "primary": "Solicitar mi plan personalizado",
+    "secondary": "Primero una auditoría web gratuita"
+  },
+  "faq": {
+    "badge": "Preguntas Frecuentes",
+    "heading": "Respuestas antes de empezar.",
+    "description": "Lo que las clínicas dermatológicas preguntan antes de añadir servicios. ¿Necesita más detalle? Consulte el FAQ completo.",
+    "items": [
+      {
+        "q": "¿Puedo añadir estos servicios a mi plan web actual?",
+        "a": "Sí. Cada servicio está diseñado para integrarse en su plan actual de DermatologyWebsiteDesign.com o en un sitio web externo que gestionemos. Combinar varios servicios desbloquea descuentos por volumen."
+      },
+      {
+        "q": "¿Estos servicios cumplen con HIPAA?",
+        "a": "Toda integración, formulario, hosting y configuración analítica está preparada para HIPAA por defecto. Proporcionamos acuerdos BAA cuando corresponde y auditamos la exposición de PHI."
+      },
+      {
+        "q": "¿Debo comprometerme a un contrato largo?",
+        "a": "No. Los servicios adicionales son mes a mes, a menos que elija un plan anual con descuento. Si decide irse, todo el código, contenido y copias de seguridad le pertenecen."
+      },
+      {
+        "q": "¿Qué tan pronto pueden activar un servicio?",
+        "a": "La mayoría de integraciones, seguimiento de datos y servicios de contenido se activan en 3 a 10 días hábiles. Proyectos mayores como migraciones siguen un cronograma detallado."
+      },
+      {
+        "q": "¿Dan soporte a sitios que no fueron creados por ustedes?",
+        "a": "Sí. Tras una auditoría técnica pagada, gestionamos sitios de dermatología existentes (WordPress, Webflow, personalizados o headless) para aplicar nuestras mejoras."
+      }
+    ]
+  },
+  "footerLinks": {
+    "prefix": "Páginas relacionadas de interés:",
+    "management": "gestión web completa",
+    "maintenance": "planes de mantenimiento continuo",
+    "pricing": "qué incluye cada paquete"
+  }
+}

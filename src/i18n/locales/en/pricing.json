@@ -1,0 +1,345 @@
+{
+  "meta": {
+    "title": "Dermatology Website Pricing — Plans, Packages & Transparent Costs",
+    "description": "Transparent dermatology website pricing. One-time builds from $797 to $18,999+, monthly bundles from $399, and à la carte add-ons. See exactly what you'll pay before we talk.",
+    "og": {
+      "title": "Dermatology Website Pricing — Plans, Packages & Costs",
+      "description": "Six website packages, three specialty builds, four monthly bundles, and 20+ à la carte add-ons — with a live cost estimator. Fully transparent pricing."
+    },
+    "jsonLd": {
+      "breadcrumb": {
+        "home": "Home",
+        "plans": "Plans & Pricing"
+      },
+      "priceSpec": {
+        "name": "Dermatology Website Packages"
+      }
+    }
+  },
+  "hero": {
+    "badge": "Transparent Pricing",
+    "heading": "Every price, in the open. No surprise invoices.",
+    "description": "Six one-time website packages, three specialty builds, four monthly bundles, and 20+ à la carte add-ons — with a live cost estimator so you know the number before you talk to us.",
+    "cta": "See website packages",
+    "estimatorCta": "Live cost estimator"
+  },
+  "stats": {
+    "launched": "Dermatology practices launched",
+    "satisfaction": "Average client satisfaction",
+    "startingPrice": "Starting one-time price",
+    "turnaround": "Avg. edit turnaround"
+  },
+  "trust": {
+    "ariaLabel": "Trust and guarantees",
+    "guarantee": "30-day money-back on build fees",
+    "guaranteeSub": "Not happy pre-launch? Pro-rata refund, no questions.",
+    "features": [
+      "HIPAA-aware",
+      "SSL + Backups",
+      "No lock-in",
+      "Own your site"
+    ]
+  },
+  "sections": {
+    "websitePackages": {
+      "label": "01 — Website build packages",
+      "title": "One-time build. Six clear tiers.",
+      "description": "Pick the size that fits today — upgrade later as your practice grows. Every price includes design, development, launch, and revisions.",
+      "popular": "Most Popular",
+      "flagship": "Flagship",
+      "otherAgencies": "Other agencies:",
+      "bestFor": "Best for:",
+      "startWith": "Start with {{name}}",
+      "footer": "All prices in USD. One-time build fees. No monthly lock-in required.",
+      "items": [
+        {
+          "name": "Starter",
+          "subtitle": "One Page",
+          "bestFor": "New clinic, solo dermatologist, landing page",
+          "price": "$797",
+          "priceNote": "one-time",
+          "savings": "20–68% cheaper",
+          "features": [
+            "Single-page scrolling website",
+            "Mobile responsive design",
+            "Contact form + Click-to-call",
+            "Google Map embed",
+            "Basic on-page SEO",
+            "SSL + Hosting setup guide",
+            "Delivery: 1 week",
+            "1 revision round"
+          ],
+          "cons": [
+            "No blog or patient portal"
+          ]
+        },
+        {
+          "name": "Clinic Pro",
+          "subtitle": "5–8 Pages",
+          "bestFor": "Established solo / small practice",
+          "price": "$1,997",
+          "priceNote": "one-time",
+          "savings": "33–60% cheaper",
+          "features": [
+            "Home, About, Services (3–5), Contact",
+            "Online appointment booking",
+            "Before/After photo gallery",
+            "Doctor bio + credential page",
+            "Local SEO setup + GBP optimization",
+            "HIPAA-compliant contact form",
+            "Speed optimization",
+            "Delivery: 2–3 weeks",
+            "2 revision rounds"
+          ]
+        },
+        {
+          "name": "Practice Growth",
+          "subtitle": "10–15 Pages",
+          "bestFor": "Growing practice, cosmetic derm",
+          "price": "$4,499",
+          "priceNote": "one-time",
+          "savings": "10–55% cheaper",
+          "features": [
+            "Full multi-page website",
+            "Individual treatment landing pages",
+            "Patient portal integration",
+            "Blog setup (5 starter posts)",
+            "Advanced local SEO",
+            "Core Web Vitals optimization",
+            "Logo + basic branding",
+            "Social OG tags + Schema",
+            "Delivery: 3–4 weeks",
+            "3 revision rounds"
+          ]
+        },
+        {
+          "name": "E-Commerce",
+          "subtitle": "Product Store",
+          "bestFor": "Derm selling skincare products",
+          "price": "$6,999",
+          "priceNote": "one-time",
+          "savings": "12–53% cheaper",
+          "features": [
+            "Practice website (10+ pages)",
+            "WooCommerce OR Shopify store",
+            "Product catalog setup (30 SKUs)",
+            "Payment gateway (Stripe / PayPal)",
+            "Order management system",
+            "Full SEO suite",
+            "Appointment + store combined",
+            "Delivery: 4–6 weeks"
+          ]
+        },
+        {
+          "name": "Authority Brand",
+          "subtitle": "Custom Enterprise",
+          "bestFor": "Multi-location, high-revenue practice",
+          "price": "$12,999",
+          "priceNote": "one-time",
+          "savings": "13–56% cheaper",
+          "features": [
+            "Full custom design (no templates)",
+            "20+ pages + multi-location pages",
+            "Custom branding + logo suite",
+            "E-commerce store included",
+            "Patient portal + doctor portal",
+            "HIPAA compliance full setup",
+            "30 blog posts / treatment pages",
+            "Video integration",
+            "6 months SEO retainer included",
+            "Dedicated account manager",
+            "Delivery: 6–10 weeks"
+          ]
+        },
+        {
+          "name": "Enterprise Multi-Site",
+          "subtitle": "DSO / Multi-Location",
+          "bestFor": "DSO groups, 3+ locations, national practices",
+          "price": "$18,999+",
+          "priceNote": "custom",
+          "savings": "24%+ cheaper",
+          "features": [
+            "Multi-location architecture",
+            "Each location = separate landing page",
+            "Central CMS control",
+            "Unified branding across sites",
+            "Multi-location local SEO",
+            "Staff portal for each location",
+            "Custom quote based on scope",
+            "Priority support"
+          ]
+        }
+      ]
+    },
+    "specialty": {
+      "label": "02 — Specialty packages",
+      "title": "Purpose-built alternatives.",
+      "description": "Off-tier options for a specific need — fast template launches, telehealth-first practices, or a premium mid-range custom build.",
+      "market": "Market:",
+      "cta": "Get this package",
+      "items": [
+        {
+          "name": "Template Site",
+          "desc": "Pre-built dermatology template, customized with your branding and content. Delivery: 5 days. Limited customization but fast and affordable."
+        },
+        {
+          "name": "Telehealth / Portal Setup",
+          "desc": "Telemedicine integration (Doxy.me, Zoom Health, or similar), patient portal setup, secure messaging, appointment scheduling. Add to any package."
+        },
+        {
+          "name": "Premium Custom Site",
+          "desc": "Mid-tier between Practice Growth and Authority Brand. 15–20 pages, full custom design, no template, advanced SEO, 3 months post-launch support."
+        }
+      ]
+    },
+    "bundles": {
+      "label": "03 — Monthly bundle packages",
+      "title": "Ongoing services, bundled to save.",
+      "description": "Add a monthly bundle to any website package. Bundles save 15–25% vs. buying each service individually — cancel with 30 days' notice, any time.",
+      "recommended": "Most recommended",
+      "bestLtv": "Best LTV",
+      "add": "Add {{name}}",
+      "items": [
+        {
+          "name": "Essential Bundle",
+          "tag": "Hosting + Maintenance + Local SEO",
+          "desc": "Hosting + security + monthly maintenance updates + local SEO monitoring + GBP management. Save $99/mo vs individual."
+        },
+        {
+          "name": "Growth Bundle",
+          "tag": "Essential + Full SEO Campaign",
+          "desc": "Everything in Essential + full SEO campaign (content, backlinks, technical SEO, keyword ranking reports). Most recommended retainer."
+        },
+        {
+          "name": "Marketing Bundle",
+          "tag": "SEO + Google Ads + Social + Reviews",
+          "desc": "Full SEO + Google Ads management + Social media (8 posts/mo) + Review generation system. Full digital marketing coverage."
+        },
+        {
+          "name": "Full-Stack Bundle",
+          "tag": "Everything — Max Growth Mode",
+          "desc": "Marketing Bundle + Email CRM campaigns + 2 blog posts/mo + reputation monitoring + quarterly strategy session + priority support. Best LTV."
+        }
+      ]
+    },
+    "addOns": {
+      "label": "04 — Add-on services & à la carte pricing",
+      "title": "Every add-on, every price.",
+      "description": "Thirty-seven individually-priced services — including SMTP / transactional email setup. Add any to a package or bundle, with a side-by-side market range so you see exactly how much you're saving.",
+      "table": {
+        "service": "Add-on service",
+        "ourPrice": "Our price",
+        "market": "Market range",
+        "type": "Type",
+        "bestFor": "Best for"
+      }
+    },
+    "custom": {
+      "badge": "Need something custom?",
+      "title": "DSO, hospital-affiliated, or bespoke build?",
+      "description": "For DSO groups, hospital-affiliated practices, and 3+ location systems, we scope a flat-fee custom program with dedicated engineering, quarterly business reviews, and a named account team.",
+      "quoteCta": "Request a custom quote",
+      "pricingCta": "View Pricing & Packages"
+    }
+  },
+  "estimator": {
+    "label": "05 — Live cost estimator",
+    "title": "See your total before you talk to us.",
+    "description": "Pick a website package, add a monthly bundle, and stack any add-ons — the total updates live.",
+    "form": {
+      "websitePackage": "Website package",
+      "monthlyBundle": "Monthly bundle",
+      "logo": "Logo design · $450 each",
+      "extraPages": "Extra treatment pages · $200 each",
+      "blogPosts": "Blog posts · $120 each",
+      "portal": "Patient portal integration",
+      "portalAdd": "+$999 one-time"
+    },
+    "aria": {
+      "decrease": "Decrease",
+      "increase": "Increase"
+    },
+    "summary": {
+      "title": "Your estimate",
+      "build": "Website build",
+      "bundle": "Monthly bundle",
+      "oneTime": "One-time total",
+      "monthly": "Monthly ongoing",
+      "yearOne": "Year one total",
+      "ongoing": "Then {{amount}} / year ongoing",
+      "lockIn": "Lock in this quote"
+    }
+  },
+  "testimonials": {
+    "label": "What clients say",
+    "title": "Predictable pricing, predictable results.",
+    "items": [
+      {
+        "name": "Dr. Meera Balakrishnan, MD",
+        "role": "NBS Laser",
+        "quote": "Transparent pricing. No surprise invoices. We knew exactly what we'd pay before signing — and the invoice matched every month."
+      },
+      {
+        "name": "Dr. Julian Reyes, MD",
+        "role": "CP Dermatology",
+        "quote": "The Clinic Pro package paid for itself in month two. The booking flow rebuild alone doubled our appointment requests."
+      }
+    ]
+  },
+  "faq": {
+    "label": "06 — Frequently asked",
+    "title": "Pricing questions, answered.",
+    "items": [
+      {
+        "q": "Do I pay one-time, monthly, or both?",
+        "a": "Website packages are one-time build fees (Starter through Enterprise Multi-Site). Ongoing services — hosting, SEO, ads, content, maintenance — are monthly bundles or à la carte. Most clinics pair one build package with one monthly bundle. You'll always see the exact combined number in your written proposal."
+      },
+      {
+        "q": "What's included in the one-time build price?",
+        "a": "Design, development, content structure, on-page SEO, integrations listed for that package, HIPAA-aware forms where applicable, launch, and the revision rounds specified. Nothing is billed hourly during the build — the quoted price is what you pay."
+      },
+      {
+        "q": "Do I have to buy a monthly bundle?",
+        "a": "No. Monthly bundles are optional. You can stay on your own hosting and manage the site yourself, or pick individual add-ons à la carte. The bundles simply save money vs. buying each service individually."
+      },
+      {
+        "q": "Can I upgrade from Starter to Clinic Pro later?",
+        "a": "Yes. Every package builds on the same design system, so upgrading is a credit-based scope change — you pay the difference plus any migration work. Nothing gets thrown away."
+      },
+      {
+        "q": "Do you own my site if I stop paying monthly?",
+        "a": "You own your site regardless. Domain, brand assets, content, code, and database are yours. Stopping a monthly bundle stops the ongoing service; the site keeps running on whatever hosting you choose."
+      },
+      {
+        "q": "Is HIPAA / BAA included?",
+        "a": "HIPAA-aware architecture is included on Clinic Pro and above. A signed Business Associate Agreement is included on Authority Brand and Enterprise Multi-Site, and available as an add-on for other packages where a form collects PHI."
+      },
+      {
+        "q": "What if I need something not listed?",
+        "a": "Custom scopes — bespoke integrations, new feature builds, EHR sync, catalog imports — are quoted flat-fee after a scoping session. You'll always see a written scope and price before any work begins."
+      },
+      {
+        "q": "Do you offer refunds?",
+        "a": "Website build work is refundable pro-rata until final launch approval. Monthly bundles are non-refundable for the current cycle but you can cancel any time with 30 days' notice — you'll never be billed for a month you didn't use."
+      }
+    ]
+  },
+  "cta": {
+    "badge": "No lock-in · Own your site",
+    "title": "Ready to see your exact number?",
+    "description": "Get a written scope, a fixed build quote, and a bundle recommendation on a 20-minute call. No pressure, no obligation.",
+    "button": "Get my quote",
+    "delivery": "Written proposal within 48 hours"
+  },
+  "related": {
+    "text": "Related reading you may like: ",
+    "process": "how we deliver each project",
+    "portfolio": "what our recent launches look like",
+    "caseStudies": "real client outcomes"
+  },
+  "stickyCta": {
+    "label": "Get a fixed quote",
+    "description": "Written proposal · 48 hours",
+    "button": "Get quote"
+  }
+}

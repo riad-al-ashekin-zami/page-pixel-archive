@@ -1,0 +1,301 @@
+{
+  "meta": {
+    "title": "Ihotautiklinikan verkkosivuston migraatio — Ilman käyttökatkoja tai SEO-hävikkiä",
+    "description": "Ensiluokkaiset verkkosivustojen migraatiot itsenäisille ihotautilääkäreille, monitoimipisteklinikoille ja Mohs-kirurgian asiantuntijoille. Vaihda alustaa, ylläpitoa tai julkaisujärjestelmää ilman katkoksia, 1:1 301-uudelleenohjauksilla ja HIPAA-huomioidulla siirrolla säilyttäen Google-sijoitukset.",
+    "ogTitle": "Ihotautiklinikan verkkosivuston migraatio — Ilman käyttökatkoja tai SEO-hävikkiä",
+    "ogDescription": "Migroi ihotautisivustosi ilman käyttökatkoja tai sijoitusten menetystä. WordPress, Wix, Squarespace, Webflow, HubSpot — HIPAA-valmis siirto, täydet uudelleenohjaukset ja 90 päivän seuranta."
+  },
+  "jsonLd": {
+    "serviceType": "Ihotautiklinikan verkkosivuston migraatio",
+    "provider": "DW Design",
+    "areaServed": "Yhdysvallat",
+    "audienceType": "Ihotautilääkärit ja klinikat",
+    "offerDescription": "Ihotautiklinikan verkkosivuston migraatio — alkaen-hinta"
+  },
+  "hero": {
+    "badge": "0 käyttökatkoa · 0 SEO-hävikkiä",
+    "heading": "Ihotautisivuston migraatio — menettämättä yhtäkään hakusijoitusta.",
+    "subheading": "Siirrä ihotautiklinikkasi sivusto pois WordPressistä, Wixistä, Squarespacesta, Webflowsta, GoDaddysta, HubSpotista tai vanhentuneesta järjestelmästä. Uusi alusta on nopeampi, HIPAA-valmis ja konversio-optimoitu. Kaikki URL-osoitteet ohjataan 1:1, potilaskokemus ei keskeydy ja Google-sijoitukset säilyvät.",
+    "primaryCta": "Suunnittele migraatio",
+    "secondaryCta": "Maksuton migraatio-auditointi",
+    "stats": {
+      "downtimeLabel": "Mitattu käyttökatko",
+      "redirectLabel": "100 % URL-uudelleenohjaus",
+      "rankingsLabel": "0 hakusijoituksen menetystä"
+    }
+  },
+  "liveProof": [
+    {
+      "label": "Migroitua ihotautisivustoa"
+    },
+    {
+      "label": "Menetettyä sijoitusta"
+    },
+    {
+      "label": "Keskimääräinen vaihtoaika"
+    },
+    {
+      "label": "Keskimääräinen Lighthouse-tulos julkaisun jälkeen"
+    }
+  ],
+  "audiences": {
+    "badge": "Suunniteltu",
+    "heading": "Migraatiot, jotka on optimoitu ihotautilääkäreiden arkeen.",
+    "items": [
+      {
+        "label": "Yksityisvastaanotot",
+        "desc": "Siirry pois Wixistä tai GoDaddysta vaikuttamatta hakusijoituksiin."
+      },
+      {
+        "label": "Monitoimipisteklinikat",
+        "desc": "Yhdistä toimipisteiden alidomeenit yhden hallinnoidun alustan alle."
+      },
+      {
+        "label": "Lasten ihotautioppi",
+        "desc": "Säilytä vanhempien asiointipolut ja perheystävällinen käyttökokemus."
+      },
+      {
+        "label": "Mohs-kirurgia ja kirurginen dermatologia",
+        "desc": "Pidä lähettävien lääkäreiden URL-osoitteet ja tapauskuvaukset ennallaan."
+      }
+    ]
+  },
+  "platforms": {
+    "badge": "Mikä tahansa alusta tai ylläpito",
+    "heading": "Migroimme sivustosi nykyisestä järjestelmästäsi.",
+    "subheading": "WordPress → Webflow. Wix → WordPress. Squarespace → HubSpot. Vanha toteutus → modernilaitos. Lähteestä riippumatta – olemme tehneet sen.",
+    "status": "Migroitu ✓"
+  },
+  "pillars": {
+    "badge": "Migraatiotakuu",
+    "heading": "Mitä säilytät. Mitä saavutat.",
+    "items": [
+      {
+        "title": "Katkoton käyttöönottovaihe",
+        "desc": "Välimuistin esilämmitys ja DNS-vaiheen etukäteisvalmistelu varmistavat, että potilaiden ajanvaraus toimii keskeytyksettä."
+      },
+      {
+        "title": "1:1 301-uudelleenohjauskartta",
+        "desc": "Jokainen vanha URL-osoite ohjaa parhaaseen uuteen kohteeseen — ei rikkinäisiä linkkejä tai SEO-arvon menetystä."
+      },
+      {
+        "title": "HIPAA-huomioitu tiedonsiirto",
+        "desc": "BAA-valmiit prosessit lomakkeille, esitiedoille ja kaikelle potilasdataan liittyvälle tiedolle."
+      },
+      {
+        "title": "Lighthouse 95+ julkaisu",
+        "desc": "Uusi sivusto on nopeampi kuin vanha heti ensimmäisestä päivästä alkaen — ei vasta kuukausien päästä."
+      },
+      {
+        "title": "SEO-turvallinen siirto",
+        "desc": "Skeemat, metatiedot, otsikoinnit ja sisäiset linkit migroidaan ilman haitallisia takaiskuja."
+      },
+      {
+        "title": "Täysin responsiivinen uudistus",
+        "desc": "Tietokone, tabletti ja puhelin — pikselintarkka ja testattu aidoilla laitteilla."
+      }
+    ]
+  },
+  "lighthouse": {
+    "badge": "Todisteita, ei lupauksia",
+    "heading": "Jokainen migraatio sisältää virallisen Lighthouse-tarkastuksen.",
+    "description": "Emme vain väitä sivustoa nopeaksi. Ennen luovutusta suoritamme täydellisen Google Lighthouse -auditoinnin ja jaamme tulokset kanssasi. Alla on tyypillinen tulos julkaisun jälkeen — todennettavissa, ei markkinointipuhetta.",
+    "tags": [
+      "Testattu aidoilla laitteilla",
+      "Mobiili + tietokone",
+      "Sisältää raakadatan"
+    ],
+    "ui": {
+      "title": "Google Lighthouse · Mobiili",
+      "subtitle": "migraation jälkeinen auditointi",
+      "labels": {
+        "performance": "Suorituskyky",
+        "accessibility": "Saavutettavuus",
+        "bestPractices": "Parhaat käytännöt",
+        "seo": "SEO"
+      }
+    }
+  },
+  "gains": {
+    "badge": "Ennen → Jälkeen",
+    "heading": "Turvallisempi, nopeampi ja puhtaampi siirtymä.",
+    "labels": {
+      "redirects": "URL-uudelleenohjaukset",
+      "downtime": "Käyttökatkot siirrossa",
+      "risk": "Hakusijoitusten riski",
+      "score": "Lighthouse-pisteet"
+    }
+  },
+  "process": {
+    "badge": "6-vaiheinen migraatio",
+    "heading": "Kartoituksesta tarkoin valvottuun, SEO-vakaaseen julkaisuun.",
+    "steps": [
+      {
+        "title": "Kartoitus & Sivuston indeksointi",
+        "desc": "Käymme läpi jokaisen URL-osoitteen, keräämme sijoitusdatan ja inventoimme lomakkeet sekä mahdolliset HIPAA-arkaluonteiset rajapinnat."
+      },
+      {
+        "title": "URL- ja uudelleenohjaussuunnitelma",
+        "desc": "Hyväksytty 1:1-uudelleenohjauskartta ja tekninen suunnitelma ennen kuin ensimmäistäkään pikseliä siirretään."
+      },
+      {
+        "title": "Vaiheistettu rakennusvaihe",
+        "desc": "Uusi sivusto rakennetaan suljetulle testisivustolle. Sisältö, skeemat ja metatiedot migroidaan vastaavuustarkistusten kera."
+      },
+      {
+        "title": "Laadunvarmistus & Hyväksyntä",
+        "desc": "Vertaamme jokaisen migroidun sivun suorituskykyä, SEO:ta, saavutettavuutta ja HIPAA-yhteensopivuutta."
+      },
+      {
+        "title": "DNS-käyttöönotto",
+        "desc": "Välimuisti lämmitetty, TTL-arvot laskettu, 301-ohjaukset valmiina – DNS-vaihto suoritetaan sekunneissa."
+      },
+      {
+        "title": "90 päivän SEO-seuranta",
+        "desc": "Päivittäinen Search Console -seuranta, uudelleenohjausten auditointi ja Core Web Vitals -hienosäätö sijoitusten vakiinnuttamiseksi."
+      }
+    ]
+  },
+  "checklist": {
+    "badge": "Hakusijoitusten tarkistuslista",
+    "heading": "Kaikki mitä siirrämme — kohta kohdalta.",
+    "items": [
+      "Jokainen URL 1:1 uudelleenohjattu",
+      "Meta-otsikot & kuvaukset siirretty",
+      "Skeema-merkinnät säilytetty",
+      "Sisäinen linkkirakenne säilytetty",
+      "Kuvat optimoitu, alt-tekstit tallella",
+      "Core Web Vitals rakennettu alusta asti",
+      "Search Console + Analytics yhdistetty",
+      "HIPAA-lomakkeet auditoitu BAA:n alaisena"
+    ]
+  },
+  "services": {
+    "badge": "Katetut lääketieteelliset palvelut",
+    "heading": "Jokainen hoitosivu siirretään ja säilytetään.",
+    "description": "Jokainen palvelusivu indeksoidaan uudelleen skeemojen, rakenteen ja avainsanojen pysyessä ennallaan.",
+    "list": [
+      "Aknehoidot",
+      "Ekseeman hoito",
+      "Psoriasiksen hoito",
+      "Ihoinfektioiden hoito",
+      "Ihoallergioiden hoito",
+      "Ihosyövän seulonta ja hoito",
+      "Luomien tarkastus ja poisto",
+      "Kystien ja lipoomien poisto",
+      "Syylien poisto",
+      "Kynsioireiden hoito",
+      "Hiustenlähtöön liittyvät hoidot",
+      "Hiuspohjan ongelmien hoito",
+      "Rosacean hoito",
+      "Hyperpigmentaatio ja melasma",
+      "Arpien hoito",
+      "Palovamma-arpien hoito",
+      "Vitiligon hoito",
+      "Ihon koepalat ja diagnostiikka"
+    ]
+  },
+  "comparison": {
+    "badge": "Miksi klinikat valitsevat meidät",
+    "heading": "Tee se itse, palkkaa yleistoimisto tai valitse ihotautialan asiantuntija.",
+    "headers": {
+      "label": "Mitä saat",
+      "diy": "Itse tehty",
+      "generalist": "Mainostoimisto",
+      "dw": "DW Design"
+    },
+    "rows": {
+      "downtime": "0 sekunnin käyttökatko",
+      "redirects": "1:1 URL-uudelleenohjauskartta",
+      "hipaa": "HIPAA-valmis tiedonsiirto",
+      "schema": "Skeema- ja metatietojen vastaavuus",
+      "monitoring": "90 päivän SEO-seuranta",
+      "lighthouse": "Lighthouse 95+ heti julkaisusta",
+      "timeline": "Kiinteä aikataulu ja välitavoitteet"
+    }
+  },
+  "testimonial": {
+    "quote": "Siirsimme neljä klinikkasivustoa vanhasta järjestelmästä nykyaikaiselle alustalle kuudessa viikossa. Yksikään URL ei rikkoutunut, avainsanat eivät pudonneet ja sivuston latausnopeus tuplaantui heti ensimmäisenä päivänä.",
+    "author": "Dr. Yasmin Delgado, MD",
+    "role": "HV Dermatology · 4 toimipistettä",
+    "video": {
+      "badge": "Katso tarina · 47s",
+      "heading": "Ei katkoja, ei paniikkia — ja sijoitukset jopa paranivat.",
+      "ariaLabel": "Toista videopalaute",
+      "authorFooter": "Dr. Yasmin Delgado, MD",
+      "titleFooter": "4 klinikan migraatio",
+      "stats": {
+        "timeline": "6 vkoa",
+        "timelineLabel": "Siirron kesto",
+        "traffic": "+18%",
+        "trafficLabel": "Kasvu kävijämäärässä",
+        "links": "0",
+        "linksLabel": "Rikkinäistä linkkiä"
+      }
+    }
+  },
+  "faq": {
+    "badge": "UKK",
+    "heading": "Rehellisiä vastauksia migraatiosta.",
+    "items": [
+      {
+        "q": "Tuleeko potilaille käyttökatkoja migraation aikana?",
+        "a": "Ei. Valmistamme uuden sivuston testisivulla, teemme täydellisen laadunvarmistuksen ja vaihdamme DNS-asetukset välimuistia hyödyntäen. Käyttäjille siirto on huomaamaton — tyypillinen katko on alle 30 sekuntia."
+      },
+      {
+        "q": "Menetämmekö Google-sijoitukset migraation jälkeen?",
+        "a": "Emme. Jokainen URL ohjataan 1:1 301-uudelleenohjauksilla, metatiedot ja skeemat säilytetään, ja seuraamme Search Consolea 90 päivää julkaisun jälkeen. Hävikitön migraatio on meille standardi."
+      },
+      {
+        "q": "Mistä alustoista voitte tehdä migraation?",
+        "a": "WordPress, Wix, Squarespace, Webflow, GoDaddy, Duda, Weebly, HubSpot CMS, Drupal, Joomla ja räätälöidyt vanhat järjestelmät. Hoidamme myös ylläpidon vaihdot."
+      },
+      {
+        "q": "Miten potilasdataa käsitellään siirron aikana?",
+        "a": "Kaikki potilaslomakkeet ja esitiedot käsitellään BAA-valmiin työnkulun mukaisesti. Henkilötietoja (PHI) ei viedä suojaamattomiin ympäristöihin; käytämme vain salattua tiedonsiirtoa."
+      },
+      {
+        "q": "Kuinka kauan ihotautisivuston migraatio kestää?",
+        "a": "Standardisivusto 4–7 viikkoa, monitoimipisteklinikka 6–10 viikkoa ja laajat EHR-integroidut kokonaisuudet 8–12 viikkoa. Prosessissa on kiinteät välitavoitteet."
+      },
+      {
+        "q": "Mitä jos vanha sivustoni on sekava ja täynnä vanhoja tiedostoja?",
+        "a": "Auditoimme ja selkeytämme rakenteen. Rikkinäiset ja turhat URL-osoitteet ohjataan parhaisiin vastineisiin, arvokas sisältö jäsennellään uudelleen ja päällekkäisyydet poistetaan."
+      }
+    ]
+  },
+  "cta": {
+    "badge": "Maksuton 30 min migraatiosuunnitelma",
+    "heading": "Lähetä nykyinen sivustosi meille. Me näytämme turvallisimman tavan siirtyä.",
+    "subheading": "Saat URL-kohtaisen uudelleenohjaussuunnitelman, alustasuosituksen ja realistisen aikataulun — ilman sitoumuksia. Arvioimme jokaisen suunnitelman henkilökohtaisesti.",
+    "footerName": "Dermatology Website Design",
+    "footerTag": "Autamme ihotautilääkäreitä kasvamaan verkossa",
+    "primaryLink": "Hanki migraatiosuunnitelma",
+    "secondaryLink": "Ota yhteyttä",
+    "altImg": "DW — Dermatology Website Design"
+  },
+  "footerLinks": {
+    "preface": "Katso myös: ",
+    "redesign": "uudistuva ilme",
+    "management": "sivustojen pitkäaikainen ylläpito",
+    "costs": "migraation tyypilliset kustannukset"
+  },
+  "simulator": {
+    "badge": "Kokeile livenä",
+    "heading": "Esikatsele migraation uudelleenohjauskartta 4 sekunnissa.",
+    "inputPlaceholder": "klinikkasi.fi",
+    "buttonLabel": "Simuloi migraatiota",
+    "srLabel": "Nykyinen verkkosivustosi URL",
+    "headers": {
+      "old": "Vanha URL",
+      "action": "301 →",
+      "new": "Uusi URL"
+    },
+    "result": "5/5 URL-osoitetta kartoitettu · 0 sijoitusta vaarassa · Valmis migraatioon.",
+    "floatingOne": "Vaihto 27 sekunnissa",
+    "floatingTwo": {
+      "rankings": "100 % sijoituksista säilyi",
+      "audit": "Päivän 30 auditointi"
+    }
+  }
+}

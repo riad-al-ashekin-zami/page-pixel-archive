@@ -1,0 +1,108 @@
+{
+  "meta": {
+    "title": "Politique relative aux cookies — Notre utilisation des cookies",
+    "description": "Découvrez quels types de cookies et technologies similaires nous utilisons sur notre site, pourquoi nous y avons recours et comment vous pouvez les gérer.",
+    "og": {
+      "title": "Politique relative aux cookies — Notre utilisation des cookies",
+      "description": "Découvrez quels types de cookies et technologies similaires nous utilisons sur notre site, pourquoi nous y avons recours et comment vous pouvez les gérer."
+    },
+    "twitter": {
+      "title": "Politique relative aux cookies — Notre utilisation des cookies",
+      "description": "Découvrez quels types de cookies et technologies similaires nous utilisons sur notre site, pourquoi nous y avons recours et comment vous pouvez les gérer."
+    }
+  },
+  "layout": {
+    "skipToContent": "Passer au contenu"
+  },
+  "hero": {
+    "badge": "Mentions Légales · Politique relative aux cookies",
+    "title": "Politique relative aux cookies",
+    "description": "Découvrez les cookies et technologies similaires que nous utilisons, leur utilité et comment les paramétrer. Ces informations complètent notre",
+    "privacyPolicyLink": "Politique de confidentialité",
+    "lastUpdated": "Dernière mise à jour :",
+    "lastUpdatedDate": "14 juillet 2026"
+  },
+  "sidebar": {
+    "contents": "Sommaire",
+    "navAriaLabel": "Navigation de la section"
+  },
+  "sections": {
+    "whatAreCookies": {
+      "title": "1. Qu'est-ce qu'un cookie ?",
+      "body": "Les cookies sont de petits fichiers texte enregistrés sur votre appareil lors de la consultation d'un site web. Ils permettent au site d'enregistrer vos actions et préférences au fil du temps. Nous utilisons également des technologies similaires, telles que le stockage local et les balises pixels — regroupées sous le terme « cookies » dans la présente politique."
+    },
+    "types": {
+      "title": "2. Types de cookies utilisés",
+      "strictlyNecessary": {
+        "label": "Strictement nécessaires :",
+        "description": "Indispensables au bon fonctionnement du site, notamment pour la navigation, la sécurité et l'enregistrement de vos choix de consentement. Ils ne peuvent pas être désactivés."
+      },
+      "performance": {
+        "label": "Performance et analyses :",
+        "description": "Nous permettent de comprendre l'interaction des visiteurs avec le site afin de l'améliorer (ex: pages consultées, temps passé, sources de trafic globales)."
+      },
+      "functional": {
+        "label": "Fonctionnels :",
+        "description": "Mémorisent vos choix (comme la langue préférée ou la région) pour vous offrir une expérience plus personnalisée."
+      },
+      "marketing": {
+        "label": "Marketing :",
+        "description": "Utilisés par nous ou nos partenaires pour mesurer l'efficacité des campagnes et, le cas échéant, afficher du contenu pertinent sur d'autres sites."
+      }
+    },
+    "firstVsThird": {
+      "title": "3. Cookies propriétaires vs. cookies tiers",
+      "firstPartyLabel": "Propriétaires",
+      "firstPartyDescription": "Cookies déposés directement par ce site.",
+      "thirdPartyLabel": "Tiers",
+      "thirdPartyDescription": "Cookies déposés par des services que nous utilisons, tels que des outils d'analyse, de vidéo, de prise de rendez-vous ou de publicité. Les tiers sont responsables de l'utilisation des données qu'ils collectent ; nous vous invitons à consulter leurs propres politiques de confidentialité."
+    },
+    "howWeUse": {
+      "title": "4. Comment nous utilisons les cookies",
+      "items": [
+        "Assurer la sécurité et le bon fonctionnement du site.",
+        "Mémoriser votre consentement et vos préférences de navigation.",
+        "Mesurer l'audience et comprendre comment les visiteurs utilisent le site.",
+        "Améliorer le contenu, les performances et l'expérience utilisateur."
+      ]
+    },
+    "manage": {
+      "title": "5. Gérer vos cookies",
+      "intro": "Vous pouvez contrôler les cookies de plusieurs manières :",
+      "browserSettings": {
+        "label": "Paramètres du navigateur :",
+        "description": "La plupart des navigateurs vous permettent de bloquer ou de supprimer les cookies — consultez les pages d'aide de votre navigateur."
+      },
+      "optOutTools": {
+        "label": "Outils d'exclusion :",
+        "description": "De nombreux fournisseurs d'analyses et de publicité proposent leurs propres mécanismes de désactivation."
+      },
+      "consentBanner": {
+        "label": "Bannière de consentement :",
+        "description": "Conformément à la loi, vous pouvez mettre à jour vos choix via la bannière ou le lien de préférences présent sur ce site."
+      },
+      "footer": "Le blocage de certains cookies peut affecter le bon fonctionnement de certaines parties du site."
+    },
+    "doNotTrack": {
+      "title": "6. Signal « Do Not Track »",
+      "body": "Certains navigateurs proposent l'option « Do Not Track » (Ne pas me pister). Comme il n'existe aucun standard industriel pour cette technologie, notre site ne modifie pas son comportement en fonction de ce signal pour le moment."
+    },
+    "changes": {
+      "title": "7. Modifications de cette politique",
+      "body": "Nous pouvons mettre à jour cette Politique relative aux cookies en fonction de l'évolution de nos pratiques ou des lois en vigueur. La date de « Dernière mise à jour » indique la version actuelle."
+    },
+    "contact": {
+      "title": "8. Contact",
+      "body": "Des questions sur notre utilisation des cookies ? Contactez-nous via notre",
+      "contactLink": "page de contact",
+      "privacySuffix": ", ou consultez notre",
+      "privacyLink": "Politique de confidentialité",
+      "privacyEnd": "pour en savoir plus sur le traitement de vos données personnelles."
+    }
+  },
+  "cta": {
+    "title": "Des questions sur les cookies ?",
+    "description": "Nous serons ravis de vous expliquer quels outils nous utilisons et pourquoi.",
+    "button": "Nous contacter"
+  }
+}

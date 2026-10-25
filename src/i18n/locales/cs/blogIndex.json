@@ -1,0 +1,118 @@
+{
+  "meta": {
+    "title": "Blog — Strategie a marketingové tipy pro růst dermatologických praxí",
+    "description": "Praktické návody na SEO pro dermatologii, web design, akvizici pacientů, HIPAA, recenze a placenou reklamu – psáno pro majitele praxí zaměřené na růst.",
+    "keywords": "dermatologický blog, SEO pro dermatologii, marketing v dermatologii, růst praxe, HIPAA weby",
+    "og": {
+      "title": "Blog o marketingu v dermatologii — Strategie, které rozvíjejí vaši praxi",
+      "description": "Hloubkové analýzy a rychlé tipy pro dermatologické kliniky. SEO, design, kampaně, reputace a zákaznická zkušenost pacientů."
+    },
+    "twitter": {
+      "title": "Dermatology Marketing Blog",
+      "description": "Návody pro SEO, design, reklamy a spokojenost pacientů v dermatologických praxích."
+    },
+    "jsonLd": {
+      "breadcrumb": {
+        "home": "Domů",
+        "blog": "Blog"
+      },
+      "blog": {
+        "name": "Dermatology Marketing Blog",
+        "description": "Strategie a postřehy pro SEO v dermatologii, webový design, reklamy, budování reputace a nábor pacientů."
+      }
+    }
+  },
+  "hero": {
+    "badge": "The DermGrowth Journal",
+    "title": "Strategie pro moderní dermatologickou praxi.",
+    "description": "Prověřené postupy pro SEO, design webu, placené kampaně, reputaci a zkušenost pacienta – přímo od týmu, který stál u zrodu stovek úspěšných praxí.",
+    "search": {
+      "label": "Hledat články",
+      "placeholder": "Najít SEO, reklamy, HIPAA, redesign…",
+      "postCount": "{{count}} článků"
+    },
+    "aside": {
+      "ariaLabel": "Tento měsíc v DermGrowth",
+      "issue": "Vydání 24 · Léto '26",
+      "status": "Co teď skutečně funguje pro růst dermatologie.",
+      "stats": [
+        {
+          "value": "9",
+          "label": "nových článků"
+        },
+        {
+          "value": "68k",
+          "label": "čtenářů měsíčně"
+        },
+        {
+          "value": "4.9",
+          "label": "hodnocení čtenářů"
+        }
+      ],
+      "socialProof": "Důvěřuje nám více než 50 majitelů a marketérů dermatologických klinik"
+    }
+  },
+  "sections": {
+    "featured": {
+      "badge": "Doporučený článek",
+      "heading": "To nejdůležitější pro tento týden",
+      "viewAll": "Zobrazit všechny články",
+      "ariaRead": "Číst: {{title}}",
+      "statValue": "90.",
+      "statLabel": "Dní na první stranu",
+      "readTime": "{{count}} min čtení",
+      "button": "Přečíst článek"
+    },
+    "latest": {
+      "badge": "Nejnovější články",
+      "heading": "Filtrujte podle toho, co právě řešíte",
+      "description": "Každý příspěvek píšeme pro majitele praxí a vedoucí marketingu, kteří chtějí jasné kroky, ne prázdné fráze.",
+      "filterLabel": "Filtrovat články podle kategorií",
+      "empty": {
+        "heading": "Tomu neodpovídají žádné články.",
+        "description": "Zkuste jinou kategorii nebo upravte vyhledávání.",
+        "button": "Resetovat filtry"
+      },
+      "card": {
+        "ariaRead": "Číst: {{title}}",
+        "readTime": "{{count}} min",
+        "readAction": "Číst"
+      }
+    }
+  },
+  "newsletter": {
+    "badge": "Týdenní přehled",
+    "heading": "Jedna strategie pro růst. Každé úterý.",
+    "description": "Přidejte se k více než 760 majitelům a marketérům v dermatologii. Žádná vata, žádný spam, odhlášení jedním kliknutím.",
+    "ariaLabel": "Přihlásit se k newsletteru",
+    "placeholder": "vas@email.cz",
+    "submit": "Odebírat",
+    "submitting": "Přihlašuji…",
+    "success": "Jste tam! Další vydání dorazí v úterý v 7:00.",
+    "fineprint": "Čteme každou odpověď. Vaši adresu nikdy nesdílíme.",
+    "features": [
+      {
+        "label": "Dlouhé čtení",
+        "value": "Hloubkové analýzy dvakrát měsíčně"
+      },
+      {
+        "label": "Případové studie",
+        "value": "Skutečná čísla z reálné praxe"
+      },
+      {
+        "label": "Taktiky",
+        "value": "Návody k okamžitému použití"
+      },
+      {
+        "label": "Hodnocení 4.9",
+        "value": "Od více než 50 odebíratelů"
+      }
+    ]
+  },
+  "footer": {
+    "keepReading": "Pokračujte ve čtení:",
+    "caseStudies": "detailní případové studie",
+    "audit": "personalizovaný audit webu zdarma",
+    "faq": "nejčastější dotazy našich klientů"
+  }
+}

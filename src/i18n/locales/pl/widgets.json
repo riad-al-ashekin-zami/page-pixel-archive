@@ -1,0 +1,72 @@
+{
+  "growthKpi": {
+    "header": "Projektor wzrostu",
+    "bookingLift": "Wzrost rezerwacji o {{pct}}%",
+    "projectedRevenueLabel": "Prognozowany roczny dodatkowy dochód",
+    "roiSuffix": "× zwrot z miesięcznej inwestycji",
+    "bookedVisitsCaption": "Zarezerwowane wizyty · Projekcja na 8 miesięcy",
+    "addedPerMonth": "+{{n}}/mies.",
+    "monthlyInvestment": "Miesięczna inwestycja",
+    "currentMonthlyVisits": "Obecne miesięczne wizyty",
+    "kpi": {
+      "newVisits": "Nowe wizyty/mies.",
+      "totalVisits": "Wszystkie wizyty/mies.",
+      "monthlyRevenue": "Miesięczny przychód"
+    }
+  },
+  "cpc": {
+    "header": "Kalkulator kosztu kliknięcia (CPC)",
+    "badge": "ustalono na podstawie danych porównawczych",
+    "costPerBookedLabel": "Prognozowany koszt za zarezerwowaną wizytę",
+    "bookedVisitsSuffix": "· {{n}} zarezerwowanych wizyt/mies.",
+    "serviceLineLabel": "Linia usług",
+    "avgCpcSuffix": "średni CPC",
+    "monthlySpend": "Miesięczne wydatki na media",
+    "kpi": {
+      "clicks": "Kliknięcia/mies.",
+      "leads": "Leady/mies.",
+      "avgCpc": "Średni CPC"
+    },
+    "footer": "{{booked}} zarezerwowanych wizyt · {{cost}} każda",
+    "footerBadge": "oszac.",
+    "services": {
+      "acne": "Leczenie trądziku",
+      "mohs": "Chirurgia Mohsa",
+      "aesthetic": "Botoks / kosmetyka",
+      "general": "Dermatologia ogólna"
+    }
+  },
+  "radius": {
+    "header": "Planer obszaru obsługi",
+    "radiusBadge": "Promień {{n}} mil",
+    "mapCaption": "Twoja klinika · {{n}} mil",
+    "sliderAria": "Promień obszaru usług w milach",
+    "sliderMin": "{{n}} mil",
+    "sliderMax": "{{n}} mil",
+    "kpi": {
+      "residents": "Dotarci mieszkańcy",
+      "searches": "Lokalne wyszukiwania",
+      "visits": "Potencjalne wizyty"
+    },
+    "coveragePrefix": "Zasięg w",
+    "coverageSuffix": "— ranking według siatki dla każdego kodu pocztowego wewnątrz promienia."
+  },
+  "rank": {
+    "header": "Śledzenie pozycji na bieżąco",
+    "live": "na żywo",
+    "fromRank": "z #{{n}}",
+    "quarterFooter": "+{{n}} pozycji w tym kwartale",
+    "updating": "aktualizowanie",
+    "keywords": {
+      "nearMe": "dermatolog w pobliżu",
+      "acneCity": "leczenie trądziku [miasto]",
+      "aesthetic": "specjalista botoksu",
+      "mohs": "klinika chirurgii Mohsa"
+    }
+  },
+  "preloader": {
+    "brandLead": "Projektowanie stron internetowych dla dermatologii",
+    "brandHighlight": "",
+    "tagline": "Zgodne z HIPAA · Skoncentrowane na konwersji"
+  }
+}

@@ -1,0 +1,345 @@
+{
+  "meta": {
+    "title": "Cennik stron dla dermatologów — plany, pakiety i przejrzyste koszty",
+    "description": "Transparentny cennik stron dermatologicznych. Jednorazowe wdrożenia od 797 $ do ponad 18 999 $, pakiety miesięczne od 399 $ oraz dodatki à la carte. Sprawdź koszty przed rozmową.",
+    "og": {
+      "title": "Cennik stron dla dermatologów — pakiety i koszty",
+      "description": "Sześć pakietów stron, trzy wdrożenia specjalistyczne, cztery abonamenty miesięczne i ponad 20 dodatków — z kalkulatorem kosztów na żywo. Pełna przejrzystość."
+    },
+    "jsonLd": {
+      "breadcrumb": {
+        "home": "Strona główna",
+        "plans": "Plany i cennik"
+      },
+      "priceSpec": {
+        "name": "Pakiety stron dla gabinetów dermatologicznych"
+      }
+    }
+  },
+  "hero": {
+    "badge": "Transparentne ceny",
+    "heading": "Ceny bez tajemnic. Żadnych ukrytych faktur.",
+    "description": "Sześć pakietów wdrożeniowych, trzy opcje specjalistyczne, cztery pakiety miesięczne i ponad 20 dodatków. Skorzystaj z kalkulatora kosztów, by poznać kwoty jeszcze przed kontaktem.",
+    "cta": "Zobacz pakiety stron",
+    "estimatorCta": "Kalkulator kosztów na żywo"
+  },
+  "stats": {
+    "launched": "Wdrożonych stron gabinetów",
+    "satisfaction": "Średnia satysfakcja klienta",
+    "startingPrice": "Cena startowa (jednorazowa)",
+    "turnaround": "Średni czas edycji"
+  },
+  "trust": {
+    "ariaLabel": "Zaufanie i gwarancje",
+    "guarantee": "30-dniowa gwarancja zwrotu kosztów wdrożenia",
+    "guaranteeSub": "Niezadowolony przed startem? Proporcjonalny zwrot bez zbędnych pytań.",
+    "features": [
+      "Zgodność z HIPAA",
+      "SSL + Kopie zapasowe",
+      "Brak lojalek",
+      "Strona na własność"
+    ]
+  },
+  "sections": {
+    "websitePackages": {
+      "label": "01 — Pakiety budowy stron",
+      "title": "Opłata jednorazowa. Sześć jasnych progów.",
+      "description": "Wybierz rozwiązanie dopasowane do obecnej skali — rozbuduj je w miarę rozwoju gabinetu. Każda cena obejmuje projekt, programowanie, start i poprawki.",
+      "popular": "Najpopularniejszy",
+      "flagship": "Flagowy",
+      "otherAgencies": "Inne agencje:",
+      "bestFor": "Idealny dla:",
+      "startWith": "Wybierz pakiet {{name}}",
+      "footer": "Wszystkie ceny w USD. Jednorazowe opłaty wdrożeniowe. Brak wymaganego abonamentu miesięcznego.",
+      "items": [
+        {
+          "name": "Starter",
+          "subtitle": "Jeden ekran (One Page)",
+          "bestFor": "Nowe kliniki, jednoosobowe praktyki, landing page",
+          "price": "$797",
+          "priceNote": "jednorazowo",
+          "savings": "20–68% taniej",
+          "features": [
+            "Strona typu One-Page (scrolling)",
+            "Responsywność mobilna",
+            "Formularz + Click-to-call",
+            "Integracja z Mapami Google",
+            "Podstawowe SEO on-page",
+            "Przewodnik konfiguracji SSL i hostingu",
+            "Realizacja: 1 tydzień",
+            "1 runda poprawek"
+          ],
+          "cons": [
+            "Brak bloga i portalu pacjenta"
+          ]
+        },
+        {
+          "name": "Clinic Pro",
+          "subtitle": "5–8 Podstron",
+          "bestFor": "Ugruntowane jednoosobowe / małe gabinety",
+          "price": "$1,997",
+          "priceNote": "jednorazowo",
+          "savings": "33–60% taniej",
+          "features": [
+            "Poznanie, O nas, Usługi (3–5), Kontakt",
+            "Rezerwacja wizyt online",
+            "Galeria zdjęć Przed/Po",
+            "Bios lekarzy + strona certyfikatów",
+            "Lokalne SEO + optymalizacja GBP",
+            "Formularz kontaktowy zgodny z HIPAA",
+            "Optymalizacja szybkości",
+            "Realizacja: 2–3 tygodnie",
+            "2 rundy poprawek"
+          ]
+        },
+        {
+          "name": "Practice Growth",
+          "subtitle": "10–15 Podstron",
+          "bestFor": "Rosnące praktyki, dermatologia estetyczna",
+          "price": "$4,499",
+          "priceNote": "jednorazowo",
+          "savings": "10–55% taniej",
+          "features": [
+            "Pełna, rozbudowana witryna",
+            "Indywidualne strony zabiegowe",
+            "Integracja z portalem pacjenta",
+            "Konfiguracja bloga (5 wpisów na start)",
+            "Zaawansowane SEO lokalne",
+            "Optymalizacja Core Web Vitals",
+            "Logo + podstawowy branding",
+            "Tagi OG + Schema",
+            "Realizacja: 3–4 tygodnie",
+            "3 rundy poprawek"
+          ]
+        },
+        {
+          "name": "E-Commerce",
+          "subtitle": "Sklep produktowy",
+          "bestFor": "Dermatolodzy sprzedający własne kosmetyki",
+          "price": "$6,999",
+          "priceNote": "jednorazowo",
+          "savings": "12–53% taniej",
+          "features": [
+            "Strona praktyki (10+ podstron)",
+            "Sklep WooCommerce LUB Shopify",
+            "Konfiguracja katalogu (30 produktów)",
+            "Bramki płatnicze (Stripe / PayPal)",
+            "System zarządzania zamówieniami",
+            "Pełny pakiet SEO",
+            "Połączenie rezerwacji ze sklepem",
+            "Realizacja: 4–6 tygodni"
+          ]
+        },
+        {
+          "name": "Authority Brand",
+          "subtitle": "Dedykowane rozwiązanie Enterprise",
+          "bestFor": "Wielooddziałowe kliniki o wysokich przychodach",
+          "price": "$12,999",
+          "priceNote": "jednorazowo",
+          "savings": "13–56% taniej",
+          "features": [
+            "Indywidualny design (bez szablonów)",
+            "20+ podstron + sekcje lokalizacji",
+            "Pełny branding + zestaw logo",
+            "Sklep e-commerce w cenie",
+            "Portal pacjenta + portal lekarza",
+            "Pełna konfiguracja zgodności HIPAA",
+            "30 wpisów na blogu / stron zabiegowych",
+            "Integracja wideo",
+            "6 miesięcy obsługi SEO w cenie",
+            "Dedykowany Account Manager",
+            "Realizacja: 6–10 tygodni"
+          ]
+        },
+        {
+          "name": "Enterprise Multi-Site",
+          "subtitle": "Grupy DSO / Sieci placówek",
+          "bestFor": "Grupy DSO, 3+ lokalizacje, praktyki ogólnokrajowe",
+          "price": "$18,999+",
+          "priceNote": "wycena indywidualna",
+          "savings": "24%+ taniej",
+          "features": [
+            "Architektura wielooddziałowa",
+            "Lokalizacje jako osobne landing page",
+            "Centralne zarządzanie CMS",
+            "Spójny branding w całej sieci",
+            "Lokalne SEO dla wielu placówek",
+            "Portal pracowniczy dla każdej lokalizacji",
+            "Wycena na podstawie zakresu",
+            "Wsparcie priorytetowe"
+          ]
+        }
+      ]
+    },
+    "specialty": {
+      "label": "02 — Pakiety specjalistyczne",
+      "title": "Rozwiązania do konkretnych zadań.",
+      "description": "Opcje poza standardową skalą — szybkie starty z szablonu, praktyki nastawione na telemedycynę lub autorskie projekty klasy średniej.",
+      "market": "Rynek:",
+      "cta": "Wybierz ten pakiet",
+      "items": [
+        {
+          "name": "Strona z szablonu",
+          "desc": "Gotowy szablon dermatologiczny, spersonalizowany pod Twój branding i treści. Realizacja: 5 dni. Ograniczona edycja, ale szybko i tanio."
+        },
+        {
+          "name": "Telemedycyna / Konfiguracja Portalu",
+          "desc": "Integracja usług telemedycznych (Doxy.me, Zoom Health), portal pacjenta, bezpieczne wiadomości, grafik wizyt. Dodaj do dowolnego pakietu."
+        },
+        {
+          "name": "Premium High-End",
+          "desc": "Pośrednie ogniwo między Practice Growth a Authority Brand. 15–20 podstron, w pełni autorski projekt, bez szablonu, zaawansowane SEO, 3 miesiące wsparcia po starcie."
+        }
+      ]
+    },
+    "bundles": {
+      "label": "03 — Pakiety miesięczne (abonamenty)",
+      "title": "Usługi stałe w korzystnych pakietach.",
+      "description": "Dodaj pakiet miesięczny do dowolnej strony. Oszczędzaj 15–25% w porównaniu z pojedynczymi usługami — rezygnacja z 30-dniowym wypowiedzeniem w dowolnym momencie.",
+      "recommended": "Najczęściej wybierane",
+      "bestLtv": "Najlepsza wartość",
+      "add": "Dodaj pakiet {{name}}",
+      "items": [
+        {
+          "name": "Essential Bundle",
+          "tag": "Hosting + Utrzymanie + Lokalne SEO",
+          "desc": "Hosting + bezpieczeństwo + comiesięczne aktualizacje + monitoring lokalnego SEO + zarządzanie GBP. Oszczędność 99 $/mc."
+        },
+        {
+          "name": "Growth Bundle",
+          "tag": "Essential + Pełna Kampania SEO",
+          "desc": "Wszystko z pakietu Essential + kompleksowe działania SEO (content, linki, techniczne SEO, raporty pozycji). Rekomendowany wybór."
+        },
+        {
+          "name": "Marketing Bundle",
+          "tag": "SEO + Google Ads + Social + Opinie",
+          "desc": "Pełne SEO + obsługa Google Ads + social media (8 postów/mc) + system pozyskiwania opinii. Pełna dominacja w internecie."
+        },
+        {
+          "name": "Full-Stack Bundle",
+          "tag": "Wszystko — Tryb Maksymalnego Wzrostu",
+          "desc": "Marketing Bundle + kampanie CRM/Email + 2 wpisy blogowe/mc + monitoring reputacji + kwartalne sesje strategiczne + priorytet. Najlepszy zwrot z inwestycji."
+        }
+      ]
+    },
+    "addOns": {
+      "label": "04 — Dodatki i ceny à la carte",
+      "title": "Każdy dodatek, każda cena.",
+      "description": "Trzydzieści siedem usług wycenionych indywidualnie — w tym konfiguracja SMTP / e-maili transakcyjnych. Dodaj dowolną z nich do pakietu, widząc porównanie z cenami rynkowymi.",
+      "table": {
+        "service": "Usługa dodatkowa",
+        "ourPrice": "Nasza cena",
+        "market": "Ceny rynkowe",
+        "type": "Typ",
+        "bestFor": "Idealne dla"
+      }
+    },
+    "custom": {
+      "badge": "Potrzebujesz czegoś nieszablonowego?",
+      "title": "Sieć DSO, powiązanie ze szpitalem czy projekt bespoke?",
+      "description": "Dla grup DSO, placówek szpitalnych i systemów z 3+ lokalizacjami przygotowujemy indywidualne kosztorysy z dedykowanym inżynierem i kwartalnymi przeglądami biznesowymi.",
+      "quoteCta": "Poproś o wycenę indywidualną",
+      "pricingCta": "Zobacz pakiety i ceny"
+    }
+  },
+  "estimator": {
+    "label": "05 — Kalkulator kosztów na żywo",
+    "title": "Poznaj kwotę, zanim się umówimy.",
+    "description": "Wybierz pakiet wdrożeniowy, dodaj abonament miesięczny i dobierz dodatki — suma aktualizuje się w czasie rzeczywistym.",
+    "form": {
+      "websitePackage": "Pakiet strony",
+      "monthlyBundle": "Pakiet miesięczny",
+      "logo": "Projekt logo · 450 $ szt.",
+      "extraPages": "Dodatkowe strony zabiegowe · 200 $ szt.",
+      "blogPosts": "Wpisy na blogu · 120 $ szt.",
+      "portal": "Integracja z portalem pacjenta",
+      "portalAdd": "+999 $ jednorazowo"
+    },
+    "aria": {
+      "decrease": "Zmniejsz",
+      "increase": "Zwiększ"
+    },
+    "summary": {
+      "title": "Twoja wycena",
+      "build": "Budowa strony",
+      "bundle": "Abonament miesięczny",
+      "oneTime": "Łącznie jednorazowo",
+      "monthly": "Łącznie miesięcznie",
+      "yearOne": "Suma za pierwszy rok",
+      "ongoing": "Następnie {{amount}} / rocznie",
+      "lockIn": "Zablokuj tę ofertę"
+    }
+  },
+  "testimonials": {
+    "label": "Opinie klientów",
+    "title": "Przewidywalne ceny, przewidywalne efekty.",
+    "items": [
+      {
+        "name": "Dr Meera Balakrishnan, MD",
+        "role": "NBS Laser",
+        "quote": "Transparentny cennik. Żadnych niespodzianek na fakturach. Wiedzieliśmy dokładnie, ile zapłacimy przed podpisaniem umowy — i kwoty zgadzały się co miesiąc."
+      },
+      {
+        "name": "Dr Julian Reyes, MD",
+        "role": "CP Dermatology",
+        "quote": "Pakiet Clinic Pro zwrócił się już w drugim miesiącu. Sam proces rezerwacji wizyt podwoił liczbę zapytań od pacjentów."
+      }
+    ]
+  },
+  "faq": {
+    "label": "06 — Często zadawane pytania",
+    "title": "Wszystko, co musisz wiedzieć o cenach.",
+    "items": [
+      {
+        "q": "Czy płacę jednorazowo, miesięcznie, czy w obu formach?",
+        "a": "Pakiety budowy stron to opłaty jednorazowe (od Starter do Enterprise). Usługi bieżące — hosting, SEO, reklamy, treści, utrzymanie — to pakiety miesięczne lub opłaty à la carte. Większość klinik łączy pakiet wdrożeniowy z jednym wybranym abonamentem. Pełną sumę zawsze zobaczysz w pisemnej ofercie."
+      },
+      {
+        "q": "Co zawiera jednorazowa cena wdrożenia?",
+        "a": "Design, programowanie, strukturę treści, SEO on-page, narzędzia wymienione w pakiecie, formularze zgodne z HIPAA (tam gdzie dotyczy), wdrożenie i określone rundy poprawek. Nie rozliczamy godzinowo w trakcie budowy — płacisz tyle, ile na ofercie."
+      },
+      {
+        "q": "Czy muszę wykupić pakiet miesięczny?",
+        "a": "Nie. Abonamenty są opcjonalne. Możesz korzystać z własnego hostingu i samodzielnie zarządzać stroną lub wybierać pojedyncze dodatki. Pakiety po prostu pozwalają zaoszczędzić w porównaniu z kupowaniem usług oddzielnie."
+      },
+      {
+        "q": "Czy mogę przejść z pakietu Starter na Clinic Pro w późniejszym czasie?",
+        "a": "Tak. Każdy pakiet bazuje na tym samym systemie projektowym, więc przejście wyżej to po prostu zmiana zakresu rozliczana różnicą w cenie plus koszty migracji. Nic nie idzie do kosza."
+      },
+      {
+        "q": "Czy jestem właścicielem strony po zakończeniu opłat miesięcznych?",
+        "a": "Tak, jesteś właścicielem bez względu na wszystko. Domena, aktywa marki, treści, kod i baza danych należą do Ciebie. Zakończenie abonamentu wstrzymuje usługi bieżące, ale witryna działa dalej na wybranym przez Ciebie hostingu."
+      },
+      {
+        "q": "Czy HIPAA / BAA są w cenie?",
+        "a": "Architektura zgodna z HIPAA jest zawarta w pakiecie Clinic Pro i wyższych. Podpisana umowa Business Associate Agreement (BAA) jest w cenie pakietów Authority i Enterprise, a w pozostałych dostępna jako dodatek przy formularzach zbierających dane pacjentów."
+      },
+      {
+        "q": "Co jeśli potrzebuję czegoś, czego nie ma na liście?",
+        "a": "Zakresy niestandardowe — dedykowane integracje, synchronizacja z EHR, import katalogów — wyceniamy ryczałtowo po sesji analitycznej. Zawsze otrzymasz opis zakresu i cenę przed startem prac."
+      },
+      {
+        "q": "Czy oferujecie zwroty?",
+        "a": "Prace wdrożeniowe podlegają proporcjonalnemu zwrotowi do czasu finalnej akceptacji startu strony. Abonamenty miesięczne nie podlegają zwrotowi za obecny cykl, ale można je anulować w dowolnym momencie z 30-dniowym wyprzedzeniem."
+      }
+    ]
+  },
+  "cta": {
+    "badge": "Bez lojalek · Strona na własność",
+    "title": "Chcesz poznać dokładną kwotę?",
+    "description": "Otrzymaj opis zakresu, stałą wycenę wdrożenia i rekomendację pakietu podczas 20-minutowej rozmowy. Bez presji i zobowiązań.",
+    "button": "Pobierz wycenę",
+    "delivery": "Pisemna oferta w ciągu 48 godzin"
+  },
+  "related": {
+    "text": "Może Cię zainteresować: ",
+    "process": "jak realizujemy każdy projekt",
+    "portfolio": "zobacz nasze ostatnie wdrożenia",
+    "caseStudies": "prawdziwe wyniki naszych klientów"
+  },
+  "stickyCta": {
+    "label": "Pobierz wycenę",
+    "description": "Pisemna oferta w 48h",
+    "button": "Wycena"
+  }
+}

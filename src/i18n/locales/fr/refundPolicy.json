@@ -1,0 +1,74 @@
+{
+  "meta": {
+    "title": "Politique de remboursement — Acomptes, jalons et abonnements",
+    "description": "Consultez nos conditions relatives aux acomptes, paiements par étapes et forfaits récurrents en cas d'annulation ou d'insatisfaction.",
+    "og": {
+      "title": "Politique de remboursement — Acomptes, jalons et abonnements",
+      "description": "Consultez nos conditions relatives aux acomptes, paiements par étapes et forfaits récurrents en cas d'annulation ou d'insatisfaction."
+    },
+    "twitter": {
+      "title": "Politique de remboursement — Acomptes, jalons et abonnements",
+      "description": "Consultez nos conditions relatives aux acomptes, paiements par étapes et forfaits récurrents en cas d'annulation ou d'insatisfaction."
+    }
+  },
+  "layout": {
+    "skip_to_content": "Passer au contenu"
+  },
+  "hero": {
+    "badge": "Juridique · Politique de remboursement",
+    "title": "Politique de remboursement",
+    "description": "Des règles claires concernant les acomptes, les paiements par étapes et les abonnements, pour éviter toute surprise en cas de changement de programme.",
+    "last_updated": "Dernière mise à jour :",
+    "date": "14 juillet 2026"
+  },
+  "sidebar": {
+    "contents_label": "Sommaire",
+    "nav_aria_label": "Navigation de section"
+  },
+  "sections": {
+    "overview": {
+      "title": "1. Aperçu général",
+      "body": "Cette politique de remboursement détaille la gestion des paiements en cas d'annulation, de suspension ou de non-conformité d'un projet. Elle complète notre contrat de service ; en cas de contradiction, les dispositions du devis signé ou de l'énoncé des travaux prévalent."
+    },
+    "deposits": {
+      "title": "2. Acomptes",
+      "body": "Les acomptes de projet ne sont pas remboursables. Ils servent à réserver votre créneau dans notre calendrier et couvrent les phases d'audit, de stratégie et les travaux de conception initiaux qui débutent dès votre validation."
+    },
+    "milestones": {
+      "title": "3. Paiements par étapes (Jalons)",
+      "list_items": [
+        "Les paiements par jalons couvrent les prestations déjà réalisées et approuvées. Les sommes versées pour des étapes livrées ne sont pas remboursables.",
+        "En cas d'annulation en cours de projet, les travaux effectués et les frais engagés jusqu'à la date d'annulation restent à votre charge. Tout trop-perçu sera remboursé sous 14 jours ouvrables."
+      ]
+    },
+    "recurring": {
+      "title": "4. Forfaits récurrents (Maintenance, Hébergement, Retainers)",
+      "list_items": [
+        "Les forfaits récurrents sont facturés mensuellement à l'avance et ne sont pas remboursables pour le mois en cours.",
+        "Vous pouvez résilier à tout moment moyennant un préavis écrit de 30 jours. Le service se poursuit jusqu'à la fin de la période payée ; aucun frais supplémentaire ne sera facturé après la date d'effet de la résiliation.",
+        "Les heures non utilisées dans le cadre d'un forfait mensuel ne sont pas reportables et ne font l'objet d'aucun remboursement."
+      ]
+    },
+    "third_party": {
+      "title": "5. Frais de tiers",
+      "body": "Les frais réglés à des prestataires tiers pour votre compte (domaines, hébergement, médias stock, plugins Premium, dépenses publicitaires) ne sont pas remboursables une fois l'achat effectué, quel que soit le statut du projet."
+    },
+    "chargebacks": {
+      "title": "6. Oppositions de paiement (Chargebacks)",
+      "body": "Merci de nous contacter avant d'initier une procédure d'opposition. Nous mettrons tout en œuvre pour résoudre vos préoccupations rapidement. Toute opposition formulée sans préavis peut entraîner la suspension immédiate des services et sera considérée comme une rupture substantielle du contrat."
+    },
+    "request": {
+      "title": "7. Comment demander un remboursement",
+      "body": "Envoyez une demande écrite via notre page de contact en précisant le nom du projet, le numéro de facture et le motif. Les remboursements éligibles sont effectués sur le mode de paiement d'origine dans un délai de 14 jours ouvrables après approbation."
+    },
+    "changes": {
+      "title": "8. Modifications de la politique",
+      "body": "Nous nous réservons le droit de mettre à jour cette politique de remboursement. La date de « Dernière mise à jour » indiquée ci-dessus correspond à la version en vigueur."
+    }
+  },
+  "cta": {
+    "title": "Une question concernant un remboursement ?",
+    "description": "Contactez-nous d'abord — nous trouverons ensemble une solution équitable.",
+    "button": "Contactez-nous"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "meta": {
+    "title": "Polityka plików cookies — Dowiedz się, jak ich używamy",
+    "description": "Informacje o plikach cookies i technologiach pokrewnych stosowanych na naszej stronie, celu ich użycia oraz sposobach zarządzania nimi.",
+    "og": {
+      "title": "Polityka plików cookies — Dowiedz się, jak ich używamy",
+      "description": "Informacje o plikach cookies i technologiach pokrewnych stosowanych na naszej stronie, celu ich użycia oraz sposobach zarządzania nimi."
+    },
+    "twitter": {
+      "title": "Polityka plików cookies — Dowiedz się, jak ich używamy",
+      "description": "Informacje o plikach cookies i technologiach pokrewnych stosowanych na naszej stronie, celu ich użycia oraz sposobach zarządzania nimi."
+    }
+  },
+  "layout": {
+    "skipToContent": "Przejdź do treści"
+  },
+  "hero": {
+    "badge": "Informacje prawne · Polityka cookies",
+    "title": "Polityka plików cookies",
+    "description": "Wyjaśniamy, jakich plików cookies i technologii używamy, dlaczego to robimy oraz jak możesz nimi zarządzać. Zapoznaj się również z naszą",
+    "privacyPolicyLink": "Polityką prywatności",
+    "lastUpdated": "Ostatnia aktualizacja:",
+    "lastUpdatedDate": "14 lipca 2026 r."
+  },
+  "sidebar": {
+    "contents": "Spis treści",
+    "navAriaLabel": "Nawigacja po sekcjach"
+  },
+  "sections": {
+    "whatAreCookies": {
+      "title": "1. Czym są pliki cookies?",
+      "body": "Ciasteczka (cookies) to małe pliki tekstowe zapisywane na Twoim urządzeniu podczas przeglądania stron internetowych. Pomagają one witrynie zapamiętać Twoje działania i preferencje na dłuższy czas. Korzystamy również z pokrewnych technologii, takich jak pamięć lokalna (local storage) i tagi pikselowe – w niniejszej polityce wszystkie one są określane zbiorczo jako „cookies”."
+    },
+    "types": {
+      "title": "2. Rodzaje plików cookies, których używamy",
+      "strictlyNecessary": {
+        "label": "Niezbędne:",
+        "description": "wymagane do podstawowego działania strony, np. nawigacji, bezpieczeństwa i zapamiętania Twoich zgód. Nie można ich wyłączyć."
+      },
+      "performance": {
+        "label": "Wydajnościowe i analityczne:",
+        "description": "pomagają nam zrozumieć, w jaki sposób użytkownicy korzystają ze strony (np. wyświetlane podstrony, czas spędzony w witrynie, źródła ruchu), co pozwala nam ją doskonalić."
+      },
+      "functional": {
+        "label": "Funkcjonalne:",
+        "description": "zapamiętują Twoje wybory (takie jak preferowany język czy region), by zapewnić Ci bardziej spersonalizowane doświadczenia."
+      },
+      "marketing": {
+        "label": "Marketingowe:",
+        "description": "wykorzystywane przez nas lub naszych partnerów do mierzenia efektywności kampanii oraz wyświetlania dopasowanych treści na innych stronach."
+      }
+    },
+    "firstVsThird": {
+      "title": "3. Cookies własne a cookies stron trzecich",
+      "firstPartyLabel": "Cookies własne",
+      "firstPartyDescription": "to pliki ustawiane bezpośrednio przez naszą stronę.",
+      "thirdPartyLabel": "Cookies stron trzecich",
+      "thirdPartyDescription": "są ustawiane przez dostawców zewnętrznych usług, których używamy – np. narzędzia analityczne, wideo, systemy rezerwacji czy reklamodawców. Strony trzecie odpowiadają za sposób przetwarzania zebranych danych; zachęcamy do zapoznania się z ich politykami prywatności."
+    },
+    "howWeUse": {
+      "title": "4. Jak wykorzystujemy pliki cookies",
+      "items": [
+        "Zapewnienie bezpieczeństwa i poprawnego funkcjonowania strony.",
+        "Zapamiętywanie Twoich zgód i preferencji.",
+        "Analiza ruchu i zrozumienie sposobów korzystania z witryny.",
+        "Ulepszanie treści, wydajności i wygody użytkowania (UX)."
+      ]
+    },
+    "manage": {
+      "title": "5. Zarządzanie plikami cookies",
+      "intro": "Możesz kontrolować pliki cookies na kilka sposobów:",
+      "browserSettings": {
+        "label": "Ustawienia przeglądarki:",
+        "description": "większość przeglądarek umożliwia blokowanie lub usuwanie ciasteczek – sprawdź sekcję pomocy w swojej przeglądarce."
+      },
+      "optOutTools": {
+        "label": "Narzędzia rezygnacji:",
+        "description": "wielu dostawców analityki i reklamy oferuje własne mechanizmy wycofania zgody (opt-out)."
+      },
+      "consentBanner": {
+        "label": "Baner zgody:",
+        "description": "tam, gdzie wymaga tego prawo, możesz zaktualizować swoje preferencje za pośrednictwem banera lub linku do ustawień na tej stronie."
+      },
+      "footer": "Zablokowanie niektórych plików cookies może wpłynąć na funkcjonalność części witryny."
+    },
+    "doNotTrack": {
+      "title": "6. Sygnał Do Not Track",
+      "body": "Niektóre przeglądarki oferują funkcję „Do Not Track” (DNT). Obecnie nie istnieje jednolity standard branżowy dotyczący reagowania na te sygnały, dlatego nasza strona na ten moment nie zmienia swojego działania po ich wykryciu."
+    },
+    "changes": {
+      "title": "7. Zmiany w niniejszej polityce",
+      "body": "Zastrzegamy sobie prawo do aktualizacji Polityki cookies w przypadku zmian w naszych praktykach lub przepisach prawa. Powyższa data „Ostatniej aktualizacji” odnosi się do najnowszej wersji."
+    },
+    "contact": {
+      "title": "8. Kontakt",
+      "body": "Masz pytania dotyczące stosowania przez nas plików cookies? Skontaktuj się z nami poprzez naszą",
+      "contactLink": "stronę kontaktową",
+      "privacySuffix": " lub zapoznaj się z",
+      "privacyLink": "Polityką prywatności",
+      "privacyEnd": ", aby dowiedzieć się, jak przetwarzamy dane osobowe."
+    }
+  },
+  "cta": {
+    "title": "Masz pytania o cookies?",
+    "description": "Chętnie wyjaśnimy, z jakich narzędzi korzystamy i dlaczego.",
+    "button": "Skontaktuj się z nami"
+  }
+}

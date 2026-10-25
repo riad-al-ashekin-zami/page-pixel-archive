@@ -1,0 +1,345 @@
+{
+  "meta": {
+    "title": "Pris på nettsider for dermatologer — Pakker, planer og transparente kostnader",
+    "description": "Transparent prismodell for nettsider innen dermatologi. Engangsbygg fra $797 til $18,999+, månedlige pakker fra $399, og à la carte-tillegg. Se nøyaktig hva du betaler før vi snakkes.",
+    "og": {
+      "title": "Pris på nettsider for dermatologer — Planer, pakker og kostnader",
+      "description": "Seks nettsidepakker, tre spesialiserte løsninger, fire månedlige pakker og over 20 à la carte-tillegg — med priskalkulator. Fullstendig åpen prismodell."
+    },
+    "jsonLd": {
+      "breadcrumb": {
+        "home": "Hjem",
+        "plans": "Planer og priser"
+      },
+      "priceSpec": {
+        "name": "Nettsidepakker for dermatologi"
+      }
+    }
+  },
+  "hero": {
+    "badge": "Transparente priser",
+    "heading": "Helt åpne priser. Ingen overraskende fakturaer.",
+    "description": "Seks nettsidepakker for engangskjøp, tre spesialiserte løsninger, fire månedlige pakker og 20+ tilleggstjenester — med en priskalkulator slik at du kjenner prisen før du prater med oss.",
+    "cta": "Se nettsidepakker",
+    "estimatorCta": "Priskalkulator"
+  },
+  "stats": {
+    "launched": "Dermatologiklinikker lansert",
+    "satisfaction": "Gjennomsnittlig kundetilfredshet",
+    "startingPrice": "Startpris (engangssum)",
+    "turnaround": "Gj.snittlig leveringstid på endringer"
+  },
+  "trust": {
+    "ariaLabel": "Tillit og garantier",
+    "guarantee": "30 dagers pengene-tilbake-garanti på utviklingsgebyr",
+    "guaranteeSub": "Ikke fornøyd før lansering? Pro-rata refusjon, ingen spørsmål stilt.",
+    "features": [
+      "HIPAA-forberedt",
+      "SSL + Sikkerhetskopiering",
+      "Ingen bindingstid",
+      "Du eier din egen side"
+    ]
+  },
+  "sections": {
+    "websitePackages": {
+      "label": "01 — Pakker for nettsideutvikling",
+      "title": "Engangsbygg. Seks tydelige nivåer.",
+      "description": "Velg størrelsen som passer i dag — oppgrader etter hvert som klinikken din vokser. Alle priser inkluderer design, utvikling, lansering og revisjoner.",
+      "popular": "Mest populær",
+      "flagship": "Flaggskip",
+      "otherAgencies": "Andre byråer:",
+      "bestFor": "Passer best for:",
+      "startWith": "Start med {{name}}",
+      "footer": "Alle priser i USD. Engangsgebyrer for utvikling. Ingen krav til månedlig binding.",
+      "items": [
+        {
+          "name": "Starter",
+          "subtitle": "Én side",
+          "bestFor": "Ny klinikk, selvstendig dermatolog, landingsside",
+          "price": "$797",
+          "priceNote": "engangssum",
+          "savings": "20–68 % rimeligere",
+          "features": [
+            "Nettside med én rullende side",
+            "Mobilvennlig design",
+            "Kontaktskjema + Ringeknapp",
+            "Google Maps-integrasjon",
+            "Grunnleggende on-page SEO",
+            "Veiledning for SSL + hosting",
+            "Levering: 1 uke",
+            "1 revisjonsrunde"
+          ],
+          "cons": [
+            "Ingen blogg eller pasientportal"
+          ]
+        },
+        {
+          "name": "Clinic Pro",
+          "subtitle": "5–8 Sider",
+          "bestFor": "Etablert selvstendig praksis / liten klinikk",
+          "price": "$1,997",
+          "priceNote": "engangssum",
+          "savings": "33–60 % rimeligere",
+          "features": [
+            "Hjem, Om oss, Tjenester (3–5), Kontakt",
+            "Timebestilling på nett",
+            "Før/Etter-bildegalleri",
+            "Legeprofil og dokumentasjon",
+            "Lokal SEO + GBP-optimalisering",
+            "HIPAA-kompatibelt kontaktskjema",
+            "Hastighetsoptimalisering",
+            "Levering: 2–3 uker",
+            "2 revisjonsrunder"
+          ]
+        },
+        {
+          "name": "Practice Growth",
+          "subtitle": "10–15 Sider",
+          "bestFor": "Klinikk i vekst, kosmetisk dermatologi",
+          "price": "$4,499",
+          "priceNote": "engangssum",
+          "savings": "10–55 % rimeligere",
+          "features": [
+            "Fullverdig flersidig nettside",
+            "Landingssider for ulike behandlinger",
+            "Integrasjon av pasientportal",
+            "Blogger (5 startinnlegg)",
+            "Avansert lokal SEO",
+            "Core Web Vitals-optimalisering",
+            "Logo + enkel profilering",
+            "Sosiale OG-tagger + Schema",
+            "Levering: 3–4 uker",
+            "3 revisjonsrunder"
+          ]
+        },
+        {
+          "name": "E-Commerce",
+          "subtitle": "Nettbutikk",
+          "bestFor": "Dermatologer som selger hudpleieprodukter",
+          "price": "$6,999",
+          "priceNote": "engangssum",
+          "savings": "12–53 % rimeligere",
+          "features": [
+            "Klinikknettside (10+ sider)",
+            "WooCommerce eller Shopify-butikk",
+            "Oppsett av produktkatalog (30 varer)",
+            "Betalingsløsning (Stripe / PayPal)",
+            "Ordrebehandlingssystem",
+            "Full SEO-pakke",
+            "Kombinert timebestilling og butikk",
+            "Levering: 4–6 uker"
+          ]
+        },
+        {
+          "name": "Authority Brand",
+          "subtitle": "Skreddersydd Enterprise",
+          "bestFor": "Klinikker med flere lokasjoner / høy omsetning",
+          "price": "$12,999",
+          "priceNote": "engangssum",
+          "savings": "13–56 % rimeligere",
+          "features": [
+            "Helt unik design (ingen maler)",
+            "20+ sider + lokale sider",
+            "Komplett merkevareprofilering + logo",
+            "Nettbutikk inkludert",
+            "Pasientportal + legeportal",
+            "Fullt HIPAA-oppsett",
+            "30 blogginnlegg / behandlingssider",
+            "Videointegrasjon",
+            "6 måneder SEO-oppfølging inkludert",
+            "Egen kundekontakt (Account Manager)",
+            "Levering: 6–10 uker"
+          ]
+        },
+        {
+          "name": "Enterprise Multi-Site",
+          "subtitle": "Klinikkjeder / Flere lokasjoner",
+          "bestFor": "Kjeder, 3+ lokasjoner, nasjonal praksis",
+          "price": "$18,999+",
+          "priceNote": "skreddersydd",
+          "savings": "24 %+ rimeligere",
+          "features": [
+            "Arkitektur for flere lokasjoner",
+            "Separat landingsside per lokasjon",
+            "Sentral CMS-kontroll",
+            "Enhetlig profil på tvers av sider",
+            "Lokal SEO for flere lokasjoner",
+            "Ansattportal for hver lokasjon",
+            "Tilbud basert på omfang",
+            "Prioritert support"
+          ]
+        }
+      ]
+    },
+    "specialty": {
+      "label": "02 — Spesialpakker",
+      "title": "Løsninger for spesifikke behov.",
+      "description": "Andre alternativer for bestemte behov — rask utrulling med maler, digital fokuserte klinikker, eller skreddersøm i mellomsjiktet.",
+      "market": "Markedspris:",
+      "cta": "Velg denne pakken",
+      "items": [
+        {
+          "name": "Malside",
+          "desc": "Ferdigbygd dermatologi-mal, tilpasset med din logo og ditt innhold. Levering: 5 dager. Begrenset tilpasning, men raskt og rimelig."
+        },
+        {
+          "name": "Telehelse / Portaloppsett",
+          "desc": "Integrasjon av telemedisin (Doxy.me, Zoom Health e.l.), oppsett av pasientportal, meldinger og timebestilling. Kan legges til alle pakker."
+        },
+        {
+          "name": "Premium skreddersøm",
+          "desc": "Mellomnivå mellom Practice Growth og Authority Brand. 15–20 sider, unik design, ingen maler, avansert SEO, 3 måneders support etter lansering."
+        }
+      ]
+    },
+    "bundles": {
+      "label": "03 — Månedlige pakketilbud",
+      "title": "Løpende tjenester, samlet for å spare.",
+      "description": "Legg til en månedlig pakke til din nettsideløsning. Pakkene sparer deg 15–25 % sammenlignet med enkeltkjøp — kan avsluttes når som helst med 30 dagers varsel.",
+      "recommended": "Mest anbefalt",
+      "bestLtv": "Beste verdi",
+      "add": "Legg til {{name}}",
+      "items": [
+        {
+          "name": "Essential Bundle",
+          "tag": "Hosting + Vedlikehold + Lokal SEO",
+          "desc": "Hosting, sikkerhet, månedlige oppdateringer, lokal SEO-overvåking og GBP-administrasjon. Spar $99/md."
+        },
+        {
+          "name": "Growth Bundle",
+          "tag": "Essential + Full SEO-kampanje",
+          "desc": "Alt i Essential + full SEO-kampanje (innhold, lenkebygging, teknisk SEO, rangeringrapporter). Vår mest anbefalte løsning."
+        },
+        {
+          "name": "Marketing Bundle",
+          "tag": "SEO + Google Ads + Sosiale medier + Anmeldelser",
+          "desc": "Full SEO- og Google Ads-administrasjon + sosiale medier (8 innlegg/md) + system for kundeomtaler. Full digital synlighet."
+        },
+        {
+          "name": "Full-Stack Bundle",
+          "tag": "Alt inkludert — Maksimal vekst",
+          "desc": "Marketing Bundle + e-post CRM-kampanjer + 2 blogginnlegg/md + omdømmehåndtering + kvartalsvise strategimøter + prioritert support. Beste effekt over tid."
+        }
+      ]
+    },
+    "addOns": {
+      "label": "04 — Tilleggstjenester og à la carte",
+      "title": "Hver tjeneste, hver pris.",
+      "description": "37 enkeltprisede tjenester — inkludert oppsett av SMTP for transaksjonell e-post. Legg til hva som helst, og se nøyaktig hvor mye du sparer sammenlignet med markedspris.",
+      "table": {
+        "service": "Tilleggstjeneste",
+        "ourPrice": "Vår pris",
+        "market": "Markedspris",
+        "type": "Type",
+        "bestFor": "Passer best for"
+      }
+    },
+    "custom": {
+      "badge": "Trenger du noe helt eget?",
+      "title": "Kjeder, sykehus eller spesialbygg?",
+      "description": "For større kjeder og sykehuspartnere utarbeider vi skreddersydde programmer med fastpris, dedikerte ingeniører og kvartalsvise rapporter.",
+      "quoteCta": "Be om et pristilbud",
+      "pricingCta": "Vis priser og pakker"
+    }
+  },
+  "estimator": {
+    "label": "05 — Priskalkulator",
+    "title": "Se totalprisen før du snakker med oss.",
+    "description": "Velg en nettsidepakke, legg til en månedlig pakke og velg tilleggstjenester — summen oppdateres fortløpende.",
+    "form": {
+      "websitePackage": "Nettsidepakke",
+      "monthlyBundle": "Månedlig pakke",
+      "logo": "Logodesign · $450 per stk.",
+      "extraPages": "Ekstra behandlingssider · $200 per stk.",
+      "blogPosts": "Blogginnlegg · $120 per stk.",
+      "portal": "Integrasjon av pasientportal",
+      "portalAdd": "+$999 (engangssum)"
+    },
+    "aria": {
+      "decrease": "Minsk",
+      "increase": "Øk"
+    },
+    "summary": {
+      "title": "Ditt estimat",
+      "build": "Nettsideutvikling",
+      "bundle": "Månedlig pakke",
+      "oneTime": "Totalt engangssum",
+      "monthly": "Løpende månedlig",
+      "yearOne": "Totalt første år",
+      "ongoing": "Deretter {{amount}} / år løpende",
+      "lockIn": "Lås dette tilbudet"
+    }
+  },
+  "testimonials": {
+    "label": "Hva kundene sier",
+    "title": "Forutsigbare priser, forutsigbare resultater.",
+    "items": [
+      {
+        "name": "Dr. Meera Balakrishnan, MD",
+        "role": "NBS Laser",
+        "quote": "Transparente priser. Ingen uventede regninger. Vi visste nøyaktig hva vi skulle betale før vi signerte — og fakturaen stemte hver eneste måned."
+      },
+      {
+        "name": "Dr. Julian Reyes, MD",
+        "role": "CP Dermatology",
+        "quote": "Clinic Pro-pakken tjente seg inn allerede i måned to. Bare det å bygge om bookingsystemet doblet antallet henvendelser."
+      }
+    ]
+  },
+  "faq": {
+    "label": "06 — Ofte stilte spørsmål",
+    "title": "Svar på spørsmål om pris.",
+    "items": [
+      {
+        "q": "Betaler jeg en engangssum, et månedsbeløp eller begge deler?",
+        "a": "Nettsidepakker har et engangsgebyr for utvikling. Løpende tjenester — som hosting, SEO, annonser og vedlikehold — er månedlige pakker eller enkeltkjøp. De fleste klinikker kombinerer én utviklingspakke med én månedlig pakke. Du får alltid se den nøyaktige totalsummen i tilbudet ditt."
+      },
+      {
+        "q": "Hva er inkludert i engangsprisen for utvikling?",
+        "a": "Design, utvikling, innholdsstruktur, on-page SEO, integrasjoner spesifisert i pakken, HIPAA-forberedte skjemaer der det er relevant, lansering og fastsatte revisjonsrunder. Vi fakturerer ikke per time under utvikling — prisen i tilbudet er det du betaler."
+      },
+      {
+        "q": "Må jeg kjøpe en månedlig pakke?",
+        "a": "Nei. Månedlige pakker er valgfrie. Du kan bruke din egen hosting og administrere siden selv, eller velge enkelttjenester à la carte. Pakkene er der rett og slett for at du skal spare penger sammenlignet med enkeltkjøp."
+      },
+      {
+        "q": "Kan jeg oppgradere fra Starter til Clinic Pro senere?",
+        "a": "Ja. Alle pakkene bygger på det samme systemet, så en oppgradering regnes som en endring i omfang — du betaler prisforskjellen pluss eventuelt migreringsarbeid. Ingenting av det du allerede har bygd går til spille."
+      },
+      {
+        "q": "Eier dere siden min hvis jeg slutter å betale månedlig?",
+        "a": "Du eier siden din uansett. Domene, merkevareelementer, innhold, kode og database er din eiendom. Stopper du en månedlig pakke, avsluttes den løpende tjenesten, men siden fortsetter å fungere på den vertsplattformen du selv velger."
+      },
+      {
+        "q": "Er HIPAA / BAA inkludert?",
+        "a": "HIPAA-arkitektur er inkludert fra Clinic Pro og oppover. En signert Business Associate Agreement (BAA) er inkludert i Authority Brand og Enterprise Multi-Site, og tilgjengelig som tillegg for andre pakker."
+      },
+      {
+        "q": "Hva om jeg trenger noe som ikke står på listen?",
+        "a": "Spesialtilpasninger — som egne integrasjoner, synkronisering med pasientjournalsystemer (EHR) eller import av kataloger — prissettes til fastpris etter et planleggingsmøte. Du vil alltid få et skriftlig tilbud før arbeidet starter."
+      },
+      {
+        "q": "Tilbyr dere refusjon?",
+        "a": "Utvikling av nettsider kan refunderes pro-rata frem til endelig godkjenning for lansering. Månedlige pakker refunderes ikke for inneværende syklus, men du kan si opp når som helst med 30 dagers varsel."
+      }
+    ]
+  },
+  "cta": {
+    "badge": "Ingen binding · Du eier siden selv",
+    "title": "Klar for å se din pris?",
+    "description": "Få en spesifisert plan, et fast pristilbud og en anbefalt løsning i løpet av en 20 minutters samtale. Helt uforpliktende.",
+    "button": "Få mitt tilbud",
+    "delivery": "Skriftlig forslag innen 48 timer"
+  },
+  "related": {
+    "text": "Les også: ",
+    "process": "hvordan vi gjennomfører prosjekter",
+    "portfolio": "se våre siste lanseringer",
+    "caseStudies": "reelle resultater fra kunder"
+  },
+  "stickyCta": {
+    "label": "Få et fastpristilbud",
+    "description": "Skriftlig forslag · 48 timer",
+    "button": "Få tilbud"
+  }
+}

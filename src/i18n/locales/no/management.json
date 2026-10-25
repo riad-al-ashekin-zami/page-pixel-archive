@@ -1,0 +1,458 @@
+{
+  "meta": {
+    "title": "Nettstedstyring for dermatologer — et team fokusert på vekst",
+    "description": "Fullservice-drift av nettsteder for hudleger: dedikert kontaktperson, månedlig innhold, SEO-styring, A/B-testing, konverteringsoptimalisering og rapportering. Løpende avtaler uten bindingstid.",
+    "og": {
+      "title": "Nettstedstyring for dermatologer — ditt vekstteam",
+      "description": "Et dedikert team drifter ditt nettsted hver uke — innhold, SEO, CRO, kampanjer og rapportering. HIPAA-aware. Ingen bindingstid."
+    }
+  },
+  "hero": {
+    "badge": "Drift av dermatologiske nettsteder",
+    "headline": "Et vekstteam som drifter ditt nettsted — hver eneste uke.",
+    "subheading": "Strategi, innhold, SEO, konverteringstester og rapportering — håndtert av et eget team. Du kan slutte å bekymre deg for nettsiden og heller fokusere på nye pasienter.",
+    "cta_primary": "Få en vekstplan",
+    "cta_secondary": "Gratis revisjon først",
+    "trust": {
+      "account_manager": "Dedikert kontaktperson",
+      "contract": "Ingen bindingstid",
+      "hipaa": "HIPAA-aware"
+    }
+  },
+  "dashboard": {
+    "title": "Vekst-oversikt",
+    "status": "Siste 30 dager · live",
+    "badge": "I RUTE",
+    "kpis": {
+      "bookings": "Organiske bestillinger",
+      "conversion": "Skjemakonvertering",
+      "rankings": "Sider i topp 10",
+      "session": "Snitt-økt (s)"
+    },
+    "roadmap": {
+      "title": "Månedsplan",
+      "progress": "av 5 fullført",
+      "items": [
+        "Ny side for Mohs kirurgi er live",
+        "A/B-test av CTA på forsiden — variant B +18 %",
+        "6 blogginnlegg om akne publisert",
+        "Oppdatering av behandler-biografier — til vurdering",
+        "Høstkampanje for hudpleie — planlagt"
+      ]
+    }
+  },
+  "stats": {
+    "label": "Reelle tall",
+    "headline": "9 måneder med et dedikert team.",
+    "description": "Sammensatte resultater på tvers av 24 hudklinikker vi drifter.",
+    "items": [
+      {
+        "value": "+214 %",
+        "label": "Organiske bestillinger"
+      },
+      {
+        "value": "+3,2×",
+        "label": "Sider i topp 10"
+      },
+      {
+        "value": "+41 %",
+        "label": "Konverteringsrate for skjema"
+      }
+    ]
+  },
+  "pillars": {
+    "label": "Hva vi håndterer",
+    "headline": "Seks grunnpilarer, ett dedikert team.",
+    "subheading": "Vi er ikke et byrå som bare krysser av på en liste. Vi er et tverrfaglig team som tar ansvar for din digitale vekst fra A til Å.",
+    "items": [
+      {
+        "title": "Strategi og veikart",
+        "desc": "Kvartalsvise vekstplaner knyttet til dine mest lønnsomme tjenester, nyansettelser og sesongsvingninger."
+      },
+      {
+        "title": "Innholdsproduksjon",
+        "desc": "Månedlig redaksjonskalender — diagnosesider, biografier, blogg, før/etter-bilder og sesongtilbud."
+      },
+      {
+        "title": "Konverteringsoptimalisering",
+        "desc": "A/B-testing av tittelfelt, skjemaer og knapper. Hvert kvartal leverer vi målbare løft i bestillingsraten."
+      },
+      {
+        "title": "Analyse og rapportering",
+        "desc": "Alt på ett sted — trafikk, samtaler, skjemaer og omsetning per tjeneste. Månedlig gjennomgang med din rådgiver."
+      },
+      {
+        "title": "SEO-styring",
+        "desc": "Kontinuerlig on-page SEO, strukturert data, internlenking og teknisk vedlikehold etter hvert som siden vokser."
+      },
+      {
+        "title": "Kampanjeutførelse",
+        "desc": "Lansering av landingssider for nye tjenester, ansatte, lokasjoner eller kampanjer — planlagt og live på få dager."
+      }
+    ]
+  },
+  "pod": {
+    "label": "Møt teamet ditt",
+    "headline": "Eget team — de samme folka hver måned.",
+    "subheading": "Fem spesialistroller som jobber dedikert med din klinikk. Ingen utskiftninger av kontaktpersoner eller uklare ansvarsforhold.",
+    "members": [
+      {
+        "role": "Account Manager",
+        "name": "Jordan R.",
+        "desc": "Ansvarlig for din strategi og fremdrift. Ditt faste kontaktpunkt."
+      },
+      {
+        "role": "Innholdsstrateg",
+        "name": "Priya S.",
+        "desc": "Utvikler den redaksjonelle kalenderen din hver måned."
+      },
+      {
+        "role": "Medisinsk skribent",
+        "name": "Dr. Alex M.",
+        "desc": "Faglig kvalitetssikret innhold for alle diagnoser."
+      },
+      {
+        "role": "SEO-ansvarlig",
+        "name": "Marcus L.",
+        "desc": "Styrer rangeringer, strukturert data og nettstedets helse."
+      },
+      {
+        "role": "Utvikler",
+        "name": "Sana K.",
+        "desc": "Lanserer landingssider, tester og integrasjoner."
+      }
+    ]
+  },
+  "sprint": {
+    "label": "Slik jobber vi",
+    "headline": "Månedlige sprinter — forutsigbart og målbart.",
+    "subheading": "Hver måned følger samme rytme, slik at du alltid vet hva som blir levert.",
+    "phases": [
+      {
+        "id": "Uke 1",
+        "title": "Gjennomgang og prioritering",
+        "items": [
+          "Resultater mot mål",
+          "Gjennomgang av oppgaver",
+          "Uthenting av 3 hovedprioriteringer"
+        ]
+      },
+      {
+        "id": "Uke 2",
+        "title": "Bygging og lansering",
+        "items": [
+          "Publisering av innhold",
+          "Nye nettsider går live",
+          "A/B-tester aktiveres"
+        ]
+      },
+      {
+        "id": "Uke 3",
+        "title": "Måling og læring",
+        "items": [
+          "Analyse av trafikk og bestillinger",
+          "Gjennomgang av varmekart",
+          "Vinner-varianter implementeres"
+        ]
+      },
+      {
+        "id": "Uke 4",
+        "title": "Rapport og planlegging",
+        "items": [
+          "Månedsrapport til ledelsen",
+          "Strategimøte",
+          "Veikart for neste måned"
+        ]
+      }
+    ]
+  },
+  "deliverables": {
+    "label": "Hver måned, rett i innboksen",
+    "headline": "Se nøyaktig hva du får.",
+    "tabs": {
+      "content": {
+        "label": "Innholdskalender",
+        "title": "Denne månedens redaksjonskalender",
+        "desc": "Hver artikkel er planlagt, medisinsk kvalitetssikret og tidsinnstilt.",
+        "items": [
+          {
+            "date": "03. okt",
+            "text": "Akne hos voksne — omskriving av diagnoseside",
+            "tag": "SEO"
+          },
+          {
+            "date": "09. okt",
+            "text": "Mohs kirurgi: dette kan du forvente (blogg)",
+            "tag": "Tillit"
+          },
+          {
+            "date": "15. okt",
+            "text": "Dr. Chen — biografi + video",
+            "tag": "Behandler"
+          },
+          {
+            "date": "22. okt",
+            "text": "Landingsside for høstkampanje (tørr hud)",
+            "tag": "Kampanje"
+          },
+          {
+            "date": "29. okt",
+            "text": "Barneeksem — guide for foreldre",
+            "tag": "SEO"
+          }
+        ]
+      },
+      "seo": {
+        "label": "SEO-styring",
+        "title": "SEO i praksis",
+        "desc": "Kontinuerlig teknisk vedlikehold slik at rangeringene dine øker over tid.",
+        "items": [
+          "24 on-page optimaliseringer utført",
+          "Strukturert data (schema) på 6 nye sider",
+          "138 interne lenker lagt til",
+          "12 tilfeller av søkeords-kannibalisering løst",
+          "Core Web Vitals: LCP 1.8s → 1.2s"
+        ]
+      },
+      "cro": {
+        "label": "CRO-eksperimenter",
+        "title": "Aktive A/B-tester",
+        "desc": "Hver måned gjør vi tiltak som målbart forbedrer bestillingsraten.",
+        "items": [
+          {
+            "test": "Tekst på forsiden (CTA)",
+            "result": "+18 % klikk"
+          },
+          {
+            "test": "Fast bestillingsknapp på mobil",
+            "result": "+11 % flere påbegynte skjemaer"
+          },
+          {
+            "test": "3-stegs vs. 1-sides skjema",
+            "result": "Pågår · 62 %"
+          },
+          {
+            "test": "Stil på behandlerbilder",
+            "result": "+7 % dypdykk i profiler"
+          }
+        ]
+      },
+      "reports": {
+        "label": "Månedsrapport",
+        "title": "Rapport til ledelsen",
+        "desc": "Én side. Hva er gjort, hva har endret seg, og hva skjer videre.",
+        "items": [
+          "Nedbrytning av trafikk og kilder",
+          "Nye pasientbestillinger per tjeneste",
+          "Endringer i rangeringer (opp/ned)",
+          "Utførte oppgaver og deres effekt",
+          "Prioriteringer for neste måned"
+        ]
+      }
+    }
+  },
+  "audiences": {
+    "label": "Hvem vi jobber for",
+    "headline": "Bygget for alle typer dermatologiske praksiser.",
+    "items": [
+      {
+        "label": "Selvstendige hudleger",
+        "desc": "Én dedikert rådgiver som drifter hele din digitale tilstedeværelse som et internt team."
+      },
+      {
+        "label": "Klinikker med flere lokasjoner",
+        "desc": "Innholdskalendere per lokasjon, enhetlig merkevare og ett felles strategisk veikart."
+      },
+      {
+        "label": "Barnehudleger",
+        "desc": "Innholdsstrategi rettet mot foreldre, sesongbaserte kampanjer og brukervennlighet for barnefamilier."
+      },
+      {
+        "label": "Mohs og kirurgisk dermatologi",
+        "desc": "Henvisningsdrevet innhold, kirurgbiografier og bildegallerier med fokus på resultater."
+      }
+    ]
+  },
+  "medical_services": {
+    "label": "Alle tjenester, alle sider",
+    "headline": "Medisinske tjenester vi drifter innhold for.",
+    "subheading": "Diagnosesider, biografier, behandlingsguider og kampanjesider — alle medisinsk kvalitetssikret.",
+    "list": [
+      "Aknebehandling",
+      "Eksembehandling",
+      "Psoriasisbehandling",
+      "Hudinfeksjoner",
+      "Hudallergier",
+      "Sjekk og behandling av hudkreft",
+      "Vurdering og fjerning av føflekker",
+      "Fjerning av cyster og lipomer",
+      "Vortefjerning",
+      "Behandling av neglesykdommer",
+      "Hårtapbehandling",
+      "Behandling av hodebunnssykdommer",
+      "Rosaceabehandling",
+      "Hyperpigmentering og melasma",
+      "Arrbehandling",
+      "Behandling av brannskadearr",
+      "Vitiligobehandling",
+      "Hudbiopsi og diagnostikk"
+    ]
+  },
+  "comparison": {
+    "label": "Velg riktig støttenivå",
+    "headline": "Management vs. vedlikehold vs. gjør-det-selv.",
+    "subheading": "Vedlikehold holder deg på nett. Management får deg til å vokse.",
+    "headers": {
+      "feature": "Funksjon",
+      "mgmt": "Management",
+      "maint": "Vedlikehold",
+      "diy": "DIY"
+    },
+    "rows": [
+      "Dedikert kontaktperson",
+      "24/7 oppetid + sikkerhetsoppdateringer",
+      "Månedlig innhold + landingssider",
+      "Kontinuerlig SEO-styring",
+      "A/B-testing og CRO",
+      "Månedsrapport til ledelsen",
+      "Strategimøter med teamet ditt",
+      "Forutsigbar månedspris"
+    ],
+    "tags": {
+      "add_on": "tillegg",
+      "basic": "basis"
+    },
+    "footer": "Trenger du vedlikehold også? Det kan bakes inn i alle våre planer.",
+    "footer_link": "Se vedlikehold →"
+  },
+  "plans": {
+    "label": "Management-planer",
+    "headline": "Forutsigbar pris. Ekte mennesker. Reelle resultater.",
+    "items": [
+      {
+        "name": "Managed",
+        "price": "$799",
+        "term": "/måned",
+        "tag": "For enkeltpraksiser",
+        "market_label": "Markedspris:",
+        "market_value": "$1 500 – $3 500 /mnd",
+        "savings": "47–77 % rimeligere",
+        "features": [
+          "Dedikert kontaktperson",
+          "4 innholdsproduksjoner i måneden",
+          "2 landingssider i kvartalet",
+          "Månedlig strategimøte",
+          "Dashbord for analyse",
+          "SEO-styring"
+        ],
+        "cta": "Start med Managed"
+      },
+      {
+        "name": "Managed Plus",
+        "price": "$1 499",
+        "term": "/måned",
+        "tag": "Mest populær",
+        "market_label": "Markedspris:",
+        "market_value": "$3 000 – $7 000 /mnd",
+        "savings": "50–79 % rimeligere",
+        "features": [
+          "Alt i Managed",
+          "8 innholdsproduksjoner i måneden",
+          "1 landingsside i måneden",
+          "Strategimøte annenhver uke",
+          "Kvartalsvis A/B-test-program",
+          "Konverteringsoptimalisering",
+          "Prioriterte kampanjelanseringer"
+        ],
+        "cta": "Start med Managed Plus"
+      },
+      {
+        "name": "Flere lokasjoner",
+        "price": "Tilpasset",
+        "tag": "For 3+ lokasjoner",
+        "market_label": "Markedspris:",
+        "market_value": "$6 000+ /mnd",
+        "savings": "Opptil 60 % rimeligere",
+        "features": [
+          "Innholdsplan per lokasjon",
+          "Rapportering per lokasjon",
+          "Systematisk innhold for behandlere",
+          "Ukentlig strategimøte",
+          "Dedikert vekstteam",
+          "Ubegrenset antall kampanjesider"
+        ],
+        "cta": "Kontakt oss om flere lokasjoner"
+      }
+    ]
+  },
+  "testimonials": {
+    "label": "Hva klinikkene sier",
+    "headline": "Fungerer som vårt eget interne team.",
+    "items": [
+      {
+        "name": "Dr. Nadia Patel, MD",
+        "role": "NL Dermatology",
+        "quote": "Det er som å ha en markedssjef uten lønnskostnaden. Hver måned lanserer vi noe nytt som faktisk gir utslag på bestillingene."
+      },
+      {
+        "name": "Dr. Marcus Whitfield, MD",
+        "role": "Whitfield Skin & Mohs",
+        "quote": "På ni måneder ble de organiske bestillingene våre tredoblet. Ikke på grunn av ett enkelt tiltak, men fordi noen har ansvaret for siden hver eneste uke."
+      },
+      {
+        "name": "Dr. Serena Kohli, MD",
+        "role": "KP Dermatology · 4 lokasjoner",
+        "quote": "Fire lokasjoner, fire innholdskalendere, ett team. Jeg får alt servert i ett dashbord. Det i seg selv er verdt prisen."
+      }
+    ]
+  },
+  "faq": {
+    "label": "Ofte stilte spørsmål",
+    "headline": "Spørsmål og svar.",
+    "items": [
+      {
+        "q": "Hvordan skiller management seg fra vedlikehold?",
+        "a": "Vedlikehold holder siden din på nett, sikker og oppdatert. Management får siden til å vokse — gjennom nytt innhold, nye sider, kontinuerlig SEO, A/B-testing, konverteringsoptimalisering, kampanjer og månedlig strategi. De fleste klinikker trenger begge deler; våre planer kan inkludere vedlikehold."
+      },
+      {
+        "q": "Hvem gjør selve jobben?",
+        "a": "Du får en dedikert kontaktperson med erfaring innen dermatologi, pluss et team: innholdsstrateg, medisinsk skribent, designer, utvikler og SEO-spesialist. De samme personene hver måned."
+      },
+      {
+        "q": "Hvor lang tid tar det før vi ser resultater?",
+        "a": "Betydelig løft i SEO og bestillinger vises vanligvis mellom måned 3 og 6. Innhold, landingssider og optimalisering av knapper viser ofte økt konvertering allerede innen 30–60 dager."
+      },
+      {
+        "q": "Skriver dere medisinsk innhold?",
+        "a": "Ja — alle diagnosesider og blogginnlegg skrives av en medisinsk skribent, kvalitetssikres mot dermatologiske retningslinjer og godkjennes av ditt team før publisering."
+      },
+      {
+        "q": "Kan vi pause eller si opp avtalen?",
+        "a": "Vi har løpende månedsavtaler uten bindingstid. Ved oppsigelse beholder du alt innhold, sider, planer, analyseoppsett og kreative filer."
+      },
+      {
+        "q": "Integrerer dere med våre fagsystemer?",
+        "a": "Ja. Vi integrerer med de største journalsystemene og bookingplattformene (ModMed, Nextech, Athenahealth, Zocdoc med flere), slik at bestillinger går direkte inn i din eksisterende arbeidsflyt."
+      }
+    ]
+  },
+  "cta_bottom": {
+    "headline": "Klar for å overlate nettsiden til et team som skaper vekst?",
+    "subheading": "Start med en gratis revisjon. Hvis vi er en god match, har du et dedikert team i gang innen 7 dager.",
+    "primary": "Få en vekstplan",
+    "secondary": "Gratis nettsiderevisjon"
+  },
+  "footer_considerations": {
+    "prefix": "Du er kanskje også interessert i:",
+    "links": {
+      "maintenance": "rutinemessig vedlikehold",
+      "support": "brukerstøtte ved behov",
+      "full_management": "hva full styring innebærer"
+    }
+  },
+  "json_ld": {
+    "service_type": "Nettstedstyring for dermatologer",
+    "provider_name": "DermatologyWebsiteDesign.com",
+    "offer_description": "Drift og styring av dermatologiske nettsteder — startpris per måned"
+  }
+}

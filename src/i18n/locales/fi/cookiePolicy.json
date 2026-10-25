@@ -1,0 +1,108 @@
+{
+  "meta": {
+    "title": "Evästekäytäntö — Näin käytämme evästeitä",
+    "description": "Tietoa sivustollamme käytettävistä evästeistä ja vastaavista teknologioista, niiden käyttötarkoituksista sekä hallintamahdollisuuksistasi.",
+    "og": {
+      "title": "Evästekäytäntö — Näin käytämme evästeitä",
+      "description": "Tietoa sivustollamme käytettävistä evästeistä ja vastaavista teknologioista, niiden käyttötarkoituksista sekä hallintamahdollisuuksistasi."
+    },
+    "twitter": {
+      "title": "Evästekäytäntö — Näin käytämme evästeitä",
+      "description": "Tietoa sivustollamme käytettävistä evästeistä ja vastaavista teknologioista, niiden käyttötarkoituksista sekä hallintamahdollisuuksistasi."
+    }
+  },
+  "layout": {
+    "skipToContent": "Siirry sisältöön"
+  },
+  "hero": {
+    "badge": "Lakitiedot · Evästekäytäntö",
+    "title": "Evästekäytäntö",
+    "description": "Tietoa käyttämistämme evästeistä ja vastaavista teknologioista, niiden tarkoituksesta sekä hallintamahdollisuuksistasi. Lue tämä yhdessä",
+    "privacyPolicyLink": "tietosuojaselosteemme",
+    "lastUpdated": "Päivitetty viimeksi:",
+    "lastUpdatedDate": "14. heinäkuuta 2026"
+  },
+  "sidebar": {
+    "contents": "Sisällysluettelo",
+    "navAriaLabel": "Osion navigointi"
+  },
+  "sections": {
+    "whatAreCookies": {
+      "title": "1. Mitä evästeet ovat?",
+      "body": "Evästeet ovat pieniä tekstitiedostoja, jotka tallentuvat laitteellesi vieraillessasi verkkosivustolla. Ne auttavat sivustoa muistamaan toimintosi ja asetuksesi. Käytämme myös vastaavia teknologioita, kuten paikallista tallennustilaa ja seurantapikseleitä – näihin kaikkiin viitataan tässä käytännössä yhteisnimityksellä ”evästeet”."
+    },
+    "types": {
+      "title": "2. Käyttämämme evästetyypit",
+      "strictlyNecessary": {
+        "label": "Välttämättömät evästeet:",
+        "description": "Tarvitaan sivuston ydintoimintoihin, kuten navigointiin, tietoturvaan ja suostumusasetusten muistamiseen. Näitä ei voi poistaa käytöstä."
+      },
+      "performance": {
+        "label": "Suorituskyky ja analytiikka:",
+        "description": "Auttavat meitä ymmärtämään, miten kävijät käyttävät sivustoa, jotta voimme kehittää sitä (esim. katsotut sivut, viipymäaika ja liikenteen lähteet)."
+      },
+      "functional": {
+        "label": "Toiminnalliset evästeet:",
+        "description": "Muistavat tekemäsi valinnat (kuten kieliasetukset tai alueen) tarjotakseen yksilöllisemmän käyttökokemuksen."
+      },
+      "marketing": {
+        "label": "Markkinointievästeet:",
+        "description": "Me tai kumppanimme käytämme näitä kampanjoiden tehokkuuden mittaamiseen ja tarvittaessa relevantin sisällön näyttämiseen muilla sivustoilla."
+      }
+    },
+    "firstVsThird": {
+      "title": "3. Ensimmäisen ja kolmannen osapuolen evästeet",
+      "firstPartyLabel": "Ensimmäisen osapuolen",
+      "firstPartyDescription": "evästeet ovat tämän sivuston asettamia.",
+      "thirdPartyLabel": "Kolmannen osapuolen",
+      "thirdPartyDescription": "evästeet ovat käyttämiemme palveluntarjoajien – kuten analytiikka-, video-, ajanvaraus- tai mainoskumppaneiden – asettamia. Kolmannet osapuolet vastaavat itse keräämiensä tietojen käytöstä; tutustu heidän omiin eväste- ja tietosuojakäytäntöihinsä."
+    },
+    "howWeUse": {
+      "title": "4. Miten käytämme evästeitä",
+      "items": [
+        "Sivuston tietoturvan ja oikean toiminnan varmistaminen.",
+        "Suostumustesi ja asetustesi muistaminen.",
+        "Liikenteen mittaaminen ja käyttötapojen analysointi.",
+        "Sisällön, suorituskyvyn ja käyttökokemuksen parantaminen."
+      ]
+    },
+    "manage": {
+      "title": "5. Evästeiden hallinta",
+      "intro": "Voit hallita evästeitä useilla tavoilla:",
+      "browserSettings": {
+        "label": "Selaimen asetukset:",
+        "description": "Useimmat selaimet mahdollistavat evästeiden estämisen tai poistamisen – katso lisätietoja selaimesi ohjeista."
+      },
+      "optOutTools": {
+        "label": "Kieltäytymistyökalut:",
+        "description": "Monet analytiikka- ja mainospalvelut tarjoavat omia työkalujaan evästeiden käytön estämiseen."
+      },
+      "consentBanner": {
+        "label": "Suostumuspalkki:",
+        "description": "Lain edellyttämissä tapauksissa voit päivittää suostumuksesi sivuston evästebannerin tai asetusten kautta."
+      },
+      "footer": "Joidenkin evästeiden estäminen voi vaikuttaa sivuston tiettyjen osien toimivuuteen."
+    },
+    "doNotTrack": {
+      "title": "6. Do Not Track (DNT)",
+      "body": "Jotkin selaimet tarjoavat ”Do Not Track” -signaalin. Tämän signaalin vastaamiseen ei ole yhtenäistä alan standardia, joten sivustomme ei tällä hetkellä muuta toimintaansa DNT-signaalien perusteella."
+    },
+    "changes": {
+      "title": "7. Muutokset evästekäytäntöön",
+      "body": "Saatamme päivittää tätä evästekäytäntöä toimintatapojemme tai lainsäädännön muuttuessa. Yllä oleva ”Päivitetty viimeksi” -päivämäärä kertoo voimassa olevan version."
+    },
+    "contact": {
+      "title": "8. Yhteydenotto",
+      "body": "Onko sinulla kysyttävää evästeiden käytöstä? Ota meihin yhteyttä",
+      "contactLink": "yhteydenottosivumme",
+      "privacySuffix": " kautta, tai lue",
+      "privacyLink": "tietosuojaselosteemme",
+      "privacyEnd": "saadaksesi lisätietoa henkilötietojen käsittelystä."
+    }
+  },
+  "cta": {
+    "title": "Kysyttävää evästeistä?",
+    "description": "Kerromme mielellämme lisää siitä, mitä työkaluja käytämme ja miksi.",
+    "button": "Ota yhteyttä"
+  }
+}

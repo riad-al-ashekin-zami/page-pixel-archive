@@ -1,0 +1,458 @@
+{
+  "meta": {
+    "title": "Serviços de Gestão de Websites de Dermatologia — Focados no Crescimento",
+    "description": "Gestão completa de websites de dermatologia: gestor de conta dedicado, conteúdos mensais, SEO, testes A/B, otimização de conversão e relatórios executivos. Sem fidelização.",
+    "og": {
+      "title": "Serviços de Gestão de Websites de Dermatologia — A Sua Equipa de Crescimento",
+      "description": "Uma equipa dedicada gere o seu website de dermatologia todas as semanas — conteúdos, SEO, CRO, campanhas e relatórios. Conformidade HIPAA. Mês a mês."
+    }
+  },
+  "hero": {
+    "badge": "Gestão de Websites de Dermatologia",
+    "headline": "Uma equipa de crescimento que gere o seu website de dermatologia — todas as semanas.",
+    "subheading": "Estratégia, conteúdos, SEO, testes de conversão e relatórios — assegurados por uma equipa dedicada. Deixe de se preocupar com o site e comece a receber novos pacientes através dele.",
+    "cta_primary": "Obter plano de crescimento",
+    "cta_secondary": "Auditoria gratuita primeiro",
+    "trust": {
+      "account_manager": "Gestor de conta dedicado",
+      "contract": "Sem fidelização mensal",
+      "hipaa": "Conformidade HIPAA"
+    }
+  },
+  "dashboard": {
+    "title": "Painel de Crescimento",
+    "status": "Últimos 30 dias · em direto",
+    "badge": "NO CAMINHO CERTO",
+    "kpis": {
+      "bookings": "Marcações orgânicas",
+      "conversion": "Conversão de formulários",
+      "rankings": "Páginas no top 10",
+      "session": "Sessão média (s)"
+    },
+    "roadmap": {
+      "title": "Plano para este mês",
+      "progress": "de 5 concluídos",
+      "items": [
+        "Nova página de cirurgia de Mohs publicada",
+        "Teste A/B de CTA na Homepage — variante B +18%",
+        "6 artigos de blog sobre acne publicados",
+        "Atualização de biografias clínicas — em revisão",
+        "Campanha de cuidados de pele de outono — planeada"
+      ]
+    }
+  },
+  "stats": {
+    "label": "Números reais",
+    "headline": "9 meses com uma equipa dedicada.",
+    "description": "Resultados agregados de 24 clínicas de dermatologia geridas por nós.",
+    "items": [
+      {
+        "value": "+214%",
+        "label": "Marcações orgânicas"
+      },
+      {
+        "value": "+3.2×",
+        "label": "Páginas no top 10"
+      },
+      {
+        "value": "+41%",
+        "label": "Taxa de conversão de formulários"
+      }
+    ]
+  },
+  "pillars": {
+    "label": "O que gerimos",
+    "headline": "Seis pilares, uma equipa dedicada.",
+    "subheading": "Não somos uma agência de listas de tarefas. Somos uma equipa multidisciplinar que assume o seu crescimento web de ponta a ponta.",
+    "items": [
+      {
+        "title": "Estratégia e Roadmap",
+        "desc": "Plano trimestral de crescimento alinhado com os seus serviços mais rentáveis, novas contratações e procura sazonal."
+      },
+      {
+        "title": "Operações de Conteúdo",
+        "desc": "Calendário editorial mensal — páginas de condições, biografias, blog, casos antes/depois e ofertas sazonais."
+      },
+      {
+        "title": "Otimização de Conversão",
+        "desc": "Testes A/B em cabeçalhos, formulários e CTAs. Trimestralmente, entregamos melhorias mensuráveis na taxa de marcação."
+      },
+      {
+        "title": "Análise e Relatórios",
+        "desc": "Um único painel — tráfego, chamadas, formulários e faturação por serviço. Reunião mensal de revisão com o seu gestor."
+      },
+      {
+        "title": "Governação de SEO",
+        "desc": "SEO on-page contínuo, schema, links internos e higiene técnica à medida que o seu site cresce."
+      },
+      {
+        "title": "Execução de Campanhas",
+        "desc": "Lançamento de páginas para novos serviços, médicos, localizações ou promoções — planeadas e online em poucos dias."
+      }
+    ]
+  },
+  "pod": {
+    "label": "Conheça a sua equipa",
+    "headline": "Uma equipa dedicada — a mesma equipa todos os meses.",
+    "subheading": "Cinco especialistas focados na sua clínica. Sem rotação de gestores nem passagens de testemunho.",
+    "members": [
+      {
+        "role": "Gestor de Conta",
+        "name": "Jordan R.",
+        "desc": "Responsável pelo roadmap. O seu único ponto de contacto."
+      },
+      {
+        "role": "Estrategista de Conteúdo",
+        "name": "Priya S.",
+        "desc": "Cria o seu calendário editorial todos os meses."
+      },
+      {
+        "role": "Redator Médico",
+        "name": "Dr. Alex M.",
+        "desc": "Conteúdo revisto por especialistas para cada patologia."
+      },
+      {
+        "role": "Líder de SEO",
+        "name": "Marcus L.",
+        "desc": "Gere rankings, schema e a saúde técnica do site."
+      },
+      {
+        "role": "Programador",
+        "name": "Sana K.",
+        "desc": "Implementa landing pages, testes e integrações."
+      }
+    ]
+  },
+  "sprint": {
+    "label": "Como trabalhamos",
+    "headline": "Um sprint mensal — previsível e mensurável.",
+    "subheading": "Cada mês segue o mesmo ritmo para que saiba sempre o que está a ser entregue.",
+    "phases": [
+      {
+        "id": "Semana 1",
+        "title": "Revisão e Priorização",
+        "items": [
+          "Revisão de KPIs vs. objetivos",
+          "Análise do backlog",
+          "Seleção de 3 prioridades"
+        ]
+      },
+      {
+        "id": "Semana 2",
+        "title": "Construção e Lançamento",
+        "items": [
+          "Publicação de conteúdos",
+          "Novas páginas online",
+          "Implementação de testes A/B"
+        ]
+      },
+      {
+        "id": "Semana 3",
+        "title": "Medição e Aprendizagem",
+        "items": [
+          "Dados de tráfego e marcações",
+          "Análise de mapas de calor",
+          "Escalonamento de variantes vencedoras"
+        ]
+      },
+      {
+        "id": "Semana 4",
+        "title": "Relatório e Planeamento",
+        "items": [
+          "Relatório executivo",
+          "Sessão de estratégia",
+          "Roadmap do mês seguinte"
+        ]
+      }
+    ]
+  },
+  "deliverables": {
+    "label": "Todos os meses na sua caixa de entrada",
+    "headline": "Saiba exatamente o que irá receber.",
+    "tabs": {
+      "content": {
+        "label": "Calendário de Conteúdos",
+        "title": "Calendário editorial deste mês",
+        "desc": "Cada peça é planeada, clinicamente revista e agendada.",
+        "items": [
+          {
+            "date": "03 Out",
+            "text": "Acne Adulta — reescrita da página clínica",
+            "tag": "SEO"
+          },
+          {
+            "date": "09 Out",
+            "text": "Cirurgia de Mohs: o que esperar (blog)",
+            "tag": "Confiança"
+          },
+          {
+            "date": "15 Out",
+            "text": "Biografia + vídeo do Dr. Chen",
+            "tag": "Bio"
+          },
+          {
+            "date": "22 Out",
+            "text": "Landing page da campanha de pele seca (Outono)",
+            "tag": "Promo"
+          },
+          {
+            "date": "29 Out",
+            "text": "Eczema pediátrico — guia para pais",
+            "tag": "SEO"
+          }
+        ]
+      },
+      "seo": {
+        "label": "Governação SEO",
+        "title": "SEO em ação",
+        "desc": "Higiene técnica contínua para que os rankings cresçam exponencialmente.",
+        "items": [
+          "24 otimizações on-page concluídas",
+          "Marcação Schema em 6 páginas novas",
+          "138 links internos adicionados",
+          "12 problemas de canibalização resolvidos",
+          "Core Web Vitals: LCP 1.8s → 1.2s"
+        ]
+      },
+      "cro": {
+        "label": "Experiências CRO",
+        "title": "Testes A/B em curso",
+        "desc": "Garantimos melhorias consistentes na taxa de conversão a cada trimestre.",
+        "items": [
+          {
+            "test": "Texto do CTA na Homepage",
+            "result": "+18% cliques"
+          },
+          {
+            "test": "Barra de reserva fixa (mobile)",
+            "result": "+11% início de formulário"
+          },
+          {
+            "test": "Formulário 3-passos vs 1-página",
+            "result": "Em curso · 62%"
+          },
+          {
+            "test": "Estilo de fotografia clínica",
+            "result": "+7% visualização de perfil"
+          }
+        ]
+      },
+      "reports": {
+        "label": "Relatório Executivo",
+        "title": "Relatório mensal executivo",
+        "desc": "Uma página. O que foi feito, o que mudou e o que se segue.",
+        "items": [
+          "Análise detalhada de tráfego e fontes",
+          "Marcações de novos pacientes por serviço",
+          "Subidas e descidas de ranking",
+          "Trabalho entregue e respetivo impacto",
+          "Prioridades para o próximo mês"
+        ]
+      }
+    }
+  },
+  "audiences": {
+    "label": "Para quem trabalhamos",
+    "headline": "Criado para todos os modelos de clínica dermatológica.",
+    "items": [
+      {
+        "label": "Dermatologistas Independentes",
+        "desc": "Um gestor dedicado que gere toda a sua presença web como uma equipa interna."
+      },
+      {
+        "label": "Clínicas Multilocalização",
+        "desc": "Calendários por localização, marca unificada e um roadmap estratégico centralizado."
+      },
+      {
+        "label": "Dermatologia Pediátrica",
+        "desc": "Estratégia focada nos pais, campanhas sazonais e UX adaptada a famílias."
+      },
+      {
+        "label": "Cirurgia de Mohs e Dermatológica",
+        "desc": "Conteúdo focado em referenciação, biografias de cirurgiões e bibliotecas de casos reais."
+      }
+    ]
+  },
+  "medical_services": {
+    "label": "Cada serviço, cada página",
+    "headline": "Serviços médicos cujos conteúdos gerimos.",
+    "subheading": "Páginas de patologias, bios de clínicos, guias de tratamento e campanhas — tudo com revisão médica.",
+    "list": [
+      "Tratamento de Acne",
+      "Tratamento de Eczema",
+      "Tratamento de Psoríase",
+      "Infeções Cutâneas",
+      "Alergias Dermatológicas",
+      "Rastreio e Tratamento de Cancro de Pele",
+      "Avaliação e Remoção de Sinais",
+      "Remoção de Quistos e Lipomas",
+      "Remoção de Verrugas",
+      "Tratamento de Patologias das Unhas",
+      "Tratamento de Queda de Cabelo",
+      "Problemas do Couro Cabeludo",
+      "Tratamento de Rosácea",
+      "Hiperpigmentação e Melasma",
+      "Tratamento de Cicatrizes",
+      "Cicatrizes de Queimaduras",
+      "Tratamento de Vitiligo",
+      "Biópsia Cutânea e Diagnóstico"
+    ]
+  },
+  "comparison": {
+    "label": "Escolha o nível de suporte ideal",
+    "headline": "Gestão vs. Manutenção vs. DIY.",
+    "subheading": "A manutenção mantém o site online. A gestão faz a clínica crescer.",
+    "headers": {
+      "feature": "Funcionalidade",
+      "mgmt": "Gestão",
+      "maint": "Manutenção",
+      "diy": "DIY"
+    },
+    "rows": [
+      "Gestor de conta dedicado",
+      "Uptime 24/7 + correções de segurança",
+      "Conteúdo mensal + landing pages",
+      "Governação de SEO contínua",
+      "Testes A/B e CRO",
+      "Relatório mensal executivo",
+      "Sessões de estratégia com a equipa",
+      "Custo mensal previsível"
+    ],
+    "tags": {
+      "add_on": "extra",
+      "basic": "básico"
+    },
+    "footer": "Também precisa de manutenção? Pode incluí-la em qualquer plano de Gestão.",
+    "footer_link": "Ver manutenção →"
+  },
+  "plans": {
+    "label": "Planos de Gestão",
+    "headline": "Preços previsíveis. Pessoas reais. Resultados tangíveis.",
+    "items": [
+      {
+        "name": "Managed",
+        "price": "$799",
+        "term": "/mês",
+        "tag": "Para consultórios individuais",
+        "market_label": "Mercado:",
+        "market_value": "$1.500 – $3.500 /mês",
+        "savings": "47–77% mais económico",
+        "features": [
+          "Gestor de conta dedicado",
+          "4 conteúdos por mês",
+          "2 landing pages por trimestre",
+          "Sessão de estratégia mensal",
+          "Painel de análise de dados",
+          "Governação de SEO"
+        ],
+        "cta": "Começar com Managed"
+      },
+      {
+        "name": "Managed Plus",
+        "price": "$1.499",
+        "term": "/mês",
+        "tag": "O mais escolhido",
+        "market_label": "Mercado:",
+        "market_value": "$3.000 – $7.000 /mês",
+        "savings": "50–79% mais económico",
+        "features": [
+          "Tudo no plano Managed",
+          "8 conteúdos por mês",
+          "1 landing page por mês",
+          "Sessões de estratégia quinzenais",
+          "Programa de testes A/B trimestral",
+          "Otimização de conversão",
+          "Prioridade no lançamento de campanhas"
+        ],
+        "cta": "Começar com Managed Plus"
+      },
+      {
+        "name": "Multi-location",
+        "price": "Personalizado",
+        "tag": "Para 3+ localizações",
+        "market_label": "Mercado:",
+        "market_value": "$6.000+ /mês",
+        "savings": "Até 60% mais económico",
+        "features": [
+          "Plano de conteúdos por clínica",
+          "Relatórios ao nível da localização",
+          "Pipeline de conteúdos clínicos",
+          "Sincronização estratégica semanal",
+          "Equipa de crescimento dedicada",
+          "Landing pages de campanha ilimitadas"
+        ],
+        "cta": "Começar com Multi-location"
+      }
+    ]
+  },
+  "testimonials": {
+    "label": "O que dizem as clínicas",
+    "headline": "Gerido como uma equipa interna de marketing.",
+    "items": [
+      {
+        "name": "Dra. Nadia Patel, MD",
+        "role": "NL Dermatology",
+        "quote": "É como ter um diretor de marketing sem o encargo salarial. Todos os meses lançamos algo novo que impulsiona as marcações."
+      },
+      {
+        "name": "Dr. Marcus Whitfield, MD",
+        "role": "Whitfield Skin & Mohs",
+        "quote": "Em 9 meses as nossas marcações orgânicas triplicaram. Não foi por um detalhe, mas porque alguém cuida do site todas as semanas."
+      },
+      {
+        "name": "Dra. Serena Kohli, MD",
+        "role": "KP Dermatology · 4 loc.",
+        "quote": "Quatro localizações, quatro calendários de conteúdo, uma equipa. Tenho um painel único e um só contacto para ligar. Só isso já vale o investimento."
+      }
+    ]
+  },
+  "faq": {
+    "label": "FAQ",
+    "headline": "As suas questões, respondidas.",
+    "items": [
+      {
+        "q": "Qual a diferença entre gestão e manutenção?",
+        "a": "A manutenção assegura que o site está online, seguro e atualizado. A gestão faz o site crescer — novos conteúdos, páginas, SEO ativo, testes A/B, otimização de conversão e estratégia mensal. A maioria das clínicas precisa de ambos; os nossos planos podem incluir a manutenção."
+      },
+      {
+        "q": "Quem executa o trabalho efetivamente?",
+        "a": "Terá um gestor de conta com experiência em dermatologia, apoiado por uma equipa: estrategista de conteúdo, redator médico, designer, programador e especialista em SEO. As mesmas pessoas, todos os meses."
+      },
+      {
+        "q": "Quanto tempo demora até ver resultados?",
+        "a": "Melhorias significativas em SEO e no volume de marcações surgem habitualmente entre o 3º e o 6º mês. Conteúdos e otimizações de conversão mostram resultados muitas vezes nos primeiros 30–60 dias."
+      },
+      {
+        "q": "Escrevem conteúdo médico especializado?",
+        "a": "Sim — cada página de patologia e artigo de blog é redigido por um medical writer, revisto segundo as diretrizes dermatológicas e aprovado pela sua equipa antes de ser publicado."
+      },
+      {
+        "q": "Posso suspender ou cancelar?",
+        "a": "O contrato é mês a mês, pode cancelar quando desejar. Ao sair, mantém todos os ativos — conteúdos, páginas, planos, analytics e ficheiros criativos."
+      },
+      {
+        "q": "Integram com o nosso software de agenda ou EHR?",
+        "a": "Sim. Integramos com os principais sistemas EHR e plataformas de marcação (ModMed, Nextech, Athenahealth, Zocdoc, entre outros) para que as reservas entrem diretamente no seu fluxo de trabalho."
+      }
+    ]
+  },
+  "cta_bottom": {
+    "headline": "Pronto para confiar o seu website a uma equipa que o fará crescer?",
+    "subheading": "Comece com uma auditoria gratuita. Se fôssemos a escolha certa, terá a sua equipa pronta em 7 dias.",
+    "primary": "Obter plano de crescimento",
+    "secondary": "Auditoria web gratuita"
+  },
+  "footer_considerations": {
+    "prefix": "Poderá também considerar:",
+    "links": {
+      "maintenance": "manutenção rotineira do site",
+      "support": "horas de suporte para incidências",
+      "full_management": "o que inclui a gestão completa"
+    }
+  },
+  "json_ld": {
+    "service_type": "Serviços de Gestão de Websites de Dermatologia",
+    "provider_name": "DermatologyWebsiteDesign.com",
+    "offer_description": "Gestão de websites de dermatologia — preço base mensal"
+  }
+}

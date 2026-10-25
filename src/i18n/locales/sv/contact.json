@@ -1,0 +1,193 @@
+{
+  "meta": {
+    "title": "Kontakta oss — Webbdesign för dermatologiska kliniker",
+    "description": "Kontakta vårt team specialiserat på webbdesign för dermatologer. E-post, WhatsApp eller meddelande — vi svarar inom 24 timmar.",
+    "ogTitle": "Kontakta oss — Webbdesign för dermatologiska kliniker",
+    "ogDescription": "Frågor om din kliniks webbplats? Hör av dig — vi svarar inom 24 timmar.",
+    "breadcrumbHome": "Hem",
+    "breadcrumbContact": "Kontakt"
+  },
+  "form": {
+    "validation": {
+      "name": "Vänligen ange ditt namn",
+      "email": "Vänligen ange en giltig e-postadress",
+      "topic": "Vänligen välj ett ämne",
+      "message": "Vänligen skriv ett kort meddelande (minst 10 tecken)"
+    },
+    "subjects": [
+      "Ny webbplats",
+      "Omdesign av webbplats",
+      "Migrering av webbplats",
+      "SEO / Marknadsföring",
+      "Support & underhåll",
+      "Allmän fråga"
+    ],
+    "errors": {
+      "fixFields": "Vänligen åtgärda de markerade fälten.",
+      "cooldown": "Vänligen vänta {{seconds}}s innan du försöker igen.",
+      "global": "Tyvärr uppstod ett fel. Försök igen eller kontakta oss direkt via e-post."
+    },
+    "labels": {
+      "name": "Ditt namn",
+      "email": "E-postadress",
+      "phone": "Telefonnummer (valfritt)",
+      "website": "Webbadress (valfritt)",
+      "practice": "Klinikens namn",
+      "subject": "Vad gäller ärendet?",
+      "message": "Ditt meddelande"
+    },
+    "placeholders": {
+      "name": "Dr. Anna Johansson",
+      "email": "anna@kliniken.se",
+      "phone": "+46 70 123 45 67",
+      "website": "https://dinklinik.se",
+      "practice": "Hudkliniken Stockholm",
+      "message": "Berätta lite om din klinik och vad du behöver hjälp med…"
+    },
+    "header": "Skicka ett meddelande",
+    "disclaimer": "Genom att skicka meddelandet godkänner du att vi kontaktar dig via e-post. Ingen spam — någonsin.",
+    "privacy": "Vi respekterar din integritet. Dina uppgifter är säkra hos oss.",
+    "submit": "Skicka meddelande",
+    "submitting": "Skickar…"
+  },
+  "channels": [
+    {
+      "label": "E-post",
+      "value": "info@dermatologywebsitedesign.com",
+      "note": "Svar inom 24 timmar",
+      "action": "Kontakta oss"
+    },
+    {
+      "label": "WhatsApp",
+      "value": "Chatta med vårt team",
+      "note": "Mån–Fre · 09:00–18:00 EST",
+      "action": "Hör av dig"
+    },
+    {
+      "label": "Kostnadsfri offert",
+      "value": "Få ett skräddarsytt förslag",
+      "note": "Helt utan förpliktelser · 24h svarstid",
+      "action": "Begär offert"
+    }
+  ],
+  "hero": {
+    "tag": "Kontakta oss",
+    "title": {
+      "part1": "Låt oss skapa något",
+      "part2": "fantastiskt tillsammans."
+    },
+    "description": "Frågor om din webbplats, SEO eller tillväxtmarknadsföring? Skicka ett meddelande — en verklig person från vårt team återkommer till dig inom 24 timmar.",
+    "avgReply": {
+      "label": "Genomsnittlig svarstid:",
+      "time": "3h 12m"
+    },
+    "features": [
+      "Svar inom 24 timmar",
+      "Inga förpliktelser",
+      "Ingen spam, någonsin"
+    ],
+    "socialProof": {
+      "rating": "4.9/5",
+      "trustedBy": "Anlitas av",
+      "practices": "50+ hudkliniker",
+      "worldwide": "världen över",
+      "avatars": [
+        "Dr. Sarah R.",
+        "Dr. Michael K.",
+        "Dr. Amanda L.",
+        "Dr. James T.",
+        "Dr. Rachel N."
+      ]
+    }
+  },
+  "sidebar": {
+    "officeHours": {
+      "title": "Kontorstider",
+      "mondayToFriday": "Måndag – Fredag",
+      "mondayToFridayTime": "09:00 – 18:00 EST",
+      "saturday": "Lördag",
+      "saturdayTime": "Enligt tidsbokning",
+      "sunday": "Söndag",
+      "sundayTime": "Stängt"
+    },
+    "servingPractices": {
+      "title": "Vi hjälper kliniker",
+      "subtitle": "Globalt — helt distansbaserat team",
+      "description": "Vi arbetar med allt från privatpraktiserande dermatologer och större klinikkedjor till estetiska kliniker, barndermatologi samt Mohs-specialister världen över."
+    },
+    "testimonial": {
+      "quote": "”Deras team svarar otroligt snabbt. Det känns som att ha en egen utvecklare på plats — men utan den höga kostnaden.”",
+      "author": "Dr. Nadia Fischer",
+      "role": "Klinikägare inom dermatologi",
+      "trustedBy": "Anlitas av över 50 hudkliniker"
+    },
+    "audit": {
+      "title": "Inte redo att prata än?",
+      "description": "Få en kostnadsfri webbplatsgranskning — en snabb hälsokontroll och de 3 viktigaste punkterna som håller din sajt tillbaka.",
+      "link": "Beställ gratis granskning"
+    }
+  },
+  "faq": {
+    "tag": "Vanliga frågor",
+    "title": "Svar på dina frågor",
+    "items": [
+      {
+        "q": "Vad är er normala svarstid?",
+        "a": "Vid vanliga förfrågningar svarar vi inom 24 timmar på vardagar. För brådskande ärenden i pågående projekt (t.ex. vid driftstopp) siktar vi på under 1 timme."
+      },
+      {
+        "q": "Arbetar ni med kliniker utanför USA?",
+        "a": "Ja — vi samarbetar med hudkliniker över hela världen. Vårt team arbetar helt på distans och vi hanterar projekt i alla tidszoner."
+      },
+      {
+        "q": "Erbjuder ni white-label-tjänster för byråer?",
+        "a": "Ja. Vi samarbetar med design- och marknadsföringsbyråer för att bygga och underhålla dermatologiska webbplatser under deras eget varumärke. Välj ”Allmän fråga” i formuläret ovan och nämn white-label."
+      },
+      {
+        "q": "Vad kostar en ny webbplats för en hudklinik?",
+        "a": "Våra projekt startar vanligtvis runt $2,500 och skalas baserat på omfattning, integrationer och innehåll. Skicka ett kort meddelande så delar vi en skräddarsydd offert inom 24 timmar."
+      }
+    ]
+  },
+  "cta": {
+    "tag": "Klar att växa?",
+    "title": "Låt oss höras.",
+    "description": "Din webbplats ska tjäna din klinik — inte tvärtom. Vi hjälper dig gärna. Låt oss prata om din kliniks behov.",
+    "auditButton": "Gör en gratis webbplatsgranskning",
+    "quoteButton": "Få en kostnadsfri offert"
+  },
+  "success": {
+    "title": "Meddelandet har skickats!",
+    "description": "Tack för att du hörde av dig — vi återkommer till dig inom 24 timmar på {{email}}.",
+    "backToHome": "Tillbaka till startsidan"
+  },
+  "mockup": {
+    "inbox": "Inkorg · Nytt",
+    "messages": [
+      {
+        "name": "Dr. Alex T.",
+        "message": "Offert för omdesign"
+      },
+      {
+        "name": "Skin & Co.",
+        "message": "Begäran om SEO-audit"
+      },
+      {
+        "name": "RS Institute",
+        "message": "Tidsplan för migrering?"
+      }
+    ],
+    "activeHeader": {
+      "initials": "DWS",
+      "name": "DW Design",
+      "status": "Online nu"
+    },
+    "chat": [
+      "Hej! Hur kan vi hjälpa din klinik idag?",
+      "Jag behöver en ny webbplats för min hudklinik."
+    ],
+    "typing": "skriver",
+    "placeholder": "Skriv ett meddelande…",
+    "replyStatus": "Svar skickat · 2 min"
+  }
+}

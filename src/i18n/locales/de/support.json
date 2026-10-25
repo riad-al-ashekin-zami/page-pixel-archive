@@ -1,0 +1,416 @@
+{
+  "meta": {
+    "title": "Website-Support für die Dermatologie — Fester Techniker, 15-Min. Notfall-SLA",
+    "description": "Persönlicher Website-Support für dermatologische Praxen. Fester Techniker, Live-Chat, Prioritäts-Hotline, inkludierte Bearbeitungszeit, Mitarbeiterschulungen, HIPAA-konforme Beratung und 24/7 Notfallhilfe. Monatlich kündbar.",
+    "og": {
+      "title": "Website-Support für die Dermatologie — Echte Techniker, echte Reaktionszeiten",
+      "description": "Ein fester Ansprechpartner, Antworten in unter einer Stunde, Inhalts- und Designanpassungen sowie 24/7 Notfalleskalation — speziell für Hautarztpraxen."
+    },
+    "jsonLd": {
+      "serviceType": "Dermatology Website Support Services",
+      "provider": "DermatologyWebsiteDesign.com",
+      "offerDescription": "Dermatology website support plan — starting price per month"
+    }
+  },
+  "hero": {
+    "badgeOpen": "Support besetzt · Ø Antwortzeit 42 Sekunden",
+    "badgeOpenMobile": "Support besetzt · 42s Antwort",
+    "badgeTitle": "Website-Support-Services",
+    "titlePrefix": "Ein echter Experte, ",
+    "titleHighlight": "nur eine Nachricht entfernt.",
+    "description": "Website-Support, maßgeschneidert für dermatologische Praxen. Persönlicher Ansprechpartner, Live-Chat, Telefon-Priorität, inkludierte Arbeitsstunden, Team-Schulungen und 24/7 Notfall-Support — keine Tickets, die in einer Warteschlange untergehen.",
+    "ctaStart": "Support-Plan wählen",
+    "ctaDemo": "Support-Demo ansehen",
+    "pricing": {
+      "label": "Support-Pläne ab",
+      "value": "249 $",
+      "suffix": "/ Monat · Monatlich kündbar, keine Mindestlaufzeit"
+    },
+    "trustLabels": [
+      "Fester Techniker",
+      "Live-Chat + Telefon",
+      "Inkl. Bearbeitungsstunden",
+      "24/7 Notfall-Hilfe"
+    ],
+    "imageAlt": "Support-Experte für Dermatologie-Websites am Schreibtisch mit Live-Chat und Ticket-System"
+  },
+  "stats": [
+    {
+      "value": "42s",
+      "label": "Ø Antwortzeit im Live-Chat"
+    },
+    {
+      "value": "18min",
+      "label": "Ø Bearbeitungszeit pro Auftrag"
+    },
+    {
+      "value": "98%",
+      "label": "Lösung beim Erstkontakt"
+    },
+    {
+      "value": "4,9/5",
+      "label": "Kundenzufriedenheit (letzte 12 Mon.)"
+    }
+  ],
+  "channels": {
+    "tag": "Kontaktieren Sie uns, wie Sie möchten",
+    "title": "Sechs Kanäle. Ein Techniker. Keine Warteschleifen.",
+    "description": "Jede Anfrage landet in demselben getrackten Postfach mit garantierter Reaktionszeit — egal ob via Chat, E-Mail, Telefon oder Notruf um 3 Uhr morgens.",
+    "items": [
+      {
+        "name": "Live-Chat",
+        "desc": "In-App-Chat, 09:00–21:00 Uhr ET, besetzt durch echte Techniker.",
+        "meta": "Ø 42s Antwortzeit"
+      },
+      {
+        "name": "Direkt-Telefon",
+        "desc": "Direktwahl zu Ihrem persönlichen Techniker — ohne Menü-Dschungel.",
+        "meta": "keine Warteschlange"
+      },
+      {
+        "name": "Prioritäts-E-Mail",
+        "desc": "Postfach mit garantierten Reaktionszeiten je nach gewähltem Paket.",
+        "meta": "≤ 1 Std. bei Pro"
+      },
+      {
+        "name": "Ticket-Portal",
+        "desc": "Vollständiger Verlauf, Screenshots und Status jeder Anfrage.",
+        "meta": "Self-Service 24/7"
+      },
+      {
+        "name": "Video-Walkthroughs",
+        "desc": "Screen-Sharing für Schulungen und komplexe Anpassungen.",
+        "meta": "auf Abruf"
+      },
+      {
+        "name": "Notfall-Hotline",
+        "desc": "Eskalation bei Website-Ausfall an Bereitschaftstechniker, rund um die Uhr.",
+        "meta": "15-Min. SLA"
+      }
+    ]
+  },
+  "helpTopics": {
+    "tag": "Wobei wir Ihnen konkret helfen",
+    "title": "Von „Nur ein Wort ändern“ bis „Unser Buchungsformular streikt“.",
+    "description": "Sechs Kategorien für den Praxisalltag — Dinge, die sofort erledigt werden müssen, nicht erst im nächsten Monat.",
+    "items": [
+      {
+        "title": "Inhalts-Aktualisierungen",
+        "desc": "Arzt-Biografien, Leistungsseiten, Blog-Beiträge oder Kassenlisten — binnen Stunden erledigt."
+      },
+      {
+        "title": "Design-Anpassungen",
+        "desc": "Banner-Wechsel, saisonale Aktionen, neue Sektionen oder Layout-Optimierungen."
+      },
+      {
+        "title": "Team-Schulungen",
+        "desc": "Video-Tutorials und Live-Sessions, damit Ihr Team das System sicher bedienen kann."
+      },
+      {
+        "title": "Integrations-Hilfe",
+        "desc": "Termin-Widgets, EHR-Einbindungen, Bewertungsportale oder Analytics — konfiguriert und getestet."
+      },
+      {
+        "title": "HIPAA-konforme Beratung",
+        "desc": "Jedes Formular und Skript wird vor Livegang auf Datensicherheit (PHI) geprüft."
+      },
+      {
+        "title": "Notfall-Reaktion",
+        "desc": "Website offline, Layoutfehler oder defekte Buchung — 24/7-Direktzugriff auf Ihren Techniker."
+      }
+    ]
+  },
+  "flow": {
+    "tag": "So funktioniert der Support",
+    "title": "Ein Workflow, der den Praxisalltag entlastet.",
+    "steps": [
+      {
+        "id": "01",
+        "title": "Lernen Sie Ihren Experten kennen",
+        "desc": "Sie erhalten ab Tag eins einen festen Ansprechpartner statt eines Support-Pools. Er kennt Ihre Seite, Ihr Team und Ihre Praxis."
+      },
+      {
+        "id": "02",
+        "title": "Anfragen von überall",
+        "desc": "Per Chat, E-Mail, Telefon, Portal oder Slack. Jede Anfrage landet strukturiert im System mit zugesichertem SLA."
+      },
+      {
+        "id": "03",
+        "title": "Echte Menschen, echtes Tempo",
+        "desc": "Die meisten Änderungen sind in unter einer Stunde live. Größere Wünsche erhalten einen Plan und ein Review vor Veröffentlichung."
+      },
+      {
+        "id": "04",
+        "title": "Monatlicher Check-in",
+        "desc": "Ein 30-minütiger Call pro Monat für offene Punkte, Roadmap und Strategie — proaktiv statt nur reaktiv."
+      }
+    ]
+  },
+  "responseDesk": {
+    "badge": "Service-Desk · live",
+    "title": "Wählen Sie einen Kanal. Sehen Sie, wie schnell wir sind.",
+    "description": "Ein realistischer Einblick in einen typischen Ticketverlauf — von der Anfrage bis zum Fix.",
+    "meterLabel": "Live-Reaktionszeit",
+    "meterSuffix": "s",
+    "meterComparison": "Schneller als 94 % aller Agenturen",
+    "status": "Online",
+    "labels": {
+      "chatReply": "Chat-Antwort",
+      "emergencySla": "Notfall-SLA"
+    },
+    "engineerInfo": {
+      "name": "Jordan R. · Ihr Techniker",
+      "status": "Live",
+      "typing": "Jordan schreibt gerade…"
+    },
+    "demos": {
+      "chat": {
+        "label": "Live-Chat",
+        "sla": "Ø 42s Antwortzeit",
+        "lines": [
+          "Hey – können wir heute das Hero-Bild auf der Aesthetic-Seite tauschen?",
+          "Klar. Schick mir die Datei einfach rüber – ich lade es in ca. 15 Min. hoch.",
+          "Erledigt. Kannst du auch Dr. Chen zum Team hinzufügen?",
+          "Beides live. Vorschau-Link kommt in 8 Min. ✅"
+        ]
+      },
+      "phone": {
+        "label": "Direkt-Telefon",
+        "sla": "Keine Warteschleife",
+        "lines": [
+          "📞 Ring – Praxismanagerin, LA Dermatology.",
+          "Hallo Sara, hier ist Jordan. Wie kann ich helfen?",
+          "Das Buchungs-Widget zeigt auf dem iPhone einen Fehler.",
+          "Ich sehe es. Ich spiele einen Fix ein – dauert 6 Min. Bleiben Sie kurz dran."
+        ]
+      },
+      "email": {
+        "label": "Prioritäts-E-Mail",
+        "sla": "≤ 1 Std. bei Pro",
+        "lines": [
+          "Betreff: Versicherungsliste für alle 6 Standorte aktualisieren",
+          "Alles klar – in 20 Minuten schicke ich eine Vorschau zur Abnahme.",
+          "Freigegeben. Bitte nimm auch das 'Aetna'-Logo raus, das gilt nicht mehr.",
+          "Auf allen 6 Seiten erledigt. Bestätigung ist raus ✅"
+        ]
+      },
+      "ticket": {
+        "label": "Ticket-Portal",
+        "sla": "Self-Service 24/7",
+        "lines": [
+          "#4831 · Neu: 'Spanisches Anmelde-PDF auf Kontaktseite'",
+          "Übernommen. ETA: 45 Min. Priorität: normal.",
+          "Datei ist angehängt. Bitte auch im Footer verlinken.",
+          "Live. Ticket mit Screenshots geschlossen ✅"
+        ]
+      }
+    }
+  },
+  "plans": {
+    "tag": "Support-Pakete",
+    "title": "Menschlicher Support zum fairen Fixpreis.",
+    "description": "Alle Pläne sind monatlich kündbar und beinhalten einen festen Experten. Keine Bindungsangst.",
+    "mostChosen": "Am beliebtesten",
+    "marketLabel": "Marktüblich:",
+    "choose": "Auswählen",
+    "cards": [
+      {
+        "name": "Starter",
+        "tag": "Einzelpraxen",
+        "price": "249 $",
+        "per": "/ Monat",
+        "sla": "≤ 4 Std. Antwortzeit",
+        "edits": "Änderungen: 2 Std. / Monat",
+        "market": "500 $ – 1.000 $ / Mo.",
+        "savings": "50–75 % günstiger",
+        "features": [
+          "Fester Account-Techniker",
+          "E-Mail + Ticket-Portal",
+          "2 Std. Bearbeitungszeit pro Monat",
+          "Support zu Geschäftszeiten (9–18 Uhr ET)",
+          "Monatlicher Statusbericht",
+          "Onboarding-Call zur Einführung"
+        ]
+      },
+      {
+        "name": "Professional",
+        "tag": "Praxisgemeinschaften",
+        "price": "549 $",
+        "per": "/ Monat",
+        "sla": "≤ 1 Std. Antwortzeit",
+        "edits": "Änderungen: 6 Std. / Monat",
+        "market": "1.100 $ – 2.500 $ / Mo.",
+        "savings": "50–78 % günstiger",
+        "features": [
+          "Alles aus dem Starter-Paket",
+          "Live-Chat + Prioritäts-Hotline",
+          "6 Std. Bearbeitungszeit pro Monat",
+          "Erweiterte Zeiten (9–21 Uhr ET)",
+          "Quartalsweise Schulungen",
+          "Integrations- & Analytics-Support",
+          "30-Min. monatlicher Strategie-Call"
+        ]
+      },
+      {
+        "name": "Enterprise",
+        "tag": "Klinikketten & Mohs-Gruppen",
+        "price": "1.299 $",
+        "per": "/ Monat",
+        "sla": "≤ 15 Min. bei Notfällen",
+        "edits": "Änderungen: Unlimitiert*",
+        "market": "2.800 $ – 5.500 $ / Mo.",
+        "savings": "54–76 % günstiger",
+        "features": [
+          "Alles aus dem Professional-Paket",
+          "24/7 Notfall-Hotline",
+          "Eigener Slack- / Teams-Kanal",
+          "Unlimitierte* Stunden (Fair Use)",
+          "Tracking pro Standort",
+          "Dedizierter Backup-Techniker",
+          "Quartals-Business-Review"
+        ]
+      }
+    ]
+  },
+  "audiences": {
+    "tag": "Wen wir unterstützen",
+    "title": "Maßgeschneidert für jedes dermatologische Modell.",
+    "items": [
+      {
+        "label": "Einzel-Dermatologen",
+        "desc": "Ein direkter Draht zu einem Experten, der Ihre Seite kennt — keine Anonymität."
+      },
+      {
+        "label": "Dermatologische MVZ",
+        "desc": "Bearbeitung nach Standort, gemeinsames Postfach und ein Ansprechpartner für alle Filialleiter."
+      },
+      {
+        "label": "Kinderdermatologie",
+        "desc": "Inhalts-Updates und Formulare speziell für Familien, mit klinischer Sorgfalt gepflegt."
+      },
+      {
+        "label": "Mohs-Chirurgie",
+        "desc": "Schnelle Anpassungen für Zuweiserportale und Praxis-Profile am selben Arbeitstag."
+      }
+    ]
+  },
+  "medicalServices": {
+    "tag": "Betreute Fachgebiete",
+    "title": "Wartung für Ihr gesamtes Leistungsspektrum.",
+    "description": "Von Akne bis Vitiligo — wir kümmern uns um Inhalts-Updates, Preislisten, Arzt-Zuweisungen und SEO-Schema-Daten.",
+    "items": [
+      "Aknetherapie",
+      "Ekzembehandlung",
+      "Psoriasis-Behandlung",
+      "Hautinfektionen",
+      "Allergologie",
+      "Hautkrebs-Vorsorge & Therapie",
+      "Muttermal-Check & operative Entfernung",
+      "Zysten- & Lipomentfernung",
+      "Warzenbehandlung",
+      "Nagelerkrankungen",
+      "Haarausfall-Diagnostik & Therapie",
+      "Kopfhauterkrankungen",
+      "Rosacea-Therapie",
+      "Hyperpigmentierung & Melasma",
+      "Narbenbehandlung",
+      "Brandnarben-Korrektur",
+      "Vitiligo-Behandlung",
+      "Hautbiopsien & Diagnostik"
+    ]
+  },
+  "testimonials": {
+    "tag": "Was Kunden sagen",
+    "title": "Dermatologen, die sich endlich entlastet fühlen.",
+    "items": [
+      {
+        "name": "Dr. Ethan Caldwell, MD",
+        "role": "LA Dermatology",
+        "quote": "Ich schreibe eine Nachricht, bekomme in einer Minute Antwort und die Änderung ist vor dem Mittagessen live. Das ist der ganze Service. Perfekt."
+      },
+      {
+        "name": "Dr. Anika Vasquez, MD",
+        "role": "CM Surgical",
+        "quote": "Sie haben mein Team in einem Zoom-Call am CMS geschult. Über Nacht haben sich unsere Support-Anfragen halbiert — und der Rest wird in 15 Min. erledigt."
+      },
+      {
+        "name": "Dr. Ibrahim Okafor, MD",
+        "role": "RS Institute · 6 Standorte",
+        "quote": "Sechs Manager, sechs Listen mit Wünschen, ein Postfach. Mein Techniker kennt jeden Standort beim Namen. Es fühlt sich an wie ein In-House-Team."
+      }
+    ]
+  },
+  "faq": {
+    "tag": "FAQ",
+    "title": "Fragen zum Website-Support.",
+    "items": [
+      {
+        "q": "Wie unterscheidet sich das von Wartungspaketen?",
+        "a": "Wartung hält die Seite am Laufen (Backups, Sicherheit, Monitoring). Support ist die menschliche Ebene: Ein fester Techniker, der für Sie Inhalte ändert, das Team schult und bei Integrationen hilft. Die meisten Praxen buchen beides."
+      },
+      {
+        "q": "Was zählt als 'Bearbeitungsstunde'?",
+        "a": "Sämtliche Inhalts- und kleinere Designarbeiten: Arzt-Bios anpassen, neue Leistungsseiten, Banner-Wechsel, Fehlerbehebung bei Buchungen oder Blog-Posts. Große Relaunch-Projekte werden separat kalkuliert."
+      },
+      {
+        "q": "Wie schnell antworten Sie wirklich?",
+        "a": "Im Live-Chat durchschnittlich in 42 Sekunden. Prioritäts-E-Mails in unter einer Stunde (Pro & Enterprise). Kritische Notfälle bei Enterprise eskaliert unser Bereitschaftsdienst 24/7 binnen 15 Minuten."
+      },
+      {
+        "q": "Betreuen Sie auch Seiten, die Sie nicht erstellt haben?",
+        "a": "Ja — WordPress, Webflow, Custom- oder Headless-Systeme. Wir starten mit einem technischen Audit, um Ihre Seite sicher zu übernehmen und genau zu wissen, was wir betreuen."
+      },
+      {
+        "q": "Darf mein Team Änderungen anfragen?",
+        "a": "Jedes Teammitglied, das Sie autorisieren. Meistens sind das die Ärzte, Praxismanager und Marketing-Verantwortliche. Alle Anfragen sind im Portal lückenlos dokumentiert."
+      },
+      {
+        "q": "Was passiert mit nicht genutzten Stunden?",
+        "a": "Bis zu 50 % der ungenutzten Stunden können in den Folgemonat übernommen werden. Wir möchten, dass Sie echten Mehrwert erhalten, statt künstliche Aufgaben zu erfinden."
+      },
+      {
+        "q": "Gibt es eine Vertragslaufzeit?",
+        "a": "Nein, alles ist monatlich kündbar. Bei einer Abmeldung behalten Sie natürlich alle Inhalte, Codes und Zugangsdaten."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Sprechen Sie mit dem Techniker, der Ihre nächste Nachricht beantwortet.",
+    "highlight": "Kostenloses Angebot anfordern.",
+    "description": "Wir analysieren Ihre Seite, den Bearbeitungsbedarf Ihres Teams und welcher Plan wirklich Sinn ergibt – dann senden wir Ihnen ein verbindliches Angebot.",
+    "buttonQuote": "Support-Plan anfragen",
+    "buttonContact": "Kontakt aufnehmen"
+  },
+  "inboxWidget": {
+    "title": "Support-Posteingang",
+    "status": "Heute · 5 offen",
+    "replyMetric": "Antwort",
+    "engineer": {
+      "label": "Ihr Techniker",
+      "status": "Jordan R. · online"
+    },
+    "tickets": [
+      {
+        "id": "4821",
+        "subject": "Neue Arzt-Bio + Foto auf Über-uns-Seite",
+        "meta": "Dr. Caldwell · E-Mail · vor 18 Min."
+      },
+      {
+        "id": "4822",
+        "subject": "Aesthetic-Aktionsbanner für Feiertag einfügen",
+        "meta": "Anmeldung · Lumen · Chat · vor 9 Min."
+      },
+      {
+        "id": "4823",
+        "subject": "Buchungs-Widget lädt nicht auf iPhone Safari",
+        "meta": "Dr. Vasquez · Telefon · vor 22 Min."
+      }
+    ]
+  },
+  "footerLinks": {
+    "preface": "Mehr zu unseren Services:",
+    "maintenance": "Proaktive Wartungspläne",
+    "management": "Full-Service Website-Management",
+    "faq": "Häufige Support-Fragen"
+  }
+}

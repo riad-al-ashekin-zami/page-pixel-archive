@@ -1,0 +1,416 @@
+{
+  "meta": {
+    "title": "Podpora webových stránek pro dermatology – Vlastní inženýr, 15minutové SLA pro krizové situace",
+    "description": "Lidská podpora webu pro dermatologické praxe. Přidělený inženýr, live chat, prioritní linka, hodiny na úpravy, školení personálu, poradenství ohledně HIPAA a 24/7 pohotovost. Bez závazků.",
+    "og": {
+      "title": "Podpora webových stránek pro dermatology – Skuteční inženýři, reálné reakční časy",
+      "description": "Vlastní account inženýr, odpovědi do hodiny, hodiny na úpravy obsahu i designu a 24/7 krizová eskalace – vytvořeno pro potřeby dermatologie."
+    },
+    "jsonLd": {
+      "serviceType": "Dermatology Website Support Services",
+      "provider": "DermatologyWebsiteDesign.com",
+      "offerDescription": "Plán podpory dermatologických webů – měsíční paušál od"
+    }
+  },
+  "hero": {
+    "badgeOpen": "Podpora je online · prům. odpověď 42 sekund",
+    "badgeOpenMobile": "Online · odpověď do 42s",
+    "badgeTitle": "Služby podpory webu",
+    "titlePrefix": "Skutečný inženýr na ",
+    "titleHighlight": "dosah jedné zprávy.",
+    "description": "Podpora webu stvořená pro dermatology. Přidělený inženýr, live chat, prioritní telefon, předplacené hodiny úprav, školení týmu a 24/7 krizová linka – žádné tikety, které zapadnou v pořadí.",
+    "ctaStart": "Aktivovat plán podpory",
+    "ctaDemo": "Ukázka podpory v praxi",
+    "pricing": {
+      "label": "Plány podpory od",
+      "value": "$249",
+      "suffix": "/ měsíc · měsíční fakturace, bez úvazku"
+    },
+    "trustLabels": [
+      "Vlastní inženýr",
+      "Live chat + telefon",
+      "Včetně hodin úprav",
+      "24/7 pohotovost"
+    ],
+    "imageAlt": "Inženýr podpory dermatologických webů u stolu s live chatem a doručenými tikety"
+  },
+  "stats": [
+    {
+      "value": "42s",
+      "label": "Průměrná první odpověď na chatu"
+    },
+    {
+      "value": "18min",
+      "label": "Průměrné vyřízení úpravy"
+    },
+    {
+      "value": "98%",
+      "label": "Úspěšnost vyřešení napoprvé"
+    },
+    {
+      "value": "4,9/5",
+      "label": "Spokojenost klientů (posledních 12 měs.)"
+    }
+  ],
+  "channels": {
+    "tag": "Spojte se s námi, jak vám to vyhovuje",
+    "title": "Šest kanálů. Jeden inženýr. Žádné automaty.",
+    "description": "Každý požadavek dorazí do stejné sledované schránky se garantovaným SLA – ať už jde o chat, e-mail, telefon nebo urgentní pager ve 3 ráno.",
+    "items": [
+      {
+        "name": "Live Chat",
+        "desc": "Chat v aplikaci, 9:00–21:00 ET, obsluhován skutečnými inženýry.",
+        "meta": "prům. odpověď 42s"
+      },
+      {
+        "name": "Přímá linka",
+        "desc": "Osobní linka na vašeho inženýra – žádné hlasové nabídky.",
+        "meta": "bez čekání"
+      },
+      {
+        "name": "Prioritní e-mail",
+        "desc": "Schránka se sledovaným SLA a garantovanou dobou odezvy dle tarifu.",
+        "meta": "≤ 1 hod v tarifu Pro"
+      },
+      {
+        "name": "Portál tiketů",
+        "desc": "Kompletní historie, screenshoty a status každého požadavku.",
+        "meta": "samoobsluha 24/7"
+      },
+      {
+        "name": "Video instruktáže",
+        "desc": "Sdílení obrazovky pro školení personálu a komplexní úpravy.",
+        "meta": "na vyžádání"
+      },
+      {
+        "name": "Krizová linka",
+        "desc": "Eskalace výpadku webu na inženýra v pohotovosti, 24/7.",
+        "meta": "15min SLA"
+      }
+    ]
+  },
+  "helpTopics": {
+    "tag": "S čím konkrétně pomáháme",
+    "title": "Od „změňte tohle slovo“ až po „nefunguje nám rezervace“.",
+    "description": "Šest kategorií každodenní práce – věci, které vytížená ordinace potřebuje vyřešit hned, ne v příštím kvartálu.",
+    "items": [
+      {
+        "title": "Úpravy obsahu",
+        "desc": "Medailonky lékařů, stránky služeb, blogy, seznamy pojišťoven – hotovo v řádu hodin."
+      },
+      {
+        "title": "Drobné úpravy designu",
+        "desc": "Výměna bannerů, sezónní akce, nové sekce, úpravy rozvržení stránky."
+      },
+      {
+        "title": "Školení personálu",
+        "desc": "Nahrané návody a živé vstupy, aby váš tým mohl web spravovat s jistotou."
+      },
+      {
+        "title": "Pomoc s integracemi",
+        "desc": "Rezervační widgety, EHR systémy, platformy pro recenze, SEO a analytika."
+      },
+      {
+        "title": "Poradenství ohledně HIPAA",
+        "desc": "Prověření každého formuláře, trackeru a skriptu třetích stran z hlediska bezpečnosti dat."
+      },
+      {
+        "title": "Nouzové zásahy",
+        "desc": "Výpadek webu, rozbité fonty, selhání plateb – eskalujte přímo k inženýrovi, 24/7."
+      }
+    ]
+  },
+  "flow": {
+    "tag": "Jak podpora funguje",
+    "title": "Pracovní postup stvořený pro vytížené dermatologické praxe.",
+    "steps": [
+      {
+        "id": "01",
+        "title": "Seznamte se se svým inženýrem",
+        "desc": "Od prvního dne máte přiděleného konkrétního inženýra. Žádné střídání lidí. Zná váš web, váš tým i vaši terminologii."
+      },
+      {
+        "id": "02",
+        "title": "Zadejte požadavek odkudkoliv",
+        "desc": "Chat, e-mail, telefon, portál nebo sdílený Slack. Každý podnět končí ve sledované schránce s garantovaným SLA."
+      },
+      {
+        "id": "03",
+        "title": "Skuteční lidé, rychlá akce",
+        "desc": "Většinu úprav nasazek vyřídíme do hodiny. Větší požadavky dostanou plán, odhad a projdou schválením, než se nasadí na web."
+      },
+      {
+        "id": "04",
+        "title": "Měsíční konzultace",
+        "desc": "Každý měsíc 30minutový hovor pro revizi požadavků a plánování – jednáme proaktivně, ne jen reaktivně."
+      }
+    ]
+  },
+  "responseDesk": {
+    "badge": "Centrum podpory · online",
+    "title": "Vyberte si kanál. Sledujte, jak rychle odpovíme.",
+    "description": "Reálný náhled na podporu v rámci jednoho dne – od první zprávy po nasazení opravy.",
+    "meterLabel": "Odezva v reálném čase",
+    "meterSuffix": "s",
+    "meterComparison": "Rychlejší než 94 % agentur",
+    "status": "Online",
+    "labels": {
+      "chatReply": "Odpověď na chatu",
+      "emergencySla": "Emergency SLA"
+    },
+    "engineerInfo": {
+      "name": "Jordan R. · Váš inženýr",
+      "status": "Online",
+      "typing": "Jordan píše zprávu…"
+    },
+    "demos": {
+      "chat": {
+        "label": "Live Chat",
+        "sla": "prům. odpověď 42s",
+        "lines": [
+          "Ahoj – můžeme dnes vyměnit úvodní fotku na stránce estetice?",
+          "Jasně, pošlete soubor – nasadím to cca do 15 minut.",
+          "Odesláno. A přidáte prosím dr. Chenovou do seznamu lékařů?",
+          "Obojí je online. Náhled posílám za 8 min ✅"
+        ]
+      },
+      "phone": {
+        "label": "Přímý telefon",
+        "sla": "bez čekacích smyček",
+        "lines": [
+          "📞 Vyzvánění – manažerka kliniky, LA Dermatology.",
+          "Ahoj Sáro, tady Jordan. Jak pomůžu?",
+          "Rezervační widget hází na iPhone chybu.",
+          "Vidím to. Nasazuji opravu – hotovo za 6 min. Počkej na lince."
+        ]
+      },
+      "email": {
+        "label": "Prioritní e-mail",
+        "sla": "≤ 1 hod v tarifu Pro",
+        "lines": [
+          "Předmět: Aktualizace pojišťoven pro všech 6 poboček",
+          "Rozumím – do 20 minut vám pošlu soupis změn ke schválení.",
+          "Schváleno. Také prosím odstraňte logo Aetna, už s nimi nespolupracujeme.",
+          "Hotovo na všech 6 webech. Potvrzení odesláno ✅"
+        ]
+      },
+      "ticket": {
+        "label": "Portál tiketů",
+        "sla": "samoobsluha 24/7",
+        "lines": [
+          "#4831 · Nový: 'Přidat španělské PDF s anamnézou na Kontakt'",
+          "Přiděleno mně. ETA: 45 min. Priorita: normální.",
+          "Soubor jsem přiložila. Prosím i o odkaz v patičce.",
+          "Nasazeno. Tiket uzavřen, screenshoty v příloze ✅"
+        ]
+      }
+    }
+  },
+  "plans": {
+    "tag": "Plány podpory",
+    "title": "Lidská podpora za předvídatelnou cenu.",
+    "description": "Všechny plány jsou měsíční s přiděleným inženýrem. Zrušit můžete kdykoliv.",
+    "mostChosen": "Nejoblíbenější",
+    "marketLabel": "Běžná tržní cena:",
+    "choose": "Vybrat",
+    "cards": [
+      {
+        "name": "Starter",
+        "tag": "Soutromé praxe",
+        "price": "$249",
+        "per": "/měsíc",
+        "sla": "odpověď ≤ 4 hod",
+        "edits": "Úpravy: 2 hod / měs",
+        "market": "$500 – $1,000 /měs",
+        "savings": "o 50–75 % levnější",
+        "features": [
+          "Přidělený account inženýr",
+          "E-mail + portál tiketů",
+          "2 hodiny úprav měsíčně",
+          "Podpora v prac. hodinách (9–18 ET)",
+          "Měsíční report aktivit",
+          "Úvodní školící hovor"
+        ]
+      },
+      {
+        "name": "Professional",
+        "tag": "Multidisciplinární kliniky",
+        "price": "$549",
+        "per": "/měsíc",
+        "sla": "odpověď ≤ 1 hod",
+        "edits": "Úpravy: 6 hod / měs",
+        "market": "$1,100 – $2,500 /měs",
+        "savings": "o 50–78 % levnější",
+        "features": [
+          "Vše z tarifu Starter",
+          "Live chat + prioritní telefon",
+          "6 hodin úprav měsíčně",
+          "Rozšířená doba (9:00–21:00 ET)",
+          "Čtvrtletní školení",
+          "Pomoc s integracemi a analytikou",
+          "30min měsíční strategická schůzka"
+        ]
+      },
+      {
+        "name": "Enterprise",
+        "tag": "Sítě klinik a Mohs skupiny",
+        "price": "$1,299",
+        "per": "/měsíc",
+        "sla": "15 min (krize)",
+        "edits": "Úpravy: Neomezené*",
+        "market": "$2,800 – $5,500 /měs",
+        "savings": "o 54–76 % levnější",
+        "features": [
+          "Vše z tarifu Professional",
+          "24/7 krizová linka",
+          "Sdílený kanál Slack / Teams",
+          "Neomezené* hodiny úprav (fair use)",
+          "Sledování požadavků dle poboček",
+          "Dedikovaný záložní inženýr",
+          "Čtvrtletní revize strategie"
+        ]
+      }
+    ]
+  },
+  "audiences": {
+    "tag": "Koho podporujeme",
+    "title": "Navrženo pro každý model dermatologické péče.",
+    "items": [
+      {
+        "label": "Soukromí dermatologové",
+        "desc": "Přímá linka na člověka, který zná váš web – žádné tikety ztracené v systému."
+      },
+      {
+        "label": "Dermatologické kliniky",
+        "desc": "Sledování úprav na pobočku, sdílená schránka a jeden kontakt pro každého manažera."
+      },
+      {
+        "label": "Dětská dermatologie",
+        "desc": "Úpravy obsahu pro rodiny a aktualizace formulářů pro rodiče s maximální péčí."
+      },
+      {
+        "label": "Mohsova chirurgie",
+        "desc": "Změny v referenčním portálu a aktualizace lékařů nasazené v tentýž pracovní den."
+      }
+    ]
+  },
+  "medicalServices": {
+    "tag": "Všechny stránky, o které se staráme",
+    "title": "Úpravy a aktualizace pro každou vaši službu.",
+    "description": "Od akné po vitiligo – na vyžádání řešíme aktualizace obsahu, změny cen, přiřazení lékařů i nastavení schema značek.",
+    "items": [
+      "Léčba akné",
+      "Léčba ekzému",
+      "Léčba lupénky",
+      "Léčba kožních infekcí",
+      "Léčba kožních alergií",
+      "Screening a léčba rakoviny kůže",
+      "Vyšetření znamének a jejich chirurgické odstranění",
+      "Odstranění cyst a lipomů",
+      "Odstranění bradavic",
+      "Léčba onemocnění nehtů",
+      "Diagnostika a léčba vypadávání vlasů",
+      "Léčba onemocnění pokožky hlavy",
+      "Léčba rosacey",
+      "Léčba hyperpigmentace a melasmy",
+      "Léčba jizev",
+      "Léčba jizev po popáleninách",
+      "Léčba vitiliga",
+      "Kožní biopsie a diagnostické postupy"
+    ]
+  },
+  "testimonials": {
+    "tag": "Co říkají klienti",
+    "title": "Dermatologové, kteří mají konečně klid.",
+    "items": [
+      {
+        "name": "Dr. Ethan Caldwell, MD",
+        "role": "LA Dermatology",
+        "quote": "Napíšu na jedno číslo, někdo mi do minuty odpoví a úprava je online ještě před obědem. Tečka. To je celá recenze."
+      },
+      {
+        "name": "Dr. Anika Vasquez, MD",
+        "role": "CM Surgical",
+        "quote": "Během jednoho Zoomu naučili naši recepci pracovat s CMS. Polovina požadavků zmizela – a ty, co pošleme, jsou hotové do 15 minut."
+      },
+      {
+        "name": "Dr. Ibrahim Okafor, MD",
+        "role": "RS Institute · 6 poboček",
+        "quote": "Šest manažerů, šest sad úprav, jedna schránka. Můj inženýr zná každou pobočku jménem. Je to jako mít vlastní IT tým bez nákladů na mzdy."
+      }
+    ]
+  },
+  "faq": {
+    "tag": "Časté dotazy",
+    "title": "Vše o podpoře webu.",
+    "items": [
+      {
+        "q": "Jak se to liší od plánů údržby?",
+        "a": "Údržba udržuje web v chodu – aktualizace, zálohy, monitoring, zabezpečení. Podpora je lidská vrstva nad tím: konkrétní inženýr, se kterým můžete mluvit, hodiny na úpravy obsahu a designu, školení personálu a pomoc s technologiemi. Většina praxí využívá obojí."
+      },
+      {
+        "q": "Co se počítá jako 'hodina úprav'?",
+        "a": "Jakákoliv práce na obsahu, drobném designu nebo nastavení: aktualizace životopisů lékařů, přidání sekce na stránku služeb, výměna úvodního banneru, oprava rozbitého rezervačního formuláře, změna seznamu pojišťoven, nahrávání před a po fotek nebo publikace blogu."
+      },
+      {
+        "q": "Jak rychle skutečně odpovídáte?",
+        "a": "Na live chatu průměrně do 42 sekund v pracovní době. Prioritní e-mail je do 1 hodiny u tarifů Pro a Enterprise. Kritické výpadky webu v tarifu Enterprise řešíme do 15 minut, 24/7, s přiděleným inženýrem v pohotovosti."
+      },
+      {
+        "q": "Podporujete i weby, které jste nestavěli?",
+        "a": "Ano – WordPress, Webflow, custom i headless dermatologické weby. Začínáme placeným technickým auditem, abychom váš web bezpečně převzali a věděli, co přesně spravujeme."
+      },
+      {
+        "q": "Může úpravy žádat personál, nebo jen lékař?",
+        "a": "Kterýkoliv člen týmu, kterému dáte pověření. Většinou mají přístup lékaři, manažeři kliniky a marketingoví vedoucí. Každý požadavek je v portálu dohledatelný."
+      },
+      {
+        "q": "Co když své hodiny v daném měsíci nevyčerpám?",
+        "a": "Až 50 % nevyužitých hodin se převádí do dalšího měsíce. Chceme, abyste služby využívali efektivně – většina klientů své hodiny vyčerpá naplno."
+      },
+      {
+        "q": "Existuje nějaká smlouva?",
+        "a": "Fakturujeme měsíčně, zrušit můžete kdykoliv. Při ukončení spolupráce vám zůstává veškerý váš obsah, kód, přístupy i historie požadavků."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Seznamte se s inženýrem, který odpoví na vaši příští zprávu.",
+    "highlight": "Získejte nezávaznou nabídku.",
+    "description": "Prověříme váš web, potřeby vašeho týmu a doporučíme vhodný plán (pokud vám nějaký bude sedět) – poté zašleme písemnou nabídku.",
+    "buttonQuote": "Začít s plánem podpory",
+    "buttonContact": "Kontaktujte nás"
+  },
+  "inboxWidget": {
+    "title": "Schránka podpory",
+    "status": "Dnes · 5 otevřených",
+    "replyMetric": "odpověď",
+    "engineer": {
+      "label": "Váš inženýr",
+      "status": "Jordan R. · online"
+    },
+    "tickets": [
+      {
+        "id": "4821",
+        "subject": "Nový životopis + foto lékaře na stránku O nás",
+        "meta": "Dr. Caldwell · e-mail · 18 min"
+      },
+      {
+        "id": "4822",
+        "subject": "Přidat banner pro akci na Aesthetic",
+        "meta": "Recepce · Lumen · chat · 9 min"
+      },
+      {
+        "id": "4823",
+        "subject": "Rezervační widget se nenačítá v Safari na iPhone",
+        "meta": "Dr. Vasquez · telefon · 22 min"
+      }
+    ]
+  },
+  "footerLinks": {
+    "preface": "Pokud zvažujete podporu, podívejte se také na:",
+    "maintenance": "plány proaktivní údržby",
+    "management": "kompletní správa webu bez starostí",
+    "faq": "časté dotazy k podpoře"
+  }
+}

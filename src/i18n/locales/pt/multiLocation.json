@@ -1,0 +1,442 @@
+{
+  "meta": {
+    "title": "Design de Webseiten de Dermatologia Multi-Localização | Uma Marca, Todas as Cidades",
+    "description": "Design premium de websites para clínicas de dermatologia com várias localizações. Sistema de marca gerido, SEO por localização, Google Business Profile por clínica, agendamento unificado e em conformidade com HIPAA. Posicione-se em cada cidade onde atua.",
+    "og_title": "Design de Webseiten de Dermatologia Multi-Localização | Uma Marca, Todas as Cidades",
+    "og_description": "Desenvolva um website de dermatologia multi-localização que se posiciona por cidade, converte por unidade e escala à medida que abre novas clínicas. HIPAA-aware, Lighthouse 95+, SEO local real.",
+    "jsonLd": {
+      "serviceType": "Design de Website de Dermatologia Multi-Localização",
+      "providerName": "DW Design",
+      "audienceType": "Clínicas de Dermatologia com Múltiplas Localizações",
+      "offerDescription": "Design de website de dermatologia multi-localização — preço inicial"
+    }
+  },
+  "hero": {
+    "badge": "Uma marca · Todas as cidades · Totalmente indexado",
+    "title": "Design de Website para Clínicas de Dermatologia que conquista o ranking de cada cidade onde se instala.",
+    "description": "Um sistema de marca gerido, uma página indexada exclusiva por clínica, schema por localização, GBP, avaliações e agendamento — para que um paciente em Lisboa, no Porto ou em Faro veja uma clínica local, e não uma cadeia corporativa fria.",
+    "cta": "Planear o Meu Site Multi-Localização",
+    "secondary_cta": "Auditoria de SEO Local Gratuita",
+    "stats": {
+      "brand": {
+        "value": "1 marca",
+        "description": "Sistema de design gerido"
+      },
+      "locations": "Unidades escalonadas para",
+      "performance": "Lighthouse em todas as páginas"
+    },
+    "rank_badge": {
+      "label": "Ranking local em direto",
+      "value": "Top 3",
+      "subtext": "em cada cidade lançada, ≤ 60 dias"
+    },
+    "image_alt": "Mapa da rede de clínicas de dermatologia multi-localização com painel de marca unificado"
+  },
+  "scaler": {
+    "eyebrow": "Interativo · Simulador de Expansão",
+    "title": "Arraste para pré-visualizar a sua pegada local.",
+    "description": "Veja com quantas páginas locais indexadas o seu site será lançado — uma por clínica, além das páginas de serviços principais por cidade.",
+    "label": "Localizações:",
+    "range_hint": "2 – 10",
+    "stat_indexed": "Páginas locais indexadas",
+    "stat_gbp": "GBPs reivindicados e ligados",
+    "browser_placeholder": "asuaclinica.pt/localizacoes",
+    "local_number": "Número local"
+  },
+  "sections": {
+    "audiences": {
+      "eyebrow": "Para quem trabalhamos",
+      "title": "Criado para marcas de dermatologia que vivem em mais do que um código postal.",
+      "items": [
+        {
+          "label": "Dermatologistas em Expansão",
+          "desc": "A abrir o seu 2.º ou 3.º consultório e a precisar de algo mais do que um site de página única."
+        },
+        {
+          "label": "Clínicas Multi-Localização",
+          "desc": "Entre 3 a 20 consultórios sob uma só marca, a precisar de ranking por cidade e um único CMS."
+        },
+        {
+          "label": "Grupos de Dermatologia Pediátrica",
+          "desc": "Triagem focada nos pais com correspondência de médicos por localização."
+        },
+        {
+          "label": "Redes de Cirurgia e Mohs",
+          "desc": "Portais para médicos referenciadores com conteúdos de casos por clínica."
+        }
+      ]
+    },
+    "problems": {
+      "eyebrow": "O que resolvemos",
+      "title": "A maioria dos sites de dermato multi-localização são apenas sites de uma clínica disfarçados.",
+      "description": "O Google vê apenas uma página. Os pacientes veem apenas uma morada. As avaliações acumulam-se no consultório que foi indexado primeiro. Nós reconstruímos a arquitetura do zero.",
+      "labels": {
+        "before": "Antes",
+        "after": "Depois"
+      },
+      "items": [
+        {
+          "before": "Uma página de contacto para 6 clínicas",
+          "after": "6 páginas locais indexadas"
+        },
+        {
+          "before": "Mesmo H1 em todas as localizações",
+          "after": "H1 específico por cidade + schema"
+        },
+        {
+          "before": "GBP não reivindicado / não verificado",
+          "after": "GBP por clínica, integrado no site"
+        },
+        {
+          "before": "Pacientes marcam no consultório errado",
+          "after": "Agendamento inteligente por CP + URL"
+        },
+        {
+          "before": "Avaliações partilhadas, sem confiança local",
+          "after": "Avaliações e rating por localização"
+        },
+        {
+          "before": "Adicionar local = 6 semanas de trabalho",
+          "after": "Nova unidade ativa em < 7 dias"
+        }
+      ]
+    },
+    "pillars": {
+      "eyebrow": "O sistema",
+      "title": "Seis pilares por trás de cada projeto multi-localização.",
+      "items": [
+        {
+          "title": "Sistema de Marca Gerido",
+          "desc": "Uma linguagem de design, tokens e biblioteca de componentes — cada página de localização herda tudo automaticamente."
+        },
+        {
+          "title": "SEO por Localização",
+          "desc": "URLs únicas, schema, H1s e conteúdo para cada consultório — indexados como clínicas distintas."
+        },
+        {
+          "title": "Encaminhamento Local Inteligente",
+          "desc": "Detetor de código postal e CTAs sensíveis ao URL. Os pacientes nunca marcam no consultório errado."
+        },
+        {
+          "title": "Avaliações Estrela por Unidade",
+          "desc": "Reviews recolhidas, exibidas e marcadas com schema individualmente por clínica — prova social local real."
+        },
+        {
+          "title": "Agendamento Unificado, Salas Locais",
+          "desc": "Um fluxo de paciente, N calendários. Médicos, horários e seguros específicos de cada unidade."
+        },
+        {
+          "title": "HIPAA-Aware em Todo o Lado",
+          "desc": "Formulários de admissão e analytics — prontos para BAA em todas as localizações."
+        }
+      ]
+    },
+    "architecture": {
+      "eyebrow": "Arquitetura de URL",
+      "title": "Cada unidade ganha a sua própria casa indexável.",
+      "description": "O Google trata cada consultório como uma clínica distinta. Os pacientes aterram na página da cidade relevante para a sua pesquisa. Avaliações, horários e seguros ficam fixos na unidade certa.",
+      "items": [
+        "Índice de localizações: /localizacoes",
+        "Página da unidade: /localizacoes/lisboa",
+        "Serviço local: /localizacoes/lisboa/tratamento-acne",
+        "Bio do médico: /localizacoes/lisboa/dr-brito",
+        "Dados estruturados: LocalBusiness + MedicalClinic por URL"
+      ],
+      "visual": {
+        "title": "Plano de URL",
+        "status": "Indexado"
+      }
+    },
+    "seoMatrix": {
+      "eyebrow": "Matriz de SEO Local",
+      "title": "Cada cidade × cada serviço, indexado e bem posicionado.",
+      "description": "Exemplo de uma marca com 4 unidades — 12 serviços principais × 4 cidades = 48 páginas locais otimizadas, além das páginas de localização principais.",
+      "table": {
+        "head_service": "Serviço",
+        "cities": [
+          "Lisboa",
+          "Porto",
+          "Braga",
+          "Coimbra"
+        ],
+        "services": [
+          "Tratamento de Acne",
+          "Eczema",
+          "Rastreio de Cancro da Pele",
+          "Remoção de Sinais",
+          "Tratamento de Rosácea",
+          "Psoríase"
+        ]
+      }
+    },
+    "medicalServices": {
+      "eyebrow": "Serviços médicos cobertos",
+      "title": "Todos os serviços necessários, por localização.",
+      "description": "Cada clínica mostra apenas os serviços que realmente oferece, com mapeamento de seguros e médicos. Sem confusão, sem marcações perdidas.",
+      "list": [
+        "Tratamento de Acne",
+        "Eczema",
+        "Psoríase",
+        "Infeções Cutâneas",
+        "Alergias Dermatológicas",
+        "Rastreio e Tratamento de Cancro da Pele",
+        "Avaliação e Remoção de Sinais",
+        "Remoção de Quistos e Lipomas",
+        "Verrugas",
+        "Patologia Ungueal",
+        "Queda de Cabelo",
+        "Patologia do Couro Cabeludo",
+        "Rosácea",
+        "Hiperpigmentação e Melasma",
+        "Cicatrizes",
+        "Cicatrizes de Queimaduras",
+        "Vitiligo",
+        "Biópsias e Diagnóstico"
+      ]
+    },
+    "deliverables": {
+      "eyebrow": "O que entregamos",
+      "title": "12 entregáveis concretos para o lançamento.",
+      "list": [
+        "Sistema de design multi-localização gerido",
+        "Landing page única por localização de clínica",
+        "Schema LocalBusiness + MedicalClinic por unidade",
+        "Configuração do Google Business Profile por clínica",
+        "Seletor de localização via código postal no cabeçalho",
+        "Biografias de médicos e fotografia por unidade",
+        "Páginas de serviço específicas por cidade",
+        "Captura e exibição de avaliações por unidade",
+        "Fluxo de agendamento unificado com contexto local",
+        "Formulários HIPAA-aware em todas as unidades",
+        "Core Web Vitals 95+ em todas as páginas",
+        "Painel de analytics sensível à localização"
+      ]
+    },
+    "timeline": {
+      "eyebrow": "O processo",
+      "title": "Seis etapas. Uma data de lançamento.",
+      "steps": [
+        {
+          "step": "01",
+          "title": "Auditoria de Marca e Unidades",
+          "desc": "Inventariamos cada unidade, médico, serviço e GBP existente. Identificamos duplicações e falhas de NAP."
+        },
+        {
+          "step": "02",
+          "title": "Sistema de Design Gerido",
+          "desc": "Um kit de marca, uma biblioteca de componentes. Cada página de unidade herda o design — consistência total."
+        },
+        {
+          "step": "03",
+          "title": "Arq. de Informação e Conteúdo",
+          "desc": "Estrutura de URLs, H1s por cidade, mapeamento de médicos e seguros, e briefings de copy local exclusivo."
+        },
+        {
+          "step": "04",
+          "title": "Lançamento e SEO Local",
+          "desc": "Cada página nasce com schema, mapa incorporado, NAP, link GBP e páginas de serviços por cidade."
+        },
+        {
+          "step": "05",
+          "title": "QA em Dispositivos e Revisão HIPAA",
+          "desc": "Testes em desktop, tablet e mobile. Auditoria de formulários sob BAA."
+        },
+        {
+          "step": "06",
+          "title": "Lançamento e Aquecimento Local",
+          "desc": "GBP verificado, citações alinhadas, Search Console e GA4 configurados por unidade. Monitorização de 90 dias."
+        }
+      ]
+    },
+    "comparison": {
+      "eyebrow": "Porquê escolher-nos",
+      "title": "DIY, agência generalista ou especialista em redes de dermato.",
+      "table": {
+        "head_capability": "Capacidade",
+        "head_diy": "Criador DIY",
+        "head_generic": "Agência Geral",
+        "head_dw": "DW Design",
+        "recommended": "RECOMENDADO",
+        "rows": [
+          "Página indexada única por localização",
+          "Schema LocalBusiness por clínica",
+          "Configuração de Google Business Profile por unidade",
+          "Fluxo de agendamento inteligente (URL/CP)",
+          "Sistema de marca que escala para N unidades",
+          "Avaliações por unidade com schema",
+          "Formulários HIPAA-aware em todo o site",
+          "Lighthouse 95+ em todas as páginas locais"
+        ]
+      }
+    },
+    "pricing": {
+      "eyebrow": "Investimento",
+      "title": "Preços baseados no número de clínicas que gere.",
+      "custom_quote_text": "Para mais de 10 unidades, grupos empresariais ou redes suportadas por investidores — peça um orçamento por medida.",
+      "custom_quote_link": "peça um orçamento por medida",
+      "starting_label": "a partir de",
+      "most_popular": "Mais Popular",
+      "market_label": "Preço de Mercado:",
+      "tiers": [
+        {
+          "name": "2–3 Unidades",
+          "price": "6.900€",
+          "tag": "Consultório em Crescimento",
+          "market": "15.000€ – 28.000€",
+          "savings": "54–75% mais económico",
+          "features": [
+            "Sistema de marca gerido",
+            "Até 3 páginas de localização indexadas",
+            "Schema LocalBusiness por clínica",
+            "Configuração de GBP para cada unidade",
+            "Agendamento unificado com contexto local",
+            "Lançamento em 5–7 semanas"
+          ]
+        },
+        {
+          "name": "4–6 Unidades",
+          "price": "11.400€",
+          "tag": "Mais Popular",
+          "market": "25.000€ – 50.000€",
+          "savings": "54–77% mais económico",
+          "features": [
+            "Tudo o que está incluído no plano inicial",
+            "Até 6 páginas de localização indexadas",
+            "Páginas de serviço específicas por cidade",
+            "Captura de avaliações por unidade",
+            "Detetor de localização por código postal",
+            "Lançamento em 7–9 semanas"
+          ]
+        },
+        {
+          "name": "7–10 Unidades",
+          "price": "18.900€",
+          "tag": "Rede Regional",
+          "market": "45.000€ – 90.000€",
+          "savings": "58–79% mais económico",
+          "features": [
+            "Tudo o que está incluído no Mais Popular",
+            "Até 10 páginas de localização indexadas",
+            "Correspondência médico-unidade",
+            "Base de dados de seguros por clínica",
+            "Painel de analytics sensível à localização",
+            "Lançamento em 9–12 semanas"
+          ]
+        }
+      ],
+      "cta": "Começar Agora"
+    },
+    "gallery": {
+      "eyebrow": "Projetos reais",
+      "title": "Um sistema gerido, a funcionar em clínicas reais.",
+      "description": "Interiores de duas unidades de marcas ativas de dermatologia que lançámos. Fotografia e identidade anonimizadas por questões de HIPAA e NDA.",
+      "nda_badge": "NDA",
+      "items": [
+        {
+          "label": "Receção · Unidade A",
+          "city": "Área Metropolitana de Lisboa"
+        },
+        {
+          "label": "Sala de tratamento · Unidade B",
+          "city": "Área Metropolitana do Porto"
+        }
+      ]
+    },
+    "caseStudy": {
+      "eyebrow": "Estudo de caso anonimizado",
+      "title": "Grupo de dermatologia com 6 unidades · Resultados após 90 dias.",
+      "description": "Nomes e dados identificativos omitidos sob NDA. Métricas extraídas do Google Search Console e GA4, verificadas trimestralmente.",
+      "verified": "Verificado",
+      "metrics": [
+        {
+          "k": "+41%",
+          "label": "Chamadas de novos pacientes",
+          "sub": "vs 90 dias pré-lançamento"
+        },
+        {
+          "k": "Top 3",
+          "label": "Ranking no pack local",
+          "sub": "em 6 / 6 cidades lançadas"
+        },
+        {
+          "k": "48",
+          "label": "Páginas locais indexadas",
+          "sub": "antes era apenas 1 página de contacto"
+        },
+        {
+          "k": "97",
+          "label": "Média Lighthouse",
+          "sub": "em todas as páginas de unidades"
+        }
+      ],
+      "chart": {
+        "title": "Chamadas de novos pacientes · semanal",
+        "description": "Pré-lançamento → Dia 90",
+        "pre": "Pré-lançamento",
+        "post": "Pós-lançamento",
+        "anonymized": "Cliente anonimizado"
+      }
+    },
+    "testimonial": {
+      "quote": "Passámos de 3 consultórios a partilhar uma página de contacto para 6 páginas de clínicas totalmente indexadas, cada uma no top local da sua cidade em 60 dias. As chamadas de novos pacientes cresceram 41% — e abrimos a nossa 7.ª unidade sem mexer na arquitetura do site.",
+      "author": "Dr.ª Rachel Patel",
+      "title": "Sócia-Gerente, Grupo de Dermatologia com 7 unidades",
+      "trust_strip": "Redes de dermatologia multi-localização presentes em",
+      "cities": [
+        "Lisboa",
+        "Porto",
+        "Braga",
+        "Coimbra",
+        "Cascais",
+        "Faro"
+      ]
+    }
+  },
+  "faq": {
+    "eyebrow": "Perguntas frequentes",
+    "title": "Respostas diretas sobre multi-localização.",
+    "items": [
+      {
+        "q": "Como é que os sites de dermatologia multi-localização se posicionam no Google para cada cidade?",
+        "a": "Cada unidade recebe o seu próprio URL indexado (ex: /localizacoes/porto), com H1 único, copy específico, um bloco de schema LocalBusiness + MedicalClinic dedicado, mapa incorporado, consistência NAP e avaliações ligadas à unidade. O ranking local cresce por cidade, não apenas pela marca global."
+      },
+      {
+        "q": "Os pacientes conseguem marcar numa unidade específica sem confusão?",
+        "a": "Sim. O fluxo de agendamento identifica a localização primeiro — seja pelo URL onde o paciente aterrou, por um detetor de código postal ou pelo seletor no cabeçalho. O paciente nunca tem de adivinhar onde está a marcar."
+      },
+      {
+        "q": "Como evitam que 10+ páginas pareçam uma cópia umas das outras?",
+        "a": "Usamos um sistema de marca partilhado, mas com conteúdo único por localização: fotografia real, biografias dos médicos daquela unidade, FAQs da cidade, seguros aceites NAQUELA clínica e direções a partir de pontos de referência locais. O Google lê-as como entidades distintas; os pacientes sentem que é um consultório local."
+      },
+      {
+        "q": "E se abrirmos ou fecharmos uma unidade mais tarde?",
+        "a": "Novas unidades são criadas a partir de um template gerido em menos de uma semana. Unidades encerradas recebem um redirecionamento 301 para a clínica mais próxima com um mapeamento de médicos, garantindo que o ranking e as referências não se perdem."
+      },
+      {
+        "q": "Tratam da configuração do Google Business Profile por unidade?",
+        "a": "Sim. Reivindicamos, verificamos e otimizamos o GBP de cada clínica, integramos a recolha de avaliações no site e alinhamos as citações NAP nos principais diretórios médicos. A visibilidade local faz parte do projeto base."
+      },
+      {
+        "q": "Quanto tempo demora o lançamento de um site de dermatologia multi-localização?",
+        "a": "5–7 semanas para 2–4 unidades, 7–10 semanas para 5–10 unidades e 10–14 semanas para projetos maiores ou integrações EHR complexas. Definimos marcos semanais e uma data de lançamento fixa no início."
+      }
+    ]
+  },
+  "cta_founder": {
+    "title": "Cada unidade lançada é a nossa responsabilidade pessoal.",
+    "description": "Aceitamos um número limitado de projetos multi-localização por trimestre para garantir que cada página de clínica seja entregue com o mesmo rigor. Se o seu plano de expansão inclui mais do que uma morada, vamos planear a arquitetura antes de mover o primeiro pixel.",
+    "cta_quote": "Pedir Orçamento Gratuito",
+    "cta_msg": "Enviar Mensagem",
+    "footer_title": "Design para Dermatologia",
+    "footer_sub": "Ajudamos Dermatologistas a Crescer Online",
+    "logo_alt": "DW — Design de Websites de Dermatologia"
+  },
+  "footer_nav": {
+    "useful_hint": "Também pode ser útil:",
+    "links": {
+      "single": "design para consultório único",
+      "seo": "como funciona a visibilidade local",
+      "portfolio": "ver lançamentos multi-clínica recentes"
+    }
+  }
+}

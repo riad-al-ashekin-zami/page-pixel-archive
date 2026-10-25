@@ -1,0 +1,340 @@
+{
+  "meta": {
+    "title": "Redesign strony dermatologicznej — modernizacja bez utraty SEO",
+    "description": "Profesjonalny redesign stron dla praktyk dermatologicznych: indywidualnych, sieciowych, pediatrycznych i chirurgii Mohsa. Nowocześnie, szybko, z uwzględnieniem HIPAA — bez spadków SEO przy wdrożeniu.",
+    "og_title": "Redesign strony dermatologicznej — zero strat w SEO",
+    "og_description": "Zmień przestarzałą witrynę w szybkie, nastawione na konwersję i zgodne z HIPAA narzędzie. Zachowane przekierowania 301 i pozycje w Google.",
+    "jsonLd": {
+      "serviceType": "Dermatology Website Redesign",
+      "providerName": "DW Design",
+      "offerDescription": "Redesign strony internetowej dla dermatologii — cena startowa"
+    }
+  },
+  "hero": {
+    "scarcityBadge": "Tylko 3 wolne terminy na redesign w tym kwartale",
+    "category": "Redesign strony dermatologicznej",
+    "h1": {
+      "main": "Zmodernizuj stronę swojej praktyki. ",
+      "highlight": "Bez utraty pozycji w Google."
+    },
+    "description": "Profesjonalny redesign dla gabinetów dermatologicznych prowadzony przez ekspertów — szybciej, bezpieczniej i estetyczniej. Przekierowania 301, formularze zgodne z HIPAA i ochrona rankingu SEO.",
+    "cta": {
+      "primary": "Wycena redesignu",
+      "secondary": "Bezpłatny audyt strony"
+    },
+    "pricing": {
+      "label": "Redesign od",
+      "value": "$4,900",
+      "detail": "· stały zakres, płatność etapowa"
+    },
+    "trustLabels": [
+      "Zero strat w SEO",
+      "Zero przerw technicznych",
+      "Zgodność z HIPAA",
+      "Lighthouse 95+"
+    ],
+    "socialProof": "Zaufało nam ponad 50 praktyk dermatologicznych · Widoczni w",
+    "dragHint": "← Przesuń, aby porównać →",
+    "badges": {
+      "before": "Przed",
+      "after": "Po",
+      "performance": "Lighthouse 48 → 98",
+      "growth": "+3.4x więcej wizyt",
+      "seo": "Zero strat w SEO"
+    },
+    "aria": {
+      "compare": "Zobacz porównanie przed i po redesignie"
+    }
+  },
+  "sections": {
+    "painPoints": {
+      "overhead": "Sygnały, że potrzebujesz nowej strony",
+      "heading": "Najedź kursorem, aby zobaczyć rozwiązanie",
+      "description": "Każda czerwona karta to typowy problem stron dermatologicznych. Najedź (lub dotknij), aby zobaczyć, jak naprawiamy to w nowym projekcie.",
+      "cards": [
+        {
+          "pain": "Długi czas ładowania",
+          "painStat": "> 4s LCP",
+          "solution": "Edge caching + optymalizacja obrazów",
+          "solutionStat": "< 1.2s LCP"
+        },
+        {
+          "pain": "Niefunkcjonalna na komórkach",
+          "painStat": "60%+ utraconego ruchu",
+          "solution": "Budowa Mobile-first",
+          "solutionStat": "100% responsywność"
+        },
+        {
+          "pain": "Niewidoczna w Google",
+          "painStat": "Strona 3+",
+          "solution": "Schema + on-page SEO",
+          "solutionStat": "Top 3 lokalnie"
+        },
+        {
+          "pain": "Przestarzały design",
+          "painStat": "Spadek zaufania",
+          "solution": "Dedykowany design system",
+          "solutionStat": "Marka Premium"
+        },
+        {
+          "pain": "Ryzyko HIPAA",
+          "painStat": "Niezabezpieczone formularze",
+          "solution": "Technologie BAA-ready",
+          "solutionStat": "Gotowość do audytu"
+        },
+        {
+          "pain": "Niska liczba zapisów",
+          "painStat": "< 2% CVR",
+          "solution": "Ścieżki zorientowane na CRO",
+          "solutionStat": "6%+ CVR"
+        }
+      ]
+    },
+    "stats": {
+      "overhead": "Efekty zmiany",
+      "heading": "Przed vs. po realnym redesignie",
+      "description": "Średnie wyniki praktyk dermatologicznych, których strony odświeżyliśmy w ciągu ostatnich 24 miesięcy.",
+      "labels": {
+        "before": "Przed",
+        "after": "Po"
+      },
+      "items": [
+        {
+          "label": "Ładowanie strony (LCP)"
+        },
+        {
+          "label": "Wynik Lighthouse"
+        },
+        {
+          "label": "Konwersja zapisów"
+        },
+        {
+          "label": "Lokalny ranking Google"
+        }
+      ]
+    },
+    "seoTimeline": {
+      "overhead": "Ochrona SEO",
+      "heading": "Jak dbamy o Twoje pozycje",
+      "description": "90-dniowy, 5-etapowy protokół, dzięki któremu Google (i pacjenci) bez przeszkód znajdą Cię po zmianie strony.",
+      "steps": [
+        {
+          "day": "Dzień 1",
+          "label": "Analiza wszystkich URL + snapshot rankingów"
+        },
+        {
+          "day": "Tydzień 2",
+          "label": "Zatwierdzenie mapy przekierowań 1:1"
+        },
+        {
+          "day": "Wdrożenie",
+          "label": "Aktywacja przekierowań 301 przy starcie"
+        },
+        {
+          "day": "Dzień 30",
+          "label": "Czyszczenie danych w Google Search Console"
+        },
+        {
+          "day": "Dzień 90",
+          "label": "Monitorowanie i korekta pozycji"
+        }
+      ]
+    },
+    "audiences": {
+      "overhead": "Grupa docelowa",
+      "heading": "Redesign dla każdego typu praktyki",
+      "items": [
+        {
+          "label": "Praktyki indywidualne",
+          "desc": "Butikowe odświeżenie marki, które buduje prestiż i zwiększa liczbę rezerwacji."
+        },
+        {
+          "label": "Kliniki wielooddziałowe",
+          "desc": "Konsolidacja rozproszonych witryn w jeden spójny, skalowalny system dla wielu lokalizacji."
+        },
+        {
+          "label": "Dermatologia dziecięca",
+          "desc": "Przyjazny UX dla rodziców z intuicyjną ścieżką zapisu i formularzami dla opiekunów."
+        },
+        {
+          "label": "Chirurgia Mohsa i zabiegowa",
+          "desc": "Wzmocnienie autorytetu w oczach lekarzy kierujących oraz pacjentów szukających specjalistów."
+        }
+      ]
+    },
+    "pillars": {
+      "overhead": "Co definiuje jakość Premium",
+      "heading": "Sześć standardów każdego redesignu",
+      "description": "Design, inżynieria, SEO i zgodność prawna — od pierwszego dnia projektowane jako spójna całość.",
+      "items": [
+        {
+          "title": "Zero strat w SEO",
+          "desc": "Przekierowania 301, zachowana struktura URL, mapowanie treści i monitoring pozycji przez 90 dni."
+        },
+        {
+          "title": "Design w 100% dedykowany",
+          "desc": "Brak gotowych szablonów — unikalny system stworzony pod markę i specjalizacje Twojej kliniki."
+        },
+        {
+          "title": "Lighthouse 95+",
+          "desc": "Budowa z obsesją na punkcie wydajności — optymalizacja obrazów, edge caching i lekki kod."
+        },
+        {
+          "title": "Standard HIPAA",
+          "desc": "Bezpieczne formularze, hosting BAA-ready, brak PHI w analityce, stos technologiczny gotowy na audyt."
+        },
+        {
+          "title": "Pełna responsywność",
+          "desc": "Pixel-perfect na komputerach, tabletach i telefonach — testowane na rzeczywistych urządzeniach."
+        },
+        {
+          "title": "Dostępność (WCAG AA)",
+          "desc": "Obsługa klawiaturą, odpowiedni kontrast, etykiety dla czytników ekranu — inkluzywność w standardzie."
+        }
+      ]
+    },
+    "services": {
+      "overhead": "Zakres usług medycznych",
+      "heading": "Strony usług przebudowane pod konwersję",
+      "description": "Restrukturyzujemy i redagujemy każdą podstronę zabiegową — merytorycznie, przystępnie dla pacjenta i z myślą o wynikach rozszerzonych w Google.",
+      "features": [
+        "Frazy kluczowe w H1 / H2 / FAQ",
+        "Migracja treści z przekierowaniami 301",
+        "Zgodne z HIPAA formularze kontaktowe",
+        "Szybkie, indeksowalne, Mobile-first"
+      ],
+      "list": [
+        "Leczenie trądziku",
+        "Leczenie egzemy",
+        "Leczenie łuszczycy",
+        "Infekcje skórne",
+        "Alergie skórne",
+        "Badanie i leczenie raka skóry",
+        "Ocena i usuwanie znamion",
+        "Usuwanie cyst i tłuszczaków",
+        "Usuwanie brodawek",
+        "Choroby paznokci",
+        "Leczenie wypadania włosów",
+        "Schorzenia skóry głowy",
+        "Trądzik różowaty",
+        "Przebarwienia i melasma",
+        "Leczenie blizn",
+        "Leczenie blizn pooparzeniowych",
+        "Leczenie bielactwa",
+        "Biopsja skóry i diagnostyka"
+      ]
+    },
+    "process": {
+      "overhead": "Proces projektowy",
+      "heading": "Cztery fazy. Zero niespodzianek.",
+      "items": [
+        {
+          "step": "01",
+          "title": "Audyt i diagnoza",
+          "desc": "Analiza SEO, wydajności, UX i treści obecnej strony. Decydujemy, co zachować, co naprawić, a co wymienić."
+        },
+        {
+          "step": "02",
+          "title": "IA i Mapa przekierowań",
+          "desc": "Nowa architektura informacji i plan przekierowań 301 tworzony przed jakąkolwiek decyzją wizualną."
+        },
+        {
+          "step": "03",
+          "title": "Design i budowa",
+          "desc": "Dedykowany system wizualny, ręcznie pisany kod, formularze zgodne z HIPAA i wdrożone dane strukturalne."
+        },
+        {
+          "step": "04",
+          "title": "Migracja i start",
+          "desc": "Przeniesienie treści, wdrożenie przekierowań, start bez przerw w działaniu i 90-dniowy monitoring rankingu."
+        }
+      ]
+    },
+    "portfolio": {
+      "overhead": "Ostatnie projekty",
+      "heading": "Przemiany przed i po",
+      "cta": "Zobacz pełne portfolio",
+      "items": [
+        {
+          "label": "LA Dermatology",
+          "meta": "Przed → Po · +187% zapisów, utrzymano TOP 1",
+          "alt": "LA Dermatology redesign strony"
+        },
+        {
+          "label": "RS Institute",
+          "meta": "Konsolidacja 6 stron · +142% ruchu",
+          "alt": "RS Institute redesign strony"
+        },
+        {
+          "label": "CM Surgical",
+          "meta": "Redesign · +230% zapytań od lekarzy",
+          "alt": "CM Surgical redesign strony"
+        }
+      ]
+    }
+  },
+  "testimonials": {
+    "aria": {
+      "button": "Opinia"
+    },
+    "items": [
+      {
+        "name": "Dr Ethan Caldwell, MD",
+        "role": "LA Dermatology · Praktyka indywidualna",
+        "quote": "Proces był bezproblemowy — nie straciliśmy ani jednej pozycji w Google, a w ciągu 60 dni liczba rezerwacji się podwoiła. W końcu wyglądamy tak profesjonalnie, jak działamy."
+      },
+      {
+        "name": "Dr Ibrahim Okafor, MD",
+        "role": "RS Institute · 6 lokalizacji",
+        "quote": "Połączenie sześciu starych stron w jedną wydawało się niemożliwe. Zrobili to w osiem tygodni bez strat w SEO, a strony poszczególnych oddziałów rankują lepiej niż kiedykolwiek."
+      },
+      {
+        "name": "Dr Anika Vasquez, MD",
+        "role": "CM Surgical",
+        "quote": "Lekarze kierujący regularnie chwalą naszą nową stronę. Skoczyła jakość leadów, nie tylko ich ilość. To najlepsza decyzja marketingowa, jaką podjęliśmy."
+      }
+    ]
+  },
+  "faq": {
+    "overhead": "FAQ",
+    "heading": "Najczęstsze pytania",
+    "items": [
+      {
+        "q": "Czy po redesignie spadną moje pozycje w SEO?",
+        "a": "Nie — zachowujemy strukturę URL, wdrażamy przekierowania 301 dla zmienionych ścieżek, przenosimy treści i linkowanie wewnętrzne oraz monitorujemy pozycje przez 90 dni po wdrożeniu."
+      },
+      {
+        "q": "Ile trwa redesign strony?",
+        "a": "Standardowy projekt trwa 5–8 tygodni. Złożone witryny wielooddziałowe wymagają 8–12 tygodni. Pracujemy w oparciu o tygodniowe kamienie milowe."
+      },
+      {
+        "q": "Czy przeniesiecie moją obecną treść?",
+        "a": "Tak. Przeprowadzamy audyt, restrukturyzację i migrację wszystkich podstron: usług, profili lekarzy, galerii przed i po, bloga oraz danych lokalizacyjnych bez żadnych strat."
+      },
+      {
+        "q": "Czy możecie zintegrować stronę z moim systemem rezerwacji / EHR?",
+        "a": "Tak. Integrujemy się z popularnymi systemami EHR dla dermatologii, portalami pacjenta, widgetami do rezerwacji i narzędziami CRM, dbając o standardy HIPAA."
+      },
+      {
+        "q": "Co jeśli wiąże mnie umowa z obecną agencją?",
+        "a": "Możemy rozpocząć planowanie w trakcie okresu wypowiedzenia i wystartować z nową stroną dokładnie w dniu wygaśnięcia poprzedniej usługi. Bez przerw w działaniu."
+      }
+    ]
+  },
+  "cta": {
+    "overhead": "Bezpłatny Audyt Strony",
+    "heading": "Czas pożegnać starą stronę Twojej praktyki?",
+    "description": "Wyślij nam swój adres URL. Osobiście go przeanalizujemy i wskażemy, co sprawia, że tracisz pacjentów — oraz jak redesign to naprawi przy pełnym bezpieczeństwie Twojego SEO.",
+    "logoAlt": "DW — Dermatology Website Design",
+    "providerName": "Dermatology Website Design",
+    "providerRole": "Wspieramy rozwój dermatologii w sieci",
+    "primary": "Wycena redesignu",
+    "secondary": "Kontakt",
+    "footerLinksPrefix": "Może Cię również zainteresować: ",
+    "footerLinks": {
+      "migration": "planowanie pełnej migracji strony",
+      "maintenance": "opieka techniczna po wdrożeniu",
+      "portfolio": "zobacz realizacje stron dermatologicznych"
+    }
+  }
+}

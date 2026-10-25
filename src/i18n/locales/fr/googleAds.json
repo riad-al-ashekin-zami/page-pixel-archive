@@ -1,0 +1,274 @@
+{
+  "meta": {
+    "title": "Gestion Google Ads et PPC pour dermatologues | Rendez-vous confirmés, pas des clics",
+    "description": "Gestion Google Ads et PPC pour cabinets de dermatologie : Search, LSA, YouTube et Performance Max. Mesure basée sur le coût par rendez-vous et la rentabilité par spécialité. Tracking conforme HIPAA.",
+    "og": {
+      "title": "Google Ads et PPC Dermatologie — Des rendez-vous, pas des clics",
+      "description": "Un PPC rentable : Search, LSA, YouTube et remarketing pilotés par le ROI des rendez-vous pris pour les cabinets de dermatologie."
+    },
+    "twitter": {
+      "title": "Gestion Google Ads et PPC pour dermatologues",
+      "description": "PPC optimisé selon le coût par rendez-vous confirmé pour les cabinets de dermatologie."
+    },
+    "jsonLd": {
+      "serviceType": "Gestion Google Ads et PPC pour cabinets de dermatologie",
+      "provider": "DermatologyWebsiteDesign.com",
+      "description": "Gestion de campagnes Google Ads, LSA, YouTube et Performance Max pour dermatologues, mesurée par les rendez-vous confirmés et le P&L par spécialité.",
+      "breadcrumb": {
+        "home": "Accueil",
+        "services": "Services",
+        "ads": "Google Ads et PPC"
+      }
+    }
+  },
+  "hero": {
+    "badge": "Google Ads et PPC Dermatologie",
+    "heading": "Chaque clic devient un rendez-vous.",
+    "description": "Gestion Google Ads et PPC pour dermatologues : Search, LSA, YouTube et Performance Max ciblés sur le coût par rendez-vous, loin des indicateurs de vanité. Tracking HIPAA et rapport de rentabilité par service.",
+    "cta": {
+      "audit": "Audit PPC gratuit",
+      "campaigns": "Voir les types de campagnes"
+    },
+    "stats": [
+      {
+        "label": "Baisse du CPBV",
+        "value": "38 %"
+      },
+      {
+        "label": "Appels de consultation",
+        "value": "4.2×"
+      },
+      {
+        "label": "Dépenses inutiles éliminées",
+        "value": "62 %"
+      },
+      {
+        "label": "Tracking sécurisé",
+        "value": "HIPAA"
+      }
+    ]
+  },
+  "sections": {
+    "campaigns": {
+      "badge": "Couverture des campagnes",
+      "heading": "Six leviers. Un seul objectif : le rendez-vous.",
+      "description": "Chaque campagne est associée à une spécialité médicale et à un plafond de coût par rendez-vous mensuel. Rien ne tourne en automatique sans analyse de rentabilité.",
+      "items": [
+        {
+          "title": "Annonces Google Search",
+          "desc": "Mots-clés à forte intention — « dermatologue à proximité », « spécialiste acné », « chirurgie de Mohs » — redirigeant vers des pages dédiées par acte, pas vers l'accueil."
+        },
+        {
+          "title": "Local Service Ads (LSA)",
+          "desc": "Flux de prospects garantis par Google avec facturation au lead et crédits de litige. Nous gérons la vérification, les badges et le suivi des prospects."
+        },
+        {
+          "title": "YouTube et annonces vidéo",
+          "desc": "Présentations des praticiens, explications de procédures et remarketing vidéo pour rester à l'esprit des patients lors de leur phase de réflexion."
+        },
+        {
+          "title": "Performance Max",
+          "desc": "Placements automatisés sur le Search, Display, YouTube et Gmail — optimisés par vos données de conversion réelles, pas par des signaux superficiels."
+        },
+        {
+          "title": "Remarketing et RLSA",
+          "desc": "Récupérez les 92 % de visiteurs qui partent sans réserver, segmentés par spécialité, profondeur de lecture et intention de consultation."
+        },
+        {
+          "title": "Suivi des conversions et attribution",
+          "desc": "Tracking d'appels et attribution de formulaires pour que ce soient les rendez-vous pris — et non les clics — qui pilotent les enchères."
+        }
+      ]
+    },
+    "outcomes": {
+      "ariaLabel": "Résultats mesurés",
+      "items": [
+        {
+          "label": "Réduction du coût par rendez-vous",
+          "value": "38 %"
+        },
+        {
+          "label": "Appels qualifiés en 90 jours",
+          "value": "4.2×"
+        },
+        {
+          "label": "Budget gaspillé récupéré après audit",
+          "value": "62 %"
+        },
+        {
+          "label": "Score de qualité Google moyen",
+          "value": "9.1"
+        }
+      ],
+      "testimonial": {
+        "quote": "« Notre ancienne agence parlait de \"clics\" et d'\"impressions\". Cette équipe nous parle de rendez-vous confirmés et de revenus par acte médical. En six mois, le coût par rendez-vous a chuté de 38 % et nous avons enfin coupé les campagnes qui brûlaient du budget pour rien. »",
+        "author": "Dr. Marcus Halden · Groupe de dermatologie (3 cliniques)"
+      }
+    },
+    "wastedSpend": {
+      "badge": "Où part votre argent ?",
+      "heading": "Six erreurs qui brûlent le budget PPC en dermatologie.",
+      "description": "Nous auditons ces points avant même de toucher aux enchères. En moyenne, nous récupérons 62 % des dépenses inutiles dès les 30 premiers jours.",
+      "items": [
+        "Enchérir sur votre propre marque alors que vous êtes déjà n°1 en SEO",
+        "Mots-clés en requête large attirant des recherches type « emploi dermato » ou « acné remède maison »",
+        "Rediriger tous les clics vers la page d'accueil au lieu de pages spécifiques",
+        "Absence de liste de mots-clés négatifs : la concurrence et les chercheurs d'emploi dévorent votre budget",
+        "Suivi basé sur les « clics vers la page contact » au lieu des rendez-vous confirmés",
+        "Listes de remarketing sans expiration poursuivant des patients qui ont déjà réservé"
+      ]
+    },
+    "audiences": {
+      "badge": "Pour qui nous intervenons",
+      "heading": "Adapté à chaque modèle de cabinet dermatologique.",
+      "description": "Cabinet solo, groupe multi-sites, pédiatrie ou chirurgie de Mohs — chaque stratégie est ajustée à la capacité de vos praticiens et à vos marges.",
+      "items": [
+        {
+          "title": "Dermatologues en cabinet solo",
+          "desc": "Budget serré, valeur par patient élevée — campagnes concentrées sur vos 2 activités phares pour maximiser le retour."
+        },
+        {
+          "title": "Cliniques multi-sites",
+          "desc": "Rentabilité par emplacement, ajustements d'enchères géographiques et gestion des budgets par clinique au sein d'un compte unique."
+        },
+        {
+          "title": "Dermatologie pédiatrique",
+          "desc": "Tunnels de conversion dédiés aux parents et publicités diffusées stratégiquement en dehors des heures d'école."
+        },
+        {
+          "title": "Chirurgie de Mohs et chirurgicale",
+          "desc": "Campagnes de soutien aux recommandation, pré-qualification des assurances et gestion par marge plutôt que par volume de clics."
+        }
+      ]
+    },
+    "services": {
+      "badge": "Spécialités couvertes",
+      "heading": "Toutes les pathologies. Toutes les intentions. Chaque rendez-vous.",
+      "description": "Chaque acte médical bénéficie de sa propre campagne, sa landing page et son objectif de coût par rendez-vous dédié.",
+      "list": [
+        "Traitement de l'acné",
+        "Traitement de l'eczéma",
+        "Traitement du psoriasis",
+        "Infections cutanées",
+        "Allergies cutanées",
+        "Dépistage et traitement du cancer de la peau",
+        "Évaluation et retrait de grains de beauté",
+        "Exérèse de kystes et lipomes",
+        "Traitement des verrues",
+        "Pathologies de l'ongle",
+        "Diagnostic et traitement de la chute de cheveux",
+        "Affections du cuir chevelu",
+        "Traitement de la couperose",
+        "Hyperpigmentation et mélasma (indication médicale)",
+        "Traitement des cicatrices (blessure, chirurgie, maladie)",
+        "Cicatrices de brûlures",
+        "Traitement du vitiligo",
+        "Biopsies cutanées et procédures diagnostiques"
+      ]
+    },
+    "workflow": {
+      "badge": "Méthode",
+      "heading": "Lancement PPC en 90 jours. Croissance continue ensuite.",
+      "description": "Des étapes transparentes liées aux rendez-vous et à la rentabilité réelle — pas de rapports opaques.",
+      "steps": [
+        {
+          "phase": "Phase 01",
+          "title": "Audit du compte et base de référence",
+          "desc": "Analyse des dépenses passées, cartographie du gaspillage, analyse des opportunités géographiques et fixation des objectifs de coût par rendez-vous."
+        },
+        {
+          "phase": "Phase 02",
+          "title": "Tracking et landing pages",
+          "desc": "Refonte du suivi (appels, formulaires, imports offline) et création de pages de destination conçues pour la prise de rendez-vous."
+        },
+        {
+          "phase": "Phase 03",
+          "title": "Mise en ligne des campagnes",
+          "desc": "Déploiement progressif (Search, LSA, Performance Max) avec un plafond de coût par rendez-vous pour chaque groupe d'annonces."
+        },
+        {
+          "phase": "Phase 04",
+          "title": "Optimisation et passage à l'échelle",
+          "desc": "Itérations hebdomadaires sur les enchères et visuels. Rapport financier mensuel. Ce qui ne performe pas est coupé, ce qui gagne est amplifié."
+        }
+      ]
+    },
+    "whyUs": {
+      "badge": "Pourquoi les cabinets nous choisissent",
+      "heading": "Un partenaire PPC expert en dermatologie — pas une agence Google Ads généraliste.",
+      "items": [
+        {
+          "title": "Rentabilité, pas clics",
+          "desc": "Chaque campagne est liée aux rendez-vous pris et au chiffre d'affaires généré par acte médical."
+        },
+        {
+          "title": "Pixels sécurisés HIPAA",
+          "desc": "Tracking d'appels avec accord BAA et formulaires expurgés de toute donnée de santé avant envoi aux pixels."
+        },
+        {
+          "title": "Enchères selon capacité",
+          "desc": "Nous modulons les enchères selon votre agenda : inutile d'acheter des clics si vos praticiens sont complets pour 3 semaines."
+        },
+        {
+          "title": "Campagnes par spécialité",
+          "desc": "Acné, Mohs, esthétique : chaque service a son propre budget et son objectif de CPBV."
+        },
+        {
+          "title": "Landing pages incluses",
+          "desc": "Vos campagnes sont livrées avec des pages de destination optimisées pour la conversion, jamais de simple lien vers l'accueil."
+        },
+        {
+          "title": "Réactivité maximale",
+          "desc": "Couper ce qui ne fonctionne pas",
+          "details": "Plafond mensuel de coût par rendez-vous garanti. Si l'objectif manque deux mois, le budget est réalloué sans excuses."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "Questions fréquentes des cabinets de dermatologie.",
+    "items": [
+      {
+        "q": "Quel budget un cabinet de dermatologie doit-il consacrer à Google Ads ?",
+        "a": "Cela dépend de vos services et de votre zone géographique. Pour un cabinet solo, nous recommandons 3 500 € à 7 500 €/mois pour obtenir des données significatives sous 60 jours. Nous fixons l'objectif de coût par rendez-vous avant votre engagement."
+      },
+      {
+        "q": "Respectez-vous la norme HIPAA pour le tracking Google Ads ?",
+        "a": "Oui. Nous configurons le suivi pour qu'aucune information de santé protégée ne soit envoyée à Google. Le tracking d'appels passe par des plateformes certifiées BAA et les formulaires sont sécurisés."
+      },
+      {
+        "q": "Gérez-vous également les Local Service Ads (LSA) ?",
+        "a": "Oui — les LSA sont souvent le premier levier activé. Nous gérons la vérification Google, le badge de confiance et la contestation des prospects non qualifiés pour éviter les frais inutiles."
+      },
+      {
+        "q": "Quel est le délai réaliste pour voir des résultats ?",
+        "a": "Le Search et les LSA génèrent des rendez-vous en 21 à 30 jours. Performance Max nécessite 4 à 6 semaines d'apprentissage. Chaque mois, vous recevez un rapport axé sur la rentabilité nette."
+      },
+      {
+        "q": "Créez-vous aussi les landing pages ?",
+        "a": "Oui. Faire du Google Ads sans page de destination dédiée est un gaspillage. Chaque campagne inclut une page optimisée pour la prise de rendez-vous avec formulaires sécurisés."
+      },
+      {
+        "q": "Que se passe-t-il si une campagne n'est pas performante ?",
+        "a": "Chaque campagne a un coût par rendez-vous plafond. Si l'objectif n'est pas atteint deux mois consécutifs, le budget est basculé vers les leviers qui fonctionnent."
+      }
+    ]
+  },
+  "cta": {
+    "badge": "Audit PPC gratuit",
+    "heading": "Découvrez où s'échappe votre budget publicitaire — en 48 heures.",
+    "description": "Analyse du gaspillage, étude des mots-clés, audit des landing pages et plan stratégique à 90 jours calé sur votre rentabilité par service. Gratuit, sans engagement.",
+    "audit": "Demander mon audit gratuit",
+    "proposal": "Recevoir un devis"
+  },
+  "stickyMobile": {
+    "text": "Audit PPC offert — 48h",
+    "cta": "Demander"
+  },
+  "footerLinks": {
+    "pretext": "Découvrez aussi :",
+    "seo": "SEO long terme pour dermatologues",
+    "cro": "Des landing pages qui convertissent vraiment",
+    "email": "Fidélisation par e-mail"
+  }
+}

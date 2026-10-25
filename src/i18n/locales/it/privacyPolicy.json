@@ -1,0 +1,107 @@
+{
+  "meta": {
+    "title": "Informativa sulla Privacy — Gestione dei Dati e Trattamento",
+    "description": "Ecco come il nostro studio raccoglie, utilizza, condivide e protegge le informazioni di visitatori, potenziali clienti e studi dermatologici con cui collaboriamo.",
+    "og": {
+      "title": "Informativa sulla Privacy — Gestione dei Dati e Trattamento",
+      "description": "Ecco come il nostro studio raccoglie, utilizza, condivide e protegge le informazioni di visitatori, potenziali clienti e studi dermatologici con cui collaboriamo."
+    },
+    "twitter": {
+      "title": "Informativa sulla Privacy — Gestione dei Dati e Trattamento",
+      "description": "Ecco come il nostro studio raccoglie, utilizza, condivide e protegge le informazioni di visitatori, potenziali clienti e studi dermatologici con cui collaboriamo."
+    }
+  },
+  "layout": {
+    "skipToContent": "Vai al contenuto principale"
+  },
+  "hero": {
+    "badge": "Note Legali · Informativa sulla Privacy",
+    "title": "Informativa sulla Privacy",
+    "description": "Modalità di raccolta, utilizzo, condivisione e protezione dei dati dei visitatori, dei potenziali clienti e degli studi con cui collaboriamo.",
+    "lastUpdated": "Ultimo aggiornamento:",
+    "lastUpdatedDate": "14 luglio 2026"
+  },
+  "sections": {
+    "sidebar": {
+      "title": "Indice",
+      "navAriaLabel": "Navigazione della sezione"
+    },
+    "overview": {
+      "title": "1. Introduzione",
+      "body": "La presente Informativa sulla Privacy illustra come il nostro studio (\"noi\", \"ci\") raccoglie e utilizza le informazioni quando visiti il nostro sito web, invii un modulo, richiedi un preventivo o ci affidi un progetto. Questa pagina ha lo scopo di fornire risposte a domande comuni sulla privacy relative al nostro sito di marketing e alla gestione dei clienti; non costituisce una certificazione né una consulenza legale."
+    },
+    "informationWeCollect": {
+      "title": "2. Informazioni Racccolte",
+      "items": {
+        "provided": {
+          "label": "Informazioni fornite dall'utente:",
+          "text": "nome, ragione sociale dello studio, email, telefono, dettagli del progetto e qualsiasi altro dato inviato tramite moduli, email o strumenti di prenotazione."
+        },
+        "automatic": {
+          "label": "Informazioni raccolte automaticamente:",
+          "text": "indirizzo IP, tipo di dispositivo e browser, pagine visualizzate, URL di provenienza e posizione approssimativa, tramite cookie e strumenti di analisi."
+        },
+        "projectData": {
+          "label": "Dati del progetto cliente:",
+          "text": "credenziali, asset del brand e contenuti condivisi con noi per l'erogazione dei servizi previsti dal contratto sottoscritto."
+        }
+      }
+    },
+    "howWeUse": {
+      "title": "3. Finalità del Trattamento",
+      "items": [
+        "Rispondere alle richieste, preparare stime e inviare proposte commerciali.",
+        "Erogare e fatturare i servizi richiesti e fornire l'assistenza necessaria.",
+        "Migliorare il nostro sito web, i contenuti e i servizi offerti.",
+        "Inviare aggiornamenti periodici o newsletter previo consenso (opt-in).",
+        "Adempiere agli obblighi legali, fiscali e di conservazione della documentazione."
+      ]
+    },
+    "noPhi": {
+      "title": "4. Informazioni Sanitarie Protette (PHI)",
+      "body": "Questo sito di marketing non è destinato alla raccolta di Informazioni Sanitarie Protette (PHI). Si prega di non inviare nomi di pazienti, cartelle cliniche o dettagli clinici tramite i nostri moduli di contatto. Qualora una collaborazione con un cliente preveda la gestione di PHI (come portali per i pazienti o moduli di accettazione clinica), provvederemo a sottoscrivere un accordo separato (Business Associate Agreement) prima dell'attivazione di tali funzionalità."
+    },
+    "sharing": {
+      "title": "5. Condivisione delle Informazioni",
+      "body": "Non vendiamo le informazioni personali a terzi. Le condividiamo esclusivamente con fornitori di servizi incaricati di supportare la nostra operatività — tra cui hosting, email provider, analytics, calendari di prenotazione, elaborazione dei pagamenti e CRM — e solo nella misura strettamente necessaria all'esecuzione delle relative funzioni. Potremmo inoltre divulgare informazioni qualora richiesto dalla legge o per tutelare i nostri diritti."
+    },
+    "cookies": {
+      "title": "6. Cookie e Analytics",
+      "body": "Utilizziamo cookie e tecnologie simili per il funzionamento essenziale del sito e per misurarne l'utilizzo. È possibile gestire le preferenze sui cookie tramite le impostazioni del browser; la loro disattivazione potrebbe compromettere alcune funzionalità del sito."
+    },
+    "retention": {
+      "title": "7. Conservazione dei Dati",
+      "body": "Conserviamo le informazioni per il tempo necessario a fornire i servizi, adempiere agli obblighi di legge, risolvere controversie e far valere i nostri accordi. I dati relativi a richieste di potenziali clienti che non si trasformano in collaborazioni vengono periodicamente eliminati."
+    },
+    "security": {
+      "title": "8. Sicurezza Dati",
+      "body": "Adottiamo misure di sicurezza amministrative, tecniche e fisiche idonee a proteggere le informazioni in nostro possesso, inclusi protocolli di trasporto crittografati (HTTPS), controlli di accesso e verifica dei fornitori. Tuttavia, nessun metodo di trasmissione o archiviazione digitale è sicuro al 100%, pertanto non possiamo garantire una sicurezza assoluta."
+    },
+    "yourRights": {
+      "title": "9. Scelte e Diritti dell'Utente",
+      "body": "In base alla tua area di residenza, potresti avere il diritto di accedere, correggere, cancellare o trasferire le tue informazioni personali, nonché di opporli o limitarne determinati utilizzi. Per esercitare tali diritti, contattaci ai recapiti indicati di seguito. Puoi inoltre annullare l'iscrizione alle email di marketing in qualsiasi momento tramite l'apposito link presente nei messaggi."
+    },
+    "thirdPartyLinks": {
+      "title": "10. Link di Terze Parti",
+      "body": "Il nostro sito può contenere link a siti web e strumenti di terze parti. Le loro pratiche sulla privacy sono regolate dalle rispettive informative, che ti invitiamo a consultare prima di fornire i tuoi dati."
+    },
+    "children": {
+      "title": "11. Privacy dei Minori",
+      "body": "Il nostro sito è rivolto a un pubblico professionale e non è destinato ai minori di 13 anni. Non raccogliamo consapevolmente informazioni personali da parte di minori."
+    },
+    "changes": {
+      "title": "12. Modifiche alla presente Informativa",
+      "body": "Potremmo aggiornare periodicamente questa Informativa sulla Privacy. In tal caso, aggiorneremo la data indicata in alto nella voce \"Ultimo aggiornamento\". Eventuali modifiche sostanziali saranno evidenziate direttamente sul sito."
+    },
+    "contact": {
+      "title": "13. Contattaci",
+      "paragraph": "Hai domande o richieste su questa informativa o sui tuoi dati? Contattaci tramite la nostra pagina dedicata e ti risponderemo entro tempi ragionevoli.",
+      "link": "pagina dei contatti"
+    }
+  },
+  "cta": {
+    "title": "Domande o richieste sulla privacy?",
+    "subtitle": "Ti risponderemo nel più breve tempo possibile.",
+    "buttonLabel": "Contattaci"
+  }
+}

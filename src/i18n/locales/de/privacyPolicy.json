@@ -1,0 +1,107 @@
+{
+  "meta": {
+    "title": "Datenschutzerklärung — Wie wir mit Ihren Informationen umgehen",
+    "description": "Erfahren Sie, wie unser Studio Informationen von Besuchern, potenziellen Kunden und dermatologischen Praxen erhebt, nutzt, teilt und schützt.",
+    "og": {
+      "title": "Datenschutzerklärung — Wie wir mit Ihren Informationen umgehen",
+      "description": "Erfahren Sie, wie unser Studio Informationen von Besuchern, potenziellen Kunden und dermatologischen Praxen erhebt, nutzt, teilt und schützt."
+    },
+    "twitter": {
+      "title": "Datenschutzerklärung — Wie wir mit Ihren Informationen umgehen",
+      "description": "Erfahren Sie, wie unser Studio Informationen von Besuchern, potenziellen Kunden und dermatologischen Praxen erhebt, nutzt, teilt und schützt."
+    }
+  },
+  "layout": {
+    "skipToContent": "Direkt zum Inhalt"
+  },
+  "hero": {
+    "badge": "Rechtliches · Datenschutzerklärung",
+    "title": "Datenschutzerklärung",
+    "description": "Wie wir Informationen von Besuchern, potenziellen Kunden und den Praxen, mit denen wir zusammenarbeiten, erheben, nutzen, teilen und schützen.",
+    "lastUpdated": "Zuletzt aktualisiert am:",
+    "lastUpdatedDate": "14. Juli 2026"
+  },
+  "sections": {
+    "sidebar": {
+      "title": "Inhalt",
+      "navAriaLabel": "Abschnittsnavigation"
+    },
+    "overview": {
+      "title": "1. Überblick",
+      "body": "Diese Datenschutzerklärung erläutert, wie unser Studio („wir“, „uns“) Informationen erhebt und nutzt, wenn Sie unsere Website besuchen, ein Formular ausfüllen, ein Angebot anfordern oder uns mit einem Projekt beauftragen. Diese Seite dient dazu, häufige Fragen zum Datenschutz auf unserer Marketing-Website und bei Kundenprojekten zu beantworten; sie stellt keine Zertifizierung oder Rechtsberatung dar."
+    },
+    "informationWeCollect": {
+      "title": "2. Erhobene Informationen",
+      "items": {
+        "provided": {
+          "label": "Von Ihnen bereitgestellte Daten:",
+          "text": "Name, Name der Praxis, E-Mail-Adresse, Telefonnummer, Projektdetails sowie alle weiteren Informationen, die Sie uns über Formulare, E-Mail oder Termin-Tools senden."
+        },
+        "automatic": {
+          "label": "Automatisch erhobene Daten:",
+          "text": "IP-Adresse, Geräte- und Browsertyp, aufgerufene Seiten, Referrer-URL und ungefährer Standort – erfasst über Cookies und Analytics."
+        },
+        "projectData": {
+          "label": "Daten aus Kundenprojekten:",
+          "text": "Zugangsdaten, Marken-Assets und Inhalte, die Sie uns zur Erbringung der Dienstleistungen im Rahmen eines unterzeichneten Angebots zur Verfügung stellen."
+        }
+      }
+    },
+    "howWeUse": {
+      "title": "3. Nutzung der Informationen",
+      "items": [
+        "Beantwortung von Anfragen, Erstellung von Kostenvoranschlägen und Versand von Angeboten.",
+        "Bereitstellung, Abrechnung und Support der von Ihnen beauftragten Leistungen.",
+        "Optimierung unserer Website, Inhalte und Dienstleistungen.",
+        "Versand von gelegentlichen Updates oder Newslettern nach ausdrücklicher Anmeldung.",
+        "Einhaltung gesetzlicher, steuerlicher und dokumentarischer Verpflichtungen."
+      ]
+    },
+    "noPhi": {
+      "title": "4. Geschützte Gesundheitsinformationen (PHI)",
+      "body": "Diese Marketing-Website ist nicht für die Erhebung geschützter Gesundheitsinformationen vorgesehen. Bitte übermitteln Sie keine Patientennamen, Krankenakten oder klinischen Details über unsere Kontaktformulare. Falls eine Kundenbeziehung die Verarbeitung von PHI (z. B. Patientenportale, klinische Aufnahmeformulare) vorsieht, schließen wir vor der Inbetriebnahme dieser Funktionen eine separate Vereinbarung zur Auftragsverarbeitung (Business Associate Agreement) ab."
+    },
+    "sharing": {
+      "title": "5. Weitergabe von Informationen",
+      "body": "Wir verkaufen keine personenbezogenen Informationen. Wir teilen diese nur mit Dienstleistern, die uns beim Betrieb unterstützen – Hosting, E-Mail, Analytics, Terminplanung, Zahlungsabwicklung und CRM – und nur in dem Umfang, der für deren jeweilige Funktion erforderlich ist. Zudem legen wir Informationen offen, wenn dies gesetzlich vorgeschrieben ist oder um unsere Rechte zu schützen."
+    },
+    "cookies": {
+      "title": "6. Cookies & Analytics",
+      "body": "Wir verwenden Cookies und ähnliche Technologien für essenzielle Website-Funktionen und zur Messung der Website-Nutzung. Sie können Cookies über Ihre Browsereinstellungen steuern; das Blockieren von Cookies kann die Funktionsweise der Website beeinträchtigen."
+    },
+    "retention": {
+      "title": "7. Datenspeicherung",
+      "body": "Wir speichern Informationen so lange, wie es für die Erbringung der Dienstleistungen, die Erfüllung gesetzlicher Pflichten, die Beilegung von Streitigkeiten und die Durchsetzung unserer Vereinbarungen erforderlich ist. Anfragedaten von Interessenten, die keine Kunden werden, werden regelmäßig bereinigt."
+    },
+    "security": {
+      "title": "8. Sicherheit",
+      "body": "Wir setzen angemessene administrative, technische und physische Sicherheitsvorkehrungen ein, um die in unserem Besitz befindlichen Daten zu schützen – dazu gehören unter anderem verschlüsselter Datentransfer (HTTPS), Zugriffskontrollen und die Überprüfung von Drittanbietern. Da kein Übertragungs- oder Speichermedium zu 100 % sicher ist, können wir keine absolute Sicherheit garantieren."
+    },
+    "yourRights": {
+      "title": "9. Ihre Wahlmöglichkeiten & Rechte",
+      "body": "Je nach Ihrem Wohnort haben Sie das Recht auf Auskunft, Berichtigung, Löschung oder Portabilität Ihrer personenbezogenen Daten sowie das Recht, bestimmten Nutzungen zu widersprechen oder diese einzuschränken. Um diese Rechte auszuüben, kontaktieren Sie uns unter den unten angegebenen Daten. Sie können sich zudem jederzeit über den Link in jeder Nachricht von unseren Marketing-E-Mails abmelden."
+    },
+    "thirdPartyLinks": {
+      "title": "10. Links zu Drittanbietern",
+      "body": "Unsere Website kann Links zu Websites und Tools von Drittanbietern enthalten. Deren Datenschutzpraktiken unterliegen deren eigenen Richtlinien – bitte prüfen Sie diese, bevor Sie Informationen übermitteln."
+    },
+    "children": {
+      "title": "11. Schutz der Privatsphäre von Kindern",
+      "body": "Unsere Website richtet sich an ein geschäftliches Publikum und ist nicht für Kinder unter 13 Jahren konzipiert. Wir erheben nicht wissentlich personenbezogene Daten von Kindern."
+    },
+    "changes": {
+      "title": "12. Änderungen dieser Richtlinie",
+      "body": "Wir können diese Datenschutzerklärung von Zeit zu Zeit aktualisieren. In diesem Fall passen wir das Datum der „letzten Aktualisierung“ am Seitenanfang an. Wesentliche Änderungen werden auf unserer Website hervorgehoben."
+    },
+    "contact": {
+      "title": "13. Kontakt",
+      "paragraph": "Haben Sie Fragen oder Wünsche zu dieser Richtlinie oder Ihren Daten? Kontaktieren Sie uns über unsere Kontaktseite; wir werden uns innerhalb eines angemessenen Zeitrahmens bei Ihnen melden.",
+      "link": "Kontaktseite"
+    }
+  },
+  "cta": {
+    "title": "Fragen zum Datenschutz?",
+    "subtitle": "Wir antworten Ihnen innerhalb eines angemessenen Zeitrahmens.",
+    "buttonLabel": "Kontaktieren Sie uns"
+  }
+}

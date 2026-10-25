@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "notFoundTitle": "Artikeln hittades inte — DermGrowth-bloggen",
+    "titleSuffix": "— DermGrowth-bloggen",
+    "keywordsTemplate": "{{category}}, marknadsföring för dermatologer, {{title}}",
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1",
+    "robotsNoindex": "noindex",
+    "ogType": "article",
+    "publisherName": "DermGrowth"
+  },
+  "breadcrumb": {
+    "home": "Hem",
+    "blog": "Blogg"
+  },
+  "notFound": {
+    "code": "404",
+    "title": "Artikeln hittades inte.",
+    "description": "Artikeln du söker kan ha flyttats eller bytt namn.",
+    "backButton": "Tillbaka till bloggen"
+  },
+  "header": {
+    "nav": {
+      "blog": "Blogg"
+    },
+    "meta": {
+      "readTimeSuffix": "min läsning"
+    }
+  },
+  "actions": {
+    "allArticles": "Alla artiklar",
+    "share": "Dela",
+    "shareOnFacebook": "Dela på Facebook",
+    "shareOnX": "Dela på X",
+    "shareOnLinkedIn": "Dela på LinkedIn",
+    "shareOnTumblr": "Dela på Tumblr",
+    "openInstagram": "Öppna Instagram"
+  },
+  "faq": {
+    "badge": "FAQ",
+    "heading": "Vanliga frågor och svar"
+  },
+  "related": {
+    "badge": "Läs vidare",
+    "heading": "Mer om {{category}}",
+    "viewAll": "Alla artiklar",
+    "readLabel": "Läs: {{title}}",
+    "readTimeSuffix": "min"
+  },
+  "footerCta": {
+    "prefix": "Hittade du det här värdefullt? Läs även:",
+    "moreArticles": "fler artiklar om att växa som klinik",
+    "caseStudies": "våra kunders resultat",
+    "freeAudit": "en kostnadsfri granskning av din nuvarande sajt"
+  }
+}

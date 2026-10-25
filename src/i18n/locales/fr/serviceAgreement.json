@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "title": "Contrat de Prestation de Services — Conditions d'Engagement",
+    "description": "Le contrat de services régissant les projets entre notre studio et les cabinets de dermatologie : portée, livrables, paiements, PI, confidentialité, garanties et résiliation.",
+    "page_title": "Contrat de Prestation de Services — Conditions d'Engagement",
+    "page_description": "Le contrat de services régissant les projets entre notre studio et les cabinets de dermatologie : portée, livrables, paiements, PI, confidentialité, garanties et résiliation."
+  },
+  "common": {
+    "skip_to_content": "Passer au contenu",
+    "last_updated": "Dernière mise à jour :",
+    "last_updated_date": "14 juillet 2026"
+  },
+  "hero": {
+    "badge": "Juridique · Contrat de Services",
+    "h1": "Contrat de Prestation de Services",
+    "description": "Les conditions claires régissant le design, le développement et la collaboration continue entre notre studio et votre cabinet. À lire conjointement avec votre proposition commerciale ou cahier des charges."
+  },
+  "sections": {
+    "toc_title": "Sommaire",
+    "navigation_aria_label": "Navigation par section",
+    "parties": {
+      "title": "1. Parties et Acceptation",
+      "body": "Le présent Contrat de Prestation de Services (« Contrat ») est conclu entre notre studio (« Prestataire », « nous ») et le cabinet, l'entité ou la personne identifiée dans la proposition commerciale ou le cahier des charges (« SOW ») joint (« Client », « vous »). En signant une proposition, en versant un acompte ou en nous demandant de démarrer les travaux, vous acceptez les conditions ci-dessous."
+    },
+    "scope": {
+      "title": "2. Portée des Services",
+      "body": "Les services spécifiques, livrables, jalons et délais sont définis dans la proposition ou le cahier des charges (« SOW ») faisant référence au présent Contrat. Tout élément hors SOW — nouvelles pages, intégrations additionnelles, cycles de révision supplémentaires, modification de périmètre après validation — sera traité comme une demande de modification et fera l'objet d'un devis écrit séparé."
+    },
+    "fees": {
+      "title": "3. Frais et Paiement",
+      "items": [
+        "Un acompte non remboursable de 50 % est requis pour planifier et débuter les travaux.",
+        "Le solde est facturé selon les jalons définis dans le SOW ; le règlement final est dû avant la mise en ligne ou la remise des fichiers.",
+        "Les factures sont payables sous 7 jours. Tout retard entraîne un intérêt mensuel de 1,5 %, et le travail peut être suspendu jusqu'au règlement complet.",
+        "Les forfaits récurrents (hébergement, maintenance, honoraires) sont facturés mensuellement à terme à échoir."
+      ]
+    },
+    "timeline": {
+      "title": "4. Délais et Responsabilités du Client",
+      "body": "Les délais supposent des réponses aux validations et demandes de contenu sous 3 jours ouvrables. Tout retard dans les retours, la livraison de contenu ou les approbations de tiers décalera le calendrier jour pour jour. Vous êtes responsable de fournir des contenus exacts, vos actifs de marque et codes d'accès, et de garantir que le contenu fourni est véridique et libre de droits."
+    },
+    "revisions": {
+      "title": "5. Révisions",
+      "body": "Chaque livrable inclut deux cycles de révisions consolidées, sauf mention contraire dans le SOW. Les révisions demandées après validation écrite d'une étape, ou dépassant les cycles inclus, seront facturées à notre tarif horaire en vigueur."
+    },
+    "ip": {
+      "title": "6. Propriété Intellectuelle",
+      "body": "Dès paiement intégral, vous devenez propriétaire des livrables finaux créés spécifiquement pour vous (design du site, code personnalisé, contenu rédigé selon le SOW). Nous conservons les droits sur les frameworks préexistants, outils et composants génériques utilisés, et vous accordons une licence perpétuelle d'utilisation dans le cadre de votre projet. Nous nous réservons le droit de présenter le travail final dans notre portfolio et nos études de cas, sauf opposition écrite de votre part."
+    },
+    "third_party": {
+      "title": "7. Services Tiers",
+      "body": "Les projets peuvent dépendre de services tiers (hébergement, CMS, analytics, intégrations EHR/prise de rendez-vous, DNS, processeurs de paiement). Vous êtes responsable de leurs frais et de l'acceptation de leurs conditions. Nous ne sommes pas responsables des interruptions, modifications ou défauts causés par ces prestataires tiers."
+    },
+    "hipaa": {
+      "title": "8. HIPAA et Gestion des Données",
+      "body": "Nos sites web standards sont conçus pour être compatibles HIPAA : ils évitent la collecte d'Informations de Santé Protégées (PHI) dans les formulaires ou traceurs. Lorsqu'un projet doit traiter des PHI (ex: portails patients), les parties concluront un Business Associate Agreement (« BAA ») distinct avant la mise en service. Vous êtes responsable de la configuration conforme HIPAA des outils tiers ajoutés après la livraison."
+    },
+    "confidentiality": {
+      "title": "9. Confidentialité",
+      "body": "Chaque partie s'engage à préserver la confidentialité des informations non publiques (commerciales, financières, patientèle, techniques) de l'autre et à ne les utiliser que pour l'exécution de ce Contrat. Cette obligation survit à la résiliation."
+    },
+    "warranty": {
+      "title": "10. Garantie et Exclusions",
+      "body": "Nous garantissons que les services seront exécutés de manière professionnelle, conformément aux normes du secteur. Pendant 30 jours après le lancement, nous corrigerons sans frais les défauts du code que nous avons écrit. Au-delà, les interventions sont couvertes par un plan de maintenance ou facturées à l'heure. Sous réserve de mentions expresses, les livrables sont fournis « en l'état » et nous déclinons toute autre garantie, y compris d'adéquation à un usage particulier."
+    },
+    "liability": {
+      "title": "11. Limitation de Responsabilité",
+      "body": "Dans la mesure maximale permise par la loi, aucune des parties ne pourra être tenue responsable des dommages indirects, accessoires ou pertes de profits. Notre responsabilité totale au titre de ce Contrat est limitée aux montants versés au cours des trois (3) mois précédant la réclamation."
+    },
+    "termination": {
+      "title": "12. Résiliation",
+      "body": "Chaque partie peut résilier le contrat en cas de manquement grave non résolu sous 14 jours après notification écrite. Si vous résiliez pour convenance, vous êtes redevable de tout le travail effectué et des frais engagés jusqu'à la date de résiliation ; l'acompte reste non remboursable. Les forfaits récurrents requièrent un préavis écrit de 30 jours."
+    },
+    "misc": {
+      "title": "13. Droit Applicable et Divers",
+      "body": "Ce Contrat est régi par les lois de la juridiction indiquée dans le SOW. Il constitue l'intégralité de l'accord entre les parties et remplace toute discussion antérieure. Si une clause est jugée inapplicable, les autres restent en vigueur. Toute modification doit faire l'objet d'un avenant écrit signé par les deux parties."
+    }
+  },
+  "cta": {
+    "title": "Des questions sur ces conditions ?",
+    "description": "Nous serons ravis de passer chaque clause en revue avec vous avant signature.",
+    "button": "Contactez-nous"
+  }
+}

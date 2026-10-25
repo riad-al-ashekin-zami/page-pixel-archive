@@ -1,0 +1,99 @@
+{
+  "cta": {
+    "eyebrow": "Audit de Site Web Gratuit",
+    "headingLead": "Prêt à développer votre",
+    "headingHighlight": "cabinet de dermatologie",
+    "headingTailShort": " ?",
+    "headingTailLong": " en ligne ?",
+    "descriptionShort": "Obtenez un audit de site web gratuit et un plan de croissance personnalisé — sans frais.",
+    "descriptionLong": "Obtenez un audit de site web gratuit. Nous examinerons votre site, identifierons les lacunes de croissance et élaborerons un plan — sans frais.",
+    "button": "Obtenez un Devis Gratuit",
+    "trustedBy": "Plébiscité par les dermatologues du monde entier"
+  },
+  "brand": {
+    "logoAlt": "Dermatology Website Design",
+    "homeAria": "Dermatology Website Design — Accueil",
+    "tagline": "Sites web conçus exclusivement pour les dermatologues et les cliniques de la peau. Des sites web conformes HIPAA, optimisés SEO et axés sur la conversion, conçus pour aider les cabinets à se développer en ligne.",
+    "whatsappLabel": "Discutez avec nous sur WhatsApp",
+    "whatsappCta": "Discuter sur WhatsApp",
+    "location": "Au service des cabinets de dermatologie du monde entier"
+  },
+  "columns": {
+    "services": "Services",
+    "company": "Entreprise",
+    "resources": "Ressources",
+    "legal": "Mentions Légales"
+  },
+  "services": {
+    "websiteDesign": "Conception de site web",
+    "websiteRedesign": "Refonte de site web",
+    "websiteMigration": "Migration de site web",
+    "websiteManagement": "Gestion de site web",
+    "ecommerce": "Site Web E-commerce",
+    "socialMedia": "Gestion des réseaux sociaux"
+  },
+  "company": {
+    "about": "À Propos de Nous",
+    "process": "Notre Processus",
+    "caseStudies": "Études de Cas",
+    "contact": "Nous Contacter"
+  },
+  "resources": {
+    "blog": "Blog",
+    "faq": "FAQ",
+    "audit": "Audit de Site Web Gratuit",
+    "auditBadge": "GRATUIT",
+    "checklists": "Listes de Contrôle",
+    "patientPortal": "Portail Patient",
+    "addOns": "Services Additionnels"
+  },
+  "legal": {
+    "serviceAgreement": "Contrat de Service",
+    "privacy": "Politique de Confidentialité",
+    "terms": "Conditions Générales d'Utilisation",
+    "refund": "Politique de Remboursement",
+    "cookies": "Politique en matière de Cookies"
+  },
+  "hipaaBadge": {
+    "title": "Conforme HIPAA",
+    "note": "Confidentialité et sécurité intégrées à chaque site"
+  },
+  "trustBadges": {
+    "hipaa": {
+      "label": "Conforme HIPAA",
+      "note": "Conception axée sur la conformité"
+    },
+    "ada": {
+      "label": "Accessible ADA",
+      "note": "Conforme WCAG 2.1"
+    },
+    "ssl": {
+      "label": "SSL Sécurisé",
+      "note": "Chiffrement 256 bits"
+    },
+    "seo": {
+      "label": "Optimisé SEO",
+      "note": "Mieux classé sur Google"
+    },
+    "mobile": {
+      "label": "Adapté aux Mobiles",
+      "note": "Parfait sur tous les appareils"
+    },
+    "speed": {
+      "label": "Chargement Rapide",
+      "note": "Score Lighthouse 95+"
+    }
+  },
+  "bottom": {
+    "copyright": "© 2026 {{brand}}.",
+    "brand": "Dermatology Website Design",
+    "rights": "Tous droits réservés.",
+    "madeWith": "Fait avec",
+    "madeFor": "pour les cabinets de dermatologie",
+    "backToTop": "Retour en haut"
+  },
+  "compliance": {
+    "heading": "Avis de conformité",
+    "body": "Nous construisons des sites web conformes HIPAA et mettons en œuvre les meilleures pratiques de sécurité. Les clients sont responsables de s'assurer que leur cabinet respecte toutes les réglementations de santé et exigences légales applicables, y compris l'obtention d'un accord d'associé commercial (BAA) signé lorsque des informations de santé protégées (PHI) sont traitées. Le contenu de ce site est fourni à titre informatif uniquement et ne constitue pas un avis médical, juridique ou financier. Les résultats des services de marketing, SEO et de conversion varient selon le cabinet, le marché et l'effort, et ne sont pas garantis. Tous les noms, logos et marques de commerce de tiers appartiennent à leurs propriétaires respectifs et sont utilisés à des fins d'identification uniquement."
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "language": { "select": "Språk" },
+  "common": { "or": "eller" },
+  "topBar": {
+    "whatsappUs": "Kontakt oss på WhatsApp",
+    "whatsapp": "WhatsApp",
+    "freeAudit24hLong": "Gratis nettstedsanalyse på 24 timer",
+    "freeAudit24hShort": "Gratis analyse · 24 t",
+    "freeAudit": "Gratis analyse",
+    "hipaaAware": "HIPAA-tilpassede nettsteder",
+    "hipaaAwareShort": "HIPAA-tilpasset",
+    "hipaa": "HIPAA"
+  },
+  "nav": {
+    "home": "Hjem",
+    "services": "Tjenester",
+    "portfolio": "Portefølje",
+    "pricing": "Priser",
+    "insights": "Innsikt",
+    "contact": "Kontakt",
+    "openMenu": "Åpne meny",
+    "closeMenu": "Lukk meny",
+    "skipToContent": "Hopp til innhold",
+    "main": "Hovedmeny"
+  },
+  "cta": {
+    "getFreeQuote": "Få gratis tilbud",
+    "requestAudit": "Be om gratis analyse",
+    "viewAllAddons": "Se alle tilleggstjenester"
+  },
+  "drawer": {
+    "websiteServices": "Nettstedstjenester",
+    "marketingServices": "Markedsføring",
+    "addOnServices": "Tilleggstjenester",
+    "chatWhatsApp": "Chat på WhatsApp",
+    "freeAuditBanner": "Gratis nettstedsanalyse · svar innen 24 t"
+  },
+  "chat": {
+    "assistantName": "DWD-assistent",
+    "verified": "Verifisert",
+    "online": "Online · svarer umiddelbart",
+    "openLabel": "Åpne assistent",
+    "closeLabel": "Lukk assistent",
+    "welcome": "Hei 👋 Jeg er **Dermatology Website Design**-assistenten.\n\nJeg kan hjelpe deg med tjenester, priser, portefølje, analyser og neste beste steg for klinikken din.\n\nHvordan kan jeg hjelpe deg i dag?",
+    "quickQuestions": "Raske spørsmål",
+    "placeholder": "Spør om tjenester, priser, portefølje…",
+    "sendLabel": "Send",
+    "footerNote": "AI-assistent · Svar med henvisning til nøyaktig side",
+    "errorText": "Noe gikk galt. Prøv igjen eller",
+    "contactUs": "kontakt oss",
+    "primary": {
+      "quote": "Tilbud",
+      "audit": "Analyse",
+      "pricing": "Priser",
+      "contact": "Kontakt"
+    },
+    "quick": {
+      "design":     { "label": "Nettstedsdesign",     "prompt": "Fortell om nettstedsdesign-tjenesten." },
+      "management": { "label": "Nettstedsdrift",      "prompt": "Hva inngår i nettstedsdriften?" },
+      "seo":        { "label": "SEO-tjenester",       "prompt": "Hvordan fungerer SEO for dermatologi?" },
+      "portfolio":  { "label": "Portefølje",          "prompt": "Kan jeg se porteføljen?" },
+      "pricing":    { "label": "Priser",              "prompt": "Hva er prisene og pakkene?" },
+      "audit":      { "label": "Gratis analyse",      "prompt": "Hvordan får jeg en gratis analyse?" },
+      "quote":      { "label": "Gratis tilbud",       "prompt": "Hvordan får jeg et gratis tilbud?" }
+    }
+  },
+  "errorPages": {
+    "notFound": {
+      "title": "Siden ble ikke funnet",
+      "description": "Siden du leter etter finnes ikke, eller den er flyttet."
+    },
+    "error": {
+      "title": "Siden ble ikke lastet",
+      "description": "Noe gikk galt hos oss. Prøv igjen eller gå tilbake til forsiden."
+    },
+    "actions": {
+      "home": "Gå hjem",
+      "retry": "Prøv igjen"
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "title": "Servizi per Siti Web di Dermatologia — Design, SEO e Crescita",
+    "description": "Scopri i nostri servizi per siti di dermatologia conformi HIPAA: SEO, marketing locale, portali pazienti, manutenzione e strategie di crescita per studi moderni.",
+    "ogTitle": "Servizi Web per Studi di Dermatologia",
+    "ogDescription": "Web design, SEO, campagne pubblicitarie, gestione della reputazione, portali, gallerie e assistenza continuativa per la dermatologia.",
+    "schema": {
+      "name": "Servizi Web per la Dermatologia",
+      "serviceType": "Web design, SEO e growth marketing per studi dermatologici",
+      "providerName": "Dermatology Website Design"
+    }
+  },
+  "hero": {
+    "eyebrow": "Servizi",
+    "title": "Siti web di dermatologia progettati per convertire i visitatori in pazienti.",
+    "description": "Scegli un singolo progetto o un sistema di crescita completo: web design personalizzato, SEO, acquisizione pazienti, integrazioni, manutenzione e ottimizzazione per studi dermatologici.",
+    "ctaQuote": "Richiedi un preventivo gratuito",
+    "ctaPricing": "Scopri i prezzi",
+    "proofPoints": {
+      "hipaa": "Implementazione conforme HIPAA",
+      "responsive": "Design responsive per ogni dispositivo",
+      "seo": "Fondamenta SEO on-page incluse",
+      "conversion": "Percorsi paziente orientati alla conversione"
+    }
+  },
+  "sections": {
+    "website": {
+      "label": "Servizi Web",
+      "eyebrow": "Realizzazione",
+      "description": "Siti web su misura, restyling, migrazioni, portali, gallerie e piani di assistenza creati per generare fiducia e conversioni."
+    },
+    "marketing": {
+      "label": "Servizi di Marketing",
+      "eyebrow": "Crescita",
+      "description": "SEO, visibilità locale, advertising, reputazione, social, email e sistemi di CRO per attrarre pazienti qualificati."
+    },
+    "support": {
+      "label": "Servizi Aggiuntivi",
+      "eyebrow": "Supporto",
+      "description": "Hosting, supporto alla compliance, integrazioni, analytics, contenuti e ottimizzazioni continue per gli studi che puntano all'eccellenza post-lancio."
+    }
+  },
+  "cta": {
+    "title": "Non sai quale servizio è più adatto al tuo studio?",
+    "description": "Inizia con un audit gratuito: analizzeremo il percorso ad alto impatto per il tuo sito, la visibilità sui motori di ricerca e il flusso di conversione dei pazienti.",
+    "button": "Richiedi Audit Gratuito"
+  }
+}

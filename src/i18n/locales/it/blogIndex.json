@@ -1,0 +1,118 @@
+{
+  "meta": {
+    "title": "Blog — Strategie di Marketing per la Dermatologia e Manuali di Crescita",
+    "description": "Strategie pratiche su SEO per dermatologia, web design, acquisizione pazienti, HIPAA, recensioni e campagne pay-per-click — scritte per studi orientati alla crescita.",
+    "keywords": "blog dermatologia, SEO dermatologia, marketing dermatologico, crescita studio medico, siti web HIPAA",
+    "og": {
+      "title": "Blog di Marketing Dermatologico — Strategie per far Crescere il tuo Studio",
+      "description": "Approfondimenti e tattiche rapide per studi dermatologici. SEO, design, advertising, reputazione ed esperienza del paziente."
+    },
+    "twitter": {
+      "title": "Blog di Marketing per la Dermatologia",
+      "description": "Manuali operativi su SEO, design, ads ed esperienza del paziente per studi dermatologici."
+    },
+    "jsonLd": {
+      "breadcrumb": {
+        "home": "Home",
+        "blog": "Blog"
+      },
+      "blog": {
+        "name": "Blog di Marketing Dermatologico",
+        "description": "Approfondimenti e manuali su SEO per dermatologia, web design, ads, reputazione e nuovi pazienti."
+      }
+    }
+  },
+  "hero": {
+    "badge": "Il Diario di DermGrowth",
+    "title": "Strategie pratiche per lo studio dermatologico moderno.",
+    "description": "Tattiche testate sul campo per SEO, web design, campagne ads, reputazione e accoglienza del paziente — a cura del team che ha lanciato centinaia di studi.",
+    "search": {
+      "label": "Cerca articoli",
+      "placeholder": "Cerca SEO, ads, HIPAA, redesign…",
+      "postCount": "{{count}} articoli"
+    },
+    "aside": {
+      "ariaLabel": "Questo mese su DermGrowth",
+      "issue": "Edizione 24 · Estate '26",
+      "status": "Le strategie che funzionano ora per crescere in dermatologia.",
+      "stats": [
+        {
+          "value": "9",
+          "label": "nuovi post"
+        },
+        {
+          "value": "68k",
+          "label": "lettori mensili"
+        },
+        {
+          "value": "4.9",
+          "label": "valutazione lettori"
+        }
+      ],
+      "socialProof": "Scelto da oltre 50 titolari e responsabili marketing in ambito dermatologico"
+    }
+  },
+  "sections": {
+    "featured": {
+      "badge": "Articolo in primo piano",
+      "heading": "L'approfondimento della settimana",
+      "viewAll": "Vedi tutti gli articoli",
+      "ariaRead": "Leggi: {{title}}",
+      "statValue": "90.",
+      "statLabel": "Giorni per la prima pagina",
+      "readTime": "{{count}} min di lettura",
+      "button": "Leggi l'articolo"
+    },
+    "latest": {
+      "badge": "Ultimi articoli",
+      "heading": "Cosa desideri risolvere oggi?",
+      "description": "Ogni post è scritto per titolari di studi e marketing manager che cercano passi concreti, non chiacchiere.",
+      "filterLabel": "Filtra articoli per categoria",
+      "empty": {
+        "heading": "Nessun articolo corrisponde alla ricerca.",
+        "description": "Prova una categoria diversa o reimposta i filtri.",
+        "button": "Ripristina filtri"
+      },
+      "card": {
+        "ariaRead": "Leggi: {{title}}",
+        "readTime": "{{count}} min",
+        "readAction": "Leggi"
+      }
+    }
+  },
+  "newsletter": {
+    "badge": "The Weekly Chart",
+    "heading": "Una strategia di crescita. Ogni martedì.",
+    "description": "Unisciti a oltre 760 titolari e professionisti del marketing dermatologico. Niente fuffa, niente spam, disiscrizione con un clic.",
+    "ariaLabel": "Iscriviti alla newsletter",
+    "placeholder": "tuaemail@studio.it",
+    "submit": "Iscriviti",
+    "submitting": "Iscrizione in corso…",
+    "success": "Sei dei nostri. La prossima edizione arriverà martedì alle 7:00.",
+    "fineprint": "Leggiamo ogni risposta. Non condivideremo mai il tuo indirizzo.",
+    "features": [
+      {
+        "label": "Approfondimenti",
+        "value": "Analisi dettagliate due volte al mese"
+      },
+      {
+        "label": "Casi studio",
+        "value": "Numeri reali, studi reali"
+      },
+      {
+        "label": "Tattiche",
+        "value": "Manuali pronti all'uso"
+      },
+      {
+        "label": "Rating 4.9",
+        "value": "Da oltre 50 iscritti"
+      }
+    ]
+  },
+  "footer": {
+    "keepReading": "Continua a leggere:",
+    "caseStudies": "casi studio approfonditi",
+    "audit": "un audit gratuito e personalizzato del sito",
+    "faq": "le domande frequenti che riceviamo"
+  }
+}

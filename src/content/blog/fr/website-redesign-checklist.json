@@ -1,0 +1,78 @@
+{
+  "slug": "website-redesign-checklist",
+  "title": "Liste de contrôle pour la refonte d'un site web pour les cabinets de dermatologie",
+  "excerpt": "32 questions auxquelles répondre avant de toucher un seul pixel — des formulaires HIPAA à la conversion héroïque.",
+  "imageAlt": "Maquette d'un site web de dermatologie moderne sur un ordinateur de bureau et une tablette dans un bureau lumineux",
+  "body": [
+    {
+      "text": "Une refonte qui omet la phase de découverte n'est qu'un rafraîchissement coûteux. Avant d'ouvrir un outil de conception, nous soumettons chaque cabinet à cette liste de contrôle de 32 questions couvrant la marque, la conversion, la conformité et la préparation technique. Le but de la liste de contrôle n'est pas de ralentir les choses — c'est de s'assurer que les pixels que vous poussez finalement servent une stratégie plutôt qu'un mood board."
+    },
+    {
+      "text": "La plupart des refontes échouent pour l'une des trois raisons suivantes : le cabinet n'a jamais défini ce qu'un « bon » site web signifie pour ses objectifs, le flux d'admission et de réservation est conçu autour de la commodité interne plutôt que du comportement du patient, ou l'équipe déploie un site qui viole HIPAA parce que le suivi a été mis en place en pilote automatique. Chaque section ci-dessous est conçue pour anticiper l'un de ces modes d'échec avant qu'il ne vous coûte 40k et six mois."
+    },
+    {
+      "heading": "Marque et positionnement"
+    },
+    {
+      "list": [
+        "Qui est votre patient idéal en une phrase ? (âge, sexe, revenu, préoccupation principale)",
+        "Quels sont les trois concurrents auxquels vos patients vous comparent ?",
+        "Quel est le seul sentiment que vous voulez que les visiteurs ressentent en 5 secondes ?",
+        "Si quelqu'un décrivait votre cabinet à un ami en une phrase, que voudriez-vous qu'il dise ?",
+        "Quelle preuve avez-vous que ce positionnement est vrai — avis, résultats, références ?"
+      ]
+    },
+    {
+      "text": "Si vous ne pouvez pas répondre à ces cinq questions dans un document partagé sur lequel toute votre équipe est d'accord, vous n'êtes pas prêt à concevoir une page d'accueil — vous êtes prêt à organiser un atelier de positionnement."
+    },
+    {
+      "heading": "Conversion et flux de réservation"
+    },
+    {
+      "text": "Chaque champ supplémentaire sur votre formulaire d'admission réduit la conversion de 4 à 6 %. Chaque clic supplémentaire entre le héros et l'action de réservation réduit la conversion de 8 à 12 %. La refonte est le moment d'auditer chaque étape de l'entonnoir, de supprimer impitoyablement tout ce qui n'est pas essentiel, et d'instrumenter le parcours afin que vous puissiez prouver ce qui fait réellement avancer les choses après le lancement."
+    },
+    {
+      "list": [
+        "Combien de clics entre la page d'accueil et le rendez-vous réservé aujourd'hui ?",
+        "Quel est votre taux de conversion des réservations mobiles aujourd'hui ?",
+        "Combien de champs de formulaire sont requis aujourd'hui, et lesquels sont réellement utilisés ?",
+        "Quel est le CTA principal sur votre page d'accueil — et est-il visible sans faire défiler sur mobile ?",
+        "Que se passe-t-il après l'envoi d'un formulaire — y a-t-il un e-mail de confirmation en moins de 30 secondes ?"
+      ]
+    },
+    {
+      "heading": "HIPAA et conformité"
+    },
+    {
+      "text": "L'application de la loi HIPAA concernant le suivi des sites web s'est considérablement intensifiée depuis 2022. Si votre refonte hérite de votre widget de chat actuel, de votre fournisseur de formulaires ou de votre configuration analytique sans examen de conformité, vous lancez un nouveau site avec une ancienne responsabilité."
+    },
+    {
+      "list": [
+        "Les widgets de chat sont-ils configurés pour supprimer les PHI des journaux ?",
+        "Vos formulaires d'admission envoient-ils des données via un canal crypté vers une destination conforme à la HIPAA ?",
+        "Avez-vous signé des BAA avec chaque service tiers qui touche aux données des patients ?",
+        "Votre Meta Pixel est-il configuré avec un filtrage côté serveur sur toute page mentionnant des conditions ?",
+        "Votre outil de relecture de session masque-t-il les champs de formulaire par défaut ?"
+      ]
+    },
+    {
+      "heading": "Préparation technique"
+    },
+    {
+      "text": "La section technique est là où la plupart des refontes échouent discrètement. Un beau site qui se charge en six secondes sur la 4G perdra face à un site simple qui se charge en deux. Un site avec des redirections cassées perdra les classements que vous avez mis deux ans à gagner. Occupez-vous des choses ennuyeuses d'abord."
+    },
+    {
+      "list": [
+        "Avez-vous un inventaire complet des URL actuelles et de leurs backlinks entrants ?",
+        "Avez-vous une carte de redirection 1-pour-1 de l'ancien site vers le nouveau ?",
+        "Quelles sont vos cibles LCP, CLS et INP pour le lancement — et comment allez-vous vérifier ?",
+        "Qui possède l'accès à Search Console, et la propriété est-elle vérifiée ?",
+        "Avez-vous prévu une exploration du site de staging avant le basculement DNS ?"
+      ]
+    },
+    {
+      "text": "Répondez honnêtement à chaque question de cette liste de contrôle avant d'ébaucher le premier wireframe. Les équipes qui déploient des refontes sans regret sont les équipes qui traitent la découverte comme un livrable, pas comme une réflexion après coup. Deux semaines de réponses disciplinées maintenant vous évitent deux trimestres de reconstruction plus tard."
+    }
+  ],
+  "faqs": null
+}

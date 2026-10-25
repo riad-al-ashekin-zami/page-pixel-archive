@@ -1,0 +1,333 @@
+{
+  "meta": {
+    "title": "Om oss — Spesialistbyrå for nettsider til hudleger",
+    "description": "Vi bygger HIPAA-aware nettsider og vekstmarkedsføring eksklusivt for hudlegepraksiser. Møt teamet bak resultatene.",
+    "ogTitle": "Om oss — Nettsidedesign for hudleger",
+    "ogDescription": "Et nisjebyrå som leverer førsteklasses nettsider, SEO og pasientrekruttering for hudleger.",
+    "breadcrumbHome": "Hjem",
+    "breadcrumbAbout": "Om oss"
+  },
+  "hero": {
+    "kicker": "Om Dermatology Website Design",
+    "h1": "Spesialistene bak <1>nettsider kun for hudleger.</1>",
+    "p": "Vi bygger Experience, Expertise, Authority, and Trust (E-E-A-T) inn i hver nettside – Googles viktigste signal for helsesektoren (YMYL). Vi er ikke et generalistbyrå. Vi er spesialisten.",
+    "ctaPrimary": "Jobb med oss",
+    "ctaSecondary": "Se tjenester",
+    "hipaa": "HIPAA-aware",
+    "ada": "ADA-tilgjengelig",
+    "rating": "4.9/5 kundevurdering",
+    "imgAlt": "Offentlig godkjent hudlege i en moderne klinikk – representerer praksisene vi bygger nettsider for",
+    "badgeKicker": "Bygget for dermatologi",
+    "badgeText": "E · E · A · T — Googles YMYL-signal"
+  },
+  "socialProof": {
+    "kicker": "Betros av hudleger · Omtalt i"
+  },
+  "stats": {
+    "launched": "Lanserte nettsider for hudleger",
+    "niche": "Rendyrket nisjefokus",
+    "performance": "Gjennomsnittlig Lighthouse-score",
+    "audit": "Leveringstid for gratis revisjon"
+  },
+  "missionVision": {
+    "mission": {
+      "tag": "Vårt oppdrag",
+      "title": "Hjelpe hudleger å vokse uten markedsføringshodepine.",
+      "body": "Vi kombinerer premium design, etisk SEO og ærlig rapportering slik at klinikkeiere kan fokusere på pasientene – ikke på å jage byråer."
+    },
+    "vision": {
+      "tag": "Vår visjon",
+      "title": "Den mest betrodde digitale partneren innen dermatologi.",
+      "body": "Én nisje. Dyp ekspertise. Transparent prising. Vi skal være det selvfølgelige valget for enhver hudlegepraksis som bryr seg om å gjøre ting riktig."
+    }
+  },
+  "values": {
+    "kicker": "Hva vi står for",
+    "header": "Verdier som former hvert prosjekt.",
+    "cta": "Se hvordan vi jobber",
+    "compliance": {
+      "title": "Sikkerhet først",
+      "description": "HIPAA-aware arkitektur, ADA-tilgjengelighet og sikker hosting er innebygd fra start – aldri lagt på i etterkant."
+    },
+    "focus": {
+      "title": "Kun for hudleger",
+      "description": "Vi sier nei til alle bransjer utenfor dermatologi. Dette fokuset er grunnen til at nettsidene våre konverterer 3 ganger bedre."
+    },
+    "partnership": {
+      "title": "Ekte partnerskap",
+      "description": "Månedlige driftsavtaler uten bindingstid. Vi gjør oss fortjent til din tillit hver eneste måned."
+    },
+    "craft": {
+      "title": "Håndverk over volum",
+      "description": "Vi tar kun inn et fåtall praksiser av gangen, slik at hvert prosjekt får senioroppfølging fra start til slutt."
+    }
+  },
+  "timeline": {
+    "h2": "Vår historie <1>så langt.</1>",
+    "p": "En kort tidslinje over hvordan vi havnet her – scroll for å bevege deg gjennom årene.",
+    "kicker": "Vår reise",
+    "hint": "År",
+    "2019": {
+      "title": "Idéen",
+      "description": "Etter å ha sett hudleger bli brent av generiske byråer, bestemte vi oss for å bygge noe bedre – for kun én nisje."
+    },
+    "2021": {
+      "title": "De første 10 klinikkene",
+      "description": "Vi finspisset vår strategi for konverteringsoptimalisering med spesialister og små klinikker over hele USA."
+    },
+    "2023": {
+      "title": "Egen avdeling for vekstmarketing",
+      "description": "Lanserte SEO, PPC og omdømmesystemer slik at kundene kunne eskalere resultatene, ikke bare lansere en nettside."
+    },
+    "2026": {
+      "title": "50+ klinikker, ett fokus",
+      "description": "Fortsatt kun dermatologi. Fortsatt seniorledet. Fortsatt transparent prising."
+    }
+  },
+  "team": {
+    "kicker": "Teamet",
+    "header": "Seniorledet, spesialistfokusert.",
+    "p": "Hvert prosjekt leveres av senior designere, utviklere og markedsførere – ingen juniorer får overlevert nøklene.",
+    "design": {
+      "name": "Designstudio",
+      "role": "Brand & UI",
+      "bio": "Designere med fokus på rene, tillitvekkende grensesnitt skreddersydd for medisinsk dermatologi."
+    },
+    "engineering": {
+      "name": "Engineering",
+      "role": "Web & Performance",
+      "bio": "Seniurutviklere som leverer raske, tilgjengelige og HIPAA-aware nettsider på en moderne teknologi-stack."
+    },
+    "growth": {
+      "name": "Vekst-team",
+      "role": "SEO & Ads",
+      "bio": "Spesialister som forstår hvordan pasienter søker – lokal SEO, annonsering og CRO bygget for vekst."
+    }
+  },
+  "process": {
+    "kicker": "Vår prosess",
+    "header": "Seks steg, <1>forutsigbar levering.</1>",
+    "p": "Hvert prosjekt går gjennom de samme disiplinerte stadiene – scroll for en gjennomgang.",
+    "hint": "Steg",
+    "step1": {
+      "title": "Oppdagelse",
+      "body": "Vi reviderer din nåværende side, kartlegger konkurrenter og definerer de nøyaktige målene praksisen din må nå."
+    },
+    "step2": {
+      "title": "Strategi & tilbud",
+      "body": "En skriftlig plan lander i innboksen din – omfang, sitemap, tidslinje og transparent prising. Ingen møter påkrevd."
+    },
+    "step3": {
+      "title": "Design",
+      "body": "Seniordesignere utvikler et visuelt system tilpasset hudleger – med fokus på tillit, merkevare og konvertering."
+    },
+    "step4": {
+      "title": "Utvikling",
+      "body": "Moderne, tilgjengelig kode med CMS for behandlinger, HIPAA-aware skjemaer og Core Web Vitals inkludert."
+    },
+    "step5": {
+      "title": "QA & Sikkerhet",
+      "body": "Uavhengig kvalitetssikring av hver side for tilgjengelighet, HIPAA-sikkerhet, tverrplattform-finish og SEO-integritet."
+    },
+    "step6": {
+      "title": "Lansering & Drift",
+      "body": "Sømløs migrering med redirect-kart, etterfulgt av løpende oppdateringer, overvåking og forbedringer."
+    }
+  },
+  "clients": {
+    "kicker": "Hvem vi jobber med",
+    "header": "Bygget for alle typer <1>hudlegepraksiser.</1>",
+    "p": "Fra selvstendige hudleger til store klinikk-kjeder – vi skreddersyr løsningen etter din drift.",
+    "solo": {
+      "title": "Selvstendige hudleger",
+      "body": "Fokuserte nettsider med høy tillit som etablerer autoritet og øker antall konsultasjoner fra dag én."
+    },
+    "multi": {
+      "title": "Klinikk-kjeder",
+      "body": "Lokasjonssider, enhetlig profilering og lokal SEO bygget for å skalere på tvers av alle adresser."
+    },
+    "aesthetic": {
+      "title": "Kosmetiske klinikker",
+      "body": "Behandlingsmenyer, før/etter-gallerier og bookingsystemer optimalisert for estetisk dermatologi."
+    },
+    "pediatric": {
+      "title": "Barnehudleger",
+      "body": "Vennlig design rettet mot foreldre, med klare guider for hudtilstander og enkel timebestilling."
+    },
+    "mohs": {
+      "title": "Mohs- & kirurgisk dermatologi",
+      "body": "Prosedyrefokuserte sider, henvisningsflyt og pasientopplæring med fokus på resultater."
+    },
+    "groups": {
+      "title": "Dermatologiske grupper",
+      "body": "Oversikt over behandlere, henvisningsveier og profesjonelle arbeidsflyter for innholdsproduksjon."
+    }
+  },
+  "compliance": {
+    "kicker": "Tillit & Sikkerhet",
+    "header": "Dine pasienters personvern, beskyttet <1>ved design.</1>",
+    "p": "HIPAA-aware arkitektur, NDA-vennlig samarbeid og BAA-klar hosting. Sikkerhet er en del av vårt DNA.",
+    "hipaa": {
+      "title": "HIPAA-aware løsninger",
+      "body": "Skjemaer, hosting og dataflyt designet med tanke på sikker håndtering av sensitive opplysninger."
+    },
+    "baa": {
+      "title": "BAA-klar hosting",
+      "body": "Business Associate Agreements tilgjengelig ved hver lansering."
+    },
+    "nda": {
+      "title": "NDA-vennlig",
+      "body": "Standard i alle oppdrag – filer, kommunikasjon og tilgang er strengt kontrollert."
+    },
+    "phi": {
+      "title": "Ingen PHI i analyseverktøy",
+      "body": "Sporing konfigurert for å holde sensitive helseopplysninger unna tredjepartsverktøy."
+    }
+  },
+  "tech": {
+    "kicker": "Teknologi & Ekspertise",
+    "header": "En fokusert og pålitelig <1>moderne stack.</1>",
+    "p": "Valgt for stabilitet, ytelse og langsiktig vedlikehold – ikke fordi det er nytt.",
+    "stack": {
+      "title": "Next.js & WordPress",
+      "body": "Moderne React eller headless CMS, tilpasset ditt team."
+    },
+    "hosting": {
+      "title": "HIPAA-aware hosting",
+      "body": "Administrert og overvåket infrastruktur som er BAA-kvalifisert."
+    },
+    "seo": {
+      "title": "Teknisk SEO",
+      "body": "Schema, hierarki og indekserbarhet fra dag én."
+    },
+    "cwv": {
+      "title": "Core Web Vitals",
+      "body": "Ytelsesbudsjetter og optimaliserte ressursløp ferdig konfigurert."
+    },
+    "cms": {
+      "title": "Behandlings-CMS",
+      "body": "Strukturerte innholdsmodeller bygget spesifikt for hudlegetjenester."
+    },
+    "cro": {
+      "title": "Analyse & CRO",
+      "body": "Personvernvennlig måling og konverteringsoptimalisering."
+    },
+    "a11y": {
+      "title": "Tilgjengelighet (WCAG)",
+      "body": "AA-standarder innebygd i alle komponenter."
+    },
+    "care": {
+      "title": "Løpende drift",
+      "body": "Oppdateringer, backup og oppetid – din nettside blir aldri utdatert."
+    }
+  },
+  "structure": {
+    "kicker": "Operasjonell struktur",
+    "header": "Ekte avdelinger, <1>ikke en pool av frilansere.</1>",
+    "p": "Seks spesialiserte team, én dedikert prosjektleder – klare roller, klart ansvar, ingen mellomledd.",
+    "status": "Aktiv",
+    "pm": {
+      "title": "Prosjektledelse",
+      "body": "Dedikert prosjektleder som eier tidsplan, omfang og kommunikasjon."
+    },
+    "content": {
+      "title": "Innhold",
+      "body": "Innhold klart for medisinsk godkjenning som snakker din praksis sitt språk."
+    }
+  },
+  "faq": {
+    "kicker": "FAQ",
+    "header": "Vanlige spørsmål, <1>besvart.</1>",
+    "q1": {
+      "q": "Er min nye nettside HIPAA-compliant fra start?",
+      "a": "Ja. Skjemaer, hosting og dataflyt er designet for sikker håndtering av PHI, og Business Associate Agreement (BAA) er tilgjengelig på forespørsel. Vi konfigurerer også analyse slik at sensitive data ikke havner hos tredjeparter."
+    },
+    "q2": {
+      "q": "Hvor lang tid tar det å bygge siden?",
+      "a": "De fleste sider lanseres innen 6–10 uker fra oppstart. Prosjekter med flere lokasjoner eller omfattende migrering tar vanligvis 10–14 uker. Du får en skriftlig tidsplan før vi starter."
+    },
+    "q3": {
+      "q": "Hvem eier nettsiden og innholdet etter lansering?",
+      "a": "Det gjør du – 100 %. Kode, innhold, designfiler, hosting-kontoer og domene forblir din eiendom. Ingen bindingstid og ingen proprietære systemer du er låst til."
+    },
+    "q4": {
+      "q": "Håndterer dere flytting fra vår nåværende side?",
+      "a": "Ja. Vi migrerer innhold, viderekoblinger (redirects), media og SEO-verdi fra WordPress, Squarespace, Wix eller spesialbygde løsninger – med full kontroll slik at rangeringen din i Google ikke faller."
+    },
+    "q5": {
+      "q": "Hva koster det?",
+      "a": "Prosjekter med fast ramme starter på lave femsifrede beløp avhengig av sidetall og integrasjoner. Driftsavtaler starter som et fast månedsbeløp. Se detaljer på vår prisside."
+    },
+    "q6": {
+      "q": "Tilbyr dere vedlikehold etter lansering?",
+      "a": "Ja. Hver lansering inkluderer opsjon på en driftsavtale som dekker oppdateringer, backup, overvåking, sikkerhetspatcher og månedlige innholdsendringer."
+    },
+    "q7": {
+      "q": "Kan dere jobbe under taushetserklæring (NDA)?",
+      "a": "Absolutt. NDA er standard for alle våre oppdrag, med begrenset tilgang, private arbeidsområder og konfidensiell håndtering som standard."
+    }
+  },
+  "cta": {
+    "kicker": "Gratis nettsiderevisjon",
+    "header": "Klar for å utvikle <1>din hudlegepraksis?</1>",
+    "p": "Et seniorteam, en tydelig plan og en nettside bygget for å tiltrekke ekte pasienter – start med en gratis 48-timers revisjon av din nåværende side.",
+    "primary": "Be om gratis revisjon",
+    "secondary": "Snakk med oss",
+    "next": "Dette skjer videre",
+    "step1": {
+      "title": "Gratis 48-timers revisjon",
+      "body": "Vi går gjennom din nåværende side – SEO, brukeropplevelse, HIPAA og ytelse."
+    },
+    "step2": {
+      "title": "Skreddersydd forslag",
+      "body": "En skriftlig plan med prioriteringer, tidslinje og prising – rett i innboksen din."
+    },
+    "step3": {
+      "title": "Lansering på 6–10 uker",
+      "body": "Design, koding, HIPAA-aware kvalitetssikring og en sømløs migrering."
+    },
+    "footer": {
+      "hipaa": "HIPAA-aware",
+      "nda": "NDA-vennlig",
+      "ownership": "Du eier alt selv"
+    }
+  },
+  "footerLinks": {
+    "text": "Dette kan også være nyttig:",
+    "portfolio": "se våre siste prosjekter",
+    "process": "hvordan vi gjennomfører oppdrag",
+    "pricing": "hva en investering innebærer"
+  },
+  "testimonials": {
+    "ariaLabel": "Vis omtale {{index}}",
+    "ariaStars": "5 av 5 stjerner",
+    "t1": {
+      "quote": "De bygget om nettsiden vår, og antall nye pasientbestillinger økte med 62 % på 90 dager.",
+      "name": "Dr. Alicia Moreno",
+      "role": "Offentlig godkjent hudlege"
+    },
+    "t2": {
+      "quote": "Endelig et byrå som faktisk forstår HIPAA, YMYL og SEO for hudleger.",
+      "name": "Dr. Rahul Menon",
+      "role": "Mohs- & kosmetisk dermatologi"
+    },
+    "t3": {
+      "quote": "Rent design, rask side og et team som svarer samme dag. Sjeldent bra.",
+      "name": "Dr. Emily Chen",
+      "role": "Barnehudlege"
+    },
+    "p1": {
+      "quote": "De bygget om siden vår, doblet antall konsultasjoner på 90 dager, og forstår virkelig medisinsk dermatologi. Ingen byråer vi har prøvd tidligere var i nærheten.",
+      "name": "Dr. Rachel Meyers, MD, FAAD"
+    },
+    "p2": {
+      "quote": "Hver side leses som om en ekte hudlege har skrevet det. Forespørslene økte i løpet av uker, og siden gjenspeiler endelig nivået på behandlingen vi leverer.",
+      "name": "Dr. Jonathan Pierce, MD"
+    },
+    "p3": {
+      "quote": "Klar prising, ingen unødvendig fyll, og et team som utfordret oss når det trengtes. Relanseringen er den beste markedsføringsbeslutningen vi har tatt.",
+      "name": "Dr. Priya Shah, MD"
+    }
+  },
+  "skip": "Hopp til hovedinnhold"
+}

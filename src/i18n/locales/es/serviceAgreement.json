@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "title": "Contrato de Servicios — Términos de Vinculación",
+    "description": "El contrato de servicios que rige los proyectos entre nuestro estudio y las clínicas dermatológicas: alcance, entregables, pagos, IP, confidencialidad, garantías y rescisión.",
+    "page_title": "Contrato de Servicios — Términos de Vinculación",
+    "page_description": "El contrato de servicios que rige los proyectos entre nuestro estudio y las clínicas dermatológicas: alcance, entregables, pagos, IP, confidencialidad, garantías y rescisión."
+  },
+  "common": {
+    "skip_to_content": "Saltar al contenido",
+    "last_updated": "Última actualización:",
+    "last_updated_date": "14 de julio de 2026"
+  },
+  "hero": {
+    "badge": "Legal · Contrato de Servicios",
+    "h1": "Contrato de Servicios",
+    "description": "Los términos redactados en lenguaje claro que rigen el diseño, desarrollo y trabajo continuo entre nuestro estudio y su clínica. Lea esto junto con su propuesta de proyecto o declaración de trabajo."
+  },
+  "sections": {
+    "toc_title": "Contenido",
+    "navigation_aria_label": "Navegación de secciones",
+    "parties": {
+      "title": "1. Partes y Aceptación",
+      "body": "Este Contrato de Servicios (\"Acuerdo\") se celebra entre nuestro estudio (\"Proveedor\", \"nosotros\", \"nuestro\") y la clínica, entidad o individuo identificado en el presupuesto o declaración de trabajo adjunto (\"Cliente\", \"usted\"). Al firmar una propuesta, enviar un depósito o instruirnos por cualquier otro medio para comenzar el trabajo, usted acepta los términos detallados a continuación."
+    },
+    "scope": {
+      "title": "2. Alcance de los Servicios",
+      "body": "Los servicios específicos, entregables, hitos y cronogramas se definen en el presupuesto o la Declaración de Trabajo (\"SOW\") que hace referencia a este Acuerdo. Cualquier elemento fuera de dicho SOW (nuevas páginas, integraciones adicionales, rondas de revisión extra o cambios de alcance tras la aprobación) se tratará como una orden de cambio y se presupuestará por separado por escrito."
+    },
+    "fees": {
+      "title": "3. Honorarios y Pagos",
+      "items": [
+        "Se requiere un depósito no reembolsable del 50% para programar e iniciar el trabajo.",
+        "El saldo restante se factura según los hitos definidos en el SOW; el pago final vence antes del lanzamiento de producción o la entrega de archivos.",
+        "Las facturas vencen a los 7 días. Las facturas atrasadas devengan un interés mensual del 1.5% y el trabajo podrá pausarse hasta que se liquide el saldo.",
+        "Los planes recurrentes (hosting, mantenimiento, retainers) se facturan mensualmente por adelantado."
+      ]
+    },
+    "timeline": {
+      "title": "4. Cronograma y Responsabilidades del Cliente",
+      "body": "Los plazos asumen respuestas a revisiones y solicitudes de contenido en un máximo de 3 días hábiles. Los retrasos en el feedback, la entrega de contenido o aprobaciones de terceros desplazarán el calendario día por día. Usted es responsable de proporcionar contenido preciso, activos de marca y credenciales de acceso, así como de garantizar que el contenido suministrado sea veraz y no infrinja derechos de terceros."
+    },
+    "revisions": {
+      "title": "5. Revisiones",
+      "body": "Cada entregable incluye dos rondas de revisiones consolidadas, a menos que el SOW indique lo contrario. Las revisiones solicitadas después de la aprobación por escrito de una etapa, o que superen las rondas incluidas, se facturarán según nuestra tarifa por hora vigente en ese momento."
+    },
+    "ip": {
+      "title": "6. Propiedad Intelectual",
+      "body": "Tras el pago total, usted es propietario de los entregables finales producidos específicamente para usted: diseño web, código personalizado y contenido creado bajo el SOW. Nosotros conservamos los derechos sobre frameworks preexistentes, herramientas y componentes genéricos utilizados en la construcción, y le otorgamos una licencia perpetua para usarlos como parte de su proyecto. Podemos mostrar el trabajo finalizado en nuestro portafolio y casos de estudio, a menos que usted solicite lo contrario por escrito."
+    },
+    "third_party": {
+      "title": "7. Servicios de Terceros",
+      "body": "Los proyectos pueden depender de servicios de terceros (hosting, CMS, analítica, integraciones de EHR/reservas, DNS, procesadores de pago). Usted es responsable de sus tarifas y de aceptar sus términos. No somos responsables por caídas del servicio, cambios o defectos causados por proveedores externos."
+    },
+    "hipaa": {
+      "title": "8. HIPAA y Manejo de Datos",
+      "body": "Nuestros sitios web estándar se construyen bajo criterios de cumplimiento con HIPAA: evitan recopilar Información de Salud Protegida (PHI) en formularios, rastreadores o registros. Cuando un proyecto maneje intencionalmente PHI (ej. portales de pacientes, formularios de admisión con datos clínicos), las partes ejecutarán un Acuerdo de Socio Comercial (\"BAA\") independiente antes de que dicha funcionalidad entre en vigor. Usted es responsable de configurar de forma compatible con HIPAA las herramientas de terceros que añada después de la entrega."
+    },
+    "confidentiality": {
+      "title": "9. Confidencialidad",
+      "body": "Cada parte mantendrá la confidencialidad de la información comercial, financiera, técnica y de pacientes no pública de la otra parte, y la utilizará únicamente para el cumplimiento de este Acuerdo. Las obligaciones de confidencialidad persisten tras la terminación del contrato."
+    },
+    "warranty": {
+      "title": "10. Garantía y Exenciones de Responsabilidad",
+      "body": "Garantizamos que los servicios se realizarán de manera profesional y conforme a los estándares de la industria. Durante los 30 días posteriores al lanzamiento, corregiremos sin costo los defectos en el código de nuestra autoría. Transcurrido ese plazo, el trabajo correctivo se cubrirá bajo un plan de mantenimiento o se facturará por horas. Salvo que se indique expresamente, los servicios y entregables se proporcionan \"tal cual\", y rechazamos cualquier otra garantía, incluida la idoneidad para un propósito particular y la no infracción de servicios de terceros."
+    },
+    "liability": {
+      "title": "11. Limitación de Responsabilidad",
+      "body": "En la medida máxima permitida por la ley, ninguna de las partes será responsable de daños indirectos, incidentales, consecuentes o por pérdida de beneficios. Nuestra responsabilidad agregada bajo este Acuerdo se limita a los honorarios pagados por usted en los tres (3) meses anteriores a la reclamación."
+    },
+    "termination": {
+      "title": "12. Rescisión",
+      "body": "Cualquiera de las partes puede rescindir el contrato por incumplimiento sustancial si el mismo no se subsana en un plazo de 14 días tras la notificación por escrito. Si usted rescinde por conveniencia, será responsable de todo el trabajo completado y los gastos incurridos hasta la fecha de rescisión; el depósito no será reembolsable. Los planes recurrentes requieren un preaviso por escrito de 30 días."
+    },
+    "misc": {
+      "title": "13. Ley Aplicable y Varios",
+      "body": "Este Acuerdo se rige por las leyes de la jurisdicción establecida en el SOW, sin tener en cuenta los principios de conflicto de leyes. Este constituye el acuerdo completo entre las partes sobre este asunto y sustituye cualquier discusión previa. Si alguna disposición se considera inaplicable, el resto permanecerá en vigor. Las enmiendas deben realizarse por escrito y estar firmadas por ambas partes."
+    }
+  },
+  "cta": {
+    "title": "¿Tiene preguntas sobre estos términos?",
+    "description": "Estaremos encantados de explicarle cualquier cláusula antes de que firme.",
+    "button": "Contáctenos"
+  }
+}

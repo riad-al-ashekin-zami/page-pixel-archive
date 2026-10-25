@@ -1,0 +1,370 @@
+{
+  "meta": {
+    "title": "E-mail marketing pro dermatology | HIPAA-Safe recall, newslettery a automatizace",
+    "description": "HIPAA-safe e-mail marketing pro dermatologické praxe – uvítací série, automatické 6měsíční připomínky (recall), sezónní edukace a estetická reaktivace. Reporty na základě objednaných termínů, nikoliv otevření.",
+    "og": {
+      "title": "E-mail marketing pro dermatology – HIPAA-Safe, atribuce objednaných návštěv",
+      "description": "Zakázkové newslettery, automatizace připomínek napojená na PMS a HIPAA-safe řešení pro dermatology. Klaviyo, HubSpot, Mailchimp."
+    },
+    "twitter": {
+      "title": "Služby e-mail marketingu pro dermatology",
+      "description": "HIPAA-safe e-mail marketing, automatický recall a špičková doručitelnost přímo do inboxu pro dermatologické kliniky."
+    },
+    "jsonLd": {
+      "serviceType": "E-mail marketing pro dermatologické praxe",
+      "providerName": "DermatologyWebsiteDesign.com",
+      "description": "HIPAA-safe e-mail marketing, automatizace připomínek a newsletterové služby pro dermatology.",
+      "breadcrumb": {
+        "home": "Domů",
+        "services": "Služby",
+        "emailMarketing": "E-mail marketing"
+      }
+    }
+  },
+  "hero": {
+    "badge": "E-mail marketing pro dermatology",
+    "title": "E-maily, které vám zaplní kalendář termínů.",
+    "description": "HIPAA-safe e-mail marketing pro dermatology – uvítací série, automatický recall napojený na PMS, sezónní edukace a reaktivace estetických klientů. Každou kampaň vyhodnocujeme podle reálných návštěv, ne podle marnivých statistik otevření.",
+    "cta": {
+      "audit": "E-mailový audit zdarma",
+      "flows": "Zobrazit 5 automatických flow"
+    },
+    "stats": {
+      "industryLabel": "průměr oboru 21 %",
+      "comparison": "+30 bodů oproti základu",
+      "opensLabel": "12 480 otevření",
+      "hipaaBadge": "HIPAA-safe",
+      "openRateLabel": "míra otevření",
+      "openRateDescription": "Míra otevření kampaně"
+    }
+  },
+  "outcomes": {
+    "openRate": "Průměrná míra otevření",
+    "ctr": "Míra prokliku",
+    "recallLift": "Nárůst objednávek z připomínek",
+    "hipaaReview": "HIPAA-safe revize textů"
+  },
+  "trustBar": {
+    "title": "Důvěřuje nám více než 50 dermatologických praxí",
+    "badges": [
+      "SPF · Ověřeno",
+      "DKIM · Ověřeno",
+      "DMARC · Ověřeno",
+      "CAN-SPAM"
+    ]
+  },
+  "liveActivity": {
+    "title": "Živě z klientských dashboardů",
+    "status": "Živě",
+    "actions": {
+      "opened": "otevřeno",
+      "booked": "objednáno",
+      "clicked": "prokliknuto"
+    },
+    "events": [
+      {
+        "who": "Jana R.",
+        "campaign": "Zimní péče o pleť",
+        "when": "právě teď"
+      },
+      {
+        "who": "Priya K.",
+        "campaign": "6měsíční kontrola pleti",
+        "when": "před 14 s"
+      },
+      {
+        "who": "Marek T.",
+        "campaign": "Uvítání · 3 z 5",
+        "when": "před 42 s"
+      },
+      {
+        "who": "Sofia L.",
+        "campaign": "Věrnostní Aesthetic",
+        "when": "před 1 min"
+      },
+      {
+        "who": "David H.",
+        "campaign": "Estetická reaktivace",
+        "when": "před 2 min"
+      },
+      {
+        "who": "Anna M.",
+        "campaign": "Průvodce opalováním",
+        "when": "před 3 min"
+      }
+    ]
+  },
+  "flows": {
+    "title": "Automatizace (Flows)",
+    "heading": "Pět automatických flow, které řídí e-mailing vaší praxe.",
+    "description": "Spouštěno přímo z vašeho PMS/EHR – uvítání, připomínky, edukace, estetické nabídky a reportování. Vše běží samo.",
+    "items": [
+      {
+        "step": "KROK 01",
+        "title": "Uvítání a onboarding",
+        "desc": "Série 5 e-mailů pro nové pacienty – co očekávat, jak se připravit, FAQ k pojištění a odkazy pro snadné objednání."
+      },
+      {
+        "step": "KROK 02",
+        "title": "Recall a reaktivace",
+        "desc": "Připomínky kontroly pleti po 6/12 měsících, automaticky spouštěné z vašeho PMS – včetně přímé atribuce k objednanému termínu."
+      },
+      {
+        "step": "KROK 03",
+        "title": "Edukace a sezónnost",
+        "desc": "Akné v létě, ekzémy v zimě, UV ochrana v květnu – 12měsíční ediční plán přizpůsobený vašim službám."
+      },
+      {
+        "step": "KROK 04",
+        "title": "Estetika a doplňkové služby",
+        "desc": "Upsell kosmetických služeb založený na souhlasu – věrnostní programy na Aesthetic, laserové série, lékařská kosmetika."
+      },
+      {
+        "step": "KROK 05",
+        "title": "Reportování reálných návštěv",
+        "desc": "Každou kampaň hodnotíme podle počtu sjednaných schůzek a tržeb – ne jen podle otevření a prokliků."
+      }
+    ]
+  },
+  "integrations": {
+    "title": "Integrace PMS / EHR a e-mailových platforem",
+    "platforms": [
+      "ModMed / EMA",
+      "Nextech",
+      "DrChrono",
+      "athenahealth",
+      "Klaviyo",
+      "HubSpot",
+      "Mailchimp",
+      "Zapier"
+    ]
+  },
+  "servicesIncluded": {
+    "title": "Co je zahrnuto",
+    "heading": "Kompletní e-mail marketingový balíček – za jeden měsíční poplatek.",
+    "items": [
+      {
+        "title": "Strategie a 12měsíční plán",
+        "desc": "Mapování publika, audit zdraví databáze, ediční plán služeb a KPI kampaní sladěné s reálnými objednávkami."
+      },
+      {
+        "title": "Architektura segmentovaných seznamů",
+        "desc": "Noví pacienti, aktivní, 6 nebo 12 měsíců neaktivní, estetika, medicínské případy – s HIPAA-safe tagováním a sledováním souhlasů."
+      },
+      {
+        "title": "Šablony na míru",
+        "desc": "Responzivní HTML šablony ve vizuálu vaší značky – přístupný kontrast barev, podpora dark mode a čistá textová verze."
+      },
+      {
+        "title": "Automatické toky a spouštěče",
+        "desc": "Uvítání, recall, narozeniny, po návštěvě a estetická reaktivace – spouštěno z vašeho PMS/EHR přes API nebo Zapier."
+      },
+      {
+        "title": "Doručitelnost a autentizace",
+        "desc": "Nastavení SPF, DKIM, DMARC, zahřívání domény, hygiena seznamu a monitoring reputace odesílatele – přímo do doručené pošty, ne do spamu."
+      },
+      {
+        "title": "Analytika a atribuce návštěv",
+        "desc": "Otevření, prokliky, odhlášení plus atribuce termínů propojená s PMS – měsíční reporty zaměřené na tržby."
+      }
+    ]
+  },
+  "deliverability": {
+    "title": "Doručitelnost",
+    "heading": "Ze spamu přímo do prioritní pošty.",
+    "description": "Autentizace SPF, DKIM a DMARC, zahřívání odesílatele, kvartální čištění seznamů a monitoring reputace přes Google Postmaster + Microsoft SNDS.",
+    "features": [
+      "Ověření SPF · DKIM · DMARC během prvních 7 dnů",
+      "Plán zahřívání odesílatele při migraci platformy",
+      "Hloubková hygiena seznamu každých 90 dnů",
+      "Týdenní monitoring odrazů a stížností"
+    ],
+    "gaugeLabel": "Umístění v inboxu",
+    "timeline": "Průměrný klient, 60–90 dní po onboardingu."
+  },
+  "abSection": {
+    "title": "Texty, které prodávají",
+    "heading": "Předmět e-mailu rozhoduje o objednávce nebo smazání.",
+    "demoTitle": "Dvě slova změní vše.",
+    "badge": "A/B test předmětu",
+    "inboxPreview": "Náhled v inboxu",
+    "sender": "Vaše klinika",
+    "time": "14:14",
+    "openRateLabel": "Míra otevření",
+    "whyWins": "Proč verze B vyhrává:",
+    "buttons": {
+      "version": "Verze",
+      "example": "Příklad"
+    },
+    "notes": [
+      "Personalizace jménem + důraz na přínos (benefit).",
+      "Konkrétní časování + jazyk snižující námahu klienta."
+    ]
+  },
+  "templateGallery": {
+    "title": "Galerie šablon",
+    "heading": "Každý e-mail v profesionálním stylu.",
+    "description": "Zakázkové, responzivní šablony s přístupným kontrastem a bezchybným zobrazením v tmavém režimu.",
+    "cta": "Objednat se",
+    "templates": [
+      {
+        "name": "Uvítání",
+        "tag": "Série · 1 z 5",
+        "subject": "Vítejte u nás, paní Jano",
+        "body": "Zde je přehled toho, co vás čeká při první návštěvě – a 3 věci, které si vzít s sebou pro hladký průběh."
+      },
+      {
+        "name": "Recall",
+        "tag": "Auto · PMS trigger",
+        "subject": "Čas na vaši 6měsíční kontrolu pleti",
+        "body": "Je to 5 měsíců od vaší poslední návštěvy. Kontroly pleti odhalí 95 % problémů včas – objednejte se na dva kliky."
+      },
+      {
+        "name": "Sezónní",
+        "tag": "Ediční · Zima",
+        "subject": "Zimní péče o pleť vyřešena – vzkaz od Dr. Chena",
+        "body": "Studený vzduch a horké sprchy narušují vaši kožní bariéru. Zde je 5 kroků, které naši lékaři doporučují."
+      }
+    ]
+  },
+  "liftSlider": {
+    "title": "Nárůst (Lift)",
+    "heading": "Z 12 % na 42 % otevření – sledujte ten efekt.",
+    "description": "Posunutím jezdce změňte míru otevření z běžného základu na námi spravovaných 42 % – návštěvy a tržby rostou s tím.",
+    "dragLabel": "Posunutím zobrazíte rozdíl",
+    "before": "Před:",
+    "after": "Po:",
+    "metrics": {
+      "booked": "Objednávek / měs.",
+      "revenue": "Tržby / měs.",
+      "recall": "Míra návratnosti"
+    },
+    "aria": {
+      "slider": "Posuvník míry otevření e-mailů"
+    }
+  },
+  "testimonials": {
+    "title": "Výsledky klientů",
+    "heading": "Reálné dermatologické praxe. Měřitelné výsledky.",
+    "items": [
+      {
+        "quote": "Jen e-maily s připomínkami zaplatily měsíční paušál hned v prvním měsíci. Počet 6měsíčních kontrol se ztrojnásobil a texty znějí přesně jako my.",
+        "author": "Dr. E. Park, MD",
+        "role": "Samostatná dermatoložka · Seattle, WA"
+      },
+      {
+        "quote": "Jedna značka, sedm lokalit, jeden kalendář. HIPAA-safe segmentace byla věc, kterou jsme sami nikdy nedokázali vyřešit správně.",
+        "author": "Marketingový ředitel",
+        "role": "Skupina klinik · 7 lokalit · Texas"
+      },
+      {
+        "quote": "Doručitelnost se zvedla z 82 % na 98 % během šesti týdnů. Atribuce ke sjednaným termínům konečně dává našim investicím do e-mailingu jasný smysl.",
+        "author": "Manažer kliniky",
+        "role": "Mohsova a chirurgická derm. · Boston"
+      }
+    ]
+  },
+  "audiences": {
+    "title": "Pro koho",
+    "heading": "Pro každý model dermatologické praxe.",
+    "items": [
+      {
+        "title": "Samostatní dermatologové",
+        "desc": "Newslettery psané hlasem lékaře, které udržují plnou čekárnu – uvítání, reaktivace a follow-up po návštěvě v jednom plánu."
+      },
+      {
+        "title": "Kliniky s více lokalitami",
+        "desc": "Zásilky specifické pro každou pobočku se sdílenými šablonami – jeden dashboard, jednotná analytika, HIPAA-safe segmentace."
+      },
+      {
+        "title": "Dětská dermatologie",
+        "desc": "Edukační toky zaměřené na rodiče – sezóny ekzémů, kontroly před školou a citlivě laděné připomínky."
+      },
+      {
+        "title": "Mohsova a chirurgická chirurgie",
+        "desc": "Předoperační příprava, pooperační kontrola hojení a pravidelný cyklus screeningu rakoviny kůže – načasováno dle klinických milníků."
+      }
+    ]
+  },
+  "medicalServices": {
+    "title": "Podporované medicínské služby",
+    "heading": "E-mailové toky vyladěné pro každý typ zákroku.",
+    "description": "Každá oblast má svůj vlastní cyklus edukace, intervaly připomínek a texty pro reaktivaci v souladu se souhlasem pacienta.",
+    "list": [
+      "Léčba akné",
+      "Léčba ekzému",
+      "Léčba lupénky",
+      "Léčba kožních infekcí",
+      "Léčba kožních alergií",
+      "Screening a léčba rakoviny kůže",
+      "Vyšetření mateřských znamének a jejich odstranění",
+      "Odstranění cyst a lipomů",
+      "Odstranění bradavic",
+      "Léčba onemocnění nehtů",
+      "Diagnostika a léčba vypadávání vlasů",
+      "Léčba onemocnění pokožky hlavy",
+      "Léčba rosacey",
+      "Léčba hyperpigmentace a melasmy (z lékařské indikace)",
+      "Léčba jizev (úrazy, operace, nemoci)",
+      "Léčba jizev po popáleninách",
+      "Léčba vitiliga",
+      "Kožní biopsie a diagnostické postupy"
+    ]
+  },
+  "faq": {
+    "title": "Časté dotazy",
+    "heading": "Dotazy, které dermatologické praxe řeší před zahájením spolupráce.",
+    "items": [
+      {
+        "q": "Je HIPAA-compliant e-mail marketing skutečně možný?",
+        "a": "Ano – při dodržení přísných pravidel. Do předmětů, textů ani parametrů sledování nikdy nevkládáme PHI (chráněné zdravotní informace). Segmentace využívá tagy bez PHI (zájmy, kampaň, stav souhlasu), souhlas je udělován při návštěvě či ve webovém formuláři a každá rozesílka prochází kontrolním seznamem shody. Pokud je nutné pracovat s chráněnými daty, směrujeme uživatele na váš zabezpečený pacientský portál."
+      },
+      {
+        "q": "Které e-mailové platformy a PMS/EHR systémy podporujete?",
+        "a": "Stavíme na systémech Klaviyo, HubSpot, Mailchimp, ActiveCampaign nebo Customer.io dle velikosti vaší praxe. Na klinické straně se integrujeme s ModMed/EMA, Nextech, DrChrono, athenahealth a dalšími přes API, HL7 nebo Zapier – automatizace běží na základě reálných dat o návštěvách, ne ručních tabulek."
+      },
+      {
+        "q": "Jak měříte výsledky?",
+        "a": "Každá kampaň je hodnocena podle objednaných termínů a přiřazených tržeb – nejen podle otevření. Každý odkaz opatřujeme UTM parametry, propojujeme prokliky s vaším rezervačním systémem a měsíčně reportujeme Open Rate, CTR, počet sjednaných schůzek a odhad tržeb na odeslaný e-mail."
+      },
+      {
+        "q": "Jak řešíte doručitelnost a padání do spamu?",
+        "a": "Nastavení zahrnuje autentizaci SPF, DKIM a DMARC, plán zahřívání při přechodu z jiné platformy, kvartální hygienu seznamu a monitoring reputace přes Google Postmaster a Microsoft SNDS. Klienti se obvykle dostanou z 82–88 % doručení do primární pošty na úroveň 96–98 % během 60–90 dnů."
+      },
+      {
+        "q": "Jak často budete našim pacientům psát?",
+        "a": "Frekvenci ladíme individuálně. Většina praxí posílá 2 edukační e-maily měsíčně plus automatické spouštěče (uvítání, recall, narozeniny). Nikdy pacienty nespamujeme – týdně sledujeme míru odhlášení a stížností a při jakémkoliv překročení limitů frekvenci okamžitě upravujeme."
+      },
+      {
+        "q": "Píšete texty vy, nebo náš tým?",
+        "a": "Píšeme vše – předměty, texty i náhradní textové verze – a to hlasem vašeho lékaře. Texty podléhají našemu HIPAA kontrolnímu seznamu a váš tým každou kampaň schvaluje ve sdíleném kalendáři; bez schválení se nic neodešle."
+      },
+      {
+        "q": "Jaká je cena?",
+        "a": "Pevný měsíční paušál dle velikosti databáze a objemu kampaní. Zahrnuje: strategii, kalendář, návrh šablon, copywritting, doručitelnost, nastavení automatizací, integraci PMS a měsíční reporty. Žádné poplatky za odeslaný e-mail, žádné dlouhé úvazky po prvních 90 dnech."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Proměňte svou databázi pacientů v hlavní rezervační kanál.",
+    "description": "30minutový e-mailový audit zdarma – kontrola doručitelnosti, report stavu seznamu a 90denní plán automatizace připomínek. Bez nátlaku a závazků.",
+    "auditBtn": "Audit webu zdarma",
+    "contactBtn": "Kontaktujte nás",
+    "sticky": {
+      "audit": "E-mailový audit zdarma",
+      "ariaPhone": "Kontaktujte nás"
+    }
+  },
+  "footerLinks": {
+    "preface": "Mohlo by vás také zajímat:",
+    "reputation": "reputace a systémy pro recenze",
+    "social": "sociální sítě pro lékařské praxe",
+    "cro": "vstupní stránky, které konvertují"
+  },
+  "inboxCard": {
+    "conversionNote": "Zahrnujeme kroky k reaktivaci, FAQ k pojištění a rychlou volbu objednání – navrženo pro konverzi bez uvádění PHI.",
+    "aria": {
+      "expand": "Karty náhledů e-mailů – najetím nebo klepnutím rozbalíte obsah"
+    }
+  }
+}

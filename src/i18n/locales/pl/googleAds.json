@@ -1,0 +1,274 @@
+{
+  "meta": {
+    "title": "Google Ads i zarządzanie PPC dla dermatologii | Rezerwacje wizyt, nie tylko kliknięcia",
+    "description": "Zarządzanie Google Ads i PPC dla gabinetów dermatologicznych – kampanie Search, LSA, YouTube i Performance Max rozliczane według kosztu pozyskania wizyty i rentowności usług. Monitorowanie zgodne z HIPAA.",
+    "og": {
+      "title": "Google Ads i PPC dla dermatologii – Zamień kliknięcia w pacjentów",
+      "description": "PPC, które zarabia na siebie – kampanie Search, LSA, YouTube i remarketing nastawione na realny zwrot z inwestycji (ROI) z umówionych wizyt."
+    },
+    "twitter": {
+      "title": "Zarządzanie Google Ads i PPC dla dermatologii",
+      "description": "Kampanie PPC optymalizowane pod kątem kosztu umówionej wizyty dla praktyk dermatologicznych."
+    },
+    "jsonLd": {
+      "serviceType": "Zarządzanie Google Ads i PPC dla gabinetów dermatologicznych",
+      "provider": "DermatologyWebsiteDesign.com",
+      "description": "Zarządzanie kampaniami Google Ads, LSA, YouTube i Performance Max dla dermatologii, mierzone liczbą umówionych wizyt i rentownością poszczególnych usług.",
+      "breadcrumb": {
+        "home": "Strona główna",
+        "services": "Usługi",
+        "ads": "Google Ads i PPC"
+      }
+    }
+  },
+  "hero": {
+    "badge": "Google Ads i PPC dla dermatologii",
+    "heading": "Każde kliknięcie to zarezerwowana wizyta.",
+    "description": "Zarządzanie Google Ads i PPC dla dermatologii – kampanie Search, LSA, YouTube oraz Performance Max zorientowane na koszt pozyskania pacjenta, a nie puste statystyki. Bezpieczne śledzenie HIPAA i raportowanie rentowności usług.",
+    "cta": {
+      "audit": "Bezpłatny audyt PPC",
+      "campaigns": "Zobacz typy kampanii"
+    },
+    "stats": [
+      {
+        "label": "Niższy CPBV",
+        "value": "38%"
+      },
+      {
+        "label": "Telefony o konsultację",
+        "value": "4.2×"
+      },
+      {
+        "label": "Redukcja przepalania budżetu",
+        "value": "62%"
+      },
+      {
+        "label": "Bezpieczne śledzenie",
+        "value": "HIPAA"
+      }
+    ]
+  },
+  "sections": {
+    "campaigns": {
+      "badge": "Zakres działań",
+      "heading": "Sześć silników kampanii. Jeden cel: umówiona wizyta.",
+      "description": "Każdy typ kampanii jest przypisany do konkretnej usługi i posiada miesięczny limit kosztu pozyskania wizyty. Nic nie działa na autopilocie bez analizy zysków i strat.",
+      "items": [
+        {
+          "title": "Reklamy w wyszukiwarce (Search)",
+          "desc": "Kampanie na słowa kluczowe o wysokiej intencji – „dermatolog blisko mnie”, „leczenie trądziku”, „chirurgia Mohsa” – kierujące do dedykowanych stron usług, a nie na stronę główną."
+        },
+        {
+          "title": "Local Service Ads (LSA)",
+          "desc": "Pozyskiwanie pacjentów z gwarancją Google w modelu płatności za leada. Zarządzamy weryfikacją, odznakami i procesem reklamacji niezasadnych zgłoszeń."
+        },
+        {
+          "title": "YouTube i reklamy wideo",
+          "desc": "Prezentacje lekarzy, wyjaśnienia zabiegów i remarketing wideo, które budują zaufanie i rozpoznawalność Twojego gabinetu na etapie podejmowania decyzji."
+        },
+        {
+          "title": "Performance Max",
+          "desc": "Zautomatyzowane reklamy w wyszukiwarce, sieci reklamowej, YouTube i Gmailu – optymalizowane na podstawie realnych konwersji, a nie pozornych sygnałów."
+        },
+        {
+          "title": "Remarketing i RLSA",
+          "desc": "Odzyskaj 92% użytkowników, którzy opuścili stronę bez rezerwacji – segmentacja według zainteresowania konkretną usługą i intencji zapisu na konsultację."
+        },
+        {
+          "title": "Śledzenie konwersji i atrybucja",
+          "desc": "Monitoring połączeń, atrybucja formularzy i import konwersji offline. To umówione wizyty – a nie kliknięcia – sterują stawkami w aukcjach."
+        }
+      ]
+    },
+    "outcomes": {
+      "ariaLabel": "Wymierne efekty",
+      "items": [
+        {
+          "label": "Obniżenie kosztu umówionej wizyty",
+          "value": "38%"
+        },
+        {
+          "label": "Wzrost liczby zapytań w 90 dni",
+          "value": "4.2×"
+        },
+        {
+          "label": "Odzyskany budżet po audycie",
+          "value": "62%"
+        },
+        {
+          "label": "Średni Wynik Jakości Google",
+          "value": "9.1"
+        }
+      ],
+      "testimonial": {
+        "quote": "„Nasza poprzednia agencja raportowała tylko kliknięcia i wyświetlenia. Ci specjaliści pokazują nam liczbę umówionych wizyt i przychody z każdej usługi. Po sześciu miesiącach koszt pozyskania pacjenta spadł o 38%, a my w końcu wyłączyliśmy kampanie, które tylko przepalały budżet.”",
+        "author": "Dr Marcus Halden · Sieć 3 placówek dermatologicznych"
+      }
+    },
+    "wastedSpend": {
+      "badge": "Gdzie uciekają Twoje pieniądze",
+      "heading": "6 sposobów, w jakie gabinety dermatologiczne marnują budżet PPC.",
+      "description": "Zanim zmienimy jakąkolwiek stawkę, przeprowadzamy audyt pod kątem tych błędów. Średnio odzyskujemy 62% marnowanego budżetu w ciągu pierwszych 30 dni.",
+      "items": [
+        "Licytowanie własnej marki, gdy w wynikach organicznych jesteś już na 1. miejscu",
+        "Słowa kluczowe w dopasowaniu przybliżonym generujące ruch na hasła typu „praca w dermatologii”",
+        "Kierowanie całego ruchu na stronę główną zamiast na podstrony konkretnych zabiegów",
+        "Brak listy wykluczających słów kluczowych – konkurencja i osoby szukające pracy zjadają Twój budżet",
+        "Śledzenie konwersji oparte na „wejściu w zakładkę kontakt” zamiast na realnej rezerwacji",
+        "Listy remarketingowe, które nigdy nie wygasają – ściganie pacjentów, którzy już się zapisali"
+      ]
+    },
+    "audiences": {
+      "badge": "Dla kogo pracujemy",
+      "heading": "Strategie dopasowane do modelu Twojej praktyki.",
+      "description": "Gabinet solo, placówka wielooddziałowa, dermatologia dziecięca czy chirurgia Mohsa – każda strategia jest dostosowana do Twoich mocy przerobowych i marży usług.",
+      "items": [
+        {
+          "title": "Indywidualne gabinety",
+          "desc": "Wąski budżet, wysoka wartość pacjenta – kampanie skupione na 2 kluczowych usługach, a nie na wszystkim naraz."
+        },
+        {
+          "title": "Kliniki wielooddziałowe",
+          "desc": "Analiza zyskowności każdej lokalizacji, modyfikatory stawek geograficznych i kontrola budżetu na poziomie konkretnej placówki z jednego konta."
+        },
+        {
+          "title": "Dermatologia dziecięca",
+          "desc": "Lejki sprzedażowe skierowane do rodziców, harmonogramy reklam dostosowane do godzin szkolnych i przyjazne przekazy reklamowe."
+        },
+        {
+          "title": "Chirurgia Mohsa i dermatologia zabiegowa",
+          "desc": "Kampanie wspierające system poleceń, weryfikacja ubezpieczenia i zarządzanie rentownością usług o wysokim CPC."
+        }
+      ]
+    },
+    "services": {
+      "badge": "Obsługiwane obszary leczenia",
+      "heading": "Każda usługa. Każda intencja. Każda wizyta.",
+      "description": "Każdy zakres leczenia ma własną kampanię, landing page i docelowy koszt wizyty – nie wrzucamy całego budżetu do jednego worka.",
+      "list": [
+        "Leczenie trądziku",
+        "Leczenie egzemy",
+        "Leczenie łuszczycy",
+        "Infekcje skórne",
+        "Alergie skórne",
+        "Badanie i leczenie raka skóry",
+        "Ocena znamion i usuwanie medyczne",
+        "Usuwanie cyst i tłuszczaków",
+        "Usuwanie brodawek",
+        "Choroby paznokci",
+        "Diagnostyka i leczenie wypadania włosów",
+        "Choroby skóry głowy",
+        "Leczenie trądziku różowatego",
+        "Przebarwienia i melasma (wskazania medyczne)",
+        "Leczenie blizn (urazowe, operacyjne, powirusowe)",
+        "Leczenie blizn pooparzeniowych",
+        "Bielactwo",
+        "Biopsje skóry i procedury diagnostyczne"
+      ]
+    },
+    "workflow": {
+      "badge": "Jak to działa",
+      "heading": "90 dni do pełnego startu PPC. Potem stały wzrost.",
+      "description": "Przejrzyste etapy powiązane z wizytami i rentownością – zero „magicznych” raportów, których nikt nie rozumie.",
+      "steps": [
+        {
+          "phase": "Faza 01",
+          "title": "Audyt konta i analiza bazowa",
+          "desc": "Analiza historycznych wydatków, mapa marnowanych środków, analiza luk słów kluczowych i ustalenie docelowego kosztu wizyty dla każdej usługi."
+        },
+        {
+          "phase": "Faza 02",
+          "title": "Śledzenie i strony lądowania",
+          "desc": "Przebudowa śledzenia konwersji (połączenia, formularze, dane offline) i stworzenie stron landing page zaprojektowanych pod rezerwacje, a nie przeglądanie."
+        },
+        {
+          "phase": "Faza 03",
+          "title": "Uruchomienie kampanii",
+          "desc": "Search, LSA, Performance Max i remarketing wdrażane etapami – każda sekcja z twardym limitem kosztu pozyskania pacjenta."
+        },
+        {
+          "phase": "Faza 04",
+          "title": "Optymalizacja i skalowanie",
+          "desc": "Cotygodniowe korekty stawek i kreacji. Miesięczne raporty P&L. Wyłączamy to, co nie zarabia; skalujemy to, co przynosi pacjentów."
+        }
+      ]
+    },
+    "whyUs": {
+      "badge": "Dlaczego dermatolodzy wybierają nas",
+      "heading": "Partner w marketingu dermatologicznym – a nie kolejna agencja od wszystkiego.",
+      "items": [
+        {
+          "title": "Wynik finansowy, nie kliknięcia",
+          "desc": "Każda kampania jest rozliczana z liczby umówionych wizyt i przychodu, jaki generuje dla Twojej praktyki."
+        },
+        {
+          "title": "Piksele zgodne z HIPAA",
+          "desc": "Śledzenie połączeń z umową BAA, formularze oczyszczone z danych wrażliwych i remarketing bezpieczny dla prywatności pacjenta."
+        },
+        {
+          "title": "Bidding zależny od wolnych terminów",
+          "desc": "Zmniejszamy intensywność reklam, gdy Twój kalendarz jest pełny – nie płacisz za kliknięcia, jeśli nie masz terminów na przyszły tydzień."
+        },
+        {
+          "title": "Kampanie dedykowane usługom",
+          "desc": "Osobne strategie dla trądziku, Mohsa czy zabiegów estetycznych – każda z własnym celem rentowności."
+        },
+        {
+          "title": "Strony landing page w cenie",
+          "desc": "Każda kampania otrzymuje dopasowaną, przetestowaną stronę lądowania, która skutecznie zamienia ruch w pacjentów."
+        },
+        {
+          "title": "Szybkie cięcia",
+          "desc": "Usuwamy to, co nie działa",
+          "details": "Jeśli kampania przez dwa miesiące nie osiąga celu kosztu wizyty, przesuwamy budżet tam, gdzie są efekty. Żadnej gry na zwłokę."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "Odpowiedzi na najczęstsze pytania właścicieli klinik.",
+    "items": [
+      {
+        "q": "Ile gabinet dermatologiczny powinien wydawać na Google Ads?",
+        "a": "To zależy od zakresu usług i lokalizacji. Dla większości pojedynczych gabinetów zaczynamy od 3 500 – 7 500 USD miesięcznie na media, aby w ciągu 60 dni uzyskać wiarygodne dane o koszcie wizyty. Przed startem publikujemy docelowy koszt CPBV – u nas nie usłyszysz mglistego „to zależy od celów”."
+      },
+      {
+        "q": "Czy śledzenie Google Ads jest zgodne z HIPAA?",
+        "a": "Tak. Konfigurujemy śledzenie tak, aby żadne dane medyczne (PHI) nie trafiały do Google. Korzystamy z platform z umową BAA, a listy remarketingowe budujemy wyłącznie na podstawie anonimowych sygnałów z odwiedzin stron."
+      },
+      {
+        "q": "Czy zarządzacie również reklamami Local Service Ads (LSA)?",
+        "a": "Tak – LSA to często pierwszy kanał, który uruchamiamy. Dbamy o weryfikację w Google, utrzymanie odznaki, monitorowanie leadów i reklamowanie nieuzasadnionych opłat za zapytania, które nie są pacjentami."
+      },
+      {
+        "q": "Kiedy można spodziewać się pierwszych efektów?",
+        "a": "Kampanie Search i LSA zazwyczaj generują pierwsze wizyty w ciągu 21–30 dni. Performance Max potrzebuje około 4–6 tygodni na naukę. Co miesiąc dostarczasz raport w formacie finansowym – bez „upiększonych” statystyk."
+      },
+      {
+        "q": "Czy budujecie również strony lądowania?",
+        "a": "Tak. Google Ads bez dedykowanej strony lądowania to marnowanie pieniędzy. Każda kampania otrzymuje własny landing page zoptymalizowany pod kątem konwersji i bezpieczny zgodnie ze standardami HIPAA."
+      },
+      {
+        "q": "Co jeśli kampania nie przynosi oczekiwanych rezultatów?",
+        "a": "Każda kampania ma z góry ustalony sufit kosztu pozyskania pacjenta. Jeśli nie osiągamy go przez dwa miesiące (i nie jest to kwestia sezonowości), budżet jest przenoszony na bardziej efektywne działania."
+      }
+    ]
+  },
+  "cta": {
+    "badge": "Bezpłatny audyt PPC",
+    "heading": "Sprawdź, gdzie wycieka Twój budżet reklamowy – w 48 godzin.",
+    "description": "Analiza marnowanych wydatków, audyt stron lądowania i priorytetowy plan PPC na 90 dni dopasowany do rentowności Twoich usług. Bezpłatnie, bez zobowiązań.",
+    "audit": "Zamów bezpłatny audyt",
+    "proposal": "Poproś o ofertę"
+  },
+  "stickyMobile": {
+    "text": "Darmowy audyt PPC – 48h",
+    "cta": "Odbierz"
+  },
+  "footerLinks": {
+    "pretext": "Sprawdź również:",
+    "seo": "długofalowe SEO dla dermatologii",
+    "cro": "strony, które realnie konwertują",
+    "email": "budowanie relacji przez e-mail"
+  }
+}

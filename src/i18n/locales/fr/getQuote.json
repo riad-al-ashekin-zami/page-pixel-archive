@@ -1,0 +1,285 @@
+{
+  "meta": {
+    "title": "Demander un devis gratuit — Design de sites web de dermatologie",
+    "description": "Demandez un devis personnalisé pour le site web de votre cabinet de dermatologie. Tarification transparente, proposition sur mesure sous 24h.",
+    "ogTitle": "Demander un devis gratuit — Design de sites web de dermatologie",
+    "ogDescription": "Parlez-nous de votre cabinet et recevez une proposition personnalisée sous 24 heures."
+  },
+  "hero": {
+    "badge": "Devis Gratuit",
+    "title": "Obtenez un",
+    "titleHighlight": "devis personnalisé",
+    "titleSuffix": "pour votre cabinet.",
+    "description": "Expliquez-nous les objectifs de votre cabinet de dermatologie. Nous vous enverrons une proposition sur mesure — avec des tarifs transparents et un plan d'action clair — sous 24 heures.",
+    "features": [
+      "Réponse sous 24h",
+      "Sans engagement",
+      "Tarifs transparents"
+    ],
+    "trust": {
+      "repliesWithin": "Réponse sous",
+      "repliesValue": "24 heures",
+      "launchedValue": "50+",
+      "launchedText": "sites de dermatologie lancés",
+      "focusValue": "100%",
+      "focusText": "spécialisé en dermatologie"
+    }
+  },
+  "sidebar": {
+    "whatHappensNext": {
+      "title": "La suite des événements",
+      "steps": [
+        "Nous analysons votre demande et votre site actuel.",
+        "Notre équipe élabore une proposition et un périmètre sur mesure.",
+        "Vous recevez les tarifs, les délais et les prochaines étapes sous 24h."
+      ]
+    },
+    "preferToTalk": {
+      "title": "Vous préférez échanger ?",
+      "email": "info@dermatologywebsitedesign.com",
+      "chat": "Discuter sur WhatsApp"
+    },
+    "guarantee": {
+      "title": "Garantie 100% Satisfaction",
+      "description": "Aucune obligation, aucune pression. Si notre proposition ne vous convient pas, nous en restons là, tout simplement.",
+      "benefits": [
+        "Zéro spam, jamais",
+        "Données confidentielles",
+        "Annulation à tout moment"
+      ]
+    }
+  },
+  "form": {
+    "success": {
+      "title": "Merci — votre demande a été reçue.",
+      "description": "Un membre de notre équipe vous contactera sous 24 heures avec votre proposition personnalisée."
+    },
+    "progress": {
+      "step": "Étape",
+      "of": "sur",
+      "labels": [
+        "Contact",
+        "Site Web",
+        "Services",
+        "Budget"
+      ]
+    },
+    "sections": {
+      "contactInfo": "Informations de contact",
+      "websiteDetails": "Détails du site web",
+      "helpWith": "Comment pouvons-nous vous aider ?",
+      "budgetTimeline": "Budget et délais"
+    },
+    "fields": {
+      "yourName": {
+        "label": "Votre nom",
+        "placeholder": "Dr. Jean Dupont"
+      },
+      "workEmail": {
+        "label": "E-mail professionnel",
+        "placeholder": "contact@votrecabinet.com"
+      },
+      "phone": {
+        "label": "Téléphone",
+        "placeholder": "+33 (0)1 00 00 00 00",
+        "hint": "(optionnel)"
+      },
+      "practiceName": {
+        "label": "Nom du cabinet",
+        "placeholder": "Dermatologie de l'Étoile"
+      },
+      "currentWebsite": {
+        "label": "Site web actuel",
+        "placeholder": "votrecabinet.com",
+        "hint": "(optionnel)"
+      },
+      "numberOfLocations": {
+        "label": "Nombre de cabinets",
+        "select": "Sélectionner"
+      },
+      "websiteSize": {
+        "label": "Taille du site",
+        "select": "Sélectionner"
+      },
+      "adminAccess": {
+        "label": "Accès admin disponible ?"
+      },
+      "estimatedBudget": {
+        "label": "Budget estimé",
+        "select": "Choisir une tranche"
+      },
+      "urgency": {
+        "label": "Quel est votre délai ?",
+        "select": "Sélectionner l'urgence"
+      },
+      "projectDetails": {
+        "label": "Détails du projet",
+        "placeholder": "Parlez-nous de vos objectifs, de vos cabinets et de vos besoins spécifiques.",
+        "hint": "(optionnel)"
+      }
+    },
+    "servicesText": {
+      "select": "Cochez tout ce qui s'applique. Sélection :",
+      "service": "service",
+      "services": "services"
+    },
+    "buttons": {
+      "back": "Retour",
+      "continue": "Continuer",
+      "sending": "Envoi en cours…",
+      "submit": "Démander mon devis gratuit"
+    },
+    "footerText": "Vos données sont 100% sécurisées. Zéro spam.",
+    "validation": {
+      "name": "Veuillez entrer votre nom",
+      "email": "Veuillez entrer un e-mail valide",
+      "practiceName": "Veuillez entrer le nom du cabinet",
+      "service": "Veuillez sélectionner au moins un service",
+      "locations": "Veuillez sélectionner le nombre de cabinets",
+      "websiteSize": "Veuillez sélectionner la taille du site",
+      "adminAccess": "Veuillez nous informer sur l'accès admin",
+      "budget": "Veuillez sélectionner un budget",
+      "urgency": "Veuillez sélectionner un délai",
+      "completeStep": "Veuillez compléter cette étape",
+      "checkForm": "Veuillez vérifier le formulaire",
+      "wait": "Veuillez patienter {{seconds}}s avant de soumettre à nouveau."
+    }
+  },
+  "options": {
+    "services": [
+      "Design de site web",
+      "Refonte de site web",
+      "Migration de site web",
+      "Galerie Avant/Après",
+      "SEO / SEO Local",
+      "Google Ads / PPC",
+      "Site multi-cabinets",
+      "E-Commerce",
+      "Portail Patient",
+      "Réputation et Avis",
+      "Rédaction de contenu",
+      "Maintenance et Support"
+    ],
+    "locations": [
+      "1 cabinet",
+      "2 à 3 cabinets",
+      "4 à 10 cabinets",
+      "Plus de 10 cabinets"
+    ],
+    "pages": [
+      "1 page",
+      "5 à 8 pages",
+      "10 à 15 pages",
+      "15 à 20 pages",
+      "Plus de 20 pages"
+    ],
+    "admin": [
+      "Oui",
+      "Non",
+      "Je ne sais pas"
+    ],
+    "budgets": [
+      "Moins de 1k $",
+      "1k $ – 2k $",
+      "4k $ – 5k $",
+      "7k $ – 10k $",
+      "Plus de 10k $"
+    ],
+    "urgencies": [
+      "Sous 48 heures",
+      "Sous 7 jours",
+      "Sous 1 mois",
+      "Sous 3 mois",
+      "Sous 6 mois",
+      "Pas de rush / Flexible"
+    ]
+  },
+  "sections": {
+    "whyQuote": {
+      "title": "Pourquoi demander un",
+      "titleHighlight": "devis ?",
+      "subtitle": "Des chiffres concrets, adaptés à votre cabinet — sans aucun engagement.",
+      "items": [
+        {
+          "title": "100% Gratuit et sans engagement",
+          "body": "Obtenez une estimation réelle adaptée à la taille de votre cabinet, votre plateforme et vos objectifs."
+        },
+        {
+          "title": "Adapté à votre pratique",
+          "body": "Chaque cabinet de dermatologie est unique. Devis basé sur votre CMS, vos lieux d'exercice et vos services."
+        },
+        {
+          "title": "Tarification transparente",
+          "body": "Nous détaillons chaque tâche, délai et livrable — vous savez exactement ce pour quoi vous payez."
+        },
+        {
+          "title": "Réponse rapide",
+          "body": "Notre équipe analyse votre demande immédiatement et vous répond sous 24 heures maximum."
+        }
+      ]
+    },
+    "whatWeCanHelpWith": {
+      "title": "Ce que nous pouvons",
+      "titleHighlight": "faire pour vous",
+      "subtitle": "Nos devis couvrent tout le spectre des services digitaux pour la dermatologie.",
+      "footer": "Un besoin spécifique ? Mentionnez-le simplement — nous personnalisons chaque projet.",
+      "categories": [
+        {
+          "label": "Design",
+          "items": [
+            "Design de site sur mesure",
+            "Refonte de site web",
+            "Migration de site web",
+            "Sites multi-cabinets",
+            "Galeries Avant/Après",
+            "Portails Patient"
+          ]
+        },
+        {
+          "label": "Croissance",
+          "items": [
+            "SEO Dermatologie",
+            "SEO Local",
+            "Google Ads / PPC",
+            "E-Commerce",
+            "Rédaction de contenu",
+            "Analytics et CRO"
+          ]
+        },
+        {
+          "label": "Maintenance",
+          "items": [
+            "Réputation et Avis",
+            "Optimisation de la vitesse",
+            "Hébergement conforme HIPAA",
+            "Maintenance et Support"
+          ]
+        }
+      ]
+    },
+    "howItWorks": {
+      "title": "Comment ça",
+      "titleHighlight": "marche",
+      "subtitle": "De la demande à la proposition en quatre étapes simples.",
+      "stepLabel": "Étape",
+      "items": [
+        {
+          "title": "Remplissez le formulaire",
+          "body": "Dites-nous en plus sur votre cabinet, votre site et vos besoins actuels."
+        },
+        {
+          "title": "Analyse d'experts",
+          "body": "Notre équipe analyse votre site actuel, sa santé SEO et vos exigences techniques."
+        },
+        {
+          "title": "Recevez votre devis",
+          "body": "Obtenez une proposition détaillée et personnalisée — claire, simple et transparente."
+        },
+        {
+          "title": "Démarrage en confiance",
+          "body": "Validez le plan et nous commençons avec un processus d'onboarding structuré."
+        }
+      ]
+    }
+  }
+}

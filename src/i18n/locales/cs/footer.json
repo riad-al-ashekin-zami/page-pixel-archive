@@ -1,0 +1,99 @@
+{
+  "cta": {
+    "eyebrow": "Bezplatný audit webových stránek",
+    "headingLead": "Jste připraveni rozvíjet svou",
+    "headingHighlight": "dermatologickou praxi",
+    "headingTailShort": "?",
+    "headingTailLong": " online?",
+    "descriptionShort": "Získejte zdarma audit webových stránek a vlastní plán růstu – bez jakýchkoli nákladů.",
+    "descriptionLong": "Získejte zdarma audit webových stránek. Zkontrolujeme váš web, identifikujeme mezery v růstu a sestavíme plán – bez nákladů.",
+    "button": "Získejte bezplatnou cenovou nabídku",
+    "trustedBy": "Důvěřují dermatologové po celém světě"
+  },
+  "brand": {
+    "logoAlt": "Dermatology Website Design",
+    "homeAria": "Dermatology Website Design — Domů",
+    "tagline": "Webové stránky vytvořené výhradně pro dermatology a kožní kliniky. Webové stránky kompatibilní s HIPAA, optimalizované pro SEO a zaměřené na konverze, navržené tak, aby pomohly praxi růst online.",
+    "whatsappLabel": "Chatujte s námi na WhatsApp",
+    "whatsappCta": "Chatovat na WhatsApp",
+    "location": "Slouží dermatologickým praxím po celém světě"
+  },
+  "columns": {
+    "services": "Služby",
+    "company": "Společnost",
+    "resources": "Zdroje",
+    "legal": "Právní"
+  },
+  "services": {
+    "websiteDesign": "Webdesign",
+    "websiteRedesign": "Redesign webových stránek",
+    "websiteMigration": "Migrace webových stránek",
+    "websiteManagement": "Správa webových stránek",
+    "ecommerce": "E-commerce webové stránky",
+    "socialMedia": "Správa sociálních médií"
+  },
+  "company": {
+    "about": "O nás",
+    "process": "Náš proces",
+    "caseStudies": "Případové studie",
+    "contact": "Kontaktujte nás"
+  },
+  "resources": {
+    "blog": "Blog",
+    "faq": "Často kladené dotazy",
+    "audit": "Bezplatný audit webových stránek",
+    "auditBadge": "ZDARMA",
+    "checklists": "Kontrolní seznamy",
+    "patientPortal": "Pacientský portál",
+    "addOns": "Doplňkové služby"
+  },
+  "legal": {
+    "serviceAgreement": "Smlouva o poskytování služeb",
+    "privacy": "Zásady ochrany osobních údajů",
+    "terms": "Smluvní podmínky",
+    "refund": "Zásady pro vrácení peněz",
+    "cookies": "Zásady používání souborů cookie"
+  },
+  "hipaaBadge": {
+    "title": "Kompatibilní s HIPAA",
+    "note": "Soukromí a zabezpečení jsou součástí každého webu"
+  },
+  "trustBadges": {
+    "hipaa": {
+      "label": "Kompatibilní s HIPAA",
+      "note": "Design zaměřený na soulad s předpisy"
+    },
+    "ada": {
+      "label": "Přístupné podle ADA",
+      "note": "Kompatibilní s WCAG 2.1"
+    },
+    "ssl": {
+      "label": "Zabezpečeno SSL",
+      "note": "256bitové šifrování"
+    },
+    "seo": {
+      "label": "Optimalizováno pro SEO",
+      "note": "Vyšší pozice na Google"
+    },
+    "mobile": {
+      "label": "Přizpůsobeno pro mobilní zařízení",
+      "note": "Perfektní na všech zařízeních"
+    },
+    "speed": {
+      "label": "Rychlé načítání",
+      "note": "Skóre Lighthouse 95+"
+    }
+  },
+  "bottom": {
+    "copyright": "© 2026 {{brand}}.",
+    "brand": "Dermatology Website Design",
+    "rights": "Všechna práva vyhrazena.",
+    "madeWith": "Vyrobeno s",
+    "madeFor": "pro dermatologické praxe",
+    "backToTop": "Zpět nahoru"
+  },
+  "compliance": {
+    "heading": "Oznámení o souladu s předpisy",
+    "body": "Vytváříme webové stránky kompatibilní s HIPAA a implementujeme osvědčené bezpečnostní opatření. Klienti jsou odpovědní za zajištění toho, aby jejich praxe splňovala všechny platné zdravotnické předpisy a právní požadavky, včetně získání podepsané dohody BAA (Business Associate Agreement), kde jsou zpracovávány chráněné zdravotní informace (PHI). Obsah této stránky je určen pouze pro informační účely a nepředstavuje lékařské, právní ani finanční poradenství. Výsledky služeb v oblasti marketingu, SEO a konverzí se liší v závislosti na praxi, trhu a úsilí a nejsou zaručeny. Všechny názvy, loga a ochranné známky třetích stran patří jejich příslušným vlastníkům a jsou použity pouze pro identifikaci."
+  }
+}

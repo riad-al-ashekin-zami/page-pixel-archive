@@ -1,0 +1,108 @@
+{
+  "meta": {
+    "title": "Cookie-Richtlinie — Einsatz von Cookies",
+    "description": "Erfahren Sie, welche Cookies und ähnliche Technologien wir auf unserer Website einsetzen, warum wir dies tun und wie Sie diese steuern können.",
+    "og": {
+      "title": "Cookie-Richtlinie — Einsatz von Cookies",
+      "description": "Erfahren Sie, welche Cookies und ähnliche Technologien wir auf unserer Website einsetzen, warum wir dies tun und wie Sie diese steuern können."
+    },
+    "twitter": {
+      "title": "Cookie-Richtlinie — Einsatz von Cookies",
+      "description": "Erfahren Sie, welche Cookies und ähnliche Technologien wir auf unserer Website einsetzen, warum wir dies tun und wie Sie diese steuern können."
+    }
+  },
+  "layout": {
+    "skipToContent": "Zum Inhalt springen"
+  },
+  "hero": {
+    "badge": "Rechtliches · Cookie-Richtlinie",
+    "title": "Cookie-Richtlinie",
+    "description": "Welche Cookies und ähnliche Technologien wir verwenden, wofür sie dienen und wie Sie diese verwalten können. Lesen Sie hierzu auch unsere",
+    "privacyPolicyLink": "Datenschutzerklärung",
+    "lastUpdated": "Zuletzt aktualisiert:",
+    "lastUpdatedDate": "14. Juli 2026"
+  },
+  "sidebar": {
+    "contents": "Inhalt",
+    "navAriaLabel": "Abschnittsnavigation"
+  },
+  "sections": {
+    "whatAreCookies": {
+      "title": "1. Was sind Cookies?",
+      "body": "Cookies sind kleine Textdateien, die beim Besuch einer Website auf Ihrem Endgerät gespeichert werden. Sie helfen der Seite, Ihre Aktionen und Präferenzen über einen längeren Zeitraum zu speichern. Wir nutzen zudem ähnliche Technologien wie Local Storage und Pixel-Tags – in dieser Richtlinie zusammenfassend als \"Cookies\" bezeichnet."
+    },
+    "types": {
+      "title": "2. Arten der verwendeten Cookies",
+      "strictlyNecessary": {
+        "label": "Zwingend erforderlich:",
+        "description": "Erforderlich für Grundfunktionen wie Seitennavigation, Sicherheit und das Speichern Ihrer Einwilligungseinstellungen. Diese können nicht deaktiviert werden."
+      },
+      "performance": {
+        "label": "Performance & Analyse:",
+        "description": "Helfen uns zu verstehen, wie Besucher mit der Website interagieren (z. B. aufgerufene Seiten, Verweildauer, Traffic-Quellen), um unser Angebot stetig zu verbessern."
+      },
+      "functional": {
+        "label": "Funktional:",
+        "description": "Speichern von Ihnen getroffene Auswahlen (wie Sprache oder Region), um eine persönlichere Nutzererfahrung zu ermöglichen."
+      },
+      "marketing": {
+        "label": "Marketing:",
+        "description": "Werden von uns oder unseren Partnern genutzt, um die Effektivität von Kampagnen zu messen und – sofern zutreffend – relevante Inhalte auf anderen Websites anzuzeigen."
+      }
+    },
+    "firstVsThird": {
+      "title": "3. First-Party- vs. Third-Party-Cookies",
+      "firstPartyLabel": "First-Party-Cookies",
+      "firstPartyDescription": "werden direkt von dieser Website gesetzt.",
+      "thirdPartyLabel": "Third-Party-Cookies",
+      "thirdPartyDescription": "werden von Diensten gesetzt, die wir einbinden – wie etwa Analyse-Tools, Video-Player, Terminbuchungssysteme oder Werbeanbieter. Die Drittanbieter sind für die Nutzung der erhobenen Daten selbst verantwortlich; bitte beachten Sie deren jeweilige Cookie- und Datenschutzrichtlinien."
+    },
+    "howWeUse": {
+      "title": "4. Wie wir Cookies einsetzen",
+      "items": [
+        "Sicherstellung der Sicherheit und Funktionalität der Website.",
+        "Speicherung Ihrer Einwilligungen und Präferenzen.",
+        "Messung des Traffics und Analyse des Nutzerverhaltens.",
+        "Optimierung von Inhalten, Performance und Nutzererlebnis."
+      ]
+    },
+    "manage": {
+      "title": "5. Verwaltung Ihrer Cookies",
+      "intro": "Sie können Cookies auf verschiedene Weise steuern:",
+      "browserSettings": {
+        "label": "Browser-Einstellungen:",
+        "description": "Die meisten Browser ermöglichen das Blockieren oder Löschen von Cookies – Details finden Sie in der Hilfe Ihres Browsers."
+      },
+      "optOutTools": {
+        "label": "Opt-out-Tools:",
+        "description": "Viele Analyse- und Werbeanbieter bieten eigene Mechanismen zur Abmeldung (Opt-out) an."
+      },
+      "consentBanner": {
+        "label": "Einwilligungs-Banner:",
+        "description": "Sofern gesetzlich erforderlich, können Sie Ihre Auswahl jederzeit über das Banner oder den Einstellungs-Link auf dieser Website anpassen."
+      },
+      "footer": "Das Blockieren bestimmter Cookies kann die Funktionalität einiger Website-Bereiche beeinträchtigen."
+    },
+    "doNotTrack": {
+      "title": "6. Do Not Track (DNT)",
+      "body": "Einige Browser bieten ein \"Do Not Track\"-Signal an. Da es derzeit keinen einheitlichen Industriestandard für den Umgang mit diesen Signalen gibt, reagiert unsere Website aktuell nicht auf DNT-Einstellungen."
+    },
+    "changes": {
+      "title": "7. Änderungen dieser Richtlinie",
+      "body": "Wir behalten uns vor, diese Cookie-Richtlinie anzupassen, wenn sich unsere Verfahren oder die rechtlichen Rahmenbedingungen ändern. Das oben genannte Datum der letzten Aktualisierung gibt den aktuellen Stand wieder."
+    },
+    "contact": {
+      "title": "8. Kontakt",
+      "body": "Haben Sie Fragen zur Verwendung unserer Cookies? Kontaktieren Sie uns über unsere",
+      "contactLink": "Kontaktseite",
+      "privacySuffix": " oder lesen Sie in unserer",
+      "privacyLink": "Datenschutzerklärung",
+      "privacyEnd": "nach, wie wir mit personenbezogenen Daten umgehen."
+    }
+  },
+  "cta": {
+    "title": "Fragen zu unseren Cookies?",
+    "description": "Wir erläutern Ihnen gerne, welche Technologien wir einsetzen und warum.",
+    "button": "Kontakt aufnehmen"
+  }
+}

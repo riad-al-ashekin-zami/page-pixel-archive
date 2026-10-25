@@ -1,0 +1,333 @@
+{
+  "meta": {
+    "title": "About Us — Dermatology Website Design Agency",
+    "description": "We build HIPAA-aware websites and growth marketing exclusively for dermatology practices. Meet the team behind the results.",
+    "ogTitle": "About Us — Dermatology Website Design",
+    "ogDescription": "A niche agency serving dermatology practices with premium websites, SEO, and patient acquisition.",
+    "breadcrumbHome": "Home",
+    "breadcrumbAbout": "About Us"
+  },
+  "hero": {
+    "kicker": "About Dermatology Website Design",
+    "h1": "The specialists behind <1>dermatology-only websites.</1>",
+    "p": "We build Experience, Expertise, Authority, and Trust (E-E-A-T) into every dermatology site — Google's core signal for healthcare (YMYL) niches. Not a generalist agency. The specialist.",
+    "ctaPrimary": "Work with us",
+    "ctaSecondary": "See services",
+    "hipaa": "HIPAA-aware",
+    "ada": "ADA accessible",
+    "rating": "4.9/5 client rating",
+    "imgAlt": "Board-certified dermatologist in a modern clinic — representing the practices we build websites for",
+    "badgeKicker": "Built for dermatology",
+    "badgeText": "E · E · A · T — Google's YMYL signal"
+  },
+  "socialProof": {
+    "kicker": "Trusted by dermatology practices · Featured in"
+  },
+  "stats": {
+    "launched": "Dermatology sites launched",
+    "niche": "Niche focused",
+    "performance": "Avg Lighthouse score",
+    "audit": "Free audit turnaround"
+  },
+  "missionVision": {
+    "mission": {
+      "tag": "Our Mission",
+      "title": "Help dermatologists grow without the marketing headache.",
+      "body": "We combine premium design, ethical SEO, and honest reporting so practice owners can focus on patients — not on chasing agencies."
+    },
+    "vision": {
+      "tag": "Our Vision",
+      "title": "The most trusted digital partner in dermatology.",
+      "body": "One niche. Deep expertise. Transparent pricing. We want to be the obvious choice for any dermatology practice that cares about doing things right."
+    }
+  },
+  "values": {
+    "kicker": "What we stand for",
+    "header": "Values that shape every project.",
+    "cta": "See how we work",
+    "compliance": {
+      "title": "Compliance First",
+      "description": "HIPAA-aware architecture, ADA accessibility, and secure hosting are baked in — never bolted on."
+    },
+    "focus": {
+      "title": "Dermatology Only",
+      "description": "We say no to every industry outside dermatology. That focus is why our sites convert 3× better."
+    },
+    "partnership": {
+      "title": "Real Partnerships",
+      "description": "Month-to-month care plans. No lock-in contracts. We earn your trust every single month."
+    },
+    "craft": {
+      "title": "Craft Over Volume",
+      "description": "We take on a handful of practices at a time so every project gets senior attention end to end."
+    }
+  },
+  "timeline": {
+    "h2": "Our story <1>so far.</1>",
+    "p": "A short timeline of how we got here — scroll to move through the years.",
+    "kicker": "Our story so far",
+    "hint": "Year",
+    "2019": {
+      "title": "The idea",
+      "description": "After watching dermatologists get burned by generic agencies, we set out to build something better — for one niche only."
+    },
+    "2021": {
+      "title": "First 10 practices",
+      "description": "Refined our conversion playbook with solo derms and small clinics across the US."
+    },
+    "2023": {
+      "title": "Growth marketing arm",
+      "description": "Added SEO, PPC, and reputation systems so clients could compound results, not just launch a website."
+    },
+    "2026": {
+      "title": "50+ practices, one focus",
+      "description": "Still dermatology only. Still senior-led. Still transparent pricing."
+    }
+  },
+  "team": {
+    "kicker": "The Team",
+    "header": "Senior-led, specialty-focused.",
+    "p": "Every project is delivered by senior designers, developers, and marketers — no juniors handed the keys.",
+    "design": {
+      "name": "Design Studio",
+      "role": "Brand & UI",
+      "bio": "Designers obsessed with clean, trust-building interfaces tailored to medical dermatology."
+    },
+    "engineering": {
+      "name": "Engineering",
+      "role": "Web & Performance",
+      "bio": "Senior developers shipping fast, accessible, HIPAA-aware websites on a modern stack."
+    },
+    "growth": {
+      "name": "Growth Team",
+      "role": "SEO & Ads",
+      "bio": "Specialists who understand how patients search — local SEO, ads, and CRO built for practice growth."
+    }
+  },
+  "process": {
+    "kicker": "Our Process",
+    "header": "Six steps, <1>predictable delivery.</1>",
+    "p": "Every project moves through the same disciplined stages — scroll to walk through them.",
+    "hint": "Step",
+    "step1": {
+      "title": "Discover",
+      "body": "We audit your current site, map competitors, and pin down the exact goals your practice needs to hit."
+    },
+    "step2": {
+      "title": "Strategy & Proposal",
+      "body": "A written plan lands in your inbox — scope, sitemap, timeline, and transparent pricing. No calls required."
+    },
+    "step3": {
+      "title": "Design",
+      "body": "Senior designers craft a derm-native visual system — trust-first, on-brand, and conversion-tuned."
+    },
+    "step4": {
+      "title": "Build",
+      "body": "Modern, accessible code with treatment CMS, HIPAA-aware forms, and Core Web Vitals baked in."
+    },
+    "step5": {
+      "title": "QA & Compliance",
+      "body": "Independent QA sweeps every page for accessibility, HIPAA safety, cross-device polish, and SEO integrity."
+    },
+    "step6": {
+      "title": "Launch & Care",
+      "body": "Smooth migration with a redirect map, then ongoing updates, monitoring and improvements — never a stale site."
+    }
+  },
+  "clients": {
+    "kicker": "Who We Work With",
+    "header": "Built for every kind of <1>dermatology practice.</1>",
+    "p": "From solo practitioners to multi-location groups — we tailor the build to how your practice runs.",
+    "solo": {
+      "title": "Solo Dermatologists",
+      "body": "Focused, high-trust sites that establish credibility and drive consult bookings from day one."
+    },
+    "multi": {
+      "title": "Multi-location Clinics",
+      "body": "Location pages, unified branding, and local SEO built to scale across every clinic address."
+    },
+    "aesthetic": {
+      "title": "Aesthetic Clinics",
+      "body": "Treatment menus, before/after galleries and booking flows built for aesthetic dermatology."
+    },
+    "pediatric": {
+      "title": "Pediatric Dermatology",
+      "body": "Warm, parent-friendly design with clear condition guides and easy appointment paths."
+    },
+    "mohs": {
+      "title": "Mohs & Surgical Derm",
+      "body": "Procedure-first pages, referral workflows and outcomes-focused patient education."
+    },
+    "groups": {
+      "title": "Dermatology Groups",
+      "body": "Provider directories, referral pathways, and enterprise-grade content workflows."
+    }
+  },
+  "compliance": {
+    "kicker": "Trust & Compliance",
+    "header": "Your patients' privacy, protected <1>by design.</1>",
+    "p": "HIPAA-aware architecture, NDA-friendly engagements, and BAA-ready hosting. Compliance is baked into how we work — not bolted on.",
+    "hipaa": {
+      "title": "HIPAA-aware builds",
+      "body": "Forms, hosting and data flows designed with PHI safety in mind."
+    },
+    "baa": {
+      "title": "BAA-ready hosting",
+      "body": "Business Associate Agreements available with every launch."
+    },
+    "nda": {
+      "title": "NDA-friendly",
+      "body": "Standard on every engagement — files, comms and access scoped tight."
+    },
+    "phi": {
+      "title": "No PHI in analytics",
+      "body": "Tracking configured to keep protected data out of third-party tools."
+    }
+  },
+  "tech": {
+    "kicker": "Technology & Expertise",
+    "header": "A focused, reliable <1>modern stack.</1>",
+    "p": "Chosen for stability, performance and long-term maintainability — not novelty.",
+    "stack": {
+      "title": "Next.js & WordPress",
+      "body": "Modern React or headless CMS, matched to your team."
+    },
+    "hosting": {
+      "title": "HIPAA-aware hosting",
+      "body": "Managed, monitored, BAA-eligible infrastructure."
+    },
+    "seo": {
+      "title": "Technical SEO",
+      "body": "Schema, hierarchy and indexability from day one."
+    },
+    "cwv": {
+      "title": "Core Web Vitals",
+      "body": "Performance budgets and asset pipelines dialed in."
+    },
+    "cms": {
+      "title": "Treatment CMS",
+      "body": "Structured content models built for derm services."
+    },
+    "cro": {
+      "title": "Analytics & CRO",
+      "body": "Privacy-safe measurement and conversion tuning."
+    },
+    "a11y": {
+      "title": "Accessibility (WCAG)",
+      "body": "AA-level standards baked into components."
+    },
+    "care": {
+      "title": "Ongoing care",
+      "body": "Updates, backups, uptime — never a stale site."
+    }
+  },
+  "structure": {
+    "kicker": "Operational Structure",
+    "header": "Real departments, <1>not a freelancer pool.</1>",
+    "p": "Six specialized teams, one dedicated project manager — clear roles, clear ownership, no hand-offs to strangers.",
+    "status": "Active",
+    "pm": {
+      "title": "Project Management",
+      "body": "Dedicated PM owning timeline, scope and communication."
+    },
+    "content": {
+      "title": "Content",
+      "body": "Medical-review-ready copy that sounds like your practice."
+    }
+  },
+  "faq": {
+    "kicker": "FAQ",
+    "header": "Common questions, <1>answered.</1>",
+    "q1": {
+      "q": "Is my dermatology website HIPAA-compliant out of the box?",
+      "a": "Yes. Forms, hosting and data flows are designed with PHI safety in mind, and a Business Associate Agreement (BAA) is available on request. We also configure analytics to keep protected data out of third-party tools."
+    },
+    "q2": {
+      "q": "How long does a typical build take?",
+      "a": "Most single-practice sites launch in 6–10 weeks from kickoff. Multi-location or migration-heavy projects usually run 10–14 weeks. You'll get a written timeline with milestones before we start."
+    },
+    "q3": {
+      "q": "Who owns the website and content after launch?",
+      "a": "You do — 100%. Code, content, assets, hosting accounts and domain remain fully yours. There's no lock-in and no proprietary CMS to escape."
+    },
+    "q4": {
+      "q": "Do you handle migrations from our current site?",
+      "a": "Yes. We migrate content, redirects, media and SEO equity from WordPress, Squarespace, Wix, or custom stacks — with a redirect map so rankings don't drop."
+    },
+    "q5": {
+      "q": "What does pricing look like?",
+      "a": "Fixed-scope projects start in the low five figures depending on page count and integrations. Ongoing care plans start at a low monthly retainer. You can see current bands on our Pricing page."
+    },
+    "q6": {
+      "q": "Do you provide maintenance after launch?",
+      "a": "Yes. Every launch includes a care plan option covering updates, backups, uptime monitoring, security patches and monthly content changes."
+    },
+    "q7": {
+      "q": "Can you work under an NDA?",
+      "a": "Absolutely. NDAs are standard on every engagement, with scoped access, private workspaces and confidential handling by default."
+    }
+  },
+  "cta": {
+    "kicker": "Free Website Audit",
+    "header": "Ready to grow your <1>dermatology practice?</1>",
+    "p": "A senior team, a clear plan, and a website built to bring in real patients — starting with a free 48-hour audit of your current site.",
+    "primary": "Request Free Audit",
+    "secondary": "Talk to us",
+    "next": "What happens next",
+    "step1": {
+      "title": "Free 48-hour audit",
+      "body": "We review your current site — SEO, UX, HIPAA, performance."
+    },
+    "step2": {
+      "title": "Custom proposal",
+      "body": "A written plan with priorities, timeline and pricing — delivered to your inbox."
+    },
+    "step3": {
+      "title": "Launch in 6–10 weeks",
+      "body": "Design, build, HIPAA-aware QA, and a smooth migration."
+    },
+    "footer": {
+      "hipaa": "HIPAA-aware",
+      "nda": "NDA-friendly",
+      "ownership": "You own everything"
+    }
+  },
+  "footerLinks": {
+    "text": "You might also find helpful:",
+    "portfolio": "a look at our recent work",
+    "process": "how we run every engagement",
+    "pricing": "what an investment looks like"
+  },
+  "testimonials": {
+    "ariaLabel": "Show testimonial {{index}}",
+    "ariaStars": "5 out of 5 stars",
+    "t1": {
+      "quote": "They rebuilt our site and our new-patient bookings jumped 62% in 90 days.",
+      "name": "Dr. Alicia Moreno",
+      "role": "Board-certified Dermatologist"
+    },
+    "t2": {
+      "quote": "Finally an agency that actually understands HIPAA, YMYL and dermatology SEO.",
+      "name": "Dr. Rahul Menon",
+      "role": "Mohs & Cosmetic Dermatology"
+    },
+    "t3": {
+      "quote": "Clean design, fast site, and a team that answers on the same day. Rare.",
+      "name": "Dr. Emily Chen",
+      "role": "Pediatric Dermatology"
+    },
+    "p1": {
+      "quote": "They rebuilt our site, doubled our consult bookings in 90 days, and actually understand medical dermatology. No agency we tried before came close.",
+      "name": "Dr. Rachel Meyers, MD, FAAD"
+    },
+    "p2": {
+      "quote": "Every page reads like a real dermatologist wrote it. Our treatment inquiries jumped within weeks, and the site finally reflects the level of care we deliver.",
+      "name": "Dr. Jonathan Pierce, MD"
+    },
+    "p3": {
+      "quote": "Clear pricing, zero fluff, and a team that pushed back when it mattered. The relaunch has been the single best marketing decision we've made.",
+      "name": "Dr. Priya Shah, MD"
+    }
+  },
+  "skip": "Skip to content"
+}

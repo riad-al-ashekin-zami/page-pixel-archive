@@ -1,0 +1,327 @@
+{
+  "services": {
+    "eyebrow": "Nossos Serviços",
+    "headingLead": "Tudo que sua clínica precisa para",
+    "headingHighlight": "crescer online.",
+    "intro": "Desde sites personalizados até SEO e aquisição de pacientes, cada serviço é projetado para ajudar clínicas de dermatologia a atrair, converter e reter mais pacientes online.",
+    "exploreAriaLabel": "Explorar serviços {{title}}",
+    "exploreCta": "Explorar {{title}}",
+    "mostPopular": "Mais Popular",
+    "footerLead": "Não sabe por onde começar?",
+    "footerHighlight": "Criaremos um plano personalizado para sua clínica.",
+    "footerCta": "Obtenha um Orçamento Gratuito",
+    "items": {
+      "customWebsite": {
+        "title": "Design de Site Personalizado",
+        "description": "Sites de dermatologia focados em conversão, construídos em torno da sua marca e jornada do paciente."
+      },
+      "redesign": {
+        "title": "Redesign de Site",
+        "description": "Modernize seu site existente com tempos de carregamento mais rápidos, melhor UX e maior conversão."
+      },
+      "migration": {
+        "title": "Migração de Site",
+        "description": "Migre seu site existente sem interrupções e sem perda de valor de SEO."
+      },
+      "multiLocation": {
+        "title": "Clínicas Multiunidades",
+        "description": "Arquitetura escalável e SEO local para clínicas com múltiplos escritórios."
+      },
+      "ecommerce": {
+        "title": "Sites de E-commerce",
+        "description": "Venda produtos de cuidados com a pele online com checkout seguro e inventário integrado."
+      },
+      "patientPortal": {
+        "title": "Portal do Paciente",
+        "description": "Portais de paciente seguros, compatíveis com HIPAA, para registro, prontuários e comunicação."
+      },
+      "maintenance": {
+        "title": "Cuidado e Manutenção de Site",
+        "description": "Atualizações contínuas, backups, segurança e monitoramento de desempenho para sua tranquilidade."
+      },
+      "seo": {
+        "title": "SEO para Dermatologistas",
+        "description": "Classifique-se para pesquisas de alta intenção e traga pacientes qualificados para sua clínica."
+      },
+      "googleAds": {
+        "title": "Google Ads e PPC",
+        "description": "Aquisição de pacientes previsível e mensurável com campanhas de anúncios otimizadas."
+      }
+    }
+  },
+  "pricing": {
+    "eyebrow": "Preços Transparentes",
+    "heading": "Sem taxas ocultas. Sem contratos longos.",
+    "intro": "A maioria das agências esconde seus preços. Nós não — veja exatamente o que você pagará antes mesmo de falar conosco.",
+    "mostPopular": "Mais Popular",
+    "startingAt": "A partir de ",
+    "seeDetails": "Ver Detalhes",
+    "fullBreakdown": "Ver detalhamento completo de preços e comparação de recursos",
+    "tiers": {
+      "starter": {
+        "name": "Inicial",
+        "pages": "1 Página",
+        "description": "Perfeito para novos dermatologistas que estão lançando seu primeiro site profissional."
+      },
+      "clinicPro": {
+        "name": "Clínica Pro",
+        "pages": "5–8 Páginas",
+        "description": "Ideal para clínicas solo e pequenas, prontas para atrair mais agendamentos de pacientes."
+      },
+      "practiceGrowth": {
+        "name": "Crescimento da Clínica",
+        "pages": "10–15 Páginas",
+        "description": "Construído para clínicas em crescimento que precisam de SEO mais forte, conversões e crescimento a longo prazo."
+      },
+      "enterprise": {
+        "name": "Empresarial",
+        "pages": "Mais de 15 Páginas / Personalizado",
+        "description": "Soluções personalizadas para clínicas multiunidades, grupos de dermatologia empresarial e marcas de e-commerce de cuidados com a pele."
+      }
+    }
+  },
+  "approach": {
+    "eyebrow": "A Metodologia",
+    "headingLead": "Uma abordagem sistemática para",
+    "headingHighlight": "o crescimento sustentável de pacientes.",
+    "intro": "Um framework de seis fases, projetado com precisão específica para clínicas de dermatologia de alto crescimento. Clique em qualquer etapa para explorar.",
+    "phaseLabel": "Fase",
+    "stepLabel": "Passo {{n}}",
+    "prevAria": "Passo anterior",
+    "nextAria": "Próximo passo",
+    "deliverables": "{{count}} entregáveis",
+    "whatHappens": "O que acontece nesta fase",
+    "seeFullProcess": "Ver processo completo",
+    "steps": {
+      "discovery": {
+        "title": "Descoberta e Acordo",
+        "short": "Descoberta",
+        "description": "Começa quando você nos contata. Revisamos sua clínica, alinhamos objetivos e escopo, e finalizamos um acordo claro — para que ambos os lados saibam exatamente o que será entregue antes do início de qualquer trabalho.",
+        "details": [
+          "Contato inicial e revisão de requisitos",
+          "Escopo, cronograma e entregáveis alinhados",
+          "Proposta e preços transparentes",
+          "Acordo assinado para prosseguir"
+        ]
+      },
+      "onboarding": {
+        "title": "Onboarding",
+        "short": "Onboarding",
+        "description": "Após a confirmação do pagamento, você é oficialmente integrado. Coletamos tudo o que precisamos — ativos de marca, direção de conteúdo e acesso — por meio de uma transição suave e guiada.",
+        "details": [
+          "Pagamento confirmado e projeto iniciado",
+          "Ativos de marca e conteúdo coletados — ou criados e sugeridos por nós, se você não os tiver",
+          "Acesso e contas configurados com segurança",
+          "Roteiro do projeto compartilhado com sua equipe"
+        ]
+      },
+      "design": {
+        "title": "Design",
+        "short": "Design",
+        "description": "Traduzimos a autoridade da sua clínica em uma linguagem visual premium e alinhada à marca — focada na confiança, clareza e agendamento de pacientes sem atritos.",
+        "details": [
+          "Design visual alinhado à marca para cada página chave",
+          "UX focada em conversão para fluxos de agendamento",
+          "Layouts acessíveis e mobile-first"
+        ]
+      },
+      "build": {
+        "title": "Construção",
+        "short": "Construção",
+        "description": "Construímos seu site manualmente com SEO, desempenho e estrutura de nível médico incorporados — para que esteja pronto para classificar e converter desde o primeiro dia.",
+        "details": [
+          "Páginas codificadas manualmente e extremamente rápidas",
+          "Marcação de esquema para serviços de dermatologia",
+          "Otimização de Core Web Vitals (pontuações acima de 95)",
+          "SEO on-page para cada serviço e localização"
+        ]
+      },
+      "launch": {
+        "title": "Lançamento",
+        "short": "Lançamento",
+        "description": "Seu site entra no ar com uma migração limpa e sem tempo de inatividade — análises, rastreamento e verificações de conformidade totalmente em vigor desde o primeiro visitante.",
+        "details": [
+          "Controle de qualidade completo em dispositivos e navegadores",
+          "Revisão de conformidade com HIPAA",
+          "Análises, rastreamento e atribuição de chamadas",
+          "Migração sem tempo de inatividade e mapeamento 301"
+        ]
+      },
+      "growth": {
+        "title": "Crescimento e Revisão",
+        "short": "Crescimento",
+        "description": "Após o lançamento, coletamos seu feedback e refinamos conforme necessário. A partir daí, focamos no crescimento composto — conteúdo, otimização e relatórios mês a mês.",
+        "details": [
+          "Revisão e refinamentos pós-lançamento",
+          "Conteúdo e otimização contínuos de SEO",
+          "CRO e ajuste de desempenho contínuos",
+          "Relatórios mensais transparentes"
+        ]
+      }
+    }
+  },
+  "whyChoose": {
+    "eyebrow": "Por Que Nós",
+    "eyebrowSuffix": "— DermatologyWebsiteDesign.com",
+    "headingLead": "A Única Agência",
+    "headingHighlight": "100% Focada em Dermatologia",
+    "intro": "Agências de web genéricas constroem sites. Nós construímos fluxos de pacientes — projetados especificamente para como as clínicas de dermatologia crescem.",
+    "reasons": {
+      "pricing": {
+        "title": "Preços Transparentes",
+        "description": "Cada pacote tem um preço publicado. Não são necessárias chamadas de descoberta apenas para saber nossas taxas. 75% dos concorrentes escondem seus preços — nós não."
+      },
+      "niche": {
+        "title": "Nicho Exclusivo de Dermatologia",
+        "description": "Não construímos sites de restaurantes ou lojas de e-commerce. Conhecemos a conformidade com HIPAA, regras de fotos de antes/depois e SEO para procedimentos cosméticos por dentro e por fora."
+      },
+      "noLockIn": {
+        "title": "Sem Fidelidade a Longo Prazo",
+        "description": "Planos de cuidado mensais. Sem contratos de agência de 12 meses que o prendem. Conquistamos seu negócio a cada mês."
+      },
+      "rank": {
+        "title": "Construído para Classificar no Google",
+        "description": "Cada site é entregue com SEO on-page adequado, marcação de esquema, otimização de Core Web Vitals e uma estratégia de conteúdo — não como um complemento, mas como uma base."
+      }
+    }
+  },
+  "whySwitch": {
+    "eyebrow": "Por Que as Clínicas Mudam para Nós",
+    "headingLead": "Nem todas as agências de site são",
+    "headingHighlight": "iguais.",
+    "intro": "Veja exatamente o que muda ao trabalhar com uma equipe que constrói apenas para dermatologia.",
+    "colWhatMatters": "O Que Importa",
+    "colOthers": "A Maioria das Agências de Web",
+    "colUs": "Dermatology Website Design",
+    "mobileOthersLabel": "A maioria das agências",
+    "mobileUsLabel": "Nossa Abordagem",
+    "rows": {
+      "focus": {
+        "matter": "Foco na Indústria",
+        "others": "Atendem a todas as indústrias",
+        "us": "100% focado em Dermatologia"
+      },
+      "seo": {
+        "matter": "Estratégia de SEO",
+        "others": "SEO Geral",
+        "us": "SEO específico para Dermatologia"
+      },
+      "hipaa": {
+        "matter": "Conhecimento de HIPAA",
+        "others": "Experiência limitada em saúde",
+        "us": "Consciente da conformidade desde o primeiro dia"
+      },
+      "goal": {
+        "matter": "Objetivo do Site",
+        "others": "Site bonito",
+        "us": "Mais consultas de pacientes"
+      },
+      "afterLaunch": {
+        "matter": "Após o Lançamento",
+        "others": "Projeto concluído",
+        "us": "Suporte e crescimento contínuos"
+      },
+      "pricing": {
+        "matter": "Preços",
+        "others": "Geralmente orçamentos personalizados",
+        "us": "Preços publicados transparentes"
+      }
+    }
+  },
+  "testimonials": {
+    "eyebrow": "Depoimentos",
+    "headingLead": "Confiado por",
+    "headingHighlight": "clínicas de dermatologia modernas.",
+    "prevAria": "Depoimentos anteriores",
+    "nextAria": "Próximos depoimentos",
+    "goToSlide": "Ir para o slide {{n}}",
+    "items": {
+      "sarahM": {
+        "quote": "Nossa clínica viu um aumento de 40% nas consultas de novos pacientes em 3 meses após o lançamento do nosso novo site. A configuração de conformidade com HIPAA foi tratada sem problemas — não tivemos que nos preocupar com nada.",
+        "role": "Dermatologista Certificada",
+        "practice": "RS Institute"
+      },
+      "rajK": {
+        "quote": "Eu já havia trabalhado com três agências de web antes — nenhuma delas entendia de dermatologia. Esses caras sabiam exatamente quais páginas de tratamento eu precisava, como estruturar a galeria de antes/depois, e o site agora está classificado na página 1.",
+        "role": "Dermatologista Estética",
+        "practice": "LA Dermatology"
+      },
+      "jenniferL": {
+        "quote": "O preço foi claro desde o início, o cronograma de construção foi preciso, e eles até nos ajudaram a montar nossa loja de produtos para cuidados com a pele. O melhor investimento que nossa clínica fez em anos.",
+        "role": "Gerente da Clínica",
+        "practice": "SC Associates"
+      },
+      "ameliaC": {
+        "quote": "Eles reescreveram cada página de serviço de uma forma que realmente soa como nossa clínica. Os pedidos de consulta através do site mais que dobraram desde o relançamento.",
+        "role": "Diretora Médica",
+        "practice": "ND Group"
+      },
+      "hanaS": {
+        "quote": "Lindo, rápido e genuinamente alinhado à marca. Os pacientes comentam sobre o site constantemente — ele define o tom antes mesmo de eles entrarem na porta.",
+        "role": "Dermatologista Principal",
+        "practice": "MS Clinic"
+      },
+      "elliotN": {
+        "quote": "Relatórios mensais transparentes, progresso real de SEO e uma equipe de design que argumenta quando é importante. Exatamente o parceiro que esperávamos encontrar.",
+        "role": "Sócio-Diretor",
+        "practice": "SD Partners"
+      }
+    }
+  },
+  "freeAudit": {
+    "eyebrow": "Auditoria de Site Gratuita",
+    "headingLead": "Obtenha sua auditoria gratuita",
+    "headingHighlight": "de site de dermatologia.",
+    "intro": "Analisaremos seu site atual, identificaremos oportunidades de SEO, velocidade, design e conversão, e enviaremos um plano de ação personalizado em até 48 horas — totalmente gratuito.",
+    "features": {
+      "actionPlan": "Plano de ação personalizado",
+      "delivered": "Entregue em 48 horas",
+      "free": "Sem compromisso, 100% gratuito",
+      "insights": "Insights de SEO, velocidade e conversão"
+    },
+    "form": {
+      "emailLabel": "Seu e-mail profissional",
+      "emailPlaceholder": "voce@suaclinica.com",
+      "websiteLabel": "URL do site atual",
+      "websiteOptional": "(opcional)",
+      "websitePlaceholder": "suaclinica.com",
+      "submit": "Obtenha Minha Auditoria Gratuita",
+      "sending": "Enviando…",
+      "privacy": "Nunca compartilharemos seu e-mail. Sem spam, nunca.",
+      "errorInvalidEmail": "Por favor, digite um e-mail profissional válido",
+      "errorInvalidInput": "Entrada inválida",
+      "errorGeneric": "Desculpe, algo deu errado. Por favor, tente novamente.",
+      "successTitle": "Solicitação recebida.",
+      "successMessage": "Sua auditoria personalizada está a caminho. Enviaremos seu plano de ação por e-mail em até 48 horas."
+    }
+  },
+  "faqSnippet": {
+    "eyebrow": "Mais Frequentes",
+    "headingLead": "Respostas às",
+    "headingHighlight": "perguntas que mais ouvimos.",
+    "intro": "Uma olhada rápida no que as clínicas de dermatologia perguntam antes de trabalhar conosco. Precisa de mais detalhes? O FAQ completo tem tudo.",
+    "seeAll": "Ver todas as FAQs",
+    "items": {
+      "timeline": {
+        "q": "Quanto tempo leva para lançar um novo site de dermatologia?",
+        "a": "A maioria dos projetos entra no ar em 4 a 6 semanas — desde a descoberta até o lançamento. Os prazos dependem da prontidão do conteúdo e do escopo, e compartilhamos um roteiro claro semana a semana durante o onboarding."
+      },
+      "hipaa": {
+        "q": "Vocês lidam com a conformidade com HIPAA e privacidade do paciente?",
+        "a": "Sim. Cada construção é compatível com HIPAA: hospedagem segura, formulários criptografados, integrações prontas para BAA para contato e registro, e uma revisão de conformidade antes do lançamento."
+      },
+      "ranking": {
+        "q": "Meu novo site realmente me ajudará a classificar no Google?",
+        "a": "O SEO é projetado desde o primeiro dia — esquema específico de dermatologia, páginas de serviço e localização, Core Web Vitals de 95+, e uma estrutura on-page construída para obter classificações para as pesquisas que geram agendamentos."
+      },
+      "migration": {
+        "q": "Vocês podem migrar meu site existente sem perder tráfego?",
+        "a": "Realizamos uma migração sem tempo de inatividade com mapeamento completo de redirecionamento 301, metadados preservados e uma auditoria de rastreamento pós-lançamento — para que as classificações e o tráfego de referência sejam transferidos de forma limpa."
+      },
+      "support": {
+        "q": "Como é o suporte contínuo após o lançamento?",
+        "a": "Você recebe um ponto de contato dedicado, relatórios mensais, CRO contínuo e otimização de SEO, além de manutenção técnica — para que o site continue gerando resultados, sem ficar obsoleto."
+      }
+    }
+  }
+}

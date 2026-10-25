@@ -1,0 +1,329 @@
+{
+  "meta": {
+    "title": "Ihotautien ennen ja jälkeen -galleria — Ensiluokkainen tapausesittely",
+    "description": "Premium-tason HIPAA-yhteensopiva ennen ja jälkeen -galleria ihotautilääkäreille. Vertailuliukusäädin, älykkäät suodattimet vaivan ja lääkärin mukaan, aikajananäkymät sekä ajanvarauskehotteet.",
+    "ogTitle": "Ihotautien ennen ja jälkeen -galleria — Ensiluokkainen tapausesittely",
+    "ogDescription": "Interaktiivinen vertailuliukusäädin, HIPAA-yhteensopiva suostumus, älykkäät suodattimet ja konversio-optimoidut ajanvarauskehotteet – suunniteltu ihotautiklinikoille.",
+    "jsonLdName": "DermatologyWebsiteDesign.com",
+    "jsonLdServiceType": "Ihotautien ennen ja jälkeen -gallerian suunnittelu"
+  },
+  "hero": {
+    "badge": "Ennen ja jälkeen -galleria",
+    "headingMain": "Näytä muutokset.",
+    "headingAccent": "Kasvata varauksia.",
+    "description": "Premium-tasoinen, HIPAA-yhteensopiva ennen ja jälkeen -galleria ihotautiklinikoille – varustettuna vertailuliukusäätimillä, älykkäillä suodattimilla, aikajananäkymillä ja nopealla ajanvarauksella.",
+    "ctaBuild": "Rakenna galleriani",
+    "ctaAudit": "Ilmainen galleria-analyysi",
+    "features": [
+      "HIPAA-yhteensopiva suostumus",
+      "Vertailuliukusäädin",
+      "Älykkäät suodattimet",
+      "60fps mobiilissa"
+    ],
+    "imageAlt": "Aknehoidon ennen ja jälkeen -kuva — 3 kuukauden tulos",
+    "imageCaption": "Vedä kahvasta — katso testi live-näkymässä.",
+    "imageStats": "Akne · 3 kuukautta · Dr. Vasquez"
+  },
+  "stats": [
+    {
+      "value": "2500+",
+      "label": "Dokumentoitua tapausta käytössä olevissa gallerioissa"
+    },
+    {
+      "value": "100%",
+      "label": "HIPAA-yhteensopiva suostumuksen hallinta jokaisessa latauksessa"
+    },
+    {
+      "value": "60fps",
+      "label": "Sulava liukusäädin mobiilissa, tabletilla ja tietokoneella"
+    },
+    {
+      "value": "95+",
+      "label": "Keskimääräinen Lighthouse-tulos galleriasivuilla"
+    }
+  ],
+  "pillars": {
+    "heading": "Jokainen yksityiskohta on suunniteltu konvertoimaan.",
+    "subheading": "Kuusi pilaria, jotka erottavat ammattimaisen ihotautigallerian tavallisesta kuvaruudukosta.",
+    "items": [
+      {
+        "title": "Interaktiivinen liukusäädin",
+        "desc": "Ennen/jälkeen-vertailut sulavalla 60fps-käyttökokemuksella kaikilla laitteilla."
+      },
+      {
+        "title": "Älykäs suodatus",
+        "desc": "Suodata vaivan, hoidon, lääkärin, ihotyypin ja Fitzpatrick-asteikon mukaan — välittömät tulokset."
+      },
+      {
+        "title": "Studiotason kuvasto",
+        "desc": "Yhtenäinen valaistus, etäisyys ja kulma-oppaat varmistavat, että jokainen muutos näyttää aidolta."
+      },
+      {
+        "title": "HIPAA-yhteensopiva suostumus",
+        "desc": "Sisäänrakennettu potilaan suostumuksen hallinta, peruutusmahdollisuus ja auditointiloki jokaisessa tapauksessa."
+      },
+      {
+        "title": "Aikajanan virstanpylväät",
+        "desc": "Viikko 2 · Kuukausi 1 · Kuukausi 3 · Kuukausi 6 -vertailut pitkäkestoisille hoidoille."
+      },
+      {
+        "title": "Lääkärin nimeäminen",
+        "desc": "Jokainen tapaus linkittyy hoitavaan lääkäriin — lisää luottamusta ja vahvistaa asiantuntijabrändiä."
+      }
+    ]
+  },
+  "gallery": {
+    "heading": "Galleria käytössä.",
+    "subheading": "Interaktiivisia esimerkkejä. Suodata vaivan mukaan — jokainen kortti on vertailtavissa.",
+    "filterLabel": "Suodata",
+    "filters": [
+      "Kaikki",
+      "Akne",
+      "Maksaläiskät",
+      "Ruusufinni",
+      "Arpien hoito",
+      "Hiustenlähtö",
+      "Valkopälvi"
+    ],
+    "card": {
+      "beforeLabel": "Ennen",
+      "afterLabel": "Jälkeen",
+      "ariaLabel": "Ennen ja jälkeen -vertailuliukusäädin",
+      "dragAriaLabel": "Vedä vertaillaksesi",
+      "bookCTA": "Varaa tämä hoito"
+    },
+    "cases": [
+      {
+        "concern": "Akne",
+        "months": "3 kuukautta",
+        "severity": "Keskivaikea",
+        "provider": "Dr. Vasquez",
+        "desc": "Retinoidi + LED -yhdistelmähoito, PIH-pigmentaation paraneminen dokumentoitu 12 viikon kohdalla."
+      },
+      {
+        "concern": "Maksaläiskät",
+        "months": "4 kuukautta",
+        "severity": "Syvä kutanidi",
+        "provider": "Dr. Okafor",
+        "desc": "Kolmitehoinen pigmenttivoide + tiukka SPF-suojaus. Fitzpatrick IV."
+      },
+      {
+        "concern": "Ruusufinni",
+        "months": "6 kuukautta",
+        "severity": "Papulopustulaarinen",
+        "provider": "Dr. Caldwell",
+        "desc": "Verisuonilaser + suun kautta otettava lääkitys — punoitus vähentynyt poskilla ja nenässä."
+      },
+      {
+        "concern": "Arpien hoito",
+        "months": "5 kuukautta",
+        "severity": "Atrofinen aknearpi",
+        "provider": "Dr. Vasquez",
+        "desc": "Fraktionaalinen laserhoitosarja (4x). Ihon rakenteen korjaus ilman pigmenttimuutoksia."
+      },
+      {
+        "concern": "Hiustenlähtö",
+        "months": "9 kuukautta",
+        "severity": "Androgeneettinen (Ludwig II)",
+        "provider": "Dr. Okafor",
+        "desc": "PRP-hoito + lääketieteellinen hoito — hiustiheyden kasvu ohimoilla ja päälaella."
+      },
+      {
+        "concern": "Valkopälvi",
+        "months": "12 kuukautta",
+        "severity": "Segmentaalinen kasvoilla",
+        "provider": "Dr. Caldwell",
+        "desc": "Kapeakaistainen UVB + paikallinen kalsineuriinin estäjä. Pigmentin palautuminen etenee."
+      }
+    ]
+  },
+  "timeline": {
+    "badge": "Aikajananäkymä",
+    "heading": "Seuraa hoidon etenemistä viikko viikolta.",
+    "subheading": "Hoitoihin, joiden tulokset eivät näy heti — aikajana pitää potilaan odotukset realistisina ja toiveikkaina.",
+    "caseDetails": "Maksaläiskät · Fitzpatrick IV · Dr. Vasquez",
+    "caseDesc": "Kolmitehoinen hoito-ohjelma ja päivittäinen SPF-suoja. Virstanpylväät dokumentoitu viikoilla 0, 4, 12 ja 24 — potilaat näkevät koko prosessin, eivät vain lopputulosta.",
+    "stages": [
+      {
+        "label": "Viikko 0",
+        "short": "Lähtötilanne"
+      },
+      {
+        "label": "Viikko 4",
+        "short": "Ensimmäiset tulokset"
+      },
+      {
+        "label": "Viikko 12",
+        "short": "Selvä käännekohta"
+      },
+      {
+        "label": "Viikko 24",
+        "short": "Pysyvä tulos"
+      }
+    ]
+  },
+  "trustBar": {
+    "label": "Näillä ihotautiklinikoilla on käytössään",
+    "marks": [
+      {
+        "name": "Ihotautisivustot",
+        "sub": "50+ julkaistu"
+      },
+      {
+        "name": "HIPAA-valmis",
+        "sub": "Oletusarvoisesti"
+      },
+      {
+        "name": "Käyttöaika-SLA",
+        "sub": "99,99 %"
+      },
+      {
+        "name": "Vasteaika",
+        "sub": "< 15 min"
+      },
+      {
+        "name": "Joustavuus",
+        "sub": "Ei sitoutumispakkoa"
+      },
+      {
+        "name": "Täysi omistusoikeus",
+        "sub": "Koodi + sisältö"
+      }
+    ]
+  },
+  "audiences": {
+    "heading": "Rakennettu jokaiselle ihotautiklinikalle.",
+    "subheading": "Yksityisvastaanotot, monitoimipisteklinikat ja kirurgiset yksiköt — yksi ratkaisu jokaiselle.",
+    "items": [
+      {
+        "label": "Yksityislääkärit",
+        "desc": "Esittele parhaat tuloksesi gallerialla, joka muuttaa kiinnostuksen konsultaatioiksi."
+      },
+      {
+        "label": "Monitoimipisteklinikat",
+        "desc": "Toimipiste- ja lääkärikohtainen suodatus takaa, että jokainen saa ansaitsemansa näkyvyyden."
+      },
+      {
+        "label": "Lasten ihotautioppi",
+        "desc": "Vanhemmille turvalliset suostumusprosessit, ja rauhallinen visuaalinen tahti."
+      },
+      {
+        "label": "Mohs- & kirurginen dermatologia",
+        "desc": "Kirurgiset tulosgalleriat paranemisvaiheiden aikajanoilla ja ammattimaisilla muistiinpanoilla."
+      }
+    ]
+  },
+  "medicalServices": {
+    "heading": "Kaikki ihotautipalvelut dokumentoituna.",
+    "subheading": "Valmiit hoitoprotokollat ja kuvausmallit yleisimpiin ihotautien hoitoihin.",
+    "list": [
+      "Aknen hoito",
+      "Ekseeman hoito",
+      "Psoriasiksen hoito",
+      "Ihoinfektioiden hoito",
+      "Ihoallergioiden hoito",
+      "Ihosyöpäseulonta",
+      "Luomien tarkastus ja poisto",
+      "Kystien ja lipoomien poisto",
+      "Syylien poisto",
+      "Kynsivaivojen hoito",
+      "Hiustenlähdön hoito",
+      "Hiuspohjan sairauksien hoito",
+      "Ruusufinnin hoito",
+      "Hyperpigmentaatio ja maksaläiskät",
+      "Arpien hoito",
+      "Palovamma-arpien hoito",
+      "Valkopälven hoito",
+      "Ihobiopsiat ja diagnostiikka"
+    ]
+  },
+  "flow": {
+    "heading": "Kuvasta varattuun konsultaatioon.",
+    "subheading": "Neliportainen työnkulku, jonka kuka tahansa vastaanottohenkilökunnasta voi hoitaa.",
+    "steps": [
+      {
+        "num": "01",
+        "title": "Tapauksen kirjaus",
+        "desc": "Strukturoitu valokuvausohje — kulma, etäisyys, valaistus ja neutraali tausta jokaisella käynnillä."
+      },
+      {
+        "num": "02",
+        "title": "Suostumus ja luokittelu",
+        "desc": "Potilas allekirjoittaa digitaalisesti suostumuksen (web, printti, some erikseen). Tapaukset luokitellaan vaivan ja lääkärin mukaan."
+      },
+      {
+        "num": "03",
+        "title": "Kuratiointi ja julkaisu",
+        "desc": "Tiimisi julkaisee tapauksen galleriaan kahdella klikkauksella. Liukusäädin ja aikajana ovat automaattisia."
+      },
+      {
+        "num": "04",
+        "title": "Konversio ajanvaraukseksi",
+        "desc": "Jokaisessa galleriakortissa on ajanvarauspainike, joka avaa suoraan oikean palvelun ja esitietolomakkeen."
+      }
+    ]
+  },
+  "testimonials": {
+    "heading": "Ihotautilääkärit, jotka luottavat meihin.",
+    "subheading": "Aitoja klinikoita, aitoja tuloksia gallerian avulla.",
+    "items": [
+      {
+        "name": "Dr. Ethan Caldwell, MD",
+        "role": "LA Dermatology",
+        "quote": "Ennen ja jälkeen -galleriamme on nyt sivustomme toiseksi suosituin sivu. Konsultaatiovaraukset kolminkertaistuivat 90 päivässä."
+      },
+      {
+        "name": "Dr. Anika Vasquez, MD",
+        "role": "CM Surgical",
+        "quote": "Pelkkä suostumusprosessin sujuvuus teki uudistuksesta vaivan arvoisen. Voimme vihdoin julkaista kirurgisia tuloksia ilman pelkoa lakisääteisistä sanktioista."
+      },
+      {
+        "name": "Dr. Ibrahim Okafor, MD",
+        "role": "RS Institute · 6 toimipistettä",
+        "quote": "Suodatus lääkärin mukaan muutti kaiken. Jokaisella lääkärillämme on nyt oma portfolio, jota he voivat ylpeänä näyttää potilaille."
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Kysymyksiä galleriasta?",
+    "subheading": "Lue lisää HIPAA-yhteensopivuudesta, suostumuksista ja suorituskyvystä.",
+    "items": [
+      {
+        "q": "Miten hoidatte HIPAA-vaatimukset ja potilaan suostumuksen?",
+        "a": "Jokainen tapaus vaatii aikaleimatun digitaalisen suostumuksen, jossa annetaan erilliset luvat verkko-, printti- ja somekäyttöön. Peruutusprosessi poistaa tapauksen 24 tunnissa. Kaikki tiedot tallennetaan auditointilokiin."
+      },
+      {
+        "q": "Voinko suodattaa tapauksia lääkärin, hoidon ja ihotyypin mukaan?",
+        "a": "Kyllä. Jokainen tapaus luokitellaan vaivan, hoitoprotokollan, Fitzpatrick-tyypin, vaikeusasteen ja lääkärin mukaan. Tulokset ovat jaettavissa suorilla linkeillä."
+      },
+      {
+        "q": "Millaista kuvanlaatua ja yhtenäisyyttä vaaditaan?",
+        "a": "Tarjoamme kuvausohjeet (kulma, etäisyys, tausta, valaistus) ja tarvittaessa koulutuksen. Järjestelmämme huomauttaa poikkeavista kuvista ennen niiden julkaisua."
+      },
+      {
+        "q": "Toimiiko liukusäädin mobiililaitteilla?",
+        "a": "Kyllä. Kosketusohjaus ja hiiden välillä siirtyminen on optimoitu mobiiliin 60fps-nopeudella. Liukusäätimen painikkeet noudattavat saavutettavuusohjeita."
+      },
+      {
+        "q": "Voimmeko näyttää kirurgisia tuloksia (Mohs, poistot)?",
+        "a": "Kyllä — käytössä on vaiheittaiset paranemisaikajanat ja tarvittaessa sisällön varoitusportti. Ammattimaiset tapausmuistiinpanot täydentävät kokonaisuutta."
+      },
+      {
+        "q": "Hidastaako galleria sivustoni latausaikaa?",
+        "a": "Ei. Kuvat ladataan viiveellä (lazy-load), tarjoillaan AVIF/WebP-muodossa CDN-verkosta ja optimoidaan tehokkaasti. Galleriat ylläpitävät yleensä yli 95 pisteen Lighthouse-tuloksen."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Valmis muuttamaan tulokset tuotoksi?",
+    "subheading": "Hanki ihotautioppiin erikoistunut ennen ja jälkeen -galleria — HIPAA-yhteensopiva, salamannopea ja suunniteltu tuomaan lisää potilaita.",
+    "btnQuote": "Pyydä tarjous",
+    "btnContact": "Ota yhteyttä"
+  },
+  "footerLinks": {
+    "prefix": "Lue myös:",
+    "link1": "verkkosivusuunnittelu ihotautiklinikoille",
+    "link2": "sosiaalisen median hyödyntäminen tuloksissa",
+    "link3": "aitoja kasvutarinoita klinikoilta"
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "meta": {
+    "title": "Política de Privacidade — Como Tratamos a Sua Informação",
+    "description": "Saiba como o nosso estúdio recolhe, utiliza, partilha e protege os dados dos visitantes, potenciais clientes e clínicas de dermatologia com quem colaboramos.",
+    "og": {
+      "title": "Política de Privacidade — Como Tratamos a Sua Informação",
+      "description": "Saiba como o nosso estúdio recolhe, utiliza, partilha e protege os dados dos visitantes, potenciais clientes e clínicas de dermatologia com quem colaboramos."
+    },
+    "twitter": {
+      "title": "Política de Privacidade — Como Tratamos a Sua Informação",
+      "description": "Saiba como o nosso estúdio recolhe, utiliza, partilha e protege os dados dos visitantes, potenciais clientes e clínicas de dermatologia com quem colaboramos."
+    }
+  },
+  "layout": {
+    "skipToContent": "Saltar para o conteúdo"
+  },
+  "hero": {
+    "badge": "Avisos Legais · Política de Privacidade",
+    "title": "Política de Privacidade",
+    "description": "Como recolhemos, utilizamos, partilhamos e protegemos as informações dos visitantes, potenciais clientes e das clínicas com quem trabalhamos.",
+    "lastUpdated": "Última atualização:",
+    "lastUpdatedDate": "14 de julho de 2026"
+  },
+  "sections": {
+    "sidebar": {
+      "title": "Índice",
+      "navAriaLabel": "Navegação por secções"
+    },
+    "overview": {
+      "title": "1. Visão Geral",
+      "body": "Esta Política de Privacidade explica como o nosso estúdio (\"nós\") recolhe e utiliza informações quando visita o nosso website, submete um formulário, solicita um orçamento ou nos contrata para um projeto. Esta página é mantida por nós para responder a questões comuns de privacidade sobre o nosso site de marketing e parcerias com clientes; não constitui uma certificação nem aconselhamento jurídico."
+    },
+    "informationWeCollect": {
+      "title": "2. Informações que Recolhemos",
+      "items": {
+        "provided": {
+          "label": "Informações fornecidas por si:",
+          "text": "nome, nome da clínica, e-mail, telefone, detalhes do projeto e qualquer outro dado enviado através de formulários, e-mail ou ferramentas de agendamento."
+        },
+        "automatic": {
+          "label": "Recolhidas automaticamente:",
+          "text": "endereço IP, tipo de dispositivo e navegador, páginas visualizadas, URL de referência e localização aproximada — recolhidos através de cookies e ferramentas de analytics."
+        },
+        "projectData": {
+          "label": "Dados do projeto do cliente:",
+          "text": "credenciais, ativos de marca e conteúdos partilhados connosco para a prestação de serviços no âmbito de uma proposta assinada."
+        }
+      }
+    },
+    "howWeUse": {
+      "title": "3. Como Utilizamos a Informação",
+      "items": [
+        "Responder a pedidos de contacto, preparar orçamentos e enviar propostas.",
+        "Executar, faturar e prestar suporte aos serviços para os quais nos contratou.",
+        "Melhorar o nosso website, conteúdos e serviços.",
+        "Enviar atualizações ocasionais ou newsletters, caso tenha dado o seu consentimento (opt-in).",
+        "Cumprir obrigações legais, fiscais e de arquivo de registos."
+      ]
+    },
+    "noPhi": {
+      "title": "4. Informações de Saúde Protegidas (PHI)",
+      "body": "Este website de marketing não se destina à recolha de Informações de Saúde Protegidas. Por favor, não envie nomes de pacientes, registos médicos ou detalhes clínicos através dos nossos formulários de contacto. Nos projetos em que a nossa prestação de serviços envolva intencionalmente o tratamento de PHI (portais de pacientes, formulários de admissão clínica), celebraremos um Business Associate Agreement distinto antes da funcionalidade entrar em produção."
+    },
+    "sharing": {
+      "title": "5. Como Partilhamos a Informação",
+      "body": "Não vendemos as suas informações pessoais. Partilhamos dados apenas com prestadores de serviços que nos auxiliam na operação — alojamento, e-mail, analytics, agendamento, processamento de pagamentos e CRM — e apenas na medida estritamente necessária para o desempenho das suas funções. Poderemos também divulgar informação quando exigido por lei ou para proteger os nossos direitos."
+    },
+    "cookies": {
+      "title": "6. Cookies e Analytics",
+      "body": "Utilizamos cookies e tecnologias semelhantes para funções essenciais do site e para medir a forma como o site é utilizado. Pode controlar os cookies através das definições do seu navegador; bloqueá-los poderá afetar o comportamento e funcionalidade do site."
+    },
+    "retention": {
+      "title": "7. Retenção de Dados",
+      "body": "Conservamos a informação apenas durante o tempo necessário para prestar serviços, cumprir obrigações legais, resolver disputas e aplicar os nossos contratos. Os dados de pedidos de contacto de potenciais clientes que não cheguem a concretizar a adjudicação são eliminados periodicamente."
+    },
+    "security": {
+      "title": "8. Segurança",
+      "body": "Utilizamos salvaguardas administrativas, técnicas e físicas adequadas para proteger a informação que detemos — incluindo transporte encriptado (HTTPS), controlos de acesso e revisão de fornecedores. Nenhum método de transmissão ou armazenamento é 100% seguro, pelo que não podemos garantir segurança absoluta."
+    },
+    "yourRights": {
+      "title": "9. Os Seus Direitos e Escolhas",
+      "body": "Dependendo da sua localização, poderá ter o direito de aceder, corrigir, eliminar ou portar os seus dados pessoais, bem como opor-se ou restringir certas utilizações. Para exercer estes direitos, contacte-nos através dos detalhes abaixo. Pode também cancelar a subscrição de e-mails de marketing a qualquer momento através do link incluído na mensagem."
+    },
+    "thirdPartyLinks": {
+      "title": "10. Links de Terceiros",
+      "body": "O nosso site pode conter links para websites e ferramentas de terceiros. As práticas de privacidade desses sites são regidas pelas suas próprias políticas — recomendamos que as reveja antes de submeter qualquer informação."
+    },
+    "children": {
+      "title": "11. Privacidade Infantil",
+      "body": "O nosso site destina-se a um público empresarial e não é direcionado a crianças com menos de 13 anos. Não recolhemos deliberadamente informações pessoais de crianças."
+    },
+    "changes": {
+      "title": "12. Alterações a esta Política",
+      "body": "Podemos atualizar esta Política de Privacidade periodicamente. Sempre que o fizermos, alteraremos a data de \"Última atualização\" no topo da página. Quaisquer alterações materiais serão destacadas no nosso site."
+    },
+    "contact": {
+      "title": "13. Contacte-nos",
+      "paragraph": "Questões ou pedidos sobre esta política ou sobre os seus dados? Contacte-nos através da nossa página de contacto e responderemos num prazo razoável.",
+      "link": "página de contacto"
+    }
+  },
+  "cta": {
+    "title": "Tem alguma questão sobre privacidade?",
+    "subtitle": "Responderemos ao seu pedido num prazo razoável.",
+    "buttonLabel": "Contacte-nos"
+  }
+}

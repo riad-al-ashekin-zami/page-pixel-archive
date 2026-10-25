@@ -1,0 +1,458 @@
+{
+  "meta": {
+    "title": "Dermatology E-Commerce Website Design | HIPAA-Aware Skincare Storefronts",
+    "description": "Premium dermatology e-commerce website design. HIPAA-aware Rx + OTC catalog, subscription refills, provider-approved skincare kits, and Product-schema SEO. Built for derm practices, medical spas, and DSOs.",
+    "og": {
+      "title": "Dermatology E-Commerce Website Design | HIPAA-Aware Skincare Storefronts",
+      "description": "Sell medical-grade skincare, gate Rx products behind provider approval, run subscriptions, and rank product pages in Google — one governed storefront for your dermatology brand."
+    },
+    "jsonLd": {
+      "serviceType": "Dermatology E-Commerce Website Design",
+      "name": "DW Design",
+      "offerDescription": "Dermatology e-commerce website design — starting price"
+    }
+  },
+  "hero": {
+    "badge": "HIPAA-Aware · Rx-Ready · Subscription-Native",
+    "title": "Dermatology E-Commerce Website Design for practices that also sell.",
+    "description": "A storefront your dispensary deserves. Rx and OTC split correctly, provider-signed kits at checkout, subscription refills patients actually keep — and Product-schema SEO your service pages could never earn.",
+    "cta": {
+      "plan": "Plan My Storefront",
+      "audit": "Free Storefront Audit"
+    },
+    "stats": {
+      "dispensaries": "Dispensaries taken online",
+      "retention": "Subscription retention @ 90d",
+      "lighthouse": "Lighthouse on PDPs"
+    },
+    "mockups": {
+      "otc": "OTC",
+      "rxGated": "Rx-Gated",
+      "requirement": "Provider approval required",
+      "revenueLift": "Avg. lift",
+      "revenueContext": "product revenue in 6 months post-launch",
+      "alt": "Premium dermatology e-commerce storefront with skincare products"
+    }
+  },
+  "estimator": {
+    "eyebrow": "Interactive · Revenue Estimator",
+    "title": "Model your first quarter online.",
+    "description": "Move the sliders. Assumes 22% of active patients buy online within 6 months and 35% of those convert to a subscription — the median of the last 42 derm storefronts we've launched.",
+    "labels": {
+      "patients": "Active patients:",
+      "aov": "Average order value:",
+      "projected": "Projected",
+      "quarterlyHeader": "First-quarter storefront revenue",
+      "monthly": "Est. monthly revenue",
+      "buyers": "Online buyers / 6 mo",
+      "oneTime": "One-time OTC revenue (Q1)",
+      "subscription": "Subscription revenue (Q1)",
+      "discount": "Blended subscriber discount",
+      "subscribers90": "Est. subscribers by 90 days",
+      "disclaimer": "Estimates based on median performance across 42 launched derm storefronts. Actual results depend on catalog, pricing, and existing dispensary volume."
+    },
+    "chart": {
+      "recurring": "Recurring",
+      "ariaLabel": "Revenue split donut chart"
+    }
+  },
+  "sections": {
+    "audiences": {
+      "eyebrow": "Who this is for",
+      "title": "Built for dermatology brands with a real product line.",
+      "items": [
+        {
+          "label": "Solo Dermatologists",
+          "desc": "Selling your dispensary online alongside in-office pickup."
+        },
+        {
+          "label": "Multi-Location Clinics",
+          "desc": "One catalog, inventory per office, ship-or-pickup at checkout."
+        },
+        {
+          "label": "Pediatric Dermatology",
+          "desc": "Parent-friendly catalogs with age-appropriate product filtering."
+        },
+        {
+          "label": "Mohs & Surgical Networks",
+          "desc": "Post-procedure kit subscriptions timed to recovery milestones."
+        }
+      ]
+    },
+    "problemSolution": {
+      "eyebrow": "What we fix",
+      "title": "Most derm storefronts are a Shopify default with a logo.",
+      "description": "Rx blocked from web sales, no provider signatures, no subscriptions patients keep, no schema. We rebuild the commerce layer around how dermatology actually dispenses.",
+      "before": "Before",
+      "after": "After",
+      "items": [
+        {
+          "before": "Dispensary only sells in-office",
+          "after": "24/7 online storefront + refills"
+        },
+        {
+          "before": "Rx products blocked from web sales",
+          "after": "Provider-gated Rx checkout"
+        },
+        {
+          "before": "Product pages hidden from Google",
+          "after": "Product schema + Merchant Center"
+        },
+        {
+          "before": "One-time sales, no retention",
+          "after": "Subscriptions with 60%+ retention"
+        },
+        {
+          "before": "HIPAA risk from patient data on site",
+          "after": "Anonymized IDs + BAA-covered stack"
+        },
+        {
+          "before": "Patients guess which SPF to buy",
+          "after": "Provider-signed kits at checkout"
+        }
+      ]
+    },
+    "pillars": {
+      "eyebrow": "The commerce system",
+      "title": "Six pillars behind every derm storefront we ship.",
+      "items": [
+        {
+          "title": "Rx / OTC Split Catalog",
+          "desc": "Prescription-only products gated behind provider approval; OTC checkouts stay frictionless."
+        },
+        {
+          "title": "Subscription Refills",
+          "desc": "Skip, pause, swap. Post-procedure kits and 30/60/90-day refills with subscriber pricing."
+        },
+        {
+          "title": "Provider-Signed Kits",
+          "desc": "Doctors curate bundles from the EHR — patients see \"Recommended by Dr. Lee\" at checkout."
+        },
+        {
+          "title": "Product-Schema SEO",
+          "desc": "Product, Offer, and AggregateRating schema per SKU. Google Merchant Center wired at launch."
+        },
+        {
+          "title": "HSA / FSA Checkout",
+          "desc": "Eligible SKUs marked, IIAS-compliant descriptors, itemized receipts patients can submit."
+        },
+        {
+          "title": "Inventory-Per-Location",
+          "desc": "Ship from central warehouse or reserve for in-office pickup at the clinic patient chooses."
+        }
+      ]
+    },
+    "architecture": {
+      "eyebrow": "Catalog architecture",
+      "title": "Four checkout paths, one governed catalog.",
+      "description": "Every SKU classifies into one of four flows at import. Patients see the right friction (or no friction), providers see clean dispensing, and Google sees indexable products.",
+      "items": [
+        {
+          "type": "OTC · Open checkout",
+          "examples": [
+            "Cleansers",
+            "Moisturizers",
+            "SPF",
+            "Vitamin C",
+            "Body care"
+          ]
+        },
+        {
+          "type": "Rx · Provider-gated",
+          "examples": [
+            "Tretinoin",
+            "Hydroquinone",
+            "Ivermectin",
+            "Rx Retinoids",
+            "Minoxidil Rx"
+          ]
+        },
+        {
+          "type": "Kits · Doctor-signed",
+          "examples": [
+            "Post-Mohs kit",
+            "Acne starter",
+            "Anti-aging bundle",
+            "Post-laser recovery"
+          ]
+        },
+        {
+          "type": "Subscriptions · Auto-refill",
+          "examples": [
+            "30-day SPF",
+            "60-day cleanser",
+            "90-day retinoid",
+            "Custom cadence"
+          ]
+        }
+      ]
+    },
+    "categories": {
+      "eyebrow": "Product categories covered",
+      "title": "Every derm condition, a matching product path.",
+      "description": "Categories mirror your medical service pages, so patients arriving from a condition page always find a matching product or provider-signed kit.",
+      "items": [
+        "Acne Treatment Systems",
+        "Eczema Barrier Repair",
+        "Psoriasis Topicals",
+        "Skin Infection Cleansers",
+        "Skin Allergy Balms",
+        "Skin Cancer Sun Protection",
+        "Post Mole-Removal Kits",
+        "Cyst & Lipoma Wound Care",
+        "Wart Treatment Kits",
+        "Nail Fungal Solutions",
+        "Hair Loss Rx (Rx)",
+        "Scalp Disorder Shampoos",
+        "Rosacea Regimens",
+        "Melasma Brightening",
+        "Scar Silicone Sheets",
+        "Burn Scar Recovery",
+        "Vitiligo Camouflage",
+        "Post-Biopsy Aftercare"
+      ]
+    },
+    "deliverables": {
+      "eyebrow": "What ships",
+      "title": "12 concrete launch deliverables.",
+      "items": [
+        "Governed brand storefront design system",
+        "Rx / OTC split catalog with provider gating",
+        "Subscription engine (skip / pause / swap)",
+        "Provider-signed kit builder (EHR-linked)",
+        "HSA/FSA checkout with IIAS descriptors",
+        "Inventory-per-location + pickup routing",
+        "Product / Offer / Review schema per SKU",
+        "Google Merchant Center + Shopping feed",
+        "HIPAA-aware analytics (no patient PII)",
+        "Order + subscription patient portal",
+        "Core Web Vitals 95+ on PDPs & PLPs",
+        "Revenue + retention analytics dashboard"
+      ]
+    },
+    "timeline": {
+      "eyebrow": "The process",
+      "title": "Six milestones. One launch date.",
+      "items": [
+        {
+          "step": "01",
+          "title": "Catalog & Compliance Audit",
+          "desc": "We inventory every SKU, split Rx vs OTC, map HSA/FSA eligibility, and align on BAA scope with your EHR."
+        },
+        {
+          "step": "02",
+          "title": "Platform Recommendation",
+          "desc": "Shopify Plus, headless Shopify, or fully custom — chosen against your revenue, integration, and Rx gating needs."
+        },
+        {
+          "step": "03",
+          "title": "Storefront Design System",
+          "desc": "Product cards, kit builders, subscription flows, and provider-signature components — all tokenized and reusable."
+        },
+        {
+          "step": "04",
+          "title": "Build & Payment Wiring",
+          "desc": "Stripe / Shopify Payments + HSA/FSA, subscriptions engine, provider gating, and inventory-per-location routing."
+        },
+        {
+          "step": "05",
+          "title": "SEO + Merchant Feed",
+          "desc": "Product schema, feed to Google Merchant Center, Category / PLP / PDP indexing, and legacy-URL redirects."
+        },
+        {
+          "step": "06",
+          "title": "Launch + Retention Warmup",
+          "desc": "First 60 days: retention triggers, refill reminders, provider-signed kit rollout, and revenue dashboard live."
+        }
+      ]
+    },
+    "comparison": {
+      "eyebrow": "Why not the alternative",
+      "title": "DIY Shopify. Generalist agency. Or built for derm commerce.",
+      "headers": {
+        "capability": "Capability",
+        "diy": "DIY Shopify",
+        "generic": "Generalist Agency",
+        "dw": "DW Design",
+        "recommended": "RECOMMENDED"
+      },
+      "rows": [
+        "Rx / OTC split with provider gating",
+        "HIPAA-aware analytics stack",
+        "Provider-signed kits from EHR",
+        "Subscription refills with skip/pause/swap",
+        "HSA/FSA-compliant checkout",
+        "Product + Review schema per SKU",
+        "Inventory-per-location pickup routing",
+        "Lighthouse 95+ on PDPs & PLPs"
+      ]
+    }
+  },
+  "pricing": {
+    "eyebrow": "Investment",
+    "title": "Priced by how you dispense.",
+    "customQuote": "request a custom quote",
+    "starting": "starting",
+    "market": "Market",
+    "labels": {
+      "popular": "Most Popular",
+      "getStarted": "Get Started"
+    },
+    "tiers": [
+      {
+        "name": "OTC Starter",
+        "tag": "In-office dispensary → online"
+      },
+      {
+        "name": "Rx + Subscriptions",
+        "tag": "Most Popular"
+      },
+      {
+        "name": "Custom Headless",
+        "tag": "DSO & Enterprise"
+      }
+    ],
+    "features": {
+      "otc": [
+        "Shopify storefront on brand system",
+        "OTC catalog, up to 50 SKUs",
+        "Basic subscriptions (30/60/90-day)",
+        "HSA/FSA checkout",
+        "Product schema + Merchant Center feed",
+        "5–7 week launch"
+      ],
+      "rx": [
+        "Everything in OTC Starter",
+        "Rx / OTC split with provider gating",
+        "Provider-signed kits (basic EHR link)",
+        "Advanced subscriptions (swap, upsells)",
+        "HIPAA-aware analytics + BAA scope",
+        "8–10 week launch"
+      ],
+      "headless": [
+        "Everything in Rx + Subscriptions",
+        "Headless Shopify or custom storefront",
+        "Full EHR + inventory-per-location",
+        "Patient portal for orders & scripts",
+        "Retention & revenue dashboard",
+        "12–16 week launch"
+      ]
+    }
+  },
+  "caseStudy": {
+    "eyebrow": "Anonymized case study",
+    "title": "3-location aesthetic derm group · 180-day storefront.",
+    "description": "Names and product line omitted under NDA. Numbers verified against Shopify Reports and Google Merchant Center.",
+    "verified": "Verified",
+    "metrics": [
+      {
+        "label": "Product revenue",
+        "sub": "vs. 6 months in-office only"
+      },
+      {
+        "label": "Sub retention @ 90d",
+        "sub": "across all skip/pause users"
+      },
+      {
+        "label": "Cart-to-order rate",
+        "sub": "OTC checkout, mobile"
+      },
+      {
+        "label": "Median Lighthouse",
+        "sub": "across PDPs & PLPs"
+      }
+    ],
+    "chart": {
+      "title": "Monthly product revenue",
+      "range": "Pre-launch → Month 6",
+      "preLaunch": "Pre-launch",
+      "postLaunch": "Post-launch",
+      "anonymized": "Client anonymized"
+    }
+  },
+  "testimonial": {
+    "quote": "Our in-office dispensary was doing $18k / month. Six months after launching the storefront — with Rx gated properly and post-Mohs kits on subscription — we crossed $43k / month online alone, and 63% of subscribers were still active at 90 days.",
+    "author": "Dr. Ana Morales",
+    "role": "Founder, 3-location aesthetic dermatology group",
+    "initials": "AM"
+  },
+  "faq": {
+    "eyebrow": "Frequently asked",
+    "title": "Storefront questions, answered directly.",
+    "items": [
+      {
+        "q": "Can we sell prescription-only skincare products online?",
+        "a": "Yes — Rx products are gated behind provider verification and an active patient record. The catalog splits into OTC (open checkout) and Rx (requires provider approval + patient ID match). We wire the flow to your EHR or a lightweight patient portal, so scripts never ship to unauthorized buyers."
+      },
+      {
+        "q": "Which e-commerce platform do you build on — Shopify, custom, or something else?",
+        "a": "We pick per client: Shopify Plus for medical spas doing $250k+ in product revenue, headless Shopify + custom storefront for practices needing patient portals and Rx gating, or fully custom for enterprise DSOs with EHR integration needs. Recommendation happens in week 1 after auditing your product mix, volume, and integration surface."
+      },
+      {
+        "q": "How do you handle HIPAA when patient data touches the storefront?",
+        "a": "Patient identifiers stay out of the storefront database. Rx orders reference an anonymized patient ID resolved server-side against your EHR under a signed BAA. Analytics, marketing pixels, and third-party scripts are audited and stripped from any Rx-touching route."
+      },
+      {
+        "q": "Do you set up subscriptions for post-procedure kits and refills?",
+        "a": "Yes — cleanser + SPF + retinoid kits, post-Mohs recovery bundles, and 30/60/90-day refill subscriptions with skip/pause/swap. Subscribers get 15% off by default, and providers can pre-authorize kits directly from the EHR so patients see them at checkout automatically."
+      },
+      {
+        "q": "How does the storefront affect our medical SEO?",
+        "a": "Product pages target commercial-intent keywords (\"buy Vitamin C serum\", \"tretinoin refill\") that your service pages don't. Category → Product → Reviews structure earns Product schema, aggregate ratings, and Google Merchant Center listings. It expands your keyword footprint without cannibalizing your medical service pages."
+      },
+      {
+        "q": "How long does a dermatology e-commerce launch take?",
+        "a": "OTC-only Shopify build: 5–7 weeks. Rx-gated with EHR integration: 8–12 weeks. Custom headless with subscriptions + provider portal: 12–16 weeks. Fixed launch date at kickoff with weekly milestone reviews."
+      }
+    ]
+  },
+  "cta": {
+    "alt": "DW — Dermatology Website Design",
+    "title": "Your dispensary revenue deserves better than a stock template.",
+    "description": "We take a limited number of dermatology e-commerce projects each quarter. If Rx gating, subscriptions, and HIPAA-aware analytics matter to your practice, let's map the storefront before you pick a platform.",
+    "buttons": {
+      "quote": "Get a Free Quote",
+      "message": "Send a Message"
+    },
+    "branding": "Dermatology Website Design",
+    "tagline": "Helping Dermatologists Grow Online"
+  },
+  "footer": {
+    "exploreNext": "Worth exploring next:",
+    "links": {
+      "design": "core practice website design",
+      "seo": "how we help you rank locally",
+      "cases": "recent client stories"
+    }
+  },
+  "catalog": {
+    "eyebrow": "Live catalog preview",
+    "title": "Your dispensary, online in every flow.",
+    "description": "OTC, Rx-gated, and subscription SKUs share one design system — patients see the right friction, providers see clean dispensing, Google sees indexable products.",
+    "button": "Add",
+    "badges": {
+      "hipaa": "HIPAA-aware",
+      "hsa": "HSA/FSA checkout",
+      "delivery": "Location-aware fulfillment",
+      "schema": "Product schema on every SKU"
+    },
+    "products": [
+      {
+        "name": "Vitamin C Serum",
+        "note": "30ml · Antioxidant"
+      },
+      {
+        "name": "Mineral SPF 46",
+        "note": "Daily · Reef-safe"
+      },
+      {
+        "name": "Retinol 0.5%",
+        "note": "Provider-gated"
+      },
+      {
+        "name": "Gentle Cleanser",
+        "note": "Refill · save 15%"
+      }
+    ]
+  }
+}

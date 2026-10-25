@@ -1,0 +1,285 @@
+{
+  "meta": {
+    "title": "Richiedi un Preventivo Gratuito — Design Siti Web per Dermatologia",
+    "description": "Richiedi un preventivo personalizzato per il sito web del tuo studio dermatologico. Prezzi trasparenti e proposta su misura entro 24 ore.",
+    "ogTitle": "Richiedi un Preventivo Gratuito — Design Siti Web per Dermatologia",
+    "ogDescription": "Parlaci del tuo studio e ricevi una proposta personalizzata entro 24 ore."
+  },
+  "hero": {
+    "badge": "Preventivo Gratuito",
+    "title": "Ricevi un",
+    "titleHighlight": "preventivo personalizzato",
+    "titleSuffix": "per il tuo studio.",
+    "description": "Raccontaci i tuoi obiettivi e le esigenze del tuo studio dermatologico. Ti invieremo una proposta su misura — con prezzi trasparenti e un piano d'azione chiaro — entro 24 ore.",
+    "features": [
+      "Risposta entro 24 ore",
+      "Senza impegno",
+      "Prezzi trasparenti"
+    ],
+    "trust": {
+      "repliesWithin": "Rispondiamo entro",
+      "repliesValue": "24 ore",
+      "launchedValue": "50+",
+      "launchedText": "siti di dermatologia pubblicati",
+      "focusValue": "100%",
+      "focusText": "specializzati in dermatologia"
+    }
+  },
+  "sidebar": {
+    "whatHappensNext": {
+      "title": "Cosa succede ora",
+      "steps": [
+        "Analizziamo la tua richiesta e il tuo sito attuale.",
+        "Il nostro team elabora un progetto e una proposta su misura.",
+        "Ricevi costi, tempistiche e step successivi entro 24 ore."
+      ]
+    },
+    "preferToTalk": {
+      "title": "Preferisci parlare con noi?",
+      "email": "info@dermatologywebsitedesign.com",
+      "chat": "Chatta su WhatsApp"
+    },
+    "guarantee": {
+      "title": "Soddisfazione Garantita al 100%",
+      "description": "Nessun obbligo, nessuna pressione. Se la nostra proposta non fa per te, puoi declinare senza problemi.",
+      "benefits": [
+        "Niente spam, mai",
+        "Dati protetti e privati",
+        "Cancella quando vuoi"
+      ]
+    }
+  },
+  "form": {
+    "success": {
+      "title": "Grazie — richiesta ricevuta.",
+      "description": "Un membro del nostro team ti contatterà entro 24 ore con la tua proposta personalizzata."
+    },
+    "progress": {
+      "step": "Passaggio",
+      "of": "di",
+      "labels": [
+        "Contatto",
+        "Sito Web",
+        "Servizi",
+        "Budget"
+      ]
+    },
+    "sections": {
+      "contactInfo": "Informazioni di Contatto",
+      "websiteDetails": "Dettagli Sito Web",
+      "helpWith": "Di cosa hai bisogno?",
+      "budgetTimeline": "Budget e Tempistiche"
+    },
+    "fields": {
+      "yourName": {
+        "label": "Il tuo nome",
+        "placeholder": "Dr. Alessandro Rossi"
+      },
+      "workEmail": {
+        "label": "Email di lavoro",
+        "placeholder": "nome@studiomedico.it"
+      },
+      "phone": {
+        "label": "Telefono",
+        "placeholder": "+39 012 345 6789",
+        "hint": "(opzionale)"
+      },
+      "practiceName": {
+        "label": "Nome dello studio",
+        "placeholder": "Dermatologia Clinica Moderna"
+      },
+      "currentWebsite": {
+        "label": "Sito web attuale",
+        "placeholder": "nomestudio.it",
+        "hint": "(opzionale)"
+      },
+      "numberOfLocations": {
+        "label": "Numero di sedi",
+        "select": "Seleziona"
+      },
+      "websiteSize": {
+        "label": "Dimensioni del sito",
+        "select": "Seleziona"
+      },
+      "adminAccess": {
+        "label": "Disponi dell'accesso Admin?"
+      },
+      "estimatedBudget": {
+        "label": "Budget stimato",
+        "select": "Seleziona una fascia di prezzo"
+      },
+      "urgency": {
+        "label": "Quanto è urgente il progetto?",
+        "select": "Seleziona l'urgenza"
+      },
+      "projectDetails": {
+        "label": "Dettagli del progetto",
+        "placeholder": "Parlaci dei tuoi obiettivi, delle sedi e di qualsiasi esigenza specifica.",
+        "hint": "(opzionale)"
+      }
+    },
+    "servicesText": {
+      "select": "Seleziona tutto ciò che ti interessa. Hai scelto",
+      "service": "servizio",
+      "services": "servizi"
+    },
+    "buttons": {
+      "back": "Indietro",
+      "continue": "Continua",
+      "sending": "Invio in corso…",
+      "submit": "Richiedi il Mio Preventivo Gratuito"
+    },
+    "footerText": "I tuoi dati sono sicuri al 100%. Niente spam, mai.",
+    "validation": {
+      "name": "Inserisci il tuo nome",
+      "email": "Inserisci un'email valida",
+      "practiceName": "Inserisci il nome del tuo studio",
+      "service": "Seleziona almeno un servizio",
+      "locations": "Seleziona il numero di sedi",
+      "websiteSize": "Seleziona la dimensione del sito",
+      "adminAccess": "Indicaci se hai l'accesso admin",
+      "budget": "Seleziona un budget",
+      "urgency": "Seleziona l'urgenza",
+      "completeStep": "Completa questo passaggio",
+      "checkForm": "Controlla il modulo",
+      "wait": "Attendi {{seconds}}s prima di inviare nuovamente."
+    }
+  },
+  "options": {
+    "services": [
+      "Web Design",
+      "Redesign Sito Web",
+      "Migrazione Sito Web",
+      "Galleria Prima e Dopo",
+      "SEO / SEO Locale",
+      "Google Ads / PPC",
+      "Sito Multi-Sede",
+      "E-Commerce",
+      "Portale Pazienti",
+      "Reputazione e Recensioni",
+      "Contenuti e Copywriting",
+      "Assistenza e Manutenzione"
+    ],
+    "locations": [
+      "1 sede",
+      "2–3 sedi",
+      "4–10 sedi",
+      "Oltre 10 sedi"
+    ],
+    "pages": [
+      "1 pagina",
+      "5–8 pagine",
+      "10–15 pagine",
+      "15–20 pagine",
+      "Oltre 20 pagine"
+    ],
+    "admin": [
+      "Sì",
+      "No",
+      "Non sono sicuro"
+    ],
+    "budgets": [
+      "Meno di $1k",
+      "$1k – $2k",
+      "$4k – $5k",
+      "$7k – $10k",
+      "Oltre $10k"
+    ],
+    "urgencies": [
+      "Entro 48 ore",
+      "Entro 7 giorni",
+      "Entro 1 mese",
+      "Entro 3 mesi",
+      "Entro 6 mesi",
+      "Nessuna fretta / Flessibile"
+    ]
+  },
+  "sections": {
+    "whyQuote": {
+      "title": "Perché richiedere un",
+      "titleHighlight": "preventivo?",
+      "subtitle": "Costi reali, basati sulle tue esigenze — senza alcun impegno.",
+      "items": [
+        {
+          "title": "100% Gratuito e Senza Impegno",
+          "body": "Ricevi cifre reali personalizzate in base alla dimensione dello studio, alla piattaforma e agli obiettivi."
+        },
+        {
+          "title": "Su Misura per il Tuo Studio",
+          "body": "Ogni studio dermatologico è unico. Preventivi basati sul tuo CMS, sedi e servizi offerti."
+        },
+        {
+          "title": "Prezzi Trasparenti",
+          "body": "Dettagliamo attività, tempistiche e risultati — saprai esattamente per cosa stai pagando."
+        },
+        {
+          "title": "Risposta Rapida",
+          "body": "Il nostro team analizza la tua richiesta immediatamente e risponde entro 24 ore o meno."
+        }
+      ]
+    },
+    "whatWeCanHelpWith": {
+      "title": "Come possiamo",
+      "titleHighlight": "aiutarti",
+      "subtitle": "I nostri preventivi coprono l'intera gamma di servizi digitali per la dermatologia.",
+      "footer": "Hai bisogno di qualcosa di specifico? Segnalacelo — personalizziamo ogni progetto.",
+      "categories": [
+        {
+          "label": "Design",
+          "items": [
+            "Web Design Personalizzato",
+            "Redesign Sito Web",
+            "Migrazione Sito Web",
+            "Siti Multi-Sede",
+            "Gallerie Prima e Dopo",
+            "Portali Pazienti"
+          ]
+        },
+        {
+          "label": "Crescita",
+          "items": [
+            "SEO per Dermatologia",
+            "SEO Locale",
+            "Google Ads / PPC",
+            "E-Commerce",
+            "Contenuti e Copywriting",
+            "Analisi e CRO"
+          ]
+        },
+        {
+          "label": "Cura",
+          "items": [
+            "Reputazione e Recensioni",
+            "Ottimizzazione Velocità",
+            "Hosting HIPAA-Aware",
+            "Assistenza e Manutenzione"
+          ]
+        }
+      ]
+    },
+    "howItWorks": {
+      "title": "Come",
+      "titleHighlight": "funziona",
+      "subtitle": "Dalla richiesta alla proposta in quattro semplici passaggi.",
+      "stepLabel": "Passaggio",
+      "items": [
+        {
+          "title": "Compila il Modulo",
+          "body": "Condividi i dettagli del tuo studio, il sito attuale e le tue necessità."
+        },
+        {
+          "title": "Analisi degli Esperti",
+          "body": "Il nostro team analizza il tuo sito, lo stato della SEO e i tuoi requisiti tecnici."
+        },
+        {
+          "title": "Ricevi il Preventivo",
+          "body": "Ottieni una proposta dettagliata e personalizzata — chiara, semplice e trasparente."
+        },
+        {
+          "title": "Iniziamo con Fiducia",
+          "body": "Approvato il piano, partiamo subito con un processo di onboarding strutturato."
+        }
+      ]
+    }
+  }
+}

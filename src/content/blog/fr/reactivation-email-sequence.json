@@ -1,0 +1,55 @@
+{
+  "slug": "reactivation-email-sequence",
+  "title": "La séquence d'e-mails pour patients inactifs qui vaut 180 000 $ / an",
+  "excerpt": "Six e-mails, une offre et la logique de segmentation qui ramène les patients dormants à la chaise.",
+  "imageAlt": "Smartphone affichant une boîte de réception légèrement éclairée à côté d'une tasse de café et d'un croissant sur du lin",
+  "body": [
+    {
+      "text": "Un patient qui n'a pas consulté depuis 12 mois est 4 fois plus susceptible de prendre rendez-vous suite à un e-mail que par n'importe quel canal payant. Mais la plupart des cabinets ne leur en envoient jamais. Voici la séquence de six e-mails que nous déployons pour chaque nouveau client, ainsi que la logique de segmentation qui décide quels patients reçoivent quelle offre — car un e-mail générique 'vous nous manquez' envoyé à 10 000 patients inactifs est moins performant qu'un arc de six e-mails ciblés envoyés à 1 000 personnes."
+    },
+    {
+      "text": "Le chiffre de 180 000 $ dans le titre n'est pas du battage marketing. C'est le revenu incrémental moyen que nous mesurons au cours des douze premiers mois suivant le déploiement de cette séquence pour un cabinet de taille moyenne à emplacement unique avec environ 8 000 contacts inactifs. Les groupes multi-sites voient régulièrement des multiples de ce chiffre. Le calcul fonctionne parce que le coût de la séquence est zéro dépense publicitaire incrémentale et que l'audience est déjà qualifiée — ils sont venus au cabinet au moins une fois."
+    },
+    {
+      "heading": "Segmentation avant le contenu"
+    },
+    {
+      "text": "Avant d'écrire un seul e-mail, segmentez l'audience. Mettez chaque patient inactif dans une seule liste et chaque offre semblera générique pour quelqu'un. Divisez la liste en trois cohortes : 12–18 mois depuis la dernière visite (rappel doux), 18–36 mois (réengagement structuré) et 36+ mois (reconquête agressive avec une réelle incitation). Chaque cohorte reçoit le même squelette de six e-mails mais avec un ton, une offre et des critères de suppression différents."
+    },
+    {
+      "heading": "La séquence"
+    },
+    {
+      "list": [
+        "E-mail 1 : Vous nous manquez — bonjour amical sans demande",
+        "E-mail 2 : Quoi de neuf au cabinet",
+        "E-mail 3 : Une invitation douce à réserver leur bilan cutané annuel",
+        "E-mail 4 : Contenu éducatif sur la prévention du cancer de la peau",
+        "E-mail 5 : Une offre limitée dans le temps spécifique à leur dernier type de visite",
+        "E-mail 6 : Dernier appel, puis suppression de la séquence"
+      ]
+    },
+    {
+      "heading": "Pourquoi le 'pas de demande' dans le premier e-mail est important"
+    },
+    {
+      "text": "Le premier e-mail de la séquence ne demande délibérément rien. C'est une réintroduction chaleureuse de la part de la responsable du cabinet ou de l'assistante médicale, idéalement rédigée à la première personne avec une vraie signature. Le but est de rappeler au destinataire que ce cabinet se souvient d'eux en tant que personne, et non en tant que segment marketing. Les taux de réponse aux e-mails 'sans demande' sont 5 à 8 fois supérieurs à ceux des e-mails 'réservez maintenant', et les répondeurs s'identifient comme ayant une intention élevée."
+    },
+    {
+      "heading": "L'offre arrive dans l'e-mail 5, pas dans l'e-mail 1"
+    },
+    {
+      "text": "Les cabinets commettent régulièrement l'erreur de commencer par l'offre. Cela apprend aux patients inactifs à s'attendre à des réductions chaque fois qu'ils reçoivent de vos nouvelles, et cela convertit le segment de votre liste le moins intentionnel uniquement sur le prix. L'arc de six e-mails pousse l'offre à l'e-mail cinq, après quatre points de contact de chaleur et d'éducation. Au moment où l'offre arrive, le patient est réancré à la marque du cabinet, et non à sa réduction."
+    },
+    {
+      "heading": "L'étape de suppression protège la délivrabilité"
+    },
+    {
+      "text": "L'e-mail six est le dernier appel et c'est aussi le déclencheur de suppression. Tout destinataire qui n'a ouvert aucun des cinq e-mails précédents et n'ouvre pas l'e-mail six est supprimé de la séquence. Cela protège votre réputation d'expéditeur auprès de Gmail et Outlook — l'envoi à des adresses non engagées est le moyen le plus rapide de tomber dans les promotions ou le spam. Une suppression agressive améliore en fait les résultats de la campagne suivante car la liste restante est plus dense et plus engagée."
+    },
+    {
+      "text": "Déployez la séquence une fois par an pour chaque cohorte, actualisez le texte annuellement, et traitez l'audience supprimée comme une cohorte distincte à long terme que vous réengagez tous les 18 mois avec un nouveau nom d'expéditeur. Au bout de trois ans, le chiffre de 180 000 $ a tendance à doubler ou à tripler à mesure que la séquence mûrit et que la segmentation devient plus précise."
+    }
+  ],
+  "faqs": null
+}

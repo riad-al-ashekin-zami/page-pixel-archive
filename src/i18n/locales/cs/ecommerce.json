@@ -1,0 +1,458 @@
+{
+  "meta": {
+    "title": "E-shop pro dermatology | Design webů pro prodej dermokosmetiky s ohledem na HIPAA",
+    "description": "Prémiový design e-shopů pro dermatology. HIPAA-aware správa Rx + OTC produktů, předplatné, sady schválené lékařem a SEO s Product-schema. Pro dermatologické praxe, kliniky a sítě lékařských zařízení.",
+    "og": {
+      "title": "E-shop pro dermatology | Design webů pro prodej dermokosmetiky s ohledem na HIPAA",
+      "description": "Prodávejte medicínskou kosmetiku, schvalujte Rx produkty jako lékař, spouštějte předplatné a ovládejte vyhledávání díky produktovým stránkám – vše pod jednou střechou vaší značky."
+    },
+    "jsonLd": {
+      "serviceType": "Design e-shopů pro dermatology",
+      "name": "DW Design",
+      "offerDescription": "Tvorba e-shopu pro dermatology – cena od"
+    }
+  },
+  "hero": {
+    "badge": "HIPAA-Aware · Připraveno pro Rx · Expert na předplatné",
+    "title": "Design e-shopů pro dermatology, kteří chtějí skutečně prodávat.",
+    "description": "E-shop, který si vaše klinika zaslouží. Správné rozdělení Rx a OTC, sady doporučené lékařem přímo v košíku, předplatné, které pacienti neodhlásí – a SEO s Product-schema, na které běžné informační stránky nikdy nedosáhnou.",
+    "cta": {
+      "plan": "Naplánovat e-shop",
+      "audit": "Bezplatný audit e-shopu"
+    },
+    "stats": {
+      "dispensaries": "Digitalizovaných prodejen",
+      "retention": "Retence předplatného po 90 dnech",
+      "lighthouse": "Lighthouse skóre na produktových stránkách"
+    },
+    "mockups": {
+      "otc": "OTC (Volný prodej)",
+      "rxGated": "Rx (Omezený prodej)",
+      "requirement": "Vyžaduje schválení lékařem",
+      "revenueLift": "Průměrný nárůst",
+      "revenueContext": "tržeb z produktů do 6 měsíců od spuštění",
+      "alt": "Prémiový dermatologický e-shop s kosmetikou"
+    }
+  },
+  "estimator": {
+    "eyebrow": "Interaktivní kalkulačka výnosů",
+    "title": "Modelujte své první čtvrtletí online.",
+    "description": "Posuňte posuvníky. Předpokládáme, že 22 % aktivních pacientů nakoupí online do 6 měsíců a 35 % z nich přejde na předplatné – to je medián z posledních 42 e-shopů, které jsme spustili.",
+    "labels": {
+      "patients": "Aktivní pacienti:",
+      "aov": "Průměrná hodnota objednávky:",
+      "projected": "Předpokládaný",
+      "quarterlyHeader": "Příjmy e-shopu za první čtvrtletí",
+      "monthly": "Odhadovaný měsíční příjem",
+      "buyers": "Online kupující / 6 měsíců",
+      "oneTime": "Jednorázové OTC příjmy (1. kvartál)",
+      "subscription": "Příjmy z předplatného (1. kvartál)",
+      "discount": "Kombinovaná sleva pro předplatitele",
+      "subscribers90": "Odhad počtu předplatitelů za 90 dní",
+      "disclaimer": "Odhady vycházejí z mediánu výkonnosti 42 spuštěných e-shopů. Reálné výsledky závisí na katalogu, cenotvorbě a stávajícím objemu prodejů na klinice."
+    },
+    "chart": {
+      "recurring": "Opakované",
+      "ariaLabel": "Koláčový graf rozdělení příjmů"
+    }
+  },
+  "sections": {
+    "audiences": {
+      "eyebrow": "Pro koho je řešení určeno",
+      "title": "Postaveno pro dermatologické značky s vlastní produktovou řadou.",
+      "items": [
+        {
+          "label": "Soukromí dermatologové",
+          "desc": "Prodávejte svůj sortiment online s možností osobního odběru v ordinaci."
+        },
+        {
+          "label": "Kliniky s více pobočkami",
+          "desc": "Jeden katalog, skladové zásoby pro každou ordinaci, volba dopravy nebo vyzvednutí."
+        },
+        {
+          "label": "Dětská dermatologie",
+          "desc": "Katalogy přívětivé pro rodiče s filtrováním produktů podle věku."
+        },
+        {
+          "label": "Mohsova chirurgie a operační sítě",
+          "desc": "Předplatné pooperačních sad načasované podle milníků rekonvalescence."
+        }
+      ]
+    },
+    "problemSolution": {
+      "eyebrow": "Co řešíme",
+      "title": "Většina e-shopů v dermatologii je jen výchozí Shopify šablona s logem.",
+      "description": "Rx produkty jsou blokovány, chybí schvalování lékařem, předplatné nefunguje a schema chybí. My e-commerce stavíme podle toho, jak dermatologie skutečně funguje.",
+      "before": "Původní stav",
+      "after": "Naše řešení",
+      "items": [
+        {
+          "before": "Prodej pouze osobně v ordinaci",
+          "after": "24/7 online prodej + doplňování zásob"
+        },
+        {
+          "before": "Rx produkty nelze prodávat na webu",
+          "after": "Rx nákupní proces pod dohledem lékaře"
+        },
+        {
+          "before": "Produktové stránky jsou pro Google neviditelné",
+          "after": "Product schema + Merchant Center SEO"
+        },
+        {
+          "before": "Jednorázové prodeje, nulová retence",
+          "after": "Předplatné s retencí přes 60 %"
+        },
+        {
+          "before": "Riziko HIPAA kvůli datům pacientů na webu",
+          "after": "Anonymizovaná ID + stack splňující BAA"
+        },
+        {
+          "before": "Pacienti hádají, které SPF zvolit",
+          "after": "Sady doporučené přímo lékařem v košíku"
+        }
+      ]
+    },
+    "pillars": {
+      "eyebrow": "Náš obchodní systém",
+      "title": "Šest pilířů každého e-shopu, který vytvoříme.",
+      "items": [
+        {
+          "title": "Rozdělený Rx / OTC katalog",
+          "desc": "Produkty na předpis jsou podmíněny schválením lékaře, zatímco volný prodej zůstává plynulý."
+        },
+        {
+          "title": "Pravidelné předplatné",
+          "desc": "Přeskočit, pozastavit, vyměnit. Pooperační sady a doplňování pro 30/60/90 dní za zvýhodněnou cenu."
+        },
+        {
+          "title": "Sady podepsané lékařem",
+          "desc": "Lékaři sestavují balíčky přímo z EHR – pacienti v košíku vidí „Doporučeno Dr. Lee“."
+        },
+        {
+          "title": "SEO s Product-schema",
+          "desc": "Schémata Product, Offer a AggregateRating pro každou položku. Napojení na Google Merchant Center při spuštění."
+        },
+        {
+          "title": "HSA / FSA platby",
+          "desc": "Označení způsobilých produktů, popisy splňující IIAS a rozepsané účtenky pro pojišťovny."
+        },
+        {
+          "title": "Sklad podle lokality",
+          "desc": "Odesílání z centrálního skladu nebo rezervace pro vyzvednutí na vybrané pobočce."
+        }
+      ]
+    },
+    "architecture": {
+      "eyebrow": "Architektura katalogu",
+      "title": "Čtyři nákupní cesty, jeden řízený katalog.",
+      "description": "Každý produkt je při importu zařazen do jednoho ze čtyř toků. Pacienti procházejí správným procesem, lékaři mají přehled o výdeji a Google vidí indexovatelné produkty.",
+      "items": [
+        {
+          "type": "OTC · Otevřený nákup",
+          "examples": [
+            "Čisticí gely",
+            "Hydratační krémy",
+            "SPF ochrana",
+            "Vitamin C",
+            "Péče o tělo"
+          ]
+        },
+        {
+          "type": "Rx · Podmíněno lékařem",
+          "examples": [
+            "Tretinoin",
+            "Hydrochinon",
+            "Ivermektin",
+            "Rx retinoidy",
+            "Minoxidil Rx"
+          ]
+        },
+        {
+          "type": "Sady · Doporučeno lékařem",
+          "examples": [
+            "Sada po Mohsově zákroku",
+            "Startovací balíček na akné",
+            "Anti-aging bundle",
+            "Rekonvalescence po laseru"
+          ]
+        },
+        {
+          "type": "Předplatné · Auto-refill",
+          "examples": [
+            "30denní SPF",
+            "60denní čisticí gel",
+            "90denní retinoid",
+            "Vlastní interval"
+          ]
+        }
+      ]
+    },
+    "categories": {
+      "eyebrow": "Pokryté produktové kategorie",
+      "title": "Pro každý kožní problém odpovídající cesta.",
+      "description": "Kategorie zrcadlí vaše stránky lékařských služeb, takže pacienti přicházející kvůli konkrétní diagnóze vždy najdou odpovídající produkt nebo sadu.",
+      "items": [
+        "Systémy léčby akné",
+        "Obnova bariéry u ekzémů",
+        "Lokální léčba lupénky",
+        "Přípravky na kožní infekce",
+        "Balzámy pro alergiky",
+        "Ochrana před rakovinou kůže",
+        "Sady po odstranění pigmentových znamének",
+        "Péče o rány po cystách a lipomech",
+        "Sady pro léčbu bradavic",
+        "Řešení pro plísně nehtů",
+        "Rx léčba vypadávání vlasů",
+        "Šampony pro onemocnění vlasové pokožky",
+        "Režimy pro růžovku (rosacea)",
+        "Rozjasnění při melasmatu",
+        "Silikonové krytí na jizvy",
+        "Rekonvalescence po jizvách z popálenin",
+        "Kamufláž pro vitiligo",
+        "Následná péče po biopsii"
+      ]
+    },
+    "deliverables": {
+      "eyebrow": "Co dostanete",
+      "title": "12 konkrétních výstupů při spuštění.",
+      "items": [
+        "Designový systém e-shopu s řízenou značkou",
+        "Rozdělený Rx / OTC katalog s lékařským schvalováním",
+        "Systém předplatného (přeskočit / pozastavit / vyměnit)",
+        "Tvůrce sad doporučených lékařem (napojeno na EHR)",
+        "HSA/FSA checkout s IIAS popisky",
+        "Skladová dostupnost podle lokalit + směrování odběru",
+        "Schémata Product / Offer / Review pro každé SKU",
+        "Google Merchant Center + Shopping feed",
+        "HIPAA-aware analytika (bez osobních údajů pacientů)",
+        "Portál pro pacienty pro správu objednávek a receptů",
+        "Core Web Vitals 95+ na produktových stránkách",
+        "Dashboard pro analýzu tržeb a retence"
+      ]
+    },
+    "timeline": {
+      "eyebrow": "Proces spolupráce",
+      "title": "Šest milníků. Jeden termín spuštění.",
+      "items": [
+        {
+          "step": "01",
+          "title": "Audit katalogu a shody",
+          "desc": "Zmapujeme všechna SKU, rozdělíme Rx vs. OTC, určíme shodu s HSA/FSA a nastavíme rozsah BAA pro vaše EHR."
+        },
+        {
+          "step": "02",
+          "title": "Doporučení platformy",
+          "desc": "Shopify Plus, headless Shopify nebo plně zakázkové řešení – zvolené podle vašich tržeb a potřeb Rx integrace."
+        },
+        {
+          "step": "03",
+          "title": "Designový systém obchodu",
+          "desc": "Produktové karty, moduly pro sady, toky předplatného a komponenty pro podpis lékaře – vše znovupoužitelné."
+        },
+        {
+          "step": "04",
+          "title": "Vývoj a platební brány",
+          "desc": "Stripe / Shopify Payments + HSA/FSA, motor předplatného, schvalování receptů a logistika podle skladů."
+        },
+        {
+          "step": "05",
+          "title": "SEO + Merchant Feed",
+          "desc": "Nasazení produktových schémat, feed do Google Merchant Center, indexace kategorií a přesměrování starých URL."
+        },
+        {
+          "step": "06",
+          "title": "Spuštění a náběh retence",
+          "desc": "Prvních 60 dní: spuštění retenčních e-mailů, připomínky doplňování, start prodeje sad a aktivace dashboardů."
+        }
+      ]
+    },
+    "comparison": {
+      "eyebrow": "Proč chtít víc než standard",
+      "title": "Vlastní Shopify, běžná agentura, nebo specialisté na dermokosmetiku.",
+      "headers": {
+        "capability": "Funkce",
+        "diy": "Vlastní Shopify",
+        "generic": "Běžná agentura",
+        "dw": "DW Design",
+        "recommended": "DOPORUČUJEME"
+      },
+      "rows": [
+        "Rx / OTC dělení s ověřením lékaře",
+        "HIPAA-aware analytický stack",
+        "Sady doporučené lékařem přímo z EHR",
+        "Správa předplatného (přeskočit/pauza/výměna)",
+        "HSA/FSA kompatibilní platba",
+        "Product + Review schema pro každé SKU",
+        "Směrování odběrů podle skladů na pobočkách",
+        "Lighthouse 95+ na produktových stránkách"
+      ]
+    }
+  },
+  "pricing": {
+    "eyebrow": "Investice",
+    "title": "Ceny podle způsobu vašeho prodeje.",
+    "customQuote": "vyžádat individuální nabídku",
+    "starting": "již od",
+    "market": "Trh",
+    "labels": {
+      "popular": "Nejoblíbenější",
+      "getStarted": "Začít"
+    },
+    "tiers": [
+      {
+        "name": "OTC Starter",
+        "tag": "Z kamenné prodejny → online"
+      },
+      {
+        "name": "Rx + Předplatné",
+        "tag": "Nejoblíbenější"
+      },
+      {
+        "name": "Custom Headless",
+        "tag": "Sítě klinik a Enterprise"
+      }
+    ],
+    "features": {
+      "otc": [
+        "E-shop na Shopify v designu značky",
+        "OTC katalog, až 50 položek",
+        "Základní předplatné (30/60/90 dní)",
+        "HSA/FSA platby",
+        "Product schema + Google Merchant feed",
+        "Spuštění za 5–7 týdnů"
+      ],
+      "rx": [
+        "Vše z balíčku OTC Starter",
+        "Rx / OTC dělení s ověřením lékaře",
+        "Sady doporučené lékařem (základní EHR link)",
+        "Pokročilé předplatné (výměny, upselly)",
+        "HIPAA-aware analytika + BAA krytí",
+        "Spuštění za 8–10 týdnů"
+      ],
+      "headless": [
+        "Vše z Rx + Předplatné",
+        "Headless Shopify nebo vlastní storefront",
+        "Plné EHR + skladová dostupnost poboček",
+        "Pacientský portál pro objednávky a recepty",
+        "Dashboard pro retenci a tržby",
+        "Spuštění za 12–16 týdnů"
+      ]
+    }
+  },
+  "caseStudy": {
+    "eyebrow": "Anonymizovaná případová studie",
+    "title": "Estetická skupina se 3 pobočkami · E-shop za 180 dní.",
+    "description": "Jména a produktové řady vynechány pod NDA. Čísla ověřena podle Shopify Reportů a Google Merchant Center.",
+    "verified": "Ověřeno",
+    "metrics": [
+      {
+        "label": "Tržby z produktů",
+        "sub": "oproti 6 měsícům pouze v ordinaci"
+      },
+      {
+        "label": "Retence předplatného @ 90d",
+        "sub": "napříč všemi uživateli"
+      },
+      {
+        "label": "Konv. poměr košíku",
+        "sub": "OTC nákup, mobilní zařízení"
+      },
+      {
+        "label": "Medián Lighthouse",
+        "sub": "napříč produktovými stránkami"
+      }
+    ],
+    "chart": {
+      "title": "Měsíční tržby z produktů",
+      "range": "Před spuštěním → 6. měsíc",
+      "preLaunch": "Před spuštěním",
+      "postLaunch": "Po spuštění",
+      "anonymized": "Anonymizovaný klient"
+    }
+  },
+  "testimonial": {
+    "quote": "Naše ordinace prodávaly produkty za 18 000 $ měsíčně. Šest měsíců po spuštení e-shopu – se správně nastaveným Rx schvalováním a pooperačními sadami na předplatné – jsme překonali 43 000 $ měsíčně jen online. 63 % předplatitelů bylo aktivních i po 90 dnech.",
+    "author": "Dr. Ana Morales",
+    "role": "Zakladatelka estetické dermatologické skupiny",
+    "initials": "AM"
+  },
+  "faq": {
+    "eyebrow": "Časté dotazy",
+    "title": "Vaše otázky k e-shopu, jasné odpovědi.",
+    "items": [
+      {
+        "q": "Můžeme online prodávat i kosmetiku na lékařský předpis?",
+        "a": "Ano. Rx produkty jsou vázány na ověření lékařem a aktivní kartu pacienta. Katalog dělíme na OTC (volný nákup) a Rx (vyžaduje schválení lékaře + shodu s ID pacienta). Tento proces napojíme na vaše EHR nebo klientský portál, aby se přípravky nikdy nedostaly k nepovolaným osobám."
+      },
+      {
+        "q": "Na jaké platformě stavíte – Shopify, vlastní řešení, nebo něco jiného?",
+        "a": "Vybíráme podle klienta: Shopify Plus pro kliniky s obratem nad 250 tis. $ v produktech, headless Shopify s vlastním front-endem pro kliniky vyžadující portály a Rx brány, nebo plně zakázkové řešení pro velké sítě klinik s komplexní EHR integrací. Doporučení padne v 1. týdnu po auditu vašeho sortimentu a technických potřeb."
+      },
+      {
+        "q": "Jak řešíte HIPAA, když data pacientů procházejí e-shopem?",
+        "a": "Identifikátory pacientů se neukládají do databáze e-shopu. Rx objednávky využívají anonymizované ID pacienta, které se páruje na straně serveru s vaším EHR v rámci podepsané smlouvy BAA. Analytika a marketingové pixely jsou z cest pracujících s Rx daty zcela odstraněny."
+      },
+      {
+        "q": "Nastavujete i předplatné pro pooperační sady a doplňování produktů?",
+        "a": "Ano – sady čisticí gel + SPF + retinoid, balíčky pro rekonvalescenci po Mohsově operaci i pravidelné doplňování v intervalech 30/60/90 dní. Předplatitelé získávají automaticky slevu (standardně 15 %) a lékaři mohou sady předautorizovat přímo z EHR."
+      },
+      {
+        "q": "Jak e-shop ovlivní naše lékařské SEO?",
+        "a": "Produktové stránky cílí na komerční klíčová slova („koupit sérum s vitamínem C“, „tretinoin doplnění“), která vaše informační stránky nepokrývají. Struktura Kategorie → Produkt → Recenze získává výhody Product-schema a hvězdiček ve vyhledávání. Rozšiřujeme tak vaši viditelnost bez kanibalizace stránek o službách."
+      },
+      {
+        "q": "Jak dlouho trvá spuštění dermatologického e-shopu?",
+        "a": "E-shop na Shopify pouze pro volný prodej: 5–7 týdnů. Rx řešení s EHR integrací: 8–12 týdnů. Custom headless s portálem: 12–16 týdnů. Termín spuštění je pevně stanoven na začátku projektu."
+      }
+    ]
+  },
+  "cta": {
+    "alt": "DW — Design webů pro dermatology",
+    "title": "Příjmy z vašich produktů si zaslouží víc než jen obyčejnou šablonu.",
+    "description": "Každé čtvrtletí přijímáme pouze omezený počet dermatologických e-shopů. Pokud jsou pro vás Rx brány, předplatné a HIPAA analytika prioritou, pojďme váš projekt naplánovat dříve, než zvolíte platformu.",
+    "buttons": {
+      "quote": "Získat nezávaznou nabídku",
+      "message": "Poslat zprávu"
+    },
+    "branding": "Dermatology Website Design",
+    "tagline": "Pomáháme dermatologům růst v digitálním světě"
+  },
+  "footer": {
+    "exploreNext": "Co prozkoumat dál:",
+    "links": {
+      "design": "design webu pro lékařskou praxi",
+      "seo": "jak vám pomáháme s lokálním SEO",
+      "cases": "nedávné příběhy našich klientů"
+    }
+  },
+  "catalog": {
+    "eyebrow": "Ukázka katalogu",
+    "title": "Vaše nabídka, online a přehledně.",
+    "description": "OTC, Rx a produkty na předplatné využívají jeden designový systém – pacienti procházejí správným procesem, lékaři mají klid a Google indexuje každý produkt.",
+    "button": "Přidat",
+    "badges": {
+      "hipaa": "HIPAA-aware",
+      "hsa": "HSA/FSA platba",
+      "delivery": "Skladová dostupnost",
+      "schema": "Product schema u každého SKU"
+    },
+    "products": [
+      {
+        "name": "Vitamin C Serum",
+        "note": "30ml · Antioxidant"
+      },
+      {
+        "name": "Mineral SPF 46",
+        "note": "Denní · Reef-safe"
+      },
+      {
+        "name": "Retinol 0.5%",
+        "note": "Podmíněno lékařem (Rx)"
+      },
+      {
+        "name": "Gentle Cleanser",
+        "note": "Předplatné · sleva 15 %"
+      }
+    ]
+  }
+}

@@ -1,0 +1,844 @@
+{
+  "meta": {
+    "title": "Kasusstudier — Resultater for vekst av nettsteder innen dermatologi",
+    "description": "Dybdegående kasusstudier av hudlegepraksiser med reelle tall — timebestillinger, SEO-rangering, lastehastighet og omsetningsvekst for kosmetiske, medisinske og flerlokalitetspraksiser.",
+    "keywords": "dermatologi kasusstudier, resultater for hudlege-nettsider, SEO-kasusstudie dermatologi, ROI for medisinsk praksis-nettsider",
+    "og": {
+      "title": "Kasusstudier — Resultater for vekst av nettsteder innen dermatologi",
+      "description": "Dybdegående kasusstudier av hudlegepraksiser med reelle tall — timebestillinger, SEO-rangering, lastehastighet og omsetningsvekst for kosmetiske, medisinske og flerlokalitetspraksiser."
+    },
+    "twitter": {
+      "title": "Kasusstudier — Resultater for vekst av nettsteder innen dermatologi",
+      "description": "Dybdegående kasusstudier av hudlegepraksiser med reelle tall — timebestillinger, SEO-rangering, lastehastighet og omsetningsvekst for kosmetiske, medisinske og flerlokalitetspraksiser."
+    },
+    "breadcrumb": {
+      "home": "Hjem",
+      "caseStudies": "Kasusstudier"
+    }
+  },
+  "accessibility": {
+    "skipToContent": "Hopp til hovedinnhold"
+  },
+  "hero": {
+    "badge": "Kasusstudier · Ekte hudlegepraksiser",
+    "title": "Bevis, ikke løfter.",
+    "description": "Hver kasusstudie nedenfor er en aktiv hudlegepraksis — med eksakte tall for timebestillinger, SEO, hastighet og omsetning før og etter vårt arbeid. Ingen fyll, ingen pyntede tall.",
+    "actions": {
+      "contact": "Få resultater som disse",
+      "audit": "Gratis nettside-analyse"
+    },
+    "metrics": [
+      {
+        "label": "Konsultasjonsforespørsler",
+        "value": "+214 %"
+      },
+      {
+        "label": "Konverteringsrate",
+        "value": "+3.8×"
+      },
+      {
+        "label": "Median LCP",
+        "value": "0,9s"
+      },
+      {
+        "label": "Lokal Google-rangering",
+        "value": "#1–3"
+      }
+    ]
+  },
+  "cta": {
+    "badge": "Din veksthistorie neste",
+    "title": "Klar for å se din praksis på denne listen?",
+    "description": "Send oss din nettside. Vi returnerer en analyse innen 24 timer med eksakte mangler innen SEO, hastighet, HIPAA og konvertering — pluss en prognose for hva et nytt design er verdt i antall pasienter.",
+    "features": [
+      "24-timers analyse, ingen samtaler nødvendig",
+      "Prognose for bestillinger og inntekt",
+      "Tilbud med fastpris",
+      "Du eier alt selv"
+    ],
+    "actions": {
+      "start": "Start et prosjekt",
+      "audit": "Gratis analyse"
+    },
+    "disclaimer": "Ingen kredittkort · Ingen salgsmanus"
+  },
+  "navigation": {
+    "footerPrompt": "Nysgjerrig på hva mer vi dekker? Se:",
+    "portfolioLink": "vår portefølje av aktive nettsider",
+    "processLink": "hvordan prosjektene gjennomføres steg for steg",
+    "or": "eller",
+    "pricingLink": "oversikt over våre tjenestepakker"
+  },
+  "studies": {
+    "central-austin-dermatology": {
+      "tagline": "Boutique Austin praksis reposisjonert som sentrumsdestinasjonen for medisinsk + kosmetisk dermatologi.",
+      "challenge": "En vakker klinikk begravd bak en langsom, generisk mal – ingen differensiering fra 30+ Austin-hudleger og svake lokale rangeringer for de største kosmetiske søkeordene.",
+      "solution": "Redaksjonelt merkesystem, leverandørledet historiefortelling, dedikerte sider for Aesthetic/filler/laser og en concierge-konsultasjonsflyt tilpasset Austins konkurransedyktige sentrumsmarked.",
+      "highlights": [
+        "Redaksjonell fotografering + tilpasset type system",
+        "Tjenestesider for hver kosmetisk behandling",
+        "Ny pasientbestillingsflyt samme uke",
+        "LocalBusiness-skjema tilpasset Austin sentrum"
+      ],
+      "location": "Austin, TX",
+      "duration": "9 uker",
+      "metrics": [
+        {
+          "label": "Konsultasjonsforespørsler / mnd"
+        },
+        {
+          "label": "'Aesthetic Austin' lokal rangering"
+        },
+        {
+          "label": "Mobil LCP"
+        },
+        {
+          "label": "Bestillingskonvertering"
+        }
+      ],
+      "quote": {
+        "text": "Siden samsvarer endelig med opplevelsen pasientene får i klinikken. Downtown Austin vet nå hvor du skal dra.",
+        "author": "Grunnleggende hudlege",
+        "role": "Sentral Austin Dermatologi"
+      }
+    },
+    "clear-dermatology": {
+      "tagline": "Medisinsk-første Scottsdale-praksis: gjenoppbygd rundt klinisk autoritet og tilgang til nye pasienter samme uke.",
+      "challenge": "Sterke leger, svak digital historie – tilstandssider leses som en lærebok, ingen klar vei til bok, og betalte annonser som bærer mesteparten av belastningen av nye pasienter.",
+      "solution": "Lege-autoriserte tilstandshuber, gjennomsiktig forsikringsinformasjon, bestilling med ett trykk og et innholdssystem det medisinske teamet kan oppdatere uten en webmaster.",
+      "highlights": [
+        "20+ legeforfattede tilstandssider",
+        "Gjennomsiktig forsikring + ny-pasientskjemaer",
+        "Tilgjengelighetswidget for avtaler samme uke",
+        "Redaktørvennlig CMS for det medisinske teamet"
+      ],
+      "location": "Scottsdale, AZ",
+      "duration": "12 uker",
+      "metrics": [
+        {
+          "label": "Økologiske økter / mnd"
+        },
+        {
+          "label": "Nye pasientskjemaer / mnd"
+        },
+        {
+          "label": "Betalt cert"
+        },
+        {
+          "label": "Sidehastighet (mobil)"
+        }
+      ],
+      "quote": {
+        "text": "Vi sluttet å leie pasienter fra Google Ads. Organisk og direkte har nå flere nye bestillinger enn betalt noen gang.",
+        "author": "Praksisadministrator",
+        "role": "Klar dermatologi"
+      }
+    },
+    "olansky-dermatology": {
+      "tagline": "Atlanta kosmetikkpraksis i flere generasjoner: gammelt merke modernisert uten å miste 30 års tillit.",
+      "challenge": "En pålitelig 30-årig merkevare gjemt bak et datert nettsted - kosmetiske tjenester underrepresentert og yngre pasienter som ikke finner praksisen på mobil.",
+      "solution": "Modernisert visuelt system som respekterer arven, fullstendig kosmetisk tjenestearkitektur, før/etter-galleri med samtykkearbeidsflyt og en mobil-først-bestillingsvei.",
+      "highlights": [
+        "Oppdatert identitet som hedrer 30-års arv",
+        "Samtykkestyrt før/etter-galleri",
+        "Service-første meganavigasjon",
+        "Mobil-første konsultasjon booking"
+      ],
+      "location": "Atlanta, GA",
+      "duration": "14 uker",
+      "metrics": [
+        {
+          "label": "Konsultasjonsforespørsler / mnd"
+        },
+        {
+          "label": "Mobilbestillinger deler"
+        },
+        {
+          "label": "Organiske økter"
+        },
+        {
+          "label": "Gj.sn. konsultere verdi"
+        }
+      ],
+      "quote": {
+        "text": "Våre lojale pasienter kjenner oss fortsatt igjen, og en helt ny generasjon finner oss for første gang.",
+        "author": "Administrerende partner",
+        "role": "Olansky Dermatologi"
+      }
+    },
+    "dermatology-san-antonio": {
+      "tagline": "San Antonio-gruppe med flere lokasjoner: konsolidert merkevare og ulåst lokalt søk på tvers av hver klinikk.",
+      "challenge": "Flere klinikker som konkurrerer med hverandre i søk, inkonsekvent merkevarebygging på tvers av lokasjoner, og ingen enkelt kilde til sannhet for tjenester eller leverandører.",
+      "solution": "Samlet merkesystem med autoritetssider per klinikk, LocalBusiness + Lege-skjema per lokasjon og en sentralisert redaksjonell arbeidsflyt.",
+      "highlights": [
+        "Autoritetssider per sted med unik kopi",
+        "Skjema for hver klinikk og lege",
+        "Delt komponentbibliotek, lokale overstyringer",
+        "Sentral booking med lokasjonsruting"
+      ],
+      "location": "San Antonio, TX",
+      "duration": "16 uker",
+      "metrics": [
+        {
+          "label": "Klinikker i kartpakke #1–3"
+        },
+        {
+          "label": "Nye pasientskjemaer / mnd"
+        },
+        {
+          "label": "Kombinert organisk trafikk"
+        },
+        {
+          "label": "Mobil LCP"
+        }
+      ],
+      "quote": {
+        "text": "Hver klinikk rangerer til slutt på sine egne premisser, og markedsføringsteamet vårt sender i stedet for brannslukking.",
+        "author": "Markedsdirektør",
+        "role": "Dermatology Associates i San Antonio"
+      }
+    },
+    "direct-dermatology": {
+      "tagline": "Store-and-forward teledermatologi: kuttet registreringsfriksjonen og doblet fullførte virtuelle besøk.",
+      "challenge": "Forvirrende inntak, uklare forsikringsmeldinger og 46 % mobilfrafall før pasienter lastet opp et bilde.",
+      "solution": "Én-skjerms tilstand + tilstandsvelger, gjennomsiktig prissetting, progressiv bildeopplasting for trege nettverk, og en omskriving av forsikring først.",
+      "highlights": [
+        "Én-skjerms inntak erstatter 5-trinns veiviser",
+        "Progressiv bildeopplasting for treg mobil",
+        "Forsikring-første melding over den synlige delen",
+        "HIPAA-revidert flyt ende-til-ende"
+      ],
+      "location": "USA · Teledermatologi",
+      "duration": "10 uker",
+      "metrics": [
+        {
+          "label": "Fullført registrering"
+        },
+        {
+          "label": "Mobil avlevering"
+        },
+        {
+          "label": "Besøk startet / dag"
+        },
+        {
+          "label": "CAC (betalt)"
+        }
+      ],
+      "quote": {
+        "text": "Å fjerne friksjonen var ikke kosmetisk – hvert trinn vi kuttet ble et fullført besøk og en ekte pasient.",
+        "author": "VP-produkt",
+        "role": "Direkte dermatologi"
+      }
+    },
+    "colorado-dermatology": {
+      "tagline": "Colorado multi-lokasjon praksis: enhetlig digital inngangsdør over Front Range.",
+      "challenge": "Separate mikronettsteder per plassering, duplisert tjenesteinnhold og ingen konsistent merkevare – pasienter som hopper mellom nettsteder og Google er ikke sikre på hvilken side de skal rangere.",
+      "solution": "Enkelt enhetlig plattform, autoritetssider per klinikk med unik lokal kopi og 301-migrering som bevarte hver rangering under konsolideringen.",
+      "highlights": [
+        "Null-tap 301-migrering fra 4 eldre nettsteder",
+        "LocalBusiness-skjema per sted",
+        "Leverandørkatalog med fasettert søk",
+        "Sentralisert redaksjonell styring"
+      ],
+      "location": "Colorado · Multi-lokasjon",
+      "duration": "18 uker",
+      "metrics": [
+        {
+          "label": "Organisk trafikk (nettverk)"
+        },
+        {
+          "label": "Steder rangert topp 3"
+        },
+        {
+          "label": "Nye pasientbestillinger / mnd"
+        },
+        {
+          "label": "Sidehastighet (mobil)"
+        }
+      ],
+      "quote": {
+        "text": "Vi snakker endelig med én stemme over Front Range - og tallene viser at pasienter legger merke til det.",
+        "author": "Chief Operating Officer",
+        "role": "Colorado Dermatologi"
+      }
+    },
+    "skymd-teledermatology": {
+      "tagline": "50-stats teledermatologiplattform: fra forvirrende registrering til under 2-minutters virtuelt besøk.",
+      "challenge": "6-trinns registrering, uklar delstatsdekning, forsikringstvetydighet og 42 % mobilfrafall før pasientene noen gang kom til kassen.",
+      "solution": "Én-skjerms tilstand + tilstandsvelger, gjennomsiktig forsikring og priser, mobil-først flyt og progressiv bildeopplasting som fortsetter å jobbe med langsomme landlige forbindelser.",
+      "highlights": [
+        "Tilstand + tilstandsvelger i ett skjermbilde",
+        "Gjennomsiktig forsikring + egenbetalingspris",
+        "Progressiv bildeopplasting for trege nettverk",
+        "HIPAA-revidert flyt med SOC 2-hosting"
+      ],
+      "location": "50-stats teledermatologi",
+      "duration": "10 uker",
+      "metrics": [
+        {
+          "label": "Fullført registrering"
+        },
+        {
+          "label": "Avlevering av mobilkasse"
+        },
+        {
+          "label": "Besøk startet / dag"
+        },
+        {
+          "label": "CAC (betalt)"
+        }
+      ],
+      "quote": {
+        "text": "Hvert forlatte trinn vi fjernet dukket opp som et bestilt besøk. Dette var ikke design – det var inntektsteknikk.",
+        "author": "VP Vekst",
+        "role": "SkyMD"
+      }
+    },
+    "cura-clinics": {
+      "tagline": "Helt tospråklig (arabisk-første RTL + engelsk) dermatologimerke for det saudiske luksusmarkedet.",
+      "challenge": "Den eksisterende siden var kun engelsk med en ettertenkt arabisk bytte, brøt på RTL og hadde ingen WhatsApp / STC Pay-bestilling - verktøyene saudiske pasienter faktisk bruker.",
+      "solution": "Arabisk-første RTL-designsystem, innfødt tospråklig CMS, WhatsApp Business-bestilling, STC Pay + Mada-kasse og Riyadh-spesifikk lokal SEO med arabisk skjema.",
+      "highlights": [
+        "Ekte RTL-designsystem (ikke en speilvending)",
+        "WhatsApp Business + STC Pay-bestillingsflyt",
+        "Arabisk + engelsk skjema for Google KSA",
+        "Ramadan-bevisste avtaletidspunkter"
+      ],
+      "location": "Riyadh, Saudi-Arabia",
+      "duration": "12 uker",
+      "metrics": [
+        {
+          "label": "Arabiske økologiske økter"
+        },
+        {
+          "label": "WhatsApp-bestillinger / mnd"
+        },
+        {
+          "label": "Mobil LCP (3G)"
+        },
+        {
+          "label": "Nye pasienter / mnd"
+        }
+      ],
+      "quote": {
+        "text": "Den arabiske opplevelsen føles endelig innfødt – ikke oversatt. Pasienter forteller oss at nettstedet ser mer premium ut enn klinikken.",
+        "author": "Klinikkdirektør",
+        "role": "Cura klinikker"
+      }
+    },
+    "galderma": {
+      "tagline": "Globalt dermatologimerke: bedriftsdesignsystem som forener produkt, HCP og pasientreiser på tvers av 90+ markeder.",
+      "challenge": "Dusinvis av regionale nettsteder på forskjellige stabler, inkonsekvent merkeuttrykk på tvers av HCP- og pasientpublikum, og compliance-arbeidsflyter som bremset hver lansering.",
+      "solution": "Bedriftsdesignsystem med innelåste samsvarsmønstre, delte komponenter for HCP og pasientreiser, og redaksjonelle overstyringer per marked med sentral styring.",
+      "highlights": [
+        "Designsystem distribuert på tvers av 90+ markeder",
+        "Separate HCP- og pasientreiser, delt skall",
+        "Samsvarslåste komponentvarianter",
+        "Sentral redaksjonell styring med lokale overstyringer"
+      ],
+      "location": "Global · Enterprise dermatology",
+      "duration": "26 uker",
+      "metrics": [
+        {
+          "label": "På tide å lansere en markedsside"
+        },
+        {
+          "label": "Global organisk trafikk"
+        },
+        {
+          "label": "HCP-portalfullføring"
+        },
+        {
+          "label": "Design billettvolum"
+        }
+      ],
+      "quote": {
+        "text": "Ett system, nitti markeder, null merkevaredrift – og lanseringer som pleide å ta en fjerdedel, sendes nå om uker.",
+        "author": "Global Digital Lead",
+        "role": "Galderma"
+      }
+    },
+    "badr-health": {
+      "tagline": "Saudi multispesialitetsgruppe: tospråklig pasientportal og enhetlig booking på tvers av hver spesialitet.",
+      "challenge": "Den eldre siden var engelsk først med svak arabisk støtte, spesialsider leste som en katalog, og bestilling krevde en telefonsamtale til resepsjonen.",
+      "solution": "Arabisk-første RTL-plattform, per-spesialitet myndighetshuber, WhatsApp + online booking med klinikkerouting, og Insurance + Mada betalingsflyt.",
+      "highlights": [
+        "Arabisk-første RTL-plattform (ikke oversatt)",
+        "Autoritetsknutepunkter per spesialitet med skjema",
+        "WhatsApp Business + online bestilling",
+        "Insurance + Mada betalingsintegrasjon"
+      ],
+      "location": "Saudi-Arabia · Multi-spesialitet",
+      "duration": "14 uker",
+      "metrics": [
+        {
+          "label": "Arabiske økologiske økter"
+        },
+        {
+          "label": "Online bestilling / mnd"
+        },
+        {
+          "label": "Mobil LCP"
+        },
+        {
+          "label": "Call-senter innkommende"
+        }
+      ],
+      "quote": {
+        "text": "Pasienter bestiller seg selv på arabisk på telefonene sine – kundesenteret vårt håndterer nå komplekse saker, ikke planlegging.",
+        "author": "Leder for Digital",
+        "role": "Badr Helse"
+      }
+    },
+    "zmmco-medical": {
+      "tagline": "MENA medisinsk distributør: B2B-katalog og blymotor gjenoppbygd for kjøpere av dermatologi + estetiske enheter.",
+      "challenge": "Statisk brosjyreside uten produktkatalog, ingen lead-fangst og klinikere som ikke kan finne enhetsspesifikasjoner – salgsteamet stiller hvert spørsmål via e-post.",
+      "solution": "Full produktkatalog med fasettert søk, autoritetssider per enhet med kliniske spesifikasjoner, tospråklig EN/AR-innhold og et kvalifisert kundeemneskjema koblet til salgs-CRM.",
+      "highlights": [
+        "Fasettert produktkatalog med kliniske spesifikasjoner",
+        "Tospråklige EN/AR-autorisasjonssider per enhet",
+        "Kvalifisert-lead-fangst inn i salgs-CRM",
+        "Distributør + klinikkportal med prisnivåer"
+      ],
+      "location": "MENA · Medisinsk distribusjon",
+      "duration": "16 uker",
+      "metrics": [
+        {
+          "label": "Kvalifiserte kundeemner / mnd"
+        },
+        {
+          "label": "Organiske økter"
+        },
+        {
+          "label": "Salgssykluslengde"
+        },
+        {
+          "label": "Support e-post / mnd"
+        }
+      ],
+      "quote": {
+        "text": "Klinikere gjør nå selvbetjente enhetsspesifikasjoner og kommer til oss klare til å kjøpe. Våre representanter lukker i stedet for å forklare.",
+        "author": "Kommersiell direktør",
+        "role": "ZMMCO Medical"
+      }
+    },
+    "naturium": {
+      "tagline": "Hudlege-elsket DTC-hudpleiemerke: hodeløs handelsbygg som skalert til 8-sifret inntekt.",
+      "challenge": "Legacy Shopify-tema, 3.2s LCP på PDP, svak ingrediensopplæring og CVR som slo til tross for dobling av betalte utgifter.",
+      "solution": "Hodeløs handel på et tilpasset designsystem, sekundære PDP-er, dermatolog-forfattet ingrediensutdanning, quiz-drevet rutinebygger og A/B-testet utsjekking.",
+      "highlights": [
+        "Headless Shopify + tilpasset designsystem",
+        "Dermatolog-forfattet ingrediensleksikon",
+        "Rutinebyggerquiz (37 % fullføring)",
+        "Sub-andre PDP-er på alle produkter"
+      ],
+      "location": "USA · DTC hudpleie",
+      "duration": "20 uker",
+      "metrics": [
+        {
+          "label": "PDP LCP"
+        },
+        {
+          "label": "Nettstedsomfattende CVR"
+        },
+        {
+          "label": "AOV"
+        },
+        {
+          "label": "Returkundesats"
+        }
+      ],
+      "quote": {
+        "text": "Siden ble vår beste markedsfører. Hver krone av betalte utgifter gir nå mer, og organiske inntekter er tredoblet.",
+        "author": "Leder for e-handel",
+        "role": "Naturium"
+      }
+    },
+    "skin-and-me": {
+      "tagline": "Britisk reseptbelagte hudpleietjeneste: quiz-drevet oppkjøpstrakt som gjorde en abonnementsboks til et klinisk merke.",
+      "challenge": "Forbrukermerkets estetikk som skjulte den kliniske strengheten, quizfrafall ved bildeopplasting og uklar LTV for gjentatte reseptbeskjeder.",
+      "solution": "Hudlege-forfattet prøvestrimmel, progressiv quiz med umiddelbare fototips, gjennomsiktig formelavsløring og en abonnementsadministrasjons-UX som reduserte churn.",
+      "highlights": [
+        "Progressiv quiz med live fotoveiledning",
+        "Dermatologsikker stripe på hvert trinn",
+        "Transparent avsløring av aktive ingredienser",
+        "Selvbetjent abonnement pause / bytte"
+      ],
+      "location": "Storbritannia · Teledermatologi",
+      "duration": "12 uker",
+      "metrics": [
+        {
+          "label": "Quiz fullføring"
+        },
+        {
+          "label": "Drop-off for fotoopplasting"
+        },
+        {
+          "label": "Prøveperiode → betalt CVR"
+        },
+        {
+          "label": "6 måneders abonnent LTV"
+        }
+      ],
+      "quote": {
+        "text": "Trakten gjenspeiler til slutt medisinen bak produktet. Prøvekonvertering ble doblet uten å berøre betalt forbruk.",
+        "author": "Leder for vekst",
+        "role": "Hud + meg"
+      }
+    },
+    "sydney-dermatology": {
+      "tagline": "Sydney CBD medisinsk praksis: gjenoppbygd rundt hudkreftmyndighet og tilgang til nye pasienter samme uke.",
+      "challenge": "Vakker klinikk gjemt bak en langsom mal, ingen rangering for søkeord for hudkreft med høy intensjon, og henvisninger har en flaskehals i en papirfaksarbeidsflyt.",
+      "solution": "Hudkreftmyndighetssenter, bestillingsmodul for føflekksjekk, henvisningsportal for fastleger med e-faks, og Sydney-lokalt skjema rettet mot østlige og indre vestlige forsteder.",
+      "highlights": [
+        "Hudkreftmyndighetsnav med skjema",
+        "Samme uke muldvarp sjekk booking widget",
+        "Fastlegehenvisningsportal med e-faks",
+        "Lokal SEO på forstadsnivå over hele Sydney"
+      ],
+      "location": "Sydney, Australia",
+      "duration": "11 uker",
+      "metrics": [
+        {
+          "label": "'Skin check Sydney' rangering"
+        },
+        {
+          "label": "Nye pasientbestillinger / mnd"
+        },
+        {
+          "label": "Fastlegehenvisninger / mnd"
+        },
+        {
+          "label": "Mobil LCP"
+        }
+      ],
+      "quote": {
+        "text": "Hudsjekker bestiller nå selv. Fastlegene våre elsker henvisningsportalen og pasienter kommer allerede utdannet.",
+        "author": "Praksis rektor",
+        "role": "Sydney Dermatologi"
+      }
+    },
+    "dr-haus-dermatology": {
+      "tagline": "Harley Street kosmetisk klinikk: redaksjonell rebrand som trakk praksisen inn i Londons øverste estetiske lag.",
+      "challenge": "Boutique Harley Street-merket konkurrerer mot London-kjeder, ingen differensiering på injiserbare legemidler, og konsultasjonsforespørsler som faller av på mobil.",
+      "solution": "Redaksjonelt visuelt system, leverandørledet historiefortelling, behandling per side-arkitektur for injiserbare preparater og lasere, og en concierge-konsultasjonsflyt tilpasset mobil.",
+      "highlights": [
+        "Redaksjonell identitet + tilpasset typografi",
+        "En side per injiserbar og laser",
+        "Concierge konsulter booking på mobil",
+        "Harley Street lokalt skjema"
+      ],
+      "location": "London, Storbritannia",
+      "duration": "10 uker",
+      "metrics": [
+        {
+          "label": "Konsultasjonsforespørsler / mnd"
+        },
+        {
+          "label": "'Aesthetic London' lokal rangering"
+        },
+        {
+          "label": "Gj.sn. konsultere verdi"
+        },
+        {
+          "label": "Mobil booking CVR"
+        }
+      ],
+      "quote": {
+        "text": "Siden snakker nå språket til pasientene vi faktisk ønsker. Hver konsultasjon kommer prekvalifisert.",
+        "author": "Grunnlegger",
+        "role": "Dr Haus Dermatologi"
+      }
+    },
+    "skincare-by-dr-v": {
+      "tagline": "Global hud-av-farge-autoritet: DTC-butikkfront + redaksjonelt knutepunkt som skalert en spesialistpraksis over hele verden.",
+      "challenge": "Ekspertise i verdensklasse innen hud-av-farge dermatologi fanget inne i en langsom butikkfront, svak ingrediensutdanning og internasjonal fraktfriksjon som dreper gjentatte bestillinger.",
+      "solution": "Hodeløs butikkfront på et skreddersydd designsystem, redaksjonelle tilstandshuber etter hudtype, ingrediensleksikon og internasjonal frakt med lokal valuta.",
+      "highlights": [
+        "Redaksjonelle hubs for pigmentering og akne",
+        "Ingrediensleksikon av bekymring",
+        "Internasjonal kasse med flere valutaer",
+        "Sub-andre PDP-er på alle produkter"
+      ],
+      "location": "London · Global (farget hud)",
+      "duration": "16 uker",
+      "metrics": [
+        {
+          "label": "Økologiske økter / mnd"
+        },
+        {
+          "label": "Internasjonal ordreandel"
+        },
+        {
+          "label": "PDP LCP"
+        },
+        {
+          "label": "Returkundesats"
+        }
+      ],
+      "quote": {
+        "text": "Pasienter over tre kontinenter finner oss nå for akkurat det vi er best – og kjøper uten friksjonsvegg.",
+        "author": "Grunnlegger og medisinsk direktør",
+        "role": "Hudpleie av Dr V"
+      }
+    },
+    "the-derma-co": {
+      "tagline": "Hudlege-formulert indisk DTC-merke: quiz + PDP gjenoppbygger det ulåste kategoriledelsen.",
+      "challenge": "Blomstrende merke som treffer et CVR-tak: trege PDP-er på 3G, svak ingrediens-troverdighet og en quiz som mistet 40 % av brukerne ved bekymringsvalg.",
+      "solution": "Sub-andre PDP-skall, hudlege-forfattet bekymringshuber, quiz redesignet for indisk mobil med én tommel og fjerning av friksjon ved levering.",
+      "highlights": [
+        "Sub-sekund PDP-er testet på 3G",
+        "Bekymrings-første quiz for bruk med én tommel",
+        "Hudlege-forfattet ingredienssider",
+        "Friksjonsfri COD + UPI-kasse"
+      ],
+      "location": "India · DTC hudpleie",
+      "duration": "18 uker",
+      "metrics": [
+        {
+          "label": "PDP LCP (3G)"
+        },
+        {
+          "label": "Quiz fullføring"
+        },
+        {
+          "label": "Nettstedsomfattende CVR"
+        },
+        {
+          "label": "Gjenta kjøpet"
+        }
+      ],
+      "quote": {
+        "text": "Nettstedet holder tritt med veksten vår i stedet for å begrense den. Hvert resultatpoeng kombinert til inntekter.",
+        "author": "VP Digital",
+        "role": "Derma Co"
+      }
+    },
+    "belfast-skin-clinic": {
+      "tagline": "Nord-Irlands ledende private dermatologiske klinikk: autoritetsknutepunkt som eier Belfast Search.",
+      "challenge": "Regional myndighet gjemt bak et datert nettsted, forsikrings- og egenbetalingspriser begravd, og etterspørselen om føflekksjekk rutet gjennom telefonbestilling.",
+      "solution": "Konsulentforfattede tilstandshuber, gjennomsiktig egenbetaling + BUPA-priser, online bestilling av føflekker og lokalt skjema i Nord-Irland.",
+      "highlights": [
+        "Konsulentforfattet tilstandshuber",
+        "Gjennomsiktig BUPA + selvbetalende priser",
+        "Online bestilling av føflekksjekk",
+        "Belfast + NI-omfattende lokalt skjema"
+      ],
+      "location": "Belfast, Nord-Irland",
+      "duration": "9 uker",
+      "metrics": [
+        {
+          "label": "'Dermatolog Belfast' rangering"
+        },
+        {
+          "label": "Online bestilling / mnd"
+        },
+        {
+          "label": "Organiske økter"
+        },
+        {
+          "label": "Lasting kun på telefon"
+        }
+      ],
+      "quote": {
+        "text": "Resepsjonen var tidligere bookingsystemet. Nå gjør nettstedet det - og pasientene kommer allerede forberedt.",
+        "author": "Klinikkdirektør",
+        "role": "Belfast Skin Clinic"
+      }
+    },
+    "cpso-ontario": {
+      "tagline": "Provinsiell medisinsk tilsynsmyndighet: 40 000 legekatalog + nettsted for offentlig tillit gjenoppbygd for tilgjengelighet og skala.",
+      "challenge": "Eldre plattform som spenner seg inn under en offentlig legesøkekatalog, WCAG-feil på hele nettstedet, og hvert internt team bestiller en nettredaktør for redigeringer.",
+      "solution": "Bedriftsdesignsystem med AA-reviderte komponenter, fasettert legesøk som skaleres til 40 000 poster, fransk/engelsk tospråklig redaksjonell arbeidsflyt og selvbetjent publisering for interne team.",
+      "highlights": [
+        "WCAG 2.1 AA revidert komponentbibliotek",
+        "Fasettkatalog på tvers av 40 000 leger",
+        "EN/FR tospråklig redaksjonell arbeidsflyt",
+        "Selvbetjent publisering på tvers av avdelinger"
+      ],
+      "location": "Ontario, Canada · Regulator",
+      "duration": "22 uker",
+      "metrics": [
+        {
+          "label": "Katalogsøk ventetid"
+        },
+        {
+          "label": "WCAG-utgaver åpne"
+        },
+        {
+          "label": "Utgivelse av billetter / mnd"
+        },
+        {
+          "label": "Mobil LCP"
+        }
+      ],
+      "quote": {
+        "text": "Ontarianere får svar på under et sekund, og teamene våre publiserer uten å vente på IT. Det er regulatoren vi ønsket å være online.",
+        "author": "Direktør for digitalt",
+        "role": "CPSO"
+      }
+    },
+    "sunpark-dermatology": {
+      "tagline": "Calgary medisinsk + kirurgisk dermatologi praksis: autoritet gjenoppbygging som eier sørlige Alberta søk.",
+      "challenge": "Sterke leger, usynlige på nettet – ingen rangering for kirurgiske termer med høy intensjon, henvisningsskjemaer fanget i PDF-er og mobilhastighet som skader rekkevidden til nye pasienter.",
+      "solution": "Lege-autorisert kirurgisk + medisinsk hub, online henvisningsskjema for fastleger, Alberta-omfattende lokalt skjema, og sub-second mobile shell.",
+      "highlights": [
+        "Lege-autoriserte kirurgiske hubs",
+        "Legehenvisning på nett (ikke flere PDF-er)",
+        "Lokalt skjema for hele Alberta",
+        "Sub-andre mobilskall"
+      ],
+      "location": "Calgary, Canada",
+      "duration": "10 uker",
+      "metrics": [
+        {
+          "label": "'Mohs kirurgi Calgary' rangering"
+        },
+        {
+          "label": "Fastlegehenvisninger / mnd"
+        },
+        {
+          "label": "Organiske økter"
+        },
+        {
+          "label": "Mobil LCP"
+        }
+      ],
+      "quote": {
+        "text": "Vi sluttet å miste kirurgiske henvisninger til større grupper. Siden tjener dem for oss nå.",
+        "author": "Medisinsk direktør",
+        "role": "Sunpark Dermatologi"
+      }
+    },
+    "norvic-hospital": {
+      "tagline": "Nepals ledende private sykehus: område med flere avdelinger gjenoppbygd rundt pasienttilgang og medisinsk turismeinntak.",
+      "challenge": "Dusinvis av avdelinger på inkonsekvente sider, medisinsk-turismeforespørsler tapt i et kontaktskjema, og mobilhastighet ubrukelig på nepalesisk 3G/4G.",
+      "solution": "Samlet avdelingsarkitektur, medisinsk turismeinntak med land + prosedyreruting, engelsk/nepalisk tospråklig innhold og et sekundært mobilskall testet på 3G.",
+      "highlights": [
+        "Samlet avdeling + legekatalog",
+        "Medisinsk-turisme inntak med land routing",
+        "EN/NE tospråklig redaksjonell arbeidsflyt",
+        "Sub-andre mobilskall på 3G"
+      ],
+      "location": "Kathmandu, Nepal · Sykehus med flere spesialiteter",
+      "duration": "20 uker",
+      "metrics": [
+        {
+          "label": "Medisinsk-turisme fører / mnd"
+        },
+        {
+          "label": "Online avtaler / mnd"
+        },
+        {
+          "label": "Mobil LCP (3G)"
+        },
+        {
+          "label": "Avdelinger rangerer topp 3"
+        }
+      ],
+      "quote": {
+        "text": "Pasienter fra hele Sør-Asia finner og bestiller oss nå i én flyt. Nettstedet gjør arbeidet til et helt inntaksteam.",
+        "author": "CIO",
+        "role": "Norvic internasjonale sykehus"
+      }
+    },
+    "st-george-dermatology": {
+      "tagline": "Dermatologigruppe i Sør-Sydney: hudkreftmyndighet + SEO på forstadsnivå over hele St George-regionen.",
+      "challenge": "Regional praksis som konkurrerer mot Sydney CBD-kjeder, svak rangering for søk på forstadsnivå og henvisningsarbeidsflyt fortsatt faksbasert.",
+      "solution": "Forstad-for-forstad myndighetssider, hudkreft + pediatriske knutepunkter, e-henvisningsportal for fastleger og lokalt skjema for hele Australia.",
+      "highlights": [
+        "Myndighetssider på forstadsnivå",
+        "Hub for pediatrisk dermatologi",
+        "E-henvisningsportal for fastleger",
+        "Lokalt skjema for hele AU innstilt for St George"
+      ],
+      "location": "Sydney (St George), Australia",
+      "duration": "12 uker",
+      "metrics": [
+        {
+          "label": "Forsteder i kartpakke #1–3"
+        },
+        {
+          "label": "Nye pasientbestillinger / mnd"
+        },
+        {
+          "label": "Fastlegehenvisninger / mnd"
+        },
+        {
+          "label": "Mobil LCP"
+        }
+      ],
+      "quote": {
+        "text": "Vi dukker endelig opp i hver forstad vi betjener. Pasienter misligholder ikke lenger CBD ved et uhell.",
+        "author": "Praksisleder",
+        "role": "St George Dermatologi"
+      }
+    },
+    "the-skin-lab": {
+      "tagline": "Australsk estetisk klinikk: redaksjonell rebrand + behandling-per-side-arkitektur som eier kosmetisk søk.",
+      "challenge": "Hurtigvoksende estetisk merkevare som treffer et oppdagelsestak – hver behandling stappet på én side, ingen lokal myndighet, og konsulter avlevering på mobil.",
+      "solution": "Én autorisasjonsside per behandling, redaksjonell leverandørbios, mobil-først konsultasjon og skjema på lokasjonsnivå på tvers av hver klinikk.",
+      "highlights": [
+        "Én autorisasjonsside per behandling",
+        "Redaksjonell leverandør historiefortelling",
+        "Mobil-første concierge konsultasjonsflyt",
+        "Per-lokasjonsskjema på tvers av AU"
+      ],
+      "location": "Australia · Estetisk",
+      "duration": "13 uker",
+      "metrics": [
+        {
+          "label": "Konsultasjonsforespørsler / mnd"
+        },
+        {
+          "label": "'Skin needling AU' rangering"
+        },
+        {
+          "label": "Mobil booking CVR"
+        },
+        {
+          "label": "Gj.sn. konsultere verdi"
+        }
+      ],
+      "quote": {
+        "text": "Hver behandling har til slutt sitt eget stadium. Pasienter velger oss fordi nettstedet allerede har svart på spørsmålene deres.",
+        "author": "Grunnlegger",
+        "role": "Hudlaben"
+      }
+    }
+  },
+  "categoryLabels": {
+    "aesthetic": "Boutique-estetikk",
+    "medical": "Medisinsk dermatologi",
+    "multiLocation": "Gruppe med flere lokasjoner",
+    "teledermatology": "Teledermatologi",
+    "international": "MENA · tospråklig",
+    "enterprise": "Enterprise · global merkevare"
+  },
+  "filters": {
+    "all": "Alle casestudier",
+    "aesthetic": "Estetisk",
+    "medical": "Medisinsk",
+    "multiLocation": "Multi-lokasjon",
+    "teledermatology": "Teledermatologi",
+    "international": "MENA og internasjonalt",
+    "enterprise": "Enterprise"
+  },
+  "labels": {
+    "challenge": "Utfordring",
+    "solution": "Hva vi sendte"
+  },
+  "actions": {
+    "visitSite": "Besøk nettstedet",
+    "getResults": "Få resultater som disse",
+    "viewLive": "Se live nettsted"
+  },
+  "section": {
+    "eyebrow": "Reelle praksiser · Reelle tall",
+    "headingPre": "Hver casestudie er en",
+    "headingHighlight": "live dermatologipraksis",
+    "subheading": "Før/etter tall om bestillinger, SEO, sidehastighet og inntekter – hentet fra ekte analyser, ikke kortstokker.",
+    "filter": "Filter",
+    "empty": "Ingen casestudier i denne kategorien ennå."
+  }
+}
