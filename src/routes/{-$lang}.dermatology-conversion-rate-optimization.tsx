@@ -1,5 +1,6 @@
 import { createFileRoute, notFound } from "@tanstack/react-router";
 import { LocalLink as Link } from "@/components/local-link";
+import { CtaLabel } from "@/lib/cta";
 import { buildHreflangLinks } from "@/lib/i18n-routing";
 import { useEffect, useState } from "react";
 import { useTranslation } from "react-i18next";
@@ -135,13 +136,7 @@ function CROPage() {
                   to="/contact"
                   className="group inline-flex min-h-11 items-center gap-2 rounded-full bg-brand-primary px-5 py-3 text-sm font-semibold text-brand-primary-foreground shadow-[0_12px_36px_-14px_color-mix(in_oklch,var(--brand-primary),transparent_40%)] transition-transform hover:scale-[1.02]"
                 >
-                  {t("hero.cta_audit")} <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-0.5" />
-                </Link>
-                <Link
-                  to="/contact"
-                  className="inline-flex min-h-11 items-center gap-2 rounded-full border border-border bg-card px-5 py-3 text-sm font-semibold text-foreground transition-colors hover:border-brand-primary/40 hover:text-brand-primary"
-                >
-                  <Play className="h-4 w-4" /> {t("hero.cta_case_study")}
+                  <CtaLabel /> <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-0.5" />
                 </Link>
               </div>
               <div className="mt-6 flex items-baseline gap-2 text-xs text-muted-foreground">
@@ -346,7 +341,7 @@ function CROPage() {
                 to="/contact"
                 className="mt-2 inline-flex min-h-11 w-fit items-center gap-2 rounded-full border border-border bg-card px-5 py-3 text-sm font-semibold text-foreground transition-colors hover:border-brand-primary/40 hover:text-brand-primary"
               >
-                {t("caseStudy.cta")} <ArrowRight className="h-4 w-4" />
+                <CtaLabel /> <ArrowRight className="h-4 w-4" />
               </Link>
             </div>
           </Reveal>
@@ -530,7 +525,7 @@ function CROPage() {
                         : "border border-border bg-background text-foreground hover:border-brand-primary/40 hover:text-brand-primary"
                     }`}
                   >
-                    {t("pricing.get_started")} <ArrowRight className="h-4 w-4" />
+                    <CtaLabel /> <ArrowRight className="h-4 w-4" />
                   </Link>
                 </div>
               </Reveal>
@@ -581,13 +576,7 @@ function CROPage() {
                   to="/contact"
                   className="group inline-flex min-h-11 items-center gap-2 rounded-full bg-brand-primary px-6 py-3 text-sm font-semibold text-brand-primary-foreground shadow-[0_12px_36px_-14px_color-mix(in_oklch,var(--brand-primary),transparent_40%)] transition-transform hover:scale-[1.02]"
                 >
-                  {t("cta.button_quote")} <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-0.5" />
-                </Link>
-                <Link
-                  to="/contact"
-                  className="inline-flex min-h-11 items-center gap-2 rounded-full border border-border bg-background/70 px-5 py-3 text-sm font-semibold text-foreground transition-colors hover:border-brand-primary/40 hover:text-brand-primary"
-                >
-                  <MessageSquare className="h-4 w-4" /> {t("cta.button_contact")}
+                  <CtaLabel /> <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-0.5" />
                 </Link>
               </div>
             </div>
@@ -615,7 +604,7 @@ function CROPage() {
             to="/contact"
             className="inline-flex min-h-11 shrink-0 items-center gap-1.5 rounded-full bg-brand-primary px-4 py-2.5 text-sm font-semibold text-brand-primary-foreground"
           >
-            {t("mobile_sticky.button")} <ArrowRight className="h-4 w-4" />
+            <CtaLabel /> <ArrowRight className="h-4 w-4" />
           </Link>
         </div>
       </div>

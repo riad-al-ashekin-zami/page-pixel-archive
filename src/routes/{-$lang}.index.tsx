@@ -31,6 +31,7 @@ import heroComposition from "@/assets/hero-composition.webp.asset.json";
 import { isValidUrlLang } from "@/i18n/languages";
 import { getStaticTranslation } from "@/i18n";
 import { LocalLink } from "@/components/local-link";
+import { CtaLabel } from "@/lib/cta";
 import { robotsContent } from "@/lib/index-allowlist";
 
 
@@ -167,14 +168,8 @@ function Index() {
                     className="group inline-flex items-center justify-center gap-2 rounded-full px-7 py-3.5 text-sm font-semibold text-brand-primary-foreground shadow-[0_12px_30px_-10px_color-mix(in_oklch,var(--brand-primary),transparent_40%)] transition-all hover:-translate-y-0.5"
                     style={{ background: "linear-gradient(135deg, var(--brand-primary), color-mix(in oklch, var(--brand-primary), black 18%))" }}
                   >
-                    {t("hero.ctaPrimary")}
+                    <CtaLabel />
                     <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-0.5" />
-                  </LocalLink>
-                  <LocalLink
-                    to="/contact"
-                    className="inline-flex items-center justify-center gap-2 rounded-full border border-brand-primary/30 bg-background/60 px-7 py-3.5 text-sm font-semibold text-brand-primary backdrop-blur transition-colors hover:bg-brand-primary/5"
-                  >
-                    {t("hero.ctaSecondary")}
                   </LocalLink>
                 </div>
 

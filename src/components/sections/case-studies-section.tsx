@@ -18,6 +18,7 @@ import {
   type CaseStudyCategory,
 } from "@/data/case-studies";
 import { LocalLink as Link } from "@/components/local-link";
+import { CtaLabel } from "@/lib/cta";
 
 type FilterKey = "all" | CaseStudyCategory;
 
@@ -308,7 +309,7 @@ export function CaseStudiesSection() {
                       to="/contact"
                       className="group/btn inline-flex min-h-10 items-center gap-1.5 rounded-full bg-brand-primary px-5 py-2.5 text-sm font-semibold text-brand-primary-foreground shadow-[0_10px_24px_-12px_var(--brand-primary)] transition-transform hover:-translate-y-0.5"
                     >
-                      {t("actions.getResults", { defaultValue: "Get results like these" })}
+                      <CtaLabel />
                       <ArrowRight className="h-4 w-4 transition-transform group-hover/btn:translate-x-0.5" />
                     </Link>
                     <a

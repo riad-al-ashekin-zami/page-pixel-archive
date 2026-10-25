@@ -1,5 +1,6 @@
 import { createFileRoute, notFound } from "@tanstack/react-router";
 import { LocalLink as Link } from "@/components/local-link";
+import { CtaLabel } from "@/lib/cta";
 import { buildHreflangLinks, localizedUrl, resolveRouteLanguage } from "@/lib/i18n-routing";
 import { useEffect, useState } from "react";
 import { SiteHeader } from "@/components/site-header/site-header";
@@ -160,10 +161,7 @@ function ManagementPage() {
             </p>
             <div className="mt-8 flex flex-wrap gap-3">
               <Link to="/contact" className="inline-flex items-center gap-2 rounded-full bg-brand-primary px-6 py-3 text-sm font-semibold text-brand-primary-foreground shadow-lg shadow-brand-primary/20 transition hover:-translate-y-0.5">
-                {t("hero.cta_primary")} <ArrowRight className="h-4 w-4" />
-              </Link>
-              <Link to="/contact" className="inline-flex items-center gap-2 rounded-full border border-border bg-background px-6 py-3 text-sm font-semibold transition hover:bg-muted">
-                {t("hero.cta_secondary")}
+                <CtaLabel /> <ArrowRight className="h-4 w-4" />
               </Link>
             </div>
             <div className="mt-8 flex flex-wrap gap-x-6 gap-y-2 text-xs text-muted-foreground">
@@ -694,10 +692,7 @@ function ManagementPage() {
                 <p className="mt-3 text-muted-foreground">{t("cta_bottom.subheading")}</p>
                 <div className="mt-7 flex flex-wrap justify-center gap-3">
                   <Link to="/contact" className="inline-flex items-center gap-2 rounded-full bg-brand-primary px-6 py-3 text-sm font-semibold text-brand-primary-foreground shadow-lg shadow-brand-primary/20 transition hover:-translate-y-0.5">
-                    {t("cta_bottom.primary")} <ArrowRight className="h-4 w-4" />
-                  </Link>
-                  <Link to="/contact" className="inline-flex items-center gap-2 rounded-full border border-border bg-background px-6 py-3 text-sm font-semibold transition hover:bg-muted">
-                    {t("cta_bottom.secondary")}
+                    <CtaLabel /> <ArrowRight className="h-4 w-4" />
                   </Link>
                 </div>
               </div>

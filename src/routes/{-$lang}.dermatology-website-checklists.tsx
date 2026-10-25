@@ -2,6 +2,7 @@ import { useEffect, useMemo, useRef, useState } from "react";
 import { localizedUrl, resolveRouteLanguage, buildHreflangLinks } from "@/lib/i18n-routing";
 import { createFileRoute, notFound } from "@tanstack/react-router";
 import { LocalLink as Link } from "@/components/local-link";
+import { CtaLabel } from "@/lib/cta";
 import { motion, useScroll, useSpring } from "framer-motion";
 import {
   ArrowRight,
@@ -321,7 +322,7 @@ function ChecklistsPage() {
                     to="/contact"
                     className="inline-flex min-h-11 items-center justify-center gap-2 rounded-full border border-brand-primary/30 bg-background/60 px-7 py-3.5 text-sm font-semibold text-brand-primary backdrop-blur transition-colors hover:bg-brand-primary/5"
                   >
-                    {t("hero.actions.secondary")}
+                    <CtaLabel />
                   </Link>
                 </div>
 
@@ -507,7 +508,7 @@ function ChecklistsPage() {
                   to="/contact"
                   className="inline-flex items-center gap-2 rounded-full bg-brand-primary px-5 py-2.5 text-sm font-semibold text-brand-primary-foreground"
                 >
-                  {t("feedback.quoteCta")} <ArrowRight className="h-4 w-4" />
+                  <CtaLabel /> <ArrowRight className="h-4 w-4" />
                 </Link>
               </div>
             </div>
@@ -664,14 +665,8 @@ function ChecklistsPage() {
                       "linear-gradient(135deg, var(--brand-primary), color-mix(in oklch, var(--brand-primary), black 18%))",
                   }}
                 >
-                  {t("cta.links.audit")}
+                  <CtaLabel />
                   <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-0.5" />
-                </Link>
-                <Link
-                  to="/contact"
-                  className="inline-flex min-h-11 items-center justify-center gap-2 rounded-full border border-brand-primary/30 bg-background/70 px-7 py-3.5 text-sm font-semibold text-brand-primary backdrop-blur transition-colors hover:bg-brand-primary/5"
-                >
-                  {t("cta.links.contact")}
                 </Link>
               </div>
             </div>

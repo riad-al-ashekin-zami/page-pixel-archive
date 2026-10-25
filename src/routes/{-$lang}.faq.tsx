@@ -1,6 +1,7 @@
 import { useEffect, useMemo, useRef, useState } from "react";
 import { createFileRoute, notFound } from "@tanstack/react-router";
 import { LocalLink as Link } from "@/components/local-link";
+import { CtaLabel } from "@/lib/cta";
 import { useTranslation } from "react-i18next";
 import { getStaticTranslation } from "@/i18n";
 import {
@@ -581,7 +582,7 @@ function FaqPage() {
                       to="/contact"
                       className="inline-flex min-h-11 items-center gap-2 rounded-full bg-brand-primary px-5 py-2.5 text-sm font-semibold text-brand-primary-foreground"
                     >
-                      {t("navigation.askUs")} <ArrowRight className="h-4 w-4" />
+                      <CtaLabel /> <ArrowRight className="h-4 w-4" />
                     </Link>
                   </div>
                 </div>
@@ -767,14 +768,8 @@ function FaqPage() {
                       "linear-gradient(135deg, var(--brand-primary), color-mix(in oklch, var(--brand-primary), black 18%))",
                   }}
                 >
-                  {t("cta.buttons.contact")}
+                  <CtaLabel />
                   <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-0.5" />
-                </Link>
-                <Link
-                  to="/contact"
-                  className="inline-flex min-h-11 items-center justify-center gap-2 rounded-full border border-brand-primary/30 bg-background/70 px-7 py-3.5 text-sm font-semibold text-brand-primary backdrop-blur transition-colors hover:bg-brand-primary/5"
-                >
-                  <PhoneCall className="h-4 w-4" /> {t("cta.buttons.audit")}
                 </Link>
               </div>
             </div>

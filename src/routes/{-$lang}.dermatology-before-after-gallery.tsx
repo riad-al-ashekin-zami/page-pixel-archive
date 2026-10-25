@@ -1,5 +1,6 @@
 import { createFileRoute, notFound } from "@tanstack/react-router";
 import { LocalLink as Link } from "@/components/local-link";
+import { CtaLabel } from "@/lib/cta";
 import { buildHreflangLinks } from "@/lib/i18n-routing";
 import { useEffect, useRef, useState } from "react";
 import { AnimatePresence, motion } from "framer-motion";
@@ -340,13 +341,7 @@ function BeforeAfterGalleryPage() {
                   to="/contact"
                   className="group inline-flex min-h-11 items-center gap-2 rounded-full bg-brand-primary px-5 py-3 text-sm font-semibold text-brand-primary-foreground shadow-[0_12px_36px_-14px_color-mix(in_oklch,var(--brand-primary),transparent_40%)] transition-transform hover:scale-[1.02]"
                 >
-                  {t("hero.ctaBuild")} <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-0.5" />
-                </Link>
-                <Link
-                  to="/contact"
-                  className="inline-flex min-h-11 items-center gap-2 rounded-full border border-border bg-card px-5 py-3 text-sm font-semibold text-foreground transition-colors hover:border-brand-primary/40 hover:text-brand-primary"
-                >
-                  {t("hero.ctaAudit")}
+                  <CtaLabel /> <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-0.5" />
                 </Link>
               </div>
               <div className="mt-6 flex flex-wrap items-center gap-x-6 gap-y-3 text-xs text-muted-foreground">
@@ -464,7 +459,7 @@ function BeforeAfterGalleryPage() {
                       to="/contact"
                       className="mt-5 inline-flex min-h-11 w-full items-center justify-center gap-2 rounded-full border border-brand-primary/30 bg-brand-primary/5 px-4 text-sm font-semibold text-brand-primary transition-colors hover:bg-brand-primary hover:text-brand-primary-foreground"
                     >
-                      {t("gallery.card.bookCTA")} <ArrowRight className="h-4 w-4" />
+                      <CtaLabel /> <ArrowRight className="h-4 w-4" />
                     </Link>
                   </div>
                 </motion.article>
@@ -612,10 +607,7 @@ function BeforeAfterGalleryPage() {
               </div>
               <div className="flex flex-nowrap items-center gap-3 shrink-0">
                 <Link to="/contact" className="inline-flex min-h-11 items-center gap-2 whitespace-nowrap rounded-full bg-brand-primary px-5 text-sm font-semibold text-brand-primary-foreground shadow-lg transition-transform hover:scale-[1.02]">
-                  {t("cta.btnQuote")} <ArrowRight className="h-4 w-4" />
-                </Link>
-                <Link to="/contact" className="inline-flex min-h-11 items-center gap-2 whitespace-nowrap rounded-full border border-border bg-card px-5 text-sm font-semibold text-foreground transition-colors hover:border-brand-primary/40 hover:text-brand-primary">
-                  {t("cta.btnContact")}
+                  <CtaLabel /> <ArrowRight className="h-4 w-4" />
                 </Link>
               </div>
             </div>

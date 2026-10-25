@@ -1,5 +1,6 @@
 import { createFileRoute, notFound } from "@tanstack/react-router";
 import { LocalLink as Link } from "@/components/local-link";
+import { CtaLabel } from "@/lib/cta";
 import { buildHreflangLinks } from "@/lib/i18n-routing";
 import { useMemo, useState } from "react";
 import { useTranslation } from "react-i18next";
@@ -204,13 +205,7 @@ function MultiLocationDermPage() {
                   to="/contact"
                   className="inline-flex min-h-11 items-center justify-center gap-2 rounded-full bg-brand-primary px-6 py-3.5 text-sm font-bold text-brand-primary-foreground shadow-lg transition-transform hover:scale-[1.03]"
                 >
-                  {t("hero.cta")} <ArrowRight className="h-4 w-4" />
-                </Link>
-                <Link
-                  to="/contact"
-                  className="inline-flex min-h-11 items-center justify-center gap-2 rounded-full border border-border bg-card px-6 py-3.5 text-sm font-semibold text-foreground transition-colors hover:border-brand-primary hover:text-brand-primary"
-                >
-                  {t("hero.secondary_cta")}
+                  <CtaLabel /> <ArrowRight className="h-4 w-4" />
                 </Link>
               </div>
 
@@ -609,7 +604,7 @@ function MultiLocationDermPage() {
                       : "border border-border bg-background text-foreground hover:border-brand-primary hover:text-brand-primary"
                   }`}
                 >
-                  {t("sections.pricing.cta")} <ArrowRight className="h-4 w-4" />
+                  <CtaLabel /> <ArrowRight className="h-4 w-4" />
                 </Link>
               </div>
             ))}
@@ -817,13 +812,7 @@ function MultiLocationDermPage() {
                     to="/contact"
                     className="inline-flex min-h-11 items-center justify-center gap-2 rounded-full bg-brand-primary-foreground px-6 py-3.5 text-sm font-bold text-brand-primary shadow-lg transition-transform hover:scale-[1.03]"
                   >
-                    {t("cta_founder.cta_quote")} <ArrowRight className="h-4 w-4" />
-                  </Link>
-                  <Link
-                    to="/contact"
-                    className="inline-flex min-h-11 items-center justify-center gap-2 rounded-full border border-brand-primary-foreground/40 px-6 py-3.5 text-sm font-semibold text-brand-primary-foreground transition-colors hover:bg-brand-primary-foreground/10"
-                  >
-                    <MessageSquare className="h-4 w-4" /> {t("cta_founder.cta_msg")}
+                    <CtaLabel /> <ArrowRight className="h-4 w-4" />
                   </Link>
                 </div>
                 <div className="mt-6 border-t border-brand-primary-foreground/20 pt-4">

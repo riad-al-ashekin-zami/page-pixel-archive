@@ -1,5 +1,6 @@
 import { createFileRoute, notFound } from "@tanstack/react-router";
 import { LocalLink as Link } from "@/components/local-link";
+import { CtaLabel } from "@/lib/cta";
 import { buildHreflangLinks, localizedUrl, resolveRouteLanguage } from "@/lib/i18n-routing";
 import { useEffect, useMemo, useRef, useState } from "react";
 import { motion } from "framer-motion";
@@ -225,13 +226,7 @@ function DermMigrationPage() {
                   to="/contact"
                   className="inline-flex min-h-11 items-center justify-center gap-2 rounded-full bg-brand-primary px-6 py-3.5 text-sm font-bold text-brand-primary-foreground shadow-lg transition-transform hover:scale-[1.03]"
                 >
-                  {t("hero.primaryCta")} <ArrowRight className="h-4 w-4" />
-                </Link>
-                <Link
-                  to="/contact"
-                  className="inline-flex min-h-11 items-center justify-center gap-2 rounded-full border border-border bg-card px-6 py-3.5 text-sm font-semibold text-foreground transition-colors hover:border-brand-primary hover:text-brand-primary"
-                >
-                  {t("hero.secondaryCta")}
+                  <CtaLabel /> <ArrowRight className="h-4 w-4" />
                 </Link>
               </div>
 
@@ -649,13 +644,7 @@ function DermMigrationPage() {
                   to="/contact"
                   className="inline-flex min-h-11 items-center justify-center gap-2 rounded-full bg-brand-accent px-6 py-3.5 text-sm font-bold text-foreground shadow-xl transition-transform hover:scale-[1.03]"
                 >
-                  {t("cta.primaryLink")} <ArrowRight className="h-4 w-4" />
-                </Link>
-                <Link
-                  to="/contact"
-                  className="inline-flex min-h-11 items-center justify-center gap-2 rounded-full border border-white/25 bg-white/10 px-6 py-3.5 text-sm font-semibold text-brand-primary-foreground backdrop-blur transition-colors hover:bg-white/20"
-                >
-                  {t("cta.secondaryLink")}
+                  <CtaLabel /> <ArrowRight className="h-4 w-4" />
                 </Link>
               </div>
             </div>
@@ -678,7 +667,7 @@ function DermMigrationPage() {
           to="/contact"
           className="flex items-center justify-center gap-2 rounded-full bg-brand-primary px-5 py-3.5 text-sm font-bold text-brand-primary-foreground shadow-[0_16px_40px_-12px_color-mix(in_oklch,var(--brand-primary),transparent_30%)]"
         >
-          {t("hero.primaryCta")} <ArrowRight className="h-4 w-4" />
+          <CtaLabel /> <ArrowRight className="h-4 w-4" />
         </Link>
       </div>
     </div>

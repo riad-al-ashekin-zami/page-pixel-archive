@@ -1,5 +1,6 @@
 import { createFileRoute, notFound } from "@tanstack/react-router";
 import { LocalLink as Link } from "@/components/local-link";
+import { CtaLabel } from "@/lib/cta";
 import { localizedUrl, resolveRouteLanguage, buildHreflangLinks } from "@/lib/i18n-routing";
 import { useState } from "react";
 import { useTranslation } from "react-i18next";
@@ -195,7 +196,7 @@ function PatientPortalPage() {
                       "linear-gradient(135deg, var(--brand-primary), color-mix(in oklch, var(--brand-primary), black 18%))",
                   }}
                 >
-                  {t("hero.cta_quote")}
+                  <CtaLabel />
                   <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-1" />
                 </Link>
                 <a
@@ -394,7 +395,7 @@ function PatientPortalPage() {
                 to="/contact"
                 className="mt-8 inline-flex min-h-11 items-center gap-2 rounded-full border border-brand-primary/25 bg-brand-primary/5 px-5 py-3 text-sm font-semibold text-brand-primary transition-colors hover:bg-brand-primary/10"
               >
-                {t("sections.security.cta")}
+                <CtaLabel />
                 <ArrowRight className="h-4 w-4" />
               </Link>
             </div>
@@ -509,14 +510,8 @@ function PatientPortalPage() {
                 to="/contact"
                 className="inline-flex min-h-11 items-center justify-center gap-2 rounded-full bg-background px-6 py-3 text-sm font-semibold text-foreground shadow-lg transition-transform hover:-translate-y-0.5"
               >
-                {t("cta.cta_quote")}
+                <CtaLabel />
                 <ArrowRight className="h-4 w-4" />
-              </Link>
-              <Link
-                to="/contact"
-                className="inline-flex min-h-11 items-center justify-center gap-2 rounded-full border border-background/40 px-6 py-3 text-sm font-semibold text-brand-primary-foreground transition-colors hover:bg-background/10"
-              >
-                {t("cta.cta_contact")}
               </Link>
             </div>
           </div>
@@ -525,12 +520,6 @@ function PatientPortalPage() {
 
       {/* Sticky mobile CTA */}
       <div className="fixed inset-x-0 bottom-0 z-40 border-t border-border/70 bg-background/95 p-3 shadow-[0_-8px_30px_-10px_rgba(0,0,0,0.15)] backdrop-blur md:hidden">
-        <Link
-          to="/contact"
-          className="flex min-h-11 w-full items-center justify-center gap-2 rounded-full bg-brand-primary px-6 py-3 text-sm font-semibold text-brand-primary-foreground shadow-lg"
-        >
-          {t("cta.cta_quote")} <ArrowRight className="h-4 w-4" />
-        </Link>
       </div>
       <div aria-hidden className="h-20 md:hidden" />
 
