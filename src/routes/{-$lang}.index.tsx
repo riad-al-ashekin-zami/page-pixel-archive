@@ -31,6 +31,7 @@ import heroComposition from "@/assets/hero-composition.webp.asset.json";
 import { isValidUrlLang } from "@/i18n/languages";
 import { getStaticTranslation } from "@/i18n";
 import { LocalLink } from "@/components/local-link";
+import { robotsContent } from "@/lib/index-allowlist";
 
 
 export const Route = createFileRoute("/{-$lang}/")({
@@ -58,7 +59,7 @@ export const Route = createFileRoute("/{-$lang}/")({
         { property: "og:description", content: description },
         { property: "og:url", content: canonical },
         { property: "og:locale", content: lang },
-        { name: "robots", content: "index,follow" },
+        { name: "robots", content: robotsContent(params.lang, "/") },
         { name: "twitter:title", content: title },
         { name: "twitter:description", content: description },
         { property: "og:image", content: ogImage },
@@ -67,7 +68,7 @@ export const Route = createFileRoute("/{-$lang}/")({
       ],
       links: [
         { rel: "canonical", href: canonical },
-        ...buildHreflangLinks("/"),
+        ...buildHreflangLinks("/", params.lang),
         { rel: "preload", as: "image", href: heroComposition.url, fetchpriority: "high" },
       ],
       scripts: [

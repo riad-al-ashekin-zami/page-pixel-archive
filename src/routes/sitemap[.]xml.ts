@@ -1,109 +1,64 @@
 import { createFileRoute } from "@tanstack/react-router";
 import type {} from "@tanstack/react-start";
-import { POSTS } from "@/lib/blog-data";
-import { LANGUAGE_CODES, DEFAULT_LANGUAGE } from "@/i18n/languages";
-import { localizedUrl } from "@/lib/i18n-routing";
+import { INDEXABLE_PATHS, normalizePath } from "@/lib/index-allowlist";
+import { URL_LANGUAGE_CODES, DEFAULT_LANGUAGE } from "@/i18n/languages";
 
 const BASE_URL = "https://dermatologywebsitedesign.com";
 
-interface SitemapEntry {
-  path: string;
-  changefreq?: "always" | "hourly" | "daily" | "weekly" | "monthly" | "yearly" | "never";
-  priority?: string;
-  /** Whether this route is fully localized across all languages. During phased rollout,
-   *  only completed routes emit hreflang alternates to avoid indexing 404 URLs. */
-  localized?: boolean;
+/**
+ * sitemap.xml lists ONLY the allowlisted (indexable) URLs — see
+ * src/lib/index-allowlist.ts. Noindexed pages stay out of the sitemap but
+ * remain crawlable (robots.txt allows everything) so Google can read their
+ * noindex tag.
+ */
+
+/** Strip a language prefix to get the English-canonical logical path. */
+function logicalPath(fullPath: string): string {
+  for (const code of URL_LANGUAGE_CODES) {
+    if (fullPath === `/${code}`) return "/";
+    if (fullPath.startsWith(`/${code}/`)) return fullPath.slice(code.length + 1);
+  }
+  return fullPath;
 }
 
-// Legal pages (privacy, terms, cookie, refund, service agreement) are noindex and
-// intentionally excluded. Only indexable pages belong here.
-const STATIC_ROUTES: SitemapEntry[] = [
-  { path: "/", changefreq: "weekly", priority: "1.0", localized: true },
-  { path: "/about", changefreq: "monthly", priority: "0.7", localized: true },
-  { path: "/services", changefreq: "monthly", priority: "0.9", localized: true },
-  { path: "/our-process", changefreq: "monthly", priority: "0.7" , localized: true },
-  { path: "/plan-packages-and-costs", changefreq: "monthly", priority: "0.8" , localized: true },
-  { path: "/contact", changefreq: "monthly", priority: "0.6" , localized: true },
-  { path: "/get-a-free-quote", changefreq: "monthly", priority: "0.7" , localized: true },
-  { path: "/free-dermatologist-website-audit", changefreq: "monthly", priority: "0.8" , localized: true },
-  { path: "/case-studies", changefreq: "monthly", priority: "0.7" , localized: true },
-  { path: "/dermatology-websites-portfolio", changefreq: "monthly", priority: "0.7" , localized: true },
-  { path: "/dermatology-before-after-gallery", changefreq: "monthly", priority: "0.6" , localized: true },
-  { path: "/faq", changefreq: "monthly", priority: "0.6" , localized: true },
-  { path: "/blog", changefreq: "weekly", priority: "0.8" , localized: true },
-  { path: "/dermatology-website-design", changefreq: "monthly", priority: "0.9" , localized: true },
-  { path: "/dermatology-website-redesign", changefreq: "monthly", priority: "0.8" , localized: true },
-  { path: "/dermatology-website-migration", changefreq: "monthly", priority: "0.6" , localized: true },
-  { path: "/dermatology-website-maintenance-services", changefreq: "monthly", priority: "0.6" , localized: true },
-  { path: "/dermatology-website-management-services", changefreq: "monthly", priority: "0.6" , localized: true },
-  { path: "/dermatology-website-support-services", changefreq: "monthly", priority: "0.6" , localized: true },
-  { path: "/dermatology-website-checklists", changefreq: "monthly", priority: "0.5" , localized: true },
-  { path: "/multi-location-dermatology-website-design", changefreq: "monthly", priority: "0.7" , localized: true },
-  { path: "/dermatology-ecommerce-website-design", changefreq: "monthly", priority: "0.7" , localized: true },
-  { path: "/dermatology-patient-portal", changefreq: "monthly", priority: "0.6" , localized: true },
-  { path: "/dermatology-conversion-rate-optimization", changefreq: "monthly", priority: "0.7" , localized: true },
-  { path: "/dermatology-add-on-services", changefreq: "monthly", priority: "0.5" , localized: true },
-  { path: "/dermatology-practice-growth", changefreq: "monthly", priority: "0.7" , localized: true },
-  { path: "/dermatology-seo-services", changefreq: "monthly", priority: "0.9" , localized: true },
-  { path: "/dermatology-local-seo-services", changefreq: "monthly", priority: "0.8" , localized: true },
-  { path: "/dermatology-google-ads-ppc", changefreq: "monthly", priority: "0.7" , localized: true },
-  { path: "/dermatology-social-media-services", changefreq: "monthly", priority: "0.7" , localized: true },
-  { path: "/dermatology-email-marketing", changefreq: "monthly", priority: "0.7" , localized: true },
-  { path: "/dermatology-reputation-management", changefreq: "monthly", priority: "0.7" , localized: true },
-];
-
-function renderUrlEntry(loc: string, e: SitemapEntry, localized: boolean): string {
-  const alternates = localized
-    ? [
-        ...LANGUAGE_CODES.map(
-          (code) =>
-            `    <xhtml:link rel="alternate" hreflang="${code}" href="${localizedUrl(code, e.path)}" />`,
-        ),
-        `    <xhtml:link rel="alternate" hreflang="x-default" href="${localizedUrl(
-          DEFAULT_LANGUAGE,
-          e.path,
-        )}" />`,
-      ]
-    : [];
-  return [
+function renderUrlEntry(fullPath: string, alternates: string[], hasIndexableEn: boolean): string {
+  const lines = [
     `  <url>`,
-    `    <loc>${loc}</loc>`,
-    ...alternates,
-    e.changefreq ? `    <changefreq>${e.changefreq}</changefreq>` : null,
-    e.priority ? `    <priority>${e.priority}</priority>` : null,
-    `  </url>`,
-  ]
-    .filter(Boolean)
-    .join("\n");
+    `    <loc>${BASE_URL}${fullPath === "/" ? "/" : fullPath}</loc>`,
+    ...alternates.map(
+      (alt) => `    <xhtml:link rel="alternate" hreflang="${hreflangCode(alt)}" href="${BASE_URL}${alt}" />`,
+    ),
+  ];
+  if (hasIndexableEn) {
+    lines.push(
+      `    <xhtml:link rel="alternate" hreflang="x-default" href="${BASE_URL}${logicalPath(fullPath)}" />`,
+    );
+  }
+  lines.push(`  </url>`);
+  return lines.join("\n");
+}
+
+function hreflangCode(fullPath: string): string {
+  for (const code of URL_LANGUAGE_CODES) {
+    if (fullPath === `/${code}` || fullPath.startsWith(`/${code}/`)) return code;
+  }
+  return DEFAULT_LANGUAGE;
 }
 
 export const Route = createFileRoute("/sitemap.xml")({
   server: {
     handlers: {
       GET: async () => {
-        const entries: SitemapEntry[] = [
-          ...STATIC_ROUTES,
-          ...POSTS.map((p) => ({
-            path: `/blog/${p.slug}`,
-            changefreq: "monthly" as const,
-            priority: "0.6",
-            localized: true,
-          })),
-        ];
-
-        const urls: string[] = [];
-        for (const e of entries) {
-          const isLocalized = e.localized === true;
-          // English canonical URL first
-          urls.push(renderUrlEntry(localizedUrl(DEFAULT_LANGUAGE, e.path), e, isLocalized));
-          // One <url> per non-English language for localized routes only
-          if (isLocalized) {
-            for (const code of LANGUAGE_CODES) {
-              if (code === DEFAULT_LANGUAGE) continue;
-              urls.push(renderUrlEntry(localizedUrl(code, e.path), e, true));
-            }
-          }
-        }
+        const urls = INDEXABLE_PATHS.map((rawPath) => {
+          const fullPath = normalizePath(rawPath);
+          const logical = logicalPath(fullPath);
+          // hreflang alternates = the other allowlisted URLs of the same page
+          const alternates = INDEXABLE_PATHS.map(normalizePath).filter(
+            (p) => logicalPath(p) === logical,
+          );
+          const enIndexable = alternates.some((p) => p === logical);
+          return renderUrlEntry(fullPath, alternates, enIndexable);
+        });
 
         const xml = [
           `<?xml version="1.0" encoding="UTF-8"?>`,
@@ -122,4 +77,3 @@ export const Route = createFileRoute("/sitemap.xml")({
     },
   },
 });
-

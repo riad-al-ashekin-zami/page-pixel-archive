@@ -219,6 +219,10 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
       { title: "Dermatology Website Design | HIPAA-Aware, SEO-Ready Websites" },
       { name: "description", content: "Dermatology website design agency building HIPAA-aware, SEO-optimized websites for dermatology practices. Transparent pricing. Free audit." },
       { name: "author", content: "Dermatology Website Design" },
+      // Default for any route without its own robots meta (404, future pages):
+      // noindex unless the route is in the SEO allowlist (src/lib/index-allowlist.ts).
+      // Child routes override this by name.
+      { name: "robots", content: "noindex,follow" },
       { property: "og:site_name", content: "Dermatology Website Design" },
       { property: "og:title", content: "Dermatology Website Design | HIPAA-Aware, SEO-Ready Websites" },
       { property: "og:description", content: "Dermatology website design agency building HIPAA-aware, SEO-optimized websites for dermatology practices. Transparent pricing. Free audit." },

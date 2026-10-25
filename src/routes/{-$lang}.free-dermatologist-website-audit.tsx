@@ -43,6 +43,7 @@ import { isValidUrlLang } from "@/i18n/languages";
 import { buildHreflangLinks, localizedUrl, resolveRouteLanguage } from "@/lib/i18n-routing";
 import { useTranslation } from "react-i18next";
 import { getStaticTranslation } from "@/i18n";
+import { robotsContent } from "@/lib/index-allowlist";
 
 export const Route = createFileRoute("/{-$lang}/free-dermatologist-website-audit")({
   params: {
@@ -59,6 +60,7 @@ export const Route = createFileRoute("/{-$lang}/free-dermatologist-website-audit
     const st = getStaticTranslation(resolveRouteLanguage(params.lang), "freeAudit");
     return {
       meta: [
+        { name: "robots", content: robotsContent(params.lang, "/free-dermatologist-website-audit") },
         { title: st?.meta?.title ?? "Free Dermatologist Website Audit — 48-Hour Actionable Report" },
         {
           name: "description",
@@ -75,7 +77,7 @@ export const Route = createFileRoute("/{-$lang}/free-dermatologist-website-audit
         { name: "twitter:image", content: "/__l5e/assets-v1/6e4e126d-30c1-493d-8b28-e1c7fe999d4f/hero-composition.webp" },
         { name: "twitter:card", content: "summary_large_image" },
       ],
-      links: [{ rel: "canonical", href: "/free-dermatologist-website-audit" }, ...buildHreflangLinks("/free-dermatologist-website-audit")],
+      links: [{ rel: "canonical", href: "/free-dermatologist-website-audit" }, ...buildHreflangLinks("/free-dermatologist-website-audit", params.lang)],
       scripts: [
         {
           type: "application/ld+json",

@@ -19,6 +19,7 @@ import {
 import heroBg from "@/assets/dermatology-seo-hero.jpg";
 import { RankClimbTicker } from "@/components/widgets/rank-climb-ticker";
 import { isValidUrlLang } from "@/i18n/languages";
+import { robotsContent } from "@/lib/index-allowlist";
 
 type Feature = { icon: LucideIcon; title: string; desc: string };
 
@@ -45,6 +46,7 @@ export const Route = createFileRoute("/{-$lang}/dermatology-seo-services")({
     const st = getStaticTranslation(lang, "seoServices");
     return {
       meta: [
+        { name: "robots", content: robotsContent(params.lang, "/dermatology-seo-services") },
         { title: st?.meta?.title ?? "Dermatology SEO Services — Rank for Skin & Cosmetic Search" },
         {
           name: "description",
@@ -78,7 +80,8 @@ export const Route = createFileRoute("/{-$lang}/dermatology-seo-services")({
         },
       ],
       links: [
-        { rel: "canonical", href: "/dermatology-seo-services" }, ...buildHreflangLinks("/dermatology-seo-services"),
+        { rel: "canonical", href: localizedUrl(resolveRouteLanguage(params.lang), "/dermatology-seo-services") },
+        ...buildHreflangLinks("/dermatology-seo-services", params.lang),
         { rel: "preload", as: "image", href: heroBg, fetchpriority: "high" },
       ],
       scripts: [

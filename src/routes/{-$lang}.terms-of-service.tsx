@@ -7,6 +7,7 @@ import { SiteFooter } from "@/components/site-footer/site-footer";
 import { isValidUrlLang } from "@/i18n/languages";
 import { useTranslation, Trans } from "react-i18next";
 import { getStaticTranslation } from "@/i18n";
+import { robotsContent } from "@/lib/index-allowlist";
 
 const PAGE_PATH = "/terms-of-service";
 
@@ -27,7 +28,7 @@ export const Route = createFileRoute("/{-$lang}/terms-of-service")({
       meta: [
         { title: st?.meta?.title ?? "Terms of Service" },
         { name: "description", content: st?.meta?.description ?? "The terms that govern your use of our website, communications, and any services you engage from our studio." },
-        { name: "robots", content: "noindex,follow" },
+        { name: "robots", content: robotsContent(params.lang, "/terms-of-service") },
         { property: "og:title", content: st?.meta?.og_title ?? "Terms of Service" },
         { property: "og:description", content: st?.meta?.og_description ?? "The terms that govern your use of our website, communications, and any services you engage from our studio." },
         { property: "og:type", content: "article" },
@@ -36,7 +37,7 @@ export const Route = createFileRoute("/{-$lang}/terms-of-service")({
         { name: "twitter:title", content: st?.meta?.twitter_title ?? "Terms of Service" },
         { name: "twitter:description", content: st?.meta?.twitter_description ?? "The terms that govern your use of our website, communications, and any services you engage from our studio." },
       ],
-      links: [{ rel: "canonical", href: localizedUrl(resolveRouteLanguage(lang), PAGE_PATH) }, ...buildHreflangLinks(PAGE_PATH)],
+      links: [{ rel: "canonical", href: localizedUrl(resolveRouteLanguage(lang), PAGE_PATH) }, ...buildHreflangLinks(PAGE_PATH, params.lang)],
     };
   },
   component: TermsOfServicePage,

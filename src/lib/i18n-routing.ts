@@ -11,6 +11,7 @@
  *   - useCurrentLang() — read the active URL language inside components
  */
 import { useParams } from "@tanstack/react-router";
+import { isIndexableUrl } from "@/lib/index-allowlist";
 import {
   DEFAULT_LANGUAGE,
   LANGUAGE_CODES,
@@ -42,23 +43,33 @@ export function localizedUrl(lang: LanguageCode, path: string): string {
 }
 
 /**
- * Return the <link> array of hreflang alternates for a route, one per language
- * plus an `x-default` pointing at English. Include the current locale too — this
- * is what Google recommends for correct multi-language indexing.
+ * Return the <link> array of hreflang alternates for a route.
+ *
+ * SEO allowlist rules (see @/lib/index-allowlist):
+ *   - A noindexed page emits NO hreflang tags at all.
+ *   - An indexable page emits only alternates that are themselves indexable,
+ *     plus a self-reference. `x-default` is emitted only when the English
+ *     version of the page is indexable.
+ *
+ * `rawLang` is the route's raw lang param (undefined = English root).
  */
-export function buildHreflangLinks(path: string) {
-  const alternates: { rel: "alternate"; hrefLang: string; href: string }[] = LANGUAGE_CODES.map(
-    (code) => ({
-      rel: "alternate",
-      hrefLang: code,
-      href: localizedUrl(code, path),
-    }),
-  );
-  alternates.push({
+export function buildHreflangLinks(path: string, rawLang?: string) {
+  const current = resolveRouteLanguage(rawLang);
+  if (!isIndexableUrl(localizedPath(current, path))) return [];
+  const alternates: { rel: "alternate"; hrefLang: string; href: string }[] = LANGUAGE_CODES.filter(
+    (code) => isIndexableUrl(localizedPath(code, path)),
+  ).map((code) => ({
     rel: "alternate",
-    hrefLang: "x-default",
-    href: localizedUrl(DEFAULT_LANGUAGE, path),
-  });
+    hrefLang: code,
+    href: localizedUrl(code, path),
+  }));
+  if (isIndexableUrl(localizedPath(DEFAULT_LANGUAGE, path))) {
+    alternates.push({
+      rel: "alternate",
+      hrefLang: "x-default",
+      href: localizedUrl(DEFAULT_LANGUAGE, path),
+    });
+  }
   return alternates;
 }
 

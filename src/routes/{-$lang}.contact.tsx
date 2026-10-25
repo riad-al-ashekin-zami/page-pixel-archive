@@ -32,6 +32,7 @@ import { isValidUrlLang } from "@/i18n/languages";
 import { buildHreflangLinks, localizedUrl, resolveRouteLanguage } from "@/lib/i18n-routing";
 import { useTranslation } from "react-i18next";
 import { getStaticTranslation } from "@/i18n";
+import { robotsContent } from "@/lib/index-allowlist";
 
 export const Route = createFileRoute("/{-$lang}/contact")({
   params: {
@@ -47,6 +48,7 @@ export const Route = createFileRoute("/{-$lang}/contact")({
     const st = getStaticTranslation(resolveRouteLanguage(params.lang), "contact");
     return {
       meta: [
+        { name: "robots", content: robotsContent(params.lang, "/contact") },
         { title: st?.meta?.title ?? "Contact Us — Dermatology Website Design" },
         {
           name: "description",
@@ -63,7 +65,7 @@ export const Route = createFileRoute("/{-$lang}/contact")({
         { name: "twitter:image", content: "https://dermatologywebsitedesign.com/__l5e/assets-v1/6e4e126d-30c1-493d-8b28-e1c7fe999d4f/hero-composition.webp" },
         { name: "twitter:card", content: "summary_large_image" },
       ],
-      links: [{ rel: "canonical", href: "/contact" }, ...buildHreflangLinks("/contact")],
+      links: [{ rel: "canonical", href: "/contact" }, ...buildHreflangLinks("/contact", params.lang)],
       scripts: [
         {
           type: "application/ld+json",

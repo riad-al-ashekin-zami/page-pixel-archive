@@ -7,6 +7,7 @@ import { SiteFooter } from "@/components/site-footer/site-footer";
 import { isValidUrlLang } from "@/i18n/languages";
 import { useTranslation } from "react-i18next";
 import { getStaticTranslation } from "@/i18n";
+import { robotsContent } from "@/lib/index-allowlist";
 
 const PAGE_PATH = "/refund-policy";
 
@@ -26,7 +27,7 @@ export const Route = createFileRoute("/{-$lang}/refund-policy")({
       meta: [
         { title: st?.meta?.title ?? "Refund Policy — Deposits, Milestones & Recurring Plans" },
         { name: "description", content: st?.meta?.description ?? "How deposits, milestone payments, and recurring plans are handled if you cancel or aren't satisfied with our services." },
-        { name: "robots", content: "noindex,follow" },
+        { name: "robots", content: robotsContent(lang, "/refund-policy") },
         { property: "og:title", content: st?.meta?.og?.title ?? "Refund Policy — Deposits, Milestones & Recurring Plans" },
         { property: "og:description", content: st?.meta?.og?.description ?? "How deposits, milestone payments, and recurring plans are handled if you cancel or aren't satisfied with our services." },
         { property: "og:type", content: "article" },
@@ -35,7 +36,7 @@ export const Route = createFileRoute("/{-$lang}/refund-policy")({
         { name: "twitter:title", content: st?.meta?.twitter?.title ?? "Refund Policy — Deposits, Milestones & Recurring Plans" },
         { name: "twitter:description", content: st?.meta?.twitter?.description ?? "How deposits, milestone payments, and recurring plans are handled if you cancel or aren't satisfied with our services." },
       ],
-      links: [{ rel: "canonical", href: localizedUrl(resolveRouteLanguage(lang), PAGE_PATH) }, ...buildHreflangLinks(PAGE_PATH)],
+      links: [{ rel: "canonical", href: localizedUrl(resolveRouteLanguage(lang), PAGE_PATH) }, ...buildHreflangLinks(PAGE_PATH, lang)],
     };
   },
   component: RefundPolicyPage,

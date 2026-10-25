@@ -1,6 +1,6 @@
 import { createFileRoute, notFound } from "@tanstack/react-router";
 import { LocalLink as Link } from "@/components/local-link";
-import { buildHreflangLinks } from "@/lib/i18n-routing";
+import { buildHreflangLinks, localizedUrl, resolveRouteLanguage } from "@/lib/i18n-routing";
 import { useEffect, useState } from "react";
 import { SiteHeader } from "@/components/site-header/site-header";
 import { SiteFooter } from "@/components/site-footer/site-footer";
@@ -14,6 +14,7 @@ import {
 import { isValidUrlLang } from "@/i18n/languages";
 import { useTranslation } from "react-i18next";
 import { getStaticTranslation } from "@/i18n";
+import { robotsContent } from "@/lib/index-allowlist";
 
 /* Management page signature motif — a growth roadmap with milestones */
 function RoadmapField({ className = "" }: { className?: string }) {
@@ -95,6 +96,7 @@ export const Route = createFileRoute("/{-$lang}/dermatology-website-management-s
     const st = getStaticTranslation(lang, "management");
     return {
       meta: [
+        { name: "robots", content: robotsContent(params.lang, "/dermatology-website-management-services") },
         { title: st?.meta?.title ?? "Dermatology Website Management Services — Growth-Focused Team" },
         { name: "description", content: st?.meta?.description ?? "Full-service dermatology website management: dedicated account manager, monthly content, SEO governance, A/B testing, conversion optimization, and executive reporting. Month-to-month." },
         { property: "og:title", content: st?.meta?.og?.title ?? "Dermatology Website Management Services — Your Growth Team" },
@@ -105,7 +107,10 @@ export const Route = createFileRoute("/{-$lang}/dermatology-website-management-s
         { name: "twitter:image", content: "/__l5e/assets-v1/6e4e126d-30c1-493d-8b28-e1c7fe999d4f/hero-composition.webp" },
         { name: "twitter:card", content: "summary_large_image" },
       ],
-      links: [{ rel: "canonical", href: "/dermatology-website-management-services" }, ...buildHreflangLinks("/dermatology-website-management-services")],
+      links: [
+        { rel: "canonical", href: localizedUrl(resolveRouteLanguage(params.lang), "/dermatology-website-management-services") },
+        ...buildHreflangLinks("/dermatology-website-management-services", params.lang),
+      ],
       scripts: [
         { type: "application/ld+json", children: JSON.stringify({ "@context": "https://schema.org", "@type": "Service", serviceType: st?.json_ld?.service_type ?? "Dermatology Website Management Services", provider: { "@type": "Organization", name: st?.json_ld?.provider_name ?? "DermatologyWebsiteDesign.com" }, areaServed: "United States", offers: { "@type": "Offer", priceCurrency: "USD", price: "799", description: st?.json_ld?.offer_description ?? "Dermatology website management — starting price per month" } }) },
         { type: "application/ld+json", children: JSON.stringify({ "@context": "https://schema.org", "@type": "FAQPage", mainEntity: (st?.faq?.items ?? []).map((f: any) => ({ "@type": "Question", name: f.q, acceptedAnswer: { "@type": "Answer", text: f.a } })) }) },

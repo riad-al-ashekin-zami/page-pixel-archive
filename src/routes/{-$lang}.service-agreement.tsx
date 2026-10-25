@@ -7,6 +7,7 @@ import { SiteFooter } from "@/components/site-footer/site-footer";
 import { isValidUrlLang } from "@/i18n/languages";
 import { useTranslation } from "react-i18next";
 import { getStaticTranslation } from "@/i18n";
+import { robotsContent } from "@/lib/index-allowlist";
 
 const PAGE_PATH = "/service-agreement";
 
@@ -26,7 +27,7 @@ export const Route = createFileRoute("/{-$lang}/service-agreement")({
       meta: [
         { title: st?.meta?.title ?? "Service Agreement — Terms of Engagement" },
         { name: "description", content: st?.meta?.description ?? "" },
-        { name: "robots", content: "noindex,follow" },
+        { name: "robots", content: robotsContent(lang, "/service-agreement") },
         { property: "og:title", content: st?.meta?.title ?? "" },
         { property: "og:description", content: st?.meta?.description ?? "" },
         { property: "og:type", content: "article" },
@@ -35,7 +36,7 @@ export const Route = createFileRoute("/{-$lang}/service-agreement")({
         { name: "twitter:title", content: st?.meta?.title ?? "" },
         { name: "twitter:description", content: st?.meta?.description ?? "" },
       ],
-      links: [{ rel: "canonical", href: localizedUrl(resolveRouteLanguage(lang), PAGE_PATH) }, ...buildHreflangLinks(PAGE_PATH)],
+      links: [{ rel: "canonical", href: localizedUrl(resolveRouteLanguage(lang), PAGE_PATH) }, ...buildHreflangLinks(PAGE_PATH, lang)],
     };
   },
   component: ServiceAgreementPage,

@@ -21,6 +21,7 @@ import {
 import { isValidUrlLang } from "@/i18n/languages";
 import { useTranslation } from "react-i18next";
 import { getStaticTranslation } from "@/i18n";
+import { robotsContent } from "@/lib/index-allowlist";
 
 // ============================================================
 // WEBSITE PACKAGES (One-time build) — 6 tiers
@@ -348,6 +349,7 @@ export const Route = createFileRoute("/{-$lang}/plan-packages-and-costs")({
     const st = getStaticTranslation(lang, "pricing");
     return {
       meta: [
+        { name: "robots", content: robotsContent(params.lang, "/plan-packages-and-costs") },
         { title: st?.meta?.title ?? "Dermatology Website Pricing — Plans, Packages & Transparent Costs" },
         { name: "description", content: st?.meta?.description ?? "Transparent dermatology website pricing. One-time builds from $797 to $18,999+, monthly bundles from $399, and à la carte add-ons. See exactly what you'll pay before we talk." },
         { property: "og:title", content: st?.meta?.og?.title ?? "Dermatology Website Pricing — Plans, Packages & Costs" },
@@ -358,7 +360,7 @@ export const Route = createFileRoute("/{-$lang}/plan-packages-and-costs")({
         { name: "twitter:image", content: "/__l5e/assets-v1/6e4e126d-30c1-493d-8b28-e1c7fe999d4f/hero-composition.webp" },
         { name: "twitter:card", content: "summary_large_image" },
       ],
-      links: [{ rel: "canonical", href: "/plan-packages-and-costs" }, ...buildHreflangLinks("/plan-packages-and-costs")],
+      links: [{ rel: "canonical", href: "/plan-packages-and-costs" }, ...buildHreflangLinks("/plan-packages-and-costs", params.lang)],
       scripts: [
         {
           type: "application/ld+json",

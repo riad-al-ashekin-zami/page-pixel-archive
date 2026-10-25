@@ -13,7 +13,7 @@ export const Route = createFileRoute("/admin/chats")({
   head: () => ({
     meta: [
       { title: "Chat Dashboard — Admin" },
-      { name: "robots", content: "noindex, nofollow" },
+      { name: "robots", content: "noindex,follow" },
     ],
   }),
   component: AdminChatsPage,

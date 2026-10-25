@@ -9,7 +9,7 @@ export const Route = createFileRoute("/admin/leads/$id")({
     meta: [
       { title: "Lead Detail — Dermatology Website Design" },
       { name: "description", content: "Internal lead detail view." },
-      { name: "robots", content: "noindex, nofollow" },
+      { name: "robots", content: "noindex,follow" },
     ],
   }),
   component: AdminLeadDetailPage,

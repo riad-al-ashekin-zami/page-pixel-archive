@@ -46,6 +46,7 @@ import {
   Lock,
 } from "lucide-react";
 import { isValidUrlLang } from "@/i18n/languages";
+import { robotsContent } from "@/lib/index-allowlist";
 
 /* ============================================================
    ROUTE
@@ -65,6 +66,7 @@ export const Route = createFileRoute("/{-$lang}/multi-location-dermatology-websi
     const st = getStaticTranslation(lang, "multiLocation");
     return {
       meta: [
+        { name: "robots", content: robotsContent(params.lang, "/multi-location-dermatology-website-design") },
         { title: st?.meta?.title ?? "Multi-Location Dermatology Website Design | One Brand, Every City" },
         {
           name: "description",
@@ -81,7 +83,7 @@ export const Route = createFileRoute("/{-$lang}/multi-location-dermatology-websi
         { name: "twitter:card", content: "summary_large_image" },
         { name: "twitter:image", content: dermMultiHero },
       ],
-      links: [{ rel: "canonical", href: "/multi-location-dermatology-website-design" }, ...buildHreflangLinks("/multi-location-dermatology-website-design")],
+      links: [{ rel: "canonical", href: "/multi-location-dermatology-website-design" }, ...buildHreflangLinks("/multi-location-dermatology-website-design", params.lang)],
       scripts: [
         {
           type: "application/ld+json",

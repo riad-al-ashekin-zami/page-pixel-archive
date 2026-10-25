@@ -18,6 +18,7 @@ import {
 } from "lucide-react";
 import heroImg from "@/assets/our-process-hero.jpg";
 import { isValidUrlLang } from "@/i18n/languages";
+import { robotsContent } from "@/lib/index-allowlist";
 
 // ============================================================
 // SEVEN-STEP PROCESS
@@ -228,6 +229,7 @@ export const Route = createFileRoute("/{-$lang}/our-process")({
 
     return {
       meta: [
+        { name: "robots", content: robotsContent(params.lang, "/our-process") },
         { title: st?.meta?.title ?? "Our Process — 7-Step Dermatology Website Build | Discover → Launch → Grow" },
         { name: "description", content: st?.meta?.description ?? "The 7-step process we use to build dermatology websites: Discovery, SEO audit, design, content, development, launch, and growth. Fixed timelines, weekly check-ins, HIPAA-first, Lighthouse 95+ guaranteed." },
         { property: "og:title", content: st?.meta?.ogTitle ?? "Our Process — 7 Steps From Kickoff to Growth" },
@@ -238,7 +240,7 @@ export const Route = createFileRoute("/{-$lang}/our-process")({
         { name: "twitter:image", content: heroImg },
         { name: "twitter:card", content: "summary_large_image" },
       ],
-      links: [{ rel: "canonical", href: "/our-process" }, ...buildHreflangLinks("/our-process")],
+      links: [{ rel: "canonical", href: "/our-process" }, ...buildHreflangLinks("/our-process", params.lang)],
       scripts: [
         {
           type: "application/ld+json",

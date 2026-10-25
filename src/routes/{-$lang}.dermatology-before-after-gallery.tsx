@@ -16,6 +16,7 @@ import {
 import { isValidUrlLang } from "@/i18n/languages";
 import { useTranslation } from "react-i18next";
 import { getStaticTranslation } from "@/i18n";
+import { robotsContent } from "@/lib/index-allowlist";
 
 /* ---------- Data ---------- */
 
@@ -99,6 +100,7 @@ export const Route = createFileRoute("/{-$lang}/dermatology-before-after-gallery
     const faqs: any[] = Array.isArray(st?.faq?.items) ? st.faq.items : [];
     return {
       meta: [
+        { name: "robots", content: robotsContent(params.lang, "/dermatology-before-after-gallery") },
         { title: st?.meta?.title ?? "Dermatology Before & After Gallery — Premium Case Showcase" },
         { name: "description", content: st?.meta?.description },
         { property: "og:title", content: st?.meta?.ogTitle },
@@ -109,7 +111,7 @@ export const Route = createFileRoute("/{-$lang}/dermatology-before-after-gallery
         { name: "twitter:image", content: "/__l5e/assets-v1/6e4e126d-30c1-493d-8b28-e1c7fe999d4f/hero-composition.webp" },
         { name: "twitter:card", content: "summary_large_image" },
       ],
-      links: [{ rel: "canonical", href: "/dermatology-before-after-gallery" }, ...buildHreflangLinks("/dermatology-before-after-gallery")],
+      links: [{ rel: "canonical", href: "/dermatology-before-after-gallery" }, ...buildHreflangLinks("/dermatology-before-after-gallery", params.lang)],
       scripts: [
         { type: "application/ld+json", children: JSON.stringify({ "@context": "https://schema.org", "@type": "Service", serviceType: st?.meta?.jsonLdServiceType, provider: { "@type": "Organization", name: st?.meta?.jsonLdName }, areaServed: "United States" }) },
         { type: "application/ld+json", children: JSON.stringify({ "@context": "https://schema.org", "@type": "FAQPage", mainEntity: faqs.map((f: any) => ({ "@type": "Question", name: f.q, acceptedAnswer: { "@type": "Answer", text: f.a } })) }) },

@@ -26,6 +26,7 @@ import { isValidUrlLang } from "@/i18n/languages";
 import { useTranslation } from "react-i18next";
 import { getStaticTranslation } from "@/i18n";
 import { fromArabicDigits } from "@/lib/text-normalize";
+import { robotsContent } from "@/lib/index-allowlist";
 
 export const Route = createFileRoute("/{-$lang}/blog/$slug")({
   params: {
@@ -55,7 +56,7 @@ export const Route = createFileRoute("/{-$lang}/blog/$slug")({
       return {
         meta: [
           { title: st?.meta?.notFoundTitle ?? "Article not found — DermGrowth Blog" },
-          { name: "robots", content: st?.meta?.robotsNoindex ?? "noindex" },
+          { name: "robots", content: "noindex,follow" },
         ],
       };
     }
@@ -72,7 +73,7 @@ export const Route = createFileRoute("/{-$lang}/blog/$slug")({
             : `${post.category.toLowerCase()}, dermatology marketing, ${post.title.toLowerCase()}`,
         },
         { name: "author", content: post.author },
-        { name: "robots", content: st?.meta?.robots ?? "index,follow,max-image-preview:large,max-snippet:-1" },
+        { name: "robots", content: robotsContent(params.lang, `/blog/${params.slug}`) },
         { property: "og:title", content: post.title },
         { property: "og:description", content: post.excerpt },
         { property: "og:type", content: st?.meta?.ogType ?? "article" },
@@ -86,7 +87,10 @@ export const Route = createFileRoute("/{-$lang}/blog/$slug")({
         { name: "twitter:description", content: post.excerpt },
         { name: "twitter:image", content: post.image },
       ],
-      links: [{ rel: "canonical", href: url }, ...buildHreflangLinks(url)],
+      links: [
+        { rel: "canonical", href: localizedUrl(resolveRouteLanguage(params.lang), url) },
+        ...buildHreflangLinks(url, params.lang),
+      ],
       scripts: [
         {
           type: "application/ld+json",

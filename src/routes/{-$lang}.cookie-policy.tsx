@@ -7,6 +7,7 @@ import { SiteFooter } from "@/components/site-footer/site-footer";
 import { isValidUrlLang } from "@/i18n/languages";
 import { useTranslation } from "react-i18next";
 import { getStaticTranslation } from "@/i18n";
+import { robotsContent } from "@/lib/index-allowlist";
 
 const PAGE_PATH = "/cookie-policy";
 
@@ -26,7 +27,7 @@ export const Route = createFileRoute("/{-$lang}/cookie-policy")({
       meta: [
         { title: st?.meta?.title ?? "Cookie Policy — How We Use Cookies" },
         { name: "description", content: st?.meta?.description ?? "" },
-        { name: "robots", content: "noindex,follow" },
+        { name: "robots", content: robotsContent(lang, "/cookie-policy") },
         { property: "og:title", content: st?.meta?.og?.title ?? "" },
         { property: "og:description", content: st?.meta?.og?.description ?? "" },
         { property: "og:type", content: "article" },
@@ -35,7 +36,7 @@ export const Route = createFileRoute("/{-$lang}/cookie-policy")({
         { name: "twitter:title", content: st?.meta?.twitter?.title ?? "" },
         { name: "twitter:description", content: st?.meta?.twitter?.description ?? "" },
       ],
-      links: [{ rel: "canonical", href: localizedUrl(resolveRouteLanguage(lang), PAGE_PATH) }, ...buildHreflangLinks(PAGE_PATH)],
+      links: [{ rel: "canonical", href: localizedUrl(resolveRouteLanguage(lang), PAGE_PATH) }, ...buildHreflangLinks(PAGE_PATH, lang)],
     };
   },
   component: CookiePolicyPage,

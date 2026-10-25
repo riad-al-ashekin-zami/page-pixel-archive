@@ -8,3 +8,7 @@
 > Commits you push to the connected branch sync back to Lovable and show up in
 > the editor, so keep the branch in a working state.
 <!-- LOVABLE:END -->
+
+## Rules
+
+- SEO indexing is controlled by the central allowlist in `src/lib/index-allowlist.ts` (`INDEXABLE_PATHS`): robots meta (via `robotsContent` in every route head), hreflang alternates (via `buildHreflangLinks` in `src/lib/i18n-routing.ts`), and `src/routes/sitemap[.]xml.ts` all read from it. Never hardcode `index,follow` in a route — add the URL to the allowlist instead. `__root.tsx` carries the `noindex,follow` default so unlisted/404/future pages are never indexed.

@@ -17,6 +17,7 @@ import { isValidUrlLang } from "@/i18n/languages";
 import { buildHreflangLinks, localizedUrl, resolveRouteLanguage, SITE_ORIGIN } from "@/lib/i18n-routing";
 import { useTranslation } from "react-i18next";
 import { getStaticTranslation } from "@/i18n";
+import { robotsContent } from "@/lib/index-allowlist";
 
 const PAGE_PATH = "/dermatology-websites-portfolio";
 
@@ -40,6 +41,7 @@ export const Route = createFileRoute("/{-$lang}/dermatology-websites-portfolio")
 
     return {
       meta: [
+        { name: "robots", content: robotsContent(params.lang, "/dermatology-websites-portfolio") },
         { title: PAGE_TITLE },
         { name: "description", content: PAGE_DESCRIPTION },
         { property: "og:title", content: PAGE_TITLE },
@@ -52,7 +54,7 @@ export const Route = createFileRoute("/{-$lang}/dermatology-websites-portfolio")
         { property: "og:image", content: ogImage },
         { name: "twitter:image", content: ogImage },
       ],
-      links: [{ rel: "canonical", href: pageUrl }, ...buildHreflangLinks(PAGE_PATH)],
+      links: [{ rel: "canonical", href: pageUrl }, ...buildHreflangLinks(PAGE_PATH, params.lang)],
       scripts: [
         {
           type: "application/ld+json",

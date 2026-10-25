@@ -21,6 +21,7 @@ import {
   Percent, Users, ArrowUpRight, MessageSquare, Play, X,
 } from "lucide-react";
 import { isValidUrlLang } from "@/i18n/languages";
+import { robotsContent } from "@/lib/index-allowlist";
 
 const AUDIENCE_ICONS = [Stethoscope, Building2, Baby, Scissors];
 
@@ -59,6 +60,7 @@ export const Route = createFileRoute("/{-$lang}/dermatology-conversion-rate-opti
     const st = getStaticTranslation(params.lang, "cro");
     return {
       meta: [
+        { name: "robots", content: robotsContent(params.lang, "/dermatology-conversion-rate-optimization") },
         { title: st?.meta?.title ?? "Dermatology CRO Services — Double Your Bookings From The Same Traffic" },
         { name: "description", content: st?.meta?.description ?? "Conversion rate optimization for dermatology practices. Heatmaps, A/B testing, booking-form rebuilds, mobile UX, and Core Web Vitals — turn more visitors into confirmed appointments. HIPAA-aware." },
         { property: "og:title", content: st?.meta?.og_title ?? "Dermatology Conversion Rate Optimization — Ship More Bookings, Same Traffic" },
@@ -70,7 +72,7 @@ export const Route = createFileRoute("/{-$lang}/dermatology-conversion-rate-opti
         { property: "twitter:image", content: croHero },
       ],
       links: [
-        { rel: "canonical", href: "/dermatology-conversion-rate-optimization" }, ...buildHreflangLinks("/dermatology-conversion-rate-optimization"),
+        { rel: "canonical", href: "/dermatology-conversion-rate-optimization" }, ...buildHreflangLinks("/dermatology-conversion-rate-optimization", params.lang),
         { rel: "preload", as: "image", href: croHero, fetchpriority: "high" },
       ],
       scripts: [

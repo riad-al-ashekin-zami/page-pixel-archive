@@ -24,6 +24,7 @@ import {
 import { isValidUrlLang } from "@/i18n/languages";
 import { useTranslation } from "react-i18next";
 import { getStaticTranslation } from "@/i18n";
+import { robotsContent } from "@/lib/index-allowlist";
 
 export const Route = createFileRoute("/{-$lang}/dermatology-website-redesign")({
   params: {
@@ -39,6 +40,7 @@ export const Route = createFileRoute("/{-$lang}/dermatology-website-redesign")({
     const st = getStaticTranslation(lang, "websiteRedesign");
     return {
       meta: [
+        { name: "robots", content: robotsContent(lang, "/dermatology-website-redesign") },
         { title: st?.meta?.title ?? "Dermatology Website Redesign — Modernize Without Losing SEO" },
         { name: "description", content: st?.meta?.description ?? "Premium dermatology website redesign for solo, multi-location, pediatric, and Mohs practices. Modern, fast, HIPAA-aware — with zero SEO loss on launch." },
         { property: "og:title", content: st?.meta?.og_title ?? "Dermatology Website Redesign — Zero SEO Loss" },
@@ -49,7 +51,7 @@ export const Route = createFileRoute("/{-$lang}/dermatology-website-redesign")({
         { name: "twitter:image", content: dermRedesignHero },
         { name: "twitter:card", content: "summary_large_image" },
       ],
-      links: [{ rel: "canonical", href: "/dermatology-website-redesign" }, ...buildHreflangLinks("/dermatology-website-redesign")],
+      links: [{ rel: "canonical", href: "/dermatology-website-redesign" }, ...buildHreflangLinks("/dermatology-website-redesign", lang)],
       scripts: [
         { type: "application/ld+json", children: JSON.stringify({ "@context": "https://schema.org", "@type": "Service", serviceType: st?.meta?.jsonLd?.serviceType, provider: { "@type": "Organization", name: st?.meta?.jsonLd?.providerName }, areaServed: "United States", offers: { "@type": "Offer", priceCurrency: "USD", price: "4900", description: st?.meta?.jsonLd?.offerDescription } }) },
         { type: "application/ld+json", children: JSON.stringify({ "@context": "https://schema.org", "@type": "FAQPage", mainEntity: [0, 1, 2, 3, 4].map((i) => ({ "@type": "Question", name: st?.faq?.items?.[i]?.q, acceptedAnswer: { "@type": "Answer", text: st?.faq?.items?.[i]?.a } })) }) },

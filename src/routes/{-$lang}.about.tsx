@@ -49,6 +49,7 @@ import {
   Server,
 } from "lucide-react";
 import { isValidUrlLang } from "@/i18n/languages";
+import { robotsContent } from "@/lib/index-allowlist";
 
 export const Route = createFileRoute("/{-$lang}/about")({
   params: {
@@ -65,6 +66,7 @@ export const Route = createFileRoute("/{-$lang}/about")({
     const canonical = localizedUrl(lang, "/about");
     return {
       meta: [
+        { name: "robots", content: robotsContent(params.lang, "/about") },
         { title: st?.meta?.title ?? "About Us" },
         {
           name: "description",
@@ -86,7 +88,7 @@ export const Route = createFileRoute("/{-$lang}/about")({
       ],
       links: [
         { rel: "canonical", href: canonical },
-        ...buildHreflangLinks("/about"),
+        ...buildHreflangLinks("/about", params.lang),
       ],
       scripts: [
         {

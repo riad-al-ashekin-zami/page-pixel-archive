@@ -42,6 +42,7 @@ import {
   Quote,
 } from "lucide-react";
 import { isValidUrlLang } from "@/i18n/languages";
+import { robotsContent } from "@/lib/index-allowlist";
 
 export const Route = createFileRoute("/{-$lang}/dermatology-website-design")({
   params: {
@@ -58,6 +59,7 @@ export const Route = createFileRoute("/{-$lang}/dermatology-website-design")({
     const st = getStaticTranslation(lang, "websiteDesign");
     return {
       meta: [
+        { name: "robots", content: robotsContent(params.lang, "/dermatology-website-design") },
         { title: st?.meta?.title ?? "Custom Website Design for Skin Clinics" },
         {
           name: "description",
@@ -76,7 +78,7 @@ export const Route = createFileRoute("/{-$lang}/dermatology-website-design")({
         { name: "twitter:image", content: dermHero.startsWith("http") ? dermHero : `${SITE_ORIGIN}${dermHero}` },
         { name: "twitter:card", content: "summary_large_image" },
       ],
-      links: [{ rel: "canonical", href: localizedUrl(resolveRouteLanguage(lang), "/dermatology-website-design") }, ...buildHreflangLinks("/dermatology-website-design")],
+      links: [{ rel: "canonical", href: localizedUrl(resolveRouteLanguage(lang), "/dermatology-website-design") }, ...buildHreflangLinks("/dermatology-website-design", params.lang)],
       scripts: [
         {
           type: "application/ld+json",
