@@ -15,6 +15,7 @@
 export const INDEXABLE_PATHS: readonly string[] = [
   // English
   "/",
+  "/contact",
   "/blog/dermatology-marketing-strategies",
   "/dermatology-seo-services",
   "/dermatology-social-media-services",
