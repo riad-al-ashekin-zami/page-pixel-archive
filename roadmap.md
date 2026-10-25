@@ -1,5 +1,10 @@
 # Roadmap — Formspree audit integration
 
+## Sitemap presentation
+
+- [x] Add an organized browser presentation without changing sitemap URLs, alternates, or timestamps.
+- [ ] Verify XML preservation and desktop/mobile browser rendering.
+
 ## Live site media and language
 
 - [x] Fix external-host image delivery for logos, preloader and all stored images.

@@ -11,6 +11,8 @@
 
 ## Rules
 
+- Keep `/sitemap.xml` machine-readable XML from the indexing allowlist; its browser presentation lives in `public/sitemap.xsl`, so visual changes never replace crawler data with HTML or invent last-modified dates.
+
 - Netlify must proxy `/__l5e/assets-v1/*` to the verified public Lovable asset-serving origin with a forced 200 rewrite before Nitro's catch-all; preserve asset pointers so logos and media remain portable without duplicating downloaded binaries.
 - Unprefixed URLs always render English; language changes follow explicit URL prefixes, never browser-language detection, so first visits have a predictable language.
 
