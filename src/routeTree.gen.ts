@@ -9,7 +9,7 @@
 // Additionally, you should also exclude this file from your linter and/or formatter to prevent it from being checked or modified.
 
 import { Route as rootRouteImport } from './routes/__root'
-import { Route as SitemapDotxmlRouteImport } from './routes/sitemap[.]xml'
+import { Route as Sitemap_indexDotxmlRouteImport } from './routes/sitemap_index[.]xml'
 import { Route as AdminChatsRouteImport } from './routes/admin.chats'
 import { Route as AdminLoginRouteImport } from './routes/admin.login'
 import { Route as ApiChatRouteImport } from './routes/api/chat'
@@ -59,9 +59,9 @@ import { Route as ApiPublicSyncKnowledgeRouteImport } from './routes/api/public/
 import { Route as Char123LangChar125BlogIndexRouteImport } from './routes/{-$lang}.blog.index'
 import { Route as Char123LangChar125BlogSlugRouteImport } from './routes/{-$lang}.blog.$slug'
 
-const SitemapDotxmlRoute = SitemapDotxmlRouteImport.update({
-  id: '/sitemap.xml',
-  path: '/sitemap.xml',
+const Sitemap_indexDotxmlRoute = Sitemap_indexDotxmlRouteImport.update({
+  id: '/sitemap_index.xml',
+  path: '/sitemap_index.xml',
   getParentRoute: () => rootRouteImport,
 } as any)
 const AdminChatsRoute = AdminChatsRouteImport.update({
@@ -343,7 +343,7 @@ const Char123LangChar125BlogSlugRoute =
   } as any)
 
 export interface FileRoutesByFullPath {
-  '/sitemap.xml': typeof SitemapDotxmlRoute
+  '/sitemap_index.xml': typeof Sitemap_indexDotxmlRoute
   '/admin/chats': typeof AdminChatsRoute
   '/admin/login': typeof AdminLoginRoute
   '/api/chat': typeof ApiChatRoute
@@ -394,7 +394,7 @@ export interface FileRoutesByFullPath {
   '/{-$lang}/blog/': typeof Char123LangChar125BlogIndexRoute
 }
 export interface FileRoutesByTo {
-  '/sitemap.xml': typeof SitemapDotxmlRoute
+  '/sitemap_index.xml': typeof Sitemap_indexDotxmlRoute
   '/admin/chats': typeof AdminChatsRoute
   '/admin/login': typeof AdminLoginRoute
   '/api/chat': typeof ApiChatRoute
@@ -445,7 +445,7 @@ export interface FileRoutesByTo {
 }
 export interface FileRoutesById {
   __root__: typeof rootRouteImport
-  '/sitemap.xml': typeof SitemapDotxmlRoute
+  '/sitemap_index.xml': typeof Sitemap_indexDotxmlRoute
   '/admin/chats': typeof AdminChatsRoute
   '/admin/login': typeof AdminLoginRoute
   '/api/chat': typeof ApiChatRoute
@@ -498,7 +498,7 @@ export interface FileRoutesById {
 export interface FileRouteTypes {
   fileRoutesByFullPath: FileRoutesByFullPath
   fullPaths:
-    | '/sitemap.xml'
+    | '/sitemap_index.xml'
     | '/admin/chats'
     | '/admin/login'
     | '/api/chat'
@@ -549,7 +549,7 @@ export interface FileRouteTypes {
     | '/{-$lang}/blog/'
   fileRoutesByTo: FileRoutesByTo
   to:
-    | '/sitemap.xml'
+    | '/sitemap_index.xml'
     | '/admin/chats'
     | '/admin/login'
     | '/api/chat'
@@ -599,7 +599,7 @@ export interface FileRouteTypes {
     | '/{-$lang}/blog'
   id:
     | '__root__'
-    | '/sitemap.xml'
+    | '/sitemap_index.xml'
     | '/admin/chats'
     | '/admin/login'
     | '/api/chat'
@@ -651,7 +651,7 @@ export interface FileRouteTypes {
   fileRoutesById: FileRoutesById
 }
 export interface RootRouteChildren {
-  SitemapDotxmlRoute: typeof SitemapDotxmlRoute
+  Sitemap_indexDotxmlRoute: typeof Sitemap_indexDotxmlRoute
   AdminChatsRoute: typeof AdminChatsRoute
   AdminLoginRoute: typeof AdminLoginRoute
   ApiChatRoute: typeof ApiChatRoute
@@ -702,11 +702,11 @@ export interface RootRouteChildren {
 
 declare module '@tanstack/react-router' {
   interface FileRoutesByPath {
-    '/sitemap.xml': {
-      id: '/sitemap.xml'
-      path: '/sitemap.xml'
-      fullPath: '/sitemap.xml'
-      preLoaderRoute: typeof SitemapDotxmlRouteImport
+    '/sitemap_index.xml': {
+      id: '/sitemap_index.xml'
+      path: '/sitemap_index.xml'
+      fullPath: '/sitemap_index.xml'
+      preLoaderRoute: typeof Sitemap_indexDotxmlRouteImport
       parentRoute: typeof rootRouteImport
     }
     '/admin/chats': {
@@ -1065,7 +1065,7 @@ const Char123LangChar125BlogRouteWithChildren =
   )
 
 const rootRouteChildren: RootRouteChildren = {
-  SitemapDotxmlRoute: SitemapDotxmlRoute,
+  Sitemap_indexDotxmlRoute: Sitemap_indexDotxmlRoute,
   AdminChatsRoute: AdminChatsRoute,
   AdminLoginRoute: AdminLoginRoute,
   ApiChatRoute: ApiChatRoute,
