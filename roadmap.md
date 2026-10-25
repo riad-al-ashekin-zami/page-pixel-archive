@@ -2,9 +2,14 @@
 
 ## Live site media and language
 
-- [ ] Fix external-host image delivery for logos, preloader and all stored images.
-- [ ] Keep English as the default without automatic language redirects.
-- [ ] Verify images, icons and language selection in the browser.
+- [x] Fix external-host image delivery for logos, preloader and all stored images.
+- [x] Keep English as the default without automatic language redirects.
+- [x] Verify images, icons and language selection in the browser.
+
+All 16 CDN image destinations returned image responses, all decoded in the
+preview, header icons rendered, and a Spanish-browser visit stayed in English
+while manual Spanish selection worked. Netlify must redeploy the synced changes;
+the updated rewrite is not yet verified on the production deployment.
 
 - [x] Forward the existing audit form to the owner's Formspree endpoint after saving the lead.
 - [x] Test forwarding success/failure and verify a real submission is saved and accepted.
