@@ -1,6 +1,6 @@
 import { createFileRoute, notFound } from "@tanstack/react-router";
 import { LocalLink as Link } from "@/components/local-link";
-import { buildHreflangLinks } from "@/lib/i18n-routing";
+import { buildHreflangLinks, localizedUrl, resolveRouteLanguage } from "@/lib/i18n-routing";
 import { FileText, Scale, Mail, ArrowRight, RefreshCcw } from "lucide-react";
 import { SiteHeader } from "@/components/site-header/site-header";
 import { SiteFooter } from "@/components/site-footer/site-footer";
@@ -30,12 +30,12 @@ export const Route = createFileRoute("/{-$lang}/refund-policy")({
         { property: "og:title", content: st?.meta?.og?.title ?? "Refund Policy — Deposits, Milestones & Recurring Plans" },
         { property: "og:description", content: st?.meta?.og?.description ?? "How deposits, milestone payments, and recurring plans are handled if you cancel or aren't satisfied with our services." },
         { property: "og:type", content: "article" },
-        { property: "og:url", content: PAGE_PATH },
+        { property: "og:url", content: localizedUrl(resolveRouteLanguage(lang), PAGE_PATH) },
         { name: "twitter:card", content: "summary" },
         { name: "twitter:title", content: st?.meta?.twitter?.title ?? "Refund Policy — Deposits, Milestones & Recurring Plans" },
         { name: "twitter:description", content: st?.meta?.twitter?.description ?? "How deposits, milestone payments, and recurring plans are handled if you cancel or aren't satisfied with our services." },
       ],
-      links: [{ rel: "canonical", href: PAGE_PATH }, ...buildHreflangLinks(PAGE_PATH)],
+      links: [{ rel: "canonical", href: localizedUrl(resolveRouteLanguage(lang), PAGE_PATH) }, ...buildHreflangLinks(PAGE_PATH)],
     };
   },
   component: RefundPolicyPage,
