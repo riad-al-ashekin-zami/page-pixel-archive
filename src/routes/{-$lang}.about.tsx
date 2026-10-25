@@ -3,7 +3,7 @@ import { AnimatePresence, motion, useMotionValueEvent, useReducedMotion, useScro
 import { createFileRoute, notFound } from "@tanstack/react-router";
 import { LocalLink as Link } from "@/components/local-link";
 import { useTranslation, Trans } from "react-i18next";
-import { buildHreflangLinks, localizedUrl, resolveRouteLanguage, useCurrentLang } from "@/lib/i18n-routing";
+import { buildHreflangLinks, localizedUrl, resolveRouteLanguage, useCurrentLang, SITE_ORIGIN } from "@/lib/i18n-routing";
 import { formatLocalizedNumber } from "@/lib/locale-format";
 import { getStaticTranslation } from "@/i18n";
 import { SiteHeader } from "@/components/site-header/site-header";
