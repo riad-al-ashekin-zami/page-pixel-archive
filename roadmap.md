@@ -3,7 +3,7 @@
 ## Sitemap presentation
 
 - [x] Move the sitemap to `/sitemap_index.xml`, remove the old endpoint, and update robots.txt.
-- [ ] Verify the new endpoint and removal of the old endpoint.
+- [x] Verify the new endpoint and removal of the old endpoint (new XML renders all 12 pages; old endpoint returns 404; location tests pass).
 
 - [x] Add an organized browser presentation without changing sitemap URLs, alternates, or timestamps.
 - [x] Verify XML preservation and desktop/mobile browser rendering.
