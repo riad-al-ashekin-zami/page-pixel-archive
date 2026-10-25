@@ -510,6 +510,7 @@ function AboutPage() {
                 <Building2 className="h-3.5 w-3.5" />
                 {t("hero.kicker")}
               </div>
+              {/* TODO(owner): verify the "4.9/5 client rating" and "Featured in" logos shown on this page. */}
               <h1 className="mt-6 text-balance text-4xl font-bold leading-[1.05] tracking-tight text-foreground sm:text-5xl lg:text-5xl xl:text-6xl">
                 <Trans i18nKey="hero.h1" ns="about">
                   <Trans t={t} i18nKey="hero.h1" components={{ 1: <span className="text-brand-primary" /> }} />

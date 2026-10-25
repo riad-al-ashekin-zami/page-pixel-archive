@@ -97,6 +97,14 @@ const trustItemsBase = [
   { key: "speed", icon: Gauge },
 ];
 
+/*
+ * SITE-WIDE CONSISTENCY VALUES (keep these identical in every locale JSON, FAQ, form and JSON-LD):
+ *   - Free audit turnaround: "within 48 hours"
+ *   - Typical build timeline: "4 to 6 weeks"
+ *   - Pricing: packages start at $797 (see /plan-packages-and-costs)
+ * TODO(owner): confirm these three values; search the en locale files to change them in one pass.
+ * TODO(owner): verify the "50+" practices stat below.
+ */
 const statsBase = [
   { key: "websites", icon: Rocket, value: "50+" },
   { key: "niche", icon: Target, value: "100%" },
