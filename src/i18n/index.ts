@@ -86,3 +86,4 @@ export function getStaticTranslation(lang: string | undefined, namespace: string
 
 export type { LanguageCode };
 export default i18n;
+
