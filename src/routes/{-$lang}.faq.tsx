@@ -676,7 +676,7 @@ function FaqPage() {
                                             color: "var(--cat)",
                                           }}
                                         >
-                                          {it.cta.label}
+                                          {it.cta.to === "/contact" ? <CtaLabel /> : it.cta.label}
                                           <ArrowRight className="h-3.5 w-3.5" />
                                         </Link>
                                       )}
