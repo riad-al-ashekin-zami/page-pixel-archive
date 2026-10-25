@@ -11,4 +11,6 @@
 
 ## Rules
 
+- Audit submissions are stored through the existing server function before forwarding to Formspree; keep forwarding server-side so storage, validation, and throttling remain in one flow, and never equate provider acceptance with email delivery.
+
 - SEO indexing is controlled by the central allowlist in `src/lib/index-allowlist.ts` (`INDEXABLE_PATHS`): robots meta (via `robotsContent` in every route head), hreflang alternates (via `buildHreflangLinks` in `src/lib/i18n-routing.ts`), and `src/routes/sitemap[.]xml.ts` all read from it. Never hardcode `index,follow` in a route — add the URL to the allowlist instead. `__root.tsx` carries the `noindex,follow` default so unlisted/404/future pages are never indexed.

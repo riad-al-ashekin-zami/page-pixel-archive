@@ -82,8 +82,7 @@ function isRateLimited(ip: string | null): boolean {
 export type SubmitLeadInput = z.infer<typeof submitSchema>;
 
 /**
- * Public endpoint: stores a contact-form submission and triggers the
- * admin notification + visitor confirmation emails.
+ * Public endpoint: saves the submission first, then forwards it to Formspree.
  */
 export const submitLead = createServerFn({ method: "POST" })
   .inputValidator((data: SubmitLeadInput) => submitSchema.parse(data))
@@ -158,11 +157,11 @@ export const submitLead = createServerFn({ method: "POST" })
       return { ok: false as const, error: error?.message ?? "Could not save lead" };
     }
 
-    const { sendLeadEmails } = await import("./lead-mailer.server");
-    const result = await sendLeadEmails({
+    const { forwardAuditToFormspree } = await import("./formspree.server");
+    const result = await forwardAuditToFormspree({
       ...insert,
       id: row.id,
-      lead_score: score,
+      project_details: data.project_details,
       language: data.language,
       utm_source: data.utm_source,
       utm_medium: data.utm_medium,
@@ -174,9 +173,10 @@ export const submitLead = createServerFn({ method: "POST" })
     await supabaseAdmin
       .from("leads")
       .update({
-        admin_email_sent: result.admin_email_sent,
-        visitor_email_sent: result.visitor_email_sent,
-        last_email_error: result.last_email_error,
+        // Formspree acceptance is not proof of email delivery.
+        admin_email_sent: false,
+        visitor_email_sent: false,
+        last_email_error: result.error,
       })
       .eq("id", row.id);
 
