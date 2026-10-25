@@ -1,5 +1,15 @@
 # Roadmap — Formspree audit integration
 
+## Sitemap presentation
+
+- [x] Add an organized browser presentation without changing sitemap URLs, alternates, or timestamps.
+- [x] Verify XML preservation and desktop/mobile browser rendering.
+
+Verified all 12 URLs and hreflang alternates remain unchanged, no lastmod is
+invented, the table renders on desktop/mobile without horizontal overflow,
+and the Contact link opens the correct live page. Netlify redeployment is
+required for the new presentation to appear on the custom domain.
+
 ## Live site media and language
 
 - [x] Fix external-host image delivery for logos, preloader and all stored images.
