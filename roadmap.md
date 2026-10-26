@@ -1,5 +1,10 @@
 # Roadmap — Formspree audit integration
 
+## Sitewide browser icon
+
+- [ ] Match the conventional fallback icon and sitemap icon to the homepage brand icon; keep robots.txt plain text and sitemap machine-readable.
+- [ ] Verify icon delivery and sitemap rendering.
+
 ## About indexing
 
 - [x] Add English `/about` to the shared indexing allowlist, bringing it to 13 URLs.
