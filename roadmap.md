@@ -1,5 +1,10 @@
 # Roadmap — Formspree audit integration
 
+## About indexing
+
+- [x] Add English `/about` to the shared indexing allowlist, bringing it to 13 URLs.
+- [ ] Verify the sitemap and About indexing instruction locally and check production.
+
 ## Sitemap presentation
 
 - [x] Move the sitemap to `/sitemap_index.xml`, remove the old endpoint, and update robots.txt.

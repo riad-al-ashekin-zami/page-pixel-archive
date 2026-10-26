@@ -1,7 +1,7 @@
 /**
  * SEO INDEXING ALLOWLIST — the single source of truth for what Google may index.
  *
- * ONLY the 11 URLs below are indexable. Every other page of the site — all other
+ * ONLY the 13 URLs below are indexable. Every other page of the site — all other
  * English pages, all other language versions, the blog index, legal pages, 404 and
  * thank-you pages — serves `<meta name="robots" content="noindex,follow">`.
  *
@@ -16,6 +16,7 @@ export const INDEXABLE_PATHS: readonly string[] = [
   // English
   "/",
   "/contact",
+  "/about",
   "/blog/dermatology-marketing-strategies",
   "/dermatology-seo-services",
   "/dermatology-social-media-services",
