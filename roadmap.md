@@ -2,8 +2,13 @@
 
 ## Sitewide browser icon
 
-- [ ] Match the conventional fallback icon and sitemap icon to the homepage brand icon; keep robots.txt plain text and sitemap machine-readable.
-- [ ] Verify icon delivery and sitemap rendering.
+- [x] Match the conventional fallback icon and sitemap icon to the homepage brand icon; keep robots.txt plain text and sitemap machine-readable.
+- [x] Verify icon delivery and sitemap rendering.
+
+Both icon URLs return branded images with matching pixels; the sitemap browser
+view references the homepage PNG and renders all 13 rows. Netlify redeployment
+and a browser cache refresh are needed for the live site; raw-text tab icon
+display remains browser-controlled.
 
 ## About indexing
 
