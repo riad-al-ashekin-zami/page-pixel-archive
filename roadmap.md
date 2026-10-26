@@ -1,5 +1,15 @@
 # Roadmap — Formspree audit integration
 
+## About indexing
+
+- [x] Add English `/about` to the shared indexing allowlist, bringing it to 13 URLs.
+- [x] Verify the sitemap and About indexing instruction locally and check production.
+- [ ] Confirm production serves the updated 13-URL sitemap and `/about` indexing instruction — blocked on the owner's Netlify redeployment.
+
+Preview verification passed: `/about` serves `index,follow`, the sitemap contains
+exactly the 13 shared allowlist entries, and all six indexing/location tests pass.
+Production currently still serves 12 sitemap URLs and `/about` as `noindex,follow`.
+
 ## Sitemap presentation
 
 - [x] Move the sitemap to `/sitemap_index.xml`, remove the old endpoint, and update robots.txt.
