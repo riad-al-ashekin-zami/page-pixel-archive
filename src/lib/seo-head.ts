@@ -13,6 +13,7 @@ export function finalizeSeoHead(head: HeadValue, rawLang: string | undefined, pa
   const meta = head.meta ?? [];
   const title = meta.find((tag) => typeof tag.title === "string")?.title ?? "DWD";
   const description = meta.find((tag) => tag.name === "description")?.content ?? "DWD";
+  const image = meta.find((tag) => tag.property === "og:image" && typeof tag.content === "string" && /^https:\/\//.test(tag.content))?.content;
   const replaced = new Set(["description", "robots", "twitter:title", "twitter:description", "twitter:card"]);
   const properties = new Set(["og:title", "og:description", "og:url", "og:type"]);
   return {
@@ -35,6 +36,7 @@ export function finalizeSeoHead(head: HeadValue, rawLang: string | undefined, pa
       { name: "twitter:title", content: title },
       { name: "twitter:description", content: description },
       { name: "twitter:card", content: "summary_large_image" },
+      ...(image ? [{ property: "og:image", content: image }, { name: "twitter:image", content: image }] : []),
     ],
     links: [
       ...(head.links ?? []).filter((link) => link.rel !== "canonical" && !(link.rel === "alternate" && link.hrefLang)),
