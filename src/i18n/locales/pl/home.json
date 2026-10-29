@@ -281,9 +281,15 @@
   },
   "examples": {
     "heading": "Przykłady Stron Internetowych Dermatologów",
-    "intro": "Wybór projektów stron dermatologicznych, obejmujący projekty klientów i koncepcje stworzone, aby pokazać możliwości.",
+    "intro": "Oryginalne koncepcje dla fikcyjnych gabinetów; żadna nie jest projektem klienta.",
     "clientBadge": "Projekt klienta",
     "conceptBadge": "Projekt koncepcyjny",
-    "conceptAlt": "Koncepcja strony internetowej dermatologa – {{name}}"
+    "conceptAlt": "Koncepcja strony internetowej dermatologa – {{name}}",
+    "descriptions": {
+      "studio": "Przyjazny układ studia z przejrzystą nawigacją po zabiegach.",
+      "medical": "Układ medyczny z katalogiem schorzeń i wyszukiwaniem wizyt.",
+      "aesthetic": "Estetyczny układ redakcyjny z rzeźbiarskimi obrazami i przeglądem zabiegów.",
+      "group": "Układ dla wielu placówek z wyszukiwarką lokalizacji i spójnymi stronami klinik."
+    }
   }
 }

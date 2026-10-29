@@ -281,9 +281,15 @@
   },
   "examples": {
     "heading": "Website-Beispiele für Hautärzte",
-    "intro": "Eine Auswahl dermatologischer Website-Designs, einschließlich Kundenprojekten und Konzeptentwürfen, die wir erstellt haben, um Möglichkeiten aufzuzeigen.",
+    "intro": "Originalkonzepte für fiktive Praxen; keine Kundenprojekte.",
     "clientBadge": "Kundenprojekt",
     "conceptBadge": "Konzeptentwurf",
-    "conceptAlt": "Website-Konzeptentwurf für Dermatologie – {{name}}"
+    "conceptAlt": "Website-Konzeptentwurf für Dermatologie – {{name}}",
+    "descriptions": {
+      "studio": "Ein einladendes Studio-Layout mit klarer Behandlungsnavigation.",
+      "medical": "Ein medizinisches Layout mit Erkrankungsverzeichnis und Terminsuche.",
+      "aesthetic": "Ein redaktionelles Ästhetik-Layout mit skulpturalen Bildern und Behandlungsübersicht.",
+      "group": "Ein Mehrstandort-Layout mit Standortsuche und einheitlichen Klinikseiten."
+    }
   }
 }

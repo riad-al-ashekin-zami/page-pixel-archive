@@ -26,4 +26,4 @@
 - Consolidated logical destinations live in `src/lib/seo-redirects.ts` and are shared by localized navigation and request-level permanent redirects; Netlify's matching rules retain external-host support.
 - Route metadata remains TanStack `head()` and is normalized by `finalizeSeoHead`; never introduce a second client-only head manager, so the first HTML response has one canonical and robots instruction.
 
-- Homepage examples use the reviewed `HOMEPAGE_EXAMPLES` inventory and render every kept card in SSR; keep fictional concept identities separate from the third-party inspiration inventory so removed items cannot reappear through gallery filters.
+- Homepage examples use the reviewed `HOMEPAGE_EXAMPLES` inventory and render every kept card in SSR; descriptions use inventory keys in each home translation bundle, while the requested fixed alt template uses the invented name. Keep fictional concept identities separate from the third-party inspiration inventory so removed items cannot reappear through gallery filters.

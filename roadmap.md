@@ -1,5 +1,15 @@
 # Roadmap — Formspree audit integration
 
+## Four original homepage concepts
+
+- [x] Check invented clinic names for existing dermatology websites.
+- [x] Keep LumaFern and add medical, aesthetic and multi-location concepts with translated descriptions in all 12 languages.
+- [x] Verify four cards, concept-only classifications, images and unchanged 420-URL sitemap.
+- [x] Request Lovable publishing and check all 12 portfolio redirects and the 420-URL sitemap on the live custom domain.
+- [ ] Deploy four concepts to the Netlify custom domain — requires the owner's Netlify deployment; custom domain still shows one card.
+
+31 targeted tests passed; four loaded cards and localized descriptions verified in every language, with desktop and mobile screenshots. Existing Arabic hero counter hydration mismatch observed outside the examples section; unchanged by this scoped task. Basic security checks returned no issues; deep code review was not requested.
+
 ## Portfolio consolidation and owner H1 follow-up
 
 - [x] Classify all portfolio items and share the list before any publishing.

@@ -281,9 +281,15 @@
   },
   "examples": {
     "heading": "Příklady Webových Stránek Dermatologů",
-    "intro": "Výběr návrhů dermatologických webů, včetně klientských projektů a konceptů, které jsme vytvořili pro představení možností.",
+    "intro": "Originální koncepty pro fiktivní ordinace; žádný není klientským projektem.",
     "clientBadge": "Klientský projekt",
     "conceptBadge": "Koncepční návrh",
-    "conceptAlt": "Koncepční návrh dermatologického webu – {{name}}"
+    "conceptAlt": "Koncepční návrh dermatologického webu – {{name}}",
+    "descriptions": {
+      "studio": "Přívětivé rozvržení studia s přehlednou navigací mezi ošetřeními.",
+      "medical": "Medicínské rozvržení s přehledem onemocnění a vyhledáváním termínů.",
+      "aesthetic": "Redakční estetické rozvržení se sochařskými obrazy a přehledem ošetření.",
+      "group": "Rozvržení pro více poboček s vyhledáváním lokalit a jednotnými stránkami klinik."
+    }
   }
 }
