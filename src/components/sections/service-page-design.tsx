@@ -1,36 +1,464 @@
-import type { ReactNode } from 'react';
-import { useTranslation } from 'react-i18next';
-import { Activity, ArrowRight, Baby, BarChart3, Braces, Bug, Building2, CheckCircle2, DatabaseBackup, FileSearch, FileSignature, Gauge, Grid3x3, Info, KeyRound, LineChart, ListChecks, Lock, Map, MapPin, Microscope, PhoneCall, Plus, RefreshCw, Search, SearchCheck, ShieldAlert, ShieldCheck, Smartphone, Star, Stethoscope, Store, Target, type LucideIcon } from 'lucide-react';
-import { useCurrentLang } from '@/lib/i18n-routing';
-import { LocalLink } from '@/components/local-link';
-import { Button } from '@/components/ui/button';
-import { HOMEPAGE_SECTION_LABELS } from '@/data/homepage-section-labels';
-import { SERVICE_PAGE_LABELS } from '@/data/service-page-labels';
+import type { ReactNode } from "react";
+import { useTranslation } from "react-i18next";
+import {
+  Activity,
+  ArrowRight,
+  Baby,
+  BarChart3,
+  Braces,
+  Bug,
+  Building2,
+  CheckCircle2,
+  DatabaseBackup,
+  FileSearch,
+  FileSignature,
+  Gauge,
+  Grid3x3,
+  Info,
+  KeyRound,
+  LineChart,
+  ListChecks,
+  Lock,
+  Map,
+  MapPin,
+  Microscope,
+  PhoneCall,
+  Plus,
+  RefreshCw,
+  Search,
+  SearchCheck,
+  ShieldAlert,
+  ShieldCheck,
+  Smartphone,
+  Star,
+  Stethoscope,
+  Store,
+  Target,
+  type LucideIcon,
+} from "lucide-react";
+import { useCurrentLang } from "@/lib/i18n-routing";
+import { LocalLink } from "@/components/local-link";
+import { Button } from "@/components/ui/button";
+import { HOMEPAGE_SECTION_LABELS } from "@/data/homepage-section-labels";
+import { SERVICE_PAGE_LABELS } from "@/data/service-page-labels";
 
-type Item = { title?:string; label?:string; desc?:string; description?:string; step?:string };
-type Group = { title?:string; heading?:string; description?:string; badge?:string; items?:Item[]; list?:string[]; steps?:Item[] };
-export function useServiceLabels() { const lang=useCurrentLang(); return SERVICE_PAGE_LABELS[lang] ?? SERVICE_PAGE_LABELS.en; }
-export function IconTile({icon:Icon}:{icon:LucideIcon}) { return <span className="flex size-11 shrink-0 items-center justify-center rounded-lg bg-brand-primary/10 text-brand-primary"><Icon aria-hidden="true" className="size-5" strokeWidth={1.7}/></span>; }
-export function ServiceBand({id,title,description,eyebrow,tinted=false,children}:{id:string;title:string;description?:string;eyebrow?:string;tinted?:boolean;children:ReactNode}) { return <section data-service-section={id} className={`home-design-section ${tinted?'bg-brand-primary/5':'bg-background'}`}><div className="home-design-container"><header className="max-w-3xl">{eyebrow&&<p className="text-xs font-semibold uppercase text-brand-primary">{eyebrow}</p>}<h2 className="mt-4 text-balance text-3xl font-light leading-tight sm:text-4xl lg:text-5xl">{title}</h2>{description&&<p className="mt-5 text-base leading-relaxed text-muted-foreground sm:text-lg">{description}</p>}</header>{children}</div></section>; }
-export function ItemCards({items,icons,columns=4,numbers=false,accent=false}:{items:Item[];icons:LucideIcon[];columns?:3|4;numbers?:boolean;accent?:boolean}) { const lang=useCurrentLang(); const labels=HOMEPAGE_SECTION_LABELS[lang]??HOMEPAGE_SECTION_LABELS.en; return <ul className={`mt-10 grid gap-5 sm:grid-cols-2 ${columns===3?'lg:grid-cols-3':'lg:grid-cols-4'}`}>{items.map((item,i)=><li key={i} className="home-design-card relative min-w-0 overflow-hidden p-6">{accent&&<span aria-hidden="true" className="absolute inset-x-0 top-0 h-1 bg-brand-primary"/>}<div className="flex items-center justify-between gap-3"><IconTile icon={icons[i%icons.length]??Search}/>{numbers&&<span className="text-lg font-semibold tabular-nums text-brand-primary">{String(i+1).padStart(2,'0')}</span>}</div><h3 className="mt-5 text-lg font-semibold">{item.title??item.label}</h3>{(item.desc??item.description)&&<p className="mt-3 text-sm leading-relaxed text-muted-foreground">{item.desc??item.description}</p>}{accent&&i===1&&<LocalLink to="/multi-location-dermatology-website-design" className="mt-5 inline-flex text-sm font-medium text-brand-primary underline underline-offset-4">{labels.multiLocation} →</LocalLink>}</li>)}</ul>; }
-const treatmentGroups=[[0,1,2,12,4,3,16,10,9,11],[5,17,6,8,7],[14,15,13]];
+type Item = { title?: string; label?: string; desc?: string; description?: string; step?: string };
+type Group = {
+  title?: string;
+  heading?: string;
+  description?: string;
+  badge?: string;
+  items?: Item[];
+  list?: string[];
+  steps?: Item[];
+};
+export function useServiceLabels() {
+  const lang = useCurrentLang();
+  return SERVICE_PAGE_LABELS[lang] ?? SERVICE_PAGE_LABELS.en;
+}
+export function IconTile({ icon: Icon }: { icon: LucideIcon }) {
+  return (
+    <span className="flex size-11 shrink-0 items-center justify-center rounded-lg bg-brand-primary/10 text-brand-primary">
+      <Icon aria-hidden="true" className="size-5" strokeWidth={1.7} />
+    </span>
+  );
+}
+export function ServiceBand({
+  id,
+  title,
+  description,
+  eyebrow,
+  tinted = false,
+  children,
+}: {
+  id: string;
+  title: string;
+  description?: string;
+  eyebrow?: string;
+  tinted?: boolean;
+  children: ReactNode;
+}) {
+  return (
+    <section
+      data-service-section={id}
+      className={`home-design-section ${tinted ? "bg-brand-primary/5" : "bg-background"}`}
+    >
+      <div className="home-design-container">
+        <header className="max-w-3xl">
+          {eyebrow && (
+            <p className="text-xs font-semibold uppercase text-brand-primary">{eyebrow}</p>
+          )}
+          <h2 className="mt-4 text-balance text-3xl font-light leading-tight sm:text-4xl lg:text-5xl">
+            {title}
+          </h2>
+          {description && (
+            <p className="mt-5 text-base leading-relaxed text-muted-foreground sm:text-lg">
+              {description}
+            </p>
+          )}
+        </header>
+        {children}
+      </div>
+    </section>
+  );
+}
+export function ItemCards({
+  items,
+  icons,
+  columns = 4,
+  numbers = false,
+  accent = false,
+}: {
+  items: Item[];
+  icons: LucideIcon[];
+  columns?: 3 | 4 | 5 | 6;
+  numbers?: boolean;
+  accent?: boolean;
+}) {
+  const lang = useCurrentLang();
+  const labels = HOMEPAGE_SECTION_LABELS[lang] ?? HOMEPAGE_SECTION_LABELS.en;
+  return (
+    <ul
+      className={`mt-10 grid gap-5 sm:grid-cols-2 ${columns === 3 ? "lg:grid-cols-3" : columns === 5 ? "lg:grid-cols-5" : columns === 6 ? "lg:grid-cols-6" : "lg:grid-cols-4"}`}
+    >
+      {items.map((item, i) => (
+        <li key={i} className="home-design-card relative min-w-0 overflow-hidden p-6">
+          {accent && (
+            <span aria-hidden="true" className="absolute inset-x-0 top-0 h-1 bg-brand-primary" />
+          )}
+          <div className="flex items-center justify-between gap-3">
+            <IconTile icon={icons[i % icons.length] ?? Search} />
+            {numbers && (
+              <span className="text-lg font-semibold tabular-nums text-brand-primary">
+                {String(i + 1).padStart(2, "0")}
+              </span>
+            )}
+          </div>
+          <h3 className="mt-5 text-lg font-semibold">{item.title ?? item.label}</h3>
+          {(item.desc ?? item.description) && (
+            <p className="mt-3 text-sm leading-relaxed text-muted-foreground">
+              {item.desc ?? item.description}
+            </p>
+          )}
+          {accent && i === 1 && (
+            <LocalLink
+              to="/multi-location-dermatology-website-design"
+              className="mt-5 inline-flex text-sm font-medium text-brand-primary underline underline-offset-4"
+            >
+              {labels.multiLocation} →
+            </LocalLink>
+          )}
+        </li>
+      ))}
+    </ul>
+  );
+}
+const treatmentGroups = [
+  [0, 1, 2, 12, 4, 3, 16, 10, 9, 11],
+  [5, 17, 6, 8, 7],
+  [14, 15, 13],
+];
 // Existing treatment items have no URLs; preserve them rather than invent destinations.
-export function TreatmentChips({items}:{items:string[]}) { const lang=useCurrentLang();const labels=HOMEPAGE_SECTION_LABELS[lang]??HOMEPAGE_SECTION_LABELS.en;return <div className="space-y-7">{treatmentGroups.map((indices,g)=><div key={g}><p className="mb-3 text-sm font-semibold">{labels.groups[g]}</p><ul className="flex flex-wrap gap-2.5">{indices.map(i=><li key={i} className="max-w-full rounded-full border border-brand-primary/15 bg-brand-primary/5 px-4 py-2.5 text-sm leading-snug">{items[i]}</li>)}</ul></div>)}</div>; }
-export function TreatmentMock(){return <div aria-hidden="true" className="mt-8 w-full max-w-sm overflow-hidden rounded-lg border border-border bg-card shadow-sm"><div className="flex h-10 items-center gap-2 border-b border-border bg-muted/50 px-4"><span className="size-2 rounded-full bg-brand-primary/30"/><span className="size-2 rounded-full bg-brand-primary/30"/><span className="mx-auto h-2 w-1/2 rounded-full bg-border"/></div><div className="space-y-4 p-6"><div className="h-5 w-3/5 rounded bg-brand-primary/20"/><div className="h-2 w-full rounded bg-muted"/><div className="h-2 w-4/5 rounded bg-muted"/><div className="h-9 w-2/5 rounded-full bg-brand-primary"/>{[0,1,2].map(i=><div key={i} className="flex h-9 items-center justify-between border-t border-border"><span className="h-2 w-3/5 rounded bg-muted"/><Plus className="size-4 text-brand-primary"/></div>)}</div></div>;}
-export function SampleReport({labels}:{labels:string[]}) {const l=useServiceLabels();return <div data-service-section="sample-report" className="w-full max-w-xl overflow-hidden rounded-lg border border-border bg-card shadow-sm"><div className="flex items-center gap-3 border-b border-border bg-brand-primary/5 p-5"><IconTile icon={LineChart}/><p className="text-lg font-semibold">{l.sample}</p></div><div className="space-y-6 p-6">{labels.map((label,i)=><div key={i}><p className="mb-3 text-sm font-medium text-muted-foreground">{label}</p><div aria-hidden="true" className="flex h-14 items-end gap-2">{[0,1,2,3,4,5,6,7].map(j=><span key={j} className={`flex-1 rounded-t bg-brand-primary/20 ${['h-5','h-8','h-6','h-10'][ (j+i)%4]}`}/>)}</div></div>)}</div></div>;}
-export function Commitments(){const l=useServiceLabels();return <section data-service-section="commitments" className="border-y border-border bg-brand-primary/5 py-7"><ul className="home-design-container flex flex-wrap justify-between gap-5">{l.commitments.map(c=><li key={c} className="flex items-center gap-3 text-sm font-semibold"><CheckCircle2 aria-hidden="true" className="size-5 shrink-0 text-brand-primary"/>{c}</li>)}</ul></section>;}
-export function ServiceFaq({items,title,eyebrow}:{items:{q:string;a:string}[];title:string;eyebrow?:string}){return <ServiceBand id="faq" title={title} eyebrow={eyebrow} tinted><div className="mt-10 max-w-4xl space-y-3">{items.map((f,i)=><details key={f.q} open={i===0} className="group rounded-lg border border-border bg-card"><summary className="flex cursor-pointer list-none items-center justify-between gap-5 p-5 text-base font-semibold focus-visible:outline-brand-primary"><span>{f.q}</span><Plus aria-hidden="true" className="size-5 shrink-0 text-brand-primary group-open:rotate-45 motion-reduce:transform-none"/></summary><p className="px-5 pb-6 text-sm leading-relaxed text-muted-foreground sm:text-base">{f.a}</p></details>)}</div></ServiceBand>;}
-export function SeoDesignSections(){const {t}=useTranslation('seoServices');const {t:home}=useTranslation('home');const l=useServiceLabels();const d=t('merged',{returnObjects:true}) as {headings:string[];local:Group;content:Group;technical:Group;reviews:Group;reporting:Group};return <>
-<ServiceBand id="local" title={d.headings[0]} description={d.local.description} eyebrow={d.local.badge}><ItemCards items={d.local.items??[]} icons={[Store,Map,MapPin,Star,ListChecks,Search,ShieldCheck,BarChart3]}/></ServiceBand>
-<section data-service-section="treatments" className="home-design-section bg-brand-primary/5"><div className="home-design-container grid gap-10 lg:grid-cols-2"><header><h2 className="text-3xl font-light sm:text-4xl lg:text-5xl">{d.headings[1]}</h2><p className="mt-5 leading-relaxed text-muted-foreground">{d.content.description}</p><p className="mt-4 leading-relaxed text-muted-foreground">{t('services.description')}</p><TreatmentMock/></header><TreatmentChips items={d.content.list??[]}/></div></section>
-<ServiceBand id="technical" title={d.headings[2]} description={d.technical.description} tinted><ItemCards items={l.technical.map(title=>({title}))} icons={[Gauge,Bug,FileSearch,Braces,Lock,Smartphone]} columns={3}/><p className="mt-7 inline-flex rounded-full border border-brand-primary/20 bg-brand-primary/10 px-4 py-2 text-sm font-semibold text-brand-primary">{l.baseline}</p></ServiceBand>
-<ServiceBand id="reviews" title={d.headings[3]}><ItemCards items={(d.reviews.items??[]).slice(0,4)} icons={[ShieldCheck,Building2,Grid3x3,PhoneCall]}/></ServiceBand>
-<ServiceBand id="reporting" title={d.headings[4]} description={d.reporting.description} tinted><ItemCards items={['GA4','Search Console',l.reporting].map(title=>({title}))} icons={[LineChart,Search,Target]} columns={3}/><Button asChild variant="outline" className="mt-8 h-auto min-h-11 max-w-full whitespace-normal rounded-full border-brand-primary/20 py-3 text-brand-primary"><LocalLink to="/blog/dermatology-marketing-strategies">{home('ownerAnchors.marketing')}<ArrowRight aria-hidden="true"/></LocalLink></Button></ServiceBand>
-</>;}
-export function LocalTrack(){const {t}=useTranslation('seoServices');const l=useServiceLabels();const steps=t('merged.workflow.steps',{returnObjects:true}) as Item[];return <div className="mt-8"><p className="mb-3 text-sm font-semibold text-brand-primary">{l.local}</p><ul className="flex flex-wrap gap-3">{steps.map((s,i)=><li key={i} className="rounded-full border border-brand-primary/20 bg-background px-4 py-2 text-sm">{s.title}</li>)}</ul></div>;}
-export function ManagementDesignSections(){const {t}=useTranslation('management');const l=useServiceLabels();const d=t('merged',{returnObjects:true}) as {heading:string;hosting:Group;pillars:Group;included:Group;flow:Group};const text=d.hosting.description??'';const split=text.lastIndexOf(useCurrentLang()==='en'?';':'. ');const paragraph=split>=0?text.slice(0,split)+(useCurrentLang()==='en'?'.':'.'):text;const note=split>=0?text.slice(split+(useCurrentLang()==='en'?2:2)):'';return <>
-<ServiceBand id="hosting" title={d.heading} description={paragraph} tinted><ItemCards items={l.hosting.map(title=>({title}))} icons={[Lock,KeyRound,DatabaseBackup,Activity,FileSignature]} columns={3}/><div className="mt-7 flex max-w-4xl items-start gap-3 rounded-lg border border-brand-primary/20 p-4"><Info aria-hidden="true" className="mt-0.5 size-5 shrink-0 text-brand-primary"/><p className="text-sm leading-relaxed text-muted-foreground">{note}</p></div></ServiceBand>
-<ServiceBand id="care" title={d.pillars.title??''} eyebrow={d.pillars.badge} description={l.areas}><ItemCards items={d.pillars.items??[]} icons={[Activity,RefreshCw,DatabaseBackup,ShieldAlert,Gauge,SearchCheck]} columns={3}/></ServiceBand>
-<ServiceBand id="checklist" title={d.included.title??''} eyebrow={d.included.badge} tinted><ul className="mt-10 grid grid-cols-2 gap-x-6 gap-y-5 rounded-lg border border-border bg-card p-5 sm:p-8 lg:grid-cols-4">{d.included.list?.map(s=><li key={s} className="flex items-start gap-2 text-sm leading-relaxed"><CheckCircle2 aria-hidden="true" className="mt-0.5 size-4 shrink-0 text-brand-primary"/>{s}</li>)}</ul></ServiceBand>
-<ServiceBand id="onboarding" title={d.flow.title??''} eyebrow={d.flow.badge}><ol className="home-process-timeline mt-12 grid gap-9 sm:grid-cols-2 lg:grid-cols-4">{d.flow.items?.map((s,i)=><li key={i} className="relative pl-14 sm:pl-0"><span className="absolute left-0 top-0 flex size-10 items-center justify-center rounded-full border border-brand-primary/20 bg-background text-lg font-semibold text-brand-primary sm:relative sm:mb-7">{String(i+1).padStart(2,'0')}</span><h3 className="mt-2 text-lg font-semibold">{s.title}</h3><p className="mt-3 text-sm leading-relaxed text-muted-foreground">{s.desc}</p></li>)}</ol></ServiceBand>
-</>;}
+export function TreatmentChips({ items }: { items: string[] }) {
+  const lang = useCurrentLang();
+  const labels = HOMEPAGE_SECTION_LABELS[lang] ?? HOMEPAGE_SECTION_LABELS.en;
+  return (
+    <div className="space-y-7">
+      {treatmentGroups.map((indices, g) => (
+        <div key={g}>
+          <p className="mb-3 text-sm font-semibold">{labels.groups[g]}</p>
+          <ul className="flex flex-wrap gap-2.5">
+            {indices.map((i) => (
+              <li
+                key={i}
+                className="max-w-full rounded-full border border-brand-primary/15 bg-brand-primary/5 px-4 py-2.5 text-sm leading-snug"
+              >
+                {items[i]}
+              </li>
+            ))}
+          </ul>
+        </div>
+      ))}
+    </div>
+  );
+}
+export function TreatmentMock() {
+  return (
+    <div
+      aria-hidden="true"
+      className="mt-8 w-full max-w-sm overflow-hidden rounded-lg border border-border bg-card shadow-sm"
+    >
+      <div className="flex h-10 items-center gap-2 border-b border-border bg-muted/50 px-4">
+        <span className="size-2 rounded-full bg-brand-primary/30" />
+        <span className="size-2 rounded-full bg-brand-primary/30" />
+        <span className="mx-auto h-2 w-1/2 rounded-full bg-border" />
+      </div>
+      <div className="space-y-4 p-6">
+        <div className="h-5 w-3/5 rounded bg-brand-primary/20" />
+        <div className="h-2 w-full rounded bg-muted" />
+        <div className="h-2 w-4/5 rounded bg-muted" />
+        <div className="h-9 w-2/5 rounded-full bg-brand-primary" />
+        {[0, 1, 2].map((i) => (
+          <div key={i} className="flex h-9 items-center justify-between border-t border-border">
+            <span className="h-2 w-3/5 rounded bg-muted" />
+            <Plus className="size-4 text-brand-primary" />
+          </div>
+        ))}
+      </div>
+    </div>
+  );
+}
+export function SampleReport({ labels }: { labels: string[] }) {
+  const l = useServiceLabels();
+  return (
+    <div
+      data-service-section="sample-report"
+      className="w-full max-w-xl overflow-hidden rounded-lg border border-border bg-card shadow-sm"
+    >
+      <div className="flex items-center gap-3 border-b border-border bg-brand-primary/5 p-5">
+        <IconTile icon={LineChart} />
+        <p className="text-lg font-semibold">{l.sample}</p>
+      </div>
+      <div className="space-y-6 p-6">
+        {labels.map((label, i) => (
+          <div key={i}>
+            <p className="mb-3 text-sm font-medium text-muted-foreground">{label}</p>
+            <div aria-hidden="true" className="flex h-14 items-end gap-2">
+              {[0, 1, 2, 3, 4, 5, 6, 7].map((j) => (
+                <span
+                  key={j}
+                  className={`flex-1 rounded-t bg-brand-primary/20 ${["h-5", "h-8", "h-6", "h-10"][(j + i) % 4]}`}
+                />
+              ))}
+            </div>
+          </div>
+        ))}
+      </div>
+    </div>
+  );
+}
+export function Commitments() {
+  const l = useServiceLabels();
+  return (
+    <section
+      data-service-section="commitments"
+      className="border-y border-border bg-brand-primary/5 py-7"
+    >
+      <ul className="home-design-container flex flex-wrap justify-between gap-5">
+        {l.commitments.map((c) => (
+          <li key={c} className="flex items-center gap-3 text-sm font-semibold">
+            <CheckCircle2 aria-hidden="true" className="size-5 shrink-0 text-brand-primary" />
+            {c}
+          </li>
+        ))}
+      </ul>
+    </section>
+  );
+}
+export function ServiceFaq({
+  items,
+  title,
+  eyebrow,
+}: {
+  items: { q: string; a: string }[];
+  title: string;
+  eyebrow?: string;
+}) {
+  return (
+    <ServiceBand id="faq" title={title} eyebrow={eyebrow} tinted>
+      <div className="mt-10 max-w-4xl space-y-3">
+        {items.map((f, i) => (
+          <details
+            key={f.q}
+            open={i === 0}
+            className="group rounded-lg border border-border bg-card"
+          >
+            <summary className="flex cursor-pointer list-none items-center justify-between gap-5 p-5 text-base font-semibold focus-visible:outline-brand-primary">
+              <span>{f.q}</span>
+              <Plus
+                aria-hidden="true"
+                className="size-5 shrink-0 text-brand-primary group-open:rotate-45 motion-reduce:transform-none"
+              />
+            </summary>
+            <p className="px-5 pb-6 text-sm leading-relaxed text-muted-foreground sm:text-base">
+              {f.a}
+            </p>
+          </details>
+        ))}
+      </div>
+    </ServiceBand>
+  );
+}
+export function SeoDesignSections() {
+  const { t } = useTranslation("seoServices");
+  const { t: home } = useTranslation("home");
+  const l = useServiceLabels();
+  const d = t("merged", { returnObjects: true }) as {
+    headings: string[];
+    local: Group;
+    content: Group;
+    technical: Group;
+    reviews: Group;
+    reporting: Group;
+  };
+  return (
+    <>
+      <ServiceBand
+        id="local"
+        title={d.headings[0]}
+        description={d.local.description}
+        eyebrow={d.local.badge}
+      >
+        <ItemCards
+          items={d.local.items ?? []}
+          icons={[Store, Map, MapPin, Star, ListChecks, Search, ShieldCheck, BarChart3]}
+        />
+      </ServiceBand>
+      <section data-service-section="treatments" className="home-design-section bg-brand-primary/5">
+        <div className="home-design-container grid gap-10 lg:grid-cols-2">
+          <header>
+            <h2 className="text-3xl font-light sm:text-4xl lg:text-5xl">{d.headings[1]}</h2>
+            <p className="mt-5 leading-relaxed text-muted-foreground">{d.content.description}</p>
+            <p className="mt-4 leading-relaxed text-muted-foreground">
+              {t("services.description")}
+            </p>
+            <TreatmentMock />
+          </header>
+          <TreatmentChips items={d.content.list ?? []} />
+        </div>
+      </section>
+      <ServiceBand
+        id="technical"
+        title={d.headings[2]}
+        description={d.technical.description}
+        tinted
+      >
+        <ItemCards
+          items={l.technical.map((title) => ({ title }))}
+          icons={[Gauge, Bug, FileSearch, Braces, Lock, Smartphone]}
+          columns={6}
+        />
+        <p className="mt-7 inline-flex rounded-full border border-brand-primary/20 bg-brand-primary/10 px-4 py-2 text-sm font-semibold text-brand-primary">
+          {l.baseline}
+        </p>
+      </ServiceBand>
+      <ServiceBand id="reviews" title={d.headings[3]}>
+        <ItemCards
+          items={(d.reviews.items ?? []).slice(0, 4)}
+          icons={[ShieldCheck, Building2, Grid3x3, PhoneCall]}
+        />
+      </ServiceBand>
+      <ServiceBand
+        id="reporting"
+        title={d.headings[4]}
+        description={d.reporting.description}
+        tinted
+      >
+        <ItemCards
+          items={["GA4", "Search Console", l.reporting].map((title) => ({ title }))}
+          icons={[LineChart, Search, Target]}
+          columns={3}
+        />
+        <Button
+          asChild
+          variant="outline"
+          className="mt-8 h-auto min-h-11 max-w-full whitespace-normal rounded-full border-brand-primary/20 py-3 text-brand-primary"
+        >
+          <LocalLink to="/blog/dermatology-marketing-strategies">
+            {home("ownerAnchors.marketing")}
+            <ArrowRight aria-hidden="true" />
+          </LocalLink>
+        </Button>
+      </ServiceBand>
+    </>
+  );
+}
+export function LocalTrack() {
+  const { t } = useTranslation("seoServices");
+  const l = useServiceLabels();
+  const steps = t("merged.workflow.steps", { returnObjects: true }) as Item[];
+  return (
+    <div className="mt-8">
+      <p className="mb-3 text-sm font-semibold text-brand-primary">{l.local}</p>
+      <ul className="flex flex-wrap gap-3">
+        {steps.map((s, i) => (
+          <li
+            key={i}
+            className="rounded-full border border-brand-primary/20 bg-background px-4 py-2 text-sm"
+          >
+            {s.title}
+          </li>
+        ))}
+      </ul>
+    </div>
+  );
+}
+export function ManagementDesignSections() {
+  const { t } = useTranslation("management");
+  const l = useServiceLabels();
+  const d = t("merged", { returnObjects: true }) as {
+    heading: string;
+    hosting: Group;
+    pillars: Group;
+    included: Group;
+    flow: Group;
+  };
+  const text = d.hosting.description ?? "";
+  const split = text.lastIndexOf(useCurrentLang() === "en" ? ";" : ". ");
+  const paragraph =
+    split >= 0 ? text.slice(0, split) + (useCurrentLang() === "en" ? "." : ".") : text;
+  const note = split >= 0 ? text.slice(split + (useCurrentLang() === "en" ? 2 : 2)) : "";
+  return (
+    <>
+      <ServiceBand id="hosting" title={d.heading} description={paragraph} tinted>
+        <ItemCards
+          items={l.hosting.map((title) => ({ title }))}
+          icons={[Lock, KeyRound, DatabaseBackup, Activity, FileSignature]}
+          columns={5}
+        />
+        <div className="mt-7 flex max-w-4xl items-start gap-3 rounded-lg border border-brand-primary/20 p-4">
+          <Info aria-hidden="true" className="mt-0.5 size-5 shrink-0 text-brand-primary" />
+          <p className="text-sm leading-relaxed text-muted-foreground">{note}</p>
+        </div>
+      </ServiceBand>
+      <ServiceBand
+        id="care"
+        title={d.pillars.title ?? ""}
+        eyebrow={d.pillars.badge}
+        description={l.areas}
+      >
+        <ItemCards
+          items={d.pillars.items ?? []}
+          icons={[Activity, RefreshCw, DatabaseBackup, ShieldAlert, Gauge, SearchCheck]}
+          columns={3}
+        />
+      </ServiceBand>
+      <ServiceBand id="checklist" title={d.included.title ?? ""} eyebrow={d.included.badge} tinted>
+        <ul className="mt-10 grid grid-cols-2 gap-x-6 gap-y-5 rounded-lg border border-border bg-card p-5 sm:p-8 lg:grid-cols-4">
+          {d.included.list?.map((s) => (
+            <li key={s} className="flex items-start gap-2 text-sm leading-relaxed">
+              <CheckCircle2
+                aria-hidden="true"
+                className="mt-0.5 size-4 shrink-0 text-brand-primary"
+              />
+              {s}
+            </li>
+          ))}
+        </ul>
+      </ServiceBand>
+      <ServiceBand id="onboarding" title={d.flow.title ?? ""} eyebrow={d.flow.badge}>
+        <ol className="home-process-timeline mt-12 grid gap-9 sm:grid-cols-2 lg:grid-cols-4">
+          {d.flow.items?.map((s, i) => (
+            <li key={i} className="relative pl-14 sm:pl-0">
+              <span className="absolute left-0 top-0 flex size-10 items-center justify-center rounded-full border border-brand-primary/20 bg-background text-lg font-semibold text-brand-primary sm:relative sm:mb-7">
+                {String(i + 1).padStart(2, "0")}
+              </span>
+              <h3 className="mt-2 text-lg font-semibold">{s.title}</h3>
+              <p className="mt-3 text-sm leading-relaxed text-muted-foreground">{s.desc}</p>
+            </li>
+          ))}
+        </ol>
+      </ServiceBand>
+    </>
+  );
+}
