@@ -3,6 +3,7 @@ import { URL_LANGUAGE_CODES } from "@/i18n/languages";
 /** Logical destinations are shared by server redirects and localized navigation. */
 export const CONSOLIDATED_PATHS: Readonly<Record<string, string>> = {
   "/dermatology-website-design": "/",
+  "/dermatology-websites-portfolio": "/",
   "/dermatology-local-seo-services": "/dermatology-seo-services",
   "/dermatology-website-maintenance-services": "/dermatology-website-management-services",
 };

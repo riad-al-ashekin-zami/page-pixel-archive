@@ -22,7 +22,6 @@ export const INDEXABLE_LOGICAL_PATHS: readonly string[] = [
   "/dermatology-website-migration",
   "/dermatology-website-redesign",
   "/dermatology-website-support-services",
-  "/dermatology-websites-portfolio",
   "/faq",
   "/multi-location-dermatology-website-design",
   "/our-process",

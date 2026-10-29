@@ -34,13 +34,14 @@ export const LocalLink = forwardRef<HTMLAnchorElement, LocalLinkProps>(function 
         to,
       )
     : to;
-  const href = resolvedTo === "." || resolvedTo === ".." ? resolvedTo : localizedPath(effectiveLang, resolvedTo);
+  const [linkPath, embeddedHash] = resolvedTo.split("#", 2);
+  const href = linkPath === "." || linkPath === ".." ? linkPath : localizedPath(effectiveLang, linkPath);
   return (
     <Link
       // TanStack Router's typed `to` prop expects the union of file-based routes.
       // Localized paths are runtime-valid but not part of that union, so cast.
       to={href as never}
-      hash={hash}
+      hash={hash ?? embeddedHash}
       preload={preload}
       activeProps={activeProps}
       inactiveProps={inactiveProps}
