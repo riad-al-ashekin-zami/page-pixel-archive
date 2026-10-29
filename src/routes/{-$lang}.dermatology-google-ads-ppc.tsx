@@ -1,3 +1,4 @@
+import { finalizeSeoHead } from "@/lib/seo-head";
 import { createFileRoute, notFound } from "@tanstack/react-router";
 import { LocalLink as Link } from "@/components/local-link";
 import { CtaLabel } from "@/lib/cta";
@@ -100,7 +101,7 @@ export const Route = createFileRoute("/{-$lang}/dermatology-google-ads-ppc")({
     stringify: (parsed: { lang?: string }) => ({ lang: parsed.lang ?? "" })
   },
 
-  head: ({ params }) => {
+  head: (args) => finalizeSeoHead((({ params }: typeof args) => {
     const { lang } = params;
     const st = getStaticTranslation(lang, "googleAds");
     return {
@@ -153,14 +154,14 @@ export const Route = createFileRoute("/{-$lang}/dermatology-google-ads-ppc")({
             "@type": "BreadcrumbList",
             itemListElement: [
               { "@type": "ListItem", position: 1, name: st?.meta?.jsonLd?.breadcrumb?.home, item: localizedUrl(resolveRouteLanguage(params.lang), "/") },
-              { "@type": "ListItem", position: 2, name: st?.meta?.jsonLd?.breadcrumb?.services, item: localizedUrl(resolveRouteLanguage(params.lang), "/dermatology-website-design") },
+              { "@type": "ListItem", position: 2, name: st?.meta?.jsonLd?.breadcrumb?.services, item: localizedUrl(resolveRouteLanguage(params.lang), "/") },
               { "@type": "ListItem", position: 3, name: st?.meta?.jsonLd?.breadcrumb?.ads, item: localizedUrl(resolveRouteLanguage(params.lang), "/dermatology-google-ads-ppc") }
             ]
           })
         }
       ]
     };
-  },
+  })(args), args.params.lang, "/dermatology-google-ads-ppc"),
   component: PpcPage
 });
 
@@ -265,8 +266,7 @@ function PpcPage() {
                   className="mt-6 max-w-3xl text-balance font-bold leading-[1.05] tracking-[-0.025em] text-foreground"
                   style={{ fontSize: "clamp(2rem, 7.5vw, 4rem)" }}
                 >
-                  {t("hero.heading").split(", ")[0]},{" "}
-                  <span className="font-bold text-brand-primary">{t("hero.heading").split(", ")[1]}</span>
+                  {t("hero.heading")}
                 </h1>
               </Reveal>
 

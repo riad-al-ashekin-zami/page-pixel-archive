@@ -1,3 +1,4 @@
+import { finalizeSeoHead } from "@/lib/seo-head";
 import { createFileRoute, notFound } from "@tanstack/react-router";
 import { LocalLink as Link } from "@/components/local-link";
 import { CtaLabel } from "@/lib/cta";
@@ -59,7 +60,7 @@ export const Route = createFileRoute("/{-$lang}/dermatology-practice-growth")({
     stringify: (parsed: { lang?: string }) => ({ lang: parsed.lang ?? "" }),
   },
 
-  head: ({ params }) => {
+  head: (args) => finalizeSeoHead((({ params }: typeof args) => {
     const { lang } = params;
     const st = getStaticTranslation(lang, "practiceGrowth");
     return {
@@ -96,13 +97,13 @@ export const Route = createFileRoute("/{-$lang}/dermatology-practice-growth")({
           "@context": "https://schema.org", "@type": "BreadcrumbList",
           itemListElement: [
             { "@type": "ListItem", position: 1, name: st?.meta?.jsonLd?.breadcrumbs?.home ?? "Home", item: localizedUrl(resolveRouteLanguage(params.lang), "/") },
-            { "@type": "ListItem", position: 2, name: st?.meta?.jsonLd?.breadcrumbs?.services ?? "Services", item: localizedUrl(resolveRouteLanguage(params.lang), "/dermatology-website-design") },
+            { "@type": "ListItem", position: 2, name: st?.meta?.jsonLd?.breadcrumbs?.services ?? "Services", item: localizedUrl(resolveRouteLanguage(params.lang), "/") },
             { "@type": "ListItem", position: 3, name: st?.meta?.jsonLd?.breadcrumbs?.current ?? "Dermatology Practice Growth", item: localizedUrl(resolveRouteLanguage(params.lang), "/dermatology-practice-growth") },
           ],
         }) },
       ],
     };
-  },
+  })(args), args.params.lang, "/dermatology-practice-growth"),
   component: PracticeGrowthPage,
 });
 

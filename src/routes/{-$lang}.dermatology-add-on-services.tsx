@@ -1,3 +1,5 @@
+import { finalizeSeoHead } from "@/lib/seo-head";
+import { KeywordOwnerLinks } from "@/components/sections/keyword-owner-links";
 import { createFileRoute, notFound } from "@tanstack/react-router";
 import { LocalLink as Link } from "@/components/local-link";
 import { CtaLabel } from "@/lib/cta";
@@ -173,7 +175,7 @@ export const Route = createFileRoute("/{-$lang}/dermatology-add-on-services")({
     stringify: (parsed: { lang?: string }) => ({ lang: parsed.lang ?? "" }),
   },
 
-  head: ({ params }) => {
+  head: (args) => finalizeSeoHead((({ params }: typeof args) => {
     const { lang } = params;
     const st = getStaticTranslation(lang, "addOns");
     return {
@@ -225,13 +227,13 @@ export const Route = createFileRoute("/{-$lang}/dermatology-add-on-services")({
           "@context": "https://schema.org", "@type": "BreadcrumbList",
           itemListElement: [
             { "@type": "ListItem", position: 1, name: st?.meta?.jsonLd?.breadcrumbs?.home ?? "Home", item: localizedUrl(resolveRouteLanguage(params.lang), "/") },
-            { "@type": "ListItem", position: 2, name: st?.meta?.jsonLd?.breadcrumbs?.services ?? "Services", item: localizedUrl(resolveRouteLanguage(params.lang), "/dermatology-website-design") },
+            { "@type": "ListItem", position: 2, name: st?.meta?.jsonLd?.breadcrumbs?.services ?? "Services", item: localizedUrl(resolveRouteLanguage(params.lang), "/") },
             { "@type": "ListItem", position: 3, name: st?.meta?.jsonLd?.breadcrumbs?.current ?? "Add-On Services", item: localizedUrl(resolveRouteLanguage(params.lang), "/dermatology-add-on-services") },
           ],
         }) },
       ],
     };
-  },
+  })(args), args.params.lang, "/dermatology-add-on-services"),
   component: AddOnServicesPage,
 });
 
@@ -673,9 +675,11 @@ function AddOnServicesPage() {
         <p className="mx-auto mt-16 mb-20 max-w-3xl px-4 text-center text-sm text-muted-foreground sm:mt-20 sm:mb-24 sm:px-6 lg:px-8">
           {t("footerLinks.prefix")}{" "}
           <Link to="/dermatology-website-management-services" className="font-medium text-foreground underline-offset-4 hover:text-brand-primary hover:underline">{t("footerLinks.management")}</Link>,{" "}
-          <Link to="/dermatology-website-maintenance-services" className="font-medium text-foreground underline-offset-4 hover:text-brand-primary hover:underline">{t("footerLinks.maintenance")}</Link>, {t("common.or", { ns: "translation" })}{" "}
+          <Link to="/dermatology-website-management-services" className="font-medium text-foreground underline-offset-4 hover:text-brand-primary hover:underline">{t("footerLinks.maintenance")}</Link>, {t("common.or", { ns: "translation" })}{" "}
           <Link to="/plan-packages-and-costs" className="font-medium text-foreground underline-offset-4 hover:text-brand-primary hover:underline">{t("footerLinks.pricing")}</Link>.
         </p>
+
+      <div className="mx-auto max-w-7xl px-4 pb-16 sm:px-6 lg:px-8"><KeywordOwnerLinks owners={["seo"]} /></div>
 
       <SiteFooter />
     </div>

@@ -1,3 +1,5 @@
+import { finalizeSeoHead } from "@/lib/seo-head";
+import { KeywordOwnerLinks } from "@/components/sections/keyword-owner-links";
 import { createFileRoute, notFound } from "@tanstack/react-router";
 import { LocalLink as Link } from "@/components/local-link";
 import { CtaLabel } from "@/lib/cta";
@@ -115,7 +117,7 @@ export const Route = createFileRoute("/{-$lang}/dermatology-social-media-service
     stringify: (parsed: { lang?: string }) => ({ lang: parsed.lang ?? "" }),
   },
 
-  head: ({ params }) => {
+  head: (args) => finalizeSeoHead((({ params }: typeof args) => {
     const { lang } = params;
     const st = getStaticTranslation(lang, "socialMedia");
     return {
@@ -164,14 +166,14 @@ export const Route = createFileRoute("/{-$lang}/dermatology-social-media-service
             "@type": "BreadcrumbList",
             itemListElement: [
               { "@type": "ListItem", position: 1, name: st?.jsonLd?.breadcrumbs?.home ?? "Home", item: localizedUrl(resolveRouteLanguage(params.lang), "/") },
-              { "@type": "ListItem", position: 2, name: st?.jsonLd?.breadcrumbs?.services ?? "Services", item: localizedUrl(resolveRouteLanguage(params.lang), "/dermatology-website-design") },
+              { "@type": "ListItem", position: 2, name: st?.jsonLd?.breadcrumbs?.services ?? "Services", item: localizedUrl(resolveRouteLanguage(params.lang), "/") },
               { "@type": "ListItem", position: 3, name: st?.jsonLd?.breadcrumbs?.social ?? "Social Media", item: localizedUrl(resolveRouteLanguage(params.lang), "/dermatology-social-media-services") },
             ],
           }),
         },
       ],
     };
-  },
+  })(args), args.params.lang, "/dermatology-social-media-services"),
   component: SocialPage,
 });
 
@@ -748,6 +750,8 @@ function SocialPage() {
         </Link>
         .
       </p>
+
+      <div className="mx-auto max-w-7xl px-4 pb-16 sm:px-6 lg:px-8"><KeywordOwnerLinks owners={["seo", "marketing"]} /></div>
 
       <SiteFooter />
     </div>

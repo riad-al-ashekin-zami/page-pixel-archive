@@ -1,3 +1,6 @@
+import { finalizeSeoHead } from "@/lib/seo-head";
+import { KeywordOwnerLinks } from "@/components/sections/keyword-owner-links";
+import { ManagementMergedContent } from "@/components/sections/merged-owner-content";
 import { createFileRoute, notFound } from "@tanstack/react-router";
 import { LocalLink as Link } from "@/components/local-link";
 import { CtaLabel } from "@/lib/cta";
@@ -92,7 +95,7 @@ export const Route = createFileRoute("/{-$lang}/dermatology-website-management-s
     stringify: (parsed: { lang?: string }) => ({ lang: parsed.lang ?? "" }),
   },
 
-  head: ({ params }) => {
+  head: (args) => finalizeSeoHead((({ params }: typeof args) => {
     const lang = params?.lang ?? "en";
     const st = getStaticTranslation(lang, "management");
     return {
@@ -117,7 +120,7 @@ export const Route = createFileRoute("/{-$lang}/dermatology-website-management-s
         { type: "application/ld+json", children: JSON.stringify({ "@context": "https://schema.org", "@type": "FAQPage", mainEntity: (st?.faq?.items ?? []).map((f: any) => ({ "@type": "Question", name: f.q, acceptedAnswer: { "@type": "Answer", text: f.a } })) }) },
       ],
     };
-  },
+  })(args), args.params.lang, "/dermatology-website-management-services"),
   component: ManagementPage,
 });
 
@@ -253,6 +256,8 @@ function ManagementPage() {
           </Reveal>
         </div>
       </section>
+
+      <ManagementMergedContent />
 
       {/* PILLARS */}
       <section className="border-b border-border/60 py-20">
@@ -547,7 +552,7 @@ function ManagementPage() {
             </div>
           </div>
           <div className="mt-6 text-center text-xs text-muted-foreground">
-            {t("comparison.footer")} <Link to="/dermatology-website-maintenance-services" className="font-semibold text-brand-primary hover:underline">{t("comparison.footer_link")}</Link>
+            {t("comparison.footer")} <Link to="/dermatology-website-management-services" className="font-semibold text-brand-primary hover:underline">{t("comparison.footer_link")}</Link>
           </div>
         </div>
       </section>
@@ -703,10 +708,12 @@ function ManagementPage() {
 
         <p className="mx-auto mt-16 mb-20 max-w-3xl px-4 text-center text-sm text-muted-foreground sm:mt-20 sm:mb-24 sm:px-6 lg:px-8">
           {t("footer_considerations.prefix")}{" "}
-          <Link to="/dermatology-website-maintenance-services" className="font-medium text-foreground underline-offset-4 hover:text-brand-primary hover:underline">{t("footer_considerations.links.maintenance")}</Link>,{" "}
+          <Link to="/dermatology-website-management-services" className="font-medium text-foreground underline-offset-4 hover:text-brand-primary hover:underline">{t("footer_considerations.links.maintenance")}</Link>,{" "}
           <Link to="/dermatology-website-support-services" className="font-medium text-foreground underline-offset-4 hover:text-brand-primary hover:underline">{t("footer_considerations.links.support")}</Link>, {t("common.or", { ns: "translation" })}{" "}
           <Link to="/plan-packages-and-costs" className="font-medium text-foreground underline-offset-4 hover:text-brand-primary hover:underline">{t("footer_considerations.links.full_management")}</Link>.
         </p>
+
+      <div className="mx-auto max-w-7xl px-4 pb-16 sm:px-6 lg:px-8"><KeywordOwnerLinks owners={["seo"]} /></div>
 
       <SiteFooter />
     </div>

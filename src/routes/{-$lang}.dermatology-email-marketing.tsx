@@ -1,3 +1,4 @@
+import { finalizeSeoHead } from "@/lib/seo-head";
 import { createFileRoute, notFound } from "@tanstack/react-router";
 import { LocalLink as Link } from "@/components/local-link";
 import { CtaLabel } from "@/lib/cta";
@@ -63,7 +64,7 @@ export const Route = createFileRoute("/{-$lang}/dermatology-email-marketing")({
     stringify: (parsed: { lang?: string }) => ({ lang: parsed.lang ?? "" }),
   },
 
-  head: ({ params }) => {
+  head: (args) => finalizeSeoHead((({ params }: typeof args) => {
     const { lang } = params;
     const st = getStaticTranslation(lang, "emailMarketing");
     return {
@@ -94,13 +95,13 @@ export const Route = createFileRoute("/{-$lang}/dermatology-email-marketing")({
           "@context": "https://schema.org", "@type": "BreadcrumbList",
           itemListElement: [
             { "@type": "ListItem", position: 1, name: st?.meta?.jsonLd?.breadcrumb?.home, item: localizedUrl(resolveRouteLanguage(params.lang), "/") },
-            { "@type": "ListItem", position: 2, name: st?.meta?.jsonLd?.breadcrumb?.services, item: localizedUrl(resolveRouteLanguage(params.lang), "/dermatology-website-design") },
+            { "@type": "ListItem", position: 2, name: st?.meta?.jsonLd?.breadcrumb?.services, item: localizedUrl(resolveRouteLanguage(params.lang), "/") },
             { "@type": "ListItem", position: 3, name: st?.meta?.jsonLd?.breadcrumb?.emailMarketing, item: localizedUrl(resolveRouteLanguage(params.lang), "/dermatology-email-marketing") },
           ],
         }) },
       ],
     };
-  },
+  })(args), args.params.lang, "/dermatology-email-marketing"),
   component: EmailMarketingPage,
 });
 
@@ -420,8 +421,7 @@ function EmailMarketingPage() {
                   className="mt-6 max-w-[18ch] text-pretty font-bold leading-[1.05] tracking-[-0.025em] text-foreground"
                   style={{ fontSize: "clamp(1.875rem, 5.4vw, 3.9rem)" }}
                 >
-                  {t("hero.title").split("book.")[0]}
-                  <span className="text-brand-primary">{t("hero.title").split("your")[1]}</span>
+                  {t("hero.title")}
                 </h1>
               </Reveal>
 

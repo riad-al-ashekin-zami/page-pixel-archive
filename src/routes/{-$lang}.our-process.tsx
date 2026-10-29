@@ -1,3 +1,4 @@
+import { finalizeSeoHead } from "@/lib/seo-head";
 import { createFileRoute, notFound } from "@tanstack/react-router";
 import { LocalLink as Link } from "@/components/local-link";
 import { CtaLabel } from "@/lib/cta";
@@ -224,7 +225,7 @@ export const Route = createFileRoute("/{-$lang}/our-process")({
     stringify: (parsed: { lang?: string }) => ({ lang: parsed.lang ?? "" }),
   },
 
-  head: ({ params }) => {
+  head: (args) => finalizeSeoHead((({ params }: typeof args) => {
     const lang = params.lang ?? "en";
     const st = getStaticTranslation(lang, "ourProcess");
 
@@ -283,7 +284,7 @@ export const Route = createFileRoute("/{-$lang}/our-process")({
         },
       ],
     };
-  },
+  })(args), args.params.lang, "/our-process"),
   component: OurProcessPage,
 });
 

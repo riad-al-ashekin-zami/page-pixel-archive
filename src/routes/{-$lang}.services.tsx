@@ -1,3 +1,5 @@
+import { finalizeSeoHead } from "@/lib/seo-head";
+import { KeywordOwnerLinks } from "@/components/sections/keyword-owner-links";
 import { createFileRoute, notFound } from "@tanstack/react-router";
 import {
   ArrowRight,
@@ -32,7 +34,7 @@ export const Route = createFileRoute("/{-$lang}/services")({
     },
     stringify: (parsed: { lang?: string }) => ({ lang: parsed.lang ?? "" }),
   },
-  head: ({ params }) => {
+  head: (args) => finalizeSeoHead((({ params }: typeof args) => {
     const lang = resolveRouteLanguage(params.lang);
     const canonical = localizedUrl(resolveRouteLanguage(params.lang), "/services");
     const st = getStaticTranslation(lang, "services");
@@ -73,7 +75,7 @@ export const Route = createFileRoute("/{-$lang}/services")({
         },
       ],
     };
-  },
+  })(args), args.params.lang, "/services"),
   component: ServicesPage,
 });
 
@@ -203,6 +205,8 @@ function ServicesPage() {
           </div>
         </section>
       </main>
+      <div className="mx-auto max-w-7xl px-4 pb-16 sm:px-6 lg:px-8"><KeywordOwnerLinks owners={["design"]} /></div>
+
       <SiteFooter />
     </div>
   );

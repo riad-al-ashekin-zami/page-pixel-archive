@@ -1,3 +1,4 @@
+import { finalizeSeoHead } from "@/lib/seo-head";
 import { createFileRoute, notFound } from "@tanstack/react-router";
 import { LocalLink as Link } from "@/components/local-link";
 import { CtaLabel } from "@/lib/cta";
@@ -46,7 +47,7 @@ export const Route = createFileRoute("/{-$lang}/dermatology-website-support-serv
     stringify: (parsed: { lang?: string }) => ({ lang: parsed.lang ?? "" }),
   },
 
-  head: ({ params }) => {
+  head: (args) => finalizeSeoHead((({ params }: typeof args) => {
     const st = getStaticTranslation(params.lang, "support");
     return {
       meta: [
@@ -67,7 +68,7 @@ export const Route = createFileRoute("/{-$lang}/dermatology-website-support-serv
         { type: "application/ld+json", children: JSON.stringify({ "@context": "https://schema.org", "@type": "FAQPage", mainEntity: (st?.faq?.items ?? []).map((f: any) => ({ "@type": "Question", name: f.q, acceptedAnswer: { "@type": "Answer", text: f.a } })) }) },
       ],
     };
-  },
+  })(args), args.params.lang, "/dermatology-website-support-services"),
   component: SupportServicesPage,
 });
 
@@ -503,7 +504,7 @@ function SupportServicesPage() {
 
         <p className="mx-auto mt-16 mb-20 max-w-3xl px-4 text-center text-sm text-muted-foreground sm:mt-20 sm:mb-24 sm:px-6 lg:px-8">
           {t("footerLinks.preface")}{" "}
-          <Link to="/dermatology-website-maintenance-services" className="font-medium text-foreground underline-offset-4 hover:text-brand-primary hover:underline">{t("footerLinks.maintenance")}</Link>,{" "}
+          <Link to="/dermatology-website-management-services" className="font-medium text-foreground underline-offset-4 hover:text-brand-primary hover:underline">{t("footerLinks.maintenance")}</Link>,{" "}
           <Link to="/dermatology-website-management-services" className="font-medium text-foreground underline-offset-4 hover:text-brand-primary hover:underline">{t("footerLinks.management")}</Link>, {t("common.or", { ns: "translation" })}{" "}
           <Link to="/faq" className="font-medium text-foreground underline-offset-4 hover:text-brand-primary hover:underline">{t("footerLinks.faq")}</Link>.
         </p>

@@ -1,3 +1,5 @@
+import { finalizeSeoHead } from "@/lib/seo-head";
+import { KeywordOwnerLinks } from "@/components/sections/keyword-owner-links";
 import { useEffect, useMemo, useRef, useState } from "react";
 import { createFileRoute, notFound } from "@tanstack/react-router";
 import { LocalLink as Link } from "@/components/local-link";
@@ -44,7 +46,7 @@ export const Route = createFileRoute("/{-$lang}/faq")({
     stringify: (parsed: { lang?: string }) => ({ lang: parsed.lang ?? "" }),
   },
 
-  head: ({ params }) => {
+  head: (args) => finalizeSeoHead((({ params }: typeof args) => {
     const lang = resolveRouteLanguage(params.lang);
     const st = getStaticTranslation(lang, "faq");
     const PAGE_TITLE = st?.meta?.title ?? "FAQ — Dermatology Website Design, SEO & HIPAA Answers";
@@ -95,7 +97,7 @@ export const Route = createFileRoute("/{-$lang}/faq")({
         },
       ],
     };
-  },
+  })(args), args.params.lang, "/faq"),
   component: FaqPage,
 });
 
@@ -830,6 +832,8 @@ function FaqPage() {
           <Link to="/case-studies" className="font-medium text-foreground underline-offset-4 hover:text-brand-primary hover:underline">{t("footerLinks.caseStudiesLink")}</Link>, {t("common.or", { ns: "translation" })}{" "}
           <Link to="/plan-packages-and-costs" className="font-medium text-foreground underline-offset-4 hover:text-brand-primary hover:underline">{t("footerLinks.pricingLink")}</Link>.
         </p>
+
+      <div className="mx-auto max-w-7xl px-4 pb-16 sm:px-6 lg:px-8"><KeywordOwnerLinks owners={["design", "seo"]} /></div>
 
       <SiteFooter />
     </div>

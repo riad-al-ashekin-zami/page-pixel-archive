@@ -1,3 +1,4 @@
+import { finalizeSeoHead } from "@/lib/seo-head";
 import { createFileRoute, notFound } from "@tanstack/react-router";
 import { LocalLink as Link } from "@/components/local-link";
 import { CtaLabel } from "@/lib/cta";
@@ -32,7 +33,7 @@ export const Route = createFileRoute("/{-$lang}/case-studies")({
     stringify: (parsed: { lang?: string }) => ({ lang: parsed.lang ?? "" }),
   },
 
-  head: ({ params }) => {
+  head: (args) => finalizeSeoHead((({ params }: typeof args) => {
     const { lang } = params;
     const st = getStaticTranslation(resolveRouteLanguage(params.lang), "caseStudies");
 
@@ -71,7 +72,7 @@ export const Route = createFileRoute("/{-$lang}/case-studies")({
         },
       ],
     };
-  },
+  })(args), args.params.lang, "/case-studies"),
   component: CaseStudiesPage,
 });
 

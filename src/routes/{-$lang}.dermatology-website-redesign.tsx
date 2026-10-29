@@ -1,3 +1,5 @@
+import { finalizeSeoHead } from "@/lib/seo-head";
+import { KeywordOwnerLinks } from "@/components/sections/keyword-owner-links";
 import { createFileRoute, notFound } from "@tanstack/react-router";
 import { LocalLink as Link } from "@/components/local-link";
 import { CtaLabel } from "@/lib/cta";
@@ -37,7 +39,7 @@ export const Route = createFileRoute("/{-$lang}/dermatology-website-redesign")({
     stringify: (parsed: { lang?: string }) => ({ lang: parsed.lang ?? "" }),
   },
 
-  head: ({ params: { lang } }) => {
+  head: (args) => finalizeSeoHead((({ params: { lang } }: typeof args) => {
     const st = getStaticTranslation(lang, "websiteRedesign");
     return {
       meta: [
@@ -58,7 +60,7 @@ export const Route = createFileRoute("/{-$lang}/dermatology-website-redesign")({
         { type: "application/ld+json", children: JSON.stringify({ "@context": "https://schema.org", "@type": "FAQPage", mainEntity: [0, 1, 2, 3, 4].map((i) => ({ "@type": "Question", name: st?.faq?.items?.[i]?.q, acceptedAnswer: { "@type": "Answer", text: st?.faq?.items?.[i]?.a } })) }) },
       ],
     };
-  },
+  })(args), args.params.lang, "/dermatology-website-redesign"),
   component: DermRedesignPage,
 });
 
@@ -486,9 +488,11 @@ function DermRedesignPage() {
         <p className="mx-auto mt-16 mb-20 max-w-3xl px-4 text-center text-sm text-muted-foreground sm:mt-20 sm:mb-24 sm:px-6 lg:px-8">
           {t("cta.footerLinksPrefix")}{" "}
           <Link to="/dermatology-website-migration" className="font-medium text-foreground underline-offset-4 hover:text-brand-primary hover:underline">{t("cta.footerLinks.migration")}</Link>,{" "}
-          <Link to="/dermatology-website-maintenance-services" className="font-medium text-foreground underline-offset-4 hover:text-brand-primary hover:underline">{t("cta.footerLinks.maintenance")}</Link>, {t("common.or", { ns: "translation" })}{" "}
+          <Link to="/dermatology-website-management-services" className="font-medium text-foreground underline-offset-4 hover:text-brand-primary hover:underline">{t("cta.footerLinks.maintenance")}</Link>, {t("common.or", { ns: "translation" })}{" "}
           <Link to="/dermatology-websites-portfolio" className="font-medium text-foreground underline-offset-4 hover:text-brand-primary hover:underline">{t("cta.footerLinks.portfolio")}</Link>.
         </p>
+
+      <div className="mx-auto max-w-7xl px-4 pb-16 sm:px-6 lg:px-8"><KeywordOwnerLinks owners={["migration"]} /></div>
 
       <SiteFooter />
 

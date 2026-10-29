@@ -1,3 +1,5 @@
+import { finalizeSeoHead } from "@/lib/seo-head";
+import { KeywordOwnerLinks } from "@/components/sections/keyword-owner-links";
 import { createFileRoute, notFound } from "@tanstack/react-router";
 import { LocalLink as Link } from "@/components/local-link";
 import { CtaLabel } from "@/lib/cta";
@@ -32,7 +34,7 @@ export const Route = createFileRoute("/{-$lang}/dermatology-websites-portfolio")
     stringify: (parsed: { lang?: string }) => ({ lang: parsed.lang ?? "" }),
   },
 
-  head: ({ params }) => {
+  head: (args) => finalizeSeoHead((({ params }: typeof args) => {
     const { lang } = params;
     const st = getStaticTranslation(resolveRouteLanguage(params.lang), "portfolio");
     const PAGE_TITLE = st?.meta?.title ?? "Our Work & Case Studies";
@@ -70,7 +72,7 @@ export const Route = createFileRoute("/{-$lang}/dermatology-websites-portfolio")
         },
       ],
     };
-  },
+  })(args), args.params.lang, "/dermatology-websites-portfolio"),
   component: PortfolioPage,
 });
 
@@ -347,6 +349,8 @@ function PortfolioPage() {
           <Link to="/our-process" className="font-medium text-foreground underline-offset-4 hover:text-brand-primary hover:underline">{t("footerLinks.process")}</Link>, {t("footerLinks.conjunctions.or")}{" "}
           <Link to="/plan-packages-and-costs" className="font-medium text-foreground underline-offset-4 hover:text-brand-primary hover:underline">{t("footerLinks.pricing")}</Link>.
         </p>
+
+      <div className="mx-auto max-w-7xl px-4 pb-16 sm:px-6 lg:px-8"><KeywordOwnerLinks owners={["design"]} /></div>
 
       <SiteFooter />
     </div>

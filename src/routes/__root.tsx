@@ -216,20 +216,18 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { title: "Dermatology Website Design | HIPAA-Aware, SEO-Ready Websites" },
-      { name: "description", content: "Dermatology website design agency building HIPAA-aware, SEO-optimized websites for dermatology practices. Transparent pricing. Free audit." },
+      { title: "DWD" },
+      { name: "description", content: "DWD — websites and digital services for skin clinics." },
       { name: "author", content: "Dermatology Website Design" },
       // Default for any route without its own robots meta (404, future pages):
       // noindex unless the route is in the SEO allowlist (src/lib/index-allowlist.ts).
       // Child routes override this by name.
-      { name: "robots", content: "noindex,follow" },
+      { name: "robots", content: "noindex, follow" },
       { property: "og:site_name", content: "Dermatology Website Design" },
-      { property: "og:title", content: "Dermatology Website Design | HIPAA-Aware, SEO-Ready Websites" },
-      { property: "og:description", content: "Dermatology website design agency building HIPAA-aware, SEO-optimized websites for dermatology practices. Transparent pricing. Free audit." },
+      { property: "og:title", content: "DWD" },
+      { property: "og:description", content: "DWD — websites and digital services for skin clinics." },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
-      { property: "og:image", content: "https://storage.googleapis.com/gpt-engineer-file-uploads/attachments/og-images/6625be73-cd9f-4bff-8690-cc040752ae00" },
-      { name: "twitter:image", content: "https://storage.googleapis.com/gpt-engineer-file-uploads/attachments/og-images/6625be73-cd9f-4bff-8690-cc040752ae00" },
     ],
     links: [
       { rel: "stylesheet", href: appCss },
