@@ -162,6 +162,7 @@
 .service-page { letter-spacing: 0; }
 .service-page h1, .service-page h2, .service-page h3 { letter-spacing: 0; overflow-wrap: anywhere; }
 .service-page [data-service-section] { min-width: 0; }
+.service-page footer { overflow: clip; }
 .service-page summary::-webkit-details-marker { display: none; }
 @media (prefers-reduced-motion: reduce) {
   .service-page *, .service-page *::before, .service-page *::after {
