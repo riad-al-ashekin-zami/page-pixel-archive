@@ -1,14 +1,14 @@
 {
   "meta": {
-    "title": "Veksttjenester for hudlegepraksis | Bookede timer, ikke bare visninger",
+    "title": "Veksttjenester for hudlegepraksis | DWD",
     "description": "Vekst for din hudlegepraksis – pasientinnstrømming, konverteringsoptimalisering, automatisert oppfølging og omsetningsanalyse knyttet direkte til bookede besøk og lønnsomhet per tjeneste.",
     "og": {
-      "title": "Vekst for hudleger – Bookede timer, ikke visninger",
-      "description": "Helhetlig vekst for selvstendige klinikker og kjeder – anskaffelse, konvertering, lojalitet og økonomiske analyser."
+      "title": "Veksttjenester for hudlegepraksis | DWD",
+      "description": "Vekst for din hudlegepraksis – pasientinnstrømming, konverteringsoptimalisering, automatisert oppfølging og omsetningsanalyse knyttet direkte til bookede besøk og lønnsomhet per tjeneste."
     },
     "twitter": {
-      "title": "Veksttjenester for dermatologiske klinikker",
-      "description": "Øk antall bookede timer for din praksis – målt direkte i regnskapet."
+      "title": "Veksttjenester for hudlegepraksis | DWD",
+      "description": "Vekst for din hudlegepraksis – pasientinnstrømming, konverteringsoptimalisering, automatisert oppfølging og omsetningsanalyse knyttet direkte til bookede besøk og lønnsomhet per tjeneste."
     },
     "jsonLd": {
       "serviceType": "Veksttjenester for hudlegepraksis",
@@ -19,7 +19,13 @@
         "services": "Tjenester",
         "current": "Vekst for hudlegepraksis"
       }
-    }
+    },
+    "ogTitle": "Veksttjenester for hudlegepraksis | DWD",
+    "og_title": "Veksttjenester for hudlegepraksis | DWD",
+    "twitter_title": "Veksttjenester for hudlegepraksis | DWD",
+    "ogDescription": "Vekst for din hudlegepraksis – pasientinnstrømming, konverteringsoptimalisering, automatisert oppfølging og omsetningsanalyse knyttet direkte til bookede besøk og lønnsomhet per tjeneste.",
+    "og_description": "Vekst for din hudlegepraksis – pasientinnstrømming, konverteringsoptimalisering, automatisert oppfølging og omsetningsanalyse knyttet direkte til bookede besøk og lønnsomhet per tjeneste.",
+    "twitter_description": "Vekst for din hudlegepraksis – pasientinnstrømming, konverteringsoptimalisering, automatisert oppfølging og omsetningsanalyse knyttet direkte til bookede besøk og lønnsomhet per tjeneste."
   },
   "hero": {
     "badge": "Vekst for hudlegepraksis",

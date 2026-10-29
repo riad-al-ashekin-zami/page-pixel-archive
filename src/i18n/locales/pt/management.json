@@ -1,15 +1,25 @@
 {
   "meta": {
-    "title": "Serviços de Gestão de Websites de Dermatologia — Focados no Crescimento",
+    "title": "Manutenção e Gestão de Sites de Dermatologia | DWD",
     "description": "Gestão completa de websites de dermatologia: gestor de conta dedicado, conteúdos mensais, SEO, testes A/B, otimização de conversão e relatórios executivos. Sem fidelização.",
     "og": {
-      "title": "Serviços de Gestão de Websites de Dermatologia — A Sua Equipa de Crescimento",
-      "description": "Uma equipa dedicada gere o seu website de dermatologia todas as semanas — conteúdos, SEO, CRO, campanhas e relatórios. Conformidade HIPAA. Mês a mês."
+      "title": "Manutenção e Gestão de Sites de Dermatologia | DWD",
+      "description": "Gestão completa de websites de dermatologia: gestor de conta dedicado, conteúdos mensais, SEO, testes A/B, otimização de conversão e relatórios executivos. Sem fidelização."
+    },
+    "ogTitle": "Manutenção e Gestão de Sites de Dermatologia | DWD",
+    "og_title": "Manutenção e Gestão de Sites de Dermatologia | DWD",
+    "twitter_title": "Manutenção e Gestão de Sites de Dermatologia | DWD",
+    "ogDescription": "Gestão completa de websites de dermatologia: gestor de conta dedicado, conteúdos mensais, SEO, testes A/B, otimização de conversão e relatórios executivos. Sem fidelização.",
+    "og_description": "Gestão completa de websites de dermatologia: gestor de conta dedicado, conteúdos mensais, SEO, testes A/B, otimização de conversão e relatórios executivos. Sem fidelização.",
+    "twitter_description": "Gestão completa de websites de dermatologia: gestor de conta dedicado, conteúdos mensais, SEO, testes A/B, otimização de conversão e relatórios executivos. Sem fidelização.",
+    "twitter": {
+      "title": "Manutenção e Gestão de Sites de Dermatologia | DWD",
+      "description": "Gestão completa de websites de dermatologia: gestor de conta dedicado, conteúdos mensais, SEO, testes A/B, otimização de conversão e relatórios executivos. Sem fidelização."
     }
   },
   "hero": {
     "badge": "Gestão de Websites de Dermatologia",
-    "headline": "Uma equipa de crescimento que gere o seu website de dermatologia — todas as semanas.",
+    "headline": "Manutenção e Gestão de Sites de Dermatologia",
     "subheading": "Estratégia, conteúdos, SEO, testes de conversão e relatórios — assegurados por uma equipa dedicada. Deixe de se preocupar com o site e comece a receber novos pacientes através dele.",
     "cta_primary": "Obter plano de crescimento",
     "cta_secondary": "Auditoria gratuita primeiro",
@@ -454,5 +464,87 @@
     "service_type": "Serviços de Gestão de Websites de Dermatologia",
     "provider_name": "DermatologyWebsiteDesign.com",
     "offer_description": "Gestão de websites de dermatologia — preço base mensal"
+  },
+  "merged": {
+    "heading": "Hospedagem Segura e Atenta à HIPAA",
+    "pillars": {
+      "badge": "O que inclui um plano de manutenção",
+      "title": "Todas as camadas do seu site — vigiadas, atualizadas e otimizadas.",
+      "description": "Seis pilares de trabalho mensal. Sem custos extra, sem faturas surpresa.",
+      "items": [
+        {
+          "title": "Monitorização de Uptime 24/7",
+          "desc": "Verificações a cada 60 segundos em 5 regiões. Os alertas chegam à nossa equipa técnica antes de a sua receção saber do problema."
+        },
+        {
+          "title": "Atualizações com Foco em HIPAA",
+          "desc": "Atualizações de CMS, plugins e dependências testadas e implementadas num alojamento preparado para BAA."
+        },
+        {
+          "title": "Backups Diários Encriptados",
+          "desc": "Armazenamento externo, com controlo de versões e restauro num clique. Testados mensalmente — não apenas agendados e esquecidos."
+        },
+        {
+          "title": "Scans de Malware e Vulnerabilidades",
+          "desc": "Varreduras semanais, testes de penetração trimestrais e correção imediata de qualquer CVE que afete a sua infraestrutura."
+        },
+        {
+          "title": "Vigilância de Core Web Vitals",
+          "desc": "Tracking contínuo de LCP, INP e CLS — corrigimos regressões antes que a Google penalize o seu ranking."
+        },
+        {
+          "title": "Saúde de SEO On-Page",
+          "desc": "Links quebrados, schema em falta e erros de rastreio detetados mensalmente e corrigidos no âmbito do plano."
+        }
+      ]
+    },
+    "included": {
+      "badge": "Incluído todos os meses",
+      "title": "16 tarefas que fazemos por si — todos os meses.",
+      "items": [
+        "Monitorização 24/7 de uptime e SSL",
+        "Atualizações semanais de CMS e plugins",
+        "Backups diários encriptados off-site",
+        "Scans de malware e correções CVE",
+        "Auditorias de formulários e PHI (foco HIPAA)",
+        "Monitorização de Core Web Vitals",
+        "Varredura de saúde SEO e links quebrados",
+        "Otimização de base de dados",
+        "Ajuste de CDN e edge cache",
+        "Triagem de bugs e envio de hotfixes",
+        "Horas de edição de design e conteúdo",
+        "Relatório mensal de performance",
+        "Alertas proativos de incidentes",
+        "Registo de alterações de conformidade",
+        "Verificações de acessibilidade (WCAG AA)",
+        "Engenheiro de conta dedicado"
+      ]
+    },
+    "flow": {
+      "badge": "Como funciona o apoio",
+      "title": "Da integração a um mês mais tranquilo, todos os meses.",
+      "items": [
+        {
+          "step": "01",
+          "title": "Adesão e Auditoria",
+          "desc": "Recebemos o seu site com uma auditoria completa de segurança, performance, SEO e HIPAA — nada entra em monitorização sem ser analisado."
+        },
+        {
+          "step": "02",
+          "title": "Reforço e Baseline",
+          "desc": "Correção de falhas, verificação de backups e definição de métricas de base para cada Core Web Vital e posição no ranking."
+        },
+        {
+          "step": "03",
+          "title": "Monitorizar e Manter",
+          "desc": "Vigilância 24/7, atualizações semanais e relatórios mensais — além das suas horas de edição para crescimento contínuo."
+        },
+        {
+          "step": "04",
+          "title": "Relatar e Melhorar",
+          "desc": "Revisão mensal com o seu engenheiro dedicado. Onde podemos tornar o site mais rápido, seguro e melhor posicionado no próximo mês?"
+        }
+      ]
+    }
   }
 }

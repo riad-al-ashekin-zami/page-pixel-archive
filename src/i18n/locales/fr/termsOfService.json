@@ -1,11 +1,21 @@
 {
   "meta": {
-    "title": "Conditions Générales d'Utilisation — Site Web et Prestations",
+    "title": "Conditions Générales d'Utilisation | DWD",
     "description": "Les conditions régissant votre utilisation de notre site, nos communications et les services que vous sollicitez auprès de notre studio.",
-    "og_title": "Conditions Générales d'Utilisation — Site Web et Prestations",
+    "og_title": "Conditions Générales d'Utilisation | DWD",
     "og_description": "Les conditions régissant votre utilisation de notre site, nos communications et les services que vous sollicitez auprès de notre studio.",
-    "twitter_title": "Conditions Générales d'Utilisation — Site Web et Prestations",
-    "twitter_description": "Les conditions régissant votre utilisation de notre site, nos communications et les services que vous sollicitez auprès de notre studio."
+    "twitter_title": "Conditions Générales d'Utilisation | DWD",
+    "twitter_description": "Les conditions régissant votre utilisation de notre site, nos communications et les services que vous sollicitez auprès de notre studio.",
+    "ogTitle": "Conditions Générales d'Utilisation | DWD",
+    "ogDescription": "Les conditions régissant votre utilisation de notre site, nos communications et les services que vous sollicitez auprès de notre studio.",
+    "og": {
+      "title": "Conditions Générales d'Utilisation | DWD",
+      "description": "Les conditions régissant votre utilisation de notre site, nos communications et les services que vous sollicitez auprès de notre studio."
+    },
+    "twitter": {
+      "title": "Conditions Générales d'Utilisation | DWD",
+      "description": "Les conditions régissant votre utilisation de notre site, nos communications et les services que vous sollicitez auprès de notre studio."
+    }
   },
   "a11y": {
     "skip_to_content": "Passer au contenu",

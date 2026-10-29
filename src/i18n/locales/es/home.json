@@ -1,18 +1,36 @@
 {
   "meta": {
-    "title": "Diseño de Sitios Web para Dermatología — Plataformas de Crecimiento con enfoque HIPAA",
-    "description": "Sitios web con cumplimiento HIPAA, SEO y marketing para clínicas dermatológicas. Auditoría web gratuita en 24 horas.",
-    "orgDescription": "Diseño de sitios web con enfoque HIPAA, SEO y marketing de crecimiento para consultorios dermatológicos independientes y cadenas clínicas."
+    "title": "Diseño Web para Dermatólogos y Clínicas | DWD",
+    "description": "Diseño web para dermatólogos y clínicas: sitios rápidos que tienen en cuenta HIPAA y convierten visitas en citas de pacientes.",
+    "orgDescription": "Diseño de sitios web con enfoque HIPAA, SEO y marketing de crecimiento para consultorios dermatológicos independientes y cadenas clínicas.",
+    "ogTitle": "Diseño Web para Dermatólogos y Clínicas | DWD",
+    "og_title": "Diseño Web para Dermatólogos y Clínicas | DWD",
+    "twitter_title": "Diseño Web para Dermatólogos y Clínicas | DWD",
+    "ogDescription": "Diseño web para dermatólogos y clínicas: sitios rápidos que tienen en cuenta HIPAA y convierten visitas en citas de pacientes.",
+    "og_description": "Diseño web para dermatólogos y clínicas: sitios rápidos que tienen en cuenta HIPAA y convierten visitas en citas de pacientes.",
+    "twitter_description": "Diseño web para dermatólogos y clínicas: sitios rápidos que tienen en cuenta HIPAA y convierten visitas en citas de pacientes.",
+    "og": {
+      "title": "Diseño Web para Dermatólogos y Clínicas | DWD",
+      "description": "Diseño web para dermatólogos y clínicas: sitios rápidos que tienen en cuenta HIPAA y convierten visitas en citas de pacientes."
+    },
+    "twitter": {
+      "title": "Diseño Web para Dermatólogos y Clínicas | DWD",
+      "description": "Diseño web para dermatólogos y clínicas: sitios rápidos que tienen en cuenta HIPAA y convierten visitas en citas de pacientes."
+    }
   },
   "hero": {
     "badge": "Enfoque HIPAA",
     "badgeSecondary": "Enfocado en Conversión",
-    "headline": "Sitios web premium que impulsan",
-    "headlineAccent": "clínicas dermatológicas modernas.",
+    "headline": "Diseño Web para Dermatólogos",
+    "headlineAccent": "",
     "subhead": "Sitios web personalizados y optimizados para SEO que generan confianza, atraen nuevos pacientes y potencian su presencia digital.",
     "ctaPrimary": "Pida su presupuesto gratuito",
     "ctaSecondary": "Solicite su auditoría gratuita",
-    "heroImageAlt": "Composición de diseño web para dermatología que muestra escritorio, móvil, analíticas, reservas y cumplimiento HIPAA"
+    "heroImageAlt": "Composición de diseño web para dermatología que muestra escritorio, móvil, analíticas, reservas y cumplimiento HIPAA",
+    "introParagraphs": [
+      "El diseño web para dermatólogos debe ayudar a los pacientes a comprender los tratamientos, confiar en la clínica y dar el siguiente paso. Creamos sitios rápidos que tienen en cuenta HIPAA y se adaptan a tus servicios, equipo y reservas.",
+      "El diseño web para clínicas dermatológicas requiere más que una portada atractiva. La información clara sobre tratamientos, la navegación accesible y un proceso sencillo de citas mejoran toda la experiencia."
+    ]
   },
   "stats": {
     "websites": {
@@ -63,5 +81,176 @@
     "auditLink": "una auditoría gratuita de su sitio actual",
     "suffix": "."
   },
-  "skip": "Saltar al contenido"
+  "skip": "Saltar al contenido",
+  "merged": {
+    "sections": [
+      "Qué Incluyen Nuestros Sitios Web de Dermatología",
+      "Por Qué Nos Eligen las Clínicas de Dermatología",
+      "Nuestro Proceso de Diseño",
+      "Conoce Nuestro Trabajo",
+      "Haz Crecer Tu Clínica Después del Lanzamiento",
+      "Precios",
+      "Preguntas Frecuentes"
+    ],
+    "audience": {
+      "tag": "Audiencia Objetivo",
+      "title": "Diseñado para cada tipo de práctica dermatológica",
+      "description": "Desde consultorios de un solo especialista hasta grupos quirúrgicos con múltiples sedes.",
+      "items": [
+        {
+          "label": "Dermatólogos Independientes",
+          "desc": "Sitios boutique que reflejan su marca clínica y optimizan su agenda."
+        },
+        {
+          "label": "Clínicas Multicentro",
+          "desc": "Arquitectura escalable con páginas por ubicación, personal, horarios y direcciones."
+        },
+        {
+          "label": "Dermatología Pediátrica",
+          "desc": "UX cálida y amigable para padres con flujos claros de admisión y tutores."
+        },
+        {
+          "label": "Cirugía de Mohs y Dermatología Quirúrgica",
+          "desc": "Diseño centrado en la autoridad para médicos referentes y pacientes de derivación directa."
+        }
+      ]
+    },
+    "pillars": {
+      "tag": "Lo que nos hace Premium",
+      "title": "Seis elementos no negociables en cada proyecto",
+      "description": "Diseño, ingeniería, SEO y cumplimiento: integrados desde el primer día.",
+      "items": [
+        {
+          "title": "Diseño 100% Personalizado",
+          "desc": "Sin plantillas. Cada sección, ilustración e interacción se diseña específicamente para su clínica."
+        },
+        {
+          "title": "Lighthouse 95+",
+          "desc": "Estructuras obsesionadas con el rendimiento: optimización de imágenes, caché perimetral y JS ligero."
+        },
+        {
+          "title": "SEO On-Page",
+          "desc": "HTML semántico, esquemas, enlaces internos y arquitectura de contenido para consultas locales y médicas."
+        },
+        {
+          "title": "Orientado a HIPAA",
+          "desc": "Formularios seguros, sin fugas de PHI, infraestructura auditable y socios listos para BAA."
+        },
+        {
+          "title": "Totalmente Responsivo",
+          "desc": "Pixel-perfect en computadoras, tablets y móviles. Probado en dispositivos reales."
+        },
+        {
+          "title": "Accesibilidad (WCAG AA)",
+          "desc": "Navegación por teclado, contraste seguro y etiquetas para lectores de pantalla; inclusivo por defecto."
+        }
+      ]
+    },
+    "medicalServices": {
+      "tag": "Cobertura de Servicios Médicos",
+      "title": "Páginas de servicios diseñadas para posicionar y convertir",
+      "description": "Páginas de servicio individuales y optimizadas para SEO para cada tratamiento que ofrece su clínica, con precisión médica, explicaciones claras para el paciente, datos estructurados y CTAs de alto impacto.",
+      "features": [
+        "Estructura de contenido con revisión médica",
+        "Secciones de FAQ y H1 / H2 con mapeo de palabras clave",
+        "Formularios de consulta y admisión compatibles con HIPAA",
+        "Plantillas rápidas, indexables y mobile-first"
+      ],
+      "list": [
+        "Tratamiento de Acné",
+        "Tratamiento de Eczema",
+        "Tratamiento de Psoriasis",
+        "Tratamiento de Infecciones Cutáneas",
+        "Tratamiento de Alergias en la Piel",
+        "Detección y Tratamiento de Cáncer de Piel",
+        "Evaluación y Eliminación de Lunares",
+        "Eliminación de Quistes y Lipomas",
+        "Eliminación de Verrugas",
+        "Tratamiento de Trastornos de las Uñas",
+        "Tratamiento para la Pérdida de Cabello",
+        "Tratamiento de Trastornos del Cuero Cabelludo",
+        "Tratamiento de Rosácea",
+        "Hiperpigmentación y Melasma",
+        "Tratamiento de Cicatrices",
+        "Tratamiento de Cicatrices por Quemaduras",
+        "Tratamiento de Vitíligo",
+        "Biopsia de Piel y Diagnósticos"
+      ]
+    },
+    "process": {
+      "tag": "Nuestro Proceso",
+      "title": "Un proceso fluido dirigido por expertos",
+      "description": "Cuatro fases transparentes: sin silencios, sin sorpresas.",
+      "steps": [
+        {
+          "step": "01",
+          "title": "Descubrimiento y Posicionamiento",
+          "desc": "Auditoría de la práctica, perfiles de pacientes, análisis de competencia y objetivos de conversión."
+        },
+        {
+          "step": "02",
+          "title": "Sistema de Diseño",
+          "desc": "Tipografía personalizada, paleta de colores, animaciones y biblioteca de componentes exclusivos para su marca."
+        },
+        {
+          "step": "03",
+          "title": "Desarrollo y SEO",
+          "desc": "Código a medida, marcado de esquemas, optimización de imágenes y contenido estructurado para SEO."
+        },
+        {
+          "step": "04",
+          "title": "Lanzamiento y Crecimiento",
+          "desc": "Analítica, experimentos de CRO y plan de mantenimiento para potenciar resultados mes tras mes."
+        }
+      ]
+    },
+    "faqs": [
+      {
+        "q": "¿Cuánto tiempo toma un sitio web de dermatología personalizado?",
+        "a": "El cronograma típico es de 6 a 10 semanas desde el inicio hasta el lanzamiento, dependiendo del número de páginas y la preparación del contenido. Avanzamos rápido gracias a hitos estructurados y revisiones semanales."
+      },
+      {
+        "q": "¿El sitio web cumple con HIPAA?",
+        "a": "Construimos con arquitectura orientada a HIPAA: formularios cifrados, hosting seguro con socios preparados para BAA, exclusión de PHI en analíticas y registros de auditoría en envíos."
+      },
+      {
+        "q": "¿Soy el dueño del diseño y del código?",
+        "a": "Sí. Al momento del lanzamiento, se le transfiere la propiedad total de los archivos de diseño, código y contenido. Sin contratos de permanencia ni CMS propietarios."
+      },
+      {
+        "q": "¿Qué se incluye en el SEO On-Page?",
+        "a": "Estructura H1/H2 con mapeo de palabras clave, marcado de esquema (LocalBusiness, MedicalClinic, FAQ), metaetiquetas optimizadas, enlaces internos y optimización de texto alt en imágenes de cada página."
+      },
+      {
+        "q": "¿Ofrecen soporte técnico después del lanzamiento?",
+        "a": "Sí. Nuestros planes de Cuidado Web cubren actualizaciones, seguridad, copias de seguridad, monitoreo de tiempo de actividad, ajuste de rendimiento y ediciones mensuales de contenido."
+      },
+      {
+        "q": "¿Cuánto tiempo se tarda en lanzar un nuevo sitio web de dermatología?",
+        "a": "La mayoría de los proyectos se activan en 4 a 6 semanas, desde el descubrimiento hasta el lanzamiento. Los plazos dependen de la preparación del contenido y el alcance, y compartimos una hoja de ruta semanal clara durante la incorporación."
+      },
+      {
+        "q": "¿Manejan el cumplimiento de HIPAA y la privacidad del paciente?",
+        "a": "Sí. Cada construcción tiene en cuenta HIPAA: alojamiento seguro, formularios cifrados, integraciones listas para BAA para contacto y admisión, y una revisión de cumplimiento antes del lanzamiento."
+      },
+      {
+        "q": "¿Mi nuevo sitio web realmente me ayudará a clasificar en Google?",
+        "a": "El SEO se incorpora desde el primer día: esquema específico para dermatología, páginas de servicio y ubicación, Core Web Vitals de más de 95, y una estructura en la página construida para obtener clasificaciones para las búsquedas que generan reservas."
+      }
+    ]
+  },
+  "ownerAnchors": {
+    "design": "diseño web para dermatólogos",
+    "examples": "ejemplos de sitios web de dermatología",
+    "seo": "SEO para dermatólogos",
+    "marketing": "marketing para dermatólogos",
+    "pricing": "precios de sitios web de dermatología",
+    "ppc": "Google Ads para dermatólogos",
+    "social": "redes sociales para dermatólogos",
+    "maintenance": "mantenimiento y gestión de sitios web de dermatología",
+    "gallery": "Galería de Antes y Después",
+    "portal": "Portal del Paciente de Dermatología",
+    "process": "nuestro proceso",
+    "migration": "Cero inactividad · Cero pérdida de SEO"
+  }
 }

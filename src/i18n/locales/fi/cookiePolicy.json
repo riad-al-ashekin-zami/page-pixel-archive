@@ -1,15 +1,21 @@
 {
   "meta": {
-    "title": "Evästekäytäntö — Näin käytämme evästeitä",
+    "title": "Evästekäytäntö | DWD",
     "description": "Tietoa sivustollamme käytettävistä evästeistä ja vastaavista teknologioista, niiden käyttötarkoituksista sekä hallintamahdollisuuksistasi.",
     "og": {
-      "title": "Evästekäytäntö — Näin käytämme evästeitä",
+      "title": "Evästekäytäntö | DWD",
       "description": "Tietoa sivustollamme käytettävistä evästeistä ja vastaavista teknologioista, niiden käyttötarkoituksista sekä hallintamahdollisuuksistasi."
     },
     "twitter": {
-      "title": "Evästekäytäntö — Näin käytämme evästeitä",
+      "title": "Evästekäytäntö | DWD",
       "description": "Tietoa sivustollamme käytettävistä evästeistä ja vastaavista teknologioista, niiden käyttötarkoituksista sekä hallintamahdollisuuksistasi."
-    }
+    },
+    "ogTitle": "Evästekäytäntö | DWD",
+    "og_title": "Evästekäytäntö | DWD",
+    "twitter_title": "Evästekäytäntö | DWD",
+    "ogDescription": "Tietoa sivustollamme käytettävistä evästeistä ja vastaavista teknologioista, niiden käyttötarkoituksista sekä hallintamahdollisuuksistasi.",
+    "og_description": "Tietoa sivustollamme käytettävistä evästeistä ja vastaavista teknologioista, niiden käyttötarkoituksista sekä hallintamahdollisuuksistasi.",
+    "twitter_description": "Tietoa sivustollamme käytettävistä evästeistä ja vastaavista teknologioista, niiden käyttötarkoituksista sekä hallintamahdollisuuksistasi."
   },
   "layout": {
     "skipToContent": "Siirry sisältöön"

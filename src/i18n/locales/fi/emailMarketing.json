@@ -1,14 +1,14 @@
 {
   "meta": {
-    "title": "Dermatologian sähköpostimarkkinointi | HIPAA-turvalliset kutsut, uutiskirjeet ja automaatio",
+    "title": "Dermatologian sähköpostimarkkinointi | DWD",
     "description": "HIPAA-yhteensopivaa sähköpostimarkkinointia ihotautiklinikoille — tervetulosarjat, 6 kuukauden automaattiset kutsut, kausittainen neuvonta ja esteettinen aktivointi. Raportointi varattujen aikojen, ei avausten perusteella.",
     "og": {
-      "title": "Dermatologian sähköpostimarkkinointi — HIPAA-turvallista ja tuloshakuista",
-      "description": "Räätälöidyt uutiskirjeet, potilastietojärjestelmästä laukeavat muistutukset ja HIPAA-yhteensopiva automaatio ihotautiklinikoille. Klaviyo, HubSpot, Mailchimp."
+      "title": "Dermatologian sähköpostimarkkinointi | DWD",
+      "description": "HIPAA-yhteensopivaa sähköpostimarkkinointia ihotautiklinikoille — tervetulosarjat, 6 kuukauden automaattiset kutsut, kausittainen neuvonta ja esteettinen aktivointi. Raportointi varattujen aikojen, ei avausten perusteella."
     },
     "twitter": {
-      "title": "Dermatologian sähköpostimarkkinoinnin palvelut",
-      "description": "HIPAA-turvallinen sähköpostimarkkinointi, automaattiset kutsut ja huippuluokan perillemenoaste ihotautiklinikoille."
+      "title": "Dermatologian sähköpostimarkkinointi | DWD",
+      "description": "HIPAA-yhteensopivaa sähköpostimarkkinointia ihotautiklinikoille — tervetulosarjat, 6 kuukauden automaattiset kutsut, kausittainen neuvonta ja esteettinen aktivointi. Raportointi varattujen aikojen, ei avausten perusteella."
     },
     "jsonLd": {
       "serviceType": "Sähköpostimarkkinointi ihotautiklinikoille",
@@ -19,7 +19,13 @@
         "services": "Palvelut",
         "emailMarketing": "Sähköpostimarkkinointi"
       }
-    }
+    },
+    "ogTitle": "Dermatologian sähköpostimarkkinointi | DWD",
+    "og_title": "Dermatologian sähköpostimarkkinointi | DWD",
+    "twitter_title": "Dermatologian sähköpostimarkkinointi | DWD",
+    "ogDescription": "HIPAA-yhteensopivaa sähköpostimarkkinointia ihotautiklinikoille — tervetulosarjat, 6 kuukauden automaattiset kutsut, kausittainen neuvonta ja esteettinen aktivointi. Raportointi varattujen aikojen, ei avausten perusteella.",
+    "og_description": "HIPAA-yhteensopivaa sähköpostimarkkinointia ihotautiklinikoille — tervetulosarjat, 6 kuukauden automaattiset kutsut, kausittainen neuvonta ja esteettinen aktivointi. Raportointi varattujen aikojen, ei avausten perusteella.",
+    "twitter_description": "HIPAA-yhteensopivaa sähköpostimarkkinointia ihotautiklinikoille — tervetulosarjat, 6 kuukauden automaattiset kutsut, kausittainen neuvonta ja esteettinen aktivointi. Raportointi varattujen aikojen, ei avausten perusteella."
   },
   "hero": {
     "badge": "Dermatologian sähköpostimarkkinointi",

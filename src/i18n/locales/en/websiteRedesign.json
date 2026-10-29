@@ -1,21 +1,33 @@
 {
   "meta": {
-    "title": "Dermatology Website Redesign — Modernize Without Losing SEO",
-    "description": "Premium dermatology website redesign for solo, multi-location, pediatric, and Mohs practices. Modern, fast, HIPAA-aware — with zero SEO loss on launch.",
-    "og_title": "Dermatology Website Redesign — Zero SEO Loss",
-    "og_description": "Transform your outdated dermatology site into a fast, conversion-focused, HIPAA-aware experience. 301 redirects and SEO preserved.",
+    "title": "Dermatology Website Redesign | DWD",
+    "description": "Dermatology website redesign for clinics: refresh navigation, patient journeys, accessibility and page speed.",
+    "og_title": "Dermatology Website Redesign | DWD",
+    "og_description": "Dermatology website redesign for clinics: refresh navigation, patient journeys, accessibility and page speed.",
     "jsonLd": {
       "serviceType": "Dermatology Website Redesign",
       "providerName": "DW Design",
       "offerDescription": "Dermatology website redesign — starting price"
+    },
+    "ogTitle": "Dermatology Website Redesign | DWD",
+    "twitter_title": "Dermatology Website Redesign | DWD",
+    "ogDescription": "Dermatology website redesign for clinics: refresh navigation, patient journeys, accessibility and page speed.",
+    "twitter_description": "Dermatology website redesign for clinics: refresh navigation, patient journeys, accessibility and page speed.",
+    "og": {
+      "title": "Dermatology Website Redesign | DWD",
+      "description": "Dermatology website redesign for clinics: refresh navigation, patient journeys, accessibility and page speed."
+    },
+    "twitter": {
+      "title": "Dermatology Website Redesign | DWD",
+      "description": "Dermatology website redesign for clinics: refresh navigation, patient journeys, accessibility and page speed."
     }
   },
   "hero": {
     "scarcityBadge": "Only 3 redesign slots left this quarter",
     "category": "Dermatology Website Redesign",
     "h1": {
-      "main": "Modernize your practice site. ",
-      "highlight": "Without losing SEO."
+      "main": "Dermatology Website Redesign",
+      "highlight": ""
     },
     "description": "A calm, senior-led redesign for dermatology practices — faster, safer, more beautiful. 301 redirects, HIPAA-aware forms, and rankings preserved.",
     "cta": {

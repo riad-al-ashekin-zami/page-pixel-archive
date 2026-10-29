@@ -1,11 +1,23 @@
 {
   "meta": {
-    "title": "Contacte-nos",
+    "title": "Fale Conosco | DWD",
     "description": "Fale-nos da sua clínica e do seu website. Enviaremos uma auditoria gratuita e personalizada com oportunidades de SEO, velocidade e conversão em 48 horas.",
-    "ogTitle": "Contacte-nos",
+    "ogTitle": "Fale Conosco | DWD",
     "ogDescription": "Fale-nos da sua clínica e do seu website. Enviaremos uma auditoria gratuita e personalizada com oportunidades de SEO, velocidade e conversão em 48 horas.",
     "breadcrumbHome": "Início",
-    "breadcrumbContact": "Contacto"
+    "breadcrumbContact": "Contacto",
+    "og_title": "Fale Conosco | DWD",
+    "twitter_title": "Fale Conosco | DWD",
+    "og_description": "Fale-nos da sua clínica e do seu website. Enviaremos uma auditoria gratuita e personalizada com oportunidades de SEO, velocidade e conversão em 48 horas.",
+    "twitter_description": "Fale-nos da sua clínica e do seu website. Enviaremos uma auditoria gratuita e personalizada com oportunidades de SEO, velocidade e conversão em 48 horas.",
+    "og": {
+      "title": "Fale Conosco | DWD",
+      "description": "Fale-nos da sua clínica e do seu website. Enviaremos uma auditoria gratuita e personalizada com oportunidades de SEO, velocidade e conversão em 48 horas."
+    },
+    "twitter": {
+      "title": "Fale Conosco | DWD",
+      "description": "Fale-nos da sua clínica e do seu website. Enviaremos uma auditoria gratuita e personalizada com oportunidades de SEO, velocidade e conversão em 48 horas."
+    }
   },
   "auditForm": {
     "hero": {
@@ -80,5 +92,6 @@
     "description": "Recebemos o seu pedido de auditoria.",
     "turnaround": "Enviaremos a sua auditoria em 48 horas",
     "backHome": "Voltar à página inicial"
-  }
+  },
+  "pageHeading": "Fale Conosco"
 }

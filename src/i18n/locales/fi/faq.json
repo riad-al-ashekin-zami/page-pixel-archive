@@ -1,16 +1,29 @@
 {
   "meta": {
-    "title": "UKK — Dermatologian verkkosivusuunnittelu, SEO & HIPAA-vastaukset",
+    "title": "FAQ | DWD",
     "description": "Suoria vastauksia ihotautiklinikoiden verkkosivujen hinnoittelusta, aikatauluista, hakukonenäkyvyydestä (SEO), HIPAA-vaatimuksista, uudistuksista ja tuesta.",
-    "keywords": "dermatologia verkkosivut UKK, ihotautiklinikan SEO, HIPAA-verkkosivut, dermatologian sivuston hinta, verkkosivuprojektin aikataulu",
     "breadcrumbList": {
       "home": "Etusivu",
       "faq": "UKK"
+    },
+    "ogTitle": "FAQ | DWD",
+    "og_title": "FAQ | DWD",
+    "twitter_title": "FAQ | DWD",
+    "ogDescription": "Suoria vastauksia ihotautiklinikoiden verkkosivujen hinnoittelusta, aikatauluista, hakukonenäkyvyydestä (SEO), HIPAA-vaatimuksista, uudistuksista ja tuesta.",
+    "og_description": "Suoria vastauksia ihotautiklinikoiden verkkosivujen hinnoittelusta, aikatauluista, hakukonenäkyvyydestä (SEO), HIPAA-vaatimuksista, uudistuksista ja tuesta.",
+    "twitter_description": "Suoria vastauksia ihotautiklinikoiden verkkosivujen hinnoittelusta, aikatauluista, hakukonenäkyvyydestä (SEO), HIPAA-vaatimuksista, uudistuksista ja tuesta.",
+    "og": {
+      "title": "FAQ | DWD",
+      "description": "Suoria vastauksia ihotautiklinikoiden verkkosivujen hinnoittelusta, aikatauluista, hakukonenäkyvyydestä (SEO), HIPAA-vaatimuksista, uudistuksista ja tuesta."
+    },
+    "twitter": {
+      "title": "FAQ | DWD",
+      "description": "Suoria vastauksia ihotautiklinikoiden verkkosivujen hinnoittelusta, aikatauluista, hakukonenäkyvyydestä (SEO), HIPAA-vaatimuksista, uudistuksista ja tuesta."
     }
   },
   "hero": {
     "badge": "{{totalCount}} vastausta · Erikoistunut dermatologiaan",
-    "heading": "Kaikki vastaukset, joita ihotautiklinikka todella tarvitsee.",
+    "heading": "Usein kysytyt kysymykset",
     "subheading": "Hinnoittelu, aikataulut, SEO, HIPAA, uudistukset ja integraatiot. Suoraa tekstiä asiantuntijoilta, jotka vastaavat myös itse toteutuksesta.",
     "search": {
       "label": "Etsi vastauksia",

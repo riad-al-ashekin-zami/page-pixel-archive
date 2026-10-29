@@ -1,15 +1,27 @@
 {
   "meta": {
-    "title": "À propos — Agence Web spécialisée en Dermatologie",
+    "title": "À propos de DWD | DWD",
     "description": "Nous créons des sites web HIPAA-aware et des stratégies de croissance exclusivement pour les cabinets de dermatologie. Voici l'équipe derrière vos résultats.",
-    "ogTitle": "À propos — Création de sites web pour dermatologues",
-    "ogDescription": "Une agence de niche au service des cabinets de dermatologie : sites premium, SEO et acquisition de patients.",
+    "ogTitle": "À propos de DWD | DWD",
+    "ogDescription": "Nous créons des sites web HIPAA-aware et des stratégies de croissance exclusivement pour les cabinets de dermatologie. Voici l'équipe derrière vos résultats.",
     "breadcrumbHome": "Accueil",
-    "breadcrumbAbout": "À propos"
+    "breadcrumbAbout": "À propos",
+    "og_title": "À propos de DWD | DWD",
+    "twitter_title": "À propos de DWD | DWD",
+    "og_description": "Nous créons des sites web HIPAA-aware et des stratégies de croissance exclusivement pour les cabinets de dermatologie. Voici l'équipe derrière vos résultats.",
+    "twitter_description": "Nous créons des sites web HIPAA-aware et des stratégies de croissance exclusivement pour les cabinets de dermatologie. Voici l'équipe derrière vos résultats.",
+    "og": {
+      "title": "À propos de DWD | DWD",
+      "description": "Nous créons des sites web HIPAA-aware et des stratégies de croissance exclusivement pour les cabinets de dermatologie. Voici l'équipe derrière vos résultats."
+    },
+    "twitter": {
+      "title": "À propos de DWD | DWD",
+      "description": "Nous créons des sites web HIPAA-aware et des stratégies de croissance exclusivement pour les cabinets de dermatologie. Voici l'équipe derrière vos résultats."
+    }
   },
   "hero": {
     "kicker": "À propos de Dermatology Website Design",
-    "h1": "Les spécialistes derrière les <1>sites 100 % dermatologie.</1>",
+    "h1": "À propos de DWD",
     "p": "Nous intégrons l'Expérience, l'Expertise, l'Autorité et la Confiance (E-E-A-T) dans chaque site — le signal clé de Google pour les secteurs de la santé (YMYL). Pas une agence généraliste. Le spécialiste.",
     "ctaPrimary": "Travailler avec nous",
     "ctaSecondary": "Voir nos services",

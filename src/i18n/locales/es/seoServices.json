@@ -1,11 +1,21 @@
 {
   "meta": {
-    "title": "Servicios de SEO para Dermatología — Posicionamiento en búsquedas clínicas y estéticas",
-    "description": "SEO médico para clínicas dermatológicas: auditorías técnicas, SEO local, optimización de Google Business, contenido revisado por especialistas y construcción ética de enlaces. Diseñado para consultas individuales, multisede, pediátricas y cirugía de Mohs.",
-    "og_title": "Servicios de SEO para Dermatología — Posiciónese donde sus pacientes buscan",
-    "og_description": "SEO médico diseñado para clínicas dermatológicas: gestión integral de aspectos técnicos, locales, contenido y autoridad con reportes mensuales transparentes.",
-    "twitter_title": "Servicios de SEO para Dermatología",
-    "twitter_description": "SEO médico diseñado específicamente para clínicas dermatológicas."
+    "title": "SEO para Dermatólogos | DWD",
+    "description": "SEO para dermatólogos y SEO local para clínicas: visibilidad en Google Maps y búsquedas de los tratamientos que necesitan los pacientes.",
+    "og_title": "SEO para Dermatólogos | DWD",
+    "og_description": "SEO para dermatólogos y SEO local para clínicas: visibilidad en Google Maps y búsquedas de los tratamientos que necesitan los pacientes.",
+    "twitter_title": "SEO para Dermatólogos | DWD",
+    "twitter_description": "SEO para dermatólogos y SEO local para clínicas: visibilidad en Google Maps y búsquedas de los tratamientos que necesitan los pacientes.",
+    "ogTitle": "SEO para Dermatólogos | DWD",
+    "ogDescription": "SEO para dermatólogos y SEO local para clínicas: visibilidad en Google Maps y búsquedas de los tratamientos que necesitan los pacientes.",
+    "og": {
+      "title": "SEO para Dermatólogos | DWD",
+      "description": "SEO para dermatólogos y SEO local para clínicas: visibilidad en Google Maps y búsquedas de los tratamientos que necesitan los pacientes."
+    },
+    "twitter": {
+      "title": "SEO para Dermatólogos | DWD",
+      "description": "SEO para dermatólogos y SEO local para clínicas: visibilidad en Google Maps y búsquedas de los tratamientos que necesitan los pacientes."
+    }
   },
   "jsonLd": {
     "serviceType": "Servicios de SEO para Dermatología",
@@ -20,8 +30,8 @@
   },
   "hero": {
     "badge": "Servicios de SEO para Dermatología",
-    "title_start": "Posiciónese donde sus pacientes",
-    "title_highlight": "realmente buscan cuidado de la piel.",
+    "title_start": "SEO para Dermatólogos",
+    "title_highlight": "",
     "description": "SEO médico creado para dermatología: aspectos técnicos, locales, contenido y autoridad gestionados de principio a fin. Páginas revisadas por especialistas, enlaces éticos y reportes mensuales fáciles de entender.",
     "cta_audit": "Obtenga una auditoría SEO gratuita",
     "cta_stack": "Explore nuestro stack de SEO",
@@ -199,7 +209,7 @@
     ]
   },
   "faq": {
-    "heading": "Respuestas a las dudas frecuentes de dermatólogos.",
+    "heading": "Preguntas Frecuentes",
     "items": [
       {
         "q": "¿Cuánto tiempo pasa antes de ver resultados de SEO?",
@@ -220,10 +230,6 @@
       {
         "q": "¿Pueden integrarse con mi sitio web actual?",
         "a": "Sí. Trabajamos con WordPress, Webflow, Modernizing Medicine, Nextech o cualquier CMS que utilice. Si su plataforma limita el SEO, se lo diremos y propondremos una migración solo si el retorno de inversión es evidente."
-      },
-      {
-        "q": "¿Qué incluye el reporte mensual?",
-        "a": "Evolución de sus 200 palabras clave principales, tráfico orgánico, atribución de citas, Core Web Vitals, enlaces obtenidos, contenido publicado y métricas de Google Business. Todo revisado en una llamada de 30 minutos."
       }
     ]
   },
@@ -243,5 +249,136 @@
     "local_seo": "SEO local a nivel de barrio",
     "marketing_playbook": "nuestra guía completa de marketing dermatológico",
     "practice_growth": "crecimiento integral de la clínica"
+  },
+  "merged": {
+    "headings": [
+      "SEO Local para Clínicas de Dermatología",
+      "SEO de Páginas de Tratamientos y Servicios",
+      "SEO Técnico",
+      "Reseñas y Perfil de Empresa de Google",
+      "Informes",
+      "Preguntas Frecuentes"
+    ],
+    "local": {
+      "badge": "La Estrategia de SEO Local",
+      "heading": "Ocho pilares de posicionamiento local sincronizados mes a mes.",
+      "description": "El ranking local se potencia cuando cada señal apunta en la misma dirección: perfil, proximidad, reseñas, citaciones, contenido y schema.",
+      "items": [
+        {
+          "title": "Optimización de Google Business Profile",
+          "desc": "Revisión completa de GBP: categorías, servicios, atributos, Q&A y publicaciones semanales calibradas según las señales de ranking del map pack."
+        },
+        {
+          "title": "Estrategia de Ranking en Map Pack",
+          "desc": "Optimización de proximidad, prominencia y relevancia en todo su radio de servicio — los tres pilares que deciden los primeros 3 pines."
+        },
+        {
+          "title": "Páginas de Ubicación Geo-localizadas",
+          "desc": "Páginas de destino únicas y revisadas por expertos para cada ciudad y vecindario que atiende; sin duplicados ni canibalización."
+        },
+        {
+          "title": "Generación y Respuesta de Reseñas",
+          "desc": "Solicitudes automatizadas de reseñas post-visita, respuestas asistidas por AI con revisión humana y marcado de schema para mostrar estrellas en las búsquedas."
+        },
+        {
+          "title": "Construcción de Citaciones NAP",
+          "desc": "Consistencia de Nombre, Dirección y Teléfono en más de 80 directorios médicos y locales, auditados y monitoreados mensualmente."
+        },
+        {
+          "title": "Investigación de Palabras Clave Locales",
+          "desc": "\"Dermatólogo cerca de mí\", condición + ciudad, procedimiento + código postal — optimizado para las frases exactas que sus pacientes escriben."
+        },
+        {
+          "title": "Schema Local Seguro bajo HIPAA",
+          "desc": "Capas de schema tipo MedicalBusiness, Physician y LocalBusiness por ubicación: resultados enriquecidos sin exponer información de salud protegida."
+        },
+        {
+          "title": "Seguimiento de Ranking Local y Reportes",
+          "desc": "Seguimiento diario de ranking basado en cuadrícula alrededor de cada clínica, reportado mensualmente en lenguaje claro y directo."
+        }
+      ]
+    },
+    "workflow": {
+      "badge": "Cómo funciona",
+      "heading": "Lanzamiento local en 90 días. Crecimiento sostenido después.",
+      "description": "Hitos transparentes: usted siempre sabrá qué se está implementando cada mes y por qué.",
+      "steps": [
+        {
+          "phase": "Fase 01",
+          "title": "Auditoría local y mapa de competencia",
+          "desc": "Escaneo de ranking por cuadrícula alrededor de su clínica, auditoría de GBP, análisis de brechas en citaciones y estudio de sus 3 principales competidores."
+        },
+        {
+          "phase": "Fase 02",
+          "title": "Limpieza de GBP y citaciones",
+          "desc": "Reconstrucción total del Perfil de Negocio en Google, corrección de datos NAP en directorios, eliminación de duplicados y ajuste de categorías."
+        },
+        {
+          "phase": "Fase 03",
+          "title": "Páginas de ubicación y schema local",
+          "desc": "Landing pages únicas de servicio-en-ciudad, schema MedicalBusiness por sede, enlazado interno y widgets de reseñas."
+        },
+        {
+          "phase": "Fase 04",
+          "title": "Reseñas, publicaciones y reportes",
+          "desc": "Flujos de reseña post-visita, posts semanales en GBP, publicación de contenido geolocalizado y reportes de citas agendadas."
+        }
+      ]
+    },
+    "reviews": {
+      "badge": "Por qué las clínicas dermatológicas nos eligen",
+      "heading": "Un equipo experto en SEO local especializado, no una agencia generalista.",
+      "items": [
+        {
+          "title": "Flujos de reseñas bajo HIPAA",
+          "desc": "Plataformas con contrato BAA, respuestas libres de información sensible (PHI) y protocolos de escalación de reseñas negativas revisados por personal clínico."
+        },
+        {
+          "title": "Escalabilidad multisede",
+          "desc": "Páginas geográficas únicas, GBP específico por ubicación y supresión de duplicados para cada dirección de su clínica."
+        },
+        {
+          "title": "Reportes de ranking por cuadrícula",
+          "desc": "Escaneos diarios en un radio alrededor de cada clínica, no un simple chequeo puntual que ignora las variaciones de proximidad."
+        },
+        {
+          "title": "Atribución de visitas agendadas",
+          "desc": "Rastreo de llamadas y solicitudes de direcciones vinculadas a rankings específicos; ROI real, no solo impresiones."
+        },
+        {
+          "title": "Redactores médicos reales",
+          "desc": "Escritores internos con formación clínica; sin contenido genérico de IA ni freelancers inexpertos."
+        },
+        {
+          "title": "Reportes fáciles de entender",
+          "desc": "Una página, mensualmente. Ranking de cuadrícula, reseñas, llamadas, contenido publicado y próximos pasos."
+        }
+      ]
+    },
+    "medicalServices": {
+      "badge": "Servicios médicos que localizamos",
+      "heading": "Cada condición. Cada ciudad. Cada intención.",
+      "description": "Cada servicio se convierte en un centro de conexión servicio + ciudad, alineado con E-E-A-T, marcado con schema de MedicalBusiness y enlazado a su huella local.",
+      "list": [
+        "Tratamiento de Acné",
+        "Tratamiento de Eczema",
+        "Tratamiento de Psoriasis",
+        "Tratamiento de Infecciones de la Piel",
+        "Tratamiento de Alergias Cutáneas",
+        "Detección y Tratamiento de Cáncer de Piel",
+        "Evaluación de Lunares y Extracción Médica",
+        "Eliminación de Quistes y Lipomas",
+        "Eliminación de Verrugas",
+        "Tratamiento de Trastornos de las Uñas",
+        "Diagnóstico y Tratamiento Médico de Caída del Cabello",
+        "Tratamiento de Trastornos del Cuero Cabelludo",
+        "Tratamiento de Rosácea",
+        "Tratamiento de Hiperpigmentación y Melasma (indicación médica)",
+        "Tratamiento de Cicatrices (lesiones, cirugía, enfermedades)",
+        "Tratamiento de Cicatrices por Quemaduras",
+        "Tratamiento de Vitíligo",
+        "Biopsias de Piel y Procedimientos Diagnósticos"
+      ]
+    }
   }
 }

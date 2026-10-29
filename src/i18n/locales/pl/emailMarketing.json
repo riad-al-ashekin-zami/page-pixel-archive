@@ -1,14 +1,14 @@
 {
   "meta": {
-    "title": "Email Marketing dla Dermatologii | Przypomnienia HIPAA, Newslettery i Automatyzacja",
+    "title": "Email Marketing dla Dermatologii | DWD",
     "description": "Marketing e-mailowy zgodny z HIPAA dla gabinetów dermatologicznych — serie powitalne, automatyczne przypomnienia co 6 miesięcy, edukacja sezonowa i reaktywacja pacjentów estetycznych. Raportujemy umówione wizyty, a nie tylko otwarcia.",
     "og": {
-      "title": "Email Marketing dla Dermatologii — Zgodność z HIPAA i Atrybucja Wizyt",
-      "description": "Spersonalizowane newslettery, automatyzacja przypomnień na podstawie danych z PMS i rozwiązania zgodne z HIPAA dla dermatologii. Klaviyo, HubSpot, Mailchimp."
+      "title": "Email Marketing dla Dermatologii | DWD",
+      "description": "Marketing e-mailowy zgodny z HIPAA dla gabinetów dermatologicznych — serie powitalne, automatyczne przypomnienia co 6 miesięcy, edukacja sezonowa i reaktywacja pacjentów estetycznych. Raportujemy umówione wizyty, a nie tylko otwarcia."
     },
     "twitter": {
-      "title": "Usługi Email Marketingu dla Dermatologii",
-      "description": "Bezpieczny marketing e-mailowy HIPAA, automatyzacja przypomnień i najwyższa dostarczalność dla gabinetów dermatologicznych."
+      "title": "Email Marketing dla Dermatologii | DWD",
+      "description": "Marketing e-mailowy zgodny z HIPAA dla gabinetów dermatologicznych — serie powitalne, automatyczne przypomnienia co 6 miesięcy, edukacja sezonowa i reaktywacja pacjentów estetycznych. Raportujemy umówione wizyty, a nie tylko otwarcia."
     },
     "jsonLd": {
       "serviceType": "Email Marketing dla Gabinetów Dermatologicznych",
@@ -19,7 +19,13 @@
         "services": "Usługi",
         "emailMarketing": "Email Marketing"
       }
-    }
+    },
+    "ogTitle": "Email Marketing dla Dermatologii | DWD",
+    "og_title": "Email Marketing dla Dermatologii | DWD",
+    "twitter_title": "Email Marketing dla Dermatologii | DWD",
+    "ogDescription": "Marketing e-mailowy zgodny z HIPAA dla gabinetów dermatologicznych — serie powitalne, automatyczne przypomnienia co 6 miesięcy, edukacja sezonowa i reaktywacja pacjentów estetycznych. Raportujemy umówione wizyty, a nie tylko otwarcia.",
+    "og_description": "Marketing e-mailowy zgodny z HIPAA dla gabinetów dermatologicznych — serie powitalne, automatyczne przypomnienia co 6 miesięcy, edukacja sezonowa i reaktywacja pacjentów estetycznych. Raportujemy umówione wizyty, a nie tylko otwarcia.",
+    "twitter_description": "Marketing e-mailowy zgodny z HIPAA dla gabinetów dermatologicznych — serie powitalne, automatyczne przypomnienia co 6 miesięcy, edukacja sezonowa i reaktywacja pacjentów estetycznych. Raportujemy umówione wizyty, a nie tylko otwarcia."
   },
   "hero": {
     "badge": "Email Marketing dla Dermatologii",

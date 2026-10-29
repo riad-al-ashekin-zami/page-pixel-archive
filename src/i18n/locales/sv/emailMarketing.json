@@ -1,14 +1,14 @@
 {
   "meta": {
-    "title": "E-postmarknadsföring för dermatologi | HIPAA-säker återkallelse, nyhetsbrev och automatisering",
+    "title": "E-postmarknadsföring för dermatologi | DWD",
     "description": "HIPAA-säker e-postmarknadsföring för hudläkarmottagningar — välkomstserier, automatiserade 6-månaderspåminnelser, säsongsbaserad utbildning och estetisk reaktivering. Rapportering baserad på bokade tider, inte öppningsfrekvens.",
     "og": {
-      "title": "E-postmarknadsföring för dermatologi — HIPAA-säker attribution på bokade besök",
-      "description": "Anpassade nyhetsbrev, PMS-styrda återkallelseflöden och HIPAA-kompatibel automatisering för hudläkarmottagningar. Klaviyo, HubSpot, Mailchimp."
+      "title": "E-postmarknadsföring för dermatologi | DWD",
+      "description": "HIPAA-säker e-postmarknadsföring för hudläkarmottagningar — välkomstserier, automatiserade 6-månaderspåminnelser, säsongsbaserad utbildning och estetisk reaktivering. Rapportering baserad på bokade tider, inte öppningsfrekvens."
     },
     "twitter": {
-      "title": "Tjänster inom e-postmarknadsföring för dermatologi",
-      "description": "HIPAA-säker e-postmarknadsföring, automatiserad återkallelse och leveranssäkerhet med fokus på inkorgen för hudläkarmottagningar."
+      "title": "E-postmarknadsföring för dermatologi | DWD",
+      "description": "HIPAA-säker e-postmarknadsföring för hudläkarmottagningar — välkomstserier, automatiserade 6-månaderspåminnelser, säsongsbaserad utbildning och estetisk reaktivering. Rapportering baserad på bokade tider, inte öppningsfrekvens."
     },
     "jsonLd": {
       "serviceType": "E-postmarknadsföring för hudläkarmottagningar",
@@ -19,7 +19,13 @@
         "services": "Tjänster",
         "emailMarketing": "E-postmarknadsföring"
       }
-    }
+    },
+    "ogTitle": "E-postmarknadsföring för dermatologi | DWD",
+    "og_title": "E-postmarknadsföring för dermatologi | DWD",
+    "twitter_title": "E-postmarknadsföring för dermatologi | DWD",
+    "ogDescription": "HIPAA-säker e-postmarknadsföring för hudläkarmottagningar — välkomstserier, automatiserade 6-månaderspåminnelser, säsongsbaserad utbildning och estetisk reaktivering. Rapportering baserad på bokade tider, inte öppningsfrekvens.",
+    "og_description": "HIPAA-säker e-postmarknadsföring för hudläkarmottagningar — välkomstserier, automatiserade 6-månaderspåminnelser, säsongsbaserad utbildning och estetisk reaktivering. Rapportering baserad på bokade tider, inte öppningsfrekvens.",
+    "twitter_description": "HIPAA-säker e-postmarknadsföring för hudläkarmottagningar — välkomstserier, automatiserade 6-månaderspåminnelser, säsongsbaserad utbildning och estetisk reaktivering. Rapportering baserad på bokade tider, inte öppningsfrekvens."
   },
   "hero": {
     "badge": "E-postmarknadsföring för dermatologi",

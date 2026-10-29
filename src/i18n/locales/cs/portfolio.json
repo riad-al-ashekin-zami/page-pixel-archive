@@ -1,11 +1,24 @@
 {
   "meta": {
-    "title": "Portfolio webů pro dermatology – Ukázky úspěšných redesignů",
+    "title": "Příklady dermatologických webů | DWD",
     "description": "Výběr webových stránek pro dermatologické kliniky z naší dílny – estetická, lékařská i dětská dermatologie s prokazatelným růstem rezervací, lepším SEO a bleskovou rychlostí.",
-    "keywords": "portfolio webů pro dermatology, design webu pro dermatologii, případové studie dermatologických praxí, webové stránky pro dermatology",
     "breadcrumb": {
       "home": "Domů",
       "portfolio": "Portfolio"
+    },
+    "ogTitle": "Příklady dermatologických webů | DWD",
+    "og_title": "Příklady dermatologických webů | DWD",
+    "twitter_title": "Příklady dermatologických webů | DWD",
+    "ogDescription": "Výběr webových stránek pro dermatologické kliniky z naší dílny – estetická, lékařská i dětská dermatologie s prokazatelným růstem rezervací, lepším SEO a bleskovou rychlostí.",
+    "og_description": "Výběr webových stránek pro dermatologické kliniky z naší dílny – estetická, lékařská i dětská dermatologie s prokazatelným růstem rezervací, lepším SEO a bleskovou rychlostí.",
+    "twitter_description": "Výběr webových stránek pro dermatologické kliniky z naší dílny – estetická, lékařská i dětská dermatologie s prokazatelným růstem rezervací, lepším SEO a bleskovou rychlostí.",
+    "og": {
+      "title": "Příklady dermatologických webů | DWD",
+      "description": "Výběr webových stránek pro dermatologické kliniky z naší dílny – estetická, lékařská i dětská dermatologie s prokazatelným růstem rezervací, lepším SEO a bleskovou rychlostí."
+    },
+    "twitter": {
+      "title": "Příklady dermatologických webů | DWD",
+      "description": "Výběr webových stránek pro dermatologické kliniky z naší dílny – estetická, lékařská i dětská dermatologie s prokazatelným růstem rezervací, lepším SEO a bleskovou rychlostí."
     }
   },
   "accessibility": {
@@ -13,7 +26,7 @@
   },
   "hero": {
     "badge": "Portfolio · Více než 50 dermatologických praxí",
-    "heading": "Skutečné weby pro dermatology. Skutečný růst.",
+    "heading": "Příklady dermatologických webů",
     "subheading": "Každý projekt níže patří reálné klinice – od estetické medicíny po dětskou dermatologii a sítě s více pobočkami. Nabízíme design na míru, řešení v souladu s HIPAA a SEO, které plní kalendáře, nejen statistiky.",
     "cta": {
       "start": "Zahájit projekt",

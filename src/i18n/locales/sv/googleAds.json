@@ -1,14 +1,14 @@
 {
   "meta": {
-    "title": "Google Ads & PPC för hudläkare | Bokade besök, inte bara klick",
+    "title": "Google Ads & PPC för hudläkare | DWD",
     "description": "Hantering av Google Ads och PPC för hudläkarkliniker — Search, LSA, YouTube och Performance Max optimerat för bokade besök och lönsamhet per behandling. HIPAA-säker spårning.",
     "og": {
-      "title": "Google Ads & PPC för hudvårdskliniker — Fler bokade patienter",
-      "description": "PPC som betalar sig själv — Search, LSA, YouTube och remarketing fokuserat på ROI för bokade besök på din hudklinik."
+      "title": "Google Ads & PPC för hudläkare | DWD",
+      "description": "Hantering av Google Ads och PPC för hudläkarkliniker — Search, LSA, YouTube och Performance Max optimerat för bokade besök och lönsamhet per behandling. HIPAA-säker spårning."
     },
     "twitter": {
-      "title": "Hantering av Google Ads & PPC för hudläkare",
-      "description": "PPC-strategi optimerad för kostnad-per-bokat-besök hos hudläkarkliniker."
+      "title": "Google Ads & PPC för hudläkare | DWD",
+      "description": "Hantering av Google Ads och PPC för hudläkarkliniker — Search, LSA, YouTube och Performance Max optimerat för bokade besök och lönsamhet per behandling. HIPAA-säker spårning."
     },
     "jsonLd": {
       "serviceType": "Google Ads & PPC-hantering för dermatologiska kliniker",
@@ -19,7 +19,13 @@
         "services": "Tjänster",
         "ads": "Google Ads & PPC"
       }
-    }
+    },
+    "ogTitle": "Google Ads & PPC för hudläkare | DWD",
+    "og_title": "Google Ads & PPC för hudläkare | DWD",
+    "twitter_title": "Google Ads & PPC för hudläkare | DWD",
+    "ogDescription": "Hantering av Google Ads och PPC för hudläkarkliniker — Search, LSA, YouTube och Performance Max optimerat för bokade besök och lönsamhet per behandling. HIPAA-säker spårning.",
+    "og_description": "Hantering av Google Ads och PPC för hudläkarkliniker — Search, LSA, YouTube och Performance Max optimerat för bokade besök och lönsamhet per behandling. HIPAA-säker spårning.",
+    "twitter_description": "Hantering av Google Ads och PPC för hudläkarkliniker — Search, LSA, YouTube och Performance Max optimerat för bokade besök och lönsamhet per behandling. HIPAA-säker spårning."
   },
   "hero": {
     "badge": "Google Ads & PPC för hudläkare",

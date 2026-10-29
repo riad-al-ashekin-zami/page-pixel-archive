@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "Conception et développement de portails patients en dermatologie | Conforme HIPAA",
+    "title": "Conception et développement de portails patients en dermatologie | DWD",
     "description": "Portail patient personnalisé et conforme HIPAA pour la dermatologie : prise de rendez-vous, messagerie sécurisée, télédermatologie, formulaires en ligne, paiement de factures, renouvellement d'ordonnances et intégration EHR. Pour cabinets solos, multisites, pédiatriques et Mohs.",
-    "og_title": "Conception et développement de portails patients en dermatologie",
-    "og_description": "Portails patients conformes HIPAA conçus pour les cabinets de dermatologie — gestion des rendez-vous, messagerie, télédermatologie, admission numérique, paiement et intégration EHR.",
-    "twitter_title": "Conception et développement de portails patients en dermatologie",
-    "twitter_description": "Portails patients conformes HIPAA spécialement conçus pour les cliniques de dermatologie.",
+    "og_title": "Conception et développement de portails patients en dermatologie | DWD",
+    "og_description": "Portail patient personnalisé et conforme HIPAA pour la dermatologie : prise de rendez-vous, messagerie sécurisée, télédermatologie, formulaires en ligne, paiement de factures, renouvellement d'ordonnances et intégration EHR. Pour cabinets solos, multisites, pédiatriques et Mohs.",
+    "twitter_title": "Conception et développement de portails patients en dermatologie | DWD",
+    "twitter_description": "Portail patient personnalisé et conforme HIPAA pour la dermatologie : prise de rendez-vous, messagerie sécurisée, télédermatologie, formulaires en ligne, paiement de factures, renouvellement d'ordonnances et intégration EHR. Pour cabinets solos, multisites, pédiatriques et Mohs.",
     "jsonLd": {
       "serviceType": "Conception et développement de portails patients en dermatologie",
       "provider": "DermatologyWebsiteDesign.com",
@@ -14,6 +14,16 @@
       "breadcrumb_home": "Accueil",
       "breadcrumb_services": "Services",
       "breadcrumb_portal": "Portail Patient"
+    },
+    "ogTitle": "Conception et développement de portails patients en dermatologie | DWD",
+    "ogDescription": "Portail patient personnalisé et conforme HIPAA pour la dermatologie : prise de rendez-vous, messagerie sécurisée, télédermatologie, formulaires en ligne, paiement de factures, renouvellement d'ordonnances et intégration EHR. Pour cabinets solos, multisites, pédiatriques et Mohs.",
+    "og": {
+      "title": "Conception et développement de portails patients en dermatologie | DWD",
+      "description": "Portail patient personnalisé et conforme HIPAA pour la dermatologie : prise de rendez-vous, messagerie sécurisée, télédermatologie, formulaires en ligne, paiement de factures, renouvellement d'ordonnances et intégration EHR. Pour cabinets solos, multisites, pédiatriques et Mohs."
+    },
+    "twitter": {
+      "title": "Conception et développement de portails patients en dermatologie | DWD",
+      "description": "Portail patient personnalisé et conforme HIPAA pour la dermatologie : prise de rendez-vous, messagerie sécurisée, télédermatologie, formulaires en ligne, paiement de factures, renouvellement d'ordonnances et intégration EHR. Pour cabinets solos, multisites, pédiatriques et Mohs."
     }
   },
   "hero": {

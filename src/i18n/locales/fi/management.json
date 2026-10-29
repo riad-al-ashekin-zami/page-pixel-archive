@@ -1,15 +1,25 @@
 {
   "meta": {
-    "title": "Ihotautiklinikan verkkosivuston hallintapalvelut — Kasvuhakuinen kumppani",
+    "title": "Ihotautiklinikoiden verkkosivujen ylläpito ja hallinta | DWD",
     "description": "Kokonaisvaltainen ihotautiklinikan sivuston hallinta: oma asiakasvastaava, kuukausittaiset sisällöt, SEO-ohjaus, A/B-testaus, konversio-optimointi ja johdon raportointi. Kuukausisopimuksella.",
     "og": {
-      "title": "Ihotautiklinikan verkkosivuston hallintapalvelut — Kasvutiimisi",
-      "description": "Oma asiantuntijatiimi kehittää sivustoasi viikoittain — sisältö, SEO, konversiot ja raportit. HIPAA-vaatimustenmukainen. Kuukausisopimuksella."
+      "title": "Ihotautiklinikoiden verkkosivujen ylläpito ja hallinta | DWD",
+      "description": "Kokonaisvaltainen ihotautiklinikan sivuston hallinta: oma asiakasvastaava, kuukausittaiset sisällöt, SEO-ohjaus, A/B-testaus, konversio-optimointi ja johdon raportointi. Kuukausisopimuksella."
+    },
+    "ogTitle": "Ihotautiklinikoiden verkkosivujen ylläpito ja hallinta | DWD",
+    "og_title": "Ihotautiklinikoiden verkkosivujen ylläpito ja hallinta | DWD",
+    "twitter_title": "Ihotautiklinikoiden verkkosivujen ylläpito ja hallinta | DWD",
+    "ogDescription": "Kokonaisvaltainen ihotautiklinikan sivuston hallinta: oma asiakasvastaava, kuukausittaiset sisällöt, SEO-ohjaus, A/B-testaus, konversio-optimointi ja johdon raportointi. Kuukausisopimuksella.",
+    "og_description": "Kokonaisvaltainen ihotautiklinikan sivuston hallinta: oma asiakasvastaava, kuukausittaiset sisällöt, SEO-ohjaus, A/B-testaus, konversio-optimointi ja johdon raportointi. Kuukausisopimuksella.",
+    "twitter_description": "Kokonaisvaltainen ihotautiklinikan sivuston hallinta: oma asiakasvastaava, kuukausittaiset sisällöt, SEO-ohjaus, A/B-testaus, konversio-optimointi ja johdon raportointi. Kuukausisopimuksella.",
+    "twitter": {
+      "title": "Ihotautiklinikoiden verkkosivujen ylläpito ja hallinta | DWD",
+      "description": "Kokonaisvaltainen ihotautiklinikan sivuston hallinta: oma asiakasvastaava, kuukausittaiset sisällöt, SEO-ohjaus, A/B-testaus, konversio-optimointi ja johdon raportointi. Kuukausisopimuksella."
     }
   },
   "hero": {
     "badge": "Ihotautiklinikan sivuston hallinta",
-    "headline": "Kasvutiimi, joka pyörittää ihotautiklinikkasi verkkosivustoa — joka viikko.",
+    "headline": "Ihotautiklinikoiden verkkosivujen ylläpito ja hallinta",
     "subheading": "Strategia, sisältö, SEO, konversiotestit ja raportointi — omistautuneen tiimin vastuulla. Voit unohtaa tekniset huolet ja keskittyä uusiin potilaisiin.",
     "cta_primary": "Hanki kasvusuunnitelma",
     "cta_secondary": "Aloita ilmaisella auditoinnilla",
@@ -454,5 +464,87 @@
     "service_type": "Dermatology Website Management Services",
     "provider_name": "DermatologyWebsiteDesign.com",
     "offer_description": "Ihotautiklinikan verkkosivuston hallinta — alkaen-hinta per kuukausi"
+  },
+  "merged": {
+    "heading": "Turvallinen, HIPAA-tietoinen verkkohotelli",
+    "pillars": {
+      "badge": "Mitä ylläpitosuunnitelma sisältää",
+      "title": "Sivustosi jokainen taso — valvottuna, paikattuna ja optimoituna.",
+      "description": "Kuukausittaisen työn kuusi pilaria. Ei piilokuluja tai yllätyslaskuja.",
+      "items": [
+        {
+          "title": "24/7 Käytettävyyden valvonta",
+          "desc": "Kuntotarkastus 60 sekunnin välein 5 eri alueelta. Hälytykset tavoittavat päivystäjämme ennen kuin vastaanottonne huomaa mitään."
+        },
+        {
+          "title": "HIPAA-huomioidut päivitykset",
+          "desc": "CMS-, lisäosa- ja riippuvuuspäivitykset testataan ja julkaistaan BAA-valmiissa ympäristössä."
+        },
+        {
+          "title": "Päivittäiset salatut varmuuskopiot",
+          "desc": "Palvelimen ulkopuoliset, versioidut tallenteet ja palautus yhdellä klikkauksella. Testattu kuukausittain — ei pelkkää ajastusta."
+        },
+        {
+          "title": "Haittaohjelma- ja haavoittuvuusskannaukset",
+          "desc": "Viikoittaiset skannaukset, neljännesvuosittaiset penetraatiotestit ja välitön paikkaus tekniseen pinoonne vaikuttaviin havaintoihin."
+        },
+        {
+          "title": "Core Web Vitals -seuranta",
+          "desc": "Jatkuva LCP, INP ja CLS -seuranta — suorituskyvyn laskut korjataan ennen kuin Google rankaisee sijoitustasi."
+        },
+        {
+          "title": "Sivuston SEO-terveys",
+          "desc": "Rikkoutuneet linkit, puuttuvat skeemat ja indeksointivirheet tarkistetaan ja korjataan kuukausittain osana suunnitelmaa."
+        }
+      ]
+    },
+    "included": {
+      "badge": "Sisältyy joka kuukausi",
+      "title": "16 palvelua, jotka teemme puolestasi — joka ikinen kuukausi.",
+      "items": [
+        "24/7 käytettävyyden ja SSL:n valvonta",
+        "Viikoittaiset CMS- ja lisäosapäivitykset",
+        "Päivittäiset salatut varmuuskopiot (off-site)",
+        "Haittaohjelmien skannaus ja CVE-paikkaukset",
+        "HIPAA-huomioidut lomake- ja PHI-auditoinnit",
+        "Core Web Vitals -seuranta",
+        "SEO-terveystarkastukset ja linkkien korjaukset",
+        "Tietokannan optimointi",
+        "CDN- ja välimuistin hienosäätö",
+        "Bugien priorisointi ja korjauspäivitykset",
+        "Sisältö- ja suunnittelumuutosten työtunnit",
+        "Kuukausittainen suorituskykyraportti",
+        "Ennakoivat häiriöilmoitukset",
+        "Vaatimustenmukaisuuden muutosloki",
+        "Saavutettavuustarkastukset (WCAG AA)",
+        "Nimetty tekninen yhteyshenkilö"
+      ]
+    },
+    "flow": {
+      "badge": "Miten palvelu toimii",
+      "title": "Käyttöönotosta huolettomaan arkeen.",
+      "items": [
+        {
+          "step": "01",
+          "title": "Käyttöönotto ja auditointi",
+          "desc": "Perehdymme sivustoosi täydellisellä tietoturva-, suorituskyky-, SEO- ja HIPAA-auditoinnilla — emme valvo mitään sokkona."
+        },
+        {
+          "step": "02",
+          "title": "Suojaus ja perustaso",
+          "desc": "Paikkaukset, varmuuskopioiden varmentaminen, valvonnan asennus ja Core Web Vitals -lähtötason dokumentointi."
+        },
+        {
+          "step": "03",
+          "title": "Valvonta ja ylläpito",
+          "desc": "24/7-seuranta, viikoittaiset päivitykset ja kuukausittaiset raportit — sekä sovitut työtunnit kehitystä varten."
+        },
+        {
+          "step": "04",
+          "title": "Raportointi ja kehitys",
+          "desc": "Kuukausittainen läpikäynti asiantuntijan kanssa. Kuinka teemme sivustostasi nopeamman, turvallisemman ja paremmin sijoittuvan ensi kuussa?"
+        }
+      ]
+    }
   }
 }

@@ -1,14 +1,14 @@
 {
   "meta": {
-    "title": "Gestion Google Ads et PPC pour dermatologues | Rendez-vous confirmés, pas des clics",
+    "title": "Gestion Google Ads et PPC pour dermatologues | DWD",
     "description": "Gestion Google Ads et PPC pour cabinets de dermatologie : Search, LSA, YouTube et Performance Max. Mesure basée sur le coût par rendez-vous et la rentabilité par spécialité. Tracking conforme HIPAA.",
     "og": {
-      "title": "Google Ads et PPC Dermatologie — Des rendez-vous, pas des clics",
-      "description": "Un PPC rentable : Search, LSA, YouTube et remarketing pilotés par le ROI des rendez-vous pris pour les cabinets de dermatologie."
+      "title": "Gestion Google Ads et PPC pour dermatologues | DWD",
+      "description": "Gestion Google Ads et PPC pour cabinets de dermatologie : Search, LSA, YouTube et Performance Max. Mesure basée sur le coût par rendez-vous et la rentabilité par spécialité. Tracking conforme HIPAA."
     },
     "twitter": {
-      "title": "Gestion Google Ads et PPC pour dermatologues",
-      "description": "PPC optimisé selon le coût par rendez-vous confirmé pour les cabinets de dermatologie."
+      "title": "Gestion Google Ads et PPC pour dermatologues | DWD",
+      "description": "Gestion Google Ads et PPC pour cabinets de dermatologie : Search, LSA, YouTube et Performance Max. Mesure basée sur le coût par rendez-vous et la rentabilité par spécialité. Tracking conforme HIPAA."
     },
     "jsonLd": {
       "serviceType": "Gestion Google Ads et PPC pour cabinets de dermatologie",
@@ -19,7 +19,13 @@
         "services": "Services",
         "ads": "Google Ads et PPC"
       }
-    }
+    },
+    "ogTitle": "Gestion Google Ads et PPC pour dermatologues | DWD",
+    "og_title": "Gestion Google Ads et PPC pour dermatologues | DWD",
+    "twitter_title": "Gestion Google Ads et PPC pour dermatologues | DWD",
+    "ogDescription": "Gestion Google Ads et PPC pour cabinets de dermatologie : Search, LSA, YouTube et Performance Max. Mesure basée sur le coût par rendez-vous et la rentabilité par spécialité. Tracking conforme HIPAA.",
+    "og_description": "Gestion Google Ads et PPC pour cabinets de dermatologie : Search, LSA, YouTube et Performance Max. Mesure basée sur le coût par rendez-vous et la rentabilité par spécialité. Tracking conforme HIPAA.",
+    "twitter_description": "Gestion Google Ads et PPC pour cabinets de dermatologie : Search, LSA, YouTube et Performance Max. Mesure basée sur le coût par rendez-vous et la rentabilité par spécialité. Tracking conforme HIPAA."
   },
   "hero": {
     "badge": "Google Ads et PPC Dermatologie",

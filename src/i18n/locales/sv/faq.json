@@ -1,16 +1,29 @@
 {
   "meta": {
-    "title": "FAQ — Webbdesign för dermatologi, SEO & svar om HIPAA",
+    "title": "FAQ | DWD",
     "description": "Raka svar om prissättning, tidslinjer, SEO, HIPAA, redesign, migreringar och support för växande dermatologiska kliniker.",
-    "keywords": "webbdesign dermatologi FAQ, SEO för hudläkare, HIPAA webbplats frågor, kostnad dermatologi webbplats, tidslinje webbprojekt",
     "breadcrumbList": {
       "home": "Hem",
       "faq": "FAQ"
+    },
+    "ogTitle": "FAQ | DWD",
+    "og_title": "FAQ | DWD",
+    "twitter_title": "FAQ | DWD",
+    "ogDescription": "Raka svar om prissättning, tidslinjer, SEO, HIPAA, redesign, migreringar och support för växande dermatologiska kliniker.",
+    "og_description": "Raka svar om prissättning, tidslinjer, SEO, HIPAA, redesign, migreringar och support för växande dermatologiska kliniker.",
+    "twitter_description": "Raka svar om prissättning, tidslinjer, SEO, HIPAA, redesign, migreringar och support för växande dermatologiska kliniker.",
+    "og": {
+      "title": "FAQ | DWD",
+      "description": "Raka svar om prissättning, tidslinjer, SEO, HIPAA, redesign, migreringar och support för växande dermatologiska kliniker."
+    },
+    "twitter": {
+      "title": "FAQ | DWD",
+      "description": "Raka svar om prissättning, tidslinjer, SEO, HIPAA, redesign, migreringar och support för växande dermatologiska kliniker."
     }
   },
   "hero": {
     "badge": "{{totalCount}} svar · Specifikt för kliniker",
-    "heading": "Alla svar en dermatologisk klinik faktiskt behöver.",
+    "heading": "Vanliga frågor",
     "subheading": "Prissättning, tidslinjer, SEO, HIPAA, redesign, migreringar och integrationer. Raka, specifika svar skrivna av experterna som utför arbetet.",
     "search": {
       "label": "Sök i FAQ",

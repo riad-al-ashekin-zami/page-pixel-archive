@@ -1,15 +1,21 @@
 {
   "meta": {
-    "title": "Cookiepolicy — Så använder vi cookies",
+    "title": "Cookiepolicy | DWD",
     "description": "Här kan du läsa om vilka cookies och liknande tekniker vi använder på vår webbplats, varför vi använder dem och hur du kan styra dem.",
     "og": {
-      "title": "Cookiepolicy — Så använder vi cookies",
+      "title": "Cookiepolicy | DWD",
       "description": "Här kan du läsa om vilka cookies och liknande tekniker vi använder på vår webbplats, varför vi använder dem och hur du kan styra dem."
     },
     "twitter": {
-      "title": "Cookiepolicy — Så använder vi cookies",
+      "title": "Cookiepolicy | DWD",
       "description": "Här kan du läsa om vilka cookies och liknande tekniker vi använder på vår webbplats, varför vi använder dem och hur du kan styra dem."
-    }
+    },
+    "ogTitle": "Cookiepolicy | DWD",
+    "og_title": "Cookiepolicy | DWD",
+    "twitter_title": "Cookiepolicy | DWD",
+    "ogDescription": "Här kan du läsa om vilka cookies och liknande tekniker vi använder på vår webbplats, varför vi använder dem och hur du kan styra dem.",
+    "og_description": "Här kan du läsa om vilka cookies och liknande tekniker vi använder på vår webbplats, varför vi använder dem och hur du kan styra dem.",
+    "twitter_description": "Här kan du läsa om vilka cookies och liknande tekniker vi använder på vår webbplats, varför vi använder dem och hur du kan styra dem."
   },
   "layout": {
     "skipToContent": "Hoppa till innehållet"

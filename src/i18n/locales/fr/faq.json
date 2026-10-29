@@ -1,16 +1,29 @@
 {
   "meta": {
-    "title": "FAQ — Conception de Site Web pour la Dermatologie, SEO & Réponses HIPAA",
+    "title": "FAQ | DWD",
     "description": "Des réponses directes sur les tarifs, les délais, le SEO, HIPAA, les refontes, les migrations et le soutien continu pour les cabinets de dermatologie en croissance.",
-    "keywords": "FAQ site web dermatologie, FAQ SEO dermatologie, questions site web HIPAA, coût site web dermatologie, calendrier site web dermatologie",
     "breadcrumbList": {
       "home": "Accueil",
       "faq": "FAQ"
+    },
+    "ogTitle": "FAQ | DWD",
+    "og_title": "FAQ | DWD",
+    "twitter_title": "FAQ | DWD",
+    "ogDescription": "Des réponses directes sur les tarifs, les délais, le SEO, HIPAA, les refontes, les migrations et le soutien continu pour les cabinets de dermatologie en croissance.",
+    "og_description": "Des réponses directes sur les tarifs, les délais, le SEO, HIPAA, les refontes, les migrations et le soutien continu pour les cabinets de dermatologie en croissance.",
+    "twitter_description": "Des réponses directes sur les tarifs, les délais, le SEO, HIPAA, les refontes, les migrations et le soutien continu pour les cabinets de dermatologie en croissance.",
+    "og": {
+      "title": "FAQ | DWD",
+      "description": "Des réponses directes sur les tarifs, les délais, le SEO, HIPAA, les refontes, les migrations et le soutien continu pour les cabinets de dermatologie en croissance."
+    },
+    "twitter": {
+      "title": "FAQ | DWD",
+      "description": "Des réponses directes sur les tarifs, les délais, le SEO, HIPAA, les refontes, les migrations et le soutien continu pour les cabinets de dermatologie en croissance."
     }
   },
   "hero": {
     "badge": "{{totalCount}} réponses · Spécifique à la dermatologie",
-    "heading": "Toutes les réponses dont un cabinet de dermatologie a réellement besoin.",
+    "heading": "Questions Fréquentes",
     "subheading": "Tarifs, délais, SEO, HIPAA, refontes, migrations, intégrations. Des réponses directes, précises et rédigées par l'équipe qui réalisera le travail.",
     "search": {
       "label": "Rechercher dans la FAQ",

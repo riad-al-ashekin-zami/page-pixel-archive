@@ -1,10 +1,10 @@
 {
   "meta": {
-    "title": "Cennik stron dla dermatologów — plany, pakiety i przejrzyste koszty",
+    "title": "Ceny stron dermatologicznych | DWD",
     "description": "Transparentny cennik stron dermatologicznych. Jednorazowe wdrożenia od 797 $ do ponad 18 999 $, pakiety miesięczne od 399 $ oraz dodatki à la carte. Sprawdź koszty przed rozmową.",
     "og": {
-      "title": "Cennik stron dla dermatologów — pakiety i koszty",
-      "description": "Sześć pakietów stron, trzy wdrożenia specjalistyczne, cztery abonamenty miesięczne i ponad 20 dodatków — z kalkulatorem kosztów na żywo. Pełna przejrzystość."
+      "title": "Ceny stron dermatologicznych | DWD",
+      "description": "Transparentny cennik stron dermatologicznych. Jednorazowe wdrożenia od 797 $ do ponad 18 999 $, pakiety miesięczne od 399 $ oraz dodatki à la carte. Sprawdź koszty przed rozmową."
     },
     "jsonLd": {
       "breadcrumb": {
@@ -14,11 +14,21 @@
       "priceSpec": {
         "name": "Pakiety stron dla gabinetów dermatologicznych"
       }
+    },
+    "ogTitle": "Ceny stron dermatologicznych | DWD",
+    "og_title": "Ceny stron dermatologicznych | DWD",
+    "twitter_title": "Ceny stron dermatologicznych | DWD",
+    "ogDescription": "Transparentny cennik stron dermatologicznych. Jednorazowe wdrożenia od 797 $ do ponad 18 999 $, pakiety miesięczne od 399 $ oraz dodatki à la carte. Sprawdź koszty przed rozmową.",
+    "og_description": "Transparentny cennik stron dermatologicznych. Jednorazowe wdrożenia od 797 $ do ponad 18 999 $, pakiety miesięczne od 399 $ oraz dodatki à la carte. Sprawdź koszty przed rozmową.",
+    "twitter_description": "Transparentny cennik stron dermatologicznych. Jednorazowe wdrożenia od 797 $ do ponad 18 999 $, pakiety miesięczne od 399 $ oraz dodatki à la carte. Sprawdź koszty przed rozmową.",
+    "twitter": {
+      "title": "Ceny stron dermatologicznych | DWD",
+      "description": "Transparentny cennik stron dermatologicznych. Jednorazowe wdrożenia od 797 $ do ponad 18 999 $, pakiety miesięczne od 399 $ oraz dodatki à la carte. Sprawdź koszty przed rozmową."
     }
   },
   "hero": {
     "badge": "Transparentne ceny",
-    "heading": "Ceny bez tajemnic. Żadnych ukrytych faktur.",
+    "heading": "Ceny stron dermatologicznych",
     "description": "Sześć pakietów wdrożeniowych, trzy opcje specjalistyczne, cztery pakiety miesięczne i ponad 20 dodatków. Skorzystaj z kalkulatora kosztów, by poznać kwoty jeszcze przed kontaktem.",
     "cta": "Zobacz pakiety stron",
     "estimatorCta": "Kalkulator kosztów na żywo"

@@ -1,9 +1,21 @@
 {
   "meta": {
-    "title": "Unser Prozess — In 7 Schritten zur Dermatologie-Website | Discovery → Launch → Wachstum",
+    "title": "Unser Ablauf | DWD",
     "description": "Unser 7-Schritte-Prozess für Dermatologie-Websites: Strategie, SEO-Audit, Design, Content, Entwicklung, Release und Wachstum. Feste Zeitpläne, wöchentliche Check-ins, HIPAA-konform, Lighthouse 95+ garantiert.",
-    "ogTitle": "Unser Prozess — In 7 Schritten vom Kick-off zum Wachstum",
-    "ogDescription": "Ein transparenter Prozess mit festem Zeitplan für Webdesign und SEO in der Dermatologie. Sehen Sie Woche für Woche, was passiert – von der Strategie bis zum dauerhaften Erfolg."
+    "ogTitle": "Unser Ablauf | DWD",
+    "ogDescription": "Unser 7-Schritte-Prozess für Dermatologie-Websites: Strategie, SEO-Audit, Design, Content, Entwicklung, Release und Wachstum. Feste Zeitpläne, wöchentliche Check-ins, HIPAA-konform, Lighthouse 95+ garantiert.",
+    "og_title": "Unser Ablauf | DWD",
+    "twitter_title": "Unser Ablauf | DWD",
+    "og_description": "Unser 7-Schritte-Prozess für Dermatologie-Websites: Strategie, SEO-Audit, Design, Content, Entwicklung, Release und Wachstum. Feste Zeitpläne, wöchentliche Check-ins, HIPAA-konform, Lighthouse 95+ garantiert.",
+    "twitter_description": "Unser 7-Schritte-Prozess für Dermatologie-Websites: Strategie, SEO-Audit, Design, Content, Entwicklung, Release und Wachstum. Feste Zeitpläne, wöchentliche Check-ins, HIPAA-konform, Lighthouse 95+ garantiert.",
+    "og": {
+      "title": "Unser Ablauf | DWD",
+      "description": "Unser 7-Schritte-Prozess für Dermatologie-Websites: Strategie, SEO-Audit, Design, Content, Entwicklung, Release und Wachstum. Feste Zeitpläne, wöchentliche Check-ins, HIPAA-konform, Lighthouse 95+ garantiert."
+    },
+    "twitter": {
+      "title": "Unser Ablauf | DWD",
+      "description": "Unser 7-Schritte-Prozess für Dermatologie-Websites: Strategie, SEO-Audit, Design, Content, Entwicklung, Release und Wachstum. Feste Zeitpläne, wöchentliche Check-ins, HIPAA-konform, Lighthouse 95+ garantiert."
+    }
   },
   "jsonLd": {
     "breadcrumb": {
@@ -17,8 +29,8 @@
   },
   "hero": {
     "badge": "Unser Prozess",
-    "title": "Vom ersten Telefonat bis zur ersten Patientenbuchung — ",
-    "titleHighlight": "ein 7-stufiger Prozess mit fixem Zeitplan.",
+    "title": "Unser Ablauf",
+    "titleHighlight": "",
     "description": "Keine Rätselraten, kein Scope Creep, keine Überraschungen bei den Stundenabrechnungen. Jeder Schritt hat ein schriftliches Ergebnis, einen Verantwortlichen und eine Deadline – damit Sie immer wissen, was diese Woche ansteht.",
     "buttons": {
       "seeSteps": "Die 7 Schritte ansehen",

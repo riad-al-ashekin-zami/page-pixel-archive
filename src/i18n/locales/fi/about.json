@@ -1,15 +1,27 @@
 {
   "meta": {
-    "title": "Tietoa meistä — Dermatologiaan erikoistunut verkkosivutoimisto",
+    "title": "Tietoa DWD:stä | DWD",
     "description": "Rakennamme HIPAA-huomioituja verkkosivustoja ja kasvumarkkinointia yksinomaan ihotautilääkäreille. Tutustu tulosten takana olevaan tiimiin.",
-    "ogTitle": "Tietoa meistä — Dermatologian verkkosivusuunnittelu",
-    "ogDescription": "Erikoistunut toimisto, joka palvelee ihotautiklinikoita ensiluokkaisilla verkkosivuilla, SEO-palveluilla ja potilashankinnalla.",
+    "ogTitle": "Tietoa DWD:stä | DWD",
+    "ogDescription": "Rakennamme HIPAA-huomioituja verkkosivustoja ja kasvumarkkinointia yksinomaan ihotautilääkäreille. Tutustu tulosten takana olevaan tiimiin.",
     "breadcrumbHome": "Etusivu",
-    "breadcrumbAbout": "Tietoa meistä"
+    "breadcrumbAbout": "Tietoa meistä",
+    "og_title": "Tietoa DWD:stä | DWD",
+    "twitter_title": "Tietoa DWD:stä | DWD",
+    "og_description": "Rakennamme HIPAA-huomioituja verkkosivustoja ja kasvumarkkinointia yksinomaan ihotautilääkäreille. Tutustu tulosten takana olevaan tiimiin.",
+    "twitter_description": "Rakennamme HIPAA-huomioituja verkkosivustoja ja kasvumarkkinointia yksinomaan ihotautilääkäreille. Tutustu tulosten takana olevaan tiimiin.",
+    "og": {
+      "title": "Tietoa DWD:stä | DWD",
+      "description": "Rakennamme HIPAA-huomioituja verkkosivustoja ja kasvumarkkinointia yksinomaan ihotautilääkäreille. Tutustu tulosten takana olevaan tiimiin."
+    },
+    "twitter": {
+      "title": "Tietoa DWD:stä | DWD",
+      "description": "Rakennamme HIPAA-huomioituja verkkosivustoja ja kasvumarkkinointia yksinomaan ihotautilääkäreille. Tutustu tulosten takana olevaan tiimiin."
+    }
   },
   "hero": {
     "kicker": "Dermatologian verkkosivusuunnittelusta",
-    "h1": "Asiantuntijat <1>vain ihotautilääkäreille suunnattujen sivustojen</1> takana.",
+    "h1": "Tietoa DWD:stä",
     "p": "Rakennamme kokemusta, asiantuntemusta, auktoriteettia ja luottamusta (E-E-A-T) jokaiseen sivustoon — nämä ovat Googlen ydinsignaaleja terveydenhuollon (YMYL) aloilla. Emme ole yleistoimisto, vaan ihotautialan asiantuntija.",
     "ctaPrimary": "Työskentele kanssamme",
     "ctaSecondary": "Katso palvelut",

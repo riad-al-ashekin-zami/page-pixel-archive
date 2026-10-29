@@ -1,18 +1,36 @@
 {
   "meta": {
-    "title": "Website-Design für die Dermatologie — HIPAA-aware Wachstumsplattformen",
-    "description": "HIPAA-aware Websites, SEO und Marketing für dermatologische Praxen. Kostenlose Website-Audit innerhalb von 24 Stunden.",
-    "orgDescription": "HIPAA-aware Website-Design, SEO und Growth-Marketing für dermatologische Einzel- und Gemeinschaftspraxen."
+    "title": "Webdesign für Hautärzte und Praxen | DWD",
+    "description": "Webdesign für Hautärzte und Praxen: schnelle, HIPAA-bewusste Websites, die Besucher zur Terminbuchung führen.",
+    "orgDescription": "HIPAA-aware Website-Design, SEO und Growth-Marketing für dermatologische Einzel- und Gemeinschaftspraxen.",
+    "ogTitle": "Webdesign für Hautärzte und Praxen | DWD",
+    "og_title": "Webdesign für Hautärzte und Praxen | DWD",
+    "twitter_title": "Webdesign für Hautärzte und Praxen | DWD",
+    "ogDescription": "Webdesign für Hautärzte und Praxen: schnelle, HIPAA-bewusste Websites, die Besucher zur Terminbuchung führen.",
+    "og_description": "Webdesign für Hautärzte und Praxen: schnelle, HIPAA-bewusste Websites, die Besucher zur Terminbuchung führen.",
+    "twitter_description": "Webdesign für Hautärzte und Praxen: schnelle, HIPAA-bewusste Websites, die Besucher zur Terminbuchung führen.",
+    "og": {
+      "title": "Webdesign für Hautärzte und Praxen | DWD",
+      "description": "Webdesign für Hautärzte und Praxen: schnelle, HIPAA-bewusste Websites, die Besucher zur Terminbuchung führen."
+    },
+    "twitter": {
+      "title": "Webdesign für Hautärzte und Praxen | DWD",
+      "description": "Webdesign für Hautärzte und Praxen: schnelle, HIPAA-bewusste Websites, die Besucher zur Terminbuchung führen."
+    }
   },
   "hero": {
     "badge": "HIPAA-aware",
     "badgeSecondary": "Konversionsfokussiert",
-    "headline": "Premium-Websites für das Wachstum moderner",
-    "headlineAccent": "Hautarztpraxen.",
+    "headline": "Webdesign für Hautärzte",
+    "headlineAccent": "",
     "subhead": "Maßgeschneiderte, SEO-optimierte Websites, die Vertrauen schaffen, neue Patienten gewinnen und Ihre Praxis online voranbringen.",
     "ctaPrimary": "Jetzt Angebot anfordern",
     "ctaSecondary": "Kostenloses Audit anfragen",
-    "heroImageAlt": "Erscheinungsbild einer dermatologischen Website auf Desktop und Mobile, inklusive Analytics, Terminbuchung und HIPAA-Konformität"
+    "heroImageAlt": "Erscheinungsbild einer dermatologischen Website auf Desktop und Mobile, inklusive Analytics, Terminbuchung und HIPAA-Konformität",
+    "introParagraphs": [
+      "Webdesign für Hautärzte soll Patienten helfen, Behandlungen zu verstehen, Ihrer Praxis zu vertrauen und den nächsten Schritt zu wählen. Wir erstellen schnelle, HIPAA-bewusste Websites rund um Leistungen, Team und Terminbuchung.",
+      "Webdesign für dermatologische Praxen braucht mehr als eine schöne Startseite. Verständliche Behandlungsinformationen, barrierearme Navigation und einfache Terminwege unterstützen Patienten auf der gesamten Website."
+    ]
   },
   "stats": {
     "websites": {
@@ -63,5 +81,176 @@
     "auditLink": "einem kostenlosen Audit Ihrer aktuellen Website",
     "suffix": "."
   },
-  "skip": "Direkt zum Inhalt"
+  "skip": "Direkt zum Inhalt",
+  "merged": {
+    "sections": [
+      "Was unsere Dermatologie-Websites enthalten",
+      "Warum Hautarztpraxen uns wählen",
+      "Unser Designprozess",
+      "Unsere Arbeit ansehen",
+      "Praxiswachstum nach dem Start",
+      "Preise",
+      "Häufig gestellte Fragen"
+    ],
+    "audience": {
+      "tag": "Zielgruppe",
+      "title": "Für jede spezialisierte Praxisform",
+      "description": "Von der inhabergeführten Privatpraxis bis hin zu überregionalen OP-Zentren.",
+      "items": [
+        {
+          "label": "Einzelpraxen",
+          "desc": "Boutique-Websites, die Ihre klinische Marke stärken und den Terminkalender füllen."
+        },
+        {
+          "label": "MVZs & Standorte",
+          "desc": "Skalierbare Architektur mit dedizierten Seiten für Standorte, Teams und Sprechzeiten."
+        },
+        {
+          "label": "Kinderdermatologie",
+          "desc": "Empathische, elternfreundliche UX mit klaren Abläufen für Anamnese und Erziehungsberechtigte."
+        },
+        {
+          "label": "Mohs- & Chirurgie",
+          "desc": "Expertendesign zur Vertrauensbildung bei Zuweisern und Selbstzuweisern."
+        }
+      ]
+    },
+    "pillars": {
+      "tag": "Was Premium ausmacht",
+      "title": "Sechs Standards ohne Kompromisse",
+      "description": "Design, Technik, SEO und Compliance — von Beginn an als Einheit konzipiert.",
+      "items": [
+        {
+          "title": "100 % Individuelles Design",
+          "desc": "Keine Templates. Jeder Bereich und jede Interaktion wird exklusiv für Ihre Klinik entworfen."
+        },
+        {
+          "title": "Lighthouse 95+",
+          "desc": "Performance-fokussiert — optimierte Image-Pipelines, Edge Caching und schlankes JS."
+        },
+        {
+          "title": "On-Page SEO",
+          "desc": "Semantisches HTML, Schemas und Content-Struktur für lokale und medizinische Suchanfragen."
+        },
+        {
+          "title": "HIPAA-konform",
+          "desc": "Sichere Formulare, kein Abfluss von Patientendaten, Audit-fähiger Stack, BAA-bereite Partner."
+        },
+        {
+          "title": "Full Responsive",
+          "desc": "Pixelgenau auf Desktop, Tablet und Smartphone. Auf echten Endgeräten getestet."
+        },
+        {
+          "title": "Barrierefreiheit (WCAG AA)",
+          "desc": "Tastaturbedienbar, kontraststark und Screenreader-optimiert — inklusiv per Standard."
+        }
+      ]
+    },
+    "medicalServices": {
+      "tag": "Medizinisches Leistungsspektrum",
+      "title": "Leistungsseiten, die ranken und überzeugen",
+      "description": "Individuelle, SEO-optimierte Unterseiten für jede Behandlung — medizinisch präzise, verständlich erklärt und mit starken Call-To-Actions.",
+      "features": [
+        "Medizinisch geprüfte Inhaltsstruktur",
+        "Keyword-optimierte H1 / H2 / FAQ-Bereiche",
+        "Sichere HIPAA-Kontaktformulare",
+        "Schnelle, indexierbare Mobile-First-Templates"
+      ],
+      "list": [
+        "Akne-Therapie",
+        "Ekzem-Behandlung",
+        "Psoriasis (Schuppenflechte)",
+        "Hautinfektionen",
+        "Allergologie",
+        "Hautkrebsvorsorge & Therapie",
+        "Muttermaldiagnostik & Entfernung",
+        "Zysten- & Lipomentfernung",
+        "Warzenbehandlung",
+        "Nagelerkrankungen",
+        "Haarausfall-Therapie",
+        "Kopfhauterkrankungen",
+        "Rosazea-Behandlung",
+        "Hyperpigmentierung & Melasma",
+        "Narbenkorrektur",
+        "Brandnarben-Therapie",
+        "Vitiligo-Behandlung",
+        "Hautbiopsien & Diagnostik"
+      ]
+    },
+    "process": {
+      "tag": "Unser Prozess",
+      "title": "Strukturiert zum Erfolg",
+      "description": "Vier transparente Phasen — keine Überraschungen, volle Klarheit.",
+      "steps": [
+        {
+          "step": "01",
+          "title": "Strategie & Positionierung",
+          "desc": "Praxis-Audit, Patient-Personas, Wettbewerbsanalyse und Conversion-Ziele."
+        },
+        {
+          "step": "02",
+          "title": "Design-System",
+          "desc": "Maßgeschneiderte Typografie, Farbwelt und Komponenten-Library für Ihre Marke."
+        },
+        {
+          "step": "03",
+          "title": "Entwicklung & SEO",
+          "desc": "Handgeschriebener Code, Markup-Schemas und Bildoptimierung für Top-Rankings."
+        },
+        {
+          "step": "04",
+          "title": "Launch & Wachstum",
+          "desc": "Analytics, CRO-Tests und Wartungsplan für kontinuierliche Patientensteigerung."
+        }
+      ]
+    },
+    "faqs": [
+      {
+        "q": "Wie lange dauert die Erstellung einer individuellen Website?",
+        "a": "In der Regel benötigen wir 6–10 Wochen von der Strategie bis zum Launch, abhängig vom Umfang. Dank strukturierter Milestones und wöchentlicher Reviews kommen wir zügig voran."
+      },
+      {
+        "q": "Ist die Website HIPAA-konform?",
+        "a": "Ja, wir nutzen eine HIPAA-konforme Architektur: verschlüsselte Formulare, sicheres Hosting bei BAA-Partnern, keine Patientendaten in Analytics und Audit-Sicherheit bei Anfragen."
+      },
+      {
+        "q": "Gehören Design und Code mir?",
+        "a": "Ja. Nach dem Launch gehen alle Design-Dateien, der Code und die Inhalte vollständig in Ihr Eigentum über. Kein Lock-in, kein proprietäres CMS."
+      },
+      {
+        "q": "Was umfasst das On-Page SEO?",
+        "a": "Keyword-optimierte H1/H2-Strukturen, Schema-Markup (LocalBusiness, MedicalClinic, FAQ), optimierte Meta-Tags sowie interne Verlinkungen und Bildoptimierung auf allen Seiten."
+      },
+      {
+        "q": "Bieten Sie Support nach dem Launch an?",
+        "a": "Ja. Unsere Wartungstarife decken Updates, Sicherheit, Backups, Uptime-Monitoring, Performance-Optimierung und monatliche Content-Pflege ab."
+      },
+      {
+        "q": "Wie lange dauert es, eine neue Dermatologie-Website zu starten?",
+        "a": "Die meisten Projekte gehen innerhalb von 4–6 Wochen live – von der Entdeckung bis zum Start. Zeitpläne hängen von der Inhaltsbereitschaft und dem Umfang ab, und wir teilen eine klare wöchentliche Roadmap während des Onboardings."
+      },
+      {
+        "q": "Kümmern Sie sich um HIPAA-Konformität und den Datenschutz von Patienten?",
+        "a": "Ja. Jeder Aufbau ist HIPAA-konform: sicheres Hosting, verschlüsselte Formulare, BAA-fähige Integrationen für Kontakt und Aufnahme und eine Konformitätsprüfung vor dem Start."
+      },
+      {
+        "q": "Wird meine neue Website mir tatsächlich helfen, bei Google zu ranken?",
+        "a": "SEO wird von Tag eins an integriert – dermatologiespezifisches Schema, Service- und Standortseiten, Core Web Vitals von 95+ und eine On-Page-Struktur, die darauf ausgelegt ist, Rankings für die Suchanfragen zu erzielen, die Buchungen vorantreiben."
+      }
+    ]
+  },
+  "ownerAnchors": {
+    "design": "webdesign für hautärzte",
+    "examples": "beispiele für dermatologie-websites",
+    "seo": "SEO-Leistungen für Hautärzte",
+    "marketing": "marketingstrategien für hautärzte",
+    "pricing": "preise für dermatologie-websites",
+    "ppc": "Google Ads & PPC für Dermatologen",
+    "social": "Dermatologie Social Media",
+    "maintenance": "wartung und verwaltung von dermatologie-websites",
+    "gallery": "Vorher-Nachher-Galerie",
+    "portal": "Patientenportal für Dermatologie",
+    "process": "unser ablauf",
+    "migration": "Null Downtime · Null SEO-Verlust"
+  }
 }

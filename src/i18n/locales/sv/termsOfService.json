@@ -1,11 +1,21 @@
 {
   "meta": {
-    "title": "Användarvillkor — Webbplatsanvändning och samarbete",
+    "title": "Användarvillkor | DWD",
     "description": "De villkor som styr din användning av vår webbplats, kommunikation och de tjänster du anlitar vår studio för.",
-    "og_title": "Användarvillkor — Webbplatsanvändning och samarbete",
+    "og_title": "Användarvillkor | DWD",
     "og_description": "De villkor som styr din användning av vår webbplats, kommunikation och de tjänster du anlitar vår studio för.",
-    "twitter_title": "Användarvillkor — Webbplatsanvändning och samarbete",
-    "twitter_description": "De villkor som styr din användning av vår webbplats, kommunikation och de tjänster du anlitar vår studio för."
+    "twitter_title": "Användarvillkor | DWD",
+    "twitter_description": "De villkor som styr din användning av vår webbplats, kommunikation och de tjänster du anlitar vår studio för.",
+    "ogTitle": "Användarvillkor | DWD",
+    "ogDescription": "De villkor som styr din användning av vår webbplats, kommunikation och de tjänster du anlitar vår studio för.",
+    "og": {
+      "title": "Användarvillkor | DWD",
+      "description": "De villkor som styr din användning av vår webbplats, kommunikation och de tjänster du anlitar vår studio för."
+    },
+    "twitter": {
+      "title": "Användarvillkor | DWD",
+      "description": "De villkor som styr din användning av vår webbplats, kommunikation och de tjänster du anlitar vår studio för."
+    }
   },
   "a11y": {
     "skip_to_content": "Hoppa till innehåll",

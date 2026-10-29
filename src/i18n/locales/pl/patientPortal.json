@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "Projektowanie i rozwój portalu pacjenta dla dermatologii | Zgodność z HIPAA",
+    "title": "Projektowanie i rozwój portalu pacjenta dla dermatologii | DWD",
     "description": "Indywidualny, zgodny z HIPAA portal pacjenta dla gabinetów dermatologicznych: rezerwacje online, bezpieczna komunikacja, teledermatologia i integracja z EHR. Rozwiązania dla praktyk solowych, sieci klinik, dermatologii dziecięcej i chirurgii Mohsa.",
-    "og_title": "Projektowanie i rozwój portalu pacjenta dla dermatologii",
-    "og_description": "Portale pacjenta zaprojektowane dla praktyk dermatologicznych zgodnie ze standardami HIPAA — rezerwacje, wiadomości, teledermatologia, e-wywiady i integracja z EHR.",
-    "twitter_title": "Projektowanie i rozwój portalu pacjenta dla dermatologii",
-    "twitter_description": "Portale pacjenta zgodne z HIPAA, zaprojektowane specjalnie dla klinik dermatologicznych.",
+    "og_title": "Projektowanie i rozwój portalu pacjenta dla dermatologii | DWD",
+    "og_description": "Indywidualny, zgodny z HIPAA portal pacjenta dla gabinetów dermatologicznych: rezerwacje online, bezpieczna komunikacja, teledermatologia i integracja z EHR. Rozwiązania dla praktyk solowych, sieci klinik, dermatologii dziecięcej i chirurgii Mohsa.",
+    "twitter_title": "Projektowanie i rozwój portalu pacjenta dla dermatologii | DWD",
+    "twitter_description": "Indywidualny, zgodny z HIPAA portal pacjenta dla gabinetów dermatologicznych: rezerwacje online, bezpieczna komunikacja, teledermatologia i integracja z EHR. Rozwiązania dla praktyk solowych, sieci klinik, dermatologii dziecięcej i chirurgii Mohsa.",
     "jsonLd": {
       "serviceType": "Projektowanie i rozwój portalu pacjenta dla dermatologii",
       "provider": "DermatologyWebsiteDesign.com",
@@ -14,6 +14,16 @@
       "breadcrumb_home": "Strona główna",
       "breadcrumb_services": "Usługi",
       "breadcrumb_portal": "Portal Pacjenta"
+    },
+    "ogTitle": "Projektowanie i rozwój portalu pacjenta dla dermatologii | DWD",
+    "ogDescription": "Indywidualny, zgodny z HIPAA portal pacjenta dla gabinetów dermatologicznych: rezerwacje online, bezpieczna komunikacja, teledermatologia i integracja z EHR. Rozwiązania dla praktyk solowych, sieci klinik, dermatologii dziecięcej i chirurgii Mohsa.",
+    "og": {
+      "title": "Projektowanie i rozwój portalu pacjenta dla dermatologii | DWD",
+      "description": "Indywidualny, zgodny z HIPAA portal pacjenta dla gabinetów dermatologicznych: rezerwacje online, bezpieczna komunikacja, teledermatologia i integracja z EHR. Rozwiązania dla praktyk solowych, sieci klinik, dermatologii dziecięcej i chirurgii Mohsa."
+    },
+    "twitter": {
+      "title": "Projektowanie i rozwój portalu pacjenta dla dermatologii | DWD",
+      "description": "Indywidualny, zgodny z HIPAA portal pacjenta dla gabinetów dermatologicznych: rezerwacje online, bezpieczna komunikacja, teledermatologia i integracja z EHR. Rozwiązania dla praktyk solowych, sieci klinik, dermatologii dziecięcej i chirurgii Mohsa."
     }
   },
   "hero": {

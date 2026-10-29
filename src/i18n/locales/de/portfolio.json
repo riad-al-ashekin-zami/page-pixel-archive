@@ -1,11 +1,24 @@
 {
   "meta": {
-    "title": "Dermatologie-Webdesign Portfolio — Praxis-Relaunches mit Erfolg",
+    "title": "Beispiele für Dermatologie-Websites | DWD",
     "description": "Ein exklusives Portfolio von uns gestalteter Dermatologie-Websites — ästhetische, medizinische, pädiatrische und standortübergreifende Praxen mit messbarem Wachstum bei Buchungen, SEO und Performance.",
-    "keywords": "Dermatologie Website Portfolio, Dermatologie Webdesign Beispiele, Fallstudien Dermatologie Websites, Webseiten für Hautarztpraxen",
     "breadcrumb": {
       "home": "Home",
       "portfolio": "Portfolio"
+    },
+    "ogTitle": "Beispiele für Dermatologie-Websites | DWD",
+    "og_title": "Beispiele für Dermatologie-Websites | DWD",
+    "twitter_title": "Beispiele für Dermatologie-Websites | DWD",
+    "ogDescription": "Ein exklusives Portfolio von uns gestalteter Dermatologie-Websites — ästhetische, medizinische, pädiatrische und standortübergreifende Praxen mit messbarem Wachstum bei Buchungen, SEO und Performance.",
+    "og_description": "Ein exklusives Portfolio von uns gestalteter Dermatologie-Websites — ästhetische, medizinische, pädiatrische und standortübergreifende Praxen mit messbarem Wachstum bei Buchungen, SEO und Performance.",
+    "twitter_description": "Ein exklusives Portfolio von uns gestalteter Dermatologie-Websites — ästhetische, medizinische, pädiatrische und standortübergreifende Praxen mit messbarem Wachstum bei Buchungen, SEO und Performance.",
+    "og": {
+      "title": "Beispiele für Dermatologie-Websites | DWD",
+      "description": "Ein exklusives Portfolio von uns gestalteter Dermatologie-Websites — ästhetische, medizinische, pädiatrische und standortübergreifende Praxen mit messbarem Wachstum bei Buchungen, SEO und Performance."
+    },
+    "twitter": {
+      "title": "Beispiele für Dermatologie-Websites | DWD",
+      "description": "Ein exklusives Portfolio von uns gestalteter Dermatologie-Websites — ästhetische, medizinische, pädiatrische und standortübergreifende Praxen mit messbarem Wachstum bei Buchungen, SEO und Performance."
     }
   },
   "accessibility": {
@@ -13,7 +26,7 @@
   },
   "hero": {
     "badge": "Portfolio · 50+ Hautarztpraxen",
-    "heading": "Echte Dermatologie-Websites. Echter Erfolg.",
+    "heading": "Beispiele für Dermatologie-Websites",
     "subheading": "Jedes der unten stehenden Projekte ist eine aktive Praxis — von ästhetischer und klassischer Medizin bis hin zur Kinderdermatologie. Individuelles Design, HIPAA-konforme Umsetzung und SEO, das Terminanfragen steigert, statt nur Rankings.",
     "cta": {
       "start": "Projekt anfragen",

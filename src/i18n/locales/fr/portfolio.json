@@ -1,11 +1,24 @@
 {
   "meta": {
-    "title": "Portfolio de sites web pour dermatologues — Refontes concrètes de cabinets",
+    "title": "Exemples de Sites Web de Dermatologie | DWD",
     "description": "Une sélection de sites web en dermatologie conçus par nos soins : cabinets esthétiques, médicaux, pédiatriques et multi-sites, avec une croissance mesurable de la prise de rendez-vous, du SEO et de la vitesse.",
-    "keywords": "portfolio site web dermatologie, exemples design web dermatologie, études de cas site dermatologue, sites web pour cabinets de dermatologie",
     "breadcrumb": {
       "home": "Accueil",
       "portfolio": "Portfolio"
+    },
+    "ogTitle": "Exemples de Sites Web de Dermatologie | DWD",
+    "og_title": "Exemples de Sites Web de Dermatologie | DWD",
+    "twitter_title": "Exemples de Sites Web de Dermatologie | DWD",
+    "ogDescription": "Une sélection de sites web en dermatologie conçus par nos soins : cabinets esthétiques, médicaux, pédiatriques et multi-sites, avec une croissance mesurable de la prise de rendez-vous, du SEO et de la vitesse.",
+    "og_description": "Une sélection de sites web en dermatologie conçus par nos soins : cabinets esthétiques, médicaux, pédiatriques et multi-sites, avec une croissance mesurable de la prise de rendez-vous, du SEO et de la vitesse.",
+    "twitter_description": "Une sélection de sites web en dermatologie conçus par nos soins : cabinets esthétiques, médicaux, pédiatriques et multi-sites, avec une croissance mesurable de la prise de rendez-vous, du SEO et de la vitesse.",
+    "og": {
+      "title": "Exemples de Sites Web de Dermatologie | DWD",
+      "description": "Une sélection de sites web en dermatologie conçus par nos soins : cabinets esthétiques, médicaux, pédiatriques et multi-sites, avec une croissance mesurable de la prise de rendez-vous, du SEO et de la vitesse."
+    },
+    "twitter": {
+      "title": "Exemples de Sites Web de Dermatologie | DWD",
+      "description": "Une sélection de sites web en dermatologie conçus par nos soins : cabinets esthétiques, médicaux, pédiatriques et multi-sites, avec une croissance mesurable de la prise de rendez-vous, du SEO et de la vitesse."
     }
   },
   "accessibility": {
@@ -13,7 +26,7 @@
   },
   "hero": {
     "badge": "Portfolio · Plus de 50 cabinets de dermatologie",
-    "heading": "De vrais sites de dermatologie. Une croissance réelle.",
+    "heading": "Exemples de Sites Web de Dermatologie",
     "subheading": "Chaque projet ci-dessous est celui d'un cabinet en activité : dermatologie esthétique, médicale, pédiatrique ou groupes multi-sites. Design sur-mesure, développement conforme HIPAA et un SEO qui booste vos réservations, pas seulement votre classement.",
     "cta": {
       "start": "Lancer un projet",

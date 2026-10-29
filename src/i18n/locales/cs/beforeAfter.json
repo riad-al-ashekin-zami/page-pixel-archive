@@ -1,11 +1,23 @@
 {
   "meta": {
-    "title": "Dermatologická galerie Před a Po — přehlídka prémiových výsledků",
+    "title": "Dermatologická galerie Před a Po | DWD",
     "description": "Prémiová galerie Před a Po pro dermatologické ambulance splňující normy HIPAA. Posuvník s plynulým přechodem, chytré filtry podle obtíží a lékaře, časové osy a tlačítka pro rezervaci konzultací.",
-    "ogTitle": "Dermatologická galerie Před a Po — přehlídka prémiových výsledků",
-    "ogDescription": "Interaktivní posuvník, souhlasy v souladu s HIPAA, chytré filtry a konverzní prvky pro rezervaci konzultací – vytvořeno přímo pro dermatology.",
+    "ogTitle": "Dermatologická galerie Před a Po | DWD",
+    "ogDescription": "Prémiová galerie Před a Po pro dermatologické ambulance splňující normy HIPAA. Posuvník s plynulým přechodem, chytré filtry podle obtíží a lékaře, časové osy a tlačítka pro rezervaci konzultací.",
     "jsonLdName": "DermatologyWebsiteDesign.com",
-    "jsonLdServiceType": "Design dermatologické galerie Před a Po"
+    "jsonLdServiceType": "Design dermatologické galerie Před a Po",
+    "og_title": "Dermatologická galerie Před a Po | DWD",
+    "twitter_title": "Dermatologická galerie Před a Po | DWD",
+    "og_description": "Prémiová galerie Před a Po pro dermatologické ambulance splňující normy HIPAA. Posuvník s plynulým přechodem, chytré filtry podle obtíží a lékaře, časové osy a tlačítka pro rezervaci konzultací.",
+    "twitter_description": "Prémiová galerie Před a Po pro dermatologické ambulance splňující normy HIPAA. Posuvník s plynulým přechodem, chytré filtry podle obtíží a lékaře, časové osy a tlačítka pro rezervaci konzultací.",
+    "og": {
+      "title": "Dermatologická galerie Před a Po | DWD",
+      "description": "Prémiová galerie Před a Po pro dermatologické ambulance splňující normy HIPAA. Posuvník s plynulým přechodem, chytré filtry podle obtíží a lékaře, časové osy a tlačítka pro rezervaci konzultací."
+    },
+    "twitter": {
+      "title": "Dermatologická galerie Před a Po | DWD",
+      "description": "Prémiová galerie Před a Po pro dermatologické ambulance splňující normy HIPAA. Posuvník s plynulým přechodem, chytré filtry podle obtíží a lékaře, časové osy a tlačítka pro rezervaci konzultací."
+    }
   },
   "hero": {
     "badge": "Galerie Před a Po",

@@ -1,18 +1,30 @@
 {
   "meta": {
-    "title": "Ihotautilääkäreiden verkkosivupalvelut — Suunnittelu, SEO ja kasvu",
+    "title": "Palvelumme | DWD",
     "description": "Tutustu HIPAA-yhteensopiviin ihotautilääkäreiden verkkosivupalveluihin: SEO, paikallinen markkinointi, potilasportaalit, ylläpito ja kasvun tuki nykyaikaisille klinikoille.",
-    "ogTitle": "Ihotautilääkäreiden verkkosivustopalvelut",
-    "ogDescription": "Verkkosivujen suunnittelu, SEO, maksettu mainonta, maineenhallinta, portaalit, galleriat ja jatkuva ylläpito ihotautiklinikoille.",
+    "ogTitle": "Palvelumme | DWD",
+    "ogDescription": "Tutustu HIPAA-yhteensopiviin ihotautilääkäreiden verkkosivupalveluihin: SEO, paikallinen markkinointi, potilasportaalit, ylläpito ja kasvun tuki nykyaikaisille klinikoille.",
     "schema": {
       "name": "Ihotautilääkäreiden verkkosivupalvelut",
       "serviceType": "Verkkosivujen suunnittelu, SEO ja kasvumarkkinointi ihotautiklinikoille",
       "providerName": "Dermatology Website Design"
+    },
+    "og_title": "Palvelumme | DWD",
+    "twitter_title": "Palvelumme | DWD",
+    "og_description": "Tutustu HIPAA-yhteensopiviin ihotautilääkäreiden verkkosivupalveluihin: SEO, paikallinen markkinointi, potilasportaalit, ylläpito ja kasvun tuki nykyaikaisille klinikoille.",
+    "twitter_description": "Tutustu HIPAA-yhteensopiviin ihotautilääkäreiden verkkosivupalveluihin: SEO, paikallinen markkinointi, potilasportaalit, ylläpito ja kasvun tuki nykyaikaisille klinikoille.",
+    "og": {
+      "title": "Palvelumme | DWD",
+      "description": "Tutustu HIPAA-yhteensopiviin ihotautilääkäreiden verkkosivupalveluihin: SEO, paikallinen markkinointi, potilasportaalit, ylläpito ja kasvun tuki nykyaikaisille klinikoille."
+    },
+    "twitter": {
+      "title": "Palvelumme | DWD",
+      "description": "Tutustu HIPAA-yhteensopiviin ihotautilääkäreiden verkkosivupalveluihin: SEO, paikallinen markkinointi, potilasportaalit, ylläpito ja kasvun tuki nykyaikaisille klinikoille."
     }
   },
   "hero": {
     "eyebrow": "Palvelut",
-    "title": "Ihotautilääkäreiden verkkosivut, jotka muuttavat vierailijat potilaiksi.",
+    "title": "Palvelumme",
     "description": "Valitse yksittäinen projekti tai kokonaisvaltainen kasvujärjestelmä: räätälöity verkkosivusuunnittelu, SEO, potilashankinta, integraatiot, ylläpito ja optimointi ihotautiklinikoille.",
     "ctaQuote": "Pyydä ilmainen tarjous",
     "ctaPricing": "Katso hinnoittelu",

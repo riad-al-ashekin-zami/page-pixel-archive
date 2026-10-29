@@ -1,15 +1,25 @@
 {
   "meta": {
-    "title": "Website-Management für Dermatologen — Ihr Team für mehr Wachstum",
+    "title": "Wartung und Verwaltung von Dermatologie-Websites | DWD",
     "description": "Full-Service-Website-Management für die Dermatologie: Persönlicher Account Manager, monatliche Inhalte, SEO-Governance, A/B-Tests, Conversion-Optimierung und Executive Reporting. Monatlich kündbar.",
     "og": {
-      "title": "Dermatologie Website-Management — Ihr dediziertes Wachstums-Team",
-      "description": "Ein spezialisiertes Team steuert Ihre Website jede Woche — Content, SEO, CRO, Kampagnen und Reporting. HIPAA-konform. Monatlich kündbar."
+      "title": "Wartung und Verwaltung von Dermatologie-Websites | DWD",
+      "description": "Full-Service-Website-Management für die Dermatologie: Persönlicher Account Manager, monatliche Inhalte, SEO-Governance, A/B-Tests, Conversion-Optimierung und Executive Reporting. Monatlich kündbar."
+    },
+    "ogTitle": "Wartung und Verwaltung von Dermatologie-Websites | DWD",
+    "og_title": "Wartung und Verwaltung von Dermatologie-Websites | DWD",
+    "twitter_title": "Wartung und Verwaltung von Dermatologie-Websites | DWD",
+    "ogDescription": "Full-Service-Website-Management für die Dermatologie: Persönlicher Account Manager, monatliche Inhalte, SEO-Governance, A/B-Tests, Conversion-Optimierung und Executive Reporting. Monatlich kündbar.",
+    "og_description": "Full-Service-Website-Management für die Dermatologie: Persönlicher Account Manager, monatliche Inhalte, SEO-Governance, A/B-Tests, Conversion-Optimierung und Executive Reporting. Monatlich kündbar.",
+    "twitter_description": "Full-Service-Website-Management für die Dermatologie: Persönlicher Account Manager, monatliche Inhalte, SEO-Governance, A/B-Tests, Conversion-Optimierung und Executive Reporting. Monatlich kündbar.",
+    "twitter": {
+      "title": "Wartung und Verwaltung von Dermatologie-Websites | DWD",
+      "description": "Full-Service-Website-Management für die Dermatologie: Persönlicher Account Manager, monatliche Inhalte, SEO-Governance, A/B-Tests, Conversion-Optimierung und Executive Reporting. Monatlich kündbar."
     }
   },
   "hero": {
     "badge": "Dermatologie Website-Management",
-    "headline": "Ein Wachstums-Team, das Ihre Website steuert — jede Woche.",
+    "headline": "Wartung und Verwaltung von Dermatologie-Websites",
     "subheading": "Strategie, Content, SEO, Conversion-Tests und Reporting — alles aus einer Hand. Vergessen Sie die Pflege Ihrer Website und konzentrieren Sie sich auf neue Patienten.",
     "cta_primary": "Wachstumsplan erstellen",
     "cta_secondary": "Kostenloses Audit",
@@ -454,5 +464,87 @@
     "service_type": "Dermatology Website Management Services",
     "provider_name": "DermatologyWebsiteDesign.com",
     "offer_description": "Website-Management für Dermatologen — Startpreis pro Monat"
+  },
+  "merged": {
+    "heading": "Sicheres, HIPAA-bewusstes Hosting",
+    "pillars": {
+      "badge": "Inhalt der Care-Pläne",
+      "title": "Jede Ebene Ihrer Seite – überwacht, gepatcht, optimiert.",
+      "description": "Sechs Säulen unserer monatlichen Arbeit. Keine Add-ons, keine Überraschungsrechnungen.",
+      "items": [
+        {
+          "title": "24/7 Uptime-Monitoring",
+          "desc": "Health-Checks alle 60 Sekunden aus 5 Regionen. Unsere Techniker erhalten Alarme, bevor Ihr Empfang davon erfährt."
+        },
+        {
+          "title": "HIPAA-konforme Updates",
+          "desc": "Updates für CMS, Plugins und Abhängigkeiten werden in Staging-Umgebungen geprüft und für BAA-fähiges Hosting bereitgestellt."
+        },
+        {
+          "title": "Tägliche verschlüsselte Backups",
+          "desc": "Extern, versioniert, mit One-Click-Restore. Monatlich getestet – nicht nur geplant und vergessen."
+        },
+        {
+          "title": "Malware & Schwachstellen-Scans",
+          "desc": "Wöchentliche Scans, quartalsweise Penetrationstests und sofortiges Patching aller CVEs, die Ihren Tech-Stack betreffen."
+        },
+        {
+          "title": "Core Web Vitals Watch",
+          "desc": "LCP, INP und CLS werden kontinuierlich getrackt – Performance-Probleme werden gelöst, bevor Google das Ranking abstraft."
+        },
+        {
+          "title": "On-Page SEO Health",
+          "desc": "Defekte Links, fehlende Schemas, verwaiste Seiten oder Crawling-Fehler werden monatlich erfasst und direkt behoben."
+        }
+      ]
+    },
+    "included": {
+      "badge": "Jeden Monat inklusive",
+      "title": "16 Leistungen, die wir für Sie erbringen – jeden Monat.",
+      "items": [
+        "24/7 Uptime- & SSL-Monitoring",
+        "Wöchentliche CMS- & Plugin-Updates",
+        "Tägliche verschlüsselte Off-Site-Backups",
+        "Malware-Scans & CVE-Patching",
+        "HIPAA-konforme Formular- & PHI-Audits",
+        "Core Web Vitals Monitoring",
+        "SEO-Checkups & Scan nach toten Links",
+        "Datenbank-Optimierung",
+        "CDN- & Edge-Cache-Tuning",
+        "Bug-Triage & Hotfix-Bereitstellung",
+        "Stunden für Content- & Design-Änderungen",
+        "Monatlicher Performance-Report",
+        "Proaktive Benachrichtigungen bei Vorfällen",
+        "Compliance-Änderungsprotokoll",
+        "Barrierefreiheits-Checks (WCAG AA)",
+        "Fester Ansprechpartner (Engineer)"
+      ]
+    },
+    "flow": {
+      "badge": "Der Ablauf",
+      "title": "Vom Onboarding bis zur sorgenfreien Website.",
+      "items": [
+        {
+          "step": "01",
+          "title": "Onboarding & Audit",
+          "desc": "Wir übernehmen Ihre Seite mit einem umfassenden Audit für Sicherheit, Performance, SEO und HIPAA – nichts geht ungeprüft ins System."
+        },
+        {
+          "step": "02",
+          "title": "Härtung & Baseline",
+          "desc": "Patching, Backup-Prüfung und Setup des Monitorings. Wir setzen eine Baseline für alle Kennzahlen und Rankings."
+        },
+        {
+          "step": "03",
+          "title": "Monitoring & Wartung",
+          "desc": "24/7 Überwachung, wöchentliche Updates, monatliche Reports – plus Support-Stunden für Ihr Wachstum."
+        },
+        {
+          "step": "04",
+          "title": "Reporting & Optimierung",
+          "desc": "Monatlicher Performance-Review mit Ihrem Ingenieur. Gemeinsam machen wir Ihre Seite schneller, sicherer und sichtbarer."
+        }
+      ]
+    }
   }
 }

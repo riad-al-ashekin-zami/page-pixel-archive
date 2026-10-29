@@ -1,11 +1,21 @@
 {
   "meta": {
-    "title": "Dermatology SEO Services — Rank for Skin & Cosmetic Search",
-    "description": "Medical SEO for dermatology clinics: technical audits, local SEO, Google Business optimization, board-reviewed content, and ethical link building. Built for solo, multi-location, pediatric, and Mohs practices.",
-    "og_title": "Dermatology SEO Services — Rank Where Patients Search",
-    "og_description": "Medical SEO engineered for dermatology clinics — technical, local, content, and authority handled end-to-end with transparent monthly reporting.",
-    "twitter_title": "Dermatology SEO Services",
-    "twitter_description": "Medical SEO engineered for dermatology clinics."
+    "title": "Dermatology SEO Services | DWD",
+    "description": "Dermatology SEO and local SEO for clinics: rank in Google Maps and search for the treatments patients look for.",
+    "og_title": "Dermatology SEO Services | DWD",
+    "og_description": "Dermatology SEO and local SEO for clinics: rank in Google Maps and search for the treatments patients look for.",
+    "twitter_title": "Dermatology SEO Services | DWD",
+    "twitter_description": "Dermatology SEO and local SEO for clinics: rank in Google Maps and search for the treatments patients look for.",
+    "ogTitle": "Dermatology SEO Services | DWD",
+    "ogDescription": "Dermatology SEO and local SEO for clinics: rank in Google Maps and search for the treatments patients look for.",
+    "og": {
+      "title": "Dermatology SEO Services | DWD",
+      "description": "Dermatology SEO and local SEO for clinics: rank in Google Maps and search for the treatments patients look for."
+    },
+    "twitter": {
+      "title": "Dermatology SEO Services | DWD",
+      "description": "Dermatology SEO and local SEO for clinics: rank in Google Maps and search for the treatments patients look for."
+    }
   },
   "jsonLd": {
     "serviceType": "Dermatology SEO Services",
@@ -20,8 +30,8 @@
   },
   "hero": {
     "badge": "Dermatology SEO Services",
-    "title_start": "Rank where patients",
-    "title_highlight": "actually search for skin care.",
+    "title_start": "Dermatology SEO Services",
+    "title_highlight": "",
     "description": "Medical SEO built for dermatology — technical, local, content, and authority handled end-to-end. Board-reviewed pages, ethical links, and a monthly report you can actually read.",
     "cta_audit": "Get a free SEO audit",
     "cta_stack": "Explore our SEO stack",
@@ -199,7 +209,7 @@
     ]
   },
   "faq": {
-    "heading": "Answers dermatologists ask us first.",
+    "heading": "FAQ",
     "items": [
       {
         "q": "How long before I see SEO results?",
@@ -220,10 +230,6 @@
       {
         "q": "Will you integrate with my existing website?",
         "a": "Yes. We work on WordPress, Webflow, Modernizing Medicine, Nextech, custom stacks, or any CMS you already have. If your platform is holding rankings back, we'll say so — and offer a migration plan only if the ROI is clear."
-      },
-      {
-        "q": "What's included in monthly reporting?",
-        "a": "Keyword ranking movement on your top 200 terms, organic traffic + booked-appointment attribution, Core Web Vitals, backlinks acquired, content published, Google Business insights, and next month's plan. Reviewed live on a 30-minute call."
       }
     ]
   },
@@ -242,5 +248,136 @@
     "local_seo": "neighborhood-level local SEO",
     "marketing_playbook": "our full dermatology marketing playbook",
     "practice_growth": "holistic practice growth"
+  },
+  "merged": {
+    "headings": [
+      "Local SEO for Dermatology Practices",
+      "Treatment & Service Page SEO",
+      "Technical SEO",
+      "Reviews and Google Business Profile",
+      "Reporting",
+      "FAQ"
+    ],
+    "local": {
+      "badge": "The Local SEO Stack",
+      "heading": "Eight local ranking levers. Pulled together, every month.",
+      "description": "Local rankings compound only when every signal moves in the same direction — profile, proximity, reviews, citations, content, and schema.",
+      "items": [
+        {
+          "title": "Google Business Profile Optimization",
+          "desc": "Complete GBP overhaul — categories, services, attributes, Q&A, and weekly posts calibrated for map-pack ranking signals."
+        },
+        {
+          "title": "Map Pack Ranking Strategy",
+          "desc": "Proximity, prominence, and relevance tuned across your service radius — the three signals that decide the top-3 pins."
+        },
+        {
+          "title": "Geo-targeted Location Pages",
+          "desc": "Unique, board-reviewed landing pages for every city and neighborhood you serve — no thin duplicates, no cannibalization."
+        },
+        {
+          "title": "Review Generation & Response",
+          "desc": "Automated review requests post-visit, AI-assisted responses reviewed by humans, and schema markup that surfaces stars in search."
+        },
+        {
+          "title": "NAP Citation Building",
+          "desc": "Name, address, phone consistency across 80+ medical, local, and healthcare directories — auditied and monitored monthly."
+        },
+        {
+          "title": "Local Keyword Research",
+          "desc": "\"Dermatologist near me\", condition + city, procedure + zip — mapped to the exact phrases your patients actually type."
+        },
+        {
+          "title": "HIPAA-safe Local Schema",
+          "desc": "MedicalBusiness, Physician, and LocalBusiness schema layered per location — rich results without exposing PHI."
+        },
+        {
+          "title": "Local Rank Tracking & Reporting",
+          "desc": "Daily grid-based rank tracking around each clinic address — reported monthly in plain English, not vanity dashboards."
+        }
+      ]
+    },
+    "workflow": {
+      "badge": "How it works",
+      "heading": "A 90-day local launch. Compounding pins after.",
+      "description": "Transparent milestones — you always know what's shipping this month and why.",
+      "steps": [
+        {
+          "phase": "Phase 01",
+          "title": "Local audit & competitor grid",
+          "desc": "Grid-based rank scan around your clinic, GBP audit, citation gap analysis, and top-3 competitor teardown for every target city."
+        },
+        {
+          "phase": "Phase 02",
+          "title": "GBP + citation cleanup",
+          "desc": "Full Google Business Profile rebuild, NAP corrections across directories, duplicate suppression, and category recalibration."
+        },
+        {
+          "phase": "Phase 03",
+          "title": "Location pages + local schema",
+          "desc": "Unique service-in-city landing pages, MedicalBusiness schema per location, internal linking, and review widgets."
+        },
+        {
+          "phase": "Phase 04",
+          "title": "Reviews, posts & monthly reporting",
+          "desc": "Post-visit review flows, weekly GBP posts, geo-content publishing, and grid rank + booked-visit reports every month."
+        }
+      ]
+    },
+    "reviews": {
+      "badge": "Why dermatology practices choose us",
+      "heading": "A specialty local-SEO team — not a generalist agency.",
+      "items": [
+        {
+          "title": "HIPAA-safe review flows",
+          "desc": "BAA-covered platforms, PHI-scrubbed responses, and negative-review escalation protocols reviewed by clinical staff."
+        },
+        {
+          "title": "Multi-location scale",
+          "desc": "Unique geo pages, location-specific GBP, and duplicate suppression across every clinic address you operate."
+        },
+        {
+          "title": "Grid-based rank reporting",
+          "desc": "Daily rank scans across a grid around each clinic — not a single-point vanity check that misses proximity swings."
+        },
+        {
+          "title": "Booked-visit attribution",
+          "desc": "Call tracking, direction requests, and form submissions tied to specific city + service rankings — real ROI, not impressions."
+        },
+        {
+          "title": "Real medical copywriters",
+          "desc": "In-house writers with clinical backgrounds — no AI slop, no ghosted freelancers, no thin-content location pages."
+        },
+        {
+          "title": "Reports you can read",
+          "desc": "One page, plain English, monthly. Grid rank, reviews, calls, directions, content shipped, and what's next."
+        }
+      ]
+    },
+    "medicalServices": {
+      "badge": "Medical services we localize",
+      "heading": "Every condition. Every city. Every intent.",
+      "description": "Each medical service becomes a service + city hub — E-E-A-T aligned, MedicalBusiness schema-marked, and internally linked into your local footprint.",
+      "list": [
+        "Acne Treatment",
+        "Eczema Treatment",
+        "Psoriasis Treatment",
+        "Skin Infection Treatment",
+        "Skin Allergy Treatment",
+        "Skin Cancer Screening & Treatment",
+        "Mole Evaluation & Medically Necessary Removal",
+        "Cyst & Lipoma Removal",
+        "Wart Removal",
+        "Nail Disorder Treatment",
+        "Hair Loss Diagnosis & Medical Treatment",
+        "Scalp Disorder Treatment",
+        "Rosacea Treatment",
+        "Hyperpigmentation & Melasma Treatment (medical indication)",
+        "Scar Treatment (injury, surgery, disease)",
+        "Burn Scar Treatment",
+        "Vitiligo Treatment",
+        "Skin Biopsy & Diagnostic Procedures"
+      ]
+    }
   }
 }

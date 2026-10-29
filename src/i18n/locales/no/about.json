@@ -1,15 +1,27 @@
 {
   "meta": {
-    "title": "Om oss — Spesialistbyrå for nettsider til hudleger",
+    "title": "Om DWD | DWD",
     "description": "Vi bygger HIPAA-aware nettsider og vekstmarkedsføring eksklusivt for hudlegepraksiser. Møt teamet bak resultatene.",
-    "ogTitle": "Om oss — Nettsidedesign for hudleger",
-    "ogDescription": "Et nisjebyrå som leverer førsteklasses nettsider, SEO og pasientrekruttering for hudleger.",
+    "ogTitle": "Om DWD | DWD",
+    "ogDescription": "Vi bygger HIPAA-aware nettsider og vekstmarkedsføring eksklusivt for hudlegepraksiser. Møt teamet bak resultatene.",
     "breadcrumbHome": "Hjem",
-    "breadcrumbAbout": "Om oss"
+    "breadcrumbAbout": "Om oss",
+    "og_title": "Om DWD | DWD",
+    "twitter_title": "Om DWD | DWD",
+    "og_description": "Vi bygger HIPAA-aware nettsider og vekstmarkedsføring eksklusivt for hudlegepraksiser. Møt teamet bak resultatene.",
+    "twitter_description": "Vi bygger HIPAA-aware nettsider og vekstmarkedsføring eksklusivt for hudlegepraksiser. Møt teamet bak resultatene.",
+    "og": {
+      "title": "Om DWD | DWD",
+      "description": "Vi bygger HIPAA-aware nettsider og vekstmarkedsføring eksklusivt for hudlegepraksiser. Møt teamet bak resultatene."
+    },
+    "twitter": {
+      "title": "Om DWD | DWD",
+      "description": "Vi bygger HIPAA-aware nettsider og vekstmarkedsføring eksklusivt for hudlegepraksiser. Møt teamet bak resultatene."
+    }
   },
   "hero": {
     "kicker": "Om Dermatology Website Design",
-    "h1": "Spesialistene bak <1>nettsider kun for hudleger.</1>",
+    "h1": "Om DWD",
     "p": "Vi bygger Experience, Expertise, Authority, and Trust (E-E-A-T) inn i hver nettside – Googles viktigste signal for helsesektoren (YMYL). Vi er ikke et generalistbyrå. Vi er spesialisten.",
     "ctaPrimary": "Jobb med oss",
     "ctaSecondary": "Se tjenester",

@@ -1,15 +1,14 @@
 {
   "meta": {
-    "title": "Blog — Strategie a marketingové tipy pro růst dermatologických praxí",
+    "title": "Blog | DWD",
     "description": "Praktické návody na SEO pro dermatologii, web design, akvizici pacientů, HIPAA, recenze a placenou reklamu – psáno pro majitele praxí zaměřené na růst.",
-    "keywords": "dermatologický blog, SEO pro dermatologii, marketing v dermatologii, růst praxe, HIPAA weby",
     "og": {
-      "title": "Blog o marketingu v dermatologii — Strategie, které rozvíjejí vaši praxi",
-      "description": "Hloubkové analýzy a rychlé tipy pro dermatologické kliniky. SEO, design, kampaně, reputace a zákaznická zkušenost pacientů."
+      "title": "Blog | DWD",
+      "description": "Praktické návody na SEO pro dermatologii, web design, akvizici pacientů, HIPAA, recenze a placenou reklamu – psáno pro majitele praxí zaměřené na růst."
     },
     "twitter": {
-      "title": "Dermatology Marketing Blog",
-      "description": "Návody pro SEO, design, reklamy a spokojenost pacientů v dermatologických praxích."
+      "title": "Blog | DWD",
+      "description": "Praktické návody na SEO pro dermatologii, web design, akvizici pacientů, HIPAA, recenze a placenou reklamu – psáno pro majitele praxí zaměřené na růst."
     },
     "jsonLd": {
       "breadcrumb": {
@@ -20,11 +19,17 @@
         "name": "Dermatology Marketing Blog",
         "description": "Strategie a postřehy pro SEO v dermatologii, webový design, reklamy, budování reputace a nábor pacientů."
       }
-    }
+    },
+    "ogTitle": "Blog | DWD",
+    "og_title": "Blog | DWD",
+    "twitter_title": "Blog | DWD",
+    "ogDescription": "Praktické návody na SEO pro dermatologii, web design, akvizici pacientů, HIPAA, recenze a placenou reklamu – psáno pro majitele praxí zaměřené na růst.",
+    "og_description": "Praktické návody na SEO pro dermatologii, web design, akvizici pacientů, HIPAA, recenze a placenou reklamu – psáno pro majitele praxí zaměřené na růst.",
+    "twitter_description": "Praktické návody na SEO pro dermatologii, web design, akvizici pacientů, HIPAA, recenze a placenou reklamu – psáno pro majitele praxí zaměřené na růst."
   },
   "hero": {
     "badge": "The DermGrowth Journal",
-    "title": "Strategie pro moderní dermatologickou praxi.",
+    "title": "Blog",
     "description": "Prověřené postupy pro SEO, design webu, placené kampaně, reputaci a zkušenost pacienta – přímo od týmu, který stál u zrodu stovek úspěšných praxí.",
     "search": {
       "label": "Hledat články",

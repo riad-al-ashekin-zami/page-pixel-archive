@@ -1,11 +1,24 @@
 {
   "meta": {
-    "title": "Portfolio för dermatologhemsidor — verkliga exempel på redesigns",
+    "title": "Exempel på hudklinikers webbplatser | DWD",
     "description": "En noga utvald samling av dermatologhemsidor vi har designat och byggt — specialiserade inom estetisk, medicinsk och pediatrisk dermatologi, samt för kliniker på flera orter med mätbar tillväxt i bokningar, SEO och laddningstider.",
-    "keywords": "portfolio dermatologhemsidor, webbdesign för dermatologer, fallinstudier dermatologi, hemsidor för hudläkarmottagningar",
     "breadcrumb": {
       "home": "Hem",
       "portfolio": "Portfolio"
+    },
+    "ogTitle": "Exempel på hudklinikers webbplatser | DWD",
+    "og_title": "Exempel på hudklinikers webbplatser | DWD",
+    "twitter_title": "Exempel på hudklinikers webbplatser | DWD",
+    "ogDescription": "En noga utvald samling av dermatologhemsidor vi har designat och byggt — specialiserade inom estetisk, medicinsk och pediatrisk dermatologi, samt för kliniker på flera orter med mätbar tillväxt i bokningar, SEO och laddningstider.",
+    "og_description": "En noga utvald samling av dermatologhemsidor vi har designat och byggt — specialiserade inom estetisk, medicinsk och pediatrisk dermatologi, samt för kliniker på flera orter med mätbar tillväxt i bokningar, SEO och laddningstider.",
+    "twitter_description": "En noga utvald samling av dermatologhemsidor vi har designat och byggt — specialiserade inom estetisk, medicinsk och pediatrisk dermatologi, samt för kliniker på flera orter med mätbar tillväxt i bokningar, SEO och laddningstider.",
+    "og": {
+      "title": "Exempel på hudklinikers webbplatser | DWD",
+      "description": "En noga utvald samling av dermatologhemsidor vi har designat och byggt — specialiserade inom estetisk, medicinsk och pediatrisk dermatologi, samt för kliniker på flera orter med mätbar tillväxt i bokningar, SEO och laddningstider."
+    },
+    "twitter": {
+      "title": "Exempel på hudklinikers webbplatser | DWD",
+      "description": "En noga utvald samling av dermatologhemsidor vi har designat och byggt — specialiserade inom estetisk, medicinsk och pediatrisk dermatologi, samt för kliniker på flera orter med mätbar tillväxt i bokningar, SEO och laddningstider."
     }
   },
   "accessibility": {
@@ -13,7 +26,7 @@
   },
   "hero": {
     "badge": "Portfolio · Över 50 hudvårdskliniker",
-    "heading": "Hemsidor för dermatologi som levererar verklig tillväxt.",
+    "heading": "Exempel på hudklinikers webbplatser",
     "subheading": "Varje projekt nedan är en aktiv verksamhet — från estetisk och medicinsk till barn- och flerortskliniker. Skräddarsydd design, HIPAA-medvetna lösningar och SEO som ökar bokningarna, inte bara rankningen.",
     "cta": {
       "start": "Starta projekt",

@@ -1,11 +1,21 @@
 {
   "meta": {
-    "title": "Pozycjonowanie SEO dla Dermatologii — Zdobądź widoczność w wyszukiwarce",
-    "description": "Medyczne SEO dla gabinetów dermatologicznych: audyty techniczne, SEO lokalne, optymalizacja Wizytówki Google, treści recenzowane medycznie i etyczny link building. Rozwiązania dla praktyk jedno- i wielooddziałowych oraz chirurgii Mohsa.",
-    "og_title": "Usługi SEO dla Dermatologii — Bądź tam, gdzie szukają pacjenci",
-    "og_description": "Kompleksowe SEO medyczne dla dermatologii — technologia, lokalizacja, treści i autorytet domeny z przejrzystym raportowaniem miesięcznym.",
-    "twitter_title": "SEO dla Dermatologii — Usługi Pozycjonowania",
-    "twitter_description": "Medyczne strategie SEO zaprojektowane dla klinik dermatologicznych."
+    "title": "Usługi SEO dla dermatologów | DWD",
+    "description": "SEO i lokalne SEO dla klinik dermatologicznych: widoczność w Mapach Google i wynikach wyszukiwania zabiegów.",
+    "og_title": "Usługi SEO dla dermatologów | DWD",
+    "og_description": "SEO i lokalne SEO dla klinik dermatologicznych: widoczność w Mapach Google i wynikach wyszukiwania zabiegów.",
+    "twitter_title": "Usługi SEO dla dermatologów | DWD",
+    "twitter_description": "SEO i lokalne SEO dla klinik dermatologicznych: widoczność w Mapach Google i wynikach wyszukiwania zabiegów.",
+    "ogTitle": "Usługi SEO dla dermatologów | DWD",
+    "ogDescription": "SEO i lokalne SEO dla klinik dermatologicznych: widoczność w Mapach Google i wynikach wyszukiwania zabiegów.",
+    "og": {
+      "title": "Usługi SEO dla dermatologów | DWD",
+      "description": "SEO i lokalne SEO dla klinik dermatologicznych: widoczność w Mapach Google i wynikach wyszukiwania zabiegów."
+    },
+    "twitter": {
+      "title": "Usługi SEO dla dermatologów | DWD",
+      "description": "SEO i lokalne SEO dla klinik dermatologicznych: widoczność w Mapach Google i wynikach wyszukiwania zabiegów."
+    }
   },
   "jsonLd": {
     "serviceType": "Dermatology SEO Services",
@@ -20,8 +30,8 @@
   },
   "hero": {
     "badge": "Usługi SEO dla Dermatologii",
-    "title_start": "Buduj widoczność tam, gdzie pacjenci",
-    "title_highlight": "szukają pomocy dermatologicznej.",
+    "title_start": "Usługi SEO dla dermatologów",
+    "title_highlight": "",
     "description": "SEO medyczne stworzone dla dermatologii — technologia, lokalizacja i autorytet od A do Z. Treści recenzowane przez lekarzy, etyczne linki i miesięczne raporty, które w końcu zrozumiesz.",
     "cta_audit": "Odbierz darmowy audyt SEO",
     "cta_stack": "Poznaj nasze technologie",
@@ -199,7 +209,7 @@
     ]
   },
   "faq": {
-    "heading": "O co najczęściej pytają dermatolodzy.",
+    "heading": "Najczęściej zadawane pytania",
     "items": [
       {
         "q": "Jak szybko zobaczę efekty SEO?",
@@ -220,10 +230,6 @@
       {
         "q": "Czy zintegrujecie się z moją obecną stroną?",
         "a": "Tak. Pracujemy na WordPress, Webflow, Modernizing Medicine i innych systemach. Jeśli Twój CMS ogranicza SEO, poinformujemy Cię o tym i zaproponujemy realne rozwiązanie."
-      },
-      {
-        "q": "Co zawiera miesięczny raport?",
-        "a": "Ruchy fraz kluczowych, ruch organiczny, atrybucję wizyt, Core Web Vitals oraz podsumowanie opublikowanych treści. Wszystko omawiamy na krótkim spotkaniu online."
       }
     ]
   },
@@ -243,5 +249,136 @@
     "local_seo": "lokalne SEO na poziomie dzielnicy",
     "marketing_playbook": "nasz kompletny poradnik marketingu medycznego",
     "practice_growth": "holistyczny rozwój kliniki"
+  },
+  "merged": {
+    "headings": [
+      "Lokalne SEO dla klinik dermatologicznych",
+      "SEO stron zabiegów i usług",
+      "Techniczne SEO",
+      "Opinie i Profil Firmy w Google",
+      "Raportowanie",
+      "Najczęściej zadawane pytania"
+    ],
+    "local": {
+      "badge": "Nasz warsztat lokalnego SEO",
+      "heading": "Osiem dźwigni rankingowych. Uruchamianych co miesiąc.",
+      "description": "Rankingi lokalne rosną tylko wtedy, gdy wszystkie sygnały — profil, lokalizacja, opinie, cytowania, treść i schema — działają w tym samym kierunku.",
+      "items": [
+        {
+          "title": "Optymalizacja Google Business Profile",
+          "desc": "Pełna przebudowa GBP — kategorie, usługi, atrybuty, Q&A oraz cotygodniowe wpisy dostosowane pod sygnały rankingowe map."
+        },
+        {
+          "title": "Strategia rankingu Map Pack",
+          "desc": "Dostrojenie bliskości, widoczności i relewantności w całym promieniu Twoich usług — trzy filary decydujące o pierwszej trójce."
+        },
+        {
+          "title": "Strony lokalizacji (Geo-targeted)",
+          "desc": "Unikalne, merytoryczne landing page dla każdego miasta i dzielnicy — bez duplikatów i wzajemnej kanibalizacji słów kluczowych."
+        },
+        {
+          "title": "Pozyskiwanie i obsługa opinii",
+          "desc": "Automatyczne prośby o opinię po wizycie, odpowiedzi wspierane przez AI z ludzką korektą i wdrożenie schema wyświetlającej gwiazdki w Google."
+        },
+        {
+          "title": "Budowa cytowań NAP",
+          "desc": "Spójność nazwy, adresu i telefonu w ponad 80 katalogach medycznych i lokalnych — audytowana i monitorowana co miesiąc."
+        },
+        {
+          "title": "Lokalny dobór słów kluczowych",
+          "desc": "„Dermatolog blisko mnie”, choroba + miasto, zabieg + kod pocztowy — precyzyjnie dopasowane do tego, co wpisują pacjenci."
+        },
+        {
+          "title": "Lokalna Schema zgodna z HIPAA",
+          "desc": "Struktury MedicalBusiness, Physician i LocalBusiness dla każdej lokalizacji — bogate wyniki (rich results) bez narażania danych pacjentów."
+        },
+        {
+          "title": "Monitoring pozycji i raportowanie",
+          "desc": "Codzienne śledzenie pozycji w siatce wokół każdego gabinetu — raporty miesięczne pisane prostym językiem, bez zbędnych wykresów."
+        }
+      ]
+    },
+    "workflow": {
+      "badge": "Jak to działa",
+      "heading": "90-dniowy start lokalny. Później stały wzrost.",
+      "description": "Przejrzyste etapy — zawsze wiesz, co robimy w danym miesiącu i dlaczego.",
+      "steps": [
+        {
+          "phase": "Faza 01",
+          "title": "Audyt lokalny i analiza otoczenia",
+          "desc": "Skan pozycji w siatce wokół kliniki, audyt GBP, analiza brakujących cytowań i rozpracowanie 3 największych konkurentów."
+        },
+        {
+          "phase": "Faza 02",
+          "title": "Porządki w GBP i cytowaniach",
+          "desc": "Pełna przebudowa profilu Google, korekta spójności NAP w katalogach, usunięcie duplikatów i rekalibracja kategorii."
+        },
+        {
+          "phase": "Faza 03",
+          "title": "Strony lokalizacji i lokalna Schema",
+          "desc": "Unikalne podstrony typu „usługa w mieście”, wdrożenie schema MedicalBusiness dla każdej placówki, linkowanie i widgety opinii."
+        },
+        {
+          "phase": "Faza 04",
+          "title": "Opinie, posty i raportowanie",
+          "desc": "Automatyzacja opinii po wizytach, cotygodniowe wpisy GBP, publikacja treści geo oraz raporty z rezerwacji wizyt co miesiąc."
+        }
+      ]
+    },
+    "reviews": {
+      "badge": "Dlaczego dermatolodzy wybierają nas",
+      "heading": "Specjalistyczny zespół SEO dla medycyny — nie agencja od wszystkiego.",
+      "items": [
+        {
+          "title": "Opinie zgodne z HIPAA",
+          "desc": "Platformy objęte umowami BAA, odpowiedzi oczyszczone z danych wrażliwych i procedury eskalacji negatywnych opinii."
+        },
+        {
+          "title": "Skalowanie wielooddziałowe",
+          "desc": "Osobne strony geo i specyficzne profile GBP dla każdego adresu pod którym przyjmujesz."
+        },
+        {
+          "title": "Raportowanie pozycji w siatce (Grid)",
+          "desc": "Codzienne skany pozycji w całej okolicy kliniki, a nie tylko z jednego punktu, co dawałoby fałszywy obraz sukcesu."
+        },
+        {
+          "title": "Atrybucja umówionych wizyt",
+          "desc": "Śledzenie połączeń i zapytań powiązane z konkretnymi frazami lokalnymi — liczysz realny ROI, nie tylko wyświetlenia."
+        },
+        {
+          "title": "Medyczni copywriterzy",
+          "desc": "Własny zespół autorów z wykształceniem medycznym — żadnych tekstów z AI, żadnych przypadkowych freelancerów."
+        },
+        {
+          "title": "Raporty, które zrozumiesz",
+          "desc": "Jedna strona, konkretny język. Pozycje, opinie, telefony, wykonane prace i plan na kolejny miesiąc."
+        }
+      ]
+    },
+    "medicalServices": {
+      "badge": "Usługi, które lokalizujemy",
+      "heading": "Każde schorzenie. Każde miasto. Każda intencja.",
+      "description": "Każda usługa medyczna staje się lokalnym centrum wiedzy — zgodnym z E-E-A-T, oznaczonym schema MedicalBusiness i zintegrowanym z mapami.",
+      "list": [
+        "Leczenie trądziku",
+        "Leczenie egzemy",
+        "Leczenie łuszczycy",
+        "Leczenie infekcji skóry",
+        "Leczenie alergii skórnych",
+        "Badania przesiewowe i leczenie raka skóry",
+        "Ocena i medyczne usuwanie znamion",
+        "Usuwanie cyst i tłuszczaków",
+        "Usuwanie brodawek",
+        "Leczenie chorób paznokci",
+        "Diagnostyka i leczenie wypadania włosów",
+        "Leczenie schorzeń skóry głowy",
+        "Leczenie trądziku różowatego",
+        "Leczenie przebarwień i melasmy (wskazania medyczne)",
+        "Leczenie blizn (urazowych, pooperacyjnych, chorobowych)",
+        "Leczenie blizn pooparzeniowych",
+        "Leczenie bielactwa",
+        "Biopsja skóry i procedury diagnostyczne"
+      ]
+    }
   }
 }

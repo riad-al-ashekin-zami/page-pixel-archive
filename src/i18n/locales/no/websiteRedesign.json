@@ -1,21 +1,33 @@
 {
   "meta": {
-    "title": "Nettsideredesign for hudleger – Modernisering uten SEO-tap",
+    "title": "Redesign av hudklinikkenes nettsider | DWD",
     "description": "Premium redesign av nettsider for hudleger, klinikkjedere og spesialister innen Mohs-kirurgi. Moderne, rask, HIPAA-klar – med null SEO-tap ved lansering.",
-    "og_title": "Redesign av hudlegenettsted – bevar din SEO",
-    "og_description": "Forvandle din utdaterte nettside til en rask, konverteringsfokusert og HIPAA-sikker opplevelse. 301-omdirigeringer og SEO-posisjoner ivaretas.",
+    "og_title": "Redesign av hudklinikkenes nettsider | DWD",
+    "og_description": "Premium redesign av nettsider for hudleger, klinikkjedere og spesialister innen Mohs-kirurgi. Moderne, rask, HIPAA-klar – med null SEO-tap ved lansering.",
     "jsonLd": {
       "serviceType": "Dermatology Website Redesign",
       "providerName": "DW Design",
       "offerDescription": "Redesign av nettsider for hudleger – startpris"
+    },
+    "ogTitle": "Redesign av hudklinikkenes nettsider | DWD",
+    "twitter_title": "Redesign av hudklinikkenes nettsider | DWD",
+    "ogDescription": "Premium redesign av nettsider for hudleger, klinikkjedere og spesialister innen Mohs-kirurgi. Moderne, rask, HIPAA-klar – med null SEO-tap ved lansering.",
+    "twitter_description": "Premium redesign av nettsider for hudleger, klinikkjedere og spesialister innen Mohs-kirurgi. Moderne, rask, HIPAA-klar – med null SEO-tap ved lansering.",
+    "og": {
+      "title": "Redesign av hudklinikkenes nettsider | DWD",
+      "description": "Premium redesign av nettsider for hudleger, klinikkjedere og spesialister innen Mohs-kirurgi. Moderne, rask, HIPAA-klar – med null SEO-tap ved lansering."
+    },
+    "twitter": {
+      "title": "Redesign av hudklinikkenes nettsider | DWD",
+      "description": "Premium redesign av nettsider for hudleger, klinikkjedere og spesialister innen Mohs-kirurgi. Moderne, rask, HIPAA-klar – med null SEO-tap ved lansering."
     }
   },
   "hero": {
     "scarcityBadge": "Kun 3 ledige plasser for redesign dette kvartalet",
     "category": "Nettsideredesign for hudleger",
     "h1": {
-      "main": "Moderniser klinikkens nettside. ",
-      "highlight": "Uten å miste din SEO."
+      "main": "Redesign av hudklinikkenes nettsider",
+      "highlight": ""
     },
     "description": "Et trygt, ekspertstyrt redesign for hudlegepraksiser – raskere, tryggere og mer estetisk. 301-omdirigeringer, HIPAA-sikre skjemaer og søkerangeringer bevares.",
     "cta": {

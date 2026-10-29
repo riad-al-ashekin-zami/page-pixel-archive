@@ -1,15 +1,14 @@
 {
   "meta": {
-    "title": "Blog — Dermatology Marketing Insights & Growth Playbooks",
-    "description": "Practical playbooks on dermatology SEO, website design, patient acquisition, HIPAA, reviews, and paid ads — written for growth-minded practice owners.",
-    "keywords": "dermatology blog, dermatology SEO, dermatology marketing, practice growth, HIPAA websites",
+    "title": "Dermatology Marketing Blog | DWD",
+    "description": "Articles on patient experience, practice operations, privacy and digital channels for clinic owners.",
     "og": {
-      "title": "Dermatology Marketing Blog — Playbooks that Grow Practices",
-      "description": "Deep-dive articles and quick-read tactics for dermatology practices. SEO, design, ads, reputation, and patient experience."
+      "title": "Dermatology Marketing Blog | DWD",
+      "description": "Articles on patient experience, practice operations, privacy and digital channels for clinic owners."
     },
     "twitter": {
-      "title": "Dermatology Marketing Blog",
-      "description": "SEO, design, ads, and patient experience playbooks for dermatology practices."
+      "title": "Dermatology Marketing Blog | DWD",
+      "description": "Articles on patient experience, practice operations, privacy and digital channels for clinic owners."
     },
     "jsonLd": {
       "breadcrumb": {
@@ -20,11 +19,17 @@
         "name": "Dermatology Marketing Blog",
         "description": "Playbooks and insights on dermatology SEO, website design, ads, reputation, and patient acquisition."
       }
-    }
+    },
+    "ogTitle": "Dermatology Marketing Blog | DWD",
+    "og_title": "Dermatology Marketing Blog | DWD",
+    "twitter_title": "Dermatology Marketing Blog | DWD",
+    "ogDescription": "Articles on patient experience, practice operations, privacy and digital channels for clinic owners.",
+    "og_description": "Articles on patient experience, practice operations, privacy and digital channels for clinic owners.",
+    "twitter_description": "Articles on patient experience, practice operations, privacy and digital channels for clinic owners."
   },
   "hero": {
     "badge": "The DermGrowth Journal",
-    "title": "Playbooks for the modern dermatology practice.",
+    "title": "Blog",
     "description": "Field-tested tactics on SEO, website design, paid ads, reputation, and patient experience — written by the team behind hundreds of practice launches.",
     "search": {
       "label": "Search articles",

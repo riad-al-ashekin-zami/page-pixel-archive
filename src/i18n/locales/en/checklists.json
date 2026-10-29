@@ -1,8 +1,21 @@
 {
   "meta": {
-    "title": "Dermatology Website Checklists — Launch, SEO, HIPAA & Conversion",
+    "title": "Dermatology Website Checklists | DWD",
     "description": "Free, expert-built dermatology website checklists covering pre-launch QA, on-page SEO, HIPAA compliance, accessibility, Core Web Vitals, and conversion — printable, trackable, and dermatology-specific.",
-    "keywords": "dermatology website checklist, dermatology SEO checklist, HIPAA website checklist, dermatology website launch checklist, medical website accessibility checklist"
+    "ogTitle": "Dermatology Website Checklists | DWD",
+    "og_title": "Dermatology Website Checklists | DWD",
+    "twitter_title": "Dermatology Website Checklists | DWD",
+    "ogDescription": "Free, expert-built dermatology website checklists covering pre-launch QA, on-page SEO, HIPAA compliance, accessibility, Core Web Vitals, and conversion — printable, trackable, and dermatology-specific.",
+    "og_description": "Free, expert-built dermatology website checklists covering pre-launch QA, on-page SEO, HIPAA compliance, accessibility, Core Web Vitals, and conversion — printable, trackable, and dermatology-specific.",
+    "twitter_description": "Free, expert-built dermatology website checklists covering pre-launch QA, on-page SEO, HIPAA compliance, accessibility, Core Web Vitals, and conversion — printable, trackable, and dermatology-specific.",
+    "og": {
+      "title": "Dermatology Website Checklists | DWD",
+      "description": "Free, expert-built dermatology website checklists covering pre-launch QA, on-page SEO, HIPAA compliance, accessibility, Core Web Vitals, and conversion — printable, trackable, and dermatology-specific."
+    },
+    "twitter": {
+      "title": "Dermatology Website Checklists | DWD",
+      "description": "Free, expert-built dermatology website checklists covering pre-launch QA, on-page SEO, HIPAA compliance, accessibility, Core Web Vitals, and conversion — printable, trackable, and dermatology-specific."
+    }
   },
   "schema": {
     "breadcrumb": {

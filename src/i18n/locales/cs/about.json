@@ -1,15 +1,27 @@
 {
   "meta": {
-    "title": "O nás — Agentura pro tvorbu webů pro dermatologii",
+    "title": "O DWD | DWD",
     "description": "Tvoříme HIPAA-aware weby a zajišťujeme růstový marketing výhradně pro dermatologické praxe. Poznejte tým, který stojí za výsledky.",
-    "ogTitle": "O nás — Design webů pro dermatologii",
-    "ogDescription": "Specializovaná agentura poskytující dermatologickým ordinacím prémiové weby, SEO a akvizici nových pacientů.",
+    "ogTitle": "O DWD | DWD",
+    "ogDescription": "Tvoříme HIPAA-aware weby a zajišťujeme růstový marketing výhradně pro dermatologické praxe. Poznejte tým, který stojí za výsledky.",
     "breadcrumbHome": "Domů",
-    "breadcrumbAbout": "O nás"
+    "breadcrumbAbout": "O nás",
+    "og_title": "O DWD | DWD",
+    "twitter_title": "O DWD | DWD",
+    "og_description": "Tvoříme HIPAA-aware weby a zajišťujeme růstový marketing výhradně pro dermatologické praxe. Poznejte tým, který stojí za výsledky.",
+    "twitter_description": "Tvoříme HIPAA-aware weby a zajišťujeme růstový marketing výhradně pro dermatologické praxe. Poznejte tým, který stojí za výsledky.",
+    "og": {
+      "title": "O DWD | DWD",
+      "description": "Tvoříme HIPAA-aware weby a zajišťujeme růstový marketing výhradně pro dermatologické praxe. Poznejte tým, který stojí za výsledky."
+    },
+    "twitter": {
+      "title": "O DWD | DWD",
+      "description": "Tvoříme HIPAA-aware weby a zajišťujeme růstový marketing výhradně pro dermatologické praxe. Poznejte tým, který stojí za výsledky."
+    }
   },
   "hero": {
     "kicker": "O Dermatology Website Design",
-    "h1": "Specialisté stojící za <1>weby výhradně pro dermatology.</1>",
+    "h1": "O DWD",
     "p": "Do každého webu vkládáme principy E-E-A-T (zkušenost, odbornost, autoritu a důvěryhodnost) – klíčové signály Google pro zdravotnický segment (YMYL). Nejsme univerzální agentura. Jsme specialisté.",
     "ctaPrimary": "Spolupracujte s námi",
     "ctaSecondary": "Zobrazit služby",

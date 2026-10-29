@@ -1,16 +1,29 @@
 {
   "meta": {
-    "title": "FAQ — Projektowanie stron dla dermatologii, SEO i pytania o HIPAA",
+    "title": "FAQ | DWD",
     "description": "Konkretne odpowiedzi na temat cen stron dla dermatologów, terminów, SEO, HIPAA, redesignu, migracji i wsparcia dla rozwijających się praktyk.",
-    "keywords": "dermatologia FAQ strony internetowe, dermatologia SEO FAQ, pytania o HIPAA, koszt strony dla dermatologa, czas budowy strony dermatologicznej",
     "breadcrumbList": {
       "home": "Strona główna",
       "faq": "FAQ"
+    },
+    "ogTitle": "FAQ | DWD",
+    "og_title": "FAQ | DWD",
+    "twitter_title": "FAQ | DWD",
+    "ogDescription": "Konkretne odpowiedzi na temat cen stron dla dermatologów, terminów, SEO, HIPAA, redesignu, migracji i wsparcia dla rozwijających się praktyk.",
+    "og_description": "Konkretne odpowiedzi na temat cen stron dla dermatologów, terminów, SEO, HIPAA, redesignu, migracji i wsparcia dla rozwijających się praktyk.",
+    "twitter_description": "Konkretne odpowiedzi na temat cen stron dla dermatologów, terminów, SEO, HIPAA, redesignu, migracji i wsparcia dla rozwijających się praktyk.",
+    "og": {
+      "title": "FAQ | DWD",
+      "description": "Konkretne odpowiedzi na temat cen stron dla dermatologów, terminów, SEO, HIPAA, redesignu, migracji i wsparcia dla rozwijających się praktyk."
+    },
+    "twitter": {
+      "title": "FAQ | DWD",
+      "description": "Konkretne odpowiedzi na temat cen stron dla dermatologów, terminów, SEO, HIPAA, redesignu, migracji i wsparcia dla rozwijających się praktyk."
     }
   },
   "hero": {
     "badge": "{{totalCount}} odpowiedzi · Specjalizacja: Dermatologia",
-    "heading": "Wszystkie odpowiedzi, których potrzebuje Twoja praktyka.",
+    "heading": "Najczęściej zadawane pytania",
     "subheading": "Ceny, terminy, SEO, HIPAA, redesign, migracje i integracje. Konkretnie, merytorycznie i prosto od zespołu, który zajmie się realizacją.",
     "search": {
       "label": "Przeszukaj FAQ",

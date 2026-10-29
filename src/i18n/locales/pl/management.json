@@ -1,15 +1,25 @@
 {
   "meta": {
-    "title": "Zarządzanie stronami dermatologicznymi — zespół zorientowany na wzrost",
+    "title": "Utrzymanie i zarządzanie stronami dermatologicznymi | DWD",
     "description": "Kompleksowe zarządzanie serwisami dermatologicznymi: dedykowany opiekun klienta, miesięczne plany treści, strategia SEO, testy A/B, optymalizacja konwersji i profesjonalne raportowanie. Bez długoterminowych zobowiązań.",
     "og": {
-      "title": "Zarządzanie stronami dermatologicznymi — Twój zespół ds. wzrostu",
-      "description": "Dedykowany zespół buduje Twój sukces w każdym tygodniu — content, SEO, CRO, kampanie i raportowanie. Zgodność z HIPAA. Rozliczenie miesięczne."
+      "title": "Utrzymanie i zarządzanie stronami dermatologicznymi | DWD",
+      "description": "Kompleksowe zarządzanie serwisami dermatologicznymi: dedykowany opiekun klienta, miesięczne plany treści, strategia SEO, testy A/B, optymalizacja konwersji i profesjonalne raportowanie. Bez długoterminowych zobowiązań."
+    },
+    "ogTitle": "Utrzymanie i zarządzanie stronami dermatologicznymi | DWD",
+    "og_title": "Utrzymanie i zarządzanie stronami dermatologicznymi | DWD",
+    "twitter_title": "Utrzymanie i zarządzanie stronami dermatologicznymi | DWD",
+    "ogDescription": "Kompleksowe zarządzanie serwisami dermatologicznymi: dedykowany opiekun klienta, miesięczne plany treści, strategia SEO, testy A/B, optymalizacja konwersji i profesjonalne raportowanie. Bez długoterminowych zobowiązań.",
+    "og_description": "Kompleksowe zarządzanie serwisami dermatologicznymi: dedykowany opiekun klienta, miesięczne plany treści, strategia SEO, testy A/B, optymalizacja konwersji i profesjonalne raportowanie. Bez długoterminowych zobowiązań.",
+    "twitter_description": "Kompleksowe zarządzanie serwisami dermatologicznymi: dedykowany opiekun klienta, miesięczne plany treści, strategia SEO, testy A/B, optymalizacja konwersji i profesjonalne raportowanie. Bez długoterminowych zobowiązań.",
+    "twitter": {
+      "title": "Utrzymanie i zarządzanie stronami dermatologicznymi | DWD",
+      "description": "Kompleksowe zarządzanie serwisami dermatologicznymi: dedykowany opiekun klienta, miesięczne plany treści, strategia SEO, testy A/B, optymalizacja konwersji i profesjonalne raportowanie. Bez długoterminowych zobowiązań."
     }
   },
   "hero": {
     "badge": "Zarządzanie stronami dermatologicznymi",
-    "headline": "Zespół ds. wzrostu, który rozwija Twoją praktykę — co tydzień.",
+    "headline": "Utrzymanie i zarządzanie stronami dermatologicznymi",
     "subheading": "Strategia, content, SEO, testy konwersji i raporty — wszystko w rękach dedykowanej grupy specjalistów. Ty przestajesz martwić się o stronę, a ona zaczyna pozyskiwać nowych pacjentów.",
     "cta_primary": "Odbierz plan wzrostu",
     "cta_secondary": "Darmowy audyt na start",
@@ -454,5 +464,87 @@
     "service_type": "Zarządzanie Stronami Dermatologicznymi",
     "provider_name": "DermatologyWebsiteDesign.com",
     "offer_description": "Usługi zarządzania dla dermatologii — cena startowa za miesiąc"
+  },
+  "merged": {
+    "heading": "Bezpieczny hosting uwzględniający HIPAA",
+    "pillars": {
+      "badge": "Co zawiera plan opieki",
+      "title": "Każda warstwa Twojej strony — pod opieką, zaktualizowana i zoptymalizowana.",
+      "description": "Sześć filarów miesięcznej pracy. Bez ukrytych kosztów i niespodziewanych faktur.",
+      "items": [
+        {
+          "title": "Monitorowanie dostępności 24/7",
+          "desc": "Testy co 60 sekund z 5 regionów. Nasz zespół otrzymuje alerty, zanim Twoja recepcja dowie się o problemie."
+        },
+        {
+          "title": "Aktualizacje zgodne z HIPAA",
+          "desc": "Aktualizacje CMS, wtyczek i zależności są testowane i wdrażane w środowiskach hostingowych gotowych na BAA."
+        },
+        {
+          "title": "Codzienne szyfrowane backupy",
+          "desc": "Zewnętrzne kopie z wersjonowaniem i przywracaniem jednym kliknięciem. Testowane co miesiąc, nie tylko planowane."
+        },
+        {
+          "title": "Skanowanie pod kątem malware i luk",
+          "desc": "Cotygodniowe skany, kwartalne testy penetracyjne i natychmiastowe łatanie wszelkich podatności CVE."
+        },
+        {
+          "title": "Nadzór Core Web Vitals",
+          "desc": "Ciągłe śledzenie LCP, INP i CLS — naprawiamy błędy, zanim Google obniży Twój ranking."
+        },
+        {
+          "title": "Kondycja SEO On-Page",
+          "desc": "Niedziałające linki, brakujące schematy, osierocone strony i błędy indeksowania naprawiane co miesiąc w ramach planu."
+        }
+      ]
+    },
+    "included": {
+      "badge": "W pakiecie co miesiąc",
+      "title": "16 zadań, które wykonujemy dla Ciebie — każdego miesiąca.",
+      "items": [
+        "Monitorowanie dostępności i SSL 24/7",
+        "Cotygodniowe aktualizacje CMS i wtyczek",
+        "Codzienne szyfrowane backupy zewnętrzne",
+        "Skanowanie pod kątem malware i łatanie CVE",
+        "Audyty formularzy pod kątem HIPAA i PHI",
+        "Monitorowanie Core Web Vitals",
+        "Kontrola zdrowia SEO i naprawa linków",
+        "Optymalizacja bazy danych",
+        "Konfiguracja CDN i pamięci podręcznej edge",
+        "Naprawa błędów i wdrożenia poprawek",
+        "Godziny edycji treści i designu",
+        "Miesięczny raport wydajności",
+        "Proaktywne alerty o incydentach",
+        "Rejestr zmian w zakresie zgodności (Compliance)",
+        "Testy dostępności (WCAG AA)",
+        "Dedykowany inżynier konta"
+      ]
+    },
+    "flow": {
+      "badge": "Jak to działa",
+      "title": "Od wdrożenia do spokojnej głowy, każdego miesiąca.",
+      "items": [
+        {
+          "step": "01",
+          "title": "Wdrożenie i Audyt",
+          "desc": "Przejmujemy stronę, wykonując pełny audyt bezpieczeństwa, wydajności, SEO i HIPAA — nic nie trafia pod monitoring w ciemno."
+        },
+        {
+          "step": "02",
+          "title": "Zabezpieczenie i Baseline",
+          "desc": "Łatanie dziur, weryfikacja backupów, start monitoringu i dokumentacja punktu wyjścia (baseline) dla SEO i Core Web Vitals."
+        },
+        {
+          "step": "03",
+          "title": "Monitoring i Obsługa",
+          "desc": "Monitoring 24/7, cotygodniowe aktualizacje, raporty zdrowia strony — plus Twoje godziny edycji na rozwój serwisu."
+        },
+        {
+          "step": "04",
+          "title": "Raport i Ulepszenia",
+          "desc": "Miesięczny przegląd z inżynierem. Analizujemy, jak przyspieszyć stronę i poprawić jej bezpieczeństwo w kolejnym miesiącu."
+        }
+      ]
+    }
   }
 }

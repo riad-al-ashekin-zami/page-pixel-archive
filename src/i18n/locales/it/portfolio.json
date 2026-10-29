@@ -1,11 +1,24 @@
 {
   "meta": {
-    "title": "Portfolio Siti Web per Dermatologia — Casi Studio Reali",
+    "title": "Esempi di Siti Web Dermatologici | DWD",
     "description": "Una selezione curata di siti per studi dermatologici progettati da noi: cliniche estetiche, mediche, pediatriche e multi-sede con crescita misurabile in termini di prenotazioni, SEO e velocità.",
-    "keywords": "portfolio siti dermatologia, esempi web design dermatologia, casi studio siti dermatologia, siti per studi dermatologici",
     "breadcrumb": {
       "home": "Home",
       "portfolio": "Portfolio"
+    },
+    "ogTitle": "Esempi di Siti Web Dermatologici | DWD",
+    "og_title": "Esempi di Siti Web Dermatologici | DWD",
+    "twitter_title": "Esempi di Siti Web Dermatologici | DWD",
+    "ogDescription": "Una selezione curata di siti per studi dermatologici progettati da noi: cliniche estetiche, mediche, pediatriche e multi-sede con crescita misurabile in termini di prenotazioni, SEO e velocità.",
+    "og_description": "Una selezione curata di siti per studi dermatologici progettati da noi: cliniche estetiche, mediche, pediatriche e multi-sede con crescita misurabile in termini di prenotazioni, SEO e velocità.",
+    "twitter_description": "Una selezione curata di siti per studi dermatologici progettati da noi: cliniche estetiche, mediche, pediatriche e multi-sede con crescita misurabile in termini di prenotazioni, SEO e velocità.",
+    "og": {
+      "title": "Esempi di Siti Web Dermatologici | DWD",
+      "description": "Una selezione curata di siti per studi dermatologici progettati da noi: cliniche estetiche, mediche, pediatriche e multi-sede con crescita misurabile in termini di prenotazioni, SEO e velocità."
+    },
+    "twitter": {
+      "title": "Esempi di Siti Web Dermatologici | DWD",
+      "description": "Una selezione curata di siti per studi dermatologici progettati da noi: cliniche estetiche, mediche, pediatriche e multi-sede con crescita misurabile in termini di prenotazioni, SEO e velocità."
     }
   },
   "accessibility": {
@@ -13,7 +26,7 @@
   },
   "hero": {
     "badge": "Portfolio · Oltre 50 studi dermatologici",
-    "heading": "Veri siti per dermatologi. Risultati concreti.",
+    "heading": "Esempi di Siti Web Dermatologici",
     "subheading": "Ogni progetto qui sotto appartiene a uno studio attivo: cliniche estetiche, mediche, pediatriche e centri d'eccellenza multi-sede. Design su misura, conformità HIPAA e SEO che genera conversioni, non solo visibilità.",
     "cta": {
       "start": "Inizia il tuo progetto",

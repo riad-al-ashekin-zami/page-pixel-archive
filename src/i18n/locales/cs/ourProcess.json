@@ -1,9 +1,21 @@
 {
   "meta": {
-    "title": "Náš proces – 7 kroků k tvorbě webu pro dermatology | Objevování → Spuštění → Růst",
+    "title": "Náš postup | DWD",
     "description": "Náš osvědčený 7fázový proces tvorby webových stránek pro dermatology: Analýza, SEO audit, design, obsah, vývoj, spuštění a následný růst. Pevné termíny, týdenní reporty, HIPAA-first přístup a garance Lighthouse 95+.",
-    "ogTitle": "Náš proces – 7 kroků od úvodní schůzky po růst vaší praxe",
-    "ogDescription": "Transparentní proces s pevnými termíny pro webdesign a SEO v dermatologii. Podívejte se, co přesně se děje týden po týdnu – od první analýzy až po trvalý růst."
+    "ogTitle": "Náš postup | DWD",
+    "ogDescription": "Náš osvědčený 7fázový proces tvorby webových stránek pro dermatology: Analýza, SEO audit, design, obsah, vývoj, spuštění a následný růst. Pevné termíny, týdenní reporty, HIPAA-first přístup a garance Lighthouse 95+.",
+    "og_title": "Náš postup | DWD",
+    "twitter_title": "Náš postup | DWD",
+    "og_description": "Náš osvědčený 7fázový proces tvorby webových stránek pro dermatology: Analýza, SEO audit, design, obsah, vývoj, spuštění a následný růst. Pevné termíny, týdenní reporty, HIPAA-first přístup a garance Lighthouse 95+.",
+    "twitter_description": "Náš osvědčený 7fázový proces tvorby webových stránek pro dermatology: Analýza, SEO audit, design, obsah, vývoj, spuštění a následný růst. Pevné termíny, týdenní reporty, HIPAA-first přístup a garance Lighthouse 95+.",
+    "og": {
+      "title": "Náš postup | DWD",
+      "description": "Náš osvědčený 7fázový proces tvorby webových stránek pro dermatology: Analýza, SEO audit, design, obsah, vývoj, spuštění a následný růst. Pevné termíny, týdenní reporty, HIPAA-first přístup a garance Lighthouse 95+."
+    },
+    "twitter": {
+      "title": "Náš postup | DWD",
+      "description": "Náš osvědčený 7fázový proces tvorby webových stránek pro dermatology: Analýza, SEO audit, design, obsah, vývoj, spuštění a následný růst. Pevné termíny, týdenní reporty, HIPAA-first přístup a garance Lighthouse 95+."
+    }
   },
   "jsonLd": {
     "breadcrumb": {
@@ -17,8 +29,8 @@
   },
   "hero": {
     "badge": "Náš proces",
-    "title": "Od prvního hovoru až k první objednávce pacienta – ",
-    "titleHighlight": "7 kroků a pevný časový plán.",
+    "title": "Náš postup",
+    "titleHighlight": "",
     "description": "Žádná tajemství, žádné nečekané náklady ani hodinová překvapení. Každý krok má svůj jasný výstup, garanta a termín – takže přesně víte, na čem tento týden pracujeme a co bude následovat.",
     "buttons": {
       "seeSteps": "Prohlédnout 7 kroků",

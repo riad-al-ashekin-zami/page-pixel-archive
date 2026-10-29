@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "Dermatologian potilasportaalin suunnittelu ja kehitys | HIPAA-yhteensopiva",
+    "title": "Dermatologian potilasportaalin suunnittelu ja kehitys | DWD",
     "description": "Räätälöity HIPAA-yhteensopiva potilasportaali dermatologian tarpeisiin: verkkoajanvaraus, suojatut viestit, etädermatologia, digitaaliset lomakkeet, laskun maksu ja EHR-integraatio. Suunniteltu solo-vastaanotoille, ketjuille ja erikoistuneille klinikoille.",
-    "og_title": "Dermatologian potilasportaalin suunnittelu ja kehitys",
-    "og_description": "Erityisesti ihotautilääkärien tarpeisiin kehitetyt HIPAA-tietoturvalliset potilasportaalit – ajanvaraus, viestintä, etävastaanotot ja potilastietojärjestelmien integraatiot.",
-    "twitter_title": "Dermatologian potilasportaalin suunnittelu ja kehitys",
-    "twitter_description": "HIPAA-tietoturvalliset potilasportaalit ihotautilääkärien ja dermatologian klinikoille.",
+    "og_title": "Dermatologian potilasportaalin suunnittelu ja kehitys | DWD",
+    "og_description": "Räätälöity HIPAA-yhteensopiva potilasportaali dermatologian tarpeisiin: verkkoajanvaraus, suojatut viestit, etädermatologia, digitaaliset lomakkeet, laskun maksu ja EHR-integraatio. Suunniteltu solo-vastaanotoille, ketjuille ja erikoistuneille klinikoille.",
+    "twitter_title": "Dermatologian potilasportaalin suunnittelu ja kehitys | DWD",
+    "twitter_description": "Räätälöity HIPAA-yhteensopiva potilasportaali dermatologian tarpeisiin: verkkoajanvaraus, suojatut viestit, etädermatologia, digitaaliset lomakkeet, laskun maksu ja EHR-integraatio. Suunniteltu solo-vastaanotoille, ketjuille ja erikoistuneille klinikoille.",
     "jsonLd": {
       "serviceType": "Dermatologian potilasportaalin suunnittelu ja kehitys",
       "provider": "DermatologyWebsiteDesign.com",
@@ -14,6 +14,16 @@
       "breadcrumb_home": "Etusivu",
       "breadcrumb_services": "Palvelut",
       "breadcrumb_portal": "Potilasportaali"
+    },
+    "ogTitle": "Dermatologian potilasportaalin suunnittelu ja kehitys | DWD",
+    "ogDescription": "Räätälöity HIPAA-yhteensopiva potilasportaali dermatologian tarpeisiin: verkkoajanvaraus, suojatut viestit, etädermatologia, digitaaliset lomakkeet, laskun maksu ja EHR-integraatio. Suunniteltu solo-vastaanotoille, ketjuille ja erikoistuneille klinikoille.",
+    "og": {
+      "title": "Dermatologian potilasportaalin suunnittelu ja kehitys | DWD",
+      "description": "Räätälöity HIPAA-yhteensopiva potilasportaali dermatologian tarpeisiin: verkkoajanvaraus, suojatut viestit, etädermatologia, digitaaliset lomakkeet, laskun maksu ja EHR-integraatio. Suunniteltu solo-vastaanotoille, ketjuille ja erikoistuneille klinikoille."
+    },
+    "twitter": {
+      "title": "Dermatologian potilasportaalin suunnittelu ja kehitys | DWD",
+      "description": "Räätälöity HIPAA-yhteensopiva potilasportaali dermatologian tarpeisiin: verkkoajanvaraus, suojatut viestit, etädermatologia, digitaaliset lomakkeet, laskun maksu ja EHR-integraatio. Suunniteltu solo-vastaanotoille, ketjuille ja erikoistuneille klinikoille."
     }
   },
   "hero": {

@@ -1,16 +1,29 @@
 {
   "meta": {
-    "title": "FAQ — Website-Design für die Dermatologie, SEO & HIPAA",
+    "title": "FAQ | DWD",
     "description": "Klare Antworten zu Preisen, Zeitplänen, SEO, HIPAA, Redesigns, Migrationen und Support für wachsende dermatologische Praxen.",
-    "keywords": "Dermatologie Website FAQ, Dermatologie SEO FAQ, HIPAA Website Fragen, Kosten Website Dermatologie, Zeitplan Website Dermatologie",
     "breadcrumbList": {
       "home": "Home",
       "faq": "FAQ"
+    },
+    "ogTitle": "FAQ | DWD",
+    "og_title": "FAQ | DWD",
+    "twitter_title": "FAQ | DWD",
+    "ogDescription": "Klare Antworten zu Preisen, Zeitplänen, SEO, HIPAA, Redesigns, Migrationen und Support für wachsende dermatologische Praxen.",
+    "og_description": "Klare Antworten zu Preisen, Zeitplänen, SEO, HIPAA, Redesigns, Migrationen und Support für wachsende dermatologische Praxen.",
+    "twitter_description": "Klare Antworten zu Preisen, Zeitplänen, SEO, HIPAA, Redesigns, Migrationen und Support für wachsende dermatologische Praxen.",
+    "og": {
+      "title": "FAQ | DWD",
+      "description": "Klare Antworten zu Preisen, Zeitplänen, SEO, HIPAA, Redesigns, Migrationen und Support für wachsende dermatologische Praxen."
+    },
+    "twitter": {
+      "title": "FAQ | DWD",
+      "description": "Klare Antworten zu Preisen, Zeitplänen, SEO, HIPAA, Redesigns, Migrationen und Support für wachsende dermatologische Praxen."
     }
   },
   "hero": {
     "badge": "{{totalCount}} Antworten · Spezialisiert auf Dermatologie",
-    "heading": "Alle Antworten, die eine dermatologische Praxis wirklich braucht.",
+    "heading": "Häufig gestellte Fragen",
     "subheading": "Preise, Zeitpläne, SEO, HIPAA, Redesigns, Migrationen, Integrationen. Direkt, spezifisch und verfasst von dem Team, das die Arbeit umsetzt.",
     "search": {
       "label": "FAQs durchsuchen",

@@ -1,14 +1,14 @@
 {
   "meta": {
-    "title": "Rozwój kliniki dermatologicznej | Skupienie na umówionych wizytach, nie wyświetleniach",
+    "title": "Rozwój kliniki dermatologicznej | DWD",
     "description": "Usługi wzrostu dla placówek dermatologicznych – pozyskiwanie pacjentów, optymalizacja konwersji, automatyzacja retencji i analityka przychodów powiązana z realnymi wizytami oraz P&L linii zabiegowych.",
     "og": {
-      "title": "Rozwój praktyki dermatologicznej – liczą się umówione wizyty, nie wyświetlenia",
-      "description": "Kompleksowe wsparcie wzrostu dla gabinetów oraz sieci klinik dermatologicznych – od akwizycji po analitykę finansową."
+      "title": "Rozwój kliniki dermatologicznej | DWD",
+      "description": "Usługi wzrostu dla placówek dermatologicznych – pozyskiwanie pacjentów, optymalizacja konwersji, automatyzacja retencji i analityka przychodów powiązana z realnymi wizytami oraz P&L linii zabiegowych."
     },
     "twitter": {
-      "title": "Usługi rozwoju dla klinik dermatologicznych",
-      "description": "Wzrost liczby umówionych wizyt w gabinetach dermatologicznych – mierzalny wynik w Twoim rachunku zysków i strat."
+      "title": "Rozwój kliniki dermatologicznej | DWD",
+      "description": "Usługi wzrostu dla placówek dermatologicznych – pozyskiwanie pacjentów, optymalizacja konwersji, automatyzacja retencji i analityka przychodów powiązana z realnymi wizytami oraz P&L linii zabiegowych."
     },
     "jsonLd": {
       "serviceType": "Dermatology Practice Growth Services",
@@ -19,7 +19,13 @@
         "services": "Usługi",
         "current": "Rozwój praktyki dermatologicznej"
       }
-    }
+    },
+    "ogTitle": "Rozwój kliniki dermatologicznej | DWD",
+    "og_title": "Rozwój kliniki dermatologicznej | DWD",
+    "twitter_title": "Rozwój kliniki dermatologicznej | DWD",
+    "ogDescription": "Usługi wzrostu dla placówek dermatologicznych – pozyskiwanie pacjentów, optymalizacja konwersji, automatyzacja retencji i analityka przychodów powiązana z realnymi wizytami oraz P&L linii zabiegowych.",
+    "og_description": "Usługi wzrostu dla placówek dermatologicznych – pozyskiwanie pacjentów, optymalizacja konwersji, automatyzacja retencji i analityka przychodów powiązana z realnymi wizytami oraz P&L linii zabiegowych.",
+    "twitter_description": "Usługi wzrostu dla placówek dermatologicznych – pozyskiwanie pacjentów, optymalizacja konwersji, automatyzacja retencji i analityka przychodów powiązana z realnymi wizytami oraz P&L linii zabiegowych."
   },
   "hero": {
     "badge": "Rozwój Praktyki Dermatologicznej",

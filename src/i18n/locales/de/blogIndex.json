@@ -1,15 +1,14 @@
 {
   "meta": {
-    "title": "Blog — Dermatology Marketing Insights & Growth Playbooks",
+    "title": "Blog | DWD",
     "description": "Praxiserprobte Strategien für Dermatologie-SEO, Webdesign, Patientenakquise, HIPAA, Reputationsmanagement und Google Ads – exklusiv für wachstumsorientierte Praxisinhaber.",
-    "keywords": "Dermatologie Blog, Dermatologie SEO, Marketing für Hautärzte, Praxiswachstum, HIPAA Websites",
     "og": {
-      "title": "Dermatology Marketing Blog — Strategien für messbares Praxiswachstum",
-      "description": "Tiefgreifende Analysen und schnelle Taktiken für Dermatologie-Praxen. SEO, Design, Ads, Reputation und Patient Experience."
+      "title": "Blog | DWD",
+      "description": "Praxiserprobte Strategien für Dermatologie-SEO, Webdesign, Patientenakquise, HIPAA, Reputationsmanagement und Google Ads – exklusiv für wachstumsorientierte Praxisinhaber."
     },
     "twitter": {
-      "title": "Dermatology Marketing Blog",
-      "description": "SEO, Design, Ads und Patient Experience Strategien für moderne Dermatologie-Praxen."
+      "title": "Blog | DWD",
+      "description": "Praxiserprobte Strategien für Dermatologie-SEO, Webdesign, Patientenakquise, HIPAA, Reputationsmanagement und Google Ads – exklusiv für wachstumsorientierte Praxisinhaber."
     },
     "jsonLd": {
       "breadcrumb": {
@@ -20,11 +19,17 @@
         "name": "Dermatology Marketing Blog",
         "description": "Einblicke und Playbooks zu Dermatologie-SEO, Webdesign, Ads, Reputation und Patientenakquise."
       }
-    }
+    },
+    "ogTitle": "Blog | DWD",
+    "og_title": "Blog | DWD",
+    "twitter_title": "Blog | DWD",
+    "ogDescription": "Praxiserprobte Strategien für Dermatologie-SEO, Webdesign, Patientenakquise, HIPAA, Reputationsmanagement und Google Ads – exklusiv für wachstumsorientierte Praxisinhaber.",
+    "og_description": "Praxiserprobte Strategien für Dermatologie-SEO, Webdesign, Patientenakquise, HIPAA, Reputationsmanagement und Google Ads – exklusiv für wachstumsorientierte Praxisinhaber.",
+    "twitter_description": "Praxiserprobte Strategien für Dermatologie-SEO, Webdesign, Patientenakquise, HIPAA, Reputationsmanagement und Google Ads – exklusiv für wachstumsorientierte Praxisinhaber."
   },
   "hero": {
     "badge": "Das DermGrowth Journal",
-    "title": "Erfolgsrezepte für die moderne Dermatologie-Praxis.",
+    "title": "Blog",
     "description": "Praxiserprobte Taktiken für SEO, Webdesign, bezahlte Werbung, Reputation und Patient Experience – verfasst von dem Team, das hunderte Praxis-Launches begleitet hat.",
     "search": {
       "label": "Artikel suchen",

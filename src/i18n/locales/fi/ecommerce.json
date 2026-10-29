@@ -1,20 +1,30 @@
 {
   "meta": {
-    "title": "Ihotautien verkkokauppasuunnittelu | HIPAA-huomioidut ihonhoitokaupat",
+    "title": "Ecommerce-verkkosivut ihotautiklinikoille | DWD",
     "description": "Ensiluokkaista verkkokauppasuunnittelua ihotautilääkäreille. HIPAA-huomioidut lääke- ja itsehoitotuotteet, tilauspohjaiset täytöt, asiantuntijoiden suosittelemat tuotepaketit ja Product-schema SEO. Suunniteltu ihotautiklinikoille, lääkärikeskuksille ja lääkäriasemien ketjuille.",
     "og": {
-      "title": "Ihotautien verkkokauppasuunnittelu | HIPAA-huomioidut ihonhoitokaupat",
-      "description": "Myy lääkinnällistä ihonhoitoa, aseta lääkemääräystuotteet ammattilaisen hyväksynnän taakse, hallinnoi tilauksia ja sijoitu hakukoneissa — yksi hallittu kauppapaikka ihotautibrändillesi."
+      "title": "Ecommerce-verkkosivut ihotautiklinikoille | DWD",
+      "description": "Ensiluokkaista verkkokauppasuunnittelua ihotautilääkäreille. HIPAA-huomioidut lääke- ja itsehoitotuotteet, tilauspohjaiset täytöt, asiantuntijoiden suosittelemat tuotepaketit ja Product-schema SEO. Suunniteltu ihotautiklinikoille, lääkärikeskuksille ja lääkäriasemien ketjuille."
     },
     "jsonLd": {
       "serviceType": "Ihotautien verkkokauppasuunnittelu",
       "name": "DW Design",
       "offerDescription": "Ihotautien verkkokauppasuunnittelu — alkaen-hinta"
+    },
+    "ogTitle": "Ecommerce-verkkosivut ihotautiklinikoille | DWD",
+    "og_title": "Ecommerce-verkkosivut ihotautiklinikoille | DWD",
+    "twitter_title": "Ecommerce-verkkosivut ihotautiklinikoille | DWD",
+    "ogDescription": "Ensiluokkaista verkkokauppasuunnittelua ihotautilääkäreille. HIPAA-huomioidut lääke- ja itsehoitotuotteet, tilauspohjaiset täytöt, asiantuntijoiden suosittelemat tuotepaketit ja Product-schema SEO. Suunniteltu ihotautiklinikoille, lääkärikeskuksille ja lääkäriasemien ketjuille.",
+    "og_description": "Ensiluokkaista verkkokauppasuunnittelua ihotautilääkäreille. HIPAA-huomioidut lääke- ja itsehoitotuotteet, tilauspohjaiset täytöt, asiantuntijoiden suosittelemat tuotepaketit ja Product-schema SEO. Suunniteltu ihotautiklinikoille, lääkärikeskuksille ja lääkäriasemien ketjuille.",
+    "twitter_description": "Ensiluokkaista verkkokauppasuunnittelua ihotautilääkäreille. HIPAA-huomioidut lääke- ja itsehoitotuotteet, tilauspohjaiset täytöt, asiantuntijoiden suosittelemat tuotepaketit ja Product-schema SEO. Suunniteltu ihotautiklinikoille, lääkärikeskuksille ja lääkäriasemien ketjuille.",
+    "twitter": {
+      "title": "Ecommerce-verkkosivut ihotautiklinikoille | DWD",
+      "description": "Ensiluokkaista verkkokauppasuunnittelua ihotautilääkäreille. HIPAA-huomioidut lääke- ja itsehoitotuotteet, tilauspohjaiset täytöt, asiantuntijoiden suosittelemat tuotepaketit ja Product-schema SEO. Suunniteltu ihotautiklinikoille, lääkärikeskuksille ja lääkäriasemien ketjuille."
     }
   },
   "hero": {
     "badge": "HIPAA-Aware · Lääkemääräysvalmis · Tilausnatiivi",
-    "title": "Ihotautien verkkokauppasuunnittelua klinikoille, jotka haluavat myös myydä.",
+    "title": "Ecommerce-verkkosivut ihotautiklinikoille",
     "description": "Verkkokauppa, jonka klinikkasi ansaitsee. Lääke- (Rx) ja itsehoitotuotteet (OTC) on jaoteltu oikein, asiantuntijan hyväksymät paketit kassalla, aidosti sitouttavat toistuvaistilaukset — ja Product-schema SEO, johon palvelusivusi eivät ikinä yltäisi.",
     "cta": {
       "plan": "Suunnittele verkkokauppani",

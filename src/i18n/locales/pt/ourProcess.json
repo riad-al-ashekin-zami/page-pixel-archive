@@ -1,9 +1,21 @@
 {
   "meta": {
-    "title": "O Nosso Processo — Criação de Websites de Dermatologia em 7 Passos | Descobrir → Lançar → Crescer",
+    "title": "Nosso Processo | DWD",
     "description": "O processo de 7 passos que utilizamos para criar websites de dermatologia: Descoberta, auditoria SEO, design, conteúdo, desenvolvimento, lançamento e crescimento. Prazos fixos, reuniões semanais, HIPAA-first e Lighthouse 95+ garantido.",
-    "ogTitle": "O Nosso Processo — 7 Passos do Pontapé de Saída ao Crescimento",
-    "ogDescription": "Um processo transparente e com prazos fixos para design e SEO de websites de dermatologia. Veja exatamente o que acontece semana a semana — da descoberta ao crescimento contínuo."
+    "ogTitle": "Nosso Processo | DWD",
+    "ogDescription": "O processo de 7 passos que utilizamos para criar websites de dermatologia: Descoberta, auditoria SEO, design, conteúdo, desenvolvimento, lançamento e crescimento. Prazos fixos, reuniões semanais, HIPAA-first e Lighthouse 95+ garantido.",
+    "og_title": "Nosso Processo | DWD",
+    "twitter_title": "Nosso Processo | DWD",
+    "og_description": "O processo de 7 passos que utilizamos para criar websites de dermatologia: Descoberta, auditoria SEO, design, conteúdo, desenvolvimento, lançamento e crescimento. Prazos fixos, reuniões semanais, HIPAA-first e Lighthouse 95+ garantido.",
+    "twitter_description": "O processo de 7 passos que utilizamos para criar websites de dermatologia: Descoberta, auditoria SEO, design, conteúdo, desenvolvimento, lançamento e crescimento. Prazos fixos, reuniões semanais, HIPAA-first e Lighthouse 95+ garantido.",
+    "og": {
+      "title": "Nosso Processo | DWD",
+      "description": "O processo de 7 passos que utilizamos para criar websites de dermatologia: Descoberta, auditoria SEO, design, conteúdo, desenvolvimento, lançamento e crescimento. Prazos fixos, reuniões semanais, HIPAA-first e Lighthouse 95+ garantido."
+    },
+    "twitter": {
+      "title": "Nosso Processo | DWD",
+      "description": "O processo de 7 passos que utilizamos para criar websites de dermatologia: Descoberta, auditoria SEO, design, conteúdo, desenvolvimento, lançamento e crescimento. Prazos fixos, reuniões semanais, HIPAA-first e Lighthouse 95+ garantido."
+    }
   },
   "jsonLd": {
     "breadcrumb": {
@@ -17,8 +29,8 @@
   },
   "hero": {
     "badge": "O Nosso Processo",
-    "title": "Da primeira chamada à primeira marcação de paciente — ",
-    "titleHighlight": "uma criação em 7 passos com prazo fixo.",
+    "title": "Nosso Processo",
+    "titleHighlight": "",
     "description": "Sem mistérios, sem desvios de âmbito, sem surpresas na faturação horária. Cada etapa tem um entregável escrito, um responsável e um prazo — para que saiba sempre o que está a acontecer esta semana e o que vem a seguir.",
     "buttons": {
       "seeSteps": "Ver os 7 passos",

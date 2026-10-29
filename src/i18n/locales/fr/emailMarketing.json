@@ -1,14 +1,14 @@
 {
   "meta": {
-    "title": "Email Marketing Dermatologie | Rapports, Newsletters et Automatisation HIPAA",
+    "title": "Email Marketing Dermatologie | DWD",
     "description": "Email marketing sécurisé HIPAA pour cabinets de dermatologie : séries de bienvenue, rappels automatisés à 6 mois et réactivation esthétique. Mesure par rendez-vous pris, pas par ouvertures.",
     "og": {
-      "title": "Email Marketing Dermatologie — Sécurité HIPAA et Attribution des Visites",
-      "description": "Newsletters personnalisées, flux de rappels déclenchés par le logiciel de gestion (PMS) et automatisation conforme HIPAA. Klaviyo, HubSpot, Mailchimp."
+      "title": "Email Marketing Dermatologie | DWD",
+      "description": "Email marketing sécurisé HIPAA pour cabinets de dermatologie : séries de bienvenue, rappels automatisés à 6 mois et réactivation esthétique. Mesure par rendez-vous pris, pas par ouvertures."
     },
     "twitter": {
-      "title": "Services d'Email Marketing pour Dermatologues",
-      "description": "Email marketing conforme HIPAA, automatisation des rappels et délivrabilité optimale pour les cabinets de dermatologie."
+      "title": "Email Marketing Dermatologie | DWD",
+      "description": "Email marketing sécurisé HIPAA pour cabinets de dermatologie : séries de bienvenue, rappels automatisés à 6 mois et réactivation esthétique. Mesure par rendez-vous pris, pas par ouvertures."
     },
     "jsonLd": {
       "serviceType": "Email Marketing pour Cabinets de Dermatologie",
@@ -19,7 +19,13 @@
         "services": "Services",
         "emailMarketing": "Email Marketing"
       }
-    }
+    },
+    "ogTitle": "Email Marketing Dermatologie | DWD",
+    "og_title": "Email Marketing Dermatologie | DWD",
+    "twitter_title": "Email Marketing Dermatologie | DWD",
+    "ogDescription": "Email marketing sécurisé HIPAA pour cabinets de dermatologie : séries de bienvenue, rappels automatisés à 6 mois et réactivation esthétique. Mesure par rendez-vous pris, pas par ouvertures.",
+    "og_description": "Email marketing sécurisé HIPAA pour cabinets de dermatologie : séries de bienvenue, rappels automatisés à 6 mois et réactivation esthétique. Mesure par rendez-vous pris, pas par ouvertures.",
+    "twitter_description": "Email marketing sécurisé HIPAA pour cabinets de dermatologie : séries de bienvenue, rappels automatisés à 6 mois et réactivation esthétique. Mesure par rendez-vous pris, pas par ouvertures."
   },
   "hero": {
     "badge": "Email Marketing Dermatologie",

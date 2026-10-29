@@ -1,21 +1,33 @@
 {
   "meta": {
-    "title": "Ihotautiklinikan verkkosivuston uudistus — Modernisoi menettämättä SEO-näkyvyyttä",
+    "title": "Ihotautiklinikoiden verkkosivujen uudistus | DWD",
     "description": "Ensiluokkaiset verkkosivustouudistukset ihotautilääkäreille, monitoimipisteklinikoille ja kirurgisille yksiköille. Moderni, nopea ja HIPAA-yhteensopiva — nolla SEO-hävikkiä julkaisussa.",
-    "og_title": "Ihotautiklinikan verkkosivuston uudistus — Nolla SEO-hävikkiä",
-    "og_description": "Muuta vanhentunut ihotautisivustosi nopeaksi, konversio-optimoiduksi ja HIPAA-yhteensopivaksi elämykseksi. 301-uudelleenohjaukset ja SEO säilytetään täysin.",
+    "og_title": "Ihotautiklinikoiden verkkosivujen uudistus | DWD",
+    "og_description": "Ensiluokkaiset verkkosivustouudistukset ihotautilääkäreille, monitoimipisteklinikoille ja kirurgisille yksiköille. Moderni, nopea ja HIPAA-yhteensopiva — nolla SEO-hävikkiä julkaisussa.",
     "jsonLd": {
       "serviceType": "Ihotautiklinikan verkkosivuston uudistus",
       "providerName": "DW Design",
       "offerDescription": "Ihotautisivuston uudistus — alkaen-hinta"
+    },
+    "ogTitle": "Ihotautiklinikoiden verkkosivujen uudistus | DWD",
+    "twitter_title": "Ihotautiklinikoiden verkkosivujen uudistus | DWD",
+    "ogDescription": "Ensiluokkaiset verkkosivustouudistukset ihotautilääkäreille, monitoimipisteklinikoille ja kirurgisille yksiköille. Moderni, nopea ja HIPAA-yhteensopiva — nolla SEO-hävikkiä julkaisussa.",
+    "twitter_description": "Ensiluokkaiset verkkosivustouudistukset ihotautilääkäreille, monitoimipisteklinikoille ja kirurgisille yksiköille. Moderni, nopea ja HIPAA-yhteensopiva — nolla SEO-hävikkiä julkaisussa.",
+    "og": {
+      "title": "Ihotautiklinikoiden verkkosivujen uudistus | DWD",
+      "description": "Ensiluokkaiset verkkosivustouudistukset ihotautilääkäreille, monitoimipisteklinikoille ja kirurgisille yksiköille. Moderni, nopea ja HIPAA-yhteensopiva — nolla SEO-hävikkiä julkaisussa."
+    },
+    "twitter": {
+      "title": "Ihotautiklinikoiden verkkosivujen uudistus | DWD",
+      "description": "Ensiluokkaiset verkkosivustouudistukset ihotautilääkäreille, monitoimipisteklinikoille ja kirurgisille yksiköille. Moderni, nopea ja HIPAA-yhteensopiva — nolla SEO-hävikkiä julkaisussa."
     }
   },
   "hero": {
     "scarcityBadge": "Vain 3 vapaata paikkaa tälle vuosineljännekselle",
     "category": "Ihotautiklinikan verkkosivuston uudistus",
     "h1": {
-      "main": "Modernisoi klinikkasi sivusto. ",
-      "highlight": "Menettämättä SEO-tuloksia."
+      "main": "Ihotautiklinikoiden verkkosivujen uudistus",
+      "highlight": ""
     },
     "description": "Hallittu, asiantuntijavetoinen uudistus ihotautiklinikoille — nopeampi, turvallisempi ja tyylikkäämpi. 301-ohjaukset, HIPAA-yhteensopivat lomakkeet ja hakukonenäkyvyys varmistettu.",
     "cta": {

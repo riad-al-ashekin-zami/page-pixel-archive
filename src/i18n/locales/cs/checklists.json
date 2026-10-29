@@ -1,8 +1,21 @@
 {
   "meta": {
-    "title": "Checklisty pro dermatologické weby – spuštění, SEO, HIPAA a konverze",
+    "title": "Checklisty pro dermatologické weby | DWD",
     "description": "Bezplatné, experty navržené checklisty pro dermatologické weby pokrývající předprodejní kontrolu, on-page SEO, HIPAA, přístupnost, Core Web Vitals a konverze. Tisknutelné a specifické pro dermatologii.",
-    "keywords": "checklist pro dermatologický web, SEO pro dermatology, HIPAA checklist, spuštění webu dermatologie, přístupnost zdravotnických webů"
+    "ogTitle": "Checklisty pro dermatologické weby | DWD",
+    "og_title": "Checklisty pro dermatologické weby | DWD",
+    "twitter_title": "Checklisty pro dermatologické weby | DWD",
+    "ogDescription": "Bezplatné, experty navržené checklisty pro dermatologické weby pokrývající předprodejní kontrolu, on-page SEO, HIPAA, přístupnost, Core Web Vitals a konverze. Tisknutelné a specifické pro dermatologii.",
+    "og_description": "Bezplatné, experty navržené checklisty pro dermatologické weby pokrývající předprodejní kontrolu, on-page SEO, HIPAA, přístupnost, Core Web Vitals a konverze. Tisknutelné a specifické pro dermatologii.",
+    "twitter_description": "Bezplatné, experty navržené checklisty pro dermatologické weby pokrývající předprodejní kontrolu, on-page SEO, HIPAA, přístupnost, Core Web Vitals a konverze. Tisknutelné a specifické pro dermatologii.",
+    "og": {
+      "title": "Checklisty pro dermatologické weby | DWD",
+      "description": "Bezplatné, experty navržené checklisty pro dermatologické weby pokrývající předprodejní kontrolu, on-page SEO, HIPAA, přístupnost, Core Web Vitals a konverze. Tisknutelné a specifické pro dermatologii."
+    },
+    "twitter": {
+      "title": "Checklisty pro dermatologické weby | DWD",
+      "description": "Bezplatné, experty navržené checklisty pro dermatologické weby pokrývající předprodejní kontrolu, on-page SEO, HIPAA, přístupnost, Core Web Vitals a konverze. Tisknutelné a specifické pro dermatologii."
+    }
   },
   "schema": {
     "breadcrumb": {

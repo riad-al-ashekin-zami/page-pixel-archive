@@ -1,15 +1,14 @@
 {
   "meta": {
-    "title": "Blog — Marketing dla dermatologii i strategie wzrostu gabinetu",
+    "title": "Blog | DWD",
     "description": "Praktyczne poradniki na temat SEO w dermatologii, projektowania stron internetowych, pozyskiwania pacjentów, HIPAA, opinii i płatnych reklam — stworzone dla ambitnych właścicieli praktyk.",
-    "keywords": "blog dermatologiczny, SEO dla dermatologii, marketing medyczny, rozwój gabinetu, strony internetowe HIPAA",
     "og": {
-      "title": "Blog o marketingu w dermatologii — strategie budujące sukces",
-      "description": "Dogłębne analizy i szybkie taktyki dla gabinetów dermatologicznych. SEO, design, reklamy, reputacja i doświadczenie pacjenta."
+      "title": "Blog | DWD",
+      "description": "Praktyczne poradniki na temat SEO w dermatologii, projektowania stron internetowych, pozyskiwania pacjentów, HIPAA, opinii i płatnych reklam — stworzone dla ambitnych właścicieli praktyk."
     },
     "twitter": {
-      "title": "Dermatology Marketing Blog",
-      "description": "Strategie SEO, designu, reklam i doświadczeń pacjenta dla gabinetów dermatologicznych."
+      "title": "Blog | DWD",
+      "description": "Praktyczne poradniki na temat SEO w dermatologii, projektowania stron internetowych, pozyskiwania pacjentów, HIPAA, opinii i płatnych reklam — stworzone dla ambitnych właścicieli praktyk."
     },
     "jsonLd": {
       "breadcrumb": {
@@ -20,11 +19,17 @@
         "name": "Dermatology Marketing Blog",
         "description": "Wiedza i strategie z zakresu SEO, tworzenia stron, reklam, reputacji oraz pozyskiwania pacjentów w dermatologii."
       }
-    }
+    },
+    "ogTitle": "Blog | DWD",
+    "og_title": "Blog | DWD",
+    "twitter_title": "Blog | DWD",
+    "ogDescription": "Praktyczne poradniki na temat SEO w dermatologii, projektowania stron internetowych, pozyskiwania pacjentów, HIPAA, opinii i płatnych reklam — stworzone dla ambitnych właścicieli praktyk.",
+    "og_description": "Praktyczne poradniki na temat SEO w dermatologii, projektowania stron internetowych, pozyskiwania pacjentów, HIPAA, opinii i płatnych reklam — stworzone dla ambitnych właścicieli praktyk.",
+    "twitter_description": "Praktyczne poradniki na temat SEO w dermatologii, projektowania stron internetowych, pozyskiwania pacjentów, HIPAA, opinii i płatnych reklam — stworzone dla ambitnych właścicieli praktyk."
   },
   "hero": {
     "badge": "DermGrowth Journal",
-    "title": "Strategie dla nowoczesnej praktyki dermatologicznej.",
+    "title": "Blog",
     "description": "Sprawdzone w boju taktyki dotyczące SEO, stron WWW, reklam, wizerunku i obsługi pacjenta — opracowane przez zespół, który wspierał premiery setek gabinetów.",
     "search": {
       "label": "Przeszukaj artykuły",

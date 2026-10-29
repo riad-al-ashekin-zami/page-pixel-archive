@@ -1,18 +1,36 @@
 {
   "meta": {
-    "title": "Nettsidedesign for hudleger — HIPAA-sikrede plattformer for vekst",
-    "description": "HIPAA-sikrede nettsider, SEO og markedsføring for hudlegepraksiser. Få gratis revisjon av din nettside innen 24 timer.",
-    "orgDescription": "HIPAA-sikret nettsidedesign, SEO og vekstmarkedsføring for hudleger og klinikker med flere lokasjoner."
+    "title": "Nettsidedesign for hudleger og klinikker | DWD",
+    "description": "Nettsidedesign for hudleger og klinikker: raske, HIPAA-bevisste nettsider som hjelper besøkende å bestille time.",
+    "orgDescription": "HIPAA-sikret nettsidedesign, SEO og vekstmarkedsføring for hudleger og klinikker med flere lokasjoner.",
+    "ogTitle": "Nettsidedesign for hudleger og klinikker | DWD",
+    "og_title": "Nettsidedesign for hudleger og klinikker | DWD",
+    "twitter_title": "Nettsidedesign for hudleger og klinikker | DWD",
+    "ogDescription": "Nettsidedesign for hudleger og klinikker: raske, HIPAA-bevisste nettsider som hjelper besøkende å bestille time.",
+    "og_description": "Nettsidedesign for hudleger og klinikker: raske, HIPAA-bevisste nettsider som hjelper besøkende å bestille time.",
+    "twitter_description": "Nettsidedesign for hudleger og klinikker: raske, HIPAA-bevisste nettsider som hjelper besøkende å bestille time.",
+    "og": {
+      "title": "Nettsidedesign for hudleger og klinikker | DWD",
+      "description": "Nettsidedesign for hudleger og klinikker: raske, HIPAA-bevisste nettsider som hjelper besøkende å bestille time."
+    },
+    "twitter": {
+      "title": "Nettsidedesign for hudleger og klinikker | DWD",
+      "description": "Nettsidedesign for hudleger og klinikker: raske, HIPAA-bevisste nettsider som hjelper besøkende å bestille time."
+    }
   },
   "hero": {
     "badge": "HIPAA-Aware",
     "badgeSecondary": "Konverteringsfokusert",
-    "headline": "Førsteklasses nettsider som skaper vekst for moderne",
-    "headlineAccent": "hudlegeklinikker.",
+    "headline": "Nettsidedesign for hudleger",
+    "headlineAccent": "",
     "subhead": "Skreddersydde og SEO-optimaliserte nettsider som bygger tillit, tiltrekker nye pasienter og styrker din digitale tilstedeværelse.",
     "ctaPrimary": "Få et pristilbud",
     "ctaSecondary": "Be om gratis revisjon",
-    "heroImageAlt": "Komposisjon av nettsidedesign for hudleger som viser desktop, mobil, analyse, booking og HIPAA-samsvar"
+    "heroImageAlt": "Komposisjon av nettsidedesign for hudleger som viser desktop, mobil, analyse, booking og HIPAA-samsvar",
+    "introParagraphs": [
+      "Nettsidedesign for hudleger skal gjøre det enkelt å forstå behandlingene, stole på klinikken og ta neste steg. Vi bygger raske, HIPAA-bevisste nettsider rundt tjenestene, teamet og timebestillingen.",
+      "Nettsidedesign for hudklinikker krever mer enn en pen forside. Tydelig behandlingsinformasjon, tilgjengelig navigasjon og enkel timebestilling støtter pasienten gjennom hele nettsiden."
+    ]
   },
   "stats": {
     "websites": {
@@ -63,5 +81,176 @@
     "auditLink": "en gratis gjennomgang av din nåværende nettside",
     "suffix": "."
   },
-  "skip": "Hopp til innholdet"
+  "skip": "Hopp til innholdet",
+  "merged": {
+    "sections": [
+      "Dette inkluderer nettsidene våre for hudklinikker",
+      "Hvorfor hudklinikker velger oss",
+      "Vår designprosess",
+      "Se arbeidet vårt",
+      "Utvikle klinikken etter lansering",
+      "Priser",
+      "Ofte stilte spørsmål"
+    ],
+    "audience": {
+      "tag": "Målgruppe",
+      "title": "Bygget for alle typer dermatologiske praksiser",
+      "description": "Fra enkeltstående klinikker til kirurgiske grupper med mange lokasjoner.",
+      "items": [
+        {
+          "label": "Selvstendige hudleger",
+          "desc": "Boutique-nettsider som reflekterer din kliniske merkevare og fyller timeplanen."
+        },
+        {
+          "label": "Klinikker med flere lokasjoner",
+          "desc": "Skalerbar arkitektur med egne sider for lokasjoner, ansatte, åpningstider og veibeskrivelser."
+        },
+        {
+          "label": "Pediatrisk dermatologi",
+          "desc": "Varm, foreldrevennlig brukeropplevelse med tydelige rutiner for inntak og foresatte."
+        },
+        {
+          "label": "Mohs- og kirurgisk dermatologi",
+          "desc": "Design med fokus på autoritet for både henvisende leger og direktehenvendelser."
+        }
+      ]
+    },
+    "pillars": {
+      "tag": "Hva gjør oss premium",
+      "title": "Seks ufravikelige krav i hvert prosjekt",
+      "description": "Design, utvikling, SEO og samsvar – bygget sammen som en helhet fra dag én.",
+      "items": [
+        {
+          "title": "100 % skreddersydd design",
+          "desc": "Ingen maler. Hver seksjon, illustrasjon og interaksjon er designet spesielt for din klinikk."
+        },
+        {
+          "title": "Lighthouse 95+",
+          "desc": "Ytelsesfokuserte løsninger – bildeoptimalisering, edge-caching og lettvekts-JS."
+        },
+        {
+          "title": "On-Page SEO",
+          "desc": "Semantisk HTML, schema, interne lenker og innholdsarkitektur for lokale og medisinske søk."
+        },
+        {
+          "title": "HIPAA-Aware",
+          "desc": "Sikre skjemaer, ingen PHI-lekkasjer, revisjonsvennlig teknologi og BAA-klare partnere."
+        },
+        {
+          "title": "Fullstendig responsiv",
+          "desc": "Pixel-perfekt på desktop, laptop, nettbrett og mobil. Testet på ekte enheter."
+        },
+        {
+          "title": "Tilgjengelighet (WCAG AA)",
+          "desc": "Tastaturvennlig, trygg kontrast og optimalisert for skjermlesere – inkluderende som standard."
+        }
+      ]
+    },
+    "medicalServices": {
+      "tag": "Dekning av medisinske tjenester",
+      "title": "Tjenestesider designet for rangering og konvertering",
+      "description": "Individuelle, SEO-optimaliserte sider for hver behandling klinikken tilbyr – med medisinsk nøyaktighet, pasientvennlige forklaringer, strukturerte data og sterke CTAs.",
+      "features": [
+        "Medisinsk kvalitetssikret innholdsstruktur",
+        "Søkeordskartlagte H1 / H2 / FAQ-seksjoner",
+        "HIPAA-aware inntaks- og konsultasjonsskjemaer",
+        "Raske, indekserbare og mobil-først maler"
+      ],
+      "list": [
+        "Aknebehandling",
+        "Eksembehandling",
+        "Psoriasisbehandling",
+        "Behandling av hudinfeksjoner",
+        "Behandling av hudallergi",
+        "Screening og behandling av hudkreft",
+        "Vurdering og fjerning av føflekker",
+        "Fjerning av cyster og lipomer",
+        "Vortefjerning",
+        "Behandling av neglesykdommer",
+        "Behandling mot hårtap",
+        "Behandling av hodebunnsproblemer",
+        "Rosaceabehandling",
+        "Hyperpigmentering og melasma",
+        "Arrbehandling",
+        "Behandling av brannskadearr",
+        "Vitiligobehandling",
+        "Hudbiopsi og diagnostikk"
+      ]
+    },
+    "process": {
+      "tag": "Vår prosess",
+      "title": "En trygg prosess ledet av eksperter",
+      "description": "Fire transparente faser — ingen brutte løfter, ingen overraskelser.",
+      "steps": [
+        {
+          "step": "01",
+          "title": "Strategi og posisjonering",
+          "desc": "Klinikk-revisjon, pasient-personas, konkurrentanalyse og konverteringsmål."
+        },
+        {
+          "step": "02",
+          "title": "Designsystem",
+          "desc": "Skreddersydd typografi, fargepalett og komponentbibliotek — unikt for din merkevare."
+        },
+        {
+          "step": "03",
+          "title": "Utvikling og SEO",
+          "desc": "Håndkodet, schema-merket og bildeoptimalisert for best mulig rangering."
+        },
+        {
+          "step": "04",
+          "title": "Lansering og vekst",
+          "desc": "Analyse, konverteringsoptimalisering og driftsplan for å øke resultatene måned etter måned."
+        }
+      ]
+    },
+    "faqs": [
+      {
+        "q": "Hvor lang tid tar det å lage en skreddersydd nettside for en hudlege?",
+        "a": "Normal tid er 6–10 uker fra oppstart til lansering, avhengig av antall sider og ferdigstillelse av innhold. Vi fremdriften sikres gjennom faste milepæler og ukentlige gjennomganger."
+      },
+      {
+        "q": "Er nettsiden HIPAA-kompatibel?",
+        "a": "Vi bygger med HIPAA-aware arkitektur — krypterte skjemaer, sikker hosting med BAA-klare partnere, ingen PHI i analyseverktøy, og loggføring av alle innsendinger."
+      },
+      {
+        "q": "Eier jeg designet og koden selv?",
+        "a": "Ja. Ved lansering overføres fullt eierskap til designfiler, kode og innhold til deg. Ingen bindingstid og ingen proprietære publiseringsverktøy (CMS)."
+      },
+      {
+        "q": "Hva er inkludert i on-page SEO?",
+        "a": "Søkeordskartlagt H1/H2-struktur, schema-markering (LocalBusiness, MedicalClinic, FAQ), optimaliserte metadata, internlenking og bildeoptimalisering (alt-tekster) på hver side."
+      },
+      {
+        "q": "Tilbyr dere support etter lansering?",
+        "a": "Ja. Våre driftsavtaler dekker oppdateringer, sikkerhet, sikkerhetskopiering, overvåking, ytelsesjusteringer og månedlige innholdsendringer."
+      },
+      {
+        "q": "Hvor lang tid tar det å lansere en ny dermatologinettsted?",
+        "a": "De fleste prosjekter går live på 4–6 uker – fra oppdagelse til lansering. Tidslinjer avhenger av innholdsklarhet og omfang, og vi deler et klart uke-for-uke veikart under ombordstigning."
+      },
+      {
+        "q": "Håndterer dere HIPAA-samsvar og pasientvern?",
+        "a": "Ja. Hvert bygg er HIPAA-bevisst: sikker hosting, krypterte skjemaer, BAA-klare integrasjoner for kontakt og inntak, og en samsvarsgjennomgang før lansering."
+      },
+      {
+        "q": "Vil min nye nettside faktisk hjelpe meg med å rangere på Google?",
+        "a": "SEO er konstruert inn fra dag én – dermatologispesifikk skjema, tjeneste- og lokasjonssider, Core Web Vitals på 95+, og en on-page struktur bygget for å oppnå rangeringer for søkene som driver bestillinger."
+      }
+    ]
+  },
+  "ownerAnchors": {
+    "design": "nettsidedesign for hudleger",
+    "examples": "eksempler på hudklinikkenes nettsider",
+    "seo": "SEO-tjenester for hudleger",
+    "marketing": "markedsføringsstrategier for hudleger",
+    "pricing": "priser på hudklinikkenes nettsider",
+    "ppc": "Google Ads & PPC for hudleger",
+    "social": "Sosiale medier for hudleger",
+    "maintenance": "vedlikehold og administrasjon av hudklinikkenes nettsider",
+    "gallery": "Før- og etter-galleri",
+    "portal": "Pasientportal for dermatologi",
+    "process": "vår prosess",
+    "migration": "nettsidemigrering"
+  }
 }

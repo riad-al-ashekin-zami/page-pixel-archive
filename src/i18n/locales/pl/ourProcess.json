@@ -1,9 +1,21 @@
 {
   "meta": {
-    "title": "Nasz proces — 7 kroków do strony dermatologicznej | Odkryj → Wdróż → Rozwijaj",
+    "title": "Nasz proces | DWD",
     "description": "7-etapowy proces budowy stron dla dermatologii: audyt SEO, projektowanie, treści, programowanie i rozwój. Stałe terminy, cotygodniowe raporty, standard HIPAA i gwarancja Lighthouse 95+.",
-    "ogTitle": "Nasz proces — 7 kroków od startu do wzrostu",
-    "ogDescription": "Transparentny proces projektowania stron i SEO dla dermatologii. Zobacz krok po kroku, jak działamy — od analizy po stały rozwój Twojej praktyki."
+    "ogTitle": "Nasz proces | DWD",
+    "ogDescription": "7-etapowy proces budowy stron dla dermatologii: audyt SEO, projektowanie, treści, programowanie i rozwój. Stałe terminy, cotygodniowe raporty, standard HIPAA i gwarancja Lighthouse 95+.",
+    "og_title": "Nasz proces | DWD",
+    "twitter_title": "Nasz proces | DWD",
+    "og_description": "7-etapowy proces budowy stron dla dermatologii: audyt SEO, projektowanie, treści, programowanie i rozwój. Stałe terminy, cotygodniowe raporty, standard HIPAA i gwarancja Lighthouse 95+.",
+    "twitter_description": "7-etapowy proces budowy stron dla dermatologii: audyt SEO, projektowanie, treści, programowanie i rozwój. Stałe terminy, cotygodniowe raporty, standard HIPAA i gwarancja Lighthouse 95+.",
+    "og": {
+      "title": "Nasz proces | DWD",
+      "description": "7-etapowy proces budowy stron dla dermatologii: audyt SEO, projektowanie, treści, programowanie i rozwój. Stałe terminy, cotygodniowe raporty, standard HIPAA i gwarancja Lighthouse 95+."
+    },
+    "twitter": {
+      "title": "Nasz proces | DWD",
+      "description": "7-etapowy proces budowy stron dla dermatologii: audyt SEO, projektowanie, treści, programowanie i rozwój. Stałe terminy, cotygodniowe raporty, standard HIPAA i gwarancja Lighthouse 95+."
+    }
   },
   "jsonLd": {
     "breadcrumb": {
@@ -17,8 +29,8 @@
   },
   "hero": {
     "badge": "Nasz proces",
-    "title": "Od pierwszej rozmowy do zapisu pacjenta — ",
-    "titleHighlight": "7 kroków w sztywnych ramach czasowych.",
+    "title": "Nasz proces",
+    "titleHighlight": "",
     "description": "Bez niedomówień i niespodzianek w kosztach. Każdy etap ma przypisany cel, osobę odpowiedzialną i termin — dzięki temu zawsze wiesz, na czym stoimy i co wydarzy się w przyszłym tygodniu.",
     "buttons": {
       "seeSteps": "Poznaj 7 kroków",

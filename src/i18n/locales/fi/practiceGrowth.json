@@ -1,14 +1,14 @@
 {
   "meta": {
-    "title": "Ihotautiklinikan kasvuympäristö | Tuloksena varatut käynnit, ei vain näyttökertoja",
+    "title": "Ihotautiklinikan kasvuympäristö | DWD",
     "description": "Ihotautiklinikoiden kasvupalvelut: potilashankinta, konversio-optimointi, automaatio ja tulosanalytiikka sidottuna varattuihin käynteihin ja palvelulinjakohtaiseen kannattavuuteen.",
     "og": {
-      "title": "Dermatologian klinikan kasvu – varatut käynnit, ei vain näkyvyyttä",
-      "description": "Kokonaisvaltainen kasvu yksittäisille lääkäreille ja monitoimipaikkaisille klinikoille – hankinta, konversio, sitouttaminen ja analytiikka."
+      "title": "Ihotautiklinikan kasvuympäristö | DWD",
+      "description": "Ihotautiklinikoiden kasvupalvelut: potilashankinta, konversio-optimointi, automaatio ja tulosanalytiikka sidottuna varattuihin käynteihin ja palvelulinjakohtaiseen kannattavuuteen."
     },
     "twitter": {
-      "title": "Ihotautiklinikan kasvupalvelut",
-      "description": "Kasvua varatuissa käynneissä – mitattuna suoraan klinikan tuloslaskelmassa."
+      "title": "Ihotautiklinikan kasvuympäristö | DWD",
+      "description": "Ihotautiklinikoiden kasvupalvelut: potilashankinta, konversio-optimointi, automaatio ja tulosanalytiikka sidottuna varattuihin käynteihin ja palvelulinjakohtaiseen kannattavuuteen."
     },
     "jsonLd": {
       "serviceType": "Ihotautiklinikan kasvupalvelut",
@@ -19,7 +19,13 @@
         "services": "Palvelut",
         "current": "Ihotautiklinikan kasvu"
       }
-    }
+    },
+    "ogTitle": "Ihotautiklinikan kasvuympäristö | DWD",
+    "og_title": "Ihotautiklinikan kasvuympäristö | DWD",
+    "twitter_title": "Ihotautiklinikan kasvuympäristö | DWD",
+    "ogDescription": "Ihotautiklinikoiden kasvupalvelut: potilashankinta, konversio-optimointi, automaatio ja tulosanalytiikka sidottuna varattuihin käynteihin ja palvelulinjakohtaiseen kannattavuuteen.",
+    "og_description": "Ihotautiklinikoiden kasvupalvelut: potilashankinta, konversio-optimointi, automaatio ja tulosanalytiikka sidottuna varattuihin käynteihin ja palvelulinjakohtaiseen kannattavuuteen.",
+    "twitter_description": "Ihotautiklinikoiden kasvupalvelut: potilashankinta, konversio-optimointi, automaatio ja tulosanalytiikka sidottuna varattuihin käynteihin ja palvelulinjakohtaiseen kannattavuuteen."
   },
   "hero": {
     "badge": "Ihotautiklinikan kasvu",

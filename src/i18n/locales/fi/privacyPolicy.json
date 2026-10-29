@@ -1,15 +1,21 @@
 {
   "meta": {
-    "title": "Tietosuojaseloste — Näin käsittelemme tietojasi",
+    "title": "Tietosuojaseloste | DWD",
     "description": "Lue kuinka studiomme kerää, käyttää, jakaa ja suojaa sivuston vierailijoiden, potentiaalisten asiakkaiden sekä yhteistyökumppaneina toimivien ihotautilääkäreiden tietoja.",
     "og": {
-      "title": "Tietosuojaseloste — Näin käsittelemme tietojasi",
+      "title": "Tietosuojaseloste | DWD",
       "description": "Lue kuinka studiomme kerää, käyttää, jakaa ja suojaa sivuston vierailijoiden, potentiaalisten asiakkaiden sekä yhteistyökumppaneina toimivien ihotautilääkäreiden tietoja."
     },
     "twitter": {
-      "title": "Tietosuojaseloste — Näin käsittelemme tietojasi",
+      "title": "Tietosuojaseloste | DWD",
       "description": "Lue kuinka studiomme kerää, käyttää, jakaa ja suojaa sivuston vierailijoiden, potentiaalisten asiakkaiden sekä yhteistyökumppaneina toimivien ihotautilääkäreiden tietoja."
-    }
+    },
+    "ogTitle": "Tietosuojaseloste | DWD",
+    "og_title": "Tietosuojaseloste | DWD",
+    "twitter_title": "Tietosuojaseloste | DWD",
+    "ogDescription": "Lue kuinka studiomme kerää, käyttää, jakaa ja suojaa sivuston vierailijoiden, potentiaalisten asiakkaiden sekä yhteistyökumppaneina toimivien ihotautilääkäreiden tietoja.",
+    "og_description": "Lue kuinka studiomme kerää, käyttää, jakaa ja suojaa sivuston vierailijoiden, potentiaalisten asiakkaiden sekä yhteistyökumppaneina toimivien ihotautilääkäreiden tietoja.",
+    "twitter_description": "Lue kuinka studiomme kerää, käyttää, jakaa ja suojaa sivuston vierailijoiden, potentiaalisten asiakkaiden sekä yhteistyökumppaneina toimivien ihotautilääkäreiden tietoja."
   },
   "layout": {
     "skipToContent": "Siirry sisältöön"

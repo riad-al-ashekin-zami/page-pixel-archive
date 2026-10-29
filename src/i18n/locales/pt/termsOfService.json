@@ -1,11 +1,21 @@
 {
   "meta": {
-    "title": "Termos de Serviço — Utilização do Website e Vínculo",
+    "title": "Termos de Serviço | DWD",
     "description": "Os termos que regem a sua utilização do nosso website, as comunicações e quaisquer serviços contratados ao nosso estúdio.",
-    "og_title": "Termos de Serviço — Utilização do Website e Vínculo",
+    "og_title": "Termos de Serviço | DWD",
     "og_description": "Os termos que regem a sua utilização do nosso website, as comunicações e quaisquer serviços contratados ao nosso estúdio.",
-    "twitter_title": "Termos de Serviço — Utilização do Website e Vínculo",
-    "twitter_description": "Os termos que regem a sua utilização do nosso website, as comunicações e quaisquer serviços contratados ao nosso estúdio."
+    "twitter_title": "Termos de Serviço | DWD",
+    "twitter_description": "Os termos que regem a sua utilização do nosso website, as comunicações e quaisquer serviços contratados ao nosso estúdio.",
+    "ogTitle": "Termos de Serviço | DWD",
+    "ogDescription": "Os termos que regem a sua utilização do nosso website, as comunicações e quaisquer serviços contratados ao nosso estúdio.",
+    "og": {
+      "title": "Termos de Serviço | DWD",
+      "description": "Os termos que regem a sua utilização do nosso website, as comunicações e quaisquer serviços contratados ao nosso estúdio."
+    },
+    "twitter": {
+      "title": "Termos de Serviço | DWD",
+      "description": "Os termos que regem a sua utilização do nosso website, as comunicações e quaisquer serviços contratados ao nosso estúdio."
+    }
   },
   "a11y": {
     "skip_to_content": "Saltar para o conteúdo",

@@ -1,15 +1,21 @@
 {
   "meta": {
-    "title": "Peruutusehdot — Ennakkomaksut, välitavoitteet ja jatkuvat palvelut",
+    "title": "Peruutusehdot | DWD",
     "description": "Lue kuinka käsittelemme ennakkomaksut, välitavoitteet ja kuukausitilaukset peruutustilanteissa tai mikäli et ole tyytyväinen palveluumme.",
     "og": {
-      "title": "Peruutusehdot — Ennakkomaksut, välitavoitteet ja jatkuvat palvelut",
+      "title": "Peruutusehdot | DWD",
       "description": "Lue kuinka käsittelemme ennakkomaksut, välitavoitteet ja kuukausitilaukset peruutustilanteissa tai mikäli et ole tyytyväinen palveluumme."
     },
     "twitter": {
-      "title": "Peruutusehdot — Ennakkomaksut, välitavoitteet ja jatkuvat palvelut",
+      "title": "Peruutusehdot | DWD",
       "description": "Lue kuinka käsittelemme ennakkomaksut, välitavoitteet ja kuukausitilaukset peruutustilanteissa tai mikäli et ole tyytyväinen palveluumme."
-    }
+    },
+    "ogTitle": "Peruutusehdot | DWD",
+    "og_title": "Peruutusehdot | DWD",
+    "twitter_title": "Peruutusehdot | DWD",
+    "ogDescription": "Lue kuinka käsittelemme ennakkomaksut, välitavoitteet ja kuukausitilaukset peruutustilanteissa tai mikäli et ole tyytyväinen palveluumme.",
+    "og_description": "Lue kuinka käsittelemme ennakkomaksut, välitavoitteet ja kuukausitilaukset peruutustilanteissa tai mikäli et ole tyytyväinen palveluumme.",
+    "twitter_description": "Lue kuinka käsittelemme ennakkomaksut, välitavoitteet ja kuukausitilaukset peruutustilanteissa tai mikäli et ole tyytyväinen palveluumme."
   },
   "layout": {
     "skip_to_content": "Siirry sisältöön"

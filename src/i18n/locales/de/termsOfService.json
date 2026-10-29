@@ -1,11 +1,21 @@
 {
   "meta": {
-    "title": "Nutzungsbedingungen — Website-Nutzung & Zusammenarbeit",
+    "title": "Nutzungsbedingungen | DWD",
     "description": "Die Bedingungen für die Nutzung unserer Website, die Kommunikation und alle Dienstleistungen, die Sie bei unserem Studio beauftragen.",
-    "og_title": "Nutzungsbedingungen — Website-Nutzung & Zusammenarbeit",
+    "og_title": "Nutzungsbedingungen | DWD",
     "og_description": "Die Bedingungen für die Nutzung unserer Website, die Kommunikation und alle Dienstleistungen, die Sie bei unserem Studio beauftragen.",
-    "twitter_title": "Nutzungsbedingungen — Website-Nutzung & Zusammenarbeit",
-    "twitter_description": "Die Bedingungen für die Nutzung unserer Website, die Kommunikation und alle Dienstleistungen, die Sie bei unserem Studio beauftragen."
+    "twitter_title": "Nutzungsbedingungen | DWD",
+    "twitter_description": "Die Bedingungen für die Nutzung unserer Website, die Kommunikation und alle Dienstleistungen, die Sie bei unserem Studio beauftragen.",
+    "ogTitle": "Nutzungsbedingungen | DWD",
+    "ogDescription": "Die Bedingungen für die Nutzung unserer Website, die Kommunikation und alle Dienstleistungen, die Sie bei unserem Studio beauftragen.",
+    "og": {
+      "title": "Nutzungsbedingungen | DWD",
+      "description": "Die Bedingungen für die Nutzung unserer Website, die Kommunikation und alle Dienstleistungen, die Sie bei unserem Studio beauftragen."
+    },
+    "twitter": {
+      "title": "Nutzungsbedingungen | DWD",
+      "description": "Die Bedingungen für die Nutzung unserer Website, die Kommunikation und alle Dienstleistungen, die Sie bei unserem Studio beauftragen."
+    }
   },
   "a11y": {
     "skip_to_content": "Direkt zum Inhalt springen",

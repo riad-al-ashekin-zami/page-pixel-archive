@@ -1,21 +1,33 @@
 {
   "meta": {
-    "title": "Redesign dermatologického webu – Modernizace bez ztráty SEO pozic",
+    "title": "Redesign dermatologických webů | DWD",
     "description": "Prémiový redesign webových stránek pro dermatology: sólové praxe, multioborové kliniky, pediatrickou i chirurgickou dermatologii. Moderní, rychlé, v souladu se standardy HIPAA a s nulovým propadem SEO při spuštění.",
-    "og_title": "Redesign dermatologického webu – Nulová ztráta SEO",
-    "og_description": "Proměňte svůj zastaralý web na rychlou platformu zaměřenou na konverze a bezpečnost HIPAA. Redirekty 301 a SEO pozice zůstanou zachovány.",
+    "og_title": "Redesign dermatologických webů | DWD",
+    "og_description": "Prémiový redesign webových stránek pro dermatology: sólové praxe, multioborové kliniky, pediatrickou i chirurgickou dermatologii. Moderní, rychlé, v souladu se standardy HIPAA a s nulovým propadem SEO při spuštění.",
     "jsonLd": {
       "serviceType": "Redesign dermatologických webových stránek",
       "providerName": "DW Design",
       "offerDescription": "Redesign webových stránek pro dermatologii – vyvolávací cena"
+    },
+    "ogTitle": "Redesign dermatologických webů | DWD",
+    "twitter_title": "Redesign dermatologických webů | DWD",
+    "ogDescription": "Prémiový redesign webových stránek pro dermatology: sólové praxe, multioborové kliniky, pediatrickou i chirurgickou dermatologii. Moderní, rychlé, v souladu se standardy HIPAA a s nulovým propadem SEO při spuštění.",
+    "twitter_description": "Prémiový redesign webových stránek pro dermatology: sólové praxe, multioborové kliniky, pediatrickou i chirurgickou dermatologii. Moderní, rychlé, v souladu se standardy HIPAA a s nulovým propadem SEO při spuštění.",
+    "og": {
+      "title": "Redesign dermatologických webů | DWD",
+      "description": "Prémiový redesign webových stránek pro dermatology: sólové praxe, multioborové kliniky, pediatrickou i chirurgickou dermatologii. Moderní, rychlé, v souladu se standardy HIPAA a s nulovým propadem SEO při spuštění."
+    },
+    "twitter": {
+      "title": "Redesign dermatologických webů | DWD",
+      "description": "Prémiový redesign webových stránek pro dermatology: sólové praxe, multioborové kliniky, pediatrickou i chirurgickou dermatologii. Moderní, rychlé, v souladu se standardy HIPAA a s nulovým propadem SEO při spuštění."
     }
   },
   "hero": {
     "scarcityBadge": "Poslední 3 volné termíny pro redesign v tomto čtvrtletí",
     "category": "Redesign dermatologického webu",
     "h1": {
-      "main": "Modernizujte svůj web. ",
-      "highlight": "Bez rizika propadu v Google vyhledávání."
+      "main": "Redesign dermatologických webů",
+      "highlight": ""
     },
     "description": "Svěřte redesign své kliniky do rukou seniorních expertů. Rychlejší, bezpečnější a reprezentativnější web se zachováním 301 přesměrování, formuláři dle HIPAA a garantovanými SEO pozicemi.",
     "cta": {

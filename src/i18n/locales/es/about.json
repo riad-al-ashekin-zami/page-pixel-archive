@@ -1,15 +1,27 @@
 {
   "meta": {
-    "title": "Sobre Nosotros — Agencia de Diseño Web para Dermatología",
+    "title": "Sobre Nosotros | DWD",
     "description": "Creamos sitios web bajo normativas HIPAA y estrategias de marketing de crecimiento exclusivas para clínicas dermatológicas. Conozca al equipo detrás de los resultados.",
-    "ogTitle": "Sobre Nosotros — Diseño Web para Dermatología",
-    "ogDescription": "Una agencia de nicho que sirve a clínicas de dermatología con sitios web premium, SEO y captación de pacientes.",
+    "ogTitle": "Sobre Nosotros | DWD",
+    "ogDescription": "Creamos sitios web bajo normativas HIPAA y estrategias de marketing de crecimiento exclusivas para clínicas dermatológicas. Conozca al equipo detrás de los resultados.",
     "breadcrumbHome": "Inicio",
-    "breadcrumbAbout": "Nosotros"
+    "breadcrumbAbout": "Nosotros",
+    "og_title": "Sobre Nosotros | DWD",
+    "twitter_title": "Sobre Nosotros | DWD",
+    "og_description": "Creamos sitios web bajo normativas HIPAA y estrategias de marketing de crecimiento exclusivas para clínicas dermatológicas. Conozca al equipo detrás de los resultados.",
+    "twitter_description": "Creamos sitios web bajo normativas HIPAA y estrategias de marketing de crecimiento exclusivas para clínicas dermatológicas. Conozca al equipo detrás de los resultados.",
+    "og": {
+      "title": "Sobre Nosotros | DWD",
+      "description": "Creamos sitios web bajo normativas HIPAA y estrategias de marketing de crecimiento exclusivas para clínicas dermatológicas. Conozca al equipo detrás de los resultados."
+    },
+    "twitter": {
+      "title": "Sobre Nosotros | DWD",
+      "description": "Creamos sitios web bajo normativas HIPAA y estrategias de marketing de crecimiento exclusivas para clínicas dermatológicas. Conozca al equipo detrás de los resultados."
+    }
   },
   "hero": {
     "kicker": "Sobre Dermatology Website Design",
-    "h1": "Los especialistas detrás de los <1>sitios web exclusivos para dermatología.</1>",
+    "h1": "Acerca de DWD",
     "p": "Integramos Experiencia, Especialización, Autoridad y Confianza (E-E-A-T) en cada sitio — la señal principal de Google para el sector salud (YMYL). No somos una agencia generalista. Somos el especialista.",
     "ctaPrimary": "Trabaje con nosotros",
     "ctaSecondary": "Ver servicios",

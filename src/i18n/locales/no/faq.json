@@ -1,16 +1,29 @@
 {
   "meta": {
-    "title": "FAQ — Nettsidedesign for dermatologi, SEO og HIPAA-svar",
+    "title": "FAQ | DWD",
     "description": "Her finner du svar på spørsmål om prising av nettsider for hudleger, tidslinjer, SEO, HIPAA, redesign, migrering og løpende støtte for klinikker i vekst.",
-    "keywords": "FAQ nettsider dermatologi, FAQ SEO dermatologi, HIPAA nettside spørsmål, pris nettside hudlege, tidslinje nettside dermatologi",
     "breadcrumbList": {
       "home": "Hjem",
       "faq": "FAQ"
+    },
+    "ogTitle": "FAQ | DWD",
+    "og_title": "FAQ | DWD",
+    "twitter_title": "FAQ | DWD",
+    "ogDescription": "Her finner du svar på spørsmål om prising av nettsider for hudleger, tidslinjer, SEO, HIPAA, redesign, migrering og løpende støtte for klinikker i vekst.",
+    "og_description": "Her finner du svar på spørsmål om prising av nettsider for hudleger, tidslinjer, SEO, HIPAA, redesign, migrering og løpende støtte for klinikker i vekst.",
+    "twitter_description": "Her finner du svar på spørsmål om prising av nettsider for hudleger, tidslinjer, SEO, HIPAA, redesign, migrering og løpende støtte for klinikker i vekst.",
+    "og": {
+      "title": "FAQ | DWD",
+      "description": "Her finner du svar på spørsmål om prising av nettsider for hudleger, tidslinjer, SEO, HIPAA, redesign, migrering og løpende støtte for klinikker i vekst."
+    },
+    "twitter": {
+      "title": "FAQ | DWD",
+      "description": "Her finner du svar på spørsmål om prising av nettsider for hudleger, tidslinjer, SEO, HIPAA, redesign, migrering og løpende støtte for klinikker i vekst."
     }
   },
   "hero": {
     "badge": "{{totalCount}} svar · Spesialisert på dermatologi",
-    "heading": "Alle svarene en hudlegepraksis faktisk trenger.",
+    "heading": "Ofte stilte spørsmål",
     "subheading": "Prising, tidslinjer, SEO, HIPAA, redesign, migreringer og integrasjoner. Direkte og spesifikke svar, skrevet av teamet som faktisk gjør jobben.",
     "search": {
       "label": "Søk i FAQ",

@@ -1,11 +1,24 @@
 {
   "meta": {
-    "title": "Portafolio de Páginas Web para Dermatología: Rediseños Reales de Clínicas",
+    "title": "Ejemplos de Sitios Web de Dermatología | DWD",
     "description": "Portafolio exclusivo de sitios web diseñados y desarrollados para dermatología: clínicas estéticas, médicas, pediátricas y con múltiples sedes con crecimiento medible en citas, SEO y velocidad.",
-    "keywords": "portafolio webs dermatología, ejemplos diseño web dermatología, casos de éxito webs dermatología, páginas web centros dermatológicos",
     "breadcrumb": {
       "home": "Inicio",
       "portfolio": "Portafolio"
+    },
+    "ogTitle": "Ejemplos de Sitios Web de Dermatología | DWD",
+    "og_title": "Ejemplos de Sitios Web de Dermatología | DWD",
+    "twitter_title": "Ejemplos de Sitios Web de Dermatología | DWD",
+    "ogDescription": "Portafolio exclusivo de sitios web diseñados y desarrollados para dermatología: clínicas estéticas, médicas, pediátricas y con múltiples sedes con crecimiento medible en citas, SEO y velocidad.",
+    "og_description": "Portafolio exclusivo de sitios web diseñados y desarrollados para dermatología: clínicas estéticas, médicas, pediátricas y con múltiples sedes con crecimiento medible en citas, SEO y velocidad.",
+    "twitter_description": "Portafolio exclusivo de sitios web diseñados y desarrollados para dermatología: clínicas estéticas, médicas, pediátricas y con múltiples sedes con crecimiento medible en citas, SEO y velocidad.",
+    "og": {
+      "title": "Ejemplos de Sitios Web de Dermatología | DWD",
+      "description": "Portafolio exclusivo de sitios web diseñados y desarrollados para dermatología: clínicas estéticas, médicas, pediátricas y con múltiples sedes con crecimiento medible en citas, SEO y velocidad."
+    },
+    "twitter": {
+      "title": "Ejemplos de Sitios Web de Dermatología | DWD",
+      "description": "Portafolio exclusivo de sitios web diseñados y desarrollados para dermatología: clínicas estéticas, médicas, pediátricas y con múltiples sedes con crecimiento medible en citas, SEO y velocidad."
     }
   },
   "accessibility": {
@@ -13,7 +26,7 @@
   },
   "hero": {
     "badge": "Portafolio · Más de 50 clínicas dermatológicas",
-    "heading": "Sitios web reales para dermatología. Crecimiento real.",
+    "heading": "Ejemplos de Sitios Web de Dermatología",
     "subheading": "Cada proyecto a continuación es una clínica activa: centros estéticos, médicos, pediátricos y grupos multisala. Diseño a medida, desarrollo con estándares HIPAA y un SEO enfocado en generar citas, no solo posiciones.",
     "cta": {
       "start": "Iniciar un proyecto",

@@ -1,11 +1,23 @@
 {
   "meta": {
-    "title": "Contáctanos",
+    "title": "Contáctanos | DWD",
     "description": "Cuéntanos sobre tu práctica y tu sitio web. Te enviaremos una auditoría gratuita y personalizada con oportunidades de SEO, velocidad y conversión en 48 horas.",
-    "ogTitle": "Contáctanos",
+    "ogTitle": "Contáctanos | DWD",
     "ogDescription": "Cuéntanos sobre tu práctica y tu sitio web. Te enviaremos una auditoría gratuita y personalizada con oportunidades de SEO, velocidad y conversión en 48 horas.",
     "breadcrumbHome": "Inicio",
-    "breadcrumbContact": "Contacto"
+    "breadcrumbContact": "Contacto",
+    "og_title": "Contáctanos | DWD",
+    "twitter_title": "Contáctanos | DWD",
+    "og_description": "Cuéntanos sobre tu práctica y tu sitio web. Te enviaremos una auditoría gratuita y personalizada con oportunidades de SEO, velocidad y conversión en 48 horas.",
+    "twitter_description": "Cuéntanos sobre tu práctica y tu sitio web. Te enviaremos una auditoría gratuita y personalizada con oportunidades de SEO, velocidad y conversión en 48 horas.",
+    "og": {
+      "title": "Contáctanos | DWD",
+      "description": "Cuéntanos sobre tu práctica y tu sitio web. Te enviaremos una auditoría gratuita y personalizada con oportunidades de SEO, velocidad y conversión en 48 horas."
+    },
+    "twitter": {
+      "title": "Contáctanos | DWD",
+      "description": "Cuéntanos sobre tu práctica y tu sitio web. Te enviaremos una auditoría gratuita y personalizada con oportunidades de SEO, velocidad y conversión en 48 horas."
+    }
   },
   "auditForm": {
     "hero": {
@@ -80,5 +92,6 @@
     "description": "Hemos recibido tu solicitud de auditoría.",
     "turnaround": "Te enviaremos tu auditoría en 48 horas",
     "backHome": "Volver al inicio"
-  }
+  },
+  "pageHeading": "Contáctanos"
 }

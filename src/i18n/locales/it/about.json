@@ -1,15 +1,27 @@
 {
   "meta": {
-    "title": "Chi siamo — Agenzia di web design per la dermatologia",
+    "title": "Informazioni su DWD | DWD",
     "description": "Realizziamo siti web conformi HIPAA e strategie di marketing per studi dermatologici. Scopri il team dietro i nostri successi.",
-    "ogTitle": "Chi siamo — Web Design per la Dermatologia",
-    "ogDescription": "Un'agenzia di nicchia al servizio degli studi dermatologici con siti web premium, SEO e acquisizione pazienti.",
+    "ogTitle": "Informazioni su DWD | DWD",
+    "ogDescription": "Realizziamo siti web conformi HIPAA e strategie di marketing per studi dermatologici. Scopri il team dietro i nostri successi.",
     "breadcrumbHome": "Home",
-    "breadcrumbAbout": "Chi siamo"
+    "breadcrumbAbout": "Chi siamo",
+    "og_title": "Informazioni su DWD | DWD",
+    "twitter_title": "Informazioni su DWD | DWD",
+    "og_description": "Realizziamo siti web conformi HIPAA e strategie di marketing per studi dermatologici. Scopri il team dietro i nostri successi.",
+    "twitter_description": "Realizziamo siti web conformi HIPAA e strategie di marketing per studi dermatologici. Scopri il team dietro i nostri successi.",
+    "og": {
+      "title": "Informazioni su DWD | DWD",
+      "description": "Realizziamo siti web conformi HIPAA e strategie di marketing per studi dermatologici. Scopri il team dietro i nostri successi."
+    },
+    "twitter": {
+      "title": "Informazioni su DWD | DWD",
+      "description": "Realizziamo siti web conformi HIPAA e strategie di marketing per studi dermatologici. Scopri il team dietro i nostri successi."
+    }
   },
   "hero": {
     "kicker": "Dermatology Website Design",
-    "h1": "Gli specialisti dei <1>siti web per dermatologi.</1>",
+    "h1": "Informazioni su DWD",
     "p": "Integriamo Esperienza, Competenza, Autorevolezza e Affidabilità (E-E-A-T) in ogni sito: i segnali fondamentali di Google per il settore sanitario (YMYL). Non siamo un'agenzia generalista. Siamo gli specialisti.",
     "ctaPrimary": "Lavora con noi",
     "ctaSecondary": "Scopri i servizi",

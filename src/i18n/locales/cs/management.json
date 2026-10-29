@@ -1,15 +1,25 @@
 {
   "meta": {
-    "title": "Správa dermatologických webů — Tým zaměřený na růst",
+    "title": "Údržba a správa dermatologických webů | DWD",
     "description": "Komplexní správa webu pro dermatology: dedikovaný manažer, měsíční obsah, SEO, A/B testování a optimalizace konverzí. Bez závazků.",
     "og": {
-      "title": "Správa dermatologických webů — Váš tým pro růst",
-      "description": "Váš web spravuje každý týden dedikovaný tým — obsah, SEO, CRO, kampaně a reporting. HIPAA-aware. Měsíc po měsíci."
+      "title": "Údržba a správa dermatologických webů | DWD",
+      "description": "Komplexní správa webu pro dermatology: dedikovaný manažer, měsíční obsah, SEO, A/B testování a optimalizace konverzí. Bez závazků."
+    },
+    "ogTitle": "Údržba a správa dermatologických webů | DWD",
+    "og_title": "Údržba a správa dermatologických webů | DWD",
+    "twitter_title": "Údržba a správa dermatologických webů | DWD",
+    "ogDescription": "Komplexní správa webu pro dermatology: dedikovaný manažer, měsíční obsah, SEO, A/B testování a optimalizace konverzí. Bez závazků.",
+    "og_description": "Komplexní správa webu pro dermatology: dedikovaný manažer, měsíční obsah, SEO, A/B testování a optimalizace konverzí. Bez závazků.",
+    "twitter_description": "Komplexní správa webu pro dermatology: dedikovaný manažer, měsíční obsah, SEO, A/B testování a optimalizace konverzí. Bez závazků.",
+    "twitter": {
+      "title": "Údržba a správa dermatologických webů | DWD",
+      "description": "Komplexní správa webu pro dermatology: dedikovaný manažer, měsíční obsah, SEO, A/B testování a optimalizace konverzí. Bez závazků."
     }
   },
   "hero": {
     "badge": "Správa dermatologických webů",
-    "headline": "Tým pro růst, který se stará o váš web — každý týden.",
+    "headline": "Údržba a správa dermatologických webů",
     "subheading": "Strategie, obsah, SEO, testy konverzí a reporting pod taktovkou dedikovaného týmu. Přestaňte řešit web a začněte díky němu získávat nové pacienty.",
     "cta_primary": "Získat růstový plán",
     "cta_secondary": "Bezplatný audit zdarma",
@@ -454,5 +464,87 @@
     "service_type": "Dermatology Website Management Services",
     "provider_name": "DermatologyWebsiteDesign.com",
     "offer_description": "Správa dermatologických webů — počáteční měsíční cena"
+  },
+  "merged": {
+    "heading": "Bezpečný hosting s ohledem na HIPAA",
+    "pillars": {
+      "badge": "Co obsahuje plán péče",
+      "title": "Každá vrstva vašeho webu — hlídaná, opravená, vyladěná.",
+      "description": "Šest pilířů měsíční práce. Žádné příplatky, žádné překvapivé faktury.",
+      "items": [
+        {
+          "title": "24/7 Monitorování dostupnosti",
+          "desc": "Kontroly stavu každých 60 sekund z 5 regionů. Upozornění dostane náš technik dříve, než se o tom dozví vaše recepce."
+        },
+        {
+          "title": "Aktualizace dle HIPAA",
+          "desc": "Aktualizace CMS, pluginů a závislostí jsou testovány a nasazovány v rámci hostingu připraveného na BAA."
+        },
+        {
+          "title": "Denní šifrované zálohy",
+          "desc": "Externí, verzované zálohy s obnovou na jedno kliknutí. Každý měsíc testujeme funkčnost — nestačí nám jen zálohu naplánovat."
+        },
+        {
+          "title": "Skenování malwaru a zranitelností",
+          "desc": "Týdenní skeny, čtvrtletní penetrační testy a okamžité záplatování jakéhokoli CVE postihujícího váš technologický zásobník."
+        },
+        {
+          "title": "Dohled nad Core Web Vitals",
+          "desc": "LCP, INP a CLS jsou neustále sledovány — jakékoli zhoršení řešíme dříve, než Google negativně ovlivní vaše pozice."
+        },
+        {
+          "title": "Zdravé on-page SEO",
+          "desc": "Nefunkční odkazy, chybějící schemata, osiřelé stránky a chyby procházení zachycujeme a opravujeme každý měsíc v rámci plánu."
+        }
+      ]
+    },
+    "included": {
+      "badge": "Součástí každého měsíce",
+      "title": "16 věcí, které pro vás děláme — každý jednotlivý měsíc.",
+      "items": [
+        "24/7 monitoring dostupnosti a SSL",
+        "Týdenní aktualizace CMS a pluginů",
+        "Denní šifrované externí zálohy",
+        "Skenování malwaru a CVE záplatování",
+        "Audity formulářů a PHI v souladu s HIPAA",
+        "Monitorování Core Web Vitals",
+        "Kontrola SEO zdraví a nefunkčních odkazů",
+        "Optimalizace databáze",
+        "Ladění CDN a edge cache",
+        "Třídění chyb a nasazování oprav (hotfix)",
+        "Hodiny na úpravy obsahu a designu",
+        "Měsíční report o výkonu",
+        "Proaktivní upozornění na incidenty",
+        "Protokol změn v souladu s předpisy",
+        "Kontroly přístupnosti (WCAG AA)",
+        "Přidělený technik pro váš účet"
+      ]
+    },
+    "flow": {
+      "badge": "Jak funguje péče",
+      "title": "Od úvodního nastavení až po klidnější měsíc, pokaždé.",
+      "items": [
+        {
+          "step": "01",
+          "title": "Převzetí a audit",
+          "desc": "Váš web převezmeme po kompletním auditu bezpečnosti, výkonu, SEO a HIPAA — nic nemonitorujeme naslepo."
+        },
+        {
+          "step": "02",
+          "title": "Zabezpečení a nastavení",
+          "desc": "Záplatování, ověření záloh, nastavení monitoringu a zdokumentování výchozího stavu pro každé měřítko Core Web Vitals."
+        },
+        {
+          "step": "03",
+          "title": "Monitoring a údržba",
+          "desc": "24/7 dohled, týdenní aktualizace, měsíční SEO reporty — plus vaše hodiny na úpravy pro další růst."
+        },
+        {
+          "step": "04",
+          "title": "Reportování a zlepšování",
+          "desc": "Měsíční revize výkonu s vaším technikem. Kde můžeme příští měsíc web zrychlit, zabezpečit a posunout výše ve vyhledávání?"
+        }
+      ]
+    }
   }
 }

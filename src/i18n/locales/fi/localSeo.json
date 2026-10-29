@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "Ihonhoidon paikallinen SEO-palvelu | Nouse Google Map Pack -kärkeen",
+    "title": "Ihonhoidon paikallinen SEO-palvelu | DWD",
     "description": "Paikallinen hakukoneoptimointi ihotautiklinikoille – Google Business Profile -optimointi, maantieteellisesti kohdistetut lokaatiosivut, HIPAA-turvallinen arvostelujen hallinta ja yrityshakemistot.",
-    "og_title": "Ihonhoidon paikallinen SEO – Ota haltuun Map Pack",
-    "og_description": "Nouse Googlen karttapakan kärkeen jokaisessa palvelemassasi kaupungissa. GBP-optimointi, paikallinen skeema ja ihotautialalle räätälöity sisältö.",
-    "twitter_title": "Dermatologian paikalliset SEO-palvelut",
-    "twitter_description": "Hallitse Googlen karttatuloksia jokaisessa kaupungissa, jossa klinikkasi toimii.",
+    "og_title": "Ihonhoidon paikallinen SEO-palvelu | DWD",
+    "og_description": "Paikallinen hakukoneoptimointi ihotautiklinikoille – Google Business Profile -optimointi, maantieteellisesti kohdistetut lokaatiosivut, HIPAA-turvallinen arvostelujen hallinta ja yrityshakemistot.",
+    "twitter_title": "Ihonhoidon paikallinen SEO-palvelu | DWD",
+    "twitter_description": "Paikallinen hakukoneoptimointi ihotautiklinikoille – Google Business Profile -optimointi, maantieteellisesti kohdistetut lokaatiosivut, HIPAA-turvallinen arvostelujen hallinta ja yrityshakemistot.",
     "json_ld": {
       "service_type": "Dermatology Local SEO Services",
       "provider_name": "DermatologyWebsiteDesign.com",
@@ -14,6 +14,16 @@
       "breadcrumb_home": "Etusivu",
       "breadcrumb_services": "Palvelut",
       "breadcrumb_current": "Ihonhoidon paikallinen SEO"
+    },
+    "ogTitle": "Ihonhoidon paikallinen SEO-palvelu | DWD",
+    "ogDescription": "Paikallinen hakukoneoptimointi ihotautiklinikoille – Google Business Profile -optimointi, maantieteellisesti kohdistetut lokaatiosivut, HIPAA-turvallinen arvostelujen hallinta ja yrityshakemistot.",
+    "og": {
+      "title": "Ihonhoidon paikallinen SEO-palvelu | DWD",
+      "description": "Paikallinen hakukoneoptimointi ihotautiklinikoille – Google Business Profile -optimointi, maantieteellisesti kohdistetut lokaatiosivut, HIPAA-turvallinen arvostelujen hallinta ja yrityshakemistot."
+    },
+    "twitter": {
+      "title": "Ihonhoidon paikallinen SEO-palvelu | DWD",
+      "description": "Paikallinen hakukoneoptimointi ihotautiklinikoille – Google Business Profile -optimointi, maantieteellisesti kohdistetut lokaatiosivut, HIPAA-turvallinen arvostelujen hallinta ja yrityshakemistot."
     }
   },
   "hero": {

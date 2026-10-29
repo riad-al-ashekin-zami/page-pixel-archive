@@ -1,14 +1,14 @@
 {
   "meta": {
-    "title": "Wachstumsservice für Dermatologie-Praxen | Gebuchte Termine statt Impressionen",
+    "title": "Wachstumsservice für Dermatologie-Praxen | DWD",
     "description": "Praxiswachstum für Dermatologie-Kliniken – Patientenakquise, Conversion-Optimierung, Patientenbindung und Umsatzanalysen basierend auf gebuchten Terminen und Service-Line-G&V.",
     "og": {
-      "title": "Dermatologie-Praxiswachstum – Gebuchte Termine statt Impressionen",
-      "description": "Ganzheitliches Wachstum für Einzelpraxen und MVZs – Akquise, Conversion, Patientenbindung und Umsatz-Reporting."
+      "title": "Wachstumsservice für Dermatologie-Praxen | DWD",
+      "description": "Praxiswachstum für Dermatologie-Kliniken – Patientenakquise, Conversion-Optimierung, Patientenbindung und Umsatzanalysen basierend auf gebuchten Terminen und Service-Line-G&V."
     },
     "twitter": {
-      "title": "Dermatologie-Praxiswachstum & Marketing-Services",
-      "description": "Wachstum durch gebuchte Termine für Dermatologen – messbar in Ihrer Gewinn- und Verlustrechnung."
+      "title": "Wachstumsservice für Dermatologie-Praxen | DWD",
+      "description": "Praxiswachstum für Dermatologie-Kliniken – Patientenakquise, Conversion-Optimierung, Patientenbindung und Umsatzanalysen basierend auf gebuchten Terminen und Service-Line-G&V."
     },
     "jsonLd": {
       "serviceType": "Dermatologie-Praxiswachstum-Services",
@@ -19,7 +19,13 @@
         "services": "Leistungen",
         "current": "Praxiswachstum Dermatologie"
       }
-    }
+    },
+    "ogTitle": "Wachstumsservice für Dermatologie-Praxen | DWD",
+    "og_title": "Wachstumsservice für Dermatologie-Praxen | DWD",
+    "twitter_title": "Wachstumsservice für Dermatologie-Praxen | DWD",
+    "ogDescription": "Praxiswachstum für Dermatologie-Kliniken – Patientenakquise, Conversion-Optimierung, Patientenbindung und Umsatzanalysen basierend auf gebuchten Terminen und Service-Line-G&V.",
+    "og_description": "Praxiswachstum für Dermatologie-Kliniken – Patientenakquise, Conversion-Optimierung, Patientenbindung und Umsatzanalysen basierend auf gebuchten Terminen und Service-Line-G&V.",
+    "twitter_description": "Praxiswachstum für Dermatologie-Kliniken – Patientenakquise, Conversion-Optimierung, Patientenbindung und Umsatzanalysen basierend auf gebuchten Terminen und Service-Line-G&V."
   },
   "hero": {
     "badge": "Dermatologie-Praxiswachstum",

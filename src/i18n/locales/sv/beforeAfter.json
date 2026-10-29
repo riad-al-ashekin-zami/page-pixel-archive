@@ -1,11 +1,23 @@
 {
   "meta": {
-    "title": "Före- och eftergalleri för dermatologi — Premiumpresentation av patientfall",
+    "title": "Före- och eftergalleri för dermatologi | DWD",
     "description": "Premium, HIPAA-anpassat före- och eftergalleri för hudläkarmottagningar. Inkluderar drag-reglage, smarta filter för besvär och behandlare, tidslinjevyer samt CTA-knappar för bokning.",
-    "ogTitle": "Före- och eftergalleri för dermatologi — Premiumpresentation av patientfall",
-    "ogDescription": "Interaktivt drag-reglage, HIPAA-anpassat samtycke, smarta filter och konverteringsdrivande bokningsknappar – skräddarsytt för hudläkarmottagningar.",
+    "ogTitle": "Före- och eftergalleri för dermatologi | DWD",
+    "ogDescription": "Premium, HIPAA-anpassat före- och eftergalleri för hudläkarmottagningar. Inkluderar drag-reglage, smarta filter för besvär och behandlare, tidslinjevyer samt CTA-knappar för bokning.",
     "jsonLdName": "DermatologyWebsiteDesign.com",
-    "jsonLdServiceType": "Design av före- och eftergallerier för dermatologi"
+    "jsonLdServiceType": "Design av före- och eftergallerier för dermatologi",
+    "og_title": "Före- och eftergalleri för dermatologi | DWD",
+    "twitter_title": "Före- och eftergalleri för dermatologi | DWD",
+    "og_description": "Premium, HIPAA-anpassat före- och eftergalleri för hudläkarmottagningar. Inkluderar drag-reglage, smarta filter för besvär och behandlare, tidslinjevyer samt CTA-knappar för bokning.",
+    "twitter_description": "Premium, HIPAA-anpassat före- och eftergalleri för hudläkarmottagningar. Inkluderar drag-reglage, smarta filter för besvär och behandlare, tidslinjevyer samt CTA-knappar för bokning.",
+    "og": {
+      "title": "Före- och eftergalleri för dermatologi | DWD",
+      "description": "Premium, HIPAA-anpassat före- och eftergalleri för hudläkarmottagningar. Inkluderar drag-reglage, smarta filter för besvär och behandlare, tidslinjevyer samt CTA-knappar för bokning."
+    },
+    "twitter": {
+      "title": "Före- och eftergalleri för dermatologi | DWD",
+      "description": "Premium, HIPAA-anpassat före- och eftergalleri för hudläkarmottagningar. Inkluderar drag-reglage, smarta filter för besvär och behandlare, tidslinjevyer samt CTA-knappar för bokning."
+    }
   },
   "hero": {
     "badge": "Före- och eftergalleri",

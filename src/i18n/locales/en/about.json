@@ -1,15 +1,27 @@
 {
   "meta": {
-    "title": "About Us",
+    "title": "About Us | DWD",
     "description": "Meet the senior team that builds HIPAA-aware websites, SEO and patient acquisition for skin clinics. See how we work and what we stand for.",
-    "ogTitle": "About Us",
+    "ogTitle": "About Us | DWD",
     "ogDescription": "Meet the senior team that builds HIPAA-aware websites, SEO and patient acquisition for skin clinics. See how we work and what we stand for.",
     "breadcrumbHome": "Home",
-    "breadcrumbAbout": "About Us"
+    "breadcrumbAbout": "About Us",
+    "og_title": "About Us | DWD",
+    "twitter_title": "About Us | DWD",
+    "og_description": "Meet the senior team that builds HIPAA-aware websites, SEO and patient acquisition for skin clinics. See how we work and what we stand for.",
+    "twitter_description": "Meet the senior team that builds HIPAA-aware websites, SEO and patient acquisition for skin clinics. See how we work and what we stand for.",
+    "og": {
+      "title": "About Us | DWD",
+      "description": "Meet the senior team that builds HIPAA-aware websites, SEO and patient acquisition for skin clinics. See how we work and what we stand for."
+    },
+    "twitter": {
+      "title": "About Us | DWD",
+      "description": "Meet the senior team that builds HIPAA-aware websites, SEO and patient acquisition for skin clinics. See how we work and what we stand for."
+    }
   },
   "hero": {
     "kicker": "About Us",
-    "h1": "The Team Behind Your <1>Practice's Growth</1>",
+    "h1": "About DWD",
     "p": "We build Experience, Expertise, Authority, and Trust (E-E-A-T) into every skin clinic site, Google's core signal for healthcare (YMYL) niches. Not a generalist agency. The specialist.",
     "ctaPrimary": "Work with us",
     "ctaSecondary": "See services",

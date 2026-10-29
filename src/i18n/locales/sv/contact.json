@@ -1,11 +1,23 @@
 {
   "meta": {
-    "title": "Kontakta oss",
+    "title": "Kontakta oss | DWD",
     "description": "Berätta om din praktik och din webbplats. Vi skickar en kostnadsfri, personlig granskning med SEO-, hastighets- och konverteringsmöjligheter inom 48 timmar.",
-    "ogTitle": "Kontakta oss",
+    "ogTitle": "Kontakta oss | DWD",
     "ogDescription": "Berätta om din praktik och din webbplats. Vi skickar en kostnadsfri, personlig granskning med SEO-, hastighets- och konverteringsmöjligheter inom 48 timmar.",
     "breadcrumbHome": "Hem",
-    "breadcrumbContact": "Kontakt"
+    "breadcrumbContact": "Kontakt",
+    "og_title": "Kontakta oss | DWD",
+    "twitter_title": "Kontakta oss | DWD",
+    "og_description": "Berätta om din praktik och din webbplats. Vi skickar en kostnadsfri, personlig granskning med SEO-, hastighets- och konverteringsmöjligheter inom 48 timmar.",
+    "twitter_description": "Berätta om din praktik och din webbplats. Vi skickar en kostnadsfri, personlig granskning med SEO-, hastighets- och konverteringsmöjligheter inom 48 timmar.",
+    "og": {
+      "title": "Kontakta oss | DWD",
+      "description": "Berätta om din praktik och din webbplats. Vi skickar en kostnadsfri, personlig granskning med SEO-, hastighets- och konverteringsmöjligheter inom 48 timmar."
+    },
+    "twitter": {
+      "title": "Kontakta oss | DWD",
+      "description": "Berätta om din praktik och din webbplats. Vi skickar en kostnadsfri, personlig granskning med SEO-, hastighets- och konverteringsmöjligheter inom 48 timmar."
+    }
   },
   "auditForm": {
     "hero": {
@@ -80,5 +92,6 @@
     "description": "Vi har tagit emot din granskningsförfrågan.",
     "turnaround": "Vi skickar din granskning inom 48 timmar",
     "backHome": "Tillbaka till startsidan"
-  }
+  },
+  "pageHeading": "Kontakta oss"
 }

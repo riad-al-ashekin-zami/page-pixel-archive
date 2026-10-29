@@ -1,11 +1,21 @@
 {
   "meta": {
-    "title": "Obchodní podmínky — Užívání webu a spolupráce",
+    "title": "Obchodní podmínky | DWD",
     "description": "Podmínky upravující používání našich webových stránek, vzájemnou komunikaci a veškeré služby, které si u našeho studia objednáte.",
-    "og_title": "Obchodní podmínky — Užívání webu a spolupráce",
+    "og_title": "Obchodní podmínky | DWD",
     "og_description": "Podmínky upravující používání našich webových stránek, vzájemnou komunikaci a veškeré služby, které si u našeho studia objednáte.",
-    "twitter_title": "Obchodní podmínky — Užívání webu a spolupráce",
-    "twitter_description": "Podmínky upravující používání našich webových stránek, vzájemnou komunikaci a veškeré služby, které si u našeho studia objednáte."
+    "twitter_title": "Obchodní podmínky | DWD",
+    "twitter_description": "Podmínky upravující používání našich webových stránek, vzájemnou komunikaci a veškeré služby, které si u našeho studia objednáte.",
+    "ogTitle": "Obchodní podmínky | DWD",
+    "ogDescription": "Podmínky upravující používání našich webových stránek, vzájemnou komunikaci a veškeré služby, které si u našeho studia objednáte.",
+    "og": {
+      "title": "Obchodní podmínky | DWD",
+      "description": "Podmínky upravující používání našich webových stránek, vzájemnou komunikaci a veškeré služby, které si u našeho studia objednáte."
+    },
+    "twitter": {
+      "title": "Obchodní podmínky | DWD",
+      "description": "Podmínky upravující používání našich webových stránek, vzájemnou komunikaci a veškeré služby, které si u našeho studia objednáte."
+    }
   },
   "a11y": {
     "skip_to_content": "Přejít na obsah",

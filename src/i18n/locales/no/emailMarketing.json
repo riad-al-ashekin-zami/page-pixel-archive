@@ -1,14 +1,14 @@
 {
   "meta": {
-    "title": "E-postmarkedsføring for dermatologer | HIPAA-sikker innkalling, nyhetsbrev og automasjon",
+    "title": "E-postmarkedsføring for dermatologer | DWD",
     "description": "HIPAA-sikker e-postmarkedsføring for hudlegekontor — velkomstserier, 6-måneders automatisert innkalling, sesongbasert opplæring og reaktivering av estetiske pasienter. Vi rapporterer på bestilte timer, ikke bare åpningsrate.",
     "og": {
-      "title": "E-postmarkedsføring for hudleger — HIPAA-sikker og målbare timebestillinger",
-      "description": "Skreddersydde nyhetsbrev, PMS-baserte innkallingsløp og HIPAA-kompatibel automasjon for hudlegepraksiser. Klaviyo, HubSpot, Mailchimp."
+      "title": "E-postmarkedsføring for dermatologer | DWD",
+      "description": "HIPAA-sikker e-postmarkedsføring for hudlegekontor — velkomstserier, 6-måneders automatisert innkalling, sesongbasert opplæring og reaktivering av estetiske pasienter. Vi rapporterer på bestilte timer, ikke bare åpningsrate."
     },
     "twitter": {
-      "title": "Tjenester innen e-postmarkedsføring for dermatologi",
-      "description": "HIPAA-sikker e-postmarkedsføring, automatisert innkalling og optimal levering til innboksen for hudlegepraksiser."
+      "title": "E-postmarkedsføring for dermatologer | DWD",
+      "description": "HIPAA-sikker e-postmarkedsføring for hudlegekontor — velkomstserier, 6-måneders automatisert innkalling, sesongbasert opplæring og reaktivering av estetiske pasienter. Vi rapporterer på bestilte timer, ikke bare åpningsrate."
     },
     "jsonLd": {
       "serviceType": "E-postmarkedsføring for hudlegepraksiser",
@@ -19,7 +19,13 @@
         "services": "Tjenester",
         "emailMarketing": "E-postmarkedsføring"
       }
-    }
+    },
+    "ogTitle": "E-postmarkedsføring for dermatologer | DWD",
+    "og_title": "E-postmarkedsføring for dermatologer | DWD",
+    "twitter_title": "E-postmarkedsføring for dermatologer | DWD",
+    "ogDescription": "HIPAA-sikker e-postmarkedsføring for hudlegekontor — velkomstserier, 6-måneders automatisert innkalling, sesongbasert opplæring og reaktivering av estetiske pasienter. Vi rapporterer på bestilte timer, ikke bare åpningsrate.",
+    "og_description": "HIPAA-sikker e-postmarkedsføring for hudlegekontor — velkomstserier, 6-måneders automatisert innkalling, sesongbasert opplæring og reaktivering av estetiske pasienter. Vi rapporterer på bestilte timer, ikke bare åpningsrate.",
+    "twitter_description": "HIPAA-sikker e-postmarkedsføring for hudlegekontor — velkomstserier, 6-måneders automatisert innkalling, sesongbasert opplæring og reaktivering av estetiske pasienter. Vi rapporterer på bestilte timer, ikke bare åpningsrate."
   },
   "hero": {
     "badge": "E-postmarkedsføring for dermatologi",

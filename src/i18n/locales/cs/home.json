@@ -1,18 +1,36 @@
 {
   "meta": {
-    "title": "Tvorba webů pro dermatologii — Růstové platformy v souladu s HIPAA",
-    "description": "Webové stránky v souladu s HIPAA, SEO a marketing pro dermatologické ordinace. Audit vašeho webu zdarma do 24 hodin.",
-    "orgDescription": "Návrh dermatologických webů v souladu s HIPAA, SEO a růstový marketing pro samostatné lékaře i sítě klinik."
+    "title": "Webdesign pro dermatology a kliniky | DWD",
+    "description": "Webdesign pro dermatology a kliniky: rychlé weby s ohledem na HIPAA, které pomáhají návštěvníkům objednat se.",
+    "orgDescription": "Návrh dermatologických webů v souladu s HIPAA, SEO a růstový marketing pro samostatné lékaře i sítě klinik.",
+    "ogTitle": "Webdesign pro dermatology a kliniky | DWD",
+    "og_title": "Webdesign pro dermatology a kliniky | DWD",
+    "twitter_title": "Webdesign pro dermatology a kliniky | DWD",
+    "ogDescription": "Webdesign pro dermatology a kliniky: rychlé weby s ohledem na HIPAA, které pomáhají návštěvníkům objednat se.",
+    "og_description": "Webdesign pro dermatology a kliniky: rychlé weby s ohledem na HIPAA, které pomáhají návštěvníkům objednat se.",
+    "twitter_description": "Webdesign pro dermatology a kliniky: rychlé weby s ohledem na HIPAA, které pomáhají návštěvníkům objednat se.",
+    "og": {
+      "title": "Webdesign pro dermatology a kliniky | DWD",
+      "description": "Webdesign pro dermatology a kliniky: rychlé weby s ohledem na HIPAA, které pomáhají návštěvníkům objednat se."
+    },
+    "twitter": {
+      "title": "Webdesign pro dermatology a kliniky | DWD",
+      "description": "Webdesign pro dermatology a kliniky: rychlé weby s ohledem na HIPAA, které pomáhají návštěvníkům objednat se."
+    }
   },
   "hero": {
     "badge": "V souladu s HIPAA",
     "badgeSecondary": "Zaměřeno na konverze",
-    "headline": "Prémiové weby pro růst moderních",
-    "headlineAccent": "dermatologických klinik.",
+    "headline": "Webdesign pro dermatology",
+    "headlineAccent": "",
     "subhead": "Webové stránky na míru s optimalizací pro SEO, které budují důvěru, přitahují nové pacienty a rozvíjejí vaši online prezentaci.",
     "ctaPrimary": "Získat nezávaznou nabídku",
     "ctaSecondary": "Požádat o audit zdarma",
-    "heroImageAlt": "Kompozice designu dermatologického webu zobrazující zobrazení na desktopu a mobilu, analytiku, rezervace a soulad s HIPAA"
+    "heroImageAlt": "Kompozice designu dermatologického webu zobrazující zobrazení na desktopu a mobilu, analytiku, rezervace a soulad s HIPAA",
+    "introParagraphs": [
+      "Webdesign pro dermatology má pacientům usnadnit pochopení ošetření, důvěru v kliniku a další krok. Vytváříme rychlé weby s ohledem na HIPAA, zaměřené na služby, tým a rezervaci termínů.",
+      "Web dermatologické kliniky potřebuje víc než hezkou úvodní stránku. Srozumitelné informace, přístupná navigace a snadné objednání pomáhají pacientům napříč celým webem."
+    ]
   },
   "stats": {
     "websites": {
@@ -63,5 +81,176 @@
     "auditLink": "bezplatnou analýzou vašeho stávajícího webu",
     "suffix": "."
   },
-  "skip": "Přeskočit na obsah"
+  "skip": "Přeskočit na obsah",
+  "merged": {
+    "sections": [
+      "Co naše dermatologické weby obsahují",
+      "Proč si nás dermatologické kliniky vybírají",
+      "Náš proces návrhu",
+      "Prohlédněte si naši práci",
+      "Rozvíjejte kliniku po spuštění",
+      "Ceny",
+      "Často kladené otázky"
+    ],
+    "audience": {
+      "tag": "Cílová skupina",
+      "title": "Řešení pro každý typ dermatologické praxe",
+      "description": "Od ordinací s jedním lékařem až po rozsáhlé chirurgické skupiny s více pobočkami.",
+      "items": [
+        {
+          "label": "Soukromí dermatologové",
+          "desc": "Butikové weby, které odráží vaši odbornou značku a zajistí plný stav pacientů."
+        },
+        {
+          "label": "Kliniky s více pobočkami",
+          "desc": "Škálovatelná architektura se samostatnými stránkami pro pobočky, personál a ordinační hodiny."
+        },
+        {
+          "label": "Dětská dermatologie",
+          "desc": "Přívětivé uživatelské prostředí pro rodiče s jasným postupem pro objednání dětí."
+        },
+        {
+          "label": "Mohsova chirurgie",
+          "desc": "Design budující autoritu pro spolupracující lékaře i pacienty s doporučením."
+        }
+      ]
+    },
+    "pillars": {
+      "tag": "V čem spočívá prémiová kvalita",
+      "title": "Šest pilířů každého našeho projektu",
+      "description": "Design, technologie, SEO a právní shoda – od prvního dne navrženo jako jeden celek.",
+      "items": [
+        {
+          "title": "100% originální design",
+          "desc": "Žádné šablony. Každá sekce, ilustrace a interakce je navržena přímo pro vaši kliniku."
+        },
+        {
+          "title": "Lighthouse 95+",
+          "desc": "Důraz na extrémní výkon — optimalizace obrázků, edge caching a úsporný JS."
+        },
+        {
+          "title": "On-Page SEO",
+          "desc": "Sémantické HTML, schémata a struktura obsahu pro lokální i odborné lékařské dotazy."
+        },
+        {
+          "title": "V souladu s HIPAA",
+          "desc": "Zabezpečené formuláře, ochrana citlivých dat a technologický stack připravený na audity."
+        },
+        {
+          "title": "Plně responzivní",
+          "desc": "Dokonalé zobrazení na mobilech, tabletech i počítačích. Testováno na reálných zařízeních."
+        },
+        {
+          "title": "Přístupnost (WCAG AA)",
+          "desc": "Ovládání klávesnicí, vysoký kontrast a podpora čteček – inkluzivní web pro každého."
+        }
+      ]
+    },
+    "medicalServices": {
+      "tag": "Pokrytí lékařských služeb",
+      "title": "Stránky služeb navržené pro výkon a konverzi",
+      "description": "SEO optimalizované stránky pro každý zákrok, který nabízíte — s odbornou přesností, srozumitelným vysvětlením pro pacienty a jasnou výzvou k akci.",
+      "features": [
+        "Odborně revidovaná struktura obsahu",
+        "Nadpisy a FAQ sekce dle analýzy klíčových slov",
+        "Zabezpečené vstupní a konzultační formuláře",
+        "Rychlé a indexovatelné šablony pro mobily"
+      ],
+      "list": [
+        "Léčba akné",
+        "Léčba ekzémů",
+        "Léčba lupénky",
+        "Kožní infekce",
+        "Kožní alergie",
+        "Prevence a léčba rakoviny kůže",
+        "Vyšetření a odstraňování mateřských znamének",
+        "Odstraňování cyst a lipomů",
+        "Odstraňování bradavic",
+        "Onemocnění nehtů",
+        "Léčba vypadávání vlasů",
+        "Onemocnění vlasové pokožky",
+        "Léčba rosacey",
+        "Hyperpigmentace a melasma",
+        "Léčba jizev",
+        "Jizvy po popáleninách",
+        "Léčba vitiliga",
+        "Kožní biopsie a diagnostika"
+      ]
+    },
+    "process": {
+      "tag": "Náš proces",
+      "title": "Transparentní přístup pod vedením expertů",
+      "description": "Čtyři jasné fáze — bez průtahů a bez nepříjemných překvapení.",
+      "steps": [
+        {
+          "step": "01",
+          "title": "Analýza a pozicioning",
+          "desc": "Audit praxe, definice pacientských person, analýza konkurence a stanovení cílů."
+        },
+        {
+          "step": "02",
+          "title": "Design systém",
+          "desc": "Typografie, paleta barev a knihovna komponent vytvořená unikátně pro vaši značku."
+        },
+        {
+          "step": "03",
+          "title": "Vývoj a SEO",
+          "desc": "Čistý kód se strukturovanými daty a optimalizací pro maximální viditelnost ve vyhledávačích."
+        },
+        {
+          "step": "04",
+          "title": "Spuštění a růst",
+          "desc": "Analytika, testování konverzí a plán péče pro dlouhodobé zlepšování výsledků."
+        }
+      ]
+    },
+    "faqs": [
+      {
+        "q": "Jak dlouho trvá tvorba dermatologického webu na míru?",
+        "a": "Standardní doba je 6–10 týdnů od zahájení po spuštění, v závislosti na rozsahu a připravenosti podkladů. Díky týdenním revizím postupujeme velmi efektivně."
+      },
+      {
+        "q": "Je web v souladu s HIPAA?",
+        "a": "Stránky stavíme na architektuře plně připravené pro HIPAA — šifrované formuláře, zabezpečený hosting s BAA, žádné úniky citlivých dat do analytiky a auditní stopa u odeslaných dat."
+      },
+      {
+        "q": "Budu mít vlastnická práva k designu a kódu?",
+        "a": "Ano. Okamžikem spuštění přechází plné vlastnictví designových souborů, kódu i obsahu na vás. Žádné skryté poplatky ani závislost na uzavřeném redakčním systému."
+      },
+      {
+        "q": "Co vše zahrnuje on-page SEO?",
+        "a": "Strukturu nadpisů dle klíčových slov, schema markup (LocalBusiness, MedicalClinic, FAQ), optimalizovaná metadata, vnitřní prolinkování a optimalizaci obrázků."
+      },
+      {
+        "q": "Nabízíte po spuštění webu následnou podporu?",
+        "a": "Ano. Naše plány péče o web zahrnují aktualizace, zabezpečení, zálohování, monitoring dostupnosti, ladění výkonu a pravidelné úpravy obsahu."
+      },
+      {
+        "q": "Jak dlouho trvá spuštění nového dermatologického webu?",
+        "a": "Většina projektů jde do provozu za 4–6 týdnů – od objevení po spuštění. Časové osy závisí na připravenosti obsahu a rozsahu a my sdílíme jasný týdenní plán během onboardingu."
+      },
+      {
+        "q": "Zajišťujete soulad s HIPAA a ochranu soukromí pacientů?",
+        "a": "Ano. Každá stavba je v souladu s HIPAA: bezpečný hosting, šifrované formuláře, integrace připravené na BAA pro kontakt a příjem a kontrola souladu před spuštěním."
+      },
+      {
+        "q": "Pomůže mi můj nový web skutečně umístit se na Google?",
+        "a": "SEO je navrženo od prvního dne – schéma specifické pro dermatologii, stránky služeb a lokalit, Core Web Vitals 95+ a on-page struktura vytvořená pro získání pozic ve vyhledávání, které vede k rezervacím."
+      }
+    ]
+  },
+  "ownerAnchors": {
+    "design": "webdesign pro dermatology",
+    "examples": "příklady dermatologických webů",
+    "seo": "SEO služby pro dermatology",
+    "marketing": "marketingové strategie pro dermatology",
+    "pricing": "ceny dermatologických webů",
+    "ppc": "Dermatologické Google Ads & PPC",
+    "social": "Sociální sítě pro dermatology",
+    "maintenance": "údržba a správa dermatologických webů",
+    "gallery": "Galerie Před a Po",
+    "portal": "Pacientský portál pro dermatologii",
+    "process": "náš postup",
+    "migration": "Nulové výpadky · Žádné ztráty v SEO"
+  }
 }

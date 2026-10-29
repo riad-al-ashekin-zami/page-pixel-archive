@@ -1,15 +1,25 @@
 {
   "meta": {
-    "title": "Nettstedstyring for dermatologer — et team fokusert på vekst",
+    "title": "Vedlikehold og administrasjon av hudklinikkenes nettsider | DWD",
     "description": "Fullservice-drift av nettsteder for hudleger: dedikert kontaktperson, månedlig innhold, SEO-styring, A/B-testing, konverteringsoptimalisering og rapportering. Løpende avtaler uten bindingstid.",
     "og": {
-      "title": "Nettstedstyring for dermatologer — ditt vekstteam",
-      "description": "Et dedikert team drifter ditt nettsted hver uke — innhold, SEO, CRO, kampanjer og rapportering. HIPAA-aware. Ingen bindingstid."
+      "title": "Vedlikehold og administrasjon av hudklinikkenes nettsider | DWD",
+      "description": "Fullservice-drift av nettsteder for hudleger: dedikert kontaktperson, månedlig innhold, SEO-styring, A/B-testing, konverteringsoptimalisering og rapportering. Løpende avtaler uten bindingstid."
+    },
+    "ogTitle": "Vedlikehold og administrasjon av hudklinikkenes nettsider | DWD",
+    "og_title": "Vedlikehold og administrasjon av hudklinikkenes nettsider | DWD",
+    "twitter_title": "Vedlikehold og administrasjon av hudklinikkenes nettsider | DWD",
+    "ogDescription": "Fullservice-drift av nettsteder for hudleger: dedikert kontaktperson, månedlig innhold, SEO-styring, A/B-testing, konverteringsoptimalisering og rapportering. Løpende avtaler uten bindingstid.",
+    "og_description": "Fullservice-drift av nettsteder for hudleger: dedikert kontaktperson, månedlig innhold, SEO-styring, A/B-testing, konverteringsoptimalisering og rapportering. Løpende avtaler uten bindingstid.",
+    "twitter_description": "Fullservice-drift av nettsteder for hudleger: dedikert kontaktperson, månedlig innhold, SEO-styring, A/B-testing, konverteringsoptimalisering og rapportering. Løpende avtaler uten bindingstid.",
+    "twitter": {
+      "title": "Vedlikehold og administrasjon av hudklinikkenes nettsider | DWD",
+      "description": "Fullservice-drift av nettsteder for hudleger: dedikert kontaktperson, månedlig innhold, SEO-styring, A/B-testing, konverteringsoptimalisering og rapportering. Løpende avtaler uten bindingstid."
     }
   },
   "hero": {
     "badge": "Drift av dermatologiske nettsteder",
-    "headline": "Et vekstteam som drifter ditt nettsted — hver eneste uke.",
+    "headline": "Vedlikehold og administrasjon av hudklinikkenes nettsider",
     "subheading": "Strategi, innhold, SEO, konverteringstester og rapportering — håndtert av et eget team. Du kan slutte å bekymre deg for nettsiden og heller fokusere på nye pasienter.",
     "cta_primary": "Få en vekstplan",
     "cta_secondary": "Gratis revisjon først",
@@ -454,5 +464,87 @@
     "service_type": "Nettstedstyring for dermatologer",
     "provider_name": "DermatologyWebsiteDesign.com",
     "offer_description": "Drift og styring av dermatologiske nettsteder — startpris per måned"
+  },
+  "merged": {
+    "heading": "Sikker, HIPAA-bevisst hosting",
+    "pillars": {
+      "badge": "Dette får du i en serviceavtale",
+      "title": "Hvert lag av nettsiden din — overvåket, oppdatert og trimmet.",
+      "description": "Seks grunnpilarer for det månedlige arbeidet. Ingen skjulte kostnader, ingen overraskende fakturaer.",
+      "items": [
+        {
+          "title": "24/7 overvåking av oppetid",
+          "desc": "Helsesjekk hvert 60. sekund fra 5 regioner. Våre teknikere får varsel før resepsjonen din i det hele tatt merker noe."
+        },
+        {
+          "title": "HIPAA-orienterte oppdateringer",
+          "desc": "Oppdateringer av CMS, plugins og avhengigheter testes, gjennomgås og rulles ut på BAA-klar hosting."
+        },
+        {
+          "title": "Daglige krypterte backuper",
+          "desc": "Lagring utenfor nettstedet med versjonshistorikk og ett-klikks gjenoppretting. Testes månedlig – ikke bare satt på autopilot."
+        },
+        {
+          "title": "Malware- og sårbarhetsskanning",
+          "desc": "Ukentlig skanning, kvartalsvise penetrasjonstester og umiddelbar utbedring av alle sårbarheter som påvirker din teknologi."
+        },
+        {
+          "title": "Core Web Vitals-overvåking",
+          "desc": "LCP, INP og CLS spores kontinuerlig – vi fikser ytelsesfall før Google straffer rangeringen din."
+        },
+        {
+          "title": "SEO-helse på siden",
+          "desc": "Brutte lenker, manglende schema, foreldreløse sider og indekseringsfeil fanges opp månedlig og utbedres som del av planen."
+        }
+      ]
+    },
+    "included": {
+      "badge": "Inkludert hver måned",
+      "title": "16 ting vi gjør for deg — hver eneste måned.",
+      "items": [
+        "24/7 oppetid- og SSL-overvåking",
+        "Ukentlige CMS- og plugin-oppdateringer",
+        "Daglig kryptert ekstern backup",
+        "Malware-skanning og sikkerhetsoppdateringer",
+        "HIPAA-orienterte skjema- og PHI-revisjoner",
+        "Overvåking av Core Web Vitals",
+        "SEO-helsesjekk og fjerning av brutte lenker",
+        "Databaseoptimalisering",
+        "Tuning av CDN og edge-cache",
+        "Feilsøking og utrulling av hotfix",
+        "Inkluderte timer til innhold og design",
+        "Månedlig ytelsesrapport",
+        "Proaktive varsler ved hendelser",
+        "Endringslogg for etterlevelse (compliance)",
+        "Tilgjengelighetskontroll (WCAG AA)",
+        "Fast navngitt tekniker"
+      ]
+    },
+    "flow": {
+      "badge": "Slik fungerer det",
+      "title": "Fra oppstart til en bekymringsfri hverdag.",
+      "items": [
+        {
+          "step": "01",
+          "title": "Ombordstigning og revisjon",
+          "desc": "Vi overtar nettstedet med en full gjennomgang av sikkerhet, ytelse, SEO og HIPAA – vi overvåker aldri i blinde."
+        },
+        {
+          "step": "02",
+          "title": "Herding og baselinje",
+          "desc": "Sikkerhetsoppdatering, verifisering av backup og oppsett av overvåking. Vi dokumenterer status for Core Web Vitals og Google-posisjoner."
+        },
+        {
+          "step": "03",
+          "title": "Overvåke og vedlikeholde",
+          "desc": "24/7 overvåking, ukentlige oppdateringer og månedlige helserapporter – pluss dine inkluderte timer for vekst og endringer."
+        },
+        {
+          "step": "04",
+          "title": "Rapportere og forbedre",
+          "desc": "Månedlig gjennomgang med din tekniker. Hvordan kan vi gjøre siden raskere, tryggere og mer synlig neste måned?"
+        }
+      ]
+    }
   }
 }

@@ -1,19 +1,31 @@
 {
   "meta": {
-    "title": "Webdesign pro dermatologické sítě a více poboček | Jedna značka, každé město",
+    "title": "Vícepobočkové weby dermatologických klinik | DWD",
     "description": "Prémiový webdesign pro dermatologické kliniky s více pobočkami. Jednotný vizuální styl, SEO pro každou lokalitu zvlášť, Google Business Profily, sjednocená rezervace a shoda s HIPAA. Dominujte v každém městě, kde působíte.",
-    "og_title": "Webdesign pro dermatologické sítě a více poboček | Jedna značka, každé město",
-    "og_description": "Navrhněte řízený web pro dermatologickou síť s vysokým hodnocením pro každou lokalitu. HIPAA-aware, Lighthouse 95+, reálné lokální SEO pro každou pobočku.",
+    "og_title": "Vícepobočkové weby dermatologických klinik | DWD",
+    "og_description": "Prémiový webdesign pro dermatologické kliniky s více pobočkami. Jednotný vizuální styl, SEO pro každou lokalitu zvlášť, Google Business Profily, sjednocená rezervace a shoda s HIPAA. Dominujte v každém městě, kde působíte.",
     "jsonLd": {
       "serviceType": "Multi-Location Dermatology Website Design",
       "providerName": "DW Design",
       "audienceType": "Multi-Location Dermatology Clinics",
       "offerDescription": "Webdesign pro dermatologické kliniky s více pobočkami – základní cena"
+    },
+    "ogTitle": "Vícepobočkové weby dermatologických klinik | DWD",
+    "twitter_title": "Vícepobočkové weby dermatologických klinik | DWD",
+    "ogDescription": "Prémiový webdesign pro dermatologické kliniky s více pobočkami. Jednotný vizuální styl, SEO pro každou lokalitu zvlášť, Google Business Profily, sjednocená rezervace a shoda s HIPAA. Dominujte v každém městě, kde působíte.",
+    "twitter_description": "Prémiový webdesign pro dermatologické kliniky s více pobočkami. Jednotný vizuální styl, SEO pro každou lokalitu zvlášť, Google Business Profily, sjednocená rezervace a shoda s HIPAA. Dominujte v každém městě, kde působíte.",
+    "og": {
+      "title": "Vícepobočkové weby dermatologických klinik | DWD",
+      "description": "Prémiový webdesign pro dermatologické kliniky s více pobočkami. Jednotný vizuální styl, SEO pro každou lokalitu zvlášť, Google Business Profily, sjednocená rezervace a shoda s HIPAA. Dominujte v každém městě, kde působíte."
+    },
+    "twitter": {
+      "title": "Vícepobočkové weby dermatologických klinik | DWD",
+      "description": "Prémiový webdesign pro dermatologické kliniky s více pobočkami. Jednotný vizuální styl, SEO pro každou lokalitu zvlášť, Google Business Profily, sjednocená rezervace a shoda s HIPAA. Dominujte v každém městě, kde působíte."
     }
   },
   "hero": {
     "badge": "Jedna značka · Každé město · Plně indexováno",
-    "title": "Webdesign pro dermatology s více pobočkami, který vítězí v každém vyhledávaném městě.",
+    "title": "Vícepobočkové weby dermatologických klinik",
     "description": "Řízený brandový systém, unikátní indexovaná stránka pro každou pobočku, lokální schémata, GBP, recenze a rezervace. Pacienti v Brně, Ostravě i Praze uvidí lokální praxi, nikoliv jen anonymní firemní řetězec.",
     "cta": "Naplánovat web pro více poboček",
     "secondary_cta": "Bezplatný audit lokálního SEO",

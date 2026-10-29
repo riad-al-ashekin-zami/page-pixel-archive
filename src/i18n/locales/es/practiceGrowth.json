@@ -1,14 +1,14 @@
 {
   "meta": {
-    "title": "Servicios de crecimiento para clínicas dermatológicas | Citas agendadas, no impresiones",
+    "title": "Servicios de crecimiento para clínicas dermatológicas | DWD",
     "description": "Impulsamos el crecimiento de clínicas dermatológicas: captación de pacientes, optimización de conversiones, automatización de retención y analítica de ingresos vinculada a citas reales y rentabilidad por servicio.",
     "og": {
-      "title": "Crecimiento de clínicas dermatológicas: Citas agendadas, no impresiones",
-      "description": "Crecimiento integral para consultas privadas y clínicas con múltiples sedes: captación, conversión, retención y analítica de ingresos."
+      "title": "Servicios de crecimiento para clínicas dermatológicas | DWD",
+      "description": "Impulsamos el crecimiento de clínicas dermatológicas: captación de pacientes, optimización de conversiones, automatización de retención y analítica de ingresos vinculada a citas reales y rentabilidad por servicio."
     },
     "twitter": {
-      "title": "Servicios de crecimiento profesional para dermatología",
-      "description": "Aumente sus citas agendadas: resultados medibles directamente en su estado de resultados (P&L)."
+      "title": "Servicios de crecimiento para clínicas dermatológicas | DWD",
+      "description": "Impulsamos el crecimiento de clínicas dermatológicas: captación de pacientes, optimización de conversiones, automatización de retención y analítica de ingresos vinculada a citas reales y rentabilidad por servicio."
     },
     "jsonLd": {
       "serviceType": "Servicios de crecimiento para clínicas dermatológicas",
@@ -19,7 +19,13 @@
         "services": "Servicios",
         "current": "Crecimiento de clínicas"
       }
-    }
+    },
+    "ogTitle": "Servicios de crecimiento para clínicas dermatológicas | DWD",
+    "og_title": "Servicios de crecimiento para clínicas dermatológicas | DWD",
+    "twitter_title": "Servicios de crecimiento para clínicas dermatológicas | DWD",
+    "ogDescription": "Impulsamos el crecimiento de clínicas dermatológicas: captación de pacientes, optimización de conversiones, automatización de retención y analítica de ingresos vinculada a citas reales y rentabilidad por servicio.",
+    "og_description": "Impulsamos el crecimiento de clínicas dermatológicas: captación de pacientes, optimización de conversiones, automatización de retención y analítica de ingresos vinculada a citas reales y rentabilidad por servicio.",
+    "twitter_description": "Impulsamos el crecimiento de clínicas dermatológicas: captación de pacientes, optimización de conversiones, automatización de retención y analítica de ingresos vinculada a citas reales y rentabilidad por servicio."
   },
   "hero": {
     "badge": "Crecimiento para Dermatología",

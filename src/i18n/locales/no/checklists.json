@@ -1,8 +1,21 @@
 {
   "meta": {
-    "title": "Sjekklister for dermatologiske nettsteder — Lansering, SEO, HIPAA og konvertering",
+    "title": "Sjekklister for dermatologiske nettsteder | DWD",
     "description": "Gratis ekspertbygde sjekklister for hudlegekontor som dekker QA før lansering, on-page SEO, HIPAA-samsvar, tilgjengelighet, Core Web Vitals og konvertering — utskriftsvennlig og spesialisert for dermatologi.",
-    "keywords": "sjekkliste for dermatologisk nettsted, SEO for hudleger, HIPAA-sjekkliste, lansering av medisinsk nettsted, universell utforming for legekontor"
+    "ogTitle": "Sjekklister for dermatologiske nettsteder | DWD",
+    "og_title": "Sjekklister for dermatologiske nettsteder | DWD",
+    "twitter_title": "Sjekklister for dermatologiske nettsteder | DWD",
+    "ogDescription": "Gratis ekspertbygde sjekklister for hudlegekontor som dekker QA før lansering, on-page SEO, HIPAA-samsvar, tilgjengelighet, Core Web Vitals og konvertering — utskriftsvennlig og spesialisert for dermatologi.",
+    "og_description": "Gratis ekspertbygde sjekklister for hudlegekontor som dekker QA før lansering, on-page SEO, HIPAA-samsvar, tilgjengelighet, Core Web Vitals og konvertering — utskriftsvennlig og spesialisert for dermatologi.",
+    "twitter_description": "Gratis ekspertbygde sjekklister for hudlegekontor som dekker QA før lansering, on-page SEO, HIPAA-samsvar, tilgjengelighet, Core Web Vitals og konvertering — utskriftsvennlig og spesialisert for dermatologi.",
+    "og": {
+      "title": "Sjekklister for dermatologiske nettsteder | DWD",
+      "description": "Gratis ekspertbygde sjekklister for hudlegekontor som dekker QA før lansering, on-page SEO, HIPAA-samsvar, tilgjengelighet, Core Web Vitals og konvertering — utskriftsvennlig og spesialisert for dermatologi."
+    },
+    "twitter": {
+      "title": "Sjekklister for dermatologiske nettsteder | DWD",
+      "description": "Gratis ekspertbygde sjekklister for hudlegekontor som dekker QA før lansering, on-page SEO, HIPAA-samsvar, tilgjengelighet, Core Web Vitals og konvertering — utskriftsvennlig og spesialisert for dermatologi."
+    }
   },
   "schema": {
     "breadcrumb": {

@@ -1,14 +1,14 @@
 {
   "meta": {
-    "title": "Google Ads i zarządzanie PPC dla dermatologii | Rezerwacje wizyt, nie tylko kliknięcia",
+    "title": "Google Ads i zarządzanie PPC dla dermatologii | DWD",
     "description": "Zarządzanie Google Ads i PPC dla gabinetów dermatologicznych – kampanie Search, LSA, YouTube i Performance Max rozliczane według kosztu pozyskania wizyty i rentowności usług. Monitorowanie zgodne z HIPAA.",
     "og": {
-      "title": "Google Ads i PPC dla dermatologii – Zamień kliknięcia w pacjentów",
-      "description": "PPC, które zarabia na siebie – kampanie Search, LSA, YouTube i remarketing nastawione na realny zwrot z inwestycji (ROI) z umówionych wizyt."
+      "title": "Google Ads i zarządzanie PPC dla dermatologii | DWD",
+      "description": "Zarządzanie Google Ads i PPC dla gabinetów dermatologicznych – kampanie Search, LSA, YouTube i Performance Max rozliczane według kosztu pozyskania wizyty i rentowności usług. Monitorowanie zgodne z HIPAA."
     },
     "twitter": {
-      "title": "Zarządzanie Google Ads i PPC dla dermatologii",
-      "description": "Kampanie PPC optymalizowane pod kątem kosztu umówionej wizyty dla praktyk dermatologicznych."
+      "title": "Google Ads i zarządzanie PPC dla dermatologii | DWD",
+      "description": "Zarządzanie Google Ads i PPC dla gabinetów dermatologicznych – kampanie Search, LSA, YouTube i Performance Max rozliczane według kosztu pozyskania wizyty i rentowności usług. Monitorowanie zgodne z HIPAA."
     },
     "jsonLd": {
       "serviceType": "Zarządzanie Google Ads i PPC dla gabinetów dermatologicznych",
@@ -19,7 +19,13 @@
         "services": "Usługi",
         "ads": "Google Ads i PPC"
       }
-    }
+    },
+    "ogTitle": "Google Ads i zarządzanie PPC dla dermatologii | DWD",
+    "og_title": "Google Ads i zarządzanie PPC dla dermatologii | DWD",
+    "twitter_title": "Google Ads i zarządzanie PPC dla dermatologii | DWD",
+    "ogDescription": "Zarządzanie Google Ads i PPC dla gabinetów dermatologicznych – kampanie Search, LSA, YouTube i Performance Max rozliczane według kosztu pozyskania wizyty i rentowności usług. Monitorowanie zgodne z HIPAA.",
+    "og_description": "Zarządzanie Google Ads i PPC dla gabinetów dermatologicznych – kampanie Search, LSA, YouTube i Performance Max rozliczane według kosztu pozyskania wizyty i rentowności usług. Monitorowanie zgodne z HIPAA.",
+    "twitter_description": "Zarządzanie Google Ads i PPC dla gabinetów dermatologicznych – kampanie Search, LSA, YouTube i Performance Max rozliczane według kosztu pozyskania wizyty i rentowności usług. Monitorowanie zgodne z HIPAA."
   },
   "hero": {
     "badge": "Google Ads i PPC dla dermatologii",

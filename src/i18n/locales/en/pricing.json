@@ -1,10 +1,10 @@
 {
   "meta": {
-    "title": "Dermatology Website Pricing — Plans, Packages & Transparent Costs",
+    "title": "Dermatology Website Pricing & Packages | DWD",
     "description": "Transparent dermatology website pricing. One-time builds from $797 to $18,999+, monthly bundles from $399, and à la carte add-ons. See exactly what you'll pay before we talk.",
     "og": {
-      "title": "Dermatology Website Pricing — Plans, Packages & Costs",
-      "description": "Six website packages, three specialty builds, four monthly bundles, and 20+ à la carte add-ons — with a live cost estimator. Fully transparent pricing."
+      "title": "Dermatology Website Pricing & Packages | DWD",
+      "description": "Transparent dermatology website pricing. One-time builds from $797 to $18,999+, monthly bundles from $399, and à la carte add-ons. See exactly what you'll pay before we talk."
     },
     "jsonLd": {
       "breadcrumb": {
@@ -14,11 +14,21 @@
       "priceSpec": {
         "name": "Dermatology Website Packages"
       }
+    },
+    "ogTitle": "Dermatology Website Pricing & Packages | DWD",
+    "og_title": "Dermatology Website Pricing & Packages | DWD",
+    "twitter_title": "Dermatology Website Pricing & Packages | DWD",
+    "ogDescription": "Transparent dermatology website pricing. One-time builds from $797 to $18,999+, monthly bundles from $399, and à la carte add-ons. See exactly what you'll pay before we talk.",
+    "og_description": "Transparent dermatology website pricing. One-time builds from $797 to $18,999+, monthly bundles from $399, and à la carte add-ons. See exactly what you'll pay before we talk.",
+    "twitter_description": "Transparent dermatology website pricing. One-time builds from $797 to $18,999+, monthly bundles from $399, and à la carte add-ons. See exactly what you'll pay before we talk.",
+    "twitter": {
+      "title": "Dermatology Website Pricing & Packages | DWD",
+      "description": "Transparent dermatology website pricing. One-time builds from $797 to $18,999+, monthly bundles from $399, and à la carte add-ons. See exactly what you'll pay before we talk."
     }
   },
   "hero": {
     "badge": "Transparent Pricing",
-    "heading": "Every price, in the open. No surprise invoices.",
+    "heading": "Dermatology Website Pricing",
     "description": "Six one-time website packages, three specialty builds, four monthly bundles, and 20+ à la carte add-ons — with a live cost estimator so you know the number before you talk to us.",
     "cta": "See website packages",
     "estimatorCta": "Live cost estimator"
