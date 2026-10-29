@@ -237,8 +237,7 @@ function SocialPage() {
                   className="mt-6 max-w-3xl text-balance font-bold leading-[1.05] tracking-[-0.025em] text-foreground"
                   style={{ fontSize: "clamp(1.875rem, 5.5vw, 4rem)" }}
                 >
-                  {t("hero.heading").split("and books consults.")[0]}{" "}
-                  <span className="font-bold text-brand-primary">and books consults.</span>
+                  {t("hero.heading")}
                 </h1>
               </Reveal>
 

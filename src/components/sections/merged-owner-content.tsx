@@ -6,7 +6,8 @@ type Item = { title?: string; label?: string; desc?: string; description?: strin
 type Group = { title?: string; heading?: string; description?: string; items?: Item[]; list?: string[]; features?: string[]; steps?: Item[] };
 
 function ContentBand({ title, group, owners = [] }: { title: string; group?: Group; owners?: OwnerKey[] }) {
-  const items = group?.items ?? group?.steps ?? [];
+  const rawItems = group?.items ?? group?.steps ?? [];
+  const items = Array.isArray(rawItems) ? rawItems : [];
   return (
     <section className="relative border-b border-border/60 py-20 sm:py-24">
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
@@ -17,8 +18,8 @@ function ContentBand({ title, group, owners = [] }: { title: string; group?: Gro
             <ul className="mt-8 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
               {items.map((item, i) => (
                 <li key={i} className="border-l-2 border-brand-primary/30 pl-5">
-                  <p className="text-lg font-semibold text-foreground">{item.title ?? item.label}</p>
-                  <p className="mt-2 text-base leading-relaxed text-muted-foreground">{item.desc ?? item.description}</p>
+                  <p className="text-lg font-semibold text-foreground">{typeof item === "string" ? item : item.title ?? item.label}</p>
+                  {typeof item !== "string" && <p className="mt-2 text-base leading-relaxed text-muted-foreground">{item.desc ?? item.description}</p>}
                 </li>
               ))}
             </ul>
