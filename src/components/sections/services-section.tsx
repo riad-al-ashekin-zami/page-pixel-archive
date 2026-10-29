@@ -25,13 +25,13 @@ type Service = {
 };
 
 const services: Service[] = [
-  { icon: Monitor, key: "customWebsite", href: "/dermatology-website-design", tag: true },
+  { icon: Monitor, key: "customWebsite", href: "/", tag: true },
   { icon: RefreshCw, key: "redesign", href: "/dermatology-website-redesign" },
   { icon: ArrowRightLeft, key: "migration", href: "/dermatology-website-migration" },
   { icon: MapPin, key: "multiLocation", href: "/multi-location-dermatology-website-design" },
   { icon: ShoppingBag, key: "ecommerce", href: "/dermatology-ecommerce-website-design" },
   { icon: LockKeyhole, key: "patientPortal", href: "/dermatology-patient-portal" },
-  { icon: Wrench, key: "maintenance", href: "/dermatology-website-maintenance-services" },
+  { icon: Wrench, key: "maintenance", href: "/dermatology-website-management-services" },
   { icon: Search, key: "seo", href: "/dermatology-seo-services" },
   { icon: MousePointerClick, key: "googleAds", href: "/dermatology-google-ads-ppc" },
 ];
