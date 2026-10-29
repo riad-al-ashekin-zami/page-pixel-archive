@@ -8,13 +8,13 @@
   <xsl:template match="/">
     <html lang="en">
       <head>
-        <title>XML Sitemap | Dermatology Website Design</title>
+        <title>XML Sitemap | DWD</title>
         <link rel="icon" type="image/png" href="/favicon.png" />
         <link rel="apple-touch-icon" href="/favicon.png" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <meta name="robots" content="noindex,follow" />
+        <meta name="robots" content="noindex, follow" />
         <meta name="description" content="Browse the public pages in the Dermatology Website Design XML sitemap." />
-        <meta property="og:title" content="XML Sitemap | Dermatology Website Design" />
+        <meta property="og:title" content="XML Sitemap | DWD" />
         <meta property="og:description" content="Browse the public pages in the Dermatology Website Design XML sitemap." />
         <meta property="og:type" content="website" />
         <meta name="twitter:card" content="summary" />

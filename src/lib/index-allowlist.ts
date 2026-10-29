@@ -1,61 +1,62 @@
-/**
- * SEO INDEXING ALLOWLIST — the single source of truth for what Google may index.
- *
- * ONLY the 13 URLs below are indexable. Every other page of the site — all other
- * English pages, all other language versions, the blog index, legal pages, 404 and
- * thank-you pages — serves `<meta name="robots" content="noindex,follow">`.
- *
- * OWNER: to make a page indexable, add its full localized path here (no trailing
- * slash, except the English homepage which is exactly "/"). To de-index a page,
- * remove its line. Nothing else needs to change: robots meta, hreflang alternates
- * and sitemap.xml all read from this list.
- *
- * Paths are normalized: no trailing slash (except "/"), no query string.
- */
-export const INDEXABLE_PATHS: readonly string[] = [
-  // English
+import { LANGUAGE_CODES } from "@/i18n/languages";
+
+/** Public content inventory. About, legal, private, thank-you and redirects are excluded. */
+export const INDEXABLE_LOGICAL_PATHS: readonly string[] = [
   "/",
+  "/blog",
+  "/case-studies",
   "/contact",
-  "/about",
-  "/blog/dermatology-marketing-strategies",
+  "/dermatology-add-on-services",
+  "/dermatology-before-after-gallery",
+  "/dermatology-conversion-rate-optimization",
+  "/dermatology-ecommerce-website-design",
+  "/dermatology-email-marketing",
+  "/dermatology-google-ads-ppc",
+  "/dermatology-patient-portal",
+  "/dermatology-practice-growth",
+  "/dermatology-reputation-management",
   "/dermatology-seo-services",
   "/dermatology-social-media-services",
-  "/dermatology-google-ads-ppc",
+  "/dermatology-website-checklists",
   "/dermatology-website-management-services",
-  // Spanish
-  "/es/blog/dermatology-marketing-strategies",
-  "/es/dermatology-seo-services",
-  "/es/dermatology-social-media-services",
-  "/es/dermatology-website-checklists",
-  // Finnish
-  "/fi/dermatology-website-migration",
+  "/dermatology-website-migration",
+  "/dermatology-website-redesign",
+  "/dermatology-website-support-services",
+  "/dermatology-websites-portfolio",
+  "/faq",
+  "/multi-location-dermatology-website-design",
+  "/our-process",
+  "/plan-packages-and-costs",
+  "/services",
+  "/blog/dermatology-seo-playbook-2026",
+  "/blog/website-redesign-checklist",
+  "/blog/google-ads-derm-cost-per-lead",
+  "/blog/5-star-review-flywheel",
+  "/blog/hipaa-website-mistakes",
+  "/blog/patient-portal-conversion",
+  "/blog/local-seo-multi-location",
+  "/blog/hero-that-converts",
+  "/blog/reactivation-email-sequence",
+  "/blog/dermatology-marketing-strategies"
 ];
 
+/** Sole localized URL inventory used by route robots and the sitemap. */
+export const INDEXABLE_PATHS: readonly string[] = LANGUAGE_CODES.flatMap((lang) =>
+  INDEXABLE_LOGICAL_PATHS.map((path) => lang === "en" ? path : `/${lang}${path === "/" ? "" : path}`),
+);
 const INDEXABLE_SET = new Set(INDEXABLE_PATHS);
+export const INDEX_ROBOTS = "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1";
+export const NOINDEX_ROBOTS = "noindex, follow";
 
-/** Normalize a URL path: strip query/hash, drop trailing slash (except "/"). */
 export function normalizePath(path: string): string {
-  const noQuery = path.split(/[?#]/)[0];
-  if (noQuery === "" || noQuery === "/") return "/";
-  return noQuery.endsWith("/") ? noQuery.slice(0, -1) : noQuery;
+  const clean = path.split(/[?#]/)[0];
+  return clean === "" || clean === "/" ? "/" : clean.replace(/\/+$/, "");
 }
-
-/** True when the full localized path (e.g. "/es/dermatology-seo-services") is allowlisted. */
 export function isIndexableUrl(fullPath: string): boolean {
   return INDEXABLE_SET.has(normalizePath(fullPath));
 }
-
-/**
- * Robots meta content for a route. `rawLang` is the raw URL lang param
- * (undefined = English root); `logicalPath` is the English-canonical path
- * (e.g. "/dermatology-seo-services", "/blog/my-post"). Defaults to noindex:
- * a page is only indexable once its full localized URL is in INDEXABLE_PATHS.
- */
-export function robotsContent(
-  rawLang: string | undefined,
-  logicalPath: string,
-): "index,follow" | "noindex,follow" {
+export function robotsContent(rawLang: string | undefined, logicalPath: string): string {
   const prefix = rawLang && rawLang !== "en" ? `/${rawLang}` : "";
   const clean = logicalPath === "/" ? "" : logicalPath;
-  return isIndexableUrl(`${prefix}${clean}` || "/") ? "index,follow" : "noindex,follow";
+  return isIndexableUrl(`${prefix}${clean}` || "/") ? INDEX_ROBOTS : NOINDEX_ROBOTS;
 }
