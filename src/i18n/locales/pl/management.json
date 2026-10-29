@@ -501,7 +501,7 @@
     "included": {
       "badge": "W pakiecie co miesiąc",
       "title": "16 zadań, które wykonujemy dla Ciebie — każdego miesiąca.",
-      "items": [
+      "list": [
         "Monitorowanie dostępności i SSL 24/7",
         "Cotygodniowe aktualizacje CMS i wtyczek",
         "Codzienne szyfrowane backupy zewnętrzne",
@@ -543,6 +543,110 @@
           "step": "04",
           "title": "Raport i Ulepszenia",
           "desc": "Miesięczny przegląd z inżynierem. Analizujemy, jak przyspieszyć stronę i poprawić jej bezpieczeństwo w kolejnym miesiącu."
+        }
+      ]
+    },
+    "hosting": {
+      "description": "Planujemy hosting zgodnie z przetwarzanymi danymi. Sprawdzamy szyfrowanie, dostęp, kopie zapasowe, monitoring i umowy z dostawcami. Nie zastępuje to oceny zgodności prowadzonej przez klinikę."
+    },
+    "planSummary": {
+      "badge": "Plany opieki",
+      "title": "Przewidywalne ceny. Bez zobowiązań. Fachowi inżynierowie.",
+      "description": "Wszystkie plany rozliczane są miesięcznie. Możesz zrezygnować w każdej chwili, zachowując kod i uprawnienia.",
+      "labels": {
+        "popular": "Najpopularniejszy",
+        "market": "Cena rynkowa:",
+        "edits_prefix": "Edycje:",
+        "sla_prefix": "SLA",
+        "cta": "Wybierz pakiet {{name}}"
+      },
+      "tiers": [
+        {
+          "name": "Essential",
+          "tag": "Indywidualne praktyki",
+          "price": "299 USD",
+          "per": "/miesiąc",
+          "sla": "Reakcja < 4 godz.",
+          "edits": "2 godz. / mies.",
+          "market": "500 – 1 000 USD /mies.",
+          "savings": "40–70% taniej",
+          "features": [
+            "Monitorowanie dostępności 24/7",
+            "Cotygodniowe aktualizacje wtyczek i CMS",
+            "Codzienne szyfrowane backupy",
+            "Skany malware + łatanie",
+            "Audyt formularzy HIPAA (kwartalny)",
+            "Monitorowanie Core Web Vitals",
+            "Miesięczny raport wydajności",
+            "2 h / mies. na edycję treści"
+          ]
+        },
+        {
+          "name": "Growth",
+          "tag": "Praktyki wielospecjalistyczne",
+          "price": "599 USD",
+          "per": "/miesiąc",
+          "sla": "Reakcja < 1 godz.",
+          "edits": "5 godz. / mies.",
+          "market": "1 200 – 2 500 USD /mies.",
+          "savings": "50–76% taniej",
+          "features": [
+            "Wszystko co w planie Essential",
+            "Cotygodniowe audyty formularzy HIPAA",
+            "Naprawa błędów SEO i kondycji strony",
+            "Monitorowanie schematów i linków",
+            "Optymalizacja CDN i edge cache",
+            "Naprawa błędów i szybkie poprawki",
+            "Dedykowany inżynier konta",
+            "5 h / mies. na edycje (treść + design)"
+          ]
+        },
+        {
+          "name": "Enterprise",
+          "tag": "Grupy z wieloma lokalizacjami i Mohs",
+          "price": "1 499 USD",
+          "per": "/miesiąc",
+          "sla": "Reakcja < 15 min.",
+          "edits": "Nielimitowane*",
+          "market": "3 000 – 6 000 USD /mies.",
+          "savings": "50–75% taniej",
+          "features": [
+            "Wszystko co w planie Growth",
+            "Panele dostępności dla każdej lokalizacji",
+            "Dyżur inżyniera on-call 24/7",
+            "Kwartalne testy penetracyjne",
+            "Wsparcie integracji e-skierowań / EHR",
+            "Audyty dostępności (WCAG AA)",
+            "Rejestr zmian zgodności z podpisem",
+            "Bez limitu* godzin edycji (fair use)"
+          ]
+        }
+      ]
+    },
+    "incidents": {
+      "badge": "Log ostatnich incydentów",
+      "title": "Jak wygląda opieka 24/7 w praktyce.",
+      "description": "Przykłady incydentów, które wykryliśmy i rozwiązaliśmy w tym kwartale — zanim klienci zdążyli je zauważyć.",
+      "log": [
+        {
+          "title": "Wykrycie luki PHP RCE",
+          "detail": "Załatano na 47 stronach klientów w 33 minuty. Ryzyko wyeliminowane natychmiastowo."
+        },
+        {
+          "title": "Certyfikat SSL wygasający za 6 dni",
+          "detail": "Automatycznie odnowiony i wdrożony w nocy, przed poniedziałkowym szczytem ruchu."
+        },
+        {
+          "title": "Błąd 502 na jednej ze stron",
+          "detail": "Przełączenie na kopię cache w 40s. Dyżurny inżynier przywrócił serwer w 8 minut."
+        },
+        {
+          "title": "Wykrycie regresji w indeksowaniu Google",
+          "detail": "Błędny tag noindex po aktualizacji wtyczki — przywrócono stan poprzedni, zgłoszono ponowne skanowanie."
+        },
+        {
+          "title": "Wyciek PHI z formularza do analityki",
+          "detail": "Wdrożono skrypt czyszczący dane, usunięto PII z Google Analytics 4, zaktualizowano logi zgodności."
         }
       ]
     }

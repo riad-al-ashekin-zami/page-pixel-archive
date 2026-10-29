@@ -379,6 +379,36 @@
         "Tratamento de Vitiligo",
         "Biópsia de Pele e Procedimentos de Diagnóstico"
       ]
+    },
+    "content": {
+      "description": "Mapeamento de intenção por patologia e procedimento — acne, eczema, Mohs, biópsias — alinhado com a jornada real do paciente. Páginas revistas por especialistas e em conformidade com E-E-A-T, escritas para pacientes e para o Google — sem conteúdos superficiais ou gerados por IA.",
+      "items": [],
+      "list": [
+        "Tratamento de Acne",
+        "Tratamento de Eczema",
+        "Tratamento de Psoríase",
+        "Infeções Cutâneas",
+        "Alergias Dermatológicas",
+        "Rastreio e Tratamento de Cancro da Pele",
+        "Avaliação e Remoção de Sinais",
+        "Remoção de Quistos e Lipomas",
+        "Remoção de Verrugas",
+        "Doenças Ungueais (Unhas)",
+        "Tratamento de Queda de Cabelo",
+        "Patologias do Couro Cabeludo",
+        "Tratamento de Rosácea",
+        "Hiperpigmentação e Melasma",
+        "Tratamento de Cicatrizes",
+        "Cicatrizes de Queimaduras",
+        "Tratamento de Vitiligo",
+        "Biópsias e Diagnóstico Cutâneo"
+      ]
+    },
+    "technical": {
+      "description": "Core Web Vitals, rastreabilidade, indexação, schema, HTTPS e mobile-first — uma base técnica de 120 pontos antes de avançar com o conteúdo. LCP inferior a 1s, CLS próximo de zero, otimização de imagens e fontes — a mesma performance das clínicas com melhor ranking mundial."
+    },
+    "reporting": {
+      "description": "GA4, Search Console e seguimento diário das suas 200 principais keywords — reportado mensalmente de forma clara e direta. Links editoriais, citações locais, aceleração de avaliações e relatórios mensais detalhados."
     }
   }
 }

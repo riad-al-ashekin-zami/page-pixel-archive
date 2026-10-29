@@ -379,6 +379,36 @@
         "Léčba vitiliga",
         "Kožní biopsie a diagnostické zákroky"
       ]
+    },
+    "content": {
+      "description": "Mapování dotazů pro diagnózy i zákroky – akné, ekzémy, Mohsova operace, biopsie – přesně podle cesty pacienta. Stránky splňující E-E-A-T, psané pro pacienty i vyhledávače. Žádný plytký text, žádná AI, žádné duplicity.",
+      "items": [],
+      "list": [
+        "Léčba akné",
+        "Léčba ekzému",
+        "Léčba lupénky",
+        "Léčba kožních infekcí",
+        "Léčba kožních alergií",
+        "Prevence a léčba rakoviny kůže",
+        "Vyšetření a odstranění mateřských znamének",
+        "Odstranění cyst a lipomů",
+        "Odstranění bradavic",
+        "Léčba onemocnění nehtů",
+        "Léčba vypadávání vlasů",
+        "Léčba onemocnění vlasové pokožky",
+        "Léčba růžovky (rosacea)",
+        "Hyperpigmentace a melasma",
+        "Léčba jizev",
+        "Léčba jizev po popáleninách",
+        "Léčba vitiliga",
+        "Biopsie kůže a diagnostika"
+      ]
+    },
+    "technical": {
+      "description": "Core Web Vitals, indexace, schema, HTTPS, mobile-first – 120 kontrolních bodů předtím, než začneme s obsahem. LCP pod 1s, téměř nulové CLS a optimalizace obrázků. Špičkový výkon webu pro nejlepší pozice."
+    },
+    "reporting": {
+      "description": "GA4, Search Console a denní sledování vašich 200 nejdůležitějších klíčových slov. S přehledným reportem každý měsíc. Budování zpětných odkazů, lokální citace a detailní měsíční reporty výsledků."
     }
   }
 }

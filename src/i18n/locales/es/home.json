@@ -237,7 +237,32 @@
         "q": "¿Mi nuevo sitio web realmente me ayudará a clasificar en Google?",
         "a": "El SEO se incorpora desde el primer día: esquema específico para dermatología, páginas de servicio y ubicación, Core Web Vitals de más de 95, y una estructura en la página construida para obtener clasificaciones para las búsquedas que generan reservas."
       }
-    ]
+    ],
+    "workDescription": "Explora el caso de muestra identificado y la galería de inspiración antes de elegir un enfoque para tu clínica. Los ejemplos muestran distintos recorridos y estilos; no todos son proyectos de clientes de DWD.",
+    "growthDescription": "Después del lanzamiento, elige visibilidad en buscadores, campañas, contenido social o mantenimiento. Cada servicio tiene su propio alcance para mejorar la siguiente prioridad sin reconstruir todo el sitio.",
+    "features": {
+      "description": "Planificamos enlaces claros para citas, galerías con consentimiento, conexiones seguras al portal y páginas accesibles que funcionan bien en teléfonos.",
+      "items": [
+        {
+          "title": "Reserva de citas"
+        },
+        {
+          "title": "Galería de antes y después"
+        },
+        {
+          "title": "Portal del paciente"
+        },
+        {
+          "title": "Diseño para móviles"
+        },
+        {
+          "title": "Accesibilidad"
+        },
+        {
+          "title": "Carga rápida"
+        }
+      ]
+    }
   },
   "ownerAnchors": {
     "design": "diseño web para dermatólogos",

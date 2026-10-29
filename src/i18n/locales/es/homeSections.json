@@ -12,7 +12,7 @@
     "footerCta": "Obtenga un Presupuesto Gratuito",
     "items": {
       "customWebsite": {
-        "title": "Diseño de sitios web personalizados",
+        "title": "diseño web para dermatólogos",
         "description": "Sitios de dermatología enfocados en la conversión, construidos alrededor de su marca y el recorrido del paciente."
       },
       "redesign": {
@@ -36,7 +36,7 @@
         "description": "Portales de pacientes seguros y compatibles con HIPAA para admisión, registros y comunicación."
       },
       "maintenance": {
-        "title": "Cuidado y mantenimiento de sitios web",
+        "title": "mantenimiento y gestión de sitios web de dermatología",
         "description": "Actualizaciones continuas, copias de seguridad, seguridad y monitoreo de rendimiento para su tranquilidad."
       },
       "seo": {
@@ -44,14 +44,14 @@
         "description": "Posiciónese en búsquedas de alta intención y atraiga pacientes cualificados a su consulta."
       },
       "googleAds": {
-        "title": "Google Ads y PPC",
+        "title": "Google Ads para dermatólogos",
         "description": "Adquisición de pacientes predecible y medible con campañas publicitarias optimizadas."
       }
     }
   },
   "pricing": {
     "eyebrow": "Precios Transparentes",
-    "heading": "Sin cargos ocultos. Sin contratos largos.",
+    "heading": "Precios",
     "intro": "La mayoría de las agencias ocultan sus precios. Nosotros no: vea exactamente lo que pagará antes de hablar con nosotros.",
     "mostPopular": "Más Popular",
     "startingAt": "A partir de ",
@@ -82,8 +82,8 @@
   },
   "approach": {
     "eyebrow": "La Metodología",
-    "headingLead": "Un enfoque sistemático para un",
-    "headingHighlight": "crecimiento sostenible del paciente.",
+    "headingLead": "Nuestro Proceso",
+    "headingHighlight": "",
     "intro": "Un marco de seis fases, diseñado con precisión específicamente para consultas de dermatología de alto crecimiento. Haga clic en cualquier paso para explorar.",
     "phaseLabel": "Fase",
     "stepLabel": "Paso {{n}}",
@@ -163,8 +163,8 @@
   "whyChoose": {
     "eyebrow": "Por qué elegirnos",
     "eyebrowSuffix": "— DermatologyWebsiteDesign.com",
-    "headingLead": "La Única Agencia",
-    "headingHighlight": "100% Enfocada en Dermatología",
+    "headingLead": "Por Qué Nos Eligen las Clínicas de Dermatología",
+    "headingHighlight": "",
     "intro": "Las agencias web genéricas construyen sitios web. Nosotros construimos carteras de pacientes, diseñadas específicamente para cómo crecen las consultas de dermatología.",
     "reasons": {
       "pricing": {

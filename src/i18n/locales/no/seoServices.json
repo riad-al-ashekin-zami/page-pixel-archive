@@ -379,6 +379,36 @@
         "Vitiligobehandling",
         "Hudbiopsi og diagnostiske prosedyrer"
       ]
+    },
+    "content": {
+      "description": "Kartlegging av søkeintensjon for diagnoser og prosedyrer — akne, eksem, Mohs, biopsier — matchet mot pasientens faktiske reise. Fagfellevurderte sider som overholder E-E-A-T, skrevet for både pasienter og Google — aldri tynt innhold, aldri AI-generert, aldri kopiert.",
+      "items": [],
+      "list": [
+        "Aknebehandling",
+        "Eksembehandling",
+        "Psoriasisbehandling",
+        "Behandling av hudinfeksjoner",
+        "Behandling av hudallergi",
+        "Screening og behandling av hudkreft",
+        "Vurdering og fjerning av føflekker",
+        "Fjerning av cyster og lipomer",
+        "Vortefjerning",
+        "Behandling av neglesykdommer",
+        "Behandling av hårtap",
+        "Behandling av hodebunnslidelser",
+        "Rosaceabehandling",
+        "Hyperpigmentering og melasma",
+        "Arrbehandling",
+        "Behandling av brannskadearr",
+        "Vitiligobehandling",
+        "Hudbiopsi og diagnostikk"
+      ]
+    },
+    "technical": {
+      "description": "Core Web Vitals, gjennomsøkbarhet, indeksering, schema, HTTPS, mobile-first — et teknisk utgangspunkt med 120 punkter før innholdet flyttes. LCP under 1 sekund, nær null CLS, bilde- og fontoptimalisering — den samme ytelsen som ligger bak de best rangerte kliniske nettstedene."
+    },
+    "reporting": {
+      "description": "GA4, Search Console og daglig sporing av dine 200 viktigste søkeord — rapportert på en forståelig måte hver måned. Redaksjonelle lenker, lokale siteringer, akselerering av anmeldelser og transparent månedlig rapportering."
     }
   }
 }

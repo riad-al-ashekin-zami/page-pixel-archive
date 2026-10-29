@@ -12,7 +12,7 @@
     "footerCta": "Obtenir un devis gratuit",
     "items": {
       "customWebsite": {
-        "title": "Conception de site web personnalisé",
+        "title": "création de sites web pour dermatologues",
         "description": "Sites de dermatologie axés sur la conversion, conçus autour de votre marque et du parcours patient."
       },
       "redesign": {
@@ -36,22 +36,22 @@
         "description": "Portails patients sécurisés, compatibles HIPAA, pour l'admission, les dossiers et la communication."
       },
       "maintenance": {
-        "title": "Maintenance et entretien de site web",
+        "title": "maintenance et gestion de sites web de dermatologie",
         "description": "Mises à jour continues, sauvegardes, sécurité et surveillance des performances pour votre tranquillité d'esprit."
       },
       "seo": {
-        "title": "Référencement pour dermatologues",
+        "title": "Services SEO pour Dermatologues",
         "description": "Classez-vous pour les recherches à forte intention et attirez des patients qualifiés vers votre cabinet."
       },
       "googleAds": {
-        "title": "Google Ads et PPC",
+        "title": "Google Ads et PPC Dermatologie",
         "description": "Acquisition de patients prévisible et mesurable grâce à des campagnes publicitaires optimisées."
       }
     }
   },
   "pricing": {
     "eyebrow": "Tarification transparente",
-    "heading": "Pas de frais cachés. Pas de longs contrats.",
+    "heading": "Tarifs",
     "intro": "La plupart des agences cachent leurs prix. Nous non — voyez exactement ce que vous paierez avant même de nous parler.",
     "mostPopular": "Le plus populaire",
     "startingAt": "À partir de ",
@@ -82,8 +82,8 @@
   },
   "approach": {
     "eyebrow": "La méthodologie",
-    "headingLead": "Une approche systématique de la",
-    "headingHighlight": "croissance durable des patients.",
+    "headingLead": "Notre Processus",
+    "headingHighlight": "",
     "intro": "Un cadre en six phases, conçu avec précision et spécifiquement pour les cabinets de dermatologie à forte croissance. Cliquez sur n'importe quelle étape pour explorer.",
     "phaseLabel": "Phase",
     "stepLabel": "Étape {{n}}",
@@ -163,8 +163,8 @@
   "whyChoose": {
     "eyebrow": "Pourquoi nous choisir",
     "eyebrowSuffix": "— DermatologyWebsiteDesign.com",
-    "headingLead": "La seule agence",
-    "headingHighlight": "100% dédiée à la dermatologie.",
+    "headingLead": "Pourquoi les Cabinets Dermatologiques Nous Choisissent",
+    "headingHighlight": "",
     "intro": "Les agences web génériques construisent des sites web. Nous construisons des pipelines patients — conçus spécifiquement pour la croissance des cabinets de dermatologie.",
     "reasons": {
       "pricing": {

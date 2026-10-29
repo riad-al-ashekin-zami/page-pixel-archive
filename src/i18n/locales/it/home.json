@@ -237,7 +237,32 @@
         "q": "Il mio nuovo sito web mi aiuterà davvero a posizionarmi su Google?",
         "a": "La SEO è ingegnerizzata fin dal primo giorno — schema specifico per la dermatologia, pagine di servizio e località, Core Web Vitals di 95+, e una struttura on-page costruita per ottenere posizionamenti per le ricerche che generano appuntamenti."
       }
-    ]
+    ],
+    "workDescription": "Esplora il caso dimostrativo indicato e la galleria di ispirazione prima di scegliere una direzione. Gli esempi mostrano diversi percorsi e stili; non tutti sono progetti di clienti DWD.",
+    "growthDescription": "Dopo il lancio, scegli visibilità, campagne, contenuti social o manutenzione. Ogni servizio ha un ambito distinto per migliorare la prossima priorità senza ricostruire tutto il sito.",
+    "features": {
+      "description": "Prevediamo link chiari per gli appuntamenti, gallerie con consenso, connessioni sicure al portale e pagine accessibili che funzionano bene sui telefoni.",
+      "items": [
+        {
+          "title": "Prenotazione online"
+        },
+        {
+          "title": "Galleria prima e dopo"
+        },
+        {
+          "title": "Portale pazienti"
+        },
+        {
+          "title": "Layout mobile"
+        },
+        {
+          "title": "Accessibilità"
+        },
+        {
+          "title": "Caricamento rapido"
+        }
+      ]
+    }
   },
   "ownerAnchors": {
     "design": "web design per dermatologi",

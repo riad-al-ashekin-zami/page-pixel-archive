@@ -12,7 +12,7 @@
     "footerCta": "Získejte bezplatnou cenovou nabídku",
     "items": {
       "customWebsite": {
-        "title": "Návrh webových stránek na míru",
+        "title": "webdesign pro dermatology",
         "description": "Dermatologické stránky zaměřené na konverzi, postavené kolem vaší značky a cesty pacienta."
       },
       "redesign": {
@@ -36,22 +36,22 @@
         "description": "Bezpečné, HIPAA-kompatibilní pacientské portály pro příjem, záznamy a komunikaci."
       },
       "maintenance": {
-        "title": "Péče a údržba webových stránek",
+        "title": "údržba a správa dermatologických webů",
         "description": "Průběžné aktualizace, zálohování, zabezpečení a monitorování výkonu pro klid."
       },
       "seo": {
-        "title": "SEO pro dermatology",
+        "title": "SEO služby pro dermatology",
         "description": "Umístěte se ve vysoce relevantních vyhledáváních a přiveďte kvalifikované pacienty do své praxe."
       },
       "googleAds": {
-        "title": "Google Ads & PPC",
+        "title": "Dermatologické Google Ads & PPC",
         "description": "Předvídatelná, měřitelná akvizice pacientů s optimalizovanými reklamními kampaněmi."
       }
     }
   },
   "pricing": {
     "eyebrow": "Transparentní ceny",
-    "heading": "Žádné skryté poplatky. Žádné dlouhé smlouvy.",
+    "heading": "Ceny",
     "intro": "Většina agentur skrývá své ceny. My ne – přesně vidíte, co zaplatíte, než s námi vůbec promluvíte.",
     "mostPopular": "Nejpopulárnější",
     "startingAt": "Již od ",
@@ -82,8 +82,8 @@
   },
   "approach": {
     "eyebrow": "Metodologie",
-    "headingLead": "Systematický přístup k",
-    "headingHighlight": "udržitelnému růstu pacientů.",
+    "headingLead": "Náš postup",
+    "headingHighlight": "",
     "intro": "Precizně navržený, šestifázový rámec speciálně pro rychle rostoucí dermatologické praxe. Klikněte na libovolný krok pro prozkoumání.",
     "phaseLabel": "Fáze",
     "stepLabel": "Krok {{n}}",
@@ -163,8 +163,8 @@
   "whyChoose": {
     "eyebrow": "Proč nás",
     "eyebrowSuffix": "— DermatologyWebsiteDesign.com",
-    "headingLead": "Jediná agentura",
-    "headingHighlight": "100% zaměřená na dermatologii",
+    "headingLead": "Proč si nás dermatologické kliniky vybírají",
+    "headingHighlight": "",
     "intro": "Generické webové agentury staví webové stránky. My budujeme pacientovy toky – speciálně navržené pro růst dermatologických praxí.",
     "reasons": {
       "pricing": {

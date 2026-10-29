@@ -501,7 +501,7 @@
     "included": {
       "badge": "Incluso ogni mese",
       "title": "16 attività che svolgiamo per te — ogni singolo mese.",
-      "items": [
+      "list": [
         "Monitoraggio uptime e SSL 24/7",
         "Aggiornamenti settimanali CMS e plugin",
         "Backup giornalieri crittografati off-site",
@@ -543,6 +543,110 @@
           "step": "04",
           "title": "Analisi e Miglioramento",
           "desc": "Revisione mensile delle prestazioni con un ingegnere dedicato. Per rendere il tuo sito più veloce, sicuro e visibile il mese successivo."
+        }
+      ]
+    },
+    "hosting": {
+      "description": "Pianifichiamo l’hosting in base ai dati trattati. Verifichiamo crittografia, accessi, backup, monitoraggio e accordi con i fornitori. Non sostituisce la verifica di conformità della clinica."
+    },
+    "planSummary": {
+      "badge": "Piani di assistenza",
+      "title": "Prezzi trasparenti. Nessun vincolo. Veri ingegneri.",
+      "description": "Ogni piano è a rinnovo mensile. Disdici quando vuoi, mantenendo tutto il codice e le credenziali.",
+      "labels": {
+        "popular": "Più popolare",
+        "market": "Mercato:",
+        "edits_prefix": "Modifiche:",
+        "sla_prefix": "SLA",
+        "cta": "Scegli l'offerta {{name}}"
+      },
+      "tiers": [
+        {
+          "name": "Essential",
+          "tag": "Studi singoli",
+          "price": "299 $",
+          "per": "/mese",
+          "sla": "Risposta < 4 ore",
+          "edits": "2 ore / mese",
+          "market": "500 $ – 1.000 $ /mese",
+          "savings": "40–70% più conveniente",
+          "features": [
+            "Monitoraggio uptime 24/7",
+            "Aggiornamenti settimanali plugin e CMS",
+            "Backup giornalieri crittografati",
+            "Scansioni malware + patching",
+            "Audit moduli HIPAA (trimestrale)",
+            "Monitoraggio Core Web Vitals",
+            "Report mensile sulle prestazioni",
+            "2 ore / mese di modifiche contenuti"
+          ]
+        },
+        {
+          "name": "Growth",
+          "tag": "Studi polispecialistici",
+          "price": "599 $",
+          "per": "/mese",
+          "sla": "Risposta < 1 ora",
+          "edits": "5 ore / mese",
+          "market": "1.200 $ – 2.500 $ /mese",
+          "savings": "50–76% più conveniente",
+          "features": [
+            "Tutto ciò che è in Essential",
+            "Audit settimanali moduli HIPAA",
+            "Scansioni e correzioni SEO health",
+            "Monitoraggio link interrotti e schema",
+            "Messa a punto CDN ed edge cache",
+            "Triage bug e hotfix rapidi",
+            "Ingegnere dedicato",
+            "5 ore / mese di modifiche (contenuti + design)"
+          ]
+        },
+        {
+          "name": "Enterprise",
+          "tag": "Gruppi multi-sede e Mohs",
+          "price": "1.499 $",
+          "per": "/mese",
+          "sla": "Risposta < 15 minuti",
+          "edits": "Illimitate*",
+          "market": "3.000 $ – 6.000 $ /mese",
+          "savings": "50–75% più conveniente",
+          "features": [
+            "Tutto ciò che è in Growth",
+            "Dashboard uptime per singola sede",
+            "Ingegnere reperibile 24/7",
+            "Penetration test trimestrali",
+            "Supporto integrazione Referral / EHR",
+            "Audit di accessibilità (WCAG AA)",
+            "Registro modifiche conformità e approvazione",
+            "Ore di modifica illimitate* (fair use)"
+          ]
+        }
+      ]
+    },
+    "incidents": {
+      "badge": "Registro incidenti recenti",
+      "title": "Cosa significa davvero prevenzione 24/7.",
+      "description": "Un campione reale di incidenti che abbiamo rilevato e risolto in questo trimestre — prima che i nostri clienti se ne accorgessero.",
+      "log": [
+        {
+          "title": "Pubblicato PHP RCE",
+          "detail": "Patch applicata su 47 siti clienti in 33 minuti. Finestra di esposizione nulla."
+        },
+        {
+          "title": "Certificato in scadenza tra 6 giorni",
+          "detail": "Rinnovato e distribuito automaticamente di notte prima del traffico del lunedì mattina."
+        },
+        {
+          "title": "Errore 502 Origin su 1 sito",
+          "detail": "Failover su cache entro 40s. L'ingegnere reperibile ha ripristinato l'origine in 8 minuti."
+        },
+        {
+          "title": "Regresso indicizzazione Google rilevato",
+          "detail": "Tag noindex errato dopo un aggiornamento plugin — ripristinato e richiesta nuova scansione entro un'ora."
+        },
+        {
+          "title": "Modulo contatti con perdita PHI negli analytics",
+          "detail": "Distribuito scrubber PII, bonificati gli eventi GA4, aggiornato il registro di conformità."
         }
       ]
     }

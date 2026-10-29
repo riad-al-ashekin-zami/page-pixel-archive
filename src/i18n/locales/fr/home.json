@@ -237,7 +237,32 @@
         "q": "Mon nouveau site web m'aidera-t-il réellement à me classer sur Google ?",
         "a": "Le référencement est intégré dès le premier jour : schema spécifique à la dermatologie, pages de services et de localisation, Core Web Vitals de 95+, et une structure on-page conçue pour obtenir des classements pour les recherches qui génèrent des réservations."
       }
-    ]
+    ],
+    "workDescription": "Explorez l’exemple clairement identifié et la galerie d’inspiration avant de choisir une direction. Les exemples montrent différents parcours et styles ; tous ne sont pas des projets clients DWD.",
+    "growthDescription": "Après le lancement, choisissez visibilité, campagnes, contenu social ou maintenance. Chaque service a son propre périmètre pour améliorer la prochaine priorité sans reconstruire tout le site.",
+    "features": {
+      "description": "Nous prévoyons des liens de rendez-vous clairs, des galeries avec consentement, des connexions sécurisées au portail et des pages accessibles sur mobile.",
+      "items": [
+        {
+          "title": "Prise de rendez-vous"
+        },
+        {
+          "title": "Galerie avant et après"
+        },
+        {
+          "title": "Portail patient"
+        },
+        {
+          "title": "Mise en page mobile"
+        },
+        {
+          "title": "Accessibilité"
+        },
+        {
+          "title": "Chargement rapide"
+        }
+      ]
+    }
   },
   "ownerAnchors": {
     "design": "création de sites web pour dermatologues",

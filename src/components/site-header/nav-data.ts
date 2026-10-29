@@ -18,10 +18,10 @@ export type NavItem = {
 };
 
 export const websiteServices: NavItem[] = [
-  { label: "Website Design", href: "/dermatology-website-design", icon: Monitor, description: "Conversion-focused dermatology sites.", i18nLabelKey: "website.design.label", i18nDescKey: "website.design.description" },
+  { label: "Website Design", href: "/", icon: Monitor, description: "Conversion-focused dermatology sites.", i18nLabelKey: "website.design.label", i18nDescKey: "website.design.description" },
   { label: "Website Redesign", href: "/dermatology-website-redesign", icon: RefreshCw, description: "Modernize your existing practice site.", i18nLabelKey: "website.redesign.label", i18nDescKey: "website.redesign.description" },
   { label: "Website Migration", href: "/dermatology-website-migration", icon: ArrowRightLeft, description: "Move your site with zero downtime, no SEO loss.", i18nLabelKey: "website.migration.label", i18nDescKey: "website.migration.description" },
-  { label: "Website Maintenance", href: "/dermatology-website-maintenance-services", icon: Wrench, description: "Keep your site secure, updated, and fast.", i18nLabelKey: "website.maintenance.label", i18nDescKey: "website.maintenance.description" },
+  { label: "Website Maintenance", href: "/dermatology-website-management-services", icon: Wrench, description: "Keep your site secure, updated, and fast.", i18nLabelKey: "website.maintenance.label", i18nDescKey: "website.maintenance.description" },
   { label: "Website Management", href: "/dermatology-website-management-services", icon: Server, description: "Full-service ongoing website management.", i18nLabelKey: "website.management.label", i18nDescKey: "website.management.description" },
   { label: "Website Support", href: "/dermatology-website-support-services", icon: HelpCircle, description: "On-demand expert support when you need it.", i18nLabelKey: "website.support.label", i18nDescKey: "website.support.description" },
   { label: "Multi-Location", href: "/multi-location-dermatology-website-design", icon: MapPin, description: "Scalable structure for multiple clinics.", i18nLabelKey: "website.multiLocation.label", i18nDescKey: "website.multiLocation.description" },
@@ -32,7 +32,7 @@ export const websiteServices: NavItem[] = [
 
 export const marketingServices: NavItem[] = [
   { label: "Dermatology SEO", href: "/dermatology-seo-services", icon: Search, description: "Rank for high-intent searches.", i18nLabelKey: "marketing.seo.label", i18nDescKey: "marketing.seo.description" },
-  { label: "Local SEO", href: "/dermatology-local-seo-services", icon: MapPinned, description: "Dominate your service area.", i18nLabelKey: "marketing.localSeo.label", i18nDescKey: "marketing.localSeo.description" },
+  { label: "Local SEO", href: "/dermatology-seo-services", icon: MapPinned, description: "Dominate your service area.", i18nLabelKey: "marketing.localSeo.label", i18nDescKey: "marketing.localSeo.description" },
   { label: "Practice Growth", href: "/dermatology-practice-growth", icon: TrendingUp, description: "Strategy for sustainable growth.", i18nLabelKey: "marketing.growth.label", i18nDescKey: "marketing.growth.description" },
   { label: "Google Ads / PPC", href: "/dermatology-google-ads-ppc", icon: MousePointerClick, description: "Predictable patient acquisition.", i18nLabelKey: "marketing.googleAds.label", i18nDescKey: "marketing.googleAds.description" },
   { label: "Social Media", href: "/dermatology-social-media-services", icon: Share2, description: "Build brand authority.", i18nLabelKey: "marketing.socialMedia.label", i18nDescKey: "marketing.socialMedia.description" },
@@ -61,7 +61,7 @@ export const insightsItems: NavItem[] = [
 
 export const mainNav = [
   { label: "Home", i18nKey: "nav.home", href: "/" },
-  { label: "Services", i18nKey: "nav.services", href: "/dermatology-website-design", mega: "services" as const },
+  { label: "Services", i18nKey: "nav.services", href: "/", mega: "services" as const },
   { label: "Portfolio", i18nKey: "nav.portfolio", href: "/dermatology-websites-portfolio" },
   { label: "Pricing", i18nKey: "nav.pricing", href: "/plan-packages-and-costs" },
   { label: "Insights", i18nKey: "nav.insights", href: "/blog", mega: "insights" as const },

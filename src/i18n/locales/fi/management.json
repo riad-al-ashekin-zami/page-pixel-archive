@@ -501,7 +501,7 @@
     "included": {
       "badge": "Sisältyy joka kuukausi",
       "title": "16 palvelua, jotka teemme puolestasi — joka ikinen kuukausi.",
-      "items": [
+      "list": [
         "24/7 käytettävyyden ja SSL:n valvonta",
         "Viikoittaiset CMS- ja lisäosapäivitykset",
         "Päivittäiset salatut varmuuskopiot (off-site)",
@@ -543,6 +543,110 @@
           "step": "04",
           "title": "Raportointi ja kehitys",
           "desc": "Kuukausittainen läpikäynti asiantuntijan kanssa. Kuinka teemme sivustostasi nopeamman, turvallisemman ja paremmin sijoittuvan ensi kuussa?"
+        }
+      ]
+    },
+    "hosting": {
+      "description": "Suunnittelemme verkkohotellin sivuston käsittelemien tietojen mukaan. Tarkistamme salauksen, käyttöoikeudet, varmuuskopiot, valvonnan ja toimittajasopimukset. Tämä ei korvaa klinikan omaa vaatimustenmukaisuuden arviointia."
+    },
+    "planSummary": {
+      "badge": "Ylläpitosuunnitelmat",
+      "title": "Ennakoitava hinnoittelu. Ei sitoutumista. Oikeat asiantuntijat.",
+      "description": "Jokainen suunnitelma on kuukausikohtainen. Peru milloin vain, kaikki koodi ja tunnukset säilyvät sinulla.",
+      "labels": {
+        "popular": "Suosituin",
+        "market": "Markkinahinta:",
+        "edits_prefix": "Muutokset:",
+        "sla_prefix": "SLA",
+        "cta": "Valitse {{name}}"
+      },
+      "tiers": [
+        {
+          "name": "Essential",
+          "tag": "Yksityisvastaanotot",
+          "price": "299 $",
+          "per": "/kk",
+          "sla": "< 4 tunnin vaste",
+          "edits": "2 t / kk",
+          "market": "500 – 1 000 $ /kk",
+          "savings": "40–70 % edullisempi",
+          "features": [
+            "24/7 käytettävyyden valvonta",
+            "Viikoittaiset lisäosa- ja CMS-päivitykset",
+            "Päivittäiset salatut varmuuskopiot",
+            "Haittaohjelmien skannaus + paikkaus",
+            "HIPAA-lomakeauditointi (neljännesvuosittain)",
+            "Core Web Vitals -seuranta",
+            "Kuukausittainen suorituskykyraportti",
+            "2 t / kk sisältöpäivityksiä"
+          ]
+        },
+        {
+          "name": "Growth",
+          "tag": "Moniammatilliset klinikat",
+          "price": "599 $",
+          "per": "/kk",
+          "sla": "< 1 tunnin vaste",
+          "edits": "5 t / kk",
+          "market": "1 200 – 2 500 $ /kk",
+          "savings": "50–76 % edullisempi",
+          "features": [
+            "Kaikki Essential-tason palvelut",
+            "Viikoittaiset HIPAA-lomakeauditoinnit",
+            "SEO-terveystarkastukset ja korjaukset",
+            "Rikkoutuneiden linkkien ja skeemojen seuranta",
+            "CDN- ja välimuistin optimointi",
+            "Bugien hallinta ja hotfix-julkaisut",
+            "Nimetty asiantuntija",
+            "5 t / kk muutostöitä (sisältö + design)"
+          ]
+        },
+        {
+          "name": "Enterprise",
+          "tag": "Ketjut ja Mohs-kirurgiaryhmät",
+          "price": "1 499 $",
+          "per": "/kk",
+          "sla": "< 15 min vaste",
+          "edits": "Rajoittamaton*",
+          "market": "3 000 – 6 000 $ /kk",
+          "savings": "50–75 % edullisempi",
+          "features": [
+            "Kaikki Growth-tason palvelut",
+            "Toimipistekohtaiset seurantanäkymät",
+            "24/7 päivystävä insinööri",
+            "Neljännesvuosittaiset penetraatiotestit",
+            "Lähete- ja potilastietojärjestelmien integraatiotuki",
+            "Saavutettavuusauditoinnit (WCAG AA)",
+            "Compliance-muutosloki ja hyväksynnät",
+            "Rajoittamaton* tuntimäärä (fair use)"
+          ]
+        }
+      ]
+    },
+    "incidents": {
+      "badge": "Tuoreimmat tapahtumalokit",
+      "title": "Mitä 24/7-valvonta todellisuudessa tarkoittaa.",
+      "description": "Reaaliaikainen ote tapauksista, jotka havaitsimme ja ratkaisimme tällä neljänneksellä — ennen kuin asiakkaamme huomasivat mitään.",
+      "log": [
+        {
+          "title": "PHP RCE -haavoittuvuus julkaistu",
+          "detail": "Paikattu 47 asiakassivustolle 33 minuutissa. Kriittinen altistusaika nolla."
+        },
+        {
+          "title": "Sertifikaatti vanhenemassa 6 päivän päästä",
+          "detail": "Automaattinen uusinta ja asennus yön aikana ennen maanantaiaamun liikennettä."
+        },
+        {
+          "title": "Origin 502 -virhe yhdellä sivustolla",
+          "detail": "Varajärjestelmän cache-käynnistys 40 sekunnissa. Päivystävä insinööri palautti pääpalvelimen 8 minuutissa."
+        },
+        {
+          "title": "Google-indeksoinnin heikkeneminen havaittu",
+          "detail": "Lisäosapäivityksen aiheuttama noindex-tägi — palautettu ja uusi indeksointipyyntö tehty tunnissa."
+        },
+        {
+          "title": "Yhteydenottolomake vuosi PHI-tietoja analytiikkaan",
+          "detail": "PII-suodatin otettu käyttöön, GA4-tapahtumat puhdistettu ja vaatimustenmukaisuusloki päivitetty."
         }
       ]
     }

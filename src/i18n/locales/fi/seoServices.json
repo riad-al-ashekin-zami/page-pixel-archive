@@ -379,6 +379,36 @@
         "Vitiligon hoito",
         "Ihonäytteet ja diagnostiikka"
       ]
+    },
+    "content": {
+      "description": "Sairauksien ja toimenpiteiden (kuten akne, ekseema, Mohs) hakuaiemoitteet kartoitettuna potilaan hoitopolun mukaan. E-E-A-T-yhteensopivat, asiantuntijoiden tarkistamat sivut potilaille ja Googlelle — ei koskaan pinnallista tai tekoälyn luomaa sisältöä.",
+      "items": [],
+      "list": [
+        "Aknen hoito",
+        "Ekseeman hoito",
+        "Psoriaasin hoito",
+        "Ihoinfektioiden hoito",
+        "Ihoallergioiden hoito",
+        "Ihosyövän seulonta ja hoito",
+        "Luomien tarkastus ja poisto",
+        "Kystien ja lipoomien poisto",
+        "Syylien poisto",
+        "Kynsioireiden hoito",
+        "Hiustenlähdön hoito",
+        "Hiuspohjan häiriöiden hoito",
+        "Ruusufinnin hoito",
+        "Hyperpigmentaatio ja maksaläiskät",
+        "Arpien hoito",
+        "Palovamma-arpien hoito",
+        "Vitiligon hoito",
+        "Ihobiopsiat ja diagnostiikka"
+      ]
+    },
+    "technical": {
+      "description": "Core Web Vitals, indeksointi, skeemat, HTTPS ja mobiilikäytettävyys — luomme 120-kohtaisen teknisen perustan ennen sisältötyötä. Alle sekunnin LCP, lähes nolla CLS ja kuvien optimointi — sama suorituskyky kuin parhaiten sijoittuvilla kliinisillä sivustoilla."
+    },
+    "reporting": {
+      "description": "GA4, Search Console ja 200 tärkeimmän avainsanan päivittäinen seuranta — raportoituna selkeällä suomen kielellä joka kuukausi. Toimitukselliset linkit, paikalliset maininnat, arvostelujen vauhdittaminen ja läpinäkyvä kuukausiraportointi."
     }
   }
 }

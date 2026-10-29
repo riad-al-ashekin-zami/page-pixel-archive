@@ -237,7 +237,32 @@
         "q": "Vil min nye nettside faktisk hjelpe meg med å rangere på Google?",
         "a": "SEO er konstruert inn fra dag én – dermatologispesifikk skjema, tjeneste- og lokasjonssider, Core Web Vitals på 95+, og en on-page struktur bygget for å oppnå rangeringer for søkene som driver bestillinger."
       }
-    ]
+    ],
+    "workDescription": "Utforsk det merkede eksempelet og inspirasjonsgalleriet før du velger retning for klinikken. Eksemplene viser ulike pasientreiser og uttrykk; ikke alle er DWD-kundeprosjekter.",
+    "growthDescription": "Etter lansering kan du velge søkesynlighet, kampanjer, sosialt innhold eller vedlikehold. Hver tjeneste har eget omfang, slik at neste prioritet forbedres uten å bygge hele nettsiden på nytt.",
+    "features": {
+      "description": "Vi planlegger tydelige bestillingslenker, samtykkebaserte gallerier, sikre portaltilkoblinger og tilgjengelige sider som fungerer godt på mobil.",
+      "items": [
+        {
+          "title": "Timebestilling"
+        },
+        {
+          "title": "Før- og ettergalleri"
+        },
+        {
+          "title": "Pasientportal"
+        },
+        {
+          "title": "Mobiltilpasset utforming"
+        },
+        {
+          "title": "Tilgjengelighet"
+        },
+        {
+          "title": "Rask lasting"
+        }
+      ]
+    }
   },
   "ownerAnchors": {
     "design": "nettsidedesign for hudleger",

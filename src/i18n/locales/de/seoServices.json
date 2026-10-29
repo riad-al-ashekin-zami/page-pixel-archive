@@ -379,6 +379,36 @@
         "Vitiligo-Therapie",
         "Hautbiopsien & Diagnostik"
       ]
+    },
+    "content": {
+      "description": "Intent-Mapping für Krankheitsbilder und Behandlungen — Akne, Ekzeme, Mohs, Biopsien — exakt auf die Patient Journey abgestimmt. Fachlich geprüfte, E-E-A-T konforme Seiten für Patienten und Google — kein Thin Content, kein KI-Spam, keine Duplikate.",
+      "items": [],
+      "list": [
+        "Akne-Behandlung",
+        "Ekzem-Therapie",
+        "Psoriasis-Behandlung",
+        "Hautinfektionen",
+        "Hautallergien",
+        "Hautkrebsvorsorge & Therapie",
+        "Muttermal-Untersuchung & Entfernung",
+        "Zysten- & Lipomentfernung",
+        "Warzenbehandlung",
+        "Nagelerkrankungen",
+        "Haarausfall-Therapie",
+        "Kopfhauterkrankungen",
+        "Rosacea-Behandlung",
+        "Hyperpigmentierung & Melasma",
+        "Narbenbehandlung",
+        "Verbrennungsnarben",
+        "Vitiligo-Therapie",
+        "Hautbiopsien & Diagnostik"
+      ]
+    },
+    "technical": {
+      "description": "Core Web Vitals, Crawlbarkeit, Indexierung, Schema, HTTPS, Mobile-First — eine technische 120-Punkte-Basis, bevor der erste Text erscheint. LCP unter 1s, CLS nahe Null, Bild- und Font-Optimierung — dieselbe Performance-Technologie, die Top-Klinikseiten nutzt."
+    },
+    "reporting": {
+      "description": "GA4, Search Console und tägliches Tracking Ihrer Top 200 Keywords — jeden Monat in verständlichem Deutsch berichtet. Redaktionelle Links, lokale Zitate, Bewertungskampagnen und transparentes monatliches Reporting."
     }
   }
 }

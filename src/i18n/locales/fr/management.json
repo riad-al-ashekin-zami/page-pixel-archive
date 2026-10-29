@@ -501,7 +501,7 @@
     "included": {
       "badge": "Inclus chaque mois",
       "title": "16 actions que nous réalisons pour vous — chaque mois.",
-      "items": [
+      "list": [
         "Surveillance 24h/24 de l'Uptime & SSL",
         "Mises à jour hebdomadaires CMS & plugins",
         "Sauvegardes quotidiennes cryptées hors site",
@@ -543,6 +543,110 @@
           "step": "04",
           "title": "Rapport & Amélioration",
           "desc": "Revue de performance mensuelle avec votre ingénieur. Comment rendre votre site plus rapide et plus sûr le mois prochain ?"
+        }
+      ]
+    },
+    "hosting": {
+      "description": "L’hébergement dépend des données traitées. Nous examinons chiffrement, accès, sauvegardes, surveillance et accords fournisseurs. Cela ne remplace pas l’examen de conformité du cabinet."
+    },
+    "planSummary": {
+      "badge": "Plans de maintenance",
+      "title": "Prix prévisibles. Sans engagement. De vrais ingénieurs.",
+      "description": "Tous nos plans sont mensuels. Annulez quand vous voulez, vous gardez tout votre code et vos accès.",
+      "labels": {
+        "popular": "Le plus populaire",
+        "market": "Prix du marché :",
+        "edits_prefix": "Modifications :",
+        "sla_prefix": "SLA",
+        "cta": "Choisir {{name}}"
+      },
+      "tiers": [
+        {
+          "name": "Essentiel",
+          "tag": "Cabinets individuels",
+          "price": "299 $",
+          "per": "/mois",
+          "sla": "Réponse < 4 heures",
+          "edits": "2 h / mois",
+          "market": "500 $ – 1 000 $ /mois",
+          "savings": "40–70 % moins cher",
+          "features": [
+            "Surveillance 24h/24",
+            "Mises à jour hebdo. plugins & CMS",
+            "Sauvegardes quotidiennes cryptées",
+            "Scans malwares + correctifs",
+            "Audit formulaires HIPAA (trimestriel)",
+            "Suivi Core Web Vitals",
+            "Rapport de performance mensuel",
+            "2h / mois de modifications de contenu"
+          ]
+        },
+        {
+          "name": "Croissance",
+          "tag": "Cabinets multi-services",
+          "price": "599 $",
+          "per": "/mois",
+          "sla": "Réponse < 1 heure",
+          "edits": "5 h / mois",
+          "market": "1 200 $ – 2 500 $ /mois",
+          "savings": "50–76 % moins cher",
+          "features": [
+            "Tout ce qui est inclus dans Essentiel",
+            "Audits hebdo. formulaires HIPAA",
+            "Nettoyage & optimisation SEO",
+            "Suivi des liens morts & schémas",
+            "Réglages CDN & Edge Cache",
+            "Triage de bugs & correctifs",
+            "Ingénieur de compte dédié",
+            "5h / mois de modifs (contenu + design)"
+          ]
+        },
+        {
+          "name": "Enterprise",
+          "tag": "Multi-sites & Groupes Mohs",
+          "price": "1 499 $",
+          "per": "/mois",
+          "sla": "Réponse < 15 min",
+          "edits": "Illimité*",
+          "market": "3 000 $ – 6 000 $ /mois",
+          "savings": "50–75 % moins cher",
+          "features": [
+            "Tout ce qui est inclus dans Croissance",
+            "Tableaux de bord uptime par site",
+            "Rotation d'ingénieurs d'astreinte 24h/24",
+            "Tests d'intrusion trimestriels",
+            "Support intégration EHR / Orientation",
+            "Audits d'accessibilité (WCAG AA)",
+            "Journal de conformité signé",
+            "Heures de modifs illimitées* (usage loyal)"
+          ]
+        }
+      ]
+    },
+    "incidents": {
+      "badge": "Journal d'incidents récents",
+      "title": "À quoi ressemble réellement un service 24h/24.",
+      "description": "Exemples réels d'incidents interceptés et résolus ce trimestre — avant même que nos clients ne le remarquent.",
+      "log": [
+        {
+          "title": "Publication d'une faille PHP RCE",
+          "detail": "Corrigé sur 47 sites clients en 33 minutes. Aucune fenêtre d'exposition."
+        },
+        {
+          "title": "Certificat SSL expirant dans 6 jours",
+          "detail": "Renouvelé automatiquement et déployé de nuit avant le trafic du lundi matin."
+        },
+        {
+          "title": "Erreur Origin 502 sur 1 site",
+          "detail": "Bascule sur le cache en 40s. L'ingénieur d'astreinte a rétabli le serveur d'origine en 8 min."
+        },
+        {
+          "title": "Régression d'indexation Google détectée",
+          "detail": "Balise noindex erronée après mise à jour d'un plugin — annulée et demande de ré-exploration envoyée dans l'heure."
+        },
+        {
+          "title": "Fuite de données PHI via formulaire vers Analytics",
+          "detail": "Déploiement d'un nettoyeur de PII, assainissement des événements GA4 et mise à jour du journal de conformité."
         }
       ]
     }

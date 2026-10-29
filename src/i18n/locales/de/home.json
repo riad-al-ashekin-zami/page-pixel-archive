@@ -237,7 +237,32 @@
         "q": "Wird meine neue Website mir tatsächlich helfen, bei Google zu ranken?",
         "a": "SEO wird von Tag eins an integriert – dermatologiespezifisches Schema, Service- und Standortseiten, Core Web Vitals von 95+ und eine On-Page-Struktur, die darauf ausgelegt ist, Rankings für die Suchanfragen zu erzielen, die Buchungen vorantreiben."
       }
-    ]
+    ],
+    "workDescription": "Entdecken Sie das gekennzeichnete Musterbeispiel und die Inspirationsgalerie, bevor Sie eine Richtung wählen. Die Beispiele zeigen unterschiedliche Patientenwege und Stile; nicht alle sind DWD-Kundenprojekte.",
+    "growthDescription": "Wählen Sie nach dem Start Suchsichtbarkeit, Kampagnen, Social-Media-Inhalte oder Wartung. Jede Leistung hat einen eigenen Umfang, damit sich die nächste Priorität ohne kompletten Neubau verbessern lässt.",
+    "features": {
+      "description": "Wir planen klare Terminlinks, Fotogalerien mit Einwilligung, sichere Portalanbindungen und zugängliche Seiten, die auf Mobiltelefonen gut funktionieren.",
+      "items": [
+        {
+          "title": "Online-Terminbuchung"
+        },
+        {
+          "title": "Vorher-Nachher-Galerie"
+        },
+        {
+          "title": "Patientenportal"
+        },
+        {
+          "title": "Mobilorientiertes Layout"
+        },
+        {
+          "title": "Barrierefreiheit"
+        },
+        {
+          "title": "Schnelle Ladezeiten"
+        }
+      ]
+    }
   },
   "ownerAnchors": {
     "design": "webdesign für hautärzte",

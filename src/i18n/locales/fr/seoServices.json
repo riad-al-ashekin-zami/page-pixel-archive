@@ -379,6 +379,36 @@
         "Traitement du vitiligo",
         "Biopsies cutanées et procédures de diagnostic"
       ]
+    },
+    "content": {
+      "description": "Cartographie des intentions par pathologie et procédure — acné, eczéma, Mohs, biopsies — alignée sur le parcours exact du patient. Pages conformes aux critères E-E-A-T et validées scientifiquement, rédigées pour les patients et Google — sans contenu générique, IA ou dupliqué.",
+      "items": [],
+      "list": [
+        "Traitement de l'acné",
+        "Traitement de l'eczéma",
+        "Traitement du psoriasis",
+        "Infections cutanées",
+        "Allergies cutanées",
+        "Dépistage et traitement du cancer de la peau",
+        "Évaluation et retrait de grains de beauté",
+        "Exérèse de kystes et lipomes",
+        "Retrait de verrues",
+        "Pathologies de l'ongle",
+        "Traitement de la chute de cheveux",
+        "Pathologies du cuir chevelu",
+        "Traitement de la rosacée",
+        "Hyperpigmentation & Mélasma",
+        "Traitement des cicatrices",
+        "Cicatrices de brûlures",
+        "Traitement du vitiligo",
+        "Biopsies & Diagnostics cutanés"
+      ]
+    },
+    "technical": {
+      "description": "Core Web Vitals, crawlabilité, indexation, schema, HTTPS, mobile-first — une base technique de 120 points d'analyse avant le moindre contenu. LCP inférieur à 1s, CLS proche de zéro, optimisation des images et polices — la même exigence de performance que les plus grands sites cliniques."
+    },
+    "reporting": {
+      "description": "GA4, Search Console et suivi quotidien de vos 200 mots-clés stratégiques — reportings clairs et détaillés chaque mois. Acquisition de liens éditoriaux, citations locales, accélération des avis et reporting mensuel transparent."
     }
   }
 }

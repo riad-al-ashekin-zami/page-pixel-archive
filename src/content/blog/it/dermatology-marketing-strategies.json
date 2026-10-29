@@ -1,6 +1,6 @@
 {
   "slug": "dermatology-marketing-strategies",
-  "title": "Strategie di Marketing per la Dermatologia: Una Guida per i Proprietari di Studi Medici per il 2026",
+  "title": "Strategie di Marketing per Dermatologi",
   "excerpt": "Una guida testata sul campo alle strategie di marketing per la dermatologia — Profilo dell'attività su Google, contenuti medici E-E-A-T, recensioni, ricerca a pagamento e referral — per studi singoli e multi-sede.",
   "imageAlt": "Dermatologo che esamina le analisi di marketing su un tablet in una clinica moderna",
   "body": [
@@ -29,16 +29,16 @@
       "text": "Le cliniche che trattano il GBP come un asset vivente superano in classifica quelle che lo trattano come un semplice elenco. È davvero così semplice."
     },
     {
-      "heading": "2. Crea contenuti basati sull'E-E-A-T medico, non sul volume di parole chiave"
+      "heading": "2. Ogni patologia. Ogni procedura. Ogni intento."
     },
     {
-      "text": "La dermatologia è un settore YMYL — Your Money or Your Life (I tuoi Soldi o la Tua Vita) — il che significa che Google applica i suoi più severi standard di qualità a ogni pagina. Il posizionamento dei contenuti dermatologici non riguarda la densità delle parole chiave o il conteggio delle parole; riguarda la dimostrazione di Esperienza, Competenza, Autorevolezza e Fiducia su ogni pagina in cui un paziente potrebbe approdare."
+      "text": "La dermatologia è un settore YMYL — Your Money or Your Life (I tuoi Soldi o la Tua Vita) — il che significa che Google applica i suoi più severi standard di qualità a ogni pagina."
     },
     {
-      "text": "Ciò significa che ogni pagina clinica dovrebbe avere una firma di un dermatologo certificato, un credito di revisione con le credenziali, una data di ultimo aggiornamento e citazioni a fonti peer-reviewed o a linee guida di importanti società (AAD, ASDS, ISDS). Le biografie degli autori dovrebbero collegarsi alla pagina del fornitore sul tuo sito, che a sua volta dovrebbe contenere certificazioni, residenze, pubblicazioni ed eventuali affiliazioni ospedaliere. Google legge tutto questo — e anche i pazienti."
-    },
-    {
-      "quote": "Gli studi dermatologici che trattano ogni pagina di servizio come una mini revisione clinica superano in classifica le agenzie che producono il triplo del volume di contenuti scarni e generici."
+      "link": {
+        "to": "/dermatology-seo-services",
+        "label": "Servizi SEO per Dermatologi"
+      }
     },
     {
       "heading": "3. Trasforma le recensioni in un canale di acquisizione che si autoalimenta"
@@ -50,13 +50,16 @@
       "text": "La risposta tattica è un'automazione della richiesta di recensioni attivata dal tuo PMS o EHR: un messaggio di testo e un'email inviati 24 ore dopo ogni visita, con un link one-tap a Google e link secondari a Healthgrades e Vitals. Aggiungi modelli di risposta per la tua reception in modo che ogni recensione — a cinque stelle o a una stella — riceva una risposta personale, conforme a HIPAA, entro due giorni lavorativi."
     },
     {
-      "heading": "4. Usa Google Ads per raggiungere la prima pagina mentre il SEO si consolida"
+      "heading": "4. Scegliere i canali giusti"
     },
     {
-      "text": "Il SEO organico per la dermatologia impiega 6–12 mesi per consolidarsi. Google Ads impiega 48 ore. Eseguili insieme. Punta a parole chiave ad alta intenzione e specifiche per i servizi ('chirurgia di Mohs Denver', 'dermatologo pediatrico vicino a me', 'consultazione CoolSculpting'), indirizza ogni annuncio a una landing page specifica per il servizio (mai alla home page) e monitora le prenotazioni — non i clic — come conversione primaria."
+      "text": "Il SEO organico per la dermatologia impiega 6–12 mesi per consolidarsi."
     },
     {
-      "text": "Regola generale di budget: alloca il 60% della spesa a pagamento per parole chiave di servizio 'bottom-of-funnel', il 25% per parole chiave di condizione ('trattamento per l'eczema', 'acne cistica') e il 15% per la conquista della concorrenza. Elimina qualsiasi parola chiave che costi più di $150 per paziente prenotato — la dermatologia ha una domanda sufficiente da non dover mai strapagare una singola visita."
+      "link": {
+        "to": "/dermatology-google-ads-ppc",
+        "label": "Google Ads e PPC per Dermatologia"
+      }
     },
     {
       "heading": "5. Riconfigurare i referral come canale intenzionale"
@@ -75,6 +78,12 @@
     },
     {
       "text": "Fai le sei cose di cui sopra in modo coerente per dodici mesi e la questione del marketing smetterà di essere 'come otteniamo più pazienti' e diventerà 'quali fornitori assumiamo dopo'. Questo è l'intero scopo della costruzione di un sistema di marketing: dovrebbe forzare le decisioni sulla capacità, non inseguirle."
+    },
+    {
+      "link": {
+        "to": "/dermatology-social-media-services",
+        "label": "Social Media per la Dermatologia"
+      }
     }
   ],
   "faqs": [
@@ -98,5 +107,6 @@
       "q": "Cos'è l'E-E-A-T medico e perché è importante per i contenuti di dermatologia?",
       "a": "E-E-A-T sta per Esperienza, Competenza, Autorevolezza e Fiducia — i segnali di qualità che Google applica ai contenuti YMYL (Your Money or Your Life). Per la dermatologia, ogni pagina clinica dovrebbe avere una firma certificata, un credito del revisore, citazioni ad AAD o fonti peer-reviewed e una data di ultimo aggiornamento. I siti che dimostrano un reale E-E-A-T medico superano costantemente in classifica i siti che producono volumi maggiori di contenuti scarni."
     }
-  ]
+  ],
+  "seoTitle": "Strategie di Marketing per Dermatologi"
 }

@@ -501,7 +501,7 @@
     "included": {
       "badge": "Inkludert hver måned",
       "title": "16 ting vi gjør for deg — hver eneste måned.",
-      "items": [
+      "list": [
         "24/7 oppetid- og SSL-overvåking",
         "Ukentlige CMS- og plugin-oppdateringer",
         "Daglig kryptert ekstern backup",
@@ -543,6 +543,110 @@
           "step": "04",
           "title": "Rapportere og forbedre",
           "desc": "Månedlig gjennomgang med din tekniker. Hvordan kan vi gjøre siden raskere, tryggere og mer synlig neste måned?"
+        }
+      ]
+    },
+    "hosting": {
+      "description": "Vi planlegger hosting etter dataene nettsiden behandler. Vi gjennomgår kryptering, tilgang, sikkerhetskopier, overvåking og leverandøravtaler. Dette erstatter ikke klinikkens egen vurdering av regelverket."
+    },
+    "planSummary": {
+      "badge": "Serviceavtaler",
+      "title": "Forutsigbar pris. Ingen binding. Ekte ingeniører.",
+      "description": "Alle planer løper måned til måned. Si opp når som helst, og behold all kode og tilgang.",
+      "labels": {
+        "popular": "Mest populær",
+        "market": "Markedspris:",
+        "edits_prefix": "Endringer:",
+        "sla_prefix": "SLA",
+        "cta": "Velg {{name}}"
+      },
+      "tiers": [
+        {
+          "name": "Essential",
+          "tag": "For enkelte legekontorer",
+          "price": "$299",
+          "per": "/ mnd",
+          "sla": "< 4 timer responstid",
+          "edits": "2 t / mnd",
+          "market": "$500 – $1,000 / mnd",
+          "savings": "40–70 % rimeligere",
+          "features": [
+            "24/7 oppetidsovervåking",
+            "Ukentlige plugin- og CMS-oppdateringer",
+            "Daglige krypterte backuper",
+            "Malware-skanning + patching",
+            "Kvartalsvis HIPAA-skjemakontroll",
+            "Core Web Vitals-overvåking",
+            "Månedlig ytelsesrapport",
+            "2 timer i måneden til innhold"
+          ]
+        },
+        {
+          "name": "Growth",
+          "tag": "Større klinikker med flere tjenester",
+          "price": "$599",
+          "per": "/ mnd",
+          "sla": "< 1 time responstid",
+          "edits": "5 t / mnd",
+          "market": "$1,200 – $2,500 / mnd",
+          "savings": "50–76 % rimeligere",
+          "features": [
+            "Alt i Essential",
+            "Ukentlig HIPAA-skjemakontroll",
+            "SEO-helsesjekk og utbedringer",
+            "Overvåking av brutte lenker og schema",
+            "Tuning av CDN og edge-cache",
+            "Feilsøking og utrulling av hotfix",
+            "Fast navngitt tekniker",
+            "5 timer i måneden (innhold + design)"
+          ]
+        },
+        {
+          "name": "Enterprise",
+          "tag": "Gruppepraksis og Mohs-klinikker",
+          "price": "$1,499",
+          "per": "/ mnd",
+          "sla": "< 15 min responstid",
+          "edits": "Ubegrenset*",
+          "market": "$3,000 – $6,000 / mnd",
+          "savings": "50–75 % rimeligere",
+          "features": [
+            "Alt i Growth",
+            "Oppetids-dashbord per lokasjon",
+            "24/7 vakttelefon med tekniker",
+            "Kvartalsvise penetrasjonstester",
+            "Støtte for henvisning/EPJ-integrasjon",
+            "Tilgjengelighetsrevisjon (WCAG AA)",
+            "Endringslogg for compliance",
+            "Ubegrensede* endringer (fair use)"
+          ]
+        }
+      ]
+    },
+    "incidents": {
+      "badge": "Siste hendelseslogg",
+      "title": "Slik ser \"24/7\" ut i praksis.",
+      "description": "Et utvalg av faktiske hendelser vi fanget opp og løste dette kvartalet — før kundene våre i det hele tatt merket det.",
+      "log": [
+        {
+          "title": "Kritisk PHP-sårbarhet publisert",
+          "detail": "Oppdatert på 47 kundesider i løpet av 33 minutter. Ingen eksponeringsvindu."
+        },
+        {
+          "title": "Sertifikat utløper om 6 dager",
+          "detail": "Auto-fornyet og implementert over natten før mandagsmorgentrafikken startet."
+        },
+        {
+          "title": "Origin 502 på 1 nettsted",
+          "detail": "Automatisk bytte til cache innen 40 sekunder. Tekniker gjenopprettet server på 8 minutter."
+        },
+        {
+          "title": "Google-indeksering regresjon oppdaget",
+          "detail": "Feilaktig noindex-tag fra en plugin-oppdatering – rullet tilbake, ny gjennomsøking bestilt samme time."
+        },
+        {
+          "title": "Skjema lakk personopplysninger til analytics",
+          "detail": "PII-skrubbing implementert, GA4-data renset, samsvarslogg oppdatert."
         }
       ]
     }

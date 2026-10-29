@@ -379,6 +379,36 @@
         "Tratamiento de Vitíligo",
         "Biopsias de Piel y Procedimientos Diagnósticos"
       ]
+    },
+    "content": {
+      "description": "Mapeo de intención por patología y procedimiento (acné, eccema, Mohs, biopsias) adaptado al trayecto real del paciente. Páginas con cumplimiento E-E-A-T revisadas por especialistas, escritas para pacientes y para Google; sin contenido irrelevante, copias ni IA genérica.",
+      "items": [],
+      "list": [
+        "Tratamiento de Acné",
+        "Tratamiento de Eccema",
+        "Tratamiento de Psoriasis",
+        "Infecciones de la Piel",
+        "Alergias Cutáneas",
+        "Detección y Tratamiento de Cáncer de Piel",
+        "Evaluación y Eliminación de Lunares",
+        "Eliminación de Quistes y Lipomas",
+        "Eliminación de Verrugas",
+        "Tratamiento de Trastornos de las Uñas",
+        "Tratamiento de Alopecia y Caída del Cabello",
+        "Trastornos del Cuero Cabelludo",
+        "Tratamiento de Rosácea",
+        "Hiperpigmentación y Melasma",
+        "Tratamiento de Cicatrices",
+        "Cicatrices por Quemaduras",
+        "Tratamiento de Vitíligo",
+        "Biopsias y Diagnóstico Cutáneo"
+      ]
+    },
+    "technical": {
+      "description": "Core Web Vitals, rastreabilidad, indexación, schema, HTTPS y mobile-first: una base técnica de 120 puntos antes de mover cualquier contenido. LCP inferior a 1s, CLS cercano a cero y optimización de imágenes y fuentes; el mismo rendimiento técnico de los sitios clínicos líderes."
+    },
+    "reporting": {
+      "description": "GA4, Search Console y seguimiento diario de sus 200 palabras clave principales, reportado mensualmente en lenguaje claro y directo. Enlaces editoriales, citaciones locales, aceleración de reseñas y reportes mensuales con total transparencia."
     }
   }
 }

@@ -237,7 +237,32 @@
         "q": "Pomůže mi můj nový web skutečně umístit se na Google?",
         "a": "SEO je navrženo od prvního dne – schéma specifické pro dermatologii, stránky služeb a lokalit, Core Web Vitals 95+ a on-page struktura vytvořená pro získání pozic ve vyhledávání, které vede k rezervacím."
       }
-    ]
+    ],
+    "workDescription": "Prohlédněte si označený vzorový případ a galerii inspirace, než zvolíte směr kliniky. Příklady ukazují různé cesty pacientů a styly; ne všechny jsou projekty klientů DWD.",
+    "growthDescription": "Po spuštění zvolte viditelnost ve vyhledávání, kampaně, sociální obsah nebo údržbu. Každá služba má vlastní rozsah, takže další prioritu zlepšíte bez přestavby celého webu.",
+    "features": {
+      "description": "Plánujeme jasné rezervační odkazy, galerie se souhlasem, bezpečná připojení k portálu a přístupné stránky fungující na telefonech.",
+      "items": [
+        {
+          "title": "Online objednání"
+        },
+        {
+          "title": "Galerie před a po"
+        },
+        {
+          "title": "Portál pacienta"
+        },
+        {
+          "title": "Mobilní rozvržení"
+        },
+        {
+          "title": "Přístupnost"
+        },
+        {
+          "title": "Rychlé načítání"
+        }
+      ]
+    }
   },
   "ownerAnchors": {
     "design": "webdesign pro dermatology",

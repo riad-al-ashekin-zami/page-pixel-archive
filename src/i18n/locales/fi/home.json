@@ -237,7 +237,32 @@
         "q": "Auttaako uusi verkkosivustoni todella sijoittumaan Googlessa?",
         "a": "SEO on suunniteltu alusta alkaen – dermatologiaspesifi skeemamerkintä, palvelu- ja sijaintisivut, Core Web Vitals yli 95 ja sivun sisäinen rakenne, joka on rakennettu ansaitsemaan sijoituksia varauksia ohjaaville hauille."
       }
-    ]
+    ],
+    "workDescription": "Tutustu merkittyyn esimerkkitapaukseen ja inspiraatiogalleriaan ennen klinikkasi suunnan valintaa. Esimerkit näyttävät erilaisia potilaspolkuja ja tyylejä; kaikki eivät ole DWD:n asiakasprojekteja.",
+    "growthDescription": "Julkaisun jälkeen voit valita hakunäkyvyyden, kampanjat, sosiaalisen sisällön tai ylläpidon. Jokaisella palvelulla on oma laajuutensa, joten kehität seuraavaa tavoitetta ilman koko sivuston uudistusta.",
+    "features": {
+      "description": "Suunnittelemme selkeät ajanvarauslinkit, suostumukseen perustuvat kuvagalleriat, turvalliset portaaliyhteydet ja puhelimilla toimivat saavutettavat sivut.",
+      "items": [
+        {
+          "title": "Ajanvaraus"
+        },
+        {
+          "title": "Ennen ja jälkeen -galleria"
+        },
+        {
+          "title": "Potilasportaali"
+        },
+        {
+          "title": "Mobiililähtöinen rakenne"
+        },
+        {
+          "title": "Saavutettavuus"
+        },
+        {
+          "title": "Nopea lataus"
+        }
+      ]
+    }
   },
   "ownerAnchors": {
     "design": "verkkosivusuunnittelu ihotautilääkäreille",

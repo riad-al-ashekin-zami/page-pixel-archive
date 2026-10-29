@@ -379,6 +379,36 @@
         "Cura della Vitiligine",
         "Biopsia Cutanea e Procedure Diagnostiche"
       ]
+    },
+    "content": {
+      "description": "Mappatura degli intenti per patologie e procedure — acne, eczema, Mohs, biopsie — allineata al percorso decisionale del paziente. Pagine conformi ai criteri E-E-A-T e revisionate da specialisti, scritte per i pazienti e per Google — mai superficiali, mai generate da AI, mai duplicate.",
+      "items": [],
+      "list": [
+        "Trattamento Acne",
+        "Trattamento Eczema",
+        "Trattamento Psoriasi",
+        "Trattamento Infezioni Cutanee",
+        "Trattamento Allergie Cutanee",
+        "Screening e Trattamento Tumori della Pelle",
+        "Valutazione e Rimozione Nei",
+        "Rimozione Cisti e Lipomi",
+        "Rimozione Verruche",
+        "Trattamento Patologie delle Unghie",
+        "Trattamento Calvizie e Perdita Capelli",
+        "Trattamento Patologie del Cuoio Capelluto",
+        "Trattamento Rosacea",
+        "Iperpigmentazione e Melasma",
+        "Trattamento Cicatrici",
+        "Trattamento Cicatrici da Ustione",
+        "Trattamento Vitiligine",
+        "Biopsia Cutanea e Diagnostica"
+      ]
+    },
+    "technical": {
+      "description": "Core Web Vitals, scansione, indicizzazione, schema, HTTPS, mobile-first — una base tecnica di 120 punti prima di muovere qualsiasi contenuto. LCP sotto il secondo, CLS vicino allo zero, ottimizzazione di immagini e font — lo stesso stack di performance dei siti clinici di alto livello."
+    },
+    "reporting": {
+      "description": "GA4, Search Console e monitoraggio quotidiano delle tue 200 keyword principali — con report chiari in italiano ogni mese. Link editoriali, citazioni locali, accelerazione recensioni e report mensili trasparenti."
     }
   }
 }

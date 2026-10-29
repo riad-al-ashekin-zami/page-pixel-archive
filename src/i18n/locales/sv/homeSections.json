@@ -12,7 +12,7 @@
     "footerCta": "Få en gratis offert",
     "items": {
       "customWebsite": {
-        "title": "Anpassad webbdesign",
+        "title": "webbdesign för hudläkare",
         "description": "Konverteringsfokuserade dermatologisidor byggda kring ditt varumärke och patienternas resa."
       },
       "redesign": {
@@ -36,22 +36,22 @@
         "description": "Säkra, HIPAA-medvetna patientportaler för intag, journaler och kommunikation."
       },
       "maintenance": {
-        "title": "Webbplatsvård & Underhåll",
+        "title": "underhåll och hantering av hudklinikers webbplatser",
         "description": "Löpande uppdateringar, säkerhetskopiering, säkerhet och prestandaövervakning för sinnesfrid."
       },
       "seo": {
-        "title": "SEO för dermatologer",
+        "title": "SEO-tjänster för hudläkare",
         "description": "Rankas högt för sökningar med hög avsikt och locka kvalificerade patienter till din praktik."
       },
       "googleAds": {
-        "title": "Google Ads & PPC",
+        "title": "Google Ads & PPC för hudläkare",
         "description": "Förutsägbar, mätbar patientanskaffning med optimerade annonskampanjer."
       }
     }
   },
   "pricing": {
     "eyebrow": "Transparent prissättning",
-    "heading": "Inga dolda avgifter. Inga långa kontrakt.",
+    "heading": "Priser",
     "intro": "De flesta byråer döljer sin prissättning. Det gör inte vi — se exakt vad du kommer att betala innan du ens pratar med oss.",
     "mostPopular": "Mest Populär",
     "startingAt": "Från ",
@@ -82,8 +82,8 @@
   },
   "approach": {
     "eyebrow": "Metodik",
-    "headingLead": "En systematisk metod för",
-    "headingHighlight": "hållbar patienttillväxt.",
+    "headingLead": "Vår process",
+    "headingHighlight": "",
     "intro": "Ett precisionskonstruerat ramverk i sex faser, designat specifikt för dermatologipraktiker med hög tillväxt. Klicka på valfritt steg för att utforska.",
     "phaseLabel": "Fas",
     "stepLabel": "Steg {{n}}",
@@ -163,8 +163,8 @@
   "whyChoose": {
     "eyebrow": "Varför oss",
     "eyebrowSuffix": "— DermatologyWebsiteDesign.com",
-    "headingLead": "Den enda byrån",
-    "headingHighlight": "100% fokuserad på dermatologi",
+    "headingLead": "Varför hudkliniker väljer oss",
+    "headingHighlight": "",
     "intro": "Generiska webbyråer bygger webbplatser. Vi bygger patientflöden – designade specifikt för hur dermatologipraktiker växer.",
     "reasons": {
       "pricing": {

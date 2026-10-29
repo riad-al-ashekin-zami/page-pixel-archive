@@ -237,7 +237,32 @@
         "q": "Kommer min nya webbplats verkligen att hjälpa mig att rankas på Google?",
         "a": "SEO är inbyggd från första dagen – dermatologispecifika scheman, tjänst- och platssidor, Core Web Vitals på 95+, och en on-page struktur byggd för att uppnå rankningar för de sökningar som leder till bokningar."
       }
-    ]
+    ],
+    "workDescription": "Utforska det markerade exemplet och inspirationsgalleriet innan du väljer riktning. Exemplen visar olika patientresor och uttryck; alla är inte DWD-kundprojekt.",
+    "growthDescription": "Efter lanseringen kan du välja söksynlighet, kampanjer, socialt innehåll eller underhåll. Varje tjänst har egen omfattning så att nästa prioritet förbättras utan att hela webbplatsen byggs om.",
+    "features": {
+      "description": "Vi planerar tydliga bokningslänkar, samtyckesbaserade bildgallerier, säkra portalanslutningar och tillgängliga sidor som fungerar bra på telefoner.",
+      "items": [
+        {
+          "title": "Tidsbokning online"
+        },
+        {
+          "title": "Före- och eftergalleri"
+        },
+        {
+          "title": "Patientportal"
+        },
+        {
+          "title": "Mobilanpassad layout"
+        },
+        {
+          "title": "Tillgänglighet"
+        },
+        {
+          "title": "Snabb laddning"
+        }
+      ]
+    }
   },
   "ownerAnchors": {
     "design": "webbdesign för hudläkare",

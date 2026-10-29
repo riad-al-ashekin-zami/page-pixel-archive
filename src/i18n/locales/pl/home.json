@@ -237,7 +237,32 @@
         "q": "Czy moja nowa strona naprawdę pomoże mi zająć wysokie pozycje w Google?",
         "a": "SEO jest wbudowane od pierwszego dnia — schemat specyficzny dla dermatologii, strony usług i lokalizacji, Core Web Vitals powyżej 95+ oraz struktura on-page stworzona do zdobywania pozycji w wyszukiwarkach, które generują rezerwacje."
       }
-    ]
+    ],
+    "workDescription": "Poznaj oznaczony przykład i galerię inspiracji przed wyborem kierunku dla kliniki. Przykłady pokazują różne ścieżki pacjenta i style; nie wszystkie są projektami klientów DWD.",
+    "growthDescription": "Po uruchomieniu wybierz widoczność w wyszukiwarkach, kampanie, treści społecznościowe lub utrzymanie. Każda usługa ma własny zakres, aby rozwijać kolejny priorytet bez przebudowy całej strony.",
+    "features": {
+      "description": "Planujemy jasne linki rezerwacji, galerie zdjęć ze zgodą, bezpieczne połączenia z portalem oraz dostępne strony działające na telefonach.",
+      "items": [
+        {
+          "title": "Rezerwacja wizyt"
+        },
+        {
+          "title": "Galeria przed i po"
+        },
+        {
+          "title": "Portal pacjenta"
+        },
+        {
+          "title": "Układ mobilny"
+        },
+        {
+          "title": "Dostępność"
+        },
+        {
+          "title": "Szybkie ładowanie"
+        }
+      ]
+    }
   },
   "ownerAnchors": {
     "design": "projektowanie stron dla dermatologów",

@@ -1,6 +1,6 @@
 {
   "slug": "dermatology-marketing-strategies",
-  "title": "Marketingové strategie pro dermatologii: Průvodce pro majitele praxí pro rok 2026",
+  "title": "Marketingové strategie pro dermatology",
   "excerpt": "Praxí ověřený průvodce marketingovými strategiemi pro dermatologii – Google Business Profile, lékařský obsah E-E-A-T, recenze, placené vyhledávání a doporučení – pro praxe s jedním i více pracovišti.",
   "imageAlt": "Dermatolog prohlížející marketingové analýzy na tabletu v moderní klinice",
   "body": [
@@ -29,16 +29,16 @@
       "text": "Kliniky, které s GBP zacházejí jako s živým aktivem, předčí ty, které s ním zacházejí jako s výpisem v katalogu. Je to opravdu tak jednoduché."
     },
     {
-      "heading": "2. Tvořte obsah zaměřený na lékařskou E-E-A-T, nikoli na objem klíčových slov"
+      "heading": "2. Každá diagnóza. Každý zákrok. Každý dotaz."
     },
     {
-      "text": "Dermatologie je vertikála YMYL – Your Money or Your Life (Vaše peníze nebo Váš život) – což znamená, že Google uplatňuje nejpřísnější standardy kvality na každou stránku. Hodnocení dermatologického obsahu se netýká hustoty klíčových slov nebo počtu slov; jde o demonstraci Zkušeností, Odbornosti, Autority a Důvěry na každé stránce, na kterou se pacient může dostat."
+      "text": "Dermatologie je vertikála YMYL – Your Money or Your Life (Vaše peníze nebo Váš život) – což znamená, že Google uplatňuje nejpřísnější standardy kvality na každou stránku."
     },
     {
-      "text": "To znamená, že každá klinická stránka by měla obsahovat jméno certifikovaného dermatologa, kredit recenzenta s kvalifikací, datum poslední aktualizace a citace na recenzované zdroje nebo hlavní pokyny společností (AAD, ASDS, ISDS). Biografie autorů by měly odkazovat na stránku poskytovatele na vašem vlastním webu, která by zase měla uvádět certifikace, rezidenturu, publikace a jakékoli nemocniční příslušnosti. Google to vše čte – a stejně tak i pacienti."
-    },
-    {
-      "quote": "Dermatologické praxe, které s každou stránkou služby zacházejí jako s mini klinickou recenzí, předčí agentury produkující trojnásobný objem tenkého, obecného obsahu."
+      "link": {
+        "to": "/dermatology-seo-services",
+        "label": "SEO služby pro dermatology"
+      }
     },
     {
       "heading": "3. Přeměňte recenze na exponenciální akviziční kanál"
@@ -50,13 +50,16 @@
       "text": "Taktickou odpovědí je automatizace žádostí o recenze spuštěná z vašeho PMS nebo EHR: textová zpráva a e-mail odeslané 24 hodin po každé návštěvě, s odkazem na Google jedním klepnutím a sekundárními odkazy na Healthgrades a Vitals. Přidejte šablony odpovědí pro vaši recepci, aby každá recenze – pětihvězdičková nebo jednohvězdičková – dostala osobní, HIPAA-bezpečnou odpověď do dvou pracovních dnů."
     },
     {
-      "heading": "4. Použijte Google Ads k zakoupení cesty na první stránku, zatímco SEO roste"
+      "heading": "4. Výběr správných kanálů"
     },
     {
-      "text": "Organické dermatologické SEO trvá 6–12 měsíců, než se projeví. Google Ads trvá 48 hodin. Spouštějte je společně. Cílověte na klíčová slova s vysokým záměrem, specifická pro služby („Mohsova chirurgie Denver“, „dětský dermatolog v mé blízkosti“, „konzultace CoolSculpting“), směřujte každou reklamu na vstupní stránku specifickou pro danou službu (nikoli nikdy na domovskou stránku) a jako primární konverzi sledujte rezervace – nikoli kliknutí."
+      "text": "Organické dermatologické SEO trvá 6–12 měsíců, než se projeví."
     },
     {
-      "text": "Pravidlo pro rozpočet: 60 % placených výdajů přidělte na klíčová slova služeb na dně trychtýře, 25 % na klíčová slova týkající se stavů („léčba ekzému“, „cystická akné“) a 15 % na dobývání konkurence. Zrušte jakékoli klíčové slovo, které stojí více než 150 $ za rezervovaného pacienta – dermatologie má dostatečnou poptávku, takže nikdy nemusíte přeplácet za jedinou návštěvu."
+      "link": {
+        "to": "/dermatology-google-ads-ppc",
+        "label": "Dermatologické Google Ads & PPC"
+      }
     },
     {
       "heading": "5. Přestavte doporučení jako záměrný kanál"
@@ -75,6 +78,12 @@
     },
     {
       "text": "Dělejte výše uvedených šest věcí důsledně po dvanáct měsíců a marketingová otázka se přestane týkat „jak získat více pacientů“ a stane se z ní „které poskytovatele najmeme dále“. To je celý smysl budování marketingového systému: měl by vynucovat rozhodnutí o kapacitě, nikoli je pronásledovat."
+    },
+    {
+      "link": {
+        "to": "/dermatology-social-media-services",
+        "label": "Sociální sítě pro dermatology"
+      }
     }
   ],
   "faqs": [
@@ -98,5 +107,6 @@
       "q": "Co znamená lékařská E-E-A-T a proč je důležitá pro dermatologický obsah?",
       "a": "E-E-A-T znamená Zkušenost, Odbornost, Autorita a Důvěra – signály kvality, které Google uplatňuje na obsah YMYL (Your Money or Your Life). Pro dermatologii by každá klinická stránka měla nést jméno certifikovaného autora, kredit recenzenta, citace na AAD nebo recenzované zdroje a datum poslední aktualizace. Weby, které prokazují skutečnou lékařskou E-E-A-T, důsledně překonávají weby produkující větší objemy méně kvalitního obsahu."
     }
-  ]
+  ],
+  "seoTitle": "Marketingové strategie pro dermatology"
 }
