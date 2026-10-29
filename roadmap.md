@@ -2,10 +2,13 @@
 
 ## Homepage visual redesign
 
-- [ ] Restyle included features, practice types, treatment pages, process and after-launch services; merge the duplicate non-negotiables section.
-- [ ] Localize only new labels/descriptions across 12 languages; preserve existing copy and destinations.
-- [ ] Verify first-render content, heading structure, links, mobile fit, reduced motion and performance comparison.
-- [ ] Provide English and Spanish desktop/mobile section screenshots.
+- [x] Restyle included features, practice types, treatment pages, process and after-launch services; merge the duplicate non-negotiables section.
+- [x] Localize only new labels/descriptions across 12 languages; preserve existing copy and destinations.
+- [x] Verify first-render content, heading structure, links, mobile fit, reduced motion and run a performance comparison.
+- [x] Provide English and Spanish desktop/mobile section screenshots.
+- [ ] Confirm no production Lighthouse performance regression — requires deployment and comparable production measurements; local development scores were 43 before, 26 after and 40 on repeat, so non-regression is not confirmed.
+
+All 12 language HTML responses checked; English/Spanish desktop and 375px mobile flows passed with no runtime errors. 31 existing tests passed; automatic build OK. Delivered 20 screenshots in PDF/ZIP with a check report. No publishing performed.
 
 ## Four original homepage concepts
 
