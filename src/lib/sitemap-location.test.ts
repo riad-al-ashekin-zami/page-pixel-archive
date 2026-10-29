@@ -1,16 +1,17 @@
-import { readFileSync, existsSync } from "node:fs";
+import { readFileSync } from "node:fs";
 import { describe, expect, it } from "vitest";
 
-describe("owner-selected sitemap location", () => {
-  it("publishes sitemap_index.xml and removes the former sitemap.xml route", () => {
-    const route = readFileSync("src/routes/sitemap_index[.]xml.ts", "utf8");
-    expect(route).toContain('createFileRoute("/sitemap_index.xml")');
-    expect(existsSync("src/routes/sitemap[.]xml.ts")).toBe(false);
+describe("keyword brief sitemap location", () => {
+  it("restores sitemap.xml and permanently redirects the previous location", async () => {
+    const response = await fetch("http://localhost:8080/sitemap_index.xml", { redirect: "manual" });
+    expect(response.status).toBe(301);
+    expect(response.headers.get("location")).toBe("/sitemap.xml");
   });
-
-  it("points crawlers to the new custom-domain sitemap", () => {
+  it("allows crawling and declares the active custom-domain sitemap", () => {
     const robots = readFileSync("public/robots.txt", "utf8");
-    expect(robots).toContain("Sitemap: https://dermatologywebsitedesign.com/sitemap_index.xml");
-    expect(robots).not.toContain("https://dermatologywebsitedesign.com/sitemap.xml");
+    expect(robots).toContain("Allow: /");
+    expect(robots).toContain("Sitemap: https://dermatologywebsitedesign.com/sitemap.xml");
+    expect(robots).not.toContain("Disallow: /");
+    expect(robots).not.toContain("sitemap_index.xml");
   });
 });
