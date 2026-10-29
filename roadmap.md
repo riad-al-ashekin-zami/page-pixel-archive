@@ -1,5 +1,12 @@
 # Roadmap — Formspree audit integration
 
+## Four original homepage concepts
+
+- [ ] Check invented clinic names for existing dermatology websites.
+- [ ] Keep LumaFern and add medical, aesthetic and multi-location concepts with translated descriptions in all 12 languages.
+- [ ] Verify four cards, concept-only classifications, images and unchanged 420-URL sitemap.
+- [ ] Request publishing and check all 12 portfolio redirects and the sitemap on the live custom domain.
+
 ## Portfolio consolidation and owner H1 follow-up
 
 - [x] Classify all portfolio items and share the list before any publishing.
