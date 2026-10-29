@@ -960,7 +960,7 @@ function PricingPage() {
         <p className="mx-auto mt-16 mb-20 max-w-3xl px-4 text-center text-sm text-muted-foreground sm:mt-20 sm:mb-24 sm:px-6 lg:px-8">
           {t("related.text")}{" "}
           <Link to="/our-process" className="font-medium text-foreground underline-offset-4 hover:text-brand-primary hover:underline">{t("related.process")}</Link>,{" "}
-          <Link to="/dermatology-websites-portfolio" className="font-medium text-foreground underline-offset-4 hover:text-brand-primary hover:underline">{t("related.portfolio")}</Link>, {t("common.or", { ns: "translation" })}{" "}
+          <Link to="/#examples" className="font-medium text-foreground underline-offset-4 hover:text-brand-primary hover:underline">{t("related.portfolio")}</Link>, {t("common.or", { ns: "translation" })}{" "}
           <Link to="/case-studies" className="font-medium text-foreground underline-offset-4 hover:text-brand-primary hover:underline">{t("related.caseStudies")}</Link>.
         </p>
 

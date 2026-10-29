@@ -278,5 +278,12 @@
     "portal": "Pacientský portál pro dermatologii",
     "process": "náš postup",
     "migration": "Nulové výpadky · Žádné ztráty v SEO"
+  },
+  "examples": {
+    "heading": "Příklady Webových Stránek Dermatologů",
+    "intro": "Výběr návrhů dermatologických webů, včetně klientských projektů a konceptů, které jsme vytvořili pro představení možností.",
+    "clientBadge": "Klientský projekt",
+    "conceptBadge": "Koncepční návrh",
+    "conceptAlt": "Koncepční návrh dermatologického webu – {{name}}"
   }
 }

@@ -830,7 +830,7 @@ function MultiLocationDermPage() {
           {t("footer_nav.useful_hint")}{" "}
           <Link to="/" className="font-medium text-foreground underline-offset-4 hover:text-brand-primary hover:underline">{t("footer_nav.links.single")}</Link>,{" "}
           <Link to="/dermatology-seo-services" className="font-medium text-foreground underline-offset-4 hover:text-brand-primary hover:underline">{t("footer_nav.links.seo")}</Link>, {t("common.or", { ns: "translation" })}{" "}
-          <Link to="/dermatology-websites-portfolio" className="font-medium text-foreground underline-offset-4 hover:text-brand-primary hover:underline">{t("footer_nav.links.portfolio")}</Link>.
+          <Link to="/#examples" className="font-medium text-foreground underline-offset-4 hover:text-brand-primary hover:underline">{t("footer_nav.links.portfolio")}</Link>.
         </p>
 
       <SiteFooter />

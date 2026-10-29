@@ -650,7 +650,7 @@ function OurProcessPage() {
         <p className="mx-auto mt-16 mb-20 max-w-3xl px-4 text-center text-sm text-muted-foreground sm:mt-20 sm:mb-24 sm:px-6 lg:px-8">
           {t("sections.footerLinks.prefix")}
           <Link to="/about" className="font-medium text-foreground underline-offset-4 hover:text-brand-primary hover:underline">{t("sections.footerLinks.about")}</Link>{t("sections.footerLinks.comma")}
-          <Link to="/dermatology-websites-portfolio" className="font-medium text-foreground underline-offset-4 hover:text-brand-primary hover:underline">{t("sections.footerLinks.portfolio")}</Link>{t("sections.footerLinks.or")}
+          <Link to="/#examples" className="font-medium text-foreground underline-offset-4 hover:text-brand-primary hover:underline">{t("sections.footerLinks.portfolio")}</Link>{t("sections.footerLinks.or")}
           <Link to="/plan-packages-and-costs" className="font-medium text-foreground underline-offset-4 hover:text-brand-primary hover:underline">{t("sections.footerLinks.pricing")}</Link>{t("sections.footerLinks.suffix")}
         </p>
 

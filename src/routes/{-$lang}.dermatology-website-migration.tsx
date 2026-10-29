@@ -216,8 +216,9 @@ function DermMigrationPage() {
                 {t("hero.badge")}
               </span>
               <h1 className="text-4xl font-black leading-[1.05] tracking-tight sm:text-5xl md:text-6xl">
-                {t("hero.heading")}
-              </h1>
+                  {t("hero.ownerHeading")}
+                </h1>
+                <p className="mt-4 max-w-3xl text-lg leading-relaxed text-muted-foreground">{t("hero.ownerSlogan")}</p>
               <p className="mt-5 max-w-xl text-base leading-relaxed text-muted-foreground md:text-lg">
                 {t("hero.subheading")}
               </p>

@@ -266,8 +266,9 @@ function PpcPage() {
                   className="mt-6 max-w-3xl text-balance font-bold leading-[1.05] tracking-[-0.025em] text-foreground"
                   style={{ fontSize: "clamp(2rem, 7.5vw, 4rem)" }}
                 >
-                  {t("hero.heading")}
+                  {t("hero.ownerHeading")}
                 </h1>
+                <p className="mt-4 max-w-3xl text-lg leading-relaxed text-muted-foreground">{t("hero.ownerSlogan")}</p>
               </Reveal>
 
               <Reveal delay={0.1}>

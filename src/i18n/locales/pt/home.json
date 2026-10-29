@@ -278,5 +278,12 @@
     "portal": "Portal do Paciente de Dermatologia",
     "process": "nosso processo",
     "migration": "Inatividade zero · Perda de SEO zero"
+  },
+  "examples": {
+    "heading": "Exemplos de Sites de Dermatologia",
+    "intro": "Uma seleção de designs de sites de dermatologia, incluindo projetos de clientes e conceitos que criamos para mostrar as possibilidades.",
+    "clientBadge": "Projeto de cliente",
+    "conceptBadge": "Design conceitual",
+    "conceptAlt": "Conceito de site de dermatologia – {{name}}"
   }
 }
