@@ -1,5 +1,12 @@
 # Roadmap — Formspree audit integration
 
+## SEO and management page cleanup
+
+- [ ] Redesign requested sections in all 12 languages; preserve protected headings and existing links.
+- [ ] Merge duplicates, replace unsupported results with sample reports and commitments, and render complete FAQs.
+- [ ] Verify first-render HTML, FAQ data, comparison columns and 375px fit; run regression tests.
+- [ ] Deliver English/Spanish desktop/mobile screenshots and a removal report.
+
 ## Homepage visual redesign
 
 - [x] Restyle included features, practice types, treatment pages, process and after-launch services; merge the duplicate non-negotiables section.
