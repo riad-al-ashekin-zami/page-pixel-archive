@@ -11,7 +11,7 @@
     "footerHighlight": "We'll build a custom plan for your practice.",
     "items": {
       "customWebsite": {
-        "title": "Custom Website Design for Skin Clinics",
+        "title": "dermatology website design",
         "description": "Conversion-focused dermatology sites built around your brand and patient journey."
       },
       "redesign": {
@@ -35,22 +35,22 @@
         "description": "Secure, HIPAA-aware patient portals for intake, records, and communication."
       },
       "maintenance": {
-        "title": "Website Care & Maintenance",
+        "title": "website maintenance and hosting",
         "description": "Ongoing updates, backups, security, and performance monitoring for peace of mind."
       },
       "seo": {
-        "title": "SEO for Dermatologists",
+        "title": "dermatology SEO",
         "description": "Rank for high-intent searches and bring qualified patients to your practice."
       },
       "googleAds": {
-        "title": "Google Ads & PPC",
+        "title": "Google Ads for dermatologists",
         "description": "Predictable, measurable patient acquisition with optimized ad campaigns."
       }
     }
   },
   "pricing": {
     "eyebrow": "Transparent Pricing",
-    "heading": "No hidden fees. No long contracts.",
+    "heading": "Pricing",
     "intro": "Most agencies hide their pricing. We don't — see exactly what you'll pay before you ever talk to us.",
     "mostPopular": "Most Popular",
     "startingAt": "Starting at ",
@@ -81,8 +81,8 @@
   },
   "approach": {
     "eyebrow": "The Methodology",
-    "headingLead": "A systematic approach to",
-    "headingHighlight": "sustainable patient growth.",
+    "headingLead": "Our Process",
+    "headingHighlight": "",
     "intro": "A precision-engineered, six-phase framework designed specifically for high-growth dermatology practices. Click any step to explore.",
     "phaseLabel": "Phase",
     "stepLabel": "Step {{n}}",
@@ -162,8 +162,8 @@
   "whyChoose": {
     "eyebrow": "Why Us",
     "eyebrowSuffix": "— DermatologyWebsiteDesign.com",
-    "headingLead": "The Only Agency",
-    "headingHighlight": "100% Focused on Dermatology",
+    "headingLead": "Why Dermatology Practices Choose Us",
+    "headingHighlight": "",
     "intro": "Generic web agencies build websites. Our dermatology website design builds patient pipelines, made specifically for how dermatology practices grow.",
     "reasons": {
       "pricing": {

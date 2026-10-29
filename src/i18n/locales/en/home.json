@@ -235,7 +235,32 @@
         "q": "Will my new website actually help me rank on Google?",
         "a": "SEO is engineered in from day one — dermatology-specific schema, service and location pages, Core Web Vitals of 95+, and an on-page structure built to earn rankings for the searches that drive bookings."
       }
-    ]
+    ],
+    "workDescription": "Explore the labelled sample and the industry inspiration gallery before choosing a direction for your practice. The examples show different patient journeys, service structures and visual approaches; they are not all DWD client projects.",
+    "growthDescription": "After launch, choose the support that fits your practice: search visibility, paid campaigns, social content or ongoing website care. Each service has its own scope, so your team can improve the next priority without rebuilding the whole site.",
+    "features": {
+      "description": "Patient booking should fit the way your practice works. We plan clear appointment links, consent-aware photo galleries, secure portal connections and accessible pages that perform well on phones.",
+      "items": [
+        {
+          "title": "Online booking"
+        },
+        {
+          "title": "Before/after gallery"
+        },
+        {
+          "title": "Patient portal"
+        },
+        {
+          "title": "Mobile-first layout"
+        },
+        {
+          "title": "Accessibility"
+        },
+        {
+          "title": "Fast loading"
+        }
+      ]
+    }
   },
   "ownerAnchors": {
     "design": "dermatology website design",

@@ -378,6 +378,36 @@
         "Vitiligo Treatment",
         "Skin Biopsy & Diagnostic Procedures"
       ]
+    },
+    "content": {
+      "description": "Condition-level and procedure-level intent mapping — acne, eczema, Mohs, biopsies — matched to the exact patient journey. Board-reviewed, E-E-A-T compliant pages written for patients and Google — never thin, never AI-spun, never duplicated.",
+      "items": [],
+      "list": [
+        "Acne Treatment",
+        "Eczema Treatment",
+        "Psoriasis Treatment",
+        "Skin Infection Treatment",
+        "Skin Allergy Treatment",
+        "Skin Cancer Screening & Treatment",
+        "Mole Evaluation & Removal",
+        "Cyst & Lipoma Removal",
+        "Wart Removal",
+        "Nail Disorder Treatment",
+        "Hair Loss Treatment",
+        "Scalp Disorder Treatment",
+        "Rosacea Treatment",
+        "Hyperpigmentation & Melasma",
+        "Scar Treatment",
+        "Burn Scar Treatment",
+        "Vitiligo Treatment",
+        "Skin Biopsy & Diagnostics"
+      ]
+    },
+    "technical": {
+      "description": "Core Web Vitals, crawlability, indexation, schema, HTTPS, mobile-first — a 120-point technical baseline before any content moves. Sub-1s LCP, near-zero CLS, image and font optimization — the same performance stack behind top-ranking clinical sites."
+    },
+    "reporting": {
+      "description": "GA4, Search Console, and daily rank tracking on your top 200 keywords — reported in plain English every month. Editorial links, local citations, review acceleration, and transparent monthly reporting."
     }
   }
 }
