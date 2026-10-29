@@ -34,9 +34,10 @@ function ContentBand({ title, group, owners = [] }: { title: string; group?: Gro
 
 export function HomepageMergedContent() {
   const { t } = useTranslation("home");
-  const data = t("merged", { returnObjects: true }) as { sections: string[]; audience: Group; pillars: Group; medicalServices: Group; process: Group };
+  const data = t("merged", { returnObjects: true }) as { sections: string[]; audience: Group; pillars: Group; features: Group; medicalServices: Group; process: Group };
   return <>
     <ContentBand title={data.sections[0]} group={data.pillars} owners={["gallery", "portal"]} />
+    <ContentBand title={data.features.description ?? ""} group={data.features} />
     <ContentBand title={data.audience.title ?? ""} group={data.audience} />
     <ContentBand title={data.medicalServices.title ?? ""} group={data.medicalServices} />
     <ContentBand title={data.sections[2]} group={data.process} owners={["process"]} />
