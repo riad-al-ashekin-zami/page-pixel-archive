@@ -266,16 +266,16 @@ function ManagementPage() {
             <p className="mb-4 text-sm font-semibold text-brand-primary">{labels.sample}</p>
             {(
               <div hidden={tab !== "content"} className="home-design-card p-6 sm:p-8">
-              <div className="grid gap-6 md:grid-cols-2">
+              <div className="grid min-w-0 grid-cols-1 gap-6 md:grid-cols-2">
                 <div>
                   <h3 className="text-xl font-bold">{t("deliverables.tabs.content.title")}</h3>
                   <p className="mt-1 text-sm text-muted-foreground">{t("deliverables.tabs.content.desc")}</p>
                 </div>
-                <div className="space-y-2">
+                <div className="min-w-0 space-y-2">
                   {(t("deliverables.tabs.content.items", { returnObjects: true }) as any[]).filter((_, i) => i !== 2).map((r) => (
                     <div key={r.text} className="flex items-center gap-3 rounded-xl border border-border/70 bg-background/60 p-3">
                       <div className="w-14 shrink-0 text-xs font-bold text-brand-primary">{r.date}</div>
-                      <div className="min-w-0 flex-1 truncate text-sm">{r.text}</div>
+                      <div className="min-w-0 flex-1 whitespace-normal break-words text-sm">{r.text}</div>
                       <span className="rounded-full bg-brand-primary/10 px-2 py-0.5 text-[10px] font-semibold text-brand-primary">{r.tag}</span>
                     </div>
                   ))}
@@ -285,7 +285,7 @@ function ManagementPage() {
             )}
             {(
               <div hidden={tab !== "seo"} className="home-design-card p-6 sm:p-8">
-              <div className="grid gap-6 md:grid-cols-2">
+              <div className="grid min-w-0 grid-cols-1 gap-6 md:grid-cols-2">
                 <div>
                   <h3 className="text-xl font-bold">{t("deliverables.tabs.seo.title")}</h3>
                   <p className="mt-1 text-sm text-muted-foreground">{t("deliverables.tabs.seo.desc")}</p>
@@ -299,7 +299,7 @@ function ManagementPage() {
             )}
             {(
               <div hidden={tab !== "cro"} className="home-design-card p-6 sm:p-8">
-              <div className="grid gap-6 md:grid-cols-2">
+              <div className="grid min-w-0 grid-cols-1 gap-6 md:grid-cols-2">
                 <div>
                   <h3 className="text-xl font-bold">{t("deliverables.tabs.cro.title")}</h3>
                   <p className="mt-1 text-sm text-muted-foreground">{t("deliverables.tabs.cro.desc")}</p>
@@ -317,7 +317,7 @@ function ManagementPage() {
             )}
             {(
               <div hidden={tab !== "reports"} className="home-design-card p-6 sm:p-8">
-              <div className="grid gap-6 md:grid-cols-2">
+              <div className="grid min-w-0 grid-cols-1 gap-6 md:grid-cols-2">
                 <div>
                   <h3 className="text-xl font-bold">{t("deliverables.tabs.reports.title")}</h3>
                   <p className="mt-1 text-sm text-muted-foreground">{t("deliverables.tabs.reports.desc")}</p>
