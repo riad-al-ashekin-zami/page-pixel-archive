@@ -281,9 +281,15 @@
   },
   "examples": {
     "heading": "Exemples de Sites Web de Dermatologie",
-    "intro": "Une sélection de designs de sites de dermatologie, comprenant des projets clients et des concepts que nous avons créés pour montrer les possibilités.",
+    "intro": "Des concepts originaux pour des cabinets fictifs ; aucun n’est un projet client.",
     "clientBadge": "Projet client",
     "conceptBadge": "Design conceptuel",
-    "conceptAlt": "Concept de site web de dermatologie – {{name}}"
+    "conceptAlt": "Concept de site web de dermatologie – {{name}}",
+    "descriptions": {
+      "studio": "Une mise en page accueillante avec une navigation claire entre les soins.",
+      "medical": "Une approche médicale avec un répertoire des affections et une recherche de rendez-vous.",
+      "aesthetic": "Une mise en page esthétique éditoriale avec des images sculpturales et un choix de soins.",
+      "group": "Une mise en page multisite avec un sélecteur de lieux et des pages de clinique cohérentes."
+    }
   }
 }

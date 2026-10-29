@@ -281,9 +281,15 @@
   },
   "examples": {
     "heading": "Ihotautiklinikoiden Verkkosivuesimerkit",
-    "intro": "Valikoima ihotautiklinikoiden verkkosivusuunnitelmia, mukaan lukien asiakasprojekteja ja konseptisuunnitelmia, joilla näytämme mahdollisuudet.",
+    "intro": "Alkuperäisiä konsepteja kuvitteellisille vastaanotoille; mikään ei ole asiakasprojekti.",
     "clientBadge": "Asiakasprojekti",
     "conceptBadge": "Konseptisuunnitelma",
-    "conceptAlt": "Ihotautiklinikan verkkosivukonsepti – {{name}}"
+    "conceptAlt": "Ihotautiklinikan verkkosivukonsepti – {{name}}",
+    "descriptions": {
+      "studio": "Viihtyisä studion ulkoasu ja selkeä hoitovalikko.",
+      "medical": "Lääketieteellinen ulkoasu, sairaushakemisto ja ajanvaraushaku.",
+      "aesthetic": "Esteettinen toimituksellinen ulkoasu, veistokselliset kuvat ja hoitojen selaus.",
+      "group": "Usean toimipisteen ulkoasu, toimipistehaku ja yhtenäiset klinikkasivut."
+    }
   }
 }

@@ -281,9 +281,15 @@
   },
   "examples": {
     "heading": "Eksempler på Hudlegers Nettsider",
-    "intro": "Et utvalg nettsidedesign for hudleger, inkludert kundeprosjekter og konseptdesign vi har laget for å vise mulighetene.",
+    "intro": "Originale konsepter for fiktive praksiser; ingen er kundeprosjekter.",
     "clientBadge": "Kundeprosjekt",
     "conceptBadge": "Konseptdesign",
-    "conceptAlt": "Konseptdesign for hudleges nettside – {{name}}"
+    "conceptAlt": "Konseptdesign for hudleges nettside – {{name}}",
+    "descriptions": {
+      "studio": "En innbydende studiolayout med tydelig behandlingsnavigasjon.",
+      "medical": "En medisinsk layout med en tilstandsoversikt og søk etter timer.",
+      "aesthetic": "En redaksjonell estetisk layout med skulpturelle bilder og behandlingsoversikt.",
+      "group": "En layout for flere klinikker med stedssøk og enhetlige klinikksider."
+    }
   }
 }

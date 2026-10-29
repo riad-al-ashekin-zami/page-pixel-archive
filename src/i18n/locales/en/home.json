@@ -279,9 +279,15 @@
   },
   "examples": {
     "heading": "Dermatology Website Examples",
-    "intro": "A selection of dermatology website designs, including client projects and concept designs we created to show what's possible.",
+    "intro": "Original concepts for fictional practices; none are client projects.",
     "clientBadge": "Client project",
     "conceptBadge": "Concept design",
-    "conceptAlt": "Dermatology website concept design – {{name}}"
+    "conceptAlt": "Dermatology website concept design – {{name}}",
+    "descriptions": {
+      "studio": "A welcoming studio layout with clear treatment navigation.",
+      "medical": "A medical-first layout with a condition directory and appointment search.",
+      "aesthetic": "An editorial aesthetic layout with sculptural imagery and treatment browsing.",
+      "group": "A multi-location layout with a location finder and consistent clinic pages."
+    }
   }
 }

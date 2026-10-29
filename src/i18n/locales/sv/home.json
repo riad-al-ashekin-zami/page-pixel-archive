@@ -281,9 +281,15 @@
   },
   "examples": {
     "heading": "Exempel på Hudläkares Webbplatser",
-    "intro": "Ett urval webbplatsdesigner för hudläkare, inklusive kundprojekt och konceptdesigner som vi skapat för att visa möjligheterna.",
+    "intro": "Originalkoncept för fiktiva mottagningar; inga är kundprojekt.",
     "clientBadge": "Kundprojekt",
     "conceptBadge": "Konceptdesign",
-    "conceptAlt": "Konceptdesign för hudläkares webbplats – {{name}}"
+    "conceptAlt": "Konceptdesign för hudläkares webbplats – {{name}}",
+    "descriptions": {
+      "studio": "En välkomnande studiolayout med tydlig behandlingsnavigation.",
+      "medical": "En medicinsk layout med ett tillståndsregister och sökning efter tider.",
+      "aesthetic": "En redaktionell estetisk layout med skulpturala bilder och behandlingsöversikt.",
+      "group": "En layout för flera mottagningar med platssökning och enhetliga kliniksidor."
+    }
   }
 }
