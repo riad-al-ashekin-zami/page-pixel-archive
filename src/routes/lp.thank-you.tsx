@@ -89,7 +89,7 @@ function ThankYouPage() {
 
         <div className="mt-8 flex flex-col items-center justify-center gap-3 sm:flex-row">
           <a
-            href={`${HOMEPAGE}/dermatology-websites-portfolio`}
+            href={`${HOMEPAGE}/#examples`}
             className="inline-flex items-center gap-2 rounded-full bg-gradient-to-r from-teal-400 to-cyan-500 px-7 py-3.5 text-sm font-semibold text-[#0c2340] shadow-[0_20px_50px_-15px_rgba(45,212,191,0.6)] transition-transform hover:-translate-y-0.5"
           >
             Explore Our Work

@@ -2,11 +2,11 @@
 
 ## Portfolio consolidation and owner H1 follow-up
 
-- [ ] Classify all portfolio items and share the list before any publishing.
-- [ ] Add honestly labelled examples after homepage included features in all 12 languages; remove the old work section.
-- [ ] Redirect all portfolio URLs, update localized examples links, and reduce sitemap to 420.
-- [ ] Set the six requested keyword H1s with existing slogans retained below.
-- [ ] Verify redirects, first-render cards, metadata and sitemap; report results.
+- [x] Classify all portfolio items and share the list before any publishing.
+- [x] Add honestly labelled examples after homepage included features in all 12 languages; remove the old work section.
+- [x] Redirect all portfolio URLs, update localized examples links, and reduce sitemap to 420.
+- [x] Set the six requested keyword H1s with existing slogans retained below.
+- [x] Verify redirects, first-render cards, metadata and sitemap; report results.
 
 ## Keyword ownership consolidation (October 2026)
 
