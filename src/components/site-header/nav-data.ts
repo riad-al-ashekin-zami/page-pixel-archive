@@ -61,7 +61,7 @@ export const insightsItems: NavItem[] = [
 
 export const mainNav = [
   { label: "Home", i18nKey: "nav.home", href: "/" },
-  { label: "Services", i18nKey: "nav.services", href: "/", mega: "services" as const },
+  { label: "Services", i18nKey: "nav.services", href: "/services", mega: "services" as const },
   { label: "Portfolio", i18nKey: "nav.portfolio", href: "/dermatology-websites-portfolio" },
   { label: "Pricing", i18nKey: "nav.pricing", href: "/plan-packages-and-costs" },
   { label: "Insights", i18nKey: "nav.insights", href: "/blog", mega: "insights" as const },

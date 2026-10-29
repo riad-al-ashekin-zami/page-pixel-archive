@@ -226,16 +226,16 @@
         "a": "Kyllä. Ylläpitosuunnitelmamme kattavat päivitykset, tietoturvan, varmuuskopiot, suorituskyvyn seurannan ja kuukausittaiset sisältömuutokset."
       },
       {
-        "q": "Kuinka kauan kestää uuden ihotautihoitosivuston julkaiseminen?",
-        "a": "Useimmat projektit julkaistaan 4–6 viikossa – löydöistä julkaisuun. Aikataulut riippuvat sisällön valmiudesta ja laajuudesta, ja jaamme selkeän viikoittaisen tiekartan perehdytyksen aikana."
+        "q": "Auttaako uusi verkkosivustoni todella sijoittumaan Googlessa?",
+        "a": "SEO on suunniteltu alusta alkaen – dermatologiaspesifi skeemamerkintä, palvelu- ja sijaintisivut, Core Web Vitals yli 95 ja sivun sisäinen rakenne, joka on rakennettu ansaitsemaan sijoituksia varauksia ohjaaville hauille."
       },
       {
         "q": "Hoidatteko HIPAA-yhteensopivuutta ja potilaan yksityisyyttä?",
         "a": "Kyllä. Jokainen rakennus on HIPAA-yhteensopiva: turvallinen isännöinti, salatut lomakkeet, BAA-valmiit integraatiot yhteydenottoa ja potilaan sisäänkirjautumista varten sekä vaatimustenmukaisuustarkastus ennen julkaisua."
       },
       {
-        "q": "Auttaako uusi verkkosivustoni todella sijoittumaan Googlessa?",
-        "a": "SEO on suunniteltu alusta alkaen – dermatologiaspesifi skeemamerkintä, palvelu- ja sijaintisivut, Core Web Vitals yli 95 ja sivun sisäinen rakenne, joka on rakennettu ansaitsemaan sijoituksia varauksia ohjaaville hauille."
+        "q": "Mitä on-page SEO sisältää?",
+        "a": "Avainsanoihin perustuvan H1/H2-rakenteen, schema-merkinnät (LocalBusiness, MedicalClinic, FAQ), optimoidut metatiedot, sisäiset linkitykset ja kuvien optimoinnin kaikille sivuille."
       }
     ],
     "workDescription": "Tutustu merkittyyn esimerkkitapaukseen ja inspiraatiogalleriaan ennen klinikkasi suunnan valintaa. Esimerkit näyttävät erilaisia potilaspolkuja ja tyylejä; kaikki eivät ole DWD:n asiakasprojekteja.",
@@ -261,7 +261,8 @@
         {
           "title": "Nopea lataus"
         }
-      ]
+      ],
+      "title": "Kuusi peruspilaria jokaisessa projektissa"
     }
   },
   "ownerAnchors": {

@@ -224,16 +224,16 @@
         "a": "Yes. Our Website Care plans cover updates, security, backups, uptime monitoring, performance tuning, and monthly content edits."
       },
       {
-        "q": "How long does it take to launch a new practice site?",
-        "a": "Most projects go live in 4–6 weeks — from discovery to launch. Timelines depend on content readiness and scope, and we share a clear week-by-week roadmap during onboarding."
+        "q": "Will my new website actually help me rank on Google?",
+        "a": "SEO is engineered in from day one — dermatology-specific schema, service and location pages, Core Web Vitals of 95+, and an on-page structure built to earn rankings for the searches that drive bookings."
       },
       {
         "q": "Do you handle HIPAA compliance and patient privacy?",
         "a": "Yes. Every build is HIPAA-aware: secure hosting, encrypted forms, BAA-ready integrations for contact and intake, and a compliance review before launch."
       },
       {
-        "q": "Will my new website actually help me rank on Google?",
-        "a": "SEO is engineered in from day one — dermatology-specific schema, service and location pages, Core Web Vitals of 95+, and an on-page structure built to earn rankings for the searches that drive bookings."
+        "q": "What's included in on-page SEO?",
+        "a": "Keyword-mapped H1/H2 structure, schema markup (LocalBusiness, MedicalClinic, FAQ), optimized meta, internal linking, and image alt/optimization across every page."
       }
     ],
     "workDescription": "Explore the labelled sample and the industry inspiration gallery before choosing a direction for your practice. The examples show different patient journeys, service structures and visual approaches; they are not all DWD client projects.",
@@ -259,7 +259,8 @@
         {
           "title": "Fast loading"
         }
-      ]
+      ],
+      "title": "Six non-negotiables in every build"
     }
   },
   "ownerAnchors": {

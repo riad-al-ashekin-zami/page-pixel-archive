@@ -2,12 +2,16 @@
 
 ## Keyword ownership consolidation (October 2026)
 
-- [ ] Apply the newly approved brief across all existing languages, preserving the visual design.
-- [ ] Consolidate design, local SEO, and maintenance pages with permanent redirects and update internal links.
-- [ ] Update localized metadata, headings, content, and matching FAQ data.
-- [ ] Replace the old 13-URL limit with all public indexable pages; exclude About, legal, redirected and private pages.
-- [ ] Restore `/sitemap.xml`, align hreflang, robots and canonicals, and test first-render metadata and redirects.
-- [ ] Provide the requested page-by-page report and distinguish preview verification from live deployment.
+- [x] Apply metadata, indexing and keyword ownership updates across the 12 existing languages.
+- [x] Consolidate three competing paths with same-language permanent redirects; verify all 36 on the live domain.
+- [x] Update localized headings, owner links, homepage/SEO content and FAQ data.
+- [x] Replace the 13-URL inventory with 36 public logical paths × 12 languages; exclude About, legal, private and redirected paths.
+- [x] Restore `/sitemap.xml`; verify all 432 sitemap pages have one H1, one canonical, one robots instruction and 13 alternates.
+- [x] Provide the page-by-page report, 30 passing tests, browser flow checks and live-domain observations.
+- [ ] Native-speaker review of drafted translations — requires owner/native-language reviewer.
+- [ ] Verify Google recrawling and ranking recovery — requires subsequent Search Console evidence.
+
+Content deduplication and full expanded-answer checks for every pre-existing accordion are not claimed complete; these limits are recorded in the report.
 
 ## Sitewide browser icon
 
@@ -23,7 +27,7 @@ display remains browser-controlled.
 
 - [x] Add English `/about` to the shared indexing allowlist, bringing it to 13 URLs.
 - [x] Verify the sitemap and About indexing instruction locally and check production.
-- [ ] Confirm production serves the updated 13-URL sitemap and `/about` indexing instruction — blocked on the owner's Netlify redeployment.
+- [x] Superseded by the new keyword brief: live About is now deliberately noindex and the sitemap contains all localized public pages.
 
 Preview verification passed: `/about` serves `index,follow`, the sitemap contains
 exactly the 13 shared allowlist entries, and all six indexing/location tests pass.

@@ -603,17 +603,9 @@ export const POSTS: Post[] = [
       {
         text: "The clinics that treat GBP as a living asset out-rank the ones that treat it as a directory listing. It is genuinely that simple.",
       },
-      { heading: "2. Build content around medical E-E-A-T, not keyword volume" },
-      {
-        text: "Dermatology is a YMYL — Your Money or Your Life — vertical, which means Google applies its strictest quality standards to every page. Ranking dermatology content is not about keyword density or word count; it is about demonstrating Experience, Expertise, Authoritativeness, and Trust on every page a patient might land on.",
-      },
-      {
-        text: "That means every clinical page should carry a byline from a board-certified dermatologist, a reviewer credit with credentials, a last-updated date, and citations to peer-reviewed sources or major society guidelines (AAD, ASDS, ISDS). Author bios should link to the provider's page on your own site, which in turn should carry board certifications, residency, publications, and any hospital affiliations. Google reads all of it — and so do patients.",
-      },
-      {
-        quote:
-          "Dermatology practices that treat every service page like a mini clinical review out-rank agencies producing three times the volume of thin, generic content.",
-      },
+      { heading: "2. Publish trustworthy patient education" },
+      { text: "Explain treatments in language patients understand and have clinical staff review medical information. Make provider credentials, sources and review dates easy to find. For the search architecture and ongoing optimization behind those pages, use the dedicated service below." },
+      { link: { to: "/dermatology-seo-services", label: "dermatology SEO services" } },
       { heading: "3. Turn reviews into a compounding acquisition channel" },
       {
         text: "Ninety-two percent of patients read reviews before booking a new dermatology provider, and the average patient reads at least seven before deciding. A practice sitting at 4.6 stars with 40 reviews will lose to a practice at 4.8 with 400 — every time.",
@@ -622,12 +614,10 @@ export const POSTS: Post[] = [
         text: "The tactical answer is a review-request automation triggered off your PMS or EHR: a text and email sent 24 hours after every visit, with a one-tap link to Google and secondary links to Healthgrades and Vitals. Add response templates for your front desk so every review — five-star or one-star — gets a personal, HIPAA-safe reply within two business days.",
       },
       { heading: "4. Choose the right acquisition channels" },
-      {
-        text: "Organic dermatology SEO takes 6–12 months to compound. Google Ads takes 48 hours. Run them together. Target high-intent, service-specific keywords ('mohs surgery Denver,' 'pediatric dermatologist near me,' 'CoolSculpting consultation'), point every ad to a service-specific landing page (never the home page), and track bookings — not clicks — as the primary conversion.",
-      },
-      {
-        text: "Budget rule of thumb: allocate 60% of paid spend to bottom-of-funnel service keywords, 25% to condition keywords ('eczema treatment,' 'cystic acne'), and 15% to competitor conquesting. Kill any keyword that costs more than $150 per booked patient — dermatology has enough demand that you never have to overpay for a single visit.",
-      },
+      { text: "Paid search can complement referrals and organic visibility when a practice has appointment capacity and a clear measurement plan. Choose campaigns around real services, link to relevant patient information and evaluate qualified appointments rather than clicks. Campaign setup and management belong on the dedicated ads page." },
+      { link: { to: "/dermatology-google-ads-ppc", label: "Google Ads for dermatologists" } },
+      { text: "Social content supports patient education and helps people understand your team and approach. Keep patient permissions and clinical review central to every post, and choose the channels your team can maintain consistently." },
+      { link: { to: "/dermatology-social-media-services", label: "dermatology social media" } },
       { heading: "5. Rebuild referrals as an intentional channel" },
       {
         text: "Every dermatology practice was built on referrals — from primary care, from OB/GYNs, from oncologists, from other specialists. Most stop investing in that channel the moment they hit capacity. Then a competitor opens across town, poaches two referring PCPs, and the pipeline dries up in six months.",
