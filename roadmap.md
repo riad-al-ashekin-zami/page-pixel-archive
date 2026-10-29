@@ -1,5 +1,12 @@
 # Roadmap — Formspree audit integration
 
+## Homepage visual redesign
+
+- [ ] Restyle included features, practice types, treatment pages, process and after-launch services; merge the duplicate non-negotiables section.
+- [ ] Localize only new labels/descriptions across 12 languages; preserve existing copy and destinations.
+- [ ] Verify first-render content, heading structure, links, mobile fit, reduced motion and performance comparison.
+- [ ] Provide English and Spanish desktop/mobile section screenshots.
+
 ## Four original homepage concepts
 
 - [x] Check invented clinic names for existing dermatology websites.
