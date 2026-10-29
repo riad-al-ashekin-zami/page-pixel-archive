@@ -46,11 +46,8 @@ export function localizedUrl(lang: LanguageCode, path: string): string {
 /**
  * Return the <link> array of hreflang alternates for a route.
  *
- * SEO allowlist rules (see @/lib/index-allowlist):
- *   - A noindexed page emits NO hreflang tags at all.
- *   - An indexable page emits only alternates that are themselves indexable,
- *     plus a self-reference. `x-default` is emitted only when the English
- *     version of the page is indexable.
+ * Existing public content pages describe all translated versions, even when
+ * noindexed; redirected logical paths never emit translation alternates.
  *
  * `rawLang` is the route's raw lang param (undefined = English root).
  */
