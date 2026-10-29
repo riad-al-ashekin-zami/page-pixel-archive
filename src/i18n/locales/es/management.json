@@ -30,45 +30,12 @@
     }
   },
   "dashboard": {
-    "title": "Panel de Crecimiento",
-    "status": "Últimos 30 días · en vivo",
-    "badge": "EN CURSO",
     "kpis": {
       "bookings": "Citas orgánicas",
       "conversion": "Conversión de formularios",
       "rankings": "Páginas en el top 10",
       "session": "Sesión promedio (s)"
-    },
-    "roadmap": {
-      "title": "Hoja de ruta este mes",
-      "progress": "de 5 completadas",
-      "items": [
-        "Nueva página de cirugía de Mohs publicada",
-        "Prueba A/B en CTA de inicio — variante B +18%",
-        "6 artículos sobre acné publicados",
-        "Actualización de biografías — en revisión",
-        "Campaña de cuidado de la piel en otoño — definida"
-      ]
     }
-  },
-  "stats": {
-    "label": "Cifras reales",
-    "headline": "9 meses con un equipo de gestión.",
-    "description": "Resultados combinados de 24 clínicas dermatológicas que gestionamos.",
-    "items": [
-      {
-        "value": "+214%",
-        "label": "Citas orgánicas"
-      },
-      {
-        "value": "+3.2×",
-        "label": "Páginas en el top 10"
-      },
-      {
-        "value": "+41%",
-        "label": "Tasa de conversión de formularios"
-      }
-    ]
   },
   "pillars": {
     "label": "Qué gestionamos",
@@ -392,27 +359,6 @@
           "Landing pages ilimitadas"
         ],
         "cta": "Empezar con Multi-location"
-      }
-    ]
-  },
-  "testimonials": {
-    "label": "Qué dicen las clínicas",
-    "headline": "Gestionado como un equipo interno.",
-    "items": [
-      {
-        "name": "Dra. Nadia Patel, MD",
-        "role": "NL Dermatology",
-        "quote": "Es como tener un director de marketing sin el costo salarial. Cada mes publicamos algo nuevo que realmente impulsa las reservas."
-      },
-      {
-        "name": "Dr. Marcus Whitfield, MD",
-        "role": "Whitfield Skin & Mohs",
-        "quote": "En 9 meses nuestras citas orgánicas se triplicaron. No fue por una sola cosa, sino porque alguien se encarga del sitio cada semana."
-      },
-      {
-        "name": "Dra. Serena Kohli, MD",
-        "role": "KP Dermatology · 4 sedes",
-        "quote": "Cuatro sedes, cuatro calendarios, un solo equipo. Tengo un panel y un solo número al que llamar. Eso solo ya vale la pena."
       }
     ]
   },

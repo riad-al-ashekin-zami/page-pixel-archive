@@ -30,45 +30,12 @@
     }
   },
   "dashboard": {
-    "title": "Dashboard růstu",
-    "status": "Posledních 30 dní · živě",
-    "badge": "PODLE PLÁNU",
     "kpis": {
       "bookings": "Organické rezervace",
       "conversion": "Konverze formulářů",
       "rankings": "Stránky v Top 10",
       "session": "Prům. doba relace (s)"
-    },
-    "roadmap": {
-      "title": "Roadmapa na tento měsíc",
-      "progress": "z 5 hotovo",
-      "items": [
-        "Nová stránka Mohsovy chirurgie spuštěna",
-        "A/B test CTA na úvodní straně — varianta B +18 %",
-        "Publikováno 6 článků o akné",
-        "Aktualizace medailonků lékařů — ke schválení",
-        "Podzimní kampaň na péči o pleť — zadáno"
-      ]
     }
-  },
-  "stats": {
-    "label": "Reálná čísla",
-    "headline": "9 měsíců se správou od našeho týmu.",
-    "description": "Souhrnné výsledky u 24 dermatologických klinik, které spravujeme.",
-    "items": [
-      {
-        "value": "+214 %",
-        "label": "Organických rezervací"
-      },
-      {
-        "value": "+3,2×",
-        "label": "Více stránek v Top 10"
-      },
-      {
-        "value": "+41 %",
-        "label": "Míra konverze formulářů"
-      }
-    ]
   },
   "pillars": {
     "label": "Co spravujeme",
@@ -392,27 +359,6 @@
           "Neomezené stránky kampaní"
         ],
         "cta": "Začít s Multi-location"
-      }
-    ]
-  },
-  "testimonials": {
-    "label": "Co říkají kliniky",
-    "headline": "Správa jako od interního týmu.",
-    "items": [
-      {
-        "name": "MUDr. Nadia Patel",
-        "role": "NL Dermatology",
-        "quote": "Je to jako mít marketingového ředitele bez nutnosti platit plnohodnotný plat. Každý měsíc spustíme něco nového, co skutečně zvyšuje počet rezervací."
-      },
-      {
-        "name": "MUDr. Marcus Whitfield",
-        "role": "Whitfield Skin & Mohs",
-        "quote": "Během 9 měsíců se naše organické rezervace ztrojnásobily. Není to zásluha jedné věci, ale toho, že se někdo webu věnuje každý jeden týden."
-      },
-      {
-        "name": "MUDr. Serena Kohli",
-        "role": "KP Dermatology · 4 pobočky",
-        "quote": "Čtyři lokality, čtyři obsahové kalendáře, jeden tým. Mám jeden dashboard a jedno číslo, kam zavolat. To samo o sobě za to stojí."
       }
     ]
   },

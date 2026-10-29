@@ -11,6 +11,8 @@
 
 ## Rules
 
+- SEO and management presentation shares browser-safe service-section primitives and localized label inventory; route-owned content and FAQ schema keep their existing translation sources so first-render SEO and multilingual copy stay aligned. The semantic comparison table uses the shared management comparison inventory so support columns cannot drift.
+
 - Homepage presentation sections use one shared browser-safe component and a separate inventory for newly requested localized labels; existing translation bundles and non-home merged sections remain unchanged to preserve copy and SEO ownership.
 
 - Derive `/favicon.ico` from the same brand image as `/favicon.png` and reference the PNG in the sitemap XSL; raw text/XML visits need the branded conventional fallback because they cannot carry HTML head links.

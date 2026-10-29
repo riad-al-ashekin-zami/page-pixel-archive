@@ -30,45 +30,12 @@
     }
   },
   "dashboard": {
-    "title": "Panel Rozwoju",
-    "status": "Ostatnie 30 dni · na żywo",
-    "badge": "ZGODNIE Z PLANEM",
     "kpis": {
       "bookings": "Rezerwacje organiczne",
       "conversion": "Konwersja z formularzy",
       "rankings": "Strony w TOP 10",
       "session": "Średnia sesja (s)"
-    },
-    "roadmap": {
-      "title": "Plan na ten miesiąc",
-      "progress": "z 5 wdrożonych",
-      "items": [
-        "Nowa podstrona chirurgii Mohsa aktywna",
-        "Test A/B wezwania do działania — wariant B +18%",
-        "6 wpisów blogowych o trądziku opublikowanych",
-        "Odświeżenie biogramów lekarzy — w trakcie weryfikacji",
-        "Jesienna kampania pielęgnacyjna — briefing"
-      ]
     }
-  },
-  "stats": {
-    "label": "Realne liczby",
-    "headline": "9 miesięcy pod opieką dedykowanego zespołu.",
-    "description": "Zbiorcze wyniki 24 zarządzanych przez nas klinik dermatologicznych.",
-    "items": [
-      {
-        "value": "+214%",
-        "label": "Rezerwacji organicznych"
-      },
-      {
-        "value": "+3.2x",
-        "label": "Wzrost stron w TOP 10"
-      },
-      {
-        "value": "+41%",
-        "label": "Wskaźnik konwersji formularzy"
-      }
-    ]
   },
   "pillars": {
     "label": "Obszary zarządzania",
@@ -392,27 +359,6 @@
           "Nielimitowane strony kampanii"
         ],
         "cta": "Skontaktuj się w sprawie Multi-location"
-      }
-    ]
-  },
-  "testimonials": {
-    "label": "Opinie klinik",
-    "headline": "Pracujemy jak Twój wewnętrzny zespół.",
-    "items": [
-      {
-        "name": "Dr Nadia Patel, MD",
-        "role": "NL Dermatology",
-        "quote": "To jak posiadanie dyrektora ds. marketingu bez konieczności wypłacania pełnej pensji. Co miesiąc wdrażamy coś nowego, co realnie zwiększa liczbę rezerwacji."
-      },
-      {
-        "name": "Dr Marcus Whitfield, MD",
-        "role": "Whitfield Skin & Mohs",
-        "quote": "W 9 miesięcy nasze rezerwacje organiczne potroiły się. To nie zasługa jednej rzeczy — to efekt tego, że ktoś dba o serwis w każdym tygodniu."
-      },
-      {
-        "name": "Dr Serena Kohli, MD",
-        "role": "KP Dermatology (4 oddziały)",
-        "quote": "Cztery lokalizacje, cztery kalendarze treści, jeden zespół. Mam jeden panel i jeden numer telefonu. To samo w sobie jest warte swojej ceny."
       }
     ]
   },
