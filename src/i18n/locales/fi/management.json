@@ -30,45 +30,12 @@
     }
   },
   "dashboard": {
-    "title": "Kasvunäkymä",
-    "status": "Viimeiset 30 päivää · live",
-    "badge": "TAVOITTEESSA",
     "kpis": {
       "bookings": "Orgaaniset varaukset",
       "conversion": "Lomakekonversio",
       "rankings": "Sivut top 10 -sijoilla",
       "session": "Keskim. istunto (s)"
-    },
-    "roadmap": {
-      "title": "Tämän kuukauden toimenpiteet",
-      "progress": "5 tehtävää valmiina",
-      "items": [
-        "Uusi Mohs-kirurgiasivu julkaistu",
-        "Etusivun CTA A/B-testi — versio B +18 %",
-        "6 akne-aiheista blogikirjoitusta julkaistu",
-        "Asiantuntijabiojen päivitys — tarkastuksessa",
-        "Syksyn ihonhoitokampanja — briiffattu"
-      ]
     }
-  },
-  "stats": {
-    "label": "Toteutuneet luvut",
-    "headline": "9 kuukautta ulkoistetun tiimin kanssa.",
-    "description": "Yhdistetyt tulokset 24 hallinnoimastamme ihotautiklinikasta.",
-    "items": [
-      {
-        "value": "+214 %",
-        "label": "Orgaaniset varaukset"
-      },
-      {
-        "value": "+3.2×",
-        "label": "Sivut top 10 -sijoilla"
-      },
-      {
-        "value": "+41 %",
-        "label": "Lomakekonversio"
-      }
-    ]
   },
   "pillars": {
     "label": "Mitä me hallinnoimme",
@@ -392,27 +359,6 @@
           "Rajoittamattomat kampanjasivut"
         ],
         "cta": "Kysy Multi-location-ratkaisua"
-      }
-    ]
-  },
-  "testimonials": {
-    "label": "Klinikoiden kokemuksia",
-    "headline": "Kuin oma sisäinen tiimi.",
-    "items": [
-      {
-        "name": "Dr. Nadia Patel, MD",
-        "role": "NL Dermatology",
-        "quote": "Tämä on kuin meillä olisi markkinointijohtaja ilman sen palkkakustannuksia. Joka kuukausi julkaisemme jotain uutta, joka todella lisää varauksia."
-      },
-      {
-        "name": "Dr. Marcus Whitfield, MD",
-        "role": "Whitfield Skin & Mohs",
-        "quote": "Yhdeksässä kuukaudessa orgaaniset varauksemme kolminkertaistuivat. Ei yhden tempun ansiosta, vaan siksi, että joku vastaa sivustosta joka viikko."
-      },
-      {
-        "name": "Dr. Serena Kohli, MD",
-        "role": "KP Dermatology · 4 toimipistettä",
-        "quote": "Neljä toimipistettä, neljä sisältökalenteria, yksi tiimi. Saan yhden näkymän ja yhden numeron, johon soittaa. Jo se itsessään on hintansa väärti."
       }
     ]
   },

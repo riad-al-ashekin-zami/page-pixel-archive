@@ -30,45 +30,12 @@
     }
   },
   "dashboard": {
-    "title": "Wachstums-Dashboard",
-    "status": "Letzte 30 Tage · Live",
-    "badge": "AUF KURS",
     "kpis": {
       "bookings": "Organische Buchungen",
       "conversion": "Formular-Conversion",
       "rankings": "Seiten in Top-10-Rankings",
       "session": "Ø Sitzungsdauer (s)"
-    },
-    "roadmap": {
-      "title": "Roadmap diesen Monat",
-      "progress": "von 5 abgeschlossen",
-      "items": [
-        "Neue Seite für Mohs-Chirurgie live",
-        "Homepage CTA A/B-Test — Variante B +18%",
-        "6 Blog-Beiträge (Akne-Cluster) veröffentlicht",
-        "Überarbeitung der Ärzte-Biografien — in Prüfung",
-        "Herbst-Kampagne Hautpflege — Briefing erfolgt"
-      ]
     }
-  },
-  "stats": {
-    "label": "Echte Zahlen",
-    "headline": "9 Monate mit Managed-Betreuung.",
-    "description": "Zusammengefasste Ergebnisse von 24 durch uns verwaltete dermatologische Praxen.",
-    "items": [
-      {
-        "value": "+214%",
-        "label": "Organische Buchungen"
-      },
-      {
-        "value": "+3.2×",
-        "label": "Seiten in Top-10-Rankings"
-      },
-      {
-        "value": "+41%",
-        "label": "Formular-Conversion-Rate"
-      }
-    ]
   },
   "pillars": {
     "label": "Was wir steuern",
@@ -392,27 +359,6 @@
           "Unbegrenzte Kampagnenseiten"
         ],
         "cta": "Angebot anfordern"
-      }
-    ]
-  },
-  "testimonials": {
-    "label": "Kundenstimmen",
-    "headline": "Betreut wie durch ein internes Team.",
-    "items": [
-      {
-        "name": "Dr. Nadia Patel",
-        "role": "NL Dermatology",
-        "quote": "Es ist wie ein Marketing-Direktor ohne das entsprechende Gehalt. Jeden Monat bringen wir etwas Neues live, das die Buchungen wirklich antreibt."
-      },
-      {
-        "name": "Dr. Marcus Whitfield",
-        "role": "Whitfield Skin & Mohs",
-        "quote": "In 9 Monaten haben sich unsere organischen Buchungen verdreifacht. Nicht wegen einer einzelnen Maßnahme, sondern weil sich jede Woche jemand um die Seite kümmert."
-      },
-      {
-        "name": "Dr. Serena Kohli",
-        "role": "KP Dermatology (4 Standorte)",
-        "quote": "Vier Standorte, vier Redaktionspläne, ein Team. Ich habe ein Dashboard und eine Nummer, die ich anrufe. Das allein ist es wert."
       }
     ]
   },

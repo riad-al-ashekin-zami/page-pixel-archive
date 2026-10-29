@@ -30,45 +30,12 @@
     }
   },
   "dashboard": {
-    "title": "Painel de Crescimento",
-    "status": "Últimos 30 dias · em direto",
-    "badge": "NO CAMINHO CERTO",
     "kpis": {
       "bookings": "Marcações orgânicas",
       "conversion": "Conversão de formulários",
       "rankings": "Páginas no top 10",
       "session": "Sessão média (s)"
-    },
-    "roadmap": {
-      "title": "Plano para este mês",
-      "progress": "de 5 concluídos",
-      "items": [
-        "Nova página de cirurgia de Mohs publicada",
-        "Teste A/B de CTA na Homepage — variante B +18%",
-        "6 artigos de blog sobre acne publicados",
-        "Atualização de biografias clínicas — em revisão",
-        "Campanha de cuidados de pele de outono — planeada"
-      ]
     }
-  },
-  "stats": {
-    "label": "Números reais",
-    "headline": "9 meses com uma equipa dedicada.",
-    "description": "Resultados agregados de 24 clínicas de dermatologia geridas por nós.",
-    "items": [
-      {
-        "value": "+214%",
-        "label": "Marcações orgânicas"
-      },
-      {
-        "value": "+3.2×",
-        "label": "Páginas no top 10"
-      },
-      {
-        "value": "+41%",
-        "label": "Taxa de conversão de formulários"
-      }
-    ]
   },
   "pillars": {
     "label": "O que gerimos",
@@ -392,27 +359,6 @@
           "Landing pages de campanha ilimitadas"
         ],
         "cta": "Começar com Multi-location"
-      }
-    ]
-  },
-  "testimonials": {
-    "label": "O que dizem as clínicas",
-    "headline": "Gerido como uma equipa interna de marketing.",
-    "items": [
-      {
-        "name": "Dra. Nadia Patel, MD",
-        "role": "NL Dermatology",
-        "quote": "É como ter um diretor de marketing sem o encargo salarial. Todos os meses lançamos algo novo que impulsiona as marcações."
-      },
-      {
-        "name": "Dr. Marcus Whitfield, MD",
-        "role": "Whitfield Skin & Mohs",
-        "quote": "Em 9 meses as nossas marcações orgânicas triplicaram. Não foi por um detalhe, mas porque alguém cuida do site todas as semanas."
-      },
-      {
-        "name": "Dra. Serena Kohli, MD",
-        "role": "KP Dermatology · 4 loc.",
-        "quote": "Quatro localizações, quatro calendários de conteúdo, uma equipa. Tenho um painel único e um só contacto para ligar. Só isso já vale o investimento."
       }
     ]
   },

@@ -30,45 +30,12 @@
     }
   },
   "dashboard": {
-    "title": "Tillväxtöversikt",
-    "status": "Senaste 30 dagarna · live",
-    "badge": "PÅ RÄTT SPÅR",
     "kpis": {
       "bookings": "Organiska bokningar",
       "conversion": "Konverteringsgrad (formulär)",
       "rankings": "Sidor i topp 10",
       "session": "Genomsnittlig session (s)"
-    },
-    "roadmap": {
-      "title": "Månadens roadmap",
-      "progress": "av 5 levererade",
-      "items": [
-        "Ny sida för Mohs kirurgi live",
-        "A/B-test för startsidans CTA — variant B +18%",
-        "6 blogginlägg om akne publicerade",
-        "Uppdatering av läkarbiografier — under granskning",
-        "Höstkampanj för hudvård — briefad"
-      ]
     }
-  },
-  "stats": {
-    "label": "Riktiga siffror",
-    "headline": "9 månader med ett dedikerat team.",
-    "description": "Sammanställda resultat från 24 dermatologikliniker som vi förvaltar.",
-    "items": [
-      {
-        "value": "+214%",
-        "label": "Organiska bokningar"
-      },
-      {
-        "value": "+3.2×",
-        "label": "Sidor i topp 10"
-      },
-      {
-        "value": "+41%",
-        "label": "Konverteringsgrad"
-      }
-    ]
   },
   "pillars": {
     "label": "Vad vi hanterar",
@@ -392,27 +359,6 @@
           "Obegränsat antal kampanjsidor"
         ],
         "cta": "Kontakta oss för offert"
-      }
-    ]
-  },
-  "testimonials": {
-    "label": "Vad klinikerna säger",
-    "headline": "Som att ha ett eget team på plats.",
-    "items": [
-      {
-        "name": "Dr. Nadia Patel, MD",
-        "role": "NL Dermatology",
-        "quote": "Det är som att ha en marknadschef utan lönekostnaden. Varje månad lanserar vi något nytt som faktiskt ger fler bokningar."
-      },
-      {
-        "name": "Dr. Marcus Whitfield, MD",
-        "role": "Whitfield Skin & Mohs",
-        "quote": "På 9 månader tredubblades våra organiska bokningar. Inte tack vare en enstaka sak — utan för att någon tar hand om sajten varje vecka."
-      },
-      {
-        "name": "Dr. Serena Kohli, MD",
-        "role": "KP Dermatology · 4 kliniker",
-        "quote": "Fyra kliniker, fyra innehållskalendrar, ett team. Jag får en dashboard och ett nummer att ringa. Bara det är värt pengarna."
       }
     ]
   },

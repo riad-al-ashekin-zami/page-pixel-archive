@@ -30,45 +30,12 @@
     }
   },
   "dashboard": {
-    "title": "Growth Dashboard",
-    "status": "Last 30 days · live",
-    "badge": "ON TRACK",
     "kpis": {
       "bookings": "Organic bookings",
       "conversion": "Form conversion",
       "rankings": "Pages ranking top 10",
       "session": "Avg. session (s)"
-    },
-    "roadmap": {
-      "title": "This month's roadmap",
-      "progress": "of 5 shipped",
-      "items": [
-        "New Mohs surgery page live",
-        "Homepage CTA A/B test — variant B +18%",
-        "6 acne cluster blog posts published",
-        "Provider bio refresh — in review",
-        "Fall skincare campaign — briefed"
-      ]
     }
-  },
-  "stats": {
-    "label": "Real numbers",
-    "headline": "9 months with a managed pod.",
-    "description": "Composite results across 24 dermatology clinics we manage.",
-    "items": [
-      {
-        "value": "+214%",
-        "label": "Organic bookings"
-      },
-      {
-        "value": "+3.2×",
-        "label": "Pages ranking top 10"
-      },
-      {
-        "value": "+41%",
-        "label": "Form conversion rate"
-      }
-    ]
   },
   "pillars": {
     "label": "What we manage",
@@ -392,27 +359,6 @@
           "Unlimited campaign pages"
         ],
         "cta": "Start with Multi-location"
-      }
-    ]
-  },
-  "testimonials": {
-    "label": "What clinics say",
-    "headline": "Managed like an in-house team.",
-    "items": [
-      {
-        "name": "Dr. Nadia Patel, MD",
-        "role": "NL Dermatology",
-        "quote": "It's like having a marketing director without the salary. Every month we ship something new that actually moves bookings."
-      },
-      {
-        "name": "Dr. Marcus Whitfield, MD",
-        "role": "Whitfield Skin & Mohs",
-        "quote": "In 9 months our organic bookings tripled. Not because of one thing — because someone owns the site every single week."
-      },
-      {
-        "name": "Dr. Serena Kohli, MD",
-        "role": "KP Dermatology · 4 loc.",
-        "quote": "Four locations, four content calendars, one team. I get one dashboard and one number to call. That alone is worth it."
       }
     ]
   },

@@ -30,45 +30,12 @@
     }
   },
   "dashboard": {
-    "title": "Vekst-oversikt",
-    "status": "Siste 30 dager · live",
-    "badge": "I RUTE",
     "kpis": {
       "bookings": "Organiske bestillinger",
       "conversion": "Skjemakonvertering",
       "rankings": "Sider i topp 10",
       "session": "Snitt-økt (s)"
-    },
-    "roadmap": {
-      "title": "Månedsplan",
-      "progress": "av 5 fullført",
-      "items": [
-        "Ny side for Mohs kirurgi er live",
-        "A/B-test av CTA på forsiden — variant B +18 %",
-        "6 blogginnlegg om akne publisert",
-        "Oppdatering av behandler-biografier — til vurdering",
-        "Høstkampanje for hudpleie — planlagt"
-      ]
     }
-  },
-  "stats": {
-    "label": "Reelle tall",
-    "headline": "9 måneder med et dedikert team.",
-    "description": "Sammensatte resultater på tvers av 24 hudklinikker vi drifter.",
-    "items": [
-      {
-        "value": "+214 %",
-        "label": "Organiske bestillinger"
-      },
-      {
-        "value": "+3,2×",
-        "label": "Sider i topp 10"
-      },
-      {
-        "value": "+41 %",
-        "label": "Konverteringsrate for skjema"
-      }
-    ]
   },
   "pillars": {
     "label": "Hva vi håndterer",
@@ -392,27 +359,6 @@
           "Ubegrenset antall kampanjesider"
         ],
         "cta": "Kontakt oss om flere lokasjoner"
-      }
-    ]
-  },
-  "testimonials": {
-    "label": "Hva klinikkene sier",
-    "headline": "Fungerer som vårt eget interne team.",
-    "items": [
-      {
-        "name": "Dr. Nadia Patel, MD",
-        "role": "NL Dermatology",
-        "quote": "Det er som å ha en markedssjef uten lønnskostnaden. Hver måned lanserer vi noe nytt som faktisk gir utslag på bestillingene."
-      },
-      {
-        "name": "Dr. Marcus Whitfield, MD",
-        "role": "Whitfield Skin & Mohs",
-        "quote": "På ni måneder ble de organiske bestillingene våre tredoblet. Ikke på grunn av ett enkelt tiltak, men fordi noen har ansvaret for siden hver eneste uke."
-      },
-      {
-        "name": "Dr. Serena Kohli, MD",
-        "role": "KP Dermatology · 4 lokasjoner",
-        "quote": "Fire lokasjoner, fire innholdskalendere, ett team. Jeg får alt servert i ett dashbord. Det i seg selv er verdt prisen."
       }
     ]
   },
