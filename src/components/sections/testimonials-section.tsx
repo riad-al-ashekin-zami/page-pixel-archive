@@ -8,7 +8,6 @@ const testimonials: Testimonial[] = [
   { key: "sarahM", name: "Dr. Sarah M." },
   { key: "rajK", name: "Dr. Raj K., MD" },
   { key: "jenniferL", name: "Jennifer L." },
-  { key: "ameliaC", name: "Dr. Amelia C." },
   { key: "hanaS", name: "Dr. Hana S." },
   { key: "elliotN", name: "Dr. Elliot N., MD" },
 ];

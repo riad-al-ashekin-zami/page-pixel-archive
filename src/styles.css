@@ -159,6 +159,16 @@
   padding-block: 3.5rem;
   border-bottom: 1px solid var(--border);
 }
+.service-page { letter-spacing: 0; }
+.service-page h1, .service-page h2, .service-page h3 { letter-spacing: 0; overflow-wrap: anywhere; }
+.service-page [data-service-section] { min-width: 0; }
+.service-page summary::-webkit-details-marker { display: none; }
+@media (prefers-reduced-motion: reduce) {
+  .service-page *, .service-page *::before, .service-page *::after {
+    animation: none !important;
+    transition: none !important;
+  }
+}
 .home-design-container {
   width: 100%;
   max-width: 80rem;

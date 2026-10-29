@@ -130,16 +130,6 @@ function ManagementPage() {
   const labels = useServiceLabels();
   const [tab, setTab] = useState<"content" | "seo" | "cro" | "reports">("content");
 
-  return () => clearInterval(id);
-  }, []);
-
-  const kpis = [
-    { label: t("dashboard.kpis.bookings"), value: 214 + (tick % 6), delta: "+38%" },
-    { label: t("dashboard.kpis.conversion"), value: `${(7.4 + (tick % 3) * 0.1).toFixed(1)}%`, delta: "+2.1pt" },
-    { label: t("dashboard.kpis.rankings"), value: 62 + (tick % 4), delta: "+27" },
-    { label: t("dashboard.kpis.session"), value: 148 + (tick % 8), delta: "+22%" },
-  ];
-
   return (
     <div className="service-page min-h-screen bg-background text-foreground">
       <SiteHeader />
@@ -303,8 +293,6 @@ function ManagementPage() {
                 <div className="space-y-2 text-sm">
                   {[t("deliverables.tabs.seo.title"),t("dashboard.kpis.rankings")].map((label:string)=><p key={label} className="border-b border-border py-3">{label}</p>)}
                   <div aria-hidden="true" className="h-3 w-3/4 rounded bg-brand-primary/15" />
-                </div>
-                  ))}
                 </div>
               </div>
               </div>
