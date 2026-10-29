@@ -278,5 +278,12 @@
     "portal": "Portal Pacjenta dla Dermatologii",
     "process": "nasz proces",
     "migration": "Zero przestojów · Zero strat SEO"
+  },
+  "examples": {
+    "heading": "Przykłady Stron Internetowych Dermatologów",
+    "intro": "Wybór projektów stron dermatologicznych, obejmujący projekty klientów i koncepcje stworzone, aby pokazać możliwości.",
+    "clientBadge": "Projekt klienta",
+    "conceptBadge": "Projekt koncepcyjny",
+    "conceptAlt": "Koncepcja strony internetowej dermatologa – {{name}}"
   }
 }

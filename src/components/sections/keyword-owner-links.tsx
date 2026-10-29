@@ -3,7 +3,7 @@ import { LocalLink } from "@/components/local-link";
 
 const destinations = {
   design: "/",
-  examples: "/dermatology-websites-portfolio",
+  examples: "/#examples",
   seo: "/dermatology-seo-services",
   marketing: "/blog/dermatology-marketing-strategies",
   pricing: "/plan-packages-and-costs",

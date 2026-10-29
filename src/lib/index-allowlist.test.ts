@@ -18,6 +18,7 @@ describe("keyword brief indexing and translation rules", () => {
     }
   });
   it("includes each public content page exactly once per existing language", () => {
+    expect(INDEXABLE_PATHS).toHaveLength(420);
     expect(new Set(INDEXABLE_PATHS).size).toBe(INDEXABLE_PATHS.length);
     expect(INDEXABLE_PATHS.length).toBe(INDEXABLE_LOGICAL_PATHS.length * LANGUAGE_CODES.length);
     for (const lang of LANGUAGE_CODES) {
@@ -48,7 +49,7 @@ describe("keyword brief indexing and translation rules", () => {
     expect(urls).toEqual(INDEXABLE_PATHS.map((path) => `https://dermatologywebsitedesign.com${path}`));
     expect(xml).not.toContain("<lastmod>");
   });
-  it.each(LANGUAGE_CODES)("permanently redirects the three merged pages in %s", async (lang) => {
+  it.each(LANGUAGE_CODES)("permanently redirects the merged pages in %s", async (lang) => {
     const prefix = lang === "en" ? "" : `/${lang}`;
     for (const [from, to] of Object.entries(CONSOLIDATED_PATHS)) {
       const response = await fetch(`http://localhost:8080${prefix}${from}?source=test`, { redirect: "manual" });

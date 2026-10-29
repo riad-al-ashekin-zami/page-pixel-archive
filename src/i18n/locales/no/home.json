@@ -278,5 +278,12 @@
     "portal": "Pasientportal for dermatologi",
     "process": "vår prosess",
     "migration": "nettsidemigrering"
+  },
+  "examples": {
+    "heading": "Eksempler på Hudlegers Nettsider",
+    "intro": "Et utvalg nettsidedesign for hudleger, inkludert kundeprosjekter og konseptdesign vi har laget for å vise mulighetene.",
+    "clientBadge": "Kundeprosjekt",
+    "conceptBadge": "Konseptdesign",
+    "conceptAlt": "Konseptdesign for hudleges nettside – {{name}}"
   }
 }

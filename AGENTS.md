@@ -25,3 +25,5 @@
 - SEO indexing is controlled by the central public-content inventory in `src/lib/index-allowlist.ts`: localized `INDEXABLE_PATHS` drives robots and the active sitemap. `buildHreflangLinks` independently describes all existing translations of content pages, including noindexed content, but never redirected paths; `__root.tsx` keeps unknown/private pages noindexed. This separates indexing eligibility from translation discovery as required by the keyword brief.
 - Consolidated logical destinations live in `src/lib/seo-redirects.ts` and are shared by localized navigation and request-level permanent redirects; Netlify's matching rules retain external-host support.
 - Route metadata remains TanStack `head()` and is normalized by `finalizeSeoHead`; never introduce a second client-only head manager, so the first HTML response has one canonical and robots instruction.
+
+- Homepage examples use the reviewed `HOMEPAGE_EXAMPLES` inventory and render every kept card in SSR; keep fictional concept identities separate from the third-party inspiration inventory so removed items cannot reappear through gallery filters.

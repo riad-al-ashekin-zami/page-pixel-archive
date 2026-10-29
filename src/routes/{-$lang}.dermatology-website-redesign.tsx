@@ -408,7 +408,7 @@ function DermRedesignPage() {
               <span className="text-xs font-semibold uppercase tracking-[0.18em] text-brand-primary">{t("sections.portfolio.overhead")}</span>
               <h2 className="mt-2 text-3xl font-black tracking-tight md:text-[2.5rem] md:leading-[1.1]">{t("sections.portfolio.heading")}</h2>
             </div>
-            <Link to="/dermatology-websites-portfolio" className="inline-flex items-center gap-1.5 text-sm font-semibold text-brand-primary hover:gap-2">
+            <Link to="/#examples" className="inline-flex items-center gap-1.5 text-sm font-semibold text-brand-primary hover:gap-2">
               {t("sections.portfolio.cta")} <ArrowRight className="h-4 w-4" />
             </Link>
           </div>
@@ -489,7 +489,7 @@ function DermRedesignPage() {
           {t("cta.footerLinksPrefix")}{" "}
           <Link to="/dermatology-website-migration" className="font-medium text-foreground underline-offset-4 hover:text-brand-primary hover:underline">{t("cta.footerLinks.migration")}</Link>,{" "}
           <Link to="/dermatology-website-management-services" className="font-medium text-foreground underline-offset-4 hover:text-brand-primary hover:underline">{t("cta.footerLinks.maintenance")}</Link>, {t("common.or", { ns: "translation" })}{" "}
-          <Link to="/dermatology-websites-portfolio" className="font-medium text-foreground underline-offset-4 hover:text-brand-primary hover:underline">{t("cta.footerLinks.portfolio")}</Link>.
+          <Link to="/#examples" className="font-medium text-foreground underline-offset-4 hover:text-brand-primary hover:underline">{t("cta.footerLinks.portfolio")}</Link>.
         </p>
 
       <div className="mx-auto max-w-7xl px-4 pb-16 sm:px-6 lg:px-8"><KeywordOwnerLinks owners={["migration"]} /></div>

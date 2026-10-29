@@ -299,8 +299,9 @@ function ChecklistsPage() {
                 </div>
 
                 <h1 className="mt-6 text-balance text-[2.25rem] font-black leading-[1.05] tracking-tight sm:text-5xl lg:text-[3.25rem] xl:text-6xl">
-                  {t("hero.title")}
+                  {t("hero.ownerHeading")}
                 </h1>
+                <p className="mt-4 max-w-3xl text-lg leading-relaxed text-muted-foreground">{t("hero.ownerSlogan")}</p>
 
                 <p className="mt-5 max-w-xl text-pretty text-base text-muted-foreground sm:text-lg">
                   {t("hero.description", { totalItems })}

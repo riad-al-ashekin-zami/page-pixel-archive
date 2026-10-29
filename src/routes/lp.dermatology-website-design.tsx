@@ -456,59 +456,9 @@ function LandingPage() {
         </div>
       </section>
 
-      {/* ============ PORTFOLIO PREVIEW — real sites ============ */}
-      <section id="portfolio" className="scroll-mt-32 bg-white py-16 sm:py-24">
+      <section id="portfolio" className="scroll-mt-32 py-16 sm:py-24">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-          <div className="mx-auto max-w-3xl text-center">
-            <span className="inline-flex rounded-full bg-purple-100 px-3 py-1 text-[11px] font-semibold uppercase tracking-[0.2em] text-purple-700">Portfolio</span>
-            <h2 className="mt-5 text-balance text-3xl font-light leading-tight tracking-tight sm:text-4xl lg:text-5xl">
-              A glimpse of what <span className="font-medium text-teal-700">premium dermatology websites</span> look like
-            </h2>
-            <p className="mt-4 text-base text-slate-600 sm:text-lg">
-              Six real dermatology and skin-care sites — every one built to be fast, HIPAA-aware, and engineered for booked visits.
-            </p>
-          </div>
-
-          <div className="mt-12 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
-            {PORTFOLIO.map((p) => (
-              <a
-                key={p.name}
-                href={p.url}
-                target="_blank"
-                rel="noopener noreferrer nofollow"
-                className="group overflow-hidden rounded-2xl border border-slate-200 bg-white shadow-sm transition-all hover:-translate-y-1 hover:shadow-2xl"
-              >
-                <div className="relative aspect-[16/10] overflow-hidden bg-gradient-to-br from-slate-100 to-slate-200">
-                  <img
-                    src={localShot(p.domain)}
-                    alt={`${p.name} — dermatology website preview`}
-                    className="h-full w-full object-cover object-top transition-transform duration-500 group-hover:scale-105"
-                    loading="lazy"
-                    decoding="async"
-                    width={720}
-                    height={460}
-                  />
-                  <div className="absolute right-3 top-3 rounded-full bg-white/95 px-2.5 py-1 text-[10px] font-semibold uppercase tracking-wider text-teal-700 shadow">
-                    {p.tag}
-                  </div>
-                  <div className="absolute bottom-3 left-3 inline-flex items-center gap-1.5 rounded-full bg-black/60 px-2.5 py-1 text-[10px] font-semibold text-white backdrop-blur">
-                    <ExternalLink className="h-3 w-3" /> Live site
-                  </div>
-                </div>
-                <div className="p-5">
-                  <div className="flex items-center justify-between gap-2">
-                    <h3 className="truncate text-base font-semibold">{p.name}</h3>
-                    <span className="inline-flex shrink-0 items-center gap-1 text-xs text-slate-500"><MapPin className="h-3 w-3" /> {p.location}</span>
-                  </div>
-                  <div className="mt-3 flex flex-wrap gap-2">
-                    <span className="rounded-full bg-emerald-50 px-2 py-0.5 text-[10px] font-semibold text-emerald-700">HIPAA-aware</span>
-                    <span className="rounded-full bg-teal-50 px-2 py-0.5 text-[10px] font-semibold text-teal-700">99 Lighthouse</span>
-                    <span className="rounded-full bg-amber-50 px-2 py-0.5 text-[10px] font-semibold text-amber-700">Booking-first</span>
-                  </div>
-                </div>
-              </a>
-            ))}
-          </div>
+          <a href="/#examples" className="font-semibold text-brand-primary underline underline-offset-4">Dermatology website examples</a>
         </div>
       </section>
 

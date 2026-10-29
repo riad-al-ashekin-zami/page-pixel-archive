@@ -177,9 +177,9 @@ function PatientPortalPage() {
 
             <Reveal delay={0.05}>
               <h1 className="mt-6 max-w-3xl text-balance text-[2.25rem] font-bold leading-[1.05] tracking-[-0.025em] text-foreground sm:text-5xl md:text-[3.5rem] lg:text-[4rem]">
-                {t("hero.title_start")}{" "}
-                <span className="font-bold text-brand-primary">{t("hero.title_highlight")}</span>
-              </h1>
+                  {t("hero.ownerHeading")}
+                </h1>
+                <p className="mt-4 max-w-3xl text-lg leading-relaxed text-muted-foreground">{t("hero.ownerSlogan")}</p>
             </Reveal>
 
             <Reveal delay={0.1}>

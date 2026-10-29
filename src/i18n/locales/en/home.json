@@ -276,5 +276,12 @@
     "portal": "patient portal",
     "process": "our full process",
     "migration": "website migration"
+  },
+  "examples": {
+    "heading": "Dermatology Website Examples",
+    "intro": "A selection of dermatology website designs, including client projects and concept designs we created to show what's possible.",
+    "clientBadge": "Client project",
+    "conceptBadge": "Concept design",
+    "conceptAlt": "Dermatology website concept design – {{name}}"
   }
 }
