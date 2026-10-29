@@ -1,7 +1,7 @@
 import { useTranslation } from "react-i18next";
 import { Reveal } from "@/components/reveal";
 import { KeywordOwnerLinks, type OwnerKey } from "./keyword-owner-links";
-import { HomepageExamples } from "./homepage-examples";
+import { HomepageDesignSections } from "./homepage-design-sections";
 
 type Item = { title?: string; label?: string; desc?: string; description?: string };
 type Group = { title?: string; heading?: string; description?: string; items?: Item[]; list?: string[]; features?: string[]; steps?: Item[] };
@@ -34,17 +34,7 @@ function ContentBand({ title, group, owners = [] }: { title: string; group?: Gro
 }
 
 export function HomepageMergedContent() {
-  const { t } = useTranslation("home");
-  const data = t("merged", { returnObjects: true }) as { sections: string[]; audience: Group; pillars: Group; features: Group; medicalServices: Group; process: Group };
-  return <>
-    <ContentBand title={data.sections[0]} group={data.pillars} owners={["gallery", "portal"]} />
-    <HomepageExamples />
-    <ContentBand title={data.features.title ?? ""} group={data.features} />
-    <ContentBand title={data.audience.title ?? ""} group={data.audience} />
-    <ContentBand title={data.medicalServices.title ?? ""} group={data.medicalServices} />
-    <ContentBand title={data.sections[2]} group={data.process} owners={["process"]} />
-    <ContentBand title={data.sections[4]} group={{ description: t("merged.growthDescription") }} owners={["seo", "ppc", "social", "maintenance"]} />
-  </>;
+  return <HomepageDesignSections />;
 }
 
 export function SeoMergedContent() {
