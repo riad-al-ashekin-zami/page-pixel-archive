@@ -24,8 +24,6 @@ import heroBg from "@/assets/dermatology-seo-hero.jpg";
 import { isValidUrlLang } from "@/i18n/languages";
 import { robotsContent } from "@/lib/index-allowlist";
 
-type Feature = { icon: LucideIcon; title: string; desc: string };
-
 const PILLARS_ICONS = [
   ScanSearch, MapPin, FileSearch, PenSquare, Link2, Gauge, Star, BarChart3
 ];
