@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "Návrh a vývoj pacientských portálů pro dermatologii | HIPAA-compliant",
+    "title": "Návrh a vývoj pacientských portálů pro dermatologii | DWD",
     "description": "Zakázkový vývoj dermatologických portálů splňujících HIPAA: online rezervace, zabezpečené zprávy, teledermatologie, e-formuláře, platby, recepty a integrace s EHR. Pro soukromé praxe i kliniky.",
-    "og_title": "Návrh a vývoj pacientských portálů pro dermatologii",
-    "og_description": "Pacientské portály s certifikací HIPAA navržené pro dermatology – rezervace, zprávy, teledermatologie, e-příjem, platby faktur a integrace EHR.",
-    "twitter_title": "Návrh a vývoj pacientských portálů pro dermatologii",
-    "twitter_description": "Pacientské portály splňující HIPAA standardy, navržené na míru dermatologickým praxím.",
+    "og_title": "Návrh a vývoj pacientských portálů pro dermatologii | DWD",
+    "og_description": "Zakázkový vývoj dermatologických portálů splňujících HIPAA: online rezervace, zabezpečené zprávy, teledermatologie, e-formuláře, platby, recepty a integrace s EHR. Pro soukromé praxe i kliniky.",
+    "twitter_title": "Návrh a vývoj pacientských portálů pro dermatologii | DWD",
+    "twitter_description": "Zakázkový vývoj dermatologických portálů splňujících HIPAA: online rezervace, zabezpečené zprávy, teledermatologie, e-formuláře, platby, recepty a integrace s EHR. Pro soukromé praxe i kliniky.",
     "jsonLd": {
       "serviceType": "Návrh a vývoj pacientských portálů pro dermatologii",
       "provider": "DermatologyWebsiteDesign.com",
@@ -14,6 +14,16 @@
       "breadcrumb_home": "Domů",
       "breadcrumb_services": "Služby",
       "breadcrumb_portal": "Pacientský portál"
+    },
+    "ogTitle": "Návrh a vývoj pacientských portálů pro dermatologii | DWD",
+    "ogDescription": "Zakázkový vývoj dermatologických portálů splňujících HIPAA: online rezervace, zabezpečené zprávy, teledermatologie, e-formuláře, platby, recepty a integrace s EHR. Pro soukromé praxe i kliniky.",
+    "og": {
+      "title": "Návrh a vývoj pacientských portálů pro dermatologii | DWD",
+      "description": "Zakázkový vývoj dermatologických portálů splňujících HIPAA: online rezervace, zabezpečené zprávy, teledermatologie, e-formuláře, platby, recepty a integrace s EHR. Pro soukromé praxe i kliniky."
+    },
+    "twitter": {
+      "title": "Návrh a vývoj pacientských portálů pro dermatologii | DWD",
+      "description": "Zakázkový vývoj dermatologických portálů splňujících HIPAA: online rezervace, zabezpečené zprávy, teledermatologie, e-formuláře, platby, recepty a integrace s EHR. Pro soukromé praxe i kliniky."
     }
   },
   "hero": {

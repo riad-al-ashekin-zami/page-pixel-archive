@@ -1,15 +1,14 @@
 {
   "meta": {
-    "title": "Blogg — Marknadsföring & tillväxtstrategier för dermatologi",
+    "title": "Blogg | DWD",
     "description": "Praktiska guider om SEO för dermatologer, webbdesign, patientrekrytering, HIPAA, recensioner och betald annonsering — skrivet för tillväxtorienterade klinikägare.",
-    "keywords": "dermatologi blogg, SEO för hudläkare, marknadsföring dermatologi, tillväxt klinik, HIPAA webbplatser",
     "og": {
-      "title": "Blogg om marknadsföring för dermatologi — Strategier som skapar tillväxt",
-      "description": "Djupdykande artiklar och konkreta taktiker för hudkliniker. SEO, design, annonsering, rykte och patientupplevelse."
+      "title": "Blogg | DWD",
+      "description": "Praktiska guider om SEO för dermatologer, webbdesign, patientrekrytering, HIPAA, recensioner och betald annonsering — skrivet för tillväxtorienterade klinikägare."
     },
     "twitter": {
-      "title": "Marknadsföringsblogg för dermatologi",
-      "description": "Strategier för SEO, design, annonsering och patientupplevelse för hudläkarmottagningar."
+      "title": "Blogg | DWD",
+      "description": "Praktiska guider om SEO för dermatologer, webbdesign, patientrekrytering, HIPAA, recensioner och betald annonsering — skrivet för tillväxtorienterade klinikägare."
     },
     "jsonLd": {
       "breadcrumb": {
@@ -20,12 +19,18 @@
         "name": "Dermatology Marketing Blog",
         "description": "Strategier och insikter om SEO, webbdesign, annonsering och patientrekrytering inom dermatologi."
       }
-    }
+    },
+    "ogTitle": "Blogg | DWD",
+    "og_title": "Blogg | DWD",
+    "twitter_title": "Blogg | DWD",
+    "ogDescription": "Praktiska guider om SEO för dermatologer, webbdesign, patientrekrytering, HIPAA, recensioner och betald annonsering — skrivet för tillväxtorienterade klinikägare.",
+    "og_description": "Praktiska guider om SEO för dermatologer, webbdesign, patientrekrytering, HIPAA, recensioner och betald annonsering — skrivet för tillväxtorienterade klinikägare.",
+    "twitter_description": "Praktiska guider om SEO för dermatologer, webbdesign, patientrekrytering, HIPAA, recensioner och betald annonsering — skrivet för tillväxtorienterade klinikägare."
   },
   "hero": {
     "badge": "The DermGrowth Journal",
-    "title": "Strategier för den moderna hudkliniken.",
-    "description": "Beprövade taktiker inom SEO, webbdesign, betald annonsering och patientupplevelse — skrivna av teamet bakom hundratals framgångsrika kliniksetableringar.",
+    "title": "Blogg",
+    "description": "Praktiska guider om SEO för dermatologer, webbdesign, patientrekrytering, HIPAA, recensioner och betald annonsering — skrivet för tillväxtorienterade klinikägare.",
     "search": {
       "label": "Sök artiklar",
       "placeholder": "Sök SEO, annonser, HIPAA, redesign…",

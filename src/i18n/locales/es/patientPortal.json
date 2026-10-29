@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "Diseño y Desarrollo de Portales para Pacientes de Dermatología | Cumplimiento con HIPAA",
+    "title": "Diseño y Desarrollo de Portales para Pacientes de Dermatología | DWD",
     "description": "Diseño de portales personalizados y conformes con HIPAA para dermatología: citas en línea, mensajería segura, teledermatología, formularios electrónicos, pago de facturas, recetas e integración con EHR. Para clínicas individuales, multi-sede, pediátricas y de Mohs.",
-    "og_title": "Diseño y Desarrollo de Portales para Pacientes de Dermatología",
-    "og_description": "Portales para pacientes diseñados para clínicas dermatológicas con estándares HIPAA: citas, mensajería, teledermatología, admisión digital, pagos e integración con EHR.",
-    "twitter_title": "Diseño y Desarrollo de Portales para Pacientes de Dermatología",
-    "twitter_description": "Portales para pacientes con estándares HIPAA diseñados específicamente para clínicas de dermatología.",
+    "og_title": "Diseño y Desarrollo de Portales para Pacientes de Dermatología | DWD",
+    "og_description": "Diseño de portales personalizados y conformes con HIPAA para dermatología: citas en línea, mensajería segura, teledermatología, formularios electrónicos, pago de facturas, recetas e integración con EHR. Para clínicas individuales, multi-sede, pediátricas y de Mohs.",
+    "twitter_title": "Diseño y Desarrollo de Portales para Pacientes de Dermatología | DWD",
+    "twitter_description": "Diseño de portales personalizados y conformes con HIPAA para dermatología: citas en línea, mensajería segura, teledermatología, formularios electrónicos, pago de facturas, recetas e integración con EHR. Para clínicas individuales, multi-sede, pediátricas y de Mohs.",
     "jsonLd": {
       "serviceType": "Diseño y Desarrollo de Portales para Pacientes de Dermatología",
       "provider": "DermatologyWebsiteDesign.com",
@@ -14,6 +14,16 @@
       "breadcrumb_home": "Inicio",
       "breadcrumb_services": "Servicios",
       "breadcrumb_portal": "Portal del Paciente"
+    },
+    "ogTitle": "Diseño y Desarrollo de Portales para Pacientes de Dermatología | DWD",
+    "ogDescription": "Diseño de portales personalizados y conformes con HIPAA para dermatología: citas en línea, mensajería segura, teledermatología, formularios electrónicos, pago de facturas, recetas e integración con EHR. Para clínicas individuales, multi-sede, pediátricas y de Mohs.",
+    "og": {
+      "title": "Diseño y Desarrollo de Portales para Pacientes de Dermatología | DWD",
+      "description": "Diseño de portales personalizados y conformes con HIPAA para dermatología: citas en línea, mensajería segura, teledermatología, formularios electrónicos, pago de facturas, recetas e integración con EHR. Para clínicas individuales, multi-sede, pediátricas y de Mohs."
+    },
+    "twitter": {
+      "title": "Diseño y Desarrollo de Portales para Pacientes de Dermatología | DWD",
+      "description": "Diseño de portales personalizados y conformes con HIPAA para dermatología: citas en línea, mensajería segura, teledermatología, formularios electrónicos, pago de facturas, recetas e integración con EHR. Para clínicas individuales, multi-sede, pediátricas y de Mohs."
     }
   },
   "hero": {

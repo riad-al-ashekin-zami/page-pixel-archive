@@ -1,14 +1,14 @@
 {
   "meta": {
-    "title": "Služby pro růst dermatologické praxe | Reálné objednávky pacientů, ne pouhé imprese",
+    "title": "Služby pro růst dermatologické praxe | DWD",
     "description": "Růst praxe pro dermatologické kliniky – akvizice pacientů, optimalizace konverzí, automatizace retence a analýza výnosů navázaná na objednané návštěvy a ziskovost jednotlivých služeb.",
     "og": {
-      "title": "Růst dermatologické praxe – Objednané návštěvy namísto impresí",
-      "description": "Komplexní řešení růstu pro samostatné i síťové dermatologické ordinace – akvizice, konverze, retence a pokročilá analytika výnosů."
+      "title": "Služby pro růst dermatologické praxe | DWD",
+      "description": "Růst praxe pro dermatologické kliniky – akvizice pacientů, optimalizace konverzí, automatizace retence a analýza výnosů navázaná na objednané návštěvy a ziskovost jednotlivých služeb."
     },
     "twitter": {
-      "title": "Služby pro rozvoj dermatologických klinik",
-      "description": "Růst počtu objednaných pacientů pro dermatologické praxe – měřeno přímo ve vašem výkazu zisků a ztrát."
+      "title": "Služby pro růst dermatologické praxe | DWD",
+      "description": "Růst praxe pro dermatologické kliniky – akvizice pacientů, optimalizace konverzí, automatizace retence a analýza výnosů navázaná na objednané návštěvy a ziskovost jednotlivých služeb."
     },
     "jsonLd": {
       "serviceType": "Služby pro růst dermatologické praxe",
@@ -19,7 +19,13 @@
         "services": "Služby",
         "current": "Růst dermatologické praxe"
       }
-    }
+    },
+    "ogTitle": "Služby pro růst dermatologické praxe | DWD",
+    "og_title": "Služby pro růst dermatologické praxe | DWD",
+    "twitter_title": "Služby pro růst dermatologické praxe | DWD",
+    "ogDescription": "Růst praxe pro dermatologické kliniky – akvizice pacientů, optimalizace konverzí, automatizace retence a analýza výnosů navázaná na objednané návštěvy a ziskovost jednotlivých služeb.",
+    "og_description": "Růst praxe pro dermatologické kliniky – akvizice pacientů, optimalizace konverzí, automatizace retence a analýza výnosů navázaná na objednané návštěvy a ziskovost jednotlivých služeb.",
+    "twitter_description": "Růst praxe pro dermatologické kliniky – akvizice pacientů, optimalizace konverzí, automatizace retence a analýza výnosů navázaná na objednané návštěvy a ziskovost jednotlivých služeb."
   },
   "hero": {
     "badge": "Růst dermatologické praxe",

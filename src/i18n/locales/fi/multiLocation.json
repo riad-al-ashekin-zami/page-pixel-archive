@@ -1,19 +1,31 @@
 {
   "meta": {
-    "title": "Dermatologisen monitoimipisteverkkosivuston suunnittelu | Yksi brändi, jokainen kaupunki",
+    "title": "Monitoimipaikkaiset ihotautiklinikoiden verkkosivut | DWD",
     "description": "Premium-tason verkkosivusuunnittelu usean toimipisteen ihotautiklinikoille. Hallittu brändijärjestelmä, toimipistekohtainen SEO, Google Business Profile jokaiselle klinikalle, yhtenäinen ajanvaraus ja HIPAA-valmius. Löydy jokaisessa palvelemassasi kaupungissa.",
-    "og_title": "Dermatologisen monitoimipisteverkkosivuston suunnittelu | Yksi brändi, jokainen kaupunki",
-    "og_description": "Suunnittelemme hallitun usean toimipisteen ihotautisivuston, joka sijoittuu kaupunkikohtaisesti, konvertoi paikallisesti ja skaalautuu klinikoiden määrän kasvaessa. HIPAA-valmius, Lighthouse 95+ ja aito paikallinen SEO.",
+    "og_title": "Monitoimipaikkaiset ihotautiklinikoiden verkkosivut | DWD",
+    "og_description": "Premium-tason verkkosivusuunnittelu usean toimipisteen ihotautiklinikoille. Hallittu brändijärjestelmä, toimipistekohtainen SEO, Google Business Profile jokaiselle klinikalle, yhtenäinen ajanvaraus ja HIPAA-valmius. Löydy jokaisessa palvelemassasi kaupungissa.",
     "jsonLd": {
       "serviceType": "Multi-Location Dermatology Website Design",
       "providerName": "DW Design",
       "audienceType": "Multi-Location Dermatology Clinics",
       "offerDescription": "Usean toimipisteen ihotautisivuston suunnittelu — alkaen-hinta"
+    },
+    "ogTitle": "Monitoimipaikkaiset ihotautiklinikoiden verkkosivut | DWD",
+    "twitter_title": "Monitoimipaikkaiset ihotautiklinikoiden verkkosivut | DWD",
+    "ogDescription": "Premium-tason verkkosivusuunnittelu usean toimipisteen ihotautiklinikoille. Hallittu brändijärjestelmä, toimipistekohtainen SEO, Google Business Profile jokaiselle klinikalle, yhtenäinen ajanvaraus ja HIPAA-valmius. Löydy jokaisessa palvelemassasi kaupungissa.",
+    "twitter_description": "Premium-tason verkkosivusuunnittelu usean toimipisteen ihotautiklinikoille. Hallittu brändijärjestelmä, toimipistekohtainen SEO, Google Business Profile jokaiselle klinikalle, yhtenäinen ajanvaraus ja HIPAA-valmius. Löydy jokaisessa palvelemassasi kaupungissa.",
+    "og": {
+      "title": "Monitoimipaikkaiset ihotautiklinikoiden verkkosivut | DWD",
+      "description": "Premium-tason verkkosivusuunnittelu usean toimipisteen ihotautiklinikoille. Hallittu brändijärjestelmä, toimipistekohtainen SEO, Google Business Profile jokaiselle klinikalle, yhtenäinen ajanvaraus ja HIPAA-valmius. Löydy jokaisessa palvelemassasi kaupungissa."
+    },
+    "twitter": {
+      "title": "Monitoimipaikkaiset ihotautiklinikoiden verkkosivut | DWD",
+      "description": "Premium-tason verkkosivusuunnittelu usean toimipisteen ihotautiklinikoille. Hallittu brändijärjestelmä, toimipistekohtainen SEO, Google Business Profile jokaiselle klinikalle, yhtenäinen ajanvaraus ja HIPAA-valmius. Löydy jokaisessa palvelemassasi kaupungissa."
     }
   },
   "hero": {
     "badge": "Yksi brändi · Jokainen kaupunki · Täysin indeksoitu",
-    "title": "Monitoimipistekohtainen ihotautisivusto, joka hallitsee hakutuloksia jokaisessa sijainnissa.",
+    "title": "Monitoimipaikkaiset ihotautiklinikoiden verkkosivut",
     "description": "Hallittu brändijärjestelmä, yksilöllinen indeksoitu sivu jokaiselle klinikalle, toimipistekohtainen schema, GBP, arvostelut ja ajanvaraus. Näin potilas näkee paikallisen asiantuntijan, ei kasvotonta ketjua.",
     "cta": "Suunnittele toimipisteverkkosivustosi",
     "secondary_cta": "Maksuton paikallinen SEO-auditointi",

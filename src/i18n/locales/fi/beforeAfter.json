@@ -1,11 +1,23 @@
 {
   "meta": {
-    "title": "Ihotautien ennen ja jälkeen -galleria — Ensiluokkainen tapausesittely",
+    "title": "Ihotautien ennen ja jälkeen -galleria | DWD",
     "description": "Premium-tason HIPAA-yhteensopiva ennen ja jälkeen -galleria ihotautilääkäreille. Vertailuliukusäädin, älykkäät suodattimet vaivan ja lääkärin mukaan, aikajananäkymät sekä ajanvarauskehotteet.",
-    "ogTitle": "Ihotautien ennen ja jälkeen -galleria — Ensiluokkainen tapausesittely",
-    "ogDescription": "Interaktiivinen vertailuliukusäädin, HIPAA-yhteensopiva suostumus, älykkäät suodattimet ja konversio-optimoidut ajanvarauskehotteet – suunniteltu ihotautiklinikoille.",
+    "ogTitle": "Ihotautien ennen ja jälkeen -galleria | DWD",
+    "ogDescription": "Premium-tason HIPAA-yhteensopiva ennen ja jälkeen -galleria ihotautilääkäreille. Vertailuliukusäädin, älykkäät suodattimet vaivan ja lääkärin mukaan, aikajananäkymät sekä ajanvarauskehotteet.",
     "jsonLdName": "DermatologyWebsiteDesign.com",
-    "jsonLdServiceType": "Ihotautien ennen ja jälkeen -gallerian suunnittelu"
+    "jsonLdServiceType": "Ihotautien ennen ja jälkeen -gallerian suunnittelu",
+    "og_title": "Ihotautien ennen ja jälkeen -galleria | DWD",
+    "twitter_title": "Ihotautien ennen ja jälkeen -galleria | DWD",
+    "og_description": "Premium-tason HIPAA-yhteensopiva ennen ja jälkeen -galleria ihotautilääkäreille. Vertailuliukusäädin, älykkäät suodattimet vaivan ja lääkärin mukaan, aikajananäkymät sekä ajanvarauskehotteet.",
+    "twitter_description": "Premium-tason HIPAA-yhteensopiva ennen ja jälkeen -galleria ihotautilääkäreille. Vertailuliukusäädin, älykkäät suodattimet vaivan ja lääkärin mukaan, aikajananäkymät sekä ajanvarauskehotteet.",
+    "og": {
+      "title": "Ihotautien ennen ja jälkeen -galleria | DWD",
+      "description": "Premium-tason HIPAA-yhteensopiva ennen ja jälkeen -galleria ihotautilääkäreille. Vertailuliukusäädin, älykkäät suodattimet vaivan ja lääkärin mukaan, aikajananäkymät sekä ajanvarauskehotteet."
+    },
+    "twitter": {
+      "title": "Ihotautien ennen ja jälkeen -galleria | DWD",
+      "description": "Premium-tason HIPAA-yhteensopiva ennen ja jälkeen -galleria ihotautilääkäreille. Vertailuliukusäädin, älykkäät suodattimet vaivan ja lääkärin mukaan, aikajananäkymät sekä ajanvarauskehotteet."
+    }
   },
   "hero": {
     "badge": "Ennen ja jälkeen -galleria",

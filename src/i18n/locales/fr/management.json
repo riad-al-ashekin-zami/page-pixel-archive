@@ -1,15 +1,25 @@
 {
   "meta": {
-    "title": "Gestion de sites web pour dermatologues — Équipe axée sur votre croissance",
+    "title": "Maintenance et Gestion de Sites Web de Dermatologie | DWD",
     "description": "Gestion complète de sites de dermatologie : gestionnaire de compte dédié, contenu mensuel, gouvernance SEO, tests A/B, optimisation des conversions et rapports stratégiques. Sans engagement.",
     "og": {
-      "title": "Services de gestion de sites web en dermatologie — Votre équipe de croissance",
-      "description": "Une équipe dédiée pilote votre site de dermatologie chaque semaine : contenu, SEO, CRO, campagnes et rapports. Conforme HIPAA. Sans engagement."
+      "title": "Maintenance et Gestion de Sites Web de Dermatologie | DWD",
+      "description": "Gestion complète de sites de dermatologie : gestionnaire de compte dédié, contenu mensuel, gouvernance SEO, tests A/B, optimisation des conversions et rapports stratégiques. Sans engagement."
+    },
+    "ogTitle": "Maintenance et Gestion de Sites Web de Dermatologie | DWD",
+    "og_title": "Maintenance et Gestion de Sites Web de Dermatologie | DWD",
+    "twitter_title": "Maintenance et Gestion de Sites Web de Dermatologie | DWD",
+    "ogDescription": "Gestion complète de sites de dermatologie : gestionnaire de compte dédié, contenu mensuel, gouvernance SEO, tests A/B, optimisation des conversions et rapports stratégiques. Sans engagement.",
+    "og_description": "Gestion complète de sites de dermatologie : gestionnaire de compte dédié, contenu mensuel, gouvernance SEO, tests A/B, optimisation des conversions et rapports stratégiques. Sans engagement.",
+    "twitter_description": "Gestion complète de sites de dermatologie : gestionnaire de compte dédié, contenu mensuel, gouvernance SEO, tests A/B, optimisation des conversions et rapports stratégiques. Sans engagement.",
+    "twitter": {
+      "title": "Maintenance et Gestion de Sites Web de Dermatologie | DWD",
+      "description": "Gestion complète de sites de dermatologie : gestionnaire de compte dédié, contenu mensuel, gouvernance SEO, tests A/B, optimisation des conversions et rapports stratégiques. Sans engagement."
     }
   },
   "hero": {
     "badge": "Gestion de site web en dermatologie",
-    "headline": "Une équipe de croissance qui gère votre site de dermatologie — chaque semaine.",
+    "headline": "Maintenance et Gestion de Sites Web de Dermatologie",
     "subheading": "Stratégie, contenu, SEO, tests de conversion et rapports — le tout géré par une équipe dédiée. Libérez-vous l'esprit et augmentez votre patientèle.",
     "cta_primary": "Obtenir un plan de croissance",
     "cta_secondary": "Audit gratuit d'abord",
@@ -454,5 +464,191 @@
     "service_type": "Services de gestion de sites web en dermatologie",
     "provider_name": "DermatologyWebsiteDesign.com",
     "offer_description": "Gestion de sites web pour dermatologues — tarif mensuel de départ"
+  },
+  "merged": {
+    "heading": "Hébergement Sécurisé et Sensible à HIPAA",
+    "pillars": {
+      "badge": "Contenu de nos plans",
+      "title": "Chaque couche de votre site — surveillée, corrigée, optimisée.",
+      "description": "Six piliers de travail mensuel. Pas de suppléments, pas de factures surprises.",
+      "items": [
+        {
+          "title": "Surveillance 24h/24",
+          "desc": "Vérifications toutes les 60 secondes depuis 5 régions. Nos alertes préviennent nos techniciens avant même que votre accueil ne s'en aperçoive."
+        },
+        {
+          "title": "Mises à jour HIPAA",
+          "desc": "Mises à jour CMS et plugins testées en pré-production et déployées sur un hébergement compatible BAA."
+        },
+        {
+          "title": "Sauvegardes quotidiennes cryptées",
+          "desc": "Hors site, versionnées, restauration en un clic. Testées chaque mois — pas seulement programmées et oubliées."
+        },
+        {
+          "title": "Scans de malwares & vulnérabilités",
+          "desc": "Analyses hebdomadaires, tests d'intrusion trimestriels et correction immédiate de toute faille CVE affectant votre infrastructure."
+        },
+        {
+          "title": "Suivi Core Web Vitals",
+          "desc": "Suivi continu du LCP, INP et CLS — les régressions sont traitées avant que Google ne pénalise votre classement."
+        },
+        {
+          "title": "Santé SEO On-Page",
+          "desc": "Liens morts, schémas manquants et erreurs d'exploration détectés mensuellement et corrigés directement dans votre forfait."
+        }
+      ]
+    },
+    "included": {
+      "badge": "Inclus chaque mois",
+      "title": "16 actions que nous réalisons pour vous — chaque mois.",
+      "list": [
+        "Surveillance 24h/24 de l'Uptime & SSL",
+        "Mises à jour hebdomadaires CMS & plugins",
+        "Sauvegardes quotidiennes cryptées hors site",
+        "Scans de malwares & correctifs CVE",
+        "Audits de formulaires HIPAA & PHI",
+        "Surveillance Core Web Vitals",
+        "Santé SEO & détection de liens morts",
+        "Optimisation de la base de données",
+        "Réglages CDN & Edge Cache",
+        "Triage de bugs & déploiements de correctifs",
+        "Heures de modifications (contenu & design)",
+        "Rapport de performance mensuel",
+        "Alertes d'incidents proactives",
+        "Journal des changements de conformité",
+        "Vérifications d'accessibilité (WCAG AA)",
+        "Ingénieur de compte dédié"
+      ]
+    },
+    "flow": {
+      "badge": "Fonctionnement",
+      "title": "De l'intégration à un mois serein, chaque mois.",
+      "items": [
+        {
+          "step": "01",
+          "title": "Audit & Intégration",
+          "desc": "Nous prenons en main votre site avec un audit complet : sécurité, performance, SEO et HIPAA. Rien n'est lancé à l'aveugle."
+        },
+        {
+          "step": "02",
+          "title": "Sécurisation & Référence",
+          "desc": "Correctifs, vérification des sauvegardes, configuration du monitoring et définition des indicateurs de base (Core Web Vitals)."
+        },
+        {
+          "step": "03",
+          "title": "Surveillance & Entretien",
+          "desc": "Monitoring 24h/24, mises à jour hebdomadaires, rapports SEO réguliers — plus vos heures de modifs pour vos projets."
+        },
+        {
+          "step": "04",
+          "title": "Rapport & Amélioration",
+          "desc": "Revue de performance mensuelle avec votre ingénieur. Comment rendre votre site plus rapide et plus sûr le mois prochain ?"
+        }
+      ]
+    },
+    "hosting": {
+      "description": "L’hébergement dépend des données traitées. Nous examinons chiffrement, accès, sauvegardes, surveillance et accords fournisseurs. Cela ne remplace pas l’examen de conformité du cabinet."
+    },
+    "planSummary": {
+      "badge": "Plans de maintenance",
+      "title": "Prix prévisibles. Sans engagement. De vrais ingénieurs.",
+      "description": "Tous nos plans sont mensuels. Annulez quand vous voulez, vous gardez tout votre code et vos accès.",
+      "labels": {
+        "popular": "Le plus populaire",
+        "market": "Prix du marché :",
+        "edits_prefix": "Modifications :",
+        "sla_prefix": "SLA",
+        "cta": "Choisir {{name}}"
+      },
+      "tiers": [
+        {
+          "name": "Essentiel",
+          "tag": "Cabinets individuels",
+          "price": "299 $",
+          "per": "/mois",
+          "sla": "Réponse < 4 heures",
+          "edits": "2 h / mois",
+          "market": "500 $ – 1 000 $ /mois",
+          "savings": "40–70 % moins cher",
+          "features": [
+            "Surveillance 24h/24",
+            "Mises à jour hebdo. plugins & CMS",
+            "Sauvegardes quotidiennes cryptées",
+            "Scans malwares + correctifs",
+            "Audit formulaires HIPAA (trimestriel)",
+            "Suivi Core Web Vitals",
+            "Rapport de performance mensuel",
+            "2h / mois de modifications de contenu"
+          ]
+        },
+        {
+          "name": "Croissance",
+          "tag": "Cabinets multi-services",
+          "price": "599 $",
+          "per": "/mois",
+          "sla": "Réponse < 1 heure",
+          "edits": "5 h / mois",
+          "market": "1 200 $ – 2 500 $ /mois",
+          "savings": "50–76 % moins cher",
+          "features": [
+            "Tout ce qui est inclus dans Essentiel",
+            "Audits hebdo. formulaires HIPAA",
+            "Nettoyage & optimisation SEO",
+            "Suivi des liens morts & schémas",
+            "Réglages CDN & Edge Cache",
+            "Triage de bugs & correctifs",
+            "Ingénieur de compte dédié",
+            "5h / mois de modifs (contenu + design)"
+          ]
+        },
+        {
+          "name": "Enterprise",
+          "tag": "Multi-sites & Groupes Mohs",
+          "price": "1 499 $",
+          "per": "/mois",
+          "sla": "Réponse < 15 min",
+          "edits": "Illimité*",
+          "market": "3 000 $ – 6 000 $ /mois",
+          "savings": "50–75 % moins cher",
+          "features": [
+            "Tout ce qui est inclus dans Croissance",
+            "Tableaux de bord uptime par site",
+            "Rotation d'ingénieurs d'astreinte 24h/24",
+            "Tests d'intrusion trimestriels",
+            "Support intégration EHR / Orientation",
+            "Audits d'accessibilité (WCAG AA)",
+            "Journal de conformité signé",
+            "Heures de modifs illimitées* (usage loyal)"
+          ]
+        }
+      ]
+    },
+    "incidents": {
+      "badge": "Journal d'incidents récents",
+      "title": "À quoi ressemble réellement un service 24h/24.",
+      "description": "Exemples réels d'incidents interceptés et résolus ce trimestre — avant même que nos clients ne le remarquent.",
+      "log": [
+        {
+          "title": "Publication d'une faille PHP RCE",
+          "detail": "Corrigé sur 47 sites clients en 33 minutes. Aucune fenêtre d'exposition."
+        },
+        {
+          "title": "Certificat SSL expirant dans 6 jours",
+          "detail": "Renouvelé automatiquement et déployé de nuit avant le trafic du lundi matin."
+        },
+        {
+          "title": "Erreur Origin 502 sur 1 site",
+          "detail": "Bascule sur le cache en 40s. L'ingénieur d'astreinte a rétabli le serveur d'origine en 8 min."
+        },
+        {
+          "title": "Régression d'indexation Google détectée",
+          "detail": "Balise noindex erronée après mise à jour d'un plugin — annulée et demande de ré-exploration envoyée dans l'heure."
+        },
+        {
+          "title": "Fuite de données PHI via formulaire vers Analytics",
+          "detail": "Déploiement d'un nettoyeur de PII, assainissement des événements GA4 et mise à jour du journal de conformité."
+        }
+      ]
+    }
   }
 }

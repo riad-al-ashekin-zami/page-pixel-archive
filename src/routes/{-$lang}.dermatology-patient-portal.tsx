@@ -1,3 +1,5 @@
+import { finalizeSeoHead } from "@/lib/seo-head";
+import { KeywordOwnerLinks } from "@/components/sections/keyword-owner-links";
 import { createFileRoute, notFound } from "@tanstack/react-router";
 import { LocalLink as Link } from "@/components/local-link";
 import { CtaLabel } from "@/lib/cta";
@@ -48,7 +50,7 @@ export const Route = createFileRoute("/{-$lang}/dermatology-patient-portal")({
     stringify: (parsed: { lang?: string }) => ({ lang: parsed.lang ?? "" }),
   },
 
-  head: ({ params }) => {
+  head: (args) => finalizeSeoHead((({ params }: typeof args) => {
     const { lang } = params;
     const st = getStaticTranslation(lang, "patientPortal");
     return {
@@ -85,13 +87,13 @@ export const Route = createFileRoute("/{-$lang}/dermatology-patient-portal")({
           "@context": "https://schema.org", "@type": "BreadcrumbList",
           itemListElement: [
             { "@type": "ListItem", position: 1, name: st?.meta?.jsonLd?.breadcrumb_home, item: localizedUrl(resolveRouteLanguage(params.lang), "/") },
-            { "@type": "ListItem", position: 2, name: st?.meta?.jsonLd?.breadcrumb_services, item: localizedUrl(resolveRouteLanguage(params.lang), "/dermatology-website-design") },
+            { "@type": "ListItem", position: 2, name: st?.meta?.jsonLd?.breadcrumb_services, item: localizedUrl(resolveRouteLanguage(params.lang), "/") },
             { "@type": "ListItem", position: 3, name: st?.meta?.jsonLd?.breadcrumb_portal, item: localizedUrl(resolveRouteLanguage(params.lang), "/dermatology-patient-portal") },
           ],
         }) },
       ],
     };
-  },
+  })(args), args.params.lang, "/dermatology-patient-portal"),
   component: PatientPortalPage,
 });
 
@@ -525,10 +527,12 @@ function PatientPortalPage() {
 
         <p className="mx-auto mt-16 mb-20 max-w-3xl px-4 text-center text-sm text-muted-foreground sm:mt-20 sm:mb-24 sm:px-6 lg:px-8">
           {t("footer_related.text")}{" "}
-          <Link to="/dermatology-website-design" className="font-medium text-foreground underline-offset-4 hover:text-brand-primary hover:underline">{t("footer_related.link_website")}</Link>,{" "}
+          <Link to="/" className="font-medium text-foreground underline-offset-4 hover:text-brand-primary hover:underline">{t("footer_related.link_website")}</Link>,{" "}
           <Link to="/multi-location-dermatology-website-design" className="font-medium text-foreground underline-offset-4 hover:text-brand-primary hover:underline">{t("footer_related.link_multi_location")}</Link>, {t("common.or", { ns: "translation" })}{" "}
           <Link to="/plan-packages-and-costs" className="font-medium text-foreground underline-offset-4 hover:text-brand-primary hover:underline">{t("footer_related.link_packages")}</Link>.
         </p>
+
+      <div className="mx-auto max-w-7xl px-4 pb-16 sm:px-6 lg:px-8"><KeywordOwnerLinks owners={["design"]} /></div>
 
       <SiteFooter />
     </div>

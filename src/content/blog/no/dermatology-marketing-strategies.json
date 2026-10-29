@@ -1,6 +1,6 @@
 {
   "slug": "dermatology-marketing-strategies",
-  "title": "Dermatologisk markedsføringsstrategier: En veileder for praksiseiere for 2026",
+  "title": "Markedsføringsstrategier for hudleger",
   "excerpt": "En felttestet guide til dermatologisk markedsføringsstrategier – Google Bedriftsprofil, E-E-A-T-innhold for medisinske formål, anmeldelser, betalt søk og henvisninger – for enkeltstående og flersteds-praksiser.",
   "imageAlt": "Dermatolog som gjennomgår markedsføringsanalyser på et nettbrett i en moderne klinikk",
   "body": [
@@ -29,16 +29,16 @@
       "text": "Klinikkene som behandler GBP som en levende ressurs, rangerer høyere enn de som behandler den som en katalogoppføring. Det er faktisk så enkelt."
     },
     {
-      "heading": "2. Bygg innhold rundt medisinsk E-E-A-T, ikke søkeordvolum"
+      "heading": "2. Hver diagnose. Hver prosedyre. Hver intensjon."
     },
     {
-      "text": "Dermatologi er en YMYL – Your Money or Your Life – vertikal, noe som betyr at Google anvender sine strengeste kvalitetsstandarder på hver side. Rangering av dermatologisk innhold handler ikke om søkeordtetthet eller antall ord; det handler om å demonstrere Erfaring, Ekspertise, Autoritet og Tillit på hver side en pasient kan lande på."
+      "text": "Dermatologi er en YMYL – Your Money or Your Life – vertikal, noe som betyr at Google anvender sine strengeste kvalitetsstandarder på hver side."
     },
     {
-      "text": "Det betyr at hver kliniske side skal ha en byline fra en styresertifisert dermatolog, en anmelderkredit med legitimasjon, en dato for siste oppdatering, og siteringer til fagfellevurderte kilder eller retningslinjer fra store organisasjoner (AAD, ASDS, ISDS). Forfatterbiografier bør lenke til leverandørens side på ditt eget nettsted, som igjen bør inneholde styresertifiseringer, residens, publikasjoner og eventuelle tilknytninger til sykehus. Google leser alt – og det gjør pasientene også."
-    },
-    {
-      "quote": "Dermatologiske praksiser som behandler hver tjenesteside som en mini klinisk gjennomgang, rangerer høyere enn byråer som produserer tre ganger volumet av tynt, generisk innhold."
+      "link": {
+        "to": "/dermatology-seo-services",
+        "label": "SEO-tjenester for hudleger"
+      }
     },
     {
       "heading": "3. Gjør anmeldelser til en sammensatt anskaffelseskanal"
@@ -50,13 +50,16 @@
       "text": "Det taktiske svaret er en automatisering av anmeldelsesforespørsler utløst fra ditt PMS eller EPJ: en tekst og e-post sendt 24 timer etter hvert besøk, med en ett-trykks lenke til Google og sekundære lenker til Healthgrades og Vitals. Legg til svarmaler for resepsjonen din slik at hver anmeldelse – femstjerners eller enstjerners – får et personlig, HIPAA-sikkert svar innen to virkedager."
     },
     {
-      "heading": "4. Bruk Google Ads for å kjøpe deg vei til side én mens SEO bygger seg opp"
+      "heading": "4. Velg riktige kanaler"
     },
     {
-      "text": "Organisk dermatologisk SEO tar 6–12 måneder å bygge opp. Google Ads tar 48 timer. Kjør dem sammen. Målrett høyt-intensjonelle, tjenestespesifikke søkeord ('mohs kirurgi Denver', 'pediatrisk dermatolog nær meg', 'CoolSculpting konsultasjon'), pek hver annonse til en tjenestespesifikk landingsside (aldri hjemmesiden), og spor bestillinger – ikke klikk – som primær konvertering."
+      "text": "Organisk dermatologisk SEO tar 6–12 måneder å bygge opp."
     },
     {
-      "text": "Budsjettregel: allokér 60 % av betalt forbruk til bunnen av trakten tjenestesøkeord, 25 % til tilstandssøkeord ('eksembehandling', 'cystisk akne'), og 15 % til konkurrenttiltak. Eliminer alle søkeord som koster mer enn $150 per bestilt pasient – dermatologi har nok etterspørsel til at du aldri trenger å overbetale for et enkelt besøk."
+      "link": {
+        "to": "/dermatology-google-ads-ppc",
+        "label": "Google Ads & PPC for hudleger"
+      }
     },
     {
       "heading": "5. Bygg opp igjen henvisninger som en bevisst kanal"
@@ -75,6 +78,12 @@
     },
     {
       "text": "Gjør de seks tingene ovenfor konsekvent i tolv måneder, og markedsføringsspørsmålet slutter å være 'hvordan får vi flere pasienter' og blir 'hvilke leverandører ansetter vi etterpå'. Det er hele poenget med å bygge et markedsføringssystem: det skal tvinge frem kapasitetsbeslutninger, ikke jage dem."
+    },
+    {
+      "link": {
+        "to": "/dermatology-social-media-services",
+        "label": "Sosiale medier for hudleger"
+      }
     }
   ],
   "faqs": [
@@ -98,5 +107,6 @@
       "q": "Hva er medisinsk E-E-A-T, og hvorfor er det viktig for dermatologisk innhold?",
       "a": "E-E-A-T står for Erfaring, Ekspertise, Autoritet og Tillit – kvalitetssignalene Google anvender på YMYL (Your Money or Your Life) innhold. For dermatologi skal hver kliniske side ha en styresertifisert byline, en anmelderkreditt, sitater til AAD eller fagfellevurderte kilder, og en dato for siste oppdatering. Nettsteder som demonstrerer reell medisinsk E-E-A-T rangerer konsekvent høyere enn nettsteder som produserer større volumer av tynt innhold."
     }
-  ]
+  ],
+  "seoTitle": "Markedsføringsstrategier for hudleger"
 }

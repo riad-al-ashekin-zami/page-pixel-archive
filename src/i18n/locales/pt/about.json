@@ -1,15 +1,27 @@
 {
   "meta": {
-    "title": "Sobre Nós — Agência de Design de Sites para Dermatologia",
+    "title": "Sobre a DWD | DWD",
     "description": "Criamos sites em conformidade com HIPAA e marketing de crescimento exclusivo para clínicas de dermatologia. Conheça a equipa por trás dos resultados.",
-    "ogTitle": "Sobre Nós — Design de Sites para Dermatologia",
-    "ogDescription": "Uma agência de nicho que serve clínicas de dermatologia com sites premium, SEO e aquisição de pacientes.",
+    "ogTitle": "Sobre a DWD | DWD",
+    "ogDescription": "Criamos sites em conformidade com HIPAA e marketing de crescimento exclusivo para clínicas de dermatologia. Conheça a equipa por trás dos resultados.",
     "breadcrumbHome": "Início",
-    "breadcrumbAbout": "Sobre Nós"
+    "breadcrumbAbout": "Sobre Nós",
+    "og_title": "Sobre a DWD | DWD",
+    "twitter_title": "Sobre a DWD | DWD",
+    "og_description": "Criamos sites em conformidade com HIPAA e marketing de crescimento exclusivo para clínicas de dermatologia. Conheça a equipa por trás dos resultados.",
+    "twitter_description": "Criamos sites em conformidade com HIPAA e marketing de crescimento exclusivo para clínicas de dermatologia. Conheça a equipa por trás dos resultados.",
+    "og": {
+      "title": "Sobre a DWD | DWD",
+      "description": "Criamos sites em conformidade com HIPAA e marketing de crescimento exclusivo para clínicas de dermatologia. Conheça a equipa por trás dos resultados."
+    },
+    "twitter": {
+      "title": "Sobre a DWD | DWD",
+      "description": "Criamos sites em conformidade com HIPAA e marketing de crescimento exclusivo para clínicas de dermatologia. Conheça a equipa por trás dos resultados."
+    }
   },
   "hero": {
     "kicker": "Sobre a Dermatology Website Design",
-    "h1": "Os especialistas por trás de <1>sites exclusivos para dermatologia.</1>",
+    "h1": "Sobre a DWD",
     "p": "Integramos Experiência, Especialidade, Autoridade e Confiança (E-E-A-T) em todos os sites — o sinal central da Google para nichos de saúde (YMYL). Não somos uma agência generalista. Somos o especialista.",
     "ctaPrimary": "Trabalhe connosco",
     "ctaSecondary": "Ver serviços",

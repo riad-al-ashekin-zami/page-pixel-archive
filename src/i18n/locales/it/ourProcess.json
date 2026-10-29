@@ -1,9 +1,21 @@
 {
   "meta": {
-    "title": "Il Nostro Processo — Realizzazione Siti Web per Dermatologia in 7 Fasi | Scoperta → Lancio → Crescita",
+    "title": "Il Nostro Processo | DWD",
     "description": "Il processo in 7 fasi che utilizziamo per creare siti web dermatologici: Discovery, audit SEO, design, contenuti, sviluppo, lancio e crescita. Tempistiche fisse, check-in settimanali, approccio HIPAA-first, Lighthouse 95+ garantito.",
-    "ogTitle": "Il Nostro Processo — 7 Passaggi dal Kick-off alla Crescita",
-    "ogDescription": "Un processo trasparente e con tempistiche fisse per il web design e la SEO in ambito dermatologico. Scopri esattamente cosa accade settimana dopo settimana — dalla fase di discovery alla crescita continua."
+    "ogTitle": "Il Nostro Processo | DWD",
+    "ogDescription": "Il processo in 7 fasi che utilizziamo per creare siti web dermatologici: Discovery, audit SEO, design, contenuti, sviluppo, lancio e crescita. Tempistiche fisse, check-in settimanali, approccio HIPAA-first, Lighthouse 95+ garantito.",
+    "og_title": "Il Nostro Processo | DWD",
+    "twitter_title": "Il Nostro Processo | DWD",
+    "og_description": "Il processo in 7 fasi che utilizziamo per creare siti web dermatologici: Discovery, audit SEO, design, contenuti, sviluppo, lancio e crescita. Tempistiche fisse, check-in settimanali, approccio HIPAA-first, Lighthouse 95+ garantito.",
+    "twitter_description": "Il processo in 7 fasi che utilizziamo per creare siti web dermatologici: Discovery, audit SEO, design, contenuti, sviluppo, lancio e crescita. Tempistiche fisse, check-in settimanali, approccio HIPAA-first, Lighthouse 95+ garantito.",
+    "og": {
+      "title": "Il Nostro Processo | DWD",
+      "description": "Il processo in 7 fasi che utilizziamo per creare siti web dermatologici: Discovery, audit SEO, design, contenuti, sviluppo, lancio e crescita. Tempistiche fisse, check-in settimanali, approccio HIPAA-first, Lighthouse 95+ garantito."
+    },
+    "twitter": {
+      "title": "Il Nostro Processo | DWD",
+      "description": "Il processo in 7 fasi che utilizziamo per creare siti web dermatologici: Discovery, audit SEO, design, contenuti, sviluppo, lancio e crescita. Tempistiche fisse, check-in settimanali, approccio HIPAA-first, Lighthouse 95+ garantito."
+    }
   },
   "jsonLd": {
     "breadcrumb": {
@@ -17,8 +29,8 @@
   },
   "hero": {
     "badge": "Il Nostro Processo",
-    "title": "Dalla prima chiamata alla prenotazione del primo paziente — ",
-    "titleHighlight": "un progetto in 7 fasi con tempistiche certe.",
+    "title": "Il Nostro Processo",
+    "titleHighlight": "",
     "description": "Nessun mistero, nessun aumento dei costi in corso d'opera, nessuna sorpresa sulle tariffe orarie. Ogni fase prevede un documento consegnabile, un responsabile e una scadenza — così saprai sempre cosa stiamo facendo e cosa accadrà dopo.",
     "buttons": {
       "seeSteps": "Scopri le 7 fasi",

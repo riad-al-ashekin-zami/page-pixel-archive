@@ -1,11 +1,23 @@
 {
   "meta": {
-    "title": "Contattaci",
+    "title": "Contattaci | DWD",
     "description": "Raccontaci del tuo studio e del tuo sito web. Ti invieremo un audit gratuito e personalizzato con opportunità di SEO, velocità e conversione entro 48 ore.",
-    "ogTitle": "Contattaci",
+    "ogTitle": "Contattaci | DWD",
     "ogDescription": "Raccontaci del tuo studio e del tuo sito web. Ti invieremo un audit gratuito e personalizzato con opportunità di SEO, velocità e conversione entro 48 ore.",
     "breadcrumbHome": "Home",
-    "breadcrumbContact": "Contatti"
+    "breadcrumbContact": "Contatti",
+    "og_title": "Contattaci | DWD",
+    "twitter_title": "Contattaci | DWD",
+    "og_description": "Raccontaci del tuo studio e del tuo sito web. Ti invieremo un audit gratuito e personalizzato con opportunità di SEO, velocità e conversione entro 48 ore.",
+    "twitter_description": "Raccontaci del tuo studio e del tuo sito web. Ti invieremo un audit gratuito e personalizzato con opportunità di SEO, velocità e conversione entro 48 ore.",
+    "og": {
+      "title": "Contattaci | DWD",
+      "description": "Raccontaci del tuo studio e del tuo sito web. Ti invieremo un audit gratuito e personalizzato con opportunità di SEO, velocità e conversione entro 48 ore."
+    },
+    "twitter": {
+      "title": "Contattaci | DWD",
+      "description": "Raccontaci del tuo studio e del tuo sito web. Ti invieremo un audit gratuito e personalizzato con opportunità di SEO, velocità e conversione entro 48 ore."
+    }
   },
   "auditForm": {
     "hero": {
@@ -80,5 +92,6 @@
     "description": "Abbiamo ricevuto la tua richiesta di audit.",
     "turnaround": "Ti invieremo l'audit entro 48 ore",
     "backHome": "Torna alla home"
-  }
+  },
+  "pageHeading": "Contattaci"
 }

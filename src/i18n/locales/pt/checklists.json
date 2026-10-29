@@ -1,8 +1,21 @@
 {
   "meta": {
-    "title": "Checklists para Websites de Dermatologia — Lançamento, SEO, HIPAA e Conversão",
+    "title": "Checklists para Websites de Dermatologia | DWD",
     "description": "Checklists gratuitas e especializadas para websites de dermatologia: QA pré-lançamento, SEO on-page, conformidade HIPAA, acessibilidade, Core Web Vitals e conversão. Imprimíveis e específicas para clínicas.",
-    "keywords": "checklist website dermatologia, checklist SEO dermatologia, checklist HIPAA website, checklist lançamento clinica dermatologia, checklist acessibilidade website médico"
+    "ogTitle": "Checklists para Websites de Dermatologia | DWD",
+    "og_title": "Checklists para Websites de Dermatologia | DWD",
+    "twitter_title": "Checklists para Websites de Dermatologia | DWD",
+    "ogDescription": "Checklists gratuitas e especializadas para websites de dermatologia: QA pré-lançamento, SEO on-page, conformidade HIPAA, acessibilidade, Core Web Vitals e conversão. Imprimíveis e específicas para clínicas.",
+    "og_description": "Checklists gratuitas e especializadas para websites de dermatologia: QA pré-lançamento, SEO on-page, conformidade HIPAA, acessibilidade, Core Web Vitals e conversão. Imprimíveis e específicas para clínicas.",
+    "twitter_description": "Checklists gratuitas e especializadas para websites de dermatologia: QA pré-lançamento, SEO on-page, conformidade HIPAA, acessibilidade, Core Web Vitals e conversão. Imprimíveis e específicas para clínicas.",
+    "og": {
+      "title": "Checklists para Websites de Dermatologia | DWD",
+      "description": "Checklists gratuitas e especializadas para websites de dermatologia: QA pré-lançamento, SEO on-page, conformidade HIPAA, acessibilidade, Core Web Vitals e conversão. Imprimíveis e específicas para clínicas."
+    },
+    "twitter": {
+      "title": "Checklists para Websites de Dermatologia | DWD",
+      "description": "Checklists gratuitas e especializadas para websites de dermatologia: QA pré-lançamento, SEO on-page, conformidade HIPAA, acessibilidade, Core Web Vitals e conversão. Imprimíveis e específicas para clínicas."
+    }
   },
   "schema": {
     "breadcrumb": {

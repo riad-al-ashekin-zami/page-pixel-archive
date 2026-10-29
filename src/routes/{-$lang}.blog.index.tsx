@@ -1,3 +1,5 @@
+import { finalizeSeoHead } from "@/lib/seo-head";
+import { KeywordOwnerLinks } from "@/components/sections/keyword-owner-links";
 import { useMemo, useState } from "react";
 import { useForm as useFormspree } from "@formspree/react";
 import { AnimatePresence, motion, useReducedMotion } from "framer-motion";
@@ -41,7 +43,7 @@ export const Route = createFileRoute("/{-$lang}/blog/")({
     stringify: (parsed: { lang?: string }) => ({ lang: parsed.lang ?? "" }),
   },
 
-  head: ({ params }) => {
+  head: (args) => finalizeSeoHead((({ params }: typeof args) => {
     const { lang } = params;
     const st = getStaticTranslation(resolveRouteLanguage(params.lang), "blogIndex");
     return {
@@ -100,7 +102,7 @@ export const Route = createFileRoute("/{-$lang}/blog/")({
         },
       ],
     };
-  },
+  })(args), args.params.lang, "/blog"),
   component: BlogPage,
 });
 
@@ -667,6 +669,8 @@ function BlogPage() {
           <Link to="/contact" className="font-medium text-foreground underline-offset-4 hover:text-brand-primary hover:underline">{t("footer.audit")}</Link>, {t("common.or", { ns: "translation" })}{" "}
           <Link to="/faq" className="font-medium text-foreground underline-offset-4 hover:text-brand-primary hover:underline">{t("footer.faq")}</Link>.
         </p>
+
+      <div className="mx-auto max-w-7xl px-4 pb-16 sm:px-6 lg:px-8"><KeywordOwnerLinks owners={["seo"]} /></div>
 
       <SiteFooter />
     </div>

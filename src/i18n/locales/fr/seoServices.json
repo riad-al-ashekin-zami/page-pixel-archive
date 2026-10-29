@@ -1,11 +1,21 @@
 {
   "meta": {
-    "title": "Services SEO en Dermatologie — Dominez les recherches en soins et esthétique",
-    "description": "SEO médical pour cliniques de dermatologie : audits techniques, SEO local, optimisation Google Business, contenu validé par des experts et netlinking éthique. Conçu pour cabinets solos, multisites, pédiatriques et Mohs.",
-    "og_title": "Services SEO Dermatologie — Soyez là où vos patients vous cherchent",
-    "og_description": "SEO médical conçu pour les cliniques dermatologiques : technique, local, contenu et autorité gérés de bout en bout avec rapports mensuels transparents.",
-    "twitter_title": "Services SEO en Dermatologie",
-    "twitter_description": "SEO médical conçu stratégiquement pour les cliniques de dermatologie."
+    "title": "Services SEO pour Dermatologues | DWD",
+    "description": "SEO et référencement local pour dermatologues : visibilité sur Google Maps et dans les recherches de traitements des patients.",
+    "og_title": "Services SEO pour Dermatologues | DWD",
+    "og_description": "SEO et référencement local pour dermatologues : visibilité sur Google Maps et dans les recherches de traitements des patients.",
+    "twitter_title": "Services SEO pour Dermatologues | DWD",
+    "twitter_description": "SEO et référencement local pour dermatologues : visibilité sur Google Maps et dans les recherches de traitements des patients.",
+    "ogTitle": "Services SEO pour Dermatologues | DWD",
+    "ogDescription": "SEO et référencement local pour dermatologues : visibilité sur Google Maps et dans les recherches de traitements des patients.",
+    "og": {
+      "title": "Services SEO pour Dermatologues | DWD",
+      "description": "SEO et référencement local pour dermatologues : visibilité sur Google Maps et dans les recherches de traitements des patients."
+    },
+    "twitter": {
+      "title": "Services SEO pour Dermatologues | DWD",
+      "description": "SEO et référencement local pour dermatologues : visibilité sur Google Maps et dans les recherches de traitements des patients."
+    }
   },
   "jsonLd": {
     "serviceType": "Services SEO en Dermatologie",
@@ -20,8 +30,8 @@
   },
   "hero": {
     "badge": "Services SEO en Dermatologie",
-    "title_start": "Positionnez-vous là où les patients",
-    "title_highlight": "recherchent réellement des soins de la peau.",
+    "title_start": "Services SEO pour Dermatologues",
+    "title_highlight": "",
     "description": "Le SEO médical spécialisé pour la dermatologie : technique, local, contenu et autorité gérés de A à Z. Pages revues par des experts, liens éthiques et rapports mensuels enfin compréhensibles.",
     "cta_audit": "Obtenir un audit SEO gratuit",
     "cta_stack": "Découvrir notre approche SEO",
@@ -199,7 +209,7 @@
     ]
   },
   "faq": {
-    "heading": "Les questions que les dermatologues nous posent.",
+    "heading": "Questions Fréquentes",
     "items": [
       {
         "q": "Combien de temps avant de voir des résultats ?",
@@ -220,10 +230,6 @@
       {
         "q": "Pouvez-vous intervenir sur mon site actuel ?",
         "a": "Oui. Nous travaillons sur WordPress, Webflow, Modernizing Medicine, Nextech ou tout autre CMS. Si votre plateforme freine vos performances, nous vous le dirons honnêtement et ne proposerons une migration que si le ROI est évident."
-      },
-      {
-        "q": "Que contient le rapport mensuel ?",
-        "a": "L'évolution de vos 200 mots-clés prioritaires, le trafic organique, les rendez-vous générés, les Core Web Vitals, les backlinks acquis et le plan d'action futur. Le tout résumé lors d'un appel de 30 minutes."
       }
     ]
   },
@@ -243,5 +249,166 @@
     "local_seo": "SEO local au niveau du quartier",
     "marketing_playbook": "notre guide complet marketing dermatologie",
     "practice_growth": "croissance globale du cabinet"
+  },
+  "merged": {
+    "headings": [
+      "SEO Local pour Cabinets Dermatologiques",
+      "SEO des Pages de Traitements et Services",
+      "SEO Technique",
+      "Avis et Fiche Établissement Google",
+      "Rapports",
+      "Questions Fréquentes"
+    ],
+    "local": {
+      "badge": "L'Arsenal SEO Local",
+      "heading": "Huit leviers de classement local. Actionnés chaque mois.",
+      "description": "Le classement local ne capitalise que lorsque tous les signaux convergent : profil, proximité, avis, citations, contenu et données structurées.",
+      "items": [
+        {
+          "title": "Optimisation Google Business Profile",
+          "desc": "Refonte complète de votre fiche GBP : catégories, services, attributs, FAQ et publications hebdomadaires calibrées pour les signaux de classement du Map Pack."
+        },
+        {
+          "title": "Stratégie de Classement Map Pack",
+          "desc": "Optimisation de la proximité, de la proéminence et de la pertinence sur tout votre rayon d'action — les trois piliers du Top 3."
+        },
+        {
+          "title": "Pages de Localisation Géo-ciblées",
+          "desc": "Pages de destination uniques et validées pour chaque ville et quartier desservi — sans contenu dupliqué ni cannibalisation."
+        },
+        {
+          "title": "Génération et Réponse aux Avis",
+          "desc": "Demandes d'avis automatisées après visite, réponses assistées par IA et validées par l'humain, et balisage schema pour afficher vos étoiles en recherche."
+        },
+        {
+          "title": "Netlinking Local (Citations NAP)",
+          "desc": "Cohérence des noms, adresses et téléphones sur plus de 80 annuaires médicaux et locaux — audité et surveillé mensuellement."
+        },
+        {
+          "title": "Recherche de Mots-clés Locaux",
+          "desc": "« Dermatologue à proximité », pathologie + ville, acte + code postal — calqué sur les expressions réelles de vos patients."
+        },
+        {
+          "title": "Balisage Schema Local HIPAA",
+          "desc": "Couches de données structurées MedicalBusiness, Physician et LocalBusiness par site — des résultats enrichis sans exposer de données de santé."
+        },
+        {
+          "title": "Suivi et Reporting Local",
+          "desc": "Suivi quotidien du positionnement par zone géographique autour de chaque cabinet — rapport mensuel clair, sans jargon inutile."
+        }
+      ]
+    },
+    "workflow": {
+      "badge": "Fonctionnement",
+      "heading": "Lancement local en 90 jours. Croissance continue ensuite.",
+      "description": "Des étapes transparentes — vous savez exactement ce qui est livré chaque mois et pourquoi.",
+      "steps": [
+        {
+          "phase": "Phase 01",
+          "title": "Audit local et analyse concurrentielle",
+          "desc": "Scan de positionnement par zone géographique, audit GBP, analyse des écarts de citations et étude du Top 3 concurrentiel par ville."
+        },
+        {
+          "phase": "Phase 02",
+          "title": "Nettoyage GBP et citations",
+          "desc": "Refonte complète des fiches Google Business Profile, correction du NAP sur les annuaires, suppression des doublons et recalibrage des catégories."
+        },
+        {
+          "phase": "Phase 03",
+          "title": "Pages locales et balisage schema",
+          "desc": "Création de pages de destination 'service-par-ville', balisage MedicalBusiness par site, maillage interne et intégration de widgets d'avis."
+        },
+        {
+          "phase": "Phase 04",
+          "title": "Avis, posts et rapports mensuels",
+          "desc": "Flux d'avis post-visite, publications GBP hebdomadaires, contenu géo-localisé et rapports de conversion mensuels."
+        }
+      ]
+    },
+    "reviews": {
+      "badge": "Pourquoi nous choisir",
+      "heading": "Une équipe experte en SEO local médical — pas une agence généraliste.",
+      "items": [
+        {
+          "title": "Flux d'avis conformes HIPAA",
+          "desc": "Plateformes couvertes par BAA, réponses sans données de santé et protocoles de gestion des avis négatifs validés cliniquement."
+        },
+        {
+          "title": "Évolutivité multi-sites",
+          "desc": "Pages géo-spécifiques, GBP dédiés et gestion des doublons pour chaque adresse de votre réseau."
+        },
+        {
+          "title": "Reporting de positionnement précis",
+          "desc": "Scans quotidiens sur un quadrillage autour de chaque clinique, capturant les variations réelles de proximité."
+        },
+        {
+          "title": "Attribution des rendez-vous",
+          "desc": "Suivi des appels, demandes d'itinéraires et formulaires liés aux classements locaux : un ROI réel, pas juste des vues."
+        },
+        {
+          "title": "Rédacteurs médicaux internes",
+          "desc": "Contenu rédigé par des professionnels de santé : pas d'IA générique, pas de freelances fantômes, pas de contenu creux."
+        },
+        {
+          "title": "Rapports lisibles",
+          "desc": "Une page, en français clair, chaque mois. Positions, avis, appels, itinéraires et prochaines étapes."
+        }
+      ]
+    },
+    "medicalServices": {
+      "badge": "Services médicaux localisés",
+      "heading": "Chaque pathologie. Chaque ville. Chaque intention.",
+      "description": "Chaque service médical devient un pôle 'acte + ville' — optimisé pour l'E-E-A-T, avec balisage MedicalBusiness et maillage interne local.",
+      "list": [
+        "Traitement de l'acné",
+        "Traitement de l'eczéma",
+        "Traitement du psoriasis",
+        "Infections cutanées",
+        "Allergies cutanées",
+        "Dépistage et traitement du cancer de la peau",
+        "Évaluation et exérèse de grains de beauté",
+        "Exérèse de kystes et lipomes",
+        "Traitement des verrues",
+        "Pathologies unguéales (ongles)",
+        "Diagnostic et traitement de la chute de cheveux",
+        "Affections du cuir chevelu",
+        "Traitement de la rosacée",
+        "Hyperpigmentation et Mélasma",
+        "Traitement des cicatrices (trauma, chirurgie)",
+        "Cicatrices de brûlures",
+        "Traitement du vitiligo",
+        "Biopsies cutanées et procédures de diagnostic"
+      ]
+    },
+    "content": {
+      "description": "Cartographie des intentions par pathologie et procédure — acné, eczéma, Mohs, biopsies — alignée sur le parcours exact du patient. Pages conformes aux critères E-E-A-T et validées scientifiquement, rédigées pour les patients et Google — sans contenu générique, IA ou dupliqué.",
+      "items": [],
+      "list": [
+        "Traitement de l'acné",
+        "Traitement de l'eczéma",
+        "Traitement du psoriasis",
+        "Infections cutanées",
+        "Allergies cutanées",
+        "Dépistage et traitement du cancer de la peau",
+        "Évaluation et retrait de grains de beauté",
+        "Exérèse de kystes et lipomes",
+        "Retrait de verrues",
+        "Pathologies de l'ongle",
+        "Traitement de la chute de cheveux",
+        "Pathologies du cuir chevelu",
+        "Traitement de la rosacée",
+        "Hyperpigmentation & Mélasma",
+        "Traitement des cicatrices",
+        "Cicatrices de brûlures",
+        "Traitement du vitiligo",
+        "Biopsies & Diagnostics cutanés"
+      ]
+    },
+    "technical": {
+      "description": "Core Web Vitals, crawlabilité, indexation, schema, HTTPS, mobile-first — une base technique de 120 points d'analyse avant le moindre contenu. LCP inférieur à 1s, CLS proche de zéro, optimisation des images et polices — la même exigence de performance que les plus grands sites cliniques."
+    },
+    "reporting": {
+      "description": "GA4, Search Console et suivi quotidien de vos 200 mots-clés stratégiques — reportings clairs et détaillés chaque mois. Acquisition de liens éditoriaux, citations locales, accélération des avis et reporting mensuel transparent."
+    }
   }
 }

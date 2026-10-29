@@ -1,15 +1,25 @@
 {
   "meta": {
-    "title": "Website-Management für Dermatologen — Ihr Team für mehr Wachstum",
+    "title": "Wartung und Verwaltung von Dermatologie-Websites | DWD",
     "description": "Full-Service-Website-Management für die Dermatologie: Persönlicher Account Manager, monatliche Inhalte, SEO-Governance, A/B-Tests, Conversion-Optimierung und Executive Reporting. Monatlich kündbar.",
     "og": {
-      "title": "Dermatologie Website-Management — Ihr dediziertes Wachstums-Team",
-      "description": "Ein spezialisiertes Team steuert Ihre Website jede Woche — Content, SEO, CRO, Kampagnen und Reporting. HIPAA-konform. Monatlich kündbar."
+      "title": "Wartung und Verwaltung von Dermatologie-Websites | DWD",
+      "description": "Full-Service-Website-Management für die Dermatologie: Persönlicher Account Manager, monatliche Inhalte, SEO-Governance, A/B-Tests, Conversion-Optimierung und Executive Reporting. Monatlich kündbar."
+    },
+    "ogTitle": "Wartung und Verwaltung von Dermatologie-Websites | DWD",
+    "og_title": "Wartung und Verwaltung von Dermatologie-Websites | DWD",
+    "twitter_title": "Wartung und Verwaltung von Dermatologie-Websites | DWD",
+    "ogDescription": "Full-Service-Website-Management für die Dermatologie: Persönlicher Account Manager, monatliche Inhalte, SEO-Governance, A/B-Tests, Conversion-Optimierung und Executive Reporting. Monatlich kündbar.",
+    "og_description": "Full-Service-Website-Management für die Dermatologie: Persönlicher Account Manager, monatliche Inhalte, SEO-Governance, A/B-Tests, Conversion-Optimierung und Executive Reporting. Monatlich kündbar.",
+    "twitter_description": "Full-Service-Website-Management für die Dermatologie: Persönlicher Account Manager, monatliche Inhalte, SEO-Governance, A/B-Tests, Conversion-Optimierung und Executive Reporting. Monatlich kündbar.",
+    "twitter": {
+      "title": "Wartung und Verwaltung von Dermatologie-Websites | DWD",
+      "description": "Full-Service-Website-Management für die Dermatologie: Persönlicher Account Manager, monatliche Inhalte, SEO-Governance, A/B-Tests, Conversion-Optimierung und Executive Reporting. Monatlich kündbar."
     }
   },
   "hero": {
     "badge": "Dermatologie Website-Management",
-    "headline": "Ein Wachstums-Team, das Ihre Website steuert — jede Woche.",
+    "headline": "Wartung und Verwaltung von Dermatologie-Websites",
     "subheading": "Strategie, Content, SEO, Conversion-Tests und Reporting — alles aus einer Hand. Vergessen Sie die Pflege Ihrer Website und konzentrieren Sie sich auf neue Patienten.",
     "cta_primary": "Wachstumsplan erstellen",
     "cta_secondary": "Kostenloses Audit",
@@ -454,5 +464,191 @@
     "service_type": "Dermatology Website Management Services",
     "provider_name": "DermatologyWebsiteDesign.com",
     "offer_description": "Website-Management für Dermatologen — Startpreis pro Monat"
+  },
+  "merged": {
+    "heading": "Sicheres, HIPAA-bewusstes Hosting",
+    "pillars": {
+      "badge": "Inhalt der Care-Pläne",
+      "title": "Jede Ebene Ihrer Seite – überwacht, gepatcht, optimiert.",
+      "description": "Sechs Säulen unserer monatlichen Arbeit. Keine Add-ons, keine Überraschungsrechnungen.",
+      "items": [
+        {
+          "title": "24/7 Uptime-Monitoring",
+          "desc": "Health-Checks alle 60 Sekunden aus 5 Regionen. Unsere Techniker erhalten Alarme, bevor Ihr Empfang davon erfährt."
+        },
+        {
+          "title": "HIPAA-konforme Updates",
+          "desc": "Updates für CMS, Plugins und Abhängigkeiten werden in Staging-Umgebungen geprüft und für BAA-fähiges Hosting bereitgestellt."
+        },
+        {
+          "title": "Tägliche verschlüsselte Backups",
+          "desc": "Extern, versioniert, mit One-Click-Restore. Monatlich getestet – nicht nur geplant und vergessen."
+        },
+        {
+          "title": "Malware & Schwachstellen-Scans",
+          "desc": "Wöchentliche Scans, quartalsweise Penetrationstests und sofortiges Patching aller CVEs, die Ihren Tech-Stack betreffen."
+        },
+        {
+          "title": "Core Web Vitals Watch",
+          "desc": "LCP, INP und CLS werden kontinuierlich getrackt – Performance-Probleme werden gelöst, bevor Google das Ranking abstraft."
+        },
+        {
+          "title": "On-Page SEO Health",
+          "desc": "Defekte Links, fehlende Schemas, verwaiste Seiten oder Crawling-Fehler werden monatlich erfasst und direkt behoben."
+        }
+      ]
+    },
+    "included": {
+      "badge": "Jeden Monat inklusive",
+      "title": "16 Leistungen, die wir für Sie erbringen – jeden Monat.",
+      "list": [
+        "24/7 Uptime- & SSL-Monitoring",
+        "Wöchentliche CMS- & Plugin-Updates",
+        "Tägliche verschlüsselte Off-Site-Backups",
+        "Malware-Scans & CVE-Patching",
+        "HIPAA-konforme Formular- & PHI-Audits",
+        "Core Web Vitals Monitoring",
+        "SEO-Checkups & Scan nach toten Links",
+        "Datenbank-Optimierung",
+        "CDN- & Edge-Cache-Tuning",
+        "Bug-Triage & Hotfix-Bereitstellung",
+        "Stunden für Content- & Design-Änderungen",
+        "Monatlicher Performance-Report",
+        "Proaktive Benachrichtigungen bei Vorfällen",
+        "Compliance-Änderungsprotokoll",
+        "Barrierefreiheits-Checks (WCAG AA)",
+        "Fester Ansprechpartner (Engineer)"
+      ]
+    },
+    "flow": {
+      "badge": "Der Ablauf",
+      "title": "Vom Onboarding bis zur sorgenfreien Website.",
+      "items": [
+        {
+          "step": "01",
+          "title": "Onboarding & Audit",
+          "desc": "Wir übernehmen Ihre Seite mit einem umfassenden Audit für Sicherheit, Performance, SEO und HIPAA – nichts geht ungeprüft ins System."
+        },
+        {
+          "step": "02",
+          "title": "Härtung & Baseline",
+          "desc": "Patching, Backup-Prüfung und Setup des Monitorings. Wir setzen eine Baseline für alle Kennzahlen und Rankings."
+        },
+        {
+          "step": "03",
+          "title": "Monitoring & Wartung",
+          "desc": "24/7 Überwachung, wöchentliche Updates, monatliche Reports – plus Support-Stunden für Ihr Wachstum."
+        },
+        {
+          "step": "04",
+          "title": "Reporting & Optimierung",
+          "desc": "Monatlicher Performance-Review mit Ihrem Ingenieur. Gemeinsam machen wir Ihre Seite schneller, sicherer und sichtbarer."
+        }
+      ]
+    },
+    "hosting": {
+      "description": "Wir planen Hosting anhand der verarbeiteten Daten. Verschlüsselung, Zugriffsrechte, Backups, Überwachung und Anbietervereinbarungen werden geprüft. Dies ersetzt nicht die Compliance-Prüfung Ihrer Praxis."
+    },
+    "planSummary": {
+      "badge": "Care-Pläne",
+      "title": "Vorhersehbare Preise. Keine Bindung. Echte Ingenieure.",
+      "description": "Jeder Plan läuft monatlich. Jederzeit kündbar, alle Codes und Zugangsdaten bleiben in Ihrem Besitz.",
+      "labels": {
+        "popular": "Beliebteste Wahl",
+        "market": "Marktwert:",
+        "edits_prefix": "Änderungen:",
+        "sla_prefix": "SLA",
+        "cta": "{{name}} wählen"
+      },
+      "tiers": [
+        {
+          "name": "Essential",
+          "tag": "Für Einzelpraxen",
+          "price": "299 $",
+          "per": "/Monat",
+          "sla": "< 4 Stunden Reaktion",
+          "edits": "2 Std. / Monat",
+          "market": "500 $ – 1.000 $ /Monat",
+          "savings": "40–70 % Ersparnis",
+          "features": [
+            "24/7 Uptime-Monitoring",
+            "Wöchentliche Plugin- & CMS-Updates",
+            "Tägliche verschlüsselte Backups",
+            "Malware-Scans + Patching",
+            "HIPAA-konforme Formular-Audits (quartalsweise)",
+            "Core Web Vitals Monitoring",
+            "Monatlicher Performance-Report",
+            "2 Std. / Monat Inhaltsänderungen"
+          ]
+        },
+        {
+          "name": "Growth",
+          "tag": "Für Praxen mit breitem Portfolio",
+          "price": "599 $",
+          "per": "/Monat",
+          "sla": "< 1 Stunde Reaktion",
+          "edits": "5 Std. / Monat",
+          "market": "1.200 $ – 2.500 $ /Monat",
+          "savings": "50–76 % Ersparnis",
+          "features": [
+            "Alles aus dem Essential-Plan",
+            "Wöchentliche HIPAA-konforme Formular-Audits",
+            "Regelmäßige SEO-Optimierungen",
+            "Monitoring für tote Links & Schemas",
+            "CDN- & Edge-Cache-Tuning",
+            "Bug-Triage & Hotfix-Bereitstellung",
+            "Fester Account-Engineer",
+            "5 Std. / Monat edits (Content + Design)"
+          ]
+        },
+        {
+          "name": "Enterprise",
+          "tag": "Mehrere Standorte & Mohs-Zentren",
+          "price": "1.499 $",
+          "per": "/Monat",
+          "sla": "< 15 Min. Reaktion",
+          "edits": "Unlimitiert*",
+          "market": "3.000 $ – 6.000 $ /Monat",
+          "savings": "50–75 % Ersparnis",
+          "features": [
+            "Alles aus dem Growth-Plan",
+            "Uptime-Dashboards pro Standort",
+            "Rund-um-die-Uhr Rufbereitschaft",
+            "Quartalsweise Penetrationstests",
+            "Support für Zuweiser-/EHR-Integration",
+            "Barrierefreiheits-Audits (WCAG AA)",
+            "Compliance-Protokollierung & Freigaben",
+            "Unlimitierte* Bearbeitungszeit (Fair Use)"
+          ]
+        }
+      ]
+    },
+    "incidents": {
+      "badge": "Aktuelles Incident-Log",
+      "title": "Was „24/7“ in der Praxis bedeutet.",
+      "description": "Ein Live-Auszug von Vorfällen, die wir in diesem Quartal erkannt und gelöst haben – bevor unsere Kunden sie bemerkt haben.",
+      "log": [
+        {
+          "title": "PHP RCE Sicherheitslücke veröffentlicht",
+          "detail": "Gepatcht auf 47 Kunden-Websites innerhalb von 33 Minuten. Null Angriffsfläche."
+        },
+        {
+          "title": "SSL-Zertifikat läuft in 6 Tagen ab",
+          "detail": "Automatisch verlängert und nachts live geschaltet, bevor der Montagsverkehr startete."
+        },
+        {
+          "title": "Origin 502 Fehlermeldung auf 1 Seite",
+          "detail": "Failover auf Cache innerhalb von 40 Sek. Techniker stellte Origin in 8 Min. wieder her."
+        },
+        {
+          "title": "Google Indexierungs-Rückgang erkannt",
+          "detail": "Fehlerhaftes noindex-Tag durch Plugin-Update – Rollback und Re-Crawl in derselben Stunde angefordert."
+        },
+        {
+          "title": "Kontaktformular sendet PHI an Analytics",
+          "detail": "PII-Scrubber implementiert, GA4-Events bereinigt, Compliance-Log aktualisiert."
+        }
+      ]
+    }
   }
 }

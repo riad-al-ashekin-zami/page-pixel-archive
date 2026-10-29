@@ -27,6 +27,7 @@ export const AUTHOR_INITIALS = "DWD";
 export type Post = {
   slug: string;
   title: string;
+  seoTitle?: string;
   excerpt: string;
   category: Exclude<Category, "All">;
   readTime: number;
@@ -39,7 +40,7 @@ export type Post = {
   featured?: boolean;
   image: string;
   imageAlt: string;
-  body: { heading?: string; text?: string; list?: string[]; quote?: string }[];
+  body: { heading?: string; text?: string; list?: string[]; quote?: string; link?: { to: string; label: string } }[];
   faqs?: { q: string; a: string }[];
 };
 
@@ -567,7 +568,8 @@ export const POSTS: Post[] = [
   },
   {
     slug: "dermatology-marketing-strategies",
-    title: "Dermatology Marketing Strategies: A Practice-Owner's Guide for 2026",
+    title: "Dermatology Marketing Strategies",
+    seoTitle: "Dermatology Marketing Strategies That Bring in Patients",
     excerpt:
       "A field-tested guide to dermatology marketing strategies — Google Business Profile, medical E-E-A-T content, reviews, paid search, and referrals — for solo and multi-location practices.",
     category: "SEO",
@@ -619,7 +621,7 @@ export const POSTS: Post[] = [
       {
         text: "The tactical answer is a review-request automation triggered off your PMS or EHR: a text and email sent 24 hours after every visit, with a one-tap link to Google and secondary links to Healthgrades and Vitals. Add response templates for your front desk so every review — five-star or one-star — gets a personal, HIPAA-safe reply within two business days.",
       },
-      { heading: "4. Use Google Ads to buy your way onto page one while SEO compounds" },
+      { heading: "4. Choose the right acquisition channels" },
       {
         text: "Organic dermatology SEO takes 6–12 months to compound. Google Ads takes 48 hours. Run them together. Target high-intent, service-specific keywords ('mohs surgery Denver,' 'pediatric dermatologist near me,' 'CoolSculpting consultation'), point every ad to a service-specific landing page (never the home page), and track bookings — not clicks — as the primary conversion.",
       },

@@ -1,11 +1,23 @@
 {
   "meta": {
-    "title": "Kontakt",
+    "title": "Kontakt | DWD",
     "description": "Erzählen Sie uns von Ihrer Praxis und Ihrer Website. Wir senden Ihnen innerhalb von 48 Stunden ein kostenloses, personalisiertes Audit mit SEO-, Geschwindigkeits- und Conversion-Chancen.",
-    "ogTitle": "Kontakt",
+    "ogTitle": "Kontakt | DWD",
     "ogDescription": "Erzählen Sie uns von Ihrer Praxis und Ihrer Website. Wir senden Ihnen innerhalb von 48 Stunden ein kostenloses, personalisiertes Audit mit SEO-, Geschwindigkeits- und Conversion-Chancen.",
     "breadcrumbHome": "Startseite",
-    "breadcrumbContact": "Kontakt"
+    "breadcrumbContact": "Kontakt",
+    "og_title": "Kontakt | DWD",
+    "twitter_title": "Kontakt | DWD",
+    "og_description": "Erzählen Sie uns von Ihrer Praxis und Ihrer Website. Wir senden Ihnen innerhalb von 48 Stunden ein kostenloses, personalisiertes Audit mit SEO-, Geschwindigkeits- und Conversion-Chancen.",
+    "twitter_description": "Erzählen Sie uns von Ihrer Praxis und Ihrer Website. Wir senden Ihnen innerhalb von 48 Stunden ein kostenloses, personalisiertes Audit mit SEO-, Geschwindigkeits- und Conversion-Chancen.",
+    "og": {
+      "title": "Kontakt | DWD",
+      "description": "Erzählen Sie uns von Ihrer Praxis und Ihrer Website. Wir senden Ihnen innerhalb von 48 Stunden ein kostenloses, personalisiertes Audit mit SEO-, Geschwindigkeits- und Conversion-Chancen."
+    },
+    "twitter": {
+      "title": "Kontakt | DWD",
+      "description": "Erzählen Sie uns von Ihrer Praxis und Ihrer Website. Wir senden Ihnen innerhalb von 48 Stunden ein kostenloses, personalisiertes Audit mit SEO-, Geschwindigkeits- und Conversion-Chancen."
+    }
   },
   "auditForm": {
     "hero": {
@@ -80,5 +92,6 @@
     "description": "Wir haben Ihre Audit-Anfrage erhalten.",
     "turnaround": "Wir senden Ihr Audit innerhalb von 48 Stunden",
     "backHome": "Zurück zur Startseite"
-  }
+  },
+  "pageHeading": "Kontakt"
 }

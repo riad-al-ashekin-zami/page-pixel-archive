@@ -1,18 +1,36 @@
 {
   "meta": {
-    "title": "Ihotautilääkärien verkkosivusuunnittelu — HIPAA-yhteensopivat kasvualustat",
-    "description": "HIPAA-yhteensopivat verkkosivut, hakukoneoptimointi ja markkinointi ihotautiklinikoille. Maksuton verkkosivuauditointi 24 tunnissa.",
-    "orgDescription": "HIPAA-yhteensopiva verkkosivusuunnittelu, SEO ja kasvumarkkinointi yksityisvastaanotoille ja monitoimipaikkaisille ihotautiklinikoille."
+    "title": "Verkkosivusuunnittelu ihotautiklinikoille ja vastaanotoille | DWD",
+    "description": "Verkkosivusuunnittelu ihotautiklinikoille: nopeat, HIPAA-tietoiset sivustot, jotka auttavat kävijöitä varaamaan ajan.",
+    "orgDescription": "HIPAA-yhteensopiva verkkosivusuunnittelu, SEO ja kasvumarkkinointi yksityisvastaanotoille ja monitoimipaikkaisille ihotautiklinikoille.",
+    "ogTitle": "Verkkosivusuunnittelu ihotautiklinikoille ja vastaanotoille | DWD",
+    "og_title": "Verkkosivusuunnittelu ihotautiklinikoille ja vastaanotoille | DWD",
+    "twitter_title": "Verkkosivusuunnittelu ihotautiklinikoille ja vastaanotoille | DWD",
+    "ogDescription": "Verkkosivusuunnittelu ihotautiklinikoille: nopeat, HIPAA-tietoiset sivustot, jotka auttavat kävijöitä varaamaan ajan.",
+    "og_description": "Verkkosivusuunnittelu ihotautiklinikoille: nopeat, HIPAA-tietoiset sivustot, jotka auttavat kävijöitä varaamaan ajan.",
+    "twitter_description": "Verkkosivusuunnittelu ihotautiklinikoille: nopeat, HIPAA-tietoiset sivustot, jotka auttavat kävijöitä varaamaan ajan.",
+    "og": {
+      "title": "Verkkosivusuunnittelu ihotautiklinikoille ja vastaanotoille | DWD",
+      "description": "Verkkosivusuunnittelu ihotautiklinikoille: nopeat, HIPAA-tietoiset sivustot, jotka auttavat kävijöitä varaamaan ajan."
+    },
+    "twitter": {
+      "title": "Verkkosivusuunnittelu ihotautiklinikoille ja vastaanotoille | DWD",
+      "description": "Verkkosivusuunnittelu ihotautiklinikoille: nopeat, HIPAA-tietoiset sivustot, jotka auttavat kävijöitä varaamaan ajan."
+    }
   },
   "hero": {
     "badge": "HIPAA-yhteensopiva",
     "badgeSecondary": "Konversio-optimoitu",
-    "headline": "Ensiluokkaiset verkkosivut, jotka kasvattavat moderneja",
-    "headlineAccent": "ihotautiklinikoita.",
+    "headline": "Verkkosivusuunnittelu ihotautilääkäreille",
+    "headlineAccent": "",
     "subhead": "Yksilöllisesti suunnitellut ja hakukoneoptimoidut verkkosivut, jotka rakentavat luottamusta, houkuttelevat uusia potilaita ja vauhdittavat klinikkasi kasvua verkossa.",
     "ctaPrimary": "Pyydä tarjous",
     "ctaSecondary": "Tilaa ilmainen auditointi",
-    "heroImageAlt": "Ihotautiklinikan verkkosivuston suunnittelukokonaisuus, jossa näkyvät työpöytä- ja mobiilinäkymät, analytiikka, ajanvaraus ja HIPAA-vaatimustenmukaisuus"
+    "heroImageAlt": "Ihotautiklinikan verkkosivuston suunnittelukokonaisuus, jossa näkyvät työpöytä- ja mobiilinäkymät, analytiikka, ajanvaraus ja HIPAA-vaatimustenmukaisuus",
+    "introParagraphs": [
+      "Ihotautilääkäreiden verkkosivusuunnittelun tulee auttaa potilaita ymmärtämään hoidot, luottamaan klinikkaan ja ottamaan seuraava askel. Rakennamme nopeita, HIPAA-tietoisia sivustoja palvelujenne, tiiminne ja ajanvarauksen ympärille.",
+      "Ihotautiklinikan verkkosivut tarvitsevat enemmän kuin näyttävän etusivun. Selkeät hoitotiedot, saavutettava navigointi ja helppo ajanvaraus tukevat potilasta koko sivustolla."
+    ]
   },
   "stats": {
     "websites": {
@@ -63,5 +81,201 @@
     "auditLink": "tilaamalla ilmainen auditointi nykyisestä sivustostasi",
     "suffix": "."
   },
-  "skip": "Siirry sisältöön"
+  "skip": "Siirry sisältöön",
+  "merged": {
+    "sections": [
+      "Mitä ihotautiklinikoiden verkkosivumme sisältävät",
+      "Miksi ihotautiklinikat valitsevat meidät",
+      "Suunnitteluprosessimme",
+      "Tutustu työhömme",
+      "Kasvata klinikkaasi julkaisun jälkeen",
+      "Hinnoittelu",
+      "Usein kysytyt kysymykset"
+    ],
+    "audience": {
+      "tag": "Kohderyhmä",
+      "title": "Rakennettu kaikenlaisille ihotautialan toimijoille",
+      "description": "Yhden lääkärin vastaanotoista monitoimipisteisiin ja kirurgisiin keskuksiin.",
+      "items": [
+        {
+          "label": "Itsenäiset ihotautilääkärit",
+          "desc": "Korkeatasoiset sivustot, jotka heijastavat kliinistä brändiänne ja tuovat uusia asiakkaita."
+        },
+        {
+          "label": "Monitoimipisteklinikat",
+          "desc": "Skaalautuva rakenne toimipistekohtaisilla sivuilla, henkilöstöllä ja yhteystiedoilla."
+        },
+        {
+          "label": "Pediatrinen dermatologia",
+          "desc": "Lämmin ja vanhemmille suunnattu käyttökokemus selkeillä hoitopoluilla."
+        },
+        {
+          "label": "Mohs- ja kirurginen dermatologia",
+          "desc": "Asiantuntijuutta korostava suunnittelu lähetepotilaita ja suoria yhteydenottoja varten."
+        }
+      ]
+    },
+    "pillars": {
+      "tag": "Miksi valita premium",
+      "title": "Kuusi peruspilaria jokaisessa projektissa",
+      "description": "Muotoilu, tekniikka, SEO ja säädöstenmukaisuus — integroituna saumattomasti heti ensimmäisestä päivästä alkaen.",
+      "items": [
+        {
+          "title": "100 % räätälöity design",
+          "desc": "Ei valmispohjia. Jokainen osio, kuvitus ja interaktio on suunniteltu varta vasten klinikallesi."
+        },
+        {
+          "title": "Lighthouse 95+",
+          "desc": "Huippusuorituskykyiset sivustot: optimoidut kuvavirrat, reunavälimuisti ja kevyt JS-koodi."
+        },
+        {
+          "title": "On-Page SEO",
+          "desc": "Semanttinen HTML, schema-merkinnät ja sisältöarkkitehtuuri paikallisia ja lääketieteellisiä hakuja varten."
+        },
+        {
+          "title": "HIPAA-huomioitu",
+          "desc": "Turvalliset lomakkeet, ei potilastietovuotoja, BAA-valmiit kumppanit ja kattava lokitus."
+        },
+        {
+          "title": "Täysin responsiivinen",
+          "desc": "Pikselintarkka toteutus kaikilla laitteilla. Testattu todellisilla puhelimilla ja tableteilla."
+        },
+        {
+          "title": "Saavutettavuus (WCAG AA)",
+          "desc": "Käytettävissä näppäimistöllä, riittävät kontrastit ja ruudunlukuoptimointi — esteetön kaikille."
+        }
+      ]
+    },
+    "medicalServices": {
+      "tag": "Lääketieteelliset palvelut",
+      "title": "Palvelusivut, jotka löytyvät ja konvertoivat",
+      "description": "Yksilölliset, SEO-optimoidut palvelusivut jokaiselle hoidolle — lääketieteellinen tarkkuus, potilaslähtöinen kieli ja vahvat toimintakehotteet.",
+      "features": [
+        "Lääketieteellisesti tarkastettu sisältörakenne",
+        "Avainsanoihin pohjautuvat H1/H2- ja UKK-osiot",
+        "HIPAA-turvalliset esitieto- ja yhteydenottolomakkeet",
+        "Nopeat, mobiiliedellä rakennetut sivupohjat"
+      ],
+      "list": [
+        "Akneen hoito",
+        "Ekseeman hoito",
+        "Psoriasiksen hoito",
+        "Ihoinfektioiden hoito",
+        "Ihoallergioiden hoito",
+        "Ihosyövän seulonta ja hoito",
+        "Luomien tarkastus ja poisto",
+        "Kystien ja lipoomien poisto",
+        "Syylien poisto",
+        "Kynsioireiden hoito",
+        "Hiustenlähdön hoito",
+        "Hiuspohjan sairauksien hoito",
+        "Rosacean hoito",
+        "Pigmenttimuutokset ja melasma",
+        "Arpien hoito",
+        "Palovamma-arpien hoito",
+        "Vitiligon hoito",
+        "Ihopalojen otot ja diagnostiikka"
+      ]
+    },
+    "process": {
+      "tag": "Prosessimme",
+      "title": "Suoraviivainen, asiantuntijavetoinen prosessi",
+      "description": "Neljä läpinäkyvää vaihetta — ei katoamisia, ei yllätyksiä.",
+      "steps": [
+        {
+          "step": "01",
+          "title": "Kartoitus ja asemointi",
+          "desc": "Klinikan auditointi, potilasprofiilit, kilpailija-analyysi ja konversiotavoitteet."
+        },
+        {
+          "step": "02",
+          "title": "Design-järjestelmä",
+          "desc": "Yksilöllinen typografia, värit, animaatiot ja komponenttikirjasto brändillesi."
+        },
+        {
+          "step": "03",
+          "title": "Toteutus ja SEO",
+          "desc": "Puhdasta koodia, schema-merkinnät ja optimoitu sisältörakenne sijoitusten varmistamiseksi."
+        },
+        {
+          "step": "04",
+          "title": "Julkaisu ja kasvu",
+          "desc": "Analytiikka, konversiotestaus ja jatkuva ylläpito tulosten maksimoimiseksi."
+        }
+      ]
+    },
+    "faqs": [
+      {
+        "q": "Kuinka kauan ihotautiklinikan verkkosivujen tekeminen kestää?",
+        "a": "Tyypillinen aikataulu on 6–10 viikkoa aloituksesta julkaisuun, riippuen sivumäärästä ja sisällön valmiudesta. Etenemme nopeasti selkeiden välitavoitteiden ja viikoittaisten katselmusten avulla."
+      },
+      {
+        "q": "Onko verkkosivusto HIPAA-yhteensopiva?",
+        "a": "Rakennamme sivustot HIPAA-huomioivalla arkkitehtuurilla: salatut lomakkeet, turvallinen hallinnointi BAA-valmiiden kumppanien kanssa ja analytiikka ilman potilastietoja."
+      },
+      {
+        "q": "Omistanko minä designin ja koodin?",
+        "a": "Kyllä. Julkaisun yhteydessä design-tiedostojen, koodin ja sisällön täysi omistusoikeus siirtyy teille. Emme käytä suljettuja järjestelmiä."
+      },
+      {
+        "q": "Mitä on-page SEO sisältää?",
+        "a": "Avainsanoihin perustuvan H1/H2-rakenteen, schema-merkinnät (LocalBusiness, MedicalClinic, FAQ), optimoidut metatiedot, sisäiset linkitykset ja kuvien optimoinnin kaikille sivuille."
+      },
+      {
+        "q": "Tarjoatteko tukea julkaisun jälkeen?",
+        "a": "Kyllä. Ylläpitosuunnitelmamme kattavat päivitykset, tietoturvan, varmuuskopiot, suorituskyvyn seurannan ja kuukausittaiset sisältömuutokset."
+      },
+      {
+        "q": "Kuinka kauan kestää uuden ihotautihoitosivuston julkaiseminen?",
+        "a": "Useimmat projektit julkaistaan 4–6 viikossa – löydöistä julkaisuun. Aikataulut riippuvat sisällön valmiudesta ja laajuudesta, ja jaamme selkeän viikoittaisen tiekartan perehdytyksen aikana."
+      },
+      {
+        "q": "Hoidatteko HIPAA-yhteensopivuutta ja potilaan yksityisyyttä?",
+        "a": "Kyllä. Jokainen rakennus on HIPAA-yhteensopiva: turvallinen isännöinti, salatut lomakkeet, BAA-valmiit integraatiot yhteydenottoa ja potilaan sisäänkirjautumista varten sekä vaatimustenmukaisuustarkastus ennen julkaisua."
+      },
+      {
+        "q": "Auttaako uusi verkkosivustoni todella sijoittumaan Googlessa?",
+        "a": "SEO on suunniteltu alusta alkaen – dermatologiaspesifi skeemamerkintä, palvelu- ja sijaintisivut, Core Web Vitals yli 95 ja sivun sisäinen rakenne, joka on rakennettu ansaitsemaan sijoituksia varauksia ohjaaville hauille."
+      }
+    ],
+    "workDescription": "Tutustu merkittyyn esimerkkitapaukseen ja inspiraatiogalleriaan ennen klinikkasi suunnan valintaa. Esimerkit näyttävät erilaisia potilaspolkuja ja tyylejä; kaikki eivät ole DWD:n asiakasprojekteja.",
+    "growthDescription": "Julkaisun jälkeen voit valita hakunäkyvyyden, kampanjat, sosiaalisen sisällön tai ylläpidon. Jokaisella palvelulla on oma laajuutensa, joten kehität seuraavaa tavoitetta ilman koko sivuston uudistusta.",
+    "features": {
+      "description": "Suunnittelemme selkeät ajanvarauslinkit, suostumukseen perustuvat kuvagalleriat, turvalliset portaaliyhteydet ja puhelimilla toimivat saavutettavat sivut.",
+      "items": [
+        {
+          "title": "Ajanvaraus"
+        },
+        {
+          "title": "Ennen ja jälkeen -galleria"
+        },
+        {
+          "title": "Potilasportaali"
+        },
+        {
+          "title": "Mobiililähtöinen rakenne"
+        },
+        {
+          "title": "Saavutettavuus"
+        },
+        {
+          "title": "Nopea lataus"
+        }
+      ]
+    }
+  },
+  "ownerAnchors": {
+    "design": "verkkosivusuunnittelu ihotautilääkäreille",
+    "examples": "esimerkkejä ihotautiklinikoiden verkkosivuista",
+    "seo": "SEO-palvelut ihotautilääkäreille",
+    "marketing": "ihotautiklinikoiden markkinointistrategiat",
+    "pricing": "ihotautiklinikoiden verkkosivujen hinnat",
+    "ppc": "Ihotautiklinikoiden Google Ads & PPC",
+    "social": "Ihotautiklinikoiden some-markkinointi",
+    "maintenance": "ihotautiklinikoiden verkkosivujen ylläpito ja hallinta",
+    "gallery": "Ennen ja jälkeen -galleria",
+    "portal": "Dermatologian potilasportaali",
+    "process": "prosessimme",
+    "migration": "sivustomigraatio"
+  }
 }

@@ -1,16 +1,34 @@
 {
   "meta": {
-    "title": "Dermatology Website Design | HIPAA-Aware, SEO-Ready Websites",
-    "description": "Dermatology website design agency building HIPAA-aware, SEO-optimized websites for dermatology practices. Transparent pricing. Free audit.",
-    "orgDescription": "Dermatology website design, SEO, and growth marketing for solo and multi-location dermatology practices."
+    "title": "Dermatology Website Design for Clinics & Practices | DWD",
+    "description": "Dermatology website design for clinics and practices: fast, HIPAA-aware websites built to turn visitors into booked patients.",
+    "orgDescription": "Dermatology website design, SEO, and growth marketing for solo and multi-location dermatology practices.",
+    "ogTitle": "Dermatology Website Design for Clinics & Practices | DWD",
+    "og_title": "Dermatology Website Design for Clinics & Practices | DWD",
+    "twitter_title": "Dermatology Website Design for Clinics & Practices | DWD",
+    "ogDescription": "Dermatology website design for clinics and practices: fast, HIPAA-aware websites built to turn visitors into booked patients.",
+    "og_description": "Dermatology website design for clinics and practices: fast, HIPAA-aware websites built to turn visitors into booked patients.",
+    "twitter_description": "Dermatology website design for clinics and practices: fast, HIPAA-aware websites built to turn visitors into booked patients.",
+    "og": {
+      "title": "Dermatology Website Design for Clinics & Practices | DWD",
+      "description": "Dermatology website design for clinics and practices: fast, HIPAA-aware websites built to turn visitors into booked patients."
+    },
+    "twitter": {
+      "title": "Dermatology Website Design for Clinics & Practices | DWD",
+      "description": "Dermatology website design for clinics and practices: fast, HIPAA-aware websites built to turn visitors into booked patients."
+    }
   },
   "hero": {
     "badge": "HIPAA-Aware",
     "badgeSecondary": "Conversion-Focused",
-    "headline": "Dermatology Website Design That",
-    "headlineAccent": "Brings in More Patients",
+    "headline": "Dermatology Website Design",
+    "headlineAccent": "",
     "subhead": "Custom-designed, SEO-optimized websites that build trust, attract new patients, and grow your practice online.",
-    "heroImageAlt": "Websites for dermatologists shown on desktop and mobile with analytics, booking and HIPAA compliance"
+    "heroImageAlt": "Websites for dermatologists shown on desktop and mobile with analytics, booking and HIPAA compliance",
+    "introParagraphs": [
+      "Dermatology website design should make it easy for patients to understand your treatments, trust your practice and choose their next step. We build fast, HIPAA-aware websites around your clinical services, team and booking journey.",
+      "Website design for dermatologists needs more than a polished homepage. Clear treatment information, accessible navigation, helpful photography and an easy route to appointments work together across the whole website."
+    ]
   },
   "stats": {
     "websites": {
@@ -61,5 +79,201 @@
     "auditLink": "a free audit of your current site",
     "suffix": "."
   },
-  "skip": "Skip to content"
+  "skip": "Skip to content",
+  "merged": {
+    "sections": [
+      "What's Included in Our Dermatology Websites",
+      "Why Dermatology Practices Choose Us",
+      "Our Design Process",
+      "See Our Work",
+      "Grow Your Practice After Launch",
+      "Pricing",
+      "Frequently Asked Questions"
+    ],
+    "audience": {
+      "tag": "Target Audience",
+      "title": "Built for every kind of dermatology practice",
+      "description": "From single-provider clinics to multi-location surgical groups.",
+      "items": [
+        {
+          "label": "Solo Dermatologists",
+          "desc": "Boutique sites that reflect your clinical brand and fill your schedule."
+        },
+        {
+          "label": "Multi-location Clinics",
+          "desc": "Scalable IA with per-location pages, staff, hours, and directions."
+        },
+        {
+          "label": "Pediatric Dermatology",
+          "desc": "Warm, parent-friendly UX with clear intake and guardian workflows."
+        },
+        {
+          "label": "Mohs & Surgical Dermatology",
+          "desc": "Authority-first design for referring physicians and self-referrals."
+        }
+      ]
+    },
+    "pillars": {
+      "tag": "What Makes It Premium",
+      "title": "Six non-negotiables in every build",
+      "description": "Design, engineering, SEO, and compliance — engineered together from day one.",
+      "items": [
+        {
+          "title": "100% Custom Design",
+          "desc": "No templates. Every section, illustration, and interaction is designed for your clinic."
+        },
+        {
+          "title": "Lighthouse 95+",
+          "desc": "Performance-obsessed builds — image pipelines, edge caching, and lean JS."
+        },
+        {
+          "title": "On-Page SEO",
+          "desc": "Semantic HTML, schema, internal links, and content architecture for local + medical queries."
+        },
+        {
+          "title": "HIPAA-Aware",
+          "desc": "Secure forms, no PHI leaks, audit-friendly stack, BAA-ready partners."
+        },
+        {
+          "title": "Fully Responsive",
+          "desc": "Pixel-perfect on desktop, laptop, tablet, and mobile. Real-device tested."
+        },
+        {
+          "title": "Accessibility (WCAG AA)",
+          "desc": "Keyboard-first, contrast-safe, screen-reader labeled — inclusive by default."
+        }
+      ]
+    },
+    "medicalServices": {
+      "tag": "Medical Services Coverage",
+      "title": "Service pages designed to rank & convert",
+      "description": "Individual, SEO-optimized service pages for every treatment your practice offers — with medical accuracy, patient-friendly explanations, structured data, and strong CTAs.",
+      "features": [
+        "Medically reviewed content structure",
+        "Keyword-mapped H1 / H2 / FAQ sections",
+        "HIPAA-aware intake & consult forms",
+        "Fast, indexable, mobile-first templates"
+      ],
+      "list": [
+        "Acne Treatment",
+        "Eczema Treatment",
+        "Psoriasis Treatment",
+        "Skin Infection Treatment",
+        "Skin Allergy Treatment",
+        "Skin Cancer Screening & Treatment",
+        "Mole Evaluation & Removal",
+        "Cyst & Lipoma Removal",
+        "Wart Removal",
+        "Nail Disorder Treatment",
+        "Hair Loss Treatment",
+        "Scalp Disorder Treatment",
+        "Rosacea Treatment",
+        "Hyperpigmentation & Melasma",
+        "Scar Treatment",
+        "Burn Scar Treatment",
+        "Vitiligo Treatment",
+        "Skin Biopsy & Diagnostics"
+      ]
+    },
+    "process": {
+      "tag": "Our Process",
+      "title": "A calm, senior-led process",
+      "description": "Four transparent phases — no ghosting, no surprises.",
+      "steps": [
+        {
+          "step": "01",
+          "title": "Discovery & Positioning",
+          "desc": "Practice audit, patient personas, competitor teardown, and conversion goals."
+        },
+        {
+          "step": "02",
+          "title": "Design System",
+          "desc": "Custom typography, palette, motion, and component library — unique to your brand."
+        },
+        {
+          "step": "03",
+          "title": "Build & SEO",
+          "desc": "Hand-coded, schema-marked, image-optimized, and content-structured for rankings."
+        },
+        {
+          "step": "04",
+          "title": "Launch & Growth",
+          "desc": "Analytics, CRO experiments, and care plan to compound results month over month."
+        }
+      ]
+    },
+    "faqs": [
+      {
+        "q": "How long does a custom practice website take?",
+        "a": "Typical timeline is 4 to 6 weeks from kickoff to launch, depending on page count and content readiness. We move faster with structured milestones and weekly reviews."
+      },
+      {
+        "q": "Is the website HIPAA-compliant?",
+        "a": "We build with HIPAA-aware architecture — encrypted forms, secure hosting with BAA-ready partners, no PHI in analytics, and audit trails on submissions."
+      },
+      {
+        "q": "Do I own the design and code?",
+        "a": "Yes. On launch, full ownership of design files, code, and content transfers to you. No lock-in, no proprietary CMS."
+      },
+      {
+        "q": "What's included in on-page SEO?",
+        "a": "Keyword-mapped H1/H2 structure, schema markup (LocalBusiness, MedicalClinic, FAQ), optimized meta, internal linking, and image alt/optimization across every page."
+      },
+      {
+        "q": "Do you offer ongoing support after launch?",
+        "a": "Yes. Our Website Care plans cover updates, security, backups, uptime monitoring, performance tuning, and monthly content edits."
+      },
+      {
+        "q": "How long does it take to launch a new practice site?",
+        "a": "Most projects go live in 4–6 weeks — from discovery to launch. Timelines depend on content readiness and scope, and we share a clear week-by-week roadmap during onboarding."
+      },
+      {
+        "q": "Do you handle HIPAA compliance and patient privacy?",
+        "a": "Yes. Every build is HIPAA-aware: secure hosting, encrypted forms, BAA-ready integrations for contact and intake, and a compliance review before launch."
+      },
+      {
+        "q": "Will my new website actually help me rank on Google?",
+        "a": "SEO is engineered in from day one — dermatology-specific schema, service and location pages, Core Web Vitals of 95+, and an on-page structure built to earn rankings for the searches that drive bookings."
+      }
+    ],
+    "workDescription": "Explore the labelled sample and the industry inspiration gallery before choosing a direction for your practice. The examples show different patient journeys, service structures and visual approaches; they are not all DWD client projects.",
+    "growthDescription": "After launch, choose the support that fits your practice: search visibility, paid campaigns, social content or ongoing website care. Each service has its own scope, so your team can improve the next priority without rebuilding the whole site.",
+    "features": {
+      "description": "Patient booking should fit the way your practice works. We plan clear appointment links, consent-aware photo galleries, secure portal connections and accessible pages that perform well on phones.",
+      "items": [
+        {
+          "title": "Online booking"
+        },
+        {
+          "title": "Before/after gallery"
+        },
+        {
+          "title": "Patient portal"
+        },
+        {
+          "title": "Mobile-first layout"
+        },
+        {
+          "title": "Accessibility"
+        },
+        {
+          "title": "Fast loading"
+        }
+      ]
+    }
+  },
+  "ownerAnchors": {
+    "design": "dermatology website design",
+    "examples": "dermatology website examples",
+    "seo": "dermatology SEO",
+    "marketing": "dermatology marketing strategies",
+    "pricing": "dermatology website pricing",
+    "ppc": "Google Ads for dermatologists",
+    "social": "dermatology social media",
+    "maintenance": "website maintenance and hosting",
+    "gallery": "before/after gallery",
+    "portal": "patient portal",
+    "process": "our full process",
+    "migration": "website migration"
+  }
 }

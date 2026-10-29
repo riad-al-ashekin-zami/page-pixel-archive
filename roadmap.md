@@ -1,5 +1,14 @@
 # Roadmap — Formspree audit integration
 
+## Keyword ownership consolidation (October 2026)
+
+- [ ] Apply the newly approved brief across all existing languages, preserving the visual design.
+- [ ] Consolidate design, local SEO, and maintenance pages with permanent redirects and update internal links.
+- [ ] Update localized metadata, headings, content, and matching FAQ data.
+- [ ] Replace the old 13-URL limit with all public indexable pages; exclude About, legal, redirected and private pages.
+- [ ] Restore `/sitemap.xml`, align hreflang, robots and canonicals, and test first-render metadata and redirects.
+- [ ] Provide the requested page-by-page report and distinguish preview verification from live deployment.
+
 ## Sitewide browser icon
 
 - [x] Match the conventional fallback icon and sitemap icon to the homepage brand icon; keep robots.txt plain text and sitemap machine-readable.

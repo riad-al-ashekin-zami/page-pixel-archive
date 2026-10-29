@@ -1,11 +1,23 @@
 {
   "meta": {
-    "title": "Ota yhteyttä",
+    "title": "Ota yhteyttä | DWD",
     "description": "Kerro meille käytännöstäsi ja verkkosivustostasi. Lähetämme ilmaisen, henkilökohtaisen auditoinnin SEO-, nopeus- ja konversiomahdollisuuksineen 48 tunnissa.",
-    "ogTitle": "Ota yhteyttä",
+    "ogTitle": "Ota yhteyttä | DWD",
     "ogDescription": "Kerro meille käytännöstäsi ja verkkosivustostasi. Lähetämme ilmaisen, henkilökohtaisen auditoinnin SEO-, nopeus- ja konversiomahdollisuuksineen 48 tunnissa.",
     "breadcrumbHome": "Etusivu",
-    "breadcrumbContact": "Ota yhteyttä"
+    "breadcrumbContact": "Ota yhteyttä",
+    "og_title": "Ota yhteyttä | DWD",
+    "twitter_title": "Ota yhteyttä | DWD",
+    "og_description": "Kerro meille käytännöstäsi ja verkkosivustostasi. Lähetämme ilmaisen, henkilökohtaisen auditoinnin SEO-, nopeus- ja konversiomahdollisuuksineen 48 tunnissa.",
+    "twitter_description": "Kerro meille käytännöstäsi ja verkkosivustostasi. Lähetämme ilmaisen, henkilökohtaisen auditoinnin SEO-, nopeus- ja konversiomahdollisuuksineen 48 tunnissa.",
+    "og": {
+      "title": "Ota yhteyttä | DWD",
+      "description": "Kerro meille käytännöstäsi ja verkkosivustostasi. Lähetämme ilmaisen, henkilökohtaisen auditoinnin SEO-, nopeus- ja konversiomahdollisuuksineen 48 tunnissa."
+    },
+    "twitter": {
+      "title": "Ota yhteyttä | DWD",
+      "description": "Kerro meille käytännöstäsi ja verkkosivustostasi. Lähetämme ilmaisen, henkilökohtaisen auditoinnin SEO-, nopeus- ja konversiomahdollisuuksineen 48 tunnissa."
+    }
   },
   "auditForm": {
     "hero": {
@@ -80,5 +92,6 @@
     "description": "Olemme vastaanottaneet auditointipyyntösi.",
     "turnaround": "Lähetämme auditointisi 48 tunnin kuluessa",
     "backHome": "Takaisin etusivulle"
-  }
+  },
+  "pageHeading": "Ota yhteyttä"
 }

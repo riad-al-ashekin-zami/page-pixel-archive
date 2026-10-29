@@ -1,10 +1,10 @@
 {
   "meta": {
-    "title": "Ceník webů pro dermatologii — Plány, balíčky a transparentní náklady",
+    "title": "Ceny dermatologických webů | DWD",
     "description": "Transparentní ceník webů pro dermatology. Jednorázová tvorba od 797 do 18 999 USD+, měsíční balíčky od 399 USD a individuální doplňky. Zjistěte přesně, kolik zaplatíte, než nás kontaktujete.",
     "og": {
-      "title": "Ceník webů pro dermatologii — Plány, balíčky a náklady",
-      "description": "Šest webových balíčků, tři speciální řešení, čtyři měsíční balíčky a více než 20 doplňků — s kalkulačkou nákladů v reálném čase. Zcela transparentní ceny."
+      "title": "Ceny dermatologických webů | DWD",
+      "description": "Transparentní ceník webů pro dermatology. Jednorázová tvorba od 797 do 18 999 USD+, měsíční balíčky od 399 USD a individuální doplňky. Zjistěte přesně, kolik zaplatíte, než nás kontaktujete."
     },
     "jsonLd": {
       "breadcrumb": {
@@ -14,11 +14,21 @@
       "priceSpec": {
         "name": "Webové balíčky pro dermatologii"
       }
+    },
+    "ogTitle": "Ceny dermatologických webů | DWD",
+    "og_title": "Ceny dermatologických webů | DWD",
+    "twitter_title": "Ceny dermatologických webů | DWD",
+    "ogDescription": "Transparentní ceník webů pro dermatology. Jednorázová tvorba od 797 do 18 999 USD+, měsíční balíčky od 399 USD a individuální doplňky. Zjistěte přesně, kolik zaplatíte, než nás kontaktujete.",
+    "og_description": "Transparentní ceník webů pro dermatology. Jednorázová tvorba od 797 do 18 999 USD+, měsíční balíčky od 399 USD a individuální doplňky. Zjistěte přesně, kolik zaplatíte, než nás kontaktujete.",
+    "twitter_description": "Transparentní ceník webů pro dermatology. Jednorázová tvorba od 797 do 18 999 USD+, měsíční balíčky od 399 USD a individuální doplňky. Zjistěte přesně, kolik zaplatíte, než nás kontaktujete.",
+    "twitter": {
+      "title": "Ceny dermatologických webů | DWD",
+      "description": "Transparentní ceník webů pro dermatology. Jednorázová tvorba od 797 do 18 999 USD+, měsíční balíčky od 399 USD a individuální doplňky. Zjistěte přesně, kolik zaplatíte, než nás kontaktujete."
     }
   },
   "hero": {
     "badge": "Transparentní ceny",
-    "heading": "Všechny ceny přehledně. Žádné překvapivé faktury.",
+    "heading": "Ceny dermatologických webů",
     "description": "Šest jednorázových webových balíčků, tři speciální řešení, čtyři měsíční balíčky a více než 20 doplňků — s kalkulačkou nákladů, abyste znali výslednou částku dříve, než s námi promluvíte.",
     "cta": "Zobrazit webové balíčky",
     "estimatorCta": "Kalkulačka nákladů"

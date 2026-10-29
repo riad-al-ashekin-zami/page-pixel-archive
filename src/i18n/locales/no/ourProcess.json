@@ -1,9 +1,21 @@
 {
   "meta": {
-    "title": "Vår prosess — 7 steg til ny nettside for hudleger | Kartlegging → Lansering → Vekst",
+    "title": "Vår prosess | DWD",
     "description": "Vår 7-trinns prosess for å bygge nettsider innen dermatologi: Kartlegging, SEO-revisjon, design, innhold, utvikling, lansering og vekst. Faste tidsrammer, ukentlig oppfølging, HIPAA-fokus og garantert Lighthouse 95+.",
-    "ogTitle": "Vår prosess — 7 steg fra oppstart til vekst",
-    "ogDescription": "En transparent prosess med faste tidsrammer for design og SEO av hudlege-nettsider. Se nøyaktig hva som skjer uke for uke — fra kartlegging til kontinuerlig vekst."
+    "ogTitle": "Vår prosess | DWD",
+    "ogDescription": "Vår 7-trinns prosess for å bygge nettsider innen dermatologi: Kartlegging, SEO-revisjon, design, innhold, utvikling, lansering og vekst. Faste tidsrammer, ukentlig oppfølging, HIPAA-fokus og garantert Lighthouse 95+.",
+    "og_title": "Vår prosess | DWD",
+    "twitter_title": "Vår prosess | DWD",
+    "og_description": "Vår 7-trinns prosess for å bygge nettsider innen dermatologi: Kartlegging, SEO-revisjon, design, innhold, utvikling, lansering og vekst. Faste tidsrammer, ukentlig oppfølging, HIPAA-fokus og garantert Lighthouse 95+.",
+    "twitter_description": "Vår 7-trinns prosess for å bygge nettsider innen dermatologi: Kartlegging, SEO-revisjon, design, innhold, utvikling, lansering og vekst. Faste tidsrammer, ukentlig oppfølging, HIPAA-fokus og garantert Lighthouse 95+.",
+    "og": {
+      "title": "Vår prosess | DWD",
+      "description": "Vår 7-trinns prosess for å bygge nettsider innen dermatologi: Kartlegging, SEO-revisjon, design, innhold, utvikling, lansering og vekst. Faste tidsrammer, ukentlig oppfølging, HIPAA-fokus og garantert Lighthouse 95+."
+    },
+    "twitter": {
+      "title": "Vår prosess | DWD",
+      "description": "Vår 7-trinns prosess for å bygge nettsider innen dermatologi: Kartlegging, SEO-revisjon, design, innhold, utvikling, lansering og vekst. Faste tidsrammer, ukentlig oppfølging, HIPAA-fokus og garantert Lighthouse 95+."
+    }
   },
   "jsonLd": {
     "breadcrumb": {
@@ -17,8 +29,8 @@
   },
   "hero": {
     "badge": "Vår prosess",
-    "title": "Fra første samtale til pasientens første booking — ",
-    "titleHighlight": "et 7-trinns prosjekt med faste tidsrammer.",
+    "title": "Vår prosess",
+    "titleHighlight": "",
     "description": "Ingen mysterier, ingen uventede utvidelser av omfang, og ingen overraskende timepriser. Hvert steg har en skriftlig leveranse, en ansvarlig og en tidsfrist — slik at du alltid vet hva som skjer denne uken og hva som kommer neste uke.",
     "buttons": {
       "seeSteps": "Se de 7 stegene",

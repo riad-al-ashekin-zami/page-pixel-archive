@@ -1,20 +1,30 @@
 {
   "meta": {
-    "title": "E-shop pro dermatology | Design webů pro prodej dermokosmetiky s ohledem na HIPAA",
+    "title": "Ecommerce weby dermatologických klinik | DWD",
     "description": "Prémiový design e-shopů pro dermatology. HIPAA-aware správa Rx + OTC produktů, předplatné, sady schválené lékařem a SEO s Product-schema. Pro dermatologické praxe, kliniky a sítě lékařských zařízení.",
     "og": {
-      "title": "E-shop pro dermatology | Design webů pro prodej dermokosmetiky s ohledem na HIPAA",
-      "description": "Prodávejte medicínskou kosmetiku, schvalujte Rx produkty jako lékař, spouštějte předplatné a ovládejte vyhledávání díky produktovým stránkám – vše pod jednou střechou vaší značky."
+      "title": "Ecommerce weby dermatologických klinik | DWD",
+      "description": "Prémiový design e-shopů pro dermatology. HIPAA-aware správa Rx + OTC produktů, předplatné, sady schválené lékařem a SEO s Product-schema. Pro dermatologické praxe, kliniky a sítě lékařských zařízení."
     },
     "jsonLd": {
       "serviceType": "Design e-shopů pro dermatology",
       "name": "DW Design",
       "offerDescription": "Tvorba e-shopu pro dermatology – cena od"
+    },
+    "ogTitle": "Ecommerce weby dermatologických klinik | DWD",
+    "og_title": "Ecommerce weby dermatologických klinik | DWD",
+    "twitter_title": "Ecommerce weby dermatologických klinik | DWD",
+    "ogDescription": "Prémiový design e-shopů pro dermatology. HIPAA-aware správa Rx + OTC produktů, předplatné, sady schválené lékařem a SEO s Product-schema. Pro dermatologické praxe, kliniky a sítě lékařských zařízení.",
+    "og_description": "Prémiový design e-shopů pro dermatology. HIPAA-aware správa Rx + OTC produktů, předplatné, sady schválené lékařem a SEO s Product-schema. Pro dermatologické praxe, kliniky a sítě lékařských zařízení.",
+    "twitter_description": "Prémiový design e-shopů pro dermatology. HIPAA-aware správa Rx + OTC produktů, předplatné, sady schválené lékařem a SEO s Product-schema. Pro dermatologické praxe, kliniky a sítě lékařských zařízení.",
+    "twitter": {
+      "title": "Ecommerce weby dermatologických klinik | DWD",
+      "description": "Prémiový design e-shopů pro dermatology. HIPAA-aware správa Rx + OTC produktů, předplatné, sady schválené lékařem a SEO s Product-schema. Pro dermatologické praxe, kliniky a sítě lékařských zařízení."
     }
   },
   "hero": {
     "badge": "HIPAA-Aware · Připraveno pro Rx · Expert na předplatné",
-    "title": "Design e-shopů pro dermatology, kteří chtějí skutečně prodávat.",
+    "title": "Ecommerce weby dermatologických klinik",
     "description": "E-shop, který si vaše klinika zaslouží. Správné rozdělení Rx a OTC, sady doporučené lékařem přímo v košíku, předplatné, které pacienti neodhlásí – a SEO s Product-schema, na které běžné informační stránky nikdy nedosáhnou.",
     "cta": {
       "plan": "Naplánovat e-shop",

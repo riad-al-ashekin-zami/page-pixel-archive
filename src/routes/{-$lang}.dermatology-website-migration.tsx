@@ -1,3 +1,4 @@
+import { finalizeSeoHead } from "@/lib/seo-head";
 import { createFileRoute, notFound } from "@tanstack/react-router";
 import { LocalLink as Link } from "@/components/local-link";
 import { CtaLabel } from "@/lib/cta";
@@ -59,7 +60,7 @@ export const Route = createFileRoute("/{-$lang}/dermatology-website-migration")(
     stringify: (parsed: { lang?: string }) => ({ lang: parsed.lang ?? "" }),
   },
 
-  head: ({ params }) => {
+  head: (args) => finalizeSeoHead((({ params }: typeof args) => {
     const { lang } = params;
     const st = getStaticTranslation(lang, "migration");
     return {
@@ -117,7 +118,7 @@ export const Route = createFileRoute("/{-$lang}/dermatology-website-migration")(
         },
       ],
     };
-  },
+  })(args), args.params.lang, "/dermatology-website-migration"),
   component: DermMigrationPage,
 });
 

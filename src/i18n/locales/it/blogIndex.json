@@ -1,15 +1,14 @@
 {
   "meta": {
-    "title": "Blog — Strategie di Marketing per la Dermatologia e Manuali di Crescita",
+    "title": "Blog | DWD",
     "description": "Strategie pratiche su SEO per dermatologia, web design, acquisizione pazienti, HIPAA, recensioni e campagne pay-per-click — scritte per studi orientati alla crescita.",
-    "keywords": "blog dermatologia, SEO dermatologia, marketing dermatologico, crescita studio medico, siti web HIPAA",
     "og": {
-      "title": "Blog di Marketing Dermatologico — Strategie per far Crescere il tuo Studio",
-      "description": "Approfondimenti e tattiche rapide per studi dermatologici. SEO, design, advertising, reputazione ed esperienza del paziente."
+      "title": "Blog | DWD",
+      "description": "Strategie pratiche su SEO per dermatologia, web design, acquisizione pazienti, HIPAA, recensioni e campagne pay-per-click — scritte per studi orientati alla crescita."
     },
     "twitter": {
-      "title": "Blog di Marketing per la Dermatologia",
-      "description": "Manuali operativi su SEO, design, ads ed esperienza del paziente per studi dermatologici."
+      "title": "Blog | DWD",
+      "description": "Strategie pratiche su SEO per dermatologia, web design, acquisizione pazienti, HIPAA, recensioni e campagne pay-per-click — scritte per studi orientati alla crescita."
     },
     "jsonLd": {
       "breadcrumb": {
@@ -20,12 +19,18 @@
         "name": "Blog di Marketing Dermatologico",
         "description": "Approfondimenti e manuali su SEO per dermatologia, web design, ads, reputazione e nuovi pazienti."
       }
-    }
+    },
+    "ogTitle": "Blog | DWD",
+    "og_title": "Blog | DWD",
+    "twitter_title": "Blog | DWD",
+    "ogDescription": "Strategie pratiche su SEO per dermatologia, web design, acquisizione pazienti, HIPAA, recensioni e campagne pay-per-click — scritte per studi orientati alla crescita.",
+    "og_description": "Strategie pratiche su SEO per dermatologia, web design, acquisizione pazienti, HIPAA, recensioni e campagne pay-per-click — scritte per studi orientati alla crescita.",
+    "twitter_description": "Strategie pratiche su SEO per dermatologia, web design, acquisizione pazienti, HIPAA, recensioni e campagne pay-per-click — scritte per studi orientati alla crescita."
   },
   "hero": {
     "badge": "Il Diario di DermGrowth",
-    "title": "Strategie pratiche per lo studio dermatologico moderno.",
-    "description": "Tattiche testate sul campo per SEO, web design, campagne ads, reputazione e accoglienza del paziente — a cura del team che ha lanciato centinaia di studi.",
+    "title": "Blog",
+    "description": "Strategie pratiche su SEO per dermatologia, web design, acquisizione pazienti, HIPAA, recensioni e campagne pay-per-click — scritte per studi orientati alla crescita.",
     "search": {
       "label": "Cerca articoli",
       "placeholder": "Cerca SEO, ads, HIPAA, redesign…",

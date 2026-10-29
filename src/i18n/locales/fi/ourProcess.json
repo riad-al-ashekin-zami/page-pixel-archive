@@ -1,9 +1,21 @@
 {
   "meta": {
-    "title": "Prosessimme — ihotautiklinikan verkkosivujen 7 vaihetta | Suunnittelu → Julkaisu → Kasvu",
+    "title": "Prosessimme | DWD",
     "description": "7-vaiheinen prosessimme ihotautiklinikoiden verkkosivuille: strategiatyö, SEO-auditointi, design, sisältö, kehitys, julkaisu ja kasvu. Kiinteät aikataulut, HIPAA-valmius ja Lighthouse 95+ takuu.",
-    "ogTitle": "Prosessimme — 7 askelta aloituksesta hallittuun kasvuun",
-    "ogDescription": "Läpinäkyvä ja aikataulutettu prosessi ihotautiklinikoiden verkkosivusuunnitteluun ja hakukoneoptimointiin. Katso miten etenemme viikko viikolta."
+    "ogTitle": "Prosessimme | DWD",
+    "ogDescription": "7-vaiheinen prosessimme ihotautiklinikoiden verkkosivuille: strategiatyö, SEO-auditointi, design, sisältö, kehitys, julkaisu ja kasvu. Kiinteät aikataulut, HIPAA-valmius ja Lighthouse 95+ takuu.",
+    "og_title": "Prosessimme | DWD",
+    "twitter_title": "Prosessimme | DWD",
+    "og_description": "7-vaiheinen prosessimme ihotautiklinikoiden verkkosivuille: strategiatyö, SEO-auditointi, design, sisältö, kehitys, julkaisu ja kasvu. Kiinteät aikataulut, HIPAA-valmius ja Lighthouse 95+ takuu.",
+    "twitter_description": "7-vaiheinen prosessimme ihotautiklinikoiden verkkosivuille: strategiatyö, SEO-auditointi, design, sisältö, kehitys, julkaisu ja kasvu. Kiinteät aikataulut, HIPAA-valmius ja Lighthouse 95+ takuu.",
+    "og": {
+      "title": "Prosessimme | DWD",
+      "description": "7-vaiheinen prosessimme ihotautiklinikoiden verkkosivuille: strategiatyö, SEO-auditointi, design, sisältö, kehitys, julkaisu ja kasvu. Kiinteät aikataulut, HIPAA-valmius ja Lighthouse 95+ takuu."
+    },
+    "twitter": {
+      "title": "Prosessimme | DWD",
+      "description": "7-vaiheinen prosessimme ihotautiklinikoiden verkkosivuille: strategiatyö, SEO-auditointi, design, sisältö, kehitys, julkaisu ja kasvu. Kiinteät aikataulut, HIPAA-valmius ja Lighthouse 95+ takuu."
+    }
   },
   "jsonLd": {
     "breadcrumb": {
@@ -17,8 +29,8 @@
   },
   "hero": {
     "badge": "Prosessimme",
-    "title": "Ensimmäisestä puhelusta ensimmäiseen potilasvaraukseen — ",
-    "titleHighlight": "7-vaiheinen projekti kiinteällä aikataululla.",
+    "title": "Prosessimme",
+    "titleHighlight": "",
     "description": "Ei hämäryyttä, ei paisuvia kuluja, ei tuntihintaisia yllätyksiä. Jokaisella vaiheella on selkeä tuotos, vastuuhenkilö ja takaraja – tiedät aina mitä tällä viikolla tapahtuu.",
     "buttons": {
       "seeSteps": "Tutustu vaiheisiin",

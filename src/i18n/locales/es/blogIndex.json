@@ -1,15 +1,14 @@
 {
   "meta": {
-    "title": "Blog — Claves de Marketing Dermatológico y Estrategias de Crecimiento",
+    "title": "Blog | DWD",
     "description": "Guías prácticas sobre SEO para dermatología, diseño web, captación de pacientes, HIPAA, reseñas y publicidad pagada — diseñadas para clínicas con visión de crecimiento.",
-    "keywords": "blog de dermatología, SEO para dermatología, marketing dermatológico, crecimiento de clínicas, sitios web HIPAA",
     "og": {
-      "title": "Blog de Marketing Dermatológico — Guías para el Crecimiento de Clínicas",
-      "description": "Artículos a fondo y tácticas rápidas para clínicas dermatológicas. SEO, diseño, publicidad, reputación y experiencia del paciente."
+      "title": "Blog | DWD",
+      "description": "Guías prácticas sobre SEO para dermatología, diseño web, captación de pacientes, HIPAA, reseñas y publicidad pagada — diseñadas para clínicas con visión de crecimiento."
     },
     "twitter": {
-      "title": "Blog de Marketing Dermatológico",
-      "description": "Estrategias de SEO, diseño, publicidad y experiencia del paciente para clínicas de dermatología."
+      "title": "Blog | DWD",
+      "description": "Guías prácticas sobre SEO para dermatología, diseño web, captación de pacientes, HIPAA, reseñas y publicidad pagada — diseñadas para clínicas con visión de crecimiento."
     },
     "jsonLd": {
       "breadcrumb": {
@@ -20,12 +19,18 @@
         "name": "Blog de Marketing Dermatológico",
         "description": "Guías y análisis sobre SEO para dermatología, diseño web, publicidad, reputación y captación de pacientes."
       }
-    }
+    },
+    "ogTitle": "Blog | DWD",
+    "og_title": "Blog | DWD",
+    "twitter_title": "Blog | DWD",
+    "ogDescription": "Guías prácticas sobre SEO para dermatología, diseño web, captación de pacientes, HIPAA, reseñas y publicidad pagada — diseñadas para clínicas con visión de crecimiento.",
+    "og_description": "Guías prácticas sobre SEO para dermatología, diseño web, captación de pacientes, HIPAA, reseñas y publicidad pagada — diseñadas para clínicas con visión de crecimiento.",
+    "twitter_description": "Guías prácticas sobre SEO para dermatología, diseño web, captación de pacientes, HIPAA, reseñas y publicidad pagada — diseñadas para clínicas con visión de crecimiento."
   },
   "hero": {
     "badge": "The DermGrowth Journal",
-    "title": "Estrategias para la clínica dermatológica moderna.",
-    "description": "Tácticas probadas en SEO, diseño web, pauta digital, reputación y experiencia del paciente — escritas por el equipo responsable de cientos de lanzamientos de clínicas.",
+    "title": "Blog",
+    "description": "Guías prácticas sobre SEO para dermatología, diseño web, captación de pacientes, HIPAA, reseñas y publicidad pagada — diseñadas para clínicas con visión de crecimiento.",
     "search": {
       "label": "Buscar artículos",
       "placeholder": "Buscar SEO, anuncios, HIPAA, rediseño...",

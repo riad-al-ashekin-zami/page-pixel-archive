@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "Design och utveckling av patientportaler för dermatologi | HIPAA-kompatibel",
+    "title": "Design och utveckling av patientportaler för dermatologi | DWD",
     "description": "Skräddarsydd HIPAA-kompatibel patientportal för hudläkare: tidsbokning online, säkra meddelanden, teledermatologi, e-blanketter, betallösningar och EHR-integration. Utvecklad för kliniker inom solopraxis, flertalet orter, pediatrik och Mohs-kirurgi.",
-    "og_title": "Design och utveckling av patientportaler för dermatologi",
-    "og_description": "HIPAA-anpassade patientportaler skapade för dermatologiska kliniker – bokning, meddelanden, teledermatologi, digitalt intag och EHR-integration.",
-    "twitter_title": "Design och utveckling av patientportaler för dermatologi",
-    "twitter_description": "HIPAA-anpassade patientportaler skapade för dermatologiska kliniker.",
+    "og_title": "Design och utveckling av patientportaler för dermatologi | DWD",
+    "og_description": "Skräddarsydd HIPAA-kompatibel patientportal för hudläkare: tidsbokning online, säkra meddelanden, teledermatologi, e-blanketter, betallösningar och EHR-integration. Utvecklad för kliniker inom solopraxis, flertalet orter, pediatrik och Mohs-kirurgi.",
+    "twitter_title": "Design och utveckling av patientportaler för dermatologi | DWD",
+    "twitter_description": "Skräddarsydd HIPAA-kompatibel patientportal för hudläkare: tidsbokning online, säkra meddelanden, teledermatologi, e-blanketter, betallösningar och EHR-integration. Utvecklad för kliniker inom solopraxis, flertalet orter, pediatrik och Mohs-kirurgi.",
     "jsonLd": {
       "serviceType": "Dermatology Patient Portal Design & Development",
       "provider": "DermatologyWebsiteDesign.com",
@@ -14,6 +14,16 @@
       "breadcrumb_home": "Hem",
       "breadcrumb_services": "Tjänster",
       "breadcrumb_portal": "Patientportal"
+    },
+    "ogTitle": "Design och utveckling av patientportaler för dermatologi | DWD",
+    "ogDescription": "Skräddarsydd HIPAA-kompatibel patientportal för hudläkare: tidsbokning online, säkra meddelanden, teledermatologi, e-blanketter, betallösningar och EHR-integration. Utvecklad för kliniker inom solopraxis, flertalet orter, pediatrik och Mohs-kirurgi.",
+    "og": {
+      "title": "Design och utveckling av patientportaler för dermatologi | DWD",
+      "description": "Skräddarsydd HIPAA-kompatibel patientportal för hudläkare: tidsbokning online, säkra meddelanden, teledermatologi, e-blanketter, betallösningar och EHR-integration. Utvecklad för kliniker inom solopraxis, flertalet orter, pediatrik och Mohs-kirurgi."
+    },
+    "twitter": {
+      "title": "Design och utveckling av patientportaler för dermatologi | DWD",
+      "description": "Skräddarsydd HIPAA-kompatibel patientportal för hudläkare: tidsbokning online, säkra meddelanden, teledermatologi, e-blanketter, betallösningar och EHR-integration. Utvecklad för kliniker inom solopraxis, flertalet orter, pediatrik och Mohs-kirurgi."
     }
   },
   "hero": {

@@ -1,6 +1,6 @@
 {
   "slug": "dermatology-marketing-strategies",
-  "title": "Dermatologian markkinointistrategiat: Klinikan omistajan opas vuodelle 2026",
+  "title": "Ihotautiklinikoiden markkinointistrategiat",
   "excerpt": "Käytännönläheinen opas dermatologian markkinointistrategioihin – Google Business Profile, lääketieteellinen E-E-A-T-sisältö, arvostelut, maksettu haku ja lähetteet – yksityisille ja useamman toimipisteen klinikoille.",
   "imageAlt": "Ihotautilääkäri tarkastelee markkinointianalytiikkaa tabletilla modernilla klinikalla",
   "body": [
@@ -29,16 +29,16 @@
       "text": "Klinikat, jotka kohtelevat GBP:tä elävänä voimavarana, ohittavat ne, jotka kohtelevat sitä hakemistolistana. Se on aidosti niin yksinkertaista."
     },
     {
-      "heading": "2. Rakenna sisältöä lääketieteellisen E-E-A-T:n, ei avainsanan volyymin ympärille"
+      "heading": "2. Jokainen sairaus. Jokainen toimenpide. Jokainen tarve."
     },
     {
-      "text": "Dermatologia on YMYL – Your Money or Your Life – -toimiala, mikä tarkoittaa, että Google soveltaa tiukimpia laatustandardejaan jokaiseen sivuun. Dermatologian sisällön sijoittamisessa ei ole kyse avainsanatiheydestä tai sanamäärästä; kyse on kokemuksen, asiantuntemuksen, auktoriteetin ja luottamuksen osoittamisesta jokaisella sivulla, jolle potilas voi laskeutua."
+      "text": "Dermatologia on YMYL – Your Money or Your Life – -toimiala, mikä tarkoittaa, että Google soveltaa tiukimpia laatustandardejaan jokaiseen sivuun."
     },
     {
-      "text": "Se tarkoittaa, että jokaisella kliinisellä sivulla tulisi olla hallituksen sertifioiman ihotautilääkärin nimi, arvioijan tiedot ja pätevyys, viimeisin päivityspäivämäärä sekä viittaukset vertaisarvioituihin lähteisiin tai suurten yhteisöjen ohjeisiin (AAD, ASDS, ISDS). Tekijöiden biokset tulisi linkittää palveluntarjoajan sivulle omalla sivustollasi, jossa puolestaan tulisi olla hallituksen sertifikaatit, residenssi, julkaisut ja kaikki sairaalasidonnaisuudet. Google lukee kaiken tämän – ja niin tekevät potilaatkin."
-    },
-    {
-      "quote": "Dermatologian klinikat, jotka kohtelevat jokaista palvelusivua kuin pientä kliinistä katsausta, ohittavat toimistot, jotka tuottavat kolme kertaa enemmän ohutta, yleistä sisältöä."
+      "link": {
+        "to": "/dermatology-seo-services",
+        "label": "SEO-palvelut ihotautilääkäreille"
+      }
     },
     {
       "heading": "3. Muunna arvostelut yhdisterakkautuskanavaksi"
@@ -50,13 +50,16 @@
       "text": "Taktinen vastaus on arvostelupyyntöjen automaatio, joka käynnistyy PMS- tai EHR-järjestelmästäsi: teksti- ja sähköpostiviesti, joka lähetetään 24 tunnin kuluttua jokaisesta käynnistä, yhden napautuksen linkillä Googleen ja toissijaisilla linkeillä Healthgradesiin ja Vitalsiin. Lisää vastausmallit vastaanottohenkilöstöllesi, jotta jokainen arvostelu – viiden tähden tai yhden tähden – saa henkilökohtaisen, HIPAA-turvallisen vastauksen kahden työpäivän kuluessa."
     },
     {
-      "heading": "4. Käytä Google Adsia päästäksesi ensimmäiselle sivulle samalla kun SEO kumuloituu"
+      "heading": "4. Valitse sopivat kanavat"
     },
     {
-      "text": "Orgaanisen dermatologian SEO:n kumuloituminen kestää 6–12 kuukautta. Google Adsille menee 48 tuntia. Tee niitä yhdessä. Kohdista korkean aikomuksen, palvelukohtaisiin avainsanoihin ('mohs surgery Denver', 'pediatric dermatologist near me', 'CoolSculpting consultation'), ohjaa jokainen mainos palvelukohtaiselle laskeutumissivulle (ei koskaan etusivulle) ja seuraa varauksia – ei klikkauksia – ensisijaisena konversiona."
+      "text": "Orgaanisen dermatologian SEO:n kumuloituminen kestää 6–12 kuukautta."
     },
     {
-      "text": "Budjetin nyrkkisääntö: kohdista 60 % maksetuista menoista suppilon alaosan palveluavainsanoihin, 25 % sairausavainsanoihin ('ekseeman hoito', 'kystinen akne') ja 15 % kilpailijoiden valloitukseen. Poista kaikki avainsanat, joiden kustannukset ylittävät 150 dollaria per varattu potilas – dermatologialla on riittävästi kysyntää, joten sinun ei tarvitse koskaan maksaa liikaa yhdestäkään käynnistä."
+      "link": {
+        "to": "/dermatology-google-ads-ppc",
+        "label": "Ihotautiklinikoiden Google Ads & PPC"
+      }
     },
     {
       "heading": "5. Rakenna lähetteet uudelleen tarkoitukselliseksi kanavaksi"
@@ -75,6 +78,12 @@
     },
     {
       "text": "Tee kuusi edellä mainittua asiaa johdonmukaisesti kahdentoista kuukauden ajan, ja markkinointikysymys lakkaa olemasta ”miten saamme lisää potilaita” ja muuttuu muotoon ”mitä palveluntarjoajia palkkaamme seuraavaksi”. Tämä on markkinointijärjestelmän rakentamisen koko pointti: sen tulisi pakottaa kapasiteettipäätöksiin, ei jahdata niitä."
+    },
+    {
+      "link": {
+        "to": "/dermatology-social-media-services",
+        "label": "Ihotautiklinikoiden some-markkinointi"
+      }
     }
   ],
   "faqs": [
@@ -98,5 +107,6 @@
       "q": "Mitä lääketieteellinen E-E-A-T on ja miksi se on tärkeä dermatologian sisällölle?",
       "a": "E-E-A-T tulee sanoista Experience, Expertise, Authoritativeness ja Trust – laatusignaalit, joita Google soveltaa YMYL (Your Money or Your Life) -sisältöön. Dermatologian osalta jokaisella kliinisellä sivulla tulisi olla hallituksen sertifioitu tekijä, arvioijan tiedot, viittaukset AAD:iin tai vertaisarvioituihin lähteisiin ja viimeisin päivityspäivämäärä. Sivustot, jotka osoittavat todellista lääketieteellistä E-E-A-T:ää, ohittavat jatkuvasti sivustot, jotka tuottavat suurempia määriä ohutta sisältöä."
     }
-  ]
+  ],
+  "seoTitle": "Ihotautiklinikoiden markkinointistrategiat"
 }

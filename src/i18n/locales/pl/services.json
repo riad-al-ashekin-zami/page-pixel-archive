@@ -1,18 +1,30 @@
 {
   "meta": {
-    "title": "Usługi tworzenia stron dla dermatologów — Design, SEO i rozwój",
+    "title": "Nasze usługi | DWD",
     "description": "Profesjonalne strony internetowe dla dermatologii: zgodność z HIPAA, SEO, marketing lokalny, portale pacjenta, wsparcie techniczne i strategie rozwoju nowoczesnych gabinetów.",
-    "ogTitle": "Strony internetowe dla dermatologii – Kompleksowe usługi",
-    "ogDescription": "Projektowanie stron, SEO, kampanie płatne, budowanie reputacji, portale oraz galerie efektów zabiegowych dla praktyk dermatologicznych.",
+    "ogTitle": "Nasze usługi | DWD",
+    "ogDescription": "Profesjonalne strony internetowe dla dermatologii: zgodność z HIPAA, SEO, marketing lokalny, portale pacjenta, wsparcie techniczne i strategie rozwoju nowoczesnych gabinetów.",
     "schema": {
       "name": "Usługi tworzenia stron dla dermatologów",
       "serviceType": "Projektowanie stron, SEO i marketing wzrostowy dla gabinetów dermatologicznych",
       "providerName": "Dermatology Website Design"
+    },
+    "og_title": "Nasze usługi | DWD",
+    "twitter_title": "Nasze usługi | DWD",
+    "og_description": "Profesjonalne strony internetowe dla dermatologii: zgodność z HIPAA, SEO, marketing lokalny, portale pacjenta, wsparcie techniczne i strategie rozwoju nowoczesnych gabinetów.",
+    "twitter_description": "Profesjonalne strony internetowe dla dermatologii: zgodność z HIPAA, SEO, marketing lokalny, portale pacjenta, wsparcie techniczne i strategie rozwoju nowoczesnych gabinetów.",
+    "og": {
+      "title": "Nasze usługi | DWD",
+      "description": "Profesjonalne strony internetowe dla dermatologii: zgodność z HIPAA, SEO, marketing lokalny, portale pacjenta, wsparcie techniczne i strategie rozwoju nowoczesnych gabinetów."
+    },
+    "twitter": {
+      "title": "Nasze usługi | DWD",
+      "description": "Profesjonalne strony internetowe dla dermatologii: zgodność z HIPAA, SEO, marketing lokalny, portale pacjenta, wsparcie techniczne i strategie rozwoju nowoczesnych gabinetów."
     }
   },
   "hero": {
     "eyebrow": "Nasze Usługi",
-    "title": "Strony dla dermatologii stworzone, by zamieniać użytkowników w stałych pacjentów.",
+    "title": "Nasze usługi",
     "description": "Wybierz konkretny projekt lub kompletny system rozwoju: od autorskiego designu i SEO, przez pozyskiwanie pacjentów, po integracje oraz pełne wsparcie techniczne dla Twojego gabinetu.",
     "ctaQuote": "Uzyskaj bezpłatną wycenę",
     "ctaPricing": "Sprawdź cennik",

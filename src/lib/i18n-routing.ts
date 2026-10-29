@@ -11,7 +11,7 @@
  *   - useCurrentLang() — read the active URL language inside components
  */
 import { useParams } from "@tanstack/react-router";
-import { isIndexableUrl } from "@/lib/index-allowlist";
+import { CONSOLIDATED_PATHS } from "@/lib/seo-redirects";
 import {
   DEFAULT_LANGUAGE,
   LANGUAGE_CODES,
@@ -29,7 +29,8 @@ export const SITE_ORIGIN = "https://dermatologywebsitedesign.com";
  * English stays at root; other languages are prefixed.
  */
 export function localizedPath(lang: LanguageCode, path: string): string {
-  const clean = path === "/" ? "" : path.startsWith("/") ? path : `/${path}`;
+  const destination = CONSOLIDATED_PATHS[path] ?? path;
+  const clean = destination === "/" ? "" : (destination.startsWith("/") ? destination : `/${destination}`).replace(/\/+$/, "");
   if (lang === DEFAULT_LANGUAGE) return clean === "" ? "/" : clean;
   // Non-English root: emit `/es` (no trailing slash) so the URL matches the TanStack route exactly.
   return `/${lang}${clean}`;
@@ -54,22 +55,17 @@ export function localizedUrl(lang: LanguageCode, path: string): string {
  * `rawLang` is the route's raw lang param (undefined = English root).
  */
 export function buildHreflangLinks(path: string, rawLang?: string) {
-  const current = resolveRouteLanguage(rawLang);
-  if (!isIndexableUrl(localizedPath(current, path))) return [];
-  const alternates: { rel: "alternate"; hrefLang: string; href: string }[] = LANGUAGE_CODES.filter(
-    (code) => isIndexableUrl(localizedPath(code, path)),
-  ).map((code) => ({
+  if (CONSOLIDATED_PATHS[path]) return [];
+  const alternates: { rel: "alternate"; hrefLang: string; href: string }[] = LANGUAGE_CODES.map((code) => ({
     rel: "alternate",
     hrefLang: code,
     href: localizedUrl(code, path),
   }));
-  if (isIndexableUrl(localizedPath(DEFAULT_LANGUAGE, path))) {
-    alternates.push({
+  alternates.push({
       rel: "alternate",
       hrefLang: "x-default",
       href: localizedUrl(DEFAULT_LANGUAGE, path),
     });
-  }
   return alternates;
 }
 

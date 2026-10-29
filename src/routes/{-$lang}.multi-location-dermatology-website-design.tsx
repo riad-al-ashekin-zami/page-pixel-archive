@@ -1,3 +1,4 @@
+import { finalizeSeoHead } from "@/lib/seo-head";
 import { createFileRoute, notFound } from "@tanstack/react-router";
 import { LocalLink as Link } from "@/components/local-link";
 import { CtaLabel } from "@/lib/cta";
@@ -62,7 +63,7 @@ export const Route = createFileRoute("/{-$lang}/multi-location-dermatology-websi
     stringify: (parsed: { lang?: string }) => ({ lang: parsed.lang ?? "" }),
   },
 
-  head: ({ params }) => {
+  head: (args) => finalizeSeoHead((({ params }: typeof args) => {
     const { lang } = params;
     const st = getStaticTranslation(lang, "multiLocation");
     return {
@@ -117,7 +118,7 @@ export const Route = createFileRoute("/{-$lang}/multi-location-dermatology-websi
         },
       ],
     };
-  },
+  })(args), args.params.lang, "/multi-location-dermatology-website-design"),
   component: MultiLocationDermPage,
 });
 
@@ -827,8 +828,8 @@ function MultiLocationDermPage() {
 
         <p className="mx-auto mt-16 mb-20 max-w-3xl px-4 text-center text-sm text-muted-foreground sm:mt-20 sm:mb-24 sm:px-6 lg:px-8">
           {t("footer_nav.useful_hint")}{" "}
-          <Link to="/dermatology-website-design" className="font-medium text-foreground underline-offset-4 hover:text-brand-primary hover:underline">{t("footer_nav.links.single")}</Link>,{" "}
-          <Link to="/dermatology-local-seo-services" className="font-medium text-foreground underline-offset-4 hover:text-brand-primary hover:underline">{t("footer_nav.links.seo")}</Link>, {t("common.or", { ns: "translation" })}{" "}
+          <Link to="/" className="font-medium text-foreground underline-offset-4 hover:text-brand-primary hover:underline">{t("footer_nav.links.single")}</Link>,{" "}
+          <Link to="/dermatology-seo-services" className="font-medium text-foreground underline-offset-4 hover:text-brand-primary hover:underline">{t("footer_nav.links.seo")}</Link>, {t("common.or", { ns: "translation" })}{" "}
           <Link to="/dermatology-websites-portfolio" className="font-medium text-foreground underline-offset-4 hover:text-brand-primary hover:underline">{t("footer_nav.links.portfolio")}</Link>.
         </p>
 

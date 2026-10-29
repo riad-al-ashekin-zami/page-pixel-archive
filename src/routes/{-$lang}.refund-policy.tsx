@@ -1,3 +1,4 @@
+import { finalizeSeoHead } from "@/lib/seo-head";
 import { createFileRoute, notFound } from "@tanstack/react-router";
 import { LocalLink as Link } from "@/components/local-link";
 import { CtaLabel } from "@/lib/cta";
@@ -22,7 +23,7 @@ export const Route = createFileRoute("/{-$lang}/refund-policy")({
     stringify: (parsed: { lang?: string }) => ({ lang: parsed.lang ?? "" }),
   },
 
-  head: ({ params: { lang } }) => {
+  head: (args) => finalizeSeoHead((({ params: { lang } }: typeof args) => {
     const st = getStaticTranslation(lang, "refundPolicy");
     return {
       meta: [
@@ -39,7 +40,7 @@ export const Route = createFileRoute("/{-$lang}/refund-policy")({
       ],
       links: [{ rel: "canonical", href: localizedUrl(resolveRouteLanguage(lang), PAGE_PATH) }, ...buildHreflangLinks(PAGE_PATH, lang)],
     };
-  },
+  })(args), args.params.lang, "/refund-policy"),
   component: RefundPolicyPage,
 });
 
@@ -200,40 +201,7 @@ function RefundPolicyPage() {
                 ))}
               </div>
 
-              <div
-                className="mt-6 flex flex-col gap-4 rounded-2xl border border-border/60 p-6 sm:flex-row sm:items-center sm:justify-between"
-                style={{
-                  background:
-                    "linear-gradient(135deg, color-mix(in oklch, var(--brand-primary), transparent 92%), color-mix(in oklch, var(--brand-secondary), transparent 92%))",
-                }}
-              >
-                <div className="flex items-start gap-3">
-                  <span
-                    aria-hidden
-                    className="grid h-10 w-10 shrink-0 place-items-center rounded-full bg-brand-primary/10 text-brand-primary"
-                  >
-                    <RefreshCcw className="h-5 w-5" />
-                  </span>
-                  <div>
-                    <p className="text-base font-black">{t("cta.title")}</p>
-                    <p className="text-sm text-muted-foreground">
-                      {t("cta.description")}
-                    </p>
-                  </div>
-                </div>
-                <Link
-                  to="/contact"
-                  className="inline-flex min-h-11 items-center justify-center gap-2 self-start rounded-full px-6 py-3 text-sm font-semibold text-brand-primary-foreground shadow-[0_12px_30px_-10px_color-mix(in_oklch,var(--brand-primary),transparent_40%)] transition-all hover:-translate-y-0.5 sm:self-auto"
-                  style={{
-                    background:
-                      "linear-gradient(135deg, var(--brand-primary), color-mix(in oklch, var(--brand-primary), black 18%))",
-                  }}
-                >
-                  <Mail className="h-4 w-4" />
-                  <CtaLabel />
-                  <ArrowRight className="h-4 w-4" />
-                </Link>
-              </div>
+              
             </article>
           </div>
         </section>

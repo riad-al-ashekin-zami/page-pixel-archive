@@ -1,3 +1,4 @@
+import { finalizeSeoHead } from "@/lib/seo-head";
 import { createFileRoute, notFound } from "@tanstack/react-router";
 import { LocalLink as Link } from "@/components/local-link";
 import { CtaLabel } from "@/lib/cta";
@@ -66,7 +67,7 @@ export const Route = createFileRoute("/{-$lang}/dermatology-ecommerce-website-de
     stringify: (parsed: { lang?: string }) => ({ lang: parsed.lang ?? "" }),
   },
 
-  head: ({ params: { lang } }) => {
+  head: (args) => finalizeSeoHead((({ params: { lang } }: typeof args) => {
     const st = getStaticTranslation(lang, "ecommerce");
     return {
       meta: [
@@ -120,7 +121,7 @@ export const Route = createFileRoute("/{-$lang}/dermatology-ecommerce-website-de
         },
       ],
     };
-  },
+  })(args), args.params.lang, "/dermatology-ecommerce-website-design"),
   component: DermEcommercePage,
 });
 
@@ -785,8 +786,8 @@ function DermEcommercePage() {
 
       <p className="mx-auto mt-16 mb-20 max-w-3xl px-4 text-center text-sm text-muted-foreground sm:mt-20 sm:mb-24 sm:px-6 lg:px-8">
         {t("footer.exploreNext")}{" "}
-        <Link to="/dermatology-website-design" className="font-medium text-foreground underline-offset-4 hover:text-brand-primary hover:underline">{t("footer.links.design")}</Link>,{" "}
-        <Link to="/dermatology-local-seo-services" className="font-medium text-foreground underline-offset-4 hover:text-brand-primary hover:underline">{t("footer.links.seo")}</Link>, {t("common.or", { ns: "translation" })}{" "}
+        <Link to="/" className="font-medium text-foreground underline-offset-4 hover:text-brand-primary hover:underline">{t("footer.links.design")}</Link>,{" "}
+        <Link to="/dermatology-seo-services" className="font-medium text-foreground underline-offset-4 hover:text-brand-primary hover:underline">{t("footer.links.seo")}</Link>, {t("common.or", { ns: "translation" })}{" "}
         <Link to="/case-studies" className="font-medium text-foreground underline-offset-4 hover:text-brand-primary hover:underline">{t("footer.links.cases")}</Link>.
       </p>
 

@@ -1,8 +1,21 @@
 {
   "meta": {
-    "title": "Checklists para Sitios Web de Dermatología — Lanzamiento, SEO, HIPAA y Conversión",
+    "title": "Checklists para Sitios Web de Dermatología | DWD",
     "description": "Checklists gratuitas para sitios de dermatología creadas por expertos. Incluye QA previo al lanzamiento, SEO on-page, cumplimiento HIPAA, accesibilidad, Core Web Vitals y conversión. Imprimibles y específicas para la práctica dermatológica.",
-    "keywords": "checklist sitio web dermatología, checklist SEO dermatología, checklist sitio web HIPAA, checklist lanzamiento web médica, checklist accesibilidad web médica"
+    "ogTitle": "Checklists para Sitios Web de Dermatología | DWD",
+    "og_title": "Checklists para Sitios Web de Dermatología | DWD",
+    "twitter_title": "Checklists para Sitios Web de Dermatología | DWD",
+    "ogDescription": "Checklists gratuitas para sitios de dermatología creadas por expertos. Incluye QA previo al lanzamiento, SEO on-page, cumplimiento HIPAA, accesibilidad, Core Web Vitals y conversión. Imprimibles y específicas para la práctica dermatológica.",
+    "og_description": "Checklists gratuitas para sitios de dermatología creadas por expertos. Incluye QA previo al lanzamiento, SEO on-page, cumplimiento HIPAA, accesibilidad, Core Web Vitals y conversión. Imprimibles y específicas para la práctica dermatológica.",
+    "twitter_description": "Checklists gratuitas para sitios de dermatología creadas por expertos. Incluye QA previo al lanzamiento, SEO on-page, cumplimiento HIPAA, accesibilidad, Core Web Vitals y conversión. Imprimibles y específicas para la práctica dermatológica.",
+    "og": {
+      "title": "Checklists para Sitios Web de Dermatología | DWD",
+      "description": "Checklists gratuitas para sitios de dermatología creadas por expertos. Incluye QA previo al lanzamiento, SEO on-page, cumplimiento HIPAA, accesibilidad, Core Web Vitals y conversión. Imprimibles y específicas para la práctica dermatológica."
+    },
+    "twitter": {
+      "title": "Checklists para Sitios Web de Dermatología | DWD",
+      "description": "Checklists gratuitas para sitios de dermatología creadas por expertos. Incluye QA previo al lanzamiento, SEO on-page, cumplimiento HIPAA, accesibilidad, Core Web Vitals y conversión. Imprimibles y específicas para la práctica dermatológica."
+    }
   },
   "schema": {
     "breadcrumb": {

@@ -1,14 +1,14 @@
 {
   "meta": {
-    "title": "Tillväxttjänster för dermatologi | Fler bokade besök, inte bara exponeringar",
+    "title": "Tillväxttjänster för dermatologi | DWD",
     "description": "Tillväxt för hudläkarmottagningar — patientanskaffning, konverteringsoptimering, automatiserad lojalitet och intäktsanalys kopplad till bokade besök och tjänstespecifika resultaträkningar.",
     "og": {
-      "title": "Tillväxt för hudläkarmottagningar — Bokade besök, inte bara exponeringar",
-      "description": "Helhetslösning för tillväxt för både enskilda hudläkare och klinikkedjor — anskaffning, konvertering, lojalitet och intäktsanalys."
+      "title": "Tillväxttjänster för dermatologi | DWD",
+      "description": "Tillväxt för hudläkarmottagningar — patientanskaffning, konverteringsoptimering, automatiserad lojalitet och intäktsanalys kopplad till bokade besök och tjänstespecifika resultaträkningar."
     },
     "twitter": {
-      "title": "Tillväxttjänster för dermatologi",
-      "description": "Öka antalet bokade besök på din hudläkarmottagning — mätbart direkt i din resultaträkning."
+      "title": "Tillväxttjänster för dermatologi | DWD",
+      "description": "Tillväxt för hudläkarmottagningar — patientanskaffning, konverteringsoptimering, automatiserad lojalitet och intäktsanalys kopplad till bokade besök och tjänstespecifika resultaträkningar."
     },
     "jsonLd": {
       "serviceType": "Tillväxttjänster för dermatologi",
@@ -19,7 +19,13 @@
         "services": "Tjänster",
         "current": "Tillväxt för dermatologi"
       }
-    }
+    },
+    "ogTitle": "Tillväxttjänster för dermatologi | DWD",
+    "og_title": "Tillväxttjänster för dermatologi | DWD",
+    "twitter_title": "Tillväxttjänster för dermatologi | DWD",
+    "ogDescription": "Tillväxt för hudläkarmottagningar — patientanskaffning, konverteringsoptimering, automatiserad lojalitet och intäktsanalys kopplad till bokade besök och tjänstespecifika resultaträkningar.",
+    "og_description": "Tillväxt för hudläkarmottagningar — patientanskaffning, konverteringsoptimering, automatiserad lojalitet och intäktsanalys kopplad till bokade besök och tjänstespecifika resultaträkningar.",
+    "twitter_description": "Tillväxt för hudläkarmottagningar — patientanskaffning, konverteringsoptimering, automatiserad lojalitet och intäktsanalys kopplad till bokade besök och tjänstespecifika resultaträkningar."
   },
   "hero": {
     "badge": "Tillväxt för dermatologi",

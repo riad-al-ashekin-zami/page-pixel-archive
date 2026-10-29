@@ -12,7 +12,7 @@
     "footerCta": "Pyydä ilmainen tarjous",
     "items": {
       "customWebsite": {
-        "title": "Räätälöity verkkosivujen suunnittelu",
+        "title": "verkkosivusuunnittelu ihotautilääkäreille",
         "description": "Konversioihin keskittyvät ihotautiklinikoiden sivustot, jotka on rakennettu brändisi ja potilaan matkan ympärille."
       },
       "redesign": {
@@ -36,22 +36,22 @@
         "description": "Turvalliset, HIPAA-tietoiset potilasportaalit tiedonkeruuta, potilastietoja ja viestintää varten."
       },
       "maintenance": {
-        "title": "Verkkosivujen hoito ja ylläpito",
+        "title": "ihotautiklinikoiden verkkosivujen ylläpito ja hallinta",
         "description": "Jatkuvat päivitykset, varmuuskopiot, tietoturva ja suorituskyvyn seuranta mielenrauhan takaamiseksi."
       },
       "seo": {
-        "title": "SEO ihotautilääkäreille",
+        "title": "SEO-palvelut ihotautilääkäreille",
         "description": "Sijoitu korkealle hakutuloksissa korkean aikomuksen hauissa ja tuo päteviä potilaita hoitolallesi."
       },
       "googleAds": {
-        "title": "Google Ads & PPC",
+        "title": "Ihotautiklinikoiden Google Ads & PPC",
         "description": "Ennakoitava, mitattavissa oleva potilaiden hankinta optimoiduilla mainoskampanjoilla."
       }
     }
   },
   "pricing": {
     "eyebrow": "Läpinäkyvä hinnoittelu",
-    "heading": "Ei piilokuluja. Ei pitkiä sopimuksia.",
+    "heading": "Hinnoittelu",
     "intro": "Useimmat toimistot piilottavat hinnoittelunsa. Me emme – näet tarkalleen, mitä maksat ennen kuin edes puhut meille.",
     "mostPopular": "Suosituin",
     "startingAt": "alkaen ",
@@ -82,8 +82,8 @@
   },
   "approach": {
     "eyebrow": "Metodologia",
-    "headingLead": "Systemaattinen lähestymistapa",
-    "headingHighlight": "kestävään potilaskasvuun.",
+    "headingLead": "Prosessimme",
+    "headingHighlight": "",
     "intro": "Tarkkaan suunniteltu, kuudenvaiheinen kehys, joka on suunniteltu erityisesti nopeasti kasvaville ihotautiklinikoille. Napsauta mitä tahansa vaihetta tutkiaksesi sitä.",
     "phaseLabel": "Vaihe",
     "stepLabel": "Vaihe {{n}}",
@@ -163,8 +163,8 @@
   "whyChoose": {
     "eyebrow": "Miksi valita meidät",
     "eyebrowSuffix": "— DermatologyWebsiteDesign.com",
-    "headingLead": "Ainoa toimisto",
-    "headingHighlight": "100% keskittynyt ihotautihoitoon",
+    "headingLead": "Miksi ihotautiklinikat valitsevat meidät",
+    "headingHighlight": "",
     "intro": "Yleiset verkkoagentuurit rakentavat verkkosivustoja. Me rakennamme potilasputkia – suunniteltuna erityisesti dermatologiahoidon kasvua varten.",
     "reasons": {
       "pricing": {

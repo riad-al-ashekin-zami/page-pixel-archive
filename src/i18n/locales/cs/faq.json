@@ -1,16 +1,29 @@
 {
   "meta": {
-    "title": "FAQ – Tvorba webů pro dermatologii, SEO a HIPAA otázky",
+    "title": "FAQ | DWD",
     "description": "Jasné odpovědi na dotazy ohledně cen, termínů, SEO, HIPAA, redesignu a správy webů pro rostoucí dermatologické kliniky a ordinace.",
-    "keywords": "FAQ dermatologický web, SEO pro dermatology, HIPAA dotazy, cena webu pro dermatology, harmonogram tvorby webu",
     "breadcrumbList": {
       "home": "Domů",
       "faq": "FAQ"
+    },
+    "ogTitle": "FAQ | DWD",
+    "og_title": "FAQ | DWD",
+    "twitter_title": "FAQ | DWD",
+    "ogDescription": "Jasné odpovědi na dotazy ohledně cen, termínů, SEO, HIPAA, redesignu a správy webů pro rostoucí dermatologické kliniky a ordinace.",
+    "og_description": "Jasné odpovědi na dotazy ohledně cen, termínů, SEO, HIPAA, redesignu a správy webů pro rostoucí dermatologické kliniky a ordinace.",
+    "twitter_description": "Jasné odpovědi na dotazy ohledně cen, termínů, SEO, HIPAA, redesignu a správy webů pro rostoucí dermatologické kliniky a ordinace.",
+    "og": {
+      "title": "FAQ | DWD",
+      "description": "Jasné odpovědi na dotazy ohledně cen, termínů, SEO, HIPAA, redesignu a správy webů pro rostoucí dermatologické kliniky a ordinace."
+    },
+    "twitter": {
+      "title": "FAQ | DWD",
+      "description": "Jasné odpovědi na dotazy ohledně cen, termínů, SEO, HIPAA, redesignu a správy webů pro rostoucí dermatologické kliniky a ordinace."
     }
   },
   "hero": {
     "badge": "{{totalCount}} odpovědí · Specializace na dermatologii",
-    "heading": "Všechny odpovědi, které dermatologická praxe skutečně potřebuje.",
+    "heading": "Často kladené otázky",
     "subheading": "Ceny, termíny, SEO, HIPAA, redesigny, migrace i integrace. Konkrétně, narovinu a přímo od týmu, který na vašem projektu bude pracovat.",
     "search": {
       "label": "Hledat v FAQ",

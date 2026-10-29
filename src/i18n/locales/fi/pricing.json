@@ -1,10 +1,10 @@
 {
   "meta": {
-    "title": "Dermatologian verkkosivujen hinnoittelu — Paketit ja läpinäkyvät kustannukset",
+    "title": "Ihotautiklinikoiden verkkosivujen hinnat | DWD",
     "description": "Selkeä dermatologian verkkosivujen hinnoittelu. Kertamaksulliset toteutukset 797 $ – 18 999 $+, kuukausipaketit alk. 399 $ sekä erilliset lisäpalvelut. Tiedä tarkka hinta jo ennen yhteydenottoa.",
     "og": {
-      "title": "Dermatologian verkkosivujen hinnoittelu — Paketit ja kustannustiedot",
-      "description": "Kuusi verkkosivupakettia, kolme erikoistoteutusta, neljä kuukausipakettia ja yli 20 lisäpalvelua – mukana reaaliaikainen hintalaskuri. Täysin läpinäkyvä hinnoittelu."
+      "title": "Ihotautiklinikoiden verkkosivujen hinnat | DWD",
+      "description": "Selkeä dermatologian verkkosivujen hinnoittelu. Kertamaksulliset toteutukset 797 $ – 18 999 $+, kuukausipaketit alk. 399 $ sekä erilliset lisäpalvelut. Tiedä tarkka hinta jo ennen yhteydenottoa."
     },
     "jsonLd": {
       "breadcrumb": {
@@ -14,11 +14,21 @@
       "priceSpec": {
         "name": "Dermatologian verkkosivupaketit"
       }
+    },
+    "ogTitle": "Ihotautiklinikoiden verkkosivujen hinnat | DWD",
+    "og_title": "Ihotautiklinikoiden verkkosivujen hinnat | DWD",
+    "twitter_title": "Ihotautiklinikoiden verkkosivujen hinnat | DWD",
+    "ogDescription": "Selkeä dermatologian verkkosivujen hinnoittelu. Kertamaksulliset toteutukset 797 $ – 18 999 $+, kuukausipaketit alk. 399 $ sekä erilliset lisäpalvelut. Tiedä tarkka hinta jo ennen yhteydenottoa.",
+    "og_description": "Selkeä dermatologian verkkosivujen hinnoittelu. Kertamaksulliset toteutukset 797 $ – 18 999 $+, kuukausipaketit alk. 399 $ sekä erilliset lisäpalvelut. Tiedä tarkka hinta jo ennen yhteydenottoa.",
+    "twitter_description": "Selkeä dermatologian verkkosivujen hinnoittelu. Kertamaksulliset toteutukset 797 $ – 18 999 $+, kuukausipaketit alk. 399 $ sekä erilliset lisäpalvelut. Tiedä tarkka hinta jo ennen yhteydenottoa.",
+    "twitter": {
+      "title": "Ihotautiklinikoiden verkkosivujen hinnat | DWD",
+      "description": "Selkeä dermatologian verkkosivujen hinnoittelu. Kertamaksulliset toteutukset 797 $ – 18 999 $+, kuukausipaketit alk. 399 $ sekä erilliset lisäpalvelut. Tiedä tarkka hinta jo ennen yhteydenottoa."
     }
   },
   "hero": {
     "badge": "Läpinäkyvä hinnoittelu",
-    "heading": "Kaikki hinnat esillä. Ei yllätyslaskuja.",
+    "heading": "Ihotautiklinikoiden verkkosivujen hinnat",
     "description": "Kuusi kertamaksullista sivustopakettia, kolme erikoistoteutusta, neljä kuukausipakettia ja yli 20 lisäpalvelua – reaaliaikaisen hintalaskurin avulla tiedät summan jo ennen kuin keskustelemme.",
     "cta": "Katso sivustopaketit",
     "estimatorCta": "Reaaliaikainen hintalaskuri"

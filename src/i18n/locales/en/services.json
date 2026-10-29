@@ -1,18 +1,30 @@
 {
   "meta": {
-    "title": "Dermatology Website Services — Design, SEO & Growth",
+    "title": "Our Services | DWD",
     "description": "Explore HIPAA-aware dermatology website services, SEO, local marketing, patient portals, maintenance, and growth support for modern practices.",
-    "ogTitle": "Dermatology Website Services",
-    "ogDescription": "Website design, SEO, paid ads, reputation, portals, galleries, and ongoing care for dermatology practices.",
+    "ogTitle": "Our Services | DWD",
+    "ogDescription": "Explore HIPAA-aware dermatology website services, SEO, local marketing, patient portals, maintenance, and growth support for modern practices.",
     "schema": {
       "name": "Dermatology Website Services",
       "serviceType": "Website design, SEO, and growth marketing for dermatology practices",
       "providerName": "Dermatology Website Design"
+    },
+    "og_title": "Our Services | DWD",
+    "twitter_title": "Our Services | DWD",
+    "og_description": "Explore HIPAA-aware dermatology website services, SEO, local marketing, patient portals, maintenance, and growth support for modern practices.",
+    "twitter_description": "Explore HIPAA-aware dermatology website services, SEO, local marketing, patient portals, maintenance, and growth support for modern practices.",
+    "og": {
+      "title": "Our Services | DWD",
+      "description": "Explore HIPAA-aware dermatology website services, SEO, local marketing, patient portals, maintenance, and growth support for modern practices."
+    },
+    "twitter": {
+      "title": "Our Services | DWD",
+      "description": "Explore HIPAA-aware dermatology website services, SEO, local marketing, patient portals, maintenance, and growth support for modern practices."
     }
   },
   "hero": {
     "eyebrow": "Services",
-    "title": "Dermatology website services built to turn visitors into patients.",
+    "title": "Our Services",
     "description": "Choose a single project or a complete growth system: custom website design, SEO, patient acquisition, integrations, maintenance, and optimization for dermatology practices.",
     "ctaPricing": "View Pricing",
     "proofPoints": {

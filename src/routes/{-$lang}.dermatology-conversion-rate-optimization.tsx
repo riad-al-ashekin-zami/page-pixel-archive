@@ -1,3 +1,4 @@
+import { finalizeSeoHead } from "@/lib/seo-head";
 import { createFileRoute, notFound } from "@tanstack/react-router";
 import { LocalLink as Link } from "@/components/local-link";
 import { CtaLabel } from "@/lib/cta";
@@ -57,7 +58,7 @@ export const Route = createFileRoute("/{-$lang}/dermatology-conversion-rate-opti
     stringify: (parsed: { lang?: string }) => ({ lang: parsed.lang ?? "" }),
   },
 
-  head: ({ params }) => {
+  head: (args) => finalizeSeoHead((({ params }: typeof args) => {
     const st = getStaticTranslation(params.lang, "cro");
     return {
       meta: [
@@ -81,7 +82,7 @@ export const Route = createFileRoute("/{-$lang}/dermatology-conversion-rate-opti
         { type: "application/ld+json", children: JSON.stringify({ "@context": "https://schema.org", "@type": "FAQPage", mainEntity: (st?.faq?.items || []).map((f: any) => ({ "@type": "Question", name: f.q, acceptedAnswer: { "@type": "Answer", text: f.a } })) }) },
       ],
     };
-  },
+  })(args), args.params.lang, "/dermatology-conversion-rate-optimization"),
   component: CROPage,
 });
 
@@ -588,7 +589,7 @@ function CROPage() {
           {t("footer_nav.label")} {" "}
           <Link to="/dermatology-seo-services" className="font-medium text-foreground underline-offset-4 hover:text-brand-primary hover:underline">{t("footer_nav.link_seo")}</Link>,{" "}
           <Link to="/dermatology-google-ads-ppc" className="font-medium text-foreground underline-offset-4 hover:text-brand-primary hover:underline">{t("footer_nav.link_ppc")}</Link>, {t("common.or", { ns: "translation" })} {" "}
-          <Link to="/dermatology-website-design" className="font-medium text-foreground underline-offset-4 hover:text-brand-primary hover:underline">{t("footer_nav.link_design")}</Link>.
+          <Link to="/" className="font-medium text-foreground underline-offset-4 hover:text-brand-primary hover:underline">{t("footer_nav.link_design")}</Link>.
         </p>
 
       <SiteFooter />

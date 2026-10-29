@@ -1,3 +1,4 @@
+import { finalizeSeoHead } from "@/lib/seo-head";
 import { motion, useReducedMotion, useScroll, useSpring } from "framer-motion";
 import { localizedUrl, buildHreflangLinks } from "@/lib/i18n-routing";
 import { createFileRoute, notFound } from "@tanstack/react-router";
@@ -48,7 +49,7 @@ export const Route = createFileRoute("/{-$lang}/blog/$slug")({
     return { post };
   },
 
-  head: ({ loaderData, params }) => {
+  head: (args) => finalizeSeoHead((({ loaderData, params }: typeof args) => {
     const lang = params.lang as string;
     const st = getStaticTranslation(lang, "blogPost");
 
@@ -64,7 +65,7 @@ export const Route = createFileRoute("/{-$lang}/blog/$slug")({
     const url = `/blog/${params.slug}`;
     return {
       meta: [
-        { title: `${post.title} ${st?.meta?.titleSuffix ?? "— DermGrowth Blog"}` },
+        { title: post.slug === "dermatology-marketing-strategies" ? post.seoTitle ?? post.title : `${post.title} | DWD` },
         { name: "description", content: post.excerpt },
         {
           name: "keywords",
@@ -142,7 +143,7 @@ export const Route = createFileRoute("/{-$lang}/blog/$slug")({
           : []),
       ],
     };
-  },
+  })(args), args.params.lang, `/blog/${args.params.slug}`),
   component: BlogPostPage,
   notFoundComponent: PostNotFound,
 });
@@ -307,6 +308,9 @@ function BlogPostPage() {
                     {headingText}
                   </h2>
                 );
+              }
+              if (block.link) {
+                return <p key={i} className="mt-6 text-lg leading-relaxed text-foreground/90"><Link to={block.link.to} className="font-medium text-brand-primary underline underline-offset-4">{block.link.label}</Link></p>;
               }
               if (block.quote) {
                 return (

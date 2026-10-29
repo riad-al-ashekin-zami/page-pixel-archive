@@ -1,15 +1,27 @@
 {
   "meta": {
-    "title": "O nas — Agencja projektująca strony dla dermatologii",
+    "title": "O DWD | DWD",
     "description": "Tworzymy strony zgodne z HIPAA i zajmujemy się marketingiem rozwojowym wyłącznie dla gabinetów dermatologicznych. Poznaj zespół stojący za wynikami.",
-    "ogTitle": "O nas — Projektowanie stron dla dermatologii",
-    "ogDescription": "Niszowa agencja wspierająca praktyki dermatologiczne poprzez strony premium, SEO i pozyskiwanie pacjentów.",
+    "ogTitle": "O DWD | DWD",
+    "ogDescription": "Tworzymy strony zgodne z HIPAA i zajmujemy się marketingiem rozwojowym wyłącznie dla gabinetów dermatologicznych. Poznaj zespół stojący za wynikami.",
     "breadcrumbHome": "Strona główna",
-    "breadcrumbAbout": "O nas"
+    "breadcrumbAbout": "O nas",
+    "og_title": "O DWD | DWD",
+    "twitter_title": "O DWD | DWD",
+    "og_description": "Tworzymy strony zgodne z HIPAA i zajmujemy się marketingiem rozwojowym wyłącznie dla gabinetów dermatologicznych. Poznaj zespół stojący za wynikami.",
+    "twitter_description": "Tworzymy strony zgodne z HIPAA i zajmujemy się marketingiem rozwojowym wyłącznie dla gabinetów dermatologicznych. Poznaj zespół stojący za wynikami.",
+    "og": {
+      "title": "O DWD | DWD",
+      "description": "Tworzymy strony zgodne z HIPAA i zajmujemy się marketingiem rozwojowym wyłącznie dla gabinetów dermatologicznych. Poznaj zespół stojący za wynikami."
+    },
+    "twitter": {
+      "title": "O DWD | DWD",
+      "description": "Tworzymy strony zgodne z HIPAA i zajmujemy się marketingiem rozwojowym wyłącznie dla gabinetów dermatologicznych. Poznaj zespół stojący za wynikami."
+    }
   },
   "hero": {
     "kicker": "O Dermatology Website Design",
-    "h1": "Specjaliści od <1>stron dedykowanych dermatologii.</1>",
+    "h1": "O DWD",
     "p": "W każdą stronę wbudowujemy E-E-A-T (Doświadczenie, Wiedzę, Autorytet i Zaufanie) — kluczowe sygnały Google dla branż medycznych (YMYL). Nie jesteśmy agencją od wszystkiego. Jesteśmy specjalistami.",
     "ctaPrimary": "Współpracuj z nami",
     "ctaSecondary": "Zobacz usługi",

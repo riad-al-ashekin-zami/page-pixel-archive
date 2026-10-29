@@ -1,11 +1,24 @@
 {
   "meta": {
-    "title": "Referanser for hudlegenettsider – Se våre case-studier",
+    "title": "Eksempler på hudklinikkenes nettsider | DWD",
     "description": "En profilert portefølje av nettsider vi har designet og utviklet for hudleger – inkludert kosmetiske, medisinske og pediatriske klinikker med dokumentert vekst i bestillinger, SEO og hastighet.",
-    "keywords": "portefølje hudlegenettside, webdesign hudlege eksempler, case-studier hudlege, nettsider for hudklinikker",
     "breadcrumb": {
       "home": "Hjem",
       "portfolio": "Portefølje"
+    },
+    "ogTitle": "Eksempler på hudklinikkenes nettsider | DWD",
+    "og_title": "Eksempler på hudklinikkenes nettsider | DWD",
+    "twitter_title": "Eksempler på hudklinikkenes nettsider | DWD",
+    "ogDescription": "En profilert portefølje av nettsider vi har designet og utviklet for hudleger – inkludert kosmetiske, medisinske og pediatriske klinikker med dokumentert vekst i bestillinger, SEO og hastighet.",
+    "og_description": "En profilert portefølje av nettsider vi har designet og utviklet for hudleger – inkludert kosmetiske, medisinske og pediatriske klinikker med dokumentert vekst i bestillinger, SEO og hastighet.",
+    "twitter_description": "En profilert portefølje av nettsider vi har designet og utviklet for hudleger – inkludert kosmetiske, medisinske og pediatriske klinikker med dokumentert vekst i bestillinger, SEO og hastighet.",
+    "og": {
+      "title": "Eksempler på hudklinikkenes nettsider | DWD",
+      "description": "En profilert portefølje av nettsider vi har designet og utviklet for hudleger – inkludert kosmetiske, medisinske og pediatriske klinikker med dokumentert vekst i bestillinger, SEO og hastighet."
+    },
+    "twitter": {
+      "title": "Eksempler på hudklinikkenes nettsider | DWD",
+      "description": "En profilert portefølje av nettsider vi har designet og utviklet for hudleger – inkludert kosmetiske, medisinske og pediatriske klinikker med dokumentert vekst i bestillinger, SEO og hastighet."
     }
   },
   "accessibility": {
@@ -13,7 +26,7 @@
   },
   "hero": {
     "badge": "Portefølje · Over 50 hudklinikker",
-    "heading": "Ekte nettsider for hudleger. Reell vekst.",
+    "heading": "Eksempler på hudklinikkenes nettsider",
     "subheading": "Hvert prosjekt nedenfor er en aktiv klinikk – fra kosmetiske og medisinske til pediatriske og landsdekkende kjeder. Skreddersydd design, HIPAA-fokuse og SEO som skaper bestillinger, ikke bare rangeringer.",
     "cta": {
       "start": "Start et prosjekt",

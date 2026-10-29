@@ -1,11 +1,21 @@
 {
   "meta": {
-    "title": "SEO för hudläkare – Klättra i sökresultaten för hudvård och estetik",
-    "description": "Medicinsk SEO för hudläkarmottagningar: teknisk audit, lokal SEO, Google Business-optimering och expertgranskat innehåll. Anpassat för singelkliniker, Mohs-kirurgi och barn-dermatologi.",
-    "og_title": "SEO-tjänster för dermatologi – Syns där patienterna söker",
-    "og_description": "Medicinsk SEO framtagen för hudkliniker – teknisk optimering, lokalt fokus och auktoritativt innehåll med transparent månadsrapportering.",
-    "twitter_title": "SEO för hudläkarmottagningar",
-    "twitter_description": "Medicinsk SEO specialiserad för dermatologiska kliniker."
+    "title": "SEO-tjänster för hudläkare | DWD",
+    "description": "SEO och lokal SEO för hudkliniker: synlighet i Google Maps och sökningar efter behandlingar som patienter behöver.",
+    "og_title": "SEO-tjänster för hudläkare | DWD",
+    "og_description": "SEO och lokal SEO för hudkliniker: synlighet i Google Maps och sökningar efter behandlingar som patienter behöver.",
+    "twitter_title": "SEO-tjänster för hudläkare | DWD",
+    "twitter_description": "SEO och lokal SEO för hudkliniker: synlighet i Google Maps och sökningar efter behandlingar som patienter behöver.",
+    "ogTitle": "SEO-tjänster för hudläkare | DWD",
+    "ogDescription": "SEO och lokal SEO för hudkliniker: synlighet i Google Maps och sökningar efter behandlingar som patienter behöver.",
+    "og": {
+      "title": "SEO-tjänster för hudläkare | DWD",
+      "description": "SEO och lokal SEO för hudkliniker: synlighet i Google Maps och sökningar efter behandlingar som patienter behöver."
+    },
+    "twitter": {
+      "title": "SEO-tjänster för hudläkare | DWD",
+      "description": "SEO och lokal SEO för hudkliniker: synlighet i Google Maps och sökningar efter behandlingar som patienter behöver."
+    }
   },
   "jsonLd": {
     "serviceType": "SEO-tjänster för dermatologi",
@@ -20,8 +30,8 @@
   },
   "hero": {
     "badge": "SEO för hudläkarmottagningar",
-    "title_start": "Syns där patienterna",
-    "title_highlight": "faktiskt söker efter hudvård.",
+    "title_start": "SEO-tjänster för hudläkare",
+    "title_highlight": "",
     "description": "Medicinsk SEO byggd för dermatologi – teknisk, lokal och redaktionell auktoritet hanterad från ax till limpa. Expertgranskade sidor, etiska länkar och månadsrapporter som är enkla att förstå.",
     "cta_audit": "Få en kostnadsfri SEO-audit",
     "cta_stack": "Utforska vår SEO-metodik",
@@ -199,7 +209,7 @@
     ]
   },
   "faq": {
-    "heading": "Frågor som dermatologer ofta ställer.",
+    "heading": "Vanliga frågor",
     "items": [
       {
         "q": "Hur lång tid tar det innan jag ser SEO-resultat?",
@@ -220,10 +230,6 @@
       {
         "q": "Kan ni integrera med min befintliga webbplats?",
         "a": "Ja. Vi arbetar i WordPress, Webflow, Modernizing Medicine, Nextech eller valfritt CMS. Om din plattform hindrar din rankning säger vi till – och erbjuder en flyttplan endast om ROI:n är tydlig."
-      },
-      {
-        "q": "Vad ingår i månadsrapporteringen?",
-        "a": "Sökordsrörelser för dina 200 viktigaste termer, organisk trafik, bokningsattribuering, Core Web Vitals och publicerat innehåll. Vi går igenom allt på ett 30-minuters videomöte."
       }
     ]
   },
@@ -243,5 +249,166 @@
     "local_seo": "lokal SEO på stadsnivå",
     "marketing_playbook": "vår kompletta marknadsföringsguide för hudläkare",
     "practice_growth": "holistisk tillväxt för kliniker"
+  },
+  "merged": {
+    "headings": [
+      "Lokal SEO för hudkliniker",
+      "SEO för behandlings- och tjänstesidor",
+      "Teknisk SEO",
+      "Omdömen och Google-företagsprofil",
+      "Rapportering",
+      "Vanliga frågor"
+    ],
+    "local": {
+      "badge": "Det lokala SEO-paketet",
+      "heading": "Åtta lokala hävstänger. Synkroniserade varje månad.",
+      "description": "Lokala rankningar ger resultat först när alla signaler drar åt samma håll — profil, närhet, recensioner, citeringar, innehåll och schema.",
+      "items": [
+        {
+          "title": "Optimering av Google Business Profile",
+          "desc": "Komplett GBP-översyn — kategorier, tjänster, attribut, Q&A och veckovisa inlägg kalibrerade för Map Pack-rankning."
+        },
+        {
+          "title": "Strategi för Map Pack-rankning",
+          "desc": "Närhet, prominens och relevans optimerad över hela ditt upptagningsområde — de tre signalerna som avgör topp 3-placeringar."
+        },
+        {
+          "title": "Geografiskt anpassade landningssidor",
+          "desc": "Unika, granskade landningssidor för varje stad och stadsdel du betjänar — inga tunna dubbletter, ingen intern konkurrens."
+        },
+        {
+          "title": "Recensionshantering och svar",
+          "desc": "Automatiserade förfrågningar efter besök, AI-stödda svar granskade av människor och schema-markup som visar stjärnor i sökresultatet."
+        },
+        {
+          "title": "Bygge av NAP-citeringar",
+          "desc": "Konsekventa uppgifter (namn, adress, telefon) i 80+ medicinska och lokala kataloger — granskas och bevakas månadsvis."
+        },
+        {
+          "title": "Lokal sökordsanalys",
+          "desc": "“Hudläkare nära mig”, diagnos + stad, ingrepp + postnummer — mappat mot de fraser som patienterna faktiskt skriver."
+        },
+        {
+          "title": "HIPAA-säkert lokalt schema",
+          "desc": "MedicalBusiness-, Physician- och LocalBusiness-schema per plats — rika sökresultat utan att exponera känslig patientdata (PHI)."
+        },
+        {
+          "title": "Lokal rankningsspårning",
+          "desc": "Daglig nätbaserad spårning kring varje klinikadress — rapporteras månadsvis på begriplig svenska, inte i krångliga grafer."
+        }
+      ]
+    },
+    "workflow": {
+      "badge": "Så fungerar det",
+      "heading": "En 90-dagars lokal lansering. Därefter långsiktig tillväxt.",
+      "description": "Tydliga milstolpar — du vet alltid vad som levereras denna månad och varför.",
+      "steps": [
+        {
+          "phase": "Fas 01",
+          "title": "Lokal analys & konkurrentkartläggning",
+          "desc": "Nätbaserad rankningsskanning kring din klinik, GBP-analys, gap-analys av citeringar och genomgång av de 3 främsta konkurrenterna i varje stad."
+        },
+        {
+          "phase": "Fas 02",
+          "title": "Sanering av GBP & citeringar",
+          "desc": "Total ombyggnad av Google Business Profile, korrigering av NAP-uppgifter i kataloger, rensning av dubbletter och kalibrering av kategorier."
+        },
+        {
+          "phase": "Fas 03",
+          "title": "Platssidor & lokalt schema",
+          "desc": "Unika landningssidor för tjänst-i-stad, MedicalBusiness-schema per plats, intern länkning och recensions-widgets."
+        },
+        {
+          "phase": "Fas 04",
+          "title": "Recensioner, inlägg & månadsrapport",
+          "desc": "Flöden för recensioner efter besök, veckovisa GBP-inlägg, lokalt innehåll samt rapportering av positioner och bokade besök."
+        }
+      ]
+    },
+    "reviews": {
+      "badge": "Varför hudläkarpraktiker väljer oss",
+      "heading": "Ett specialiserat SEO-team — inte en allmän byrå.",
+      "items": [
+        {
+          "title": "HIPAA-säkra recensionsflöden",
+          "desc": "BAA-täckta plattformar, PHI-rensade svar och eskalationsprotokoll för negativa recensioner granskade av klinisk personal."
+        },
+        {
+          "title": "Skalbarhet för flera kliniker",
+          "desc": "Unika geografiska sidor, platsspecifika GBP och eliminering av dubbletter för varje klinikadress ni driver."
+        },
+        {
+          "title": "Nätbaserad rankningsrapportering",
+          "desc": "Dagliga skanningar i ett rutnät kring varje klinik — inte bara en enstaka mätpunkt som missar lokala svängningar."
+        },
+        {
+          "title": "Attribuering av bokade besök",
+          "desc": "Spårning av samtal, vägbeskrivningar och formulär knutna till specifik stad och tjänst — verklig ROI, inte bara visningar."
+        },
+        {
+          "title": "Medicinska copywriters",
+          "desc": "In-house skribenter med klinisk bakgrund — inget AI-skräp eller anonyma frilansare; bara kvalitativt innehåll."
+        },
+        {
+          "title": "Begripliga rapporter",
+          "desc": "En sida, enkel svenska, varje månad. Rankning, recensioner, samtal, vägbeskrivningar och nästa steg."
+        }
+      ]
+    },
+    "medicalServices": {
+      "badge": "Medicinska tjänster vi lokaliserar",
+      "heading": "Varje diagnos. Varje stad. Varje sökintention.",
+      "description": "Varje medicinsk tjänst blir ett nav för tjänst + stad — E-E-A-T-anpassat, MedicalBusiness-schema och internt länkat i ert lokala nätverk.",
+      "list": [
+        "Aknebehandling",
+        "Eczemabehandling",
+        "Psoriasisbehandling",
+        "Behandling av hudinfektioner",
+        "Hudallergier",
+        "Screening och behandling av hudcancer",
+        "Leverfläcksanalys och medicinsk borttagning",
+        "Borttagning av cystor och lipom",
+        "Vårtbehandling",
+        "Nagelsjukdomar",
+        "Håravfall och medicinsk behandling",
+        "Hårbottensproblem",
+        "Rosaceabehandling",
+        "Hyperpigmentering & Melasma (medicinsk indikation)",
+        "Ärrbehandling (skada, kirurgi, sjukdom)",
+        "Behandling av brännskadeärr",
+        "Vitiligobehandling",
+        "Hudbiopsi och diagnostik"
+      ]
+    },
+    "content": {
+      "description": "Kartläggning av sökintentioner för diagnoser och ingrepp – akne, eksem, Mohs, biopsier – matchat mot patientresan. E-E-A-T-anpassade sidor granskade av experter, skrivna för både patienter och Google – aldrig tunt, aldrig AI-genererat.",
+      "items": [],
+      "list": [
+        "Aknebehandling",
+        "Eksembehandling",
+        "Psoriasisbehandling",
+        "Hudinfektioner",
+        "Hudallergier",
+        "Screening & behandling av hudcancer",
+        "Pricktest & födelsemärken",
+        "Borttagning av cystor och lipom",
+        "Vårtbehandling",
+        "Nagelsjukdomar",
+        "Håravfall",
+        "Hårbottensproblem",
+        "Rosaceabehandling",
+        "Hyperpigmentering & melasma",
+        "Ärrbehandling",
+        "Brännskadeärr",
+        "Vitiligobehandling",
+        "Hudbiopsi & diagnostik"
+      ]
+    },
+    "technical": {
+      "description": "Core Web Vitals, crawlbarhet, indexering, schema-markup och mobilfokus – en teknisk baslinje på 120 punkter innan innehållet rörs. LCP under 1 sek, nära noll i CLS samt bildoptimering – samma prestanda som marknadens bäst rankade kliniska sajter."
+    },
+    "reporting": {
+      "description": "Daglig spårning i GA4 och Search Console på dina 200 viktigaste sökord – rapporterat på ren svenska varje månad. Redaktionella länkar, lokala citeringar, hantering av omdömen och helt transparent månadsrapportering."
+    }
   }
 }

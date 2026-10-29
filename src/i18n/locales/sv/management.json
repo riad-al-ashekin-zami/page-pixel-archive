@@ -1,15 +1,25 @@
 {
   "meta": {
-    "title": "Förvaltning av webbplatser för dermatologer — Ett tillväxtfokuserat team",
+    "title": "Underhåll och hantering av hudklinikers webbplatser | DWD",
     "description": "Helhetslösning för hantering av din klinikwebbplats: dedikerad kontaktperson, månatligt innehåll, SEO, A/B-testning, konverteringsoptimering och ledningsrapportering. Utan bindningstid.",
     "og": {
-      "title": "Hantering av webbplatser för dermatologi — Ditt tillväxtteam",
-      "description": "En dedikerad arbetsgrupp driver din webbplats varje vecka — innehåll, SEO, CRO, kampanjer och rapportering. HIPAA-aware. Löpande per månad."
+      "title": "Underhåll och hantering av hudklinikers webbplatser | DWD",
+      "description": "Helhetslösning för hantering av din klinikwebbplats: dedikerad kontaktperson, månatligt innehåll, SEO, A/B-testning, konverteringsoptimering och ledningsrapportering. Utan bindningstid."
+    },
+    "ogTitle": "Underhåll och hantering av hudklinikers webbplatser | DWD",
+    "og_title": "Underhåll och hantering av hudklinikers webbplatser | DWD",
+    "twitter_title": "Underhåll och hantering av hudklinikers webbplatser | DWD",
+    "ogDescription": "Helhetslösning för hantering av din klinikwebbplats: dedikerad kontaktperson, månatligt innehåll, SEO, A/B-testning, konverteringsoptimering och ledningsrapportering. Utan bindningstid.",
+    "og_description": "Helhetslösning för hantering av din klinikwebbplats: dedikerad kontaktperson, månatligt innehåll, SEO, A/B-testning, konverteringsoptimering och ledningsrapportering. Utan bindningstid.",
+    "twitter_description": "Helhetslösning för hantering av din klinikwebbplats: dedikerad kontaktperson, månatligt innehåll, SEO, A/B-testning, konverteringsoptimering och ledningsrapportering. Utan bindningstid.",
+    "twitter": {
+      "title": "Underhåll och hantering av hudklinikers webbplatser | DWD",
+      "description": "Helhetslösning för hantering av din klinikwebbplats: dedikerad kontaktperson, månatligt innehåll, SEO, A/B-testning, konverteringsoptimering och ledningsrapportering. Utan bindningstid."
     }
   },
   "hero": {
     "badge": "Hantering av webbplats för dermatologi",
-    "headline": "Ett tillväxtteam som driver din klinikwebbplats — varje vecka.",
+    "headline": "Underhåll och hantering av hudklinikers webbplatser",
     "subheading": "Strategi, innehåll, SEO, konverteringstester och rapportering — allt sköts av en dedikerad grupp. Du kan sluta oroa dig för hemsidan och istället fokusera på att ta emot nya patienter.",
     "cta_primary": "Hämta din tillväxtplan",
     "cta_secondary": "Börja med en gratis audit",
@@ -454,5 +464,191 @@
     "service_type": "Hantering av webbplatser för dermatologi",
     "provider_name": "DermatologyWebsiteDesign.com",
     "offer_description": "Hantering av hemsidor för dermatologer — startpris per månad"
+  },
+  "merged": {
+    "heading": "Säker, HIPAA-medveten hosting",
+    "pillars": {
+      "badge": "Vad som ingår",
+      "title": "Varje del av din sajt — bevakad, patchad, optimerad.",
+      "description": "Sex grundpelare i vårt månatliga arbete. Inga dolda avgifter eller överraskande fakturor.",
+      "items": [
+        {
+          "title": "24/7 Driftövervakning",
+          "desc": "Hälsokontroller var 60:e sekund från 5 regioner. Vårt jourteam får larm innan din reception ens hinner märka något."
+        },
+        {
+          "title": "HIPAA-Aware uppdateringar",
+          "desc": "Uppdateringar av CMS, plugins och beroenden testas, granskas och distribueras i BAA-redo miljöer."
+        },
+        {
+          "title": "Daglig krypterad backup",
+          "desc": "Extern lagring med versionshistorik och återställning genom ett klick. Testas månadsvis — inte bara schemalagt och bortglömt."
+        },
+        {
+          "title": "Skanning av skadlig kod & sårbarheter",
+          "desc": "Veckovisa skanningar, kvartalsvisa penetrationstester och omedelbar patchning av alla CVE:er som påverkar din stack."
+        },
+        {
+          "title": "Bevakning av Core Web Vitals",
+          "desc": "LCP, INP och CLS spåras kontinuerligt — vi åtgärdar försämringar innan Google straffar din ranking."
+        },
+        {
+          "title": "SEO-hälsa på sidan",
+          "desc": "Brutna länkar, saknad schema-data och crawl-fel fångas upp varje månad och fixas direkt inom ramen för ditt avtal."
+        }
+      ]
+    },
+    "included": {
+      "badge": "Ingår varje månad",
+      "title": "16 saker vi gör för dig — varje månad.",
+      "list": [
+        "24/7 drift- & SSL-övervakning",
+        "Veckovisa CMS- & plugin-uppdateringar",
+        "Daglig krypterad extern backup",
+        "Skanning av skadlig kod & CVE-patchning",
+        "HIPAA-aware granskning av formulär & PHI",
+        "Övervakning av Core Web Vitals",
+        "SEO-hälsa & kontroll av brutna länkar",
+        "Databasoptimering",
+        "Finjustering av CDN & edge-cache",
+        "Triage av buggar & hotfix-utrullning",
+        "Timmar för innehålls- & designändringar",
+        "Månatlig resultatrapport",
+        "Proaktiva incidentlarm",
+        "Ändringslogg för regelefterlevnad",
+        "Tillgänglighetskontroll (WCAG AA)",
+        "Personlig kontoansvarig ingenjör"
+      ]
+    },
+    "flow": {
+      "badge": "Så fungerar det",
+      "title": "Från onboarding till en tryggare vardag, varje månad.",
+      "items": [
+        {
+          "step": "01",
+          "title": "Onboarding & Audit",
+          "desc": "Vi tar över din sajt med en fullständig granskning av säkerhet, prestanda, SEO och HIPAA — inget lämnas åt slumpen."
+        },
+        {
+          "step": "02",
+          "title": "Säkring & Baslinje",
+          "desc": "Patchning, verifiering av backup, uppsättning av övervakning och en dokumenterad baslinje för Core Web Vitals och ranking."
+        },
+        {
+          "step": "03",
+          "title": "Övervaka & Underhålla",
+          "desc": "24/7 bevakning, veckovisa uppdateringar, månatliga SEO-rapporter — plus dina dedikerade timmar för tillväxtarbete."
+        },
+        {
+          "step": "04",
+          "title": "Rapportera & Förbättra",
+          "desc": "Månatlig genomgång med en dedikerad tekniker. Hur kan vi göra din sajt snabbare, säkrare och mer synlig nästa månad?"
+        }
+      ]
+    },
+    "hosting": {
+      "description": "Vi planerar hosting utifrån uppgifterna webbplatsen hanterar. Vi granskar kryptering, behörigheter, säkerhetskopior, övervakning och leverantörsavtal. Detta ersätter inte klinikens egen regelefterlevnadsgranskning."
+    },
+    "planSummary": {
+      "badge": "Serviceavtal",
+      "title": "Förutsägbar prissättning. Inga låsta avtal. Riktiga experter.",
+      "description": "Alla planer löper månadsvis. Avsluta när du vill, behåll all kod och alla inloggningsuppgifter.",
+      "labels": {
+        "popular": "Mest populär",
+        "market": "Marknadsvärde:",
+        "edits_prefix": "Ändringar:",
+        "sla_prefix": "SLA",
+        "cta": "Välj {{name}}"
+      },
+      "tiers": [
+        {
+          "name": "Essential",
+          "tag": "Solomottagningar",
+          "price": "$299",
+          "per": "/mån",
+          "sla": "< 4 timmars svarstid",
+          "edits": "2 tim / mån",
+          "market": "$500 – $1 000 /mån",
+          "savings": "40–70 % billigare",
+          "features": [
+            "24/7 driftövervakning",
+            "Veckovisa plugin- & CMS-uppdateringar",
+            "Daglig krypterad backup",
+            "Skanning av skadlig kod + patchning",
+            "HIPAA-aware formulärgranskning (kvartalsvis)",
+            "Övervakning av Core Web Vitals",
+            "Månatlig resultatrapport",
+            "2 tim / mån innehållsändringar"
+          ]
+        },
+        {
+          "name": "Growth",
+          "tag": "Mottagningar med flera tjänster",
+          "price": "$599",
+          "per": "/mån",
+          "sla": "< 1 timmes svarstid",
+          "edits": "5 tim / mån",
+          "market": "$1 200 – $2 500 /mån",
+          "savings": "50–76 % billigare",
+          "features": [
+            "Allt i Essential",
+            "Veckovisa HIPAA-aware formulärgranskningar",
+            "SEO-hälsoanalyser & fixar",
+            "Bevakning av brutna länkar & schema",
+            "Finjustering av CDN & edge-cache",
+            "Triage av buggar & hotfix-utrullning",
+            "Personlig kontoansvarig ingenjör",
+            "5 tim / mån ändringar (innehåll + design)"
+          ]
+        },
+        {
+          "name": "Enterprise",
+          "tag": "Kedjor & Mohs-specialister",
+          "price": "$1 499",
+          "per": "/mån",
+          "sla": "< 15 min svarstid",
+          "edits": "Obegränsat*",
+          "market": "$3 000 – $6 000 /mån",
+          "savings": "50–75 % billigare",
+          "features": [
+            "Allt i Growth",
+            "Drifttids-dashboards per plats",
+            "24/7 roterande jourtekniker",
+            "Kvartalsvisa penetrationstester",
+            "Support för integration av EHR / Remisser",
+            "Tillgänglighetsrevisioner (WCAG AA)",
+            "Ändringsloggar för regelefterlevnad",
+            "Obegränsade* ändringar (fair use)"
+          ]
+        }
+      ]
+    },
+    "incidents": {
+      "badge": "Aktuella loggar",
+      "title": "Hur \"24/7\" ser ut i praktiken.",
+      "description": "Ett urval av incidenter vi upptäckte och åtgärdade detta kvartalet — innan våra kunder ens märkte det.",
+      "log": [
+        {
+          "title": "PHP RCE publicerad",
+          "detail": "Patchat på 47 kundsajter på 33 minuter. Noll exponering för risk."
+        },
+        {
+          "title": "Certifikat löper ut om 6 dagar",
+          "detail": "Förnyades automatiskt och implementerades under natten innan måndagstrafiken startade."
+        },
+        {
+          "title": "Origin 502 på 1 sajt",
+          "detail": "Failover till cache inom 40 sekunder. Jourtekniker återställde ursprungsservern på 8 minuter."
+        },
+        {
+          "title": "Regression i Google-indexering upptäckt",
+          "detail": "Felaktig noindex-tagg efter plugin-uppdatering — återställd och ny crawl begärd inom en timme."
+        },
+        {
+          "title": "Intagsformulär läckte PHI till analysverktyg",
+          "detail": "PII-tvätt implementerad, GA4-händelser rensade, logg för regelefterlevnad uppdaterad."
+        }
+      ]
+    }
   }
 }

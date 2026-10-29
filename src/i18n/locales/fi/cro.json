@@ -1,13 +1,25 @@
 {
   "meta": {
-    "title": "Ihotautien CRO-palvelut — Kaksinkertaista varaukset samalla kävijämäärällä",
+    "title": "Ihotautien CRO-palvelut | DWD",
     "description": "Konversio-optimointia ihotautilääkäreille. Lämpökartat, A/B-testaus, varauslomakkeiden uudistus, mobiili-UX ja Core Web Vitals — muuta kävijät vahvistetuiksi ajoiksi. HIPAA-yhteensopiva.",
-    "og_title": "Ihotautiklinikoiden konversio-optimointi — Enemmän varauksia samalla liikenteellä",
-    "og_description": "Käyttäytymistutkimusta, A/B-testausta ja suppilon optimointia ihotautilääkäreille. Mitattavia tuloksia 90 päivässä — HIPAA-huomioitu, ilman pitkiä sitoumuksia.",
+    "og_title": "Ihotautien CRO-palvelut | DWD",
+    "og_description": "Konversio-optimointia ihotautilääkäreille. Lämpökartat, A/B-testaus, varauslomakkeiden uudistus, mobiili-UX ja Core Web Vitals — muuta kävijät vahvistetuiksi ajoiksi. HIPAA-yhteensopiva.",
     "jsonLd": {
       "serviceType": "Ihotautiklinikoiden konversio-optimointi",
       "provider": "DermatologyWebsiteDesign.com",
       "offerDescription": "Ihotautiklinikan CRO-diagnostiikka — alkaen-hinta"
+    },
+    "ogTitle": "Ihotautien CRO-palvelut | DWD",
+    "twitter_title": "Ihotautien CRO-palvelut | DWD",
+    "ogDescription": "Konversio-optimointia ihotautilääkäreille. Lämpökartat, A/B-testaus, varauslomakkeiden uudistus, mobiili-UX ja Core Web Vitals — muuta kävijät vahvistetuiksi ajoiksi. HIPAA-yhteensopiva.",
+    "twitter_description": "Konversio-optimointia ihotautilääkäreille. Lämpökartat, A/B-testaus, varauslomakkeiden uudistus, mobiili-UX ja Core Web Vitals — muuta kävijät vahvistetuiksi ajoiksi. HIPAA-yhteensopiva.",
+    "og": {
+      "title": "Ihotautien CRO-palvelut | DWD",
+      "description": "Konversio-optimointia ihotautilääkäreille. Lämpökartat, A/B-testaus, varauslomakkeiden uudistus, mobiili-UX ja Core Web Vitals — muuta kävijät vahvistetuiksi ajoiksi. HIPAA-yhteensopiva."
+    },
+    "twitter": {
+      "title": "Ihotautien CRO-palvelut | DWD",
+      "description": "Konversio-optimointia ihotautilääkäreille. Lämpökartat, A/B-testaus, varauslomakkeiden uudistus, mobiili-UX ja Core Web Vitals — muuta kävijät vahvistetuiksi ajoiksi. HIPAA-yhteensopiva."
     }
   },
   "hero": {

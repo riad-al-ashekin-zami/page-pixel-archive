@@ -1,9 +1,23 @@
 {
   "meta": {
-    "title": "Tjänsteavtal — Allmänna villkor",
+    "title": "Tjänsteavtal | DWD",
     "description": "Tjänsteavtalet som reglerar projekt mellan vår studio och dermatologmottagningar — omfattning, leveranser, betalning, IP, sekretess, garantier och uppsägning.",
     "page_title": "Tjänsteavtal — Allmänna villkor",
-    "page_description": "Tjänsteavtalet som reglerar samarbeten mellan vår studio och dermatologiska kliniker — omfattar projektomfång, leveranser, betalning, immateriella rättigheter, sekretess, garantier och uppsägning."
+    "page_description": "Tjänsteavtalet som reglerar samarbeten mellan vår studio och dermatologiska kliniker — omfattar projektomfång, leveranser, betalning, immateriella rättigheter, sekretess, garantier och uppsägning.",
+    "ogTitle": "Tjänsteavtal | DWD",
+    "og_title": "Tjänsteavtal | DWD",
+    "twitter_title": "Tjänsteavtal | DWD",
+    "ogDescription": "Tjänsteavtalet som reglerar projekt mellan vår studio och dermatologmottagningar — omfattning, leveranser, betalning, IP, sekretess, garantier och uppsägning.",
+    "og_description": "Tjänsteavtalet som reglerar projekt mellan vår studio och dermatologmottagningar — omfattning, leveranser, betalning, IP, sekretess, garantier och uppsägning.",
+    "twitter_description": "Tjänsteavtalet som reglerar projekt mellan vår studio och dermatologmottagningar — omfattning, leveranser, betalning, IP, sekretess, garantier och uppsägning.",
+    "og": {
+      "title": "Tjänsteavtal | DWD",
+      "description": "Tjänsteavtalet som reglerar projekt mellan vår studio och dermatologmottagningar — omfattning, leveranser, betalning, IP, sekretess, garantier och uppsägning."
+    },
+    "twitter": {
+      "title": "Tjänsteavtal | DWD",
+      "description": "Tjänsteavtalet som reglerar projekt mellan vår studio och dermatologmottagningar — omfattning, leveranser, betalning, IP, sekretess, garantier och uppsägning."
+    }
   },
   "common": {
     "skip_to_content": "Hoppa till innehåll",

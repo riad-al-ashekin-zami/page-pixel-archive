@@ -1,11 +1,21 @@
 {
   "meta": {
-    "title": "Terms of Service",
+    "title": "Terms of Service | DWD",
     "description": "The terms that govern your use of our website, communications, and any services you engage from our studio.",
-    "og_title": "Terms of Service",
+    "og_title": "Terms of Service | DWD",
     "og_description": "The terms that govern your use of our website, communications, and any services you engage from our studio.",
-    "twitter_title": "Terms of Service",
-    "twitter_description": "The terms that govern your use of our website, communications, and any services you engage from our studio."
+    "twitter_title": "Terms of Service | DWD",
+    "twitter_description": "The terms that govern your use of our website, communications, and any services you engage from our studio.",
+    "ogTitle": "Terms of Service | DWD",
+    "ogDescription": "The terms that govern your use of our website, communications, and any services you engage from our studio.",
+    "og": {
+      "title": "Terms of Service | DWD",
+      "description": "The terms that govern your use of our website, communications, and any services you engage from our studio."
+    },
+    "twitter": {
+      "title": "Terms of Service | DWD",
+      "description": "The terms that govern your use of our website, communications, and any services you engage from our studio."
+    }
   },
   "a11y": {
     "skip_to_content": "Skip to content",

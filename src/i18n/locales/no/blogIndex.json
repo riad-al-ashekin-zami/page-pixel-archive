@@ -1,15 +1,14 @@
 {
   "meta": {
-    "title": "Blogg — Innsikt i markedsføring og vekststrategier for hudleger",
+    "title": "Blogg | DWD",
     "description": "Praktiske strategier for SEO, webdesign, pasientrekruttering, HIPAA, pasientomtaler og betalt annonsering – skrevet for vekstorienterte klinikkeiere.",
-    "keywords": "blogg om hudleger, SEO for hudleger, markedsføring for hudleger, klinikkvekst, HIPAA-nettsider",
     "og": {
-      "title": "Blogg om markedsføring for hudleger — Strategier som skaper vekst",
-      "description": "Dybdeartikler og lettleste taktikker for hudlegeklinikker. SEO, design, annonsering, omdømme og pasientopplevelse."
+      "title": "Blogg | DWD",
+      "description": "Praktiske strategier for SEO, webdesign, pasientrekruttering, HIPAA, pasientomtaler og betalt annonsering – skrevet for vekstorienterte klinikkeiere."
     },
     "twitter": {
-      "title": "Markedsføringsborg for hudleger",
-      "description": "Strategier for SEO, design, annonsering og pasientopplevelse for hudlegeklinikker."
+      "title": "Blogg | DWD",
+      "description": "Praktiske strategier for SEO, webdesign, pasientrekruttering, HIPAA, pasientomtaler og betalt annonsering – skrevet for vekstorienterte klinikkeiere."
     },
     "jsonLd": {
       "breadcrumb": {
@@ -20,12 +19,18 @@
         "name": "Blogg om markedsføring for hudleger",
         "description": "Strategier og innsikt om SEO, webdesign, annonsering, omdømme og pasientanskaffelse for hudleger."
       }
-    }
+    },
+    "ogTitle": "Blogg | DWD",
+    "og_title": "Blogg | DWD",
+    "twitter_title": "Blogg | DWD",
+    "ogDescription": "Praktiske strategier for SEO, webdesign, pasientrekruttering, HIPAA, pasientomtaler og betalt annonsering – skrevet for vekstorienterte klinikkeiere.",
+    "og_description": "Praktiske strategier for SEO, webdesign, pasientrekruttering, HIPAA, pasientomtaler og betalt annonsering – skrevet for vekstorienterte klinikkeiere.",
+    "twitter_description": "Praktiske strategier for SEO, webdesign, pasientrekruttering, HIPAA, pasientomtaler og betalt annonsering – skrevet for vekstorienterte klinikkeiere."
   },
   "hero": {
     "badge": "DermGrowth-journalen",
-    "title": "Oppskriften på en moderne hudlegepraksis.",
-    "description": "Felt-testede taktikker innen SEO, webdesign, betalt annonsering, omdømme og pasientopplevelse – skrevet av teamet som har lansert hundrevis av klinikker.",
+    "title": "Blogg",
+    "description": "Praktiske strategier for SEO, webdesign, pasientrekruttering, HIPAA, pasientomtaler og betalt annonsering – skrevet for vekstorienterte klinikkeiere.",
     "search": {
       "label": "Søk i artikler",
       "placeholder": "Søk etter SEO, annonser, HIPAA, redesign…",

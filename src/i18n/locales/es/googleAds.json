@@ -1,14 +1,14 @@
 {
   "meta": {
-    "title": "Google Ads y Gestión de PPC para Dermatología | Citas Médicas, no Clics",
+    "title": "Google Ads y Gestión de PPC para Dermatología | DWD",
     "description": "Gestión de Google Ads y PPC para clínicas dermatológicas: campañas de Búsqueda, LSA, YouTube y Performance Max optimizadas por costo por cita agendada y rentabilidad por servicio. Seguimiento compatible con HIPAA.",
     "og": {
-      "title": "Google Ads y PPC para Dermatología — Citas Agendadas, no Clics",
-      "description": "PPC que se paga solo: Búsqueda, LSA, YouTube y remarketing enfocados en el ROI por cita agendada para clínicas de dermatología."
+      "title": "Google Ads y Gestión de PPC para Dermatología | DWD",
+      "description": "Gestión de Google Ads y PPC para clínicas dermatológicas: campañas de Búsqueda, LSA, YouTube y Performance Max optimizadas por costo por cita agendada y rentabilidad por servicio. Seguimiento compatible con HIPAA."
     },
     "twitter": {
-      "title": "Gestión de Google Ads y PPC para Dermatología",
-      "description": "PPC orientado al costo por cita agendada para clínicas dermatológicas."
+      "title": "Google Ads y Gestión de PPC para Dermatología | DWD",
+      "description": "Gestión de Google Ads y PPC para clínicas dermatológicas: campañas de Búsqueda, LSA, YouTube y Performance Max optimizadas por costo por cita agendada y rentabilidad por servicio. Seguimiento compatible con HIPAA."
     },
     "jsonLd": {
       "serviceType": "Gestión de Google Ads y PPC para Clínicas Dermatológicas",
@@ -19,7 +19,13 @@
         "services": "Servicios",
         "ads": "Google Ads y PPC"
       }
-    }
+    },
+    "ogTitle": "Google Ads y Gestión de PPC para Dermatología | DWD",
+    "og_title": "Google Ads y Gestión de PPC para Dermatología | DWD",
+    "twitter_title": "Google Ads y Gestión de PPC para Dermatología | DWD",
+    "ogDescription": "Gestión de Google Ads y PPC para clínicas dermatológicas: campañas de Búsqueda, LSA, YouTube y Performance Max optimizadas por costo por cita agendada y rentabilidad por servicio. Seguimiento compatible con HIPAA.",
+    "og_description": "Gestión de Google Ads y PPC para clínicas dermatológicas: campañas de Búsqueda, LSA, YouTube y Performance Max optimizadas por costo por cita agendada y rentabilidad por servicio. Seguimiento compatible con HIPAA.",
+    "twitter_description": "Gestión de Google Ads y PPC para clínicas dermatológicas: campañas de Búsqueda, LSA, YouTube y Performance Max optimizadas por costo por cita agendada y rentabilidad por servicio. Seguimiento compatible con HIPAA."
   },
   "hero": {
     "badge": "Google Ads y PPC para Dermatología",

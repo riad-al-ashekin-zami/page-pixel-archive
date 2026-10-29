@@ -1,14 +1,14 @@
 {
   "meta": {
-    "title": "Dermatology Practice Growth Services | Booked-Visit Growth, Not Impressions",
+    "title": "Dermatology Practice Growth Services | DWD",
     "description": "Practice growth for dermatology clinics — patient acquisition, conversion optimization, retention automation, and revenue analytics tied to booked visits and service-line P&L.",
     "og": {
-      "title": "Dermatology Practice Growth — Booked Visits, Not Impressions",
-      "description": "End-to-end growth for solo and multi-location dermatology practices — acquisition, conversion, retention, and revenue analytics."
+      "title": "Dermatology Practice Growth Services | DWD",
+      "description": "Practice growth for dermatology clinics — patient acquisition, conversion optimization, retention automation, and revenue analytics tied to booked visits and service-line P&L."
     },
     "twitter": {
-      "title": "Dermatology Practice Growth Services",
-      "description": "Booked-visit growth for dermatology practices — measured on your P&L."
+      "title": "Dermatology Practice Growth Services | DWD",
+      "description": "Practice growth for dermatology clinics — patient acquisition, conversion optimization, retention automation, and revenue analytics tied to booked visits and service-line P&L."
     },
     "jsonLd": {
       "serviceType": "Dermatology Practice Growth Services",
@@ -19,7 +19,13 @@
         "services": "Services",
         "current": "Dermatology Practice Growth"
       }
-    }
+    },
+    "ogTitle": "Dermatology Practice Growth Services | DWD",
+    "og_title": "Dermatology Practice Growth Services | DWD",
+    "twitter_title": "Dermatology Practice Growth Services | DWD",
+    "ogDescription": "Practice growth for dermatology clinics — patient acquisition, conversion optimization, retention automation, and revenue analytics tied to booked visits and service-line P&L.",
+    "og_description": "Practice growth for dermatology clinics — patient acquisition, conversion optimization, retention automation, and revenue analytics tied to booked visits and service-line P&L.",
+    "twitter_description": "Practice growth for dermatology clinics — patient acquisition, conversion optimization, retention automation, and revenue analytics tied to booked visits and service-line P&L."
   },
   "hero": {
     "badge": "Dermatology Practice Growth",

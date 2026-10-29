@@ -1,3 +1,5 @@
+import { finalizeSeoHead } from "@/lib/seo-head";
+import { SeoMergedContent } from "@/components/sections/merged-owner-content";
 import { createFileRoute, notFound } from "@tanstack/react-router";
 import { LocalLink as Link } from "@/components/local-link";
 import { CtaLabel } from "@/lib/cta";
@@ -42,7 +44,7 @@ export const Route = createFileRoute("/{-$lang}/dermatology-seo-services")({
     stringify: (parsed: { lang?: string }) => ({ lang: parsed.lang ?? "" }),
   },
 
-  head: ({ params }) => {
+  head: (args) => finalizeSeoHead((({ params }: typeof args) => {
     const { lang } = params;
     const st = getStaticTranslation(lang, "seoServices");
     return {
@@ -101,13 +103,13 @@ export const Route = createFileRoute("/{-$lang}/dermatology-seo-services")({
           "@context": "https://schema.org", "@type": "BreadcrumbList",
           itemListElement: [
             { "@type": "ListItem", position: 1, name: st?.jsonLd?.breadcrumbs?.home, item: localizedUrl(resolveRouteLanguage(params.lang), "/") },
-            { "@type": "ListItem", position: 2, name: st?.jsonLd?.breadcrumbs?.services, item: localizedUrl(resolveRouteLanguage(params.lang), "/dermatology-website-design") },
+            { "@type": "ListItem", position: 2, name: st?.jsonLd?.breadcrumbs?.services, item: localizedUrl(resolveRouteLanguage(params.lang), "/") },
             { "@type": "ListItem", position: 3, name: st?.jsonLd?.breadcrumbs?.dermatology_seo, item: localizedUrl(resolveRouteLanguage(params.lang), "/dermatology-seo-services") },
           ],
         }) },
       ],
     };
-  },
+  })(args), args.params.lang, "/dermatology-seo-services"),
   component: SeoServicesPage,
 });
 
@@ -241,6 +243,8 @@ function SeoServicesPage() {
           </Reveal>
         </div>
       </section>
+
+      <SeoMergedContent />
 
       {/* PILLARS */}
       <section id="pillars" className="relative py-20 sm:py-24 lg:py-28">
@@ -451,7 +455,7 @@ function SeoServicesPage() {
 
         <p className="mx-auto mt-16 mb-20 max-w-3xl px-4 text-center text-sm text-muted-foreground sm:mt-20 sm:mb-24 sm:px-6 lg:px-8">
           {t("footer_links.pre_text")}{" "}
-          <Link to="/dermatology-local-seo-services" className="font-medium text-foreground underline-offset-4 hover:text-brand-primary hover:underline">{t("footer_links.local_seo")}</Link>,{" "}
+          <Link to="/dermatology-seo-services" className="font-medium text-foreground underline-offset-4 hover:text-brand-primary hover:underline">{t("footer_links.local_seo")}</Link>,{" "}
           <Link to="/blog/$slug" params={{ slug: "dermatology-marketing-strategies" }} className="font-medium text-foreground underline-offset-4 hover:text-brand-primary hover:underline">{t("footer_links.marketing_playbook")}</Link>, {t("common.or", { ns: "translation" })}{" "}
           <Link to="/dermatology-practice-growth" className="font-medium text-foreground underline-offset-4 hover:text-brand-primary hover:underline">{t("footer_links.practice_growth")}</Link>.
         </p>

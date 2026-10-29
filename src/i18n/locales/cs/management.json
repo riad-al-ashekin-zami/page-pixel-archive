@@ -1,15 +1,25 @@
 {
   "meta": {
-    "title": "Správa dermatologických webů — Tým zaměřený na růst",
+    "title": "Údržba a správa dermatologických webů | DWD",
     "description": "Komplexní správa webu pro dermatology: dedikovaný manažer, měsíční obsah, SEO, A/B testování a optimalizace konverzí. Bez závazků.",
     "og": {
-      "title": "Správa dermatologických webů — Váš tým pro růst",
-      "description": "Váš web spravuje každý týden dedikovaný tým — obsah, SEO, CRO, kampaně a reporting. HIPAA-aware. Měsíc po měsíci."
+      "title": "Údržba a správa dermatologických webů | DWD",
+      "description": "Komplexní správa webu pro dermatology: dedikovaný manažer, měsíční obsah, SEO, A/B testování a optimalizace konverzí. Bez závazků."
+    },
+    "ogTitle": "Údržba a správa dermatologických webů | DWD",
+    "og_title": "Údržba a správa dermatologických webů | DWD",
+    "twitter_title": "Údržba a správa dermatologických webů | DWD",
+    "ogDescription": "Komplexní správa webu pro dermatology: dedikovaný manažer, měsíční obsah, SEO, A/B testování a optimalizace konverzí. Bez závazků.",
+    "og_description": "Komplexní správa webu pro dermatology: dedikovaný manažer, měsíční obsah, SEO, A/B testování a optimalizace konverzí. Bez závazků.",
+    "twitter_description": "Komplexní správa webu pro dermatology: dedikovaný manažer, měsíční obsah, SEO, A/B testování a optimalizace konverzí. Bez závazků.",
+    "twitter": {
+      "title": "Údržba a správa dermatologických webů | DWD",
+      "description": "Komplexní správa webu pro dermatology: dedikovaný manažer, měsíční obsah, SEO, A/B testování a optimalizace konverzí. Bez závazků."
     }
   },
   "hero": {
     "badge": "Správa dermatologických webů",
-    "headline": "Tým pro růst, který se stará o váš web — každý týden.",
+    "headline": "Údržba a správa dermatologických webů",
     "subheading": "Strategie, obsah, SEO, testy konverzí a reporting pod taktovkou dedikovaného týmu. Přestaňte řešit web a začněte díky němu získávat nové pacienty.",
     "cta_primary": "Získat růstový plán",
     "cta_secondary": "Bezplatný audit zdarma",
@@ -454,5 +464,191 @@
     "service_type": "Dermatology Website Management Services",
     "provider_name": "DermatologyWebsiteDesign.com",
     "offer_description": "Správa dermatologických webů — počáteční měsíční cena"
+  },
+  "merged": {
+    "heading": "Bezpečný hosting s ohledem na HIPAA",
+    "pillars": {
+      "badge": "Co obsahuje plán péče",
+      "title": "Každá vrstva vašeho webu — hlídaná, opravená, vyladěná.",
+      "description": "Šest pilířů měsíční práce. Žádné příplatky, žádné překvapivé faktury.",
+      "items": [
+        {
+          "title": "24/7 Monitorování dostupnosti",
+          "desc": "Kontroly stavu každých 60 sekund z 5 regionů. Upozornění dostane náš technik dříve, než se o tom dozví vaše recepce."
+        },
+        {
+          "title": "Aktualizace dle HIPAA",
+          "desc": "Aktualizace CMS, pluginů a závislostí jsou testovány a nasazovány v rámci hostingu připraveného na BAA."
+        },
+        {
+          "title": "Denní šifrované zálohy",
+          "desc": "Externí, verzované zálohy s obnovou na jedno kliknutí. Každý měsíc testujeme funkčnost — nestačí nám jen zálohu naplánovat."
+        },
+        {
+          "title": "Skenování malwaru a zranitelností",
+          "desc": "Týdenní skeny, čtvrtletní penetrační testy a okamžité záplatování jakéhokoli CVE postihujícího váš technologický zásobník."
+        },
+        {
+          "title": "Dohled nad Core Web Vitals",
+          "desc": "LCP, INP a CLS jsou neustále sledovány — jakékoli zhoršení řešíme dříve, než Google negativně ovlivní vaše pozice."
+        },
+        {
+          "title": "Zdravé on-page SEO",
+          "desc": "Nefunkční odkazy, chybějící schemata, osiřelé stránky a chyby procházení zachycujeme a opravujeme každý měsíc v rámci plánu."
+        }
+      ]
+    },
+    "included": {
+      "badge": "Součástí každého měsíce",
+      "title": "16 věcí, které pro vás děláme — každý jednotlivý měsíc.",
+      "list": [
+        "24/7 monitoring dostupnosti a SSL",
+        "Týdenní aktualizace CMS a pluginů",
+        "Denní šifrované externí zálohy",
+        "Skenování malwaru a CVE záplatování",
+        "Audity formulářů a PHI v souladu s HIPAA",
+        "Monitorování Core Web Vitals",
+        "Kontrola SEO zdraví a nefunkčních odkazů",
+        "Optimalizace databáze",
+        "Ladění CDN a edge cache",
+        "Třídění chyb a nasazování oprav (hotfix)",
+        "Hodiny na úpravy obsahu a designu",
+        "Měsíční report o výkonu",
+        "Proaktivní upozornění na incidenty",
+        "Protokol změn v souladu s předpisy",
+        "Kontroly přístupnosti (WCAG AA)",
+        "Přidělený technik pro váš účet"
+      ]
+    },
+    "flow": {
+      "badge": "Jak funguje péče",
+      "title": "Od úvodního nastavení až po klidnější měsíc, pokaždé.",
+      "items": [
+        {
+          "step": "01",
+          "title": "Převzetí a audit",
+          "desc": "Váš web převezmeme po kompletním auditu bezpečnosti, výkonu, SEO a HIPAA — nic nemonitorujeme naslepo."
+        },
+        {
+          "step": "02",
+          "title": "Zabezpečení a nastavení",
+          "desc": "Záplatování, ověření záloh, nastavení monitoringu a zdokumentování výchozího stavu pro každé měřítko Core Web Vitals."
+        },
+        {
+          "step": "03",
+          "title": "Monitoring a údržba",
+          "desc": "24/7 dohled, týdenní aktualizace, měsíční SEO reporty — plus vaše hodiny na úpravy pro další růst."
+        },
+        {
+          "step": "04",
+          "title": "Reportování a zlepšování",
+          "desc": "Měsíční revize výkonu s vaším technikem. Kde můžeme příští měsíc web zrychlit, zabezpečit a posunout výše ve vyhledávání?"
+        }
+      ]
+    },
+    "hosting": {
+      "description": "Hosting plánujeme podle zpracovávaných údajů. Prověřujeme šifrování, přístup, zálohy, monitoring a smlouvy s dodavateli. Nenahrazuje to vlastní posouzení souladu kliniky."
+    },
+    "planSummary": {
+      "badge": "Plány péče",
+      "title": "Předvídatelná cena. Žádné úvazky. Skuteční inženýři.",
+      "description": "Každý plán je měsíční. Můžete jej kdykoli zrušit, veškerý kód i přístupy zůstávají vám.",
+      "labels": {
+        "popular": "Nejoblíbenější",
+        "market": "Tržní cena:",
+        "edits_prefix": "Úpravy:",
+        "sla_prefix": "SLA",
+        "cta": "Zvolit {{name}}"
+      },
+      "tiers": [
+        {
+          "name": "Essential",
+          "tag": "Samostatné praxe",
+          "price": "299 $",
+          "per": "/měsíc",
+          "sla": "odezva < 4 hodiny",
+          "edits": "2 h / měs",
+          "market": "500 – 1 000 $ /měs",
+          "savings": "o 40–70 % levnější",
+          "features": [
+            "24/7 monitoring dostupnosti",
+            "Týdenní aktualizace pluginů a CMS",
+            "Denní šifrované zálohy",
+            "Skenování malwaru + záplatování",
+            "Audit formulářů dle HIPAA (čtvrtletně)",
+            "Monitorování Core Web Vitals",
+            "Měsíční report výkonu",
+            "2 hodiny měsíčně na úpravy obsahu"
+          ]
+        },
+        {
+          "name": "Growth",
+          "tag": "Víceoborové praxe",
+          "price": "599 $",
+          "per": "/měsíc",
+          "sla": "odezva < 1 hodina",
+          "edits": "5 h / měs",
+          "market": "1 200 – 2 500 $ /měs",
+          "savings": "o 50–76 % levnější",
+          "features": [
+            "Vše z plánu Essential",
+            "Týdenní audity formulářů dle HIPAA",
+            "Kontrola a opravy SEO zdraví",
+            "Monitorování nefunkčních odkazů a schémat",
+            "Ladění CDN a edge cache",
+            "Třídění chyb a nasazování hotfixů",
+            "Vlastní přidělený technik",
+            "5 hodin měsíčně na úpravy obsahu a designu"
+          ]
+        },
+        {
+          "name": "Enterprise",
+          "tag": "Vícepobočkové a Mohsovy skupiny",
+          "price": "1 499 $",
+          "per": "/měsíc",
+          "sla": "odezva < 15 minut",
+          "edits": "Neomezeně*",
+          "market": "3 000 – 6 000 $ /měs",
+          "savings": "o 50–75 % levnější",
+          "features": [
+            "Vše z plánu Growth",
+            "Dashboard dostupnosti pro každou pobočku",
+            "24/7 rotace pohotovostního technika",
+            "Čtvrtletní penetrační testování",
+            "Podpora integrace doporučení / EHR",
+            "Audity přístupnosti (WCAG AA)",
+            "Protokol změn a schvalování souladu",
+            "Neomezené* hodiny úprav (fair use)"
+          ]
+        }
+      ]
+    },
+    "incidents": {
+      "badge": "Protokol nedávných incidentů",
+      "title": "Jak ve skutečnosti vypadá „24/7“.",
+      "description": "Živá ukázka incidentů, které jsme zachytili a vyřešili v tomto čtvrtletí — dříve, než si jich naši klienti vůbec všimli.",
+      "log": [
+        {
+          "title": "Publikováno PHP RCE",
+          "detail": "Opraveno na 47 klientských webech během 33 minut. Nulové okno ohrožení."
+        },
+        {
+          "title": "SSL certifikát expiroval za 6 dní",
+          "detail": "Automaticky obnoven a nasazen přes noc před pondělním ranním náporem návštěvnosti."
+        },
+        {
+          "title": "Chyba Origin 502 na 1 webu",
+          "detail": "Přepnutí na mezipaměť během 40 sekund. Hotovostní technik obnovil zdroj do 8 minut."
+        },
+        {
+          "title": "Zjištěn pokles indexace Google",
+          "detail": "Chybný tag noindex z aktualizace pluginu — vráceno zpět, vyžádáno nové prolezení webu během téže hodiny."
+        },
+        {
+          "title": "Formulář únikem PHI do analytiky",
+          "detail": "Nasazen čistič PII údajů, vyčištěny události GA4, aktualizován protokol o shodě (compliance)."
+        }
+      ]
+    }
   }
 }

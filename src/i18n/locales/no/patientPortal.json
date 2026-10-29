@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "Design og utvikling av pasientportal for dermatologi | HIPAA-kompatibel",
+    "title": "Design og utvikling av pasientportal for dermatologi | DWD",
     "description": "Skreddersydd HIPAA-kompatibel pasientportal for hudleger: nettbooking, sikre meldinger, teledermatologi, digitale skjemaer, betaling og EPJ-integrasjon. Bygget for klinikker, barnehudleger og Mohs-kirurgi.",
-    "og_title": "Design og utvikling av pasientportal for dermatologi",
-    "og_description": "HIPAA-tilpassede pasientportaler utviklet for hudlegepraksis – booking, meldinger, teledermatologi, digitale inntaksskjemaer og EPJ-integrasjon.",
-    "twitter_title": "Design og utvikling av pasientportal for dermatologi",
-    "twitter_description": "HIPAA-tilpassede pasientportaler utviklet spesifikt for hudlegepraksis.",
+    "og_title": "Design og utvikling av pasientportal for dermatologi | DWD",
+    "og_description": "Skreddersydd HIPAA-kompatibel pasientportal for hudleger: nettbooking, sikre meldinger, teledermatologi, digitale skjemaer, betaling og EPJ-integrasjon. Bygget for klinikker, barnehudleger og Mohs-kirurgi.",
+    "twitter_title": "Design og utvikling av pasientportal for dermatologi | DWD",
+    "twitter_description": "Skreddersydd HIPAA-kompatibel pasientportal for hudleger: nettbooking, sikre meldinger, teledermatologi, digitale skjemaer, betaling og EPJ-integrasjon. Bygget for klinikker, barnehudleger og Mohs-kirurgi.",
     "jsonLd": {
       "serviceType": "Design og utvikling av pasientportal for dermatologi",
       "provider": "DermatologyWebsiteDesign.com",
@@ -14,6 +14,16 @@
       "breadcrumb_home": "Hjem",
       "breadcrumb_services": "Tjenester",
       "breadcrumb_portal": "Pasientportal"
+    },
+    "ogTitle": "Design og utvikling av pasientportal for dermatologi | DWD",
+    "ogDescription": "Skreddersydd HIPAA-kompatibel pasientportal for hudleger: nettbooking, sikre meldinger, teledermatologi, digitale skjemaer, betaling og EPJ-integrasjon. Bygget for klinikker, barnehudleger og Mohs-kirurgi.",
+    "og": {
+      "title": "Design og utvikling av pasientportal for dermatologi | DWD",
+      "description": "Skreddersydd HIPAA-kompatibel pasientportal for hudleger: nettbooking, sikre meldinger, teledermatologi, digitale skjemaer, betaling og EPJ-integrasjon. Bygget for klinikker, barnehudleger og Mohs-kirurgi."
+    },
+    "twitter": {
+      "title": "Design og utvikling av pasientportal for dermatologi | DWD",
+      "description": "Skreddersydd HIPAA-kompatibel pasientportal for hudleger: nettbooking, sikre meldinger, teledermatologi, digitale skjemaer, betaling og EPJ-integrasjon. Bygget for klinikker, barnehudleger og Mohs-kirurgi."
     }
   },
   "hero": {

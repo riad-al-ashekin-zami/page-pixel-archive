@@ -1,15 +1,25 @@
 {
   "meta": {
-    "title": "Servizi di Gestione Siti Web per Dermatologia — Focus sulla Crescita",
+    "title": "Manutenzione e Gestione di Siti Web Dermatologici | DWD",
     "description": "Gestione completa di siti web dermatologici: account manager dedicato, contenuti mensili, gestione SEO, test A/B, ottimizzazione delle conversioni e reportistica direzionale. Senza vincoli contrattuali.",
     "og": {
-      "title": "Gestione Siti Web per Dermatologia — Il tuo Growth Team",
-      "description": "Un team dedicato gestisce il tuo sito ogni settimana: contenuti, SEO, CRO, campagne e report. HIPAA-aware. Rinnovo mese su mese."
+      "title": "Manutenzione e Gestione di Siti Web Dermatologici | DWD",
+      "description": "Gestione completa di siti web dermatologici: account manager dedicato, contenuti mensili, gestione SEO, test A/B, ottimizzazione delle conversioni e reportistica direzionale. Senza vincoli contrattuali."
+    },
+    "ogTitle": "Manutenzione e Gestione di Siti Web Dermatologici | DWD",
+    "og_title": "Manutenzione e Gestione di Siti Web Dermatologici | DWD",
+    "twitter_title": "Manutenzione e Gestione di Siti Web Dermatologici | DWD",
+    "ogDescription": "Gestione completa di siti web dermatologici: account manager dedicato, contenuti mensili, gestione SEO, test A/B, ottimizzazione delle conversioni e reportistica direzionale. Senza vincoli contrattuali.",
+    "og_description": "Gestione completa di siti web dermatologici: account manager dedicato, contenuti mensili, gestione SEO, test A/B, ottimizzazione delle conversioni e reportistica direzionale. Senza vincoli contrattuali.",
+    "twitter_description": "Gestione completa di siti web dermatologici: account manager dedicato, contenuti mensili, gestione SEO, test A/B, ottimizzazione delle conversioni e reportistica direzionale. Senza vincoli contrattuali.",
+    "twitter": {
+      "title": "Manutenzione e Gestione di Siti Web Dermatologici | DWD",
+      "description": "Gestione completa di siti web dermatologici: account manager dedicato, contenuti mensili, gestione SEO, test A/B, ottimizzazione delle conversioni e reportistica direzionale. Senza vincoli contrattuali."
     }
   },
   "hero": {
     "badge": "Gestione Siti Web Dermatologici",
-    "headline": "Un team orientato alla crescita che gestisce il tuo sito — ogni settimana.",
+    "headline": "Manutenzione e Gestione di Siti Web Dermatologici",
     "subheading": "Strategia, contenuti, SEO, test di conversione e reportistica gestiti da un team dedicato. Smetti di preoccuparti del sito e inizia a ricevere nuovi pazienti.",
     "cta_primary": "Ottieni un piano di crescita",
     "cta_secondary": "Analisi gratuita iniziale",
@@ -454,5 +464,191 @@
     "service_type": "Servizi di Gestione Siti Web per Dermatologia",
     "provider_name": "DermatologyWebsiteDesign.com",
     "offer_description": "Gestione sito web dermatologia — prezzo di partenza mensile"
+  },
+  "merged": {
+    "heading": "Hosting Sicuro e Attento a HIPAA",
+    "pillars": {
+      "badge": "Cosa include il piano",
+      "title": "Ogni livello del tuo sito: sorvegliato, aggiornato, ottimizzato.",
+      "description": "Sei pilastri di lavoro mensile. Nessun costo aggiuntivo, nessuna fattura a sorpresa.",
+      "items": [
+        {
+          "title": "Monitoraggio Uptime 24/7",
+          "desc": "Controlli dello stato ogni 60 secondi da 5 regioni. Gli avvisi arrivano ai nostri tecnici prima ancora che la tua reception se ne accorga."
+        },
+        {
+          "title": "Aggiornamenti HIPAA",
+          "desc": "Aggiornamenti di CMS, plugin e dipendenze testati in staging e distribuiti su hosting pronto per BAA."
+        },
+        {
+          "title": "Backup giornalieri crittografati",
+          "desc": "Off-site, versionati e con ripristino in un clic. Testati mensilmente — non solo programmati e dimenticati."
+        },
+        {
+          "title": "Scansione Malware e vulnerabilità",
+          "desc": "Scansioni settimanali, controlli di penetrazione trimestrali e patching immediato di qualsiasi CVE che interessi il tuo stack."
+        },
+        {
+          "title": "Monitoraggio Core Web Vitals",
+          "desc": "LCP, INP e CLS tracciati continuamente: risolviamo i cali di prestazioni prima che Google penalizzi il tuo ranking."
+        },
+        {
+          "title": "Salute SEO On-Page",
+          "desc": "Link interrotti, schema mancanti, pagine orfane ed errori di scansione individuati mensilmente e risolti all'interno del piano."
+        }
+      ]
+    },
+    "included": {
+      "badge": "Incluso ogni mese",
+      "title": "16 attività che svolgiamo per te — ogni singolo mese.",
+      "list": [
+        "Monitoraggio uptime e SSL 24/7",
+        "Aggiornamenti settimanali CMS e plugin",
+        "Backup giornalieri crittografati off-site",
+        "Scansioni malware e patching CVE",
+        "Audit moduli e PHI conformi a HIPAA",
+        "Monitoraggio Core Web Vitals",
+        "SEO health e scansione link interrotti",
+        "Ottimizzazione del database",
+        "Messa a punto CDN ed edge cache",
+        "Triage bug e hotfix rapidi",
+        "Ore dedicate a modifiche contenuti e design",
+        "Report mensile sulle prestazioni",
+        "Avvisi proattivi sugli incidenti",
+        "Registro modifiche di conformità",
+        "Controlli accessibilità (WCAG AA)",
+        "Responsabile tecnico dedicato"
+      ]
+    },
+    "flow": {
+      "badge": "Come funziona l'assistenza",
+      "title": "Dall'avvio a un mese senza stress, ogni mese.",
+      "items": [
+        {
+          "step": "01",
+          "title": "Onboarding e Audit",
+          "desc": "Prendiamo in carico il tuo sito con un audit completo su sicurezza, performance, SEO e HIPAA — nulla viene monitorato alla cieca."
+        },
+        {
+          "step": "02",
+          "title": "Messa in sicurezza",
+          "desc": "Applicazione patch, verifica backup, configurazione monitoraggio e creazione di una baseline documentata per ogni Core Web Vital e posizione SEO."
+        },
+        {
+          "step": "03",
+          "title": "Monitoraggio e Manutenzione",
+          "desc": "Monitoraggio 24/7, aggiornamenti settimanali, report mensili — oltre alle ore incluse per far crescere il tuo business."
+        },
+        {
+          "step": "04",
+          "title": "Analisi e Miglioramento",
+          "desc": "Revisione mensile delle prestazioni con un ingegnere dedicato. Per rendere il tuo sito più veloce, sicuro e visibile il mese successivo."
+        }
+      ]
+    },
+    "hosting": {
+      "description": "Pianifichiamo l’hosting in base ai dati trattati. Verifichiamo crittografia, accessi, backup, monitoraggio e accordi con i fornitori. Non sostituisce la verifica di conformità della clinica."
+    },
+    "planSummary": {
+      "badge": "Piani di assistenza",
+      "title": "Prezzi trasparenti. Nessun vincolo. Veri ingegneri.",
+      "description": "Ogni piano è a rinnovo mensile. Disdici quando vuoi, mantenendo tutto il codice e le credenziali.",
+      "labels": {
+        "popular": "Più popolare",
+        "market": "Mercato:",
+        "edits_prefix": "Modifiche:",
+        "sla_prefix": "SLA",
+        "cta": "Scegli l'offerta {{name}}"
+      },
+      "tiers": [
+        {
+          "name": "Essential",
+          "tag": "Studi singoli",
+          "price": "299 $",
+          "per": "/mese",
+          "sla": "Risposta < 4 ore",
+          "edits": "2 ore / mese",
+          "market": "500 $ – 1.000 $ /mese",
+          "savings": "40–70% più conveniente",
+          "features": [
+            "Monitoraggio uptime 24/7",
+            "Aggiornamenti settimanali plugin e CMS",
+            "Backup giornalieri crittografati",
+            "Scansioni malware + patching",
+            "Audit moduli HIPAA (trimestrale)",
+            "Monitoraggio Core Web Vitals",
+            "Report mensile sulle prestazioni",
+            "2 ore / mese di modifiche contenuti"
+          ]
+        },
+        {
+          "name": "Growth",
+          "tag": "Studi polispecialistici",
+          "price": "599 $",
+          "per": "/mese",
+          "sla": "Risposta < 1 ora",
+          "edits": "5 ore / mese",
+          "market": "1.200 $ – 2.500 $ /mese",
+          "savings": "50–76% più conveniente",
+          "features": [
+            "Tutto ciò che è in Essential",
+            "Audit settimanali moduli HIPAA",
+            "Scansioni e correzioni SEO health",
+            "Monitoraggio link interrotti e schema",
+            "Messa a punto CDN ed edge cache",
+            "Triage bug e hotfix rapidi",
+            "Ingegnere dedicato",
+            "5 ore / mese di modifiche (contenuti + design)"
+          ]
+        },
+        {
+          "name": "Enterprise",
+          "tag": "Gruppi multi-sede e Mohs",
+          "price": "1.499 $",
+          "per": "/mese",
+          "sla": "Risposta < 15 minuti",
+          "edits": "Illimitate*",
+          "market": "3.000 $ – 6.000 $ /mese",
+          "savings": "50–75% più conveniente",
+          "features": [
+            "Tutto ciò che è in Growth",
+            "Dashboard uptime per singola sede",
+            "Ingegnere reperibile 24/7",
+            "Penetration test trimestrali",
+            "Supporto integrazione Referral / EHR",
+            "Audit di accessibilità (WCAG AA)",
+            "Registro modifiche conformità e approvazione",
+            "Ore di modifica illimitate* (fair use)"
+          ]
+        }
+      ]
+    },
+    "incidents": {
+      "badge": "Registro incidenti recenti",
+      "title": "Cosa significa davvero prevenzione 24/7.",
+      "description": "Un campione reale di incidenti che abbiamo rilevato e risolto in questo trimestre — prima che i nostri clienti se ne accorgessero.",
+      "log": [
+        {
+          "title": "Pubblicato PHP RCE",
+          "detail": "Patch applicata su 47 siti clienti in 33 minuti. Finestra di esposizione nulla."
+        },
+        {
+          "title": "Certificato in scadenza tra 6 giorni",
+          "detail": "Rinnovato e distribuito automaticamente di notte prima del traffico del lunedì mattina."
+        },
+        {
+          "title": "Errore 502 Origin su 1 sito",
+          "detail": "Failover su cache entro 40s. L'ingegnere reperibile ha ripristinato l'origine in 8 minuti."
+        },
+        {
+          "title": "Regresso indicizzazione Google rilevato",
+          "detail": "Tag noindex errato dopo un aggiornamento plugin — ripristinato e richiesta nuova scansione entro un'ora."
+        },
+        {
+          "title": "Modulo contatti con perdita PHI negli analytics",
+          "detail": "Distribuito scrubber PII, bonificati gli eventi GA4, aggiornato il registro di conformità."
+        }
+      ]
+    }
   }
 }

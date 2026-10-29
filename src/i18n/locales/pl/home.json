@@ -1,18 +1,36 @@
 {
   "meta": {
-    "title": "Projektowanie stron dla dermatologów — platformy wzrostu zgodne z HIPAA",
-    "description": "Strony internetowe zgodne z HIPAA, SEO i marketing dla gabinetów dermatologicznych. Darmowy audyt strony w 24 godziny.",
-    "orgDescription": "Projektowanie stron dla dermatologii zgodnych z HIPAA, SEO i marketing wzrostu dla praktyk jedno- i wielooddziałowych."
+    "title": "Projektowanie stron dla dermatologów i klinik | DWD",
+    "description": "Projektowanie stron dla dermatologów i klinik: szybkie strony uwzględniające HIPAA, które pomagają pacjentom rezerwować wizyty.",
+    "orgDescription": "Projektowanie stron dla dermatologii zgodnych z HIPAA, SEO i marketing wzrostu dla praktyk jedno- i wielooddziałowych.",
+    "ogTitle": "Projektowanie stron dla dermatologów i klinik | DWD",
+    "og_title": "Projektowanie stron dla dermatologów i klinik | DWD",
+    "twitter_title": "Projektowanie stron dla dermatologów i klinik | DWD",
+    "ogDescription": "Projektowanie stron dla dermatologów i klinik: szybkie strony uwzględniające HIPAA, które pomagają pacjentom rezerwować wizyty.",
+    "og_description": "Projektowanie stron dla dermatologów i klinik: szybkie strony uwzględniające HIPAA, które pomagają pacjentom rezerwować wizyty.",
+    "twitter_description": "Projektowanie stron dla dermatologów i klinik: szybkie strony uwzględniające HIPAA, które pomagają pacjentom rezerwować wizyty.",
+    "og": {
+      "title": "Projektowanie stron dla dermatologów i klinik | DWD",
+      "description": "Projektowanie stron dla dermatologów i klinik: szybkie strony uwzględniające HIPAA, które pomagają pacjentom rezerwować wizyty."
+    },
+    "twitter": {
+      "title": "Projektowanie stron dla dermatologów i klinik | DWD",
+      "description": "Projektowanie stron dla dermatologów i klinik: szybkie strony uwzględniające HIPAA, które pomagają pacjentom rezerwować wizyty."
+    }
   },
   "hero": {
     "badge": "Zgodność z HIPAA",
     "badgeSecondary": "Zorientowane na konwersję",
-    "headline": "Prestiżowe strony, które rozwijają nowoczesne",
-    "headlineAccent": "praktyki dermatologiczne.",
+    "headline": "Projektowanie stron dla dermatologów",
+    "headlineAccent": "",
     "subhead": "Indywidualnie zaprojektowane, zoptymalizowane pod SEO serwisy, które budują zaufanie, przyciągają nowych pacjentów i zwiększają Twoją obecność online.",
     "ctaPrimary": "Uzyskaj bezpłatną wycenę",
     "ctaSecondary": "Zamów bezpłatny audyt",
-    "heroImageAlt": "Kompozycja projektu strony dermatologicznej prezentująca widok na komputerze, telefonie, analitykę, rezerwacje oraz zgodność z HIPAA"
+    "heroImageAlt": "Kompozycja projektu strony dermatologicznej prezentująca widok na komputerze, telefonie, analitykę, rezerwacje oraz zgodność z HIPAA",
+    "introParagraphs": [
+      "Projektowanie stron dla dermatologów powinno ułatwiać pacjentom zrozumienie zabiegów, zaufanie klinice i wybór kolejnego kroku. Tworzymy szybkie strony uwzględniające HIPAA, dopasowane do usług, zespołu i rezerwacji.",
+      "Strona kliniki dermatologicznej wymaga czegoś więcej niż atrakcyjnej strony głównej. Jasne informacje o zabiegach, dostępna nawigacja i łatwe umawianie wizyt wspierają pacjentów w całym serwisie."
+    ]
   },
   "stats": {
     "websites": {
@@ -63,5 +81,201 @@
     "auditLink": "bezpłatnego audytu Twojej obecnej strony",
     "suffix": "."
   },
-  "skip": "Przejdź do treści"
+  "skip": "Przejdź do treści",
+  "merged": {
+    "sections": [
+      "Co zawierają nasze strony dermatologiczne",
+      "Dlaczego kliniki dermatologiczne nas wybierają",
+      "Nasz proces projektowania",
+      "Zobacz nasze realizacje",
+      "Rozwijaj klinikę po uruchomieniu",
+      "Ceny",
+      "Najczęściej zadawane pytania"
+    ],
+    "audience": {
+      "tag": "Dla kogo projektujemy",
+      "title": "Rozwiązania dla każdego profilu działalności",
+      "description": "Od butikowych gabinetów po rozbudowane grupy chirurgiczne.",
+      "items": [
+        {
+          "label": "Praktyki indywidualne",
+          "desc": "Strony budujące markę osobistą lekarza i zwiększające liczbę wizyt."
+        },
+        {
+          "label": "Kliniki wielooddziałowe",
+          "desc": "Skalowalna architektura z podstronami dla lokalizacji, personelu i dojazdu."
+        },
+        {
+          "label": "Dermatologia dziecięca",
+          "desc": "Przyjazny interfejs dla rodziców z intuicyjnym systemem zapisów."
+        },
+        {
+          "label": "Chirurgia Mohsa i zabiegowa",
+          "desc": "Design budujący autorytet wśród lekarzy kierujących i pacjentów."
+        }
+      ]
+    },
+    "pillars": {
+      "tag": "Standard Premium",
+      "title": "Sześć filarów każdego projektu",
+      "description": "Design, technologia, SEO i zgodność prawna — zintegrowane od pierwszego dnia pracy.",
+      "items": [
+        {
+          "title": "100% Autorski Design",
+          "desc": "Zapomnij o szablonach. Każda sekcja i ilustracja powstaje z myślą o Twojej marce."
+        },
+        {
+          "title": "Lighthouse 95+",
+          "desc": "Obsesyjna dbałość o wydajność: optymalizacja obrazów, edge caching i lekki kod JS."
+        },
+        {
+          "title": "Zaawansowane SEO",
+          "desc": "Semantyczny HTML, schema i architektura treści pod zapytania lokalne i medyczne."
+        },
+        {
+          "title": "Zgodność z HIPAA",
+          "desc": "Szyfrowane formularze, brak wycieków danych PHI i infrastruktura gotowa na audyt."
+        },
+        {
+          "title": "Pełna responsywność",
+          "desc": "Perfekcyjne wyświetlanie na każdym urządzeniu. Testowane na realnym sprzęcie."
+        },
+        {
+          "title": "Dostępność (WCAG AA)",
+          "desc": "Obsługa klawiaturą, odpowiedni kontrast i czytelność dla osób niedowidzących."
+        }
+      ]
+    },
+    "medicalServices": {
+      "tag": "Zakres usług medycznych",
+      "title": "Podstrony usług, które pozycjonują i przekonują",
+      "description": "Zoptymalizowane pod SEO podstrony dla każdego zabiegu w ofercie — merytoryczne, przystępne dla pacjenta i wspierające konwersję.",
+      "features": [
+        "Struktura treści zweryfikowana medycznie",
+        "Sekcje H1 / H2 / FAQ dopasowane do słów kluczowych",
+        "Formularze konsultacyjne zgodne z HIPAA",
+        "Szybkie, indeksowalne szablony mobile-first"
+      ],
+      "list": [
+        "Leczenie trądziku",
+        "Leczenie egzemy",
+        "Leczenie łuszczycy",
+        "Infekcje skórne",
+        "Alergie skórne",
+        "Badanie i leczenie raka skóry",
+        "Badanie i usuwanie znamion",
+        "Usuwanie cyst i tłuszczaków",
+        "Usuwanie brodawek",
+        "Choroby paznokci",
+        "Leczenie wypadania włosów",
+        "Choroby skóry głowy",
+        "Leczenie trądziku różowatego",
+        "Przebarwienia i ostuda",
+        "Usuwanie blizn",
+        "Blizny pooparzeniowe",
+        "Bielactwo",
+        "Biopsja skóry i diagnostyka"
+      ]
+    },
+    "process": {
+      "tag": "Nasz Proces",
+      "title": "Przejrzysta współpraca z ekspertami",
+      "description": "Cztery etapy realizacji — bez niespodzianek, z pełną transparentnością.",
+      "steps": [
+        {
+          "step": "01",
+          "title": "Analiza i pozycjonowanie",
+          "desc": "Audyt praktyki, profilowanie pacjentów, analiza konkurencji i ustalenie celów."
+        },
+        {
+          "step": "02",
+          "title": "System Designu",
+          "desc": "Dedykowana typografia, kolorystyka i biblioteka komponentów spójna z Twoją marką."
+        },
+        {
+          "step": "03",
+          "title": "Programowanie i SEO",
+          "desc": "Ręczne kodowanie, wdrożenie danych schema i optymalizacja pod rankingi Google."
+        },
+        {
+          "step": "04",
+          "title": "Launch i rozwój",
+          "desc": "Analityka, testy konwersji i opieka powdrożeniowa dla stałego wzrostu wyników."
+        }
+      ]
+    },
+    "faqs": [
+      {
+        "q": "Ile trwa stworzenie dedykowanej strony dla dermatologa?",
+        "a": "Zazwyczaj proces zajmuje od 6 do 10 tygodni, zależnie od liczby podstron i gotowości treści. Pracujemy sprawnie dzięki tygodniowym sprintom i jasnym etapom."
+      },
+      {
+        "q": "Czy strona jest zgodna z HIPAA?",
+        "a": "Tak, stosujemy architekturę zgodną z HIPAA: szyfrowane formularze, bezpieczny hosting z partnerami BAA oraz brak wycieku danych PHI do systemów analitycznych."
+      },
+      {
+        "q": "Czy będę właścicielem projektu i kodu?",
+        "a": "Tak. Po premierze pełna własność plików graficznych, kodu i treści przechodzi na Ciebie. Brak ukrytych opłat licencyjnych czy zamkniętych systemów CMS."
+      },
+      {
+        "q": "Co wchodzi w zakres optymalizacji SEO?",
+        "a": "Struktura nagłówków H1/H2, dane strukturalne schema (LocalBusiness, MedicalClinic), optymalizacja meta tagów, linkowanie wewnętrzne oraz opisy ALT zdjęć."
+      },
+      {
+        "q": "Czy oferujecie wsparcie po uruchomieniu strony?",
+        "a": "Oczywiście. Nasze plany opieki obejmują aktualizacje, bezpieczeństwo, kopie zapasowe, monitoring wydajności oraz comiesięczne aktualizacje treści."
+      },
+      {
+        "q": "Ile czasu zajmuje uruchomienie nowej strony internetowej dla dermatologii?",
+        "a": "Większość projektów rusza w ciągu 4–6 tygodni — od odkrycia do uruchomienia. Terminy zależą od gotowości treści i zakresu, a my udostępniamy jasny, cotygodniowy plan działania podczas wdrażania."
+      },
+      {
+        "q": "Czy zajmujecie się zgodnością z HIPAA i prywatnością pacjentów?",
+        "a": "Tak. Każda witryna jest świadoma wymagań HIPAA: bezpieczny hosting, zaszyfrowane formularze, integracje gotowe na BAA dotyczące kontaktu i rejestracji, a także przegląd zgodności przed uruchomieniem."
+      },
+      {
+        "q": "Czy moja nowa strona naprawdę pomoże mi zająć wysokie pozycje w Google?",
+        "a": "SEO jest wbudowane od pierwszego dnia — schemat specyficzny dla dermatologii, strony usług i lokalizacji, Core Web Vitals powyżej 95+ oraz struktura on-page stworzona do zdobywania pozycji w wyszukiwarkach, które generują rezerwacje."
+      }
+    ],
+    "workDescription": "Poznaj oznaczony przykład i galerię inspiracji przed wyborem kierunku dla kliniki. Przykłady pokazują różne ścieżki pacjenta i style; nie wszystkie są projektami klientów DWD.",
+    "growthDescription": "Po uruchomieniu wybierz widoczność w wyszukiwarkach, kampanie, treści społecznościowe lub utrzymanie. Każda usługa ma własny zakres, aby rozwijać kolejny priorytet bez przebudowy całej strony.",
+    "features": {
+      "description": "Planujemy jasne linki rezerwacji, galerie zdjęć ze zgodą, bezpieczne połączenia z portalem oraz dostępne strony działające na telefonach.",
+      "items": [
+        {
+          "title": "Rezerwacja wizyt"
+        },
+        {
+          "title": "Galeria przed i po"
+        },
+        {
+          "title": "Portal pacjenta"
+        },
+        {
+          "title": "Układ mobilny"
+        },
+        {
+          "title": "Dostępność"
+        },
+        {
+          "title": "Szybkie ładowanie"
+        }
+      ]
+    }
+  },
+  "ownerAnchors": {
+    "design": "projektowanie stron dla dermatologów",
+    "examples": "przykłady stron dermatologicznych",
+    "seo": "Usługi SEO dla dermatologów",
+    "marketing": "strategie marketingowe dla dermatologów",
+    "pricing": "ceny stron dermatologicznych",
+    "ppc": "Google Ads i PPC dla dermatologii",
+    "social": "Social Media dla Dermatologii",
+    "maintenance": "utrzymanie i zarządzanie stronami dermatologicznymi",
+    "gallery": "Galeria Przed i Po",
+    "portal": "Portal Pacjenta dla Dermatologii",
+    "process": "nasz proces",
+    "migration": "Zero przestojów · Zero strat SEO"
+  }
 }

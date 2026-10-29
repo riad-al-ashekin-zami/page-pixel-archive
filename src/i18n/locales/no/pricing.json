@@ -1,10 +1,10 @@
 {
   "meta": {
-    "title": "Pris på nettsider for dermatologer — Pakker, planer og transparente kostnader",
+    "title": "Priser på hudklinikkenes nettsider | DWD",
     "description": "Transparent prismodell for nettsider innen dermatologi. Engangsbygg fra $797 til $18,999+, månedlige pakker fra $399, og à la carte-tillegg. Se nøyaktig hva du betaler før vi snakkes.",
     "og": {
-      "title": "Pris på nettsider for dermatologer — Planer, pakker og kostnader",
-      "description": "Seks nettsidepakker, tre spesialiserte løsninger, fire månedlige pakker og over 20 à la carte-tillegg — med priskalkulator. Fullstendig åpen prismodell."
+      "title": "Priser på hudklinikkenes nettsider | DWD",
+      "description": "Transparent prismodell for nettsider innen dermatologi. Engangsbygg fra $797 til $18,999+, månedlige pakker fra $399, og à la carte-tillegg. Se nøyaktig hva du betaler før vi snakkes."
     },
     "jsonLd": {
       "breadcrumb": {
@@ -14,11 +14,21 @@
       "priceSpec": {
         "name": "Nettsidepakker for dermatologi"
       }
+    },
+    "ogTitle": "Priser på hudklinikkenes nettsider | DWD",
+    "og_title": "Priser på hudklinikkenes nettsider | DWD",
+    "twitter_title": "Priser på hudklinikkenes nettsider | DWD",
+    "ogDescription": "Transparent prismodell for nettsider innen dermatologi. Engangsbygg fra $797 til $18,999+, månedlige pakker fra $399, og à la carte-tillegg. Se nøyaktig hva du betaler før vi snakkes.",
+    "og_description": "Transparent prismodell for nettsider innen dermatologi. Engangsbygg fra $797 til $18,999+, månedlige pakker fra $399, og à la carte-tillegg. Se nøyaktig hva du betaler før vi snakkes.",
+    "twitter_description": "Transparent prismodell for nettsider innen dermatologi. Engangsbygg fra $797 til $18,999+, månedlige pakker fra $399, og à la carte-tillegg. Se nøyaktig hva du betaler før vi snakkes.",
+    "twitter": {
+      "title": "Priser på hudklinikkenes nettsider | DWD",
+      "description": "Transparent prismodell for nettsider innen dermatologi. Engangsbygg fra $797 til $18,999+, månedlige pakker fra $399, og à la carte-tillegg. Se nøyaktig hva du betaler før vi snakkes."
     }
   },
   "hero": {
     "badge": "Transparente priser",
-    "heading": "Helt åpne priser. Ingen overraskende fakturaer.",
+    "heading": "Priser på hudklinikkenes nettsider",
     "description": "Seks nettsidepakker for engangskjøp, tre spesialiserte løsninger, fire månedlige pakker og 20+ tilleggstjenester — med en priskalkulator slik at du kjenner prisen før du prater med oss.",
     "cta": "Se nettsidepakker",
     "estimatorCta": "Priskalkulator"

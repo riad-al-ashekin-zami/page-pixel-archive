@@ -1,9 +1,21 @@
 {
   "meta": {
-    "title": "Our Process — 7-Step Dermatology Website Build | Discover → Launch → Grow",
+    "title": "Our Process | DWD",
     "description": "The 7-step process we use to build dermatology websites: Discovery, SEO audit, design, content, development, launch, and growth. Fixed timelines, weekly check-ins, HIPAA-first, Lighthouse 95+ guaranteed.",
-    "ogTitle": "Our Process — 7 Steps From Kickoff to Growth",
-    "ogDescription": "A transparent, fixed-timeline process for dermatology website design & SEO. See exactly what happens week by week — from discovery to ongoing growth."
+    "ogTitle": "Our Process | DWD",
+    "ogDescription": "The 7-step process we use to build dermatology websites: Discovery, SEO audit, design, content, development, launch, and growth. Fixed timelines, weekly check-ins, HIPAA-first, Lighthouse 95+ guaranteed.",
+    "og_title": "Our Process | DWD",
+    "twitter_title": "Our Process | DWD",
+    "og_description": "The 7-step process we use to build dermatology websites: Discovery, SEO audit, design, content, development, launch, and growth. Fixed timelines, weekly check-ins, HIPAA-first, Lighthouse 95+ guaranteed.",
+    "twitter_description": "The 7-step process we use to build dermatology websites: Discovery, SEO audit, design, content, development, launch, and growth. Fixed timelines, weekly check-ins, HIPAA-first, Lighthouse 95+ guaranteed.",
+    "og": {
+      "title": "Our Process | DWD",
+      "description": "The 7-step process we use to build dermatology websites: Discovery, SEO audit, design, content, development, launch, and growth. Fixed timelines, weekly check-ins, HIPAA-first, Lighthouse 95+ guaranteed."
+    },
+    "twitter": {
+      "title": "Our Process | DWD",
+      "description": "The 7-step process we use to build dermatology websites: Discovery, SEO audit, design, content, development, launch, and growth. Fixed timelines, weekly check-ins, HIPAA-first, Lighthouse 95+ guaranteed."
+    }
   },
   "jsonLd": {
     "breadcrumb": {
@@ -17,8 +29,8 @@
   },
   "hero": {
     "badge": "Our Process",
-    "title": "From first call to first patient booking — ",
-    "titleHighlight": "a 7-step, fixed-timeline build.",
+    "title": "Our Process",
+    "titleHighlight": "",
     "description": "No mystery, no scope creep, no hourly surprises. Every step has a written deliverable, an owner, and a deadline — so you always know what's happening this week and what's next.",
     "buttons": {
       "seeSteps": "See the 7 steps"

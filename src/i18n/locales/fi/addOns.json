@@ -1,10 +1,10 @@
 {
   "meta": {
-    "title": "Dermatologian verkkosivujen lisäpalvelut — ylläpito, SEO, kasvu ja integraatiot",
+    "title": "Dermatologian verkkosivujen lisäpalvelut | DWD",
     "description": "Premium-tason lisäpalvelut ihotautiklinikoille: 24/7-ylläpito, HIPAA-yhteensopiva hostaus, sisällöt, konversio-optimointi, paikallinen SEO, potilastietojärjestelmien integraatiot ja kasvumarkkinointi. Kuukausisopimuksella.",
     "og": {
-      "title": "Dermatologian verkkosivujen lisäpalvelut",
-      "description": "Lisää ylläpito, hostaus, SEO, integraatiot ja kasvumarkkinointi klinikkasi verkkosivuille — suunniteltu kasvattamaan potilasmääriä kestävästi."
+      "title": "Dermatologian verkkosivujen lisäpalvelut | DWD",
+      "description": "Premium-tason lisäpalvelut ihotautiklinikoille: 24/7-ylläpito, HIPAA-yhteensopiva hostaus, sisällöt, konversio-optimointi, paikallinen SEO, potilastietojärjestelmien integraatiot ja kasvumarkkinointi. Kuukausisopimuksella."
     },
     "jsonLd": {
       "serviceType": "Dermatology Website Add-On Services",
@@ -15,6 +15,16 @@
         "services": "Palvelut",
         "current": "Lisäpalvelut"
       }
+    },
+    "ogTitle": "Dermatologian verkkosivujen lisäpalvelut | DWD",
+    "og_title": "Dermatologian verkkosivujen lisäpalvelut | DWD",
+    "twitter_title": "Dermatologian verkkosivujen lisäpalvelut | DWD",
+    "ogDescription": "Premium-tason lisäpalvelut ihotautiklinikoille: 24/7-ylläpito, HIPAA-yhteensopiva hostaus, sisällöt, konversio-optimointi, paikallinen SEO, potilastietojärjestelmien integraatiot ja kasvumarkkinointi. Kuukausisopimuksella.",
+    "og_description": "Premium-tason lisäpalvelut ihotautiklinikoille: 24/7-ylläpito, HIPAA-yhteensopiva hostaus, sisällöt, konversio-optimointi, paikallinen SEO, potilastietojärjestelmien integraatiot ja kasvumarkkinointi. Kuukausisopimuksella.",
+    "twitter_description": "Premium-tason lisäpalvelut ihotautiklinikoille: 24/7-ylläpito, HIPAA-yhteensopiva hostaus, sisällöt, konversio-optimointi, paikallinen SEO, potilastietojärjestelmien integraatiot ja kasvumarkkinointi. Kuukausisopimuksella.",
+    "twitter": {
+      "title": "Dermatologian verkkosivujen lisäpalvelut | DWD",
+      "description": "Premium-tason lisäpalvelut ihotautiklinikoille: 24/7-ylläpito, HIPAA-yhteensopiva hostaus, sisällöt, konversio-optimointi, paikallinen SEO, potilastietojärjestelmien integraatiot ja kasvumarkkinointi. Kuukausisopimuksella."
     }
   },
   "hero": {

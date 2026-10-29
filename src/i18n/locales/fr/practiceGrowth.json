@@ -1,14 +1,14 @@
 {
   "meta": {
-    "title": "Services de Croissance pour Cabinets de Dermatologie | Boostez vos Rendez-vous, pas vos Impressions",
+    "title": "Services de Croissance pour Cabinets de Dermatologie | DWD",
     "description": "Développement de cabinets de dermatologie : acquisition de patients, optimisation de conversion, automatisation de la fidélisation et analyse des revenus liés aux consultations réelles.",
     "og": {
-      "title": "Croissance en Dermatologie — Des Rendez-vous, pas des Impressions",
-      "description": "Accompagnement complet pour cabinets solo et multi-sites : acquisition, conversion, fidélisation et analyse de rentabilité."
+      "title": "Services de Croissance pour Cabinets de Dermatologie | DWD",
+      "description": "Développement de cabinets de dermatologie : acquisition de patients, optimisation de conversion, automatisation de la fidélisation et analyse des revenus liés aux consultations réelles."
     },
     "twitter": {
-      "title": "Services de Croissance pour Cabinets de Dermatologie",
-      "description": "Boostez le volume de consultations de votre cabinet — des résultats mesurables directement sur votre compte de résultat."
+      "title": "Services de Croissance pour Cabinets de Dermatologie | DWD",
+      "description": "Développement de cabinets de dermatologie : acquisition de patients, optimisation de conversion, automatisation de la fidélisation et analyse des revenus liés aux consultations réelles."
     },
     "jsonLd": {
       "serviceType": "Services de Croissance pour Cabinets de Dermatologie",
@@ -19,7 +19,13 @@
         "services": "Services",
         "current": "Croissance Cabinet Dermatologie"
       }
-    }
+    },
+    "ogTitle": "Services de Croissance pour Cabinets de Dermatologie | DWD",
+    "og_title": "Services de Croissance pour Cabinets de Dermatologie | DWD",
+    "twitter_title": "Services de Croissance pour Cabinets de Dermatologie | DWD",
+    "ogDescription": "Développement de cabinets de dermatologie : acquisition de patients, optimisation de conversion, automatisation de la fidélisation et analyse des revenus liés aux consultations réelles.",
+    "og_description": "Développement de cabinets de dermatologie : acquisition de patients, optimisation de conversion, automatisation de la fidélisation et analyse des revenus liés aux consultations réelles.",
+    "twitter_description": "Développement de cabinets de dermatologie : acquisition de patients, optimisation de conversion, automatisation de la fidélisation et analyse des revenus liés aux consultations réelles."
   },
   "hero": {
     "badge": "Croissance Cabinet Dermatologie",

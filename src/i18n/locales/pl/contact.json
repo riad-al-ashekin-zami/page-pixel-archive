@@ -1,11 +1,23 @@
 {
   "meta": {
-    "title": "Kontakt",
+    "title": "Kontakt | DWD",
     "description": "Opowiedz nam o swojej praktyce i stronie internetowej. Wyślemy bezpłatny, spersonalizowany audyt z możliwościami SEO, szybkości i konwersji w ciągu 48 godzin.",
-    "ogTitle": "Kontakt",
+    "ogTitle": "Kontakt | DWD",
     "ogDescription": "Opowiedz nam o swojej praktyce i stronie internetowej. Wyślemy bezpłatny, spersonalizowany audyt z możliwościami SEO, szybkości i konwersji w ciągu 48 godzin.",
     "breadcrumbHome": "Strona główna",
-    "breadcrumbContact": "Kontakt"
+    "breadcrumbContact": "Kontakt",
+    "og_title": "Kontakt | DWD",
+    "twitter_title": "Kontakt | DWD",
+    "og_description": "Opowiedz nam o swojej praktyce i stronie internetowej. Wyślemy bezpłatny, spersonalizowany audyt z możliwościami SEO, szybkości i konwersji w ciągu 48 godzin.",
+    "twitter_description": "Opowiedz nam o swojej praktyce i stronie internetowej. Wyślemy bezpłatny, spersonalizowany audyt z możliwościami SEO, szybkości i konwersji w ciągu 48 godzin.",
+    "og": {
+      "title": "Kontakt | DWD",
+      "description": "Opowiedz nam o swojej praktyce i stronie internetowej. Wyślemy bezpłatny, spersonalizowany audyt z możliwościami SEO, szybkości i konwersji w ciągu 48 godzin."
+    },
+    "twitter": {
+      "title": "Kontakt | DWD",
+      "description": "Opowiedz nam o swojej praktyce i stronie internetowej. Wyślemy bezpłatny, spersonalizowany audyt z możliwościami SEO, szybkości i konwersji w ciągu 48 godzin."
+    }
   },
   "auditForm": {
     "hero": {
@@ -80,5 +92,6 @@
     "description": "Otrzymaliśmy Twoje zgłoszenie audytu.",
     "turnaround": "Wyślemy Twój audyt w ciągu 48 godzin",
     "backHome": "Wróć na stronę główną"
-  }
+  },
+  "pageHeading": "Kontakt"
 }

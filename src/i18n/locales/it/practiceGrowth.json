@@ -1,14 +1,14 @@
 {
   "meta": {
-    "title": "Servizi di Crescita per Studi Dermatologici | Crescita Basata su Visite Prenotate, non Impression",
+    "title": "Servizi di Crescita per Studi Dermatologici | DWD",
     "description": "Crescita professionale per cliniche dermatologiche: acquisizione pazienti, ottimizzazione delle conversioni, automazione della retention e analisi dei ricavi legata alle visite effettive e al P&L dei servizi.",
     "og": {
-      "title": "Sviluppo Studi Dermatologici — Più Visite Prenotate, Meno Metriche di Vanità",
-      "description": "Crescita end-to-end per studi dermatologici singoli e multisede — acquisizione, conversione, fidelizzazione e analisi dei ricavi."
+      "title": "Servizi di Crescita per Studi Dermatologici | DWD",
+      "description": "Crescita professionale per cliniche dermatologiche: acquisizione pazienti, ottimizzazione delle conversioni, automazione della retention e analisi dei ricavi legata alle visite effettive e al P&L dei servizi."
     },
     "twitter": {
-      "title": "Servizi di Crescita per Studi Dermatologici",
-      "description": "Aumenta le visite prenotate del tuo studio dermatologico — Risultati misurabili direttamente sul tuo conto economico."
+      "title": "Servizi di Crescita per Studi Dermatologici | DWD",
+      "description": "Crescita professionale per cliniche dermatologiche: acquisizione pazienti, ottimizzazione delle conversioni, automazione della retention e analisi dei ricavi legata alle visite effettive e al P&L dei servizi."
     },
     "jsonLd": {
       "serviceType": "Servizi di Crescita per Studi Dermatologici",
@@ -19,7 +19,13 @@
         "services": "Servizi",
         "current": "Crescita Studi Dermatologici"
       }
-    }
+    },
+    "ogTitle": "Servizi di Crescita per Studi Dermatologici | DWD",
+    "og_title": "Servizi di Crescita per Studi Dermatologici | DWD",
+    "twitter_title": "Servizi di Crescita per Studi Dermatologici | DWD",
+    "ogDescription": "Crescita professionale per cliniche dermatologiche: acquisizione pazienti, ottimizzazione delle conversioni, automazione della retention e analisi dei ricavi legata alle visite effettive e al P&L dei servizi.",
+    "og_description": "Crescita professionale per cliniche dermatologiche: acquisizione pazienti, ottimizzazione delle conversioni, automazione della retention e analisi dei ricavi legata alle visite effettive e al P&L dei servizi.",
+    "twitter_description": "Crescita professionale per cliniche dermatologiche: acquisizione pazienti, ottimizzazione delle conversioni, automazione della retention e analisi dei ricavi legata alle visite effettive e al P&L dei servizi."
   },
   "hero": {
     "badge": "Crescita Studi Dermatologici",

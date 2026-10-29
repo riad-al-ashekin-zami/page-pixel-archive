@@ -1,15 +1,25 @@
 {
   "meta": {
-    "title": "Zarządzanie stronami dermatologicznymi — zespół zorientowany na wzrost",
+    "title": "Utrzymanie i zarządzanie stronami dermatologicznymi | DWD",
     "description": "Kompleksowe zarządzanie serwisami dermatologicznymi: dedykowany opiekun klienta, miesięczne plany treści, strategia SEO, testy A/B, optymalizacja konwersji i profesjonalne raportowanie. Bez długoterminowych zobowiązań.",
     "og": {
-      "title": "Zarządzanie stronami dermatologicznymi — Twój zespół ds. wzrostu",
-      "description": "Dedykowany zespół buduje Twój sukces w każdym tygodniu — content, SEO, CRO, kampanie i raportowanie. Zgodność z HIPAA. Rozliczenie miesięczne."
+      "title": "Utrzymanie i zarządzanie stronami dermatologicznymi | DWD",
+      "description": "Kompleksowe zarządzanie serwisami dermatologicznymi: dedykowany opiekun klienta, miesięczne plany treści, strategia SEO, testy A/B, optymalizacja konwersji i profesjonalne raportowanie. Bez długoterminowych zobowiązań."
+    },
+    "ogTitle": "Utrzymanie i zarządzanie stronami dermatologicznymi | DWD",
+    "og_title": "Utrzymanie i zarządzanie stronami dermatologicznymi | DWD",
+    "twitter_title": "Utrzymanie i zarządzanie stronami dermatologicznymi | DWD",
+    "ogDescription": "Kompleksowe zarządzanie serwisami dermatologicznymi: dedykowany opiekun klienta, miesięczne plany treści, strategia SEO, testy A/B, optymalizacja konwersji i profesjonalne raportowanie. Bez długoterminowych zobowiązań.",
+    "og_description": "Kompleksowe zarządzanie serwisami dermatologicznymi: dedykowany opiekun klienta, miesięczne plany treści, strategia SEO, testy A/B, optymalizacja konwersji i profesjonalne raportowanie. Bez długoterminowych zobowiązań.",
+    "twitter_description": "Kompleksowe zarządzanie serwisami dermatologicznymi: dedykowany opiekun klienta, miesięczne plany treści, strategia SEO, testy A/B, optymalizacja konwersji i profesjonalne raportowanie. Bez długoterminowych zobowiązań.",
+    "twitter": {
+      "title": "Utrzymanie i zarządzanie stronami dermatologicznymi | DWD",
+      "description": "Kompleksowe zarządzanie serwisami dermatologicznymi: dedykowany opiekun klienta, miesięczne plany treści, strategia SEO, testy A/B, optymalizacja konwersji i profesjonalne raportowanie. Bez długoterminowych zobowiązań."
     }
   },
   "hero": {
     "badge": "Zarządzanie stronami dermatologicznymi",
-    "headline": "Zespół ds. wzrostu, który rozwija Twoją praktykę — co tydzień.",
+    "headline": "Utrzymanie i zarządzanie stronami dermatologicznymi",
     "subheading": "Strategia, content, SEO, testy konwersji i raporty — wszystko w rękach dedykowanej grupy specjalistów. Ty przestajesz martwić się o stronę, a ona zaczyna pozyskiwać nowych pacjentów.",
     "cta_primary": "Odbierz plan wzrostu",
     "cta_secondary": "Darmowy audyt na start",
@@ -454,5 +464,191 @@
     "service_type": "Zarządzanie Stronami Dermatologicznymi",
     "provider_name": "DermatologyWebsiteDesign.com",
     "offer_description": "Usługi zarządzania dla dermatologii — cena startowa za miesiąc"
+  },
+  "merged": {
+    "heading": "Bezpieczny hosting uwzględniający HIPAA",
+    "pillars": {
+      "badge": "Co zawiera plan opieki",
+      "title": "Każda warstwa Twojej strony — pod opieką, zaktualizowana i zoptymalizowana.",
+      "description": "Sześć filarów miesięcznej pracy. Bez ukrytych kosztów i niespodziewanych faktur.",
+      "items": [
+        {
+          "title": "Monitorowanie dostępności 24/7",
+          "desc": "Testy co 60 sekund z 5 regionów. Nasz zespół otrzymuje alerty, zanim Twoja recepcja dowie się o problemie."
+        },
+        {
+          "title": "Aktualizacje zgodne z HIPAA",
+          "desc": "Aktualizacje CMS, wtyczek i zależności są testowane i wdrażane w środowiskach hostingowych gotowych na BAA."
+        },
+        {
+          "title": "Codzienne szyfrowane backupy",
+          "desc": "Zewnętrzne kopie z wersjonowaniem i przywracaniem jednym kliknięciem. Testowane co miesiąc, nie tylko planowane."
+        },
+        {
+          "title": "Skanowanie pod kątem malware i luk",
+          "desc": "Cotygodniowe skany, kwartalne testy penetracyjne i natychmiastowe łatanie wszelkich podatności CVE."
+        },
+        {
+          "title": "Nadzór Core Web Vitals",
+          "desc": "Ciągłe śledzenie LCP, INP i CLS — naprawiamy błędy, zanim Google obniży Twój ranking."
+        },
+        {
+          "title": "Kondycja SEO On-Page",
+          "desc": "Niedziałające linki, brakujące schematy, osierocone strony i błędy indeksowania naprawiane co miesiąc w ramach planu."
+        }
+      ]
+    },
+    "included": {
+      "badge": "W pakiecie co miesiąc",
+      "title": "16 zadań, które wykonujemy dla Ciebie — każdego miesiąca.",
+      "list": [
+        "Monitorowanie dostępności i SSL 24/7",
+        "Cotygodniowe aktualizacje CMS i wtyczek",
+        "Codzienne szyfrowane backupy zewnętrzne",
+        "Skanowanie pod kątem malware i łatanie CVE",
+        "Audyty formularzy pod kątem HIPAA i PHI",
+        "Monitorowanie Core Web Vitals",
+        "Kontrola zdrowia SEO i naprawa linków",
+        "Optymalizacja bazy danych",
+        "Konfiguracja CDN i pamięci podręcznej edge",
+        "Naprawa błędów i wdrożenia poprawek",
+        "Godziny edycji treści i designu",
+        "Miesięczny raport wydajności",
+        "Proaktywne alerty o incydentach",
+        "Rejestr zmian w zakresie zgodności (Compliance)",
+        "Testy dostępności (WCAG AA)",
+        "Dedykowany inżynier konta"
+      ]
+    },
+    "flow": {
+      "badge": "Jak to działa",
+      "title": "Od wdrożenia do spokojnej głowy, każdego miesiąca.",
+      "items": [
+        {
+          "step": "01",
+          "title": "Wdrożenie i Audyt",
+          "desc": "Przejmujemy stronę, wykonując pełny audyt bezpieczeństwa, wydajności, SEO i HIPAA — nic nie trafia pod monitoring w ciemno."
+        },
+        {
+          "step": "02",
+          "title": "Zabezpieczenie i Baseline",
+          "desc": "Łatanie dziur, weryfikacja backupów, start monitoringu i dokumentacja punktu wyjścia (baseline) dla SEO i Core Web Vitals."
+        },
+        {
+          "step": "03",
+          "title": "Monitoring i Obsługa",
+          "desc": "Monitoring 24/7, cotygodniowe aktualizacje, raporty zdrowia strony — plus Twoje godziny edycji na rozwój serwisu."
+        },
+        {
+          "step": "04",
+          "title": "Raport i Ulepszenia",
+          "desc": "Miesięczny przegląd z inżynierem. Analizujemy, jak przyspieszyć stronę i poprawić jej bezpieczeństwo w kolejnym miesiącu."
+        }
+      ]
+    },
+    "hosting": {
+      "description": "Planujemy hosting zgodnie z przetwarzanymi danymi. Sprawdzamy szyfrowanie, dostęp, kopie zapasowe, monitoring i umowy z dostawcami. Nie zastępuje to oceny zgodności prowadzonej przez klinikę."
+    },
+    "planSummary": {
+      "badge": "Plany opieki",
+      "title": "Przewidywalne ceny. Bez zobowiązań. Fachowi inżynierowie.",
+      "description": "Wszystkie plany rozliczane są miesięcznie. Możesz zrezygnować w każdej chwili, zachowując kod i uprawnienia.",
+      "labels": {
+        "popular": "Najpopularniejszy",
+        "market": "Cena rynkowa:",
+        "edits_prefix": "Edycje:",
+        "sla_prefix": "SLA",
+        "cta": "Wybierz pakiet {{name}}"
+      },
+      "tiers": [
+        {
+          "name": "Essential",
+          "tag": "Indywidualne praktyki",
+          "price": "299 USD",
+          "per": "/miesiąc",
+          "sla": "Reakcja < 4 godz.",
+          "edits": "2 godz. / mies.",
+          "market": "500 – 1 000 USD /mies.",
+          "savings": "40–70% taniej",
+          "features": [
+            "Monitorowanie dostępności 24/7",
+            "Cotygodniowe aktualizacje wtyczek i CMS",
+            "Codzienne szyfrowane backupy",
+            "Skany malware + łatanie",
+            "Audyt formularzy HIPAA (kwartalny)",
+            "Monitorowanie Core Web Vitals",
+            "Miesięczny raport wydajności",
+            "2 h / mies. na edycję treści"
+          ]
+        },
+        {
+          "name": "Growth",
+          "tag": "Praktyki wielospecjalistyczne",
+          "price": "599 USD",
+          "per": "/miesiąc",
+          "sla": "Reakcja < 1 godz.",
+          "edits": "5 godz. / mies.",
+          "market": "1 200 – 2 500 USD /mies.",
+          "savings": "50–76% taniej",
+          "features": [
+            "Wszystko co w planie Essential",
+            "Cotygodniowe audyty formularzy HIPAA",
+            "Naprawa błędów SEO i kondycji strony",
+            "Monitorowanie schematów i linków",
+            "Optymalizacja CDN i edge cache",
+            "Naprawa błędów i szybkie poprawki",
+            "Dedykowany inżynier konta",
+            "5 h / mies. na edycje (treść + design)"
+          ]
+        },
+        {
+          "name": "Enterprise",
+          "tag": "Grupy z wieloma lokalizacjami i Mohs",
+          "price": "1 499 USD",
+          "per": "/miesiąc",
+          "sla": "Reakcja < 15 min.",
+          "edits": "Nielimitowane*",
+          "market": "3 000 – 6 000 USD /mies.",
+          "savings": "50–75% taniej",
+          "features": [
+            "Wszystko co w planie Growth",
+            "Panele dostępności dla każdej lokalizacji",
+            "Dyżur inżyniera on-call 24/7",
+            "Kwartalne testy penetracyjne",
+            "Wsparcie integracji e-skierowań / EHR",
+            "Audyty dostępności (WCAG AA)",
+            "Rejestr zmian zgodności z podpisem",
+            "Bez limitu* godzin edycji (fair use)"
+          ]
+        }
+      ]
+    },
+    "incidents": {
+      "badge": "Log ostatnich incydentów",
+      "title": "Jak wygląda opieka 24/7 w praktyce.",
+      "description": "Przykłady incydentów, które wykryliśmy i rozwiązaliśmy w tym kwartale — zanim klienci zdążyli je zauważyć.",
+      "log": [
+        {
+          "title": "Wykrycie luki PHP RCE",
+          "detail": "Załatano na 47 stronach klientów w 33 minuty. Ryzyko wyeliminowane natychmiastowo."
+        },
+        {
+          "title": "Certyfikat SSL wygasający za 6 dni",
+          "detail": "Automatycznie odnowiony i wdrożony w nocy, przed poniedziałkowym szczytem ruchu."
+        },
+        {
+          "title": "Błąd 502 na jednej ze stron",
+          "detail": "Przełączenie na kopię cache w 40s. Dyżurny inżynier przywrócił serwer w 8 minut."
+        },
+        {
+          "title": "Wykrycie regresji w indeksowaniu Google",
+          "detail": "Błędny tag noindex po aktualizacji wtyczki — przywrócono stan poprzedni, zgłoszono ponowne skanowanie."
+        },
+        {
+          "title": "Wyciek PHI z formularza do analityki",
+          "detail": "Wdrożono skrypt czyszczący dane, usunięto PII z Google Analytics 4, zaktualizowano logi zgodności."
+        }
+      ]
+    }
   }
 }

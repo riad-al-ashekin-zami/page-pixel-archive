@@ -1,11 +1,21 @@
 {
   "meta": {
-    "title": "Dermatologian SEO-palvelut — Näy ihotautien ja kosmeettisten hoitojen hauissa",
-    "description": "Lääketieteellinen SEO ihotautiklinikoille: tekniset auditoinnit, paikallinen hakunäkyvyys, Google Business -optimointi, lääketieteellisesti tarkistettu sisältö ja eettinen linkinrakennus. Yksityisvastaanotoille, monitoimipisteisille klinikoille sekä pediatrisen ja Mohs-dermatologian tarpeisiin.",
-    "og_title": "Dermatologian SEO-palvelut — Löydy sieltä, missä potilaat etsivät",
-    "og_description": "Ihotautiklinikoille suunniteltu lääketieteellinen SEO — tekninen toteutus, paikallisuus, sisältö ja auktoriteetti avaimet käteen -palveluna selkeällä kuukausiraportoinnilla.",
-    "twitter_title": "Dermatologian SEO-palvelut",
-    "twitter_description": "Lääketieteellinen hakukoneoptimointi ihotautiklinikoille."
+    "title": "SEO-palvelut ihotautilääkäreille | DWD",
+    "description": "SEO ja paikallinen SEO ihotautiklinikoille: paranna näkyvyyttä Google Mapsissa ja potilaiden hoitohauissa.",
+    "og_title": "SEO-palvelut ihotautilääkäreille | DWD",
+    "og_description": "SEO ja paikallinen SEO ihotautiklinikoille: paranna näkyvyyttä Google Mapsissa ja potilaiden hoitohauissa.",
+    "twitter_title": "SEO-palvelut ihotautilääkäreille | DWD",
+    "twitter_description": "SEO ja paikallinen SEO ihotautiklinikoille: paranna näkyvyyttä Google Mapsissa ja potilaiden hoitohauissa.",
+    "ogTitle": "SEO-palvelut ihotautilääkäreille | DWD",
+    "ogDescription": "SEO ja paikallinen SEO ihotautiklinikoille: paranna näkyvyyttä Google Mapsissa ja potilaiden hoitohauissa.",
+    "og": {
+      "title": "SEO-palvelut ihotautilääkäreille | DWD",
+      "description": "SEO ja paikallinen SEO ihotautiklinikoille: paranna näkyvyyttä Google Mapsissa ja potilaiden hoitohauissa."
+    },
+    "twitter": {
+      "title": "SEO-palvelut ihotautilääkäreille | DWD",
+      "description": "SEO ja paikallinen SEO ihotautiklinikoille: paranna näkyvyyttä Google Mapsissa ja potilaiden hoitohauissa."
+    }
   },
   "jsonLd": {
     "serviceType": "Dermatology SEO Services",
@@ -20,8 +30,8 @@
   },
   "hero": {
     "badge": "Dermatologian SEO-palvelut",
-    "title_start": "Löydy sieltä, missä potilaat",
-    "title_highlight": "oikeasti etsivät ihohoitoa.",
+    "title_start": "SEO-palvelut ihotautilääkäreille",
+    "title_highlight": "",
     "description": "Ihotautialalle räätälöity lääketieteellinen SEO — tekninen toteutus, paikallisuus, sisältö ja auktoriteetti hallittuna alusta loppuun. Asiantuntijoiden tarkistamat sivut, eettiset linkit ja helposti luettava kuukausiraportti.",
     "cta_audit": "Tilaa ilmainen SEO-auditointi",
     "cta_stack": "Tutustu SEO-prosessiimme",
@@ -199,7 +209,7 @@
     ]
   },
   "faq": {
-    "heading": "Ihotautilääkäreiden usein kysymät kysymykset.",
+    "heading": "Usein kysytyt kysymykset",
     "items": [
       {
         "q": "Kuinka nopeasti SEO tuottaa tuloksia?",
@@ -220,10 +230,6 @@
       {
         "q": "Integroituuko SEO nykyiseen verkkosivustooni?",
         "a": "Kyllä. Työskentelemme WordPressillä, Webflow’lla, Modernizing Medicinellä, Nextechillä tai millä tahansa CMS-alustalla. Jos nykyinen alustasi estää sijoitusten nousun, kerromme sen rehellisesti ja tarjoamme siirtosuunnitelman vain, jos ROI on selkeä."
-      },
-      {
-        "q": "Mitä kuukausiraportointi sisältää?",
-        "a": "200 tärkeimmän avainsanan sijoitukset, orgaanisen liikenteen ja varattujen aikojen seurannan, Core Web Vitals -tiedot, hankitut linkit sekä ensi kuun suunnitelman. Käymme nämä läpi 30 minuutin puhelussa."
       }
     ]
   },
@@ -243,5 +249,166 @@
     "local_seo": "paikallinen SEO asuinaluetasolla",
     "marketing_playbook": "ihotautien markkinoinnin opas",
     "practice_growth": "klinikan kokonaisvaltainen kasvu"
+  },
+  "merged": {
+    "headings": [
+      "Paikallinen SEO ihotautiklinikoille",
+      "Hoito- ja palvelusivujen SEO",
+      "Tekninen SEO",
+      "Arvostelut ja Google-yritysprofiili",
+      "Raportointi",
+      "Usein kysytyt kysymykset"
+    ],
+    "local": {
+      "badge": "Paikallinen SEO-paketti",
+      "heading": "Kahdeksan paikallista vipuvartta. Tehoa joka kuukausi.",
+      "description": "Paikallinen näkyvyys kasvaa vain, kun kaikki signaalit – profiili, läheisyys, arvostelut ja sisältö – vetävät samaan suuntaan.",
+      "items": [
+        {
+          "title": "Google Business Profile -optimointi",
+          "desc": "Kattava GBP-uudistus: kategoriat, palvelut, attribuutit, UKK ja viikoittaiset julkaisut optimoituna karttasijoituksia varten."
+        },
+        {
+          "title": "Map Pack -strategia",
+          "desc": "Läheisyyden, tunnettuuden ja relevanssin optimointi palvelualueellasi – kolme tekijää, jotka ratkaisevat kärkikolmikkoon pääsyn."
+        },
+        {
+          "title": "Maantieteelliset kohdesivut",
+          "desc": "Uniikit, asiantuntijoiden tarkastamat laskeutumissivut jokaiselle kaupungille ja asuinalueelle – ei kopioita, ei sisäistä kilpailua."
+        },
+        {
+          "title": "Arvostelujen hallinta",
+          "desc": "Automatisoidut arvostelupyynnöt käynnin jälkeen, ihmisten tarkastamat tekoälyvastaukset ja skeemamerkinnät, jotka tuovat tähdet hakutuloksiin."
+        },
+        {
+          "title": "NAP-tietojen hallinta",
+          "desc": "Nimen, osoitteen ja puhelinnumeron yhtenäisyys yli 80 lääkäri- ja terveydenhuoltohakemistossa – auditoidaan ja valvotaan kuukausittain."
+        },
+        {
+          "title": "Paikallinen avainsanatutkimus",
+          "desc": "\"Ihotautilääkäri lähelläni\", vaiva + kaupunki, toimenpide + postinumero – optimoimme termeille, joita potilaasi todella käyttävät."
+        },
+        {
+          "title": "HIPAA-turvallinen paikallisskeema",
+          "desc": "MedicalBusiness-, Physician- ja LocalBusiness-merkinnät jokaiselle toimipisteelle: rikkaat hakutulokset vaarantamatta potilasdataa."
+        },
+        {
+          "title": "Paikallinen seuranta ja raportointi",
+          "desc": "Päivittäinen ruudukkopohjainen sijoitusseuranta kunkin klinikan ympärillä – raportoitu selkeällä kielellä, ei turhaa mainosdataa."
+        }
+      ]
+    },
+    "workflow": {
+      "badge": "Näin se toimii",
+      "heading": "90 päivän paikallinen startti. Jatkuva kasvu.",
+      "description": "Läpinäkyvät virstanpylväät – tiedät aina, mitä teemme ja miksi.",
+      "steps": [
+        {
+          "phase": "Vaihe 01",
+          "title": "Auditointi ja kilpailija-analyysi",
+          "desc": "Ruudukkopohjainen sijoitustesti klinikkasi ympärillä, GBP-auditointi ja markkinajohtajien analyysi kohdekaupungeissasi."
+        },
+        {
+          "phase": "Vaihe 02",
+          "title": "GBP- ja hakemistosiivous",
+          "desc": "Google Business Profile -tilin täydellinen uusiminen, NAP-tietojen korjaus hakemistoissa ja päällekkäisyyksien poisto."
+        },
+        {
+          "phase": "Vaihe 03",
+          "title": "Lokaatiosivut ja paikallisskeema",
+          "desc": "Uniikit laskeutumissivut palveluille, toimipistekohtaiset MedicalBusiness-skeemat, sisäinen linkitys ja arvostelu-widgetit."
+        },
+        {
+          "phase": "Vaihe 04",
+          "title": "Arvostelut, postaukset ja raportointi",
+          "desc": "Käynnin jälkeiset viestiketjut, viikoittainen GBP-sisältö ja kuukausittaiset raportit varatuista ajoista."
+        }
+      ]
+    },
+    "reviews": {
+      "badge": "Miksi ihotautilääkärit valitsevat meidät",
+      "heading": "Erikoistunut paikallinen SEO-tiimi – ei yleistoimisto.",
+      "items": [
+        {
+          "title": "HIPAA-turvalliset arvostelut",
+          "desc": "Suojatut alustat ja potilasturvallisuuden huomioivat vastausmallit, jotka kliininen henkilökunta on tarkastanut."
+        },
+        {
+          "title": "Skaalautuvuus ketjuille",
+          "desc": "Yksilölliset lokaatiosivut ja GBP-hallinta jokaiselle toimipisteellesi ilman riskia sisällön kopioinnista."
+        },
+        {
+          "title": "Tarkka sijoitusseuranta",
+          "desc": "Päivittäinen seuranta klinikan ympärillä olevassa verkostossa – emme luota yhteen pisteeseen, joka antaa vääristyneen kuvan."
+        },
+        {
+          "title": "Todellinen tulosmittaus",
+          "desc": "Puheluiden seuranta ja varatut ajat sidottuna tiettyihin kaupunki- tai palveluhakuihin – aitoa ROI-dataa."
+        },
+        {
+          "title": "Lääketieteelliset sisällöntuottajat",
+          "desc": "In-house-kirjoittajat, joilla on terveydenhuollon tausta – ei tekoälytekstejä tai huonolaatuisia käännöksiä."
+        },
+        {
+          "title": "Selkeät raportit",
+          "desc": "Yksi sivu selkokielellä kerran kuukaudessa. Sijoitukset, arvostelut, puhelut ja mitä seuraavaksi tapahtuu."
+        }
+      ]
+    },
+    "medicalServices": {
+      "badge": "Paikallisesti optimoidut palvelut",
+      "heading": "Jokainen vaiva. Jokainen kaupunki.",
+      "description": "Jokaisesta lääkäripalvelusta luodaan palvelu- ja kaupunkikohtainen keskus – E-E-A-T-periaatteiden mukaisesti ja paikallisesti linkitettynä.",
+      "list": [
+        "Akne-hoidot",
+        "Ekseeman hoito",
+        "Psoriaasin hoito",
+        "Ihoinfektioiden hoito",
+        "Ihoallergioiden tutkimus",
+        "Ihosyövän seulonta ja hoito",
+        "Luomien tarkastus ja poisto",
+        "Kystien ja lipoomien poisto",
+        "Syylien poisto",
+        "Kynsioireiden hoito",
+        "Hiustenlähdön diagnostiikka ja hoito",
+        "Hiuspohjan vaivojen hoito",
+        "Ruusufinnin hoito",
+        "Hyperpigmentaation ja melasman hoito",
+        "Arpien hoidot (vamma, leikkaus, sairaus)",
+        "Palovamma-arpien hoito",
+        "Vitiligon hoito",
+        "Ihonäytteet ja diagnostiikka"
+      ]
+    },
+    "content": {
+      "description": "Sairauksien ja toimenpiteiden (kuten akne, ekseema, Mohs) hakuaiemoitteet kartoitettuna potilaan hoitopolun mukaan. E-E-A-T-yhteensopivat, asiantuntijoiden tarkistamat sivut potilaille ja Googlelle — ei koskaan pinnallista tai tekoälyn luomaa sisältöä.",
+      "items": [],
+      "list": [
+        "Aknen hoito",
+        "Ekseeman hoito",
+        "Psoriaasin hoito",
+        "Ihoinfektioiden hoito",
+        "Ihoallergioiden hoito",
+        "Ihosyövän seulonta ja hoito",
+        "Luomien tarkastus ja poisto",
+        "Kystien ja lipoomien poisto",
+        "Syylien poisto",
+        "Kynsioireiden hoito",
+        "Hiustenlähdön hoito",
+        "Hiuspohjan häiriöiden hoito",
+        "Ruusufinnin hoito",
+        "Hyperpigmentaatio ja maksaläiskät",
+        "Arpien hoito",
+        "Palovamma-arpien hoito",
+        "Vitiligon hoito",
+        "Ihobiopsiat ja diagnostiikka"
+      ]
+    },
+    "technical": {
+      "description": "Core Web Vitals, indeksointi, skeemat, HTTPS ja mobiilikäytettävyys — luomme 120-kohtaisen teknisen perustan ennen sisältötyötä. Alle sekunnin LCP, lähes nolla CLS ja kuvien optimointi — sama suorituskyky kuin parhaiten sijoittuvilla kliinisillä sivustoilla."
+    },
+    "reporting": {
+      "description": "GA4, Search Console ja 200 tärkeimmän avainsanan päivittäinen seuranta — raportoituna selkeällä suomen kielellä joka kuukausi. Toimitukselliset linkit, paikalliset maininnat, arvostelujen vauhdittaminen ja läpinäkyvä kuukausiraportointi."
+    }
   }
 }

@@ -1,8 +1,21 @@
 {
   "meta": {
-    "title": "Checklistor för dermatologiska webbplatser — Lansering, SEO, HIPAA & Konvertering",
+    "title": "Checklistor för dermatologiska webbplatser | DWD",
     "description": "Kostnadsfria expertchecklistor för dermatologer: QA inför lansering, on-page SEO, HIPAA-efterlevnad, tillgänglighet, Core Web Vitals och konvertering. Utskrivbara och spårbara steg för medicinsk praxis.",
-    "keywords": "checklista dermatologi webbplats, SEO för hudläkare, HIPAA checklista webbplats, lanseringschecklista hudklinik, tillgänglighet medicinsk webbplats"
+    "ogTitle": "Checklistor för dermatologiska webbplatser | DWD",
+    "og_title": "Checklistor för dermatologiska webbplatser | DWD",
+    "twitter_title": "Checklistor för dermatologiska webbplatser | DWD",
+    "ogDescription": "Kostnadsfria expertchecklistor för dermatologer: QA inför lansering, on-page SEO, HIPAA-efterlevnad, tillgänglighet, Core Web Vitals och konvertering. Utskrivbara och spårbara steg för medicinsk praxis.",
+    "og_description": "Kostnadsfria expertchecklistor för dermatologer: QA inför lansering, on-page SEO, HIPAA-efterlevnad, tillgänglighet, Core Web Vitals och konvertering. Utskrivbara och spårbara steg för medicinsk praxis.",
+    "twitter_description": "Kostnadsfria expertchecklistor för dermatologer: QA inför lansering, on-page SEO, HIPAA-efterlevnad, tillgänglighet, Core Web Vitals och konvertering. Utskrivbara och spårbara steg för medicinsk praxis.",
+    "og": {
+      "title": "Checklistor för dermatologiska webbplatser | DWD",
+      "description": "Kostnadsfria expertchecklistor för dermatologer: QA inför lansering, on-page SEO, HIPAA-efterlevnad, tillgänglighet, Core Web Vitals och konvertering. Utskrivbara och spårbara steg för medicinsk praxis."
+    },
+    "twitter": {
+      "title": "Checklistor för dermatologiska webbplatser | DWD",
+      "description": "Kostnadsfria expertchecklistor för dermatologer: QA inför lansering, on-page SEO, HIPAA-efterlevnad, tillgänglighet, Core Web Vitals och konvertering. Utskrivbara och spårbara steg för medicinsk praxis."
+    }
   },
   "schema": {
     "breadcrumb": {

@@ -1,14 +1,14 @@
 {
   "meta": {
-    "title": "E-Mail-Marketing für Dermatologen | HIPAA-konformer Recall & Automation",
+    "title": "E-Mail-Marketing für Dermatologen | DWD",
     "description": "HIPAA-sicheres E-Mail-Marketing für Hautarztpraxen – Willkommensserien, automatisierte 6-Monats-Recalls, saisonale Patientenaufklärung und Reaktivierung für Ästhetik-Leistungen. Reporting basierend auf Terminen, nicht auf Klicks.",
     "og": {
-      "title": "Dermatologie E-Mail-Marketing – HIPAA-konform mit Termin-Attribution",
-      "description": "Individuelle Newsletter, PMS-gesteuerte Recall-Flows und HIPAA-gerechte Automatisierung für Dermatologen. Klaviyo, HubSpot, Mailchimp."
+      "title": "E-Mail-Marketing für Dermatologen | DWD",
+      "description": "HIPAA-sicheres E-Mail-Marketing für Hautarztpraxen – Willkommensserien, automatisierte 6-Monats-Recalls, saisonale Patientenaufklärung und Reaktivierung für Ästhetik-Leistungen. Reporting basierend auf Terminen, nicht auf Klicks."
     },
     "twitter": {
-      "title": "E-Mail-Marketing-Services für die Dermatologie",
-      "description": "HIPAA-sicheres E-Mail-Marketing, automatisierte Patientenerinnerungen und erstklassige Zustellrate für Hautarztpraxen."
+      "title": "E-Mail-Marketing für Dermatologen | DWD",
+      "description": "HIPAA-sicheres E-Mail-Marketing für Hautarztpraxen – Willkommensserien, automatisierte 6-Monats-Recalls, saisonale Patientenaufklärung und Reaktivierung für Ästhetik-Leistungen. Reporting basierend auf Terminen, nicht auf Klicks."
     },
     "jsonLd": {
       "serviceType": "E-Mail-Marketing für dermatologische Praxen",
@@ -19,7 +19,13 @@
         "services": "Leistungen",
         "emailMarketing": "E-Mail-Marketing"
       }
-    }
+    },
+    "ogTitle": "E-Mail-Marketing für Dermatologen | DWD",
+    "og_title": "E-Mail-Marketing für Dermatologen | DWD",
+    "twitter_title": "E-Mail-Marketing für Dermatologen | DWD",
+    "ogDescription": "HIPAA-sicheres E-Mail-Marketing für Hautarztpraxen – Willkommensserien, automatisierte 6-Monats-Recalls, saisonale Patientenaufklärung und Reaktivierung für Ästhetik-Leistungen. Reporting basierend auf Terminen, nicht auf Klicks.",
+    "og_description": "HIPAA-sicheres E-Mail-Marketing für Hautarztpraxen – Willkommensserien, automatisierte 6-Monats-Recalls, saisonale Patientenaufklärung und Reaktivierung für Ästhetik-Leistungen. Reporting basierend auf Terminen, nicht auf Klicks.",
+    "twitter_description": "HIPAA-sicheres E-Mail-Marketing für Hautarztpraxen – Willkommensserien, automatisierte 6-Monats-Recalls, saisonale Patientenaufklärung und Reaktivierung für Ästhetik-Leistungen. Reporting basierend auf Terminen, nicht auf Klicks."
   },
   "hero": {
     "badge": "E-Mail-Marketing für Dermatologen",

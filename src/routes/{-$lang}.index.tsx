@@ -1,3 +1,6 @@
+import { finalizeSeoHead } from "@/lib/seo-head";
+import { HomepageMergedContent } from "@/components/sections/merged-owner-content";
+import { KeywordOwnerLinks } from "@/components/sections/keyword-owner-links";
 import { useEffect } from "react";
 import { useTranslation } from "react-i18next";
 import { createFileRoute, notFound } from "@tanstack/react-router";
@@ -44,7 +47,7 @@ export const Route = createFileRoute("/{-$lang}/")({
     },
     stringify: (parsed: { lang?: string }) => ({ lang: parsed.lang ?? "" }),
   },
-  head: ({ params }) => {
+  head: (args) => finalizeSeoHead((({ params }: typeof args) => {
     const lang = resolveRouteLanguage(params.lang);
     const canonical = localizedUrl(resolveRouteLanguage(params.lang), "/");
     const t = getStaticTranslation(lang, "home");
@@ -86,7 +89,7 @@ export const Route = createFileRoute("/{-$lang}/")({
         },
       ],
     };
-  },
+  })(args), args.params.lang, "/"),
   component: Index,
 });
 
@@ -159,8 +162,10 @@ function Index() {
                 </h1>
 
                 <p className="mt-5 max-w-xl text-pretty text-base text-muted-foreground sm:text-lg">
-                  {t("hero.subhead")}
+                  {t("hero.introParagraphs.0")}
                 </p>
+
+                <p className="mt-5 max-w-xl text-base leading-relaxed text-muted-foreground sm:text-lg">{t("hero.introParagraphs.1")}</p>
 
                 <div className="mt-8 flex flex-col gap-3 sm:flex-row sm:flex-wrap">
                   <LocalLink
@@ -225,14 +230,16 @@ function Index() {
           </div>
         </section>
 
+        <HomepageMergedContent />
         <Reveal variant="fade-up"><ServicesSection /></Reveal>
         <Reveal variant="scale"><PricingTeaserSection /></Reveal>
+        <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8"><KeywordOwnerLinks owners={["pricing"]} /></div>
         <OurApproachSection />
         <Reveal variant="fade-up"><WhyChooseUsSection /></Reveal>
         <Reveal variant="fade-up"><WhySwitchSection /></Reveal>
         <Reveal variant="fade"><TestimonialsSection /></Reveal>
         <Reveal variant="scale"><FreeAuditCtaSection /></Reveal>
-        <Reveal variant="fade-up"><FaqSnippetSection /></Reveal>
+        <Reveal variant="fade-up"><FaqSnippetSection faqs={t("merged.faqs", { returnObjects: true }) as { q: string; a: string }[]} heading={t("merged.sections.6")} /></Reveal>
 
 
       </main>

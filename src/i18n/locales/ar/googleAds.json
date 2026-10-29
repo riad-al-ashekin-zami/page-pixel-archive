@@ -1,14 +1,14 @@
 {
   "meta": {
-    "title": "إدارة إعلانات Google وPPC لعيادات الجلدية | زيارات مؤكدة لا مجرد نقرات",
+    "title": "إدارة إعلانات Google وPPC لعيادات الجلدية | DWD",
     "description": "إدارة إعلانات Google وPPC لعيادات الأمراض الجلدية - حملات Search وLSA وYouTube وPerformance Max تُقاس بتكلفة الزيارة المحجوزة والأرباح والخسائر لكل خط خدمة. تتبع آمن ومتوافق مع HIPAA.",
     "og": {
-      "title": "إعلانات Google وPPC للجلدية — زيارات مؤكدة لا مجرد نقرات",
-      "description": "إعلانات تدفع ثمنها بنفسها — حملات Search وLSA وYouTube وإعادة التسويق بنطاق يركز على عائد الاستثمار لكل زيارة محجوزة لعيادات الجلدية."
+      "title": "إدارة إعلانات Google وPPC لعيادات الجلدية | DWD",
+      "description": "إدارة إعلانات Google وPPC لعيادات الأمراض الجلدية - حملات Search وLSA وYouTube وPerformance Max تُقاس بتكلفة الزيارة المحجوزة والأرباح والخسائر لكل خط خدمة. تتبع آمن ومتوافق مع HIPAA."
     },
     "twitter": {
-      "title": "إدارة إعلانات Google وPPC لعيادات الجلدية",
-      "description": "حملات PPC محددة بتكلفة الزيارة المحجوزة لعيادات الأمراض الجلدية."
+      "title": "إدارة إعلانات Google وPPC لعيادات الجلدية | DWD",
+      "description": "إدارة إعلانات Google وPPC لعيادات الأمراض الجلدية - حملات Search وLSA وYouTube وPerformance Max تُقاس بتكلفة الزيارة المحجوزة والأرباح والخسائر لكل خط خدمة. تتبع آمن ومتوافق مع HIPAA."
     },
     "jsonLd": {
       "serviceType": "إدارة إعلانات Google وPPC لعيادات الأمراض الجلدية",
@@ -19,7 +19,13 @@
         "services": "الخدمات",
         "ads": "إعلانات Google وPPC"
       }
-    }
+    },
+    "ogTitle": "إدارة إعلانات Google وPPC لعيادات الجلدية | DWD",
+    "og_title": "إدارة إعلانات Google وPPC لعيادات الجلدية | DWD",
+    "twitter_title": "إدارة إعلانات Google وPPC لعيادات الجلدية | DWD",
+    "ogDescription": "إدارة إعلانات Google وPPC لعيادات الأمراض الجلدية - حملات Search وLSA وYouTube وPerformance Max تُقاس بتكلفة الزيارة المحجوزة والأرباح والخسائر لكل خط خدمة. تتبع آمن ومتوافق مع HIPAA.",
+    "og_description": "إدارة إعلانات Google وPPC لعيادات الأمراض الجلدية - حملات Search وLSA وYouTube وPerformance Max تُقاس بتكلفة الزيارة المحجوزة والأرباح والخسائر لكل خط خدمة. تتبع آمن ومتوافق مع HIPAA.",
+    "twitter_description": "إدارة إعلانات Google وPPC لعيادات الأمراض الجلدية - حملات Search وLSA وYouTube وPerformance Max تُقاس بتكلفة الزيارة المحجوزة والأرباح والخسائر لكل خط خدمة. تتبع آمن ومتوافق مع HIPAA."
   },
   "hero": {
     "badge": "إعلانات Google وPPC للجلدية",

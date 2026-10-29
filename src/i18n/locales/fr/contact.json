@@ -1,11 +1,23 @@
 {
   "meta": {
-    "title": "Contactez-nous",
+    "title": "Contactez-nous | DWD",
     "description": "Parlez-nous de votre cabinet et de votre site web. Nous vous enverrons un audit gratuit et personnalisé avec des opportunités de SEO, de vitesse et de conversion sous 48 heures.",
-    "ogTitle": "Contactez-nous",
+    "ogTitle": "Contactez-nous | DWD",
     "ogDescription": "Parlez-nous de votre cabinet et de votre site web. Nous vous enverrons un audit gratuit et personnalisé avec des opportunités de SEO, de vitesse et de conversion sous 48 heures.",
     "breadcrumbHome": "Accueil",
-    "breadcrumbContact": "Contact"
+    "breadcrumbContact": "Contact",
+    "og_title": "Contactez-nous | DWD",
+    "twitter_title": "Contactez-nous | DWD",
+    "og_description": "Parlez-nous de votre cabinet et de votre site web. Nous vous enverrons un audit gratuit et personnalisé avec des opportunités de SEO, de vitesse et de conversion sous 48 heures.",
+    "twitter_description": "Parlez-nous de votre cabinet et de votre site web. Nous vous enverrons un audit gratuit et personnalisé avec des opportunités de SEO, de vitesse et de conversion sous 48 heures.",
+    "og": {
+      "title": "Contactez-nous | DWD",
+      "description": "Parlez-nous de votre cabinet et de votre site web. Nous vous enverrons un audit gratuit et personnalisé avec des opportunités de SEO, de vitesse et de conversion sous 48 heures."
+    },
+    "twitter": {
+      "title": "Contactez-nous | DWD",
+      "description": "Parlez-nous de votre cabinet et de votre site web. Nous vous enverrons un audit gratuit et personnalisé avec des opportunités de SEO, de vitesse et de conversion sous 48 heures."
+    }
   },
   "auditForm": {
     "hero": {
@@ -80,5 +92,6 @@
     "description": "Nous avons reçu votre demande d'audit.",
     "turnaround": "Nous vous enverrons votre audit sous 48 heures",
     "backHome": "Retour à l'accueil"
-  }
+  },
+  "pageHeading": "Contactez-nous"
 }

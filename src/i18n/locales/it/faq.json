@@ -1,16 +1,29 @@
 {
   "meta": {
-    "title": "FAQ — Web Design per studi dermatologici, SEO e HIPAA Compliance",
+    "title": "FAQ | DWD",
     "description": "Risposte chiare su prezzi, tempi di realizzazione, SEO, HIPAA, restyling e migrazioni per studi dermatologici in crescita.",
-    "keywords": "FAQ sito dermatologia, FAQ SEO dermatologia, domande sito HIPAA, costi sito dermatologia, tempi sito dermatologia",
     "breadcrumbList": {
       "home": "Home",
       "faq": "FAQ"
+    },
+    "ogTitle": "FAQ | DWD",
+    "og_title": "FAQ | DWD",
+    "twitter_title": "FAQ | DWD",
+    "ogDescription": "Risposte chiare su prezzi, tempi di realizzazione, SEO, HIPAA, restyling e migrazioni per studi dermatologici in crescita.",
+    "og_description": "Risposte chiare su prezzi, tempi di realizzazione, SEO, HIPAA, restyling e migrazioni per studi dermatologici in crescita.",
+    "twitter_description": "Risposte chiare su prezzi, tempi di realizzazione, SEO, HIPAA, restyling e migrazioni per studi dermatologici in crescita.",
+    "og": {
+      "title": "FAQ | DWD",
+      "description": "Risposte chiare su prezzi, tempi di realizzazione, SEO, HIPAA, restyling e migrazioni per studi dermatologici in crescita."
+    },
+    "twitter": {
+      "title": "FAQ | DWD",
+      "description": "Risposte chiare su prezzi, tempi di realizzazione, SEO, HIPAA, restyling e migrazioni per studi dermatologici in crescita."
     }
   },
   "hero": {
     "badge": "{{totalCount}} risposte · Specifiche per la dermatologia",
-    "heading": "Tutto quello che uno studio dermatologico deve sapere.",
+    "heading": "Domande Frequenti",
     "subheading": "Prezzi, tempistiche, SEO, HIPAA, restyling e integrazioni. Risposte dirette e tecniche, scritte dal team che realizzerà il tuo progetto.",
     "search": {
       "label": "Cerca nelle FAQ",

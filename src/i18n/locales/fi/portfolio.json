@@ -1,11 +1,24 @@
 {
   "meta": {
-    "title": "Ihotautiklinikoiden portfoliosivusto — Käytännön esimerkkejä verkkosivuuudistuksista",
+    "title": "Esimerkkejä ihotautiklinikoiden verkkosivuista | DWD",
     "description": "Valikoitu portfolio suunnittelemistamme ja toteuttamistamme ihotautiklinikoiden sivustoista – mukana kosmeettisia, lääketieteellisiä ja pediatrisia klinikoita, joilla on mitattavaa kasvua varauksissa, SEO-tuloksissa ja latausnopeudessa.",
-    "keywords": "ihotautiklinikan verkkosivusto portfolio, ihotautiklinikan verkkosivusuunnittelu esimerkit, ihotautiklinikan case-tutkimukset, ihotautilääkärin verkkosivut",
     "breadcrumb": {
       "home": "Etusivu",
       "portfolio": "Portfolio"
+    },
+    "ogTitle": "Esimerkkejä ihotautiklinikoiden verkkosivuista | DWD",
+    "og_title": "Esimerkkejä ihotautiklinikoiden verkkosivuista | DWD",
+    "twitter_title": "Esimerkkejä ihotautiklinikoiden verkkosivuista | DWD",
+    "ogDescription": "Valikoitu portfolio suunnittelemistamme ja toteuttamistamme ihotautiklinikoiden sivustoista – mukana kosmeettisia, lääketieteellisiä ja pediatrisia klinikoita, joilla on mitattavaa kasvua varauksissa, SEO-tuloksissa ja latausnopeudessa.",
+    "og_description": "Valikoitu portfolio suunnittelemistamme ja toteuttamistamme ihotautiklinikoiden sivustoista – mukana kosmeettisia, lääketieteellisiä ja pediatrisia klinikoita, joilla on mitattavaa kasvua varauksissa, SEO-tuloksissa ja latausnopeudessa.",
+    "twitter_description": "Valikoitu portfolio suunnittelemistamme ja toteuttamistamme ihotautiklinikoiden sivustoista – mukana kosmeettisia, lääketieteellisiä ja pediatrisia klinikoita, joilla on mitattavaa kasvua varauksissa, SEO-tuloksissa ja latausnopeudessa.",
+    "og": {
+      "title": "Esimerkkejä ihotautiklinikoiden verkkosivuista | DWD",
+      "description": "Valikoitu portfolio suunnittelemistamme ja toteuttamistamme ihotautiklinikoiden sivustoista – mukana kosmeettisia, lääketieteellisiä ja pediatrisia klinikoita, joilla on mitattavaa kasvua varauksissa, SEO-tuloksissa ja latausnopeudessa."
+    },
+    "twitter": {
+      "title": "Esimerkkejä ihotautiklinikoiden verkkosivuista | DWD",
+      "description": "Valikoitu portfolio suunnittelemistamme ja toteuttamistamme ihotautiklinikoiden sivustoista – mukana kosmeettisia, lääketieteellisiä ja pediatrisia klinikoita, joilla on mitattavaa kasvua varauksissa, SEO-tuloksissa ja latausnopeudessa."
     }
   },
   "accessibility": {
@@ -13,7 +26,7 @@
   },
   "hero": {
     "badge": "Portfolio · Yli 50 ihotautiklinikkaa",
-    "heading": "Aitoja ihotautiklinikoiden sivustoja. Todellista kasvua.",
+    "heading": "Esimerkkejä ihotautiklinikoiden verkkosivuista",
     "subheading": "Jokainen alla oleva projekti on toiminnassa oleva klinikka – kosmeettisia, lääketieteellisiä, lapsille suunnattuja ja usean toimipisteen ketjuja. Yksilöllinen design, HIPAA-vaatimukset huomioiva toteutus ja SEO-optimointi, joka lisää varauksia – ei pelkkiä sijoituksia.",
     "cta": {
       "start": "Aloita projekti",

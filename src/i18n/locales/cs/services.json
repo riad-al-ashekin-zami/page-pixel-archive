@@ -1,18 +1,30 @@
 {
   "meta": {
-    "title": "Tvorba webových stránek pro dermatologii — design, SEO a růst",
+    "title": "Naše služby | DWD",
     "description": "Objevte naše služby pro dermatologické weby v souladu s HIPAA: SEO, lokální marketing, pacientské portály, údržbu a podporu růstu moderních praxí.",
-    "ogTitle": "Služby pro dermatologické weby",
-    "ogDescription": "Webdesign, SEO, placená reklama, správa reputace, portály, galerie a následná péče o weby dermatologických ordinací.",
+    "ogTitle": "Naše služby | DWD",
+    "ogDescription": "Objevte naše služby pro dermatologické weby v souladu s HIPAA: SEO, lokální marketing, pacientské portály, údržbu a podporu růstu moderních praxí.",
     "schema": {
       "name": "Služby pro dermatologické weby",
       "serviceType": "Webdesign, SEO a růstový marketing pro dermatologické praxe",
       "providerName": "Dermatology Website Design"
+    },
+    "og_title": "Naše služby | DWD",
+    "twitter_title": "Naše služby | DWD",
+    "og_description": "Objevte naše služby pro dermatologické weby v souladu s HIPAA: SEO, lokální marketing, pacientské portály, údržbu a podporu růstu moderních praxí.",
+    "twitter_description": "Objevte naše služby pro dermatologické weby v souladu s HIPAA: SEO, lokální marketing, pacientské portály, údržbu a podporu růstu moderních praxí.",
+    "og": {
+      "title": "Naše služby | DWD",
+      "description": "Objevte naše služby pro dermatologické weby v souladu s HIPAA: SEO, lokální marketing, pacientské portály, údržbu a podporu růstu moderních praxí."
+    },
+    "twitter": {
+      "title": "Naše služby | DWD",
+      "description": "Objevte naše služby pro dermatologické weby v souladu s HIPAA: SEO, lokální marketing, pacientské portály, údržbu a podporu růstu moderních praxí."
     }
   },
   "hero": {
     "eyebrow": "Naše služby",
-    "title": "Dermatologické weby navržené tak, aby měnily návštěvníky v pacienty.",
+    "title": "Naše služby",
     "description": "Zvolte si konkrétní projekt nebo komplexní systém pro růst: od zakázkového webdesignu a SEO až po akvizici pacientů, integrace, údržbu a optimalizaci pro dermatology.",
     "ctaQuote": "Získat nezávaznou nabídku",
     "ctaPricing": "Zobrazit ceník",

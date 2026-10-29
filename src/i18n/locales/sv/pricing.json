@@ -1,10 +1,10 @@
 {
   "meta": {
-    "title": "Prissättning för hemsidor inom dermatologi — Paket & Transparenta kostnader",
+    "title": "Priser för hudklinikers webbplatser | DWD",
     "description": "Transparent prissättning för hemsidor till hudläkare. Engångskostnader från $797 till $18,999+, månadspaket från $399 och tilläggstjänster. Se exakt vad du betalar innan vi pratar.",
     "og": {
-      "title": "Prissättning för hemsidor inom dermatologi — Paket & Kostnader",
-      "description": "Sex hemsidespaket, tre specialbyggen, fyra månadspaket och över 20 tillägg — med en kostnadskalkylator i realtid. Fullständigt transparent prissättning."
+      "title": "Priser för hudklinikers webbplatser | DWD",
+      "description": "Transparent prissättning för hemsidor till hudläkare. Engångskostnader från $797 till $18,999+, månadspaket från $399 och tilläggstjänster. Se exakt vad du betalar innan vi pratar."
     },
     "jsonLd": {
       "breadcrumb": {
@@ -14,11 +14,21 @@
       "priceSpec": {
         "name": "Hemsidespaket för dermatologi"
       }
+    },
+    "ogTitle": "Priser för hudklinikers webbplatser | DWD",
+    "og_title": "Priser för hudklinikers webbplatser | DWD",
+    "twitter_title": "Priser för hudklinikers webbplatser | DWD",
+    "ogDescription": "Transparent prissättning för hemsidor till hudläkare. Engångskostnader från $797 till $18,999+, månadspaket från $399 och tilläggstjänster. Se exakt vad du betalar innan vi pratar.",
+    "og_description": "Transparent prissättning för hemsidor till hudläkare. Engångskostnader från $797 till $18,999+, månadspaket från $399 och tilläggstjänster. Se exakt vad du betalar innan vi pratar.",
+    "twitter_description": "Transparent prissättning för hemsidor till hudläkare. Engångskostnader från $797 till $18,999+, månadspaket från $399 och tilläggstjänster. Se exakt vad du betalar innan vi pratar.",
+    "twitter": {
+      "title": "Priser för hudklinikers webbplatser | DWD",
+      "description": "Transparent prissättning för hemsidor till hudläkare. Engångskostnader från $797 till $18,999+, månadspaket från $399 och tilläggstjänster. Se exakt vad du betalar innan vi pratar."
     }
   },
   "hero": {
     "badge": "Transparent prissättning",
-    "heading": "Varje pris är öppet redovisat. Inga dolda fakturor.",
+    "heading": "Priser för hudklinikers webbplatser",
     "description": "Sex fasta hemsidespaket, tre speciallösningar, fyra månadspaket och över 20 tilläggstjänster — med en kostnadskalkylator så att du vet summan innan du kontaktar oss.",
     "cta": "Se hemsidespaket",
     "estimatorCta": "Kostnadskalkylator"

@@ -1,8 +1,21 @@
 {
   "meta": {
-    "title": "Checklists pour sites de dermatologie — Lancement, SEO, HIPAA et Conversion",
+    "title": "Checklists pour sites de dermatologie | DWD",
     "description": "Checklists gratuites pour sites de dermatologie conçues par des experts : pré-lancement, SEO, conformité HIPAA, accessibilité, Core Web Vitals et conversion. Imprimables et spécifiques au secteur médical.",
-    "keywords": "checklist site dermatologie, SEO dermatologie, conformité HIPAA site web, lancement site médical, accessibilité site dermatologie"
+    "ogTitle": "Checklists pour sites de dermatologie | DWD",
+    "og_title": "Checklists pour sites de dermatologie | DWD",
+    "twitter_title": "Checklists pour sites de dermatologie | DWD",
+    "ogDescription": "Checklists gratuites pour sites de dermatologie conçues par des experts : pré-lancement, SEO, conformité HIPAA, accessibilité, Core Web Vitals et conversion. Imprimables et spécifiques au secteur médical.",
+    "og_description": "Checklists gratuites pour sites de dermatologie conçues par des experts : pré-lancement, SEO, conformité HIPAA, accessibilité, Core Web Vitals et conversion. Imprimables et spécifiques au secteur médical.",
+    "twitter_description": "Checklists gratuites pour sites de dermatologie conçues par des experts : pré-lancement, SEO, conformité HIPAA, accessibilité, Core Web Vitals et conversion. Imprimables et spécifiques au secteur médical.",
+    "og": {
+      "title": "Checklists pour sites de dermatologie | DWD",
+      "description": "Checklists gratuites pour sites de dermatologie conçues par des experts : pré-lancement, SEO, conformité HIPAA, accessibilité, Core Web Vitals et conversion. Imprimables et spécifiques au secteur médical."
+    },
+    "twitter": {
+      "title": "Checklists pour sites de dermatologie | DWD",
+      "description": "Checklists gratuites pour sites de dermatologie conçues par des experts : pré-lancement, SEO, conformité HIPAA, accessibilité, Core Web Vitals et conversion. Imprimables et spécifiques au secteur médical."
+    }
   },
   "schema": {
     "breadcrumb": {

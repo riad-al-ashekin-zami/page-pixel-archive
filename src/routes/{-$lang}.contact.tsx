@@ -1,3 +1,4 @@
+import { finalizeSeoHead } from "@/lib/seo-head";
 import { useState } from "react";
 import { createFileRoute, notFound, useNavigate } from "@tanstack/react-router";
 import { LocalLink as Link } from "@/components/local-link";
@@ -33,7 +34,7 @@ export const Route = createFileRoute("/{-$lang}/contact")({
     stringify: (parsed: { lang?: string }) => ({ lang: parsed.lang ?? "" }),
   },
 
-  head: ({ params }) => {
+  head: (args) => finalizeSeoHead((({ params }: typeof args) => {
     const st = getStaticTranslation(resolveRouteLanguage(params.lang), "contact");
     return {
       meta: [
@@ -80,7 +81,7 @@ export const Route = createFileRoute("/{-$lang}/contact")({
         },
       ],
     };
-  },
+  })(args), args.params.lang, "/contact"),
   component: ContactPage,
 });
 
@@ -295,7 +296,7 @@ function ContactPage() {
                 <Sparkles className="h-3.5 w-3.5" /> {t("auditForm.hero.tag")}
               </span>
               <h1 className="mt-6 text-balance text-3xl font-light leading-[1.05] tracking-tight text-foreground sm:text-5xl lg:text-[3.25rem]">
-                {tu(CTA_I18N_KEY, { defaultValue: CTA_LABEL })}
+                {t("pageHeading")}
               </h1>
               <p className="mt-5 text-pretty text-base leading-relaxed text-muted-foreground sm:text-lg">
                 {t("auditForm.hero.intro")}
@@ -552,7 +553,7 @@ function ContactPage() {
                       </>
                     ) : (
                       <>
-                        {tu(CTA_I18N_KEY, { defaultValue: CTA_LABEL })}
+                        {t("pageHeading")}
                         <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-0.5" aria-hidden />
                       </>
                     )}

@@ -1,11 +1,23 @@
 {
   "meta": {
-    "title": "Dermatology Before & After Gallery — Premium Case Showcase",
+    "title": "Dermatology Before & After Gallery | DWD",
     "description": "Premium, HIPAA-aware before & after gallery for dermatology practices. Drag-to-reveal slider, smart filters by concern & provider, timeline views, and consult-booking CTAs.",
-    "ogTitle": "Dermatology Before & After Gallery — Premium Case Showcase",
-    "ogDescription": "Interactive drag-to-reveal slider, HIPAA-aware consent, smart filters, and consult-conversion CTAs — built for dermatology practices.",
+    "ogTitle": "Dermatology Before & After Gallery | DWD",
+    "ogDescription": "Premium, HIPAA-aware before & after gallery for dermatology practices. Drag-to-reveal slider, smart filters by concern & provider, timeline views, and consult-booking CTAs.",
     "jsonLdName": "DermatologyWebsiteDesign.com",
-    "jsonLdServiceType": "Dermatology Before & After Gallery Design"
+    "jsonLdServiceType": "Dermatology Before & After Gallery Design",
+    "og_title": "Dermatology Before & After Gallery | DWD",
+    "twitter_title": "Dermatology Before & After Gallery | DWD",
+    "og_description": "Premium, HIPAA-aware before & after gallery for dermatology practices. Drag-to-reveal slider, smart filters by concern & provider, timeline views, and consult-booking CTAs.",
+    "twitter_description": "Premium, HIPAA-aware before & after gallery for dermatology practices. Drag-to-reveal slider, smart filters by concern & provider, timeline views, and consult-booking CTAs.",
+    "og": {
+      "title": "Dermatology Before & After Gallery | DWD",
+      "description": "Premium, HIPAA-aware before & after gallery for dermatology practices. Drag-to-reveal slider, smart filters by concern & provider, timeline views, and consult-booking CTAs."
+    },
+    "twitter": {
+      "title": "Dermatology Before & After Gallery | DWD",
+      "description": "Premium, HIPAA-aware before & after gallery for dermatology practices. Drag-to-reveal slider, smart filters by concern & provider, timeline views, and consult-booking CTAs."
+    }
   },
   "hero": {
     "badge": "Before & After Gallery",

@@ -1,3 +1,5 @@
+import { finalizeSeoHead } from "@/lib/seo-head";
+import { KeywordOwnerLinks } from "@/components/sections/keyword-owner-links";
 import { useEffect, useMemo, useRef, useState } from "react";
 import { localizedUrl, resolveRouteLanguage, buildHreflangLinks } from "@/lib/i18n-routing";
 import { createFileRoute, notFound } from "@tanstack/react-router";
@@ -51,7 +53,7 @@ export const Route = createFileRoute("/{-$lang}/dermatology-website-checklists")
     stringify: (parsed: { lang?: string }) => ({ lang: parsed.lang ?? "" }),
   },
 
-  head: ({ params }) => {
+  head: (args) => finalizeSeoHead((({ params }: typeof args) => {
     const { lang } = params;
     const st = getStaticTranslation(lang, "checklists");
     return {
@@ -106,7 +108,7 @@ export const Route = createFileRoute("/{-$lang}/dermatology-website-checklists")
         },
       ],
     };
-  },
+  })(args), args.params.lang, "/dermatology-website-checklists"),
   component: ChecklistsPage,
 });
 
@@ -297,9 +299,7 @@ function ChecklistsPage() {
                 </div>
 
                 <h1 className="mt-6 text-balance text-[2.25rem] font-black leading-[1.05] tracking-tight sm:text-5xl lg:text-[3.25rem] xl:text-6xl">
-                  {t("hero.title").split("checklists")[0]}
-                  <span className="text-brand-primary">checklists</span>
-                  {t("hero.title").split("checklists")[1]}
+                  {t("hero.title")}
                 </h1>
 
                 <p className="mt-5 max-w-xl text-pretty text-base text-muted-foreground sm:text-lg">
@@ -722,7 +722,9 @@ function ChecklistsPage() {
           <Link to="/blog" className="font-medium text-foreground underline-offset-4 hover:text-brand-primary hover:underline">{t("footer.links.blog")}</Link>.
         </p>
 
-        <SiteFooter />
+        <div className="mx-auto max-w-7xl px-4 pb-16 sm:px-6 lg:px-8"><KeywordOwnerLinks owners={["design", "seo"]} /></div>
+
+      <SiteFooter />
       </div>
     </div>
   );

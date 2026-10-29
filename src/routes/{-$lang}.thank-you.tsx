@@ -1,3 +1,4 @@
+import { finalizeSeoHead } from "@/lib/seo-head";
 import { useEffect } from "react";
 import { createFileRoute, notFound } from "@tanstack/react-router";
 import { LocalLink as Link } from "@/components/local-link";
@@ -22,7 +23,7 @@ export const Route = createFileRoute("/{-$lang}/thank-you")({
 
   // Deliberately NOT in the indexable allowlist: always noindex,follow,
   // never in the sitemap, never blocked in robots.txt.
-  head: ({ params }) => {
+  head: (args) => finalizeSeoHead((({ params }: typeof args) => {
     const st = getStaticTranslation(resolveRouteLanguage(params.lang), "contact");
     return {
       meta: [
@@ -40,7 +41,7 @@ export const Route = createFileRoute("/{-$lang}/thank-you")({
         { name: "twitter:card", content: "summary" },
       ],
     };
-  },
+  })(args), args.params.lang, "/thank-you"),
   component: ThankYouPage,
 });
 

@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "Dermatology Patient Portal Design & Development | HIPAA-Compliant",
+    "title": "Dermatology Patient Portal Design & Development | DWD",
     "description": "Custom HIPAA-compliant dermatology patient portal design: online booking, secure messaging, teledermatology, e-forms, bill pay, refills, and EHR integration. Built for solo, multi-location, pediatric, and Mohs clinics.",
-    "og_title": "Dermatology Patient Portal Design & Development",
-    "og_description": "HIPAA-aware patient portals engineered for dermatology practices — booking, messaging, teledermatology, e-intake, bill pay, and EHR integration.",
-    "twitter_title": "Dermatology Patient Portal Design & Development",
-    "twitter_description": "HIPAA-aware patient portals engineered for dermatology practices.",
+    "og_title": "Dermatology Patient Portal Design & Development | DWD",
+    "og_description": "Custom HIPAA-compliant dermatology patient portal design: online booking, secure messaging, teledermatology, e-forms, bill pay, refills, and EHR integration. Built for solo, multi-location, pediatric, and Mohs clinics.",
+    "twitter_title": "Dermatology Patient Portal Design & Development | DWD",
+    "twitter_description": "Custom HIPAA-compliant dermatology patient portal design: online booking, secure messaging, teledermatology, e-forms, bill pay, refills, and EHR integration. Built for solo, multi-location, pediatric, and Mohs clinics.",
     "jsonLd": {
       "serviceType": "Dermatology Patient Portal Design & Development",
       "provider": "DermatologyWebsiteDesign.com",
@@ -14,6 +14,16 @@
       "breadcrumb_home": "Home",
       "breadcrumb_services": "Services",
       "breadcrumb_portal": "Patient Portal"
+    },
+    "ogTitle": "Dermatology Patient Portal Design & Development | DWD",
+    "ogDescription": "Custom HIPAA-compliant dermatology patient portal design: online booking, secure messaging, teledermatology, e-forms, bill pay, refills, and EHR integration. Built for solo, multi-location, pediatric, and Mohs clinics.",
+    "og": {
+      "title": "Dermatology Patient Portal Design & Development | DWD",
+      "description": "Custom HIPAA-compliant dermatology patient portal design: online booking, secure messaging, teledermatology, e-forms, bill pay, refills, and EHR integration. Built for solo, multi-location, pediatric, and Mohs clinics."
+    },
+    "twitter": {
+      "title": "Dermatology Patient Portal Design & Development | DWD",
+      "description": "Custom HIPAA-compliant dermatology patient portal design: online booking, secure messaging, teledermatology, e-forms, bill pay, refills, and EHR integration. Built for solo, multi-location, pediatric, and Mohs clinics."
     }
   },
   "hero": {

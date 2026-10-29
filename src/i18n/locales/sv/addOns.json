@@ -1,10 +1,10 @@
 {
   "meta": {
-    "title": "Tilläggstjänster för hudläkarhemsidor — Support, SEO, tillväxt & integrationer",
+    "title": "Tilläggstjänster för hudläkarhemsidor | DWD",
     "description": "Premium-tilläggstjänster för hudläkarmottagningar: support och drift dygnet runt, HIPAA-aware hosting, content och CRO, lokal SEO, EHR- och bokningsintegrationer samt helhetslösningar för tillväxtmarknadsföring. Löpande månadsvis.",
     "og": {
-      "title": "Tilläggstjänster för hudläkarmottagningens webbplats",
-      "description": "Addera support, hosting, SEO, integrationer och tillväxtmarknadsföring till din hemsida — byggd för långsiktig patientökning."
+      "title": "Tilläggstjänster för hudläkarhemsidor | DWD",
+      "description": "Premium-tilläggstjänster för hudläkarmottagningar: support och drift dygnet runt, HIPAA-aware hosting, content och CRO, lokal SEO, EHR- och bokningsintegrationer samt helhetslösningar för tillväxtmarknadsföring. Löpande månadsvis."
     },
     "jsonLd": {
       "serviceType": "Dermatology Website Add-On Services",
@@ -15,6 +15,16 @@
         "services": "Tjänster",
         "current": "Tilläggstjänster"
       }
+    },
+    "ogTitle": "Tilläggstjänster för hudläkarhemsidor | DWD",
+    "og_title": "Tilläggstjänster för hudläkarhemsidor | DWD",
+    "twitter_title": "Tilläggstjänster för hudläkarhemsidor | DWD",
+    "ogDescription": "Premium-tilläggstjänster för hudläkarmottagningar: support och drift dygnet runt, HIPAA-aware hosting, content och CRO, lokal SEO, EHR- och bokningsintegrationer samt helhetslösningar för tillväxtmarknadsföring. Löpande månadsvis.",
+    "og_description": "Premium-tilläggstjänster för hudläkarmottagningar: support och drift dygnet runt, HIPAA-aware hosting, content och CRO, lokal SEO, EHR- och bokningsintegrationer samt helhetslösningar för tillväxtmarknadsföring. Löpande månadsvis.",
+    "twitter_description": "Premium-tilläggstjänster för hudläkarmottagningar: support och drift dygnet runt, HIPAA-aware hosting, content och CRO, lokal SEO, EHR- och bokningsintegrationer samt helhetslösningar för tillväxtmarknadsföring. Löpande månadsvis.",
+    "twitter": {
+      "title": "Tilläggstjänster för hudläkarhemsidor | DWD",
+      "description": "Premium-tilläggstjänster för hudläkarmottagningar: support och drift dygnet runt, HIPAA-aware hosting, content och CRO, lokal SEO, EHR- och bokningsintegrationer samt helhetslösningar för tillväxtmarknadsföring. Löpande månadsvis."
     }
   },
   "hero": {

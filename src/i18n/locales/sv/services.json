@@ -1,18 +1,30 @@
 {
   "meta": {
-    "title": "Webbtjänster för dermatologer — Design, SEO & Tillväxt",
+    "title": "Våra tjänster | DWD",
     "description": "Utforska HIPAA-anpassade webblösningar för hudläkare: SEO, lokal marknadsföring, patientportaler, underhåll och tillväxtstöd för moderna kliniker.",
-    "ogTitle": "Webbtjänster för dermatologkliniker",
-    "ogDescription": "Webbdesign, SEO, betald annonsering, rykteshantering, portaler, bildgallerier och löpande support för din hudläkarklinik.",
+    "ogTitle": "Våra tjänster | DWD",
+    "ogDescription": "Utforska HIPAA-anpassade webblösningar för hudläkare: SEO, lokal marknadsföring, patientportaler, underhåll och tillväxtstöd för moderna kliniker.",
     "schema": {
       "name": "Webbtjänster för dermatologer",
       "serviceType": "Webbdesign, SEO och digital marknadsföring för dermatologkliniker",
       "providerName": "Dermatology Website Design"
+    },
+    "og_title": "Våra tjänster | DWD",
+    "twitter_title": "Våra tjänster | DWD",
+    "og_description": "Utforska HIPAA-anpassade webblösningar för hudläkare: SEO, lokal marknadsföring, patientportaler, underhåll och tillväxtstöd för moderna kliniker.",
+    "twitter_description": "Utforska HIPAA-anpassade webblösningar för hudläkare: SEO, lokal marknadsföring, patientportaler, underhåll och tillväxtstöd för moderna kliniker.",
+    "og": {
+      "title": "Våra tjänster | DWD",
+      "description": "Utforska HIPAA-anpassade webblösningar för hudläkare: SEO, lokal marknadsföring, patientportaler, underhåll och tillväxtstöd för moderna kliniker."
+    },
+    "twitter": {
+      "title": "Våra tjänster | DWD",
+      "description": "Utforska HIPAA-anpassade webblösningar för hudläkare: SEO, lokal marknadsföring, patientportaler, underhåll och tillväxtstöd för moderna kliniker."
     }
   },
   "hero": {
     "eyebrow": "Tjänster",
-    "title": "Webbtjänster skapade för att förvandla besökare till patienter.",
+    "title": "Våra tjänster",
     "description": "Välj ett enskilt projekt eller ett komplett tillväxtsystem: skräddarsydd webbdesign, SEO, patientanskaffning, integrationer, underhåll och optimering för din klinik.",
     "ctaQuote": "Få en kostnadsfri offert",
     "ctaPricing": "Se priser",

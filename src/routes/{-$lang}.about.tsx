@@ -1,3 +1,5 @@
+import { finalizeSeoHead } from "@/lib/seo-head";
+import { KeywordOwnerLinks } from "@/components/sections/keyword-owner-links";
 import { useEffect, useRef, useState } from "react";
 import { AnimatePresence, motion, useMotionValueEvent, useReducedMotion, useScroll } from "framer-motion";
 import { createFileRoute, notFound } from "@tanstack/react-router";
@@ -61,7 +63,7 @@ export const Route = createFileRoute("/{-$lang}/about")({
     },
     stringify: (parsed: { lang?: string }) => ({ lang: parsed.lang ?? "" }),
   },
-  head: ({ params }) => {
+  head: (args) => finalizeSeoHead((({ params }: typeof args) => {
     const lang = resolveRouteLanguage(params.lang);
     const st = getStaticTranslation(lang, "about");
     const canonical = localizedUrl(lang, "/about");
@@ -105,7 +107,7 @@ export const Route = createFileRoute("/{-$lang}/about")({
         },
       ],
     };
-  },
+  })(args), args.params.lang, "/about"),
   component: AboutPage,
 });
 
@@ -769,7 +771,7 @@ function AboutPage() {
                       {isFeature && (
                         <div className="mt-auto pt-6">
                           <Link
-                            to="/dermatology-website-design"
+                            to="/"
                             className="inline-flex items-center gap-1.5 text-sm font-semibold text-brand-primary transition-colors hover:text-foreground"
                           >
                             {t("values.cta")}
@@ -1372,6 +1374,8 @@ function AboutPage() {
         </p>
         </section>
       </main>
+      <div className="mx-auto max-w-7xl px-4 pb-16 sm:px-6 lg:px-8"><KeywordOwnerLinks owners={["design", "seo"]} /></div>
+
       <SiteFooter />
     </div>
   );

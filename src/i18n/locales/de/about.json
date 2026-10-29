@@ -1,15 +1,27 @@
 {
   "meta": {
-    "title": "Über uns — Webdesign-Agentur für Dermatologie",
+    "title": "Über DWD | DWD",
     "description": "Wir entwickeln HIPAA-konforme Websites und Wachstumsstrategien exklusiv für Hautarztpraxen. Lernen Sie das Team hinter den Ergebnissen kennen.",
-    "ogTitle": "Über uns — Webdesign für Dermatologen",
-    "ogDescription": "Eine spezialisierte Agentur für Dermatologie-Praxen: Premium-Websites, SEO und Patientengewinnung.",
+    "ogTitle": "Über DWD | DWD",
+    "ogDescription": "Wir entwickeln HIPAA-konforme Websites und Wachstumsstrategien exklusiv für Hautarztpraxen. Lernen Sie das Team hinter den Ergebnissen kennen.",
     "breadcrumbHome": "Home",
-    "breadcrumbAbout": "Über uns"
+    "breadcrumbAbout": "Über uns",
+    "og_title": "Über DWD | DWD",
+    "twitter_title": "Über DWD | DWD",
+    "og_description": "Wir entwickeln HIPAA-konforme Websites und Wachstumsstrategien exklusiv für Hautarztpraxen. Lernen Sie das Team hinter den Ergebnissen kennen.",
+    "twitter_description": "Wir entwickeln HIPAA-konforme Websites und Wachstumsstrategien exklusiv für Hautarztpraxen. Lernen Sie das Team hinter den Ergebnissen kennen.",
+    "og": {
+      "title": "Über DWD | DWD",
+      "description": "Wir entwickeln HIPAA-konforme Websites und Wachstumsstrategien exklusiv für Hautarztpraxen. Lernen Sie das Team hinter den Ergebnissen kennen."
+    },
+    "twitter": {
+      "title": "Über DWD | DWD",
+      "description": "Wir entwickeln HIPAA-konforme Websites und Wachstumsstrategien exklusiv für Hautarztpraxen. Lernen Sie das Team hinter den Ergebnissen kennen."
+    }
   },
   "hero": {
     "kicker": "Über Dermatology Website Design",
-    "h1": "Die Spezialisten für <1>Websites exklusiv für Dermatologen.</1>",
+    "h1": "Über DWD",
     "p": "Wir verankern E-E-A-T (Erfahrung, Expertise, Autorität und Vertrauen) in jeder Dermatologie-Präsenz — Googles entscheidendes Signal für Healthcare-Nischen (YMYL). Keine Generalisten. Die Spezialisten.",
     "ctaPrimary": "Jetzt anfragen",
     "ctaSecondary": "Dienstleistungen",

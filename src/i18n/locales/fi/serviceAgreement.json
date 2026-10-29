@@ -1,9 +1,23 @@
 {
   "meta": {
-    "title": "Palvelusopimus — Sopimusehdot",
+    "title": "Palvelusopimus | DWD",
     "description": "Studiomme ja ihotautiklinikoiden välisiä projekteja hallinnoiva palvelusopimus — laajuus, toimitukset, maksut, immateriaalioikeudet, luottamuksellisuus, takuut ja irtisanominen.",
     "page_title": "Palvelusopimus — Sopimusehdot",
-    "page_description": "Tämä palvelusopimus määrittelee studiomme ja ihotautiklinikoiden välisen yhteistyön puitteet: työn laajuuden, toimitussisällön, maksuehdot, immateriaalioikeudet, tietosuojan ja vastuut."
+    "page_description": "Tämä palvelusopimus määrittelee studiomme ja ihotautiklinikoiden välisen yhteistyön puitteet: työn laajuuden, toimitussisällön, maksuehdot, immateriaalioikeudet, tietosuojan ja vastuut.",
+    "ogTitle": "Palvelusopimus | DWD",
+    "og_title": "Palvelusopimus | DWD",
+    "twitter_title": "Palvelusopimus | DWD",
+    "ogDescription": "Studiomme ja ihotautiklinikoiden välisiä projekteja hallinnoiva palvelusopimus — laajuus, toimitukset, maksut, immateriaalioikeudet, luottamuksellisuus, takuut ja irtisanominen.",
+    "og_description": "Studiomme ja ihotautiklinikoiden välisiä projekteja hallinnoiva palvelusopimus — laajuus, toimitukset, maksut, immateriaalioikeudet, luottamuksellisuus, takuut ja irtisanominen.",
+    "twitter_description": "Studiomme ja ihotautiklinikoiden välisiä projekteja hallinnoiva palvelusopimus — laajuus, toimitukset, maksut, immateriaalioikeudet, luottamuksellisuus, takuut ja irtisanominen.",
+    "og": {
+      "title": "Palvelusopimus | DWD",
+      "description": "Studiomme ja ihotautiklinikoiden välisiä projekteja hallinnoiva palvelusopimus — laajuus, toimitukset, maksut, immateriaalioikeudet, luottamuksellisuus, takuut ja irtisanominen."
+    },
+    "twitter": {
+      "title": "Palvelusopimus | DWD",
+      "description": "Studiomme ja ihotautiklinikoiden välisiä projekteja hallinnoiva palvelusopimus — laajuus, toimitukset, maksut, immateriaalioikeudet, luottamuksellisuus, takuut ja irtisanominen."
+    }
   },
   "common": {
     "skip_to_content": "Siirry suoraan sisältöön",

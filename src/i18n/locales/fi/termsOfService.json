@@ -1,11 +1,21 @@
 {
   "meta": {
-    "title": "Käyttöehdot — Verkkosivuston käyttö ja yhteistyö",
+    "title": "Käyttöehdot | DWD",
     "description": "Ehdot, jotka säätelevät verkkosivustomme käyttöä, viestintää ja studioltamme tilaamiasi palveluita.",
-    "og_title": "Käyttöehdot — Verkkosivuston käyttö ja yhteistyö",
+    "og_title": "Käyttöehdot | DWD",
     "og_description": "Ehdot, jotka säätelevät verkkosivustomme käyttöä, viestintää ja studioltamme tilaamiasi palveluita.",
-    "twitter_title": "Käyttöehdot — Verkkosivuston käyttö ja yhteistyö",
-    "twitter_description": "Ehdot, jotka säätelevät verkkosivustomme käyttöä, viestintää ja studioltamme tilaamiasi palveluita."
+    "twitter_title": "Käyttöehdot | DWD",
+    "twitter_description": "Ehdot, jotka säätelevät verkkosivustomme käyttöä, viestintää ja studioltamme tilaamiasi palveluita.",
+    "ogTitle": "Käyttöehdot | DWD",
+    "ogDescription": "Ehdot, jotka säätelevät verkkosivustomme käyttöä, viestintää ja studioltamme tilaamiasi palveluita.",
+    "og": {
+      "title": "Käyttöehdot | DWD",
+      "description": "Ehdot, jotka säätelevät verkkosivustomme käyttöä, viestintää ja studioltamme tilaamiasi palveluita."
+    },
+    "twitter": {
+      "title": "Käyttöehdot | DWD",
+      "description": "Ehdot, jotka säätelevät verkkosivustomme käyttöä, viestintää ja studioltamme tilaamiasi palveluita."
+    }
   },
   "a11y": {
     "skip_to_content": "Siirry sisältöön",

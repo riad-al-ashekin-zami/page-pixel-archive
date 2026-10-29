@@ -26,6 +26,15 @@ const NAMESPACES = Array.from(
   new Set(Object.values(resources).flatMap((r) => Object.keys(r))),
 );
 
+// JSON edits must replace bundles even when the existing i18next instance survives HMR.
+if (i18n.isInitialized) {
+  for (const [lang, namespaces] of Object.entries(resources)) {
+    for (const [namespace, bundle] of Object.entries(namespaces)) {
+      i18n.addResourceBundle(lang, namespace, bundle, true, true);
+    }
+  }
+}
+
 if (!i18n.isInitialized) {
   const textNormalizer = {
     type: "postProcessor" as const,

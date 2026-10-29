@@ -1,11 +1,23 @@
 {
   "meta": {
-    "title": "Kontaktujte nás",
+    "title": "Kontaktujte nás | DWD",
     "description": "Povězte nám o své praxi a webu. Do 48 hodin vám zašleme bezplatný, personalizovaný audit s příležitostmi pro SEO, rychlost a konverze.",
-    "ogTitle": "Kontaktujte nás",
+    "ogTitle": "Kontaktujte nás | DWD",
     "ogDescription": "Povězte nám o své praxi a webu. Do 48 hodin vám zašleme bezplatný, personalizovaný audit s příležitostmi pro SEO, rychlost a konverze.",
     "breadcrumbHome": "Domů",
-    "breadcrumbContact": "Kontakt"
+    "breadcrumbContact": "Kontakt",
+    "og_title": "Kontaktujte nás | DWD",
+    "twitter_title": "Kontaktujte nás | DWD",
+    "og_description": "Povězte nám o své praxi a webu. Do 48 hodin vám zašleme bezplatný, personalizovaný audit s příležitostmi pro SEO, rychlost a konverze.",
+    "twitter_description": "Povězte nám o své praxi a webu. Do 48 hodin vám zašleme bezplatný, personalizovaný audit s příležitostmi pro SEO, rychlost a konverze.",
+    "og": {
+      "title": "Kontaktujte nás | DWD",
+      "description": "Povězte nám o své praxi a webu. Do 48 hodin vám zašleme bezplatný, personalizovaný audit s příležitostmi pro SEO, rychlost a konverze."
+    },
+    "twitter": {
+      "title": "Kontaktujte nás | DWD",
+      "description": "Povězte nám o své praxi a webu. Do 48 hodin vám zašleme bezplatný, personalizovaný audit s příležitostmi pro SEO, rychlost a konverze."
+    }
   },
   "auditForm": {
     "hero": {
@@ -80,5 +92,6 @@
     "description": "Obdrželi jsme vaši žádost o audit.",
     "turnaround": "Váš audit zašleme do 48 hodin",
     "backHome": "Zpět na úvodní stránku"
-  }
+  },
+  "pageHeading": "Kontaktujte nás"
 }

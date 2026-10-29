@@ -1,14 +1,14 @@
 {
   "meta": {
-    "title": "Google Ads & PPC for hudleger | Bookede konsultasjoner, ikke klikk",
+    "title": "Google Ads & PPC for hudleger | DWD",
     "description": "Google Ads og PPC-styring for hudlegepraksiser — Search, LSA, YouTube og Performance Max-kampanjer målt på pris per bestilte time og lønnsomhet per tjeneste. HIPAA-sikker sporing.",
     "og": {
-      "title": "Google Ads & PPC for hudleger — Bookede timer, ikke bare klikk",
-      "description": "PPC som betaler for seg selv — Search, LSA, YouTube og remarketing optimalisert for ROI på bestilte timer for hudlegeklinikker."
+      "title": "Google Ads & PPC for hudleger | DWD",
+      "description": "Google Ads og PPC-styring for hudlegepraksiser — Search, LSA, YouTube og Performance Max-kampanjer målt på pris per bestilte time og lønnsomhet per tjeneste. HIPAA-sikker sporing."
     },
     "twitter": {
-      "title": "Google Ads & PPC-styring for hudlegepraksiser",
-      "description": "PPC-kampanjer optimalisert for kostnad per bestilte time for hudleger."
+      "title": "Google Ads & PPC for hudleger | DWD",
+      "description": "Google Ads og PPC-styring for hudlegepraksiser — Search, LSA, YouTube og Performance Max-kampanjer målt på pris per bestilte time og lønnsomhet per tjeneste. HIPAA-sikker sporing."
     },
     "jsonLd": {
       "serviceType": "Google Ads & PPC Management for Dermatology Practices",
@@ -19,7 +19,13 @@
         "services": "Tjenester",
         "ads": "Google Ads & PPC"
       }
-    }
+    },
+    "ogTitle": "Google Ads & PPC for hudleger | DWD",
+    "og_title": "Google Ads & PPC for hudleger | DWD",
+    "twitter_title": "Google Ads & PPC for hudleger | DWD",
+    "ogDescription": "Google Ads og PPC-styring for hudlegepraksiser — Search, LSA, YouTube og Performance Max-kampanjer målt på pris per bestilte time og lønnsomhet per tjeneste. HIPAA-sikker sporing.",
+    "og_description": "Google Ads og PPC-styring for hudlegepraksiser — Search, LSA, YouTube og Performance Max-kampanjer målt på pris per bestilte time og lønnsomhet per tjeneste. HIPAA-sikker sporing.",
+    "twitter_description": "Google Ads og PPC-styring for hudlegepraksiser — Search, LSA, YouTube og Performance Max-kampanjer målt på pris per bestilte time og lønnsomhet per tjeneste. HIPAA-sikker sporing."
   },
   "hero": {
     "badge": "Google Ads & PPC for hudleger",

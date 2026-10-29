@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "Design e Desenvolvimento de Portais do Paciente para Dermatologia | Conformidade HIPAA",
+    "title": "Design e Desenvolvimento de Portais do Paciente para Dermatologia | DWD",
     "description": "Design personalizado de portais do paciente com conformidade HIPAA para dermatologia: marcação online, mensagens seguras, teledermatologia, formulários eletrónicos, pagamento de faturas e integração com EHR. Criado para clínicas individuais, multilocais, pediátricas e de Mohs.",
-    "og_title": "Design e Desenvolvimento de Portais do Paciente para Dermatologia",
-    "og_description": "Portais de pacientes com foco em HIPAA, desenvolvidos para clínicas de dermatologia — marcações, mensagens, teledermatologia, admissão eletrónica e integração EHR.",
-    "twitter_title": "Design e Desenvolvimento de Portais do Paciente para Dermatologia",
-    "twitter_description": "Portais de pacientes com foco em HIPAA, desenvolvidos para clínicas de dermatologia.",
+    "og_title": "Design e Desenvolvimento de Portais do Paciente para Dermatologia | DWD",
+    "og_description": "Design personalizado de portais do paciente com conformidade HIPAA para dermatologia: marcação online, mensagens seguras, teledermatologia, formulários eletrónicos, pagamento de faturas e integração com EHR. Criado para clínicas individuais, multilocais, pediátricas e de Mohs.",
+    "twitter_title": "Design e Desenvolvimento de Portais do Paciente para Dermatologia | DWD",
+    "twitter_description": "Design personalizado de portais do paciente com conformidade HIPAA para dermatologia: marcação online, mensagens seguras, teledermatologia, formulários eletrónicos, pagamento de faturas e integração com EHR. Criado para clínicas individuais, multilocais, pediátricas e de Mohs.",
     "jsonLd": {
       "serviceType": "Design e Desenvolvimento de Portais do Paciente para Dermatologia",
       "provider": "DermatologyWebsiteDesign.com",
@@ -14,6 +14,16 @@
       "breadcrumb_home": "Início",
       "breadcrumb_services": "Serviços",
       "breadcrumb_portal": "Portal do Paciente"
+    },
+    "ogTitle": "Design e Desenvolvimento de Portais do Paciente para Dermatologia | DWD",
+    "ogDescription": "Design personalizado de portais do paciente com conformidade HIPAA para dermatologia: marcação online, mensagens seguras, teledermatologia, formulários eletrónicos, pagamento de faturas e integração com EHR. Criado para clínicas individuais, multilocais, pediátricas e de Mohs.",
+    "og": {
+      "title": "Design e Desenvolvimento de Portais do Paciente para Dermatologia | DWD",
+      "description": "Design personalizado de portais do paciente com conformidade HIPAA para dermatologia: marcação online, mensagens seguras, teledermatologia, formulários eletrónicos, pagamento de faturas e integração com EHR. Criado para clínicas individuais, multilocais, pediátricas e de Mohs."
+    },
+    "twitter": {
+      "title": "Design e Desenvolvimento de Portais do Paciente para Dermatologia | DWD",
+      "description": "Design personalizado de portais do paciente com conformidade HIPAA para dermatologia: marcação online, mensagens seguras, teledermatologia, formulários eletrónicos, pagamento de faturas e integração com EHR. Criado para clínicas individuais, multilocais, pediátricas e de Mohs."
     }
   },
   "hero": {

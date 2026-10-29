@@ -1,13 +1,25 @@
 {
   "meta": {
-    "title": "CRO-tjenester for dermatologer — doble antall bestillinger fra samme trafikk",
+    "title": "CRO-tjenester for dermatologer | DWD",
     "description": "Konverteringsoptimalisering for hudlegeklinikker. Varmekart, A/B-testing, optimalisering av bestillingsskjemaer, mobil UX og Core Web Vitals — gjør flere besøkende til bekreftede avtaler. HIPAA-aware.",
-    "og_title": "Konverteringsoptimalisering for dermatologi — flere bookinger med samme trafikk",
-    "og_description": "Atferdsanalyse, A/B-testing, traktoptimalisering og mobilfokuserte løsninger for hudlegeklinikker. Målbar vekst innen 90 dager — HIPAA-aware, løpende avtaler.",
+    "og_title": "CRO-tjenester for dermatologer | DWD",
+    "og_description": "Konverteringsoptimalisering for hudlegeklinikker. Varmekart, A/B-testing, optimalisering av bestillingsskjemaer, mobil UX og Core Web Vitals — gjør flere besøkende til bekreftede avtaler. HIPAA-aware.",
     "jsonLd": {
       "serviceType": "Konverteringsoptimalisering for dermatologi",
       "provider": "DermatologyWebsiteDesign.com",
       "offerDescription": "CRO-diagnose for dermatologi — startpris"
+    },
+    "ogTitle": "CRO-tjenester for dermatologer | DWD",
+    "twitter_title": "CRO-tjenester for dermatologer | DWD",
+    "ogDescription": "Konverteringsoptimalisering for hudlegeklinikker. Varmekart, A/B-testing, optimalisering av bestillingsskjemaer, mobil UX og Core Web Vitals — gjør flere besøkende til bekreftede avtaler. HIPAA-aware.",
+    "twitter_description": "Konverteringsoptimalisering for hudlegeklinikker. Varmekart, A/B-testing, optimalisering av bestillingsskjemaer, mobil UX og Core Web Vitals — gjør flere besøkende til bekreftede avtaler. HIPAA-aware.",
+    "og": {
+      "title": "CRO-tjenester for dermatologer | DWD",
+      "description": "Konverteringsoptimalisering for hudlegeklinikker. Varmekart, A/B-testing, optimalisering av bestillingsskjemaer, mobil UX og Core Web Vitals — gjør flere besøkende til bekreftede avtaler. HIPAA-aware."
+    },
+    "twitter": {
+      "title": "CRO-tjenester for dermatologer | DWD",
+      "description": "Konverteringsoptimalisering for hudlegeklinikker. Varmekart, A/B-testing, optimalisering av bestillingsskjemaer, mobil UX og Core Web Vitals — gjør flere besøkende til bekreftede avtaler. HIPAA-aware."
     }
   },
   "hero": {

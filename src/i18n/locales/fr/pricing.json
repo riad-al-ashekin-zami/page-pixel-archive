@@ -1,10 +1,10 @@
 {
   "meta": {
-    "title": "Tarifs Site Web Dermatologie — Forfaits, Packs & Coûts Transparents",
+    "title": "Tarifs des Sites Web de Dermatologie | DWD",
     "description": "Tarification transparente pour sites de dermatologie. Création unique de 797 $ à 18 999 $+, packs mensuels dès 399 $ et options à la carte. Anticipez votre budget avant de nous contacter.",
     "og": {
-      "title": "Tarifs Site Web Dermatologie — Forfaits, Packs & Coûts",
-      "description": "Six forfaits web, trois solutions spécialisées, quatre packs mensuels et plus de 20 options à la carte — avec simulateur de coût en direct. Une transparence totale."
+      "title": "Tarifs des Sites Web de Dermatologie | DWD",
+      "description": "Tarification transparente pour sites de dermatologie. Création unique de 797 $ à 18 999 $+, packs mensuels dès 399 $ et options à la carte. Anticipez votre budget avant de nous contacter."
     },
     "jsonLd": {
       "breadcrumb": {
@@ -14,11 +14,21 @@
       "priceSpec": {
         "name": "Packs Création de Site Dermatologie"
       }
+    },
+    "ogTitle": "Tarifs des Sites Web de Dermatologie | DWD",
+    "og_title": "Tarifs des Sites Web de Dermatologie | DWD",
+    "twitter_title": "Tarifs des Sites Web de Dermatologie | DWD",
+    "ogDescription": "Tarification transparente pour sites de dermatologie. Création unique de 797 $ à 18 999 $+, packs mensuels dès 399 $ et options à la carte. Anticipez votre budget avant de nous contacter.",
+    "og_description": "Tarification transparente pour sites de dermatologie. Création unique de 797 $ à 18 999 $+, packs mensuels dès 399 $ et options à la carte. Anticipez votre budget avant de nous contacter.",
+    "twitter_description": "Tarification transparente pour sites de dermatologie. Création unique de 797 $ à 18 999 $+, packs mensuels dès 399 $ et options à la carte. Anticipez votre budget avant de nous contacter.",
+    "twitter": {
+      "title": "Tarifs des Sites Web de Dermatologie | DWD",
+      "description": "Tarification transparente pour sites de dermatologie. Création unique de 797 $ à 18 999 $+, packs mensuels dès 399 $ et options à la carte. Anticipez votre budget avant de nous contacter."
     }
   },
   "hero": {
     "badge": "Tarification Transparente",
-    "heading": "Tous nos prix, sans détour. Aucune facture surprise.",
+    "heading": "Tarifs des Sites Web de Dermatologie",
     "description": "Six forfaits de création, trois solutions métiers, quatre packs mensuels et plus de 20 options à la carte — profitez de notre simulateur en direct pour connaître votre budget avant même de nous parler.",
     "cta": "Voir les forfaits web",
     "estimatorCta": "Simulateur de coût en direct"

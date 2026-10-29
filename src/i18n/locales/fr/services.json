@@ -1,18 +1,30 @@
 {
   "meta": {
-    "title": "Services Web pour Dermatologues — Design, SEO et Croissance",
+    "title": "Nos Services | DWD",
     "description": "Découvrez nos solutions web conformes aux normes HIPAA : création de sites, SEO, marketing local, portails patients et maintenance pour cabinets de dermatologie modernes.",
-    "ogTitle": "Services de Création Web pour Dermatologues",
-    "ogDescription": "Design web, SEO, publicité payante, gestion de l'e-réputation, portails patients et maintenance continue pour les cabinets de dermatologie.",
+    "ogTitle": "Nos Services | DWD",
+    "ogDescription": "Découvrez nos solutions web conformes aux normes HIPAA : création de sites, SEO, marketing local, portails patients et maintenance pour cabinets de dermatologie modernes.",
     "schema": {
       "name": "Services de Sites Web pour Dermatologues",
       "serviceType": "Design web, SEO et marketing de croissance pour cabinets de dermatologie",
       "providerName": "Dermatology Website Design"
+    },
+    "og_title": "Nos Services | DWD",
+    "twitter_title": "Nos Services | DWD",
+    "og_description": "Découvrez nos solutions web conformes aux normes HIPAA : création de sites, SEO, marketing local, portails patients et maintenance pour cabinets de dermatologie modernes.",
+    "twitter_description": "Découvrez nos solutions web conformes aux normes HIPAA : création de sites, SEO, marketing local, portails patients et maintenance pour cabinets de dermatologie modernes.",
+    "og": {
+      "title": "Nos Services | DWD",
+      "description": "Découvrez nos solutions web conformes aux normes HIPAA : création de sites, SEO, marketing local, portails patients et maintenance pour cabinets de dermatologie modernes."
+    },
+    "twitter": {
+      "title": "Nos Services | DWD",
+      "description": "Découvrez nos solutions web conformes aux normes HIPAA : création de sites, SEO, marketing local, portails patients et maintenance pour cabinets de dermatologie modernes."
     }
   },
   "hero": {
     "eyebrow": "Nos Services",
-    "title": "Des sites web conçus pour transformer vos visiteurs en patients.",
+    "title": "Nos Services",
     "description": "Optez pour un projet à la carte ou un système de croissance complet : design sur mesure, SEO, acquisition de patients, intégrations techniques et maintenance optimisée pour la dermatologie.",
     "ctaQuote": "Obtenir un devis gratuit",
     "ctaPricing": "Consulter les tarifs",

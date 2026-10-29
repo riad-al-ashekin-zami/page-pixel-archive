@@ -1,11 +1,21 @@
 {
   "meta": {
-    "title": "Brukervilkår — bruk av nettsted og engasjement",
+    "title": "Brukervilkår | DWD",
     "description": "Vilkårene som regulerer din bruk av vårt nettsted, vår kommunikasjon og tjenestene du bestiller fra vårt studio.",
-    "og_title": "Brukervilkår — bruk av nettsted og engasjement",
+    "og_title": "Brukervilkår | DWD",
     "og_description": "Vilkårene som regulerer din bruk av vårt nettsted, vår kommunikasjon og tjenestene du bestiller fra vårt studio.",
-    "twitter_title": "Brukervilkår — bruk av nettsted og engasjement",
-    "twitter_description": "Vilkårene som regulerer din bruk av vårt nettsted, vår kommunikasjon og tjenestene du bestiller fra vårt studio."
+    "twitter_title": "Brukervilkår | DWD",
+    "twitter_description": "Vilkårene som regulerer din bruk av vårt nettsted, vår kommunikasjon og tjenestene du bestiller fra vårt studio.",
+    "ogTitle": "Brukervilkår | DWD",
+    "ogDescription": "Vilkårene som regulerer din bruk av vårt nettsted, vår kommunikasjon og tjenestene du bestiller fra vårt studio.",
+    "og": {
+      "title": "Brukervilkår | DWD",
+      "description": "Vilkårene som regulerer din bruk av vårt nettsted, vår kommunikasjon og tjenestene du bestiller fra vårt studio."
+    },
+    "twitter": {
+      "title": "Brukervilkår | DWD",
+      "description": "Vilkårene som regulerer din bruk av vårt nettsted, vår kommunikasjon og tjenestene du bestiller fra vårt studio."
+    }
   },
   "a11y": {
     "skip_to_content": "Gå til innholdet",

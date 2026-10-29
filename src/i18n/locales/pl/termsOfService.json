@@ -1,11 +1,21 @@
 {
   "meta": {
-    "title": "Regulamin świadczenia usług — korzystanie z witryny i współpraca",
+    "title": "Regulamin świadczenia usług | DWD",
     "description": "Zasady określające sposób prowadzenia komunikacji, korzystania z naszej strony oraz zasady współpracy z naszym studiem.",
-    "og_title": "Regulamin świadczenia usług — korzystanie z witryny i współpraca",
+    "og_title": "Regulamin świadczenia usług | DWD",
     "og_description": "Zasady określające sposób prowadzenia komunikacji, korzystania z naszej strony oraz zasady współpracy z naszym studiem.",
-    "twitter_title": "Regulamin świadczenia usług — korzystanie z witryny i współpraca",
-    "twitter_description": "Zasady określające sposób prowadzenia komunikacji, korzystania z naszej strony oraz zasady współpracy z naszym studiem."
+    "twitter_title": "Regulamin świadczenia usług | DWD",
+    "twitter_description": "Zasady określające sposób prowadzenia komunikacji, korzystania z naszej strony oraz zasady współpracy z naszym studiem.",
+    "ogTitle": "Regulamin świadczenia usług | DWD",
+    "ogDescription": "Zasady określające sposób prowadzenia komunikacji, korzystania z naszej strony oraz zasady współpracy z naszym studiem.",
+    "og": {
+      "title": "Regulamin świadczenia usług | DWD",
+      "description": "Zasady określające sposób prowadzenia komunikacji, korzystania z naszej strony oraz zasady współpracy z naszym studiem."
+    },
+    "twitter": {
+      "title": "Regulamin świadczenia usług | DWD",
+      "description": "Zasady określające sposób prowadzenia komunikacji, korzystania z naszej strony oraz zasady współpracy z naszym studiem."
+    }
   },
   "a11y": {
     "skip_to_content": "Przejdź do treści",

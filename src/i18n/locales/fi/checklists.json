@@ -1,8 +1,21 @@
 {
   "meta": {
-    "title": "Ihotautiklinikan verkkosivuston tarkistuslistat — Julkaisu, SEO, HIPAA ja konversio",
+    "title": "Ihotautiklinikan verkkosivuston tarkistuslistat | DWD",
     "description": "Maksuttomat asiantuntijoiden laatimat tarkistuslistat ihotautiklinikoille: julkaisua edeltävä laadunvarmistus, hakukonemuseoptimointi (SEO), HIPAA-yhteensopivuus, saavutettavuus ja Core Web Vitals.",
-    "keywords": "ihotautiklinikan verkkosivuston tarkistuslista, ihotautialan SEO, HIPAA-tarkistuslista, lääkäriaseman sivuprojektin julkaisu, saavutettavuus terveydenhuollossa"
+    "ogTitle": "Ihotautiklinikan verkkosivuston tarkistuslistat | DWD",
+    "og_title": "Ihotautiklinikan verkkosivuston tarkistuslistat | DWD",
+    "twitter_title": "Ihotautiklinikan verkkosivuston tarkistuslistat | DWD",
+    "ogDescription": "Maksuttomat asiantuntijoiden laatimat tarkistuslistat ihotautiklinikoille: julkaisua edeltävä laadunvarmistus, hakukonemuseoptimointi (SEO), HIPAA-yhteensopivuus, saavutettavuus ja Core Web Vitals.",
+    "og_description": "Maksuttomat asiantuntijoiden laatimat tarkistuslistat ihotautiklinikoille: julkaisua edeltävä laadunvarmistus, hakukonemuseoptimointi (SEO), HIPAA-yhteensopivuus, saavutettavuus ja Core Web Vitals.",
+    "twitter_description": "Maksuttomat asiantuntijoiden laatimat tarkistuslistat ihotautiklinikoille: julkaisua edeltävä laadunvarmistus, hakukonemuseoptimointi (SEO), HIPAA-yhteensopivuus, saavutettavuus ja Core Web Vitals.",
+    "og": {
+      "title": "Ihotautiklinikan verkkosivuston tarkistuslistat | DWD",
+      "description": "Maksuttomat asiantuntijoiden laatimat tarkistuslistat ihotautiklinikoille: julkaisua edeltävä laadunvarmistus, hakukonemuseoptimointi (SEO), HIPAA-yhteensopivuus, saavutettavuus ja Core Web Vitals."
+    },
+    "twitter": {
+      "title": "Ihotautiklinikan verkkosivuston tarkistuslistat | DWD",
+      "description": "Maksuttomat asiantuntijoiden laatimat tarkistuslistat ihotautiklinikoille: julkaisua edeltävä laadunvarmistus, hakukonemuseoptimointi (SEO), HIPAA-yhteensopivuus, saavutettavuus ja Core Web Vitals."
+    }
   },
   "schema": {
     "breadcrumb": {

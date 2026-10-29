@@ -1,9 +1,21 @@
 {
   "meta": {
-    "title": "Notre Processus — Création de Site en 7 Étapes | Découverte → Lancement → Croissance",
+    "title": "Notre Processus | DWD",
     "description": "Les 7 étapes de notre méthode pour les sites de dermatologie : Audit SEO, design, contenu, développement, lancement et croissance. Délais fixes, points hebdo, HIPAA-first, garantie Lighthouse 95+.",
-    "ogTitle": "Notre Processus — 7 Étapes du Lancement à la Croissance",
-    "ogDescription": "Un processus transparent à délai fixe pour le design web et le SEO en dermatologie. Suivez l'évolution semaine après semaine, de la stratégie à la croissance."
+    "ogTitle": "Notre Processus | DWD",
+    "ogDescription": "Les 7 étapes de notre méthode pour les sites de dermatologie : Audit SEO, design, contenu, développement, lancement et croissance. Délais fixes, points hebdo, HIPAA-first, garantie Lighthouse 95+.",
+    "og_title": "Notre Processus | DWD",
+    "twitter_title": "Notre Processus | DWD",
+    "og_description": "Les 7 étapes de notre méthode pour les sites de dermatologie : Audit SEO, design, contenu, développement, lancement et croissance. Délais fixes, points hebdo, HIPAA-first, garantie Lighthouse 95+.",
+    "twitter_description": "Les 7 étapes de notre méthode pour les sites de dermatologie : Audit SEO, design, contenu, développement, lancement et croissance. Délais fixes, points hebdo, HIPAA-first, garantie Lighthouse 95+.",
+    "og": {
+      "title": "Notre Processus | DWD",
+      "description": "Les 7 étapes de notre méthode pour les sites de dermatologie : Audit SEO, design, contenu, développement, lancement et croissance. Délais fixes, points hebdo, HIPAA-first, garantie Lighthouse 95+."
+    },
+    "twitter": {
+      "title": "Notre Processus | DWD",
+      "description": "Les 7 étapes de notre méthode pour les sites de dermatologie : Audit SEO, design, contenu, développement, lancement et croissance. Délais fixes, points hebdo, HIPAA-first, garantie Lighthouse 95+."
+    }
   },
   "jsonLd": {
     "breadcrumb": {
@@ -17,8 +29,8 @@
   },
   "hero": {
     "badge": "Notre Processus",
-    "title": "Du premier appel au premier rendez-vous patient — ",
-    "titleHighlight": "une création en 7 étapes à délai fixe.",
+    "title": "Notre Processus",
+    "titleHighlight": "",
     "description": "Pas de mystère, pas de dérive budgétaire, pas de surprises tarifaires. Chaque étape inclut un livrable écrit, un responsable et une échéance — pour que vous soyez toujours au fait de l'avancée.",
     "buttons": {
       "seeSteps": "Découvrir les 7 étapes",

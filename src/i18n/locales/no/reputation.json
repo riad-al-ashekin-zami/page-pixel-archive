@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "Omdømmestyring for hudleger | Anmeldelser, GBP og 5-stjerners vekst",
+    "title": "Omdømmestyring for hudleger | DWD",
     "description": "HIPAA-sikker omdømmestyring for hudlegepraksiser — Google, Healthgrades, RealSelf, Zocdoc, Yelp. Generering av anmeldelser, 24-timers responstid (SLA) og gjenoppretting ved negative omtaler basert på bookede konsultasjoner.",
-    "og_title": "Omdømmestyring for dermatologi — 5-stjerners vekst, HIPAA-sikker",
-    "og_description": "Oppnå 4,9 stjerner på Google, Healthgrades, RealSelf, Zocdoc og Yelp. Invitasjoner til anmeldelser, profesjonelle svar og håndtering av negative omtaler for hudleger.",
-    "twitter_title": "Tjenester for omdømmestyring for hudleger",
-    "twitter_description": "Anmeldelser, GBP og 5-stjerners vekst for hudlegepraksiser — målt i bookede konsultasjoner.",
+    "og_title": "Omdømmestyring for hudleger | DWD",
+    "og_description": "HIPAA-sikker omdømmestyring for hudlegepraksiser — Google, Healthgrades, RealSelf, Zocdoc, Yelp. Generering av anmeldelser, 24-timers responstid (SLA) og gjenoppretting ved negative omtaler basert på bookede konsultasjoner.",
+    "twitter_title": "Omdømmestyring for hudleger | DWD",
+    "twitter_description": "HIPAA-sikker omdømmestyring for hudlegepraksiser — Google, Healthgrades, RealSelf, Zocdoc, Yelp. Generering av anmeldelser, 24-timers responstid (SLA) og gjenoppretting ved negative omtaler basert på bookede konsultasjoner.",
     "jsonLd": {
       "serviceType": "Omdømmestyring på nett for hudlegepraksiser",
       "providerName": "DermatologyWebsiteDesign.com",
@@ -14,6 +14,16 @@
       "breadcrumb_home": "Hjem",
       "breadcrumb_services": "Tjenester",
       "breadcrumb_current": "Omdømmestyring"
+    },
+    "ogTitle": "Omdømmestyring for hudleger | DWD",
+    "ogDescription": "HIPAA-sikker omdømmestyring for hudlegepraksiser — Google, Healthgrades, RealSelf, Zocdoc, Yelp. Generering av anmeldelser, 24-timers responstid (SLA) og gjenoppretting ved negative omtaler basert på bookede konsultasjoner.",
+    "og": {
+      "title": "Omdømmestyring for hudleger | DWD",
+      "description": "HIPAA-sikker omdømmestyring for hudlegepraksiser — Google, Healthgrades, RealSelf, Zocdoc, Yelp. Generering av anmeldelser, 24-timers responstid (SLA) og gjenoppretting ved negative omtaler basert på bookede konsultasjoner."
+    },
+    "twitter": {
+      "title": "Omdømmestyring for hudleger | DWD",
+      "description": "HIPAA-sikker omdømmestyring for hudlegepraksiser — Google, Healthgrades, RealSelf, Zocdoc, Yelp. Generering av anmeldelser, 24-timers responstid (SLA) og gjenoppretting ved negative omtaler basert på bookede konsultasjoner."
     }
   },
   "hero": {

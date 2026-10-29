@@ -1,15 +1,21 @@
 {
   "meta": {
-    "title": "Cookie Policy — How We Use Cookies",
+    "title": "Cookie Policy | DWD",
     "description": "What cookies and similar technologies we use on our website, why we use them, and how you can control them.",
     "og": {
-      "title": "Cookie Policy — How We Use Cookies",
+      "title": "Cookie Policy | DWD",
       "description": "What cookies and similar technologies we use on our website, why we use them, and how you can control them."
     },
     "twitter": {
-      "title": "Cookie Policy — How We Use Cookies",
+      "title": "Cookie Policy | DWD",
       "description": "What cookies and similar technologies we use on our website, why we use them, and how you can control them."
-    }
+    },
+    "ogTitle": "Cookie Policy | DWD",
+    "og_title": "Cookie Policy | DWD",
+    "twitter_title": "Cookie Policy | DWD",
+    "ogDescription": "What cookies and similar technologies we use on our website, why we use them, and how you can control them.",
+    "og_description": "What cookies and similar technologies we use on our website, why we use them, and how you can control them.",
+    "twitter_description": "What cookies and similar technologies we use on our website, why we use them, and how you can control them."
   },
   "layout": {
     "skipToContent": "Skip to content"

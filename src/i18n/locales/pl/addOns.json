@@ -1,10 +1,10 @@
 {
   "meta": {
-    "title": "Usługi dodatkowe dla stron dermatologicznych — Wsparcie, SEO, Rozwój i Integracje",
+    "title": "Usługi dodatkowe dla stron dermatologicznych | DWD",
     "description": "Usługi dodatkowe premium dla gabinetów dermatologicznych: wsparcie 24/7, hosting HIPAA, treści i CRO, lokalne SEO, integracje z EHR i rezerwacjami oraz marketing nastawiony na wzrost. Rozliczenie miesięczne.",
     "og": {
-      "title": "Usługi dodatkowe dla stron dermatologicznych",
-      "description": "Wzmocnij swoją stronę dermatologiczną o profesjonalną opiekę, hosting, SEO, integracje i marketing — zaprojektowane dla stałego wzrostu liczby pacjentów."
+      "title": "Usługi dodatkowe dla stron dermatologicznych | DWD",
+      "description": "Usługi dodatkowe premium dla gabinetów dermatologicznych: wsparcie 24/7, hosting HIPAA, treści i CRO, lokalne SEO, integracje z EHR i rezerwacjami oraz marketing nastawiony na wzrost. Rozliczenie miesięczne."
     },
     "jsonLd": {
       "serviceType": "Dermatology Website Add-On Services",
@@ -15,6 +15,16 @@
         "services": "Usługi",
         "current": "Usługi dodatkowe"
       }
+    },
+    "ogTitle": "Usługi dodatkowe dla stron dermatologicznych | DWD",
+    "og_title": "Usługi dodatkowe dla stron dermatologicznych | DWD",
+    "twitter_title": "Usługi dodatkowe dla stron dermatologicznych | DWD",
+    "ogDescription": "Usługi dodatkowe premium dla gabinetów dermatologicznych: wsparcie 24/7, hosting HIPAA, treści i CRO, lokalne SEO, integracje z EHR i rezerwacjami oraz marketing nastawiony na wzrost. Rozliczenie miesięczne.",
+    "og_description": "Usługi dodatkowe premium dla gabinetów dermatologicznych: wsparcie 24/7, hosting HIPAA, treści i CRO, lokalne SEO, integracje z EHR i rezerwacjami oraz marketing nastawiony na wzrost. Rozliczenie miesięczne.",
+    "twitter_description": "Usługi dodatkowe premium dla gabinetów dermatologicznych: wsparcie 24/7, hosting HIPAA, treści i CRO, lokalne SEO, integracje z EHR i rezerwacjami oraz marketing nastawiony na wzrost. Rozliczenie miesięczne.",
+    "twitter": {
+      "title": "Usługi dodatkowe dla stron dermatologicznych | DWD",
+      "description": "Usługi dodatkowe premium dla gabinetów dermatologicznych: wsparcie 24/7, hosting HIPAA, treści i CRO, lokalne SEO, integracje z EHR i rezerwacjami oraz marketing nastawiony na wzrost. Rozliczenie miesięczne."
     }
   },
   "hero": {

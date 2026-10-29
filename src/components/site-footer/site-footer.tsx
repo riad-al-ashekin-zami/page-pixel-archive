@@ -52,7 +52,7 @@ type LinkItem = {
 };
 
 const services: LinkItem[] = [
-  { labelKey: "services.websiteDesign", href: "/dermatology-website-design" },
+  { labelKey: "services.websiteDesign", href: "/" },
   { labelKey: "services.websiteRedesign", href: "/dermatology-website-redesign" },
   { labelKey: "services.websiteMigration", href: "/dermatology-website-migration" },
   { labelKey: "services.websiteManagement", href: "/dermatology-website-management-services" },

@@ -1,3 +1,4 @@
+import { finalizeSeoHead } from "@/lib/seo-head";
 import { createFileRoute, notFound } from "@tanstack/react-router";
 import { LocalLink as Link } from "@/components/local-link";
 import { CtaLabel } from "@/lib/cta";
@@ -95,7 +96,7 @@ export const Route = createFileRoute("/{-$lang}/dermatology-before-after-gallery
     stringify: (parsed: { lang?: string }) => ({ lang: parsed.lang ?? "" }),
   },
 
-  head: ({ params }) => {
+  head: (args) => finalizeSeoHead((({ params }: typeof args) => {
     const lang = (params as any).lang || "en";
     const st = getStaticTranslation(lang, "beforeAfter");
     const faqs: any[] = Array.isArray(st?.faq?.items) ? st.faq.items : [];
@@ -118,7 +119,7 @@ export const Route = createFileRoute("/{-$lang}/dermatology-before-after-gallery
         { type: "application/ld+json", children: JSON.stringify({ "@context": "https://schema.org", "@type": "FAQPage", mainEntity: faqs.map((f: any) => ({ "@type": "Question", name: f.q, acceptedAnswer: { "@type": "Answer", text: f.a } })) }) },
       ],
     };
-  },
+  })(args), args.params.lang, "/dermatology-before-after-gallery"),
   component: BeforeAfterGalleryPage,
 });
 
@@ -617,7 +618,7 @@ function BeforeAfterGalleryPage() {
 
         <p className="mx-auto mt-16 mb-20 max-w-3xl px-4 text-center text-sm text-muted-foreground sm:mt-20 sm:mb-24 sm:px-6 lg:px-8">
           {t("footerLinks.prefix")}{" "}
-          <Link to="/dermatology-website-design" className="font-medium text-foreground underline-offset-4 hover:text-brand-primary hover:underline">{t("footerLinks.link1")}</Link>,{" "}
+          <Link to="/" className="font-medium text-foreground underline-offset-4 hover:text-brand-primary hover:underline">{t("footerLinks.link1")}</Link>,{" "}
           <Link to="/dermatology-social-media-services" className="font-medium text-foreground underline-offset-4 hover:text-brand-primary hover:underline">{t("footerLinks.link2")}</Link>, {t("common.or", { ns: "translation" })}{" "}
           <Link to="/case-studies" className="font-medium text-foreground underline-offset-4 hover:text-brand-primary hover:underline">{t("footerLinks.link3")}</Link>.
         </p>

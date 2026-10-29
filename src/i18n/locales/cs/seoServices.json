@@ -1,11 +1,21 @@
 {
   "meta": {
-    "title": "SEO služby pro dermatology – Buďte vidět ve vyhledávání péče o pleť",
-    "description": "Zdravotnické SEO pro dermatologické kliniky: technické audity, lokální SEO, optimalizace Google Profilu firmy, odborný obsah a etický linkbuilding. Pro soukromé praxe i sítě klinik.",
-    "og_title": "SEO služby pro dermatology – Buďte tam, kde vás pacienti hledají",
-    "og_description": "Komplexní SEO pro dermatologii – technické aspekty, lokální SEO, obsah a budování autority s transparentním měsíčním reportingem.",
-    "twitter_title": "SEO služby pro dermatology",
-    "twitter_description": "Specializované SEO pro dermatologické kliniky a praxe."
+    "title": "SEO služby pro dermatology | DWD",
+    "description": "SEO a lokální SEO pro dermatologické kliniky: viditelnost v Mapách Google a při hledání ošetření pacienty.",
+    "og_title": "SEO služby pro dermatology | DWD",
+    "og_description": "SEO a lokální SEO pro dermatologické kliniky: viditelnost v Mapách Google a při hledání ošetření pacienty.",
+    "twitter_title": "SEO služby pro dermatology | DWD",
+    "twitter_description": "SEO a lokální SEO pro dermatologické kliniky: viditelnost v Mapách Google a při hledání ošetření pacienty.",
+    "ogTitle": "SEO služby pro dermatology | DWD",
+    "ogDescription": "SEO a lokální SEO pro dermatologické kliniky: viditelnost v Mapách Google a při hledání ošetření pacienty.",
+    "og": {
+      "title": "SEO služby pro dermatology | DWD",
+      "description": "SEO a lokální SEO pro dermatologické kliniky: viditelnost v Mapách Google a při hledání ošetření pacienty."
+    },
+    "twitter": {
+      "title": "SEO služby pro dermatology | DWD",
+      "description": "SEO a lokální SEO pro dermatologické kliniky: viditelnost v Mapách Google a při hledání ošetření pacienty."
+    }
   },
   "jsonLd": {
     "serviceType": "Dermatology SEO Services",
@@ -20,8 +30,8 @@
   },
   "hero": {
     "badge": "SEO služby pro dermatology",
-    "title_start": "Buďte na prvních místech tam,",
-    "title_highlight": "kde pacienti hledají péči o pleť.",
+    "title_start": "SEO služby pro dermatology",
+    "title_highlight": "",
     "description": "Komplexní zdravotnické SEO navržené pro dermatologii. Odborný obsah, etické odkazy a srozumitelný měsíční report. Vy se staráte o pacienty, my o váš růst.",
     "cta_audit": "Chci SEO audit zdarma",
     "cta_stack": "Prohlédněte si naši strategii",
@@ -199,7 +209,7 @@
     ]
   },
   "faq": {
-    "heading": "Na co se nás dermatologové nejčastěji ptají.",
+    "heading": "Často kladené otázky",
     "items": [
       {
         "q": "Za jak dlouho uvidím výsledky SEO?",
@@ -220,10 +230,6 @@
       {
         "q": "Budete pracovat s mým stávajícím webem?",
         "a": "Ano. Pracujeme na systémech WordPress, Webflow, Modernizing Medicine, Nextech i vlastních CMS. Pokud by vás platforma brzdila v růstu, navrhneme migraci jen v případě jasné návratnosti."
-      },
-      {
-        "q": "Co obsahuje měsíční report?",
-        "a": "Pohyb pozic u 200 klíčových slov, organickou návštěvnost, statistiku objednávek, Core Web Vitals, získané odkazy a plán na další měsíc. Vše si můžeme projít na 30minutovém callu."
       }
     ]
   },
@@ -243,5 +249,166 @@
     "local_seo": "lokální SEO pro sousedství",
     "marketing_playbook": "náš kompletní průvodce marketingem pro dermatology",
     "practice_growth": "holistický růst lékařské praxe"
+  },
+  "merged": {
+    "headings": [
+      "Lokální SEO pro dermatologické kliniky",
+      "SEO stránek ošetření a služeb",
+      "Technické SEO",
+      "Recenze a firemní profil Google",
+      "Reportování",
+      "Často kladené otázky"
+    ],
+    "local": {
+      "badge": "Náš lokální SEO balíček",
+      "heading": "Osm pák pro lokální hodnocení. Každý měsíc v plném nasazení.",
+      "description": "Lokální pozice rostou pouze tehdy, když všechny signály míří stejným směrem – profil, vzdálenost, recenze, citace, obsah a schémata.",
+      "items": [
+        {
+          "title": "Optimalizace Google Business Profile",
+          "desc": "Kompletní revize GBP – kategorie, služby, atributy, Q&A a týdenní příspěvky kalibrované pro rankingové signály v mapách."
+        },
+        {
+          "title": "Strategie pro Map Pack",
+          "desc": "Ladění blízkosti, významnosti a relevance v celém okruhu vaší působnosti – tři klíčové signály, které rozhodují o top pozicích."
+        },
+        {
+          "title": "Lokálně cílené landing pages",
+          "desc": "Unikátní, odborně revidované stránky pro každé město a čtvrť – žádný duplicitní obsah, žádná vzájemná kanibalizace klíčových slov."
+        },
+        {
+          "title": "Generování a správa recenzí",
+          "desc": "Automatizované žádosti o recenze po návštěvě, odpovědi asistované AI s lidskou kontrolou a schémata, která zobrazí hvězdičky přímo ve vyhledávání."
+        },
+        {
+          "title": "Budování NAP citací",
+          "desc": "Konzistence jména, adresy a telefonu v 80+ lékařských a lokálních adresářích – měsíčně auditováno a monitorováno."
+        },
+        {
+          "title": "Lokální analýza klíčových slov",
+          "desc": "„Dermatolog v okolí“, diagnóza + město, zákrok + PSČ – cílíme na přesné fráze, které vaši pacienti skutečně píší do vyhledávače."
+        },
+        {
+          "title": "Lokální schémata bezpečná pro HIPAA",
+          "desc": "Implementace schémat MedicalBusiness, Physician a LocalBusiness pro každou pobočku – bohaté výsledky vyhledávání bez úniku citlivých dat."
+        },
+        {
+          "title": "Sledování lokálních pozic a reporty",
+          "desc": "Denní sledování pozic v mřížce okolí každé kliniky – měsíční reporty srozumitelně v češtině, žádné prázdné grafy pro parádu."
+        }
+      ]
+    },
+    "workflow": {
+      "badge": "Jak to probíhá",
+      "heading": "90denní start. Poté trvalý růst v mapách.",
+      "description": "Transparentní milníky – vždy přesně víte, na čem tento měsíc pracujeme a proč.",
+      "steps": [
+        {
+          "phase": "Fáze 01",
+          "title": "Lokální audit a analýza konkurence",
+          "desc": "Skenování pozic v mřížce okolí vaší kliniky, audit GBP, analýza chybějících citací a rozbor top 3 konkurentů v každém městě."
+        },
+        {
+          "phase": "Fáze 02",
+          "title": "GBP + čištění citací",
+          "desc": "Kompletní přestavba profilu Google Business, oprava údajů NAP v adresářích, odstranění duplicit a rekalibrace kategorií."
+        },
+        {
+          "phase": "Fáze 03",
+          "title": "Lokální stránky + schémata",
+          "desc": "Vytvoření unikátních landing pages pro služby v daném městě, implementace schémat MedicalBusiness, vnitřní prolinkování a widgety s recenzemi."
+        },
+        {
+          "phase": "Fáze 04",
+          "title": "Recenze, příspěvky a měsíční reporty",
+          "desc": "Nastavení toku recenzí po návštěvě, týdenní GBP příspěvky, publikace lokálního obsahu a reporty o rezervovaných termínech."
+        }
+      ]
+    },
+    "reviews": {
+      "badge": "Proč si dermatologové vybírají nás",
+      "heading": "Specializovaný tým pro lokální SEO – žádná agentura pro všechno.",
+      "items": [
+        {
+          "title": "Recenze v souladu s HIPAA",
+          "desc": "Platformy s BAA smlouvou, odpovědi očištěné o citlivé údaje a protokoly pro řešení negativních recenzí schválené klinickým personálem."
+        },
+        {
+          "title": "Škálování pro více poboček",
+          "desc": "Unikátní lokální stránky, specifické GBP pro každou adresu a eliminace duplicit napříč vaší sítí."
+        },
+        {
+          "title": "Reportování pozic v mřížce (Grid)",
+          "desc": "Denní skenování pozic v širokém okolí kliniky – ne jen z jednoho bodu, který neodhalí reálný dosah v okolních čtvrtích."
+        },
+        {
+          "title": "Atribuce objednaných návštěv",
+          "desc": "Sledování hovorů, tras a formulářů navázané na konkrétní lokální pozice – měříme reálnou návratnost investice, ne jen imprese."
+        },
+        {
+          "title": "Copywriteři se zdravotnickým vzděláním",
+          "desc": "Vlastní autoři se zkušenostmi ze zdravotnictví – žádné AI bláboly ani nekvalitní texty od nezkušených freelancerů."
+        },
+        {
+          "title": "Srozumitelné reporty",
+          "desc": "Jedna strana, jasná fakta, jednou měsíčně. Pozice v mřížce, recenze, hovory, trasy a plán na další měsíc."
+        }
+      ]
+    },
+    "medicalServices": {
+      "badge": "Lékařské služby, které lokalizujeme",
+      "heading": "Každá diagnóza. Každé město. Každý záměr.",
+      "description": "Z každé lékařské služby vytvoříme lokální centrum – v souladu s E-E-A-T, se schématem MedicalBusiness a vnitřním prolinkováním v rámci vašeho regionu.",
+      "list": [
+        "Léčba akné",
+        "Léčba ekzému",
+        "Léčba lupénky",
+        "Léčba kožních infekcí",
+        "Léčba kožních alergií",
+        "Screening a léčba rakoviny kůže",
+        "Vyšetření a odstranění mateřských znamének",
+        "Odstranění cyst a lipomů",
+        "Odstranění bradavic",
+        "Léčba onemocnění nehtů",
+        "Diagnostika a léčba vypadávání vlasů",
+        "Léčba onemocnění pokožky hlavy",
+        "Léčba růžovky (rosacea)",
+        "Léčba hyperpigmentace a melasmatu",
+        "Léčba jizev (po úrazech, operacích)",
+        "Léčba jizev po popáleninách",
+        "Léčba vitiliga",
+        "Kožní biopsie a diagnostické zákroky"
+      ]
+    },
+    "content": {
+      "description": "Mapování dotazů pro diagnózy i zákroky – akné, ekzémy, Mohsova operace, biopsie – přesně podle cesty pacienta. Stránky splňující E-E-A-T, psané pro pacienty i vyhledávače. Žádný plytký text, žádná AI, žádné duplicity.",
+      "items": [],
+      "list": [
+        "Léčba akné",
+        "Léčba ekzému",
+        "Léčba lupénky",
+        "Léčba kožních infekcí",
+        "Léčba kožních alergií",
+        "Prevence a léčba rakoviny kůže",
+        "Vyšetření a odstranění mateřských znamének",
+        "Odstranění cyst a lipomů",
+        "Odstranění bradavic",
+        "Léčba onemocnění nehtů",
+        "Léčba vypadávání vlasů",
+        "Léčba onemocnění vlasové pokožky",
+        "Léčba růžovky (rosacea)",
+        "Hyperpigmentace a melasma",
+        "Léčba jizev",
+        "Léčba jizev po popáleninách",
+        "Léčba vitiliga",
+        "Biopsie kůže a diagnostika"
+      ]
+    },
+    "technical": {
+      "description": "Core Web Vitals, indexace, schema, HTTPS, mobile-first – 120 kontrolních bodů předtím, než začneme s obsahem. LCP pod 1s, téměř nulové CLS a optimalizace obrázků. Špičkový výkon webu pro nejlepší pozice."
+    },
+    "reporting": {
+      "description": "GA4, Search Console a denní sledování vašich 200 nejdůležitějších klíčových slov. S přehledným reportem každý měsíc. Budování zpětných odkazů, lokální citace a detailní měsíční reporty výsledků."
+    }
   }
 }

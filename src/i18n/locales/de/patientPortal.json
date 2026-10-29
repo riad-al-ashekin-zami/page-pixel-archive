@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "Dermatologie-Patientenportal: Design & Entwicklung | HIPAA-konform",
+    "title": "Dermatologie-Patientenportal: Design & Entwicklung | DWD",
     "description": "Individuelle, HIPAA-konforme Patientenportale für die Dermatologie: Online-Termine, sicheres Messaging, Teledermatologie, E-Formulare, Abrechnung und EHR-Integration. Für Einzelpraxen, MVZs und Mohs-Chirurgie.",
-    "og_title": "Dermatologie-Patientenportal: Design & Entwicklung",
-    "og_description": "HIPAA-konforme Patientenportale, speziell für dermatologische Praxen entwickelt – Buchung, Messaging, Teledermatologie, E-Aufnahme und EHR-Integration.",
-    "twitter_title": "Dermatologie-Patientenportal: Design & Entwicklung",
-    "twitter_description": "HIPAA-konforme Patientenportale, optimiert für dermatologische Praxen.",
+    "og_title": "Dermatologie-Patientenportal: Design & Entwicklung | DWD",
+    "og_description": "Individuelle, HIPAA-konforme Patientenportale für die Dermatologie: Online-Termine, sicheres Messaging, Teledermatologie, E-Formulare, Abrechnung und EHR-Integration. Für Einzelpraxen, MVZs und Mohs-Chirurgie.",
+    "twitter_title": "Dermatologie-Patientenportal: Design & Entwicklung | DWD",
+    "twitter_description": "Individuelle, HIPAA-konforme Patientenportale für die Dermatologie: Online-Termine, sicheres Messaging, Teledermatologie, E-Formulare, Abrechnung und EHR-Integration. Für Einzelpraxen, MVZs und Mohs-Chirurgie.",
     "jsonLd": {
       "serviceType": "Dermatologie-Patientenportal Design & Entwicklung",
       "provider": "DermatologyWebsiteDesign.com",
@@ -14,6 +14,16 @@
       "breadcrumb_home": "Startseite",
       "breadcrumb_services": "Leistungen",
       "breadcrumb_portal": "Patientenportal"
+    },
+    "ogTitle": "Dermatologie-Patientenportal: Design & Entwicklung | DWD",
+    "ogDescription": "Individuelle, HIPAA-konforme Patientenportale für die Dermatologie: Online-Termine, sicheres Messaging, Teledermatologie, E-Formulare, Abrechnung und EHR-Integration. Für Einzelpraxen, MVZs und Mohs-Chirurgie.",
+    "og": {
+      "title": "Dermatologie-Patientenportal: Design & Entwicklung | DWD",
+      "description": "Individuelle, HIPAA-konforme Patientenportale für die Dermatologie: Online-Termine, sicheres Messaging, Teledermatologie, E-Formulare, Abrechnung und EHR-Integration. Für Einzelpraxen, MVZs und Mohs-Chirurgie."
+    },
+    "twitter": {
+      "title": "Dermatologie-Patientenportal: Design & Entwicklung | DWD",
+      "description": "Individuelle, HIPAA-konforme Patientenportale für die Dermatologie: Online-Termine, sicheres Messaging, Teledermatologie, E-Formulare, Abrechnung und EHR-Integration. Für Einzelpraxen, MVZs und Mohs-Chirurgie."
     }
   },
   "hero": {

@@ -1,10 +1,24 @@
 {
   "meta": {
-    "title": "Our Work & Case Studies",
-    "description": "Browse our work, client results and case studies across cosmetic, medical and multi-location skin practices.",
+    "title": "Dermatology Website Examples & Portfolio | DWD",
+    "description": "Explore dermatology website examples, a labelled sample case study and industry inspiration for clinics and practices.",
     "breadcrumb": {
       "home": "Home",
       "portfolio": "Portfolio"
+    },
+    "ogTitle": "Dermatology Website Examples & Portfolio | DWD",
+    "og_title": "Dermatology Website Examples & Portfolio | DWD",
+    "twitter_title": "Dermatology Website Examples & Portfolio | DWD",
+    "ogDescription": "Explore dermatology website examples, a labelled sample case study and industry inspiration for clinics and practices.",
+    "og_description": "Explore dermatology website examples, a labelled sample case study and industry inspiration for clinics and practices.",
+    "twitter_description": "Explore dermatology website examples, a labelled sample case study and industry inspiration for clinics and practices.",
+    "og": {
+      "title": "Dermatology Website Examples & Portfolio | DWD",
+      "description": "Explore dermatology website examples, a labelled sample case study and industry inspiration for clinics and practices."
+    },
+    "twitter": {
+      "title": "Dermatology Website Examples & Portfolio | DWD",
+      "description": "Explore dermatology website examples, a labelled sample case study and industry inspiration for clinics and practices."
     }
   },
   "accessibility": {
@@ -12,7 +26,7 @@
   },
   "hero": {
     "badge": "Our work · Case studies",
-    "heading": "Real Practices. Real Results.",
+    "heading": "Dermatology Website Examples",
     "subheading": "A sample case study from our work, followed by an inspiration gallery of skin practice sites we benchmark. Custom design, HIPAA-aware builds, and SEO that moves bookings, not just rankings.",
     "cta": {
       "audit": "Free website audit"

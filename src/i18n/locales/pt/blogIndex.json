@@ -1,15 +1,14 @@
 {
   "meta": {
-    "title": "Blog — Melhores Estratégias e Dicas para Marketing em Dermatologia",
+    "title": "Blog | DWD",
     "description": "Estratégias práticas de SEO para dermatologia, design de sites, angariação de pacientes, HIPAA, avaliações e anúncios pagos — escrito para gestores focados no crescimento.",
-    "keywords": "blog de dermatologia, SEO para dermatologia, marketing para dermatologia, crescimento de clínicas, sites HIPAA",
     "og": {
-      "title": "Blog de Marketing em Dermatologia — Estratégias que Fazem a sua Clínica Crescer",
-      "description": "Artigos aprofundados e táticas rápidas para clínicas de dermatologia. SEO, design, anúncios, reputação e experiência do paciente."
+      "title": "Blog | DWD",
+      "description": "Estratégias práticas de SEO para dermatologia, design de sites, angariação de pacientes, HIPAA, avaliações e anúncios pagos — escrito para gestores focados no crescimento."
     },
     "twitter": {
-      "title": "Blog de Marketing em Dermatologia",
-      "description": "Guias de SEO, design, anúncios e experiência do paciente para clínicas de dermatologia."
+      "title": "Blog | DWD",
+      "description": "Estratégias práticas de SEO para dermatologia, design de sites, angariação de pacientes, HIPAA, avaliações e anúncios pagos — escrito para gestores focados no crescimento."
     },
     "jsonLd": {
       "breadcrumb": {
@@ -20,12 +19,18 @@
         "name": "Blog de Marketing em Dermatologia",
         "description": "Estratégias e insights sobre SEO, design de sites, anúncios, reputação e angariação de pacientes em dermatologia."
       }
-    }
+    },
+    "ogTitle": "Blog | DWD",
+    "og_title": "Blog | DWD",
+    "twitter_title": "Blog | DWD",
+    "ogDescription": "Estratégias práticas de SEO para dermatologia, design de sites, angariação de pacientes, HIPAA, avaliações e anúncios pagos — escrito para gestores focados no crescimento.",
+    "og_description": "Estratégias práticas de SEO para dermatologia, design de sites, angariação de pacientes, HIPAA, avaliações e anúncios pagos — escrito para gestores focados no crescimento.",
+    "twitter_description": "Estratégias práticas de SEO para dermatologia, design de sites, angariação de pacientes, HIPAA, avaliações e anúncios pagos — escrito para gestores focados no crescimento."
   },
   "hero": {
     "badge": "O Diário DermGrowth",
-    "title": "Estratégias reais para a clínica de dermatologia moderna.",
-    "description": "Táticas testadas no terreno sobre SEO, design de sites, anúncios pagos, reputação e experiência do paciente — escrito pela equipa que já lançou centenas de clínicas.",
+    "title": "Blog",
+    "description": "Estratégias práticas de SEO para dermatologia, design de sites, angariação de pacientes, HIPAA, avaliações e anúncios pagos — escrito para gestores focados no crescimento.",
     "search": {
       "label": "Pesquisar artigos",
       "placeholder": "Pesquisar SEO, anúncios, HIPAA, redesign…",

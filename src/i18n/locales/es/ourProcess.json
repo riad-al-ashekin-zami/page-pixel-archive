@@ -1,9 +1,21 @@
 {
   "meta": {
-    "title": "Nuestro Proceso — Creación de sitios web de Dermatología en 7 Pasos | Descubrir → Lanzar → Crecer",
+    "title": "Nuestro Proceso | DWD",
     "description": "El proceso de 7 pasos que utilizamos para crear sitios web dermatológicos: Descubrimiento, auditoría SEO, diseño, contenido, desarrollo, lanzamiento y crecimiento. Plazos fijos, reuniones semanales, prioridad HIPAA y garantía de Lighthouse 95+.",
-    "ogTitle": "Nuestro Proceso — 7 Pasos desde el Inicio hasta el Crecimiento",
-    "ogDescription": "Un proceso transparente y con plazos fijos para el diseño y SEO de sitios web de dermatología. Conozca exactamente qué sucede semana a semana, desde el descubrimiento hasta el crecimiento continuo."
+    "ogTitle": "Nuestro Proceso | DWD",
+    "ogDescription": "El proceso de 7 pasos que utilizamos para crear sitios web dermatológicos: Descubrimiento, auditoría SEO, diseño, contenido, desarrollo, lanzamiento y crecimiento. Plazos fijos, reuniones semanales, prioridad HIPAA y garantía de Lighthouse 95+.",
+    "og_title": "Nuestro Proceso | DWD",
+    "twitter_title": "Nuestro Proceso | DWD",
+    "og_description": "El proceso de 7 pasos que utilizamos para crear sitios web dermatológicos: Descubrimiento, auditoría SEO, diseño, contenido, desarrollo, lanzamiento y crecimiento. Plazos fijos, reuniones semanales, prioridad HIPAA y garantía de Lighthouse 95+.",
+    "twitter_description": "El proceso de 7 pasos que utilizamos para crear sitios web dermatológicos: Descubrimiento, auditoría SEO, diseño, contenido, desarrollo, lanzamiento y crecimiento. Plazos fijos, reuniones semanales, prioridad HIPAA y garantía de Lighthouse 95+.",
+    "og": {
+      "title": "Nuestro Proceso | DWD",
+      "description": "El proceso de 7 pasos que utilizamos para crear sitios web dermatológicos: Descubrimiento, auditoría SEO, diseño, contenido, desarrollo, lanzamiento y crecimiento. Plazos fijos, reuniones semanales, prioridad HIPAA y garantía de Lighthouse 95+."
+    },
+    "twitter": {
+      "title": "Nuestro Proceso | DWD",
+      "description": "El proceso de 7 pasos que utilizamos para crear sitios web dermatológicos: Descubrimiento, auditoría SEO, diseño, contenido, desarrollo, lanzamiento y crecimiento. Plazos fijos, reuniones semanales, prioridad HIPAA y garantía de Lighthouse 95+."
+    }
   },
   "jsonLd": {
     "breadcrumb": {
@@ -17,8 +29,8 @@
   },
   "hero": {
     "badge": "Nuestro Proceso",
-    "title": "Desde la primera llamada hasta la reserva del primer paciente — ",
-    "titleHighlight": "un desarrollo de 7 pasos con plazos fijos.",
+    "title": "Nuestro Proceso",
+    "titleHighlight": "",
     "description": "Sin misterios, sin aumentos de presupuesto inesperados ni sorpresas por hora. Cada paso tiene un entregable por escrito, un responsable y una fecha límite, para que siempre sepa qué sucede esta semana y qué sigue.",
     "buttons": {
       "seeSteps": "Ver los 7 pasos",

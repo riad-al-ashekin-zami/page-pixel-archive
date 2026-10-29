@@ -12,7 +12,7 @@
     "footerCta": "Kostenloses Angebot einholen",
     "items": {
       "customWebsite": {
-        "title": "Maßgeschneidertes Webdesign",
+        "title": "webdesign für hautärzte",
         "description": "Konversionsorientierte Dermatologie-Websites, die auf Ihre Marke und die Patientenreise zugeschnitten sind."
       },
       "redesign": {
@@ -36,22 +36,22 @@
         "description": "Sichere, HIPAA-konforme Patientenportale für Aufnahme, Akten und Kommunikation."
       },
       "maintenance": {
-        "title": "Website-Pflege & Wartung",
+        "title": "wartung und verwaltung von dermatologie-websites",
         "description": "Laufende Updates, Backups, Sicherheit und Leistungsüberwachung für Ihre Seelenruhe."
       },
       "seo": {
-        "title": "SEO für Dermatologen",
+        "title": "SEO-Leistungen für Hautärzte",
         "description": "Ranken Sie für hoch-intentionale Suchanfragen und bringen Sie qualifizierte Patienten in Ihre Praxis."
       },
       "googleAds": {
-        "title": "Google Ads & PPC",
+        "title": "Google Ads & PPC für Dermatologen",
         "description": "Vorhersehbare, messbare Patientengewinnung mit optimierten Werbekampagnen."
       }
     }
   },
   "pricing": {
     "eyebrow": "Transparente Preise",
-    "heading": "Keine versteckten Gebühren. Keine langen Verträge.",
+    "heading": "Preise",
     "intro": "Die meisten Agenturen verbergen ihre Preise. Wir tun das nicht – sehen Sie genau, was Sie bezahlen werden, bevor Sie überhaupt mit uns sprechen.",
     "mostPopular": "Am beliebtesten",
     "startingAt": "Ab ",
@@ -82,8 +82,8 @@
   },
   "approach": {
     "eyebrow": "Die Methodik",
-    "headingLead": "Ein systematischer Ansatz für",
-    "headingHighlight": "nachhaltiges Patientenwachstum.",
+    "headingLead": "Unser Ablauf",
+    "headingHighlight": "",
     "intro": "Ein präzisionsgefertigtes, sechsphasiges Framework, das speziell für wachstumsstarke Dermatologiepraxen entwickelt wurde. Klicken Sie auf einen beliebigen Schritt, um mehr zu erfahren.",
     "phaseLabel": "Phase",
     "stepLabel": "Schritt {{n}}",
@@ -163,8 +163,8 @@
   "whyChoose": {
     "eyebrow": "Warum wir",
     "eyebrowSuffix": "— DermatologyWebsiteDesign.com",
-    "headingLead": "Die einzige Agentur",
-    "headingHighlight": "100% auf Dermatologie spezialisiert",
+    "headingLead": "Warum Hautarztpraxen uns wählen",
+    "headingHighlight": "",
     "intro": "Generische Webagenturen erstellen Websites. Wir bauen Patientenpipelines auf – speziell für das Wachstum von Dermatologiepraxen konzipiert.",
     "reasons": {
       "pricing": {

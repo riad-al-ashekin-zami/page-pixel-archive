@@ -1,14 +1,14 @@
 {
   "meta": {
-    "title": "Email Marketing para Dermatología | Automatización de Citas HIPAA-Safe",
+    "title": "Email Marketing para Dermatología | DWD",
     "description": "Email marketing con cumplimiento HIPAA para clínicas dermatológicas: series de bienvenida, recordatorios de 6 meses, educación estacional y reactivación estética. Reportamos citas agendadas, no solo aperturas.",
     "og": {
-      "title": "Email Marketing Dermatológico — HIPAA-Safe y Atribución de Citas",
-      "description": "Boletines personalizados, flujos de re-activación vinculados al PMS y automatización con cumplimiento HIPAA para dermatología. Klaviyo, HubSpot, Mailchimp."
+      "title": "Email Marketing para Dermatología | DWD",
+      "description": "Email marketing con cumplimiento HIPAA para clínicas dermatológicas: series de bienvenida, recordatorios de 6 meses, educación estacional y reactivación estética. Reportamos citas agendadas, no solo aperturas."
     },
     "twitter": {
-      "title": "Servicios de Email Marketing para Dermatología",
-      "description": "Email marketing seguro (HIPAA), automatización de citas y entregabilidad optimizada para clínicas dermatológicas."
+      "title": "Email Marketing para Dermatología | DWD",
+      "description": "Email marketing con cumplimiento HIPAA para clínicas dermatológicas: series de bienvenida, recordatorios de 6 meses, educación estacional y reactivación estética. Reportamos citas agendadas, no solo aperturas."
     },
     "jsonLd": {
       "serviceType": "Email Marketing para Clínicas de Dermatología",
@@ -19,7 +19,13 @@
         "services": "Servicios",
         "emailMarketing": "Email Marketing"
       }
-    }
+    },
+    "ogTitle": "Email Marketing para Dermatología | DWD",
+    "og_title": "Email Marketing para Dermatología | DWD",
+    "twitter_title": "Email Marketing para Dermatología | DWD",
+    "ogDescription": "Email marketing con cumplimiento HIPAA para clínicas dermatológicas: series de bienvenida, recordatorios de 6 meses, educación estacional y reactivación estética. Reportamos citas agendadas, no solo aperturas.",
+    "og_description": "Email marketing con cumplimiento HIPAA para clínicas dermatológicas: series de bienvenida, recordatorios de 6 meses, educación estacional y reactivación estética. Reportamos citas agendadas, no solo aperturas.",
+    "twitter_description": "Email marketing con cumplimiento HIPAA para clínicas dermatológicas: series de bienvenida, recordatorios de 6 meses, educación estacional y reactivación estética. Reportamos citas agendadas, no solo aperturas."
   },
   "hero": {
     "badge": "Email Marketing para Dermatología",

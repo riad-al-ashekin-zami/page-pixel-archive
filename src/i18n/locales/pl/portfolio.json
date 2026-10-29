@@ -1,11 +1,24 @@
 {
   "meta": {
-    "title": "Portfolio Stron Dermatologicznych — Realizacje i Rebrandingi",
+    "title": "Przykłady stron dermatologicznych | DWD",
     "description": "Wyselekcjonowane portfolio stron dla gabinetów dermatologicznych — kliniki medycyny estetycznej, dermatologii medycznej i dziecięcej. Sprawdź realizacje, które realnie zwiększają liczbę rezerwacji i poprawiają SEO.",
-    "keywords": "portfolio stron dermatologicznych, projektowanie stron dla dermatologów, przykłady stron dermatologii, case studies gabinetów dermatologicznych",
     "breadcrumb": {
       "home": "Strona główna",
       "portfolio": "Portfolio"
+    },
+    "ogTitle": "Przykłady stron dermatologicznych | DWD",
+    "og_title": "Przykłady stron dermatologicznych | DWD",
+    "twitter_title": "Przykłady stron dermatologicznych | DWD",
+    "ogDescription": "Wyselekcjonowane portfolio stron dla gabinetów dermatologicznych — kliniki medycyny estetycznej, dermatologii medycznej i dziecięcej. Sprawdź realizacje, które realnie zwiększają liczbę rezerwacji i poprawiają SEO.",
+    "og_description": "Wyselekcjonowane portfolio stron dla gabinetów dermatologicznych — kliniki medycyny estetycznej, dermatologii medycznej i dziecięcej. Sprawdź realizacje, które realnie zwiększają liczbę rezerwacji i poprawiają SEO.",
+    "twitter_description": "Wyselekcjonowane portfolio stron dla gabinetów dermatologicznych — kliniki medycyny estetycznej, dermatologii medycznej i dziecięcej. Sprawdź realizacje, które realnie zwiększają liczbę rezerwacji i poprawiają SEO.",
+    "og": {
+      "title": "Przykłady stron dermatologicznych | DWD",
+      "description": "Wyselekcjonowane portfolio stron dla gabinetów dermatologicznych — kliniki medycyny estetycznej, dermatologii medycznej i dziecięcej. Sprawdź realizacje, które realnie zwiększają liczbę rezerwacji i poprawiają SEO."
+    },
+    "twitter": {
+      "title": "Przykłady stron dermatologicznych | DWD",
+      "description": "Wyselekcjonowane portfolio stron dla gabinetów dermatologicznych — kliniki medycyny estetycznej, dermatologii medycznej i dziecięcej. Sprawdź realizacje, które realnie zwiększają liczbę rezerwacji i poprawiają SEO."
     }
   },
   "accessibility": {
@@ -13,7 +26,7 @@
   },
   "hero": {
     "badge": "Portfolio · Ponad 50 gabinetów dermatologicznych",
-    "heading": "Realne strony dla dermatologii. Mierzalny wzrost.",
+    "heading": "Przykłady stron dermatologicznych",
     "subheading": "Każdy projekt to działająca klinika — od medycyny estetycznej po placówki wielooddziałowe. Indywidualny design, standardy HIPAA oraz SEO, które generuje rezerwacje, a nie tylko liczby.",
     "cta": {
       "start": "Zacznij projekt",

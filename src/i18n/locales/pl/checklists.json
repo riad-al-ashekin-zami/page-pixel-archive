@@ -1,8 +1,21 @@
 {
   "meta": {
-    "title": "Listy kontrolne strony dermatologicznej — wdrożenie, SEO, HIPAA i konwersja",
+    "title": "Listy kontrolne strony dermatologicznej | DWD",
     "description": "Bezpłatne, eksperckie listy kontrolne dla stron z branży dermatologicznej: audyt przed wdrożeniem, SEO, zgodność z HIPAA, dostępność, Core Web Vitals i konwersja. Do druku i monitorowania postępów.",
-    "keywords": "lista kontrolna strony dermatologicznej, SEO dla dermatologii, lista kontrolna HIPAA, wdrożenie strony medycznej, dostępność strony medycznej"
+    "ogTitle": "Listy kontrolne strony dermatologicznej | DWD",
+    "og_title": "Listy kontrolne strony dermatologicznej | DWD",
+    "twitter_title": "Listy kontrolne strony dermatologicznej | DWD",
+    "ogDescription": "Bezpłatne, eksperckie listy kontrolne dla stron z branży dermatologicznej: audyt przed wdrożeniem, SEO, zgodność z HIPAA, dostępność, Core Web Vitals i konwersja. Do druku i monitorowania postępów.",
+    "og_description": "Bezpłatne, eksperckie listy kontrolne dla stron z branży dermatologicznej: audyt przed wdrożeniem, SEO, zgodność z HIPAA, dostępność, Core Web Vitals i konwersja. Do druku i monitorowania postępów.",
+    "twitter_description": "Bezpłatne, eksperckie listy kontrolne dla stron z branży dermatologicznej: audyt przed wdrożeniem, SEO, zgodność z HIPAA, dostępność, Core Web Vitals i konwersja. Do druku i monitorowania postępów.",
+    "og": {
+      "title": "Listy kontrolne strony dermatologicznej | DWD",
+      "description": "Bezpłatne, eksperckie listy kontrolne dla stron z branży dermatologicznej: audyt przed wdrożeniem, SEO, zgodność z HIPAA, dostępność, Core Web Vitals i konwersja. Do druku i monitorowania postępów."
+    },
+    "twitter": {
+      "title": "Listy kontrolne strony dermatologicznej | DWD",
+      "description": "Bezpłatne, eksperckie listy kontrolne dla stron z branży dermatologicznej: audyt przed wdrożeniem, SEO, zgodność z HIPAA, dostępność, Core Web Vitals i konwersja. Do druku i monitorowania postępów."
+    }
   },
   "schema": {
     "breadcrumb": {
